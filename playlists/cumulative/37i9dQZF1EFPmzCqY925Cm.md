@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0vazKoFv2TDrHUfBarjJ0n">Boy Blue</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-64 songs - 2 hr 47 min
+65 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Christmas Ain’t Got Nothing On You](https://open.spotify.com/track/0hMeQ9IyDymEw6xRG0YWfU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Christmas Ain’t Got Nothing On You](https://open.spotify.com/album/0RFPb4HKWwFhbzW9pLHmLX) | 2:43 | 2025-01-28 |  |
 | [Come My Way](https://open.spotify.com/track/7xU32nQT8XfyZG4xcMzb5L) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Come My Way](https://open.spotify.com/album/0VVMgTuT35wo3FWfekyiuu) | 3:33 | 2024-01-29 |  |
 | [Conversations With God](https://open.spotify.com/track/63iNFbS3QgJ3PTBbBrLJ63) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Conversations With God](https://open.spotify.com/album/0LqPlnIZQxWQFWl3qqvVZl) | 3:23 | 2024-01-29 | 2024-04-02 |
+| [cut me](https://open.spotify.com/track/6KrfX0RLQclPUiMt3TypvF) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [cut me](https://open.spotify.com/album/6xPEkn6QjznRqs263Cjht9) | 2:00 | 2025-05-08 |  |
 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 | 2024-01-29 |  |
 | [C’est La Vie](https://open.spotify.com/track/2AYAqt3S3I0LNatVAgcoVK) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [C’est La Vie](https://open.spotify.com/album/2vHsnOZM4N9PgD3orKhtHB) | 3:03 | 2024-01-29 |  |
 | [Die Classic](https://open.spotify.com/track/1hoeH2WEypMiZqrXA7A1kG) | [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [Die Classic](https://open.spotify.com/album/2AaTxD0THPDjS2amHyTyb5) | 2:00 | 2025-01-28 |  |

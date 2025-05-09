@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: LBI利比
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,135 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,242 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 38 | [我爱你但是我要回家](https://open.spotify.com/track/1zLpybgzhdG6KzgG9sRAwE) | [ET](https://open.spotify.com/artist/6L8uYIuAWEDljh6LxP5jMm), [Happer](https://open.spotify.com/artist/6Ljp6ps4Nt9w0WJA8jSTdc), [无面小生](https://open.spotify.com/artist/2Yftm8We3xQFKhndUtuXUr), [口古口古](https://open.spotify.com/artist/6XRGKV1jyYJ5wTJ5S7hxeh) | [我爱你但是我要回家](https://open.spotify.com/album/6MqJXDfjN3dpfS2hH5FeKF) | 3:14 |
 | 39 | [沒有我的以後](https://open.spotify.com/track/4qeJCSBH6FA2tAUcPEDoEl) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [沒有我的以後](https://open.spotify.com/album/2O28M6R3nbe65ej3BzIx0q) | 3:31 |
 | 40 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 |
-| 41 | [岁月里的花](https://open.spotify.com/track/14qby7zvlJaMmoJjn5V3zo) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [岁月里的花](https://open.spotify.com/album/1pmzWvtfZm4t6VbYmU4ikP) | 4:14 |
+| 41 | [歲月裡的花](https://open.spotify.com/track/14qby7zvlJaMmoJjn5V3zo) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [歲月裡的花](https://open.spotify.com/album/1pmzWvtfZm4t6VbYmU4ikP) | 4:14 |
 | 42 | [把你給的愛全部還給你](https://open.spotify.com/track/3iXJ94UA0usAvkMF8Em4v1) | [王泰翔2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [把你給的愛全部還給你](https://open.spotify.com/album/3MR2paemv2NSAqggLR0mJm) | 4:20 |
 | 43 | [想再問你一次](https://open.spotify.com/track/0YqveraOFp5KXGWLpX1EdA) | [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [想再問你一次](https://open.spotify.com/album/5LOADA7R8MZi7nJn099LPx) | 4:52 |
 | 44 | [我知道你也不是那麼快樂](https://open.spotify.com/track/43dXQ2NZFd6ifeQMAlaRkQ) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [我知道你也不是那麼快樂](https://open.spotify.com/album/7r1vUFrQLCu17TVppUiXmr) | 3:19 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-432 songs - 21 hr 58 min
+433 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [My Bird Of Paradise](https://open.spotify.com/track/6QnGlhyHXGKviHGqa14hx2) | [The Peerless Quartet](https://open.spotify.com/artist/7jvpEouxQKGJAJFYwhR9Ec) | [Vintage Quartets](https://open.spotify.com/album/0t60cPO0wBT8PIqIgew0Mt) | 3:19 | 2024-07-26 |  |
 | [My British Buddy](https://open.spotify.com/track/1zGDd5kIazw3D16Id19lhD) | [Original "This is the Army" All\-Soldier Chorus](https://open.spotify.com/artist/5d53G6LEYvgUXA9anRLsD1) | [This is the Army / Call Me Mister](https://open.spotify.com/album/1CZ2958ROaPwzANznHoYii) | 2:50 | 2024-07-26 |  |
 | [My Defenses Are Down](https://open.spotify.com/track/0qAhbmR8gBOD2aGOnan2HW) | [Annie Get Your Gun \- 1999 Broadway Cast](https://open.spotify.com/artist/0w34yGDpcmJF0GK1dp14tw), [Bernadette Peters](https://open.spotify.com/artist/1lIG8lqWxus7LqThGUXMa1), [Tom Wopat](https://open.spotify.com/artist/7vgw2PRsF1Ouh9i7r8bTJu) | [Annie Get Your Gun: The New Broadway Cast Recording](https://open.spotify.com/album/2SxCtvFthZqPOkja0lo6yh) | 3:52 | 2024-07-26 |  |
+| [My Happiness](https://open.spotify.com/track/50EXZCtLwYyFxiGV8v7SuS) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [The Very Best Of Connie Francis \- Connie's 21 Biggest Hits](https://open.spotify.com/album/4bcUfInkGpIdxy530XJFaZ) | 2:27 | 2025-05-08 |  |
 | [My Melody Dream](https://open.spotify.com/track/1PUTHi1XeYei1YTIH7nGRB) | [Paragon Ragtime Orchestra](https://open.spotify.com/artist/4yF9RZa80FC7Er6QjA6RvH), [Bernadette Boerckel](https://open.spotify.com/artist/14IxrKI7SOHwiK5wsJZCSr), [Rick Benjamin](https://open.spotify.com/artist/1ytyC1KEcdOBjVFt0N9Hpz) | [Irving Berlin \- "This Is the Life!"](https://open.spotify.com/album/1nf7tHY0QK5xcLm9uWtZL0) | 2:39 | 2024-07-26 |  |
 | [My Sweet Italian Man](https://open.spotify.com/track/1EbmE2JKIqz30RbqCCz7EF) | [Michael Townsend Wright](https://open.spotify.com/artist/2Pdr83uirdoiEJj2GWs78H), [Joan Jaffe](https://open.spotify.com/artist/20G9FkiiwWsbxVDmOWCpHD) | [Chip Deffaa's Irving Berlin: Love Songs and Such](https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8) | 2:14 | 2024-07-26 |  |
 | [My Sweetie](https://open.spotify.com/track/6k5OeowyIZnJUxx9hE0mA2) | [Giuseppe Bausilio](https://open.spotify.com/artist/0elZBMcdSRBzL7WJctaKNl) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:06 | 2024-07-26 |  |
@@ -322,7 +323,7 @@
 | [Tell Me a Bedtime Story](https://open.spotify.com/track/7aNxRJk1QPPUkGylONFQEg) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Imagine This](https://open.spotify.com/album/2pdT816OGENvHCI3HxTrbv) | 3:55 | 2024-07-26 |  |
 | [Tell Me Little Gypsy](https://open.spotify.com/track/4A8iE9lHnr7FGPdDJqAJz0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Sings The Irving Berlin Songbook](https://open.spotify.com/album/2gFe0K8uKPllO0uxVc8dwD) | 1:42 | 2024-07-26 |  |
 | [Tell Me With a Melody](https://open.spotify.com/track/4sCSQTrAeAJAx6F9Zz8FsM) | [Savoy Havanna Band At The Savoy Hotel](https://open.spotify.com/artist/3BOjo9wVutJkf0j1Y3HWk9) | [Puttin on The Ritz \(The Songs Of Irving Berlin, Vol\. 2\)](https://open.spotify.com/album/73kXrvSybmHzzMRcBT6rzm) | 3:06 | 2024-07-26 |  |
-| [Tequila](https://open.spotify.com/track/020XZ8mDVjzbnmvjL6GKls) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Go Champs Go!](https://open.spotify.com/album/56dcDUhBf8fOnveET5B61r) | 2:15 | 2025-03-15 |  |
+| [Tequila](https://open.spotify.com/track/020XZ8mDVjzbnmvjL6GKls) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Go Champs Go!](https://open.spotify.com/album/56dcDUhBf8fOnveET5B61r) | 2:15 | 2025-03-15 | 2025-05-09 |
 | [That Dying Rag](https://open.spotify.com/track/35Akva6xUyS04dYUW9VLVz) | [Magnus Tonning Riise](https://open.spotify.com/artist/5Be8oM8HzH2V0QnRi9x9Vu) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 2:01 | 2024-07-26 |  |
 | [That Mesmerizing Mendelssohn Tune](https://open.spotify.com/track/1SWC4QfR35jKfozNJBABIv) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Bolcom & Morris](https://open.spotify.com/artist/3TkZyomYqDCAZawzvExcZ7) | [Blue Skies \- Songs Of Irving Berlin](https://open.spotify.com/album/7kZZGWDd2eJIi3AKdPsCFg) | 2:40 | 2024-07-26 |  |
 | [That Mysterious Rag](https://open.spotify.com/track/3763iCIXpKfGjotP8ECRtx) | [Mary Cantoni Johnson](https://open.spotify.com/artist/0rtowPHfKo6ACDTFdb5kw9) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 2:25 | 2024-07-26 |  |

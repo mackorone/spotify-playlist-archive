@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Lo más pegado, lo que más suena, con ustedes..\. Emilia,  Dennis & Luisa Sonza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,000 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,099 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 15 | [DALLAX](https://open.spotify.com/track/4cZiqNmLWLoAx67ENn53YG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DALLAX](https://open.spotify.com/album/2pQAHDH5MCC27Sn9cVKjpM) | 2:30 |
 | 16 | [Te extraño bb](https://open.spotify.com/track/2lx4ERMUBS5XH9FSEf2RX0) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te extraño bb](https://open.spotify.com/album/2zGo1N5ktB9y6qvupvosWC) | 3:32 |
 | 17 | [Mala mujer](https://open.spotify.com/track/073zTN8Cis63eor3cj5TYg) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Mala mujer](https://open.spotify.com/album/0IJI4Rm9utJvf5JuaoDTND) | 3:24 |
-| 18 | [Tattoo \- Remix](https://open.spotify.com/track/56yAIzNg5SAbUKUKR9UXmf) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Renzo Luca](https://open.spotify.com/artist/3qJn7VaFAHdWmm9IpZaHEc) | [Tattoo \(Remix\)](https://open.spotify.com/album/64C5QZJEp9Y81zt6XilwwN) | 2:38 |
+| 18 | [Tattoo \- Remix](https://open.spotify.com/track/56yAIzNg5SAbUKUKR9UXmf) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Tattoo \(Remix\)](https://open.spotify.com/album/64C5QZJEp9Y81zt6XilwwN) | 2:38 |
 | 19 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |
 | 20 | [Chica Brasileña Remix](https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [Chica Brasileña Remix](https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC) | 2:47 |
 | 21 | [Cuidado Que Te Supero](https://open.spotify.com/track/1e4Tx54QsKMoHdHsZCEFM3) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Cuidado Que Te Supero](https://open.spotify.com/album/4W2q8WrlRkTXxo3W8iUNtQ) | 2:34 |

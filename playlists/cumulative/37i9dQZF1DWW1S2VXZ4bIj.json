@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jeff Satur",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Timethai",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 159192,
       "name": "Chill",
       "url": "https://open.spotify.com/track/0jLunknItK9AujRCUYkVhn"
@@ -1662,6 +1662,28 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "album": {
+        "name": "Messy (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179055,
+      "name": "Messy (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
     },
     {
       "album": {
@@ -2772,7 +2794,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 204293,
       "name": "TOXIQUE",
       "url": "https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m"
@@ -3760,7 +3782,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 224482,
       "name": "\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c (Forever)",
       "url": "https://open.spotify.com/track/3Gg2hfk9p4YschDqIVfSG2"
@@ -4943,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259285,
+      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
       },
@@ -5042,6 +5082,24 @@
       "duration_ms": 186466,
       "name": "\u0e1e\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e2b\u0e19\u0e39\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
       "url": "https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e39\u0e14\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e08\u0e33 \u0e17\u0e33\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (SAME AGAIN)",
+        "url": "https://open.spotify.com/album/3GNuDVcOBOMm4L6TcfaFsJ"
+      },
+      "artists": [
+        {
+          "name": "Timethai",
+          "url": "https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "\u0e1e\u0e39\u0e14\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e08\u0e33 \u0e17\u0e33\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (SAME AGAIN)",
+      "url": "https://open.spotify.com/track/1scf7fXKBaF1PPM3ej4sxK"
     },
     {
       "album": {
@@ -7054,7 +7112,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 252537,
       "name": "\u0e41\u0e2a\u0e07\u0e14\u0e32\u0e27",
       "url": "https://open.spotify.com/track/1iAAhFn93RLWwxGczKBAvV"
@@ -7260,6 +7318,24 @@
       "duration_ms": 245000,
       "name": "\u0e43\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e19\u0e32\u0e22 \u0e01\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e1a\u0e48\u0e32\u0e27",
       "url": "https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e01\u0e25\u0e01\u0e27\u0e48\u0e32\u0e14\u0e32\u0e27 (Million Light-Years)",
+        "url": "https://open.spotify.com/album/6USjhvo2kxlFA9cyEBgw6m"
+      },
+      "artists": [
+        {
+          "name": "FREEHAND",
+          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284389,
+      "name": "\u0e44\u0e01\u0e25\u0e01\u0e27\u0e48\u0e32\u0e14\u0e32\u0e27 (Million Light-Years)",
+      "url": "https://open.spotify.com/track/70pOmngGTSMHPjgIqVRFsI"
     },
     {
       "album": {

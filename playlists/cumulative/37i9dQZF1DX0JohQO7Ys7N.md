@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Wendy Kay
 
-268 songs - 14 hr 59 min
+269 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Everywhere \(Original Recording\)](https://open.spotify.com/track/277dO6aTPlt9aBGunY04iD) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Everywhere \(Original Recording\)](https://open.spotify.com/album/6Y3P6vyFq4PFQVObr83u33) | 4:25 | 2022-09-22 | 2023-12-16 |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2021-12-28 | 2024-05-17 |
 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 | 2024-04-25 | 2025-03-28 |
-| [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-09-26 |  |
+| [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-09-26 | 2025-05-09 |
 | [Fantasy](https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:30 | 2022-05-26 | 2022-07-01 |
 | [Feel](https://open.spotify.com/track/5J1xo1NeFeSNgxtXajRBZL) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:01 | 2024-04-25 |  |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-03-03 | 2022-07-23 |
@@ -276,5 +276,6 @@
 | [Wimbo Wetu](https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Wimbo Wetu](https://open.spotify.com/album/3XbVKuy8YmoHYwqXoVRvBr) | 4:26 | 2023-07-07 | 2024-11-22 |
 | [Window \(Red\)](https://open.spotify.com/track/53UTnaVi48tv6mv0DoLm4A) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 3:12 | 2022-09-30 | 2024-02-02 |
 | [Your Name](https://open.spotify.com/track/2nyrEsGC9YRHIug4Sy2YNG) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [The Love Sessions EP](https://open.spotify.com/album/2Xg6m00evfyyHtYc7hCzPa) | 4:47 | 2021-12-28 | 2023-02-04 |
+| [YULE](https://open.spotify.com/track/6NiflTnFy28TWoJ38hhOwE) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [YULE](https://open.spotify.com/album/642VMRRRVvPJFCnQ3lkgaY) | 3:04 | 2025-05-08 |  |
 
 \*This playlist was first scraped on 2022-02-24. Prior content cannot be recovered.

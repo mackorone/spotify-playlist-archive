@@ -3338,7 +3338,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-16",
+      "date_removed": null,
       "duration_ms": 167800,
       "name": "Discord",
       "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
@@ -3660,7 +3660,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 134533,
       "name": "Dream is Beautiful",
       "url": "https://open.spotify.com/track/2JfxzjkeipBe5eik3ExS40"
@@ -6712,7 +6712,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 150269,
       "name": "I \u2260 DOLL",
       "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
@@ -10516,7 +10516,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 226653,
       "name": "Our old bar",
       "url": "https://open.spotify.com/track/1Bz4dIHlGcdffwQeanGYiC"
@@ -12446,7 +12446,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 217711,
       "name": "Scentria Forest",
       "url": "https://open.spotify.com/track/10pKtFhaP67u3870jeMd7v"
@@ -16855,6 +16855,28 @@
     },
     {
       "album": {
+        "name": "AAA LIVE",
+        "url": "https://open.spotify.com/album/1kmMYuRIbaPilQUiyI040g"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363201,
+      "name": "Young Man",
+      "url": "https://open.spotify.com/track/7JdErqdbdkxAxxPSZXu9a1"
+    },
+    {
+      "album": {
         "name": "UP",
         "url": "https://open.spotify.com/album/3BKgpuuOu0PIb2aYfk2p1O"
       },
@@ -17050,7 +17072,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 265983,
       "name": "\u200eGood Night Good Dream",
       "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"
@@ -17414,7 +17436,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 222040,
       "name": "\uc791\uc740 \ubd04",
       "url": "https://open.spotify.com/track/6EIejWXtCAxXCPrxID1VFq"

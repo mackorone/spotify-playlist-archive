@@ -443,6 +443,26 @@
     {
       "added_at": "2025-03-08 23:00:20",
       "album": {
+        "name": "Underbart",
+        "url": "https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ"
+      },
+      "artists": [
+        {
+          "name": "Kalle Moraeus",
+          "url": "https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW"
+        },
+        {
+          "name": "Orsa Spelm\u00e4n",
+          "url": "https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Underbart",
+      "url": "https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0"
+    },
+    {
+      "added_at": "2025-03-08 23:00:20",
+      "album": {
         "name": "Where You Are (S\u00e1ve\u017ean)",
         "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
-    },
-    {
-      "added_at": "2025-03-08 23:00:20",
-      "album": {
-        "name": "Underbart",
-        "url": "https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ"
-      },
-      "artists": [
-        {
-          "name": "Kalle Moraeus",
-          "url": "https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW"
-        },
-        {
-          "name": "Orsa Spelm\u00e4n",
-          "url": "https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Underbart",
-      "url": "https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0"
     },
     {
       "added_at": "2025-03-08 23:00:20",

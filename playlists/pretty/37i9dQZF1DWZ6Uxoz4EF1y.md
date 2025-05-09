@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,599 likes - 100 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,691 likes - 100 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 57 | [Barra Libre](https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj), [Mariana Michelle](https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU) | [Barra Libre](https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ) | 3:26 |
 | 58 | [Alegre](https://open.spotify.com/track/3XsU69qdOCd5KCc3TrmzHT) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Alegre](https://open.spotify.com/album/0I2MOp31kLaLwpermDclkX) | 2:49 |
 | 59 | [Me Enseñas](https://open.spotify.com/track/3sbidBb8NqRMqWnLyjGULM) | [Carlos Omar](https://open.spotify.com/artist/6h3lF5lLoo8wGMB4C8SaiY) | [Me Enseñas](https://open.spotify.com/album/06AE1ZqiGC2tkxjsGlQqr1) | 4:31 |
-| 60 | [Tu presencia es el Cielo](https://open.spotify.com/track/2iBDNtyifH3CtG7Y5VDeAz) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 8:30 |
-| 61 | [Fue por Mí](https://open.spotify.com/track/3xwknbtAM3zGiFgrzYwTjj) | [Xiomara Henao](https://open.spotify.com/artist/3LvHWTcbbQBhD5rGqIfv7f) | [Fue por Mí](https://open.spotify.com/album/6NvTZyF4yYkVRareVc86Oy) | 3:54 |
-| 62 | [Entronado en una Cruz](https://open.spotify.com/track/29RWjEH4ZBZnjAtxIEp8XN) | [Omar Campos](https://open.spotify.com/artist/2lbWAx5Qo5D7TAbdMZjHNV) | [Entronado en una Cruz](https://open.spotify.com/album/45iL4tlHx1nU2KCqEKWV42) | 5:13 |
-| 63 | [Redención](https://open.spotify.com/track/4e79KvvwvzThUpiWsrBK9S) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Redención](https://open.spotify.com/album/611GELGy0l0KlU2LOlr7lc) | 5:10 |
-| 64 | [Corazón Agradecido \- en vivo](https://open.spotify.com/track/7pvBh7VQZXiHlf7cFZKii0) | [Michael Hernandez](https://open.spotify.com/artist/5LCmAD8g7CEhkxW30nqzHV) | [Corazón Agradecido \(en vivo\)](https://open.spotify.com/album/21S05ug1Y4qRx3HFS7Hi5B) | 3:53 |
+| 60 | [Fue por Mí](https://open.spotify.com/track/3xwknbtAM3zGiFgrzYwTjj) | [Xiomara Henao](https://open.spotify.com/artist/3LvHWTcbbQBhD5rGqIfv7f) | [Fue por Mí](https://open.spotify.com/album/6NvTZyF4yYkVRareVc86Oy) | 3:54 |
+| 61 | [Entronado en una Cruz](https://open.spotify.com/track/29RWjEH4ZBZnjAtxIEp8XN) | [Omar Campos](https://open.spotify.com/artist/2lbWAx5Qo5D7TAbdMZjHNV) | [Entronado en una Cruz](https://open.spotify.com/album/45iL4tlHx1nU2KCqEKWV42) | 5:13 |
+| 62 | [Tu presencia es el Cielo](https://open.spotify.com/track/2iBDNtyifH3CtG7Y5VDeAz) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 8:30 |
+| 63 | [Corazón Agradecido \- en vivo](https://open.spotify.com/track/7pvBh7VQZXiHlf7cFZKii0) | [Michael Hernandez](https://open.spotify.com/artist/5LCmAD8g7CEhkxW30nqzHV) | [Corazón Agradecido \(en vivo\)](https://open.spotify.com/album/21S05ug1Y4qRx3HFS7Hi5B) | 3:53 |
+| 64 | [Redención](https://open.spotify.com/track/4e79KvvwvzThUpiWsrBK9S) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Redención](https://open.spotify.com/album/611GELGy0l0KlU2LOlr7lc) | 5:10 |
 | 65 | [Digno Y Santo](https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 8:48 |
 | 66 | [Exagerado Amor](https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 4:39 |
 | 67 | [Su Sangre \- Radio Edit](https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um), [Jorge Caicedo](https://open.spotify.com/artist/2AahrkcBJ0W6cUW7zv8Y0P) | [Su Sangre](https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp) | 5:49 |

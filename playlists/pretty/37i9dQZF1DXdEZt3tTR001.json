@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 197967,
+  "num_followers": 198060,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-04-30 20:17:34",
       "album": {
-        "name": "Praise Jah In The Moonlight",
-        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
-      },
-      "artists": [
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Praise Jah In The Moonlight",
-      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
-    },
-    {
-      "added_at": "2025-04-30 20:17:34",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+    },
+    {
+      "added_at": "2025-04-30 20:17:34",
+      "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
       "added_at": "2025-04-30 20:17:34",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-04-30 20:17:34",
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 174999,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/5Lf2llKUYgSakzMejYowOu"
-    },
-    {
-      "added_at": "2025-04-30 20:17:34",
-      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 270893,
       "name": "Wish I Didn't Miss You",
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+    },
+    {
+      "added_at": "2025-04-30 20:17:34",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 174999,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5Lf2llKUYgSakzMejYowOu"
     },
     {
       "added_at": "2025-04-30 20:17:34",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-04-30 20:17:34",
       "album": {
+        "name": "Lyfe 268-192",
+        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
+      },
+      "artists": [
+        {
+          "name": "Lyfe Jennings",
+          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
+        }
+      ],
+      "duration_ms": 233440,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
+    },
+    {
+      "added_at": "2025-04-30 20:17:34",
+      "album": {
         "name": "In Limbo",
         "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 195600,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
-    },
-    {
-      "added_at": "2025-04-30 20:17:34",
-      "album": {
-        "name": "Lyfe 268-192",
-        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
-      },
-      "artists": [
-        {
-          "name": "Lyfe Jennings",
-          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
-        }
-      ],
-      "duration_ms": 233440,
-      "name": "Must Be Nice",
-      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
     },
     {
       "added_at": "2025-04-30 20:17:34",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-04-30 20:17:34",
       "album": {
+        "name": "1st Born Second",
+        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Soul Sista",
+      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
+    },
+    {
+      "added_at": "2025-04-30 20:17:34",
+      "album": {
         "name": "Slow It Down (with Cruza & Isaiah Falls)",
         "url": "https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 146594,
       "name": "Slow It Down (with Cruza & Isaiah Falls)",
       "url": "https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU"
-    },
-    {
-      "added_at": "2025-04-30 20:17:34",
-      "album": {
-        "name": "1st Born Second",
-        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
-      },
-      "artists": [
-        {
-          "name": "Bilal",
-          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Soul Sista",
-      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
     },
     {
       "added_at": "2025-04-30 20:17:34",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: Our Shame (\u51f9\u8207\u5c71) ",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: \u5b89\u5409 (ANGIE) ",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -1366,6 +1366,24 @@
       "duration_ms": 254809,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/7GktXg7ifhEjxjuwxFOwTw"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/0h5NKR8z0YXTiCAQ8d1lPf"
+      },
+      "artists": [
+        {
+          "name": "Toxic Wraith",
+          "url": "https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/63MgphKbPEc1dE3mBADc0V"
     },
     {
       "album": {
@@ -3003,6 +3021,24 @@
     },
     {
       "album": {
+        "name": "Litchi Red",
+        "url": "https://open.spotify.com/album/0otNdk9nGnf02BgnjWdSH6"
+      },
+      "artists": [
+        {
+          "name": "Yokkorio",
+          "url": "https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186669,
+      "name": "Litchi Red",
+      "url": "https://open.spotify.com/track/0rCaItAeve5mL7mQzDqLD9"
+    },
+    {
+      "album": {
         "name": "Little Battle",
         "url": "https://open.spotify.com/album/1NCB6fYczTAYv1hgbAL3ia"
       },
@@ -3901,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "One Hour (\u96fb\u8996\u5287\u300a\u6210\u529f\u8def\u4e0a\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/4iKcz2G5o6If5elkMfDGq5"
+      },
+      "artists": [
+        {
+          "name": "ANGIE\u5b89\u5409",
+          "url": "https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "One Hour - \u96fb\u8996\u5287\u300a\u6210\u529f\u8def\u4e0a\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/74apUuabRBxw6utDvm9e0H"
+    },
+    {
+      "album": {
         "name": "WHAT'S UP WHAT'S GOOD Vol.1",
         "url": "https://open.spotify.com/album/4ZFZpN3WSf2ai8gpmgDl6F"
       },
@@ -4270,7 +4324,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 183750,
       "name": "Pink Diamond",
       "url": "https://open.spotify.com/track/68zzrBYFcsm3psVEaKn5Lj"
@@ -4624,7 +4678,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 258358,
       "name": "SATURDAYS VIBRATIONS",
       "url": "https://open.spotify.com/track/41NuvXlcbzOK98Zu6Bv3wy"
@@ -5944,7 +5998,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 144843,
       "name": "Watch Your Back",
       "url": "https://open.spotify.com/track/1TWFLAtCNo2oRMIgDi4n2u"

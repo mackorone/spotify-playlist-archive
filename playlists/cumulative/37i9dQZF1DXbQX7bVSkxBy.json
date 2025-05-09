@@ -1274,6 +1274,24 @@
     {
       "album": {
         "name": "Congratulations",
+        "url": "https://open.spotify.com/album/6m3MgWRKFrghRVnf9wobHW"
+      },
+      "artists": [
+        {
+          "name": "Babades",
+          "url": "https://open.spotify.com/artist/7msCT458LqvoGip8qRTZ2j"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/1iG4JEDsHnCrE3xTfuMj6F"
+    },
+    {
+      "album": {
+        "name": "Congratulations",
         "url": "https://open.spotify.com/album/4WM4SgukPTr9ZRXzkIzD36"
       },
       "artists": [
@@ -7904,7 +7922,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 574838,
       "name": "Yahweh (Godiya Gareka)",
       "url": "https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C"

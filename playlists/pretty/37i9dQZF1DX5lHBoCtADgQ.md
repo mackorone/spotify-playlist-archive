@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,353 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,368 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 9 | [Tappe \- From "Rabb Da Radio 2"](https://open.spotify.com/track/30wnxjw4ud9pwuTKSdoqAY) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Tappe \(From "Rabb Da Radio 2"\)](https://open.spotify.com/album/1qQbdooXXwN1ksUhlTXkyd) | 3:26 |
 | 10 | [Bhabi Deeva Jagaa](https://open.spotify.com/track/5IRWPGELNTM5v2Q1TtpvnG) | [Kulbir](https://open.spotify.com/artist/3HsgSigLkDYgaRTXPJN6wQ) | [Tenun Nachdi Vekh Ke](https://open.spotify.com/album/6eHLWh096syVyuxxCbdOnQ) | 4:59 |
 | 11 | [Kleriyaa Mora](https://open.spotify.com/track/3bFDMq8a1HOemL91NG9Ipg) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf) | [Kleriyaa Mora](https://open.spotify.com/album/0IgcdYiFdbRj0aeHLV5AcR) | 2:45 |
-| 12 | [Kut Kut Bajra](https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kut Kut Bajra](https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93) | 2:35 |
-| 13 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/09cKiNMeQBxtWE3l0VJiAi) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/4hBesI9nEwYhRcoPFaAwSI) | 3:56 |
+| 12 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/09cKiNMeQBxtWE3l0VJiAi) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/4hBesI9nEwYhRcoPFaAwSI) | 3:56 |
+| 13 | [Kut Kut Bajra](https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kut Kut Bajra](https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93) | 2:35 |
 | 14 | [Gidda](https://open.spotify.com/track/6yAhxwmFN24AlXxloASVD6) | [Satwant Kaur](https://open.spotify.com/artist/3q3BQzCBV9zDEC2KouwmP4), [Kudrat Kaur](https://open.spotify.com/artist/2AS8kPljekqO3AMBJylyop) | [Darra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12PVaEbyDEXApwa2DJvEn1) | 5:58 |
 | 15 | [Ik Jogi aa Gya](https://open.spotify.com/track/2rk1APwyNw3H0BmfiONgyu) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf), [Parwaaz Gill](https://open.spotify.com/artist/5jmBUt1mJQmrCriEgOJSFM), [Karanvir Klair](https://open.spotify.com/artist/7eCmvzU59pXo2zmjAlcRFz) | [Ik Jogi aa Gya](https://open.spotify.com/album/4m5xMq1O6qZVU35zIcUDxi) | 4:46 |
 | 16 | [Yaar Da Deedar](https://open.spotify.com/track/4O80V1njTN0UR7zOoAPcMz) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Yaar Da Deedar](https://open.spotify.com/album/1kmdcWwbSifyKdDBHPLu2O) | 2:43 |

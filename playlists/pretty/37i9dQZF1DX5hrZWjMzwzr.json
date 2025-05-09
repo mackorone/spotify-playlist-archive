@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10948,
+  "num_followers": 10944,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,26 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "PO CO?",
+        "url": "https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "Kaptur",
+          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "PO CO?",
+      "url": "https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 184864,
       "name": "PG$",
       "url": "https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "PO CO?",
-        "url": "https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH"
-      },
-      "artists": [
-        {
-          "name": "Kinny Zimmer",
-          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
-        },
-        {
-          "name": "Kaptur",
-          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "PO CO?",
-      "url": "https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -383,26 +383,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "DAM CI PORADY",
-        "url": "https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W"
-      },
-      "artists": [
-        {
-          "name": "vkie",
-          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
-        },
-        {
-          "name": "Gmeniu",
-          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "DAM CI PORADY",
-      "url": "https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "1 na 100",
         "url": "https://open.spotify.com/album/1eMRkYLNzESSOcItnPYyvW"
       },
@@ -431,22 +411,22 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "TTHE GRIND",
-        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+        "name": "DAM CI PORADY",
+        "url": "https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W"
       },
       "artists": [
         {
-          "name": "Otsochodzi",
-          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
         },
         {
-          "name": "lohleq",
-          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+          "name": "Gmeniu",
+          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
         }
       ],
-      "duration_ms": 156387,
-      "name": "RAP",
-      "url": "https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7"
+      "duration_ms": 209577,
+      "name": "DAM CI PORADY",
+      "url": "https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -479,6 +459,26 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "RAP",
+      "url": "https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "TRAP OR DIE",
         "url": "https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "STRZELAM PETEM",
-        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
-      },
-      "artists": [
-        {
-          "name": "Guzior",
-          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "STRZELAM PETEM",
-      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "GENERACJA CUZI",
         "url": "https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 113333,
       "name": "GENERACJA CUZI",
       "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "STRZELAM PETEM",
+        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "STRZELAM PETEM",
+      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "DresKot",
-        "url": "https://open.spotify.com/album/2ihF9wkzHATrtn42gNB0uD"
-      },
-      "artists": [
-        {
-          "name": "Paluch",
-          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "DresKot",
-      "url": "https://open.spotify.com/track/4qTdBXG8gJPVd07jVzuDIY"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "ZBUNTOWANI",
         "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 178666,
       "name": "ZBUNTOWANI",
       "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "DresKot",
+        "url": "https://open.spotify.com/album/2ihF9wkzHATrtn42gNB0uD"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "DresKot",
+      "url": "https://open.spotify.com/track/4qTdBXG8gJPVd07jVzuDIY"
     },
     {
       "added_at": "2025-04-24 21:35:46",

@@ -184,7 +184,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 120028,
       "name": "Amour De Ma Vie (Nmout 3liek)",
       "url": "https://open.spotify.com/track/6ot0Ttc1m1nw5z4Tipggk9"
@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 146557,
       "name": "Arif Inou",
       "url": "https://open.spotify.com/track/6ycqSprB2ImMdNtnVuVj9N"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 172888,
       "name": "Buonasera (feat. Soolking)",
       "url": "https://open.spotify.com/track/59j4pfjQ4liajRkL5QuChD"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 131124,
       "name": "Como Tu",
       "url": "https://open.spotify.com/track/3uKwrJ8mXJdWsxYFxKLCKP"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 142800,
       "name": "El 7ob Sa3b",
       "url": "https://open.spotify.com/track/4MN8tKKz1Sld1OhJPemc5G"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Harami",
       "url": "https://open.spotify.com/track/6y7TE1grW4UhMzpsHF5wCp"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 138536,
       "name": "Lik Ou Lia",
       "url": "https://open.spotify.com/track/2snEwuyP4QCZC5y97R67hb"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 181747,
       "name": "Ma Beaut\u00e9",
       "url": "https://open.spotify.com/track/5LUoVGfKb1eYwVvAIB1RxB"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 217103,
       "name": "Mentalit\u00e9",
       "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 158987,
       "name": "Mok ya mok",
       "url": "https://open.spotify.com/track/5JobkufjKtdGgCASCaOGCP"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 182970,
       "name": "M\u00e9t\u00e9o",
       "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 254693,
       "name": "No Money",
       "url": "https://open.spotify.com/track/3e0yFn74MouCqsAxTCKOUf"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 220013,
       "name": "Oh qu'elle est belle",
       "url": "https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 204695,
       "name": "Paro",
       "url": "https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi"
@@ -2311,6 +2311,28 @@
     },
     {
       "album": {
+        "name": "RS6",
+        "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228017,
+      "name": "RS6",
+      "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
+    },
+    {
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/0T0nzA4p3Ma3CK8WUBCPWM"
       },
@@ -2340,7 +2362,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 141762,
       "name": "Salam",
       "url": "https://open.spotify.com/track/5CUJniXQzNd6p6fQgRP8FL"
@@ -2486,7 +2508,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 188968,
       "name": "Sokkar",
       "url": "https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW"
@@ -2508,7 +2530,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 179093,
       "name": "Solo (feat. Tayc)",
       "url": "https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi"
@@ -2610,7 +2632,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 161506,
       "name": "Tek Tek (feat. MHD)",
       "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"
@@ -2863,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "Ya Doctor",
+        "url": "https://open.spotify.com/album/7ljOEAwRwr40Vfqodl2OxQ"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152424,
+      "name": "Ya Doctor",
+      "url": "https://open.spotify.com/track/71zw3E3cXkkM0EHk25TgLW"
+    },
+    {
+      "album": {
         "name": "Ya Habibi",
         "url": "https://open.spotify.com/album/3pTpbCY8ubsEkzACkIUItA"
       },
@@ -2900,7 +2940,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 130731,
       "name": "Ya Nari",
       "url": "https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug"
@@ -2940,7 +2980,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 175497,
       "name": "Ya zina",
       "url": "https://open.spotify.com/track/2z40IRNtq5smsWqHeksIPx"
@@ -2962,7 +3002,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 191659,
       "name": "Yemma",
       "url": "https://open.spotify.com/track/6weM3NHta6Zi0P4uyEus29"
@@ -2980,7 +3020,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 162185,
       "name": "Ykoun Li Ykoun",
       "url": "https://open.spotify.com/track/6NMJafTjSDcjwX3rYwvSug"
@@ -3082,7 +3122,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 159299,
       "name": "\u00c7a c'est bien",
       "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
@@ -3104,7 +3144,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-14",
+      "date_removed": null,
       "duration_ms": 171193,
       "name": "\u00c9coute Moi",
       "url": "https://open.spotify.com/track/39BRscIkSE49Royu0tBlox"

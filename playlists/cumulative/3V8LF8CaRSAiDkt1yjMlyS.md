@@ -4,7 +4,7 @@
 
 > 
 
-195 songs - 10 hr 17 min
+197 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1000 Miles](https://open.spotify.com/track/4g4iSLrHZjWFAjvi6g9T8Z) | [Sean Stephens](https://open.spotify.com/artist/0QbI65VwQiRpHKqkEdobGM) | [1000 Miles](https://open.spotify.com/album/55Am28AJFk8BRPZiocqUyz) | 1:56 | 2025-03-04 | 2025-03-27 |
 | [3 A.M.](https://open.spotify.com/track/72OeZx5sjUNVmU9UcgS3tw) | [Jaden Rivers](https://open.spotify.com/artist/1dFOsKx4P9gg22CZ9Co2Ts) | [3 A.M.](https://open.spotify.com/album/4r6zSHKej9d0sZE3QwyDdU) | 2:11 | 2025-05-01 |  |
 | [7 Weeks & 3 Days](https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:14 | 2023-01-13 |  |
-| [<3](https://open.spotify.com/track/3mizbMuFHhqJwQIoEwmnGn) | [Oktobyr](https://open.spotify.com/artist/6v1jG72A5RDXB4UcuzFkKL) | [20TWENTYONE](https://open.spotify.com/album/22uYoK2dySadbsANtNDD09) | 3:58 | 2025-03-10 |  |
+| [<3](https://open.spotify.com/track/3mizbMuFHhqJwQIoEwmnGn) | [Oktobyr](https://open.spotify.com/artist/6v1jG72A5RDXB4UcuzFkKL) | [20TWENTYONE](https://open.spotify.com/album/22uYoK2dySadbsANtNDD09) | 3:58 | 2025-03-10 | 2025-05-09 |
 | [A Love Song](https://open.spotify.com/track/3qi9p1dFlp687667d1n3kj) | [Jeremy Hines](https://open.spotify.com/artist/5ZtcY72Q8tDQv8OUEykYMn), [Jelayne](https://open.spotify.com/artist/0YOOUGJYrHdcTTuURiNzZS), [Dana Rose](https://open.spotify.com/artist/5PbjmNVXVFk6n7J5r9eZp0) | [A Love Song](https://open.spotify.com/album/41vdgyRsJNvBpEOt1OKGqF) | 2:42 | 2025-02-28 | 2025-04-03 |
 | [A Voice from Afar](https://open.spotify.com/track/3aZYpIYjqbbyE1R1QWvbkX) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB) | [Back to Myself](https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e) | 2:54 | 2024-12-10 |  |
 | [Absent](https://open.spotify.com/track/5xFCvuQljmExMweJdsHFsA) | [SHIKO](https://open.spotify.com/artist/2iPDY2fsrFaWhd4f0mQrZD) | [Absent](https://open.spotify.com/album/5skAjxo3bQZLUFI0P4JQCC) | 2:54 | 2025-03-27 |  |
@@ -25,7 +25,9 @@
 | [Answering Machine](https://open.spotify.com/track/3boC2M1D82RuRJhUOkSHtg) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 5:09 | 2023-09-25 |  |
 | [Army Dreamers](https://open.spotify.com/track/6OmdWLjlx4BIDGEO8BZlqH) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever](https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws) | 2:58 | 2024-08-15 |  |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2024-03-04 |  |
+| [Asborne Letters \(Rogue VHS Remix\)](https://open.spotify.com/track/1RzRdxu2bNtBeJZVq6QtJf) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB), [Finn Lavo](https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR), [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Ashborne Letters \(Rogue VHS Remix\)](https://open.spotify.com/album/56n3K0wyjHso4L4FjSkgnf) | 2:57 | 2025-05-08 |  |
 | [Ashborne Letters](https://open.spotify.com/track/5cTG0D5lVSsWmXnKBcvRzf) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB), [Finn Lavo](https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR) | [DUSKWEAVER](https://open.spotify.com/album/2SK2qhrt9TyRB1lEdxibcZ) | 2:43 | 2025-01-20 |  |
+| [Ashborne Letters \(Rogue VHS Remix\) \- Slowed](https://open.spotify.com/track/3Zq1rz15u9rbWtE5Ngq73T) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB), [Finn Lavo](https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR), [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Ashborne Letters \(Rogue VHS Remix\)](https://open.spotify.com/album/56n3K0wyjHso4L4FjSkgnf) | 3:19 | 2025-05-08 |  |
 | [Away](https://open.spotify.com/track/2NaGl56lq71UMzDSI8jmJ3) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 2:42 | 2023-05-26 |  |
 | [Back to Myself](https://open.spotify.com/track/1ElyI0fk1FJAscrGs3F8Wu) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB) | [Back to Myself](https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e) | 3:00 | 2024-12-10 |  |
 | [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 | 2023-09-02 |  |

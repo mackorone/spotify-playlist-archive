@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU?si=6nmcryMWQAa5QswAJym64g">Moozlie</a>
+> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp?si=GkmDbG\_\_Q5mT\_\_AGj3ALaA">saveHXPE</a>, <a href="https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s?si=mipdSxzVRMSPlgozQL6fgQ">Baby Daiz</a>
 
-952 songs - 2 day 2 hr 43 min
+953 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [4am](https://open.spotify.com/track/0a5z5IAC1kssY9gKvBDsW9) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4am](https://open.spotify.com/album/12Xqw4xIfcWk6ESdetl9YD) | 3:11 | 2024-01-25 | 2024-06-28 |
 | [7am in School](https://open.spotify.com/track/3ySk8c7k9qsHP3eSB6gi4d) | [Souloho](https://open.spotify.com/artist/3hBV3vYyb4kAxFfCevJjjg), [Cardo Hills](https://open.spotify.com/artist/2TZJHN1n7AGSr8sBUfmKFr), [Blxst](https://open.spotify.com/artist/4V3AP6boVXbH8sxkeH1zxB) | [7am in School](https://open.spotify.com/album/3dsUp2SQCMTKIUb1z5Umhm) | 3:05 | 2022-08-18 | 2022-09-16 |
 | [80's Love](https://open.spotify.com/track/0nN4AmUQe1h2jCC1Z8rjG8) | [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [Brittney Crush](https://open.spotify.com/artist/43Oq0Lvc8IfW0vRTnIQ53z) | [80's Love](https://open.spotify.com/album/6ikzhi2Y1rW1gsyljgWQ57) | 3:19 | 2023-10-13 | 2024-04-19 |
+| [80s Baby](https://open.spotify.com/track/3mxXNygvZs5bqllnVHbaqg) | [saveHXPE](https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [80s Baby](https://open.spotify.com/album/4iEltpFUDhyfwcVBz60J5D) | 3:22 | 2025-05-09 |  |
 | [818 Headband](https://open.spotify.com/track/10hU6ly63aZzgu13YwoIUb) | [Skys a Blu](https://open.spotify.com/artist/3xMYjNtDQl2dviQ5g6EuRc) | [818 Headband](https://open.spotify.com/album/6KOtgLAM8DwFPyLCeNMRK8) | 3:14 | 2022-04-30 | 2022-05-20 |
 | [911](https://open.spotify.com/track/2cbBvngmKSdHIadsVLBObM) | [Taura Montana](https://open.spotify.com/artist/3nHAIiYB7ixCIPUIpXbvHu), [Horid The Messiah](https://open.spotify.com/artist/527Bif2FIESnEMUJeRbeIQ), [MOËTT](https://open.spotify.com/artist/0iyiD7Z1iDyjQs4oVRz3b4) | [911](https://open.spotify.com/album/3SbcZyoak3HzRrhcyDKXyT) | 2:36 | 2025-02-28 |  |
 | [942 \(Chamomile Session\)](https://open.spotify.com/track/60p9e97nf4eIyWG0gRVaOe) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [942 \(Chamomile Session\)](https://open.spotify.com/album/7DmXtB3tz7CMhEUaYlYwN5) | 3:01 | 2022-02-10 | 2022-07-09 |

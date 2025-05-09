@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Black & White",
+        "url": "https://open.spotify.com/album/5Zy4k7c64HQLTANXyc2RE2"
+      },
+      "artists": [
+        {
+          "name": "ZIDDO",
+          "url": "https://open.spotify.com/artist/4XE8kpT8vOyemOlkfzPJnc"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464508,
+      "name": "Black & White",
+      "url": "https://open.spotify.com/track/2eSzoMXTKG0holiYMG6XV1"
+    },
+    {
+      "album": {
         "name": "Lost In Nairobi",
         "url": "https://open.spotify.com/album/1VbU9VqEzQFQp2we8qk5c8"
       },
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 381598,
       "name": "Erro Pt II",
       "url": "https://open.spotify.com/track/1KLQ4j2Krqvebva7FUnBv3"
@@ -2029,6 +2047,28 @@
     },
     {
       "album": {
+        "name": "Juu ayu yotee (Above All)",
+        "url": "https://open.spotify.com/album/1rxVUPvvGOM9thTzz4Yz7O"
+      },
+      "artists": [
+        {
+          "name": "PA NGU",
+          "url": "https://open.spotify.com/artist/6sMU60D1GkWWUbBRjt1xFO"
+        },
+        {
+          "name": "BuRGMan Strum",
+          "url": "https://open.spotify.com/artist/2TdYLH3Qf4N71iEQLx5nta"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496000,
+      "name": "Juu ayu yotee (Above All)",
+      "url": "https://open.spotify.com/track/1BSPeg5Gc9owphBSFKACuQ"
+    },
+    {
+      "album": {
         "name": "Kamweretho",
         "url": "https://open.spotify.com/album/69cfR9Rdbe7TBqppvRk12t"
       },
@@ -2276,7 +2316,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 421841,
       "name": "Kwame",
       "url": "https://open.spotify.com/track/3i4453bsXSZOkdeYxfsNbX"
@@ -2988,7 +3028,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 372031,
       "name": "Muntu Wami (Afro Mix)",
       "url": "https://open.spotify.com/track/6SKzLLHi0twVKwZmNZuLa7"
@@ -5040,6 +5080,24 @@
       "duration_ms": 373148,
       "name": "Umoya Wami",
       "url": "https://open.spotify.com/track/1R7qdtlbSSYtJ7Aez5Pd2C"
+    },
+    {
+      "album": {
+        "name": "Umsindo",
+        "url": "https://open.spotify.com/album/0lZGC5AwW0pUT7jHOSe2W8"
+      },
+      "artists": [
+        {
+          "name": "Sterio T",
+          "url": "https://open.spotify.com/artist/6Aj0fNu6zu06zFF90C0PsG"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408072,
+      "name": "Umsindo",
+      "url": "https://open.spotify.com/track/7dAg3Z3v2uOHRV5sZFnfFx"
     },
     {
       "album": {

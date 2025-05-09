@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Hamza au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 176027,
       "name": "Hockey",
       "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
@@ -3092,6 +3092,24 @@
       "duration_ms": 229226,
       "name": "Kongolais mauvais (feat. Ninho)",
       "url": "https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs"
+    },
+    {
+      "album": {
+        "name": "KYKY2BONDY",
+        "url": "https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137173,
+      "name": "KYKY2BONDY",
+      "url": "https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju"
     },
     {
       "album": {

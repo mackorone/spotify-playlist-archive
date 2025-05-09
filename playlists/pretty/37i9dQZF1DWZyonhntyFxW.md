@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أرسينيك وأبو الأنوار
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,659 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,747 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 13 | [تروح لمين \- من فيلم البحث عن منفذ لخروج السيد رامبو](https://open.spotify.com/track/3A84MH5fFWCHgy5R5c7WpC) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تروح لمين \(من فيلم البحث عن منفذ لخروج السيد رامبو\)](https://open.spotify.com/album/4gNQZT3zYV1by1BHTngarP) | 2:58 |
 | 14 | [GABOLNA HKOMA](https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 2:03 |
 | 15 | [TARAT TARAT TAT](https://open.spotify.com/track/3PjJRdq44Ftk0bGDZJAuTq) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MAGNÜN](https://open.spotify.com/album/5ojlIYbzFFXaiNmBzxeiz9) | 2:40 |
-| 16 | [FAWATER EL 3ETAB](https://open.spotify.com/track/5Wey1olhqWorzcFEoQifcQ) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الرجل الذي فقد قلبه](https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ) | 3:37 |
-| 17 | [El Leila](https://open.spotify.com/track/5VVZU6x6dwF0yHhZGBaFUo) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 3:39 |
-| 18 | [Money Man](https://open.spotify.com/track/32DdsYl1ajtduE6xDckm0x) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [El Waqt El Daye3](https://open.spotify.com/album/6i2pEUNQ7CRsogFiuzyOIx) | 2:28 |
-| 19 | [SWISSRA](https://open.spotify.com/track/0lGBH3NhfXHdOM1GswMqh3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [BGD](https://open.spotify.com/album/3hQ9AVm4vx93ZKigdypD5Q) | 2:13 |
-| 20 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 |
-| 21 | [TNKR.](https://open.spotify.com/track/1SRrcmvsVxBilwUHyeq8IF) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [GADWAL EL DARB](https://open.spotify.com/album/5XYfJyMufwURzHoJLVl8g5) | 2:27 |
-| 22 | [Esaad Younis](https://open.spotify.com/track/6pN2Qzz1XdpEMFXonrLCdd) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Sa7eb El Sa3ada](https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy) | 3:21 |
+| 16 | [El Leila](https://open.spotify.com/track/5VVZU6x6dwF0yHhZGBaFUo) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 3:39 |
+| 17 | [Money Man](https://open.spotify.com/track/32DdsYl1ajtduE6xDckm0x) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [El Waqt El Daye3](https://open.spotify.com/album/6i2pEUNQ7CRsogFiuzyOIx) | 2:28 |
+| 18 | [SWISSRA](https://open.spotify.com/track/0lGBH3NhfXHdOM1GswMqh3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [BGD](https://open.spotify.com/album/3hQ9AVm4vx93ZKigdypD5Q) | 2:13 |
+| 19 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 |
+| 20 | [TNKR.](https://open.spotify.com/track/1SRrcmvsVxBilwUHyeq8IF) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [GADWAL EL DARB](https://open.spotify.com/album/5XYfJyMufwURzHoJLVl8g5) | 2:27 |
+| 21 | [Esaad Younis](https://open.spotify.com/track/6pN2Qzz1XdpEMFXonrLCdd) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Sa7eb El Sa3ada](https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy) | 3:21 |
+| 22 | [3ALA FEN?](https://open.spotify.com/track/30COeIn1dQn7VgHYxgrU9Q) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [الرجل الذي فقد قلبه](https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ) | 3:01 |
 | 23 | [MAGHOOL](https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [MAGHOOL](https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN) | 3:53 |
 | 24 | [Wesh](https://open.spotify.com/track/6Wv7Ld9brqdj3kcVmSTRr1) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada Deluxe](https://open.spotify.com/album/2h3WZYYtJm4K4eUURN6Uk6) | 2:28 |
 | 25 | [ع الأبيض \- 3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [كي.أوه \(K.O\)](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Baklem El Amar](https://open.spotify.com/track/7L15zTOGWGnKZY7a7Fr2ol) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa) | [Moga](https://open.spotify.com/album/74pPbkercbdyczbWsW5ZcA) | 2:31 |
 | 40 | [2007](https://open.spotify.com/track/6lztjEZqRlnmlhQqEYxrtH) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [KHOD](https://open.spotify.com/album/4thKK66tWjxDmOTLJSfvmY) | 2:12 |
 
-Snapshot ID: `aBuoQwAAAAD/+TMl0AIyUqH5BiQTA5mQ`
+Snapshot ID: `aByv5AAAAAB0tMozor1noxOx/kq7huNg`

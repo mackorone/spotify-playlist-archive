@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 223853,
       "name": "99 fel",
       "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 189613,
       "name": "Absolute Romance",
       "url": "https://open.spotify.com/track/4BRUTaXQsb1hWUV7tY6vei"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "BIRDS FLY HIGH",
       "url": "https://open.spotify.com/track/63hXKh8T502h6Nkp2fuizM"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 232506,
       "name": "Blue Sky & The Painter",
       "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
@@ -698,7 +698,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 156379,
       "name": "B\u00e4st",
       "url": "https://open.spotify.com/track/5EB1gR2BcPPAyhPNqz0SdM"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 199650,
       "name": "gl\u00f6m det",
       "url": "https://open.spotify.com/track/4OLwEZqfG8GyJkjH6frFSW"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 197142,
       "name": "GORGEOUS (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 201153,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
@@ -2845,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "Jag m\u00e5ste v\u00e4lja",
+        "url": "https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE"
+      },
+      "artists": [
+        {
+          "name": "Elin Wiigh",
+          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Jag m\u00e5ste v\u00e4lja",
+      "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
+    },
+    {
+      "album": {
         "name": "Jeansjacka",
         "url": "https://open.spotify.com/album/4F5rh6QUQNOudxl8ph3lgu"
       },
@@ -2990,6 +3008,24 @@
       "duration_ms": 153186,
       "name": "Klyschor",
       "url": "https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i"
+    },
+    {
+      "album": {
+        "name": "Kom ih\u00e5g mig",
+        "url": "https://open.spotify.com/album/3SF7f8EspsQ7KZNd1Jy6CR"
+      },
+      "artists": [
+        {
+          "name": "MELVIN",
+          "url": "https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181538,
+      "name": "Kom ih\u00e5g mig",
+      "url": "https://open.spotify.com/track/67yxmfL9tjrE6IflP8Z74P"
     },
     {
       "album": {
@@ -3192,7 +3228,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 161600,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
@@ -3250,7 +3286,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 167444,
       "name": "Lover Online",
       "url": "https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ"
@@ -3492,7 +3528,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 164628,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
@@ -3690,7 +3726,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 158267,
       "name": "NYLON",
       "url": "https://open.spotify.com/track/3HHPXH26eIh32DFqY4vdD4"
@@ -4133,6 +4169,28 @@
     },
     {
       "album": {
+        "name": "Samma gamla visa",
+        "url": "https://open.spotify.com/album/462nFJ44ve1KbMzotNYWep"
+      },
+      "artists": [
+        {
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+        },
+        {
+          "name": "Bj\u00f6rn Holmgren",
+          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193429,
+      "name": "Samma gamla visa",
+      "url": "https://open.spotify.com/track/5jTrzpI1DiIoTscfjiaXh4"
+    },
+    {
+      "album": {
         "name": "Samma Sak",
         "url": "https://open.spotify.com/album/7d3OXIO5dQABLh3r0UAudW"
       },
@@ -4245,6 +4303,28 @@
     },
     {
       "album": {
+        "name": "Absolute Romance",
+        "url": "https://open.spotify.com/album/0FAegR0Ac5ODCForSWg1OK"
+      },
+      "artists": [
+        {
+          "name": "Hanna J\u00e4rver",
+          "url": "https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5"
+        },
+        {
+          "name": "Isak Friberg",
+          "url": "https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186549,
+      "name": "Shoppen (Millenial) [feat. Isak Friberg]",
+      "url": "https://open.spotify.com/track/6D5gxUfDMn28tm1TyUlIX4"
+    },
+    {
+      "album": {
         "name": "SIGHTS",
         "url": "https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe"
       },
@@ -4274,7 +4354,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 190595,
       "name": "SILUETT",
       "url": "https://open.spotify.com/track/6Fj6QAV3lWhqjsxvSJEDDK"
@@ -4332,6 +4412,24 @@
       "duration_ms": 198000,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
+    },
+    {
+      "album": {
+        "name": "Slutat bry mig",
+        "url": "https://open.spotify.com/album/0kPBXLUWO15ZXKE1yKg370"
+      },
+      "artists": [
+        {
+          "name": "JULIETT",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167375,
+      "name": "Slutat bry mig",
+      "url": "https://open.spotify.com/track/23EKxveViwvrcoWTfCyuwa"
     },
     {
       "album": {
@@ -4458,7 +4556,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 300341,
       "name": "Somebody Else - Spotify Singles",
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
@@ -4530,7 +4628,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 167621,
       "name": "Spot a Fake",
       "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
@@ -4732,7 +4830,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 121304,
       "name": "Svara",
       "url": "https://open.spotify.com/track/6N54tKu2o2JpxfYJXxYRu3"
@@ -4768,7 +4866,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 203195,
       "name": "S\u00e4kra kort",
       "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
@@ -4898,7 +4996,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 204613,
       "name": "Thee Unknown",
       "url": "https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf"
@@ -5018,7 +5116,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 155616,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
@@ -5170,7 +5268,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 181052,
       "name": "Vad har du gjort med mig",
       "url": "https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL"
@@ -5304,7 +5402,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 148906,
       "name": "violet",
       "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"

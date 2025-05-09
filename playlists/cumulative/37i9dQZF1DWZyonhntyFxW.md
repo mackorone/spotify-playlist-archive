@@ -4,7 +4,7 @@
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أرسينيك وأبو الأنوار
 
-392 songs - 19 hr 17 min
+393 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2007](https://open.spotify.com/track/6lztjEZqRlnmlhQqEYxrtH) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [KHOD](https://open.spotify.com/album/4thKK66tWjxDmOTLJSfvmY) | 2:12 | 2024-09-04 |  |
 | [333](https://open.spotify.com/track/4UBQg7ZxU1hrAaNFvzS10C) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [EL 3ARAB](https://open.spotify.com/album/5sgTY990OE2XMzxrn3Ob5I) | 3:04 | 2025-02-12 |  |
 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 | 2024-02-28 | 2024-09-05 |
+| [3ALA FEN?](https://open.spotify.com/track/30COeIn1dQn7VgHYxgrU9Q) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [الرجل الذي فقد قلبه](https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ) | 3:01 | 2025-05-08 |  |
 | [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 | 2024-07-23 | 2024-08-07 |
 | [3andy Sahb](https://open.spotify.com/track/5wUv8kas7QKIrUeSLOfdYd) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [3andy Saheb](https://open.spotify.com/album/2HYmYflHK4DpNoInSWekSR) | 2:48 | 2024-04-18 | 2024-05-21 |
 | [3arabawy](https://open.spotify.com/track/08b9YG42AnVIh70EwEeLpX) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [EL 3ARAB](https://open.spotify.com/album/5sgTY990OE2XMzxrn3Ob5I) | 2:09 | 2024-03-20 | 2024-05-10 |
@@ -127,7 +128,7 @@
 | [Escobar](https://open.spotify.com/track/35SaLcWrRF8lRBiY93MSnn) | [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u), [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Escobar](https://open.spotify.com/album/2mAiQSJIzExk7PQOzOKvce) | 3:06 | 2023-09-29 | 2024-01-26 |
 | [Estana Hako7](https://open.spotify.com/track/40QrNq5YJNozTGOZkFvni6) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Estana Hako7](https://open.spotify.com/album/3UoPGsBcxEBOY7hlSgbUsU) | 2:43 | 2024-08-15 | 2024-09-05 |
 | [FAR2 KHEBRA](https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FAR2 KHEBRA](https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov) | 3:08 | 2022-05-10 | 2022-07-29 |
-| [FAWATER EL 3ETAB](https://open.spotify.com/track/5Wey1olhqWorzcFEoQifcQ) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الرجل الذي فقد قلبه](https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ) | 3:37 | 2025-05-07 |  |
+| [FAWATER EL 3ETAB](https://open.spotify.com/track/5Wey1olhqWorzcFEoQifcQ) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الرجل الذي فقد قلبه](https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ) | 3:37 | 2025-05-07 | 2025-05-09 |
 | [FAWATER EL 3ETAB](https://open.spotify.com/track/69KF73mPJG37guyLv98KuM) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FAWATER EL 3ETAB](https://open.spotify.com/album/5DrNynojvPy7xP6YEwDxwo) | 3:37 | 2025-05-07 |  |
 | [Feeha La Khfeeha](https://open.spotify.com/track/5IadhJSL2h9WKI6ChfTTgj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Feeha La Khfeeha](https://open.spotify.com/album/3bIEOYEgi9eKH6mXNosRsg) | 3:09 | 2022-05-10 | 2022-08-24 |
 | [Fel Galeed](https://open.spotify.com/track/66AGXOI1NENOCWVGuERCqa) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:07 | 2024-01-05 | 2024-01-26 |

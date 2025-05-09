@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: LANDMVRKS
 
-1,198 songs - 3 day 1 hr 42 min
+1,199 songs - 3 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Breaking Point](https://open.spotify.com/track/4Us3BHNRNRVlJFtDd1e5xA) | [Lockjaw](https://open.spotify.com/artist/1CFA76fcB5Ieqc0vUWWab4) | [Breaking Point](https://open.spotify.com/album/0W8BIHCskTZcmkrvVEgjfK) | 3:35 | 2022-05-13 | 2022-08-20 |
 | [Breaking Teeth](https://open.spotify.com/track/3HWyHrobRg5FYzGS0oP5FV) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Breaking Teeth](https://open.spotify.com/album/2KONHMjnO0RbxX997M2eEg) | 2:33 | 2023-09-29 | 2023-10-28 |
 | [Breaking Teeth](https://open.spotify.com/track/5zKVTDKvqGYxM2iQ3vod6R) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Fear Of Letting Go](https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy) | 2:33 | 2023-10-27 | 2024-08-13 |
-| [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 | 2025-03-31 |  |
+| [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 | 2025-03-31 | 2025-05-09 |
 | [Bring Back The Noise](https://open.spotify.com/track/0yr5ueBWdLrLj7fGQArbnd) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Bring Back The Noise](https://open.spotify.com/album/7yaFrxjzkynJH2jQ45vJs4) | 2:10 | 2023-12-06 | 2024-02-10 |
 | [Broken](https://open.spotify.com/track/75MIRMjPWIY43XZTIFUjG0) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Broken](https://open.spotify.com/album/01aC7sE5ND2VgB7k4Vh2YL) | 2:49 | 2025-04-25 |  |
 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 | 2023-11-27 | 2024-04-13 |
@@ -865,6 +865,7 @@
 | [Resilient](https://open.spotify.com/track/2l7oMkvjaqzFqPb81d92T9) | [We Were Giants](https://open.spotify.com/artist/3xbDqSaTiICfeLyTTrFGDz) | [Resilient](https://open.spotify.com/album/5Vvedx69s0fy9wzv1xv124) | 4:21 | 2024-03-08 | 2024-05-13 |
 | [Rest Your Head](https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [And Dying Forever](https://open.spotify.com/album/3s8j7DemV6FuV0EyakQhEq) | 3:08 | 2022-07-13 | 2022-07-16 |
 | [Retribution](https://open.spotify.com/track/6hlFMfui1zugK8TNEaFkBs) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Retribution](https://open.spotify.com/album/4aQbL2fzztxM1wFFzTNfI9) | 4:17 | 2024-11-22 | 2024-11-29 |
+| [Return To Tragedy](https://open.spotify.com/track/0sWRSfKSZjO2IMU25ymrfT) | [Heists](https://open.spotify.com/artist/7i04oRstVv5xfCRMppUxuF) | [Return To Tragedy](https://open.spotify.com/album/4rVAfvkDau1nZ5BHaN7ME7) | 3:46 | 2025-05-02 |  |
 | [Riot](https://open.spotify.com/track/6KPHpYLUcSIWQy6mG3JpN0) | [Neverland In Ashes](https://open.spotify.com/artist/1udZMRTk7TTItuCsMDm3Q1) | [Riot](https://open.spotify.com/album/5rMji1cIGWpALn7VKq9h4n) | 3:23 | 2021-12-17 | 2022-02-11 |
 | [Rise](https://open.spotify.com/track/1hYOMPs7urlESUzMqfb9Ms) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [Rise](https://open.spotify.com/album/1RiAhYJePETr9hJN6QkVZj) | 3:50 | 2021-12-17 | 2022-01-15 |
 | [Rise](https://open.spotify.com/track/6gWUB6hS6SuyvaKzYAltn8) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Rise](https://open.spotify.com/album/78EFhqgH0Ho0EfcWvqWi3w) | 4:42 | 2022-12-10 | 2023-03-11 |

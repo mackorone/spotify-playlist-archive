@@ -614,7 +614,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 194573,
       "name": "El Duelo",
       "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 368320,
       "name": "Entre dos tierras",
       "url": "https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 298226,
       "name": "Estrechez De Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4oR2kX5BI50GBnQGRdRRsM"
@@ -1140,6 +1140,24 @@
       "duration_ms": 248225,
       "name": "La Voz de los '80",
       "url": "https://open.spotify.com/track/0VvwpKqD7cOYubrK030fGR"
+    },
+    {
+      "album": {
+        "name": "La Voz de los '80 (Los Demos)",
+        "url": "https://open.spotify.com/album/7GLOTgjtDOFTWkbI15hSjq"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230624,
+      "name": "La Voz De Los '80 - Demo",
+      "url": "https://open.spotify.com/track/5qWnRArVBR6SKSFpkOlEF3"
     },
     {
       "album": {

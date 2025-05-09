@@ -1501,6 +1501,28 @@
     },
     {
       "album": {
+        "name": "RANCH",
+        "url": "https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/1KZm459Xdw6GuYjcGk3pbm"
+    },
+    {
+      "album": {
         "name": "Gotico Romanzo",
         "url": "https://open.spotify.com/album/3DS8jzLQI1pkMOqLRg1fNT"
       },
@@ -1590,7 +1612,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 189216,
       "name": "Canerandagio (feat. Izi)",
       "url": "https://open.spotify.com/track/4TzUnk1bcI9VKLwoRH7k8l"
@@ -2454,6 +2476,32 @@
       "duration_ms": 159824,
       "name": "Cumbia Sobre el Mar",
       "url": "https://open.spotify.com/track/26KXwICOkpTjlPtF518xj3"
+    },
+    {
+      "album": {
+        "name": "Canerandagio - Parte 1",
+        "url": "https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157331,
+      "name": "Cuoreapezzi (feat. Gu\u00e8 & Joshua)",
+      "url": "https://open.spotify.com/track/5y9qQCvRJmDHOgrxZ4c6Cr"
     },
     {
       "album": {
@@ -4772,7 +4820,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 281333,
       "name": "In Linea",
       "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
@@ -6941,6 +6989,32 @@
     },
     {
       "album": {
+        "name": "Canerandagio - Parte 1",
+        "url": "https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Joan Thiele",
+          "url": "https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171307,
+      "name": "Miraggio (feat. Joan Thiele & Gemitaiz)",
+      "url": "https://open.spotify.com/track/5NvshwcLQy83Y9tl7VWiTc"
+    },
+    {
+      "album": {
         "name": "Miscela",
         "url": "https://open.spotify.com/album/2eNCjmqeFRuzaqymixZfl0"
       },
@@ -7318,7 +7392,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 263032,
       "name": "Neo Ex",
       "url": "https://open.spotify.com/track/3nOKf0b77ReIIoest5xWXO"

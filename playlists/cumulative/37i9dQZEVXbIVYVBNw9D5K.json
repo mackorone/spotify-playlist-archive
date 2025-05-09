@@ -10859,6 +10859,28 @@
     },
     {
       "album": {
+        "name": "HUQQA 2.0",
+        "url": "https://open.spotify.com/album/12rQDZru4nxfGCh0qiqLne"
+      },
+      "artists": [
+        {
+          "name": "Dethron",
+          "url": "https://open.spotify.com/artist/3OsbqsBUoYYQT76uOvO6SK"
+        },
+        {
+          "name": "rash",
+          "url": "https://open.spotify.com/artist/4VSXWSrQS0oRXJ5PllbNLN"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169134,
+      "name": "HUQQA 2.0",
+      "url": "https://open.spotify.com/track/02qInTRFOUrN2BUp1pOwnI"
+    },
+    {
+      "album": {
         "name": "Huzurum Kalmad\u0131",
         "url": "https://open.spotify.com/album/3y3CvI6s105ep26Vs11JwF"
       },
@@ -11514,7 +11536,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 250312,
       "name": "\u0130ltimas",
       "url": "https://open.spotify.com/track/7lSoTs5NGAzCoWXSV794K4"
@@ -12334,7 +12356,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 141351,
       "name": "kAHpE",
       "url": "https://open.spotify.com/track/1oOkZEqPrAQLpwBsiYKRl8"
@@ -21714,7 +21736,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 126000,
       "name": "Yanl\u0131\u015flarla Kar\u015f\u0131la\u015ft\u0131m",
       "url": "https://open.spotify.com/track/1AL39PMHvgw979PFKiEOhb"

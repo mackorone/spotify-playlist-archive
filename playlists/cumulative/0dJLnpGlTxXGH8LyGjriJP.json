@@ -17447,6 +17447,28 @@
     },
     {
       "album": {
+        "name": "ANARCHY",
+        "url": "https://open.spotify.com/album/6RU352ZToxkhvPq9LrpD3V"
+      },
+      "artists": [
+        {
+          "name": "void",
+          "url": "https://open.spotify.com/artist/5ySK6tR70ZunnmPEHCrCwF"
+        },
+        {
+          "name": "BABY BOI",
+          "url": "https://open.spotify.com/artist/0ICav5bjbDMIrFMa4BGS1d"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142826,
+      "name": "WHAT U NEED",
+      "url": "https://open.spotify.com/track/2qh7a7RwoAUodnwAbHPECP"
+    },
+    {
+      "album": {
         "name": "What's That?",
         "url": "https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X"
       },

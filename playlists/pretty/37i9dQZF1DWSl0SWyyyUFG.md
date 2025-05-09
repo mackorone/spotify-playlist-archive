@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,772 likes - 150 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,049 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 105 | [La Bota](https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:28 |
 | 106 | [No Me Dejes Tan Solo](https://open.spotify.com/track/7kDmpsxLjsExnH0PF7E2oU) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Lo Dejaría Todo](https://open.spotify.com/album/0slFxxE8mELjY6pg5My39R) | 3:02 |
 | 107 | [El Domingo Se Casa](https://open.spotify.com/track/5HPIaNpIPbZYlSzIuTcwND) | [Banda San Miguel](https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG) | [La Gran Historia Vol\. 1](https://open.spotify.com/album/3AjDSQHKqkrHMgv44Esfen) | 2:37 |
-| 108 | [Muñequita](https://open.spotify.com/track/6j3zBqx4xjag5pKLyzT3PV) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD) | 3:17 |
+| 108 | [Como Sufro](https://open.spotify.com/track/0GrltzfS9xVSjcEny6LxUi) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD) | 2:53 |
 | 109 | [Frio De Aucencia](https://open.spotify.com/track/3YxSPQh2jQgyxrLdB9tKqK) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Ultimo Trago](https://open.spotify.com/album/6OUv4N8H2dRSmuNXdOFnl3) | 3:09 |
 | 110 | [Eva María](https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:47 |
 | 111 | [Esa Chica Me Vacila](https://open.spotify.com/track/0g5JLFIK31liC82k4m2hEs) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/2kJCLd9dNdizlf0n8ATxOs) | 3:40 |
@@ -123,12 +123,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 113 | [Solo Esta Vez](https://open.spotify.com/track/3yMJkJfWoJW1vo2vVmW23J) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Solo Esta Vez](https://open.spotify.com/album/3nQLgjWf79JfcowiGMQWZr) | 3:20 |
 | 114 | [Me Dicen El Coyote](https://open.spotify.com/track/6tS1jMgrY8UKF9kfvPOnaB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 2\)](https://open.spotify.com/album/4WfvdBmvwXXv4RMq9eOWVV) | 2:22 |
 | 115 | [No Bailes De Caballito](https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 4:01 |
-| 116 | [Ya No Me Mires Asi](https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuerdate De Mi](https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey) | 3:05 |
+| 116 | [Muñequita](https://open.spotify.com/track/6j3zBqx4xjag5pKLyzT3PV) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD) | 3:17 |
 | 117 | [Borracho Morire](https://open.spotify.com/track/4b6ImioSLFFQeweQFzx69h) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Colección Privada](https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq) | 3:23 |
 | 118 | [Viejo Joven El](https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:36 |
 | 119 | [El Alacrán](https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM) | 2:34 |
 | 120 | [Te He Prometido](https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof) | [El Original De La Sierra](https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc) | [Te He Prometido](https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG) | 3:12 |
-| 121 | [Pequeña Orgullosa](https://open.spotify.com/track/50dy8CznSlDJnHaYba7xT4) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD) | 2:58 |
+| 121 | [Ya No Me Mires Asi](https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuerdate De Mi](https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey) | 3:05 |
 | 122 | [Help \- Ayudame \-](https://open.spotify.com/track/512gqMR62C1BCOJ38qCf3K) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera De Serie](https://open.spotify.com/album/1D7z14KFDRiALCSqwTE0xQ) | 2:59 |
 | 123 | [El Anonimo](https://open.spotify.com/track/1teRpnRo534fWUj6uDwVkr) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Colección Privada](https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq) | 2:29 |
 | 124 | [Si Tu No Estas](https://open.spotify.com/track/0nzquVPzNamazTbGY8pNvW) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 3:30 |

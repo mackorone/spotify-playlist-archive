@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=9iNevV4ARmypHnmJy8YQhw">Brendan Peyper</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q?si=0gPX7q7fS76xdBU6e48pWw">Chris Steyn</a>
 
-284 songs - 15 hr 41 min
+289 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bietjie Benoni](https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Bietjie Benoni](https://open.spotify.com/album/2ulADrlXBpiPp6fTeI9pl4) | 3:23 | 2022-04-28 | 2024-03-08 |
 | [Bikini Weer \(feat\. Early B\)](https://open.spotify.com/track/4oDi4bmDwfYBVCxXXnwvAs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Early B](https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp) | [Bikini Weer \(feat\. Early B\)](https://open.spotify.com/album/4TuvZhVtwiIyueQqRqpYLy) | 3:46 | 2024-12-05 | 2025-04-18 |
 | [Bitterblou](https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv) | [Bitterblou](https://open.spotify.com/album/20Qci723MZxlYKBB0vYIeC) | 3:32 | 2025-05-01 |  |
+| [Blokfluit](https://open.spotify.com/track/18OT3vzdcxD569umTGxRVf) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Blokfluit](https://open.spotify.com/album/6eaGqyM4W25arX7CSOmVqP) | 2:42 | 2025-05-08 |  |
 | [Boer In My Hart](https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Boer In My Hart](https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj) | 3:50 | 2023-08-10 | 2024-10-04 |
 | [Boerepompie \(feat\. Snotkop\)](https://open.spotify.com/track/6bQrPl31SAzC5bepMr7vSp) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Boerepompie \(feat\. Snotkop\)](https://open.spotify.com/album/2Cu7dy6YFbDGrDzJuPzgLN) | 3:42 | 2023-03-09 | 2023-03-18 |
 | [Boereworsgordyn](https://open.spotify.com/track/38R4Dldpw56RYWRN4lnz7q) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Boereworsgordyn](https://open.spotify.com/album/0bjsKbIPpx5Y49kQqtxBZV) | 3:16 | 2025-02-27 |  |
@@ -55,6 +56,7 @@
 | [Dans Kwagga](https://open.spotify.com/track/5rqe4RmTztq10pipi4b0DA) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Dans Kwagga](https://open.spotify.com/album/6EUKAwUr11udwqsy8Fxvd7) | 3:48 | 2024-05-02 | 2024-06-07 |
 | [Dans Met Gevaar](https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dans Met Gevaar](https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV) | 4:09 | 2022-12-22 | 2023-03-31 |
 | [Deur die Reën](https://open.spotify.com/track/3vhX5qgaDsAcSJ90wddxYS) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Deur die reën](https://open.spotify.com/album/09wqRyWhW27Jt9g58PfCpw) | 3:31 | 2024-04-26 | 2024-07-05 |
+| [Deur Die Winters](https://open.spotify.com/track/5kYfjmKb8nUGeTS7YBAslO) | [Venter](https://open.spotify.com/artist/7AbHJtc16ssgYnjxLPj9mS) | [Deur Die Winters](https://open.spotify.com/album/7xbqMfdKNRSjGFzzF71uvZ) | 3:42 | 2025-05-08 |  |
 | [Diana](https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Diana](https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE) | 3:30 | 2023-05-25 |  |
 | [Die Afrikaner Maak So](https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Die Afrikaner Maak So](https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS) | 2:59 | 2024-02-01 |  |
 | [Die Bokmasjien](https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK) | [Leon Schuster](https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs) | [Die Bokmasjien](https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm) | 3:46 | 2023-09-15 | 2023-10-13 |
@@ -63,6 +65,7 @@
 | [Die Mooi In Jou](https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Die Mooi In Jou](https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt) | 3:19 | 2025-03-13 |  |
 | [Die Rower](https://open.spotify.com/track/2V2nGO3KiIXZunNZjIiPY4) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Die Rower](https://open.spotify.com/album/5MRXndYHbRTxLhROnjpeoO) | 4:15 | 2023-09-21 | 2023-10-27 |
 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 | 2024-02-29 |  |
+| [Dik Stukke](https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Dik Stukke](https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy) | 3:07 | 2025-05-08 |  |
 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 | 2023-03-09 | 2024-04-27 |
 | [Dis 'n Vibe](https://open.spotify.com/track/5cM47TXZurGyo8c0JcOJ8v) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Dis 'n Vibe](https://open.spotify.com/album/2Mo2TPvo9aehgvcLdyP67Z) | 3:06 | 2024-07-04 | 2024-12-23 |
 | [Dis Raak](https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Dis Raak](https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1) | 3:33 | 2023-12-21 |  |
@@ -116,6 +119,7 @@
 | [Iemand Soos Jy](https://open.spotify.com/track/298k3iGimVSsClUG9KolBF) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Klein Dingetjies](https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI) | 2:57 | 2025-04-24 |  |
 | [Ik Ben Een Afrikaander](https://open.spotify.com/track/6qqq4BVds5A4py5kwBgw2p) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Ik Ben Een Afrikaander](https://open.spotify.com/album/6ltCW6g9GHM3Q234qeF3V0) | 3:21 | 2024-10-10 | 2025-02-28 |
 | [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 | 2022-11-24 |  |
+| [In Die Bos](https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [In Die Bos](https://open.spotify.com/album/0E3pQVCPtTf1RBES34o2Ba) | 2:58 | 2025-05-08 |  |
 | [Inge 2](https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Almal Gly](https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX) | 3:41 | 2023-08-17 |  |
 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 | 2022-07-21 |  |
 | [Jan Asseblief](https://open.spotify.com/track/1BbgTIFrI7uNHg189LjkqJ) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Jan Asseblief](https://open.spotify.com/album/1rGDaJtxnzwDDPBgKpg3M2) | 2:58 | 2024-11-14 | 2025-04-04 |
@@ -276,6 +280,7 @@
 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 | 2023-01-05 | 2025-01-03 |
 | [Vuur Op Die Water](https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Vuur Op Die Water](https://open.spotify.com/album/40vvsgbIIr5XKof5iKCBr2) | 3:36 | 2023-03-09 | 2024-04-27 |
 | [Vuur Wat Brand](https://open.spotify.com/track/1c9QUvWJm52Qi0p7i5CKrB) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Hart se Taal](https://open.spotify.com/album/6enxtnG3uRmtW2gyCoONB1) | 3:24 | 2024-04-18 | 2024-05-03 |
+| [Vyftig Rand](https://open.spotify.com/track/4R7OwqnCJiUcfDvX6PFJV3) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Vyftig Rand](https://open.spotify.com/album/2QXraXcwHJ7sfZx666jTjg) | 3:13 | 2025-05-08 |  |
 | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-12-28 | 2024-12-23 |
 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |

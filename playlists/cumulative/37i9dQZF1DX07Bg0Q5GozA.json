@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: M\u00d8",
+  "description": "New music off the beaten track. Cover: Parcels",
   "name": "OFF POP",
   "tracks": [
     {
@@ -434,6 +434,28 @@
       "duration_ms": 224930,
       "name": "Acacia",
       "url": "https://open.spotify.com/track/4E6Huz0MjXJHKFE0SFPDaq"
+    },
+    {
+      "album": {
+        "name": "Kinetic",
+        "url": "https://open.spotify.com/album/4NlMkJ0cq4Rns60WBSTpiU"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Pinty",
+          "url": "https://open.spotify.com/artist/0TUhwf3LG9K23fyL6oftFV"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163867,
+      "name": "Ace",
+      "url": "https://open.spotify.com/track/3UKQ5hpIM4nWnV2vzhOwPd"
     },
     {
       "album": {
@@ -7719,6 +7741,28 @@
     },
     {
       "album": {
+        "name": "Green Lights",
+        "url": "https://open.spotify.com/album/07tMXxjf1ldSFWcS86a5bM"
+      },
+      "artists": [
+        {
+          "name": "Holly North",
+          "url": "https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p"
+        },
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207540,
+      "name": "Green Lights",
+      "url": "https://open.spotify.com/track/2Ei88nNdS8u8U7W2eDQ9ht"
+    },
+    {
+      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2jXg4NPRQFiJRoQtuEoh3H"
       },
@@ -9090,6 +9134,24 @@
       "duration_ms": 163062,
       "name": "i cant tell (love my money)",
       "url": "https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI"
+    },
+    {
+      "album": {
+        "name": "I Can't Escape Myself",
+        "url": "https://open.spotify.com/album/5nD3z2sa1qWbZM2EVE0nNJ"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228684,
+      "name": "I Can\u2019t Escape Myself",
+      "url": "https://open.spotify.com/track/729AUIPyZhlZsBiGj3598Y"
     },
     {
       "album": {
@@ -11124,7 +11186,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 159152,
       "name": "LCA",
       "url": "https://open.spotify.com/track/2UnBCcS2IhYdOzh3ACOnSS"
@@ -13698,7 +13760,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 175826,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/6KKSj7JNdpCEmvhlvBzobD"
@@ -15884,7 +15946,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 334625,
       "name": "Rapid Fire",
       "url": "https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU"
@@ -16026,7 +16088,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 210194,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m"
@@ -17324,6 +17386,32 @@
     {
       "album": {
         "name": "Signs",
+        "url": "https://open.spotify.com/album/5SF0WMbwxk70eFBsg61MOy"
+      },
+      "artists": [
+        {
+          "name": "Speckman",
+          "url": "https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7"
+        },
+        {
+          "name": "Kev Koko",
+          "url": "https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI"
+        },
+        {
+          "name": "Tom Yanis",
+          "url": "https://open.spotify.com/artist/1FuIFqpY4iYy3l9CV6FAq4"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151583,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/3aZWeuraySpOazI9BmLf7g"
+    },
+    {
+      "album": {
+        "name": "Signs",
         "url": "https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq"
       },
       "artists": [
@@ -18004,7 +18092,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 216532,
       "name": "Sportscar",
       "url": "https://open.spotify.com/track/4je28GqKUxsbAY5Zksly7S"
@@ -22470,6 +22558,24 @@
       "duration_ms": 158055,
       "name": "You've Made It",
       "url": "https://open.spotify.com/track/0y3I34brDg7wkiUnryRCWN"
+    },
+    {
+      "album": {
+        "name": "Yougotmefeeling",
+        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183462,
+      "name": "Yougotmefeeling",
+      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
     },
     {
       "album": {

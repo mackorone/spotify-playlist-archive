@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125344,
+  "num_followers": 125343,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUD8pG0eccpSNVZfGkf+1OAkwF8QEZ",
+  "snapshot_id": "AAAUEPbDHtqPNLf37kkhUp/9slEH3u/K",
   "tracks": [
+    {
+      "added_at": "2025-05-08 15:11:30",
+      "album": {
+        "name": "Over Too Soon",
+        "url": "https://open.spotify.com/album/4fQR9Ef3st0ZwuOvtBnHbU"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        }
+      ],
+      "duration_ms": 191643,
+      "name": "Over Too Soon",
+      "url": "https://open.spotify.com/track/6d08LJ1vqb2YHXK9EKMIDM"
+    },
     {
       "added_at": "2025-05-07 14:19:45",
       "album": {

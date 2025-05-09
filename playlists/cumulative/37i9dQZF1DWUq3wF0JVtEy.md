@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-523 songs - 1 day 1 hr 31 min
+524 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Oh Lord](https://open.spotify.com/track/1Ti5Px7jctKkMuXbx4kTdA) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Deve](https://open.spotify.com/artist/3xP2q5RQ3YnQIWofwQyXqo) | [Oh Lord](https://open.spotify.com/album/6mUQJM02hQgWKI9HN5OBlC) | 2:38 | 2021-10-29 | 2022-08-27 |
 | [On & On](https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [On & On](https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf) | 2:20 | 2023-06-09 | 2023-12-10 |
 | [On My Line](https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [On My Line](https://open.spotify.com/album/63hVrszqSChih5vJ18lquM) | 3:22 | 2023-12-01 | 2024-08-31 |
+| [On Repeat](https://open.spotify.com/track/7sBpjG2LLkn0gsJFrPgXne) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ), [ED\_PRJCT](https://open.spotify.com/artist/3pfE00p0ds0YdtRwWi4DtR) | [On Repeat](https://open.spotify.com/album/6diHtMekZwOe9u0yPsGGj9) | 2:18 | 2025-05-02 |  |
 | [One Chance](https://open.spotify.com/track/1rFjOggo1LDoT6wqX41baU) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance](https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9) | 3:40 | 2023-11-03 | 2024-04-19 |
 | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-07-07 | 2023-11-09 |
 | [Other Side](https://open.spotify.com/track/00AM1H8UVnoPi3fOYvu5Nv) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Other Side](https://open.spotify.com/album/5NCLNQpMVsuEWQV5MlBefi) | 2:51 | 2023-04-07 | 2023-05-13 |
@@ -407,7 +408,7 @@
 | [Quaestio \(i've got a question babe\)](https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM), [Manuals](https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo) | [Quaestio \(i've got a question babe\)](https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR) | 3:33 | 2024-01-05 | 2024-03-02 |
 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 | 2023-06-09 |  |
 | [Rave Shake](https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [Rave Shake](https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b) | 2:04 | 2023-03-10 | 2023-04-16 |
-| [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 | 2023-11-17 |  |
+| [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 | 2023-11-17 | 2025-05-09 |
 | [Ravers Bounce](https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY), [Lackmus](https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1) | [Ravers Bounce](https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi) | 3:15 | 2023-12-01 |  |
 | [Reading My Mind](https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 2:15 | 2024-05-03 |  |
 | [Ready or Not](https://open.spotify.com/track/4c0bQ6itmzAJ4DYlIdCmpm) | [Lika Morgan](https://open.spotify.com/artist/61StZOWgYff2AxDUejw4UI) | [Ready or Not](https://open.spotify.com/album/1GN99bcJIUkMUu1CwtGCuJ) | 3:08 | 2021-10-29 | 2022-07-21 |

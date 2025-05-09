@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: dori\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-569 songs - 1 day 9 hr 42 min
+570 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 | 2024-01-04 | 2024-01-16 |
 | [a colored pencil](https://open.spotify.com/track/1NjI04swvcr8FoRG4zUMEO) | [soyo Jeong](https://open.spotify.com/artist/7dLpL1oQcGgZzQdhbJIpwR) | [a colored pencil](https://open.spotify.com/album/2C6ViIZSGgYQRnCrK3nDel) | 5:01 | 2024-08-12 | 2024-09-04 |
 | [A Common Word](https://open.spotify.com/track/4InyptNd98tGVH9QCP71eB) | [Youth Like A Dream](https://open.spotify.com/artist/0O07UU1GecVRKrnl2tviPy) | [A Common Word](https://open.spotify.com/album/1HUu5oC18wuBxXP94AoYSk) | 4:38 | 2023-01-11 | 2023-01-26 |
-| [A Dream Unfinished](https://open.spotify.com/track/76djVhINm9xcBShGwHw9Wm) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [A Dream Unfinished](https://open.spotify.com/album/5cwM2xeIfTCrpzINKNnpmf) | 4:15 | 2025-04-28 |  |
+| [A Dream Unfinished](https://open.spotify.com/track/76djVhINm9xcBShGwHw9Wm) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [A Dream Unfinished](https://open.spotify.com/album/5cwM2xeIfTCrpzINKNnpmf) | 4:15 | 2025-04-28 | 2025-05-09 |
 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 | 2021-12-10 | 2024-09-03 |
 | [A Love Song](https://open.spotify.com/track/66is2tFkaji7lYMWt7KS1z) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:25 | 2022-03-21 | 2022-04-20 |
 | [A Nuptial Song 친구가 축가를 부탁했다](https://open.spotify.com/track/7MX5ZWyu1Ecx6dqMAS3Mhw) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Inside Wants](https://open.spotify.com/album/0cDik2Nwe51IZJQ632gDmP) | 4:38 | 2022-04-12 | 2022-04-19 |
@@ -571,6 +571,7 @@
 | [오지 않을 너에게 Don\`t Say Goodbye](https://open.spotify.com/track/49hDsEZITRSiMpDj3DG2xu) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jooyeahin](https://open.spotify.com/artist/26N01XaKDXpRwspCsxM82w) | [새봄, 03 소품집 \`겨울 우리\` How I Love You](https://open.spotify.com/album/450lHoZWkYEPoVAAMygbgB) | 3:40 | 2022-03-31 | 2022-04-20 |
 | [일기예보](https://open.spotify.com/track/0L0fkd5rNncIy3PWKe4OW9) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [weather forecast](https://open.spotify.com/album/1y0mXaR9Zo3nIKUdxldpnF) | 3:13 | 2022-03-31 | 2022-06-06 |
 | [장마 Rainy Season](https://open.spotify.com/track/2Vvl3BfXWpuuCVMkScEYpC) | [JEONGMILLA](https://open.spotify.com/artist/3FSOFI40KRqXM9BZLfsRE7) | [리버사이드 RiverSide](https://open.spotify.com/album/2n7gHWvZh3uVRLynD8O3lr) | 5:28 | 2023-12-05 | 2024-01-05 |
+| [제발 눈물 흘리지 마라](https://open.spotify.com/track/3xQLwdunkb1MyK2RxNcqr4) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [제발 눈물 흘리지 마라](https://open.spotify.com/album/6i1NET2ZV8HQoPMv4jHoeF) | 2:30 | 2025-05-08 |  |
 | [지금 이대로 Stay with me](https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:10 | 2024-09-04 | 2025-03-15 |
 | [천천히 할래](https://open.spotify.com/track/5pm95XFWs26bl9jqTjHCJZ) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [로봇이 아니야 Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6FNX2xmB4DiuFQZgDyB0t1) | 4:03 | 2022-03-31 | 2022-04-20 |
 | [친구야 My Friend \(feat\. Kim Sawol\)](https://open.spotify.com/track/6GYfwuyeSLiNIbG8twrg40) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [작은 마을 Tiny Village](https://open.spotify.com/album/4qcORqrwArG9CxHYEN3x8d) | 4:24 | 2023-10-09 | 2023-10-28 |

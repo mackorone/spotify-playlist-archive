@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: KiNG MALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,232 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,358 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 10 | [Conquests](https://open.spotify.com/track/2bftvpU1GIxsy2mEtM1RJ1) | [Bellzzz](https://open.spotify.com/artist/4qxIpRSvXWpN4f1Y5QQ2gg) | [Dear Elizabeth,](https://open.spotify.com/album/1xlAMd57AlCYXuZ6UrkTNK) | 2:32 |
 | 11 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 |
 | 12 | [Brand New](https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [CHILDSTAR](https://open.spotify.com/album/6mFk7NdiRWLRVSX784kyfS) | 2:51 |
-| 13 | [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 |
+| 13 | [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 |
 | 14 | [Marble Arch](https://open.spotify.com/track/21zKWP33iPQYuCWIWipRhk) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Marble Arch](https://open.spotify.com/album/68pV0kNS4G4TVFM7lNZTwG) | 3:11 |
 | 15 | [Pity Party](https://open.spotify.com/track/5D4pxNBwIXBDaFYWFfia0r) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Pity Party](https://open.spotify.com/album/7kUXbGwQwpbgQV9obq7yGd) | 3:17 |
 | 16 | [The Actor](https://open.spotify.com/track/6hzTD5ZrzKUBrav7gEUxpy) | [Jason Kimmel](https://open.spotify.com/artist/2trESuPFMgjzzjbrscrt0Y) | [The Actor](https://open.spotify.com/album/4j2UpVOzXDCQqcuEqqCy4G) | 3:26 |

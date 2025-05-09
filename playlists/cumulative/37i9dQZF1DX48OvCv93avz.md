@@ -4,7 +4,7 @@
 
 > Music from "Demon Slayer"\. © 吾峠呼世晴／集英社・アニプレックス・ufotable
 
-12 songs - 46 min 11 sec
+13 songs - 46 min 48 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2025-04-03 |  |
 | [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 | 2025-04-03 |  |
 | [炎](https://open.spotify.com/track/08c9t8xZCZt7lVVTNeXpzn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/2SUuio93gdAHC9BCZPr7bm) | 4:34 | 2025-04-03 |  |
+| [煉󠄁獄杏寿郎からのスペシャルメッセージ！](https://open.spotify.com/track/3clycLcEQJj6UTCKZr4Kox) | [アニメ『鬼滅の刃』](https://open.spotify.com/artist/676pVWYrnO5W0OswIifHH3) | [アニメ『鬼滅の刃』煉󠄁獄杏寿郎からのスペシャルメッセージ！](https://open.spotify.com/album/6hDXCJNfam0wceCXjlBUEX) | 0:36 | 2025-05-09 |  |
 | [白銀](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [白銀](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 | 2025-04-03 |  |
 | [竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/track/368lNWCxahPu7knjKiFiPT) | [アニメ『鬼滅の刃』](https://open.spotify.com/artist/676pVWYrnO5W0OswIifHH3) | [アニメ『鬼滅の刃』竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/album/3K4xydXnttfKb9IVRh1upw) | 0:25 | 2025-04-03 |  |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2025-04-03 |  |

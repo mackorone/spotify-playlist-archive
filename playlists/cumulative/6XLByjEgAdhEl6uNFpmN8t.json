@@ -1373,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/40oR75NLHfJOhC3gSX5khZ"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "M Ricch",
+          "url": "https://open.spotify.com/artist/4mT5vbooKo8dycjBCo9a4h"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203211,
+      "name": "Paranoi\u00e1s",
+      "url": "https://open.spotify.com/track/30ezZEzXPCyUUv8Rr8lnB4"
+    },
+    {
+      "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
       },

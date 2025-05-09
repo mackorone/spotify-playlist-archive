@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Fresh folk and roots music from independent artists every Wednesday\. Cover: Rachel Bobbitt
+> Fresh folk and roots music from independent artists every Wednesday\. Cover: Emily Hines
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,985 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,014 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 149 | [Dreamt of You](https://open.spotify.com/track/4HgCgwrn6cmgUMirZxr2mW) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Dreamt of You](https://open.spotify.com/album/74hXabbjdskxnOWtKH9fi1) | 3:18 |
 | 150 | [Well Roared Lion](https://open.spotify.com/track/77IhLXNIhNVMrIurGJ58IF) | [Red Hill](https://open.spotify.com/artist/3OqlGX7gDuFvMHDULh1siW) | [Well Roared Lion](https://open.spotify.com/album/1zOsGHC4itWLQa0jtm3B95) | 3:06 |
 
-Snapshot ID: `aBra5AAAAAArxKvrF+tJ6FSGychJzGpa`
+Snapshot ID: `aB0koQAAAAAtYUDhQ6tiDQGvUrQKLuOB`

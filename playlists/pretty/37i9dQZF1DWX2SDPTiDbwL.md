@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,216 likes - 73 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,229 likes - 73 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 35 | [Tarantas](https://open.spotify.com/track/4aPpZdPSokp6H9zMpJvzZA) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 2:33 |
 | 36 | [Soleá](https://open.spotify.com/track/7ET84OBxMtONNtsmsDyifG) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 4:39 |
 | 37 | [Moonstone](https://open.spotify.com/track/17yD0hbCcSMtYbPhkrBMph) | [Mark Barnwell](https://open.spotify.com/artist/7KT3M5b1sDWSIkh1AKl2um), [Al Marconi](https://open.spotify.com/artist/4Sd3PIPUKX5AHwME6qxG7O) | [Mandala](https://open.spotify.com/album/0SScNz53QNs2yLrKmj8sBY) | 4:49 |
-| 38 | [Silueta](https://open.spotify.com/track/4O9Zg7GXqJppFEfCgrVNBS) | [Domingo Patricio](https://open.spotify.com/artist/6CUGlYZ6QZvcyRo7ZE8BGZ), [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Juan Rectoret](https://open.spotify.com/artist/65fn3THpn05ohcBVwvM6Va), [Enric Canada](https://open.spotify.com/artist/3Pmpazt8tzKL0wX1e4a07c) | [Flamenco Passion](https://open.spotify.com/album/2SzCEkagSUpHRiNWtPECSK) | 5:35 |
+| 38 | [Silueta](https://open.spotify.com/track/4O9Zg7GXqJppFEfCgrVNBS) | [Domingo Patricio](https://open.spotify.com/artist/6PSsgyXWxEGF7lFj2xYBRD), [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Juan Rectoret](https://open.spotify.com/artist/65fn3THpn05ohcBVwvM6Va), [Enric Canada](https://open.spotify.com/artist/3Pmpazt8tzKL0wX1e4a07c) | [Flamenco Passion](https://open.spotify.com/album/2SzCEkagSUpHRiNWtPECSK) | 5:35 |
 | 39 | [Daydream](https://open.spotify.com/track/01MsqwaG0kCMTBJUAEkFAV) | [Luis Villegas](https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U) | [Spanish Kiss](https://open.spotify.com/album/4Fpko3OsvVUPla3xgiI8y7) | 6:21 |
 | 40 | [Guitar Suite: II\. —](https://open.spotify.com/track/4k1UJOPiwTVXHbkOGuf3mQ) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 3:42 |
 | 41 | [Torero](https://open.spotify.com/track/24gx0KrSELx32x4rurTbEu) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/1I7Vcy2FecSv04Tb2dlAPr) | 5:07 |

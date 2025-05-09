@@ -4,7 +4,7 @@
 
 > Hottest tracks from Coke Studio Bharat\. Cover: 'Holo Lolo' by Shankuraj Konwar, Shalmali Kholgade
 
-59 songs - 14 hr 30 min
+60 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Maria \| Coke Studio Bharat](https://open.spotify.com/track/6BuMI0q8B7tfHmyv4utInV) | [Arijit Datta](https://open.spotify.com/artist/2jTgcbhkElI05eLyI2AWgV), [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu), [Shillong Chamber Choir](https://open.spotify.com/artist/7gkmvNNfD8KJXAwePUNpDU), [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Bombay Brass](https://open.spotify.com/artist/6eDQhQkAtGoABXSFp57kNV) | [Maria \| Coke Studio Bharat](https://open.spotify.com/album/00DBRzcVPtbJzqqBaNAKJi) | 5:29 | 2025-03-03 |  |
 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 | 2022-03-03 | 2025-03-04 |
 | [Pilu Ragmala in Rupak](https://open.spotify.com/track/2KQVqgVWDSThJqcQniIson) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Indranil Mallick](https://open.spotify.com/artist/0KL6Nzq5FePQByCl3mG8X1) | [Immersion](https://open.spotify.com/album/5QjIPDt3eApiZ2elAmiJ8i) | 13:50 | 2022-03-03 | 2025-03-04 |
+| [Punjab Vekh Ke \| Coke Studio Bharat](https://open.spotify.com/track/5C3JGJ4iDXKxHQzq3pNW27) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L) | [Punjab Vekh Ke \| Coke Studio Bharat](https://open.spotify.com/album/2k1RpCAJBFJO9aa9BgFBxA) | 3:53 | 2025-05-08 |  |
 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 | 2022-03-03 | 2025-03-04 |
 | [Raaga Kafi \- Teentaal](https://open.spotify.com/track/4G526MTBK3TpdNBpvvYO3Z) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ajeet Pathak](https://open.spotify.com/artist/6RewthLD9pGHUn5dmLVaBh) | [Seven Raagas](https://open.spotify.com/album/2DhxWPxZBSFirR62g3I4Zd) | 7:30 | 2022-03-03 | 2025-03-04 |
 | [Rag Alam Bhairav](https://open.spotify.com/track/11mvJnbO7eCSHLeE3ivwBn) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Indian Architexture](https://open.spotify.com/album/4XLInOcNNNzsE6AzZ1coHI) | 28:09 | 2022-03-03 | 2025-03-04 |

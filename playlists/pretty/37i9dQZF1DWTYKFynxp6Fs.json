@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Rifle Club",
-  "num_followers": 455647,
+  "num_followers": 455902,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBsfmQAAAAD+oBgEqMlqV0xeRfpefd7k",
+  "snapshot_id": "aBxdHwAAAABK3QOJhvMrMTZhxPX2KwZV",
   "tracks": [
     {
       "added_at": "2025-03-12 10:30:31",
@@ -163,6 +163,30 @@
       "duration_ms": 234428,
       "name": "Munthirichar",
       "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"
+    },
+    {
+      "added_at": "2025-05-08 07:28:31",
+      "album": {
+        "name": "Vedakk Chekka",
+        "url": "https://open.spotify.com/album/6zMqolSY0IiUh6eRPcWOa6"
+      },
+      "artists": [
+        {
+          "name": "ThudWiser",
+          "url": "https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp"
+        },
+        {
+          "name": "ItsPc",
+          "url": "https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx"
+        },
+        {
+          "name": "MUSLI",
+          "url": "https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO"
+        }
+      ],
+      "duration_ms": 141578,
+      "name": "Vedakk Chekka",
+      "url": "https://open.spotify.com/track/0PGJHryop4kfDskuNmNnEn"
     },
     {
       "added_at": "2025-02-24 05:11:09",
@@ -491,30 +515,6 @@
       "duration_ms": 225865,
       "name": "Cheth Song (From \"Pravinkoodu Shappu\")",
       "url": "https://open.spotify.com/track/6zu3OZLSZqrHedlgvrdCPE"
-    },
-    {
-      "added_at": "2024-09-30 04:59:54",
-      "album": {
-        "name": "Angu Vaana Konilu (From \"ARM\")",
-        "url": "https://open.spotify.com/album/5lM0AnBxOAUfK5TrBstfzp"
-      },
-      "artists": [
-        {
-          "name": "Dhibu Ninan Thomas",
-          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
-        },
-        {
-          "name": "Vaikom Vijayalakshmi",
-          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
-        },
-        {
-          "name": "Manu Manjith",
-          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Angu Vaana Konilu - From \"ARM\"",
-      "url": "https://open.spotify.com/track/0xpeiTGSEchBhqrjDuIcSS"
     },
     {
       "added_at": "2024-03-19 09:28:30",

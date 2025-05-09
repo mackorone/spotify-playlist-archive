@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Have Another One",
+        "url": "https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404640,
+      "name": "100 Zulu Warriors",
+      "url": "https://open.spotify.com/track/5xYU4QIQqxhGaWgpwKLkri"
+    },
+    {
+      "album": {
         "name": "1000 Seconds (Atmos Blaq Remix)",
         "url": "https://open.spotify.com/album/3IlTSiZPFDmiOQdBbqtVUC"
       },
@@ -314,6 +332,24 @@
       "duration_ms": 384000,
       "name": "Africa Wola (Da Capo RMX)",
       "url": "https://open.spotify.com/track/2gr6u6F1hBOV2p1ZLGYnw9"
+    },
+    {
+      "album": {
+        "name": "Africas Kingdom",
+        "url": "https://open.spotify.com/album/0WlSERUqFL03eN94YOnR9a"
+      },
+      "artists": [
+        {
+          "name": "Queen Rami",
+          "url": "https://open.spotify.com/artist/0yIm9BKb1FZhZustij0LK3"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417000,
+      "name": "Africas Kingdom",
+      "url": "https://open.spotify.com/track/7wqVRQhsoColGLtQYB1cV0"
     },
     {
       "album": {
@@ -681,6 +717,28 @@
     },
     {
       "album": {
+        "name": "Altair",
+        "url": "https://open.spotify.com/album/2XrCAzpRWds5K7LDSZ99vb"
+      },
+      "artists": [
+        {
+          "name": "Leo Guardo",
+          "url": "https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD"
+        },
+        {
+          "name": "Simone Glad",
+          "url": "https://open.spotify.com/artist/23qU7I4dEm0phzNweQiVE7"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380000,
+      "name": "Altair",
+      "url": "https://open.spotify.com/track/5BEktpsNjZyVWQHuy5nUdx"
+    },
+    {
+      "album": {
         "name": "Unity Pt. 3",
         "url": "https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE"
       },
@@ -722,7 +780,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 425338,
       "name": "Ama Gear",
       "url": "https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL"
@@ -1401,6 +1459,36 @@
     },
     {
       "album": {
+        "name": "Bawayo",
+        "url": "https://open.spotify.com/album/3spuJ69J7SIclbquMzeV2k"
+      },
+      "artists": [
+        {
+          "name": "Anghel",
+          "url": "https://open.spotify.com/artist/0dD6TgLpEiV7DfwpCLnTIK"
+        },
+        {
+          "name": "Prayon",
+          "url": "https://open.spotify.com/artist/5TSADBy7QaqX5UdFyFzl0N"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        },
+        {
+          "name": "Young Dotun",
+          "url": "https://open.spotify.com/artist/0ghNW8oIeK38iwNhCl9X7Y"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "Bawayo",
+      "url": "https://open.spotify.com/track/61CwhXdn9fRsZ1qZ56bl66"
+    },
+    {
+      "album": {
         "name": "Bayede Remixes",
         "url": "https://open.spotify.com/album/6uTSYjU1KzAlkJ8mLehm0a"
       },
@@ -1612,7 +1700,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 230000,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
@@ -1674,6 +1762,24 @@
       "duration_ms": 285517,
       "name": "Better",
       "url": "https://open.spotify.com/track/1YocXsMVwXfU97DohXUwR7"
+    },
+    {
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33"
+      },
+      "artists": [
+        {
+          "name": "Badbwoy",
+          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293793,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR"
     },
     {
       "album": {
@@ -2609,6 +2715,28 @@
     },
     {
       "album": {
+        "name": "Music Box, Vol. 7 (Home & Away)",
+        "url": "https://open.spotify.com/album/2Icmyzt3dSAgCMabf9ns2R"
+      },
+      "artists": [
+        {
+          "name": "Rabs Vhafuwi",
+          "url": "https://open.spotify.com/artist/49O7oW8Sr44BBMuQHEZRTN"
+        },
+        {
+          "name": "Mizz",
+          "url": "https://open.spotify.com/artist/6HnC27C1S92dISbjGhfKq7"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407440,
+      "name": "Count Your Blessings - DJ Terance Re-Edit",
+      "url": "https://open.spotify.com/track/5USymK9HMLOk3SLIanSZpx"
+    },
+    {
+      "album": {
         "name": "Countdown (La la la)",
         "url": "https://open.spotify.com/album/3h5P8qVi2nFQzkQOrptt4t"
       },
@@ -3221,6 +3349,24 @@
     },
     {
       "album": {
+        "name": "Do For Love",
+        "url": "https://open.spotify.com/album/0oo6gbS1Tq5pFWndiDOtUE"
+      },
+      "artists": [
+        {
+          "name": "VICTHOR",
+          "url": "https://open.spotify.com/artist/1w1sHYCtY7hh3pw9R1C9g9"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264501,
+      "name": "Do For Love",
+      "url": "https://open.spotify.com/track/6eR1pbtDXwU2qhNyBvER2J"
+    },
+    {
+      "album": {
         "name": "Does It Matter (Ajna Remix)",
         "url": "https://open.spotify.com/album/4IZK2sBwj3A4tDpxyxtpct"
       },
@@ -3306,7 +3452,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 178164,
       "name": "Donin - VooDoo Tribe Mix",
       "url": "https://open.spotify.com/track/2aRmiGN3bxQeDsx9svZiwR"
@@ -7702,7 +7848,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 247668,
       "name": "Kupata",
       "url": "https://open.spotify.com/track/716v9c0Jb0dBLMxOfuz4wA"
@@ -9117,6 +9263,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279344,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
+    },
+    {
+      "album": {
         "name": "Mire (Diamond Dealer Remix)",
         "url": "https://open.spotify.com/album/4UBKFz5OOpVTA0fi5w4LSg"
       },
@@ -9186,7 +9350,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 251803,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
@@ -9766,6 +9930,24 @@
       "duration_ms": 444053,
       "name": "My Heart Is Trembling - The Soul Brothers Remix - Mixed",
       "url": "https://open.spotify.com/track/0funJdzeqUX6g96a7P4i2p"
+    },
+    {
+      "album": {
+        "name": "My Love for You (Yebba's Heartbreak)",
+        "url": "https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347704,
+      "name": "My Love for You (Yebba's Heartbreak)",
+      "url": "https://open.spotify.com/track/1Oj4UgoSBQWUPaUVakr8sc"
     },
     {
       "album": {
@@ -12768,7 +12950,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 239043,
       "name": "Sanba Yo Pran Pale - Ankho\u00ef Remix",
       "url": "https://open.spotify.com/track/4mazzDHeclrlA6rbFM34z1"
@@ -13030,7 +13212,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 351103,
       "name": "Secundo",
       "url": "https://open.spotify.com/track/0iaLgsJbnrCYLn3ghs53FO"
@@ -13108,6 +13290,36 @@
       "duration_ms": 293049,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/1Xi4uPeK7X8q75Zt4zv1G5"
+    },
+    {
+      "album": {
+        "name": "Sete (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/2Lp9ChMLl7YtqwSi2XIghb"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Sete - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/34Y56mIfBmiqDjXVgyaSYV"
     },
     {
       "album": {
@@ -13298,7 +13510,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 452015,
       "name": "Shikiria - Zakem, Yescene Remix",
       "url": "https://open.spotify.com/track/65yxCD6MLeTiTiMLCENRhN"
@@ -15122,7 +15334,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 231498,
       "name": "The Wave - Nandu Remix",
       "url": "https://open.spotify.com/track/1cs9YPkbocp0hkFCew9a8J"
@@ -17362,7 +17574,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 260655,
       "name": "Your Voice - Adam Port Remix",
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"

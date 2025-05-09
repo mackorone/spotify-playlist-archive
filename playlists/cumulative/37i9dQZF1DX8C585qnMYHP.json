@@ -18963,6 +18963,24 @@
     },
     {
       "album": {
+        "name": "Loose it",
+        "url": "https://open.spotify.com/album/23dOLAgK71DFWaToi3NaYX"
+      },
+      "artists": [
+        {
+          "name": "\u017bY\u0143Y",
+          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192025,
+      "name": "Loose it",
+      "url": "https://open.spotify.com/track/7xdTwusY1aGsDHo4NOBzz3"
+    },
+    {
+      "album": {
         "name": "Los muertos no lloran",
         "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
       },
@@ -32316,7 +32334,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 336600,
       "name": "the REAL - HAAi Remix",
       "url": "https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q"

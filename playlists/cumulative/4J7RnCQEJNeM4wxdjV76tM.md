@@ -4,7 +4,7 @@
 
 > ⋆.
 
-624 songs - 1 day 9 hr 58 min
+625 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 | 2024-03-13 |  |
 | [King Of The Fall](https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [King Of The Fall](https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO) | 5:01 | 2023-09-22 |  |
 | [Kirb in my cup](https://open.spotify.com/track/7jb5XsfhW5ZWsMBGO6eHE5) | [dedwrite](https://open.spotify.com/artist/475Cbg3KjcioXssl8x3AGP) | [Kirb in my cup](https://open.spotify.com/album/6hPysz861kQamIehN1LVZ4) | 1:23 | 2022-11-02 |  |
+| [Kiss Me Now](https://open.spotify.com/track/40KgVtH6ANki7AN2Sj1rZD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Kiss Me Now](https://open.spotify.com/album/3wZnJrvl1uyHtdccfokGnU) | 4:16 | 2025-05-09 |  |
 | [Kisses in the Wind](https://open.spotify.com/track/3E0SSAO2XJvhdSl7d4eCCc) | [Fakezz](https://open.spotify.com/artist/2TqjhRWJTSgjClcJ3PYCfO) | [Kisses in the Wind](https://open.spotify.com/album/1o4GqfoLG7sQQLgxyAckOb) | 2:25 | 2023-07-06 |  |
 | [Know Better](https://open.spotify.com/track/2NqNiE4UpYtk2Z1BbnL6fg) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Know Better](https://open.spotify.com/album/17y5Z2AOTQoz3KBHfZrGGJ) | 2:59 | 2022-10-27 |  |
 | [La Curiosidad](https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:36 | 2022-11-19 |  |

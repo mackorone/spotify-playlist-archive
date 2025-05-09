@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-127 songs - 7 hr 9 min
+128 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Another Mess I Make](https://open.spotify.com/track/27aqkdGNCiEt6o2BLRdbda) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nkatha Muthoni](https://open.spotify.com/artist/6GsjoCCj2BMdqDSjbl6B2P) | [Another Mess I Make](https://open.spotify.com/album/4MpHnTvay6SD8GPU0uCMQ8) | 4:17 | 2025-03-14 |  |
 | [BANGUK](https://open.spotify.com/track/1GWaIEbioQsRV6Yaq8VwmO) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [BANGUK](https://open.spotify.com/album/4XCuAOqmIZOkmVd6izgCAu) | 3:06 | 2023-10-20 | 2024-10-11 |
 | [Bantu Baby, Bantu Maybe \- Remix](https://open.spotify.com/track/1bM4MsGlanDmDn7DtkUS5P) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Elza Tsaiger](https://open.spotify.com/artist/6peIB4PwYFH1cLNVOTUrE7), [African Vic](https://open.spotify.com/artist/1yLy1xaquU2qxuFpQBZm2B) | [See Me\. Si Me\. Reimagined](https://open.spotify.com/album/1YOIMfZ2tKd0p18XUnSIR1) | 3:24 | 2023-09-01 | 2023-11-11 |
-| [boy scout](https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [boy scout](https://open.spotify.com/album/5CyQ7GZ2s4uUv357auhfbR) | 3:26 | 2024-07-02 |  |
+| [boy scout](https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [boy scout](https://open.spotify.com/album/5CyQ7GZ2s4uUv357auhfbR) | 3:26 | 2024-07-02 | 2025-05-09 |
 | [Buy Me Love](https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Buy Me Love](https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H) | 3:22 | 2024-05-09 |  |
 | [Buy Me Love \(Aare Remix\)](https://open.spotify.com/track/3D7E7gIcU3zRU9chTfqcWn) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y), [Aare](https://open.spotify.com/artist/5Vi294zoDQnvfoebjhfRXu) | [Buy Me Love \(Aare Remix\)](https://open.spotify.com/album/6eqar199hXi9MWBKqQGJiW) | 2:31 | 2024-08-23 |  |
 | [can't stand it](https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [can't stand it](https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD) | 3:05 | 2024-06-13 |  |
@@ -48,6 +48,7 @@
 | [Further Lighter](https://open.spotify.com/track/4OIlpwFnpccLfdiVLZEV47) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elza Tsaiger](https://open.spotify.com/artist/6peIB4PwYFH1cLNVOTUrE7) | [Further Lighter](https://open.spotify.com/album/6zLOG4yi9RyGYmZEpBc8z9) | 3:17 | 2023-06-30 | 2024-06-01 |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-22 | 2024-10-18 |
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-06-30 | 2024-08-24 |
+| [Goodbye Goldfish](https://open.spotify.com/track/1NAmxX7pEipSOPLR18TYZB) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Goodbye Goldfish](https://open.spotify.com/album/5qAyhO7v3xZk1r2KoA3C3Z) | 1:05 | 2025-05-08 |  |
 | [HIGH SPEDE](https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!](https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl) | 3:58 | 2023-11-10 | 2023-12-16 |
 | [Hivyo](https://open.spotify.com/track/7EYQaatLgZpHtZWUJsXwiz) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Blink](https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n) | 3:18 | 2023-06-30 | 2024-09-27 |
 | [Home](https://open.spotify.com/track/6olvTBUwNCCChCBSeDeiWT) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Midnight \(Vol\. I\)](https://open.spotify.com/album/62rjNTmAEK1xAcJRPYvSKs) | 1:35 | 2023-06-30 | 2024-04-13 |

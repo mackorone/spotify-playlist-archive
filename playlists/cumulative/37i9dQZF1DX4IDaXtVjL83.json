@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: Emotional Oranges, \uc7ac\ud604 (JAEHYUN))",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: TJ Monterde, 10CM)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -796,7 +796,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 162273,
       "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
       "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 209060,
       "name": "hair down (with CHUNG HA)",
       "url": "https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ"
@@ -3545,6 +3545,28 @@
     },
     {
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/50NmyXmki7sJlAmJcIdMMl"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/3eZMRJkj4Q78YJ2iGxKjgI"
+    },
+    {
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT"
       },
@@ -3582,6 +3604,28 @@
       "duration_ms": 184600,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2AeQVicr7SjOAz6UU91Pnv"
+    },
+    {
+      "album": {
+        "name": "EPEX & joan 1st Digital Single \u2018so nice\u2019",
+        "url": "https://open.spotify.com/album/0oSDDyxUWLmqgEGHsI838v"
+      },
+      "artists": [
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        },
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152280,
+      "name": "so nice",
+      "url": "https://open.spotify.com/track/3kCr7cWUfZlNpJkKnfd6QY"
     },
     {
       "album": {

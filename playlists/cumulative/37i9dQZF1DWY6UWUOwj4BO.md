@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-139 songs - 7 hr 25 min
+140 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [If We Ever Broke Up \- Acoustic](https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up \(Acoustic\)](https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj) | 2:27 | 2023-04-13 | 2024-02-16 |
 | [In the Stars \- \(French Version\) \[Acoustique\]](https://open.spotify.com/track/3ZHKBOIFBtFM0HFpAwQRbe) | [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [In the Stars \[\(French Version\) \[Acoustique\]\]](https://open.spotify.com/album/3LNJA1b8J3s59MELa8u5BV) | 3:45 | 2023-06-16 |  |
 | [Is It Love \- Orchestral Version](https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love \(Orchestral Version\)](https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT) | 4:09 | 2024-02-15 |  |
+| [Je Vis Pour Elle \(feat\. Kendji Girac\) \- Acoustic](https://open.spotify.com/track/5GPgxzeHMdHja2eBhIHNAx) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Je Vis Pour Elle \(feat\. Kendji Girac\) \(Acoustic\)](https://open.spotify.com/album/7friF6osl3PuN7zdUEvNmu) | 4:26 | 2025-05-08 |  |
 | [Kill Bill \- Acoustic](https://open.spotify.com/track/5ReIs3aH4wfBjp93QOtWAl) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill \(Acoustic\)](https://open.spotify.com/album/1P1hvg624kDZJ841ZAZzWy) | 2:48 | 2023-02-02 | 2024-10-11 |
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 | 2023-03-31 | 2025-01-31 |
 | [Le feu \- Acoustique](https://open.spotify.com/track/5X6yOF0RbcjNe3kFcdhp3X) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:15 | 2024-03-14 |  |
@@ -112,7 +113,7 @@
 | [Prière de n'pas déranger \- Version piano](https://open.spotify.com/track/49pmLBvYq7slpQQjsuFxaF) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Prière de n'pas déranger \(Version piano\)](https://open.spotify.com/album/5BFisdchY6mCytDAoCMBF6) | 3:35 | 2025-01-03 | 2025-01-10 |
 | [Rescue Me \- Acoustic](https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me \(Acoustic\)](https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ) | 2:44 | 2024-04-12 |  |
 | [Rome \- Version acoustique](https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome \(Version acoustique\)](https://open.spotify.com/album/6BxqvgFnmJpO8YAjiyKFxu) | 2:47 | 2024-06-14 | 2024-11-22 |
-| [Roots \- Acoustic Version](https://open.spotify.com/track/3zu10Jghv3lbREOr5cBD43) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots \(Acoustic Version\)](https://open.spotify.com/album/5vxVuYhWPvINiBHwTmLKmx) | 2:48 | 2024-09-12 |  |
+| [Roots \- Acoustic Version](https://open.spotify.com/track/3zu10Jghv3lbREOr5cBD43) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots \(Acoustic Version\)](https://open.spotify.com/album/5vxVuYhWPvINiBHwTmLKmx) | 2:48 | 2024-09-12 | 2025-05-09 |
 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 | 2024-01-11 | 2024-03-22 |
 | [RUNAWAY \- Acoustic](https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY \(Acoustic\)](https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3) | 2:22 | 2023-08-24 | 2024-01-06 |
 | [Running up That Hill](https://open.spotify.com/track/7w4YExaFOqzTGQ1Y5fCoNv) | [Joanie Loves Chachi](https://open.spotify.com/artist/0hZe6a2PBIKKqTkZt5vDHy) | [Acoustic](https://open.spotify.com/album/28rVoKui34rygR8weIfjVl) | 3:45 | 2022-12-21 | 2024-03-15 |

@@ -4,7 +4,7 @@
 
 > 
 
-577 songs - 1 day 12 hr 59 min
+578 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 | 2024-07-16 |  |
 | [IDWT$](https://open.spotify.com/track/0GRvh5JoEwVel4qDsbqmNb) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:22 | 2024-07-16 |  |
 | [If I'm Wrong](https://open.spotify.com/track/4gG39gZ9S1oH6vfGvxLnPI) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [If I'm Wrong](https://open.spotify.com/album/3h8xJNWCxzQQLi7Thhd7PR) | 3:36 | 2024-08-23 | 2024-09-09 |
+| [If You Have Ghosts \- Live at the Forum / 2023](https://open.spotify.com/track/2bfudvuGIJ76M26uOtwR4w) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Rite Here Rite Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi) | 5:21 | 2025-05-08 |  |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2024-08-14 | 2024-08-24 |
 | [In My Mind](https://open.spotify.com/track/59pJM2rkgW47uV5kpyVvvw) | [RDGO](https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c) | [In My Mind](https://open.spotify.com/album/2x9bI7VokJQczjqMvUSmrH) | 3:13 | 2024-07-16 | 2024-07-31 |
 | [In My Time of Dying \- Remaster](https://open.spotify.com/track/4EUe6BsZm5wZLxOTaV3kDX) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 11:08 | 2024-07-17 |  |

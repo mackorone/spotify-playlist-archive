@@ -4,7 +4,7 @@
 
 > 
 
-90 songs - 5 hr 14 min
+91 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [The Lord Ain’t Let Me Down Lately](https://open.spotify.com/track/64uoBI7beaC4VQRdjZWP0k) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Notes from Paris](https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE) | 3:32 | 2021-09-14 |  |
 | [The Luckiest](https://open.spotify.com/track/1fujSajijBpJlr5mRGKHJN) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Rockin' The Suburbs](https://open.spotify.com/album/4FtOLTQqwnxpaABrJWYdBy) | 4:25 | 2020-08-17 |  |
 | [The Wine We Drink](https://open.spotify.com/track/1suAGMS1XkcEbvZwV6CuMv) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Good Light](https://open.spotify.com/album/4WXwjwVrr6TFi0HpE5QXq4) | 3:09 | 2020-07-08 |  |
+| [Then There Was Love](https://open.spotify.com/track/4Gkcy9HYPT9sSrQCOxtgxJ) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Then There Was Love](https://open.spotify.com/album/634uPkg8Hc5imGXKjxzDnm) | 2:54 | 2025-05-08 |  |
 | [Want Me Back](https://open.spotify.com/track/64zfaCPwuuPkEtoNt1jzFx) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dynamo](https://open.spotify.com/artist/111nt9iSSDDF16KPSSLC5g) | [08.26.18](https://open.spotify.com/album/4C9AD9aNoNs0wXmQT7bbIv) | 4:03 | 2020-09-24 |  |
 | [Wanted Man](https://open.spotify.com/track/2dMkrhsWFVP2rHZmTEKkeh) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [CRAZYTALK](https://open.spotify.com/album/1VYbFOGfg6BE3rn1LTMTny) | 3:55 | 2021-05-13 |  |
 | [We’re Gonna Miss These Days](https://open.spotify.com/track/49rfqwkvErndCKb8vj4MPC) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Notes from Paris](https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE) | 2:56 | 2021-09-14 |  |

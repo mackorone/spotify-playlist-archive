@@ -1,15 +1,63 @@
 {
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : M\u00e9dine",
-  "num_followers": 170471,
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Zamdane",
+  "num_followers": 170480,
   "original_name": "Lyricistes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBPu6wAAAAAN4K2uMrZZ/nhHO7IEkzMy",
+  "snapshot_id": "aB0pfQAAAACBvxSlgvPCinv9B5pSHTva",
   "tracks": [
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/7h7Q8H99xGItVhyReDQSCn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "duration_ms": 232013,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/0PgsUc1BmxWwDptusFNqbz"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "Para\u00eet que les miracles n'existent pas",
+        "url": "https://open.spotify.com/album/52GUdRYgqUQJkwGGWCEHwB"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Para\u00eet que les miracles n'existent pas",
+      "url": "https://open.spotify.com/track/4qx7QpLMWmG2xgjbin6Bah"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "DIEU EST GRANDE",
+        "url": "https://open.spotify.com/album/75akm23oaHhtzextLCN2zz"
+      },
+      "artists": [
+        {
+          "name": "Youssoupha",
+          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
+        }
+      ],
+      "duration_ms": 176933,
+      "name": "DIEU EST GRANDE",
+      "url": "https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "stentor",
         "url": "https://open.spotify.com/album/3yBJ3dGRsVt41m2igrrgw2"
@@ -25,7 +73,39 @@
       "url": "https://open.spotify.com/track/6nvUH6Fwxg7PEM1Tl6jKIj"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "Pardon et merci",
+        "url": "https://open.spotify.com/album/74VeC2I5e5ztpan3P5tbBS"
+      },
+      "artists": [
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        }
+      ],
+      "duration_ms": 184925,
+      "name": "Pardon et merci",
+      "url": "https://open.spotify.com/track/5JJfBUTSP5qVZkBTN3mOyS"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "Veille de rentr\u00e9e",
+        "url": "https://open.spotify.com/album/5D7GWSEYB09Eve10swCHUE"
+      },
+      "artists": [
+        {
+          "name": "Kemmler",
+          "url": "https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP"
+        }
+      ],
+      "duration_ms": 192569,
+      "name": "Veille de rentr\u00e9e",
+      "url": "https://open.spotify.com/track/1rWdxTy0RRkU1ivGBYZQqQ"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "HIVER AUTOMNE",
         "url": "https://open.spotify.com/album/2h9FjQnnf9LAVYfE1wrr9K"
@@ -45,7 +125,23 @@
       "url": "https://open.spotify.com/track/4CaTP8Wgz9vZFQW6HMbEZO"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "On n\u2019oublie pas",
+        "url": "https://open.spotify.com/album/1avTqRhxW1HWeLGfqICgG7"
+      },
+      "artists": [
+        {
+          "name": "Demi Portion",
+          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
+        }
+      ],
+      "duration_ms": 163906,
+      "name": "On n\u2019oublie pas",
+      "url": "https://open.spotify.com/track/1cgCXtPTSyPjKVEGsj8bkT"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "La boh\u00e8me.",
         "url": "https://open.spotify.com/album/0hZ8uiGV5qrmB9Hgi9CT5J"
@@ -61,123 +157,7 @@
       "url": "https://open.spotify.com/track/7geNM6tT1HZ6yvSOP0tsnM"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/7h7Q8H99xGItVhyReDQSCn"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        }
-      ],
-      "duration_ms": 232013,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/0PgsUc1BmxWwDptusFNqbz"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "Para\u00eet que les miracles n'existent pas",
-        "url": "https://open.spotify.com/album/52GUdRYgqUQJkwGGWCEHwB"
-      },
-      "artists": [
-        {
-          "name": "BEN plg",
-          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Para\u00eet que les miracles n'existent pas",
-      "url": "https://open.spotify.com/track/4qx7QpLMWmG2xgjbin6Bah"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "DIEU EST GRANDE",
-        "url": "https://open.spotify.com/album/75akm23oaHhtzextLCN2zz"
-      },
-      "artists": [
-        {
-          "name": "Youssoupha",
-          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
-        }
-      ],
-      "duration_ms": 176933,
-      "name": "DIEU EST GRANDE",
-      "url": "https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "Veille de rentr\u00e9e",
-        "url": "https://open.spotify.com/album/5D7GWSEYB09Eve10swCHUE"
-      },
-      "artists": [
-        {
-          "name": "Kemmler",
-          "url": "https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP"
-        }
-      ],
-      "duration_ms": 192569,
-      "name": "Veille de rentr\u00e9e",
-      "url": "https://open.spotify.com/track/1rWdxTy0RRkU1ivGBYZQqQ"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "LA HAINE",
-        "url": "https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9dine",
-          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
-        }
-      ],
-      "duration_ms": 332155,
-      "name": "L'4MOUR",
-      "url": "https://open.spotify.com/track/0e5fG8fx8bz41fqWRpIiQ6"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "Nouveau Monde",
-        "url": "https://open.spotify.com/album/3zmM7KPFr8Vir4uXgFob1w"
-      },
-      "artists": [
-        {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
-        },
-        {
-          "name": "Furax Barbarossa",
-          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Nouveau monde",
-      "url": "https://open.spotify.com/track/5KHquvEFCMV0DAEEfl4gMe"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "H21",
-        "url": "https://open.spotify.com/album/7HSEzzwzrf4m5htQlzG97v"
-      },
-      "artists": [
-        {
-          "name": "Heykel",
-          "url": "https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL"
-        }
-      ],
-      "duration_ms": 383265,
-      "name": "H21",
-      "url": "https://open.spotify.com/track/7FSuzsuMvRUGM0218OCzm9"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "Derni\u00e8re pluie",
         "url": "https://open.spotify.com/album/6TC90sm22VX4GJL7dEVgR5"
@@ -193,95 +173,55 @@
       "url": "https://open.spotify.com/track/5gZR7ghoxH3BeXDsTPROrL"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
-        "name": "Pardon et merci",
-        "url": "https://open.spotify.com/album/74VeC2I5e5ztpan3P5tbBS"
+        "name": "H21",
+        "url": "https://open.spotify.com/album/7HSEzzwzrf4m5htQlzG97v"
       },
       "artists": [
         {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+          "name": "Heykel",
+          "url": "https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL"
         }
       ],
-      "duration_ms": 184925,
-      "name": "Pardon et merci",
-      "url": "https://open.spotify.com/track/5JJfBUTSP5qVZkBTN3mOyS"
+      "duration_ms": 383265,
+      "name": "H21",
+      "url": "https://open.spotify.com/track/7FSuzsuMvRUGM0218OCzm9"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
-        "name": "L'hiver",
-        "url": "https://open.spotify.com/album/0BQRHLTXTWHpjma9jZqc1M"
+        "name": "LA HAINE",
+        "url": "https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT"
       },
       "artists": [
         {
-          "name": "Sa\u00eff",
-          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
+          "name": "M\u00e9dine",
+          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
         }
       ],
-      "duration_ms": 155000,
-      "name": "L'hiver",
-      "url": "https://open.spotify.com/track/4MwXuOyte7BBkhPGMDpCvB"
+      "duration_ms": 332155,
+      "name": "L'4MOUR",
+      "url": "https://open.spotify.com/track/0e5fG8fx8bz41fqWRpIiQ6"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
-        "name": "Mexico en Janvier_freestyle 2025",
-        "url": "https://open.spotify.com/album/4UdhMmgyuPzPA5ilI159vP"
+        "name": "Loup noir",
+        "url": "https://open.spotify.com/album/2hpxbLIZn3nzJPw5FaK8Uz"
       },
       "artists": [
         {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+          "name": "Euphonik",
+          "url": "https://open.spotify.com/artist/0uRneTUgP2kyaFBDWmALuW"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Mexico en Janvier_freestyle 2025",
-      "url": "https://open.spotify.com/track/0lrlphKBszrLhFGu8lFY48"
+      "duration_ms": 162870,
+      "name": "Loup noir",
+      "url": "https://open.spotify.com/track/4ZKVvqYmWN3YDsxSKrfIBp"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "LES DEUX",
-        "url": "https://open.spotify.com/album/7sK4s7scskdO8vugFrwV8q"
-      },
-      "artists": [
-        {
-          "name": "Durden",
-          "url": "https://open.spotify.com/artist/6FmtyIjNfNWAUSbV486jxe"
-        },
-        {
-          "name": "Jewel Usain",
-          "url": "https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6"
-        }
-      ],
-      "duration_ms": 225696,
-      "name": "LES DEUX",
-      "url": "https://open.spotify.com/track/77XtFDw5WnZNu29e77W9rJ"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "Jack Martin",
-        "url": "https://open.spotify.com/album/6fuJkCc2NIFheSZ2Rf81XE"
-      },
-      "artists": [
-        {
-          "name": "Martin Gal",
-          "url": "https://open.spotify.com/artist/07fDecYuCwczS0zr5RCHje"
-        },
-        {
-          "name": "Jungle Jack",
-          "url": "https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT"
-        }
-      ],
-      "duration_ms": 172931,
-      "name": "Jack Martin",
-      "url": "https://open.spotify.com/track/39V742rhS1269G6atA2J79"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "Battle Royale",
         "url": "https://open.spotify.com/album/3lAQ6ADktTeYIR9Nt3utr5"
@@ -301,71 +241,7 @@
       "url": "https://open.spotify.com/track/01qME8jWJYOtx1PeOnB5YC"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "L'hiver est long",
-        "url": "https://open.spotify.com/album/1LwCdQt26NjC2M7unc21Ev"
-      },
-      "artists": [
-        {
-          "name": "Momsii",
-          "url": "https://open.spotify.com/artist/4mPGN3f7bykivnQM0FBVbF"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "L'hiver est long",
-      "url": "https://open.spotify.com/track/7z2RqRNbJrEl9WnuabZB7i"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "Loup noir",
-        "url": "https://open.spotify.com/album/2hpxbLIZn3nzJPw5FaK8Uz"
-      },
-      "artists": [
-        {
-          "name": "Euphonik",
-          "url": "https://open.spotify.com/artist/0uRneTUgP2kyaFBDWmALuW"
-        }
-      ],
-      "duration_ms": 162870,
-      "name": "Loup noir",
-      "url": "https://open.spotify.com/track/4ZKVvqYmWN3YDsxSKrfIBp"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "LUEUR D'ESPOIR",
-        "url": "https://open.spotify.com/album/38mkXQseJ2zu9M2qn7Lezc"
-      },
-      "artists": [
-        {
-          "name": "C.O.R",
-          "url": "https://open.spotify.com/artist/6COtnkYhmRVdsDXhSGYtBO"
-        }
-      ],
-      "duration_ms": 76008,
-      "name": "LUEUR d'espoir",
-      "url": "https://open.spotify.com/track/1CCsdrc8QT6kFzm0LggO2l"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "Libre-penseur",
-        "url": "https://open.spotify.com/album/4EtqSIW7iI4jnck9OEMOwZ"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9my",
-          "url": "https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr"
-        }
-      ],
-      "duration_ms": 152058,
-      "name": "Libre-penseur",
-      "url": "https://open.spotify.com/track/76r0QoAnrdoeyYWJ1lxYru"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "Portes du d\u00e9sert",
         "url": "https://open.spotify.com/album/11wY21qIRUQyLRsj4prbXc"
@@ -385,59 +261,75 @@
       "url": "https://open.spotify.com/track/3xH82YDdfc7bIY6gCs19lz"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
-        "name": "M\u00e9tano\u00efa",
-        "url": "https://open.spotify.com/album/2oPmxZ0QHNV1eQrmL4hFoG"
+        "name": "Mexico en Janvier_freestyle 2025",
+        "url": "https://open.spotify.com/album/4UdhMmgyuPzPA5ilI159vP"
       },
       "artists": [
         {
-          "name": "Klem Schen",
-          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
         }
       ],
-      "duration_ms": 236053,
-      "name": "Trop tard pour hier",
-      "url": "https://open.spotify.com/track/5CjuZbtXEqCVX4wfGBrBaE"
+      "duration_ms": 190200,
+      "name": "Mexico en Janvier_freestyle 2025",
+      "url": "https://open.spotify.com/track/0lrlphKBszrLhFGu8lFY48"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
-        "name": "PANDEMONIUM",
-        "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
+        "name": "L'hiver est long",
+        "url": "https://open.spotify.com/album/1LwCdQt26NjC2M7unc21Ev"
       },
       "artists": [
         {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+          "name": "Momsii",
+          "url": "https://open.spotify.com/artist/4mPGN3f7bykivnQM0FBVbF"
         }
       ],
-      "duration_ms": 213173,
-      "name": "UFOV",
-      "url": "https://open.spotify.com/track/6ZhIsycBDgeFpWxUzkLBoj"
+      "duration_ms": 167400,
+      "name": "L'hiver est long",
+      "url": "https://open.spotify.com/track/7z2RqRNbJrEl9WnuabZB7i"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
-        "name": "LA FIEV",
-        "url": "https://open.spotify.com/album/4YtctFMzVZeJbrF2pdUsJe"
+        "name": "MENTALIDAD",
+        "url": "https://open.spotify.com/album/0J7Zozr2Urg0OctWT8XgqE"
       },
       "artists": [
         {
-          "name": "Mairo",
-          "url": "https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg"
+          "name": "Lacraps",
+          "url": "https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u"
         },
         {
-          "name": "Hopital",
-          "url": "https://open.spotify.com/artist/6qbmlh4PmXyY4Tzi2QcGKn"
+          "name": "Rimkhana",
+          "url": "https://open.spotify.com/artist/1nTWQ8n1lHOC69qAA6EqxY"
         }
       ],
-      "duration_ms": 180000,
-      "name": "nitro LA FIEV",
-      "url": "https://open.spotify.com/track/4NASqPYusOEaaw5og8tJ5O"
+      "duration_ms": 177500,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/0OhHpneFiQ3CYdowm3wNRD"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "L'hiver",
+        "url": "https://open.spotify.com/album/0BQRHLTXTWHpjma9jZqc1M"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00eff",
+          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "L'hiver",
+      "url": "https://open.spotify.com/track/4MwXuOyte7BBkhPGMDpCvB"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "Stigmates",
         "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
@@ -453,7 +345,23 @@
       "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "PANDEMONIUM",
+        "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "UFOV",
+      "url": "https://open.spotify.com/track/6ZhIsycBDgeFpWxUzkLBoj"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "QI. RAP",
         "url": "https://open.spotify.com/album/3hYR3wlA63xrFZ0fZxfiEt"
@@ -469,7 +377,7 @@
       "url": "https://open.spotify.com/track/2keS8llLDlW3Auh6LFbNrf"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "ALGORITHME",
         "url": "https://open.spotify.com/album/1djaMtM4WdoNYNk6Se9zmi"
@@ -485,103 +393,7 @@
       "url": "https://open.spotify.com/track/32t0n86lnt6LFAFQu2fHTV"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "Comment T'aimer Sans Diamants ?",
-        "url": "https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7"
-      },
-      "artists": [
-        {
-          "name": "Karmen",
-          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "CHAMBRE 224",
-      "url": "https://open.spotify.com/track/2OI8MyNCKw1YE9bTP91Eb4"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "Chute Libre",
-        "url": "https://open.spotify.com/album/3wu9LCZmrwiRo0Z3kS3vQb"
-      },
-      "artists": [
-        {
-          "name": "Youssef Swatt's",
-          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
-        },
-        {
-          "name": "Youssoupha",
-          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
-        }
-      ],
-      "duration_ms": 207988,
-      "name": "Demain tout ira mieux",
-      "url": "https://open.spotify.com/track/5EGvGFCqJIWBMxSyCysbAi"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "10 jours, 10 nuits",
-        "url": "https://open.spotify.com/album/7CsBIG369hdLQBUeDaFHNu"
-      },
-      "artists": [
-        {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
-        },
-        {
-          "name": "Furax Barbarossa",
-          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "10 jours, 10 nuits",
-      "url": "https://open.spotify.com/track/0Swisqu1xdKUrjDIz2tS33"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "On n\u2019oublie pas",
-        "url": "https://open.spotify.com/album/1avTqRhxW1HWeLGfqICgG7"
-      },
-      "artists": [
-        {
-          "name": "Demi Portion",
-          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "On n\u2019oublie pas",
-      "url": "https://open.spotify.com/track/1cgCXtPTSyPjKVEGsj8bkT"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
-      "album": {
-        "name": "Helvetica",
-        "url": "https://open.spotify.com/album/48guKebksVXsWJuOIAQfji"
-      },
-      "artists": [
-        {
-          "name": "Dj Per-k",
-          "url": "https://open.spotify.com/artist/7FUOByx9lUieRgTu0Glxrz"
-        },
-        {
-          "name": "Verso",
-          "url": "https://open.spotify.com/artist/2wadI8Occyuywvkq9rbbn7"
-        },
-        {
-          "name": "French Light Records",
-          "url": "https://open.spotify.com/artist/7d5v0oeFx3pH3Ep9xlNQlM"
-        }
-      ],
-      "duration_ms": 126585,
-      "name": "Helvetica",
-      "url": "https://open.spotify.com/track/2uLHuCD8pTTRdESyzQIxHm"
-    },
-    {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "NIRVANA",
         "url": "https://open.spotify.com/album/5p583Gi2HJlcjJDQ7R2Tox"
@@ -597,59 +409,59 @@
       "url": "https://open.spotify.com/track/47Hac81oOEivgApSukjj7W"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
-        "name": "POURQUOI T'ES...",
-        "url": "https://open.spotify.com/album/6aeqFIQshxZ8oMPcJ9PvSp"
+        "name": "Comment T'aimer Sans Diamants ?",
+        "url": "https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7"
       },
       "artists": [
         {
-          "name": "Eniah",
-          "url": "https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj"
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
         }
       ],
-      "duration_ms": 162000,
-      "name": "MALADE",
-      "url": "https://open.spotify.com/track/5yhBAmxinEdRDtQfFHyoB9"
+      "duration_ms": 189400,
+      "name": "CHAMBRE 224",
+      "url": "https://open.spotify.com/track/2OI8MyNCKw1YE9bTP91Eb4"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
-        "name": "L'HUISSIER",
-        "url": "https://open.spotify.com/album/7qvqsVLcwJ8L7k5ywIcls0"
+        "name": "Libre-penseur",
+        "url": "https://open.spotify.com/album/4EtqSIW7iI4jnck9OEMOwZ"
       },
       "artists": [
         {
-          "name": "C.O.R",
-          "url": "https://open.spotify.com/artist/6COtnkYhmRVdsDXhSGYtBO"
+          "name": "R\u00e9my",
+          "url": "https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr"
         }
       ],
-      "duration_ms": 87288,
-      "name": "L'HUISSIER",
-      "url": "https://open.spotify.com/track/4LEhfm150HU9cZ2zX36Nko"
+      "duration_ms": 152058,
+      "name": "Libre-penseur",
+      "url": "https://open.spotify.com/track/76r0QoAnrdoeyYWJ1lxYru"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
-        "name": "Authentique",
-        "url": "https://open.spotify.com/album/7yltMnLaGbWRxgtguklRuS"
+        "name": "Nouveau Monde",
+        "url": "https://open.spotify.com/album/3zmM7KPFr8Vir4uXgFob1w"
       },
       "artists": [
         {
-          "name": "Udeyfa",
-          "url": "https://open.spotify.com/artist/42QbF5PHeJjfobVba55yco"
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
         },
         {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
         }
       ],
-      "duration_ms": 173629,
-      "name": "Cellophane",
-      "url": "https://open.spotify.com/track/5kJeqDKycQxfKK4DsyOvGo"
+      "duration_ms": 262079,
+      "name": "Nouveau monde",
+      "url": "https://open.spotify.com/track/5KHquvEFCMV0DAEEfl4gMe"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/1mvyUzFKaxjf0qrAXXbfUd"
@@ -669,7 +481,7 @@
       "url": "https://open.spotify.com/track/2JcWgw4KjgmQNj4AXYe8sw"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "HIVER AUTOMNE",
         "url": "https://open.spotify.com/album/2h9FjQnnf9LAVYfE1wrr9K"
@@ -689,7 +501,175 @@
       "url": "https://open.spotify.com/track/5JHI1Sh8ZnErxLA7Z6KkiK"
     },
     {
-      "added_at": "2025-05-01 22:00:11",
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "M\u00e9tano\u00efa",
+        "url": "https://open.spotify.com/album/2oPmxZ0QHNV1eQrmL4hFoG"
+      },
+      "artists": [
+        {
+          "name": "Klem Schen",
+          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
+        }
+      ],
+      "duration_ms": 236053,
+      "name": "Trop tard pour hier",
+      "url": "https://open.spotify.com/track/5CjuZbtXEqCVX4wfGBrBaE"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "LUEUR D'ESPOIR",
+        "url": "https://open.spotify.com/album/38mkXQseJ2zu9M2qn7Lezc"
+      },
+      "artists": [
+        {
+          "name": "C.O.R",
+          "url": "https://open.spotify.com/artist/6COtnkYhmRVdsDXhSGYtBO"
+        }
+      ],
+      "duration_ms": 76008,
+      "name": "LUEUR D'ESPOIR",
+      "url": "https://open.spotify.com/track/1CCsdrc8QT6kFzm0LggO2l"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "POURQUOI T'ES...",
+        "url": "https://open.spotify.com/album/6aeqFIQshxZ8oMPcJ9PvSp"
+      },
+      "artists": [
+        {
+          "name": "Eniah",
+          "url": "https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "MALADE",
+      "url": "https://open.spotify.com/track/5yhBAmxinEdRDtQfFHyoB9"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "10 jours, 10 nuits",
+        "url": "https://open.spotify.com/album/7CsBIG369hdLQBUeDaFHNu"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "10 jours, 10 nuits",
+      "url": "https://open.spotify.com/track/0Swisqu1xdKUrjDIz2tS33"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "LES DEUX",
+        "url": "https://open.spotify.com/album/7sK4s7scskdO8vugFrwV8q"
+      },
+      "artists": [
+        {
+          "name": "Durden",
+          "url": "https://open.spotify.com/artist/6FmtyIjNfNWAUSbV486jxe"
+        },
+        {
+          "name": "Jewel Usain",
+          "url": "https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6"
+        }
+      ],
+      "duration_ms": 225696,
+      "name": "LES DEUX",
+      "url": "https://open.spotify.com/track/77XtFDw5WnZNu29e77W9rJ"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "Jack Martin",
+        "url": "https://open.spotify.com/album/6fuJkCc2NIFheSZ2Rf81XE"
+      },
+      "artists": [
+        {
+          "name": "Martin Gal",
+          "url": "https://open.spotify.com/artist/07fDecYuCwczS0zr5RCHje"
+        },
+        {
+          "name": "Jungle Jack",
+          "url": "https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT"
+        }
+      ],
+      "duration_ms": 172931,
+      "name": "Jack Martin",
+      "url": "https://open.spotify.com/track/39V742rhS1269G6atA2J79"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "LA FIEV",
+        "url": "https://open.spotify.com/album/4YtctFMzVZeJbrF2pdUsJe"
+      },
+      "artists": [
+        {
+          "name": "Mairo",
+          "url": "https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg"
+        },
+        {
+          "name": "Hopital",
+          "url": "https://open.spotify.com/artist/6qbmlh4PmXyY4Tzi2QcGKn"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "nitro LA FIEV",
+      "url": "https://open.spotify.com/track/4NASqPYusOEaaw5og8tJ5O"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "Authentique",
+        "url": "https://open.spotify.com/album/7yltMnLaGbWRxgtguklRuS"
+      },
+      "artists": [
+        {
+          "name": "Udeyfa",
+          "url": "https://open.spotify.com/artist/42QbF5PHeJjfobVba55yco"
+        },
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        }
+      ],
+      "duration_ms": 173629,
+      "name": "Cellophane",
+      "url": "https://open.spotify.com/track/5kJeqDKycQxfKK4DsyOvGo"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "Chute Libre",
+        "url": "https://open.spotify.com/album/3wu9LCZmrwiRo0Z3kS3vQb"
+      },
+      "artists": [
+        {
+          "name": "Youssef Swatt's",
+          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
+        },
+        {
+          "name": "Youssoupha",
+          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
+        }
+      ],
+      "duration_ms": 207988,
+      "name": "Demain tout ira mieux",
+      "url": "https://open.spotify.com/track/5EGvGFCqJIWBMxSyCysbAi"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
       "album": {
         "name": "Booska H\u00e9ritage (Braquage Vocal)",
         "url": "https://open.spotify.com/album/7Dnu5Na9u9JJ6r2hkFcc2q"
@@ -707,6 +687,22 @@
       "duration_ms": 150329,
       "name": "Booska H\u00e9ritage (Braquage Vocal)",
       "url": "https://open.spotify.com/track/2Q1sxUGJjYVr2seeHR4N3g"
+    },
+    {
+      "added_at": "2025-05-08 22:00:29",
+      "album": {
+        "name": "L'HUISSIER",
+        "url": "https://open.spotify.com/album/7qvqsVLcwJ8L7k5ywIcls0"
+      },
+      "artists": [
+        {
+          "name": "C.O.R",
+          "url": "https://open.spotify.com/artist/6COtnkYhmRVdsDXhSGYtBO"
+        }
+      ],
+      "duration_ms": 87288,
+      "name": "L'HUISSIER",
+      "url": "https://open.spotify.com/track/4LEhfm150HU9cZ2zX36Nko"
     }
   ],
   "unique_name": "Lyricistes",

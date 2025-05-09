@@ -117,6 +117,32 @@
     },
     {
       "album": {
+        "name": "Alter Ego (Swamp Mix)",
+        "url": "https://open.spotify.com/album/7sjXaVtk8dTTya20UfWIZW"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "Precious",
+          "url": "https://open.spotify.com/artist/0ZhPS80sMbmVgzOkMPKNpn"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Alter Ego (Precious Remix)[with JT]",
+      "url": "https://open.spotify.com/track/0KDHIZn2go4pO5wXtGAKn2"
+    },
+    {
+      "album": {
         "name": "Noir Br\u00e9sil",
         "url": "https://open.spotify.com/album/4dk8HjZCAwv5PPkEgjtZp2"
       },
@@ -2978,7 +3004,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"

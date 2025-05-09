@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: KiDi & Gyakie
 
-503 songs - 1 day 2 hr 7 min
+504 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Kasapa](https://open.spotify.com/track/25LQCtFin5sJl6AERRvLD8) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Kasapa](https://open.spotify.com/album/6uPPmlyfrQkGAH4jzi8OJM) | 2:32 | 2024-02-09 | 2024-08-30 |
 | [Keep It Sexy](https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Keep It Sexy](https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0) | 2:39 | 2024-11-15 |  |
 | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh) | 2:21 | 2024-06-28 | 2024-10-13 |
-| [Kiki](https://open.spotify.com/track/4oZcUz0YS5komd8ukoYtyR) | [Leftizzle](https://open.spotify.com/artist/0UJ4laOahyFVmjDyLPHJc8), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Kiki](https://open.spotify.com/album/004vsMw80QFIVP2MWgSfOd) | 3:22 | 2024-06-28 |  |
+| [Kiki](https://open.spotify.com/track/4oZcUz0YS5komd8ukoYtyR) | [Leftizzle](https://open.spotify.com/artist/0UJ4laOahyFVmjDyLPHJc8), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Kiki](https://open.spotify.com/album/004vsMw80QFIVP2MWgSfOd) | 3:22 | 2024-06-28 | 2025-05-09 |
 | [Kill Me](https://open.spotify.com/track/2VXbmqitfRxjzJa5AqNirx) | [Vacs](https://open.spotify.com/artist/2d8bfdQy488Ppx30WvzO2x) | [Kill Me](https://open.spotify.com/album/3mKhwkeVFoBey3u4FnKr4T) | 3:10 | 2023-01-27 | 2023-02-04 |
 | [Knees & Bend II \- Remix](https://open.spotify.com/track/2TRpqKAo2M1uSPzjKaBfy9) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Knees & Bend II \(Remix\)](https://open.spotify.com/album/7a2XiDYe5XYoZXBLBEKoAv) | 3:39 | 2025-04-07 |  |
 | [KPONKPO](https://open.spotify.com/track/4E0zFXFHtn5qwHHNSOkK1k) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [KPONKPO](https://open.spotify.com/album/6WRZb4GyZBhtylB9aEe4d7) | 2:59 | 2023-05-19 | 2023-07-01 |
@@ -310,6 +310,7 @@
 | [NLF \(Breakfast\)](https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [NLF \(Breakfast\)](https://open.spotify.com/album/4rOoeivLtdfWWUoXXVTrl6) | 3:13 | 2024-06-14 |  |
 | [No Fugazy](https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Fugazy](https://open.spotify.com/album/25mKwZuJQ0eD1Rl9BJ1WME) | 2:58 | 2022-11-04 | 2023-05-13 |
 | [No Jaga](https://open.spotify.com/track/2jH9UBM8TM14xd15dK8KsI) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [No Jaga](https://open.spotify.com/album/7uNIq0SPnpAIj6pi6mQEY1) | 3:12 | 2024-02-02 | 2024-03-01 |
+| [No Love](https://open.spotify.com/track/4qua256ZagtQ0WPHRj7ua2) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [No Love](https://open.spotify.com/album/4rgXOI6re7kir0vZKx0ZRL) | 3:11 | 2025-05-09 |  |
 | [No Money](https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [OmoAkin](https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh) | [Global Party](https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y) | 2:57 | 2023-03-24 | 2023-03-31 |
 | [No More](https://open.spotify.com/track/7eClgSPyjnbANZYbogtZNE) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [No More Tears](https://open.spotify.com/album/6A62r1F4Sn29IBUI9zHjM7) | 2:40 | 2023-11-03 | 2024-07-06 |
 | [No One](https://open.spotify.com/track/12mDXHABGzTSBPoLB0A6Wm) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 4:02 | 2024-11-29 | 2025-04-01 |

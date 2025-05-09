@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Ayo Maff",
+  "description": "From the trenches. Through the streets.\nCover: Kashcoming",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 154357,
       "name": "Advice Me",
       "url": "https://open.spotify.com/track/445ySymTQJEJ27mCnQXiqh"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 144876,
       "name": "Ain\u2019t Right (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/3GhWAtlK5X3Nu7B9XJ3bDx"
@@ -538,6 +538,36 @@
       "duration_ms": 212500,
       "name": "AMERICA",
       "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
+    },
+    {
+      "album": {
+        "name": "Anytime (feat. Ayo Maff)",
+        "url": "https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY"
+      },
+      "artists": [
+        {
+          "name": "Id Cabasa",
+          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192028,
+      "name": "Anytime (feat. Ayo Maff)",
+      "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
     },
     {
       "album": {
@@ -1856,7 +1886,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 148672,
       "name": "Dodge",
       "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
@@ -1962,7 +1992,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 123750,
       "name": "EGBAMI",
       "url": "https://open.spotify.com/track/3mq3HujlffiS5jDqmHec5N"
@@ -3610,7 +3640,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 160824,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
@@ -6660,6 +6690,28 @@
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
+    },
+    {
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/6RITxdYBGIaSyaCp7yael6"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Dwillsharmony",
+          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3jb5QvmkcKEfTvdwRLI7z4"
     },
     {
       "album": {

@@ -175,6 +175,22 @@
     {
       "added_at": "2025-05-06 22:01:15",
       "album": {
+        "name": "Mare D'Amore",
+        "url": "https://open.spotify.com/album/4cYiN1XjvKM3RPvfX5i7VT"
+      },
+      "artists": [
+        {
+          "name": "Miriah",
+          "url": "https://open.spotify.com/artist/1nHS3UJE5YCtLMKm6Tgs7J"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Mare D'Amore",
+      "url": "https://open.spotify.com/track/2QJ1F6jHaltsgZ2qZPFeth"
+    },
+    {
+      "added_at": "2025-05-06 22:01:15",
+      "album": {
         "name": "Tempi Duri",
         "url": "https://open.spotify.com/album/2LTE1Xv8dqkc9S7TKIRVoC"
       },

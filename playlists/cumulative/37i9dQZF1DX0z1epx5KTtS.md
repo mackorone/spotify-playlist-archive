@@ -4,7 +4,7 @@
 
 > African dance party music from the continent to Paris\. Photo : Tam Sir
 
-235 songs - 13 hr 6 min
+236 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [DJAKOTO](https://open.spotify.com/track/4bbLwc6FSnibrV6iZeJ2hM) | [Agato](https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz), [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j) | [DJAKOTO](https://open.spotify.com/album/6UylXYPAXpU6Ohpm2Y8Ad5) | 2:48 | 2022-12-08 | 2023-05-19 |
 | [Djeneba Djaba](https://open.spotify.com/track/6Pt5lnHwIUAfnEXItAjmfp) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Djeneba Djaba](https://open.spotify.com/album/4y5SQcEOQN25EhFMYt3XpD) | 2:59 | 2024-11-07 |  |
 | [Do Do Do](https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Do Do Do](https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT) | 3:49 | 2023-03-23 | 2024-12-06 |
-| [Domaye](https://open.spotify.com/track/79hliJaIj0CYOPAKf5NzZA) | [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Ma façon \(DELUXE\)](https://open.spotify.com/album/7xDkJIFa6CZztIZ3vWA3HS) | 3:03 | 2025-04-03 |  |
+| [Domaye](https://open.spotify.com/track/79hliJaIj0CYOPAKf5NzZA) | [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Ma façon \(DELUXE\)](https://open.spotify.com/album/7xDkJIFa6CZztIZ3vWA3HS) | 3:03 | 2025-04-03 | 2025-05-09 |
 | [Donne\-lui l'argent](https://open.spotify.com/track/35QFvkmNkPjDa3H3EacJLr) | [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Donne\-lui l'argent](https://open.spotify.com/album/1kwf8zg7guVu0jG40TL8oi) | 3:01 | 2021-12-20 | 2022-06-03 |
 | [Donnez nous un peu](https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Donnez nous un peu](https://open.spotify.com/album/3uF6riPOUySzte9e68eXUu) | 3:51 | 2022-01-21 | 2023-07-28 |
 | [Dora Dance](https://open.spotify.com/track/7JnUwdaJ0FZWfJOCwDglWg) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Dora Dance](https://open.spotify.com/album/74wMcfUmeLcddiJZcvV2xy) | 3:00 | 2022-09-01 | 2023-01-06 |
@@ -198,6 +198,7 @@
 | [Rein](https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Rein](https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E) | 3:11 | 2022-09-08 | 2025-01-03 |
 | [Remontada](https://open.spotify.com/track/7GXRrgvWlaqPQcVVvQopOQ) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Remontada](https://open.spotify.com/album/2dkHnxc412xEQUnO39UxZZ) | 2:04 | 2024-08-22 | 2024-11-15 |
 | [Remue les reins](https://open.spotify.com/track/53dpL86yhMKteoOyqbpZEf) | [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Remue les reins](https://open.spotify.com/album/6Dgje8S99FE9igOOlCMfB0) | 2:41 | 2025-01-30 |  |
+| [Reste Là Bas](https://open.spotify.com/track/6yax3hE8ZZ4TvtdhWqjahI) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [Reste Là Bas](https://open.spotify.com/album/42lwVZ4BrzvOWlImQgrYCd) | 3:05 | 2025-05-08 |  |
 | [Retour à l'envoyeur](https://open.spotify.com/track/1TPJuA1nHM2YoVQ1AAEJ4O) | [Anderson 1er](https://open.spotify.com/artist/2MF2HhouHc4XEbRl7N6Jpp) | [Retour à l'envoyeur](https://open.spotify.com/album/2WOzhUZkErZQG4s07tV8Sl) | 3:53 | 2022-08-25 | 2023-01-27 |
 | [Réveilles toi](https://open.spotify.com/track/03DoyyfEZu5MeN97YZtzaF) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Réveilles toi](https://open.spotify.com/album/6fWiUekVUcszo2DiSBdwqr) | 2:36 | 2024-09-26 | 2024-11-15 |
 | [Révolté](https://open.spotify.com/track/6JXg1zMsPigCQernsCbPnV) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Grand Homme](https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9) | [Révolté](https://open.spotify.com/album/3LudMCBqaRDovkc4gUeONI) | 2:36 | 2025-04-17 |  |

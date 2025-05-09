@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Tim Godfrey
 
-405 songs - 1 day 9 hr 52 min
+406 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Confidence](https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Confidence](https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6) | 4:59 | 2023-04-07 | 2024-04-05 |
 | [Congratulations](https://open.spotify.com/track/1aNryETX3dSY4A0M8BIqPE) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Born of God](https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf) | 4:54 | 2023-04-07 | 2024-01-12 |
 | [Congratulations](https://open.spotify.com/track/5qKd8h7Mv5DeJE2UTEr6EQ) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Born of God](https://open.spotify.com/album/27grzoIl35MGO7EpQFkZZA) | 4:54 | 2023-12-15 | 2025-04-11 |
+| [Congratulations](https://open.spotify.com/track/1iG4JEDsHnCrE3xTfuMj6F) | [Babades](https://open.spotify.com/artist/7msCT458LqvoGip8qRTZ2j) | [Congratulations](https://open.spotify.com/album/6m3MgWRKFrghRVnf9wobHW) | 2:57 | 2025-05-09 |  |
 | [Congratulations](https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [Congratulations](https://open.spotify.com/album/4WM4SgukPTr9ZRXzkIzD36) | 3:06 | 2024-06-07 | 2024-06-30 |
 | [Consistent](https://open.spotify.com/track/6JMXe5OMvvxsuE7ND0AzIx) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Nothing but the Gospel](https://open.spotify.com/album/0op0nK45r5sr0KiE8UGoRr) | 8:00 | 2025-04-18 | 2025-04-22 |
 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 | 2025-04-18 | 2025-04-22 |
@@ -390,7 +391,7 @@
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-04-26 |  |
 | [Yahweh](https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 5:24 | 2023-04-20 | 2023-05-02 |
 | [Yahweh](https://open.spotify.com/track/6ZcTz36h42wamrZbhkkEHs) | [Mister Pryz](https://open.spotify.com/artist/5qTx80xfDGeoEIHHHZPlxs) | [Yahweh](https://open.spotify.com/album/3sk94CfJGegKbLuy8m5DSe) | 2:55 | 2024-08-23 | 2024-12-06 |
-| [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-04-25 |  |
+| [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-04-25 | 2025-05-09 |
 | [YES](https://open.spotify.com/track/3e9GnGjPhfWcG2Bw8wgiBN) | [Theo Milford](https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD), [Danielle LaTouche](https://open.spotify.com/artist/4sexZV9stgh3w9OnFbQieQ) | [YES](https://open.spotify.com/album/1vVp9CDY3dwxcFYGfDsWbF) | 4:48 | 2025-03-31 | 2025-04-18 |
 | [Yes And Amen](https://open.spotify.com/track/456ibkFtbcSMfKU6NvhIEW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0) | 8:02 | 2024-03-29 | 2024-04-05 |
 | [Yeshua Hamashiach](https://open.spotify.com/track/6xmcjy9fiHc5UZlUZDg5uy) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The King Is Coming](https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG) | 7:44 | 2023-04-20 | 2023-12-30 |

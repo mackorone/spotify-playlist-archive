@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg\-lqItJ76m0lw>Lawrence Oyor</a>
 
-451 songs - 1 day 15 hr 39 min
+452 songs - 1 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 | 2023-03-31 | 2023-06-23 |
 | [Come and see \- Live](https://open.spotify.com/track/6Y4lpZ7NILrNYSUtReAE9N) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Volume Of The Book](https://open.spotify.com/album/4BMkLM73OSC3hFlux3vYAa) | 7:27 | 2023-12-31 | 2024-01-04 |
 | [Come in the Room \(Live\)](https://open.spotify.com/track/3sWt03zQzPBVb5dd7WJURR) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Word + Prayer + Worship \(Live\)](https://open.spotify.com/album/5nlCdqYd7NUVtoLALpIYHv) | 8:56 | 2023-05-05 | 2023-06-23 |
-| [Commando](https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando](https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr) | 3:31 | 2023-06-23 |  |
+| [Commando](https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando](https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr) | 3:31 | 2023-06-23 | 2025-05-09 |
 | [Commando](https://open.spotify.com/track/7GBZW2xGV8BtpwpST2cCqK) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando EP](https://open.spotify.com/album/4ROM3smMMmauFbKpVmyhlL) | 3:31 | 2023-08-25 | 2023-09-01 |
 | [Commando](https://open.spotify.com/track/5yG99yTmKFjyJXM3FSSyHR) | [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Commando](https://open.spotify.com/album/3VON2Bnrhrq6FoTIHToPxC) | 3:12 | 2023-08-25 | 2023-09-01 |
 | [Conduis mes pas](https://open.spotify.com/track/1zGlgkEa3sONbUQISvtGtO) | [LORD LOMBO](https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX), [Princesse Betu](https://open.spotify.com/artist/6BbWSslst8GBiQQHtDiMST), [BEN MAVINGA](https://open.spotify.com/artist/3QekiUqMIPwFSYGcoOJWCQ) | [Conduis mes pas](https://open.spotify.com/album/3TxaM33oOiLSwIwS7JC15h) | 4:58 | 2023-04-14 | 2023-05-05 |
@@ -328,6 +328,7 @@
 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 | 2018-10-01 | 2023-02-21 |
 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 | 2023-06-09 | 2023-09-01 |
 | [Product of Grace](https://open.spotify.com/track/32HuC8zZHlhPrSxuZs6fKT) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Flavour of Africa](https://open.spotify.com/album/4D0ryhrcpymr7pnl0jhVH3) | 3:54 | 2020-12-03 | 2022-03-11 |
+| [Promise Keeper](https://open.spotify.com/track/4kQlvea7CbFtYSiy9t3ykj) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk) | [Dominion](https://open.spotify.com/album/6223AIJdGlffG41YN32ail) | 3:04 | 2025-05-09 |  |
 | [Protect Me](https://open.spotify.com/track/4OPZAh3YBNGHstO7jKV0iP) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 2:44 | 2023-08-25 | 2023-09-01 |
 | [Protect Me \- Remix](https://open.spotify.com/track/20th9lVZbXyTiTDbZiSUFg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Protect Me \(Remix\)](https://open.spotify.com/album/20AYZPowMzmL2D6Cuev0I9) | 2:44 | 2023-06-16 | 2023-06-21 |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-04-07 | 2025-01-31 |

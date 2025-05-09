@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 8 hr 10 min
+145 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Just a Second](https://open.spotify.com/track/33vRItyPv1a9n1g2mWtH1N) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Just a Second](https://open.spotify.com/album/0XLX8xTRvNlZcdT6VStkFR) | 3:59 | 2024-06-13 |  |
 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 | 2024-06-13 |  |
 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 | 2024-06-14 |  |
+| [Lose Yourself](https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Lose Yourself](https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB) | 2:54 | 2025-05-08 |  |
 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-12-17 |  |
 | [Love Me Or Let Me Go](https://open.spotify.com/track/3Ibf5MzsKj4TKeeoL8ZtiQ) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Love Me Or Let Me Go](https://open.spotify.com/album/4nRcUuqqch0WbjDk3OvOoe) | 2:34 | 2024-06-13 |  |
 | [Love Nor Money](https://open.spotify.com/track/409lSJ3BoGROb8UqcoVPDC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Love Nor Money](https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl) | 2:50 | 2024-06-13 |  |
@@ -101,6 +102,7 @@
 | [Passion \- Tantrum Desire Remix](https://open.spotify.com/track/2v88kuFdMAZofeB3Wo1DLX) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Ten Thousand Feet & Rising \(The Remixes\)](https://open.spotify.com/album/7kp17InWsncD5sl6B7yakM) | 4:47 | 2024-06-13 |  |
 | [Play With Fire](https://open.spotify.com/track/0X214IiDWGaV68nzAnyGZW) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Play With Fire](https://open.spotify.com/album/5oBhLCEbpEBVsTCjqzu95u) | 3:13 | 2024-06-13 |  |
 | [Pull Up](https://open.spotify.com/track/14ypcMSqXvuiGFcaMrGreK) | [DJ Hanzel](https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [anti everything](https://open.spotify.com/album/2VhtWe9LsmM3Ckhdpj1Tqu) | 2:40 | 2024-06-13 |  |
+| [R&L](https://open.spotify.com/track/54YpijDJAZ5PPz8B7pu87V) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [We Lost Ourselves and Found A Family](https://open.spotify.com/album/6yViLlBfDfb5mRrRaYqUtq) | 3:20 | 2025-05-08 |  |
 | [Rain](https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Rain](https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX) | 3:06 | 2025-02-08 |  |
 | [Ready For My Love \(feat\. Kudu Blue\)](https://open.spotify.com/track/2qfKlNXwBtGGzUuJBGZYVF) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ready For My Love \(feat\. Kudu Blue\)](https://open.spotify.com/album/2M6A1kotD0LIMOokRXJF5J) | 2:23 | 2024-06-13 |  |
 | [Ready To Love](https://open.spotify.com/track/6RTM82pEYPtRegOTMGz1Ss) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Ready To Love](https://open.spotify.com/album/2OgjdtV1Yx8avKj30CvPpy) | 2:25 | 2025-01-09 | 2025-04-12 |

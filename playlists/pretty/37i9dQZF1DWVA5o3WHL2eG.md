@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zoë Më
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,561 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,580 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,19 +23,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Jail](https://open.spotify.com/track/1oyUbXfp7bEGVjqcsTKttC) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Grandma On The Dancefloor](https://open.spotify.com/album/6KWFefpEa1TShCfDMU2ETn) | 1:50 |
 | 14 | [BADDIES](https://open.spotify.com/track/51Ox6fgfEHhw7eSRozu3cg) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [BADDIES](https://open.spotify.com/album/2qpNEpMn7uoBNUUnmci7jM) | 2:08 |
 | 15 | [Danke sagen](https://open.spotify.com/track/2RwL8OQf3RgdEIjjWOjnTK) | [Alina](https://open.spotify.com/artist/6hPlslLYRFnaIswJ5pn0rw) | [Ungefiltert](https://open.spotify.com/album/2Fjj1esqsdGzLopD2iICcJ) | 3:35 |
-| 16 | [Blumen auf dem Friedhof](https://open.spotify.com/track/3KGC4HMLgbRMK6XWCjIofj) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Blumen auf dem Friedhof](https://open.spotify.com/album/5JMVfYiwsyCCmxKWkZ9vZ5) | 2:33 |
+| 16 | [Fuck Marry Kill](https://open.spotify.com/track/63ClzlsRKKd3ggRum4HBSD) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Fuck Marry Kill](https://open.spotify.com/album/4QMoElshtpQOGNhIf8Oy8Y) | 2:55 |
 | 17 | [Liste des Interdits](https://open.spotify.com/track/5101smY8IQ4gm8z0KKDPpl) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Liste des Interdits](https://open.spotify.com/album/05xUH4lTx258ILjXjsx7Oh) | 3:06 |
-| 18 | [Fuck Marry Kill](https://open.spotify.com/track/63ClzlsRKKd3ggRum4HBSD) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Fuck Marry Kill](https://open.spotify.com/album/4QMoElshtpQOGNhIf8Oy8Y) | 2:55 |
+| 18 | [Blumen auf dem Friedhof](https://open.spotify.com/track/3KGC4HMLgbRMK6XWCjIofj) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Blumen auf dem Friedhof](https://open.spotify.com/album/5JMVfYiwsyCCmxKWkZ9vZ5) | 2:33 |
 | 19 | [Unterwegs](https://open.spotify.com/track/40jJzV9jbjOBffMaSNeWXT) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Unterwegs](https://open.spotify.com/album/6XlZr5BuPXtawE2KIZ89Up) | 2:30 |
 | 20 | [Keine Zeit/Selbstmitleid](https://open.spotify.com/track/6iG5sYycr1fzTajS770BzE) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Keine Zeit/Selbstmitleid](https://open.spotify.com/album/4IfKrwMwA3WFuKlxTljiFp) | 2:51 |
 | 21 | [FRAU](https://open.spotify.com/track/4QQsVX9PHWm0w0mm82Xjj3) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [FRAU](https://open.spotify.com/album/2jU2rAGE4VgIpTfTGnNJ3R) | 2:56 |
 | 22 | [Wandrisse](https://open.spotify.com/track/40i48ukbj3os9j30zFvA0F) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wandrisse](https://open.spotify.com/album/0mYVH89m0NIpU2LXpfDOK3) | 2:42 |
-| 23 | [Deep Inside Love \- Edit](https://open.spotify.com/track/2aZTZK0TiD44o5HyzKz9uE) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Deep Inside Love](https://open.spotify.com/album/2q8QCvf45Ti8KSBMJgpQNF) | 4:04 |
-| 24 | [Das wogende Meer](https://open.spotify.com/track/5rSFdVtWg673wdGAdXC8DG) | [Dota Kehr](https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga) | [Das wogende Meer](https://open.spotify.com/album/3fKWnQJXKp5EnE4klViWJM) | 3:14 |
+| 23 | [Das wogende Meer](https://open.spotify.com/track/5rSFdVtWg673wdGAdXC8DG) | [Dota Kehr](https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga) | [Das wogende Meer](https://open.spotify.com/album/3fKWnQJXKp5EnE4klViWJM) | 3:14 |
+| 24 | [Deep Inside Love \- Edit](https://open.spotify.com/track/2aZTZK0TiD44o5HyzKz9uE) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Deep Inside Love](https://open.spotify.com/album/2q8QCvf45Ti8KSBMJgpQNF) | 4:04 |
 | 25 | [Ok](https://open.spotify.com/track/5YrONaqm7njKu0imcINj7O) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Ok](https://open.spotify.com/album/1FBHLmElb7q1sJKhem5wbP) | 2:25 |
-| 26 | [Say What You Want](https://open.spotify.com/track/73i6cz59sCQFNaZwR8p96N) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Say What You Want](https://open.spotify.com/album/5plD1YDdvlJWIzK5fic2GU) | 2:15 |
-| 27 | [Unlearn](https://open.spotify.com/track/0bCY2oqtq99zTgg9OYzjpH) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Unlearn](https://open.spotify.com/album/1eAcorMqEkerbVH1stj7og) | 3:06 |
-| 28 | [Geist](https://open.spotify.com/track/65MUQzyTn5lz067N0yS57E) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Geist](https://open.spotify.com/album/2TLFXXiWA9Q8uw3Xle2wwa) | 3:21 |
+| 26 | [Geist](https://open.spotify.com/track/65MUQzyTn5lz067N0yS57E) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Geist](https://open.spotify.com/album/2TLFXXiWA9Q8uw3Xle2wwa) | 3:21 |
+| 27 | [Say What You Want](https://open.spotify.com/track/73i6cz59sCQFNaZwR8p96N) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Say What You Want](https://open.spotify.com/album/5plD1YDdvlJWIzK5fic2GU) | 2:15 |
+| 28 | [Unlearn](https://open.spotify.com/track/0bCY2oqtq99zTgg9OYzjpH) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Unlearn](https://open.spotify.com/album/1eAcorMqEkerbVH1stj7og) | 3:06 |
 | 29 | [Blauen Planeten](https://open.spotify.com/track/7tQFQPmug9ZMVEam7ZJU8y) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Blauen Planeten](https://open.spotify.com/album/54fMKybZ2ekWi3R2jLLw33) | 2:44 |
 | 30 | [Mystic Love](https://open.spotify.com/track/5aF6bFy7Q5CQftJzkHRPyJ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mystic Love](https://open.spotify.com/album/1psvgaLdxg6HRA6o5SMhW0) | 4:47 |
 | 31 | [Delusional](https://open.spotify.com/track/2G01NugTMqUFQscRAVkc4A) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Delusional](https://open.spotify.com/album/26HrMm2LC1z51Rp1ANp20M) | 2:21 |
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [Boys & Girls & Theys](https://open.spotify.com/track/0K3gWuGSDC0V0UHm60KhWn) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [Boys & Girls & Theys](https://open.spotify.com/album/3yru8SXHsVIlSQnpOT8Nhn) | 3:19 |
 | 35 | [Blinde Passagiere](https://open.spotify.com/track/7j4R30Ae96SBBkTAolLCcb) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Schiffe Versenken \(tape\)](https://open.spotify.com/album/1rrBIh1c1off8NJmY5Ltnx) | 3:06 |
 | 36 | [Mirror](https://open.spotify.com/track/1pIPpS2d4wjQG3qtjbq7GF) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Mirror](https://open.spotify.com/album/4hmXcfGg3N8YBZDLAB6wZz) | 3:12 |
-| 37 | [Rotes Haus](https://open.spotify.com/track/5gmgZxiTQtHPFdgo5BR2bC) | [Ana Kohler](https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw) | [Rotes Haus](https://open.spotify.com/album/5EQT7WmZgwDrvfVQUV5DZJ) | 2:38 |
-| 38 | [fick dich](https://open.spotify.com/track/3aoWrdMqBvc7Vn025KDPBe) | [emma](https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw) | [fick dich](https://open.spotify.com/album/7qjivdljBThfyKLJPEzEgZ) | 2:32 |
+| 37 | [fick dich](https://open.spotify.com/track/3aoWrdMqBvc7Vn025KDPBe) | [emma](https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw) | [fick dich](https://open.spotify.com/album/7qjivdljBThfyKLJPEzEgZ) | 2:32 |
+| 38 | [Rotes Haus](https://open.spotify.com/track/5gmgZxiTQtHPFdgo5BR2bC) | [Ana Kohler](https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw) | [Rotes Haus](https://open.spotify.com/album/5EQT7WmZgwDrvfVQUV5DZJ) | 2:38 |
 | 39 | [I Hate Love](https://open.spotify.com/track/0LeyCzaxWW6ashnoEiow37) | [lina\-mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Hate Love](https://open.spotify.com/album/1kA1toYzXRZe6fZle3oLQH) | 3:12 |
 | 40 | [Little Girl](https://open.spotify.com/track/3qWB0PqkjR8D0tC3xmpy4s) | [The Red Flags](https://open.spotify.com/artist/7FIb3f7HlWJre42vwT6rDN) | [Little Girl](https://open.spotify.com/album/2EjiBxcgXvcpuG7mwI2yro) | 1:31 |
-| 41 | [Tommy](https://open.spotify.com/track/0M5yOiTKWbHlZOGS9q1Lqy) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Tommy](https://open.spotify.com/album/7f79w4qMEqGgFaVgMfBAwb) | 2:02 |
-| 42 | [Room 109](https://open.spotify.com/track/7CWYaYmYxNs9y6GNDioCN3) | [Paula Stellar](https://open.spotify.com/artist/0EDLf6tilNm7OP8Hxtx4I2) | [Room 109](https://open.spotify.com/album/6PBqqY6Fqw0kFzcx7t6eLn) | 2:35 |
-| 43 | [Outdoor Guy](https://open.spotify.com/track/1kEqnatUtLQIWb8gKyiXz2) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Outdoor Guy](https://open.spotify.com/album/0PHEp3OkW1iozIuxAqW8xp) | 2:48 |
-| 44 | [mondsong](https://open.spotify.com/track/5PH1gduBGAlmykNlEAcc40) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [mondsong](https://open.spotify.com/album/6XltJT72xR2g0959sm5vCd) | 2:07 |
+| 41 | [Room 109](https://open.spotify.com/track/7CWYaYmYxNs9y6GNDioCN3) | [Paula Stellar](https://open.spotify.com/artist/0EDLf6tilNm7OP8Hxtx4I2) | [Room 109](https://open.spotify.com/album/6PBqqY6Fqw0kFzcx7t6eLn) | 2:35 |
+| 42 | [Tommy](https://open.spotify.com/track/0M5yOiTKWbHlZOGS9q1Lqy) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Tommy](https://open.spotify.com/album/7f79w4qMEqGgFaVgMfBAwb) | 2:02 |
+| 43 | [mondsong](https://open.spotify.com/track/5PH1gduBGAlmykNlEAcc40) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [mondsong](https://open.spotify.com/album/6XltJT72xR2g0959sm5vCd) | 2:07 |
+| 44 | [Outdoor Guy](https://open.spotify.com/track/1kEqnatUtLQIWb8gKyiXz2) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Outdoor Guy](https://open.spotify.com/album/0PHEp3OkW1iozIuxAqW8xp) | 2:48 |
 | 45 | [I'll Take The Cake](https://open.spotify.com/track/4nTTsz2fvWhaI9sCorNafH) | [Veigh Malow](https://open.spotify.com/artist/3wHRJEtJVhuTWFIFZxgZ8G) | [I'll Take The Cake](https://open.spotify.com/album/4EvIwHb4oZ1EHKOJ3KENul) | 3:19 |
 | 46 | [Run Boy Run](https://open.spotify.com/track/7pM3w00254rTDdlzYhYObw) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Socially Awkward](https://open.spotify.com/album/5MN9hKbSo0VKxy7tgtj4GB) | 2:54 |
 | 47 | [Would I Be A Woman](https://open.spotify.com/track/7uwmt2YPuyFOcTAGDNEOo1) | [Marlena Käthe](https://open.spotify.com/artist/40sGCC2yxtOagLD7aewQJc), [Fama M'Boup](https://open.spotify.com/artist/4evTQ9PcRlZvvlK4TtW4HF) | [Would I Be A Woman](https://open.spotify.com/album/5dUOevsymHIPMV2snFTNun) | 3:21 |

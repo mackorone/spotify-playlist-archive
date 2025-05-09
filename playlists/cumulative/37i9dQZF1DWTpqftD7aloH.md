@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-433 songs - 1 day 18 hr 15 min
+434 songs - 1 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 | 2022-09-09 | 2023-07-15 |
 | [Buscar\-Me\-Eis e Me Achareis \- Ao Vivo](https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [Buscar\-Me\-Eis e Me Achareis \(Ao Vivo\)](https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8) | 8:39 | 2025-02-14 |  |
 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 | 2023-11-24 |  |
+| [Calmaria \- Ao Vivo](https://open.spotify.com/track/22Ud0n6Goh2jzgaIKasfrP) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Calmaria \(Ao Vivo\)](https://open.spotify.com/album/0Rzj5SVQ34yM39Gu63duut) | 6:10 | 2025-05-02 |  |
 | [Caminho no Deserto](https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Caminho no Deserto](https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62) | 6:49 | 2022-09-09 | 2024-09-21 |
 | [Canção de Maria \(Live Conference \- Vol\. 2\) \- Ao Vivo](https://open.spotify.com/track/2XHi3uwjBX5czkgHDGToSV) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Canção de Maria \(Live Conference \- Vol\. 2\) \[Ao Vivo\]](https://open.spotify.com/album/4PZwPZ2lzZwhAkJvgJO5RZ) | 8:18 | 2023-10-20 | 2023-10-26 |
 | [Canção de Moisés \- Ao Vivo](https://open.spotify.com/track/7kEMkJLiiDh9syRk7wXqNs) | [VITOHRIA SOUNDS](https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN), [Juliana Domingues](https://open.spotify.com/artist/6bapqg8rFSTjsP7kuPI0tj), [Samuel Mendes](https://open.spotify.com/artist/3GINq36QZv94G8du5yKL0d) | [Canção de Moisés \(Ao Vivo\)](https://open.spotify.com/album/6Miismzx4298uOxv0osOMU) | 9:06 | 2024-08-16 | 2024-12-04 |
@@ -266,7 +267,7 @@
 | [O Nome \- Ao Vivo](https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [O Nome \(Ao Vivo\)](https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk) | 7:06 | 2024-08-16 |  |
 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI) | 8:48 | 2023-09-25 |  |
 | [O Que Sua Glória Fez Comigo](https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 6:39 | 2023-06-23 | 2025-05-03 |
-| [O Que Tua Glória Fez Comigo \- Ao Vivo](https://open.spotify.com/track/7bKGZ3mPLFQaxTE8FIn3uf) | [Daniel Renovado](https://open.spotify.com/artist/0NWtWAXadyumDoXvvYwawf), [100 Preconceito](https://open.spotify.com/artist/1GEAR8S0QfpMT2c2s9cf4Z) | [O Que Tua Glória Fez Comigo \(Ao Vivo\)](https://open.spotify.com/album/113BIkOZTB7RiZ9EnhnTqR) | 3:37 | 2025-05-02 |  |
+| [O Que Tua Glória Fez Comigo \- Ao Vivo](https://open.spotify.com/track/7bKGZ3mPLFQaxTE8FIn3uf) | [Daniel Renovado](https://open.spotify.com/artist/0NWtWAXadyumDoXvvYwawf), [100 Preconceito](https://open.spotify.com/artist/1GEAR8S0QfpMT2c2s9cf4Z) | [O Que Tua Glória Fez Comigo \(Ao Vivo\)](https://open.spotify.com/album/113BIkOZTB7RiZ9EnhnTqR) | 3:37 | 2025-05-02 | 2025-05-09 |
 | [O Que Tua Glória Fez Comigo \- Ao Vivo](https://open.spotify.com/track/5yonnE8BKuczROIGQKI6Ca) | [Leo Fonseca](https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [És Bem\-Vindo à Mesa](https://open.spotify.com/album/79XQ40MyFbpEpTZU1lnPRS) | 8:58 | 2025-02-14 |  |
 | [O Rei Está Voltando](https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [O Rei Está Voltando](https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA) | 3:47 | 2024-09-06 | 2025-04-18 |
 | [O Senhor do Tempo](https://open.spotify.com/track/24ZOQHs3222kboGzhlkf5E) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Senhor do Tempo](https://open.spotify.com/album/0BQ9B4eRqL4RS6rfKnGR0R) | 6:18 | 2023-10-06 | 2024-01-11 |

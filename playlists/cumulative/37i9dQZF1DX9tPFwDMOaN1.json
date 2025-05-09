@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: TOMORROW X TOGETHER(\ud22c\ubaa8\ub85c\uc6b0\ubc14\uc774\ud22c\uac8c\ub354))",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: DAY6)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -4538,7 +4538,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 159797,
       "name": "HER",
       "url": "https://open.spotify.com/track/2MbPhDgeXVipowltFneRH2"
@@ -6653,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224249,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b"
+    },
+    {
+      "album": {
         "name": "Band Aid",
         "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
       },
@@ -6730,6 +6748,28 @@
       "duration_ms": 249752,
       "name": "MERRY-GO-ROUND (Feat. Zion.T, Wonstein) (Prod. Slom)",
       "url": "https://open.spotify.com/track/2eLe81VDUQ5f0xFfc9cMWz"
+    },
+    {
+      "album": {
+        "name": "Messy (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179055,
+      "name": "Messy (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
     },
     {
       "album": {
@@ -9878,7 +9918,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 214440,
       "name": "STUNNER",
       "url": "https://open.spotify.com/track/63j1HWrXmSk1zK7IZYQepo"

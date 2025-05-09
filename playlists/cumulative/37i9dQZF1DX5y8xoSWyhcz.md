@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,306 songs - 2 day 19 hr 24 min
+1,307 songs - 2 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Deer Island](https://open.spotify.com/track/7IQhSyhmcQvGAjL9G7FpwS) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Deer Island](https://open.spotify.com/album/5DUmX6Jvvr0OulQMgZhj6k) | 3:10 | 2021-12-17 | 2022-01-15 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-03 | 2021-05-22 |
 | [delusion](https://open.spotify.com/track/4gSi5iErqKf4tL1qclmXnp) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 2:46 | 2024-10-04 |  |
+| [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-08 |  |
 | [Deserve You](https://open.spotify.com/track/2L9nHJ0rbRA5FnIzLCY41j) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Deserve You](https://open.spotify.com/album/4oOjgiYei0x7XWqUrS3Rkz) | 2:46 | 2021-09-04 | 2021-10-16 |
 | [Designated Driver](https://open.spotify.com/track/2sAUIlFLzyDMMI17TtohBf) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Designated Driver](https://open.spotify.com/album/3U7ZF5UANVBDXSOiSSHXhl) | 3:58 | 2022-08-12 | 2022-10-22 |
 | [Dialtone \(ft\. Quiet Luke\)](https://open.spotify.com/track/6pb2FYR7awAEAfdc2vcNJy) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9), [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF) | [Dialtone \(ft\. Quiet Luke\)](https://open.spotify.com/album/5efEMWTnI5NPDJ0fh55DG2) | 3:02 | 2020-11-07 | 2020-11-11 |
@@ -511,7 +512,7 @@
 | [HOLD ON](https://open.spotify.com/track/21yOc5i6QFilcX7I3e5uQT) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [HOLD ON](https://open.spotify.com/album/00fxoc0ZvTu44iL61RE7Cx) | 3:50 | 2022-07-22 | 2022-08-06 |
 | [HOLD ON](https://open.spotify.com/track/6V0QJXTeEjlf8IGLg41Xxs) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [HOLD ON](https://open.spotify.com/album/3MO5VVGYYxolic0GrkB1JI) | 3:50 | 2022-03-18 | 2022-07-29 |
 | [Hole](https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Hole](https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8) | 2:54 | 2021-11-20 | 2022-01-15 |
-| [Home Alone](https://open.spotify.com/track/3L4xlzfNLq2F3NaGasKc9i) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:30 | 2024-03-15 |  |
+| [Home Alone](https://open.spotify.com/track/3L4xlzfNLq2F3NaGasKc9i) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:30 | 2024-03-15 | 2025-05-09 |
 | [Home for the Summer](https://open.spotify.com/track/6zHP0OCcZYtxumAqmRuIXk) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Home for the Summer](https://open.spotify.com/album/7898z7a35se7vtuoXTICxM) | 2:35 | 2020-10-29\* | 2021-03-06 |
 | [Homebody](https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Homebody](https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi) | 3:15 | 2023-06-30 | 2025-01-25 |
 | [homebody](https://open.spotify.com/track/0JVd3a4OYQCFg6MPKDtQTx) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better](https://open.spotify.com/album/5lfELljfy64NbnEZVksAXn) | 3:11 | 2020-10-29\* | 2020-12-12 |

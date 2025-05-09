@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Bailey Zimmerman, Luke Combs
+> The cream of today's country crop\. Cover: Megan Moroney, Kenny Chesney
 
-940 songs - 2 day 3 hr 21 min
+945 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Had To Be There](https://open.spotify.com/track/3AibB8ZzNrqLeXuLYj6oql) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Had To Be There](https://open.spotify.com/album/1hfo3fHdWWQ2UWlsJj3SoF) | 3:03 | 2024-05-15 | 2024-09-13 |
 | [Half the Man](https://open.spotify.com/track/16IXpCiQHWKKsTulspUpAF) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Half the Man](https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3) | 3:02 | 2023-06-15 | 2023-08-11 |
 | [Hang Tight Honey](https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Hang Tight Honey](https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2) | 3:09 | 2024-05-16 | 2024-12-06 |
+| [Hangin’ On](https://open.spotify.com/track/7Itz5KrLl0ITKRR1iYL7Ud) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [For Recreational Use Only](https://open.spotify.com/album/4m1rrBwb9R421U1CS0MzYV) | 3:26 | 2025-05-08 |  |
 | [Hangman](https://open.spotify.com/track/3dxV4eUBtvui9zXQVJvQna) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Hangman](https://open.spotify.com/album/3laNVBvsT0PqqTCKupEwDD) | 3:14 | 2022-08-25 | 2022-12-16 |
 | [Happy Hurts](https://open.spotify.com/track/79odnhnVWU9uEE3XAQhTo3) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Deluxe\)](https://open.spotify.com/album/7xY5v6aZvo4YZBOZSJbrDa) | 3:14 | 2024-02-15 | 2024-06-07 |
 | [Happy in This Bar](https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Happy in This Bar](https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl) | 2:37 | 2022-03-04 | 2022-06-24 |
@@ -528,6 +529,7 @@
 | [Mama's Eyes](https://open.spotify.com/track/3vDIOac07rO5yGTvNeNSh7) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Mama's Eyes](https://open.spotify.com/album/2OUWJQrzQJNk3Oeew9oN0T) | 3:10 | 2023-05-18 | 2023-07-21 |
 | [Mamaw's House](https://open.spotify.com/track/4HeViKsdSOLkOvwfcRVkK8) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [20 Number Ones \(Bonus Version\)](https://open.spotify.com/album/5H2qv56KuvEfPjPVYWStUe) | 3:07 | 2023-09-28 | 2024-04-19 |
 | [Man Made A Bar \(feat\. Eric Church\)](https://open.spotify.com/track/73zawW1ttszLRgT9By826D) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:11 | 2023-12-19 | 2024-07-05 |
+| [Man Of His Word](https://open.spotify.com/track/7Ea6jWtb0dC4rWySB39iqM) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Man Of His Word](https://open.spotify.com/album/3siwquvKbr45XEkLwMhuEi) | 4:02 | 2025-05-08 |  |
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-04-17 |  |
 | [Man on the Moon](https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Man on the Moon](https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI) | 3:07 | 2024-06-06 | 2024-08-02 |
 | [Married](https://open.spotify.com/track/52PKHwouqcZxnPcUE0en29) | [The Wet Whistles](https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj) | [KICKONS](https://open.spotify.com/album/6jTtXvHk7B1W4Pqs3jBPK5) | 3:31 | 2024-08-22 | 2024-10-04 |
@@ -720,6 +722,7 @@
 | [Small Town](https://open.spotify.com/track/6oklsftiYsTcGap5JvEwft) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Small Town](https://open.spotify.com/album/1e6Glg5MJwCyfx23uD2NWP) | 3:41 | 2022-12-04 | 2023-05-05 |
 | [SMALL TOWN](https://open.spotify.com/track/1NesmjPETOsK9X9jR9qXZR) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [SMALL TOWN](https://open.spotify.com/album/3hCTc2Vollvn6DSK2uzMe3) | 2:40 | 2021-12-30 | 2022-06-17 |
 | [Small Town Friday Nights](https://open.spotify.com/track/4NkGmYoyhZ8qsJILRd5QSV) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Small Town Friday Nights](https://open.spotify.com/album/1q499514mNBWntSo9j1n5i) | 3:03 | 2022-10-06 | 2023-06-09 |
+| [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 | 2025-05-08 |  |
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-02 | 2025-03-21 |
 | [Smoke & Embers](https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Smoke & Embers](https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78) | 3:47 | 2025-04-03 |  |
 | [Smooth](https://open.spotify.com/track/334YfRsUNPz8YXKmnOfGdR) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Born Lonely](https://open.spotify.com/album/7000MO2d4WELTAJZdokU3d) | 3:30 | 2024-06-06 | 2024-08-02 |
@@ -836,6 +839,7 @@
 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 | 2022-04-21 | 2022-09-16 |
 | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/track/5DWplsLK5juocMo4PBX826) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/album/1dbfKHyu773FIRYf8dQY8v) | 2:30 | 2024-06-13 | 2024-07-19 |
 | [Too Far Gone](https://open.spotify.com/track/0yJbmeXPDK1dXsCEshUuMC) | [Zac Cross Band](https://open.spotify.com/artist/6l91CwKtYnZKbKbGS0CRIw) | [Too Far Gone](https://open.spotify.com/album/1WLgw88p4v0I3MYoA3L1ze) | 3:12 | 2023-10-26 | 2023-12-20 |
+| [too good](https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:40 | 2025-05-08 |  |
 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-18 | 2024-04-05 |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-03-21 |
 | [Train of Thought](https://open.spotify.com/track/5tIsdN7zL2cRjpujyTvlpy) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Train of Thought](https://open.spotify.com/album/4kFXUiQZPAjH7cXzvtVj1d) | 3:02 | 2024-08-29 | 2024-12-06 |
@@ -941,6 +945,7 @@
 | [You Fall](https://open.spotify.com/track/1V3WX6iR228GPdroMUAhd5) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [You Fall](https://open.spotify.com/album/6v2uT9DKF0HNQ9z1x4mdX1) | 3:12 | 2024-10-10 | 2025-01-10 |
 | [You For A Reason](https://open.spotify.com/track/10QxsSJlNl8jrylYL5XGJO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [You For A Reason](https://open.spotify.com/album/5kIKFBdjL155Okv2nXTEWj) | 3:03 | 2024-10-17 | 2025-01-31 |
 | [You Got That Love](https://open.spotify.com/track/4tEquQObYjC9tv4cQO7azt) | [Robbie Mortimer](https://open.spotify.com/artist/3oa0tGFnDuTzsk7dP2qoDj) | [You Got That Love](https://open.spotify.com/album/6sDIGtPP1culG2xMKACssT) | 3:01 | 2024-07-11 | 2024-09-27 |
+| [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 | 2025-05-08 |  |
 | [You In ‘85](https://open.spotify.com/track/114dKPgEs8bz4KF0mFjncb) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Go Down Singin'](https://open.spotify.com/album/4igW8o6tsKLni90BATzTYq) | 3:25 | 2024-09-19 | 2024-12-06 |
 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 | 2024-07-04 | 2024-10-18 |
 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2022-05-12 | 2022-12-05 |

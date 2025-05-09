@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Médine
+> Les plus belles plumes rap français du moment\. Photo : Zamdane
 
-190 songs - 10 hr 22 min
+191 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Générique de Fin \- Nouvelle École](https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:05 | 2024-07-25 | 2024-11-08 |
 | [H21](https://open.spotify.com/track/7FSuzsuMvRUGM0218OCzm9) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [H21](https://open.spotify.com/album/7HSEzzwzrf4m5htQlzG97v) | 6:23 | 2024-11-07 |  |
 | [Hakim](https://open.spotify.com/track/3MLrnLglYGBraOy3Dw1bc0) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P) | [Hakim](https://open.spotify.com/album/7qDOg3miKligCldmyUtFJw) | 2:45 | 2024-06-27 | 2024-08-30 |
-| [Helvetica](https://open.spotify.com/track/2uLHuCD8pTTRdESyzQIxHm) | [Dj Per\-k](https://open.spotify.com/artist/7FUOByx9lUieRgTu0Glxrz), [Verso](https://open.spotify.com/artist/2wadI8Occyuywvkq9rbbn7), [French Light Records](https://open.spotify.com/artist/7d5v0oeFx3pH3Ep9xlNQlM) | [Helvetica](https://open.spotify.com/album/48guKebksVXsWJuOIAQfji) | 2:06 | 2025-04-03 |  |
+| [Helvetica](https://open.spotify.com/track/2uLHuCD8pTTRdESyzQIxHm) | [Dj Per\-k](https://open.spotify.com/artist/7FUOByx9lUieRgTu0Glxrz), [Verso](https://open.spotify.com/artist/2wadI8Occyuywvkq9rbbn7), [French Light Records](https://open.spotify.com/artist/7d5v0oeFx3pH3Ep9xlNQlM) | [Helvetica](https://open.spotify.com/album/48guKebksVXsWJuOIAQfji) | 2:06 | 2025-04-03 | 2025-05-09 |
 | [Hero](https://open.spotify.com/track/0PgsUc1BmxWwDptusFNqbz) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Hero](https://open.spotify.com/album/7h7Q8H99xGItVhyReDQSCn) | 3:52 | 2025-05-01 |  |
 | [Hip\-hop Académie](https://open.spotify.com/track/6mmZ7mcSAJ1fOXog7uYLnF) | [Grödash](https://open.spotify.com/artist/5UkzlzLr46wmFHyqFJXjSu), [DJ Rolxx](https://open.spotify.com/artist/6F3rbxyy8bOUkv6QEWcLfV) | [Hip\-hop Académie](https://open.spotify.com/album/35RPjksDCO0XNnMVClejAQ) | 2:50 | 2025-01-09 | 2025-03-07 |
 | [HIVER AUTOMNE](https://open.spotify.com/track/77tMzKJzSlUnRuxuLw9gPm) | [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi) | [HIVER AUTOMNE](https://open.spotify.com/album/3zcwS8dRR30sgEmjqYNv9z) | 3:02 | 2025-03-09 | 2025-03-28 |
@@ -123,12 +123,13 @@
 | [Libre\-penseur](https://open.spotify.com/track/76r0QoAnrdoeyYWJ1lxYru) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Libre\-penseur](https://open.spotify.com/album/4EtqSIW7iI4jnck9OEMOwZ) | 2:32 | 2025-01-16 |  |
 | [Loup noir](https://open.spotify.com/track/4ZKVvqYmWN3YDsxSKrfIBp) | [Euphonik](https://open.spotify.com/artist/0uRneTUgP2kyaFBDWmALuW) | [Loup noir](https://open.spotify.com/album/2hpxbLIZn3nzJPw5FaK8Uz) | 2:42 | 2025-04-24 |  |
 | [LOYAL](https://open.spotify.com/track/5l9LW7OIwaNsptOOc1KbeR) | [Pit Baccardi](https://open.spotify.com/artist/5Gf71JW8QjF77ELQ94JX38) | [LOYAL](https://open.spotify.com/album/7ljqJZLeyUk15vdzkIK8Bh) | 2:50 | 2024-12-19 | 2025-01-10 |
-| [LUEUR d'espoir](https://open.spotify.com/track/1CCsdrc8QT6kFzm0LggO2l) | [C.O.R](https://open.spotify.com/artist/6COtnkYhmRVdsDXhSGYtBO) | [LUEUR D'ESPOIR](https://open.spotify.com/album/38mkXQseJ2zu9M2qn7Lezc) | 1:16 | 2025-05-01 |  |
+| [LUEUR D'ESPOIR](https://open.spotify.com/track/1CCsdrc8QT6kFzm0LggO2l) | [C.O.R](https://open.spotify.com/artist/6COtnkYhmRVdsDXhSGYtBO) | [LUEUR D'ESPOIR](https://open.spotify.com/album/38mkXQseJ2zu9M2qn7Lezc) | 1:16 | 2025-05-01 |  |
 | [Madame](https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9) | [IZAID](https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab) | [Madame](https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j) | 2:27 | 2024-06-27 | 2024-12-20 |
 | [MALADE](https://open.spotify.com/track/5yhBAmxinEdRDtQfFHyoB9) | [Eniah](https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj) | [POURQUOI T'ES...](https://open.spotify.com/album/6aeqFIQshxZ8oMPcJ9PvSp) | 2:42 | 2025-04-24 |  |
 | [MARIA](https://open.spotify.com/track/7IjrUpqsBHUq3nKlZAefGo) | [Tisma](https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu), [Guydelafonsdal](https://open.spotify.com/artist/7iYcFblFcWGHJ3WRZppuLD) | [TISMADELAFONSDAL \(EP\)](https://open.spotify.com/album/0RLOMiAp1pSufEew2vDdYu) | 2:55 | 2025-03-27 | 2025-05-02 |
 | [Matin de juin](https://open.spotify.com/track/3l0fM43Npl57Mbf0IGagHI) | [Cielbleu](https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc) | [Matin de juin](https://open.spotify.com/album/1255z6t7PBSwnxsmAeaIkv) | 2:35 | 2024-11-21 | 2025-01-17 |
 | [MEDUSA](https://open.spotify.com/track/32t0n86lnt6LFAFQu2fHTV) | [TH](https://open.spotify.com/artist/4k0UwfZq3WOpZiZosq3vQC) | [ALGORITHME](https://open.spotify.com/album/1djaMtM4WdoNYNk6Se9zmi) | 2:59 | 2025-04-17 |  |
+| [Mentalité](https://open.spotify.com/track/0OhHpneFiQ3CYdowm3wNRD) | [Lacraps](https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u), [Rimkhana](https://open.spotify.com/artist/1nTWQ8n1lHOC69qAA6EqxY) | [MENTALIDAD](https://open.spotify.com/album/0J7Zozr2Urg0OctWT8XgqE) | 2:57 | 2025-05-08 |  |
 | [Mexico en Janvier\_freestyle 2025](https://open.spotify.com/track/0lrlphKBszrLhFGu8lFY48) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Mexico en Janvier\_freestyle 2025](https://open.spotify.com/album/4UdhMmgyuPzPA5ilI159vP) | 3:10 | 2025-03-13 |  |
 | [MONTECRISTO](https://open.spotify.com/track/2GDHkCddNpV5MlqtpsDC5w) | [Tarik Azzouz](https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Chaque Jour](https://open.spotify.com/album/0CeyLRFqUGCnk37rUv7WXd) | 3:14 | 2025-01-30 | 2025-03-21 |
 | [Montreuil Queens](https://open.spotify.com/track/01qME8jWJYOtx1PeOnB5YC) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu), [L'uzine](https://open.spotify.com/artist/7BeihcnNgK5Md6ORbMEqwf) | [Battle Royale](https://open.spotify.com/album/3lAQ6ADktTeYIR9Nt3utr5) | 5:03 | 2025-05-01 |  |

@@ -4,7 +4,7 @@
 
 > Lauty Gram, con lo nuevo y lo viejo del reggaetón 🇦🇷
 
-282 songs - 13 hr 29 min
+285 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,11 @@
 | [Bottega Veneta](https://open.spotify.com/track/37Ce6PT0EFmWbc41QfIUBp) | [SAIBU](https://open.spotify.com/artist/5mSb56qJRcHVRRDveOmcfO), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau) | [Bottega Veneta](https://open.spotify.com/album/0diiq7TiNTfqFT14LOjx34) | 3:34 | 2024-11-15 |  |
 | [Cada Vez](https://open.spotify.com/track/7pXFWatDtUZibqr3fzaev8) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Fannel](https://open.spotify.com/artist/0hQVUeyB2yRgUJ3lksKO6S), [J eme 17](https://open.spotify.com/artist/0dP5nV8m70tWCBnPdOdPg4), [dimelokako](https://open.spotify.com/artist/5YVHmtpyu0wpKItRxn8YDA) | [Cada Vez](https://open.spotify.com/album/4UWsWdz91SpbdTazsYQhxJ) | 3:01 | 2024-05-24 | 2024-06-29 |
 | [Cartera Drxga y Maquillaje](https://open.spotify.com/track/1usHY94fx76ykpvlMD5dWk) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Cartera Drxga y Maquillaje](https://open.spotify.com/album/7idvjC1nomwslxVrZum7Rr) | 2:06 | 2023-01-05 |  |
+| [Carteras y Aviones](https://open.spotify.com/track/4YACWVpv7wh0Ha7FgiOxnB) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Renzo ED](https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [Carteras y Aviones](https://open.spotify.com/album/7ytiUi0BAi6a5ZRTNtNHkH) | 2:48 | 2025-05-09 |  |
 | [Castigo](https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Castigo](https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB) | 2:31 | 2024-07-05 |  |
 | [CG TITÁN](https://open.spotify.com/track/2nK093YRX43T7NbUanYVL1) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Rodrii Ortiz](https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2) | [CG TITÁN](https://open.spotify.com/album/1D0Cch9ZhxjdRQzT6rQFNZ) | 2:45 | 2023-10-27 | 2023-12-14 |
 | [Chau, Bye](https://open.spotify.com/track/5sZkmuKztMmkohDtvqKTBQ) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL) | [Chau, Bye](https://open.spotify.com/album/4s43PBRjE1avz28bIeOLL0) | 2:24 | 2023-03-10 |  |
+| [CHICKEN FINGERS](https://open.spotify.com/track/6FJblYXja2pJGplZwvpMeq) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [CHICKEN FINGERS](https://open.spotify.com/album/66FCjHvE7LTjhomCttjgC1) | 3:37 | 2025-05-09 |  |
 | [CHIN CHIN](https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [CHIN CHIN](https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx) | 2:58 | 2022-11-18 | 2023-05-13 |
 | [CHOKA CHOKA](https://open.spotify.com/track/1IqRotJFTJdprbNtm7Ja0j) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [CHOKA CHOKA](https://open.spotify.com/album/3uj4YB1j4R5r4Hkol6pbVI) | 2:24 | 2023-05-02 | 2024-01-20 |
 | [CLASS \#02: DT.Bilardo](https://open.spotify.com/track/4HV2sYJyHhhm3ekf4EEewk) | [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [CLASS \#02: DT.Bilardo](https://open.spotify.com/album/35Gj65krTFwrrU5ZgNQFZo) | 2:31 | 2023-03-03 | 2024-05-03 |
@@ -106,6 +108,7 @@
 | [GABO EL CHAMAQUITO \| TURBULENCIA 5 \| UN VIAJE](https://open.spotify.com/track/3xTLLPiK9glyehWMs3IA2V) | [Mateo Ribak](https://open.spotify.com/artist/0fBXgmsLCNrvrNbVgtuokv), [Yong Bryel](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU) | [GABO EL CHAMAQUITO \| TURBULENCIA 5 \| UN VIAJE](https://open.spotify.com/album/6iVB9OKZB5otCVrgoaJick) | 2:38 | 2024-02-23 | 2024-11-15 |
 | [Ganado](https://open.spotify.com/track/0BeZa24dBOLWkZMLKc5lTz) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Ganado](https://open.spotify.com/album/6UriVSnfc57grPiDYrSriF) | 2:50 | 2023-12-08 |  |
 | [Gatas](https://open.spotify.com/track/4Z6ucGPXIzZZTN70Q7KQM0) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Gatas](https://open.spotify.com/album/31dhzIDFoaVAwcN3bBwgNA) | 2:12 | 2022-05-24 | 2024-07-04 |
+| [GATITA OFICIAL](https://open.spotify.com/track/30RUPqywtsbXklcqmRn0Cn) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [GATITA OFICIAL](https://open.spotify.com/album/3nVCtf7MW0KwHJDQ7tXQfo) | 2:22 | 2025-05-09 |  |
 | [Goodbye](https://open.spotify.com/track/3gVnDk9My0gZJfeMsVMH64) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g) | [Goodbye](https://open.spotify.com/album/3JjXYcOLYr3TzwWkXpmdcd) | 2:38 | 2022-05-24 | 2022-08-06 |
 | [GUAPA](https://open.spotify.com/track/0zEiaWjsQKWUCZ6QuG4yh8) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [GUAPA](https://open.spotify.com/album/1jrkp733vjLW6058T7MznO) | 2:24 | 2025-01-24 | 2025-03-29 |
 | [Hace Rato](https://open.spotify.com/track/7qIQjokKz9tSxKoYRtv5Md) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:13 | 2022-05-24 |  |

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-788 songs - 2 day 8 hr 4 min
+789 songs - 2 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Gedima](https://open.spotify.com/track/1wQZ5zmN3gy1tvqeSR2Zr8) | [Jantra](https://open.spotify.com/artist/3MxZN1bBa3Skcr8qR22mNN) | [Gedima](https://open.spotify.com/album/4piHLEKpHAJLBFqIXJI3Nm) | 3:56 | 2023-06-16 | 2023-07-19 |
 | [Gennarino 'O Sioux](https://open.spotify.com/track/7yIQkdNIHAPwshIZdR4Jlk) | [Tonica & Dominante](https://open.spotify.com/artist/4U5PlulITu7q03ItEaIOmz) | [Tonica & Dominante](https://open.spotify.com/album/2l3BZH3NPEIlFaEckdh348) | 3:18 | 2023-10-05 |  |
 | [Ghibli](https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Ghibli](https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As) | 3:55 | 2022-08-31 | 2022-10-20 |
+| [Gianna Sisters](https://open.spotify.com/track/5Lx8lOUBpKJXE3BLBeh2Wm) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Big Crown Vaults Vol\. 4](https://open.spotify.com/album/5PDYSVgVfJ29a0zqiYOoSe) | 2:55 | 2025-05-02 |  |
 | [Giants](https://open.spotify.com/track/4SJUjn3TBetSRCbc7dvUNU) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w), [Marie Lister](https://open.spotify.com/artist/34z60znzjfkP95N7ijlBkl) | [Giants](https://open.spotify.com/album/2pTwOjonL43m8VlxlX74KO) | 5:55 | 2021-10-06 | 2022-07-29 |
 | [Giants](https://open.spotify.com/track/32B5eGIOm9qifV9hwpx0Kv) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w), [Marie Lister](https://open.spotify.com/artist/34z60znzjfkP95N7ijlBkl) | [I Rise with the Birds](https://open.spotify.com/album/7sb2iT9xN7M3D01rN1pQwm) | 5:56 | 2021-10-06 | 2023-03-25 |
 | [Ginga](https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:01 | 2021-10-06 |  |
@@ -392,7 +393,7 @@
 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 | 2022-09-02 |  |
 | [La Negra](https://open.spotify.com/track/7tUhh4MxnkgNvasB6ZxlAu) | [Hektombe](https://open.spotify.com/artist/1IJq0H8jAxPSeGSh2q0jPK) | [La Negra](https://open.spotify.com/album/7mzcTL8cKCD6uJ9lmXeIlf) | 5:59 | 2021-10-06 | 2022-04-19 |
 | [La Noche \- Paul A\. George Remix](https://open.spotify.com/track/62kbiZm7alamIjuQU4lHPN) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Antonio Lizana](https://open.spotify.com/artist/4T7mpZdg9qTc5wRVcmrGpL), [Paul A\. George](https://open.spotify.com/artist/08GEZmyd9tj1myQvEV5K4A) | [La Noche \(Paul A\. George Remix\)](https://open.spotify.com/album/7dCYwJeKRrasgznPZDxE1y) | 6:56 | 2024-12-10 | 2025-02-21 |
-| [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 | 2021-10-06 |  |
+| [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 | 2021-10-06 | 2025-05-09 |
 | [La Número Uno](https://open.spotify.com/track/4eNcQUEVbRkIIu9HdfN180) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Pase lo Que Pase](https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179) | 4:04 | 2021-10-06 | 2023-10-07 |
 | [La Que Es](https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE) | [Venezonix](https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6), [Betsayda Machado](https://open.spotify.com/artist/5NxtLG8o5Bsm23XJ9NYq1k), [Parranda el Clavo](https://open.spotify.com/artist/6rwsObUb4DHKh8o01y1nXp) | [La Que Es](https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt) | 3:14 | 2021-10-06 | 2022-04-18 |
 | [La Vida Da](https://open.spotify.com/track/3QUQGEjNmfdbyqIDUYoiY9) | [Solovino](https://open.spotify.com/artist/1tK101wDTXF3fmqGUAUYnA) | [La Vida Da](https://open.spotify.com/album/5DoL92zKeST2w19LqGjkFs) | 3:44 | 2021-10-06 | 2022-04-21 |

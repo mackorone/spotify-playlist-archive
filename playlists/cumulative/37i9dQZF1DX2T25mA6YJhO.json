@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto:  Amygdala.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os Bravos.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 167354,
       "name": "1900",
       "url": "https://open.spotify.com/track/3ipA6qIgx7ycMxj8EI2grU"
@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Todas a chica",
+        "url": "https://open.spotify.com/album/68unEZepTJeLoIfOLyOVGf"
+      },
+      "artists": [
+        {
+          "name": "Marina Dom\u00ednguez",
+          "url": "https://open.spotify.com/artist/3kheYglVYKfR3TCT7oy0lO"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146353,
+      "name": "Ch\u00e1ndal Amarillo",
+      "url": "https://open.spotify.com/track/3fNinLoXXHdaS4Vrmsuug4"
+    },
+    {
+      "album": {
         "name": "Cierra la puerta",
         "url": "https://open.spotify.com/album/5DA4ALes4Z3cEO7ekZeWMh"
       },
@@ -1104,6 +1122,24 @@
       "duration_ms": 171351,
       "name": "Cocido, Madrid",
       "url": "https://open.spotify.com/track/31bAzaiSL9YidyP54R3QdT"
+    },
+    {
+      "album": {
+        "name": "Cola del vicio",
+        "url": "https://open.spotify.com/album/524kESVwWDTg8O8ceaQTfg"
+      },
+      "artists": [
+        {
+          "name": "Syd dePalma",
+          "url": "https://open.spotify.com/artist/04vfo27dr0j76mPV6vtzuE"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279029,
+      "name": "Cola del vicio",
+      "url": "https://open.spotify.com/track/18vMC4pw4zvZxslDqxgvMQ"
     },
     {
       "album": {
@@ -1274,6 +1310,24 @@
       "duration_ms": 141664,
       "name": "C\u00fac\u00fa",
       "url": "https://open.spotify.com/track/3b3E5M5gouQX1ttI6XBNsD"
+    },
+    {
+      "album": {
+        "name": "Dando gracias",
+        "url": "https://open.spotify.com/album/2AQDRjVXwwllusH5uF8kZ3"
+      },
+      "artists": [
+        {
+          "name": "Oh! Marlene",
+          "url": "https://open.spotify.com/artist/1hTkLSI3jqW4AWmNTrfuPM"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215272,
+      "name": "Dando gracias",
+      "url": "https://open.spotify.com/track/0EFMaoZyXD11x3s5K7oDiX"
     },
     {
       "album": {
@@ -1494,7 +1548,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 151573,
       "name": "Dientes rotos",
       "url": "https://open.spotify.com/track/2E9Jb0WceoeB5Ujrj5kVZx"
@@ -1974,7 +2028,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 134000,
       "name": "Espidifren",
       "url": "https://open.spotify.com/track/4IGBNxP8A0RGB3Owkeu1az"
@@ -2206,7 +2260,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 250542,
       "name": "Foto con famoso",
       "url": "https://open.spotify.com/track/7z5K8cP5wqqv6P5C5kBSgU"
@@ -3392,7 +3446,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 170620,
       "name": "Marcelo Criminal",
       "url": "https://open.spotify.com/track/5AYXkf3s0p05afVBxsPVuB"
@@ -3761,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Mi Perro",
+        "url": "https://open.spotify.com/album/7hJnwsHC1uYoQ8aL6kIGVZ"
+      },
+      "artists": [
+        {
+          "name": "Amygdala",
+          "url": "https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Mi Perro",
+      "url": "https://open.spotify.com/track/4t9iv9XVamcI6bkhKzjOBj"
+    },
+    {
+      "album": {
         "name": "Mi vecino",
         "url": "https://open.spotify.com/album/4NRgvc0LkXuOWQAhvhxJHi"
       },
@@ -4125,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0Dal2YWxnbvBVtQM8QOHJA"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Bravos",
+          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133465,
+      "name": "No quiero problemas",
+      "url": "https://open.spotify.com/track/7ljoiISnf1h8pOjji2mDrQ"
+    },
+    {
+      "album": {
         "name": "Alg\u00fa vol un flam?",
         "url": "https://open.spotify.com/album/43MjODhGhP0FH73Qla6m3p"
       },
@@ -4136,7 +4226,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 165151,
       "name": "No quiero seguir as\u00ed",
       "url": "https://open.spotify.com/track/7IbWbWgT1ZBKtE8OjLVBMA"
@@ -5740,7 +5830,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 179294,
       "name": "TODO ROSA",
       "url": "https://open.spotify.com/track/2w4G9KIg5tfLF87lv38rBx"
@@ -5880,6 +5970,24 @@
       "duration_ms": 228181,
       "name": "Tu desd\u00e9n",
       "url": "https://open.spotify.com/track/15F604J9wmdF5nqgCrnkYs"
+    },
+    {
+      "album": {
+        "name": "Tu No Te Quieres Matar",
+        "url": "https://open.spotify.com/album/2HhH3TO0zHIUxw33rhfFXk"
+      },
+      "artists": [
+        {
+          "name": "Arena Polar",
+          "url": "https://open.spotify.com/artist/537HRWUPUPU5q4uUM3bZ3s"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186114,
+      "name": "Tu No Te Quieres Matar",
+      "url": "https://open.spotify.com/track/6cFITamYQzo5D47zmXgw2O"
     },
     {
       "album": {
@@ -6396,6 +6504,24 @@
       "duration_ms": 199426,
       "name": "Voy a morir sola",
       "url": "https://open.spotify.com/track/6ownCsTpWLOoNPgdGACLC5"
+    },
+    {
+      "album": {
+        "name": "El pop se autodestruira en 4, 3, 2, 1...",
+        "url": "https://open.spotify.com/album/0zE2gv7KEPGNO7LMBTLPHc"
+      },
+      "artists": [
+        {
+          "name": "The Killer Barbies",
+          "url": "https://open.spotify.com/artist/56yLECeTwcGv8OoIS9ycwP"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137242,
+      "name": "Voy a provocar un incendio",
+      "url": "https://open.spotify.com/track/0BGUfim41jqMZwR1tjkAmQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: Bens
 
-216 songs - 11 hr 41 min
+217 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Again](https://open.spotify.com/track/5a75z8ZqnRb4a7LHD23fWi) | [From//october](https://open.spotify.com/artist/2lAWD6Y3cQnPLikV5wKPfQ) | [As Time Went By](https://open.spotify.com/album/4GE7rF9A8vD61Kuo8qEgKz) | 3:24 | 2024-07-01 | 2025-05-08 |
 | [Alice](https://open.spotify.com/track/1Wm68cRdZHZclVWgowByub) | [MAYA MARIA](https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy) | [Alice](https://open.spotify.com/album/2YOVFeQhCUQgCPEyhkDLfU) | 2:18 | 2025-05-07 |  |
 | [Altijd Zo Geweest](https://open.spotify.com/track/4PdGpIDpf6HYwUp0zqG3ij) | [geosy](https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5) | [Altijd Zo Geweest](https://open.spotify.com/album/1QmypkSJqw08Y8Mp2loG9d) | 2:57 | 2024-07-01 | 2024-09-17 |
-| [And sleeple$$ night$](https://open.spotify.com/track/7f801V8AjQlIzPs685kvYC) | [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [And sleeple$$ night$](https://open.spotify.com/album/7KvvAU1rN3AfhaqlA6zH9V) | 2:17 | 2025-05-07 |  |
+| [And sleeple$$ night$](https://open.spotify.com/track/7f801V8AjQlIzPs685kvYC) | [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [And sleeple$$ night$](https://open.spotify.com/album/7KvvAU1rN3AfhaqlA6zH9V) | 2:17 | 2025-05-07 | 2025-05-09 |
 | [Autofellatio](https://open.spotify.com/track/5g2gu1yzJ3jYQuIdEfWD3P) | [Fellatio](https://open.spotify.com/artist/6ZZjX94x3t55GigdSiidr4) | [Autofellatio](https://open.spotify.com/album/6obAqJ7a59OwnG9TcYnusf) | 2:44 | 2025-05-07 |  |
 | [Aşkım Benim](https://open.spotify.com/track/45nk1gm67eO6KZimMZyFzK) | [Kemal](https://open.spotify.com/artist/1p3p2Usiclg9GN1OE13td5) | [Aşkım Benim](https://open.spotify.com/album/20ZtTOtyoQCE9XJnatqIKI) | 3:08 | 2025-05-07 |  |
 | [Bad Place](https://open.spotify.com/track/2NTGyJVScavdp5xZdaAkRo) | [Miss Starling](https://open.spotify.com/artist/2znAhxI4cVeGBd7e3G2t1E) | [Bad Place](https://open.spotify.com/album/5hwSOQb58sNwwH38TZtreH) | 3:10 | 2025-05-07 |  |
@@ -137,6 +137,7 @@
 | [My Mind](https://open.spotify.com/track/09AsbZCJfiybFmWIfki6xL) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Rêverie](https://open.spotify.com/album/5Kiks4Noq6GA4sbCfzn2W8) | 1:15 | 2024-07-01 | 2025-05-08 |
 | [My Old Friend](https://open.spotify.com/track/1yI9R2L2y1AsuxfRNGqfpy) | [Wortel](https://open.spotify.com/artist/3RiUJH3gqK11PH3k4rd3Sz) | [My Old Friend](https://open.spotify.com/album/62311EXoHOGTVNh6kINUHM) | 3:12 | 2024-10-21 | 2025-05-08 |
 | [Never Be Alone](https://open.spotify.com/track/6Gw0b1gHF7Q0868haihE6T) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Never Be Alone](https://open.spotify.com/album/2FmqNHHpTiGXPy6DUcSerW) | 3:08 | 2025-05-07 |  |
+| [Nightmare$](https://open.spotify.com/track/7kbbzpV34lJ2ESBrluZcTL) | [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Nightmare$](https://open.spotify.com/album/10bJOsNcNWOBqvRvICq33Q) | 2:06 | 2025-05-08 |  |
 | [Niks Doen](https://open.spotify.com/track/1Np2YDk3Ti4DnMV3tTrSOJ) | [Gijsjaradijsja](https://open.spotify.com/artist/7JOfgcKsCDFyGrgIOFDxZZ) | [Niks Doen](https://open.spotify.com/album/4F6tgYvqXPDj6r5eQmhEkZ) | 2:08 | 2024-07-01 | 2025-05-08 |
 | [No One Leaves Without Saying Goodbye](https://open.spotify.com/track/7zny72BKyflB9EJ0G4kwQP) | [Honey Camp](https://open.spotify.com/artist/4IUuubcdMywrkSCalmf0Um) | [No One Leaves Without Saying Goodbye](https://open.spotify.com/album/5boez4TwIfpACortOOLdYJ) | 4:03 | 2025-05-07 |  |
 | [Not Dead Yet](https://open.spotify.com/track/7sWUX5grGGuRRigr4VWeM5) | [ILÆNDER](https://open.spotify.com/artist/5IFTVCSrOl8dZwbLrYyg0Z) | [Not Dead Yet](https://open.spotify.com/album/0JzGRklYd7C8nh7aTQa8m9) | 4:17 | 2025-05-07 |  |

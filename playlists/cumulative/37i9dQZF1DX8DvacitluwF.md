@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=vklYbcGmQOuokZOSITh7yg"> Burna Boy</a>
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb?si=gmJBL\-MmTzm0J\_kHtB\_Dug"> Naomi Sharon</a>
 
-512 songs - 1 day 3 hr 28 min
+513 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Best Friend \(Control\)](https://open.spotify.com/track/7GOBGke0Z1vkccV5Mj4E2s) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [Best Friend \(Control\)](https://open.spotify.com/album/3BBhRMZrr9c2TyPupmPOBQ) | 3:06 | 2024-07-11 | 2024-09-03 |
 | [Birds](https://open.spotify.com/track/1Jy2MJzzfP6FHF9TeeMHtd) | [Shannon](https://open.spotify.com/artist/0cpRAqLFfaS1wgflVWtd4S) | [Birds](https://open.spotify.com/album/1tbzDVXgaVVE4PsM9uEOEy) | 2:30 | 2024-03-28 | 2024-08-31 |
 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 | 2024-02-08 | 2024-06-14 |
+| [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 | 2025-05-09 |  |
 | [Bittersweet](https://open.spotify.com/track/1xVncI2PZc9wHHiThpnl6i) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [Bittersweet](https://open.spotify.com/album/4slWIbVvyPiIdaS8qnLjSj) | 2:06 | 2023-10-12 | 2024-01-26 |
 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 | 2024-11-29 |  |
 | [Blame Yourself](https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Blame Yourself](https://open.spotify.com/album/6vTOLZuBKqosKg2lSUKcR6) | 4:09 | 2023-10-12 | 2023-10-20 |
@@ -300,7 +301,7 @@
 | [MORNING PEACE](https://open.spotify.com/track/4607H11d3SMFfITEICAFZe) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [Today's Tragedy, Tomorrow's Memory: the mixtape](https://open.spotify.com/album/4vhWSUXx9WQD5q4dZ5fq2F) | 3:58 | 2025-02-13 | 2025-03-01 |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 | 2024-02-09 |
 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 | 2024-11-29 | 2025-04-25 |
-| [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-10 |  |
+| [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-10 | 2025-05-09 |
 | [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 | 2024-08-30 | 2024-09-03 |
 | [My Terms](https://open.spotify.com/track/6Q1LfCohflkggCIpF5rO9S) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [My Terms](https://open.spotify.com/album/0sHRtny2YtgcRNPEJehPI6) | 2:06 | 2024-07-11 | 2024-11-29 |
 | [My Time \(feat\. Loki\)](https://open.spotify.com/track/3PjepBofgRr63rQc5uhsfp) | [Asvnte](https://open.spotify.com/artist/5bnvlUiyUv5RF53DDjrstn), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [My Time \(feat\. Loki\)](https://open.spotify.com/album/0Ud9BUj7itkfdS4LhNa9pw) | 3:15 | 2024-03-14 | 2024-08-31 |

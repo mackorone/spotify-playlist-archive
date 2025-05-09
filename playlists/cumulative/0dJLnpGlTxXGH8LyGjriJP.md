@@ -4,7 +4,7 @@
 
 > 
 
-857 songs - 1 day 19 hr 47 min
+858 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,6 +839,7 @@
 | [We Paid \(feat\. 42 Dugg\)](https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 3:01 | 2023-04-18 |  |
 | [Wet Dreamz](https://open.spotify.com/track/6Ius4TC0L3cN74HT7ENE6e) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL) | 3:59 | 2023-05-31 |  |
 | [Wet Em Up Pt\. 2](https://open.spotify.com/track/0w1x05XBSRIuVmKd3D0IPd) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:11 | 2022-06-09 |  |
+| [WHAT U NEED](https://open.spotify.com/track/2qh7a7RwoAUodnwAbHPECP) | [void](https://open.spotify.com/artist/5ySK6tR70ZunnmPEHCrCwF), [BABY BOI](https://open.spotify.com/artist/0ICav5bjbDMIrFMa4BGS1d) | [ANARCHY](https://open.spotify.com/album/6RU352ZToxkhvPq9LrpD3V) | 2:22 | 2025-05-08 |  |
 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 | 2023-05-10 |  |
 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2024-08-16 |  |
 | [Whatever She Wants](https://open.spotify.com/track/1F2YY9lXrRJxAppKaRMGML) | [Rlr Slime](https://open.spotify.com/artist/71ltjO8mWxEALHGt0bbfVZ), [Lil Bryson Tillerr](https://open.spotify.com/artist/1p1Pz5qFGwejLghf94opef) | [Whatever She Wants](https://open.spotify.com/album/1ymOdljx8dHJNxxoOUHV52) | 2:10 | 2024-01-27 |  |

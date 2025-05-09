@@ -4,7 +4,7 @@
 
 > Lo mejor del folclore nacional 📸  Sele Vera
 
-253 songs - 14 hr 49 min
+254 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/54Z1VfgxdIW0n19Df9r9Sy) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto \(En Vivo\) \[En Vivo en el Teatro Colón\]](https://open.spotify.com/album/7x6C47bUm4asmVz4UIvl2l) | 4:48 | 2021-07-23 | 2024-11-14 |
 | [Todo Está en Vos](https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [La Llave](https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6) | 3:50 | 2021-07-23 |  |
 | [Tonada del viejo amor](https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif) | [Patricio Villarejo](https://open.spotify.com/artist/0JkIG94rcts9CuTMPIuMVl), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Tonada del viejo amor](https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih) | 4:38 | 2024-05-03 | 2024-11-12 |
+| [Un Millón de rosas](https://open.spotify.com/track/58hBuil2mZcMTotNdyYr8m) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Un Millón de rosas](https://open.spotify.com/album/7cissQhE8wLqMq7z8z3aVU) | 3:15 | 2025-05-09 |  |
 | [Victoria](https://open.spotify.com/track/1KnSnwk49SV5MdTqQzLeNE) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 3:48 | 2021-07-23 | 2022-07-25 |
 | [Viejo Pescador del Paraná \(with Teresa Parodi & Chango Spasiuk\)](https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 3:56 | 2021-07-23 | 2024-11-26 |
 | [Vienes y Te Vas](https://open.spotify.com/track/188wTON3SZIoUVG39rINeq) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 3:05 | 2021-07-23 |  |

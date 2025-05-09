@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating 30 years of Shania Twain's timeless album \"The Woman In Me\" on 90s Country! ",
-  "num_followers": 2005670,
+  "num_followers": 2006233,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Hard Workin' Man",
-        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Hard Workin' Man",
-      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "I Still Believe In You",
         "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 224800,
       "name": "Don't Let Our Love Start Slippin' Away",
       "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Hard Workin' Man",
+        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Hard Workin' Man",
+      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Clay Walker",
-        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 166626,
-      "name": "What's It to You",
-      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "Six Days On The Road",
         "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 172080,
       "name": "Six Days On The Road",
       "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Clay Walker",
+        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 166626,
+      "name": "What's It to You",
+      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+        "name": "Lonestar",
+        "url": "https://open.spotify.com/album/2IwKTl4PY4Nh1WA7R0Qbwq"
       },
       "artists": [
         {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
         }
       ],
-      "duration_ms": 227640,
-      "name": "No Doubt About It",
-      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
+      "duration_ms": 173600,
+      "name": "No News",
+      "url": "https://open.spotify.com/track/2KgsImShtnuBYfKVgfbAuy"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1711,66 +1711,18 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Lonestar",
-        "url": "https://open.spotify.com/album/2IwKTl4PY4Nh1WA7R0Qbwq"
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 173600,
-      "name": "No News",
-      "url": "https://open.spotify.com/track/2KgsImShtnuBYfKVgfbAuy"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
-        "name": "For My Broken Heart",
-        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Is There Life Out There",
-      "url": "https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "I Left Something Turned On At Home",
-      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
+      "duration_ms": 227640,
+      "name": "No Doubt About It",
+      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1791,18 +1743,50 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Be Good At It",
-        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
+        "name": "For My Broken Heart",
+        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
       "artists": [
         {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 213333,
-      "name": "The Shake",
-      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
+      "duration_ms": 232666,
+      "name": "Is There Life Out There",
+      "url": "https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "I Left Something Turned On At Home",
+      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -1835,6 +1819,22 @@
       "duration_ms": 231506,
       "name": "Love, Me",
       "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Be Good At It",
+        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "The Shake",
+      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
     },
     {
       "added_at": "2025-02-07 16:35:27",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2025-02-07 16:35:27",
       "album": {
-        "name": "Tattoos & Scars",
-        "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "Hillbilly Shoes",
-      "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
-    },
-    {
-      "added_at": "2025-02-07 16:35:27",
-      "album": {
         "name": "Only What I Feel",
         "url": "https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 298560,
       "name": "How Can I Help You Say Goodbye",
       "url": "https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS"
+    },
+    {
+      "added_at": "2025-02-07 16:35:27",
+      "album": {
+        "name": "Tattoos & Scars",
+        "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Hillbilly Shoes",
+      "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
     },
     {
       "added_at": "2025-02-07 16:35:27",

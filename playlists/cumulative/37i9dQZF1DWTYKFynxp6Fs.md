@@ -4,14 +4,14 @@
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Rifle Club
 
-68 songs - 3 hr 57 min
+69 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aadharanjali](https://open.spotify.com/track/1h819b9tDPeqf9oKltPQ2Q) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Aadharanjali \(From "Romancham"\)](https://open.spotify.com/album/0giwKCfbM9L9h0TjoUnctO) | 2:29 | 2022-10-19 | 2025-02-18 |
 | [Aayiram Aura](https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aayiram Aura](https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ) | 4:16 | 2025-01-06 |  |
 | [Alif](https://open.spotify.com/track/0BdsMf23c1amsuZxqqFLI0) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Alif](https://open.spotify.com/album/2OG7wgIZqAxzTiUBT4zVhU) | 3:01 | 2024-07-09 |  |
-| [Angu Vaana Konilu \- From "ARM"](https://open.spotify.com/track/0xpeiTGSEchBhqrjDuIcSS) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb), [Manu Manjith](https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy) | [Angu Vaana Konilu \(From "ARM"\)](https://open.spotify.com/album/5lM0AnBxOAUfK5TrBstfzp) | 4:09 | 2024-09-30 |  |
+| [Angu Vaana Konilu \- From "ARM"](https://open.spotify.com/track/0xpeiTGSEchBhqrjDuIcSS) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb), [Manu Manjith](https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy) | [Angu Vaana Konilu \(From "ARM"\)](https://open.spotify.com/album/5lM0AnBxOAUfK5TrBstfzp) | 4:09 | 2024-09-30 | 2025-05-09 |
 | [Armadham](https://open.spotify.com/track/18afrwnlrByAjhi3Ve0Ehn) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Pranavam Sasi](https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Aavesham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3E0V1VegCFH9SeRSNWFKki) | 2:53 | 2024-05-13 |  |
 | [Athimanoharam \- From "Vaazha"](https://open.spotify.com/track/41TRVSREvHgKOT2lNtg6cB) | [Rajat Prakash](https://open.spotify.com/artist/3Tju0d02eWwa4FDcqR643X) | [Athimanoharam \(From "Vaazha"\)](https://open.spotify.com/album/7rNj7fXkrDEyO0C7N57S0C) | 3:02 | 2024-09-04 |  |
 | [Athmave Poo](https://open.spotify.com/track/5M3GTHCnzxvUmEhjAh8tT1) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Athmave Poo \(From "Romancham"\)](https://open.spotify.com/album/5wPX6VrVyz7YpSSB8blJAD) | 3:36 | 2023-02-06 | 2025-04-09 |
@@ -76,5 +76,6 @@
 | [Theerame \- From "Malik"](https://open.spotify.com/track/3XMYdcclpeP0LBmVLr6L8p) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Theerame \(From "Malik"\)](https://open.spotify.com/album/789iCALhEJFyPpWMOlLA0E) | 4:23 | 2023-03-21 |  |
 | [Tony's Mayhem](https://open.spotify.com/track/3XT6lmQS1lfG9MO6dl3A2q) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Marco \(Original Background Score\)](https://open.spotify.com/album/6ooCiOMZNnbH80BpqsOdEq) | 1:19 | 2025-01-23 | 2025-05-07 |
 | [Vatteppam \(From "Mandakini"\)](https://open.spotify.com/track/2mFXx4D49RdesixfLSsoU0) | [Bibin Ashok](https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vaisakh Sugunan](https://open.spotify.com/artist/3MEt4mrI4ZktNe7YxaQMVx) | [Vatteppam \(From "Mandakini"\)](https://open.spotify.com/album/37fD3iPdRh7XvwHbrjXV2d) | 3:12 | 2024-05-20 |  |
+| [Vedakk Chekka](https://open.spotify.com/track/0PGJHryop4kfDskuNmNnEn) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [ItsPc](https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx), [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO) | [Vedakk Chekka](https://open.spotify.com/album/6zMqolSY0IiUh6eRPcWOa6) | 2:21 | 2025-05-08 |  |
 
 \*This playlist was first scraped on 2024-12-30. Prior content cannot be recovered.

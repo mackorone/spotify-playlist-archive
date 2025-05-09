@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 4432,
+  "num_followers": 4447,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "The Sound of Christmas",
-        "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 197562,
-      "name": "The Sound Of Christmas",
-      "url": "https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Merry Christmas Mary Jane",
         "url": "https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 252388,
       "name": "Merry Christmas Mary Jane",
       "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "The Sound of Christmas",
+        "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 197562,
+      "name": "The Sound Of Christmas",
+      "url": "https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "To: Kate - A Benefit for Kate's Sake",
-        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
         "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 143909,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "To: Kate - A Benefit for Kate's Sake",
+        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Kid On Christmas",
+        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "Kid On Christmas",
+      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Holidays Rule",
         "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 253746,
       "name": "Baby, It\u2019s Cold Outside",
       "url": "https://open.spotify.com/track/6CGdeRGSoKtrzFo5XSypid"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Kid On Christmas",
-        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "Kid On Christmas",
-      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Santa Man / Hot Christmas",
-        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 126409,
-      "name": "Santa Man",
-      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Christmas Time's A-Comin'",
         "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
       },
@@ -635,34 +619,18 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Christmas Grass - The Collection",
-        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
+        "name": "Santa Man / Hot Christmas",
+        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
         }
       ],
-      "duration_ms": 194960,
-      "name": "One Bright Star",
-      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Trim This Tree",
-        "url": "https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 235720,
-      "name": "Trim This Tree",
-      "url": "https://open.spotify.com/track/4zDOxq3WyPmTu9GNFP8g8Y"
+      "duration_ms": 126409,
+      "name": "Santa Man",
+      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -687,6 +655,38 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Trim This Tree",
+        "url": "https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 235720,
+      "name": "Trim This Tree",
+      "url": "https://open.spotify.com/track/4zDOxq3WyPmTu9GNFP8g8Y"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Christmas Grass - The Collection",
+        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "One Bright Star",
+      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Gone for Christmas (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ"
       },
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Hard Candy Christmas",
+        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        }
+      ],
+      "duration_ms": 207735,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Under the Mistletoe!",
         "url": "https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 162333,
       "name": "Under the Mistletoe!",
       "url": "https://open.spotify.com/track/74YpSfHQSct8wznkHopETX"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Hard Candy Christmas",
-        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
-      },
-      "artists": [
-        {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
-        }
-      ],
-      "duration_ms": 207735,
-      "name": "Hard Candy Christmas",
-      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Christmas Everywhere",
-        "url": "https://open.spotify.com/album/0ItLsaVhF3zZavq6lzUGyl"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        },
-        {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
-        }
-      ],
-      "duration_ms": 202502,
-      "name": "Christmas Everywhere",
-      "url": "https://open.spotify.com/track/47RGDPSLWuczgwKM2kL2KY"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Christmas is Right Here",
         "url": "https://open.spotify.com/album/64nzajicSCtDOXYbedroJv"
       },
@@ -847,6 +827,22 @@
       "duration_ms": 183966,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Christmas Alone (Live from the Blue Room)",
+        "url": "https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        }
+      ],
+      "duration_ms": 210508,
+      "name": "Christmas Alone - Live",
+      "url": "https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV"
     }
   ],
   "unique_name": "Americana Christmas",

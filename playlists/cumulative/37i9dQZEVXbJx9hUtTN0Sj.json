@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -4146,6 +4146,24 @@
       "duration_ms": 133399,
       "name": "BOOYAKASHA",
       "url": "https://open.spotify.com/track/2Tr3E5pg3IGC64zrihS5Vf"
+    },
+    {
+      "album": {
+        "name": "Bordeelsluipers",
+        "url": "https://open.spotify.com/album/4k8Y6Wp0Kvlh1BdGzWFzf6"
+      },
+      "artists": [
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92800,
+      "name": "Bordeelsluipers",
+      "url": "https://open.spotify.com/track/1Dgu3HkhSs7Uwjoeek1c1O"
     },
     {
       "album": {
@@ -9908,7 +9926,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 159120,
       "name": "Forever",
       "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
@@ -9926,7 +9944,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 159120,
       "name": "Forever",
       "url": "https://open.spotify.com/track/63iSXv87fyUtYbO6vZQ5h3"
@@ -19900,7 +19918,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 157257,
       "name": "Mucho plata",
       "url": "https://open.spotify.com/track/3cp721OuOl8RjoK80AI5MR"
@@ -22596,7 +22614,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 178319,
       "name": "Pichichi",
       "url": "https://open.spotify.com/track/6eyghhEYVokzeUZnYmCxjI"
@@ -24124,7 +24142,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 172023,
       "name": "Roman Olur Yazsam Seni",
       "url": "https://open.spotify.com/track/7wSiIzgBSzNFDbVDgxCqeO"
@@ -30950,7 +30968,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 189242,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/4ZeKp5ZPpx0J5Oe6NREaeP"

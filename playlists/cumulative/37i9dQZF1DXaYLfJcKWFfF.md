@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Lady Donli
 
-233 songs - 13 hr 57 min
+234 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Crescent](https://open.spotify.com/track/419o5hR6s53S0ic5iP984q) | [Talicia](https://open.spotify.com/artist/1baOgaGLdga7kB0JcsgTUP) | [Crescent](https://open.spotify.com/album/2UqMiDdH0yhMelJ9pvvkCf) | 1:48 | 2023-09-14 | 2024-06-07 |
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-16 | 2022-10-22 |
 | [Dala](https://open.spotify.com/track/4wSj6rNupF9jU2kOGyMuCQ) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Dala](https://open.spotify.com/album/27byCwvyfBj2GcBK3od42p) | 6:51 | 2020-01-15 | 2023-09-15 |
+| [Dancing Shoes](https://open.spotify.com/track/2gaOQtBVaSWYOd6r1LKS1D) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Dancing Shoes](https://open.spotify.com/album/0TjNU9kzXdYlDB6iMJ8rCG) | 3:59 | 2025-05-09 |  |
 | [Debut](https://open.spotify.com/track/7taRvoC0XII55WwrU7Nuo2) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Sarang / 사랑](https://open.spotify.com/album/4NVaNkPf051HYgA6SiWyDy) | 3:49 | 2024-05-10 |  |
 | [dEMOn](https://open.spotify.com/track/32VBiZVdfsWRhyh3VQcY9j) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [dEMOn](https://open.spotify.com/album/6t83whIsf0hI60bgWMb1oP) | 4:36 | 2024-11-29 |  |
 | [Dia](https://open.spotify.com/track/0ifPsNJwearRtX0v1wR75a) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY) | [Kikento](https://open.spotify.com/album/4m5qOzQLSLJnGSKPGQrDzM) | 3:49 | 2023-03-03 | 2023-04-21 |
@@ -205,7 +206,7 @@
 | [Thunder in My Arms](https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t) | [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg) | [Kaleidoscope](https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve) | 2:51 | 2023-02-10 | 2023-05-05 |
 | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/track/2kJsAjvUCXdsq4NKU27eOj) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/album/2upZ5fvsaWPT2LHb7d9IJJ) | 3:02 | 2022-01-27 | 2022-11-26 |
 | [Tiger](https://open.spotify.com/track/5YkCm6xWVVDOujVNkjK8Vg) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Tiger](https://open.spotify.com/album/5LWDDwfXxb0ggIKeElCiF1) | 2:26 | 2023-06-02 | 2023-06-09 |
-| [Tiger](https://open.spotify.com/track/6L74DRgwAPCMU5j0GRdYCZ) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Tiger](https://open.spotify.com/album/3kY0THIOcoEoQtVa0hgfaE) | 3:40 | 2024-04-12 |  |
+| [Tiger](https://open.spotify.com/track/6L74DRgwAPCMU5j0GRdYCZ) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Tiger](https://open.spotify.com/album/3kY0THIOcoEoQtVa0hgfaE) | 3:40 | 2024-04-12 | 2025-05-09 |
 | [Time Heals](https://open.spotify.com/track/3X3xMPof9266qz7NvMnEXp) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR) | [For You Knew Me](https://open.spotify.com/album/5YW4m8EgJWTX2c4cHXAPq8) | 3:44 | 2023-05-11 | 2023-06-23 |
 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 | 2022-03-31 | 2024-02-02 |
 | [Titi Dor](https://open.spotify.com/track/1pxGR2ebLpKBC2bS35aYdA) | [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [Titi Dor](https://open.spotify.com/album/0d36iSQ4Z8SYTIPI9wEGAG) | 5:38 | 2021-12-09 | 2023-06-09 |

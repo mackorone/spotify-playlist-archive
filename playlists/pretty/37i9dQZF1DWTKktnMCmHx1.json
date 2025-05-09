@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 94048,
+  "num_followers": 94046,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "Untouchable",
-        "url": "https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 158971,
-      "name": "Mi Piace (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
         "name": "J",
         "url": "https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 183027,
       "name": "ALYX (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
+        "name": "Untouchable",
+        "url": "https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 158971,
+      "name": "Mi Piace (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj"
     },
     {
       "added_at": "2024-12-06 12:53:49",

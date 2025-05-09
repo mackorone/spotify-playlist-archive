@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: TABLO x RM)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: RUSSELL!, Illest Morena)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -1854,6 +1854,32 @@
       "duration_ms": 147878,
       "name": "99 chocolate",
       "url": "https://open.spotify.com/track/0C4F3PRqJv5sNQnRl4vq5q"
+    },
+    {
+      "album": {
+        "name": "99 Steps",
+        "url": "https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197870,
+      "name": "99 Steps",
+      "url": "https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n"
     },
     {
       "album": {
@@ -4402,6 +4428,24 @@
       "duration_ms": 125474,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/1zVTqpWUFNwAZgvPOZz5Ev"
+    },
+    {
+      "album": {
+        "name": "Awan di Kaki",
+        "url": "https://open.spotify.com/album/5P5banmNmjJiqMYdHnNbHQ"
+      },
+      "artists": [
+        {
+          "name": "Laze",
+          "url": "https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Awan di Kaki",
+      "url": "https://open.spotify.com/track/4pTp2bPNXcLeVgodCcBKv0"
     },
     {
       "album": {
@@ -17971,6 +18015,28 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/2gbnNeyrZHh9rQSNssjf9p"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225301,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0dqLS8eWxMv11Ro9WStXVc"
+    },
+    {
+      "album": {
         "name": "Foreclosure",
         "url": "https://open.spotify.com/album/7poB9nXfbOkjEwRFJaw8iK"
       },
@@ -24990,7 +25056,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 187397,
       "name": "IDGDS",
       "url": "https://open.spotify.com/track/0qNjO1Do0Mgdf1Pg5vX86O"
@@ -25866,7 +25932,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 160369,
       "name": "IS MY MIC ON?",
       "url": "https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r"
@@ -27044,7 +27110,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 118400,
       "name": "Katei",
       "url": "https://open.spotify.com/track/2PhoAyqO383kv05KlWBRcZ"
@@ -32201,6 +32267,24 @@
     },
     {
       "album": {
+        "name": "Miss Me",
+        "url": "https://open.spotify.com/album/58mZKgn2U8ldfguwEg7sXC"
+      },
+      "artists": [
+        {
+          "name": "Seungrae",
+          "url": "https://open.spotify.com/artist/7g5FyggODL4LruwJvqx4yh"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163978,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/7ol5kRNBkXj5VxARfiSfeZ"
+    },
+    {
+      "album": {
         "name": "Miss My Dawgs",
         "url": "https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r"
       },
@@ -34101,6 +34185,24 @@
     },
     {
       "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/3HXiOLdmPqItX7vSLvCt0m"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236727,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/0F4KRoicBk9v9lrcbHQt67"
+    },
+    {
+      "album": {
         "name": "New And More",
         "url": "https://open.spotify.com/album/6N6bb77wVIOhMwVI6egl2b"
       },
@@ -35798,7 +35900,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 167500,
       "name": "NOTHING TO LOSE",
       "url": "https://open.spotify.com/track/36MPiHMvvjhVTHBcSww6rp"
@@ -35974,7 +36076,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 202443,
       "name": "npc disstrict",
       "url": "https://open.spotify.com/track/50HpWDcOcVn1041pcpE5kD"
@@ -36654,6 +36756,28 @@
       "duration_ms": 119000,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/4W8QlyNrOorTaOoJn7gIrp"
+    },
+    {
+      "album": {
+        "name": "ON SITE",
+        "url": "https://open.spotify.com/album/6F6DVgio7m3yDUznaq1jA4"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139625,
+      "name": "ON SITE",
+      "url": "https://open.spotify.com/track/74px2mvcWoPbjFQPL8bXlt"
     },
     {
       "album": {
@@ -38626,7 +38750,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 173241,
       "name": "permission slip",
       "url": "https://open.spotify.com/track/2ZZi9yZmMk2AFLRPx3HpaA"
@@ -41318,7 +41442,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 142768,
       "name": "Ran Out",
       "url": "https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk"
@@ -41892,7 +42016,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 255186,
       "name": "Respect",
       "url": "https://open.spotify.com/track/2gEfOzuKNgbJJrRl0lrRDR"
@@ -43688,7 +43812,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 200084,
       "name": "Samsung Screenz",
       "url": "https://open.spotify.com/track/4fNIbrx8ydICags4LfwPgv"
@@ -43706,7 +43830,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 174000,
       "name": "SATURATED",
       "url": "https://open.spotify.com/track/69bB2tjyitkKODexgIReOH"
@@ -45048,6 +45172,24 @@
       "duration_ms": 158892,
       "name": "SHOT",
       "url": "https://open.spotify.com/track/1SIZ9xibXxrgaAmnBHDQec"
+    },
+    {
+      "album": {
+        "name": "Shot Callin",
+        "url": "https://open.spotify.com/album/68SBxb7HlBIt6gIcKsS5A7"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225185,
+      "name": "Shot Callin",
+      "url": "https://open.spotify.com/track/4rFqRV4UCQubpw348acBq3"
     },
     {
       "album": {
@@ -49042,7 +49184,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 176777,
       "name": "Superstar Status",
       "url": "https://open.spotify.com/track/3ZhzMJnMGNkUT6qc9XpvkN"
@@ -50744,6 +50886,28 @@
       "duration_ms": 93885,
       "name": "The Bachelor",
       "url": "https://open.spotify.com/track/4IGDtD7LR1WCmueuHuy1Wq"
+    },
+    {
+      "album": {
+        "name": "THE BADDEST (with Illest Morena)",
+        "url": "https://open.spotify.com/album/3N6AEFJ8tVjRIghPf1GPK6"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        },
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "THE BADDEST (with Illest Morena)",
+      "url": "https://open.spotify.com/track/22waNdIbBAhzes4D2CTQX0"
     },
     {
       "album": {
@@ -54778,7 +54942,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 174233,
       "name": "Unreal (feat. 24hrs)",
       "url": "https://open.spotify.com/track/5o2tGEFkvGRJqxUZv52jyJ"
@@ -58334,6 +58498,28 @@
       "duration_ms": 173458,
       "name": "WTF (feat. Polo G) - Remix",
       "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
+    },
+    {
+      "album": {
+        "name": "WYC4",
+        "url": "https://open.spotify.com/album/2XPqrnrYQO4USMaC2yINKO"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Tony Seltzer",
+          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110113,
+      "name": "WYC4",
+      "url": "https://open.spotify.com/track/3gZl6aBoXI8WyatJwE9aGv"
     },
     {
       "album": {

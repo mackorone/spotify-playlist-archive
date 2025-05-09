@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: A Little Sound",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: [IVY]",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 150408,
       "name": "96 (feat. Shapes & Dada Jones)",
       "url": "https://open.spotify.com/track/492Ms38l1NRyZQgwizSs3i"
@@ -1766,6 +1766,32 @@
       "duration_ms": 195226,
       "name": "beachin",
       "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
+    },
+    {
+      "album": {
+        "name": "Beautiful Thing",
+        "url": "https://open.spotify.com/album/4HVcbVjZDksAOEv8ml2QJV"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        },
+        {
+          "name": "CMD/CTRL",
+          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188720,
+      "name": "Beautiful Thing",
+      "url": "https://open.spotify.com/track/1D4zxWM1PXcEjpIaXPBh4G"
     },
     {
       "album": {
@@ -7877,6 +7903,28 @@
     },
     {
       "album": {
+        "name": "Hijack",
+        "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155913,
+      "name": "Hijack",
+      "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
+    },
+    {
+      "album": {
         "name": "Hit That",
         "url": "https://open.spotify.com/album/5xS7slolkhudzrWMWY3YNn"
       },
@@ -8381,6 +8429,28 @@
     },
     {
       "album": {
+        "name": "If We Left This Earth",
+        "url": "https://open.spotify.com/album/7d1MBR5cQmYi6MVpzKDKaT"
+      },
+      "artists": [
+        {
+          "name": "Degs",
+          "url": "https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG"
+        },
+        {
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205617,
+      "name": "If We Left This Earth",
+      "url": "https://open.spotify.com/track/6BTJGi9INUVneKz9JVey4T"
+    },
+    {
+      "album": {
         "name": "If You Want It",
         "url": "https://open.spotify.com/album/63FhryWz726IV3x1Pf17vc"
       },
@@ -8476,6 +8546,28 @@
       "duration_ms": 196687,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1B7XhV391JfiPHnmKPjPrH"
+    },
+    {
+      "album": {
+        "name": "In My Zone",
+        "url": "https://open.spotify.com/album/6EDFO3KznWTTIsarFH0BkG"
+      },
+      "artists": [
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "Champion DI",
+          "url": "https://open.spotify.com/artist/7z80tMfeFXEzSpVWHCvVfJ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "In My Zone",
+      "url": "https://open.spotify.com/track/7GQcfD0UAAWKHn0v6p5rSl"
     },
     {
       "album": {
@@ -11725,6 +11817,24 @@
     },
     {
       "album": {
+        "name": "no reason to cry",
+        "url": "https://open.spotify.com/album/39t4Ap861N3r7OaJaZJ2CM"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183448,
+      "name": "no reason to cry",
+      "url": "https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0"
+    },
+    {
+      "album": {
         "name": "No Sunset For Soul",
         "url": "https://open.spotify.com/album/6jd8JHutqVKX2vxdb0mZIw"
       },
@@ -14220,7 +14330,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 211200,
       "name": "Risk It All (feat. Maverick Sabre)",
       "url": "https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp"
@@ -14958,6 +15068,28 @@
       "duration_ms": 264827,
       "name": "Shiver - Dub Version",
       "url": "https://open.spotify.com/track/55eqBlFzNa9HosJMvwd1Ix"
+    },
+    {
+      "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/7ABQGNfnRm0vwcdPBr3NoY"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164137,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/2px94zB56yKPyaUuGeVyEP"
     },
     {
       "album": {
@@ -16066,7 +16198,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 190628,
       "name": "Still I Fall",
       "url": "https://open.spotify.com/track/16UfANHXFUzjg6yJ8AmaM6"
@@ -18090,7 +18222,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 198645,
       "name": "Vex (feat. MIST & Popcaan)",
       "url": "https://open.spotify.com/track/0Cqm4WttYKQpbCqRy49TXG"
@@ -18296,7 +18428,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 189249,
       "name": "Waited All Night - Nia Archives Remix",
       "url": "https://open.spotify.com/track/5sTF9aVNyUwum4xHMHnmSX"
@@ -19354,7 +19486,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 198620,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/14ydzyswp520PKHJOWc2Ro"

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Tasha Page\-Lockhart, Donald Lawrence & Company and more
+> With Sunday Service Choir, Whitney Houston, Tasha Page\-Lockhart and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 243 likes - 50 songs - 4 hr 3 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [It's Already Done](https://open.spotify.com/track/7vyxaGXBSCtw3W5qtwm2uQ) | [The Anointed Pace Sisters](https://open.spotify.com/artist/5ZBNMJnGOeIm7UYsJBvjeo) | [Return](https://open.spotify.com/album/0JjezDBcr3zsXt5Uw88vYD) | 6:53 |
 | 50 | [Years and Years](https://open.spotify.com/track/3znZxD0rkQIb2XyTD92JzD) | [Mikael Karlsson](https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx), [Callie Day](https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH) | [Play \(Original Soundtrack\)](https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz) | 5:05 |
 
-Snapshot ID: `aBwnigAAAABy8JusDLMKbjwUPsubBQlH`
+Snapshot ID: `aB14XAAAAACcTDisO+2ZlOS0yy8l1jMP`

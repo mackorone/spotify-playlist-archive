@@ -4,7 +4,7 @@
 
 > Conheça as novas vozes da música sertaneja! Foto: Lucca
 
-256 songs - 12 hr 21 min
+257 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Deixa Ela Falar \- Ao Vivo](https://open.spotify.com/track/2X6wELEYoNbrQgfeEZ2zo7) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Deixa Ela Falar \(Ao Vivo\)](https://open.spotify.com/album/0J0Ry1RqOIi3da5QRsduHB) | 2:40 | 2024-06-28 | 2024-08-24 |
 | [Deixa Eu Sofrer De Boa](https://open.spotify.com/track/28lJX5eak7BtyB7nTughQU) | [Fernando & Fabiano](https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe) | [Deixa Eu Sofrer De Boa](https://open.spotify.com/album/4ixG2u9U0Ew5Qe9fqVqViV) | 2:58 | 2024-08-09 | 2024-12-13 |
 | [Depois do Seu Chá](https://open.spotify.com/track/1ns9ot3aQ1IMb34j50tc99) | [Kaik & Alessandro](https://open.spotify.com/artist/17sMphO0GKc9mhyTvi0CSz) | [Ao Vivo em Goiânia](https://open.spotify.com/album/6FYb9qWuebuLrFC1uBJwKf) | 2:46 | 2024-09-27 | 2025-03-14 |
-| [Descontar na cama \- Ao Vivo](https://open.spotify.com/track/43LB4NoPGpoPL3rfn08p6G) | [Bruno & Giovanni](https://open.spotify.com/artist/4CaDrzxO4pBphvG8nc1mnz), [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ) | [Descontar na cama \(Ao Vivo\)](https://open.spotify.com/album/2O9nnOa6RwWN2bS0RMlZcp) | 3:03 | 2025-01-10 |  |
+| [Descontar na cama \- Ao Vivo](https://open.spotify.com/track/43LB4NoPGpoPL3rfn08p6G) | [Bruno & Giovanni](https://open.spotify.com/artist/4CaDrzxO4pBphvG8nc1mnz), [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ) | [Descontar na cama \(Ao Vivo\)](https://open.spotify.com/album/2O9nnOa6RwWN2bS0RMlZcp) | 3:03 | 2025-01-10 | 2025-05-09 |
 | [Desidratado \- Ao Vivo](https://open.spotify.com/track/5IB63RNGfWD55TRmKfkfSS) | [Modão e Moagem](https://open.spotify.com/artist/6B7XqM37LSejaX8kc7gMSS), [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Desidratado \(Ao Vivo\)](https://open.spotify.com/album/5V1p1drcHq90K0lmmr0MqX) | 3:14 | 2024-11-01 | 2025-05-03 |
 | [Desmascarado](https://open.spotify.com/track/5mbbRLIuOwOUmztImPbpJq) | [May e Gabi](https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq), [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Desmascarado](https://open.spotify.com/album/4eJZSfpomlEqDEmYNLkdKR) | 2:41 | 2025-05-02 |  |
 | [Deus Te Ouça \- Ao Vivo](https://open.spotify.com/track/7dVQS16CoFhwimeUX2hmIT) | [Mateus e Junior](https://open.spotify.com/artist/4VG5YeE6wh8mduhwPbor9t) | [Deus Te Ouça \(Ao Vivo\)](https://open.spotify.com/album/1jLZvtZ5k2atPHioaohrSM) | 2:23 | 2025-04-18 |  |
@@ -167,6 +167,7 @@
 | [O Que Tiver Que Vir, Virá \- Ao Vivo](https://open.spotify.com/track/4PEOJhN1t1uo3IOIYNmsR5) | [Pedro Henrique e Gael](https://open.spotify.com/artist/1hKcEzIvQfZYS4MfK1uSnl), [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [O Que Tiver Que Vir, Virá \(Ao Vivo\)](https://open.spotify.com/album/3UM1Ct1gvNKXLQApbE8aue) | 3:37 | 2025-01-31 |  |
 | [Onde Eu Vou Eu Tô](https://open.spotify.com/track/6NvEhHlbkKYJERbmpIACtS) | [Junior Marques](https://open.spotify.com/artist/5Q3lDwHhgRwL4pBWgXUSu3), [Breno e Bernardo](https://open.spotify.com/artist/2gsNxDIZmMfEF4LIr2QDF0) | [Onde Eu Vou Eu Tô](https://open.spotify.com/album/4tTJbtUWO3SgHV3NY8GVZi) | 2:25 | 2025-01-24 |  |
 | [Orgulho de Ser Peão \- Ao Vivo](https://open.spotify.com/track/7Kgki6LQcg0xCe4PWz3bDu) | [Hugo & Castellari](https://open.spotify.com/artist/25A6AArfbRIAy3vJEx7K8X) | [Orgulho de Ser Peão \(Ao Vivo\)](https://open.spotify.com/album/2lgKqFhmsoLSkdojIT9FzC) | 2:41 | 2024-12-06 | 2025-04-19 |
+| [Orgulho Não Deixa](https://open.spotify.com/track/3CCAKD89JsyQBMePyZXuye) | [Zé Luccas](https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo) | [Orgulho Não Deixa](https://open.spotify.com/album/5Yaiov6LBof9hwf633N2Ad) | 2:32 | 2025-05-09 |  |
 | [Os Doidin \- Ao Vivo](https://open.spotify.com/track/6Ca0MRbFnC6OUiUPYE4kmV) | [Bruno & Rafa](https://open.spotify.com/artist/4ZL1DrfqfKCFj6x7WCxaBo) | [Nossa Vibe, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/7FjIIZHR90VhWwgBir1uu0) | 2:37 | 2024-06-28 | 2024-09-20 |
 | [Palavra De Amigo](https://open.spotify.com/track/18H4LNgyOPY8uXGo8XdiWx) | [Rick e Lucas](https://open.spotify.com/artist/0aCAuXwuQ0UoZwJ5ePQqYo), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Palavra De Amigo](https://open.spotify.com/album/0FQYbg7M06FFvSq1b58j46) | 3:45 | 2024-06-28 | 2024-10-26 |
 | [Par Perfeito](https://open.spotify.com/track/2Bjhn4yh90lpdJmKfxkAJk) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [João Marcos & Danilo](https://open.spotify.com/artist/27HdKF8P7IOhGzwgVi2w4F), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Par Perfeito](https://open.spotify.com/album/5Ijrkw2g12nVFvPifZLdKq) | 2:54 | 2024-06-28 | 2024-08-30 |

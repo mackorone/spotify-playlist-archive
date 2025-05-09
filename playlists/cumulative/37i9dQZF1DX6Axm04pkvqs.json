@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/5xPudNK2llrpf4UfFtCljH"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342819,
+      "name": "Offered to a Deity",
+      "url": "https://open.spotify.com/track/2RcnohsqrDzLsiXLA6oYod"
+    },
+    {
+      "album": {
         "name": "Oji Oku Eri Ajah",
         "url": "https://open.spotify.com/album/3EiHk4Jztk0jj4Q12Fcemv"
       },
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 800000,
       "name": "There Is Prophecy over Me",
       "url": "https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx"

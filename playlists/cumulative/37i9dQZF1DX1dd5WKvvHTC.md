@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Lydia Vaughan
 
-475 songs - 1 day 1 hr 42 min
+476 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [After Hours](https://open.spotify.com/track/4uqpRmqGytCz8syznJtOh6) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:12 | 2024-10-04 | 2024-12-07 |
 | [Afterlife](https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Afterlife](https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN) | 4:08 | 2024-11-12 | 2024-12-07 |
 | [Aisle 6](https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Aisle 6](https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve) | 3:05 | 2024-04-05 | 2024-05-03 |
-| [All I Know \- Piano Version](https://open.spotify.com/track/4EW2Bxt1kBDkNlqw5byc0b) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [All I Know \(Piano Version\)](https://open.spotify.com/album/7vWvSz7epSZqPMsEDjqwVS) | 2:18 | 2025-05-01 |  |
+| [All I Know \(with Khalid\) \- Piano Version](https://open.spotify.com/track/4EW2Bxt1kBDkNlqw5byc0b) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [All I Know \(with Khalid\) \[Piano Version\]](https://open.spotify.com/album/7vWvSz7epSZqPMsEDjqwVS) | 2:18 | 2025-05-01 |  |
 | [All in Time](https://open.spotify.com/track/3KXOoOw7AKu11fGpEOCb0T) | [Olivia Reid](https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1) | [All in Time](https://open.spotify.com/album/6x9TW1zYmhL3T7VRrEds38) | 3:12 | 2025-02-07 | 2025-04-05 |
 | [All The Noise](https://open.spotify.com/track/2eGjHCInfLWC316jvoELhE) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Our Broken Hearts Mend](https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B) | 4:09 | 2024-08-28 | 2024-12-07 |
 | [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-07-05 | 2024-10-05 |
@@ -174,6 +174,7 @@
 | [Growing Pains](https://open.spotify.com/track/216jWgl9L5G0dYgyEIOSni) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/76H4e6RLzuJYEnrItNMq63) | 3:28 | 2025-02-07 | 2025-04-05 |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-02-07 | 2025-04-05 |
 | [Guitar Lady](https://open.spotify.com/track/2udjw7nsVoZCCVbhuFuQ65) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Guitar Lady](https://open.spotify.com/album/2hoJ9aIgXluLym9FZUqLLk) | 3:19 | 2024-10-04 | 2024-12-07 |
+| [HAKiA](https://open.spotify.com/track/2R7tJQlT37TxQ1jzu9ez7K) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [HAKiA](https://open.spotify.com/album/0KqrVcGMXFMESOIj071ZIi) | 2:13 | 2025-05-01 |  |
 | [Halo](https://open.spotify.com/track/188hYGlwfixzHUaS7ltIOA) | [Drew Kennedy](https://open.spotify.com/artist/6nxLsUCzEsyK6B4nIqZFmT) | [Halo](https://open.spotify.com/album/4fDGOurHs8okSqcA6MxTbV) | 2:42 | 2025-05-01 |  |
 | [Hard To Love You](https://open.spotify.com/track/2tuTik4dkoProzfJWhw0Xc) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Yanchan Produced](https://open.spotify.com/artist/4GKSZvPRVHCR8TrVVWu9HH) | [Hard To Love You](https://open.spotify.com/album/71SsSpTSxPw74b6msD8oCy) | 3:25 | 2024-08-28 | 2024-10-05 |
 | [Haymaker](https://open.spotify.com/track/07qmzofBow9aB4raGOafDz) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Haymaker](https://open.spotify.com/album/53hM1rBhTGK8uY3jdFZGwp) | 2:50 | 2024-07-05 | 2024-08-29 |

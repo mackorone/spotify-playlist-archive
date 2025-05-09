@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 
 > Explore the music of Franz Liszt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,128 likes - 62 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,155 likes - 62 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 | 57 | [Le Carnaval de Venise, S\. 700](https://open.spotify.com/track/3Rdrw3AdeSLm1xzlCBUiZQ) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Goran Filipec](https://open.spotify.com/artist/0ay4ca3yOhNIRsqKvq2RCW) | [Liszt Complete Piano Music, Vol\. 42: Paganini Studies](https://open.spotify.com/album/2xSLKWJ2rAoUAXwcAHo3BF) | 5:21 |
 | 58 | [Die Ideale, S\. 106/R\. 423](https://open.spotify.com/track/7H6oHZa9Sijm1rAQkEuNXN) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Liszt: Symphonic Poems, Vol\. 2](https://open.spotify.com/album/0G79aHyc6RmmH4qcu4360H) | 25:21 |
 | 59 | [A Faust Symphony, S\. 108: I\. Faust](https://open.spotify.com/track/6E8bE0cepuzZsLQO4fOkAs) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Chicago Symphony Orchestra](https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Liszt: Faust Symphony; Dante Symphony; Les Prélludes; Prometheus](https://open.spotify.com/album/1s1zj0erJyhfE6LhhTD0Nw) | 28:13 |
-| 60 | [Liszt: A Faust Symphony, S\. 108: II\. Gretchen](https://open.spotify.com/track/3uOQBWIqDmIvpwiGWwBGl4) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Riccardo Muti](https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Liszt: A Faust Symphony](https://open.spotify.com/album/4HheLMTl5KF3Lme3tL5JIb) | 22:10 |
+| 60 | [Liszt: A Faust Symphony, S\. 108: II\. Gretchen](https://open.spotify.com/track/3uOQBWIqDmIvpwiGWwBGl4) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Riccardo Muti](https://open.spotify.com/artist/5WKNOJDnxLh2rOTWxyz73K), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Liszt: A Faust Symphony](https://open.spotify.com/album/4HheLMTl5KF3Lme3tL5JIb) | 22:10 |
 | 61 | [Ce qu'on entend sur la montagne \(What Is Heard on the Mountain\), S\. 95/R\. 412](https://open.spotify.com/track/5JOHwJI2Lx7NqWyoozm4Y4) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Liszt: Symphonic Poems, Vol\. 3](https://open.spotify.com/album/3OjAEpCdZ3z0Ur21aXoxK9) | 29:11 |
 | 62 | [Unstern! \-Sinistre , S208](https://open.spotify.com/track/0N4sQWENULr0EHhYWDfRw1) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [The Liszt Project \- Bartók; Berg; Messiaen; Ravel; Scriabin; Stroppa; Wagner](https://open.spotify.com/album/3RgXHfxrJinj7TJEK2zjeM) | 6:03 |
 

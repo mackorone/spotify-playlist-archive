@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : MOLIY",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : K-Rosif",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -220,6 +220,24 @@
       "duration_ms": 167902,
       "name": "AH WA DO DEM",
       "url": "https://open.spotify.com/track/0mjsPJT6SMwpQvIRHwvU3W"
+    },
+    {
+      "album": {
+        "name": "AIR FORCE 1",
+        "url": "https://open.spotify.com/album/0jllUXKBq8duDAVSvKdxAr"
+      },
+      "artists": [
+        {
+          "name": "LeJuh",
+          "url": "https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137625,
+      "name": "AIR FORCE 1",
+      "url": "https://open.spotify.com/track/1tAd9VYVekTTNSOESqBX1j"
     },
     {
       "album": {
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 103492,
       "name": "Chill",
       "url": "https://open.spotify.com/track/6MPYbOQSbXrvasNO8hfdLu"
@@ -6409,6 +6427,36 @@
     },
     {
       "album": {
+        "name": "MakoMakrel",
+        "url": "https://open.spotify.com/album/7oY77FCO1FKDE2YKX7fKh9"
+      },
+      "artists": [
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        },
+        {
+          "name": "DJ TFIISH",
+          "url": "https://open.spotify.com/artist/5BqbVPzkQxOSlCEGswwFyf"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160981,
+      "name": "MakoMakrel",
+      "url": "https://open.spotify.com/track/5ukgajR0NEVN1dZeyyQED4"
+    },
+    {
+      "album": {
         "name": "MAESTRO",
         "url": "https://open.spotify.com/album/6hYuhOmArT5XZJWAxeQs6S"
       },
@@ -6420,7 +6468,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 173901,
       "name": "MANICOU",
       "url": "https://open.spotify.com/track/7FQHzAp0aBPljNddzAvCul"
@@ -9933,6 +9981,32 @@
     },
     {
       "album": {
+        "name": "Skincare",
+        "url": "https://open.spotify.com/album/2wv3kmiyYUbKUKfTwzMBF2"
+      },
+      "artists": [
+        {
+          "name": "Shaz",
+          "url": "https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9"
+        },
+        {
+          "name": "Krys",
+          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
+        },
+        {
+          "name": "Aknose",
+          "url": "https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136258,
+      "name": "Skincare",
+      "url": "https://open.spotify.com/track/4FXQku9Scs1vQTlMzUbJvb"
+    },
+    {
+      "album": {
         "name": "Slap",
         "url": "https://open.spotify.com/album/7lieUHWGYUrAm8lC7BVhV5"
       },
@@ -10240,7 +10314,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 135750,
       "name": "Station shatta",
       "url": "https://open.spotify.com/track/49lSn5F2ivjuPaxqBximRE"

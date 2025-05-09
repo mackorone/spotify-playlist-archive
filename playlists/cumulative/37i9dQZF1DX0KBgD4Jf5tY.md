@@ -4,7 +4,7 @@
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:79u3gvhlSLQxzZNqn0voXp">Planet Opal</a> in cover.
 
-1,590 songs - 3 day 6 hr 55 min
+1,591 songs - 3 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,6 +827,7 @@
 | [Marchigiano](https://open.spotify.com/track/1tbrM6wpL2IO8N6eMwomar) | [SANTO STEFANO](https://open.spotify.com/artist/2WcspLiai7qmRn02e3x1m1) | [Marchigiano](https://open.spotify.com/album/0RKJE8XzuCKa9QQiiEBHVp) | 2:43 | 2023-11-07 | 2024-01-25 |
 | [MARE](https://open.spotify.com/track/0yhryPsrbTLvFgrZuImvvo) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [MARE](https://open.spotify.com/album/61kXE5CFFjp7pvWKy35yKu) | 3:11 | 2022-06-02 | 2022-07-01 |
 | [Mare Cristallo](https://open.spotify.com/track/07GUGt0qJl9CwpdT9ER9s6) | [ggiovanni](https://open.spotify.com/artist/1oT8K7RFmacAPafRlcdnw9), [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta), [Luke Lecomte](https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc), [LuckyEffe](https://open.spotify.com/artist/2LC4xxgMkfhFi9okn8t5rN) | [Mare Cristallo](https://open.spotify.com/album/0VIMBDeKrHUUliKZxQfPtb) | 3:34 | 2023-01-05 | 2023-02-03 |
+| [Mare D'Amore](https://open.spotify.com/track/2QJ1F6jHaltsgZ2qZPFeth) | [Miriah](https://open.spotify.com/artist/1nHS3UJE5YCtLMKm6Tgs7J) | [Mare D'Amore](https://open.spotify.com/album/4cYiN1XjvKM3RPvfX5i7VT) | 3:05 | 2025-05-06 |  |
 | [Mare in Tempesta](https://open.spotify.com/track/2O814L7id34BCDXF0S5ukx) | [Pandorea](https://open.spotify.com/artist/6tWC5Umk7qZ8gOXZLFALvk) | [Mare in Tempesta](https://open.spotify.com/album/1LvR1uSENLaoldywyxt2Ci) | 3:21 | 2024-01-24 | 2024-02-22 |
 | [Mare Motus](https://open.spotify.com/track/3H2CxeiT9ugpjgAuDcrtY1) | [Malmö](https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q) | [Zolfo](https://open.spotify.com/album/6IVY6UjSF6vwHzk9oQWHzm) | 4:05 | 2023-10-24 | 2023-11-16 |
 | [MAREA](https://open.spotify.com/track/37byGPWlxruY8vVeQlbUWb) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9) | [MAREA](https://open.spotify.com/album/3WPEmt23OmvcsrY2qcALKf) | 2:22 | 2023-01-26 | 2023-03-03 |

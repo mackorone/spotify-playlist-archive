@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Odetto",
+  "description": "The best French indie tracks right now. Cover : TheFrenchKris & Shaga",
   "name": "Made in France",
   "tracks": [
     {
@@ -1113,7 +1113,7 @@
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 176632,
+      "duration_ms": 177000,
       "name": "BONHEUR SAMPLER",
       "url": "https://open.spotify.com/track/6JLMqJY2JRRzeBQPZVLX0x"
     },
@@ -2227,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Dans quelques ann\u00e9es",
+        "url": "https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn"
+      },
+      "artists": [
+        {
+          "name": "Arca M",
+          "url": "https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199062,
+      "name": "Dans quelques ann\u00e9es",
+      "url": "https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE"
+    },
+    {
+      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -2369,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "Death Bed",
+        "url": "https://open.spotify.com/album/5C5YvrDqTtGZB0v3obtPEx"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174791,
+      "name": "Death Bed",
+      "url": "https://open.spotify.com/track/7qW8NX0CubpF2GwfVFkW3Q"
+    },
+    {
+      "album": {
         "name": "Denim",
         "url": "https://open.spotify.com/album/0dmwgJiUO3ob46WseHYy82"
       },
@@ -2424,7 +2460,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 173854,
       "name": "Des fleurs",
       "url": "https://open.spotify.com/track/2jNeR1QAIvikSfvpImES6f"
@@ -6489,6 +6525,28 @@
     },
     {
       "album": {
+        "name": "Lundi matin",
+        "url": "https://open.spotify.com/album/5XrPeI44a1fjkWW69na6d9"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        },
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Lundi matin",
+      "url": "https://open.spotify.com/track/3PIvaEDxw6bhK9s4wtI24a"
+    },
+    {
+      "album": {
         "name": "Ma plus belle aventure",
         "url": "https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO"
       },
@@ -6826,7 +6884,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 212066,
       "name": "MERCI",
       "url": "https://open.spotify.com/track/37mhGNcHKR9EStOcfT01j0"
@@ -8431,6 +8489,24 @@
     },
     {
       "album": {
+        "name": "Playground Love",
+        "url": "https://open.spotify.com/album/0sKURi74qxqW61T5DDtXkN"
+      },
+      "artists": [
+        {
+          "name": "Concorde",
+          "url": "https://open.spotify.com/artist/5gSzpQeKekCGJTR9hcWwKF"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197660,
+      "name": "Playground Love",
+      "url": "https://open.spotify.com/track/3zvcc4CFtrCYbHIrz94xMc"
+    },
+    {
+      "album": {
         "name": "Plus loin",
         "url": "https://open.spotify.com/album/3OUe4BCFUFo2CCTi0w0RhW"
       },
@@ -9654,7 +9730,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 195111,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4dIigDdKYugqzXzE7509bx"
@@ -9846,7 +9922,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 162333,
       "name": "Sucr\u00e9 Sal\u00e9",
       "url": "https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY"

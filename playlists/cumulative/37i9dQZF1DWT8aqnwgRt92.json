@@ -21030,8 +21030,8 @@
       },
       "artists": [
         {
-          "name": "Masatoshi Hamada",
-          "url": "https://open.spotify.com/artist/4cX7zcYN40m2i2btgvNiek"
+          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
+          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
         }
       ],
       "date_added": "2025-04-15",
@@ -21544,7 +21544,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 302626,
       "name": "\u304a\u304b\u3042\u3055\u3093\u306e\u5504",
       "url": "https://open.spotify.com/track/3tWhk96vVTNk2LtY4NW7Gz"
@@ -33675,6 +33675,28 @@
     },
     {
       "album": {
+        "name": "\u6c34\u69fd\u306e\u8857\u304b\u3089 (I_006_lyric)",
+        "url": "https://open.spotify.com/album/0i1kmnIlqnPUMvwKMe4gl7"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        },
+        {
+          "name": "\u307f\u304d\u307e\u308a\u3042 (NOMELON NOLEMON)",
+          "url": "https://open.spotify.com/artist/13cf0p8alFaSB1GFL0EBCJ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231547,
+      "name": "\u6c34\u69fd\u306e\u8857\u304b\u3089 (I_006_lyric)",
+      "url": "https://open.spotify.com/track/1PfpiYudUPmaKnLPgnkbgF"
+    },
+    {
+      "album": {
         "name": "\u6620\u753b\u300c\u304d\u307f\u306e\u8272\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af all is colour within",
         "url": "https://open.spotify.com/album/2y9JG6xtvqTwvxSUzDhXZI"
       },
@@ -33966,6 +33988,24 @@
       "duration_ms": 197025,
       "name": "\u6de1\u304f\u5fae\u304b",
       "url": "https://open.spotify.com/track/2OUnNkuS59ssxA7eS3bBaA"
+    },
+    {
+      "album": {
+        "name": "\u706b\u661f\u4eba",
+        "url": "https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234929,
+      "name": "\u706b\u661f\u4eba",
+      "url": "https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6"
     },
     {
       "album": {
@@ -34718,7 +34758,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 207130,
       "name": "\u79c1\u305f\u3061\u306e\u5408\u8a00\u8449",
       "url": "https://open.spotify.com/track/2OqtSRLTlGU86Dw8Ttrkon"

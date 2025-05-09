@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > ⋆.
 
-[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 624 songs - 1 day 9 hr 58 min
+[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 625 songs - 1 day 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -632,5 +632,6 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 622 | [Stained Glass Eyes And Colorful Tears](https://open.spotify.com/track/2ag0hixCwLjj9Gi5Z44hbO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:38 |
 | 623 | [0% Angel](https://open.spotify.com/track/0l2Ob0zMIQ21gJn642HyQ1) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Ephemeral](https://open.spotify.com/album/4aJdRGvDt8BAU8Po8Sr3dg) | 3:54 |
 | 624 | [Somebody To Love](https://open.spotify.com/track/3rLIv187BhjyweFe89SgLn) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:40 |
+| 625 | [Kiss Me Now](https://open.spotify.com/track/40KgVtH6ANki7AN2Sj1rZD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Kiss Me Now](https://open.spotify.com/album/3wZnJrvl1uyHtdccfokGnU) | 4:16 |
 
-Snapshot ID: `AAAEJ48nF6icur7XewIWbDWYRxwDppS9`
+Snapshot ID: `AAAEKAYeoWegYJkf/jjc6qeMyJOqZbwd`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Nena",
+  "description": "Uma playlist de pura alma pop! Foto: \u00c1TOA, Lu\u00eds Trigacheiro",
   "name": "Pop PT",
   "tracks": [
     {
@@ -526,7 +526,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 172173,
       "name": "Boca Louca",
       "url": "https://open.spotify.com/track/3on5wwXaYBWMqV5bhP78So"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 232106,
       "name": "Casa",
       "url": "https://open.spotify.com/track/3tfx1jUB8t5xIRygSqquH8"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 172500,
       "name": "Chuva",
       "url": "https://open.spotify.com/track/2uB7S2blkS8H0HnzwWAQDS"
@@ -2641,6 +2641,28 @@
     },
     {
       "album": {
+        "name": "Leva Tudo",
+        "url": "https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191168,
+      "name": "Leva Tudo",
+      "url": "https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt"
+    },
+    {
+      "album": {
         "name": "Linhas da Vida",
         "url": "https://open.spotify.com/album/06YjouSUFp1397p5nVubwD"
       },
@@ -2842,6 +2864,24 @@
       "duration_ms": 145641,
       "name": "Metade",
       "url": "https://open.spotify.com/track/1xCVMWnFHBC2aKkozzoaoi"
+    },
+    {
+      "album": {
+        "name": "Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/4ppDJUn1qfV7FxgGqNeVFA"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241678,
+      "name": "Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/2SkgTFL4pSfG5N5ub9frhb"
     },
     {
       "album": {
@@ -4467,6 +4507,24 @@
     },
     {
       "album": {
+        "name": "Telefone Estragado",
+        "url": "https://open.spotify.com/album/5a8Yvj8bqm5h6FsLe9SmJ7"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181853,
+      "name": "Telefone Estragado",
+      "url": "https://open.spotify.com/track/6jbj7rIgPoimjgB9SXlP81"
+    },
+    {
+      "album": {
         "name": "Temos Pena!",
         "url": "https://open.spotify.com/album/3Y8NyBrhqvvHAu5ZEeLMML"
       },
@@ -4478,7 +4536,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 194724,
       "name": "Temos Pena!",
       "url": "https://open.spotify.com/track/1i2t55Ls2wNthz6QDUUfDC"
@@ -4609,6 +4667,32 @@
     },
     {
       "album": {
+        "name": "Tu na Tua",
+        "url": "https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO"
+      },
+      "artists": [
+        {
+          "name": "\u00c1TOA",
+          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
+        },
+        {
+          "name": "Lu\u00eds Trigacheiro",
+          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
+        },
+        {
+          "name": "Buba Espinho",
+          "url": "https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168047,
+      "name": "Tu na Tua",
+      "url": "https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk"
+    },
+    {
+      "album": {
         "name": "Tu \u00c9s Capaz",
         "url": "https://open.spotify.com/album/0ZDVybzvo8hbZ2IUWxK4Vz"
       },
@@ -4700,7 +4784,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 188689,
       "name": "VAMPIROS",
       "url": "https://open.spotify.com/track/4Jlh1A7Lv28qVk08mLcdf5"
@@ -4726,6 +4810,24 @@
       "duration_ms": 173961,
       "name": "Vem C\u00e1",
       "url": "https://open.spotify.com/track/6PYtp8saDbdZftCBQm3F74"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/5zX8JqjFZxbFuLLylDwlt9"
+      },
+      "artists": [
+        {
+          "name": "Afonso Dubraz",
+          "url": "https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172013,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/68yhcmU3r77QhazsBlqAeJ"
     },
     {
       "album": {

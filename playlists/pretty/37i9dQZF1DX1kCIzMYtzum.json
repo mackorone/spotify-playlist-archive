@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with Armin van Buuren",
-  "num_followers": 358213,
+  "num_followers": 358546,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -308,8 +308,8 @@
           "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
         },
         {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+          "name": "EYLR",
+          "url": "https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV"
         }
       ],
       "duration_ms": 169523,
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2025-05-02 04:00:40",
       "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 203307,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
+    },
+    {
+      "added_at": "2025-05-02 04:00:40",
+      "album": {
         "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
         "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 145777,
       "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
       "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
-    },
-    {
-      "added_at": "2025-05-02 04:00:40",
-      "album": {
-        "name": "Feeling Good",
-        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
-      },
-      "artists": [
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 203307,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
     },
     {
       "added_at": "2025-05-02 04:00:40",
@@ -1695,30 +1695,6 @@
     {
       "added_at": "2025-05-02 04:00:40",
       "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Danimal",
-          "url": "https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj"
-        },
-        {
-          "name": "okafuwa",
-          "url": "https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj"
-        }
-      ],
-      "duration_ms": 120827,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI"
-    },
-    {
-      "added_at": "2025-05-02 04:00:40",
-      "album": {
         "name": "Air (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
       },
@@ -1739,6 +1715,30 @@
       "duration_ms": 160021,
       "name": "Air (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
+    },
+    {
+      "added_at": "2025-05-02 04:00:40",
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Danimal",
+          "url": "https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj"
+        },
+        {
+          "name": "okafuwa",
+          "url": "https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj"
+        }
+      ],
+      "duration_ms": 120827,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI"
     },
     {
       "added_at": "2025-05-02 04:00:40",

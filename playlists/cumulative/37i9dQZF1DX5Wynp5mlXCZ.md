@@ -2,9 +2,9 @@
 
 ### [ТОП ПОП 2025](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Топові новинки української та світової поп\-музики\. Обкладинка: TVORCHI
+> Топові новинки української та світової поп\-музики\. Обкладинка: The Maneken
 
-337 songs - 16 hr 49 min
+341 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Chasing Low Vibrations](https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Chasing Low Vibrations](https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt) | 3:24 | 2024-07-26 | 2024-08-20 |
 | [Chasing My Happiness](https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4) | [DEMCHUK](https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO) | [Chasing My Happiness](https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX) | 2:06 | 2024-08-23 | 2024-09-14 |
 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 | 2025-01-23 |  |
-| [City](https://open.spotify.com/track/7JbCtGesPFlyy1JWC2pA8Q) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Of Us](https://open.spotify.com/album/4fD4AEV1vjBjekbGPcvXZL) | 3:02 | 2025-05-01 |  |
+| [City](https://open.spotify.com/track/7JbCtGesPFlyy1JWC2pA8Q) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Of Us](https://open.spotify.com/album/4fD4AEV1vjBjekbGPcvXZL) | 3:02 | 2025-05-01 | 2025-05-09 |
 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 | 2024-06-27 | 2024-12-20 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 |  |
 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 | 2025-03-20 |  |
@@ -108,6 +108,7 @@
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-10 | 2025-01-03 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-02 |  |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 | 2024-11-15 |
+| [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-08 |  |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-06-27 | 2024-09-08 |
 | [my sea](https://open.spotify.com/track/7xrZKi5jw6GNQlEjbkTI4c) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [my sea](https://open.spotify.com/album/3cI7GCDEau3LDB8QagTNcb) | 2:54 | 2025-01-23 |  |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 |  |
@@ -123,7 +124,7 @@
 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 | 2025-01-30 |  |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 | 2025-02-28 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-06-27 | 2024-09-21 |
-| [Of Us](https://open.spotify.com/track/7G8u2KxKcxhay2TFOBSwlc) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Of Us](https://open.spotify.com/album/4fD4AEV1vjBjekbGPcvXZL) | 2:58 | 2025-05-01 |  |
+| [Of Us](https://open.spotify.com/track/7G8u2KxKcxhay2TFOBSwlc) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Of Us](https://open.spotify.com/album/4fD4AEV1vjBjekbGPcvXZL) | 2:58 | 2025-05-01 | 2025-05-09 |
 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 | 2024-12-19 |  |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 |  |
 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-06-27 | 2024-08-31 |
@@ -195,6 +196,7 @@
 | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC) | 3:02 | 2024-12-12 | 2025-03-21 |
 | [you feel like home](https://open.spotify.com/track/7HhEt94NDY99LtWUeNwbLh) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F), [sadagain](https://open.spotify.com/artist/7zuQRIjvU5KfSLLsx7ZdUE) | [you feel like home](https://open.spotify.com/album/3orNmaKJ8kdoIhct9Rr3T8) | 3:19 | 2025-03-20 | 2025-03-29 |
 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-20 |  |
+| [ZVIR](https://open.spotify.com/track/3jQKEEgQTOCjNavi4iaKrr) | [Sonyachna](https://open.spotify.com/artist/5m1W82wDuCwcCvNI7cATEO) | [ZVIR](https://open.spotify.com/album/6H9TFFq8WQKDPOC1MnPsua) | 3:27 | 2025-05-08 |  |
 | [А що?](https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [А що?](https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8) | 3:17 | 2024-06-27 | 2024-12-20 |
 | [А я все плакала](https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [LEBIGA](https://open.spotify.com/artist/5QFYXpPnIZPu2OSD9n8BVN) | [А я все плакала](https://open.spotify.com/album/5SBkXFqymV5QTNBWbozv0z) | 2:30 | 2024-06-27 | 2025-04-16 |
 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 | 2024-11-14 |  |
@@ -205,6 +207,7 @@
 | [бреши мені](https://open.spotify.com/track/2fdfulGJzLu33pqUpTkNFM) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [сьогодні або ніколи](https://open.spotify.com/album/6VJLcdcWIHWNGtnUbuzuvY) | 2:42 | 2024-12-19 | 2025-01-17 |
 | [Біла стрічка](https://open.spotify.com/track/6WeJt26qtv3HejArxV5w1O) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Краля](https://open.spotify.com/album/0xt9rzSIuNqd0dbBdQkTdd) | 2:14 | 2025-04-04 | 2025-04-25 |
 | [Білі ночі](https://open.spotify.com/track/2A24AcV0HFyZXLvjkRaGJs) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Білі ночі](https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas) | 2:50 | 2024-07-04 | 2025-03-21 |
+| [В Моїм Серці](https://open.spotify.com/track/1M1NqnPJSvFxWfw9dUVHLl) | [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [В Моїм Серці](https://open.spotify.com/album/5yPt6ZL5P7Xnt9AmuE5X3j) | 2:51 | 2025-05-08 |  |
 | [вивчи мене](https://open.spotify.com/track/2acrRGrZ0z0uSHJnGfqvP2) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [знайшла свій щоденник](https://open.spotify.com/album/1x3jYIxhKYFyphfmYmM0HK) | 2:22 | 2024-11-07 | 2024-11-15 |
 | [ВИМОЛИВ](https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [ВИМОЛИВ](https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc) | 3:32 | 2025-03-06 |  |
 | [Впевнений](https://open.spotify.com/track/5Pe1E4ETWG2irHIQiWeYjs) | [CHILIBI](https://open.spotify.com/artist/17oT8pdSNELqHaVg5TlJTL) | [Впевнений](https://open.spotify.com/album/7BNtzhYlPHAMgvyrctWhsW) | 2:09 | 2024-07-26 | 2024-08-17 |
@@ -297,8 +300,9 @@
 | [психічне порушення](https://open.spotify.com/track/5bx2mZ2wNh8KDHeFXbWxk8) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [психічне порушення](https://open.spotify.com/album/3o11Lbt08TOqcHemdDz5ZP) | 2:45 | 2024-07-12 | 2024-08-17 |
 | [Під пледом](https://open.spotify.com/track/1ZEHCbqnpu2joFrKAiDE8t) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Під пледом](https://open.spotify.com/album/7A7f2QyUidKk2TMiX17vOn) | 2:45 | 2024-10-31 | 2024-12-13 |
 | [Піони](https://open.spotify.com/track/5NkJKbDnuOtpiITSejQGTh) | [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC) | [Піони](https://open.spotify.com/album/1K0SIldIslWPu6pOwBvOyk) | 2:59 | 2024-10-10 | 2024-10-19 |
-| [РИБКИ ЗА СКЛОМ](https://open.spotify.com/track/1uxwkiscO1SySoGMmIrfh8) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [АРХЕТИПИ](https://open.spotify.com/album/5Kru1f3VVwSz8LRI9ubVjj) | 2:05 | 2025-05-01 |  |
-| [РИБОLove](https://open.spotify.com/track/4TuVPo2nomR1QcY2eksuuq) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [АРХЕТИПИ](https://open.spotify.com/album/5Kru1f3VVwSz8LRI9ubVjj) | 3:04 | 2025-05-01 |  |
+| [РИБКИ ЗА СКЛОМ](https://open.spotify.com/track/1uxwkiscO1SySoGMmIrfh8) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [АРХЕТИПИ](https://open.spotify.com/album/5Kru1f3VVwSz8LRI9ubVjj) | 2:05 | 2025-05-01 | 2025-05-09 |
+| [РИБОLove](https://open.spotify.com/track/4TuVPo2nomR1QcY2eksuuq) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [АРХЕТИПИ](https://open.spotify.com/album/5Kru1f3VVwSz8LRI9ubVjj) | 3:04 | 2025-05-01 | 2025-05-09 |
+| [Роздягни](https://open.spotify.com/track/4VRNpDQBN4eY5Pjh7RzsLy) | [Ostrovskyi](https://open.spotify.com/artist/4HbGIutrYOvKMrbuPp6VjK) | [Роздягни](https://open.spotify.com/album/52SjGCNw41dDlivw2K0TO3) | 2:29 | 2025-05-08 |  |
 | [РОЗЧИНЯЮСЬ](https://open.spotify.com/track/3dRCGYIBbmzDk9MaOrllwM) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [РОЗЧИНЯЮСЬ](https://open.spotify.com/album/41k48aVK40H7TawcoiLRaB) | 3:18 | 2025-02-20 | 2025-02-28 |
 | [Руда вода](https://open.spotify.com/track/3LOxBkDFWUUxk0EP8BgRQe) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Руда вода](https://open.spotify.com/album/3GIuVfp98SSJkPGFbHD4dk) | 2:17 | 2024-10-31 | 2025-01-24 |
 | [Різні](https://open.spotify.com/track/41SjxgeszHB9sHIDF8uv0z) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0) | [Різні](https://open.spotify.com/album/66H5dnzRkTXifMuwP4355H) | 3:14 | 2025-04-17 |  |

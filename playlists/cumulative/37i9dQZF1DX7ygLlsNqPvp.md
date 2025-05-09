@@ -2,9 +2,9 @@
 
 ### [Asakaa](https://open.spotify.com/playlist/37i9dQZF1DX7ygLlsNqPvp)
 
-> The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
+> The most intense local drill music firing up the continent\. Cover:  reggie
 
-245 songs - 12 hr 21 min
+246 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [FREEEE \(feat\. Lil Skid & Bosom P\-Yung\)](https://open.spotify.com/track/4JFvMJhj0IItMMOosrxEJY) | [FREE THE YOUTH](https://open.spotify.com/artist/0DtFQ5ZCavMbEf4jmYsgui), [Lil Skid](https://open.spotify.com/artist/1e9JfhpBsf4VF51AWObUBa), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [FREEEE \(feat\. Lil Skid & Bosom P\-Yung\)](https://open.spotify.com/album/27UWJ4EXmYP7pg6B9Aehxp) | 2:59 | 2025-02-28 | 2025-04-01 |
 | [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 | 2023-01-13 | 2024-03-15 |
 | [Frodo Baggins](https://open.spotify.com/track/1tANLsAscqWcdbEg7GzgSo) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/7tXVr3QOLpz8xUiXLbbpgs) | 4:36 | 2022-06-09 | 2023-02-26 |
-| [Gagging](https://open.spotify.com/track/13MdYCDGb9vSdgrYeF77Kv) | [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Gagging](https://open.spotify.com/album/3TmImBXEyLpj4fSP81HAX8) | 3:00 | 2025-02-28 |  |
+| [Gagging](https://open.spotify.com/track/13MdYCDGb9vSdgrYeF77Kv) | [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Gagging](https://open.spotify.com/album/3TmImBXEyLpj4fSP81HAX8) | 3:00 | 2025-02-28 | 2025-05-09 |
 | [GENG GENG \(feat\. City Boy, O'Kenneth, Jay Bahd & Sean Lifer\)](https://open.spotify.com/track/1O8u2QYMb4fDdQFQYKFeaI) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sean Lifer](https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9) | [GENG GENG \(feat\. City Boy, O'Kenneth, Jay Bahd & Sean Lifer\)](https://open.spotify.com/album/0Km1oJSuuHnhZMpbpTPdO9) | 2:36 | 2022-06-09 | 2024-07-19 |
 | [Ghana \- Remix](https://open.spotify.com/track/6Gj9DBxR759xBP6g5zxBhA) | [SRT Gwalla](https://open.spotify.com/artist/78thSZQFZJsZqi6Lr5WgIc), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Ghana \(Remix\)](https://open.spotify.com/album/7kckPDQIjbWJnaQhx2v6r4) | 2:26 | 2024-03-29 | 2024-04-19 |
 | [Ghana Girl \(Asakaa Mix\)](https://open.spotify.com/track/177ONM0IbGOF8AFwl7VuPA) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Glitch Boyz](https://open.spotify.com/album/5UW4AYkCPXp74NMBA6zHja) | 2:32 | 2024-10-04 | 2025-02-28 |
@@ -226,6 +226,7 @@
 | [Tesco \(Feat\. Medikal\)](https://open.spotify.com/track/446yWd379q3bDzKbXyZ7UO) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:41 | 2025-02-28 |  |
 | [The One that Got Away](https://open.spotify.com/track/6fClsr0nie6TaR58GcMGov) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [The One that Got Away](https://open.spotify.com/album/5keaD9M9G1AOoQgGn2FgYe) | 2:56 | 2024-04-19 | 2024-04-26 |
 | [Thoughts](https://open.spotify.com/track/6hpOjxBodjemG28YyRELEt) | [Kwayku](https://open.spotify.com/artist/7eyWJ5wi2uNgtEcdb6Imbg), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Genesis](https://open.spotify.com/album/6pgDWVNsYoDv3rUa4G3nO8) | 3:22 | 2024-05-03 | 2024-06-07 |
+| [Till It's Done](https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [CHRONICLES \(The First Supper\)](https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ) | 2:41 | 2025-05-09 |  |
 | [Till We Die](https://open.spotify.com/track/6cRQPMi6eZTtP7VvKmc4Rw) | [Phaize](https://open.spotify.com/artist/4S0ZEMWDccpMd5ybPA6A9n), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Till We Die](https://open.spotify.com/album/7fLZKILabFwc8BJ3GIYYcU) | 3:57 | 2025-04-04 | 2025-04-18 |
 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 | 2022-11-04 | 2023-02-11 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |

@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 162 | [Antares](https://open.spotify.com/track/3NTQws0JI0usmAUXHD8Gia) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:06 |
 | 163 | [The Helium Balloon](https://open.spotify.com/track/1qKduDCOSKvJPQ1PENrtF1) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Magazeen](https://open.spotify.com/artist/21D8ywf89eWxGJGx7IfMBW) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:47 |
 | 164 | [Gimme Gimme](https://open.spotify.com/track/6m8uAsdrrL4dgsdYBqlRss) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7) | [Step Brothers](https://open.spotify.com/album/3fPVpa5c6VFluIWqn176sV) | 2:40 |
-| 165 | [Float On \(feat\. Charli XCX\)](https://open.spotify.com/track/7sVWaKkGHotMdumFe6Ecph) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 3:31 |
+| 165 | [Float On \(feat\. Charli xcx\)](https://open.spotify.com/track/6mN3uDOXjU0CtK8H6GVJlc) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli XCX](https://open.spotify.com/artist/0HNqrcl3vgc1U7U1SNtsvB) | [Old](https://open.spotify.com/album/27kBaFri0HzGkn9QlDuaS7) | 3:31 |
 | 166 | [Multifaceted](https://open.spotify.com/track/5j0Vc0Kw3lZ8yBDXDGvMzd) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 2:57 |
 | 167 | [Since You Asked Kindly](https://open.spotify.com/track/3vybpXzMgBMsK9Nd2Ce7qh) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 4:41 |
 | 168 | [Drama Never Ends](https://open.spotify.com/track/6814K8HVe6Kof32m54iFMf) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Southpaw \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru) | 3:16 |
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 240 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 241 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbwzvgAAAABV1K7psxDZu3LQIjIpnMDj`
+Snapshot ID: `Abw5SgAAAABFGwBF9eIoDbyt6NCssb6p`

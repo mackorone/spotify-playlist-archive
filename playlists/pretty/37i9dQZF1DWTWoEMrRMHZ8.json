@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Tim Bernardes",
-  "num_followers": 350252,
+  "num_followers": 350263,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 106452,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
         "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 205915,
       "name": "Mutir\u00e3o de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 106452,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
+        "name": "Pra Gente Acordar ao vivo na Concha Ac\u00fastica do TCA - SSA",
+        "url": "https://open.spotify.com/album/76GZKVamYQh2X9p5Reh9Kb"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 186696,
+      "name": "Pra gente acordar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7iKOqktKa50KNdXKLIO5Ux"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
         "name": "Quem dir\u00e1?",
         "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 172580,
       "name": "Quem dir\u00e1?",
       "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
-        "name": "Pra Gente Acordar ao vivo na Concha Ac\u00fastica do TCA - SSA",
-        "url": "https://open.spotify.com/album/76GZKVamYQh2X9p5Reh9Kb"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 186696,
-      "name": "Pra gente acordar - Ao Vivo",
-      "url": "https://open.spotify.com/track/7iKOqktKa50KNdXKLIO5Ux"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
-        "name": "Pagode da Mart'n\u00e1lia",
-        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 180982,
-      "name": "Cheia de Manias",
-      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
         "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
         "url": "https://open.spotify.com/album/652ZVwlCpBlUlOZGKwkJcH"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 222758,
       "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
       "url": "https://open.spotify.com/track/5gXebJZbpKRHl32Ft44Kxh"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
+        "name": "Pagode da Mart'n\u00e1lia",
+        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 180982,
+      "name": "Cheia de Manias",
+      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
         "name": "Bananeira",
         "url": "https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 213377,
       "name": "Bananeira",
       "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
+        "name": "Parto",
+        "url": "https://open.spotify.com/album/2qEugO28U8bHum2Aj8N1KI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Dias",
+          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Tempo Vai Devagar",
+      "url": "https://open.spotify.com/track/2Mc9zLRfiPcfzSKYyvdstJ"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
-        "name": "Parto",
-        "url": "https://open.spotify.com/album/2qEugO28U8bHum2Aj8N1KI"
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
       },
       "artists": [
         {
-          "name": "B\u00e1rbara Dias",
-          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         }
       ],
-      "duration_ms": 159069,
-      "name": "Tempo Vai Devagar",
-      "url": "https://open.spotify.com/track/2Mc9zLRfiPcfzSKYyvdstJ"
+      "duration_ms": 172258,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
-        "name": "Se Meu Pai \u00c9 Ogum",
-        "url": "https://open.spotify.com/album/7ntyVkT2RoOv3loBZqjyBL"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        }
-      ],
-      "duration_ms": 150805,
-      "name": "Se Meu Pai \u00c9 Ogum",
-      "url": "https://open.spotify.com/track/2MIOGmWgXffcRyJOMFR7OX"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
         "name": "For\u00e7a Estranha",
         "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 257739,
       "name": "For\u00e7a Estranha",
       "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
+        "name": "Se Meu Pai \u00c9 Ogum",
+        "url": "https://open.spotify.com/album/7ntyVkT2RoOv3loBZqjyBL"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        }
+      ],
+      "duration_ms": 150805,
+      "name": "Se Meu Pai \u00c9 Ogum",
+      "url": "https://open.spotify.com/track/2MIOGmWgXffcRyJOMFR7OX"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
-        "name": "Eu Vivendo Nossa Vida",
-        "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
-      },
-      "artists": [
-        {
-          "name": "Tom Karabachian",
-          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 194494,
-      "name": "Eu Vivendo Nossa Vida",
-      "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
         "name": "Um Tempo S\u00f3",
         "url": "https://open.spotify.com/album/5LneCBBTEFVazqLXQOv2bd"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 168378,
       "name": "Um tempo S\u00f3",
       "url": "https://open.spotify.com/track/1d4DlQ0sUnM5Q6eRb14143"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
+        "name": "Eu Vivendo Nossa Vida",
+        "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
+      },
+      "artists": [
+        {
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 194494,
+      "name": "Eu Vivendo Nossa Vida",
+      "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
-        "name": "Rivo III e a F\u00e9",
-        "url": "https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Piquete",
-      "url": "https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
         "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
         "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
-        "name": "Ponto De Oxum",
-        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
+        "name": "Rivo III e a F\u00e9",
+        "url": "https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf"
       },
       "artists": [
         {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Ponto De Oxum",
-      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
+      "duration_ms": 253173,
+      "name": "Piquete",
+      "url": "https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -1123,6 +1107,22 @@
       "duration_ms": 222000,
       "name": "Baianidade Nag\u00f4",
       "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
+        "name": "Ponto De Oxum",
+        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Ponto De Oxum",
+      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -1155,6 +1155,22 @@
       "duration_ms": 241860,
       "name": "Melhor Assim",
       "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
+        "name": "Uma Estrela Misteriosa",
+        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 426853,
+      "name": "Estrela Misteriosa",
+      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
-        "name": "Uma Estrela Misteriosa",
-        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 426853,
-      "name": "Estrela Misteriosa",
-      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
         "name": "50 (Ao Vivo)",
         "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
       },
@@ -1259,6 +1259,46 @@
       "duration_ms": 263014,
       "name": "Divina Com\u00e9dia Humana - Ao Vivo",
       "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
+        "name": "Paisagem (Deluxe)",
+        "url": "https://open.spotify.com/album/7dhVbK4HYgrJXixVZbp2XA"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 358615,
+      "name": "Devagar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0sAvqDOSL057LwPrRtOV1U"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
+        "name": "Um Triz",
+        "url": "https://open.spotify.com/album/3NUebQrHVZGIiKMd4KAEq3"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Tatiana Parra",
+          "url": "https://open.spotify.com/artist/4UPAR5j8CLFlb68v9KFiZV"
+        },
+        {
+          "name": "Ot\u00e1vio Toledo",
+          "url": "https://open.spotify.com/artist/0urNub4uP9SqK6JYZuDEbd"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "Um Triz",
+      "url": "https://open.spotify.com/track/2902oGw1QmvUqjVA6xkBcL"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -1283,22 +1323,6 @@
       "duration_ms": 208074,
       "name": "Pote D'\u00c1gua",
       "url": "https://open.spotify.com/track/6nHJYUXxgzUzqbrak7donA"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
-        "name": "Paisagem (Deluxe)",
-        "url": "https://open.spotify.com/album/7dhVbK4HYgrJXixVZbp2XA"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 358615,
-      "name": "Devagar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0sAvqDOSL057LwPrRtOV1U"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -1335,30 +1359,6 @@
       "duration_ms": 105000,
       "name": "Ponto de Nan\u00e3",
       "url": "https://open.spotify.com/track/2ig89NtTkl5HJglRtCnnLb"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
-        "name": "Um Triz",
-        "url": "https://open.spotify.com/album/3NUebQrHVZGIiKMd4KAEq3"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Tatiana Parra",
-          "url": "https://open.spotify.com/artist/4UPAR5j8CLFlb68v9KFiZV"
-        },
-        {
-          "name": "Ot\u00e1vio Toledo",
-          "url": "https://open.spotify.com/artist/0urNub4uP9SqK6JYZuDEbd"
-        }
-      ],
-      "duration_ms": 224908,
-      "name": "Um Triz",
-      "url": "https://open.spotify.com/track/2902oGw1QmvUqjVA6xkBcL"
     },
     {
       "added_at": "2025-05-02 19:34:13",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-05-02 19:34:13",
       "album": {
-        "name": "Uma Parte",
-        "url": "https://open.spotify.com/album/3MS70IAyCzoiyWwMao5UOr"
-      },
-      "artists": [
-        {
-          "name": "Wem",
-          "url": "https://open.spotify.com/artist/03U2zyL8CArxG4xX5mS2Fd"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Uma Parte",
-      "url": "https://open.spotify.com/track/0pE7yAk5s01YkdJqUqkozW"
-    },
-    {
-      "added_at": "2025-05-02 19:34:13",
-      "album": {
         "name": "Jardim da Vida",
         "url": "https://open.spotify.com/album/0nrRv4q1VAGrN4xEkwOUk3"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 211498,
       "name": "Jardim da Vida",
       "url": "https://open.spotify.com/track/5yBOtXWOggB3cpJTlfI59x"
+    },
+    {
+      "added_at": "2025-05-02 19:34:13",
+      "album": {
+        "name": "Uma Parte",
+        "url": "https://open.spotify.com/album/3MS70IAyCzoiyWwMao5UOr"
+      },
+      "artists": [
+        {
+          "name": "Wem",
+          "url": "https://open.spotify.com/artist/03U2zyL8CArxG4xX5mS2Fd"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Uma Parte",
+      "url": "https://open.spotify.com/track/0pE7yAk5s01YkdJqUqkozW"
     },
     {
       "added_at": "2025-05-02 19:34:13",

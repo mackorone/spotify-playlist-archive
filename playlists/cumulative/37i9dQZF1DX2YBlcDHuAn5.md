@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-223 songs - 13 hr 20 min
+224 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anybody Else But Me](https://open.spotify.com/track/6bO44ywoBjbe2XeI1lgTm5) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Anybody Else But Me](https://open.spotify.com/album/4rWkiDyXhDqN2Lm1Zg08sv) | 3:31 | 2024-03-07 | 2024-05-12 |
 | [Aphrodite](https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ) | [Donna Blue](https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd) | [Aphrodite](https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ) | 3:18 | 2024-02-01 | 2025-01-17 |
 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 | 2023-02-23 | 2024-08-30 |
+| [Baby Blue](https://open.spotify.com/track/0G8FbbPiojScqAu2BgIS1P) | [Rosemary's Sons](https://open.spotify.com/artist/5zIxr40rlyDHkNmET9l6YB) | [Baby Blue](https://open.spotify.com/album/1kJhIOxMmxZV1FRIht3LqK) | 3:06 | 2025-05-08 |  |
 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 | 2024-08-01 |  |
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-02-03 |  |
 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 | 2023-02-23 | 2024-09-13 |
@@ -93,7 +94,7 @@
 | [Home Is Where...](https://open.spotify.com/track/3joE5kBQ4R85LrU8NG4SdZ) | [John Engel](https://open.spotify.com/artist/3HMnypHJS8kCT5JeKsEmzZ) | [Home Is Where...](https://open.spotify.com/album/5P2b8CbIX0kBW2vRLdx5wo) | 4:39 | 2023-02-23 | 2023-04-28 |
 | [Honestly](https://open.spotify.com/track/1i2pcGWcErOOZKvanPg0Xw) | [June Road](https://open.spotify.com/artist/3SVB9qKuL59RmG34jrlfRJ) | [Landscapes](https://open.spotify.com/album/3yIiya62yX6iAwGrOYwHpT) | 3:31 | 2024-08-29 | 2024-09-13 |
 | [Honey I Do \- Single Edit](https://open.spotify.com/track/2uAtTi6zk3Kw8JKDreIbE6) | [The Coo](https://open.spotify.com/artist/2SE0r4tVfer1MovFCIb58g) | [Honey I Do](https://open.spotify.com/album/3JT8wKpkMMfbhT3tJK84eK) | 3:36 | 2024-08-29 | 2025-01-17 |
-| [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 | 2023-12-01 |  |
+| [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 | 2023-12-01 | 2025-05-09 |
 | [Huddle by the Fire](https://open.spotify.com/track/5cmp99VIIXksQZGdDIf5sB) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP) | [Huddle by the Fire](https://open.spotify.com/album/56cOKNhTkIwryEvl3QQNOq) | 2:41 | 2023-10-05 | 2025-01-17 |
 | [I Believe](https://open.spotify.com/track/2OWWVJ4aCJfaATMozLKkQz) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [I Believe](https://open.spotify.com/album/3cZYZeskSVIYAUdBYarTCE) | 2:59 | 2024-08-29 |  |
 | [I Cry Alone](https://open.spotify.com/track/2KLXKaVVPN5JEQao4EX6aw) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [I Cry Alone](https://open.spotify.com/album/1TuR4n1YDtRMgJhORKN5Na) | 3:31 | 2025-01-16 | 2025-04-09 |

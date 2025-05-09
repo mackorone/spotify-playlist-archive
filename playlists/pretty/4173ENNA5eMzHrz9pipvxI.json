@@ -1,13 +1,33 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Jude York",
-  "num_followers": 120795,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Joe Stone",
+  "num_followers": 120789,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAfPYDrMgmYqkRlmeVkMRbR08txTisX",
+  "snapshot_id": "AAAfSXa0+zeZTAHhDqQow/rRTQ7IfAeX",
   "tracks": [
+    {
+      "added_at": "2025-05-08 12:51:42",
+      "album": {
+        "name": "Donna Summer Nights (feat. Aloma Steele)",
+        "url": "https://open.spotify.com/album/7zCwpxKE8Z6rb4ScdU3eKo"
+      },
+      "artists": [
+        {
+          "name": "Joe Stone",
+          "url": "https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv"
+        },
+        {
+          "name": "Aloma Steele",
+          "url": "https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Donna Summer Nights (feat. Aloma Steele)",
+      "url": "https://open.spotify.com/track/5VYyuIUlCgp97X8E29IX2I"
+    },
     {
       "added_at": "2025-05-01 12:29:12",
       "album": {
@@ -83,6 +103,122 @@
       "duration_ms": 180991,
       "name": "How I Feel (Am I Wrong)",
       "url": "https://open.spotify.com/track/2FFPJq44xTco95jn7KpZ82"
+    },
+    {
+      "added_at": "2025-05-08 12:52:49",
+      "album": {
+        "name": "Holding Back The Years (VIP Mix)",
+        "url": "https://open.spotify.com/album/2pE1nnFPKkU5r3Wk9YHbc2"
+      },
+      "artists": [
+        {
+          "name": "Pawel\u014d",
+          "url": "https://open.spotify.com/artist/76xuVwMGa55gY2pQcp8fqH"
+        }
+      ],
+      "duration_ms": 130860,
+      "name": "Holding Back The Years - VIP Mix",
+      "url": "https://open.spotify.com/track/6RXXM09jHWHEdKIsh3naw7"
+    },
+    {
+      "added_at": "2025-05-08 12:55:02",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/75whS2GTKoE2GkihiuFsvk"
+      },
+      "artists": [
+        {
+          "name": "Juicy M",
+          "url": "https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6"
+        },
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "duration_ms": 123807,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/7bCfSIVQZLVMAe2Z1lxsMM"
+    },
+    {
+      "added_at": "2025-05-08 13:09:04",
+      "album": {
+        "name": "Breathe (with Jerome)",
+        "url": "https://open.spotify.com/album/2y7vu7uO0GjDfN5OzLPOVY"
+      },
+      "artists": [
+        {
+          "name": "Police In Paris",
+          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Breathe (with Jerome)",
+      "url": "https://open.spotify.com/track/2MNq4nkmeFTj6YOF4xu4F6"
+    },
+    {
+      "added_at": "2025-05-08 12:56:48",
+      "album": {
+        "name": "Together As One",
+        "url": "https://open.spotify.com/album/1WxEl8f2I1olihI8k6IC9x"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 165677,
+      "name": "Together As One",
+      "url": "https://open.spotify.com/track/13lbO5MJLJmH7BErGkZ547"
+    },
+    {
+      "added_at": "2025-05-08 13:11:47",
+      "album": {
+        "name": "SISTEM ERROR",
+        "url": "https://open.spotify.com/album/7h0LRiVOmVQGLOTc9xntF1"
+      },
+      "artists": [
+        {
+          "name": "GI\u00d8",
+          "url": "https://open.spotify.com/artist/1DTuf3cqItmyesR4lICN1M"
+        }
+      ],
+      "duration_ms": 242962,
+      "name": "SISTEM ERROR",
+      "url": "https://open.spotify.com/track/5fKil1HCUAk45V4ExBdMEV"
+    },
+    {
+      "added_at": "2025-05-08 13:13:07",
+      "album": {
+        "name": "Won\u2019t Be Possible",
+        "url": "https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Won\u2019t Be Possible",
+      "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
     },
     {
       "added_at": "2025-04-24 12:57:52",
@@ -303,246 +439,6 @@
       "duration_ms": 220952,
       "name": "Strike A Pose (feat. Barefoot)",
       "url": "https://open.spotify.com/track/3lRTdBw2SOlJq3r9wdK5pw"
-    },
-    {
-      "added_at": "2025-04-24 13:36:06",
-      "album": {
-        "name": "Yima",
-        "url": "https://open.spotify.com/album/0A9v2FUubSROjutXm7O2Kr"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "Yima",
-      "url": "https://open.spotify.com/track/74ctwrNG6tk0W2OtBsgxsU"
-    },
-    {
-      "added_at": "2025-04-24 13:37:29",
-      "album": {
-        "name": "33 Max Verstappen (2 The Maxx) [with Nils van Zandt]",
-        "url": "https://open.spotify.com/album/4PuMouCBefN8iCSIne8GSM"
-      },
-      "artists": [
-        {
-          "name": "Maxx Power",
-          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
-        },
-        {
-          "name": "Carte Blanq",
-          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
-        },
-        {
-          "name": "Anita Doth",
-          "url": "https://open.spotify.com/artist/7xhR4wM8X8SeGTKKPujotA"
-        },
-        {
-          "name": "Big Ali",
-          "url": "https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls"
-        },
-        {
-          "name": "Nils Van Zandt",
-          "url": "https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj"
-        }
-      ],
-      "duration_ms": 138643,
-      "name": "33 Max Verstappen (2 The Maxx) [with Nils van Zandt]",
-      "url": "https://open.spotify.com/track/5OElNzMJqj4UkqNi2ZqssO"
-    },
-    {
-      "added_at": "2025-04-24 13:40:45",
-      "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/1F2ehGjO2DqYqrEDN6n7t9"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 152142,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/11BtGhFCp0R6yRzB9grEKw"
-    },
-    {
-      "added_at": "2025-04-24 13:41:48",
-      "album": {
-        "name": "Grapevine",
-        "url": "https://open.spotify.com/album/26HldAj8uHjalZXRTWo8w9"
-      },
-      "artists": [
-        {
-          "name": "DAMEN",
-          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
-        },
-        {
-          "name": "Moonphazes",
-          "url": "https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH"
-        }
-      ],
-      "duration_ms": 221427,
-      "name": "Grapevine",
-      "url": "https://open.spotify.com/track/7vgjOfFCwU7dxc3l7tyan3"
-    },
-    {
-      "added_at": "2025-04-17 10:07:59",
-      "album": {
-        "name": "Bailame",
-        "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 185650,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
-    },
-    {
-      "added_at": "2025-04-17 10:07:59",
-      "album": {
-        "name": "Spacer (unfazed Remix)",
-        "url": "https://open.spotify.com/album/4OlzFQTq5XyB1xlIpLzPrg"
-      },
-      "artists": [
-        {
-          "name": "Mooglie",
-          "url": "https://open.spotify.com/artist/3VejcuVO9JCQ9e23syZSoJ"
-        },
-        {
-          "name": "Agoria",
-          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
-        },
-        {
-          "name": "NOEMIE",
-          "url": "https://open.spotify.com/artist/7gmBCPfdEiZGywHfJJYYQX"
-        },
-        {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Spacer (unfazed Remix)",
-      "url": "https://open.spotify.com/track/38DOoMDs5sBm81uFm0Ekuj"
-    },
-    {
-      "added_at": "2025-04-17 10:29:04",
-      "album": {
-        "name": "5 Days In B\u00fazios",
-        "url": "https://open.spotify.com/album/1m6dFh2O0KPxyiVIxXzwQt"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Bruno Be",
-          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
-        }
-      ],
-      "duration_ms": 243437,
-      "name": "5 Days In B\u00fazios",
-      "url": "https://open.spotify.com/track/32P5p8mzGF3wzWaSico9mM"
-    },
-    {
-      "added_at": "2025-04-17 10:29:04",
-      "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/7yCIuNN0dwqhRo3VmnosFX"
-      },
-      "artists": [
-        {
-          "name": "Floris van Oranje",
-          "url": "https://open.spotify.com/artist/6WrQtpzvML5W3b8ZvqMZ2o"
-        }
-      ],
-      "duration_ms": 140190,
-      "name": "More Life",
-      "url": "https://open.spotify.com/track/1XFTkAAL8bO2f3WHFNeXBN"
-    },
-    {
-      "added_at": "2025-04-17 10:29:04",
-      "album": {
-        "name": "Mafeesh Mostaheel (feat. Abd El Basset Hamouda)",
-        "url": "https://open.spotify.com/album/6YgoTt2GxQczjteviRMI55"
-      },
-      "artists": [
-        {
-          "name": "SHAF",
-          "url": "https://open.spotify.com/artist/3MSIHwtYvvLf0CLu6rUWOy"
-        },
-        {
-          "name": "Hassan El Shafei",
-          "url": "https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x"
-        },
-        {
-          "name": "Abd El Basset Hamouda",
-          "url": "https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw"
-        }
-      ],
-      "duration_ms": 301429,
-      "name": "Mafeesh Mostaheel (feat. Abd El Basset Hamouda)",
-      "url": "https://open.spotify.com/track/2eNuVCIqg9GpMhUL1DY2AM"
-    },
-    {
-      "added_at": "2025-04-17 10:07:59",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/27kNgbEXGxOYQp5hagA18Y"
-      },
-      "artists": [
-        {
-          "name": "LAWRENT",
-          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        }
-      ],
-      "duration_ms": 181702,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/6irqAJQjRS0uW2dxDXyaj8"
-    },
-    {
-      "added_at": "2025-04-17 10:07:59",
-      "album": {
-        "name": "It Must Have Been Love (feat. Charla K)",
-        "url": "https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
-        },
-        {
-          "name": "Charla K",
-          "url": "https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "It Must Have Been Love (feat. Charla K)",
-      "url": "https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

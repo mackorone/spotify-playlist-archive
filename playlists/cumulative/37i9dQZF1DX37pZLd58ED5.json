@@ -3731,6 +3731,24 @@
     },
     {
       "album": {
+        "name": "RANCH",
+        "url": "https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "SANGUE AMARO",
+      "url": "https://open.spotify.com/track/4oKuz4kYetMrv0Krau82jt"
+    },
+    {
+      "album": {
         "name": "Noi Siamo Il Club (Reloaded Edition)",
         "url": "https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8"
       },

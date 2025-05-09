@@ -2833,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "\u8cdc\u7269",
+        "url": "https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288323,
+      "name": "\u8cdc\u7269",
+      "url": "https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv"
+    },
+    {
+      "album": {
         "name": "\u7d76\u4f53\u7d76\u547d",
         "url": "https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm"
       },

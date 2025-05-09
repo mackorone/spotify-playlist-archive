@@ -4,7 +4,7 @@
 
 > 🍾
 
-221 songs - 12 hr 59 min
+222 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2022-12-08 | 2023-09-23 |
 | [KILIMINI](https://open.spotify.com/track/1WZ2VE0DFne0VN5NzOdBEy) | [Ajar](https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z) | [BLEU MÉDITERRANÉE](https://open.spotify.com/album/6JP3vTxoeonxqKzGaQfI1i) | 2:24 | 2025-03-20 |  |
 | [King](https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:35 | 2022-12-08 | 2023-09-23 |
-| [L'hiver au soleil \- Napkey Remix](https://open.spotify.com/track/1LcLM1VMwpKbX5aW0PVQ5r) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Cliff Schneider](https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD), [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [L'hiver au soleil \(Napkey Remix\)](https://open.spotify.com/album/3gmI8TtovNwo4SkGWFSSj8) | 3:11 | 2025-02-20 |  |
+| [L'hiver au soleil \- Napkey Remix](https://open.spotify.com/track/1LcLM1VMwpKbX5aW0PVQ5r) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Cliff Schneider](https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD), [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [L'hiver au soleil \(Napkey Remix\)](https://open.spotify.com/album/3gmI8TtovNwo4SkGWFSSj8) | 3:11 | 2025-02-20 | 2025-05-09 |
 | [L'intranquillité](https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [L'intranquillité](https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ) | 4:20 | 2025-04-10 |  |
 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 | 2022-12-08 | 2023-09-23 |
 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 | 2022-12-08 | 2023-01-05 |
@@ -227,6 +227,7 @@
 | [Without You](https://open.spotify.com/track/4oUwIemilFkGKeoL6HpJjs) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Without You](https://open.spotify.com/album/517Tkn0PUJbbF02tZXYotA) | 2:59 | 2022-12-08 | 2024-06-22 |
 | [Write](https://open.spotify.com/track/59PIUdIghdApPnPxf3TuRP) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Write](https://open.spotify.com/album/4fIur2CSRogNWs8gmxlzdr) | 2:47 | 2023-03-24 | 2023-09-23 |
 | [Yesterday's World](https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Fauxllennium](https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1) | 4:06 | 2024-12-06 | 2025-02-07 |
+| [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 | 2025-05-08 |  |
 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 | 2022-12-08 | 2023-09-23 |
 | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/5UCvSYbby8k6RQam1apbbz) | 3:29 | 2024-02-09 | 2025-02-28 |
 

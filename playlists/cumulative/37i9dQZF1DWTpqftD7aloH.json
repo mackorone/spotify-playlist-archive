@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Calmaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Rzj5SVQ34yM39Gu63duut"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370346,
+      "name": "Calmaria - Ao Vivo",
+      "url": "https://open.spotify.com/track/22Ud0n6Goh2jzgaIKasfrP"
+    },
+    {
+      "album": {
         "name": "Caminho no Deserto",
         "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
       },
@@ -5308,7 +5326,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 217429,
       "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/7bKGZ3mPLFQaxTE8FIn3uf"

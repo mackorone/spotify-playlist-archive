@@ -4,7 +4,7 @@
 
 > Escucha a mujeres a todo volumen\. Foto: Ona Mafalda.
 
-1,984 songs - 4 day 3 hr 25 min
+1,985 songs - 4 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1579,6 +1579,7 @@
 | [Secretaria](https://open.spotify.com/track/7oDOlxNXC68XUM8cMjL0JX) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Infinito \- Duets](https://open.spotify.com/album/1tzdSyR2Q8CzWG3kEGwiy9) | 2:56 | 2022-05-31 | 2022-07-06 |
 | [Secreto De Agua \(Eurovision\)](https://open.spotify.com/track/3YLmgQg3sd5pzTrvYCWqud) | [Blanca Paloma](https://open.spotify.com/artist/4wm4mhiGnYPzCerFg3venQ) | [Secreto De Agua \(Eurovision\)](https://open.spotify.com/album/69NW8oYBrXjZDGXyVrBPDy) | 2:51 | 2022-02-01 | 2023-01-04 |
 | [Sed](https://open.spotify.com/track/24D8HWHStXeMHPR4fF2okh) | [Grima](https://open.spotify.com/artist/0dD18OLw7WRlZlBu9ZDmSH), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Sed](https://open.spotify.com/album/07lk9iDMXvZRFt5i3DrI6R) | 3:25 | 2022-03-07 | 2022-04-07 |
+| [Sedated](https://open.spotify.com/track/4q3R4Tk5QWwORUl1YtxXfL) | [Ona Mafalda](https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb) | [Sedated](https://open.spotify.com/album/5pyug9x5BynBl8rMFJPGEQ) | 2:14 | 2025-05-08 |  |
 | [Seghadoras](https://open.spotify.com/track/168JCAlfpaJEfL4OG30qQL) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Seghadoras](https://open.spotify.com/album/59ePHpWmzr2VRhRupqTiy0) | 2:59 | 2022-07-05 | 2022-08-03 |
 | [Segunda Parte](https://open.spotify.com/track/52fUKvkGRw3kC2I0mxA9Dh) | [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Segunda Parte](https://open.spotify.com/album/73jBhHxqCXesUANbUfC4mO) | 2:32 | 2024-10-01 | 2024-11-06 |
 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-02-04 | 2025-03-05 |
@@ -1949,7 +1950,7 @@
 | [Ya No Me Joden La Fiesta](https://open.spotify.com/track/0Ep9MUg89xMAW1EdFXApBl) | [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Ya No Me Joden La Fiesta](https://open.spotify.com/album/7oP3vZtg0iDz3YLt5Ca0PV) | 3:17 | 2024-02-07 | 2024-03-06 |
 | [Ya No Más](https://open.spotify.com/track/4ejd4qAddVdDB7cukKVSDq) | [Gessamí Boada](https://open.spotify.com/artist/43EJOEfHheYd2CSYh3kvyA) | [Ya No Más](https://open.spotify.com/album/6VExecbtIItU7pRDZP2lOl) | 2:01 | 2024-01-09 | 2024-02-08 |
 | [Ya No Quema](https://open.spotify.com/track/2X0QbvmpU3MwmgWHymNq5P) | [Ona Mafalda](https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb) | [Ya No Quema](https://open.spotify.com/album/6IdVved3DmJEH6sd7vDuX0) | 3:08 | 2022-11-30 | 2023-01-04 |
-| [Ya No Soy Esa](https://open.spotify.com/track/0WmbQs7J39KFReyNj8r1DB) | [Ona Mafalda](https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb) | [Ya No Soy Esa](https://open.spotify.com/album/25x72pOYBTqHP0u4HUPqTK) | 2:20 | 2025-03-04 |  |
+| [Ya No Soy Esa](https://open.spotify.com/track/0WmbQs7J39KFReyNj8r1DB) | [Ona Mafalda](https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb) | [Ya No Soy Esa](https://open.spotify.com/album/25x72pOYBTqHP0u4HUPqTK) | 2:20 | 2025-03-04 | 2025-05-09 |
 | [YA SÉ](https://open.spotify.com/track/1n5CM4PBU4Rak57cPLOt2b) | [SOLEDAD VÉLEZ](https://open.spotify.com/artist/4e7wEeokf7skRInd805EVH) | [YA SÉ](https://open.spotify.com/album/2pgHJYOTihbjQ02AgLvriI) | 2:40 | 2022-04-06 | 2022-05-04 |
 | [Yalili](https://open.spotify.com/track/7BLGYxdrQSTXXY3qzIwCwM) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Yalili](https://open.spotify.com/album/19vo2JeYFxJcwpzsrLdRh7) | 5:48 | 2025-02-04 | 2025-03-05 |
 | [YALLAH SAFI](https://open.spotify.com/track/0fqHkjPLCr8bCBafTSszoa) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF), [Rotea](https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN) | [YALLAH SAFI](https://open.spotify.com/album/6SbGAqs0AJwNrCFjs9pzCg) | 2:35 | 2025-01-07 | 2025-02-05 |

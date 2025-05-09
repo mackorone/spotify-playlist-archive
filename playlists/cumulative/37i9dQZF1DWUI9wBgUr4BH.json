@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Benson Boone",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : marguerite",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -1037,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "Baila Morena (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/2OgaEdrn242dNwscn4cGzv"
+      },
+      "artists": [
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Baila Morena - R3HAB Remix",
+      "url": "https://open.spotify.com/track/4nQt8jf7YtvFFNoTI2uE2Y"
+    },
+    {
+      "album": {
         "name": "Balade",
         "url": "https://open.spotify.com/album/3nw79WxspBWa9V7r3KiFBT"
       },
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 193401,
       "name": "Balade",
       "url": "https://open.spotify.com/track/3PAkE2potAfVGgTocmrF89"
@@ -8127,6 +8149,24 @@
     },
     {
       "album": {
+        "name": "Open Hearts",
+        "url": "https://open.spotify.com/album/6VfBBrRc9CiWisIAoBeTqs"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211148,
+      "name": "Open Hearts - Single Version",
+      "url": "https://open.spotify.com/track/72fcuveJcHQ61u25WHQhjw"
+    },
+    {
+      "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
       },
@@ -8769,6 +8809,28 @@
     },
     {
       "album": {
+        "name": "Priceless (feat. LISA)",
+        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163352,
+      "name": "Priceless (feat. LISA)",
+      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
+    },
+    {
+      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
       },
@@ -8948,7 +9010,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 145000,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/5XlZ6Z7MqWajjms2m2Qu7s"
@@ -10024,7 +10086,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
@@ -10285,6 +10347,28 @@
     },
     {
       "album": {
+        "name": "Summer Jam",
+        "url": "https://open.spotify.com/album/4Vfe7sbn59NOVxYffwW3De"
+      },
+      "artists": [
+        {
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        },
+        {
+          "name": "Craig Smart",
+          "url": "https://open.spotify.com/artist/1rIUs5FD6pwDvRkti98lNr"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Summer Jam",
+      "url": "https://open.spotify.com/track/7wLTLminmuEDTdLbCapAMV"
+    },
+    {
+      "album": {
         "name": "Summer's Back",
         "url": "https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO"
       },
@@ -10410,7 +10494,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 186219,
       "name": "Tamo Bien",
       "url": "https://open.spotify.com/track/72RjC359lcwhf1cON9ppls"

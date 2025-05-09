@@ -390,7 +390,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 180806,
       "name": "Alt Jeg Ved",
       "url": "https://open.spotify.com/track/2zUjOppXfaT81EFetWuNG7"
@@ -2565,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Gennemsigtig",
+        "url": "https://open.spotify.com/album/1XDo0v9Eg3GU3tRsXQ3vBd"
+      },
+      "artists": [
+        {
+          "name": "Will",
+          "url": "https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166678,
+      "name": "Gennemsigtig",
+      "url": "https://open.spotify.com/track/7EmL02uKWiG5VrdvbCf7gH"
+    },
+    {
+      "album": {
         "name": "GIVE IT 2 ME",
         "url": "https://open.spotify.com/album/56UICC9UdmC7iMZsvKExBu"
       },
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 148831,
       "name": "Gynger",
       "url": "https://open.spotify.com/track/7AhBe8AbklsfzpM1XM6UAn"
@@ -5398,7 +5416,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 145588,
       "name": "Stafet",
       "url": "https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n"

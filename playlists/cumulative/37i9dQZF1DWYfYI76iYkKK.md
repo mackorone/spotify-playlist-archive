@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-516 songs - 1 day 9 hr 55 min
+518 songs - 1 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Twisted](https://open.spotify.com/track/3Qg03Ze6ifmmAGznwr1Xm5) | [Electrico](https://open.spotify.com/artist/4DxELhGCnHXSqYwq6fbcmv) | [Twisted](https://open.spotify.com/album/6T13N7kZpv449TROnEk40y) | 3:17 | 2022-06-16 | 2022-06-23 |
 | [Wendy](https://open.spotify.com/track/3bUkwiKvAcajKu34YD3xA2) | [Zheng Jianxing](https://open.spotify.com/artist/7i9rpL6vAfqTh1nyVN2t35) | [Wendy](https://open.spotify.com/album/5fcK9S9J1KSMaVqPQrKfoN) | 4:02 | 2022-11-17 | 2022-12-02 |
 | [What if..?](https://open.spotify.com/track/4Bia9GoL6kHh0By80gxB6k) | [MiLK](https://open.spotify.com/artist/0NgRZYjBqL5GG9NVxiYLKS) | [What if..? \(Side A\)](https://open.spotify.com/album/7G6FUjpT0xLFIaiZHLQR63) | 5:15 | 2022-07-15 | 2022-07-21 |
+| [WoMen](https://open.spotify.com/track/5gvfApb3OGVo6ibsgCDFiC) | [OK Wang](https://open.spotify.com/artist/3DkGkjw7GwIs62GBM297cM) | [WoMen](https://open.spotify.com/album/6Si722Z1182SQ11I8zA88m) | 4:04 | 2025-05-08 |  |
 | [Wonder \- Radio Edit](https://open.spotify.com/track/0lHzdjaWiKlodjIkjpWNl8) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Wonder \(Radio Edit\)](https://open.spotify.com/album/2BDFbrcws9Fwb0NnXXGVX3) | 2:11 | 2023-01-12 | 2023-01-27 |
 | [Wordless Groans](https://open.spotify.com/track/2cUgbDiOEk6OnxYRJKoGwk) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [Wordless Groans](https://open.spotify.com/album/0pL2KHp15cmfVn9ZWa8ZLW) | 4:59 | 2023-05-25 | 2023-08-20 |
 | [You / Me](https://open.spotify.com/track/3yfCssNAKVRrIu8wWfqev3) | [倪安東](https://open.spotify.com/artist/5LKvIQZUXSWBlaGNXwpryB) | [You / Me](https://open.spotify.com/album/4FIYZsOD184CNmPwFiiqsG) | 2:34 | 2023-09-21 | 2023-10-06 |
@@ -306,7 +307,7 @@
 | [我的愛 \- Diva Classics \- Part 4](https://open.spotify.com/track/0uahazD3DNQw2XgLtWEoPC) | [Rose Liu](https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn) | [我的愛 \(Diva Classics \- Part 4\)](https://open.spotify.com/album/5T601zJp4XTdgoyKucd9hE) | 4:01 | 2022-06-02 | 2023-02-24 |
 | [我真的受傷了](https://open.spotify.com/track/4k3EkMBKfXOZSlYIySVibW) | [Kingbeck 陳家勁](https://open.spotify.com/artist/2vX2yggUl8tIwN24kkP5iH) | [我真的受傷了](https://open.spotify.com/album/7z3OdGZp7rjablZTuYfCCA) | 3:45 | 2024-05-30 | 2024-06-14 |
 | [我能一直愛你](https://open.spotify.com/track/1USiTAXz5UC83JlxNBquJk) | [韋德WADE](https://open.spotify.com/artist/4XWexGlqZtr4NvxRx3dnfh) | [我能一直愛你](https://open.spotify.com/album/6hUQrl70ZKRAqO9ivrNwUe) | 4:49 | 2025-04-24 | 2025-05-02 |
-| [我這個人 \- 《我沒有談的那場戀愛》電影宣傳主題曲](https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我這個人 \(《我沒有談的那場戀愛》電影宣傳主題曲\)](https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep) | 4:50 | 2022-06-02 |  |
+| [我這個人 \- 《我沒有談的那場戀愛》電影宣傳主題曲](https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我這個人 \(《我沒有談的那場戀愛》電影宣傳主題曲\)](https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep) | 4:50 | 2022-06-02 | 2025-05-09 |
 | [我連快樂都不敢了](https://open.spotify.com/track/66x69ddxo6rH3KZoa5yNfO) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [游牧](https://open.spotify.com/album/5TcwXy3ycGrJVAIyLHwCVf) | 3:51 | 2022-06-27 | 2022-07-27 |
 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 | 2022-06-02 |  |
 | [我還要走多遠](https://open.spotify.com/track/1cXM5i4zuIANClYgVL1AIM) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [我還要走多遠](https://open.spotify.com/album/54aCj8Q29YcZCmMsXcLCWY) | 2:36 | 2023-10-12 | 2023-11-17 |
@@ -380,6 +381,7 @@
 | [深藍海](https://open.spotify.com/track/29KqtXjfOaMuHfRfdbueZG) | [高真 TRU](https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3) | [深藍海](https://open.spotify.com/album/5y4kXTQeXluWutxTVHUFSb) | 4:11 | 2024-12-12 | 2024-12-20 |
 | [潮水箴言](https://open.spotify.com/track/43ydEcvPtB09gg689Iizfu) | [SHUA](https://open.spotify.com/artist/4ZPApia4YNHraw5nhgp804) | [潮水箴言](https://open.spotify.com/album/5B0AZtKqwCRjMej90HoCKn) | 4:50 | 2024-01-11 | 2024-01-19 |
 | [灰燼](https://open.spotify.com/track/0m21x8eCBS9LFqr2H5Xm6h) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [灰燼](https://open.spotify.com/album/1CjHb4Jt2w4U02G035C1Xh) | 2:25 | 2024-09-05 | 2024-10-07 |
+| [灿烂的风和海\(影视剧《灿烂的风和海》主题曲\)](https://open.spotify.com/track/3IZxgpsrOpoTFBX0kZyJnO) | [陳昊宇](https://open.spotify.com/artist/3j1Kn3vDZpDAh4vMOf6G6w) | [影视剧《灿烂的风和海》影视原声带](https://open.spotify.com/album/4MwdmoztErHJfPM4z2tVaE) | 3:47 | 2025-05-08 |  |
 | [為了什麼而努力](https://open.spotify.com/track/4ax74pSfPz6QWO5o8rCwmD) | [曾嘉偉](https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7) | [為了什麼而努力](https://open.spotify.com/album/3ELx1GoOTS1TwywUjgArYL) | 3:39 | 2023-08-24 | 2023-09-08 |
 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 | 2022-07-28 | 2023-04-20 |
 | [無人](https://open.spotify.com/track/0GaXVbxat5CjDUdtgPpdu2) | [蕎Chiao](https://open.spotify.com/artist/3JgvHRyoYHDkGGT1oGlRYU) | [無人](https://open.spotify.com/album/6A5oYdk1PIhhOkIxdMoXqU) | 3:36 | 2024-06-27 | 2024-07-05 |
@@ -509,7 +511,7 @@
 | [雨](https://open.spotify.com/track/2jwmfurLSs8Se187151YEG) | [Sunnee楊芸晴](https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj) | [天气:晴](https://open.spotify.com/album/26muN1evthL1MGdvrrNqrI) | 3:58 | 2022-06-10 | 2022-07-27 |
 | [霧](https://open.spotify.com/track/1QgoB5lnM4eNwfo8Ul2Nss) | [RECall](https://open.spotify.com/artist/6HKqHYEuA8LL8m1gd1Lv6U) | [霧](https://open.spotify.com/album/5Zx9FKGY1jVHynet4CLrjo) | 4:17 | 2023-06-22 | 2023-07-11 |
 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 | 2022-06-02 |  |
-| [靜靜](https://open.spotify.com/track/3BrQ39Oo1LaA9V571AgECF) | [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [靜靜](https://open.spotify.com/album/6ObIKXliy5PpA4oBXLJoL0) | 4:14 | 2025-05-01 |  |
+| [靜靜](https://open.spotify.com/track/3BrQ39Oo1LaA9V571AgECF) | [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [靜靜](https://open.spotify.com/album/6ObIKXliy5PpA4oBXLJoL0) | 4:14 | 2025-05-01 | 2025-05-09 |
 | [頭髮](https://open.spotify.com/track/7oCsVcZ7NJA2VPTycZHHYT) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [頭髮](https://open.spotify.com/album/6KElllDyo2YUyZLYI4Sv4u) | 3:02 | 2023-07-27 | 2023-08-12 |
 | [願愛堅定](https://open.spotify.com/track/0fThwop1oDrMPA67KzkGe4) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [願愛堅定](https://open.spotify.com/album/7LVFAv2zqxP3VVSdtB9NRQ) | 4:30 | 2023-06-22 | 2023-07-21 |
 | [願望清單](https://open.spotify.com/track/62zFqsI1wnVQSITris9khc) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [願望清單](https://open.spotify.com/album/7Jo3Uzwv7Sl15pksmNiRpE) | 3:55 | 2023-12-14 | 2023-12-22 |

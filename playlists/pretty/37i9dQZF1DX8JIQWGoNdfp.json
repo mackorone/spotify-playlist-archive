@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 57684,
+  "num_followers": 57713,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD"
+        }
+      ],
+      "duration_ms": 337466,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "Who Hurt You?",
         "url": "https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
+        "name": "Tyrese",
+        "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
       },
       "artists": [
         {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD"
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
         }
       ],
-      "duration_ms": 337466,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b"
+      "duration_ms": 266533,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -827,22 +843,6 @@
       "duration_ms": 296400,
       "name": "Butta Love",
       "url": "https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "Tyrese",
-        "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr"
     }
   ],
   "unique_name": "Tyreek Hill's Taste",

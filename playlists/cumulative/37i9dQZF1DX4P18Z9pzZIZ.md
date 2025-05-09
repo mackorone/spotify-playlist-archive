@@ -4,7 +4,7 @@
 
 > hop on board, nonstop bops only!!
 
-314 songs - 15 hr 25 min
+315 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 | 2023-06-12 | 2023-10-21 |
 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2024-11-07 |  |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2023-01-12 | 2023-04-18 |
-| [365](https://open.spotify.com/track/7eVAA9ikV898NbgVvAiDRI) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [365](https://open.spotify.com/album/186DZjn5F0GLzttFamNjQq) | 2:23 | 2024-04-12 |  |
+| [365](https://open.spotify.com/track/7eVAA9ikV898NbgVvAiDRI) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [365](https://open.spotify.com/album/186DZjn5F0GLzttFamNjQq) | 2:23 | 2024-04-12 | 2025-05-09 |
 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-05-23 |  |
 | [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [7 Seconds \(feat\. Shamiya Battles\) \[Radio Edit\]](https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG) | 1:32 | 2024-09-12 |  |
 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 | 2024-05-17 |  |
@@ -52,6 +52,7 @@
 | [Blue Razz](https://open.spotify.com/track/124GIso7hUD9of584dOOIo) | [Versatile](https://open.spotify.com/artist/6K0yc6ZGiwc7sSwrWra0UT) | [Blue Razz](https://open.spotify.com/album/1Z8E32UdqAbYAV3VB2Lyl0) | 3:36 | 2023-07-31 | 2024-03-07 |
 | [Body](https://open.spotify.com/track/1nk18tNMS3nNWutUXGicMb) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0) | [Body](https://open.spotify.com/album/3kjxjnNjxrMK8vdiy7Mpfo) | 2:27 | 2024-04-05 | 2025-05-01 |
 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2024-01-04 | 2024-06-14 |
+| [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 | 2025-05-08 |  |
 | [Broken Heart](https://open.spotify.com/track/0KFIU9kix5muSmZZ92neg5) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Broken Heart](https://open.spotify.com/album/7esZ6OgvsUTkfK9FdqxMJr) | 2:58 | 2025-02-07 |  |
 | [Burning](https://open.spotify.com/track/0V57QFckwEBwz3R5iMOH7V) | [Kattison](https://open.spotify.com/artist/5D8rbwXVM9QblBu9XGtBUI) | [Burning](https://open.spotify.com/album/579lk6zNnmru1n40ftAXm4) | 3:13 | 2024-03-06 | 2024-10-25 |
 | [Call Me](https://open.spotify.com/track/4eRutShPXNfRyPFpiUyk8I) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/1JCbimAC11Q9dyaMk1dz0U) | 2:57 | 2023-01-12 | 2023-05-16 |

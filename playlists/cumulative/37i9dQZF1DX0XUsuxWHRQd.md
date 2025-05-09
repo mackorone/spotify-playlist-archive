@@ -4,7 +4,7 @@
 
 > New music from Quavo, Takeoff and Key Glock.
 
-2,369 songs - 5 day 2 hr 38 min
+2,370 songs - 5 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1780,6 +1780,7 @@
 | [She Make It Clap](https://open.spotify.com/track/0kswxxNV4DLBqJeMIqFh5n) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [She Make It Clap](https://open.spotify.com/album/0bcXdKzfvSQIiXbxAEDlpZ) | 1:51 | 2021-06-19 | 2021-07-04 |
 | [She Miss Me \(feat\. Rich the Kid\)](https://open.spotify.com/track/1aWWNp65SdhPci3a9HZHT8) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [East Atlanta Santa 3](https://open.spotify.com/album/41Mzki3Yox73btDc51evLi) | 2:36 | 2019-12-22 | 2020-01-10 |
 | [She Want Some More \(Feat\. Ken Carson & Lil Tecca\)](https://open.spotify.com/track/1IzxkqDIsmiFxTjaNdsiqn) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [She Want Some More \(Feat\. Ken Carson & Lil Tecca\)](https://open.spotify.com/album/2nJN8TOJACDkgOlhs5RplJ) | 3:04 | 2022-07-22 | 2022-08-06 |
+| [She Will](https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 5:05 | 2025-05-08 |  |
 | [Sheet Music \- Episode 02](https://open.spotify.com/track/1WcnFCRTDDEmyXwAZC4rGI) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Sheet Music \(Episode 02\)](https://open.spotify.com/album/6JmxEBw8F70kglARriocdW) | 2:17 | 2019-11-01 | 2019-11-08 |
 | [Sheikh Talk](https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sheikh Talk](https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi) | 2:40 | 2022-05-06 | 2022-05-28 |
 | [Shimmy \(with Doja Cat\)](https://open.spotify.com/track/2z4eJOcmzeopzffNpor4vt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Funeral \(Deluxe\)](https://open.spotify.com/album/49zB39sak50ghwZMwHQqQ0) | 2:48 | 2020-05-30 | 2020-06-05 |

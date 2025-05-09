@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
+  "description": "La playlist del jazz italiano, passato e presente. Cover: Studio Murena",
   "name": "Jazz Italia",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 195533,
       "name": "... E penso a te (feat. George Benson)",
       "url": "https://open.spotify.com/track/0LqZ5y8LWxZ0WMhPqeWJNz"
+    },
+    {
+      "album": {
+        "name": "New Game Plus",
+        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+      },
+      "artists": [
+        {
+          "name": "magikAAAAArp",
+          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
     },
     {
       "album": {
@@ -3474,7 +3492,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 291080,
       "name": "Frevo",
       "url": "https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv"
@@ -3654,6 +3672,24 @@
       "duration_ms": 434413,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
+    },
+    {
+      "album": {
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183125,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW"
     },
     {
       "album": {
@@ -4978,6 +5014,24 @@
       "duration_ms": 326817,
       "name": "Javier",
       "url": "https://open.spotify.com/track/7lETJyf7RkzZxANVgSdcIZ"
+    },
+    {
+      "album": {
+        "name": "Jazz Carnival",
+        "url": "https://open.spotify.com/album/6qeRZWcX3ZBIbG06naVZUS"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226693,
+      "name": "Jazz Carnival",
+      "url": "https://open.spotify.com/track/4bTSotryWXXOQw55gXDAyA"
     },
     {
       "album": {
@@ -7136,7 +7190,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 340493,
       "name": "My Heart in a Song",
       "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
@@ -8398,7 +8452,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 248682,
       "name": "Rambler",
       "url": "https://open.spotify.com/track/03t9fUUQ2aMsFbgIcqXOO8"
@@ -10220,7 +10274,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 454026,
       "name": "Time Back",
       "url": "https://open.spotify.com/track/1F1Nm8dXWjSqmQItbENbAD"
@@ -10530,6 +10584,28 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
+    },
+    {
+      "album": {
+        "name": "Notturno",
+        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171786,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/0DBV5Pe201bmncX6xwsTkc"
     },
     {
       "album": {

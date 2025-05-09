@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,786 songs - 6 day 7 hr 2 min
+2,787 songs - 6 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/5QLyajfZXwyusqbdTxpbXP) | [AfroSalto](https://open.spotify.com/artist/09vJsJxTLHPwhzLyLAIKQ3), [Mednas](https://open.spotify.com/artist/0ifDOttuMQG7tOhatsjuoy), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2aywcLkdlrtfr4BEBbbDcK) | 2:26 | 2025-01-03 | 2025-01-11 |
 | [All I Do Is Crazy](https://open.spotify.com/track/1gGtFlFcqYqVSJ28HAy1EK) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [All I Do Is Crazy](https://open.spotify.com/album/5lK41IckU2YDImM3d49M5h) | 2:40 | 2025-01-31 | 2025-02-07 |
 | [All I Know](https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [All I Know](https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf) | 2:56 | 2025-04-08 | 2025-04-12 |
+| [All I Want \(Alternate Mix\)](https://open.spotify.com/track/7zlgrdCcarEkE2bJ6P1fxj) | [Harryson](https://open.spotify.com/artist/1mOJGwKwSgGlFp7Kl6vCIS) | [All I Want \(Alternate Mix\)](https://open.spotify.com/album/4r0YJUwJEiat7vvMn8m2qV) | 2:07 | 2025-05-08 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/170KMZWu69oUtIO86cSqoJ) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [All I Want For Christmas Is You](https://open.spotify.com/album/0pIu9VSrK7eCf4vAIXk84E) | 2:41 | 2024-11-29 | 2024-12-06 |
 | [All My Ladies](https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [All My Ladies](https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d) | 2:33 | 2024-05-17 | 2024-05-25 |
 | [All My Life](https://open.spotify.com/track/4XO2AIJyy8d5DOuVoFtBGE) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [All My Life](https://open.spotify.com/album/6S8FOZlN0W1vWkgpBVXQdE) | 3:25 | 2024-11-15 | 2024-11-23 |

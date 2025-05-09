@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-293 songs - 18 hr 40 min
+297 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 | 2025-04-02 |  |
 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 | 2024-06-27 | 2024-11-08 |
 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 | 2025-01-23 |  |
+| [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 | 2025-05-08 |  |
 | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm) | 3:28 | 2024-09-13 | 2025-01-24 |
 | [F\*\*k The Bad Vibes](https://open.spotify.com/track/4tJmcTh6z2zd8UBlmPUJZv) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [F\*\*k The Bad Vibes](https://open.spotify.com/album/2i0zGJaC9rXDzWCmRm5W3o) | 3:18 | 2024-06-27 | 2024-09-07 |
 | [Fading Like A Flower](https://open.spotify.com/track/4xK9z7D3vuGsnywy7vqUvL) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Fading Like A Flower](https://open.spotify.com/album/6DLoD9w8S2Wn0PO3vhGCvY) | 2:54 | 2024-10-17 | 2025-01-24 |
@@ -138,6 +139,7 @@
 | [If I Die Tomorrow](https://open.spotify.com/track/04NEtP8O4nY7Yo7dMsCKqV) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/09FfLWLJiHt0dbVCxzmARW) | 3:42 | 2025-01-16 |  |
 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 | 2024-06-27 | 2025-03-14 |
 | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d) | 4:18 | 2025-04-03 |  |
+| [In The Name Of Rock'n'Roll](https://open.spotify.com/track/1nr9EZdOkarDuJQL8SKZmO) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [In The Name Of Rock'n'Roll](https://open.spotify.com/album/3dLGXZaEqQT9HsyNVLacGI) | 4:40 | 2025-05-08 |  |
 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 | 2024-06-27 | 2024-08-30 |
 | [Is It Victory](https://open.spotify.com/track/3BgBY4bzuPpk3W9prz9YP4) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Is It Victory](https://open.spotify.com/album/49KLWetmqTtgfOiNGaeo3E) | 2:46 | 2024-06-27 | 2024-11-08 |
 | [It All Goes Away in the End](https://open.spotify.com/track/4k6m9bL6oJ7I1Z4c5RqUBr) | [Liar Thief Bandit](https://open.spotify.com/artist/6C9FgQz7w2yRvAiv1jkbbi) | [It All Goes Away in the End](https://open.spotify.com/album/160VrklzKoBgKT574qEqyC) | 3:21 | 2024-06-27 | 2025-01-10 |
@@ -178,6 +180,7 @@
 | [Mind Of The Swarm](https://open.spotify.com/track/3tGIM3bObyZcqmyqsDHrWy) | [Dreamcall](https://open.spotify.com/artist/3a62EzBK7sjGhVtPOIs4r4) | [Mind Of The Swarm](https://open.spotify.com/album/2urmmNd2LEEpgurt7VfWYS) | 3:58 | 2024-08-22 | 2024-09-20 |
 | [More](https://open.spotify.com/track/3oQijSJAzZsR90SfW4tQBm) | [Ida Maria](https://open.spotify.com/artist/2MCUVoI9J8LEqtHvf3X5ln) | [More](https://open.spotify.com/album/3ujjv9SEtIifVo2EDAY8FY) | 2:48 | 2025-03-27 |  |
 | [Murder in Red](https://open.spotify.com/track/6mIJJBuErDdVgyezVWcbFO) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Murder in Red](https://open.spotify.com/album/3CCweTlV8Hq7uqMiVjMHRn) | 4:49 | 2024-10-03 | 2025-04-12 |
+| [Naked](https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Naked](https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH) | 3:43 | 2025-05-08 |  |
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-06 | 2025-03-07 |
 | [Northern Lights](https://open.spotify.com/track/4bcMfLHLMv7tzOMKCzzhJg) | [We Are the Catalyst](https://open.spotify.com/artist/06q1JEvxIDhmuBnDj0V6qw) | [Northern Lights](https://open.spotify.com/album/1kBVmJtBPe2mSmrLHzyx4C) | 2:42 | 2024-06-27 | 2024-11-08 |
 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 | 2024-10-10 | 2024-11-08 |
@@ -208,6 +211,7 @@
 | [Run to the Hills \- 1998 Remastered Version](https://open.spotify.com/track/2JS1iE5A5RHvUPH5Zl9jlF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number Of The Beast \(1998 Remastered Edition\)](https://open.spotify.com/album/6q5MEna6Fg46powSoeZJe3) | 3:53 | 2024-06-27 | 2025-04-12 |
 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-06-27 | 2024-09-07 |
 | [Running to You](https://open.spotify.com/track/65Rl7g8LMrODfPQoofsepx) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Running to You](https://open.spotify.com/album/5ALki6UvIzJh0velsJFYQn) | 3:03 | 2025-04-03 | 2025-04-25 |
+| [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 | 2025-05-08 |  |
 | [San Antonio](https://open.spotify.com/track/7JkuYydpzSlK7MYEFvOzCY) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [San Antonio](https://open.spotify.com/album/6POggEzmQS7Egbc8JGAAwS) | 3:03 | 2024-06-27 | 2024-09-27 |
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-05 |  |
 | [Say](https://open.spotify.com/track/5PezSLrWvLPGYpQyGAuC7P) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Say](https://open.spotify.com/album/2g8ONadKlayzd8dz1Os4IM) | 4:22 | 2024-06-27 | 2025-03-14 |

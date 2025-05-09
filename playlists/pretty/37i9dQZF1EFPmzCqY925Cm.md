@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0vazKoFv2TDrHUfBarjJ0n">Boy Blue</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 60 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 61 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 37 | [Drunk Enough to Say That I Love You \(Revolt Remix\)](https://open.spotify.com/track/5gkxFPflbWN4rfKXDE7p9V) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Drunk Enough to Say That I Love You \(Revolt Remix\)](https://open.spotify.com/album/3MCnPLixvb2nq5eejWumll) | 2:37 |
 | 38 | [If You’re Gonna Leave \- Bvrnout Remix](https://open.spotify.com/track/0orIbg5joaGx2SVelTEXxJ) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU) | [If You’re Gonna Leave \(Bvrnout Remix\)](https://open.spotify.com/album/1QDU362NUzDMuDwNDZbIN8) | 3:05 |
 | 39 | [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 |
-| 40 | [Christmas Ain’t Got Nothing On You](https://open.spotify.com/track/0hMeQ9IyDymEw6xRG0YWfU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Christmas Ain’t Got Nothing On You](https://open.spotify.com/album/0RFPb4HKWwFhbzW9pLHmLX) | 2:43 |
-| 41 | [I DON'T WANNA KNOW](https://open.spotify.com/track/7C7ibGvwEFkVM64FD9Mwaf) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [I DON'T WANNA KNOW](https://open.spotify.com/album/4oHo81OEn1yuv0V5hbNQXE) | 2:01 |
+| 40 | [I DON'T WANNA KNOW](https://open.spotify.com/track/7C7ibGvwEFkVM64FD9Mwaf) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [I DON'T WANNA KNOW](https://open.spotify.com/album/4oHo81OEn1yuv0V5hbNQXE) | 2:01 |
+| 41 | [Christmas Ain’t Got Nothing On You](https://open.spotify.com/track/0hMeQ9IyDymEw6xRG0YWfU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Christmas Ain’t Got Nothing On You](https://open.spotify.com/album/0RFPb4HKWwFhbzW9pLHmLX) | 2:43 |
 | 42 | [THE PART](https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:44 |
 | 43 | [Psychopath](https://open.spotify.com/track/5dODr3iRHeaaHb2bx2j8O5) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 3:00 |
 | 44 | [Bounce It](https://open.spotify.com/track/6VGCWfHwYWG6M165U4KKgw) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Bounce It](https://open.spotify.com/album/64MdNVoHUIU6aKRXViwTx5) | 2:10 |
@@ -64,9 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 54 | [DO OR DIE](https://open.spotify.com/track/1q90IzbN4Cs4R2DLVlsMWe) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DARKER WHITE](https://open.spotify.com/album/0UWEX5Hrmapw4CJOOeBStP) | 2:23 |
 | 55 | [Keep It Moving](https://open.spotify.com/track/1snB7DZSDXs8FizxMf9Z6T) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 2:09 |
 | 56 | [uh uh \(outside\)](https://open.spotify.com/track/5nT60m44V8pI8fxYW8F5XH) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [uh uh \(outside\)](https://open.spotify.com/album/3ElOgRYBG6fZDjubmlr1ca) | 3:09 |
-| 57 | [Die Classic](https://open.spotify.com/track/1hoeH2WEypMiZqrXA7A1kG) | [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [Die Classic](https://open.spotify.com/album/2AaTxD0THPDjS2amHyTyb5) | 2:00 |
-| 58 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
-| 59 | [make u miss me](https://open.spotify.com/track/5NZGTvM5SYxifaJIMz3XZI) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [make u miss me](https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8) | 3:08 |
-| 60 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
+| 57 | [cut me](https://open.spotify.com/track/6KrfX0RLQclPUiMt3TypvF) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [cut me](https://open.spotify.com/album/6xPEkn6QjznRqs263Cjht9) | 2:00 |
+| 58 | [Die Classic](https://open.spotify.com/track/1hoeH2WEypMiZqrXA7A1kG) | [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [Die Classic](https://open.spotify.com/album/2AaTxD0THPDjS2amHyTyb5) | 2:00 |
+| 59 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
+| 60 | [make u miss me](https://open.spotify.com/track/5NZGTvM5SYxifaJIMz3XZI) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [make u miss me](https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8) | 3:08 |
+| 61 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AbwztAAAAAC1tCqOFrw/VQRiZ5tUN2Jz`
+Snapshot ID: `Abw5SgAAAADDA1zWmqISU/h1JH7L/QvD`

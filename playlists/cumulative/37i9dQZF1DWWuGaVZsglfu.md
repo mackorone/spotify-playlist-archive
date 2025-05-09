@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: MikkyZia, F4dli
+> The best tracks from the world of music\. Cover: NAKI, Fahimi
 
 311 songs - 17 hr 35 min
 

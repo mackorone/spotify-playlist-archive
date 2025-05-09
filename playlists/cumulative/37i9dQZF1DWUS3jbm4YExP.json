@@ -5143,6 +5143,24 @@
     },
     {
       "album": {
+        "name": "Big Crown Vaults Vol. 4",
+        "url": "https://open.spotify.com/album/5PDYSVgVfJ29a0zqiYOoSe"
+      },
+      "artists": [
+        {
+          "name": "Bacao Rhythm & Steel Band",
+          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
+        }
+      ],
+      "date_added": "2025-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175982,
+      "name": "Gianna Sisters",
+      "url": "https://open.spotify.com/track/5Lx8lOUBpKJXE3BLBeh2Wm"
+    },
+    {
+      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/2pTwOjonL43m8VlxlX74KO"
       },
@@ -7660,7 +7678,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"

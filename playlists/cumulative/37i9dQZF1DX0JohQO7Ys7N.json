@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Bridget Blue",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Wendy Kay",
   "name": "NairoBae",
   "tracks": [
     {
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 343800,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz"
@@ -5306,6 +5306,24 @@
       "duration_ms": 287000,
       "name": "Your Name",
       "url": "https://open.spotify.com/track/2nyrEsGC9YRHIug4Sy2YNG"
+    },
+    {
+      "album": {
+        "name": "YULE",
+        "url": "https://open.spotify.com/album/642VMRRRVvPJFCnQ3lkgaY"
+      },
+      "artists": [
+        {
+          "name": "Wendy Kay",
+          "url": "https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184267,
+      "name": "YULE",
+      "url": "https://open.spotify.com/track/6NiflTnFy28TWoJ38hhOwE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N"

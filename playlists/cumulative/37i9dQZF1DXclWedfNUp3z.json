@@ -2463,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "From Where You Came",
+        "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242070,
+      "name": "Flickers in the Air of Night",
+      "url": "https://open.spotify.com/track/7iTVMlkBHObTVK4KVXbyg5"
+    },
+    {
+      "album": {
         "name": "Sleeping Beauty",
         "url": "https://open.spotify.com/album/2WFrvAbN0PcNXEhWQkjcOx"
       },
@@ -5610,7 +5628,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 201178,
       "name": "Plantasia",
       "url": "https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f"

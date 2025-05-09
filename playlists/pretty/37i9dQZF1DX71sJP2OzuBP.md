@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,686 likes - 115 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,689 likes - 115 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 62 | [你的未来我不一定还在](https://open.spotify.com/track/13Xzgu1rbVBWKVjWczqJuP) | [烟\(许佳豪\)](https://open.spotify.com/artist/2DXogZyZTpItlsIGCG6Qpt), [池鱼](https://open.spotify.com/artist/1Wb1BglO3RI9FzNZPbYpf0) | [你的未来我不一定还在](https://open.spotify.com/album/1IdGQcIr9FV44JQJzgv3xL) | 3:07 |
 | 63 | [找](https://open.spotify.com/track/3nRW2HOKz6kg1WGXiYERWC) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [找](https://open.spotify.com/album/3O9BTlAhv7be8h9oCcY8qd) | 3:43 |
 | 64 | [很慢](https://open.spotify.com/track/70HUA7UBB6SkxKRI1s0ftf) | [Finn Liu](https://open.spotify.com/artist/66CxpuDM4wE6vKSEyQNlmn) | [很慢](https://open.spotify.com/album/4z8H61pryt6ISiwvAhegc4) | 4:10 |
-| 65 | [岁月里的花](https://open.spotify.com/track/14qby7zvlJaMmoJjn5V3zo) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [岁月里的花](https://open.spotify.com/album/1pmzWvtfZm4t6VbYmU4ikP) | 4:14 |
+| 65 | [歲月裡的花](https://open.spotify.com/track/14qby7zvlJaMmoJjn5V3zo) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [歲月裡的花](https://open.spotify.com/album/1pmzWvtfZm4t6VbYmU4ikP) | 4:14 |
 | 66 | [乾杯 \(啉予焦\)](https://open.spotify.com/track/0gXpnT3Jbggga26IMORHnO) | [潘信維](https://open.spotify.com/artist/0qQzar6a1SPUdjilmWBykS), [荒山亮](https://open.spotify.com/artist/0SOlTkn1UElgcoONp254HS) | [乾杯 \(啉予焦\)](https://open.spotify.com/album/6GdiF0kJApAmtXPA6XLnNl) | 4:26 |
 | 67 | [我想要的](https://open.spotify.com/track/0yBikxhfcqm4voQlSiixAw) | [Aly Koh](https://open.spotify.com/artist/7lXVwmYAsoNthvsJxwKnbi) | [我想要的](https://open.spotify.com/album/6kS6Yi2CQCuDn8Our1MSN5) | 3:09 |
 | 68 | [慢動作 Lingering](https://open.spotify.com/track/1IAbzut8BRh4WAQnCU1ZcT) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [白夜克拉克+ White Night+](https://open.spotify.com/album/7mlLzQjRPbkWwFzJ2PDyrj) | 3:35 |

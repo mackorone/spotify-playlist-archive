@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Haniya Nafisa
 
-325 songs - 20 hr 56 min
+326 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Kanavin Vaniyilayi](https://open.spotify.com/track/1w11f3c04z3X9T7saJCuFJ) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Kanavin Vaniyilayi](https://open.spotify.com/album/3v3Li8neGDEwY4mfrs91U0) | 3:58 | 2024-02-05 | 2024-02-15 |
 | [Kanmani](https://open.spotify.com/track/10XORKc4UWvScNXIoHjgOU) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Liboy Praisly Kripesh](https://open.spotify.com/artist/6YElLBggIDzuJ4l84iTz4y) | [Kanmani](https://open.spotify.com/album/6Y1K2GTOGDxF1z1b34scls) | 2:13 | 2025-03-17 |  |
 | [Kanmani](https://open.spotify.com/track/17dvs9UHu9Jt1frTgvDAe9) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Kanmani](https://open.spotify.com/album/3uKFPae4mwrhLCZbSklXGe) | 5:29 | 2023-06-26 | 2023-07-28 |
+| [Kanmashi](https://open.spotify.com/track/2pHekrQI1PBtRpIcf7IlYv) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [Fatboi Raccoon](https://open.spotify.com/artist/3jZDhH5RtA8K1L61tvUdl4), [Arch Quasar](https://open.spotify.com/artist/41GzR7hUjEGsIduP9UmPQl) | [Kanmashi](https://open.spotify.com/album/58K49jGr06oQaWHeV8U9kS) | 3:21 | 2025-05-08 |  |
 | [Kanne \- Namah](https://open.spotify.com/track/3HIY7dBeJVAl8lIkFijDd7) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI), [Anandraj Benjamin Paul](https://open.spotify.com/artist/2mx8hHr8DpgOzv6gURprW5) | [Namah](https://open.spotify.com/album/0rwlL4cHDpPHUhdMGlk3Ew) | 4:55 | 2023-07-27 | 2024-03-09 |
 | [Kannodu \- Live](https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh) | [Kannodu \(Live\)](https://open.spotify.com/album/1C1whckbFcGGOUqzySzALK) | 3:37 | 2025-04-04 |  |
 | [Karthi Kalyani](https://open.spotify.com/track/6dvZ9YupWV18hSwdDo8jza) | [Joel Johns](https://open.spotify.com/artist/0BiabvD708qvkGYVADsHA3), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Karthi Kalyani](https://open.spotify.com/album/5fvzCfvjT7yKgP3yEiNweZ) | 4:41 | 2023-07-18 | 2023-07-28 |
@@ -324,7 +325,7 @@
 | [Varaam](https://open.spotify.com/track/1Si7YoM6ayZLGffH8Vi2lP) | [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN), [Rehna Shaz](https://open.spotify.com/artist/0sqtUy5FyYwyRptp7SOx44) | [Varaam](https://open.spotify.com/album/1OvwVoU2eED2heaYVb3gIh) | 3:00 | 2025-03-24 |  |
 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [$obin](https://open.spotify.com/artist/3GrYRWOQlcY1qs48diMppb) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 | 2023-05-26 | 2023-07-28 |
 | [Vettam](https://open.spotify.com/track/11CrYElJH7l26yy5Tb5Ihy) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Vettam](https://open.spotify.com/album/3wfiH7VqV5yXoU6eZLWZEy) | 3:32 | 2023-10-10 | 2024-10-22 |
-| [Vettam](https://open.spotify.com/track/4gt0eAORr5xdgr9bhRvH9f) | [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [Irshad\_dri](https://open.spotify.com/artist/5fuaNrsoNucHTxysU3bnoJ), [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu) | [Vettam](https://open.spotify.com/album/5TJaD6iQG8fSQebrEOZokD) | 2:47 | 2025-02-03 |  |
+| [Vettam](https://open.spotify.com/track/4gt0eAORr5xdgr9bhRvH9f) | [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [Irshad\_dri](https://open.spotify.com/artist/5fuaNrsoNucHTxysU3bnoJ), [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu) | [Vettam](https://open.spotify.com/album/5TJaD6iQG8fSQebrEOZokD) | 2:47 | 2025-02-03 | 2025-05-09 |
 | [Vettam Reprised](https://open.spotify.com/track/1VKqe5jwgqdmFLkxxTdx4x) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Vettam Reprised](https://open.spotify.com/album/1YowHOWsfSiRVrgWFI05n4) | 3:11 | 2023-12-10 | 2024-06-19 |
 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 | 2024-06-25 |
 | [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 | 2024-10-01 |

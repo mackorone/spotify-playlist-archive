@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > It’s pop punk, it’s the best \. Your ultimate v\-day / anti v\-day playlist.
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,581 likes - 162 songs - 9 hr 8 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,578 likes - 173 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,5 +170,16 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 | 160 | [Sweet Soft Sound](https://open.spotify.com/track/6X4a9Owag7xewsLBnSSE1J) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Suicide and Sunshine](https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH) | 2:41 |
 | 161 | [Landing Feet First](https://open.spotify.com/track/1RdUqBJBfzco0j1xG7SJAv) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Acoustic Volume 2](https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD) | 4:22 |
 | 162 | [My Heart](https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:59 |
+| 163 | [possibility](https://open.spotify.com/track/2HPnrdLvjRv1hkkz3earvt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots and wishing i was one \(deluxe\)](https://open.spotify.com/album/5O3mmUwy8gsPhiczhpUd16) | 3:04 |
+| 164 | [I Think They Know](https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [I Think They Know](https://open.spotify.com/album/2ErSV0aa5yt4ZiZp2Z0Uk1) | 3:06 |
+| 165 | [Olive Garden](https://open.spotify.com/track/20Kzilqp35aMDqOSLdRvKb) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Olive Garden](https://open.spotify.com/album/1oy21LUiIIuVIyMgY3WrJK) | 1:52 |
+| 166 | [21](https://open.spotify.com/track/1AJQnuJ4jsPPWLcawIjv94) | [Caroline Reilly](https://open.spotify.com/artist/24dtiWBrm1YPudlKmi2A4E), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [21](https://open.spotify.com/album/0fLtTK5NQPXDbVPfaerNRF) | 3:22 |
+| 167 | [Burn the boat](https://open.spotify.com/track/7gYBdlm8wylZDSGuyEkYhN) | [Northpark](https://open.spotify.com/artist/6waOLVeYbrqSUgRgwpdhaa) | [Inhale/Exhale](https://open.spotify.com/album/5rvP4PoVKrxACL4UWsO6Ah) | 2:42 |
+| 168 | [You Can't Sit With Us](https://open.spotify.com/track/7btxirpZZ6ICyD3LqyYi8o) | [Post Season](https://open.spotify.com/artist/5T0bKJLzb9acHvPG5nGmAv) | [You Can't Sit With Us](https://open.spotify.com/album/7HAhh8sfg4NaTr7yrjG4HH) | 3:29 |
+| 169 | [Burning Myself Down](https://open.spotify.com/track/3bMPcswllzhvlduayZx2J3) | [Reaching For An Exit](https://open.spotify.com/artist/3zBQoPxI5QkeRCOCC2ksdk), [Years Down](https://open.spotify.com/artist/7Mhyyej3a1sjKEKNv4nCax) | [Burning Myself Down](https://open.spotify.com/album/6rG10pPwegul1QALMAUEB5) | 2:59 |
+| 170 | [Who's Laughing Now](https://open.spotify.com/track/1Rwn5PAnp6YrRGg93F5pj1) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Sweet](https://open.spotify.com/album/4UE9iLgjXaU4oYmZPqOzN4) | 3:18 |
+| 171 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 |
+| 172 | [Negative Space](https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Negative Space](https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh) | 3:18 |
+| 173 | [Vista Verde \(So Far, So Good\)](https://open.spotify.com/track/7mbiumH5NqG4DqTUa6EeIO) | [Stateside](https://open.spotify.com/artist/2WpPJq3Z87oKW6NwADqkBu) | [Vista Verde \(So Far, So Good\)](https://open.spotify.com/album/1hiAnITVXm9jFUUvTfc8aK) | 2:46 |
 
-Snapshot ID: `AAAb1zPNjHbLUYECdU8TQiIsRwoBDxAs`
+Snapshot ID: `AAAb4mIF+BdnlBZPkKH8rpx2LviQIdlb`

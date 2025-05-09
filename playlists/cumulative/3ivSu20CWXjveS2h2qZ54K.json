@@ -41341,6 +41341,24 @@
     },
     {
       "album": {
+        "name": "Max Potential",
+        "url": "https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232546,
+      "name": "Max Potential",
+      "url": "https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6"
+    },
+    {
+      "album": {
         "name": "Maya",
         "url": "https://open.spotify.com/album/36F66dCo3R2PeNAW5JEOf0"
       },
@@ -65646,6 +65664,28 @@
       "duration_ms": 240806,
       "name": "The South Atlantic",
       "url": "https://open.spotify.com/track/1eihT0cCPaJnZZON3VWLUw"
+    },
+    {
+      "album": {
+        "name": "The Spirit",
+        "url": "https://open.spotify.com/album/5Ecd82rTLcRdab6kLs7bhj"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295677,
+      "name": "The Spirit",
+      "url": "https://open.spotify.com/track/15OHSfP7ogvmysqocQ8AqN"
     },
     {
       "album": {

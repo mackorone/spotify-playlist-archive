@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 182068,
       "name": "Angel",
       "url": "https://open.spotify.com/track/5V00ZhzyrSKM6WSBn44gE3"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-28",
+      "date_removed": null,
       "duration_ms": 232579,
       "name": "Autonomy",
       "url": "https://open.spotify.com/track/71yxI2J56U3sE4PnCbv2G7"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 172413,
       "name": "Back 2 Dance",
       "url": "https://open.spotify.com/track/6POvzcHeKt5SEDTrptAKO8"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Ballin'",
       "url": "https://open.spotify.com/track/3X6y1QbCHeZKiqN811gMof"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 228024,
       "name": "Bass & Treble",
       "url": "https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 248571,
       "name": "Bombalaya - Blooom Remix",
       "url": "https://open.spotify.com/track/5utINKwnXh1drV2vI9cnze"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 172413,
       "name": "Break It Down (feat. Emily Makis)",
       "url": "https://open.spotify.com/track/1iES2GLJnnPzP1TfT8ntyh"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 227555,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 206170,
       "name": "Cuppa Tea",
       "url": "https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ"
@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Feel The Vibration",
+        "url": "https://open.spotify.com/album/4L2BjQY9sslyCYkcF8CsS0"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201847,
+      "name": "Feel The Vibration",
+      "url": "https://open.spotify.com/track/3dcWKFefG4Otjdb6ykBVcY"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/07SV9ag0yEoTbXLLWkhaxs"
       },
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 156108,
       "name": "FIYA SELECTA (feat. Toya Delazy)",
       "url": "https://open.spotify.com/track/0CkYrIQRRCQKxV1EmN6JxK"
@@ -2678,6 +2696,24 @@
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
+    },
+    {
+      "album": {
+        "name": "FOREVER WITH U",
+        "url": "https://open.spotify.com/album/6FWcyk3l0v83nfVT6yNyg9"
+      },
+      "artists": [
+        {
+          "name": "REPAIR",
+          "url": "https://open.spotify.com/artist/0xLqXvK6horF4enARe8AIN"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "FOREVER WITH U",
+      "url": "https://open.spotify.com/track/2FmKsBLZQD1nrjVWArJKYV"
     },
     {
       "album": {
@@ -3148,7 +3184,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 138191,
       "name": "Gone For The Night (feat. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes)",
       "url": "https://open.spotify.com/track/0qgdSsuggcpvhvugFj1G31"
@@ -3262,7 +3298,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 166896,
       "name": "Gunfinger (Salute)",
       "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
@@ -3322,7 +3358,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 169755,
       "name": "Hang Up The Mic",
       "url": "https://open.spotify.com/track/2yQX3c895hXfHD2slRYLuH"
@@ -3475,6 +3511,32 @@
     },
     {
       "album": {
+        "name": "Hive Mind",
+        "url": "https://open.spotify.com/album/1tMHEBaGjw7diyPDiNyyf3"
+      },
+      "artists": [
+        {
+          "name": "Degs",
+          "url": "https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG"
+        },
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9"
+        },
+        {
+          "name": "Dux n Bass",
+          "url": "https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180198,
+      "name": "Hive Mind",
+      "url": "https://open.spotify.com/track/1rDI8nPgcXUKJkXr5iWYd3"
+    },
+    {
+      "album": {
         "name": "Home In That Bass",
         "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
       },
@@ -3486,7 +3548,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 189310,
       "name": "Home In That Bass",
       "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
@@ -3610,7 +3672,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 155056,
       "name": "I Miss The Old Macky",
       "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
@@ -3698,6 +3760,24 @@
       "duration_ms": 322000,
       "name": "Imprisoned",
       "url": "https://open.spotify.com/track/7x009s4wyuJKPIf7AaSKuf"
+    },
+    {
+      "album": {
+        "name": "In tha Place",
+        "url": "https://open.spotify.com/album/1kuyej8NXUZQNQwdePYHdO"
+      },
+      "artists": [
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "In tha Place",
+      "url": "https://open.spotify.com/track/0av9s9O8gpAWPb7M4WTzFz"
     },
     {
       "album": {
@@ -3938,7 +4018,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 189176,
       "name": "Jungle Diva",
       "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
@@ -4004,6 +4084,32 @@
       "duration_ms": 178466,
       "name": "Killamanjaro",
       "url": "https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G"
+    },
+    {
+      "album": {
+        "name": "Killamanjaro (Voltage Remix)",
+        "url": "https://open.spotify.com/album/3mWRFylYBWDD6ymLHGBEm8"
+      },
+      "artists": [
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Killamanjaro - Voltage Remix",
+      "url": "https://open.spotify.com/track/70Sy9XUSLLnYIlmuLVypJc"
     },
     {
       "album": {
@@ -4280,7 +4386,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 184457,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus"
@@ -4394,7 +4500,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 192034,
       "name": "Lo Lo",
       "url": "https://open.spotify.com/track/5eNxYmQ2QsFGBYJom4AAiJ"
@@ -4522,7 +4628,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 157398,
       "name": "Lowkey (LDN Drift) [feat. Takura]",
       "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
@@ -4570,7 +4676,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
@@ -4658,7 +4764,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 263314,
       "name": "Maw",
       "url": "https://open.spotify.com/track/3mLCnXMikt5NFbHUBRza4O"
@@ -4680,6 +4786,28 @@
       "duration_ms": 220800,
       "name": "Maxwell",
       "url": "https://open.spotify.com/track/6bb66l6tdBvXdbqt9eGYXl"
+    },
+    {
+      "album": {
+        "name": "Mayhem",
+        "url": "https://open.spotify.com/album/4r7WJZkpkFSJ6uuGSw0SIg"
+      },
+      "artists": [
+        {
+          "name": "Creatures",
+          "url": "https://open.spotify.com/artist/6tljTW8rIPfvUFNMs0ibxl"
+        },
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231379,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/42LqXbanU92CKjxpsJN01Z"
     },
     {
       "album": {
@@ -4944,7 +5072,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 103714,
       "name": "Mwah! (I'm That Bitch)",
       "url": "https://open.spotify.com/track/2Y0j75tgFDL7HvxczmnJRW"
@@ -4988,7 +5116,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 220800,
       "name": "Nancy Junglist",
       "url": "https://open.spotify.com/track/3o3z4W9yb9TZDCh1j3npyO"
@@ -5106,6 +5234,24 @@
       "duration_ms": 154000,
       "name": "No Excuses - TS7 Remix",
       "url": "https://open.spotify.com/track/2loTmdS8xWSSZoSJgNfang"
+    },
+    {
+      "album": {
+        "name": "No Fugazi",
+        "url": "https://open.spotify.com/album/3Zw9zz8E7Dtm8JRbXJ9diJ"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "No Fugazi",
+      "url": "https://open.spotify.com/track/5sY6O3uGqIrq1aaEj8ed8M"
     },
     {
       "album": {
@@ -5788,7 +5934,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
@@ -6000,7 +6146,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 207257,
       "name": "Police",
       "url": "https://open.spotify.com/track/3FrQeLwZ7A7AvzPGbk4v7E"
@@ -6078,10 +6224,28 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 167727,
       "name": "Pon Mi Side - True Tactix Remix",
       "url": "https://open.spotify.com/track/0YIPfsaS8gGmlK5CSeQlf4"
+    },
+    {
+      "album": {
+        "name": "PopUp Dubplate",
+        "url": "https://open.spotify.com/album/6lW4S64q6Lp6qvT9SqvTut"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "PopUp Dubplate",
+      "url": "https://open.spotify.com/track/4jkgAjl07VpIbmIAqzXCVS"
     },
     {
       "album": {
@@ -6254,7 +6418,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 171372,
       "name": "Ram Pam (feat. Mystic Marley & Flowdan)",
       "url": "https://open.spotify.com/track/4CBFPivDAGGSXFih8RyaVE"
@@ -6582,7 +6746,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 164571,
       "name": "Rhythm & Gash VIP",
       "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
@@ -6810,7 +6974,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 204000,
       "name": "Savage",
       "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
@@ -6828,7 +6992,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 159545,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr"
@@ -6850,10 +7014,28 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 253371,
       "name": "SECRETS",
       "url": "https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3"
+    },
+    {
+      "album": {
+        "name": "Security",
+        "url": "https://open.spotify.com/album/33mSENjZtsyhTYKXDV3UIZ"
+      },
+      "artists": [
+        {
+          "name": "Big Softy",
+          "url": "https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Security",
+      "url": "https://open.spotify.com/track/34XD74XzRNiojWYXAveUKj"
     },
     {
       "album": {
@@ -7176,7 +7358,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 267586,
       "name": "So Here It Is",
       "url": "https://open.spotify.com/track/3Nj5oxn4fEoyAFZG2eiePZ"
@@ -7344,7 +7526,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 199090,
       "name": "Sprinta (Bad Bad)",
       "url": "https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn"
@@ -7939,6 +8121,28 @@
     },
     {
       "album": {
+        "name": "Cycles - EP",
+        "url": "https://open.spotify.com/album/2kQVhOFontH1iAcihiTJ1E"
+      },
+      "artists": [
+        {
+          "name": "Sustance",
+          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
+        },
+        {
+          "name": "PARA",
+          "url": "https://open.spotify.com/artist/0YUhLAl6i5FsmzCC0zlXac"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266339,
+      "name": "That's Right",
+      "url": "https://open.spotify.com/track/0pT4ArwWdG1LqPRa2u8CX2"
+    },
+    {
+      "album": {
         "name": "The Beauty And The Beat",
         "url": "https://open.spotify.com/album/6W8ebAF3m7apHLd6Del8He"
       },
@@ -8210,7 +8414,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 208586,
       "name": "Trigga Finga",
       "url": "https://open.spotify.com/track/1DRu17abhsN8N28KxvhFVn"
@@ -8334,7 +8538,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 190344,
       "name": "Vibe Check",
       "url": "https://open.spotify.com/track/3AqTWTr5ZZ2dic1HaC9Jzs"
@@ -8510,7 +8714,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 181034,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ"
@@ -8864,7 +9068,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 215172,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"

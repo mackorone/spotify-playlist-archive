@@ -940,7 +940,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 212000,
       "name": "Bhool Bhulaiya",
       "url": "https://open.spotify.com/track/5En9zOsP5wURF47Fxzh66o"
@@ -3612,7 +3612,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 180543,
       "name": "Kya Batayein",
       "url": "https://open.spotify.com/track/15WruziiMBbDObB8K0bnWp"
@@ -3880,6 +3880,24 @@
       "duration_ms": 176142,
       "name": "Love Note",
       "url": "https://open.spotify.com/track/0uVdtnoCTDoxbHgEAvBRjY"
+    },
+    {
+      "album": {
+        "name": "Maan Jao",
+        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154616,
+      "name": "Maan Jao",
+      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
     },
     {
       "album": {
@@ -5710,6 +5728,32 @@
       "duration_ms": 192540,
       "name": "Sha- Dobara",
       "url": "https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC"
+    },
+    {
+      "album": {
+        "name": "Shaam Se",
+        "url": "https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170204,
+      "name": "Shaam Se",
+      "url": "https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv"
     },
     {
       "album": {

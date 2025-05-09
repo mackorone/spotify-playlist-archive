@@ -1,6 +1,6 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 84300,
+  "num_followers": 84330,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "Nice And Easy - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 367400,
       "name": "My Groove Your Move - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5wcAcShxT5qvLJvuM6jkZt"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "Nice And Easy - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 465066,
-      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
-      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "Undercurrent (Rudy Van Gelder Edition/2007 Remaster)",
         "url": "https://open.spotify.com/album/3dLsZ0Gv8OjgUyES2imXIK"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 505706,
       "name": "Funk-Cosity - Rudy Van Gelder Edition/2007 Remaster",
       "url": "https://open.spotify.com/track/4hme7npk4H6RFPaGtPnZIR"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Blues March",
-      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "My Conception",
         "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
       },
@@ -975,18 +959,34 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Hootin' 'N Tootin'",
-        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
       "artists": [
         {
-          "name": "Fred Jackson",
-          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
         }
       ],
-      "duration_ms": 239733,
-      "name": "Dippin' In The Bag",
-      "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
+      "duration_ms": 245146,
+      "name": "Blues March",
+      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "The Congregation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 391266,
+      "name": "Main Spring - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
+        "name": "Hootin' 'N Tootin'",
+        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
       },
       "artists": [
         {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+          "name": "Fred Jackson",
+          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
         }
       ],
-      "duration_ms": 391266,
-      "name": "Main Spring - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G"
+      "duration_ms": 239733,
+      "name": "Dippin' In The Bag",
+      "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
     },
     {
       "added_at": "2024-09-03 09:38:03",

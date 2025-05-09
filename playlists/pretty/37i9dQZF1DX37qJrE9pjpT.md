@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rapcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,304 likes - 57 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,312 likes - 57 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 7 | [Kubaya](https://open.spotify.com/track/1anC3aZ4cb3dfLgwOfUpib) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Kubaya](https://open.spotify.com/album/1Nq1KOinn0gaqgctW91fsJ) | 4:37 |
 | 8 | [Heshimu Kazi Yangu](https://open.spotify.com/track/2m18A3BYNSDD8Ip69OJzUI) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn) | [Super Nyota II](https://open.spotify.com/album/1kKkrQrdt54Eizm8qI2FqT) | 3:45 |
 | 9 | [Mariana \- Remix](https://open.spotify.com/track/5YVKNjDGHD1cArxJcfsVri) | [Kenny Guitar](https://open.spotify.com/artist/5t9Qm6Uv34cgSZSnpbrOmU), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Mariana \(Remix\)](https://open.spotify.com/album/10o3aA6G4MCb71rw2y07AZ) | 3:32 |
-| 10 | [Legacy](https://open.spotify.com/track/1Yk2ZpiAfDk453A9wAdfyU) | [Jamal Coded](https://open.spotify.com/artist/5ddNFhgpRdxgZEPoymiwdd), [Fid Q](https://open.spotify.com/artist/6oKa2aGsfsr1QKjBwR2ebX), [Dizasta Vina](https://open.spotify.com/artist/036nMxHtQ6odJ0m944KYgS) | [Legacy](https://open.spotify.com/album/2c6GaDpS4q3qGsoUSG4whf) | 4:41 |
+| 10 | [Legacy](https://open.spotify.com/track/1Yk2ZpiAfDk453A9wAdfyU) | [Jamal Coded](https://open.spotify.com/artist/5ddNFhgpRdxgZEPoymiwdd), [Dizasta Vina](https://open.spotify.com/artist/036nMxHtQ6odJ0m944KYgS), [Fid Q](https://open.spotify.com/artist/6oKa2aGsfsr1QKjBwR2ebX) | [Legacy](https://open.spotify.com/album/2c6GaDpS4q3qGsoUSG4whf) | 4:41 |
 | 11 | [God's Calling](https://open.spotify.com/track/4N58tjFFd8zrTG5S9TqrRm) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [God's Calling](https://open.spotify.com/album/5gNmYmdcx1brQXsPTEfqlJ) | 3:20 |
 | 12 | [Pisi \- remix](https://open.spotify.com/track/788uP7aH98lMiRYIadYW6h) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pisi](https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7) | 3:50 |
 | 13 | [Mama Eeeh](https://open.spotify.com/track/5O7fZBcEfl5phtH1B4781k) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq) | [Mama Eeeh](https://open.spotify.com/album/4rI1qgqVDtDgDctxqe4nZr) | 2:33 |

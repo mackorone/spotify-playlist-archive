@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 60049,
+  "num_followers": 60078,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-04-28 03:00:28",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5 \u7d05\u6708 with \u6edd \u7dad\u5439 \u300c\u5929\u7fd4KAGETSU\u300d",
-        "url": "https://open.spotify.com/album/6l6hNNK95i6rVQkCmbi20R"
-      },
-      "artists": [
-        {
-          "name": "\u7d05\u6708",
-          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
-        },
-        {
-          "name": "\u6edd \u7dad\u5439",
-          "url": "https://open.spotify.com/artist/6cJawTUAmqxwEPd9NHHnvs"
-        }
-      ],
-      "duration_ms": 244805,
-      "name": "\u5929\u7fd4KAGETSU",
-      "url": "https://open.spotify.com/track/30oVnFACmUWY6T0p4bpIIv"
-    },
-    {
-      "added_at": "2025-04-28 03:00:28",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
         "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 212359,
       "name": "Across the universe",
       "url": "https://open.spotify.com/track/4Ircdfplz7G3aybDicPOF0"
+    },
+    {
+      "added_at": "2025-04-28 03:00:28",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5 \u7d05\u6708 with \u6edd \u7dad\u5439 \u300c\u5929\u7fd4KAGETSU\u300d",
+        "url": "https://open.spotify.com/album/6l6hNNK95i6rVQkCmbi20R"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708",
+          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
+        },
+        {
+          "name": "\u6edd \u7dad\u5439",
+          "url": "https://open.spotify.com/artist/6cJawTUAmqxwEPd9NHHnvs"
+        }
+      ],
+      "duration_ms": 244805,
+      "name": "\u5929\u7fd4KAGETSU",
+      "url": "https://open.spotify.com/track/30oVnFACmUWY6T0p4bpIIv"
     },
     {
       "added_at": "2025-04-28 03:00:28",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-04-28 03:00:28",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Adam\u300cMelting Rouge Soul\u300d (Game Edit)",
-        "url": "https://open.spotify.com/album/2fa1muoZil5Khj84BGGzPV"
-      },
-      "artists": [
-        {
-          "name": "Adam/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)",
-          "url": "https://open.spotify.com/artist/5doOE4ux3bSRL56vebnofQ"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Melting Rouge Soul - Game Edit",
-      "url": "https://open.spotify.com/track/4kOXWwLlNtfu3XX2oe2xet"
-    },
-    {
-      "added_at": "2025-04-28 03:00:28",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u7d05\u6708\u300c\u91d1\u8272\u5343\u591c\u5922\u821e\u53f0\u300d (Game Edit)",
         "url": "https://open.spotify.com/album/5L23YPqnArhqqm50NFHbTW"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 156521,
       "name": "\u91d1\u8272\u5343\u591c\u5922\u821e\u53f0 - Game Edit",
       "url": "https://open.spotify.com/track/7bF8aiQ2Y0HywixEytUCgT"
+    },
+    {
+      "added_at": "2025-04-28 03:00:28",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Adam\u300cMelting Rouge Soul\u300d (Game Edit)",
+        "url": "https://open.spotify.com/album/2fa1muoZil5Khj84BGGzPV"
+      },
+      "artists": [
+        {
+          "name": "Adam/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)",
+          "url": "https://open.spotify.com/artist/5doOE4ux3bSRL56vebnofQ"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Melting Rouge Soul - Game Edit",
+      "url": "https://open.spotify.com/track/4kOXWwLlNtfu3XX2oe2xet"
     },
     {
       "added_at": "2025-04-28 03:00:28",

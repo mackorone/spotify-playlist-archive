@@ -1,6 +1,6 @@
 {
   "description": "Highlighting key releases from this month's most exciting songwriters from around the globe. Cover: Lydia Vaughan",
-  "num_followers": 37773,
+  "num_followers": 37817,
   "original_name": "Noteable",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-05-01 04:00:06",
       "album": {
+        "name": "HAKiA",
+        "url": "https://open.spotify.com/album/0KqrVcGMXFMESOIj071ZIi"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "HAKiA",
+      "url": "https://open.spotify.com/track/2R7tJQlT37TxQ1jzu9ez7K"
+    },
+    {
+      "added_at": "2025-05-01 04:00:06",
+      "album": {
         "name": "Gods Don't Pray",
         "url": "https://open.spotify.com/album/3BuW7PWTMQFRqAm8M1Lisi"
       },
@@ -355,7 +371,7 @@
     {
       "added_at": "2025-05-01 04:00:06",
       "album": {
-        "name": "All I Know (Piano Version)",
+        "name": "All I Know (with Khalid) [Piano Version]",
         "url": "https://open.spotify.com/album/7vWvSz7epSZqPMsEDjqwVS"
       },
       "artists": [
@@ -369,7 +385,7 @@
         }
       ],
       "duration_ms": 138931,
-      "name": "All I Know - Piano Version",
+      "name": "All I Know (with Khalid) - Piano Version",
       "url": "https://open.spotify.com/track/4EW2Bxt1kBDkNlqw5byc0b"
     },
     {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Suzane",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Helena",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 178293,
       "name": "Amour cyclone",
       "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 172413,
       "name": "Avec ou sans",
       "url": "https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH"
@@ -2007,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "La Fame",
+        "url": "https://open.spotify.com/album/45fh9oIHclTqQIvnYtf749"
+      },
+      "artists": [
+        {
+          "name": "Ouidad",
+          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207730,
+      "name": "La Fame",
+      "url": "https://open.spotify.com/track/3FG1lZoFuZnAuYxLthz3Bf"
+    },
+    {
+      "album": {
         "name": "La fin de l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/4hymmlzwGaYW2F04ZRlqfU"
       },
@@ -2954,6 +2972,24 @@
       "duration_ms": 173453,
       "name": "Mute",
       "url": "https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk"
+    },
+    {
+      "album": {
+        "name": "H\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "M\u00e9latonine",
+      "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
     },
     {
       "album": {

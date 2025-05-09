@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-2,592 songs - 5 day 19 hr 22 min
+2,593 songs - 5 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Aðfangadagskvöld](https://open.spotify.com/track/1RRNaQPmkG6QWramSWxCl9) | [Þú og ég](https://open.spotify.com/artist/6dHnoL2eDy2jdtEPmDf8w5), [Ég](https://open.spotify.com/artist/7K2jFqHFUKjYTH8rKyZK8s) | [100 íslensk jólalög](https://open.spotify.com/album/4o9fvc9DuQFKxqGcHM9g7Y) | 3:41 | 2021-11-30 | 2022-12-14 |
 | [Aðfangadagskvöld](https://open.spotify.com/track/2ifjjqtgjsn0xDiQ4u2LZZ) | [Þú og ég](https://open.spotify.com/artist/6dHnoL2eDy2jdtEPmDf8w5), [Ég](https://open.spotify.com/artist/3nHx96DWe1AV86Vb49vbIA) | [Jólasnær](https://open.spotify.com/album/7ag5VU73uXExD4lFeCalxb) | 3:42 | 2024-12-02 | 2024-12-04 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-06-01 | 2023-07-23 |
+| [Baby Hvað Viltu?](https://open.spotify.com/track/5NW5MIr2o9h1cIGMJm4MWp) | [Háski](https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE), [Lil Curly](https://open.spotify.com/artist/746fVqVoeiBPhTvtcEa93r) | [Baby Hvað Viltu?](https://open.spotify.com/album/7oxQKFChibTJ5PWoDcK3Vn) | 2:21 | 2025-05-08 |  |
 | [Back Door \(feat\. Quavo & Kodak Black\)](https://open.spotify.com/track/6f84PrgxSWSv4EBRweHXZJ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 4:03 | 2021-07-18 | 2021-07-19 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-04-23 |  |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-11 | 2024-02-16 |
@@ -1301,7 +1302,7 @@
 | [Location](https://open.spotify.com/track/07MuGW4Q2AN4Jxmq5dYCY1) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL) | [ISSI DEPOSIT](https://open.spotify.com/album/0LE9qiDtWAiIIzB9BUZljo) | 2:03 | 2021-12-05 | 2021-12-06 |
 | [Location](https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:39 | 2022-05-05 | 2022-05-07 |
 | [Lognið undan storminum \- Skit](https://open.spotify.com/track/772WN0vI1bFnnidQ9nYrqM) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL) | [RAUÐ VIÐVÖRUN](https://open.spotify.com/album/6ucm5tOXO04vpDcRilC2My) | 0:56 | 2023-04-08 | 2023-04-11 |
-| [LOKUÐ AUGU](https://open.spotify.com/track/6aS0Tex633d2JYjjk42yvy) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [Egill Airi](https://open.spotify.com/artist/1Z6jWlrcsGs0e3NzYAT8ys), [Tónhylur Akademía](https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu) | [KAPITAL](https://open.spotify.com/album/3IjIgOi1J5699O5Diz4AkJ) | 2:17 | 2025-01-11 |  |
+| [LOKUÐ AUGU](https://open.spotify.com/track/6aS0Tex633d2JYjjk42yvy) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [Egill Airi](https://open.spotify.com/artist/1Z6jWlrcsGs0e3NzYAT8ys), [Tónhylur Akademía](https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu) | [KAPITAL](https://open.spotify.com/album/3IjIgOi1J5699O5Diz4AkJ) | 2:17 | 2025-01-11 | 2025-05-09 |
 | [loml](https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:37 | 2024-04-20 | 2024-04-22 |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:29 | 2021-03-27\* | 2021-04-04 |
 | [Long Time](https://open.spotify.com/track/0XE3nVnYp6sWRpQl8KR2mf) | [Tha Rift](https://open.spotify.com/artist/7fEi8ewyfKEonfDoJtebVt), [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6) | [Long Time](https://open.spotify.com/album/6lth8MOUtg7d2kr9qjB9gA) | 2:04 | 2023-04-15 | 2023-04-19 |

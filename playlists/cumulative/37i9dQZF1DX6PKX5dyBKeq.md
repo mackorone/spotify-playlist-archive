@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Tion Wayne, LeoStayTrill
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Loski, Chy Cartier
 
-2,085 songs - 4 day 8 hr 2 min
+2,087 songs - 4 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1113,7 +1113,7 @@
 | [Love Me How](https://open.spotify.com/track/3mi5y0lctEWa5BlpweVsYD) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Love Me How](https://open.spotify.com/album/1vo86IKNOT899kXoqcfhlz) | 2:30 | 2024-02-16 | 2024-05-11 |
 | [Love Or Lust](https://open.spotify.com/track/246fXCzdDcJRFqPWZP05CQ) | [cr0bb](https://open.spotify.com/artist/2gN6yO4atQDRg4hdqw3o6P) | [Love Or Lust](https://open.spotify.com/album/78WMRbJzewjAVBSC62LI6H) | 2:30 | 2023-05-18 | 2023-06-23 |
 | [Low Fading \(feat\. Tay Jordan\)](https://open.spotify.com/track/5l7iC1vXA6K3hMbKMYZWLe) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm), [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Wavey Shirt Wednesday 3](https://open.spotify.com/album/279UrcSYHO7QnbUF7KenIa) | 3:26 | 2024-08-02 | 2024-09-20 |
-| [Low Vibrations](https://open.spotify.com/track/5I1t1h0LSvjJuGZUqC3Dwp) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Low Vibrations](https://open.spotify.com/album/5huwFVBaEZQ2ntWjCDzIMk) | 2:56 | 2025-01-10 |  |
+| [Low Vibrations](https://open.spotify.com/track/5I1t1h0LSvjJuGZUqC3Dwp) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Low Vibrations](https://open.spotify.com/album/5huwFVBaEZQ2ntWjCDzIMk) | 2:56 | 2025-01-10 | 2025-05-09 |
 | [LSW](https://open.spotify.com/track/4HYYvnNZg3sZCGr0NkS8S1) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LSW](https://open.spotify.com/album/2knHvyFM8HCBs3KCM8Om9k) | 2:14 | 2022-06-02 | 2022-10-01 |
 | [Lucious](https://open.spotify.com/track/1c90f63JrnaQZxKBdJdbPn) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Lucious](https://open.spotify.com/album/73UXINJanT7sabQxcbL2Am) | 3:18 | 2022-09-09 | 2022-11-19 |
 | [Lumidee](https://open.spotify.com/track/2xg2rRWN2XbgXVpjpCIrck) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Lumidee](https://open.spotify.com/album/1glAmVADy064MWroCkQwmz) | 3:30 | 2021-01-15 | 2021-02-13 |
@@ -1645,7 +1645,7 @@
 | [Sexy Grime](https://open.spotify.com/track/15hhWgMycWugOWakNgCbtL) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Grime Scene Saviour](https://open.spotify.com/album/3NxnxQQ8t4T917IEbXBkiA) | 2:05 | 2025-04-17 |  |
 | [Sexyy Red \(feat\. Headie One\)](https://open.spotify.com/track/0f5ZTJ6BcOEijnrR11edbr) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [True Stories](https://open.spotify.com/album/1Jkf7g6nVVDqUxev11BWl6) | 2:25 | 2024-02-16 | 2024-04-26 |
 | [Shadeborough](https://open.spotify.com/track/2YGQyG0aWQJSrh9TMXLNgz) | [Mitch](https://open.spotify.com/artist/5wucmusGLo524OvL9MuQOX) | [Shadeborough](https://open.spotify.com/album/6GvhNQXhCUfe3wFHt2NCgD) | 2:54 | 2022-04-14 | 2022-05-06 |
-| [Shanghigh Noon](https://open.spotify.com/track/3KDzatDYQ20U217P3eI3Q3) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Shanghigh Noon](https://open.spotify.com/album/70EqNGnMDqrrKTSWka2LKZ) | 2:47 | 2025-02-14 |  |
+| [Shanghigh Noon](https://open.spotify.com/track/3KDzatDYQ20U217P3eI3Q3) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Shanghigh Noon](https://open.spotify.com/album/70EqNGnMDqrrKTSWka2LKZ) | 2:47 | 2025-02-14 | 2025-05-09 |
 | [Sharks 2](https://open.spotify.com/track/6Yvl6MWCYCanPd9rlovqZw) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760) | [Sharks 2](https://open.spotify.com/album/2eim6IgsjGlp66tnJIbXPk) | 3:15 | 2023-02-24 | 2023-03-18 |
 | [She Like \(feat\. Blanco\)](https://open.spotify.com/track/1oCbDWh54GvaE2lRlmJZcK) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [She Like \(feat\. Blanco\)](https://open.spotify.com/album/3tBzwRA9tDK27VQR9jkNIQ) | 2:54 | 2021-06-08 | 2021-08-03 |
 | [She's A 10 But...](https://open.spotify.com/track/2DfRgLfkNb8nU1wMcMK0fD) | [ARTAN](https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2), [Spencer Elmer](https://open.spotify.com/artist/79hHMv2Abnf54m7Nuc5v6c) | [She’s A 10 But…](https://open.spotify.com/album/3yHXNwosEPuYYi5ZD6MbxA) | 2:45 | 2022-12-16 | 2023-03-18 |
@@ -1713,6 +1713,7 @@
 | [Sombrero](https://open.spotify.com/track/68SuR1Gufl0PFvpdF9uJhw) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Sombrero](https://open.spotify.com/album/49aLvfBQIRq91fymjEWAv2) | 2:36 | 2024-11-15 | 2025-04-18 |
 | [Somebody's Son](https://open.spotify.com/track/6dP17OFUfdykevS0w8QyAN) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Pressplay](https://open.spotify.com/artist/2O4Kmd6YNhta38MQ1VDMI1) | [Somebody's Son](https://open.spotify.com/album/6Bo49W2gxUaHUVJQZdejaJ) | 2:56 | 2021-07-17 | 2021-10-09 |
 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 | 2021-03-06 | 2021-04-26 |
+| [SORRY RACH!](https://open.spotify.com/track/581wx4eVMwnfHWqoGd90jn) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [SORRY RACH!](https://open.spotify.com/album/24HXbfPIjw7Yi8bpif4H79) | 3:54 | 2025-05-08 |  |
 | [sorrym8](https://open.spotify.com/track/08NNABYgFEC3G2S02jGU3Q) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o) | [sorrym8](https://open.spotify.com/album/6pgXnGMYy9T3EAqbeClTOe) | 2:04 | 2024-12-06 | 2025-04-04 |
 | [South](https://open.spotify.com/track/0pPkAoyVe0hq69OyUGikzP) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [South](https://open.spotify.com/album/3zEngZzz84OKKiR82rAkqK) | 3:00 | 2020-10-24 | 2020-11-23 |
 | [south](https://open.spotify.com/track/1AqsmkPlO7ID4g4Hjwll9s) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [fools&errands](https://open.spotify.com/album/32G0PERRm3OOv4k6zwuMx6) | 2:46 | 2024-06-21 | 2024-07-12 |
@@ -1944,6 +1945,7 @@
 | [Unveiled](https://open.spotify.com/track/1VbGUYuEvzViXO8JJ3Ag6w) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Unveiled](https://open.spotify.com/album/70C6Om19h3qu4AOiMo8P4C) | 2:54 | 2020-09-18 | 2020-10-10 |
 | [Up It](https://open.spotify.com/track/3zjsQW2D3HrKvUeCIk2MPT) | [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc) | [Community Service](https://open.spotify.com/album/0I5RObKA3W5XHTzoEBh5v3) | 3:22 | 2023-06-22 | 2023-07-14 |
 | [Uptown](https://open.spotify.com/track/22PC5q1uB3WutWJSfVsoWm) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Uptown](https://open.spotify.com/album/2VxCRcqsTMe8IqWJm9Y7ql) | 2:50 | 2021-11-26 | 2022-01-21 |
+| [Uptown](https://open.spotify.com/track/76Pu3WalpqCdQDvO0VWbas) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Uptown](https://open.spotify.com/album/3JQ5ILpec1hGp59h3dhrzb) | 2:32 | 2025-05-08 |  |
 | [Us Against the World](https://open.spotify.com/track/4TaS4giQQK01vKzBB40AEY) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Us Against the World](https://open.spotify.com/album/5m2xRmSB1D30YZHDHr8556) | 2:19 | 2023-01-20 | 2023-02-17 |
 | [Us Against the World \- Remix](https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Us Against the World \(Remix\)](https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv) | 3:12 | 2023-02-17 | 2023-08-18 |
 | [Us vs Them](https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Us vs Them](https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE) | 2:03 | 2024-12-13 | 2025-04-11 |

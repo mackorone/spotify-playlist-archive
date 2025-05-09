@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-322 songs - 16 hr 32 min
+324 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 | 2023-03-16 | 2023-04-16 |
 | [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy) | [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK) | 2:54 | 2022-06-09 | 2022-07-26 |
 | [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 | 2023-08-10 | 2023-09-10 |
+| [Biko](https://open.spotify.com/track/6OYOI8Ra1mvKGaL0tbiz6X) | [Remii](https://open.spotify.com/artist/68esPVBE3V7wjSPVmZ6jBM) | [Biko](https://open.spotify.com/album/1omjc1eKWElNR5U7Vad8gZ) | 4:03 | 2025-05-09 |  |
 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 | 2023-10-13 | 2025-03-08 |
 | [Blessings](https://open.spotify.com/track/5ibf0QRiCeCmlFlNb7otEP) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Blessings](https://open.spotify.com/album/0tgjVqsRs4lXQ4sgJ1EFIg) | 2:03 | 2022-06-09 | 2022-07-26 |
 | [Bouquet](https://open.spotify.com/track/4wb0iKaIklho8XLLvN3LlN) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Bouquet](https://open.spotify.com/album/0Ab7XpBlcL0qdZq8oqvIi7) | 3:02 | 2024-02-02 | 2024-02-09 |
@@ -93,6 +94,7 @@
 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-10 | 2023-06-03 |
 | [Elastic](https://open.spotify.com/track/5m4cCMBhJYLhWUDh6dmQkp) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [Nana Dinero](https://open.spotify.com/artist/7AAizi9ZwavkXbtg7MLeIx), [Klue](https://open.spotify.com/artist/4EtGe6B8EF4QeSK3m8nNNg), [Zel X](https://open.spotify.com/artist/7wvdLJerMHrlCnpVo7zdmt) | [Elastic](https://open.spotify.com/album/1pTw4tFwUjDXXZBCLtQ4aS) | 2:31 | 2023-02-03 | 2023-02-24 |
 | [Eleyele](https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Eleyele](https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT) | 2:08 | 2023-06-22 | 2023-09-10 |
+| [Emem](https://open.spotify.com/track/0dpHY6IOhk82FM1BBRby6m) | [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [Emem / Lagos Sundown](https://open.spotify.com/album/0eoHel2kgJA6BjDCH0okZL) | 2:57 | 2025-05-09 |  |
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-09 | 2022-09-26 |
 | [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 | 2023-01-27 | 2023-09-29 |
 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 | 2022-06-09 | 2023-01-28 |
@@ -103,7 +105,7 @@
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 | 2022-10-28 | 2023-03-04 |
 | [Family Meeting](https://open.spotify.com/track/55U6O6goagYMVzoF0oJ0JK) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:07 | 2023-06-09 | 2023-09-10 |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-06-10 |
-| [FEELINGS EVERYTIME](https://open.spotify.com/track/1cGbXWfik6jTI5qSFdreB4) | [PapaRaZzle](https://open.spotify.com/artist/4hfjJtqZRM6khacMfYHwTL) | [FEELINGS EVERYTIME](https://open.spotify.com/album/2DPIxbQNJCGF9NmRf9wcpC) | 2:30 | 2024-11-29 |  |
+| [FEELINGS EVERYTIME](https://open.spotify.com/track/1cGbXWfik6jTI5qSFdreB4) | [PapaRaZzle](https://open.spotify.com/artist/4hfjJtqZRM6khacMfYHwTL) | [FEELINGS EVERYTIME](https://open.spotify.com/album/2DPIxbQNJCGF9NmRf9wcpC) | 2:30 | 2024-11-29 | 2025-05-09 |
 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 | 2022-06-09 |  |
 | [Fever](https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Fever](https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL) | 3:06 | 2023-05-19 |  |
 | [Fine](https://open.spotify.com/track/5NcUF8EKTsWbhhRkhCAiR9) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Fine](https://open.spotify.com/album/2xS0FKkPCvYQuHW2lel1lp) | 2:41 | 2023-11-24 | 2024-02-03 |
@@ -205,7 +207,7 @@
 | [Nervous Juice](https://open.spotify.com/track/3or1d92xtrUPp8ULHhI01R) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Nervous Juice](https://open.spotify.com/album/0enhsGqan85AL3HuXOt7IM) | 3:13 | 2024-04-19 | 2024-04-26 |
 | [Never Stopped](https://open.spotify.com/track/7dkfbGHwMS6rt26cda0BUY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Never Stopped](https://open.spotify.com/album/7pAbZg7Iz6TV2QAytP1mBv) | 3:13 | 2022-06-09 | 2022-07-29 |
 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 | 2024-05-10 | 2024-06-07 |
-| [Next To You \(feat\. Vedo\)](https://open.spotify.com/track/3YoJLY6wG8qs9DdaGaCQbX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Love is Not Enough](https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ) | 2:33 | 2022-06-09 |  |
+| [Next To You \(feat\. Vedo\)](https://open.spotify.com/track/3YoJLY6wG8qs9DdaGaCQbX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Love is Not Enough](https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ) | 2:33 | 2022-06-09 | 2025-05-09 |
 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 | 2024-04-26 | 2024-06-09 |
 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 | 2022-07-07 |  |
 | [No Room For Love](https://open.spotify.com/track/3UsjXOmKtQhUs9yD9cd05F) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet](https://open.spotify.com/album/7J6cbhhY4seRJ9d9VUzjnY) | 3:09 | 2022-06-09 | 2022-07-28 |

@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Loathe
 
-533 songs - 1 day 8 hr 3 min
+538 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-04-11 |  |
 | [Curwen](https://open.spotify.com/track/0Okysd8JMaWIrXcR1M08he) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Curwen](https://open.spotify.com/album/3ks2f53mSTSzD0eLeC01mt) | 4:30 | 2025-05-02 |  |
 | [Cyberhex](https://open.spotify.com/track/2vNUATEUKbavRo2gMjHs2S) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Lindsay Schoolcraft](https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 4:35 | 2022-11-10 | 2023-07-26 |
+| [Dangerous](https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:11 | 2025-05-08 |  |
 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 | 2023-05-11 | 2023-08-25 |
 | [Dark Void \- Sullivan King Remix](https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Dark Void EP](https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd) | 3:09 | 2024-01-12 | 2024-03-23 |
 | [Darker Still](https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 6:50 | 2022-11-10 | 2023-07-26 |
@@ -185,6 +186,7 @@
 | [Funeral Pyre](https://open.spotify.com/track/2oJwPMsHAMmsfpPFWEDrpP) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [Funeral Pyre](https://open.spotify.com/album/5R7ydNkplsFRSalqmiUjnE) | 4:00 | 2025-02-07 |  |
 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 | 2024-09-20 |  |
 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 | 2023-06-01 | 2024-02-17 |
+| [Gethsemane](https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:23 | 2025-05-08 |  |
 | [Gift Horse](https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:09 | 2024-06-28 |  |
 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-02 |  |
 | [Gila Monster](https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gila Monster](https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN) | 4:35 | 2023-05-19 | 2023-08-11 |
@@ -299,6 +301,7 @@
 | [Mad Care](https://open.spotify.com/track/6JN8exConeYRUdfGkqmYfO) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:25 | 2024-10-04 |  |
 | [MAGNETIC](https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [MAGNETIC](https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy) | 3:12 | 2024-03-22 |  |
 | [Magnolia](https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Magnolia](https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S) | 4:14 | 2025-02-07 |  |
+| [Make Me A Martyr](https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Make Me A Martyr](https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569) | 3:55 | 2025-05-08 |  |
 | [March on for Pax Ramona](https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [March on for Pax Ramona](https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0) | 4:33 | 2025-02-07 |  |
 | [Martyr Song](https://open.spotify.com/track/7j3vyFqTC6TCI9DWOBOayN) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Everlasting Gaze](https://open.spotify.com/album/1ZAJRYcsaTLco5cLFMHqh9) | 4:16 | 2024-10-17 |  |
 | [Massive Twenty One Pilots Tattoo](https://open.spotify.com/track/1CT0BPp8AlxmnT7L9rh12O) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Massive Twenty One Pilots Tattoo](https://open.spotify.com/album/2P5drzZjD0ZJku6XHtqSe5) | 5:01 | 2025-03-26 |  |
@@ -383,6 +386,7 @@
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-11-10 | 2023-07-26 |
 | [Round and Round We Go](https://open.spotify.com/track/7EuCLfYjzQhykjLAd8tGUg) | [Giant Walker](https://open.spotify.com/artist/4Xatn9rQkv4mU47XRJ2SE0) | [Silhouettes](https://open.spotify.com/album/5AwEaIG4gv6qspBryPH60F) | 4:10 | 2024-09-20 |  |
 | [Russian Roulette](https://open.spotify.com/track/7KIrDWJzJGKx1xlK0tOqiU) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Russian Roulette](https://open.spotify.com/album/5dSgvHcSr0RE9aXpWD2HZB) | 3:50 | 2023-07-25 | 2024-03-08 |
+| [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 | 2025-05-08 |  |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-11-10 | 2023-07-26 |
 | [Saviour II](https://open.spotify.com/track/14FP9BNWHekbC17tqcppOR) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Saviour II](https://open.spotify.com/album/6ehXKNVHjv2GYuhhy7ecwG) | 3:20 | 2022-11-10 | 2023-07-26 |
 | [Say My Name](https://open.spotify.com/track/6w7Jb4kTmOPkoewZgk40gY) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Say My Name](https://open.spotify.com/album/5NZD1UjdYp9kGGGz6GdT2z) | 4:08 | 2025-03-26 |  |
@@ -479,6 +483,7 @@
 | [Timebomb](https://open.spotify.com/track/3Mol9yc6kEdpu8lKEvsune) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Timebomb](https://open.spotify.com/album/0QaS7rHAPOIE3P0zaB99Xu) | 3:46 | 2022-11-10 | 2023-02-10 |
 | [Times Change](https://open.spotify.com/track/5BmLX8NdUtJZvanDta96dx) | [Seething Akira](https://open.spotify.com/artist/6UxRNE2TDlQP0GFEGJyvSQ) | [Times Change](https://open.spotify.com/album/44qhZVKMcawuh5cv4L8miP) | 3:33 | 2024-09-20 |  |
 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 | 2022-11-10 | 2023-01-26 |
+| [Tired Eyes](https://open.spotify.com/track/3wl99nt5DAdNsW2iGl89kH) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Tired Eyes](https://open.spotify.com/album/1PPzDscYP774d3bJZkfLTB) | 4:04 | 2025-05-08 |  |
 | [To The Death](https://open.spotify.com/track/6yapE54zUo0JTT2o6hJOTp) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Big Ole Album Vol\. 1](https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg) | 2:57 | 2025-03-26 |  |
 | [TO THE FLOWERS](https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [TO THE FLOWERS](https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB) | 5:05 | 2024-02-16 |  |
 | [Today's My Day](https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Today's My Day](https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV) | 3:35 | 2024-02-16 |  |

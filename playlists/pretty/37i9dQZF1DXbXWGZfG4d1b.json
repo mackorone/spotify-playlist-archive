@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24210,
+  "num_followers": 24207,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "No Hagas Que Me Arrepienta",
+        "url": "https://open.spotify.com/album/6TxHROskkdXNhc8EK82j8d"
+      },
+      "artists": [
+        {
+          "name": "Winona Riders",
+          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
+        }
+      ],
+      "duration_ms": 255835,
+      "name": "680/680",
+      "url": "https://open.spotify.com/track/7x1v9v0mVzNJ4f2q0tXcN6"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Muerde",
         "url": "https://open.spotify.com/album/3s4KfDYzx43oz29SdLdkAc"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 179428,
       "name": "Muerde",
       "url": "https://open.spotify.com/track/52UEFtf0kXBjjzCJgqsC19"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "No Hagas Que Me Arrepienta",
-        "url": "https://open.spotify.com/album/6TxHROskkdXNhc8EK82j8d"
-      },
-      "artists": [
-        {
-          "name": "Winona Riders",
-          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
-        }
-      ],
-      "duration_ms": 255835,
-      "name": "680/680",
-      "url": "https://open.spotify.com/track/7x1v9v0mVzNJ4f2q0tXcN6"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Este Lugar",
-        "url": "https://open.spotify.com/album/3Wqe1WTNbbFWuA46Zgo5a2"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 292758,
-      "name": "Este Lugar",
-      "url": "https://open.spotify.com/track/5xdyRUBcNEzNwOC0WocapT"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Este Lugar",
+        "url": "https://open.spotify.com/album/3Wqe1WTNbbFWuA46Zgo5a2"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 292758,
+      "name": "Este Lugar",
+      "url": "https://open.spotify.com/track/5xdyRUBcNEzNwOC0WocapT"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -843,18 +843,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Mir\u00e1 mam\u00e1",
-        "url": "https://open.spotify.com/album/4WxNg5MCIE7qRkjfiER9cz"
+        "name": "Humo y Menta",
+        "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
       },
       "artists": [
         {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        },
+        {
+          "name": "Charlie Desidney",
+          "url": "https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu"
         }
       ],
-      "duration_ms": 182056,
-      "name": "Mir\u00e1 mam\u00e1",
-      "url": "https://open.spotify.com/track/195ZLpeP6FKxSQXo7uvdL4"
+      "duration_ms": 183242,
+      "name": "Humo y Menta",
+      "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -879,22 +883,18 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Humo y Menta",
-        "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
+        "name": "Mir\u00e1 mam\u00e1",
+        "url": "https://open.spotify.com/album/4WxNg5MCIE7qRkjfiER9cz"
       },
       "artists": [
         {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        },
-        {
-          "name": "Charlie Desidney",
-          "url": "https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu"
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
         }
       ],
-      "duration_ms": 183242,
-      "name": "Humo y Menta",
-      "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
+      "duration_ms": 182056,
+      "name": "Mir\u00e1 mam\u00e1",
+      "url": "https://open.spotify.com/track/195ZLpeP6FKxSQXo7uvdL4"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Amor Express",
+        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        }
+      ],
+      "duration_ms": 214409,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Amor Express",
-        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
-      },
-      "artists": [
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        }
-      ],
-      "duration_ms": 214409,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Razon",
-        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
-      },
-      "artists": [
-        {
-          "name": "Francisco Bochat\u00f3n",
-          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
-        }
-      ],
-      "duration_ms": 179658,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Pol\u00edtico o Rolling Stone",
         "url": "https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Razon",
+        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
+      },
+      "artists": [
+        {
+          "name": "Francisco Bochat\u00f3n",
+          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
+        }
+      ],
+      "duration_ms": 179658,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Fantas\u00edas de Violencia",
+        "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
+      },
+      "artists": [
+        {
+          "name": "Bubis Vayins",
+          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
+        }
+      ],
+      "duration_ms": 253177,
+      "name": "Los Carritos",
+      "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Vivo La Plata",
         "url": "https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 137887,
       "name": "Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Fantas\u00edas de Violencia",
-        "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
-      },
-      "artists": [
-        {
-          "name": "Bubis Vayins",
-          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
-        }
-      ],
-      "duration_ms": 253177,
-      "name": "Los Carritos",
-      "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
     },
     {
       "added_at": "2025-04-25 03:00:33",

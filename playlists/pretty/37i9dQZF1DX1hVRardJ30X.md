@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ivan Cornejo, Lali, Fuerza Regida and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,536 likes - 53 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,574 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 4 | [Conmigo Se Escapa](https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Conmigo Se Escapa](https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj) | 2:31 |
 | 5 | [Bugatti](https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Bugatti](https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j) | 2:50 |
 | 6 | [La Buena Eras Tú](https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [La Buena Eras Tú](https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX) | 3:22 |
-| 7 | [sofocón \- A COLORS SHOW](https://open.spotify.com/track/2s6CUTfH7l8Xphpta2R3Aq) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [sofocón \- A COLORS SHOW](https://open.spotify.com/album/41UqWLoaxZMYSLhORnYGA9) | 2:25 |
+| 7 | [sofocón \- A COLORS SHOW](https://open.spotify.com/track/2s6CUTfH7l8Xphpta2R3Aq) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [sofocón \- A COLORS SHOW](https://open.spotify.com/album/41UqWLoaxZMYSLhORnYGA9) | 2:25 |
 | 8 | [Aura](https://open.spotify.com/track/0vCmX79NVyzlxCMxO1MlW8) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Aura](https://open.spotify.com/album/5wGvRJ6ZFgRJcVtbs3K663) | 2:52 |
 | 9 | [CLEOPATRA](https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [CLEOPATRA](https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag) | 3:25 |
 | 10 | [PLÁSTICO](https://open.spotify.com/track/53JpIvmaGCnEGARgwJPhZR) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 2:59 |

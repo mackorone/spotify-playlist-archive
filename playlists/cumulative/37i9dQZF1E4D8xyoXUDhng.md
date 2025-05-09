@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Tasha Page\-Lockhart, Donald Lawrence & Company and more
+> With Sunday Service Choir, Whitney Houston, Tasha Page\-Lockhart and more
 
 1,741 songs - 5 day 11 hr 38 min
 

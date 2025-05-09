@@ -1,12 +1,12 @@
 {
   "description": "welcome to the underground. greetings from ugly (uk).",
-  "num_followers": 315295,
+  "num_followers": 315279,
   "original_name": "melomania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBjbPwAAAAClWdKsLoY4ANkBMm1gU0Ua",
+  "snapshot_id": "aBz+RQAAAADxXpmvZ6LvtsdhojwMgrby",
   "tracks": [
     {
       "added_at": "2025-05-01 23:00:13",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps"
     },
     {
+      "added_at": "2025-05-08 18:56:05",
+      "album": {
+        "name": "Bohemian Clutter",
+        "url": "https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3"
+      },
+      "artists": [
+        {
+          "name": "pencil",
+          "url": "https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk"
+        }
+      ],
+      "duration_ms": 279378,
+      "name": "Honest Song",
+      "url": "https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK"
+    },
+    {
       "added_at": "2025-05-01 23:00:13",
       "album": {
         "name": "A Cowboy Song",
@@ -77,20 +93,20 @@
       "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
     },
     {
-      "added_at": "2025-05-01 23:00:13",
+      "added_at": "2025-05-08 18:56:05",
       "album": {
-        "name": "Shells",
-        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
+        "name": "Look Down On Us",
+        "url": "https://open.spotify.com/album/3CxAKlsE2UUbX1O80xwAqY"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Shells",
-      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
+      "duration_ms": 598293,
+      "name": "Look Down On Us",
+      "url": "https://open.spotify.com/track/7yIyR2o9DGWKhVrTe37FLs"
     },
     {
       "added_at": "2025-05-01 23:00:13",
@@ -111,6 +127,22 @@
     {
       "added_at": "2025-05-01 23:00:13",
       "album": {
+        "name": "Shells",
+        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Shells",
+      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
+    },
+    {
+      "added_at": "2025-05-01 23:00:13",
+      "album": {
         "name": "This Is Real",
         "url": "https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ"
       },
@@ -123,6 +155,22 @@
       "duration_ms": 187351,
       "name": "This Is Real",
       "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
+    },
+    {
+      "added_at": "2025-05-08 18:56:05",
+      "album": {
+        "name": "The New Eve / Rivers Run Red",
+        "url": "https://open.spotify.com/album/7gUMLfkzb45lMwN1O5MVSl"
+      },
+      "artists": [
+        {
+          "name": "The New Eves",
+          "url": "https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Rivers Run Red",
+      "url": "https://open.spotify.com/track/62UhV1TTMWqAKvoQHt8ClT"
     },
     {
       "added_at": "2025-05-01 23:00:13",
@@ -155,6 +203,22 @@
       "duration_ms": 264508,
       "name": "Call It Easy - Edit",
       "url": "https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5"
+    },
+    {
+      "added_at": "2025-05-08 18:56:05",
+      "album": {
+        "name": "MadDog",
+        "url": "https://open.spotify.com/album/2Q6eyFzIAGrfcacgBw3wMC"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 242868,
+      "name": "MadDog",
+      "url": "https://open.spotify.com/track/141fl9M2mCLjtVzEKQuCRc"
     },
     {
       "added_at": "2025-05-01 23:00:13",
@@ -205,22 +269,6 @@
       "url": "https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6"
     },
     {
-      "added_at": "2025-05-01 23:00:13",
-      "album": {
-        "name": "Adam & Steve",
-        "url": "https://open.spotify.com/album/7yV48nbPydSyv2xod1SQLe"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 150791,
-      "name": "Adam & Steve",
-      "url": "https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s"
-    },
-    {
       "added_at": "2025-05-05 15:37:35",
       "album": {
         "name": "The Pilgrim, Their God and The King of My Decrepit Mountain",
@@ -235,22 +283,6 @@
       "duration_ms": 259959,
       "name": "On A Grassy Knoll (We'll Bow Together)",
       "url": "https://open.spotify.com/track/2w7ytZGD2i3xHXFpy5sJye"
-    },
-    {
-      "added_at": "2025-05-01 23:00:13",
-      "album": {
-        "name": "The Pencil",
-        "url": "https://open.spotify.com/album/3c1L0TkioqWhP85wGHQc4D"
-      },
-      "artists": [
-        {
-          "name": "pencil",
-          "url": "https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk"
-        }
-      ],
-      "duration_ms": 279612,
-      "name": "The Pencil",
-      "url": "https://open.spotify.com/track/0PhgjfjfaaVteJMW4Q7STQ"
     },
     {
       "added_at": "2025-05-01 23:00:13",
@@ -283,6 +315,22 @@
       "duration_ms": 260173,
       "name": "Skins",
       "url": "https://open.spotify.com/track/6A3WzehznFCrvM17ESvJmb"
+    },
+    {
+      "added_at": "2025-05-08 18:56:05",
+      "album": {
+        "name": "The Slow Fire Of Sleep",
+        "url": "https://open.spotify.com/album/1Q6I8om7siuwy74OM3ojKX"
+      },
+      "artists": [
+        {
+          "name": "L.Mayland",
+          "url": "https://open.spotify.com/artist/0BLlpavpa6BNJdvkhAvyug"
+        }
+      ],
+      "duration_ms": 188924,
+      "name": "Mother Mother",
+      "url": "https://open.spotify.com/track/53FrtR1SMPaKGUnDSsNZhg"
     },
     {
       "added_at": "2025-05-01 23:00:13",
@@ -319,6 +367,22 @@
       "duration_ms": 148726,
       "name": "barefeet",
       "url": "https://open.spotify.com/track/3qnJMEAZ4FZr0YiHOfHSPa"
+    },
+    {
+      "added_at": "2025-05-01 23:00:13",
+      "album": {
+        "name": "The Pencil",
+        "url": "https://open.spotify.com/album/3c1L0TkioqWhP85wGHQc4D"
+      },
+      "artists": [
+        {
+          "name": "pencil",
+          "url": "https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk"
+        }
+      ],
+      "duration_ms": 279612,
+      "name": "The Pencil",
+      "url": "https://open.spotify.com/track/0PhgjfjfaaVteJMW4Q7STQ"
     },
     {
       "added_at": "2025-05-01 23:00:13",
@@ -403,6 +467,22 @@
       "duration_ms": 213303,
       "name": "Sequence Of Voices",
       "url": "https://open.spotify.com/track/5MvxKOp6Dm44goQYzGK2gJ"
+    },
+    {
+      "added_at": "2025-05-01 23:00:13",
+      "album": {
+        "name": "Adam & Steve",
+        "url": "https://open.spotify.com/album/7yV48nbPydSyv2xod1SQLe"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 150791,
+      "name": "Adam & Steve",
+      "url": "https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s"
     },
     {
       "added_at": "2025-05-01 23:00:13",
@@ -1311,134 +1391,6 @@
       "duration_ms": 331136,
       "name": "Trevor",
       "url": "https://open.spotify.com/track/78qdlTeBkvgZXe9nMTgN6f"
-    },
-    {
-      "added_at": "2025-05-01 23:00:13",
-      "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/6nF0cIZaxWuPxAX1nQq8Ic"
-      },
-      "artists": [
-        {
-          "name": "SELL EVERYTHING",
-          "url": "https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87"
-        }
-      ],
-      "duration_ms": 160448,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/1KkZL7Iw1Rh0qUBTlnJnWS"
-    },
-    {
-      "added_at": "2025-05-01 23:00:13",
-      "album": {
-        "name": "I Wake Up Slowly",
-        "url": "https://open.spotify.com/album/7349Bk9PpVxJSUwMDSzk5X"
-      },
-      "artists": [
-        {
-          "name": "Oslo Twins",
-          "url": "https://open.spotify.com/artist/2rpkPoe2Qc5unwCOmWpN5y"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "I Wake Up Slowly",
-      "url": "https://open.spotify.com/track/22CUrCtZeg4jR7d7BO34oa"
-    },
-    {
-      "added_at": "2025-05-01 23:00:13",
-      "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/2Nsxxy2YWTJNGFnhd3hmT9"
-      },
-      "artists": [
-        {
-          "name": "Celeste Madden",
-          "url": "https://open.spotify.com/artist/3o0nlRLCgJxu7fUwDsvGiB"
-        }
-      ],
-      "duration_ms": 246290,
-      "name": "Millennium",
-      "url": "https://open.spotify.com/track/51Uj8b5Oi1YY7ayhM4lDoN"
-    },
-    {
-      "added_at": "2025-05-01 23:00:13",
-      "album": {
-        "name": "bird the kid",
-        "url": "https://open.spotify.com/album/1nZ8LRi5osH0S4MUjGXtim"
-      },
-      "artists": [
-        {
-          "name": "School Fair",
-          "url": "https://open.spotify.com/artist/2QPVdwHQoGwMiWEDHT8HF7"
-        }
-      ],
-      "duration_ms": 208948,
-      "name": "bald heads crackin",
-      "url": "https://open.spotify.com/track/0EuoI75ePFQi6WySQfi7rL"
-    },
-    {
-      "added_at": "2025-05-01 23:00:13",
-      "album": {
-        "name": "Lil' Horse",
-        "url": "https://open.spotify.com/album/5YO2PLIdJCAFVaOYcKCHyJ"
-      },
-      "artists": [
-        {
-          "name": "Kissing on Camera",
-          "url": "https://open.spotify.com/artist/06yv1oYDbg9T8Ei42l9YOU"
-        }
-      ],
-      "duration_ms": 134571,
-      "name": "Lil' Horse",
-      "url": "https://open.spotify.com/track/6rmGnb6OgWimjTZSlvHY50"
-    },
-    {
-      "added_at": "2025-05-01 23:00:13",
-      "album": {
-        "name": "Conditions III",
-        "url": "https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        }
-      ],
-      "duration_ms": 298687,
-      "name": "Pool Scene",
-      "url": "https://open.spotify.com/track/7mgfQPMLFRC5grfunmZY9r"
-    },
-    {
-      "added_at": "2025-05-01 23:00:13",
-      "album": {
-        "name": "The Machine Starts To Sing",
-        "url": "https://open.spotify.com/album/4bkObIgJvZmP7XwsdMEYy6"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "I\u2019ve Got A Feeling (Stay Lucky)",
-      "url": "https://open.spotify.com/track/776iJudZLw4s2F0P7hARgm"
-    },
-    {
-      "added_at": "2025-05-01 23:00:13",
-      "album": {
-        "name": "Loving Feeling (Alt Takes)",
-        "url": "https://open.spotify.com/album/3mer0gk0QpxOl7nDGuUb5m"
-      },
-      "artists": [
-        {
-          "name": "PARTICLS",
-          "url": "https://open.spotify.com/artist/2B7GYX6sOts4KNiI6ZLjrK"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "Loving Soup",
-      "url": "https://open.spotify.com/track/6XGzatDYGehKqN8XQDMBrF"
     }
   ],
   "unique_name": "melomania",

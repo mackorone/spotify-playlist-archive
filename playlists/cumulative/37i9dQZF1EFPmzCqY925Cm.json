@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "cut me",
+        "url": "https://open.spotify.com/album/6xPEkn6QjznRqs263Cjht9"
+      },
+      "artists": [
+        {
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120791,
+      "name": "cut me",
+      "url": "https://open.spotify.com/track/6KrfX0RLQclPUiMt3TypvF"
+    },
+    {
+      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
       },

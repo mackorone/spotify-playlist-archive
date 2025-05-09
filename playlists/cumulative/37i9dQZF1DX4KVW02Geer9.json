@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Joe Armon-Jones",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Moses Sumney, Hayley Williams",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 284109,
       "name": "Across the Reef",
       "url": "https://open.spotify.com/track/1aroWD5P3fcCMETRdik29l"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 153626,
       "name": "BMT - brushmyteeth",
       "url": "https://open.spotify.com/track/1kPMbJYGkFtBajYecm2sbA"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 255128,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4aty6aXloUquSo1RGzPo40"
@@ -1022,6 +1022,24 @@
       "duration_ms": 333881,
       "name": "Celestial Hands",
       "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
+    },
+    {
+      "album": {
+        "name": "Chaga",
+        "url": "https://open.spotify.com/album/69HjiWe06MKyp51rpS0WeG"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174023,
+      "name": "Chaga",
+      "url": "https://open.spotify.com/track/549vq4BezDmbkBhqJdu5PW"
     },
     {
       "album": {
@@ -1833,6 +1851,28 @@
     },
     {
       "album": {
+        "name": "Flowers and Butterfly",
+        "url": "https://open.spotify.com/album/0a4ChujBi0qpoWUmu405J4"
+      },
+      "artists": [
+        {
+          "name": "Marter",
+          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245581,
+      "name": "Flowers and Butterfly",
+      "url": "https://open.spotify.com/track/0TnZDDsrZJHf05NMM6YkJW"
+    },
+    {
+      "album": {
         "name": "fly bys",
         "url": "https://open.spotify.com/album/47lONTnQXNykToQaD6OUPD"
       },
@@ -2368,6 +2408,28 @@
       "duration_ms": 182726,
       "name": "I Feel the Same - edbl Remix",
       "url": "https://open.spotify.com/track/2UsrfYHrbrK4j6xdkdJthh"
+    },
+    {
+      "album": {
+        "name": "I Like It I Like It",
+        "url": "https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "I Like It I Like It",
+      "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
     },
     {
       "album": {
@@ -4547,6 +4609,24 @@
     },
     {
       "album": {
+        "name": "Sm\u00e5 l\u00e4tta moln",
+        "url": "https://open.spotify.com/album/3fJ79aCddeyyHmrR38CNk0"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493279,
+      "name": "Sm\u00e5 l\u00e4tta moln",
+      "url": "https://open.spotify.com/track/5AEYLNvBPEkkQ3ThAcRAtU"
+    },
+    {
+      "album": {
         "name": "Snowy Road",
         "url": "https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8"
       },
@@ -4800,7 +4880,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 200506,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
@@ -5181,6 +5261,24 @@
     },
     {
       "album": {
+        "name": "Tigerlily",
+        "url": "https://open.spotify.com/album/3XPZ80k8bHkQ3dggyM4umK"
+      },
+      "artists": [
+        {
+          "name": "Yapani!",
+          "url": "https://open.spotify.com/artist/1TgHCVtxa455y0ZZfHHNCz"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312923,
+      "name": "Tigerlily",
+      "url": "https://open.spotify.com/track/3WJASXAyMBNigjdLLLHLH9"
+    },
+    {
+      "album": {
         "name": "Timepieces",
         "url": "https://open.spotify.com/album/6X3hE0Vv5ffYNI2Jjqkjlb"
       },
@@ -5524,7 +5622,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 252187,
       "name": "Water Suite (Thirst) - Kassa Overall Remix",
       "url": "https://open.spotify.com/track/2FWVrnCVA1oX8f6jHGaTRq"
@@ -5600,6 +5698,24 @@
       "duration_ms": 183920,
       "name": "WHAT IS ??",
       "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
+    },
+    {
+      "album": {
+        "name": "What We Are and What We Are Meant to Be",
+        "url": "https://open.spotify.com/album/6c6eYEx2vp7nOhc9aI4Knh"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337065,
+      "name": "What We Are and What We Are Meant to Be",
+      "url": "https://open.spotify.com/track/6vWyxdcmw1wpXiqU0CtSJc"
     },
     {
       "album": {
@@ -6008,7 +6124,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 248205,
       "name": "\u9082\u9005",
       "url": "https://open.spotify.com/track/0lJDV5BTXFvgDgnOguaPEA"

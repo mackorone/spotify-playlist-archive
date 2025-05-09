@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iepuF.md) - [plain]
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625 likes - 50 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 626 likes - 50 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> Tablo x RM\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,670 likes - 101 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,705 likes - 101 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

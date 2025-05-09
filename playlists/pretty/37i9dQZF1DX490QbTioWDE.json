@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ian Lucas & Q\u00b4 Lokura.",
-  "num_followers": 753884,
+  "num_followers": 753923,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -110,10 +110,6 @@
         {
           "name": "Q' Lokura",
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Renzo Luca",
-          "url": "https://open.spotify.com/artist/3qJn7VaFAHdWmm9IpZaHEc"
         }
       ],
       "duration_ms": 158684,
@@ -1087,26 +1083,6 @@
     {
       "added_at": "2025-05-02 03:00:37",
       "album": {
-        "name": "La Muela - LBC",
-        "url": "https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Como Lo Hizo? - En Vivo",
-      "url": "https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5"
-    },
-    {
-      "added_at": "2025-05-02 03:00:37",
-      "album": {
         "name": "Tus Botellas",
         "url": "https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04"
       },
@@ -1123,6 +1099,22 @@
       "duration_ms": 202160,
       "name": "Tus Botellas",
       "url": "https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt"
+    },
+    {
+      "added_at": "2025-05-02 03:00:37",
+      "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
     },
     {
       "added_at": "2025-05-02 03:00:37",
@@ -1159,18 +1151,22 @@
     {
       "added_at": "2025-05-02 03:00:37",
       "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+        "name": "La Muela - LBC",
+        "url": "https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 152432,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+      "duration_ms": 231680,
+      "name": "Como Lo Hizo? - En Vivo",
+      "url": "https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5"
     },
     {
       "added_at": "2025-05-02 03:00:37",
@@ -1303,22 +1299,6 @@
     {
       "added_at": "2025-05-02 03:00:37",
       "album": {
-        "name": "La \u00daltima Granada (DQV Premium)",
-        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "La \u00daltima Granada (DQV Premium)",
-      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
-    },
-    {
-      "added_at": "2025-05-02 03:00:37",
-      "album": {
         "name": "A Toda Fiesta",
         "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
       },
@@ -1331,6 +1311,22 @@
       "duration_ms": 208906,
       "name": "Amor Infiel",
       "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
+    },
+    {
+      "added_at": "2025-05-02 03:00:37",
+      "album": {
+        "name": "La \u00daltima Granada (DQV Premium)",
+        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "La \u00daltima Granada (DQV Premium)",
+      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
     },
     {
       "added_at": "2025-05-02 03:00:37",
@@ -1679,6 +1675,22 @@
     {
       "added_at": "2025-05-02 03:00:37",
       "album": {
+        "name": "Dejame Intentar",
+        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 121551,
+      "name": "Dejame Intentar",
+      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
+    },
+    {
+      "added_at": "2025-05-02 03:00:37",
+      "album": {
         "name": "\u00bfQui\u00e9n te dijo?",
         "url": "https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn"
       },
@@ -1695,22 +1707,6 @@
       "duration_ms": 165546,
       "name": "\u00bfQui\u00e9n te dijo?",
       "url": "https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT"
-    },
-    {
-      "added_at": "2025-05-02 03:00:37",
-      "album": {
-        "name": "Dejame Intentar",
-        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 121551,
-      "name": "Dejame Intentar",
-      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
     },
     {
       "added_at": "2025-05-02 03:00:37",
@@ -1807,22 +1803,6 @@
     {
       "added_at": "2025-05-02 03:00:37",
       "album": {
-        "name": "Luis",
-        "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 263986,
-      "name": "Luis",
-      "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
-    },
-    {
-      "added_at": "2025-05-02 03:00:37",
-      "album": {
         "name": "Por lo Que Yo Te Quiero / Mi\u00e9nteles a Ellos (En Vivo)",
         "url": "https://open.spotify.com/album/7kv36MMXX9UCBezzFhdiTM"
       },
@@ -1859,18 +1839,18 @@
     {
       "added_at": "2025-05-02 03:00:37",
       "album": {
-        "name": "Una Foto",
-        "url": "https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS"
+        "name": "Luis",
+        "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
       },
       "artists": [
         {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
         }
       ],
-      "duration_ms": 143544,
-      "name": "Una Foto",
-      "url": "https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK"
+      "duration_ms": 263986,
+      "name": "Luis",
+      "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
     },
     {
       "added_at": "2025-05-02 03:00:37",
@@ -1887,6 +1867,22 @@
       "duration_ms": 327488,
       "name": "Como Te Va Mi Amor - Hasta Hoy",
       "url": "https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu"
+    },
+    {
+      "added_at": "2025-05-02 03:00:37",
+      "album": {
+        "name": "Una Foto",
+        "url": "https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 143544,
+      "name": "Una Foto",
+      "url": "https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK"
     },
     {
       "added_at": "2025-05-02 03:00:37",

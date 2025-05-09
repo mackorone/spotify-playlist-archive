@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 > New & best K\-Electronic music is here\. \(Cover: SHINDRUM\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,075 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,081 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 | 84 | [Ridin' \- Will Not Fear Remix](https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:00 |
 | 85 | [Chi Mat Ba Ram+Rollin’ \- Remix](https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 3:47 |
 | 86 | [Los Angeles \- Moksi Remix](https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes](https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb) | 2:59 |
-| 87 | [Don't Call Me \- Fox Stevenson Remix](https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [Fox Stevenso](https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:23 |
-| 88 | [Power \- R3HAB Remix](https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:21 |
+| 87 | [Power \- R3HAB Remix](https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:21 |
+| 88 | [Don't Call Me \- Fox Stevenson Remix](https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [Fox Stevenso](https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:23 |
 | 89 | [Somehow](https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP) | [Somehow](https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO) | 2:54 |
 | 90 | [Heart Of Steel](https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [Heart Of Steel](https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS) | 3:27 |
 | 91 | [INVU \- ZHU Remix](https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:39 |

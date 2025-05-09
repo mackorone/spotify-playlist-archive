@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Beka Flavour
 
-293 songs - 16 hr 30 min
+294 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/07oL9PG3HyIpMEtKTEI8Fp) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5esLD4g5piSeeAalViPWkG) | 3:08 | 2022-05-26 | 2022-11-08 |
 | [Cherie](https://open.spotify.com/track/50M6m7esnITXSDDZWP1M9f) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Cherie](https://open.spotify.com/album/54PSZbN5VAD9a6nA7KxJyY) | 3:33 | 2024-09-20 | 2025-01-17 |
 | [Chi Baby](https://open.spotify.com/track/6UsnEVoABSeJJcXM0KiFYt) | [Kelechi Africana](https://open.spotify.com/artist/0O4K5MK5VYnGoMT3MZpr7k) | [I Am the President](https://open.spotify.com/album/47HdTlyOykb4gzsXQlqEor) | 2:09 | 2024-04-18 | 2024-12-14 |
+| [Chibaby](https://open.spotify.com/track/7lAqB3ozpExtjrOCbg4AHA) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH), [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Chibaby](https://open.spotify.com/album/1u0J1Gu4dgSf3c9UU8VaRi) | 3:36 | 2025-05-08 |  |
 | [Chombo](https://open.spotify.com/track/5iyiGl2swMh2Hoo3WtjMof) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Endless Love EP](https://open.spotify.com/album/293vnq26EV2uVbehBuavxk) | 3:24 | 2022-08-11 | 2023-02-04 |
 | [Closer](https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Closer](https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm) | 3:18 | 2022-08-18 | 2023-05-05 |
 | [Controller](https://open.spotify.com/track/4Bpkbim8Fxw8dSdqVFgzbX) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Controller](https://open.spotify.com/album/07kcDlbjoCj3aFEw63CDA2) | 3:05 | 2022-08-11 | 2022-12-17 |
@@ -209,7 +210,7 @@
 | [No Stress](https://open.spotify.com/track/1qwAufkn1HNoDTLNAxItdv) | [Nandy](https://open.spotify.com/artist/4BAqXsmyKo72kZuG4tkv4m) | [No Stress](https://open.spotify.com/album/4Jx3PlbkvB1Rs25h36gELZ) | 2:36 | 2025-04-18 |  |
 | [Number one](https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Number one](https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5) | 3:47 | 2024-02-22 | 2024-11-22 |
 | [Number One \(feat\. Zuchu\)](https://open.spotify.com/track/3E3aGiIEpAtuVD0wPjDSsi) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Number One \(feat\. Zuchu\)](https://open.spotify.com/album/3uSWtkSEGvuCeafCDL47eu) | 3:33 | 2024-03-14 | 2024-03-22 |
-| [Okay](https://open.spotify.com/track/5wY9TuRcJ5G9gz7SpqMzSW) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Okay](https://open.spotify.com/album/7wt6uu5it7TniGsatpOgKb) | 2:52 | 2024-12-05 |  |
+| [Okay](https://open.spotify.com/track/5wY9TuRcJ5G9gz7SpqMzSW) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Okay](https://open.spotify.com/album/7wt6uu5it7TniGsatpOgKb) | 2:52 | 2024-12-05 | 2025-05-09 |
 | [Ololo](https://open.spotify.com/track/3CTio0dVlFuBRjsH0bnStu) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ololo](https://open.spotify.com/album/1Iff4SIo4M6kq4IaCdLLJg) | 4:01 | 2024-08-15 | 2025-03-15 |
 | [Only You](https://open.spotify.com/track/4n1FawMqnngqLyF9KslSPh) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Only You](https://open.spotify.com/album/18tAdLw8uME5BDHtEtipBd) | 3:21 | 2024-07-25 | 2024-12-20 |
 | [Ova](https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ova](https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J) | 3:28 | 2024-10-04 |  |

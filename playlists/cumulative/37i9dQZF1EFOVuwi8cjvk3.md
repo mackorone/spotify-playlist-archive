@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-277 songs - 16 hr 21 min
+278 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 | 2023-12-13 |  |
 | [Feels Like Summer](https://open.spotify.com/track/5zEeiQbazUWskpZNhnh6i2) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [FM!](https://open.spotify.com/album/1XGGeqLZxjOMdCJhmamIn8) | 2:29 | 2023-12-13 |  |
 | [Flex Like Ouu](https://open.spotify.com/track/2hJWZvTw4QVBwC14ZNs1Ib) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Lil Pump](https://open.spotify.com/album/2VVvm4zJlUQm9XmBCvGN6z) | 1:48 | 2023-12-13 |  |
-| [Float On \(feat\. Charli XCX\)](https://open.spotify.com/track/7sVWaKkGHotMdumFe6Ecph) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 3:31 | 2023-12-13 |  |
+| [Float On \(feat\. Charli xcx\)](https://open.spotify.com/track/6mN3uDOXjU0CtK8H6GVJlc) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli XCX](https://open.spotify.com/artist/0HNqrcl3vgc1U7U1SNtsvB) | [Old](https://open.spotify.com/album/27kBaFri0HzGkn9QlDuaS7) | 3:31 | 2025-05-08 |  |
+| [Float On \(feat\. Charli XCX\)](https://open.spotify.com/track/7sVWaKkGHotMdumFe6Ecph) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 3:31 | 2023-12-13 | 2025-05-09 |
 | [FLY](https://open.spotify.com/track/09HMFVE1vkb9OfnhzJr5UU) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [RUN](https://open.spotify.com/album/1U9jsdilfpc7REguXmX6T7) | 3:05 | 2024-07-07 |  |
 | [Friends With Benefits](https://open.spotify.com/track/1zqCcxtHDODySsHnM7lxox) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 5:29 | 2023-12-13 |  |
 | [Fuckin' up the Count](https://open.spotify.com/track/19qoXk7V1Fs3BV5MkCOaA9) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI) | 3:21 | 2023-12-13 |  |

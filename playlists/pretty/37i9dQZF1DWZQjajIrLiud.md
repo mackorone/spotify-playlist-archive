@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 
 > Songs to enjoy while cooking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,247 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,246 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 35 | [Leeh Tallah](https://open.spotify.com/track/6fJwZCffqldZTmgCloDkCI) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Aashaangy](https://open.spotify.com/album/6AgCloadQiCMgVoirgp5DO) | 3:13 |
 | 36 | [⁠El Okd](https://open.spotify.com/track/0Lgo0JNBxUxMx4egk9Ykgm) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:38 |
 | 37 | [وصفولى عيونك](https://open.spotify.com/track/5UO3DdPmSQbtRZ20SfC1QW) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [Qesset Hob](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 4:26 |
-| 38 | [برود ببرود](https://open.spotify.com/track/74slcsn6CwqPaHLEPb6g6R) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [برود ببرود](https://open.spotify.com/album/2NpIPlPZGiQV6t6uf6bSgv) | 3:47 |
-| 39 | [Lazim Ahkeelak](https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Lazim Ahkeelak](https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG) | 3:18 |
+| 38 | [Lazim Ahkeelak](https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Lazim Ahkeelak](https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG) | 3:18 |
+| 39 | [برود ببرود](https://open.spotify.com/track/74slcsn6CwqPaHLEPb6g6R) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [برود ببرود](https://open.spotify.com/album/2NpIPlPZGiQV6t6uf6bSgv) | 3:47 |
 | 40 | [El Donia Hoss](https://open.spotify.com/track/5jYoUlRMAsnccPRv0NJk60) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Sara Moullablad](https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM) | [Roxi](https://open.spotify.com/album/381pico3dKrtKOi7Dh59at) | 3:55 |
 
 Snapshot ID: `Z8GnUwAAAADHULWFgV3CkxrdYgFb/zWQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Aymen
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,352 likes - 80 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,403 likes - 80 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 43 | [Coco Chanel](https://open.spotify.com/track/33w8uhoFjr7Y9FkzHDf94f) | [Jiyo](https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts), [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos) | [Coco Chanel](https://open.spotify.com/album/6VvTZ4a8LfO1ymHs8FdLHs) | 2:23 |
 | 44 | [Limousine](https://open.spotify.com/track/7rgueODA0VdgShneWKwPGp) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Limousine](https://open.spotify.com/album/4eHMYdfTl6Mkr3m0Yd2S12) | 2:50 |
 | 45 | [Tiefgaragen](https://open.spotify.com/track/49xsSDb0cfQCIgISzaZ2eg) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 2:43 |
-| 46 | [Ya Habibi](https://open.spotify.com/track/315qV7Sx21xfDerY4SC5nF) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Ya Habibi](https://open.spotify.com/album/0nCs0vsIAcYNEyDlDvth78) | 2:24 |
+| 46 | [Ya Habibi](https://open.spotify.com/track/315qV7Sx21xfDerY4SC5nF) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Ya Habibi](https://open.spotify.com/album/0nCs0vsIAcYNEyDlDvth78) | 2:25 |
 | 47 | [APARTMENT \(feat\. Monet192\)](https://open.spotify.com/track/0atxjWna6ikysmEzrqGXLW) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [DARDYNEXTDOOR](https://open.spotify.com/album/04n8ykZiVoU3Q06FNu4SD9) | 2:46 |
 | 48 | [Dunya](https://open.spotify.com/track/4eIdT2bW2gaTDdJnMgt7Ue) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Dunya](https://open.spotify.com/album/2w6QNteaT1zNP0BgCNZ7ji) | 2:47 |
 | 49 | [FROZEN](https://open.spotify.com/track/2ZZM5DepwKgqGJChdbfVx1) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Alim](https://open.spotify.com/artist/2eCeP9nQxAp8hXOL30KNGZ), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [FROZEN](https://open.spotify.com/album/0IAOLh308PgsAepj19BNts) | 2:48 |

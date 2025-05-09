@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Then There Was Love",
+        "url": "https://open.spotify.com/album/634uPkg8Hc5imGXKjxzDnm"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174473,
+      "name": "Then There Was Love",
+      "url": "https://open.spotify.com/track/4Gkcy9HYPT9sSrQCOxtgxJ"
+    },
+    {
+      "album": {
         "name": "08.26.18",
         "url": "https://open.spotify.com/album/4C9AD9aNoNs0wXmQT7bbIv"
       },

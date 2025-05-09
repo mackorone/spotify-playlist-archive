@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Runtown",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Ayox",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -3321,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "Cutesy",
+        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181589,
+      "name": "Cutesy",
+      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
+    },
+    {
+      "album": {
         "name": "Are You Listening?",
         "url": "https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh"
       },
@@ -3336,7 +3354,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 158939,
       "name": "CWT (feat. BNXN)",
       "url": "https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb"
@@ -7942,7 +7960,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 154174,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
@@ -9760,6 +9778,36 @@
       "duration_ms": 192208,
       "name": "Not Worthy (feat. Nonso Amadi)",
       "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
+    },
+    {
+      "album": {
+        "name": "Baby Boy",
+        "url": "https://open.spotify.com/album/3JNMIrtiqa028JR0XoG7xw"
+      },
+      "artists": [
+        {
+          "name": "Jaylon",
+          "url": "https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4"
+        },
+        {
+          "name": "Phaemous",
+          "url": "https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ"
+        },
+        {
+          "name": "Remy Baggins",
+          "url": "https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186616,
+      "name": "Nufftime",
+      "url": "https://open.spotify.com/track/0pMwoHmBn1QG6vsbTP2Ipa"
     },
     {
       "album": {
@@ -13576,7 +13624,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 178310,
       "name": "Timing",
       "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
@@ -14524,6 +14572,28 @@
       "duration_ms": 120170,
       "name": "Wetin - Remix",
       "url": "https://open.spotify.com/track/58oOh7vBW4fXtZfmuNKRtT"
+    },
+    {
+      "album": {
+        "name": "WHEN NOBODY IS WATCHING",
+        "url": "https://open.spotify.com/album/7wupiYO6dV8M4Ghs3dWljJ"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "WHAT HAVE YOU DONE",
+      "url": "https://open.spotify.com/track/7s7kxVXd3l1vDHrBe8YtYC"
     },
     {
       "album": {

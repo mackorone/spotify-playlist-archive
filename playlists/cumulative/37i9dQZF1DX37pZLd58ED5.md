@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-201 songs - 10 hr 47 min
+202 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 | 2022-07-14 |  |
 | [Saigon](https://open.spotify.com/track/0nd1tWz1bmTQ2ObCnZCLV9) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:38 | 2022-04-28 |  |
 | [Saigon](https://open.spotify.com/track/1AKlKNFbA6Gxj7S2Sd9DP1) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:38 | 2023-03-17 | 2024-04-19 |
+| [SANGUE AMARO](https://open.spotify.com/track/4oKuz4kYetMrv0Krau82jt) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 3:13 | 2025-05-08 |  |
 | [Se Tu Fossi Me](https://open.spotify.com/track/3uXKlBgKfhcPrwetHY6Qaf) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Noi Siamo Il Club \(Reloaded Edition\)](https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8) | 4:02 | 2024-01-02 | 2024-01-04 |
 | [Segnali di fumo](https://open.spotify.com/track/51iEIwv8ttEA4i0vPVoDLu) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:20 | 2024-12-06 |  |
 | [Seignosse](https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Seignosse](https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg) | 2:56 | 2022-04-28 | 2022-11-18 |

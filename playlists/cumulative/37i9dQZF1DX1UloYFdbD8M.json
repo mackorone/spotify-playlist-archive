@@ -2629,6 +2629,32 @@
     },
     {
       "album": {
+        "name": "Kanmashi",
+        "url": "https://open.spotify.com/album/58K49jGr06oQaWHeV8U9kS"
+      },
+      "artists": [
+        {
+          "name": "Aksomaniac",
+          "url": "https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87"
+        },
+        {
+          "name": "Fatboi Raccoon",
+          "url": "https://open.spotify.com/artist/3jZDhH5RtA8K1L61tvUdl4"
+        },
+        {
+          "name": "Arch Quasar",
+          "url": "https://open.spotify.com/artist/41GzR7hUjEGsIduP9UmPQl"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201783,
+      "name": "Kanmashi",
+      "url": "https://open.spotify.com/track/2pHekrQI1PBtRpIcf7IlYv"
+    },
+    {
+      "album": {
         "name": "Namah",
         "url": "https://open.spotify.com/album/0rwlL4cHDpPHUhdMGlk3Ew"
       },
@@ -6692,7 +6718,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 167500,
       "name": "Vettam",
       "url": "https://open.spotify.com/track/4gt0eAORr5xdgr9bhRvH9f"

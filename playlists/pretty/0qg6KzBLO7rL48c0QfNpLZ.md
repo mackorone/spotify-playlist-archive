@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 111,842 likes - 98 songs - 4 hr 12 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 111,837 likes - 98 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 4 | [Lighthouse](https://open.spotify.com/track/37axu2VsGoqx22HlmgjymG) | [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [BYANCA](https://open.spotify.com/artist/1q5vU0S7GQvakzOZt0bQ2P) | [Lighthouse](https://open.spotify.com/album/6mUi5YKEEUm0NgbuPPooHY) | 2:07 |
 | 5 | [Champion](https://open.spotify.com/track/2xSNtkwrWegJG3cqIB21q0) | [NOAM](https://open.spotify.com/artist/3SCz4vk2MoqDn9KvOYMU0r), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Champion](https://open.spotify.com/album/5C408jw4f0cmfQiCnYnguK) | 2:16 |
 | 6 | [Miss The Way](https://open.spotify.com/track/43YUXe0cscj0tGOELIWDMs) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Miss The Way](https://open.spotify.com/album/3E8gGlKpQfni1NOjZrY4tw) | 2:21 |
-| 7 | [Delilah](https://open.spotify.com/track/6BDyn04oAhaT9jof1FSITO) | [Altrøx](https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo), [Merzost](https://open.spotify.com/artist/3fqgA6t6v53Ni8BJNDyQd2), [Jon Nelson](https://open.spotify.com/artist/7xMCtIUuXgjNjccvaFotD4) | [Delilah](https://open.spotify.com/album/3sQoRiW52oeCysgH2bMk5M) | 2:54 |
-| 8 | [Never Tell You](https://open.spotify.com/track/6rv3rD9z6ZUtT3Y3ErUJ8w) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [esiole](https://open.spotify.com/artist/20834GegbqTl8KA5p6PQZN) | [Never Tell You](https://open.spotify.com/album/1vkY2zDAMJZloanPD1xNRo) | 2:11 |
-| 9 | [Should Have Said](https://open.spotify.com/track/0Ukxvaj9T20dXSBSbiqVGH) | [MISERO](https://open.spotify.com/artist/7lBddBaWxQCYyPUeIB47ZX), [Lazy Daze](https://open.spotify.com/artist/6bMxxRfNZzYjtbP8RiWPcq) | [Should Have Said](https://open.spotify.com/album/0jvcPC7qwqIgYKEDA9IDBm) | 2:19 |
-| 10 | [Lonely](https://open.spotify.com/track/0BAa3Q0mchnIpjNLOROwwJ) | [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY) | [Lonely](https://open.spotify.com/album/3ONM4W4ug6OFfeiqHJs0ch) | 1:51 |
+| 7 | [Lonely](https://open.spotify.com/track/0BAa3Q0mchnIpjNLOROwwJ) | [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY) | [Lonely](https://open.spotify.com/album/3ONM4W4ug6OFfeiqHJs0ch) | 1:51 |
+| 8 | [Delilah](https://open.spotify.com/track/6BDyn04oAhaT9jof1FSITO) | [Altrøx](https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo), [Merzost](https://open.spotify.com/artist/3fqgA6t6v53Ni8BJNDyQd2), [Jon Nelson](https://open.spotify.com/artist/7xMCtIUuXgjNjccvaFotD4) | [Delilah](https://open.spotify.com/album/3sQoRiW52oeCysgH2bMk5M) | 2:54 |
+| 9 | [Never Tell You](https://open.spotify.com/track/6rv3rD9z6ZUtT3Y3ErUJ8w) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [esiole](https://open.spotify.com/artist/20834GegbqTl8KA5p6PQZN) | [Never Tell You](https://open.spotify.com/album/1vkY2zDAMJZloanPD1xNRo) | 2:11 |
+| 10 | [Should Have Said](https://open.spotify.com/track/0Ukxvaj9T20dXSBSbiqVGH) | [MISERO](https://open.spotify.com/artist/7lBddBaWxQCYyPUeIB47ZX), [Lazy Daze](https://open.spotify.com/artist/6bMxxRfNZzYjtbP8RiWPcq) | [Should Have Said](https://open.spotify.com/album/0jvcPC7qwqIgYKEDA9IDBm) | 2:19 |
 | 11 | [Our Way](https://open.spotify.com/track/4uAyfGoQcu1tmM0uvQxQI8) | [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg), [Keely Keyz](https://open.spotify.com/artist/4GyZgtnuaI35gkhi22yZTE), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Our Way](https://open.spotify.com/album/6YiODwq71WRPqdk2cl8l2B) | 2:18 |
 | 12 | [Never Let You Go](https://open.spotify.com/track/0ftfltMmpV2zBDTCYCWaAp) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87) | [Never Let You Go](https://open.spotify.com/album/6sgfY5O8UWyW8CUX7QdSiq) | 2:40 |
 | 13 | [Electric](https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [chameleon](https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB) | [Electric](https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0) | 2:13 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 97 | [Never Not](https://open.spotify.com/track/4DvDfjl8MaltUw3yNklKXL) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Never Not](https://open.spotify.com/album/66mLgjZyeA3q6N8UHwTUi1) | 2:52 |
 | 98 | [Cruel](https://open.spotify.com/track/0MwAvp1DnErZAA7VjI4Usk) | [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [Cruel](https://open.spotify.com/album/3CLJsz4phtcvadOnTkzXYv) | 2:24 |
 
-Snapshot ID: `AAAfBxv+l5tylFJKK6/WyW1ntwY3B0cU`
+Snapshot ID: `AAAfCBTb3zC4yjemGstoHsPUSe9o6EwK`

@@ -2683,6 +2683,28 @@
     },
     {
       "album": {
+        "name": "Keep Going (4.26.25)",
+        "url": "https://open.spotify.com/album/3At6AOkRTWZByyqOJK8SX3"
+      },
+      "artists": [
+        {
+          "name": "The Renaissance Man",
+          "url": "https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi"
+        },
+        {
+          "name": "Boeyylee",
+          "url": "https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159966,
+      "name": "Keep Going (4.26.25)",
+      "url": "https://open.spotify.com/track/3nuT1rPR0v0UStBGlqigWv"
+    },
+    {
+      "album": {
         "name": "Khali Cartel 5",
         "url": "https://open.spotify.com/album/4HsT2dRqsvXIRjruh4k5QA"
       },
@@ -6676,7 +6698,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 175200,
       "name": "Who Dat",
       "url": "https://open.spotify.com/track/4eR738Wixd8ZUHwogkr4rL"

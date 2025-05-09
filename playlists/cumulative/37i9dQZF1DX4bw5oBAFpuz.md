@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-539 songs - 1 day 6 hr 52 min
+541 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2024-03-21 | 2024-07-06 |
 | [Fatherhood](https://open.spotify.com/track/22W5OLsXEcu5qc6cSblrvr) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Fatherhood](https://open.spotify.com/album/3EIuPSXucrog6yYBwITBXB) | 2:58 | 2023-02-23 | 2024-04-19 |
 | [Feel At Home](https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc), [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Quarter Life Crisis](https://open.spotify.com/album/4sfC2BT8zecnW2Lh9rDml1) | 3:55 | 2023-04-12 |  |
-| [Feel The Love \- Sam Feldt Edit](https://open.spotify.com/track/3kxwFmWdVNvaJKE0xNGHpQ) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Feel The Love \(Sam Feldt Edit\)](https://open.spotify.com/album/6BO3DfKyMnvK3OzVZUDLYW) | 2:50 | 2023-02-23 |  |
+| [Feel The Love \- Sam Feldt Edit](https://open.spotify.com/track/3kxwFmWdVNvaJKE0xNGHpQ) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Feel The Love \(Sam Feldt Edit\)](https://open.spotify.com/album/6BO3DfKyMnvK3OzVZUDLYW) | 2:50 | 2023-02-23 | 2025-05-09 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2025-03-07 |  |
 | [Finding Out More](https://open.spotify.com/track/5Ur5a9sA6N9TGUDrQJsTxh) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:23 | 2023-02-23 | 2024-03-27 |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2023-02-23 | 2023-04-26 |
@@ -208,6 +208,7 @@
 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 | 2023-02-23 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2024-09-27 | 2025-02-21 |
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2023-02-23 | 2024-12-21 |
+| [How To Stop It](https://open.spotify.com/track/1C1zYsvtEw9nROGnQL40wh) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How To Stop It](https://open.spotify.com/album/1x880PZgDNpeG3M67BmCpX) | 2:44 | 2025-05-08 |  |
 | [Hungry](https://open.spotify.com/track/4xqm63jD6sXXbdLrAa09px) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 3:29 | 2023-02-23 | 2024-04-19 |
 | [Hunter](https://open.spotify.com/track/0tu3IW9kbapTXjdgp7ClFL) | [Sandra van Nieuwland](https://open.spotify.com/artist/255PaovXNzjBcODZn42QgC) | [Hunter](https://open.spotify.com/album/5PmxMLXItoWNckYoSPgKfY) | 3:05 | 2023-02-23 |  |
 | [Hurricane \- Acoustic Version](https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane \(Acoustic Version\)](https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy) | 2:50 | 2023-02-23 |  |
@@ -261,7 +262,7 @@
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-17 |  |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2023-02-23 | 2024-06-21 |
 | [Let’s Go Home Together \- Stripped](https://open.spotify.com/track/2cptaUFdsU60tdh7zRglai) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Stripped\)](https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf) | 3:41 | 2023-02-23 |  |
-| [Lifeline](https://open.spotify.com/track/4JIuMgm9VaZ7RjdINnb0qW) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K) | 2:59 | 2025-01-28 |  |
+| [Lifeline](https://open.spotify.com/track/4JIuMgm9VaZ7RjdINnb0qW) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K) | 2:59 | 2025-01-28 | 2025-05-09 |
 | [Lift You Up](https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [Lift You Up](https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX) | 3:01 | 2023-11-02 |  |
 | [Light Switch \- Acoustic](https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Acoustic\)](https://open.spotify.com/album/0H6pdORxZ735HztupqklPx) | 3:06 | 2023-02-23 | 2024-07-27 |
 | [Little Things](https://open.spotify.com/track/240WkSGaUBJMBmHLqS33WA) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [HILDA](https://open.spotify.com/album/36JKBe1pJrnrxPOFLCE0uj) | 3:09 | 2023-02-23 |  |
@@ -351,6 +352,7 @@
 | [Places To Go](https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Paradise And Back Again](https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1) | 3:46 | 2023-02-23 |  |
 | [Plage](https://open.spotify.com/track/6jPNXRnTy37ADxbihf56rM) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:50 | 2023-02-23 | 2024-04-19 |
 | [Plan B](https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Plan B](https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd) | 3:05 | 2023-02-23 |  |
+| [Plastic heart](https://open.spotify.com/track/0Yhezw3qivWS5WvsWe1vJe) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/1JsBybdsBJvct13iVujNb3) | 3:06 | 2025-05-08 |  |
 | [Playlist](https://open.spotify.com/track/4MfcEgAhzIzkNfBuacn6zT) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:19 | 2024-03-21 | 2024-04-19 |
 | [Pool Party Pictures](https://open.spotify.com/track/4yQR6QjTtypwjNld6WW9Jn) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Pool Party Pictures](https://open.spotify.com/album/4pQwS0wLN2lnEecuFQg6mk) | 3:06 | 2024-11-08 | 2025-05-03 |
 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 | 2024-05-31 | 2024-12-21 |

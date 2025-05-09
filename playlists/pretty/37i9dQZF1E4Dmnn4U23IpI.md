@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With FM\-84, Ollie Wride, Gunship and more
+> With FM\-84, Ollie Wride, The Bad Dreamers and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,089 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,093 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Wild Ones](https://open.spotify.com/track/03FPFGGmCFCFX9X7vNB3JW) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk), [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:28 |
 | 50 | [Blink Of An Eye](https://open.spotify.com/track/3u0e0Q1QuAV8BLSXU6QyJR) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Seulement L'amour](https://open.spotify.com/album/4iazGUmWUolXNizuTWPLOg) | 3:34 |
 
-Snapshot ID: `aBv+qQAAAADY/l0Q0cwjDp7sk8BfWB2X`
+Snapshot ID: `aB1s1wAAAAA0OvRTkd9KpfFFgpXUaMHb`

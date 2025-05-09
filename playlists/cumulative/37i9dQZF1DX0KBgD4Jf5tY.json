@@ -15711,6 +15711,24 @@
     },
     {
       "album": {
+        "name": "Mare D'Amore",
+        "url": "https://open.spotify.com/album/4cYiN1XjvKM3RPvfX5i7VT"
+      },
+      "artists": [
+        {
+          "name": "Miriah",
+          "url": "https://open.spotify.com/artist/1nHS3UJE5YCtLMKm6Tgs7J"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Mare D'Amore",
+      "url": "https://open.spotify.com/track/2QJ1F6jHaltsgZ2qZPFeth"
+    },
+    {
+      "album": {
         "name": "Mare in Tempesta",
         "url": "https://open.spotify.com/album/1LvR1uSENLaoldywyxt2Ci"
       },

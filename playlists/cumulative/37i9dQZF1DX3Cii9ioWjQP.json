@@ -1671,24 +1671,6 @@
     },
     {
       "album": {
-        "name": "I Love U",
-        "url": "https://open.spotify.com/album/11WOPtjOyIPfvxnyhFr62s"
-      },
-      "artists": [
-        {
-          "name": "U.BAR.E",
-          "url": "https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8"
-        }
-      ],
-      "date_added": "2025-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 116520,
-      "name": "I Love U",
-      "url": "https://open.spotify.com/track/0JT4sHcL4tlrxsJBXGVwEv"
-    },
-    {
-      "album": {
         "name": "I Will Never Fall In Love",
         "url": "https://open.spotify.com/album/3UXU5KaF2nWski3HG5SyBb"
       },
@@ -2174,6 +2156,32 @@
       "duration_ms": 345973,
       "name": "Love Poem (\u6200\u6b4c)",
       "url": "https://open.spotify.com/track/7l8I3o4QZaMCJ228JNheqj"
+    },
+    {
+      "album": {
+        "name": "Love You (with Bonnie, Sunny)",
+        "url": "https://open.spotify.com/album/11WOPtjOyIPfvxnyhFr62s"
+      },
+      "artists": [
+        {
+          "name": "U.BAR.E",
+          "url": "https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8"
+        },
+        {
+          "name": "Bonnie",
+          "url": "https://open.spotify.com/artist/0ffPMxFfQk7veBXApIWZWu"
+        },
+        {
+          "name": "Sunny",
+          "url": "https://open.spotify.com/artist/3zzUbb5VsVgF07lb7gpLwo"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116520,
+      "name": "Love You (with Bonnie, Sunny)",
+      "url": "https://open.spotify.com/track/0JT4sHcL4tlrxsJBXGVwEv"
     },
     {
       "album": {

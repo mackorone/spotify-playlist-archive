@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Fresh folk and roots music from independent artists every Wednesday\. Cover: Rachel Bobbitt
+> Fresh folk and roots music from independent artists every Wednesday\. Cover: Emily Hines
 
 1,670 songs - 4 day 3 hr 27 min
 

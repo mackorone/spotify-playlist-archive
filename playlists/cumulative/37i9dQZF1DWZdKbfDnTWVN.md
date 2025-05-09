@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl?si=NLFAd8CKRhC\_oNLIAjSy6w"> Steph Kapela</a>
 
-315 songs - 16 hr 36 min
+316 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Judgment Day](https://open.spotify.com/track/7M358bpZKqYEf2kkvvo7n7) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Judgment Day](https://open.spotify.com/album/5kvLli7isTzsrWG5hNac8O) | 1:46 | 2023-10-11 | 2023-12-01 |
 | [Kalesa na Leather](https://open.spotify.com/track/0YETEpBObtWQAAlrEBL5VK) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Kalesa na Leather](https://open.spotify.com/album/2BmdCBVfeopAna7jznaQOM) | 2:42 | 2022-06-02 | 2023-04-14 |
 | [Kama Hauna](https://open.spotify.com/track/5FAUAybpi9AwTREnSlPVwq) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Kama Hauna](https://open.spotify.com/album/5Z0AVgJASlT7QPAdEzfkCy) | 3:00 | 2025-01-23 |  |
+| [Keep Going \(4.26.25\)](https://open.spotify.com/track/3nuT1rPR0v0UStBGlqigWv) | [The Renaissance Man](https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN) | [Keep Going \(4.26.25\)](https://open.spotify.com/album/3At6AOkRTWZByyqOJK8SX3) | 2:39 | 2025-05-08 |  |
 | [Khali Cartel 5](https://open.spotify.com/track/3UBUcuoT4aTY9NKhy4Rdmi) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [DYANA CODS](https://open.spotify.com/artist/0vNOhr6lkX80JZj5eYfT9U), [Abbas Kubaff](https://open.spotify.com/artist/31u4mA182lnRN4ZMqE0yp3), [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm), [Ruyonga](https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z), [Fresh Like UHH](https://open.spotify.com/artist/4TdktHFXmRKeXWEGNIgtcA), [MEX CORTEZ](https://open.spotify.com/artist/1jw2gjV9qktnWQIhOniCyc) | [Khali Cartel 5](https://open.spotify.com/album/4HsT2dRqsvXIRjruh4k5QA) | 11:39 | 2025-03-07 |  |
 | [Kich Ka' Liech](https://open.spotify.com/track/4dGePfrfRnAlLx9m3xzcHP) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [KICH KA' LIECH](https://open.spotify.com/album/4dHyKlVS2q8quCPZFQ0uAJ) | 3:14 | 2024-08-29 | 2024-09-11 |
 | [Kichele](https://open.spotify.com/track/1v0epiVeXJTtBPPGtkO356) | [Ares66](https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd), [Domani Munga](https://open.spotify.com/artist/5QzkdCjCrO3OpfLTHvqnNb), [Skillo](https://open.spotify.com/artist/6rh217APb8d1vsKePXAca1) | [Kichele](https://open.spotify.com/album/1FR8KcaTLzgP1TZUuVx8yj) | 3:09 | 2024-04-16 |  |
@@ -316,7 +317,7 @@
 | [Well Known Bandit](https://open.spotify.com/track/0AU5alukDdk2Z8pWKPzTUV) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Well Known Bandit](https://open.spotify.com/album/1E2vfyRJjMEawuf6TByJFa) | 2:58 | 2023-10-26 | 2024-04-06 |
 | [what's all this then](https://open.spotify.com/track/1C4UyhLPOpJN35sttt2tAd) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [what's all this then](https://open.spotify.com/album/5MFL9khxbGtPE6vjlDAMkP) | 3:05 | 2025-04-10 |  |
 | [What's Up???](https://open.spotify.com/track/47KGlT9pxHVpgvgNIXKmLT) | [Jasper](https://open.spotify.com/artist/34zcIBHO9EgymeaaOioUic) | [What's Up???](https://open.spotify.com/album/5pjoAWI1XGg7W54fEOM1N1) | 2:35 | 2024-04-04 | 2024-07-12 |
-| [Who Dat](https://open.spotify.com/track/4eR738Wixd8ZUHwogkr4rL) | [NAFFARiOH](https://open.spotify.com/artist/2m3MGtFtxBOff71bHXfeNi), [4Mr Frank White](https://open.spotify.com/artist/52uejdDRaliOeSykaEVA3I) | [Who Dat](https://open.spotify.com/album/4GtOloA7hbxZl6gKsVOilq) | 2:55 | 2025-02-28 |  |
+| [Who Dat](https://open.spotify.com/track/4eR738Wixd8ZUHwogkr4rL) | [NAFFARiOH](https://open.spotify.com/artist/2m3MGtFtxBOff71bHXfeNi), [4Mr Frank White](https://open.spotify.com/artist/52uejdDRaliOeSykaEVA3I) | [Who Dat](https://open.spotify.com/album/4GtOloA7hbxZl6gKsVOilq) | 2:55 | 2025-02-28 | 2025-05-09 |
 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 | 2022-11-10 | 2023-06-03 |
 | [WHO?](https://open.spotify.com/track/4qgRm4l0ns4cClQyIsOJ1c) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO), [Amaz](https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr) | [WHO?](https://open.spotify.com/album/1utTBCnNVBfUea8ZpP99NZ) | 3:30 | 2022-06-23 | 2023-04-14 |
 | [Woo](https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Woo](https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM) | 2:00 | 2022-09-29 | 2024-09-21 |

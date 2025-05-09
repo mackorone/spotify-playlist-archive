@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Eftalya Ya\u011fc\u0131",
+  "description": "Pop'un sevilen isimleri. Kapak: Yi\u011fit Sefero\u011flu",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 166105,
       "name": "Acelesi Yok",
       "url": "https://open.spotify.com/track/5MvyyXreTNkvTOviS3i2Ab"
+    },
+    {
+      "album": {
+        "name": "Ac\u0131 T\u00fcrk\u00fc",
+        "url": "https://open.spotify.com/album/6NZS77titj8EK1eyljbFdt"
+      },
+      "artists": [
+        {
+          "name": "Yi\u011fit Sefero\u011flu",
+          "url": "https://open.spotify.com/artist/23PyUBxakP5fM83oPh8Alc"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Ac\u0131 T\u00fcrk\u00fc",
+      "url": "https://open.spotify.com/track/5VO70YyZPKPOOBjcNyeFrz"
     },
     {
       "album": {
@@ -884,7 +902,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 128640,
       "name": "bi kere \u00f6pse b\u00fck\u00fcl\u00fcr uzay",
       "url": "https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb"
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 225000,
       "name": "Deli Yang\u0131n\u0131m",
       "url": "https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa"
@@ -1827,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Elmas",
+        "url": "https://open.spotify.com/album/62PySWsXWuEmOp9Hs3JPRq"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Elmas",
+      "url": "https://open.spotify.com/track/1AA4IogzY0magQZPq1IgbF"
+    },
+    {
+      "album": {
         "name": "Esmer",
         "url": "https://open.spotify.com/album/4AyoygSAYsKAErO6s6ha67"
       },
@@ -1998,7 +2034,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 192446,
       "name": "G\u00f6rmem B\u00f6ylesini",
       "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
@@ -2096,6 +2132,24 @@
       "duration_ms": 201290,
       "name": "Hain",
       "url": "https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj"
+    },
+    {
+      "album": {
+        "name": "Halim",
+        "url": "https://open.spotify.com/album/6tx8KRugMjbWQc7AlcKMXU"
+      },
+      "artists": [
+        {
+          "name": "Hande \u00dcnsal",
+          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232728,
+      "name": "Halim",
+      "url": "https://open.spotify.com/track/06mKAmOzCoaBxyvRRr8U6L"
     },
     {
       "album": {
@@ -2708,6 +2762,24 @@
       "duration_ms": 140267,
       "name": "Kopmuyorum Senden",
       "url": "https://open.spotify.com/track/2y6Lti0dDLXPtaQCnGnsFK"
+    },
+    {
+      "album": {
+        "name": "Koy",
+        "url": "https://open.spotify.com/album/1Wuw1HlYJQakuvryQEev38"
+      },
+      "artists": [
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Koy",
+      "url": "https://open.spotify.com/track/0HZi4wE9hQM6TAL33xzXcx"
     },
     {
       "album": {
@@ -3464,7 +3536,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 175646,
       "name": "Seni Bana Vermediler",
       "url": "https://open.spotify.com/track/1RfKc1ILYZtgkD41gCpZRc"
@@ -3663,6 +3735,28 @@
     },
     {
       "album": {
+        "name": "Bir Yol Bu",
+        "url": "https://open.spotify.com/album/2OAJgY6y0u5IIRJES9mP03"
+      },
+      "artists": [
+        {
+          "name": "Beng\u00fc Beker",
+          "url": "https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW"
+        },
+        {
+          "name": "Mabel Matiz",
+          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238250,
+      "name": "Siyah \u0130ncim",
+      "url": "https://open.spotify.com/track/4alc3vJDUoulj3vzeR0m4y"
+    },
+    {
+      "album": {
         "name": "S\u0130YAH",
         "url": "https://open.spotify.com/album/2qokghXkZ2eCOgPmQC2MqN"
       },
@@ -3674,7 +3768,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 189607,
       "name": "S\u0130YAH",
       "url": "https://open.spotify.com/track/1lOyPGanKDx22bX2R2PFGt"

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Suki Waterhouse
 
-2,105 songs - 4 day 15 hr 26 min
+2,106 songs - 4 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Adult](https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Adult](https://open.spotify.com/album/61EpcO4cSj1KVzYD6xPyFe) | 2:37 | 2020-10-16 | 2022-06-15 |
 | [Adult Movies](https://open.spotify.com/track/5k3bwPbg6Kiz4bz76vRnyZ) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Adult Movies](https://open.spotify.com/album/4z4K18jaiyHHjSUthRrPC9) | 3:15 | 2021-08-13 | 2022-07-02 |
 | [After Midnight](https://open.spotify.com/track/4rlQza35DE4Prh5yonxnCs) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:24 | 2023-09-26 | 2024-10-19 |
-| [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 | 2024-10-04 |  |
+| [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 | 2024-10-04 | 2025-05-09 |
 | [Afterlife](https://open.spotify.com/track/0Xi1Cs3WebgME5QFZcJQcs) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Afterlife](https://open.spotify.com/album/4bTzs8uMPepY1Dv99FesVW) | 2:34 | 2022-05-13 | 2022-07-25 |
 | [Again](https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Again](https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82) | 2:53 | 2024-04-19 | 2024-08-31 |
 | [Aggy](https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Aggy](https://open.spotify.com/album/2TyrytZI5dx2qjDSPSlPe2) | 3:26 | 2024-07-12 | 2024-08-27 |
@@ -809,6 +809,7 @@
 | [Heartbursts](https://open.spotify.com/track/5V4i2kBeZyum825gCiq1Qr) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Heartbursts](https://open.spotify.com/album/4OeOB6zCJam1BGBodrnmoj) | 3:55 | 2022-03-04 | 2022-07-27 |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-30 | 2023-09-09 |
 | [Hearts in Halves](https://open.spotify.com/track/6OtIOeIZIfRWQ251IgzUFb) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Hearts in Halves](https://open.spotify.com/album/2Z3NZ83Q44ogEhdL2IBSPh) | 3:15 | 2020-10-20 | 2020-10-21 |
+| [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 | 2025-05-02 |  |
 | [Heathens](https://open.spotify.com/track/6yTbMlD00yPN4fcCmUM1DB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Heathens](https://open.spotify.com/album/727TuBQgwg62XhwClV7GtK) | 3:45 | 2021-12-03 | 2022-04-21 |
 | [Heather Grey](https://open.spotify.com/track/3NnOxkPPHIuM4jWPWyNz9O) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Heather Grey](https://open.spotify.com/album/6OKDedyhI5AAFETKwyuS3Q) | 2:37 | 2022-06-01 | 2022-06-23 |
 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-08-23 | 2024-09-21 |

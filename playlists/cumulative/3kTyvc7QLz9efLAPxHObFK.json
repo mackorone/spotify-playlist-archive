@@ -3773,6 +3773,28 @@
     },
     {
       "album": {
+        "name": "Best You Ever Had",
+        "url": "https://open.spotify.com/album/58QJwgExmaPdCinbO38CWc"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Best You Ever Had",
+      "url": "https://open.spotify.com/track/08acxMzslJdUBNv9HsD8iE"
+    },
+    {
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/4rdfgZUZzS2N1BcYo4jQtN"
       },

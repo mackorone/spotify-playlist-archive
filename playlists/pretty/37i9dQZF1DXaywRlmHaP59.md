@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > The sweet sounds of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,904 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,929 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 25 | [أنا رجعت](https://open.spotify.com/track/3QncHZbe3Y03DOb30PJMtt) | [Cyrine Abdel Nour](https://open.spotify.com/artist/5cmJD8Jj6XTpaEpcJAXDXj) | [أنا رجعت](https://open.spotify.com/album/77DthSlxlSkUXVxnvFBcLv) | 3:02 |
 | 26 | [Ard El Ghajar \- Nomad's Land](https://open.spotify.com/track/7vP04ACGn0bKJ04oPmaxOj) | [Jahida Wehbé](https://open.spotify.com/artist/2U92f3cPxz8z2UCiJAipVf) | [Ard El Ghajar \(Nomad's Land\)](https://open.spotify.com/album/3f4BryZ3UKeFEPjH968Okg) | 4:49 |
 | 27 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 |
-| 28 | [Show Me How You Dabke](https://open.spotify.com/track/6Bl5QgVb73Tnnu6Zymlh46) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Roy Chalach](https://open.spotify.com/artist/3GiWqQCncrMxAUUUbZ80Ov) | [Show Me How You Dabke](https://open.spotify.com/album/6kbOhJkqe2Hgcdra2IrJk5) | 3:09 |
+| 28 | [Show Me How You Dabke](https://open.spotify.com/track/6Bl5QgVb73Tnnu6Zymlh46) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Roy Chalach](https://open.spotify.com/artist/1edPxkcCJBj65CHyGd1u5v) | [Show Me How You Dabke](https://open.spotify.com/album/6kbOhJkqe2Hgcdra2IrJk5) | 3:09 |
 | 29 | [Kelon Ye3ni Kelon](https://open.spotify.com/track/5Nm6fLUqjlezBbWdiFzXtR) | [Siba Band](https://open.spotify.com/artist/2Vw08vHBOkjNobnhfvWOp5) | [Kelon Ye3ni Kelon](https://open.spotify.com/album/5TkCFp70S3kdp40H23M0pp) | 3:03 |
 | 30 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 |
 | 31 | [Akher Marra](https://open.spotify.com/track/4c0daCFlOpjg7umacfD90X) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Akher Marra](https://open.spotify.com/album/3IvcuGjnbpBnFITqEnM48t) | 4:09 |

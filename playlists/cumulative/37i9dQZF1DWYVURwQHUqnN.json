@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Werenoi x GIMS",
+  "description": "Photo : Jul",
   "name": "Best Life",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 147024,
       "name": "4 Motion",
       "url": "https://open.spotify.com/track/2ib96wmw8aQXKaBIx0hQOR"
@@ -2811,6 +2811,28 @@
     },
     {
       "album": {
+        "name": "MASTERCLASS",
+        "url": "https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170492,
+      "name": "MASTERCLASS",
+      "url": "https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE"
+    },
+    {
+      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/3Nzj9VBKatRVdE3Ac1L3pE"
       },
@@ -2876,7 +2898,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 172258,
       "name": "Mehlich",
       "url": "https://open.spotify.com/track/522QRUYYtyjsc5PGQv8m1U"
@@ -3080,7 +3102,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 139780,
       "name": "MONTECRISTO",
       "url": "https://open.spotify.com/track/1bQ3NybH5BeTHf8BeY9hw4"
@@ -4399,6 +4421,28 @@
     },
     {
       "album": {
+        "name": "RS6",
+        "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228017,
+      "name": "RS6",
+      "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
+    },
+    {
+      "album": {
         "name": "RSQ3",
         "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
       },
@@ -5556,6 +5600,24 @@
       "duration_ms": 218344,
       "name": "VNTR",
       "url": "https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd"
+    },
+    {
+      "album": {
+        "name": "WANTA",
+        "url": "https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "WANTA",
+      "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"
     },
     {
       "album": {

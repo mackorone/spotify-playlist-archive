@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa_9WSXQAGcMj9SpxUMJQ\">Ziggy4x</a> ",
-  "num_followers": 2583,
+  "num_followers": 2590,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
+        "name": "Tyd Saam",
+        "url": "https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c"
+      },
+      "artists": [
+        {
+          "name": "EAZY CPT",
+          "url": "https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Tyd Saam",
+      "url": "https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z"
+    },
+    {
+      "added_at": "2025-05-02 08:13:49",
+      "album": {
         "name": "Praat meer bollie",
         "url": "https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 249945,
       "name": "Praat meer bollie",
       "url": "https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4"
-    },
-    {
-      "added_at": "2025-05-02 08:13:49",
-      "album": {
-        "name": "Tyd Saam",
-        "url": "https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c"
-      },
-      "artists": [
-        {
-          "name": "EAZY CPT",
-          "url": "https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Tyd Saam",
-      "url": "https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z"
     },
     {
       "added_at": "2025-05-02 08:13:49",

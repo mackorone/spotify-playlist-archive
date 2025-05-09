@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 > With glitterpop!, Joshua Lanuarii, UrvTek and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 574 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 576 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [narcissist](https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3) | [WoopDoo](https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO), [forrest nelson](https://open.spotify.com/artist/2Bjwut8ob5WOFP3VZSszeE) | [narcissist](https://open.spotify.com/album/7iFOER2XQXI5iG3O0DRBBH) | 2:50 |
 | 50 | [WAG UR TAIL 2 THIS! \(PAWS UP ON THE DANCEFLOOR!\)](https://open.spotify.com/track/27Ia129EFB9zrcp2VgaEs0) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [GLITTER IN THE BIG CITY!](https://open.spotify.com/album/3caKl4lh0NPHT3YwOW5jT9) | 4:34 |
 
-Snapshot ID: `aBwONgAAAADUgtjjcCAEZBaSbM6b4OU2`
+Snapshot ID: `aB1yXgAAAABS3yCoC6OURw2m0diCKoHh`

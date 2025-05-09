@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 108403,
+  "num_followers": 108452,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        },
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        },
+        {
+          "name": "James Underwood",
+          "url": "https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ"
+        }
+      ],
+      "duration_ms": 413977,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/2fRj10zHMEuzwNCGOirFmb"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/5R4P6Oiuejf0SkL7qy2LH8"
       },
@@ -1159,30 +1183,6 @@
       "duration_ms": 118309,
       "name": "You",
       "url": "https://open.spotify.com/track/6gp76uTmBFc2aJ5eXft916"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        },
-        {
-          "name": "Lucy Railton",
-          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
-        },
-        {
-          "name": "James Underwood",
-          "url": "https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ"
-        }
-      ],
-      "duration_ms": 413977,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/2fRj10zHMEuzwNCGOirFmb"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
+        "name": "Into The Glare",
+        "url": "https://open.spotify.com/album/74MdV8jqEjlPbVqhcSepdG"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "duration_ms": 141936,
+      "name": "Into The Glare",
+      "url": "https://open.spotify.com/track/2IylguIokLMTagCSWe0Ym6"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
         "name": "Worlds Collide (Hannes Kretzer Rework)",
         "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
-        "name": "Into The Glare",
-        "url": "https://open.spotify.com/album/74MdV8jqEjlPbVqhcSepdG"
-      },
-      "artists": [
-        {
-          "name": "Ah! Kosmos",
-          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
-        },
-        {
-          "name": "Hainbach",
-          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
-        }
-      ],
-      "duration_ms": 141936,
-      "name": "Into The Glare",
-      "url": "https://open.spotify.com/track/2IylguIokLMTagCSWe0Ym6"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Tempora",
-        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 482771,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Piedras 2",
         "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 139184,
       "name": "Heterodina",
       "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 482771,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Lirica Ucraina",
-        "url": "https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Fuggire",
-      "url": "https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Psychic Geography",
         "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
+        "name": "Lirica Ucraina",
+        "url": "https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb"
       },
       "artists": [
         {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
         }
       ],
-      "duration_ms": 553600,
-      "name": "Heliconia",
-      "url": "https://open.spotify.com/track/3ohYAC4qiN3DwpYzain1gu"
+      "duration_ms": 201000,
+      "name": "Fuggire",
+      "url": "https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1591,6 +1575,22 @@
       "duration_ms": 196296,
       "name": "Kumquat",
       "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "duration_ms": 553600,
+      "name": "Heliconia",
+      "url": "https://open.spotify.com/track/3ohYAC4qiN3DwpYzain1gu"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Piedras 2",
-        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 109937,
-      "name": "3eee",
-      "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
-    },
-    {
-      "added_at": "2025-04-25 19:42:26",
-      "album": {
         "name": "Melting Hazard",
         "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 306676,
       "name": "Melting Hazard",
       "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
+    },
+    {
+      "added_at": "2025-04-25 19:42:26",
+      "album": {
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 109937,
+      "name": "3eee",
+      "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
     },
     {
       "added_at": "2025-04-25 19:42:26",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2025-04-25 19:42:26",
       "album": {
-        "name": "Burst / Glimmer",
-        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
+        "name": "Dragon Bridge",
+        "url": "https://open.spotify.com/album/5ULcrCdfbtnV8XPeW2TpYX"
       },
       "artists": [
         {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 316293,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
+      "duration_ms": 225673,
+      "name": "Dragon Bridge",
+      "url": "https://open.spotify.com/track/0wWCZ69qJ5sY2Cc5X9xNOi"
     }
   ],
   "unique_name": "Electronic X",

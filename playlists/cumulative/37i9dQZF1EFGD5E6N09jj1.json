@@ -1846,6 +1846,28 @@
     {
       "album": {
         "name": "Old",
+        "url": "https://open.spotify.com/album/27kBaFri0HzGkn9QlDuaS7"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/0HNqrcl3vgc1U7U1SNtsvB"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211418,
+      "name": "Float On (feat. Charli xcx)",
+      "url": "https://open.spotify.com/track/6mN3uDOXjU0CtK8H6GVJlc"
+    },
+    {
+      "album": {
+        "name": "Old",
         "url": "https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl"
       },
       "artists": [
@@ -1860,7 +1882,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 211418,
       "name": "Float On (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/7sVWaKkGHotMdumFe6Ecph"

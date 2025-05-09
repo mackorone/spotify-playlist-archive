@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0631\u062c\u0644 \u0627\u0644\u0630\u064a \u0641\u0642\u062f \u0642\u0644\u0628\u0647",
+        "url": "https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Karim Osama",
+          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "3ALA FEN?",
+      "url": "https://open.spotify.com/track/30COeIn1dQn7VgHYxgrU9Q"
+    },
+    {
+      "album": {
         "name": "3AMEL EH",
         "url": "https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC"
       },
@@ -2434,7 +2456,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 217000,
       "name": "FAWATER EL 3ETAB",
       "url": "https://open.spotify.com/track/5Wey1olhqWorzcFEoQifcQ"

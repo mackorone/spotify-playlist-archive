@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Dimitri Vegas & Like Mike, W&W,  Marnik au top des bangers dance/electro du moment !
+> David Guetta x Sia au top des bangers dance/electro du moment !
 
 259 songs - 11 hr 54 min
 

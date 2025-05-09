@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 50362,
+  "num_followers": 50375,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Tell You Not To Worry",
+      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
         "url": "https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 352106,
       "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
       "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "It's A Long Road",
-        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "Tell You Not To Worry",
-      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "LOVE is WAR, Volume 6",
+        "url": "https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq"
+      },
+      "artists": [
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        }
+      ],
+      "duration_ms": 230103,
+      "name": "ViBRATiON",
+      "url": "https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Dollar $hort",
         "url": "https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 195415,
       "name": "Dollar $hort",
       "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "LOVE is WAR, Volume 6",
-        "url": "https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq"
-      },
-      "artists": [
-        {
-          "name": "IAMDDB",
-          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
-        }
-      ],
-      "duration_ms": 230103,
-      "name": "ViBRATiON",
-      "url": "https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Us Without Me",
-        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Us Without Me",
-      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "maryjane",
         "url": "https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 201680,
       "name": "maryjane",
       "url": "https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Us Without Me",
+        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Us Without Me",
+      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Open",
+        "url": "https://open.spotify.com/album/7rw7bnbtHuPrjXRb2iuZ6h"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "duration_ms": 209623,
+      "name": "Addict",
+      "url": "https://open.spotify.com/track/49xxb736ZAuvcI12r7AKO3"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Eating out",
         "url": "https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Open",
-        "url": "https://open.spotify.com/album/7rw7bnbtHuPrjXRb2iuZ6h"
-      },
-      "artists": [
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
-        }
-      ],
-      "duration_ms": 209623,
-      "name": "Addict",
-      "url": "https://open.spotify.com/track/49xxb736ZAuvcI12r7AKO3"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 210679,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -963,22 +979,6 @@
       "duration_ms": 236006,
       "name": "Sway - Remix",
       "url": "https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Shed A Tear",
-        "url": "https://open.spotify.com/album/0vTc71RAb14dIoOJF9uha0"
-      },
-      "artists": [
-        {
-          "name": "Paulina",
-          "url": "https://open.spotify.com/artist/4za5fbTdW3zQbV0pQ1ZMhI"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Shed A Tear",
-      "url": "https://open.spotify.com/track/0Fdyn10umSvNyVZ55qcVB8"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "exodus the north star",
         "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 205354,
       "name": "exodus the north star",
       "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Shed A Tear",
+        "url": "https://open.spotify.com/album/0vTc71RAb14dIoOJF9uha0"
+      },
+      "artists": [
+        {
+          "name": "Paulina",
+          "url": "https://open.spotify.com/artist/4za5fbTdW3zQbV0pQ1ZMhI"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Shed A Tear",
+      "url": "https://open.spotify.com/track/0Fdyn10umSvNyVZ55qcVB8"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 186583,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Ur Vibe",
         "url": "https://open.spotify.com/album/7ee9VcwNFgcatDWmp0gE4g"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 191142,
       "name": "Ur Vibe",
       "url": "https://open.spotify.com/track/6jaw8lQgSySyHrCyyAjzU9"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 186583,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG"
     },
     {
       "added_at": "2024-03-14 20:40:35",

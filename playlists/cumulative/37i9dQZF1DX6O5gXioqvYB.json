@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il futuro dell'indie italiano \u00e8 in questa playlist \ud83d\udc40 Cover: Ceneri",
+  "description": "Il futuro dell'indie italiano \u00e8 in questa playlist \ud83d\udc40 Cover: PLASTICA",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 131447,
       "name": "ADESSO TUTTO SA DI TE",
       "url": "https://open.spotify.com/track/24sfPUTIXzYCLidzWHHOw8"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 197625,
       "name": "Bandiera Pirata",
       "url": "https://open.spotify.com/track/2MjqoFxsZ0d7cOcET6QWOD"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 164142,
       "name": "Boreale",
       "url": "https://open.spotify.com/track/6wVn5OSM5I6vk0iTKtOskI"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 177454,
       "name": "Bugatti",
       "url": "https://open.spotify.com/track/2apryPbnyXcLiZi2rNMODg"
@@ -1400,6 +1400,24 @@
       "duration_ms": 146550,
       "name": "CAPELLI CORTI CALIFORNIA",
       "url": "https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp"
+    },
+    {
+      "album": {
+        "name": "Carducci",
+        "url": "https://open.spotify.com/album/3IzTykj8Eh1jZJdmOaH3uC"
+      },
+      "artists": [
+        {
+          "name": "CRETA",
+          "url": "https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164531,
+      "name": "Carducci",
+      "url": "https://open.spotify.com/track/3UC8tXZrst4Tfcpezbj4iG"
     },
     {
       "album": {
@@ -2041,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "Correre",
+        "url": "https://open.spotify.com/album/1aNBwbkwr9oDYyG2VtMc52"
+      },
+      "artists": [
+        {
+          "name": "NICOL",
+          "url": "https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175580,
+      "name": "Correre",
+      "url": "https://open.spotify.com/track/6HWDxSgzZweaS71gyJVi7e"
+    },
+    {
+      "album": {
         "name": "Cosa Non Va?",
         "url": "https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX"
       },
@@ -2337,6 +2373,42 @@
     },
     {
       "album": {
+        "name": "Futuro Dirigibile",
+        "url": "https://open.spotify.com/album/3KrlHusx87ZaCkNYuyK6Ay"
+      },
+      "artists": [
+        {
+          "name": "REA",
+          "url": "https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263023,
+      "name": "Dirigibile",
+      "url": "https://open.spotify.com/track/5OGVgeJOkTBaBUxXZK9hV9"
+    },
+    {
+      "album": {
+        "name": "Forse un giorno",
+        "url": "https://open.spotify.com/album/4Rrt6cBvclbkiKTa2HwEIk"
+      },
+      "artists": [
+        {
+          "name": "Gioia Lucia",
+          "url": "https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Disco Gioia",
+      "url": "https://open.spotify.com/track/5tXsWLGLOt7mPqHli0aT9K"
+    },
+    {
+      "album": {
         "name": "Disordine",
         "url": "https://open.spotify.com/album/3FtOmPmrSvIH3oWbATUx4N"
       },
@@ -2427,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "dove sei?",
+        "url": "https://open.spotify.com/album/4X248CxumS9wGej2da24JP"
+      },
+      "artists": [
+        {
+          "name": "Diego Stray",
+          "url": "https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167483,
+      "name": "dove sei?",
+      "url": "https://open.spotify.com/track/2MqjNlfYZQcR5kf2jkPh4m"
+    },
+    {
+      "album": {
         "name": "Drake con la maglia del napoli",
         "url": "https://open.spotify.com/album/0Z6Nsns1Pfm93X65AHB0Kb"
       },
@@ -2510,7 +2600,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 204412,
       "name": "E fu l'amore",
       "url": "https://open.spotify.com/track/5f119PCe9Hs2T1DDErcDQu"
@@ -2752,7 +2842,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 181558,
       "name": "Fa come vuoi",
       "url": "https://open.spotify.com/track/1FEzje8f7DlPxLGgOiqOMz"
@@ -3218,7 +3308,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 136147,
       "name": "FREE",
       "url": "https://open.spotify.com/track/2BGYn3AcG2X3jyQMSYaBur"
@@ -3326,7 +3416,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 217427,
       "name": "Fuoristrada",
       "url": "https://open.spotify.com/track/6m5bgXzs3P2YWsIDhKCGBc"
@@ -3911,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "Phantom Favola",
+        "url": "https://open.spotify.com/album/5TK0y1cSPZAWzITX2DD25J"
+      },
+      "artists": [
+        {
+          "name": "\u2248 Belize \u2248",
+          "url": "https://open.spotify.com/artist/3b8bBMsmGoBd8gYn1pngNc"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209763,
+      "name": "In mio fratello \u00e8 tutto a posto",
+      "url": "https://open.spotify.com/track/4IBYpO3ilZXMZuTMYs5OvM"
+    },
+    {
+      "album": {
         "name": "in uno sputo di citt\u00e0",
         "url": "https://open.spotify.com/album/2qQQpN6hq6hKGlBEMbdISf"
       },
@@ -4142,7 +4250,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 223118,
       "name": "La lumaca",
       "url": "https://open.spotify.com/track/7E6in1oQAOAvhjTKnSYMEQ"
@@ -4590,7 +4698,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 158608,
       "name": "Lolita",
       "url": "https://open.spotify.com/track/717fzHvXkNZCW8T1ep6oYC"
@@ -4684,6 +4792,24 @@
       "duration_ms": 205758,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
+    },
+    {
+      "album": {
+        "name": "Luce",
+        "url": "https://open.spotify.com/album/34AXcqy0NG1YIKCakYx732"
+      },
+      "artists": [
+        {
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "Luce",
+      "url": "https://open.spotify.com/track/0mZBQzifh9ST6r6dh4bf6k"
     },
     {
       "album": {
@@ -5081,6 +5207,24 @@
     },
     {
       "album": {
+        "name": "Mare D'Amore",
+        "url": "https://open.spotify.com/album/4cYiN1XjvKM3RPvfX5i7VT"
+      },
+      "artists": [
+        {
+          "name": "Miriah",
+          "url": "https://open.spotify.com/artist/1nHS3UJE5YCtLMKm6Tgs7J"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Mare D'Amore",
+      "url": "https://open.spotify.com/track/2QJ1F6jHaltsgZ2qZPFeth"
+    },
+    {
+      "album": {
         "name": "Mari\u00f9",
         "url": "https://open.spotify.com/album/4z05lOnsXxT3eiXA3mKkft"
       },
@@ -5284,7 +5428,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 197045,
       "name": "mille volte",
       "url": "https://open.spotify.com/track/25SiCsC78X1wc3pd9snYdv"
@@ -6175,6 +6319,24 @@
     },
     {
       "album": {
+        "name": "Ospiti",
+        "url": "https://open.spotify.com/album/2wubC8QDGARw1GA22PJlCw"
+      },
+      "artists": [
+        {
+          "name": "Nularse",
+          "url": "https://open.spotify.com/artist/2ZqgNoyBc3pgPQwq3Np6iH"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221635,
+      "name": "Ospiti",
+      "url": "https://open.spotify.com/track/69RVljpUxLQpd17e9MblDy"
+    },
+    {
+      "album": {
         "name": "Ottovolanti",
         "url": "https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z"
       },
@@ -6720,7 +6882,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 164533,
       "name": "PRIMA DI DORMIRE (feat. Mazzariello)",
       "url": "https://open.spotify.com/track/2KWhHAGoABlD0gDhOCRAxs"
@@ -7296,7 +7458,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 140978,
       "name": "Sar\u00f2 la tua Milano",
       "url": "https://open.spotify.com/track/73ql2js75a3AOYXMlZmzut"
@@ -7851,6 +8013,24 @@
     },
     {
       "album": {
+        "name": "solo fumo",
+        "url": "https://open.spotify.com/album/3jVjg1X7JDV0h6c29PwchX"
+      },
+      "artists": [
+        {
+          "name": "marsea",
+          "url": "https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "solo fumo",
+      "url": "https://open.spotify.com/track/2Mn62EFScJDgULVnqPvpKq"
+    },
+    {
+      "album": {
         "name": "Solo Noi",
         "url": "https://open.spotify.com/album/5psQYGUHPXfeoo658qd8Fg"
       },
@@ -8264,7 +8444,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 144742,
       "name": "Stupidi errori",
       "url": "https://open.spotify.com/track/084ymHxnxIyCapGH3kGj6U"
@@ -8462,7 +8642,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 223384,
       "name": "Tra il cielo e le strade",
       "url": "https://open.spotify.com/track/09K7Ac7StT4knd88GVzQoM"
@@ -9194,7 +9374,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 144422,
       "name": "VITTORIA",
       "url": "https://open.spotify.com/track/5czaGqct4FgzX2nIct2ytV"

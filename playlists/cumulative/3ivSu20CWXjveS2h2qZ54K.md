@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-3,923 songs - 9 day 1 hr 23 min
+3,925 songs - 9 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2158,6 +2158,7 @@
 | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX) | 1:54 | 2024-07-05 | 2024-07-13 |
 | [Materia Oscura](https://open.spotify.com/track/4cWpIL8wiOeQPpA9o43CQK) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk) | [Materia Oscura](https://open.spotify.com/album/6C2DvuFSgxyGHL660PZU8j) | 3:58 | 2024-10-23 | 2024-11-09 |
 | [Material sensible](https://open.spotify.com/track/29XAbdPCoD87oIpKLIv4Jv) | [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Material sensible](https://open.spotify.com/album/59yHwqIaykQcvp5PsleTFy) | 2:26 | 2025-02-07 | 2025-02-15 |
+| [Max Potential](https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Max Potential](https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU) | 3:52 | 2025-05-08 |  |
 | [Maya](https://open.spotify.com/track/67kcXDLOYLgdIixJjddZ9I) | [Le Nais](https://open.spotify.com/artist/44Wn7ZjTg4vIBEg22A6AMZ) | [Maya](https://open.spotify.com/album/36F66dCo3R2PeNAW5JEOf0) | 3:01 | 2024-06-28 | 2024-07-13 |
 | [Maybach Wallet](https://open.spotify.com/track/086OIQVqSMKZRIE28P7ds9) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Maybach Wallet](https://open.spotify.com/album/1ERLcIsPGfZpS3v4zOFFJ3) | 2:33 | 2024-09-06 | 2024-09-14 |
 | [Maybe Nowhere](https://open.spotify.com/track/5LUwxDPeioWAhwABpWIkUN) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Maybe Nowhere](https://open.spotify.com/album/1I4bPwo4s64NWSaSmTnMZT) | 5:14 | 2025-03-28 | 2025-04-05 |
@@ -3424,6 +3425,7 @@
 | [The Smiths](https://open.spotify.com/track/09rxsu6GJPVivSOkRZ5Hc0) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Valley Girl \(Extended\)](https://open.spotify.com/album/74znzbWo31OvyOgeDxMLck) | 2:56 | 2024-11-29 | 2024-12-07 |
 | [The Solitary Traveller](https://open.spotify.com/track/2KG12rW1rMrbVGM7weXd3V) | [Linda Thompson](https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6), [Kami Thompson](https://open.spotify.com/artist/1Z3hxaFXRwJycE1Hmv8aBO) | [Proxy Music](https://open.spotify.com/album/5ndWkSPrswFek0G7QcafJa) | 4:03 | 2024-06-21 | 2024-06-29 |
 | [The South Atlantic](https://open.spotify.com/track/1eihT0cCPaJnZZON3VWLUw) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h), [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [The South Atlantic](https://open.spotify.com/album/4sDP7b2EZYKVjLfooyXXzn) | 4:00 | 2024-08-08 | 2024-08-20 |
+| [The Spirit](https://open.spotify.com/track/15OHSfP7ogvmysqocQ8AqN) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [The Spirit](https://open.spotify.com/album/5Ecd82rTLcRdab6kLs7bhj) | 4:55 | 2025-05-08 |  |
 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-09-27 | 2024-10-05 |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-08 | 2024-08-20 |
 | [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 | 2024-10-25 | 2024-11-09 |

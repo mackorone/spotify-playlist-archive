@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Kelly Lee Owens
+> The home for alternative electronic music\. Cover: Catching Flies
 
-1,181 songs - 3 day 8 hr 54 min
+1,185 songs - 3 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [GMT \- Jamie xx Remix](https://open.spotify.com/track/6kqAKtIZDTeBjLdJJ2jiTt) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [GMT \(Jamie xx Remix\)](https://open.spotify.com/album/5D4DjxpROByDBBVtZyyA5R) | 9:32 | 2022-08-26 | 2023-01-27 |
 | [Godspeed \(feat\. DJ E\-Clyps\)](https://open.spotify.com/track/6PADTtmPxErC0MsgZx3Udr) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ) | [Godspeed \(feat\. DJ E\-Clyps\)](https://open.spotify.com/album/2XB5khO6YxUe1LCElGy4NK) | 5:24 | 2024-08-01 | 2024-10-25 |
 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2023-03-30 | 2023-09-29 |
+| [Good Shit](https://open.spotify.com/track/3bGZFJeoFhM4jxqNtz4dnH) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Good Shit](https://open.spotify.com/album/5mhmFB2CSeF2QvBBFU9yNM) | 3:43 | 2025-05-08 |  |
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-02 | 2022-08-27 |
 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 | 2022-11-25 | 2023-03-31 |
 | [Got Me \(feat\. Julia Stone\)](https://open.spotify.com/track/1EBDX2eMMsaUwLjWAde0Cm) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Got Me \(feat\. Julia Stone\)](https://open.spotify.com/album/1qG2RXV02DXzZ4k0i4a69R) | 4:23 | 2021-11-24\* | 2022-01-29 |
@@ -668,6 +669,7 @@
 | [Mantra](https://open.spotify.com/track/4iJ1K6IHuGKOjkmhzCK6qN) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [The Planets: Neptune](https://open.spotify.com/album/4LTPMgfqWEOJRI0TQXKBKP) | 5:22 | 2023-04-20 | 2023-09-15 |
 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 | 2023-08-24 | 2024-01-13 |
 | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-12-28 | 2022-01-14 |
+| [Marseille](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Marseille](https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6) | 2:25 | 2025-05-08 |  |
 | [Marvel House](https://open.spotify.com/track/4LFZaQ5QZqY0QSNcUpWbPx) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Thurman](https://open.spotify.com/artist/7cyIjesBT6mLJcJ5RRsjeM) | [Marvel House Ep](https://open.spotify.com/album/415c3UtX7HeTkMi20QEYxc) | 6:23 | 2022-06-06 | 2022-09-16 |
 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 | 2022-05-18 | 2022-08-12 |
 | [MDS \(with Theophilus London\)](https://open.spotify.com/track/0U2fb4cYZyTAFe998npOqh) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [MDS \(with Theophilus London\)](https://open.spotify.com/album/3Npf53owvoQ2jvnLjPCauy) | 2:56 | 2021-11-24\* | 2021-12-03 |
@@ -1094,6 +1096,7 @@
 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 | 2022-08-04 | 2023-01-13 |
 | [Twister](https://open.spotify.com/track/7rwnsJwCVBA9eeTooLpMZv) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Twister](https://open.spotify.com/album/6p3AL0Enc2GdEhawk54hUK) | 2:38 | 2022-07-29 | 2022-11-18 |
 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2024-11-22 |  |
+| [U Always](https://open.spotify.com/track/5KqMPYaStD6h3wkVU1nVFV) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [U Always](https://open.spotify.com/album/2GL4MOHJDbEHFaJYFuQ2eu) | 4:18 | 2025-05-08 |  |
 | [U Around Me](https://open.spotify.com/track/6eVHuIqlFkiji8ZsCHpCMl) | [Pray J](https://open.spotify.com/artist/5aLvVB85i8o3lnKqaKA7At) | [U Around Me](https://open.spotify.com/album/3mnzaBb32Co1B4lf8Sdv06) | 3:01 | 2021-11-24\* | 2022-02-12 |
 | [U Want It](https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [U Want It](https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3) | 3:16 | 2023-06-15 | 2023-10-20 |
 | [Uh Oh](https://open.spotify.com/track/74Cy4UMTn0Yeu0kSMwARt8) | [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [Uh Oh](https://open.spotify.com/album/0OJEQmJJBPKNsWV50bOUF1) | 3:13 | 2022-06-09 | 2022-09-16 |
@@ -1182,6 +1185,7 @@
 | [You're So High \(10 Years On\) \(Sasha Remix\)](https://open.spotify.com/track/7gh68qwsiIDWnJxpsR3FXy) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [You're So High \(10 Years On\) \(Sasha Remix\)](https://open.spotify.com/album/1RpAupThDRn5pTjCN2shmh) | 4:12 | 2024-02-16 | 2024-04-19 |
 | [Your Love](https://open.spotify.com/track/0dEuMtJf1Ye9K1w50o1jaZ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Your Love](https://open.spotify.com/album/43hBts3RQ07RMDmlc83VLU) | 4:39 | 2022-03-04 | 2022-07-01 |
 | [Your Love \- After Dark Remix](https://open.spotify.com/track/4RX7hj1rFr8HdrulChMGSc) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [We Were We Still Are](https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9) | 3:49 | 2023-09-22 | 2024-02-23 |
+| [Your Loving](https://open.spotify.com/track/1HuDcH1KECyj1aCHub4D4G) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Your Loving](https://open.spotify.com/album/3D2oyrCFxJyoKpBhlyueHK) | 3:24 | 2025-05-08 |  |
 | [Your Skin](https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Your Skin](https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR) | 4:06 | 2024-04-12 | 2024-10-18 |
 | [Yours, Mine](https://open.spotify.com/track/6fHovUU6c7i3h7GY8S6BSs) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Yours, Mine](https://open.spotify.com/album/2qJSWpxdRK6auFOhwSWjCn) | 4:22 | 2022-10-28 | 2023-04-07 |
 | [You’re So High \(10 Years On\) \(Sasha Remix\)](https://open.spotify.com/track/46CwvNYyLYDZkc6ztrwj8K) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [You’re So High \(10 Years On\) \(Sasha Remix\)](https://open.spotify.com/album/6t0TPYdaexuZPTeitMlNqR) | 4:12 | 2024-04-19 | 2024-07-12 |

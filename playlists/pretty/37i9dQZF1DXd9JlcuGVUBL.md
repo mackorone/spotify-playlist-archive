@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/5eQPdirjEx4DkiVBm3l3Qa?si=Zzz5kEaJQuCYe2gNm3cxmg">Justin Serrao</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,847 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,858 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

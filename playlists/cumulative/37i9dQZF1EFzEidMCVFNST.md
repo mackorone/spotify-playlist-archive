@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-500 songs - 23 hr 49 min
+501 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Estilo American Pie](https://open.spotify.com/track/5FmOh7w0DHBGOkBkApgwc4) | [Ruann Veras](https://open.spotify.com/artist/50pcuS0C1MrFnGNhvg8zEI) | [O Don Ruann](https://open.spotify.com/album/1wrp0dovGTUP1JaC4tPJlv) | 2:47 | 2024-09-11 |  |
 | [Eu e a Torcida do Brasil](https://open.spotify.com/track/74WRvctrWHL2kMeTc20VLI) | [Aviões do Forró](https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Eu e a Torcida do Brasil](https://open.spotify.com/album/0V7HDnbM7r3o26Vnxj7qOZ) | 3:10 | 2025-01-09 |  |
 | [Eu E Você De Novo \- Ao Vivo](https://open.spotify.com/track/4sKpxFZn8mpmFZXe8rYRjY) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Ao Vivo Em Maceió](https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC) | 3:03 | 2024-01-29 |  |
+| [Eu Fui Desses \- Ao Vivo](https://open.spotify.com/track/1OduCr2nQrYHSPGMvMEQJV) | [Kleo Dibah & Rafael](https://open.spotify.com/artist/0bnmflX3hZqv9kIv5vqrgd), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Bem Vindo ao Clube \(Ao Vivo\)](https://open.spotify.com/album/62lzD5iiQyenXphHRlhdjv) | 3:01 | 2025-05-08 |  |
 | [Eu Nunca \- Ao Vivo](https://open.spotify.com/track/1Z5iFSUX9zbuGKhwC6QwjV) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 2:52 | 2024-01-29 |  |
 | [Eu Sinto Muito \- Ao Vivo](https://open.spotify.com/track/0aZ5FrygB6AxVyOOZ8JufQ) | [Antony & Gabriel](https://open.spotify.com/artist/1uhE4e8omc2wKqIK88bqH4) | [Bonito pra Você \(Ao Vivo\)](https://open.spotify.com/album/79w5YsYYUXyAD4vsU30tJh) | 2:42 | 2024-01-29 |  |
 | [Eu Tô Com Você](https://open.spotify.com/track/2xYeevuVaGyf8C6ZlBuWh8) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:04 | 2024-01-29 |  |

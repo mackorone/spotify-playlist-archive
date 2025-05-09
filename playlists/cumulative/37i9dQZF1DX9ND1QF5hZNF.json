@@ -1991,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "I Know You Tried Sometimes",
+        "url": "https://open.spotify.com/album/7N0O1yZRflIHPfs0dghc2J"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "I Know You Tried Sometimes",
+      "url": "https://open.spotify.com/track/4vzgEF9E8ctINb9JcDTZYF"
+    },
+    {
+      "album": {
         "name": "I Like The Way You Kiss Me",
         "url": "https://open.spotify.com/album/6PuKd7VCoNaxyYplBsZsNO"
       },
@@ -2523,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Marseille",
+        "url": "https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v"
+    },
+    {
+      "album": {
         "name": "Matter of Time",
         "url": "https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI"
       },
@@ -2992,7 +3028,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 189687,
       "name": "Nobody Cares",
       "url": "https://open.spotify.com/track/4aJ4HeuydJYarlKlLq6xVp"
@@ -3110,7 +3146,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 144590,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0Qv7jr5gtq5M6NAhg9JvYd"
@@ -3382,6 +3418,24 @@
       "duration_ms": 144521,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7rjZ4ERXFVBypwt8NflUVQ"
+    },
+    {
+      "album": {
+        "name": "Parara (Out Of My Mind)",
+        "url": "https://open.spotify.com/album/1Juw9Zx51Zkr5VuBMRKAua"
+      },
+      "artists": [
+        {
+          "name": "Daniel Etienne",
+          "url": "https://open.spotify.com/artist/0HS4eQaqJ9tjYwXUPF7SsS"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210491,
+      "name": "Parara (Out Of My Mind)",
+      "url": "https://open.spotify.com/track/3bcp0Y8uvKiidRwXeEZcNi"
     },
     {
       "album": {
@@ -3924,7 +3978,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 194380,
       "name": "Solfa (Tila)",
       "url": "https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP"
@@ -5004,6 +5058,32 @@
       "duration_ms": 169930,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/3xwNqcWd3fGL5z0hhtMBmE"
+    },
+    {
+      "album": {
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/74ayNNMtsQK5EU5e9pQDKJ"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV"
+        },
+        {
+          "name": "EFA",
+          "url": "https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy"
+        },
+        {
+          "name": "ROBINS",
+          "url": "https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/1phdpRZfTwVNT7LVJZOlOG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9ND1QF5hZNF"

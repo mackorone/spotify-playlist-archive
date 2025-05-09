@@ -5663,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "Kiss Me Now",
+        "url": "https://open.spotify.com/album/3wZnJrvl1uyHtdccfokGnU"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256268,
+      "name": "Kiss Me Now",
+      "url": "https://open.spotify.com/track/40KgVtH6ANki7AN2Sj1rZD"
+    },
+    {
+      "album": {
         "name": "Kisses in the Wind",
         "url": "https://open.spotify.com/album/1o4GqfoLG7sQQLgxyAckOb"
       },

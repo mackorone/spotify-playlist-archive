@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: TAPE TOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,938 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,939 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kid](https://open.spotify.com/track/2atXVc2bsOZiQDp8fQcuop) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Kid](https://open.spotify.com/album/2TgHybvyKD8dBDKq1jxQap) | 2:32 |
-| 2 | [Lay Me Down](https://open.spotify.com/track/0ZVqDCozqdU0PiVVYOQPoR) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Lay Me Down](https://open.spotify.com/album/645V6oHukUxcSpbigA72Bb) | 3:44 |
+| 2 | [Lay Me Down](https://open.spotify.com/track/0ZVqDCozqdU0PiVVYOQPoR) | [Portland](https://open.spotify.com/artist/3t56cz9dhL53ioNIZFCDBo) | [Lay Me Down](https://open.spotify.com/album/645V6oHukUxcSpbigA72Bb) | 3:44 |
 | 3 | [Tyrants](https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Tyrants](https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW) | 3:14 |
 | 4 | [2016 Souvenir](https://open.spotify.com/track/5NU4wuMNc1cmmU1Hz7bAS6) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [2016 Souvenir](https://open.spotify.com/album/39vTbO74E9x89LBkZqh6xp) | 2:53 |
 | 5 | [Canvas Horizon](https://open.spotify.com/track/6HEjAgnF6pPCFFkKpvpIi7) | [JB Meijers](https://open.spotify.com/artist/1uKhiQS1fHFh3VUBR5cm75) | [Canvas Horizon](https://open.spotify.com/album/0YsPsRSo7VaG4EbF0N8XaC) | 3:09 |

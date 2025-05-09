@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 152666,
       "name": "Como Te Lo Digo",
       "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
@@ -3544,6 +3544,24 @@
     {
       "album": {
         "name": "Estaba Aqu\u00ed Pensando",
+        "url": "https://open.spotify.com/album/0MrsYRR3NibzRN6qZ927zO"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189521,
+      "name": "Estaba Aqu\u00ed Pensando",
+      "url": "https://open.spotify.com/track/65VgYpCL5GgFkoCMqmsHgQ"
+    },
+    {
+      "album": {
+        "name": "Estaba Aqu\u00ed Pensando",
         "url": "https://open.spotify.com/album/5nTyYQMVF86WvS91opGkUa"
       },
       "artists": [
@@ -4418,7 +4436,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 216734,
       "name": "La Luna y T\u00fa",
       "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
@@ -5636,6 +5654,28 @@
       "duration_ms": 119898,
       "name": "Mirame a la Cara",
       "url": "https://open.spotify.com/track/0YpbQWWC1GGG2jLyf9jBi5"
+    },
+    {
+      "album": {
+        "name": "Mix Cumbiero: Amanece / Luna / Se Me Olvida",
+        "url": "https://open.spotify.com/album/5lVdvtMLRS9OdCGj6mVjvR"
+      },
+      "artists": [
+        {
+          "name": "KINGTO",
+          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
+        },
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190388,
+      "name": "Mix Cumbiero: Amanece / Luna / Se Me Olvida",
+      "url": "https://open.spotify.com/track/6AlwiCDmQ1BGtAmTRQP7jF"
     },
     {
       "album": {

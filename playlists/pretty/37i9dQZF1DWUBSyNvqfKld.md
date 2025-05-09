@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,088 likes - 59 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,092 likes - 59 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 | 18 | [Maniac](https://open.spotify.com/track/7A2AtLnj4p2p55dis3chLs) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Maniac EP](https://open.spotify.com/album/2rTLjAhVAS3vyfngZV2S81) | 4:53 |
 | 19 | [Bully \- Original Mix](https://open.spotify.com/track/3upVCVMrEadE5zjaD6SH9L) | [Moyua](https://open.spotify.com/artist/2uUovbXjoeq0oDtalDn8KR) | [Bully](https://open.spotify.com/album/5Oe3eUNFTFZotfPGUM99n0) | 5:39 |
 | 20 | [Axial Force](https://open.spotify.com/track/2VlLDsndPY0vAwFVMTWMP1) | [Stef Mendesidis](https://open.spotify.com/artist/0V2TzRR7BczSNMxDyCIL1J) | [Decima](https://open.spotify.com/album/5rTj8KkQFwUuRG7TBYtdOa) | 5:50 |
-| 21 | [Funny, Not Really](https://open.spotify.com/track/0ehwZyURFFvUImKF2imoES) | [Quelza](https://open.spotify.com/artist/6LL2tELgb3Y6TcQdsBmXqS), [Vault Sessions](https://open.spotify.com/artist/19eKEY8FACEJEecIpge5Jm) | [Origami](https://open.spotify.com/album/1zgnW2XpgN6bPKbs63KlC5) | 4:35 |
+| 21 | [Funny, Not Really](https://open.spotify.com/track/0ehwZyURFFvUImKF2imoES) | [Quelza](https://open.spotify.com/artist/6LL2tELgb3Y6TcQdsBmXqS), [Vault Records](https://open.spotify.com/artist/25xUAxxbaAmYxM49U0sG2D) | [Origami](https://open.spotify.com/album/1zgnW2XpgN6bPKbs63KlC5) | 4:35 |
 | 22 | [Night Owl](https://open.spotify.com/track/3koO0YokiNPVlrMZWCVXyJ) | [M.I.T.A.](https://open.spotify.com/artist/21z6y3SBHItI8CjIJzPdlo) | [Night Owl](https://open.spotify.com/album/36IK2uPWP2ChMCvKgUgQa2) | 5:24 |
 | 23 | [Unity \- Mr\. G's Time Jack Remix](https://open.spotify.com/track/0cBTWB9gXVGgS2lAVRTZot) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV), [Red Eye](https://open.spotify.com/artist/6ixoXddZ103IcJlEeQ17Kt), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Unity \(Mr\. G's Time Jack Remix\)](https://open.spotify.com/album/4GMvFzEqngiMftAcEcZFSl) | 6:35 |
 | 24 | [Diverse Fields](https://open.spotify.com/track/4JpdTuDexmUbF7OKnql5J3) | [Roll Dann](https://open.spotify.com/artist/6pGi6xcoMSsa4xGhpUew4Y) | [Diverse Fields](https://open.spotify.com/album/03jhhyDyHElHMwy56UVrvU) | 6:19 |

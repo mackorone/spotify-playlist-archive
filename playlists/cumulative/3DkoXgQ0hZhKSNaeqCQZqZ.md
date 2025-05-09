@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request @ spotify.furrest.net
 
-340 songs - 17 hr 58 min
+341 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [pop out](https://open.spotify.com/track/3tSI0wuDInKwve6q4LwV2B) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [pop out](https://open.spotify.com/album/3p29QY6whqGfBoWdhArXrF) | 1:16 | 2024-07-25 |  |
 | [Pop Rocks](https://open.spotify.com/track/2s7CHkCAkTKVPhRWiPcOa6) | [Cherry Hencefox](https://open.spotify.com/artist/75vbeFCGdoCdbK6M8aBVta) | [Pop Rocks](https://open.spotify.com/album/2FEABvDtGdO5nhUVFQGbiE) | 3:12 | 2024-10-11 |  |
 | [poppers](https://open.spotify.com/track/2vDBSXOoJ5mvpwlyZH6YgK) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:13 | 2024-08-15 |  |
+| [Post Con Depression](https://open.spotify.com/track/792HtdR735wSrdaAUTQDRB) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Post Con Depression](https://open.spotify.com/album/0xlIXbuTc89uJiu9hqEVrW) | 3:04 | 2025-05-09 |  |
 | [Pretty Life](https://open.spotify.com/track/5PEOCbho8hqAIJHk3Bxmie) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Pretty Life](https://open.spotify.com/album/79u9U7lJ41Tdh6maa1wPGE) | 3:11 | 2023-06-14 |  |
 | [pulsar](https://open.spotify.com/track/4mvO5VCVcgQmpaj9rm6aNq) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 2:24 | 2024-11-18 |  |
 | [Punching Bag](https://open.spotify.com/track/0nLEEvXYj3G63yq06rLMTd) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [AlphaFXRE](https://open.spotify.com/artist/1gvvMvEXsRKbPMZCYFdE8m) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 2:33 | 2023-10-30 |  |

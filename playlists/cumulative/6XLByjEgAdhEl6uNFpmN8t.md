@@ -4,7 +4,7 @@
 
 > 
 
-108 songs - 5 hr 32 min
+109 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Palvin](https://open.spotify.com/track/5hAuDDOTUaspvHJSm2AltF) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Palvin](https://open.spotify.com/album/69Zm96qdaLpLpb660vTfrb) | 3:08 | 2024-10-17 |  |
 | [PANNONIA](https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [BAKPAKK](https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT) | 2:27 | 2024-12-26 |  |
 | [Papa](https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:20 | 2025-01-09 |  |
+| [Paranoiás](https://open.spotify.com/track/30ezZEzXPCyUUv8Rr8lnB4) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [M Ricch](https://open.spotify.com/artist/4mT5vbooKo8dycjBCo9a4h) | [Paranoia](https://open.spotify.com/album/40oR75NLHfJOhC3gSX5khZ) | 3:23 | 2025-05-08 |  |
 | [Piaszag](https://open.spotify.com/track/0Yjl1FrlHwu4nhgEm92GSk) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:33 | 2024-12-18 |  |
 | [PRIDE.](https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:35 | 2025-02-13 |  |
 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 | 2024-10-17 |  |

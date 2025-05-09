@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marina Satti",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Evangelia",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "Mesaia Arktos",
+        "url": "https://open.spotify.com/album/14LyyE5hwrlTgMhHvynnLB"
+      },
+      "artists": [
+        {
+          "name": "Marina Spanou",
+          "url": "https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195214,
+      "name": "Afinomai",
+      "url": "https://open.spotify.com/track/2gUqLtfxvSiqwSVXiZhJfv"
+    },
+    {
+      "album": {
         "name": "Agapi Mou",
         "url": "https://open.spotify.com/album/5W7Bv6F9oRD67Hfo9njREK"
       },
@@ -170,7 +188,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 170257,
       "name": "Agapi Mou Me Dioxneis",
       "url": "https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA"
@@ -298,7 +316,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 67419,
       "name": "An Apopse Figo - Night Rider Edit",
       "url": "https://open.spotify.com/track/72jtB2gdVoUhvSWrqfpP27"
@@ -334,7 +352,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 203174,
       "name": "ANAKATA",
       "url": "https://open.spotify.com/track/4xDgsAMNLvb3sgsHze2lrI"
@@ -418,6 +436,28 @@
       "duration_ms": 258600,
       "name": "Ap' Ton Ourano",
       "url": "https://open.spotify.com/track/1QcHKq0Y7pue3WYWVmmIGS"
+    },
+    {
+      "album": {
+        "name": "Apistefto",
+        "url": "https://open.spotify.com/album/3AwPW3krXkhk9yNhDv9CC2"
+      },
+      "artists": [
+        {
+          "name": "Katerina Stikoudi",
+          "url": "https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44"
+        },
+        {
+          "name": "Joanne",
+          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194399,
+      "name": "Apistefto",
+      "url": "https://open.spotify.com/track/5tR0XAJ9GBSujjlfpRLvdr"
     },
     {
       "album": {
@@ -742,7 +782,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 180273,
       "name": "Dame Fuego",
       "url": "https://open.spotify.com/track/0dvNH2vkKm6hPzgy9Puz89"
@@ -768,6 +808,24 @@
       "duration_ms": 181714,
       "name": "DEN PERNAEI",
       "url": "https://open.spotify.com/track/4Lcl5RNUF5jlMcrPBbxK3b"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/3bNTq5F18iOH311qc1A1dG"
+      },
+      "artists": [
+        {
+          "name": "Ilias Vrettos",
+          "url": "https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212125,
+      "name": "Den Yparxei - 2025 Edition",
+      "url": "https://open.spotify.com/track/1GY4WYWJSi6Ylmjyx4tAON"
     },
     {
       "album": {
@@ -1020,7 +1078,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 144087,
       "name": "EPANO STO TRAPEZI",
       "url": "https://open.spotify.com/track/3wpiU5pc42REYEW9vd7fBa"
@@ -1116,6 +1174,24 @@
       "duration_ms": 144552,
       "name": "FLX",
       "url": "https://open.spotify.com/track/5BGsV1OzGDMvtu15TC0fFU"
+    },
+    {
+      "album": {
+        "name": "Fovame - Spotify Singles",
+        "url": "https://open.spotify.com/album/32GZtAOfYXZvu2NWRAt0Sf"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168441,
+      "name": "Fovame - Spotify Singles",
+      "url": "https://open.spotify.com/track/3zlmmuG8dsrtZoIvQoXCPX"
     },
     {
       "album": {
@@ -1960,7 +2036,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 174206,
       "name": "Mythos",
       "url": "https://open.spotify.com/track/0fSun9srR8uNjfSMYkxVn5"
@@ -2120,7 +2196,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 142166,
       "name": "Ousia",
       "url": "https://open.spotify.com/track/2BsP53xyo5Nf3HrBbnF0tA"
@@ -2226,6 +2302,24 @@
       "duration_ms": 171538,
       "name": "Panselinos",
       "url": "https://open.spotify.com/track/230Aews21zrVVeaebAndZG"
+    },
+    {
+      "album": {
+        "name": "Pan\u00e1them\u00e1se",
+        "url": "https://open.spotify.com/album/5B3iYTaxcQ06LEgcqydROU"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162444,
+      "name": "Pan\u00e1them\u00e1se",
+      "url": "https://open.spotify.com/track/4lVl4fjJt4bVbCgbBq958s"
     },
     {
       "album": {
@@ -2406,6 +2500,24 @@
       "duration_ms": 219707,
       "name": "Protagonistes",
       "url": "https://open.spotify.com/track/7eU0GAZD508EQ2JLHyyYRv"
+    },
+    {
+      "album": {
+        "name": "Oneiropolos",
+        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Provlimata",
+      "url": "https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH"
     },
     {
       "album": {
@@ -2620,6 +2732,28 @@
       "duration_ms": 200610,
       "name": "STIN IYIA MAS",
       "url": "https://open.spotify.com/track/2QhPkTSjL4Tisn0y7jSbEb"
+    },
+    {
+      "album": {
+        "name": "Taxe Mou",
+        "url": "https://open.spotify.com/album/3tnY2zCOw3tzWaKTGEuUe0"
+      },
+      "artists": [
+        {
+          "name": "Stefanos Pitsiniagkas",
+          "url": "https://open.spotify.com/artist/1e6h8QSnKioDJOAYXjUjPE"
+        },
+        {
+          "name": "Charis Savva",
+          "url": "https://open.spotify.com/artist/2F7eb2e0gBOStCkKPDWb8o"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159743,
+      "name": "Taxe Mou",
+      "url": "https://open.spotify.com/track/5JqUN0Xf0fqsAhUasXeAVU"
     },
     {
       "album": {

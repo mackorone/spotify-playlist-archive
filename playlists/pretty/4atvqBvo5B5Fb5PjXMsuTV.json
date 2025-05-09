@@ -1,13 +1,85 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 May 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 May 03:04 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAARqFsOcw+czULVwqXotxelJS0Vujb1",
+  "snapshot_id": "AAARrPc9eXszzmIuO29I1femQ/foYjFG",
   "tracks": [
+    {
+      "added_at": "2025-05-08 18:04:07",
+      "album": {
+        "name": "Messy (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 179055,
+      "name": "Messy (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
+    },
+    {
+      "added_at": "2025-05-08 18:04:07",
+      "album": {
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
+    },
+    {
+      "added_at": "2025-05-08 18:04:07",
+      "album": {
+        "name": "Look Down On Us",
+        "url": "https://open.spotify.com/album/3CxAKlsE2UUbX1O80xwAqY"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 598293,
+      "name": "Look Down On Us",
+      "url": "https://open.spotify.com/track/7yIyR2o9DGWKhVrTe37FLs"
+    },
+    {
+      "added_at": "2025-05-08 18:04:07",
+      "album": {
+        "name": "The Spirit",
+        "url": "https://open.spotify.com/album/5Ecd82rTLcRdab6kLs7bhj"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 295677,
+      "name": "The Spirit",
+      "url": "https://open.spotify.com/track/15OHSfP7ogvmysqocQ8AqN"
+    },
     {
       "added_at": "2025-05-07 08:04:48",
       "album": {
@@ -23,6 +95,38 @@
       "duration_ms": 182104,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/37qlRGMmN1tStZS0elymXg"
+    },
+    {
+      "added_at": "2025-05-09 03:04:23",
+      "album": {
+        "name": "SORRY RACH!",
+        "url": "https://open.spotify.com/album/24HXbfPIjw7Yi8bpif4H79"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 234593,
+      "name": "SORRY RACH!",
+      "url": "https://open.spotify.com/track/581wx4eVMwnfHWqoGd90jn"
+    },
+    {
+      "added_at": "2025-05-09 03:04:23",
+      "album": {
+        "name": "KISS ROAD",
+        "url": "https://open.spotify.com/album/0drBJNDdHv4qK7XfPtBqee"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "Live, Love, Laugh",
+      "url": "https://open.spotify.com/track/5PtLa8S310oSz6HdxDTc5T"
     },
     {
       "added_at": "2025-05-08 03:03:50",
@@ -677,22 +781,6 @@
       "url": "https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH"
     },
     {
-      "added_at": "2025-05-04 03:03:50",
-      "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 174996,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK"
-    },
-    {
       "added_at": "2025-04-30 08:03:51",
       "album": {
         "name": "Gnarly",
@@ -709,6 +797,22 @@
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
     },
     {
+      "added_at": "2025-05-04 03:03:50",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 174996,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK"
+    },
+    {
       "added_at": "2025-05-01 03:04:21",
       "album": {
         "name": "Heartthrob",
@@ -723,102 +827,6 @@
       "duration_ms": 193141,
       "name": "Heartthrob",
       "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
-    },
-    {
-      "added_at": "2025-05-04 08:03:45",
-      "album": {
-        "name": "Find Xanadu",
-        "url": "https://open.spotify.com/album/10Bhnh3aMHZPWSfg4qC0LC"
-      },
-      "artists": [
-        {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Find Xanadu",
-      "url": "https://open.spotify.com/track/0BI2JnruCf2fZt7Jp1vU3b"
-    },
-    {
-      "added_at": "2025-05-03 18:03:49",
-      "album": {
-        "name": "Forever My Moment",
-        "url": "https://open.spotify.com/album/48W9TxqbCaM49ICfJs1hU5"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 182097,
-      "name": "Forever My Moment",
-      "url": "https://open.spotify.com/track/7jGGRba9a8sy2kpxaKmvZr"
-    },
-    {
-      "added_at": "2025-04-29 18:03:56",
-      "album": {
-        "name": "The Catastrophe (Good Luck With That, Man)",
-        "url": "https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 328052,
-      "name": "The Catastrophe (Good Luck With That, Man)",
-      "url": "https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy"
-    },
-    {
-      "added_at": "2025-04-29 18:03:56",
-      "album": {
-        "name": "Melodie Is A Wound",
-        "url": "https://open.spotify.com/album/5ygWNctbub9K5CBaM8USu5"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 457063,
-      "name": "Melodie Is A Wound",
-      "url": "https://open.spotify.com/track/4tajrt0QHkRxOKJ5yYHrGz"
-    },
-    {
-      "added_at": "2025-05-04 03:03:50",
-      "album": {
-        "name": "Olive Garden",
-        "url": "https://open.spotify.com/album/1oy21LUiIIuVIyMgY3WrJK"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 112165,
-      "name": "Olive Garden",
-      "url": "https://open.spotify.com/track/20Kzilqp35aMDqOSLdRvKb"
-    },
-    {
-      "added_at": "2025-04-28 13:04:04",
-      "album": {
-        "name": "HANDS UP",
-        "url": "https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 192467,
-      "name": "HANDS UP",
-      "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
     }
   ],
   "unique_name": "New Singles Now",

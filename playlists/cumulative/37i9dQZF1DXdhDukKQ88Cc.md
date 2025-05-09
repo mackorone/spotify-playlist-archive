@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-323 songs - 13 hr 56 min
+324 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [911](https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [911](https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov) | 2:41 | 2024-06-20 | 2024-11-01 |
 | [AFIA](https://open.spotify.com/track/7J1jKRUJlMslfsVIZKx3ra) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFIA](https://open.spotify.com/album/06AoWxxRjXZhruttcclMo1) | 2:28 | 2024-09-27 | 2025-04-18 |
 | [Aldrig Alene](https://open.spotify.com/track/4TcrnNLEiMfSrg1uXOzk1E) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [Aldrig Alene](https://open.spotify.com/album/0ycAu4h4VWO0wo0PuBvn8X) | 2:36 | 2024-05-30 | 2024-11-01 |
-| [Alt Jeg Ved](https://open.spotify.com/track/2zUjOppXfaT81EFetWuNG7) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Alt Jeg Ved](https://open.spotify.com/album/1J3B8CTSjWSEYMUGFAKtrR) | 3:00 | 2024-08-08 |  |
+| [Alt Jeg Ved](https://open.spotify.com/track/2zUjOppXfaT81EFetWuNG7) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Alt Jeg Ved](https://open.spotify.com/album/1J3B8CTSjWSEYMUGFAKtrR) | 3:00 | 2024-08-08 | 2025-05-09 |
 | [Alt vi har er nu \(Artigeardit, Lamin\)](https://open.spotify.com/track/13ORFYlIGeLnai3mhgKFxZ) | [TV 2 Play](https://open.spotify.com/artist/0R3vuLe6DSrs1gpqOI27uO) | [Alt vi har er nu \(Artigeardit, Lamin\)](https://open.spotify.com/album/0OO5fNXA3JRABs8vRpvSSQ) | 2:42 | 2023-11-10 | 2024-04-26 |
 | [ALTERDETSAMME](https://open.spotify.com/track/27VeZeRcdqQRu6LqMAZz8u) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw) | [ALTERDETSAMME](https://open.spotify.com/album/2MnLoYFWPddbSN9GU1Q83m) | 2:17 | 2025-03-27 | 2025-04-18 |
 | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/track/5od1j7k88aLQoLJdj4xdoq) | [Edo6k](https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa), [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/album/5D5P9ieuXW4WEtprfjCj4M) | 3:11 | 2024-02-22 | 2024-05-14 |
@@ -136,6 +136,7 @@
 | [Følelser \(feat\. Jamaika\)](https://open.spotify.com/track/3nDcLRg4XZW1ubYHqS7gGX) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [En dag giver alt nok mening… \(DELUXE\)](https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM) | 2:29 | 2024-02-15 | 2024-10-04 |
 | [FØRSTE MØDE](https://open.spotify.com/track/2wsrfdApbrHB5OlPdwJqyz) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [FØRSTE MØDE](https://open.spotify.com/album/4wXmOKjr5zYQqktDAQyHKe) | 2:49 | 2023-10-12 | 2023-11-11 |
 | [Gennem Dit Hjerte \(feat\. Hans Philip\)](https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Når Man Taler Om Solen](https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx) | 2:52 | 2024-04-25 | 2024-05-14 |
+| [Gennemsigtig](https://open.spotify.com/track/7EmL02uKWiG5VrdvbCf7gH) | [Will](https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT) | [Gennemsigtig](https://open.spotify.com/album/1XDo0v9Eg3GU3tRsXQ3vBd) | 2:46 | 2025-05-08 |  |
 | [GIVE IT 2 ME](https://open.spotify.com/track/7kOe99207cdyOlLHKy65SA) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [GIVE IT 2 ME](https://open.spotify.com/album/56UICC9UdmC7iMZsvKExBu) | 2:04 | 2023-12-08 | 2024-02-23 |
 | [Glem Det \(feat\. Jamaika\)](https://open.spotify.com/track/1k2LysiDCZflmHiA6DepMn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Glem Det \(feat\. Jamaika\)](https://open.spotify.com/album/0C9uppyvWZfeJLng1b9KhZ) | 2:49 | 2024-01-04 | 2024-09-13 |
 | [Glem Nu](https://open.spotify.com/track/7vWbMVQqpqvP20o6eQMSvo) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Glem Nu](https://open.spotify.com/album/23cZsSmIkjeqU3pdqCxGeM) | 2:46 | 2024-09-27 | 2024-11-01 |
@@ -143,7 +144,7 @@
 | [Graffiti](https://open.spotify.com/track/2KpulNb5RWB2flro8HYm3K) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Graffiti](https://open.spotify.com/album/01aGurolrsjwZJbQ6V7KuH) | 2:13 | 2024-01-18 | 2024-02-23 |
 | [Grim Verden](https://open.spotify.com/track/6AIAWHWftd6fwVd9wbwPkv) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Grim Verden](https://open.spotify.com/album/50oFS5rbWDpPodUYOV3Ewv) | 3:45 | 2024-04-18 | 2024-04-26 |
 | [Guld](https://open.spotify.com/track/11etqbG118JJvJGMS5Rtv7) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [OG SÅ VIDERE](https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3) | 3:13 | 2024-03-08 | 2024-04-05 |
-| [Gynger](https://open.spotify.com/track/7AhBe8AbklsfzpM1XM6UAn) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Gynger](https://open.spotify.com/album/3lM6gpWLQlZjT8WxjhMXzn) | 2:28 | 2025-04-17 |  |
+| [Gynger](https://open.spotify.com/track/7AhBe8AbklsfzpM1XM6UAn) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Gynger](https://open.spotify.com/album/3lM6gpWLQlZjT8WxjhMXzn) | 2:28 | 2025-04-17 | 2025-05-09 |
 | [Gøre Det Igen](https://open.spotify.com/track/1BOgF6FLheiCR5YLnkd36w) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Gøre Det Igen](https://open.spotify.com/album/6ycmMHSu86WJzuFIdslzTL) | 2:37 | 2025-04-10 |  |
 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 | 2024-09-12 |  |
 | [HANNIBAL & JERRY](https://open.spotify.com/track/7IKMflhC3oROTEwUFzH5PW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [HANNIBAL & JERRY](https://open.spotify.com/album/27UpFPOvaxNwCNjcRKGgbH) | 2:02 | 2024-02-22 | 2024-04-05 |
@@ -279,7 +280,7 @@
 | [Sprite & Vodka \(feat\. Gilli & KESI\)](https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:15 | 2024-03-21 | 2024-10-04 |
 | [Spåkone](https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Spåkone](https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl) | 2:54 | 2023-09-21 | 2023-12-14 |
 | [Stadig](https://open.spotify.com/track/4SZKRF8WukFPVgkH6cZsMC) | [Ankerstjerne](https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d) | [Stadig](https://open.spotify.com/album/72vierIDfoapRJKqdPrVT5) | 2:02 | 2024-05-09 | 2024-05-13 |
-| [Stafet](https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Stafet](https://open.spotify.com/album/6ArGpxENQEFyUSgmlsp1EP) | 2:25 | 2025-04-25 | 2025-05-02 |
+| [Stafet](https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Stafet](https://open.spotify.com/album/6ArGpxENQEFyUSgmlsp1EP) | 2:25 | 2025-04-25 |  |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 | 2024-04-05 |
 | [Stemmer](https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Stemmer](https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P) | 2:27 | 2024-02-08 | 2024-10-04 |
 | [Steve O](https://open.spotify.com/track/2x355lU17q5QEemPuj2eba) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Steve O](https://open.spotify.com/album/0F9k9AE4Mbm19VpveE8grZ) | 2:09 | 2025-04-10 |  |

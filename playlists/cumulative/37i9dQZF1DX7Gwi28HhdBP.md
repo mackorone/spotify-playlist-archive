@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6?si=gD4aiSLdQxONDTYraTL03A">  محمود الليثي </a>
 
-290 songs - 21 hr 1 min
+291 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [El Nas El Ray'ah](https://open.spotify.com/track/2m66UK6UWcoo73unfkdSff) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5), [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [El Nas El Ray'ah](https://open.spotify.com/album/6fKDnl05iZZFfNDHgupgYO) | 3:31 | 2021-12-16 | 2022-12-21 |
 | [El Nas Elly Fouq](https://open.spotify.com/track/4na1EO4wZ7W5lG9yueKyhZ) | [Sayed El Sheikh](https://open.spotify.com/artist/54QPr3wGRc4hAM2JrDviGm) | [Fi El Mahkama](https://open.spotify.com/album/1NN9PmRSHHJCrHyfyaFfYa) | 8:14 | 2021-12-16 | 2023-05-12 |
 | [El Shoghlna Khadet Hawa](https://open.spotify.com/track/5JjDCExArnevSaA5AMMprY) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Shoghlna Khadet Hawa](https://open.spotify.com/album/0Ol5DB57dBKo6UhuepjeJE) | 3:54 | 2024-12-19 |  |
-| [El Volt El 3aly](https://open.spotify.com/track/3plhjP2mv6p6jsfkFA7LZF) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Volt El 3aly](https://open.spotify.com/album/7cHYfNdJOpIFmGvjbynIp3) | 4:00 | 2024-10-25 |  |
+| [El Volt El 3aly](https://open.spotify.com/track/3plhjP2mv6p6jsfkFA7LZF) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Volt El 3aly](https://open.spotify.com/album/7cHYfNdJOpIFmGvjbynIp3) | 4:00 | 2024-10-25 | 2025-05-09 |
 | [ElSo7ab Yala](https://open.spotify.com/track/4StABzuf6ZgFibqFSNEjmp) | [Misho Gamal](https://open.spotify.com/artist/6w4zJXRxkPD5Z1onGcEfet) | [ElSo7ab Yala](https://open.spotify.com/album/07r7JWc9srIQL0IYtUI86J) | 4:31 | 2021-12-16 | 2023-05-12 |
 | [Ely Meny Mezaleny](https://open.spotify.com/track/7yHt74yOh2Oc6MPyLdUzlE) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ahmed Shiba Cocktail](https://open.spotify.com/album/1k0LL1fgNsewKfbPUTpQwD) | 6:07 | 2021-12-16 | 2022-12-21 |
 | [Etal tetkayef](https://open.spotify.com/track/5GNfSTV6ioiX3n9oIpyM6c) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Etal tetkayef](https://open.spotify.com/album/2JFefxJ5kwKa5YPjs8qvGj) | 4:17 | 2023-04-20 | 2024-08-12 |
@@ -97,6 +97,7 @@
 | [Geit Ala El Garh](https://open.spotify.com/track/1cYKgE6YxifsD4prcjAvYv) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [Ana Men Gabal](https://open.spotify.com/album/3kgdUVzNWSYTJietLt2LD2) | 6:38 | 2021-12-16 | 2023-04-15 |
 | [Hagaraan Ala Al Shesha](https://open.spotify.com/track/7mjrovxCbFPlnkJ1aDhtu9) | [Hoba](https://open.spotify.com/artist/3jaVJ8ApcZRzvvKdPhunie) | [Hoba](https://open.spotify.com/album/1b3UdyXzPsjVa93nujVvB8) | 5:25 | 2021-12-16 |  |
 | [Haissah](https://open.spotify.com/track/2tTFS58N5Fk58s2qJ8E3zK) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/6Psz3Qbb1dxxNDaWITkMWf) | 3:15 | 2021-12-16 | 2021-12-31 |
+| [Hakmel El Meshwar](https://open.spotify.com/track/0o2IOLDECPs7wSZjcGiHnr) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Khalid Sultan](https://open.spotify.com/artist/262Yrzic2EJaSW2TSdycRH) | [Hakmel El Meshwar](https://open.spotify.com/album/106BIGL8XlrGFyoM0c7W5r) | 3:23 | 2025-05-08 |  |
 | [Hatgawez](https://open.spotify.com/track/1Vb51CRZbbS333bMwA0csQ) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/4LZuc3vs0btgKFiVczS2zi) | 4:35 | 2021-12-16 |  |
 | [Hatgawez Tany](https://open.spotify.com/track/3EdA1dPSjYxVSXEqbUGP1O) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Bosy](https://open.spotify.com/artist/5qLw7iz4Ttj3cR07fE3gBZ) | [Hatgawez Tany](https://open.spotify.com/album/5lL7ZvSulnMBdVCMLsZRrA) | 3:29 | 2021-12-16 | 2022-07-28 |
 | [Haty Bosa Ya Beet](https://open.spotify.com/track/6uGJrcFOMI6Z2PIh1i8F3x) | [Osama Ghaly](https://open.spotify.com/artist/3Qlvqpn3QapW1ZZwbvoAxz) | [Osama Ghaly Collection](https://open.spotify.com/album/4jBwuzCtVOJisHosxBu9oN) | 3:53 | 2021-12-30 | 2023-05-12 |

@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
@@ -10184,7 +10184,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa"
@@ -10710,7 +10710,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 186592,
       "name": "Ella (AfroMerengue)",
       "url": "https://open.spotify.com/track/6Nihsj24vhECfubluQJRXo"
@@ -15612,7 +15612,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 169411,
       "name": "Juguete",
       "url": "https://open.spotify.com/track/3vuElNsrvp6f7XzrF6HqyT"
@@ -20197,7 +20197,7 @@
       "artists": [
         {
           "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+          "url": "https://open.spotify.com/artist/0JU8VfZVh0d5l3zaL8g4MH"
         }
       ],
       "date_added": "2025-01-20",
@@ -22598,7 +22598,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 188930,
       "name": "morena",
       "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
@@ -26824,7 +26824,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 121263,
       "name": "Please",
       "url": "https://open.spotify.com/track/4cJEkfe2EuDPobRI7pKGKt"
@@ -27480,7 +27480,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 130968,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
@@ -36430,7 +36430,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 131081,
       "name": "Una Chica Good",
       "url": "https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs"
@@ -37386,7 +37386,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
@@ -37826,6 +37826,24 @@
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "album": {
+        "name": "On Loop",
+        "url": "https://open.spotify.com/album/5XMbVKcoaXV2Nn74qGRPHM"
+      },
+      "artists": [
+        {
+          "name": "Mvriol",
+          "url": "https://open.spotify.com/artist/4tGFRmgAHQ6wRULsgQpizX"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104347,
+      "name": "We are",
+      "url": "https://open.spotify.com/track/2GbjKtnC2PZL0VPbFK1QPM"
     },
     {
       "album": {

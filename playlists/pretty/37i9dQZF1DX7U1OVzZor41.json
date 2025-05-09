@@ -171,22 +171,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u592a\u5e73\u76db\u4e16",
-        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
-      },
-      "artists": [
-        {
-          "name": "David Tao",
-          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
-        }
-      ],
-      "duration_ms": 292666,
-      "name": "\u611b\u6211\u9084\u662f\u4ed6",
-      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
         "url": "https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u592a\u5e73\u76db\u4e16",
+        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
+      },
+      "artists": [
+        {
+          "name": "David Tao",
+          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "\u611b\u6211\u9084\u662f\u4ed6",
+      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u6211\u80af\u5b9a\u5728\u5e7e\u767e\u5e74\u524d\u5c31\u8aaa\u904e\u611b\u4f60",
-        "url": "https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i"
-      },
-      "artists": [
-        {
-          "name": "\u544a\u4e94\u4eba",
-          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
-        }
-      ],
-      "duration_ms": 349773,
-      "name": "\u62ab\u661f\u6234\u6708\u7684\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "JJ\u6797\u4fca\u5091100\u5929",
         "url": "https://open.spotify.com/album/6D0BwgO8fScZhwVFP6k6N9"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 234890,
       "name": "\u80cc\u5c0d\u80cc\u64c1\u62b1",
       "url": "https://open.spotify.com/track/5OZeRuBBRpEY13BagcAOLJ"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u6211\u80af\u5b9a\u5728\u5e7e\u767e\u5e74\u524d\u5c31\u8aaa\u904e\u611b\u4f60",
+        "url": "https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i"
+      },
+      "artists": [
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+        }
+      ],
+      "duration_ms": 349773,
+      "name": "\u62ab\u661f\u6234\u6708\u7684\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m"
     },
     {
       "added_at": "2024-10-11 05:22:52",

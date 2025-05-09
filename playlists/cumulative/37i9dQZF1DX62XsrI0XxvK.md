@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: JVSAN
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Syahravi
 
-100 songs - 6 hr 4 min
+105 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,12 +19,15 @@
 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 | 2024-10-03 |  |
 | [BJMM](https://open.spotify.com/track/5xp39HWCZYWr6JjaI4w2T6) | [Gege Tiwa](https://open.spotify.com/artist/7FqmJMb5F7oFXHQ50ORYVX) | [BJMM](https://open.spotify.com/album/2ldzMi8etA6VDdOhObFsss) | 4:05 | 2024-10-03 | 2025-05-02 |
 | [Blip](https://open.spotify.com/track/4xMchee0wD0txZfn3SNGRr) | [Dominique Adhadiaz](https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws) | [Blip](https://open.spotify.com/album/7hBCXPQBL5LnEk6PDO47Kz) | 2:40 | 2025-04-24 |  |
+| [Blue](https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Blue](https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y) | 3:40 | 2025-05-08 |  |
+| [Bring It On](https://open.spotify.com/track/7jjSkcLMIVQT0w9LlsfL9q) | [SEBY](https://open.spotify.com/artist/2gyoZB0qaowphecujZAzTd) | [A to Z](https://open.spotify.com/album/5Uwg2KxTq43qPGJkAYWrlR) | 4:08 | 2025-05-08 |  |
 | [BUKIT BINTANG](https://open.spotify.com/track/4Of5JPjcIxFEXOfOnovH1a) | [Tarrarin](https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f) | [BUKIT BINTANG](https://open.spotify.com/album/3EdLgSYC680ajncQZlnUms) | 3:33 | 2024-10-03 |  |
 | [BULAN](https://open.spotify.com/track/0sbqnT2yCqhZbMcDHrZTFd) | [Raina Gumay](https://open.spotify.com/artist/1ANlamE7Sj9Kf70tVz35Ck) | [BULAN](https://open.spotify.com/album/3jIpal5Mo7hWXSypXGXJku) | 3:06 | 2025-02-21 |  |
 | [Caught In Distress](https://open.spotify.com/track/1wJuaDeHSCN5fqZkBR0Qwu) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Caught In Distress](https://open.spotify.com/album/1vr2ljTHi4yTfcUHdqSsqy) | 3:36 | 2024-12-06 |  |
 | [Cerita](https://open.spotify.com/track/6Sa1QuExIuLuZwyDrmgbN3) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF) | [Cerita](https://open.spotify.com/album/5RLgxuk2wPeTU9KxSuNF01) | 3:19 | 2024-10-03 | 2025-05-02 |
 | [crimson lullaby](https://open.spotify.com/track/7aiB318eJa5FlvCudSNjPq) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [crimson lullaby](https://open.spotify.com/album/55fOMHbP3P9EWSoceHIkpo) | 3:25 | 2025-01-09 |  |
 | [Damn, Gurl](https://open.spotify.com/track/6g3VcGmYGlg0UzFSFknCyI) | [Budie Tanzania](https://open.spotify.com/artist/3jog7FNtrSNeZ5SEVk2Gvr) | [Damn, Gurl](https://open.spotify.com/album/2NjkcPqxOgwK7qnCKL8hnY) | 3:12 | 2025-02-06 |  |
+| [Delusional](https://open.spotify.com/track/2V5NrnoZajhUP5pVZZVjs9) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Romansa](https://open.spotify.com/album/65KdItMclPJytUzzNuI8eJ) | 3:31 | 2025-05-08 |  |
 | [DESTINY](https://open.spotify.com/track/4JyewXavoNDSkLdX1A2cjI) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [DESTINY](https://open.spotify.com/album/6hKFay0QfMNYhM6P4TI0SA) | 3:16 | 2025-01-16 |  |
 | [Devastated](https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson](https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9) | 3:51 | 2024-10-03 |  |
 | [Di Balik Pertanda](https://open.spotify.com/track/5uytzO0N2bCsueGE7cuyuM) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Di Balik Pertanda](https://open.spotify.com/album/76H7wY4u8vwdDjJFYhDqbj) | 3:36 | 2024-10-03 |  |
@@ -39,7 +42,7 @@
 | [Game For Two](https://open.spotify.com/track/1F5Oci0fJkRxcIFNMuHoJn) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Game For Two](https://open.spotify.com/album/5KYHeW8EoSYqFXji9DuV4c) | 3:38 | 2025-03-20 |  |
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-10-03 | 2025-05-02 |
 | [Hanya Harapku](https://open.spotify.com/track/4CXS1Bnuk0xzPd3zP7Jmsb) | [Fourtune](https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k) | [Hanya Harapku](https://open.spotify.com/album/6pLzF6GCDzqmFIpi4GZuGw) | 3:30 | 2024-11-15 |  |
-| [Hanya Ingin](https://open.spotify.com/track/1UykQjY4mcTp66AqJ2kLvt) | [R2 Rhythm](https://open.spotify.com/artist/1NMndAY1nq64GSsGuccTrM) | [Hanya Ingin](https://open.spotify.com/album/2cEMBuXaGurxFImXVwOFWC) | 3:09 | 2024-11-21 |  |
+| [Hanya Ingin](https://open.spotify.com/track/1UykQjY4mcTp66AqJ2kLvt) | [R2 Rhythm](https://open.spotify.com/artist/1NMndAY1nq64GSsGuccTrM) | [Hanya Ingin](https://open.spotify.com/album/2cEMBuXaGurxFImXVwOFWC) | 3:09 | 2024-11-21 | 2025-05-09 |
 | [Hanya Memuji](https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/75eKV8vEiT7mjwSHhLfSNi) | [Hanya Memuji](https://open.spotify.com/album/5WRLsSxz99UFtkLishLcB1) | 3:57 | 2025-05-01 |  |
 | [Hey Tunggu Dulu](https://open.spotify.com/track/4cWvKdsd9egRGO4CnwFqEg) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:13 | 2024-10-24 |  |
 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 | 2025-02-14 |  |
@@ -59,12 +62,14 @@
 | [LOVE ME LIKE YOU](https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [LOVE ME LIKE YOU](https://open.spotify.com/album/0kjnm700HNnAVp3S7TK2n8) | 3:02 | 2024-10-03 |  |
 | [Magnet](https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Magnet](https://open.spotify.com/album/1DvGtGi6iUv4QHQIueLWYk) | 3:36 | 2024-10-03 |  |
 | [Melepaskanmu](https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Melepaskanmu](https://open.spotify.com/album/0JGVfb9f2U1f3Ve7KUxpXz) | 4:10 | 2024-10-03 |  |
+| [Merindu](https://open.spotify.com/track/1yaH4YIzZre7gjREX18dxD) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Romansa](https://open.spotify.com/album/65KdItMclPJytUzzNuI8eJ) | 3:18 | 2025-05-08 |  |
 | [Miliki Aku](https://open.spotify.com/track/6oe0zbMjH8rQAbQQUjVZ0u) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Miliki Aku](https://open.spotify.com/album/3OFKmugE12oDluNxHELmry) | 3:11 | 2025-02-06 |  |
 | [NONA](https://open.spotify.com/track/0PcA63FVAapebTvMoqHf2R) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A) | [NONA](https://open.spotify.com/album/44v4gUnWzb9N6qyzI3ou6V) | 2:08 | 2025-04-16 |  |
 | [Nuansa Biru](https://open.spotify.com/track/30ITGq0XWFoa8lq7vCThBO) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Nuansa Biru](https://open.spotify.com/album/75SF4HGHWxSx6tBc9T8fde) | 3:35 | 2025-04-24 |  |
+| [Nuansa Romansa](https://open.spotify.com/track/5IlUsmKzmLDcjfC64huD43) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db) | [Nuansa Romansa](https://open.spotify.com/album/0FbED58kWNrEd41ZGh4X9T) | 4:38 | 2025-05-08 |  |
 | [Obsesi](https://open.spotify.com/track/5O3mCKnCxlqrb5yDjZigxK) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Obsesi](https://open.spotify.com/album/7vx3ePtu8rpg2XfJvVnYXq) | 2:44 | 2024-11-28 |  |
 | [On It](https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj) | [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Midnight Notion](https://open.spotify.com/album/6B0zS4VpKLy0R7WyeaetbI) | 5:40 | 2024-10-03 | 2025-05-02 |
-| [Pain in the City](https://open.spotify.com/track/0828RNklDZxYG9Rv4zOiFq) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Pain in the City](https://open.spotify.com/album/6MwywWhOkrBMCz6LIGFdJO) | 3:59 | 2024-11-14 |  |
+| [Pain in the City](https://open.spotify.com/track/0828RNklDZxYG9Rv4zOiFq) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Pain in the City](https://open.spotify.com/album/6MwywWhOkrBMCz6LIGFdJO) | 3:59 | 2024-11-14 | 2025-05-09 |
 | [Pelita](https://open.spotify.com/track/11hmwvnvArUrTTkoClKwuw) | [Adityaa Bagus](https://open.spotify.com/artist/3zbVjekhcWIMb4lgWywjWL) | [Pelita](https://open.spotify.com/album/2XfMU1K2vxSDZFl8VmSXl0) | 4:41 | 2025-05-01 |  |
 | [Pesona](https://open.spotify.com/track/4EGJySc7IKJazb22BsuVyH) | [Daffa Reza](https://open.spotify.com/artist/1A0zhkekQcMmQDHoIC9vbG) | [Pesona](https://open.spotify.com/album/0x4zUwOC2qfyFGGQ5nc9Al) | 3:48 | 2024-10-03 | 2025-05-02 |
 | [Pesona](https://open.spotify.com/track/37cZnP06JGqD2jK01JQyfe) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF), [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Pesona](https://open.spotify.com/album/3KjunxG32U22r50ljiwpFV) | 3:55 | 2024-10-10 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 170998,
+  "num_followers": 171056,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2025-04-29 15:09:38",
       "album": {
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "Sita",
+          "url": "https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "Le chemin (feat. Sita)",
+      "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
+    },
+    {
+      "added_at": "2025-04-29 15:09:38",
+      "album": {
         "name": "Faut que tu m'aimes",
         "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 165986,
       "name": "Chaque seconde (feat. M. Pokora)",
       "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
-    },
-    {
-      "added_at": "2025-04-29 15:09:38",
-      "album": {
-        "name": "Le chemin",
-        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        },
-        {
-          "name": "Sita",
-          "url": "https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Le chemin (feat. Sita)",
-      "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
     },
     {
       "added_at": "2025-04-29 15:09:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-04-29 15:09:38",
       "album": {
-        "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
-        "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
-      },
-      "artists": [
-        {
-          "name": "Bandolero",
-          "url": "https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Paris Latino - Original Version 1983",
-      "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
-    },
-    {
-      "added_at": "2025-04-29 15:09:38",
-      "album": {
         "name": "Simplement",
         "url": "https://open.spotify.com/album/5BXw5K0WzAncb6uMnCrnyW"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 219760,
       "name": "Tu m'oublieras",
       "url": "https://open.spotify.com/track/616O2jmafiModH0RgonGqf"
+    },
+    {
+      "added_at": "2025-04-29 15:09:38",
+      "album": {
+        "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
+        "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
+      },
+      "artists": [
+        {
+          "name": "Bandolero",
+          "url": "https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Paris Latino - Original Version 1983",
+      "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
     },
     {
       "added_at": "2025-04-29 15:09:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-04-29 15:09:38",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
-    },
-    {
-      "added_at": "2025-04-29 15:09:38",
-      "album": {
         "name": "Caravane",
         "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 193000,
       "name": "Ne partons pas f\u00e2ch\u00e9s",
       "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
+    },
+    {
+      "added_at": "2025-04-29 15:09:38",
+      "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2025-04-29 15:09:38",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-04-29 15:09:38",
       "album": {
-        "name": "M\u00e9langer les couleurs",
-        "url": "https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0"
-      },
-      "artists": [
-        {
-          "name": "Kaolin",
-          "url": "https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Partons vite",
-      "url": "https://open.spotify.com/track/4bsSygJynZCIoU5xje0KQA"
-    },
-    {
-      "added_at": "2025-04-29 15:09:38",
-      "album": {
         "name": "Amoureuse (Edition Deluxe)",
         "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 221600,
       "name": "Amoureuse - Remasteris\u00e9 en 2008",
       "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+    },
+    {
+      "added_at": "2025-04-29 15:09:38",
+      "album": {
+        "name": "M\u00e9langer les couleurs",
+        "url": "https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0"
+      },
+      "artists": [
+        {
+          "name": "Kaolin",
+          "url": "https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Partons vite",
+      "url": "https://open.spotify.com/track/4bsSygJynZCIoU5xje0KQA"
     },
     {
       "added_at": "2025-04-29 15:09:38",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-04-29 15:09:38",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
-    },
-    {
-      "added_at": "2025-04-29 15:09:38",
-      "album": {
         "name": "Camelia Jordana",
         "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 166493,
       "name": "Non non non (Ecouter Barbara)",
       "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
+    },
+    {
+      "added_at": "2025-04-29 15:09:38",
+      "album": {
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     }
   ],
   "unique_name": "Bleu Blanc Route",

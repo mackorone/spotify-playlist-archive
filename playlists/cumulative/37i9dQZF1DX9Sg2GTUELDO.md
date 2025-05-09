@@ -2,7 +2,7 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: AmyLo
+> 感受女聲力量。Cover: Cloud 雲浩影 & 媽咪
 
 491 songs - 1 day 5 hr 14 min
 

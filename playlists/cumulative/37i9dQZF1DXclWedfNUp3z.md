@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-449 songs - 1 day 6 hr 46 min
+450 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [fireflies](https://open.spotify.com/track/1fGClKBNkOaUpln9iJBDeW) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [fireflies](https://open.spotify.com/album/03Hs17HNkxoBHA0YoxE0oy) | 2:08 | 2022-01-07 | 2022-09-26 |
 | [First Defeat](https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 3:15 | 2021-10-20 |  |
 | [Flatiron](https://open.spotify.com/track/4a8njLGIK0meARLqzvysDn) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 7:00 | 2021-12-23 | 2024-01-12 |
+| [Flickers in the Air of Night](https://open.spotify.com/track/7iTVMlkBHObTVK4KVXbyg5) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:02 | 2025-05-09 |  |
 | [Flowering Meadows](https://open.spotify.com/track/3AWc0El93z6CaOrYA5s6kQ) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Sleeping Beauty](https://open.spotify.com/album/2WFrvAbN0PcNXEhWQkjcOx) | 3:21 | 2021-10-20 | 2022-07-27 |
 | [Flutters](https://open.spotify.com/track/1i7U0mv1bCD6uzXHfOjAQx) | [Mountain Echoes](https://open.spotify.com/artist/1gkHALlD8uxvf3HIkI64yF) | [Mountain Echoes](https://open.spotify.com/album/7fH8zBVzcpu1SHIOs9sohH) | 4:02 | 2021-10-20 | 2023-02-16 |
 | [Flyaway](https://open.spotify.com/track/4SVId1J6a0U8VVPA0BuE7X) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 2:19 | 2021-10-20 | 2022-07-21 |
@@ -303,7 +304,7 @@
 | [Pinot Noir](https://open.spotify.com/track/5XAl1yLZanqffdvyfDUip2) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vin](https://open.spotify.com/album/0OWKd8AB4v7itVOTRPJfgM) | 2:37 | 2021-10-20 | 2022-06-24 |
 | [Plant Life I](https://open.spotify.com/track/1aLfDarAFvtFWnWcfbPbqH) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Indoor Plant Life I](https://open.spotify.com/album/0fZ9wi4O7rQVeriYhbVSy1) | 15:38 | 2021-10-20 | 2022-07-28 |
 | [Plant Life II](https://open.spotify.com/track/13pfLHfoAHhkW8gDkNKSJr) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Indoor Plant Life I](https://open.spotify.com/album/0fZ9wi4O7rQVeriYhbVSy1) | 16:29 | 2021-10-20 | 2022-07-29 |
-| [Plantasia](https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 3:21 | 2025-02-28 |  |
+| [Plantasia](https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 3:21 | 2025-02-28 | 2025-05-09 |
 | [Plants](https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 3:38 | 2025-01-23 |  |
 | [Plants and oxygen](https://open.spotify.com/track/6AcOtr1Z2WrsJkkl2foYJ4) | [IDRA](https://open.spotify.com/artist/2hESzaxeYE9Iecec5TwYCH) | [Duet](https://open.spotify.com/album/7mu3BI8ZycltWICVDHtYO7) | 3:40 | 2022-04-09 | 2022-07-28 |
 | [Playing Coy](https://open.spotify.com/track/6kvcGtcRk87tvBwQew6pkl) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [Playing Coy](https://open.spotify.com/album/2Vq0MbrCZSbcfZQmsIKZil) | 1:31 | 2021-10-20 | 2022-04-20 |

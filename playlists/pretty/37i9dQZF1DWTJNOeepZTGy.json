@@ -1,6 +1,6 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 273338,
+  "num_followers": 273358,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
+        "name": "Why I Love You - Single",
+        "url": "https://open.spotify.com/album/6567j2YYSIlduWjsNQefgk"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "duration_ms": 235907,
+      "name": "Why I Love You",
+      "url": "https://open.spotify.com/track/2xN98jvoGdfBzPS0HDMlXT"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 373266,
       "name": "You Put A Move On My Heart",
       "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Why I Love You - Single",
-        "url": "https://open.spotify.com/album/6567j2YYSIlduWjsNQefgk"
-      },
-      "artists": [
-        {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
-        }
-      ],
-      "duration_ms": 235907,
-      "name": "Why I Love You",
-      "url": "https://open.spotify.com/track/2xN98jvoGdfBzPS0HDMlXT"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -419,26 +419,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 277297,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "Capitol Gold: The Best Of Minnie Riperton",
         "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 288093,
       "name": "How Many Ways",
       "url": "https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Get You - Single",
+        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 277297,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
     },
     {
       "added_at": "2022-05-24 13:35:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: YOOK SUNGJAE\(육성재\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,479 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,515 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 65 | [Sudden Shower](https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:53 |
 | 66 | [How you feelin' \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/6kihmLVLuCAptKWX167SgR) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [How you feelin' \(From "Love Scout" : Original Soundtrack\) Part\. 2](https://open.spotify.com/album/7gEevtkLPJZrGRdGi6FoHb) | 3:44 |
 | 67 | [Be My Shelter, Hold Me Close](https://open.spotify.com/track/13TYjE0MVF38mPzkveRDxm) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Motel California OST Part.1](https://open.spotify.com/album/5SLDQJy85mmRg9AekUpap6) | 3:47 |
-| 68 | [After Love](https://open.spotify.com/track/3eEKcca6IwOKPXXrouAoyK) | [Song Hye Kyo](https://open.spotify.com/artist/6Wu6mMHlRXU6Y5mBeccwUY) | [After Love](https://open.spotify.com/album/7oESt39xBvM5Ok6VIna7HP) | 3:30 |
+| 68 | [After Love](https://open.spotify.com/track/3eEKcca6IwOKPXXrouAoyK) | [송혜교](https://open.spotify.com/artist/6bp7dB59ro00zAjfDlFODH) | [After Love](https://open.spotify.com/album/7oESt39xBvM5Ok6VIna7HP) | 3:30 |
 | 69 | [그대가 내 안에 박혔다\(그녀 ver.\) \(Stuck with you\)](https://open.spotify.com/track/1YgG9HQXxdWCM3kVpmzwE5) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Stuck with you](https://open.spotify.com/album/24GayrlVYp8HV5PCIFK8Ge) | 3:50 |
 | 70 | [Teach Me](https://open.spotify.com/track/32uP1g7yJzc4u0P3wf2meN) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Moon Se Yoon](https://open.spotify.com/artist/0xD8ZN47ERtuZEbmCkwZ05) | [Teach Me](https://open.spotify.com/album/04mGBubZsH7Zjwp37o3nsq) | 3:31 |
 | 71 | [I Feel It Now](https://open.spotify.com/track/0oqk3ugFbaGhEmuUFaUaHy) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When The Phone Rings, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/09APlXxudP3YywxqQnH6dU) | 3:53 |

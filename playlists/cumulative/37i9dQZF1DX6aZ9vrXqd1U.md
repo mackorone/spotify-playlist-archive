@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-358 songs - 1 day 0 hr 35 min
+360 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [君をみつめて \-The time I'm seeing you\-](https://open.spotify.com/track/5stdxieAT6CTIM87bP1H2V) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [SINGLE BEST COLLECTION](https://open.spotify.com/album/2eqNcaWGR52GfEpc0X3NOs) | 4:36 | 2024-01-27 | 2024-04-19 |
 | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/track/3MPsfnHkXQTXCjTlJdpzhk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/album/0BYCNGZdxWGcZj88wNsnxN) | 4:36 | 2022-07-27 |  |
 | [哀 戦士](https://open.spotify.com/track/2qHFdjgqzmd8Bw4J4CImaY) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [哀 戦士](https://open.spotify.com/album/1JLAdPPA3zVr6nXpgPocgc) | 3:51 | 2022-07-27 |  |
+| [夏の現在地 \(I\_047\)](https://open.spotify.com/track/48MX9kzb7xMatXAgyDzAph) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [岡地織花](https://open.spotify.com/artist/0jZoRfTbH7qvQAyUN2E7XW) | [夏の現在地 \(I\_047\)](https://open.spotify.com/album/4NX0Ho7kSBqCcIEejaJ0Hp) | 1:40 | 2025-05-08 |  |
 | [夜に咲く](https://open.spotify.com/track/3D6nPXAtujzuhqDIE9B9Jo) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [夜に咲く](https://open.spotify.com/album/4pEOUdsqzor9LDUWcoq5N8) | 3:00 | 2025-05-01 |  |
 | [夜明けのShooting Star](https://open.spotify.com/track/458T6LRHbdUHSPuXa6ybTT) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [夜明けのShooting Star](https://open.spotify.com/album/53UbmHb5nkkpVkKjzkhO07) | 4:51 | 2022-07-27 |  |
 | [夜明けのShooting Star](https://open.spotify.com/track/14M2PHwzDaKocGozilYUKI) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [WHATEVER](https://open.spotify.com/album/3sRJVKtEFdGWQtagF9FFq0) | 4:52 | 2023-04-21 | 2024-04-19 |
@@ -344,6 +345,7 @@
 | [水の星へ愛をこめて](https://open.spotify.com/track/2dzF7OvfbI8Cu3NGnNT1Ix) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/6eCYVaZelUiLzRxbrqmnjo) | 3:39 | 2024-01-27 | 2024-04-19 |
 | [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 | 2022-07-27 |  |
 | [水の証](https://open.spotify.com/track/6xwmNJopUWsknupGG3kTUQ) | [ラクス・クライン \(CV: 田中理恵\)](https://open.spotify.com/artist/7MnUOaYaLcbvdOQ5J1cpy0) | [水の証](https://open.spotify.com/album/5YNdnDhVQsf6cyWqanKgXH) | 4:27 | 2024-01-27 |  |
+| [水槽の街から \(I\_006\_lyric\)](https://open.spotify.com/track/1PfpiYudUPmaKnLPgnkbgF) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [みきまりあ \(NOMELON NOLEMON\)](https://open.spotify.com/artist/13cf0p8alFaSB1GFL0EBCJ) | [水槽の街から \(I\_006\_lyric\)](https://open.spotify.com/album/0i1kmnIlqnPUMvwKMe4gl7) | 3:51 | 2025-05-08 |  |
 | [永遠にアムロ](https://open.spotify.com/track/61stX0ZL2UpvInQoUiRNb3) | [池田鴻](https://open.spotify.com/artist/3fIav2Iwr4ZhYGMe8hRs8V), [フィーリング・フリー](https://open.spotify.com/artist/0jpYHQy9n4YGEUvUtbAH1n) | [永遠にアムロ](https://open.spotify.com/album/4vEzSf1Ntj4N7MdobtKt0b) | 3:02 | 2022-07-27 |  |
 | [泪のムコウ](https://open.spotify.com/track/4UqCpvmOL8FiohnarAoRRx) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [A Hydrangea Blooms](https://open.spotify.com/album/33vrEaKrkBd3jOs7kpwaQu) | 3:30 | 2022-07-27 | 2024-04-19 |
 | [泪のムコウ](https://open.spotify.com/track/4I663Yw4XM2eqFmc1ipws0) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [ハイド．ランジアが咲いている](https://open.spotify.com/album/3Ry7whbErdLdXUivzpV6oY) | 3:30 | 2022-07-27 |  |

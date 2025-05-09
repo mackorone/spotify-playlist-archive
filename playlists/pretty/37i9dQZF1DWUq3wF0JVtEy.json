@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 938787,
+  "num_followers": 938810,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,26 @@
     {
       "added_at": "2025-05-02 05:36:10",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Confession",
+          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC"
+    },
+    {
+      "added_at": "2025-05-02 05:36:10",
+      "album": {
         "name": "2 Things",
         "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
-    },
-    {
-      "added_at": "2025-05-02 05:36:10",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        },
-        {
-          "name": "Confession",
-          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC"
     },
     {
       "added_at": "2025-05-02 05:36:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-05-02 05:36:10",
       "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
-    },
-    {
-      "added_at": "2025-05-02 05:36:10",
-      "album": {
         "name": "Arsonist",
         "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2025-05-02 05:36:10",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/51wiwpo6ZoXNiYX4KagKuh"
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
       },
       "artists": [
         {
-          "name": "Repiet",
-          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 198047,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2QOadE17eoDQSzXWcfCSJD"
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
     },
     {
       "added_at": "2025-05-02 05:36:10",
@@ -935,6 +919,22 @@
       "duration_ms": 134624,
       "name": "Party All The Time - D.O.D Remix",
       "url": "https://open.spotify.com/track/5JBtawmFkJ1Qs9Fzrdgkxt"
+    },
+    {
+      "added_at": "2025-05-02 05:36:10",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/51wiwpo6ZoXNiYX4KagKuh"
+      },
+      "artists": [
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        }
+      ],
+      "duration_ms": 198047,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2QOadE17eoDQSzXWcfCSJD"
     },
     {
       "added_at": "2025-05-02 05:36:10",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2025-05-02 05:36:10",
       "album": {
+        "name": "Goodies - Knock2 Remix",
+        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Goodies - Knock2 Remix",
+      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+    },
+    {
+      "added_at": "2025-05-02 05:36:10",
+      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1127,22 +1147,22 @@
     {
       "added_at": "2025-05-02 05:36:10",
       "album": {
-        "name": "Goodies - Knock2 Remix",
-        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
+        "name": "Feel The Beat",
+        "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Drop The Cheese",
+          "url": "https://open.spotify.com/artist/4DPCpJ3C1nIqEFVs37tiOJ"
         },
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
         }
       ],
-      "duration_ms": 209523,
-      "name": "Goodies - Knock2 Remix",
-      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+      "duration_ms": 163124,
+      "name": "Feel The Beat",
+      "url": "https://open.spotify.com/track/5LKDemoQgpHqJ199IZnfoa"
     },
     {
       "added_at": "2025-05-02 05:36:10",
@@ -1207,26 +1227,6 @@
       "duration_ms": 194243,
       "name": "Quick Highs",
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
-    },
-    {
-      "added_at": "2025-05-02 05:36:10",
-      "album": {
-        "name": "Feel The Beat",
-        "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
-      },
-      "artists": [
-        {
-          "name": "Drop The Cheese",
-          "url": "https://open.spotify.com/artist/4DPCpJ3C1nIqEFVs37tiOJ"
-        },
-        {
-          "name": "Amero",
-          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Feel The Beat",
-      "url": "https://open.spotify.com/track/5LKDemoQgpHqJ199IZnfoa"
     },
     {
       "added_at": "2025-05-02 05:36:10",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2025-05-02 05:36:10",
       "album": {
-        "name": "Bass Is Pumpin'",
-        "url": "https://open.spotify.com/album/2O5wDef9IOKDNA0omNVvMH"
+        "name": "Run It!",
+        "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
       },
       "artists": [
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Bass Is Pumpin'",
-      "url": "https://open.spotify.com/track/0IIAETPKS90tTMbcsOZu7J"
+      "duration_ms": 139842,
+      "name": "Run It!",
+      "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
     },
     {
       "added_at": "2025-05-02 05:36:10",
@@ -1671,34 +1671,18 @@
     {
       "added_at": "2025-05-02 05:36:10",
       "album": {
-        "name": "Run It!",
-        "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
+        "name": "Bass Is Pumpin'",
+        "url": "https://open.spotify.com/album/2O5wDef9IOKDNA0omNVvMH"
       },
       "artists": [
         {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 139842,
-      "name": "Run It!",
-      "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
-    },
-    {
-      "added_at": "2025-05-02 05:36:10",
-      "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
+      "duration_ms": 192000,
+      "name": "Bass Is Pumpin'",
+      "url": "https://open.spotify.com/track/0IIAETPKS90tTMbcsOZu7J"
     },
     {
       "added_at": "2025-05-02 05:36:10",
@@ -1715,6 +1699,22 @@
       "duration_ms": 138000,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/2tb7YJrPpuBJAz1oUNxmTU"
+    },
+    {
+      "added_at": "2025-05-02 05:36:10",
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2025-05-02 05:36:10",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-05-02 05:36:10",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 166954,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
-    },
-    {
-      "added_at": "2025-05-02 05:36:10",
-      "album": {
         "name": "Chain Gang",
         "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 107536,
       "name": "Chain Gang",
       "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
+    },
+    {
+      "added_at": "2025-05-02 05:36:10",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 166954,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
     },
     {
       "added_at": "2025-05-02 05:36:10",
@@ -1859,18 +1859,22 @@
     {
       "added_at": "2025-05-02 05:36:10",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/4JNwJJVKB8xlIAVeyrnH1g"
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/6diHtMekZwOe9u0yPsGGj9"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "Charmes",
+          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
+        },
+        {
+          "name": "ED_PRJCT",
+          "url": "https://open.spotify.com/artist/3pfE00p0ds0YdtRwWi4DtR"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/78lvhUGgTPdc9A4hWaJy0X"
+      "duration_ms": 138518,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/7sBpjG2LLkn0gsJFrPgXne"
     },
     {
       "added_at": "2025-05-02 05:36:10",
@@ -1903,22 +1907,18 @@
     {
       "added_at": "2025-05-02 05:36:10",
       "album": {
-        "name": "Ravers",
-        "url": "https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/4JNwJJVKB8xlIAVeyrnH1g"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         }
       ],
-      "duration_ms": 153749,
-      "name": "Ravers",
-      "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
+      "duration_ms": 205714,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/78lvhUGgTPdc9A4hWaJy0X"
     }
   ],
   "unique_name": "Shuffle Syndrome",

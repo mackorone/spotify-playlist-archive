@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 204704,
+  "num_followers": 204770,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "El Chapo (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Vienen A Verme - Theme from \"El Chapo\"",
-      "url": "https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Correspondencia",
         "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 202053,
       "name": "Acic\u00e1lame",
       "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "El Chapo (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Vienen A Verme - Theme from \"El Chapo\"",
+      "url": "https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi"
     },
     {
       "added_at": "2024-07-12 18:08:37",

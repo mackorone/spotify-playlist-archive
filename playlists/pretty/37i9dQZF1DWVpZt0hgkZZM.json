@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 39553,
+  "num_followers": 39570,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
+      },
+      "artists": [
+        {
+          "name": "La Familia Andr\u00e9",
+          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "De Oro",
+      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
-      },
-      "artists": [
-        {
-          "name": "La Familia Andr\u00e9",
-          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "De Oro",
-      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
         }
       ],
-      "duration_ms": 249746,
-      "name": "Por una L\u00e1grima",
-      "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
+      "duration_ms": 247059,
+      "name": "Ag\u00fcita 'e Coco",
+      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -627,6 +627,38 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Te Voy Hacer Falta",
+      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Por una L\u00e1grima",
+      "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
@@ -643,38 +675,6 @@
       "duration_ms": 242918,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
-        }
-      ],
-      "duration_ms": 247059,
-      "name": "Ag\u00fcita 'e Coco",
-      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Te Voy Hacer Falta",
-      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/6KSLiEl48G935lj6cW4NJ0"
+      },
+      "artists": [
+        {
+          "name": "Pecos Kanvas",
+          "url": "https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Mar Y Luna",
+      "url": "https://open.spotify.com/track/49Es10LfY1GL6sCw2BrMah"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 220354,
       "name": "Ojitos Hechiceros",
       "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Colecci\u00f3n De Oro",
-        "url": "https://open.spotify.com/album/6KSLiEl48G935lj6cW4NJ0"
-      },
-      "artists": [
-        {
-          "name": "Pecos Kanvas",
-          "url": "https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Mar Y Luna",
-      "url": "https://open.spotify.com/track/49Es10LfY1GL6sCw2BrMah"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -907,26 +907,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
       },
       "artists": [
         {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
         },
         {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
-        },
-        {
-          "name": "David",
-          "url": "https://open.spotify.com/artist/5XfK5zmN6FEyhMgpRIPrtw"
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
         }
       ],
-      "duration_ms": 204288,
-      "name": "Cachete, Pechito y Ombligo",
-      "url": "https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51"
+      "duration_ms": 202673,
+      "name": "Boquita de Caramelo",
+      "url": "https://open.spotify.com/track/5Q9DJQU4WMNw3BX6DAXMAz"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -947,6 +943,30 @@
       "duration_ms": 277636,
       "name": "Busc\u00e1ndote",
       "url": "https://open.spotify.com/track/70eAth7yT2CClU6AD8INk1"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+        },
+        {
+          "name": "David",
+          "url": "https://open.spotify.com/artist/5XfK5zmN6FEyhMgpRIPrtw"
+        }
+      ],
+      "duration_ms": 204288,
+      "name": "Cachete, Pechito y Ombligo",
+      "url": "https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -983,26 +1003,6 @@
       "duration_ms": 266410,
       "name": "Usted Es la Culpable",
       "url": "https://open.spotify.com/track/6ssKSM4HcodzZ1OIxAyq63"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 202673,
-      "name": "Boquita de Caramelo",
-      "url": "https://open.spotify.com/track/5Q9DJQU4WMNw3BX6DAXMAz"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
-      },
-      "artists": [
-        {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        },
-        {
-          "name": "\u00c9der Ortega",
-          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Si Me Dejaras (Te Necesito)",
-      "url": "https://open.spotify.com/track/2p6nkFtOHOgpGYkYejAIlY"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "El Baile de la Quebradita",
         "url": "https://open.spotify.com/album/1vRkuGwrTKgOcSPOGwOTSV"
       },
@@ -1111,18 +1091,38 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
+        "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
+        "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+          "name": "Anibal Velasquez",
+          "url": "https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE"
         }
       ],
-      "duration_ms": 283022,
-      "name": "Con los Crespos Hechos",
-      "url": "https://open.spotify.com/track/0JhZ96xBAor5yrPd96KG7D"
+      "duration_ms": 186709,
+      "name": "Cachita",
+      "url": "https://open.spotify.com/track/4xi5Gq7tF6tB59pLttDAzN"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+      },
+      "artists": [
+        {
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        },
+        {
+          "name": "\u00c9der Ortega",
+          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Si Me Dejaras (Te Necesito)",
+      "url": "https://open.spotify.com/track/2p6nkFtOHOgpGYkYejAIlY"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
-        "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
+        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
       },
       "artists": [
         {
-          "name": "Anibal Velasquez",
-          "url": "https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 186709,
-      "name": "Cachita",
-      "url": "https://open.spotify.com/track/4xi5Gq7tF6tB59pLttDAzN"
+      "duration_ms": 283022,
+      "name": "Con los Crespos Hechos",
+      "url": "https://open.spotify.com/track/0JhZ96xBAor5yrPd96KG7D"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+        "name": "Historia Musical de Lisandro Meza: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4pdipU1bAg54lJjG8i0bTo"
       },
       "artists": [
         {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
         }
       ],
-      "duration_ms": 212821,
-      "name": "Mu\u00f1eca Linda",
-      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
+      "duration_ms": 252980,
+      "name": "Te Llevar\u00e9",
+      "url": "https://open.spotify.com/track/09xfvBjdCnMRDB0f2Vqefu"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1211,22 +1211,6 @@
       "duration_ms": 251761,
       "name": "Me Toc\u00f3 Perderte",
       "url": "https://open.spotify.com/track/2nrbEUO1fIZ72I6Jdf1m8h"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de Lisandro Meza: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/4pdipU1bAg54lJjG8i0bTo"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 252980,
-      "name": "Te Llevar\u00e9",
-      "url": "https://open.spotify.com/track/09xfvBjdCnMRDB0f2Vqefu"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1304,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
         }
       ],
-      "duration_ms": 247409,
-      "name": "Dame Tu Querer",
-      "url": "https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf"
+      "duration_ms": 212821,
+      "name": "Mu\u00f1eca Linda",
+      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+      },
+      "artists": [
+        {
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        }
+      ],
+      "duration_ms": 247409,
+      "name": "Dame Tu Querer",
+      "url": "https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de los Nemus del Pac\u00edfico",
         "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
       },
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
       "artists": [
         {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        },
-        {
-          "name": "W\u00edllinton Garc\u00e9s",
-          "url": "https://open.spotify.com/artist/1HT80cLdWC9mvbpEQIi3zR"
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
         }
       ],
-      "duration_ms": 268811,
-      "name": "Golpes en el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB"
+      "duration_ms": 236714,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/7wOZqiiDBA0krJNhlIvXf9"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1471,18 +1467,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
       },
       "artists": [
         {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 236714,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/7wOZqiiDBA0krJNhlIvXf9"
+      "duration_ms": 189954,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1507,22 +1503,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 189954,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de la Sonora Cordobesa",
         "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 155719,
       "name": "La Mafafa",
       "url": "https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+      },
+      "artists": [
+        {
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        },
+        {
+          "name": "W\u00edllinton Garc\u00e9s",
+          "url": "https://open.spotify.com/artist/1HT80cLdWC9mvbpEQIi3zR"
+        }
+      ],
+      "duration_ms": 268811,
+      "name": "Golpes en el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB"
     },
     {
       "added_at": "2024-07-12 23:11:55",

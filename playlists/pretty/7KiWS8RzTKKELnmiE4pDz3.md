@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 300 songs - 16 hr 3 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 306 songs - 16 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,5 +308,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 298 | [Servin](https://open.spotify.com/track/5b08yoDiuEkjEzeFqZ7NRt) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 4:02 |
 | 299 | [Bullet Wound \(feat\. Lil Wayne & Young Scooter\)](https://open.spotify.com/track/6t9dhGRdZ79uPGpqjyuB2q) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:27 |
 | 300 | [Rich Muthafucka](https://open.spotify.com/track/3rlFWxApRYFp56vXCqt5fO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:18 |
+| 301 | [Trenches](https://open.spotify.com/track/5zlEkBmLWairpf6lvCYrti) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix](https://open.spotify.com/album/075lV4wdtLwFvIvCUdSYhL) | 1:56 |
+| 302 | [200 FOR LUNCH](https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:29 |
+| 303 | [R3kless](https://open.spotify.com/track/6fItXFfd1hwIPwJNxvu9iK) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Dumb and Dumb3r](https://open.spotify.com/album/219ryDc5ktf9nDO7FPkwIt) | 2:36 |
+| 304 | [Tuff](https://open.spotify.com/track/5yoztgebGjM9Xj2M7CEe2n) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Grandson, Vol\. 1](https://open.spotify.com/album/5BAggP8hO7VWDSTKkNGyCi) | 2:28 |
+| 305 | [Movie](https://open.spotify.com/track/56nMxD5Hz0gI2E1lDmC0kk) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [3vil Reflection](https://open.spotify.com/album/17DbwNYaf8YjmLXSwiKG3M) | 2:16 |
+| 306 | [ik what you did last summer](https://open.spotify.com/track/1imJDIpA1lc0pmXEKQDXPV) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [ik what you did last summer](https://open.spotify.com/album/23mu61TZub1lTik1j31nL2) | 1:46 |
 
-Snapshot ID: `AAAeTUhrdzuJlhqFyR1SUHzupKqJfJKh`
+Snapshot ID: `AAAeU16rKk2Ys15UhWUp4HkHvQEHsZ5w`

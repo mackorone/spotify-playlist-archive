@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Burna Boy x Shallipopi
+> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: KeBlack
 
-766 songs - 1 day 13 hr 38 min
+767 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 | 2024-12-12 | 2025-02-21 |
 | [Grand cru](https://open.spotify.com/track/1fuu6lFWFX9zZfrO5z9gUF) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M) | [Grand cru](https://open.spotify.com/album/7Lnsxbz9mIxDL3Ehy89m5P) | 3:44 | 2022-04-14 | 2022-05-13 |
 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 | 2024-02-15 | 2024-09-13 |
-| [Guantanamo](https://open.spotify.com/track/6V9sJD14uM8fuH7Oj4URA7) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Guantanamo](https://open.spotify.com/album/6zfhIu11roei5i5Zkd0EUe) | 2:29 | 2025-03-27 |  |
+| [Guantanamo](https://open.spotify.com/track/6V9sJD14uM8fuH7Oj4URA7) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Guantanamo](https://open.spotify.com/album/6zfhIu11roei5i5Zkd0EUe) | 2:29 | 2025-03-27 | 2025-05-09 |
 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-16 | 2023-05-12 |
 | [Gé la vision](https://open.spotify.com/track/1o8G3nVt6Pu50M45XWXjG0) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Gé la vision](https://open.spotify.com/album/5CeUd30cuCdyO6ARDKbtnY) | 2:59 | 2023-07-06 | 2023-08-25 |
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 | 2023-05-04 | 2023-06-23 |
@@ -377,6 +377,7 @@
 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 | 2024-09-26 | 2024-11-15 |
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-04-11 | 2024-10-25 |
 | [Jusqu'à demain](https://open.spotify.com/track/5inaMIqw4pp7PtJELvraCj) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Jusqu'à demain](https://open.spotify.com/album/4ntHZfs7UQ8b2rqeCcYmA7) | 2:37 | 2023-08-31 | 2023-11-17 |
+| [Kai!](https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kai!](https://open.spotify.com/album/2Pp0uBbh3uo5EAkyGYrRru) | 2:55 | 2025-05-08 |  |
 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 | 2023-11-16 | 2023-12-22 |
 | [Kel bail](https://open.spotify.com/track/6g3fzFlpdd834RWaL4O56o) | [Venant Delacapitale](https://open.spotify.com/artist/2YWcCTBHHea2yUzM71Kwz1), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Kel bail](https://open.spotify.com/album/6fYcge4ihB6KfdvAGCFQyE) | 3:21 | 2022-06-23 | 2022-07-01 |
 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-22 | 2022-09-23 |

@@ -29719,6 +29719,24 @@
     },
     {
       "album": {
+        "name": "Sedated",
+        "url": "https://open.spotify.com/album/5pyug9x5BynBl8rMFJPGEQ"
+      },
+      "artists": [
+        {
+          "name": "Ona Mafalda",
+          "url": "https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134814,
+      "name": "Sedated",
+      "url": "https://open.spotify.com/track/4q3R4Tk5QWwORUl1YtxXfL"
+    },
+    {
+      "album": {
         "name": "Seghadoras",
         "url": "https://open.spotify.com/album/59ePHpWmzr2VRhRupqTiy0"
       },
@@ -36702,7 +36720,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 140281,
       "name": "Ya No Soy Esa",
       "url": "https://open.spotify.com/track/0WmbQs7J39KFReyNj8r1DB"

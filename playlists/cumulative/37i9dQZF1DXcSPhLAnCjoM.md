@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Hallelujah" de Vianney est le Grand Hit de la semaine.
+> "Feel Good" de Charlotte Cardin est le Grand Hit de la semaine.
 
-248 songs - 12 hr 42 min
+250 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,10 +122,11 @@
 | [JVQTSM](https://open.spotify.com/track/3FWwWrfHcJwY2C3BaNTh3j) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [JVQTSM](https://open.spotify.com/album/7KzCTw13UpdcbSSLfRXUBB) | 2:28 | 2024-03-14 | 2024-09-27 |
 | [J’ai changé](https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 3:07 | 2025-01-30 |  |
 | [L'amour](https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 2:47 | 2023-09-28 | 2024-01-26 |
+| [L'amour fou](https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'amour fou](https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV) | 4:47 | 2025-05-08 |  |
 | [L'espoir](https://open.spotify.com/track/3IK8PYgz005T6Dr0GLM8Tk) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [L'espoir](https://open.spotify.com/album/2dOzojnn941b4TB06Epdjh) | 3:02 | 2023-12-07 | 2024-03-01 |
 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 | 2024-11-07 | 2025-01-24 |
 | [L'intime & le monde](https://open.spotify.com/track/3METcxyrhm971tgsz5yX1I) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [L'intime & le monde](https://open.spotify.com/album/0kexPpzB8l3VZbHWY3UIba) | 3:39 | 2024-03-07 | 2024-05-10 |
-| [La belle et la bête \- Single Version](https://open.spotify.com/track/6RAf7QUuJzSZXAZcJO8q0G) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [La belle et la bête](https://open.spotify.com/album/0NEreCWbXNKpXwvhYjYtTA) | 3:41 | 2025-01-09 |  |
+| [La belle et la bête \- Single Version](https://open.spotify.com/track/6RAf7QUuJzSZXAZcJO8q0G) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [La belle et la bête](https://open.spotify.com/album/0NEreCWbXNKpXwvhYjYtTA) | 3:41 | 2025-01-09 | 2025-05-09 |
 | [La belle époque](https://open.spotify.com/track/4DHuh5umihj3cgiuyQ7jbE) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [La belle époque](https://open.spotify.com/album/68mbwN9aTDYGlgWzhTKPoe) | 2:52 | 2023-09-28 | 2023-10-24 |
 | [La Différence \- Single Version](https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [La Différence](https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX) | 3:36 | 2025-01-16 |  |
 | [La gloire de nos pères](https://open.spotify.com/track/4TLTVC2ptKtrlUzkBSXq0A) | [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq) | [La gloire de nos pères](https://open.spotify.com/album/7wlEAb5jCOgYZ1Zk6t6sPn) | 3:13 | 2024-12-05 | 2025-02-28 |
@@ -135,7 +136,7 @@
 | [La vie](https://open.spotify.com/track/04VPEsP3L4td2u4RuvOdrD) | [Malo'](https://open.spotify.com/artist/0wHHtuNdjnmH9spIm2VrhR) | [La vie](https://open.spotify.com/album/7a1zSyuq070pBzYpSrc0Az) | 3:28 | 2023-09-28 | 2023-10-06 |
 | [La vie n'attend pas](https://open.spotify.com/track/2Y7b1M2BRPtyXR8Py3w4Zx) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Avec un H](https://open.spotify.com/album/5MKuByPteUpw5FLpGfVPR5) | 2:23 | 2024-10-10 | 2025-01-10 |
 | [Laissez\-moi danser](https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Laissez\-moi danser](https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK) | 2:52 | 2023-09-28 | 2024-04-26 |
-| [Last in Line \- 2024 Edit](https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Last in Line \(2024 Edit\)](https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb) | 3:03 | 2025-01-30 |  |
+| [Last in Line \- 2024 Edit](https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Last in Line \(2024 Edit\)](https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb) | 3:03 | 2025-01-30 | 2025-05-09 |
 | [Le bruit du silence](https://open.spotify.com/track/063IwEdb1LaITJk0LOP0h9) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 3:02 | 2023-12-07 | 2024-06-21 |
 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-06-20 | 2024-12-13 |
 | [Le chant est libre](https://open.spotify.com/track/75mPIntRqq7cjqnwOImjoA) | [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq) | [Le chant est libre](https://open.spotify.com/album/0oc0MJZSiphw6KpY9KgKum) | 3:42 | 2024-02-01 | 2024-08-02 |
@@ -154,6 +155,7 @@
 | [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 | 2024-07-25 | 2024-10-04 |
 | [Les bougies](https://open.spotify.com/track/4VqILOLkQsyp2ZLvTQpouZ) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 3:38 | 2024-01-25 | 2024-03-08 |
 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 | 2023-09-28 | 2023-11-11 |
+| [les filles, les meufs](https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les filles, les meufs](https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY) | 2:59 | 2025-05-08 |  |
 | [Les jours qui restent](https://open.spotify.com/track/0frKjAjwE6M58Q6bmnesKk) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Les jours qui restent](https://open.spotify.com/album/1cc7KL70u0dacUY7Cog900) | 2:42 | 2024-08-22 | 2024-09-13 |
 | [Les jours qui restent](https://open.spotify.com/track/5a7xABOf6HTMIlNoQmaKIR) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [15h22](https://open.spotify.com/album/5KKMlk879ZC5yHDMsNpMq1) | 2:42 | 2024-09-26 | 2024-10-11 |
 | [Les longueurs \- Edit](https://open.spotify.com/track/5TH1qlhAzrCE2EgfJlkXAV) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS), [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Les longueurs \(Edit\)](https://open.spotify.com/album/6sPxIi31QDF9wq61tFA1C4) | 3:11 | 2024-04-18 | 2024-05-03 |

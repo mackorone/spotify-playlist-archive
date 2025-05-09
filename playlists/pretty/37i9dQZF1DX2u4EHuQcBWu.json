@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 269333,
+  "num_followers": 269375,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Viva Italia",
-        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
-      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "El Diablito",
         "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 280933,
       "name": "Aqu\u00ed No Pasa Nada",
       "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Viva Italia",
+        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
+      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
-        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 242216,
-      "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
-      "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Ej\u00e9rcito de Paz",
         "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Aerolineas Makiza",
-        "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
       "artists": [
         {
-          "name": "Makiza",
-          "url": "https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5"
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
         }
       ],
-      "duration_ms": 272800,
-      "name": "En Paro",
-      "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
+      "duration_ms": 242216,
+      "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
+      "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -803,6 +787,22 @@
       "duration_ms": 250706,
       "name": "Si Me Matan",
       "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Aerolineas Makiza",
+        "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
+      },
+      "artists": [
+        {
+          "name": "Makiza",
+          "url": "https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "En Paro",
+      "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "La Dieta del Lagarto",
+        "url": "https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Empresaurio",
+      "url": "https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Bolero Apocal\u00edptico (Deluxe Version)",
         "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 241023,
       "name": "Cumbia Valiente",
       "url": "https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "La Dieta del Lagarto",
-        "url": "https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw"
-      },
-      "artists": [
-        {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Empresaurio",
-      "url": "https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Plegaria A Un Labrador",
-      "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Fuego (Canciones de Emergencia)",
         "url": "https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 298049,
       "name": "La Canci\u00f3n Es Protesta",
       "url": "https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Plegaria A Un Labrador",
+      "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Bella Ciao",
         "url": "https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 275327,
       "name": "Grita Tierra",
       "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Ellas",
-        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Ellas",
-      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1755,18 +1755,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Gervasio",
-        "url": "https://open.spotify.com/album/1G3CuCMsNpR6eMxJ7WXE4O"
+        "name": "Julieta Venegas con la Banda Filarm\u00f3nica Tukyo\u2019m \u00ebt xuxp de San Pedro y San Pablo Ayutla, Oaxaca",
+        "url": "https://open.spotify.com/album/6HvTbXLflRkGbFlsabDbv7"
       },
       "artists": [
         {
-          "name": "Gervasio",
-          "url": "https://open.spotify.com/artist/2Tvx0xTgN6ok9PXCNKbPBW"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Banda Filarm\u00f3nica Tukyo\u2019m \u00ebt xuxp de San Pedro y San Pablo Ayutla, Oaxaca",
+          "url": "https://open.spotify.com/artist/33OkyAZ5fzcbQeqcZSHyGm"
         }
       ],
-      "duration_ms": 241360,
-      "name": "La Marcha de la Bronca",
-      "url": "https://open.spotify.com/track/0ZoDjWUyhpbmN6bAk9xkvs"
+      "duration_ms": 258798,
+      "name": "Andamos Huyendo",
+      "url": "https://open.spotify.com/track/5alx8Rk2ycn76KvsTaDXH3"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

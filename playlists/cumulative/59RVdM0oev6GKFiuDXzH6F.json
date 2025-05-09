@@ -1347,6 +1347,28 @@
     },
     {
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/75whS2GTKoE2GkihiuFsvk"
+      },
+      "artists": [
+        {
+          "name": "Juicy M",
+          "url": "https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6"
+        },
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123807,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/7bCfSIVQZLVMAe2Z1lxsMM"
+    },
+    {
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/5Soouc6xGiJ6qOZXWqBeir"
       },
@@ -2256,6 +2278,28 @@
       "duration_ms": 165586,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/27oW5OZrRDSvejyOU8KkzK"
+    },
+    {
+      "album": {
+        "name": "Breathe (with Jerome)",
+        "url": "https://open.spotify.com/album/2y7vu7uO0GjDfN5OzLPOVY"
+      },
+      "artists": [
+        {
+          "name": "Police In Paris",
+          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Breathe (with Jerome)",
+      "url": "https://open.spotify.com/track/2MNq4nkmeFTj6YOF4xu4F6"
     },
     {
       "album": {
@@ -4926,7 +4970,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 222785,
       "name": "Ethos",
       "url": "https://open.spotify.com/track/61vtSOrJad1A4DIC1jhoXZ"
@@ -4962,7 +5006,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 170322,
       "name": "Every Guy Like U",
       "url": "https://open.spotify.com/track/6fxTkxPvON3rTqP6iOBRMY"
@@ -5430,7 +5474,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 152764,
       "name": "Fool (feat. Betty Bloom)",
       "url": "https://open.spotify.com/track/0z1keLvev9EbAXycMboeRt"
@@ -6020,7 +6064,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 157777,
       "name": "Girls Just Wanna Have Fun",
       "url": "https://open.spotify.com/track/0bHJwpXNSEYjzxSiADRTfG"
@@ -6104,7 +6148,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 194062,
       "name": "Go Down - Radio Mix",
       "url": "https://open.spotify.com/track/5rknguMmLNVo3nssfJiThj"
@@ -6600,7 +6644,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 192780,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/4AwgEsYuFsdAYM8Tj6NxeE"
@@ -7138,7 +7182,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 182336,
       "name": "Humpty Dumpty",
       "url": "https://open.spotify.com/track/0si4CtK4GNt9yWRd8QcvQx"
@@ -8876,7 +8920,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 123801,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/0oabxxEEEnnjT7LciaWm91"
@@ -9380,7 +9424,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 157612,
       "name": "Let Me Be Free",
       "url": "https://open.spotify.com/track/4hOy8WffTmRsvNO0Kuc3cC"
@@ -9878,7 +9922,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 224000,
       "name": "Like You Do",
       "url": "https://open.spotify.com/track/5CzlTfYerCpNY30BgF2IOG"
@@ -10756,7 +10800,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 311755,
       "name": "Lunga",
       "url": "https://open.spotify.com/track/1RRT3SnQmP83GTqyo8Cram"
@@ -10960,7 +11004,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 155513,
       "name": "Man On The Internet",
       "url": "https://open.spotify.com/track/1uhpwRggf9AaJws3idWFPF"
@@ -11350,7 +11394,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 371969,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/5cPrR8zvZOkyQuLUEstFIT"
@@ -15384,7 +15428,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 161868,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/6aocwgz3VqX859yR3JpJHB"
@@ -15588,6 +15632,24 @@
       "duration_ms": 237635,
       "name": "Silence Your Mind (feat. Fredrik Ferrier)",
       "url": "https://open.spotify.com/track/6IOJl2g2cTm0xfW2QtTQsY"
+    },
+    {
+      "album": {
+        "name": "SISTEM ERROR",
+        "url": "https://open.spotify.com/album/7h0LRiVOmVQGLOTc9xntF1"
+      },
+      "artists": [
+        {
+          "name": "GI\u00d8",
+          "url": "https://open.spotify.com/artist/1DTuf3cqItmyesR4lICN1M"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242962,
+      "name": "SISTEM ERROR",
+      "url": "https://open.spotify.com/track/5fKil1HCUAk45V4ExBdMEV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-261 songs - 19 hr 11 min
+262 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bring That Beat \- Alex Farell Remix](https://open.spotify.com/track/4oTZOE3rVPsRYQJqSva4e9) | [VENTUR](https://open.spotify.com/artist/0Qo40DtODOjvhsRwwsbtHt), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Set in Motion](https://open.spotify.com/album/2lzahzr7uYUFGP54JAFvP8) | 5:27 | 2024-04-09 | 2024-07-13 |
 | [Bunker Buster](https://open.spotify.com/track/4lJBjtEABOhrdv7NzBD0KW) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Bunker Buster](https://open.spotify.com/album/6Oqnh7JGRs89dUzdPBE1nY) | 5:43 | 2024-04-09 |  |
 | [Burn](https://open.spotify.com/track/0WSDlDRc8Yex9b2UyTOciK) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [R005](https://open.spotify.com/album/7AeBk55EN88Zujns38BDTO) | 4:42 | 2024-04-09 | 2024-07-25 |
+| [Bye Bye](https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Bye Bye](https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1) | 4:54 | 2025-04-25 |  |
 | [BYEBYE](https://open.spotify.com/track/4pm6fdwvqoUixkk6U0GoLg) | [Franky\-B](https://open.spotify.com/artist/24C1Z9RP71CzGmU1Dx3oTV) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:00 | 2024-07-18 | 2024-07-22 |
 | [Calvin Klein](https://open.spotify.com/track/5C69PdWc5YoFWiZV1q9aBR) | [Andrew Cairns](https://open.spotify.com/artist/6DqZtx0QR4tIjt9sRN4kO1) | [Calvin Klein](https://open.spotify.com/album/57SHeyxA2ubPJFNExodhzB) | 7:42 | 2024-06-14 | 2024-06-17 |
 | [Can You Feel It](https://open.spotify.com/track/7wjdC6qnD3sBBJWVIF2tb2) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [CHAST](https://open.spotify.com/artist/47MfeoK51R2miigq4AtnuB) | [Can You Feel It](https://open.spotify.com/album/57bbRzO01n3k5md318EFtK) | 4:06 | 2024-07-21 | 2024-08-06 |
@@ -190,7 +191,7 @@
 | [Purple Widow](https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Purple Widow \(Original & Remix Versions\)](https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At) | 6:21 | 2024-04-09 |  |
 | [Queen of the Banshees \- Nico Moreno Remix](https://open.spotify.com/track/1RM4nxRkTwXtOKilbWtsKk) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Queen of the Banshees](https://open.spotify.com/album/7zJn0dr5wJ5mukKnceLiJA) | 5:42 | 2024-04-09 |  |
 | [Rage Power](https://open.spotify.com/track/0PX8SXZQLoEKhqdTbCTWhv) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I), [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd) | [Rage Power](https://open.spotify.com/album/1CNDOIgDMn3zc77HWT4mOh) | 5:23 | 2024-04-09 | 2024-07-04 |
-| [Ragnarok](https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Ragnarok](https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10) | 5:15 | 2024-05-22 |  |
+| [Ragnarok](https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Ragnarok](https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10) | 5:15 | 2024-05-22 | 2025-05-09 |
 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 | 2025-01-09 | 2025-01-30 |
 | [Rave 4 love](https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [Rave 4 love](https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU) | 5:01 | 2024-04-09 |  |
 | [Rave Nation](https://open.spotify.com/track/4aquVCFVojUxZXhVwEj7a9) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Rave Nation](https://open.spotify.com/album/53aj8TSRvB45xOxRXokV24) | 3:03 | 2024-10-24 | 2024-12-18 |

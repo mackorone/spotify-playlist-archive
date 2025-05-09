@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 150726,
+  "num_followers": 150794,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "El Original",
+        "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "Que No Se enteren",
+      "url": "https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 235235,
       "name": "No Pude Quitarte las Espinas",
       "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "El Original",
-        "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "Que No Se enteren",
-      "url": "https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -187,6 +187,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "La 9a Batalla",
+        "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Rolando Ochoa",
+          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+        }
+      ],
+      "duration_ms": 214213,
+      "name": "Loco Paranoico",
+      "url": "https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "M\u00e1s Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6"
       },
@@ -199,22 +219,6 @@
       "duration_ms": 272440,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/25BjqOwuQ1L7MOBfB6Ksm7"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Seguimos Por Lo Alto",
-        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "Hoy Me Di Cuenta",
-      "url": "https://open.spotify.com/track/3jz0yIwy75UoCgyNMwlVT9"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -259,22 +263,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "La 9a Batalla",
-        "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
       },
       "artists": [
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Rolando Ochoa",
-          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 214213,
-      "name": "Loco Paranoico",
-      "url": "https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw"
+      "duration_ms": 294400,
+      "name": "Hoy Me Di Cuenta",
+      "url": "https://open.spotify.com/track/3jz0yIwy75UoCgyNMwlVT9"
     },
     {
       "added_at": "2024-03-28 01:45:52",

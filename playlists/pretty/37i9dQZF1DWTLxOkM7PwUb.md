@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,306 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,313 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,15 +89,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 79 | [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 |
 | 80 | [Lluvia](https://open.spotify.com/track/7kGHK6l1CKog8aJNodtKcc) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Así Como Suena](https://open.spotify.com/album/1wA87ErH7eEi2C0brE2rvE) | 2:57 |
 | 81 | [Tus Dudas](https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Elmabel](https://open.spotify.com/artist/2jKZ9FmjQaK7ILwT7ixXfr), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [Tus Dudas](https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO) | 2:51 |
-| 82 | [Te Olvidaste](https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh), [FIM Records](https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8) | [Te Olvidaste](https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB) | 3:16 |
-| 83 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 |
+| 82 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 |
+| 83 | [Te Olvidaste](https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh), [FIM Records](https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8) | [Te Olvidaste](https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB) | 3:16 |
 | 84 | [Adicto](https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Adicto](https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2) | 3:00 |
 | 85 | [No Lo Se](https://open.spotify.com/track/2AzgvH7QJkq4nXBLQeLhuD) | [Klave](https://open.spotify.com/artist/4hw9WaVkOzRQN6XaUqULv1), [Coscu](https://open.spotify.com/artist/5iDY2x1LHqHUH73t2p0YOV), [AYWA](https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO) | [No Lo Se](https://open.spotify.com/album/60CojhteCCRDrHyEggr75i) | 3:44 |
 | 86 | [Menos y Más](https://open.spotify.com/track/2bzyxGWb8qzoRH7slgD98t) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Naiky Unic](https://open.spotify.com/artist/4RiS74hj1A525qvPs66MMP) | [Menos y Más](https://open.spotify.com/album/1pWl1yVDHSIArZASd1TbDk) | 3:20 |
 | 87 | [Es Hoy](https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Es Hoy](https://open.spotify.com/album/1BVxzFI3LW4TqpKzX7Uz9o) | 2:59 |
 | 88 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 |
-| 89 | [La Playita](https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [La Playita](https://open.spotify.com/album/4HiePCPHt08pm1c1qOUqiN) | 2:45 |
-| 90 | [Dime al Oído](https://open.spotify.com/track/7wQXTBpseYNCs61ODmEJfk) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Dime al Oído](https://open.spotify.com/album/0NRqcJWIOumhKAfHAIwzBJ) | 2:51 |
+| 89 | [Dime al Oído](https://open.spotify.com/track/7wQXTBpseYNCs61ODmEJfk) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Dime al Oído](https://open.spotify.com/album/0NRqcJWIOumhKAfHAIwzBJ) | 2:51 |
+| 90 | [La Playita](https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [La Playita](https://open.spotify.com/album/4HiePCPHt08pm1c1qOUqiN) | 2:45 |
 | 91 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
 | 92 | [Beibi](https://open.spotify.com/track/6aguaDgP2NVtL3w2DK2IdR) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [45](https://open.spotify.com/album/6O6upeYf5MwVKrqV29Ga1l) | 3:09 |
 | 93 | [Como Nadie](https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Como Nadie](https://open.spotify.com/album/637GFzmph7HbYFvmEYoTZX) | 2:16 |

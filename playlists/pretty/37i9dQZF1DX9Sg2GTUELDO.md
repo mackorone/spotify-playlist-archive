@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: AmyLo
+> 感受女聲力量。Cover: Cloud 雲浩影 & 媽咪
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,903 likes - 486 songs - 1 day 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,908 likes - 486 songs - 1 day 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -495,4 +495,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 485 | [座右銘](https://open.spotify.com/track/0wrcgFagQjRcXmuGRm8p0C) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [In Control](https://open.spotify.com/album/687bmgPYRYsFGrdnRfTniL) | 3:56 |
 | 486 | [Mad](https://open.spotify.com/track/1coCAB4dyoJQBapGAvS3Co) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Mad](https://open.spotify.com/album/5TkvoT5zEYhBoQA7bnK7g5) | 4:11 |
 
-Snapshot ID: `aBOajAAAAAApd9npjfKlFwbGcxehoC20`
+Snapshot ID: `aBzVFgAAAADXjeDjah8aESLDtnef7aHm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: NewDad",
+  "description": "The UK's biggest rock playlist. Cover: Sleep Token",
   "name": "The Rock List",
   "tracks": [
     {
@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204040,
+      "name": "Alien Nation",
+      "url": "https://open.spotify.com/track/0RHEvLrABdsDHQiX4wYGHu"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF"
       },
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 182650,
       "name": "All The Love Is Gone",
       "url": "https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 177120,
       "name": "Another Boy",
       "url": "https://open.spotify.com/track/1Qp8rEHhxtjhk4VixcKLlg"
@@ -2150,6 +2168,24 @@
       "duration_ms": 186026,
       "name": "BLOOD AND SUGAR",
       "url": "https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi"
+    },
+    {
+      "album": {
+        "name": "MIXED EMOTIONS",
+        "url": "https://open.spotify.com/album/2fbZbR42v9wRJ8aojApy5Z"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191482,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/4j4rbZs658sxsDefOzq5Gu"
     },
     {
       "album": {
@@ -4426,7 +4462,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
@@ -5695,6 +5731,42 @@
     },
     {
       "album": {
+        "name": "Get Out My Face AKA Bad Kitty",
+        "url": "https://open.spotify.com/album/1ULJktTBsYpAt3CgCyyH5L"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276501,
+      "name": "Get Out My Face AKA Bad Kitty",
+      "url": "https://open.spotify.com/track/1MWtB95XxXM3rlhH058YsD"
+    },
+    {
+      "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383400,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO"
+    },
+    {
+      "album": {
         "name": "Gift Horse",
         "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
       },
@@ -5978,7 +6050,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 145207,
       "name": "God Save The Queens",
       "url": "https://open.spotify.com/track/5gYbg3Tj7FwPGTljJ6oWEb"
@@ -7364,7 +7436,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 239866,
       "name": "I Wish I Was In New York City",
       "url": "https://open.spotify.com/track/4fQC1SdVTcJz6nGea9cSHG"
@@ -8385,6 +8457,24 @@
     },
     {
       "album": {
+        "name": "Lawn Tennis",
+        "url": "https://open.spotify.com/album/5hqZp53v4abJUoZLRAkCSx"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145331,
+      "name": "Lawn Tennis",
+      "url": "https://open.spotify.com/track/2NYND3Ka9Y4DW6IfaAPDHG"
+    },
+    {
+      "album": {
         "name": "Withering",
         "url": "https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG"
       },
@@ -9064,7 +9154,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 160893,
       "name": "Love Trap",
       "url": "https://open.spotify.com/track/5T3WzOr1qHO9RYsuMJC6UN"
@@ -9215,6 +9305,24 @@
     },
     {
       "album": {
+        "name": "Man on The Moon",
+        "url": "https://open.spotify.com/album/6vTJpzK34hbmKzrftG34G8"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Man on The Moon",
+      "url": "https://open.spotify.com/track/5axqHofGz7te1YRAVJiXPA"
+    },
+    {
+      "album": {
         "name": "March on for Pax Ramona",
         "url": "https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0"
       },
@@ -9226,7 +9334,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 273230,
       "name": "March on for Pax Ramona",
       "url": "https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih"
@@ -9306,6 +9414,24 @@
       "duration_ms": 178508,
       "name": "Matador",
       "url": "https://open.spotify.com/track/7Cu035DqcjDbkxaYYfJQi1"
+    },
+    {
+      "album": {
+        "name": "Mausoleum",
+        "url": "https://open.spotify.com/album/3yqowd0LkVIpOTonFuiup8"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155386,
+      "name": "Mausoleum",
+      "url": "https://open.spotify.com/track/2yM2RQI7Kerax4ukmWgjzz"
     },
     {
       "album": {
@@ -9889,6 +10015,28 @@
     },
     {
       "album": {
+        "name": "Cryogeyser",
+        "url": "https://open.spotify.com/album/6Mlt3SMLODQopH5IqNAtj6"
+      },
+      "artists": [
+        {
+          "name": "Cryogeyser",
+          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
+        },
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179664,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/4hzzWQqdqoTO48Eh169CVk"
+    },
+    {
+      "album": {
         "name": "Mountains At Midnight",
         "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
       },
@@ -9990,7 +10138,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 257799,
       "name": "MY GOD HAS GOT A GUN",
       "url": "https://open.spotify.com/track/7ERQTqX4DWDF3onsWpxu4T"
@@ -11680,7 +11828,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 207184,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/7oIy5tbk0oUTnuZ2jeJ7Xo"
@@ -13462,6 +13610,24 @@
     {
       "album": {
         "name": "Sober",
+        "url": "https://open.spotify.com/album/52VNpXFgf7DENnJb4MXdkH"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286435,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/7i1n6BPGuSYiDaRUxKIStA"
+    },
+    {
+      "album": {
+        "name": "Sober",
         "url": "https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI"
       },
       "artists": [
@@ -13580,7 +13746,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 195401,
       "name": "SORRY I'M LATE",
       "url": "https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx"
@@ -13804,7 +13970,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 134496,
       "name": "Starchild",
       "url": "https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm"
@@ -14944,7 +15110,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 154612,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
@@ -15308,7 +15474,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 220096,
       "name": "Through The Landslide",
       "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
@@ -16068,7 +16234,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 207797,
       "name": "W.T.F",
       "url": "https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp"
@@ -16090,6 +16256,24 @@
       "duration_ms": 166844,
       "name": "Waiting On A Twist Of Fate",
       "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
+    },
+    {
+      "album": {
+        "name": "21st Century Fiction",
+        "url": "https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320523,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc"
     },
     {
       "album": {
@@ -16876,7 +17060,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 240151,
       "name": "Wonderwall - Spotify Singles",
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"

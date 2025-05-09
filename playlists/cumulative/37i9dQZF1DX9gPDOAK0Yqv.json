@@ -239,6 +239,36 @@
     },
     {
       "album": {
+        "name": "Act of God (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/7zif1K4NwIoYDfWSlnkCKW"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "Act of God (CamelPhat Remix)",
+      "url": "https://open.spotify.com/track/0jeMKIHXINpsn6b7Ym9A9h"
+    },
+    {
+      "album": {
         "name": "Four to the Floor 14",
         "url": "https://open.spotify.com/album/0CwCIOyY2ThLbis0aVnjMm"
       },
@@ -1178,7 +1208,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 182769,
       "name": "Balance",
       "url": "https://open.spotify.com/track/6av0iLsryrg6TC0kV0NSyq"
@@ -2162,6 +2192,24 @@
       "duration_ms": 316517,
       "name": "Continuum - Moritz Hofbauer Remix",
       "url": "https://open.spotify.com/track/3LriBnhljZSB6xWmqP5Pqw"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/3x4m9uYBzKtjkNqS3ous14"
+      },
+      "artists": [
+        {
+          "name": "Charles D (USA)",
+          "url": "https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246996,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/25dv1J3uB2S7V5QZTyySmL"
     },
     {
       "album": {
@@ -4192,7 +4240,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 288115,
       "name": "Find A Way - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/4KoCo18Zg02uv72tyofFKf"
@@ -6445,6 +6493,32 @@
     },
     {
       "album": {
+        "name": "Inside Your Mind",
+        "url": "https://open.spotify.com/album/2BgHXg7wPsbsdSISHjLBLj"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        },
+        {
+          "name": "Carlo Whale",
+          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174252,
+      "name": "Inside Your Mind",
+      "url": "https://open.spotify.com/track/16h1oek8xjdszxudIyjFg3"
+    },
+    {
+      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/0SRL9W44nCIVFcVRXSlFnm"
       },
@@ -8390,7 +8464,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 147844,
       "name": "Morenita - Marco Generani Remix",
       "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"

@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,498 songs - 7 day 2 hr 34 min
+2,499 songs - 7 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1651,7 +1651,7 @@
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-12 | 2024-04-27 |
 | [QWERTY \(Live in Tokyo, 2006\)](https://open.spotify.com/track/1ZUCprAO5NeQvI6yIqCtNX) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [QWERTY \(Live in Tokyo, 2006\)](https://open.spotify.com/album/7bYai93piRObiZD6utMG8Y) | 3:54 | 2024-04-26 | 2024-05-26 |
 | [R&'BLESS](https://open.spotify.com/track/09lzTYJ4Eh4A8O2nG8NCVV) | [Flow Toti](https://open.spotify.com/artist/5FBYASk3Wx7liRI3zV42iB), [mvximusik](https://open.spotify.com/artist/2mMLEf9OmPpyEbwxmkTUKw), [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [NDUE](https://open.spotify.com/album/7aSoqYV2OMw4FRN5JsU1yU) | 2:41 | 2024-12-06 | 2024-12-22 |
-| [Radio Free Europe \- Jacknife Lee Remix / 2025](https://open.spotify.com/track/5jeQ6qxfi7nrDIP7WeBonZ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg), [Jacknife Lee](https://open.spotify.com/artist/1fixTBy0r22vTuK2sQNAqY) | [Radio Free Europe 2025](https://open.spotify.com/album/3WUyr8kiPJQ8c7fYnDkm86) | 3:09 | 2025-05-02 |  |
+| [Radio Free Europe \- Jacknife Lee Remix / 2025](https://open.spotify.com/track/5jeQ6qxfi7nrDIP7WeBonZ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg), [Jacknife Lee](https://open.spotify.com/artist/1fixTBy0r22vTuK2sQNAqY) | [Radio Free Europe 2025](https://open.spotify.com/album/3WUyr8kiPJQ8c7fYnDkm86) | 3:09 | 2025-05-02 | 2025-05-09 |
 | [Rain \- Stealing Sheep Remix](https://open.spotify.com/track/6rFhoweBbzgopFIVwc3ZYz) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89), [Stealing Sheep](https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22) | [Rain \(Stealing Sheep Remix\)](https://open.spotify.com/album/4dx49Nbdulv56hy04eFVaL) | 4:40 | 2024-05-24 | 2024-06-23 |
 | [Rain in the River](https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Rain in the River](https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P) | 3:12 | 2025-04-04 | 2025-04-19 |
 | [Rain on the Graves](https://open.spotify.com/track/2DYquEUcjmMjxZYFKPON4L) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Rain on the Graves](https://open.spotify.com/album/13hB30MBr9lEVogRpiNBav) | 5:04 | 2024-02-16 | 2024-02-18 |
@@ -2372,6 +2372,7 @@
 | [Welcome To The Show](https://open.spotify.com/track/5RTQyTTWBSEBW4k2gZYQrw) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/5AeZoaGC6DcEpRCATFCHW8) | 3:36 | 2023-08-11 | 2023-08-26 |
 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/0vlK5wqy7Ptp2LUV0lnGaJ) | 3:59 | 2023-07-07 | 2023-07-30 |
 | [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 | 2023-03-03 | 2023-03-25 |
+| [Wh\. Tornado](https://open.spotify.com/track/2jTHveFQNV94t1ozAGCyZA) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Radio Free Europe 2025](https://open.spotify.com/album/3WUyr8kiPJQ8c7fYnDkm86) | 1:53 | 2025-05-02 |  |
 | [What a Time To Be Alive](https://open.spotify.com/track/14qLydrp6Uxy2kzfmv73TZ) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:42 | 2023-04-21 | 2023-04-23 |
 | [What About The Children](https://open.spotify.com/track/1H3ZNotB3Z6kQBcMovZwPX) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [What About The Children](https://open.spotify.com/album/3GRDspM8YHRS8P5ci5n2nx) | 4:39 | 2024-03-22 | 2024-04-21 |
 | [What Christmas Means to Me \(feat\. Stevie Wonder\) \- Slowed & Reverb](https://open.spotify.com/track/14TIy5ASSW9O354VELxV5I) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [xmas sped up + slowed](https://open.spotify.com/album/0QplsJsS4g4VFDCJODfyaL) | 2:57 | 2023-11-24 | 2023-12-17 |

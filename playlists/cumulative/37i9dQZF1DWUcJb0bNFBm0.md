@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  \(Cover: killmilky \)
+> Noise distortion amongst the hazy clouds ☁️  \(Cover: \(e\)motion engine\)
 
-203 songs - 14 hr 7 min
+206 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Blind](https://open.spotify.com/track/2vl6muvMqOel3VCmfVkS7R) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [Blind](https://open.spotify.com/album/6nblYc0KDe1v0KsfOtNIEn) | 4:21 | 2024-10-31 | 2024-12-05 |
 | [BLUE WINE](https://open.spotify.com/track/6fFz6JYo9IHvgVLmmFNcci) | [EÄZZ.](https://open.spotify.com/artist/1ybobnnnwcuBzeWoae5LEY) | [Soft,Frail and Blue](https://open.spotify.com/album/1bM9Qt42jRnIlZIIMqkxdb) | 4:13 | 2024-06-27 | 2025-05-02 |
 | [Boring Train](https://open.spotify.com/track/5QRgEuPneXDEQjiVuNzTnv) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Marble Town](https://open.spotify.com/album/4mF2gRfHof8jXkW3ay0Ggu) | 4:48 | 2024-06-27 |  |
+| [boy](https://open.spotify.com/track/10XkxldeH7vbHetDoTlKpr) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [boy](https://open.spotify.com/album/4He3KAbu09Wion9GRyZm6W) | 3:42 | 2025-05-09 |  |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-04 | 2024-12-05 |
 | [Burning \- English ver.](https://open.spotify.com/track/6d4gP8ZGP9eHnexHj4Fqhb) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning \(English ver.\)](https://open.spotify.com/album/3ID8TkLdErk9dIct7FaVer) | 3:54 | 2024-08-08 | 2024-11-08 |
 | [Butterfly Effect](https://open.spotify.com/track/0sps5YsUzFCDFxpADH02Cw) | [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [Pink](https://open.spotify.com/album/2LUEQdAWtMbGwzlUm4STTz) | 4:26 | 2024-11-07 | 2024-12-05 |
@@ -130,6 +131,7 @@
 | [One day, the sky that I stood still and looked at while walking on the crosswalk in front of Dunchon\-dong Station](https://open.spotify.com/track/6b97W8MSTHi58KAqZPUi4V) | [Wings of the ISANG](https://open.spotify.com/artist/000dicAA3QWT6m118rFXLO) | [The Borderline between Hope and Despair](https://open.spotify.com/album/1AvwXkcx9xngszexcHqFN7) | 6:32 | 2024-06-27 |  |
 | [Orange lights](https://open.spotify.com/track/6nU7LtybOqRwAEWKuvuHkd) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Fair impairment.](https://open.spotify.com/album/2Gip6OW3WvtNjn1zfr21lI) | 3:37 | 2025-03-21 |  |
 | [Our Summer Days](https://open.spotify.com/track/7sOOqL5a968IFjVAwgsMCl) | [Belinda May](https://open.spotify.com/artist/0n8J6ZvqzlHjbJTAXvfmnr) | [Our Summer Days / Dreams](https://open.spotify.com/album/4KHJ9jDWNyI8B03KPcnldl) | 3:28 | 2024-06-27 | 2024-12-05 |
+| [Outsider](https://open.spotify.com/track/6qRBi6m2Lf5tHP4jPdcVYa) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [Outsider](https://open.spotify.com/album/2vBi0eZcGLOBdxB74ye1ce) | 2:44 | 2025-05-09 |  |
 | [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 | 2024-11-21 | 2024-12-05 |
 | [Overrated!](https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Overrated!](https://open.spotify.com/album/3mW3VrymVynXRToh3mDzrz) | 2:55 | 2024-10-17 | 2024-12-05 |
 | [p.m.5:00](https://open.spotify.com/track/31OTPJFZzufxDv0hlM6wDx) | [the slow films](https://open.spotify.com/artist/2NMTXQi0gZeYw8GdZvWssk) | [p.m.5:00 / 夢の中で](https://open.spotify.com/album/3kgj4YYIBt6x1LNo6iKNtO) | 3:19 | 2024-08-08 | 2024-12-05 |
@@ -151,7 +153,7 @@
 | [Rhythm Zero](https://open.spotify.com/track/0dknXr1zTEA69doNENzam7) | [Kognes Park](https://open.spotify.com/artist/5nTF0UCjFrt9cJ3AHC8xX3) | [Kognes Park](https://open.spotify.com/album/7DlCjdy48gJ1lkCNaypwiD) | 3:20 | 2024-06-27 |  |
 | [Ribs](https://open.spotify.com/track/73KEmBzTgMoLbTf5QkP4bq) | [AVA](https://open.spotify.com/artist/4mfHZUR1oMLsM7QrDH36NP) | [Ribs](https://open.spotify.com/album/0sUvrfyz1Yko9iPSFGQhwe) | 4:31 | 2024-06-27 | 2024-10-11 |
 | [Runaway](https://open.spotify.com/track/6izvABDCV72LltDtObbvDw) | [SHIMMER SHRIMPMER](https://open.spotify.com/artist/5B7i15EPohPeNKNVLVjiaQ) | [Runaway](https://open.spotify.com/album/03UecZcOqMePoExqhAMZoH) | 4:40 | 2024-06-27 |  |
-| [Sad,Infinite And Dazed](https://open.spotify.com/track/4xJFWWfLJqGTezOA7neJhh) | [臥軌的火車 \(Railway Suicide Train\)](https://open.spotify.com/artist/5tEmnAxh19PkLJ5m8d8ATT) | [餘波](https://open.spotify.com/album/5IPiwxiTbZGlBmPvNaa8WU) | 4:50 | 2024-06-27 |  |
+| [Sad,Infinite And Dazed](https://open.spotify.com/track/4xJFWWfLJqGTezOA7neJhh) | [臥軌的火車Railway Suicide Train](https://open.spotify.com/artist/5tEmnAxh19PkLJ5m8d8ATT) | [餘波](https://open.spotify.com/album/5IPiwxiTbZGlBmPvNaa8WU) | 4:50 | 2024-06-27 |  |
 | [Self Destruct & Scott Emotion \(You Watched Myself Getting Destructed\)](https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [It's Terrifying and It's a Shame](https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo) | 2:38 | 2025-02-20 |  |
 | [Selfless Love](https://open.spotify.com/track/5cNKS6aFCnHinqC0nuz0f7) | [dansa med dig](https://open.spotify.com/artist/2wassa3NRZvCqj8d5JeJG1) | [Selfless Love](https://open.spotify.com/album/0QmA8v23gbzewo6rs3FWQM) | 3:46 | 2024-10-10 | 2024-12-05 |
 | [Sent Away](https://open.spotify.com/track/6wJfypJ9DIlIFjPyc3tGAj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Sent Away](https://open.spotify.com/album/7M0krbTMzfkOJCMnabZwBL) | 6:00 | 2024-06-27 | 2024-12-05 |
@@ -179,6 +181,7 @@
 | [The River Runs slowly](https://open.spotify.com/track/085Fu95fvjitPSEyIPJcmg) | [Ferri\-Chrome](https://open.spotify.com/artist/1mQTu2sdvPrgwujzkfnpJy) | [The River Runs slowly](https://open.spotify.com/album/13XlfaVHqb3EztJyk9kFnT) | 2:38 | 2024-08-05 | 2024-12-05 |
 | [The Sun Is In Our Eyes](https://open.spotify.com/track/0htL9fhtoeL1XMFi3mnSTm) | [UJU](https://open.spotify.com/artist/2rc8Sz5mhQYrNg9xkoYlMI) | [The Sun Is In Our Eyes](https://open.spotify.com/album/62KE5bmBpoqYtkLQYMkFJh) | 6:47 | 2024-06-27 | 2024-08-09 |
 | [thorns](https://open.spotify.com/track/5xJnY016OyIUAMsLIDhfO4) | [B Murph](https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ), [xona](https://open.spotify.com/artist/0pn2qAOiJ6u8E9gY7vO6WZ) | [thorns](https://open.spotify.com/album/3TuSeBroII1uKr01YkltRA) | 2:35 | 2025-04-03 |  |
+| [Tired](https://open.spotify.com/track/1D3B2JlVierm8SoKsSxQ8s) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Tired](https://open.spotify.com/album/5rA3SyvNJjX4R2GUF6OWdX) | 2:41 | 2025-05-09 |  |
 | [To My Love](https://open.spotify.com/track/3V6rl1l7hJT3u3NVN0g1UU) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/594eWfeyQ02c9MLYI9iLuK) | [Tears in Rain（就像泪水消逝在雨中）](https://open.spotify.com/album/6nlLIph5HfbYSJ9UquhqVM) | 4:36 | 2024-06-27 | 2024-12-05 |
 | [To My Love](https://open.spotify.com/track/7FULpfn4MQlvqZHqDO1hYj) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/2mRvIBsxvP5BcxNWM9MfcR) | [Tears in Rain](https://open.spotify.com/album/0IzZfuIqvh3eiGo88D9J9r) | 4:36 | 2024-12-04 |  |
 | [To You](https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [To You](https://open.spotify.com/album/3iOPGslKOV5FiHv9GAfFd9) | 4:11 | 2024-10-10 | 2024-12-05 |

@@ -1,6 +1,6 @@
 {
   "description": "Megapark bis Bierk\u00f6nig - Malle ist nur einmal im Jahr!",
-  "num_followers": 456112,
+  "num_followers": 456199,
   "original_name": "Malle Party 2025",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-04-17 18:53:08",
       "album": {
+        "name": "Mozart (Ciao Niveau)",
+        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 172637,
+      "name": "Mozart (Ciao Niveau)",
+      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
+    },
+    {
+      "added_at": "2025-04-17 18:53:08",
+      "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 180157,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
-    },
-    {
-      "added_at": "2025-04-17 18:53:08",
-      "album": {
-        "name": "Mozart (Ciao Niveau)",
-        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 172637,
-      "name": "Mozart (Ciao Niveau)",
-      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
     },
     {
       "added_at": "2025-04-17 18:53:08",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-04-17 18:53:08",
       "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
-      },
-      "artists": [
-        {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
-    },
-    {
-      "added_at": "2025-04-17 18:53:08",
-      "album": {
         "name": "Ufo",
         "url": "https://open.spotify.com/album/6I1IhIuPR8D4OwXu8jbtbS"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 198524,
       "name": "Ufo",
       "url": "https://open.spotify.com/track/1fcr2p1DgZdkSOn7iQzhZK"
+    },
+    {
+      "added_at": "2025-04-17 18:53:08",
+      "album": {
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+      },
+      "artists": [
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
     },
     {
       "added_at": "2025-04-17 18:53:08",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-04-17 18:53:08",
       "album": {
-        "name": "Ich liebe das Leben (Stereoact #Remix)",
-        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
-      },
-      "artists": [
-        {
-          "name": "Vicky Leandros",
-          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 203900,
-      "name": "Ich liebe das Leben - Stereoact #Remix",
-      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
-    },
-    {
-      "added_at": "2025-04-17 18:53:08",
-      "album": {
         "name": "Erwischt",
         "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 121000,
       "name": "Erwischt",
       "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
+    },
+    {
+      "added_at": "2025-04-17 18:53:08",
+      "album": {
+        "name": "Ich liebe das Leben (Stereoact #Remix)",
+        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
+      },
+      "artists": [
+        {
+          "name": "Vicky Leandros",
+          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 203900,
+      "name": "Ich liebe das Leben - Stereoact #Remix",
+      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
     },
     {
       "added_at": "2025-04-17 18:53:08",
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2025-04-17 18:53:08",
       "album": {
-        "name": "Scheiss auf Schickimicki (Video Edit)",
-        "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
+        "name": "Mut zur Katastrophe (Gold Edition)",
+        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
       },
       "artists": [
         {
-          "name": "Stefan St\u00fcrmer",
-          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Kerstin Ott",
+          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Scheiss auf Schickimicki - Video Edit",
-      "url": "https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL"
+      "duration_ms": 226133,
+      "name": "Regenbogenfarben",
+      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
     },
     {
       "added_at": "2025-04-17 18:53:08",
@@ -1363,18 +1359,22 @@
     {
       "added_at": "2025-04-17 18:53:08",
       "album": {
-        "name": "Mut zur Katastrophe (Gold Edition)",
-        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
+        "name": "Scheiss auf Schickimicki (Video Edit)",
+        "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
       },
       "artists": [
         {
-          "name": "Kerstin Ott",
-          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
+          "name": "Stefan St\u00fcrmer",
+          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         }
       ],
-      "duration_ms": 226133,
-      "name": "Regenbogenfarben",
-      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
+      "duration_ms": 198750,
+      "name": "Scheiss auf Schickimicki - Video Edit",
+      "url": "https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL"
     },
     {
       "added_at": "2025-04-17 18:53:08",
@@ -1479,26 +1479,18 @@
     {
       "added_at": "2025-04-17 18:53:08",
       "album": {
-        "name": "Bruttosozialprodukt 2025",
-        "url": "https://open.spotify.com/album/4OfgkEeX7vsDOyajJeMS7T"
+        "name": "Auf zum Ballermann",
+        "url": "https://open.spotify.com/album/2NP14eC2JTyCjnprDgNHxR"
       },
       "artists": [
         {
-          "name": "NOISETIME",
-          "url": "https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC"
-        },
-        {
-          "name": "Pazoo",
-          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
-        },
-        {
-          "name": "Geier Sturzflug",
-          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
+          "name": "Der Partycrasher",
+          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
         }
       ],
-      "duration_ms": 123636,
-      "name": "Bruttosozialprodukt 2025",
-      "url": "https://open.spotify.com/track/5UVm9WJ5KgqahUKjpjP5pU"
+      "duration_ms": 178250,
+      "name": "Auf zum Ballermann",
+      "url": "https://open.spotify.com/track/0rezO1PbE9WhVJhhkX8YOA"
     }
   ],
   "unique_name": "Malle Party 2025",

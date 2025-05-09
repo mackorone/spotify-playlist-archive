@@ -1,12 +1,12 @@
 {
   "description": "New music from Quavo, Takeoff and Key Glock. ",
-  "num_followers": 16147222,
+  "num_followers": 16147439,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDYQAAAABkcdGtHLHgHO4fjcPya3uG",
+  "snapshot_id": "aBwsWgAAAACiP2hn/wLKMB74MExp6lvY",
   "tracks": [
     {
       "added_at": "2025-05-02 04:00:33",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-05-02 04:00:33",
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 193054,
+      "name": "GIMME A HUG",
+      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
+    },
+    {
+      "added_at": "2025-05-02 04:00:33",
+      "album": {
         "name": "Glockaveli",
         "url": "https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6"
       },
@@ -153,20 +169,24 @@
       "url": "https://open.spotify.com/track/6eTweWBgIkPzPfiqs7l2E3"
     },
     {
-      "added_at": "2025-05-02 04:00:33",
+      "added_at": "2025-05-08 04:00:26",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
       "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 193054,
-      "name": "GIMME A HUG",
-      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
+      "duration_ms": 305840,
+      "name": "She Will",
+      "url": "https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp"
     },
     {
       "added_at": "2025-05-02 04:00:33",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Elli Kokkinou, Foivos",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Vertis",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 170163,
       "name": "Alitis",
       "url": "https://open.spotify.com/track/6Ke2sEHpfUlj3HYqbJwxzE"
@@ -749,6 +749,46 @@
     },
     {
       "album": {
+        "name": "Epitelous",
+        "url": "https://open.spotify.com/album/75m7sffAOk9s93ImMlvjRv"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267480,
+      "name": "Epitelous",
+      "url": "https://open.spotify.com/track/3Qsq7EWfKRmYLzmY2wWvE2"
+    },
+    {
+      "album": {
+        "name": "Eroteftika Esena",
+        "url": "https://open.spotify.com/album/2UMvJZgFcdk0kw9EGXL99d"
+      },
+      "artists": [
+        {
+          "name": "Nikos Vertis",
+          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249640,
+      "name": "Eroteftika Esena",
+      "url": "https://open.spotify.com/track/4rX2CGUDJzZ2tHcYvkO2B3"
+    },
+    {
+      "album": {
         "name": "Etsi Koitazes Emena",
         "url": "https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM"
       },
@@ -834,7 +874,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 252957,
       "name": "Exo Emena",
       "url": "https://open.spotify.com/track/7ixBF0Qf9jkJMsHtcK9KWd"
@@ -1121,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Isitirio Ena",
+        "url": "https://open.spotify.com/album/5qHTNSiJ4eXP4HrPqVgn11"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223590,
+      "name": "Isitirio Ena",
+      "url": "https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40"
+    },
+    {
+      "album": {
         "name": "Kalokeri",
         "url": "https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul"
       },
@@ -1230,7 +1288,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 180571,
       "name": "Kataramena Feggaria - Live",
       "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
@@ -1831,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Ola Pigenoun Kalytera",
+        "url": "https://open.spotify.com/album/64YVzpW0XHKa9WuCPu2C9H"
+      },
+      "artists": [
+        {
+          "name": "Nino Xypolitas",
+          "url": "https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169497,
+      "name": "Ola Pigenoun Kalytera",
+      "url": "https://open.spotify.com/track/4E14OOlsmU5hTnPfYyEJGB"
+    },
+    {
+      "album": {
         "name": "O,ti M' Aresei",
         "url": "https://open.spotify.com/album/2cK9ucMA41Z5BhhDiNkPqp"
       },
@@ -2044,7 +2120,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 187800,
       "name": "Poios Tha Tou To Pei",
       "url": "https://open.spotify.com/track/67rlb9f252xaAJ1LQabIw2"
@@ -2062,7 +2138,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 212744,
       "name": "Porni Outopia",
       "url": "https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI"
@@ -2279,6 +2355,28 @@
     },
     {
       "album": {
+        "name": "Sidero",
+        "url": "https://open.spotify.com/album/3fC1YsWd3wUOwmXqjKqDI8"
+      },
+      "artists": [
+        {
+          "name": "Peggy Zina",
+          "url": "https://open.spotify.com/artist/4ut0QJyQkh4mrh3Cu6diKz"
+        },
+        {
+          "name": "George Theofanous",
+          "url": "https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152800,
+      "name": "Sidero",
+      "url": "https://open.spotify.com/track/71TarxBQJrkdomww83wMLh"
+    },
+    {
+      "album": {
         "name": "Siga To Prama",
         "url": "https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO"
       },
@@ -2488,7 +2586,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 213176,
       "name": "Teleftaia Klisi",
       "url": "https://open.spotify.com/track/5jmGM0RHJVXqUD6M65BNS2"
@@ -2908,6 +3006,24 @@
       "duration_ms": 263635,
       "name": "Trelos Gia Sena - Den Tha Figeis Makria - Katse Kai Metra - 2024 Live",
       "url": "https://open.spotify.com/track/47Mwkz2SSCReqoC74u86Az"
+    },
+    {
+      "album": {
+        "name": "Trexe",
+        "url": "https://open.spotify.com/album/1pFCqfyjdMYkDAfTr0SKXB"
+      },
+      "artists": [
+        {
+          "name": "Manolis Mitsias",
+          "url": "https://open.spotify.com/artist/0iPmB3x32r1vp0nL4gsjMo"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174550,
+      "name": "Trexe",
+      "url": "https://open.spotify.com/track/1BOqkrm3T91AWJzAPiht2K"
     },
     {
       "album": {

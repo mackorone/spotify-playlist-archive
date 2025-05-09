@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Rony Parulian
+> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Rafi Sudirman
 
-274 songs - 17 hr 48 min
+275 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 | 2023-06-22 | 2024-03-29 |
 | [Obat Rindu](https://open.spotify.com/track/688SOzohXB8IEWPLlMoHsR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Kucaimars](https://open.spotify.com/artist/2qf0FNIDmfNQ3bTi9Gyj90) | [Obat Rindu](https://open.spotify.com/album/61QED0aYIkhiHdt0GC7GK4) | 3:47 | 2022-03-03 | 2022-03-25 |
 | [Orang Ketiga \- Live](https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Orang Ketiga \(Live\)](https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU) | 4:39 | 2023-05-04 | 2024-03-29 |
+| [Panjang Umur Selalu](https://open.spotify.com/track/7E6aFTopl1t7PyL93AkgJL) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Panjang Umur Selalu](https://open.spotify.com/album/0nec55WX1gNUbTnC1Xh6Vy) | 3:33 | 2025-05-08 |  |
 | [Pasrah](https://open.spotify.com/track/3523JnlP8KkRDRZ5anwtmd) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Diari](https://open.spotify.com/album/2ZmrmtY3uGgvDrLTtJ905D) | 3:15 | 2025-01-30 | 2025-04-16 |
 | [Patah Hati](https://open.spotify.com/track/5P86ensnQKHQNfSOdUZ2Vf) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Patah Hati](https://open.spotify.com/album/1RbRNiJbus4z5EvZiAj1HE) | 4:49 | 2021-11-25 | 2022-03-25 |
 | [Pelangi](https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Pelangi](https://open.spotify.com/album/586n7LNVNnZlcBQjZrdOwN) | 4:16 | 2021-11-25 | 2022-03-25 |

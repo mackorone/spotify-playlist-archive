@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 177500,
       "name": "18 Lakh Da",
       "url": "https://open.spotify.com/track/7I8qYaQwnpSUqP4JQVLlpf"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 137044,
       "name": "506",
       "url": "https://open.spotify.com/track/7fjyz7AHmoyps6GH5Wmc5w"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Diamond Koka",
       "url": "https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT"
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 165600,
       "name": "Jatt Badaami",
       "url": "https://open.spotify.com/track/1xooUkrnQgqG7d0OkMUMgM"
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 191120,
       "name": "Jogi",
       "url": "https://open.spotify.com/track/3IsXkCbvdN0cIuNKGTJsq4"
@@ -3630,6 +3630,28 @@
       "duration_ms": 190434,
       "name": "Mandeer",
       "url": "https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX"
+    },
+    {
+      "album": {
+        "name": "Maroon Maroon",
+        "url": "https://open.spotify.com/album/5V3rsvYypCRaHP8OK3Mm6T"
+      },
+      "artists": [
+        {
+          "name": "Kulwinder Billa",
+          "url": "https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV"
+        },
+        {
+          "name": "Agaazz",
+          "url": "https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "Maroon Maroon",
+      "url": "https://open.spotify.com/track/48Ocih6gAv9L7ubcRhqzK5"
     },
     {
       "album": {
@@ -5725,6 +5747,32 @@
     },
     {
       "album": {
+        "name": "The Lassoi Code",
+        "url": "https://open.spotify.com/album/4pY5u16GsIyIpmr1JTPxmL"
+      },
+      "artists": [
+        {
+          "name": "Pavitar Lassoi",
+          "url": "https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX"
+        },
+        {
+          "name": "Deol Harman",
+          "url": "https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148723,
+      "name": "Toom",
+      "url": "https://open.spotify.com/track/6LBAtUlg76Q1f2JwNWGtoU"
+    },
+    {
+      "album": {
         "name": "Top Notch Gabru",
         "url": "https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG"
       },
@@ -6040,7 +6088,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 188571,
       "name": "Wang Tut Gayi",
       "url": "https://open.spotify.com/track/4zKsTcWcNpe62JvN2UKQ75"

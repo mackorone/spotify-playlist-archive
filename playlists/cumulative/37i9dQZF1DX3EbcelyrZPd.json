@@ -2843,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/0mONZsF7Igkqmt465X1Eun"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183062,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/4AKtJqt4g6vePEtSBsBM97"
+    },
+    {
+      "album": {
         "name": "Love Sentence",
         "url": "https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF"
       },
@@ -3244,7 +3262,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 199846,
       "name": "Itakuwaje (feat. Alikiba)",
       "url": "https://open.spotify.com/track/2M0ARj6GrBRj7JM6iD774D"
@@ -3798,6 +3816,28 @@
       "duration_ms": 356836,
       "name": "Kitu (feat. Bontle Smith & Tyler ICU)",
       "url": "https://open.spotify.com/track/0GyrZ0OTQ7XEEhNtxumVzq"
+    },
+    {
+      "album": {
+        "name": "Koki",
+        "url": "https://open.spotify.com/album/7l9P5rfBCDC7peiR7LN7Ne"
+      },
+      "artists": [
+        {
+          "name": "Vanillah",
+          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
+        },
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199490,
+      "name": "Koki",
+      "url": "https://open.spotify.com/track/7h68SVcufVfyFOiQqHbrgn"
     },
     {
       "album": {
@@ -6272,7 +6312,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-09",
       "duration_ms": 186502,
       "name": "Nazama",
       "url": "https://open.spotify.com/track/4zcDVjym4809Ruja1Dh2C4"

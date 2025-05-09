@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Westside Cowboy
 
-2,886 songs - 6 day 8 hr 56 min
+2,889 songs - 6 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Bad Dreams](https://open.spotify.com/track/2iYloG141GZNKVGXdfYBvS) | [Jacklyn](https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv) | [I'll be fine...](https://open.spotify.com/album/66QiRk8mEl9fcHpApBCaU5) | 2:14 | 2024-11-20 | 2025-01-29 |
 | [Bad Guy](https://open.spotify.com/track/1VSpCLkvDmrZYNtIPHqcbD) | [Maya Law](https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6) | [Bad Guy](https://open.spotify.com/album/2J7gRjytP3JaTAIuZji5JO) | 3:38 | 2023-04-26 | 2023-05-24 |
 | [bad idea.](https://open.spotify.com/track/5ZPVs8aNVZKYwVMXz9LOLx) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [bad idea.](https://open.spotify.com/album/4Nan4OZVVyozIKfQbkiTBr) | 2:55 | 2024-01-17 | 2024-02-21 |
-| [Bad joke](https://open.spotify.com/track/07w9ZwAE7Y5p2wcFYBfRKH) | [Elea Calvet](https://open.spotify.com/artist/18Hl0NlWPsQdjDnbPV1nR4) | [Spurious forms](https://open.spotify.com/album/5r68rFu80wyXdeFYrj2WIb) | 4:23 | 2025-04-15 |  |
+| [Bad joke](https://open.spotify.com/track/07w9ZwAE7Y5p2wcFYBfRKH) | [Elea Calvet](https://open.spotify.com/artist/18Hl0NlWPsQdjDnbPV1nR4) | [Spurious forms](https://open.spotify.com/album/5r68rFu80wyXdeFYrj2WIb) | 4:23 | 2025-04-15 | 2025-05-09 |
 | [Bad Life](https://open.spotify.com/track/05kjMGGzMRwwY8mskRaSHi) | [Mudi Sama](https://open.spotify.com/artist/4OFlR9OFN1PRLww3MSVF7W) | [Bad Life](https://open.spotify.com/album/5H6iL0CHuOmj3XmpB7gC6h) | 2:23 | 2025-03-05 | 2025-04-10 |
 | [bad moods.](https://open.spotify.com/track/6rKlYvOKTtProzMe9Ke2Tl) | [Nosa](https://open.spotify.com/artist/1kzEYCZOAVa2h07NEcCezO) | [bad moods.](https://open.spotify.com/album/05XcqXQvB63BdoYNaIe8IO) | 2:53 | 2022-06-22 | 2022-08-04 |
 | [Bad Neighbour](https://open.spotify.com/track/4Ax3BlNWduUTkxWfN5jWhf) | [Francesca Morris](https://open.spotify.com/artist/01vOwLXaAp25VhQDCwYWcE) | [Bad Neighbour](https://open.spotify.com/album/0MXrg7OfIVegBULpfzloBU) | 2:56 | 2025-04-30 |  |
@@ -422,6 +422,7 @@
 | [Can't Help U](https://open.spotify.com/track/79zAJa2VTxDkzAj1BrvVpn) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Can't Help U](https://open.spotify.com/album/3PaKSgJ1bnI6u53LbiPkES) | 3:45 | 2022-05-11 | 2022-06-01 |
 | [Can't Love](https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [Can't Love](https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR) | 3:39 | 2024-05-28 | 2025-01-08 |
 | [CAN'T STOP](https://open.spotify.com/track/4xXrLOuRWyLflklAujvnnH) | [Smoak](https://open.spotify.com/artist/0MWt9bAN6d46pfmaiQP52y) | [CAN'T STOP](https://open.spotify.com/album/4S4k3uxzkXAqJeLto6rsid) | 1:50 | 2023-10-24 | 2023-11-30 |
+| [can't take no more](https://open.spotify.com/track/4HS3bna6BPwRwA50wr6pO4) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [VÄRIANT](https://open.spotify.com/album/2uAcbP68j1RRmfPC3l6eCD) | 3:21 | 2025-05-08 |  |
 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Emmeline Gracie](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 | 2023-01-04 | 2023-03-02 |
 | [Cancel](https://open.spotify.com/track/2wmdZeBUDSGiOkGmVihsk4) | [Moulshy](https://open.spotify.com/artist/2qdsB3D5IASD7C2cvyEhoe), [Zak Barrett](https://open.spotify.com/artist/1m2Gndp0tX6BJsfxMQzjrC) | [Echo Chamber](https://open.spotify.com/album/3hkuG87gEAQs8bWh3C8IUB) | 3:39 | 2022-06-14 | 2022-07-07 |
 | [Cannonball](https://open.spotify.com/track/1ZEqZyOunFxQqiKwrLYFcq) | [Frankie Beetlestone](https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH) | [Cannonball](https://open.spotify.com/album/2Uw4O0i1AeT0Ea1ZmqRz8l) | 3:30 | 2023-02-15 | 2023-04-06 |
@@ -564,6 +565,7 @@
 | [Crooked](https://open.spotify.com/track/3I5molWIUvlYRaM1Va6WVB) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Crooked](https://open.spotify.com/album/1ksYjMRqO4o1mDonk3JjC5) | 3:32 | 2024-03-27 | 2024-04-24 |
 | [Crooked](https://open.spotify.com/track/5C0G5yyIiKOS58yWSxvdPE) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 3:32 | 2024-12-04 | 2025-01-08 |
 | [Crown](https://open.spotify.com/track/2pCWqDv7OiphIMGyvTbc2W) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [Crown](https://open.spotify.com/album/7E6EqpDX1XdM3DlXjdov25) | 3:59 | 2024-03-20 | 2024-04-24 |
+| [Crown](https://open.spotify.com/track/4dyDPPdolE6wORd4xc4ALD) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [How I Love Me](https://open.spotify.com/album/4gtOhS5gqocRvSyt04OnyS) | 3:59 | 2025-05-08 |  |
 | [Cruising All Night](https://open.spotify.com/track/1gV6DIbNlj99PH8nPFqv2S) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Cruising All Night](https://open.spotify.com/album/6AOSxOGcBSNR3W3zrA0OcO) | 2:38 | 2022-09-07 | 2023-01-05 |
 | [Crush](https://open.spotify.com/track/5om60T5Oc22iNjCBETai1L) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [Crush](https://open.spotify.com/album/5skdCGIaLsQ4JkHFtLn82C) | 3:02 | 2023-07-11 | 2023-08-09 |
 | [Crush](https://open.spotify.com/track/75M3g2qnWgOiwaAdCEsDNz) | [Femi Tahiru](https://open.spotify.com/artist/7Kf8nVYjut9xA328Xqs6gm) | [Crush](https://open.spotify.com/album/5azJzrxPgl0z3tUZPDoJio) | 2:40 | 2025-01-29 | 2025-03-05 |
@@ -1794,7 +1796,7 @@
 | [Night Wars](https://open.spotify.com/track/0mqpWeKgVJHZ72dM1dHc5d) | [Lees](https://open.spotify.com/artist/4xb5O8bO4LzyDuQWRE8C73) | [Night Wars](https://open.spotify.com/album/2kJQ4ANqBpsXELuK4eQzgM) | 3:42 | 2022-01-12 | 2023-03-09 |
 | [Nightfall](https://open.spotify.com/track/0zw3k3uhsQN7y84IXGMbad) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Nightfall EP](https://open.spotify.com/album/5tMrltjmtfTVhuWn4vx3FG) | 3:38 | 2025-02-12 | 2025-03-12 |
 | [Nightingale \- Live](https://open.spotify.com/track/3Ufdb7YXTukTysx6fFHibf) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK) | [Nightingale \(Live\)](https://open.spotify.com/album/72O8FwmrpoSxr4H7SSy3jO) | 3:16 | 2024-06-18 | 2024-07-17 |
-| [Nightmare](https://open.spotify.com/track/0aJdjzfs9qnwaOy6DqlxhX) | [CORELLIAN](https://open.spotify.com/artist/7uGqVgqeGMQAaPfImruFSe) | [Nightmare](https://open.spotify.com/album/7pKNLqTe2bJpB8aUlqwgi6) | 4:08 | 2025-04-15 |  |
+| [Nightmare](https://open.spotify.com/track/0aJdjzfs9qnwaOy6DqlxhX) | [CORELLIAN](https://open.spotify.com/artist/7uGqVgqeGMQAaPfImruFSe) | [Nightmare](https://open.spotify.com/album/7pKNLqTe2bJpB8aUlqwgi6) | 4:08 | 2025-04-15 | 2025-05-09 |
 | [Nihilist](https://open.spotify.com/track/79hHhUxnK1slHwz6VSMH7o) | [Yana Bey](https://open.spotify.com/artist/4sve9pXG18U5nqViEpIzFe) | [Nihilist](https://open.spotify.com/album/4QicWxxxsB4lyZj4dlWj3y) | 2:35 | 2022-01-05 | 2023-01-05 |
 | [Nineteen](https://open.spotify.com/track/3ak8cMLJxdRP7urfHf72Fw) | [Hannah Robinson](https://open.spotify.com/artist/1gw0I14sG4uAaGPkS5Slu0) | [Nineteen](https://open.spotify.com/album/3lBuEZuTMDzUbirvwShtEj) | 4:03 | 2023-01-04 | 2023-02-02 |
 | [NINGUÉM](https://open.spotify.com/track/17NjH86iAjIaRdu5krJOdG) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [NINGUÉM](https://open.spotify.com/album/5ouIm6IlwjH3FfFI9UMplw) | 3:20 | 2025-05-07 |  |
@@ -2443,7 +2445,7 @@
 | [Sundai Interlude](https://open.spotify.com/track/6npbLMWe8HreNeAYJd2eAj) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Sundai Interlude](https://open.spotify.com/album/1q300F5FhxgzW5LTHmFIvW) | 3:18 | 2022-02-16 | 2022-03-17 |
 | [Sundown](https://open.spotify.com/track/3WdZ9kDfi8xL8qVipaZzXm) | [Kaiya](https://open.spotify.com/artist/1T5pp4vXssZbZZbMWYo5tA) | [Sundown](https://open.spotify.com/album/0lHW83YREUwdgCY5lNQtQT) | 2:29 | 2024-10-22 | 2024-11-20 |
 | [Sunlight](https://open.spotify.com/track/2grj6VOKUS8t1P8YMNkzRw) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Sunlight](https://open.spotify.com/album/0rsm3w0AdZ109hcOdCFb8C) | 2:46 | 2023-07-18 | 2023-08-30 |
-| [sunny side up](https://open.spotify.com/track/6vAdFjljMSaMIO7IO6FY2V) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [sunny side up](https://open.spotify.com/album/4rHc20KVLV00z8i0xVDCpp) | 3:19 | 2025-04-15 |  |
+| [sunny side up](https://open.spotify.com/track/6vAdFjljMSaMIO7IO6FY2V) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [sunny side up](https://open.spotify.com/album/4rHc20KVLV00z8i0xVDCpp) | 3:19 | 2025-04-15 | 2025-05-09 |
 | [Sunrise](https://open.spotify.com/track/7lFqAXBe1DoH6yK7iMhqwS) | [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp) | [Sunrise](https://open.spotify.com/album/0zH8O8CUNgT7AH2FRfXwqz) | 3:33 | 2024-09-03 | 2024-10-09 |
 | [Sunshine](https://open.spotify.com/track/1As7UdUTCg4tJLMU5AYHjo) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Sunshine](https://open.spotify.com/album/6RIrLk8DXq5txgFOMO5Hh4) | 2:22 | 2024-10-22 | 2025-01-08 |
 | [Sunshine In My Pocket](https://open.spotify.com/track/4V0sb43dQwgIOgYKb6KQ40) | [Sacha T](https://open.spotify.com/artist/4ECEIuxErDt5R0kClwpOfw) | [Sunshine In My Pocket](https://open.spotify.com/album/6OvN6Ct3Y0eR51vRx6z59b) | 3:45 | 2022-10-28 | 2022-12-01 |
@@ -2729,6 +2731,7 @@
 | [Waiting](https://open.spotify.com/track/2BkGizHDqz9wR0NHmkpEyB) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn), [CARMICHAEL](https://open.spotify.com/artist/28aPZP4w3Qj01OPQCoSwC8) | [Waiting](https://open.spotify.com/album/3cPYEEZFuf6jz44SMyasLi) | 2:30 | 2025-03-05 | 2025-04-02 |
 | [waiting around](https://open.spotify.com/track/0WdVnbrXI3EiyOFkHSQG0X) | [elleheartbee](https://open.spotify.com/artist/4JpUcJXNQXImALTLnNa1PF) | [waiting around](https://open.spotify.com/album/46TgKBtNnbWL9OV4byHXHr) | 1:48 | 2022-08-10 | 2022-09-15 |
 | [waiting on time](https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [waiting on time](https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL) | 3:06 | 2025-01-22 | 2025-02-19 |
+| [Wake up \(I love you\)](https://open.spotify.com/track/1681NohUqJJFizRgKciZpo) | [Josie Oliver](https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan) | [Listen to this when you buy a house](https://open.spotify.com/album/6BTJS3CE6lcSSIT0md7Byv) | 2:52 | 2025-05-08 |  |
 | [Walk A Thousand, Dream A Thousand](https://open.spotify.com/track/1UxpYhNy52rYePF1KZQ5JW) | [Ewan Moore](https://open.spotify.com/artist/1AVz5cNPwHqFAgHipburxY) | [Walk A Thousand, Dream A Thousand](https://open.spotify.com/album/3wsnR0kiTsD72r9I6VNeIq) | 2:03 | 2025-04-30 |  |
 | [Wallflower](https://open.spotify.com/track/5nkxIF5VldwP0kCCuVSkjv) | [BUSHROD](https://open.spotify.com/artist/7gban0JAsN3TX4BLGqmYOy) | [Balancing Act](https://open.spotify.com/album/22aIoqnXbqisuB1Bdr4KzD) | 2:41 | 2022-06-29 | 2022-08-04 |
 | [Wandering Souls](https://open.spotify.com/track/2V3Ru7gXqHTskwvV281kzy) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Wandering Souls](https://open.spotify.com/album/3ypI1dsbQu9TLlTaJHGYZ2) | 3:35 | 2024-01-31 | 2024-02-21 |

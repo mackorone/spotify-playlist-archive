@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo : Suzane
+> Les meilleures nouveautés de la variété française\. Photo : Helena
 
-242 songs - 11 hr 57 min
+244 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,12 +16,12 @@
 | [Adieu, nous deux](https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 3:08 | 2024-11-21 | 2025-01-24 |
 | [Adieux](https://open.spotify.com/track/61f2KBpaXd1xBcPnyLswaV) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Adieux](https://open.spotify.com/album/22pHUTTizZSQBYu9sAmV4G) | 3:41 | 2024-10-17 | 2024-11-22 |
 | [Ames perdues](https://open.spotify.com/track/6u9B5hy3ylqnVWEZRCIHOq) | [P3GASE](https://open.spotify.com/artist/5gp2bynafc2IgEWzOBAbIe) | [r3ves](https://open.spotify.com/album/4Q4yf5tcrkFOKBQkUwBvap) | 3:06 | 2024-11-14 | 2025-01-10 |
-| [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 | 2025-03-06 |  |
+| [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 | 2025-03-06 | 2025-05-09 |
 | [Amère](https://open.spotify.com/track/2LKcg2tRu36P7WnvSeZSnX) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Amère](https://open.spotify.com/album/7D1iEGT0tmSrwX2e0tlqDa) | 2:27 | 2024-06-27 | 2024-10-04 |
 | [Au dessus des nuages](https://open.spotify.com/track/6ioB8gvjuMsrLxdlwJpeC1) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Au dessus des nuages](https://open.spotify.com/album/2hUw8a8vbQOWFLSYRYpwaT) | 2:29 | 2024-09-05 | 2024-11-22 |
 | [Aucune chance](https://open.spotify.com/track/3BiO1EhyXVegBDiqO88VkH) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz), [Delso](https://open.spotify.com/artist/6az8KWBdkgVyQ2oFG2dtaL) | [Aucune chance](https://open.spotify.com/album/7xoZYONo4efsvoZm4AVuiD) | 2:54 | 2024-10-17 | 2025-01-10 |
 | [Aux Deux Fêlés](https://open.spotify.com/track/5N7ocYESHbZu5gKOBNh7pH) | [Moona](https://open.spotify.com/artist/5PXOHFvMnDtfEG8Lsu0eSd) | [Aux Deux Fêlés](https://open.spotify.com/album/5YRcKoRm5iLbxSmOWPFKu3) | 2:25 | 2025-03-20 |  |
-| [Avec ou sans](https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamin des sables](https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW) | 2:52 | 2025-02-20 |  |
+| [Avec ou sans](https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamin des sables](https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW) | 2:52 | 2025-02-20 | 2025-05-09 |
 | [BABY](https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BABY](https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp) | 2:35 | 2025-02-20 | 2025-04-25 |
 | [Balance](https://open.spotify.com/track/5NozBRrGayj3tk6XefEDK0) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Balance](https://open.spotify.com/album/5WZKMq9O6JF7WNjVKZrhSj) | 2:40 | 2025-04-17 |  |
 | [Bollywood](https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Bollywood](https://open.spotify.com/album/6stKRosdbqJWhxg0GFxP34) | 2:52 | 2025-04-17 |  |
@@ -111,6 +111,7 @@
 | [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-06-27 | 2024-08-30 |
 | [La Différence \- Single Version](https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [La Différence](https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX) | 3:36 | 2025-01-09 | 2025-03-07 |
 | [LA DONNE](https://open.spotify.com/track/4jolz1beeQ18zASUMbmwDE) | [Allan](https://open.spotify.com/artist/7tJ1ZtOt4EOPyQnT8LE6rH) | [JE RAME, JE TANGUE](https://open.spotify.com/album/1c3l6TYCRVmoXQhhcnAALy) | 2:55 | 2024-06-27 | 2024-10-04 |
+| [La Fame](https://open.spotify.com/track/3FG1lZoFuZnAuYxLthz3Bf) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [La Fame](https://open.spotify.com/album/45fh9oIHclTqQIvnYtf749) | 3:27 | 2025-05-08 |  |
 | [La fin de l'été](https://open.spotify.com/track/5kRUEtzHzCPYLJCdLNpkcE) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [La fin de l'été](https://open.spotify.com/album/4hymmlzwGaYW2F04ZRlqfU) | 3:38 | 2024-09-19 | 2024-11-15 |
 | [La Pieva \(Chez moi\)](https://open.spotify.com/track/6E07sstGEhWgGwvAovMgyr) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva \(Chez moi\)](https://open.spotify.com/album/6KpbzNOiNP1jQkkPWzfVHW) | 3:21 | 2024-06-27 | 2024-09-13 |
 | [la pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [la pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 | 2024-06-27 | 2024-10-11 |
@@ -158,6 +159,7 @@
 | [monde](https://open.spotify.com/track/1Rw4uvIWhfTwtXxzVBFyFt) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo \(édition blizzard\)](https://open.spotify.com/album/0QgoX9WIbp5xTwe9Up5v79) | 3:52 | 2024-11-14 | 2025-02-14 |
 | [Monstre](https://open.spotify.com/track/0JblwOSvvELRtCYQDRke9R) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Monstre](https://open.spotify.com/album/3LVYLbTaOzMoGSRANhdEGu) | 2:41 | 2025-03-20 |  |
 | [Mute](https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [La prison des amoureuses malheureuses](https://open.spotify.com/album/3dKaOKSDCF3C9XSpa7AQbn) | 2:53 | 2024-10-03 |  |
+| [Mélatonine](https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:32 | 2025-05-08 |  |
 | [Ne me dis plus jamais](https://open.spotify.com/track/6GPZUss1JVFJPOnfzJLDc8) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Signé, Linh](https://open.spotify.com/album/3OXwUO2YTrDnmAyVmP22eo) | 3:56 | 2024-10-17 | 2025-01-10 |
 | [Normal \- Version Lino](https://open.spotify.com/track/7yfiUVhb4ULrdspsNdVKh0) | [Laurent Lamarca](https://open.spotify.com/artist/1oxqdAQ96XPo1bAS8S9xDX) | [Normal \(Version Lino\)](https://open.spotify.com/album/23h206XG2Hm9E24wOdNOn5) | 3:43 | 2024-06-27 | 2024-07-27 |
 | [Nous](https://open.spotify.com/track/2D3CdwBVjoqbisAd0zIyji) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [Nous](https://open.spotify.com/album/1gR8XeSRNR9PI7hzuclqss) | 2:56 | 2025-02-13 | 2025-03-28 |

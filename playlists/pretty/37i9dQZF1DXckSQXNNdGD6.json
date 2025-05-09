@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Mar\u00eda Pel\u00e1e.",
-  "num_followers": 20316,
+  "num_followers": 20322,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-05-06 22:00:38",
       "album": {
+        "name": "La Eternidad",
+        "url": "https://open.spotify.com/album/6m9rWwWLMuTatgqfNrsPSr"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 225461,
+      "name": "La Eternidad",
+      "url": "https://open.spotify.com/track/1RSDkkGBXP1EGuhvZBf2BF"
+    },
+    {
+      "added_at": "2025-05-06 22:00:38",
+      "album": {
         "name": "El Destello",
         "url": "https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 160684,
       "name": "El Destello",
       "url": "https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA"
-    },
-    {
-      "added_at": "2025-05-06 22:00:38",
-      "album": {
-        "name": "La Eternidad",
-        "url": "https://open.spotify.com/album/6m9rWwWLMuTatgqfNrsPSr"
-      },
-      "artists": [
-        {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
-        }
-      ],
-      "duration_ms": 225461,
-      "name": "La Eternidad",
-      "url": "https://open.spotify.com/track/1RSDkkGBXP1EGuhvZBf2BF"
     },
     {
       "added_at": "2025-05-06 22:00:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-05-06 22:00:38",
       "album": {
-        "name": "Flow deskiciada",
-        "url": "https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Flow deskiciada",
-      "url": "https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp"
-    },
-    {
-      "added_at": "2025-05-06 22:00:38",
-      "album": {
         "name": "Dec\u00edrtelo",
         "url": "https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 156460,
       "name": "Dec\u00edrtelo",
       "url": "https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6"
+    },
+    {
+      "added_at": "2025-05-06 22:00:38",
+      "album": {
+        "name": "Flow deskiciada",
+        "url": "https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Flow deskiciada",
+      "url": "https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp"
     },
     {
       "added_at": "2025-05-06 22:00:38",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-05-06 22:00:38",
       "album": {
-        "name": "Vida Quemada",
-        "url": "https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9"
-      },
-      "artists": [
-        {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Vida Quemada",
-      "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"
-    },
-    {
-      "added_at": "2025-05-06 22:00:38",
-      "album": {
         "name": "entre cuatro paredes y una verdad",
         "url": "https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 169356,
       "name": "A PLENO PULM\u00d3N",
       "url": "https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v"
+    },
+    {
+      "added_at": "2025-05-06 22:00:38",
+      "album": {
+        "name": "Vida Quemada",
+        "url": "https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Vida Quemada",
+      "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"
     },
     {
       "added_at": "2025-05-06 22:00:38",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-05-06 22:00:38",
       "album": {
-        "name": "Pikete repetido",
-        "url": "https://open.spotify.com/album/0tTcg1zipWDJal7jqFE303"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 138692,
-      "name": "Pikete repetido",
-      "url": "https://open.spotify.com/track/4Fcw2wlblAwaSEVmdJ8HgC"
-    },
-    {
-      "added_at": "2025-05-06 22:00:38",
-      "album": {
         "name": "V\u00e9rtigo",
         "url": "https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 144000,
       "name": "V\u00e9rtigo",
       "url": "https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX"
+    },
+    {
+      "added_at": "2025-05-06 22:00:38",
+      "album": {
+        "name": "Pikete repetido",
+        "url": "https://open.spotify.com/album/0tTcg1zipWDJal7jqFE303"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 138692,
+      "name": "Pikete repetido",
+      "url": "https://open.spotify.com/track/4Fcw2wlblAwaSEVmdJ8HgC"
     },
     {
       "added_at": "2025-05-06 22:00:38",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-05-06 22:00:38",
       "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF"
+        "name": "Me lo invento",
+        "url": "https://open.spotify.com/album/5OCLobbyMjMBXJ8Iv1ASYj"
       },
       "artists": [
         {
-          "name": "Joanna Crass",
-          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
         }
       ],
-      "duration_ms": 168235,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R"
+      "duration_ms": 195149,
+      "name": "Me lo invento",
+      "url": "https://open.spotify.com/track/2ZEgEmU37LwtUBmFF8hYxV"
     },
     {
       "added_at": "2025-05-06 22:00:38",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-05-06 22:00:38",
       "album": {
-        "name": "Me lo invento",
-        "url": "https://open.spotify.com/album/5OCLobbyMjMBXJ8Iv1ASYj"
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF"
       },
       "artists": [
         {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
         }
       ],
-      "duration_ms": 195149,
-      "name": "Me lo invento",
-      "url": "https://open.spotify.com/track/2ZEgEmU37LwtUBmFF8hYxV"
+      "duration_ms": 168235,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

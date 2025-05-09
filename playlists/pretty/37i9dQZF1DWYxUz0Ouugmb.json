@@ -1,13 +1,29 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Rony Parulian",
-  "num_followers": 40572,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Rafi Sudirman",
+  "num_followers": 40579,
   "original_name": "RADAR Indonesia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBOqVQAAAAA/xn0azy1AkKsnMUJLJrIT",
+  "snapshot_id": "aB1DWQAAAAC9VW9Lj00xySBUCNWJa0dO",
   "tracks": [
+    {
+      "added_at": "2025-05-08 23:50:49",
+      "album": {
+        "name": "Panjang Umur Selalu",
+        "url": "https://open.spotify.com/album/0nec55WX1gNUbTnC1Xh6Vy"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "duration_ms": 213395,
+      "name": "Panjang Umur Selalu",
+      "url": "https://open.spotify.com/track/7E6aFTopl1t7PyL93AkgJL"
+    },
     {
       "added_at": "2025-05-01 17:07:33",
       "album": {

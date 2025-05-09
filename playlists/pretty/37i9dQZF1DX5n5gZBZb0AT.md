@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,536 likes - 40 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,771 likes - 40 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 29 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
 | 30 | [z\-beta 2 \- Super Slowed](https://open.spotify.com/track/5WMrHMfkarliApsXvwUTrh) | [qaraqshy](https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9), [MC LONE](https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj) | [z\-beta 2](https://open.spotify.com/album/6dRJ8zaG9oTGrwpfu0Itld) | 1:34 |
 | 31 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
-| 32 | [Mortals Funk Remix](https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:26 |
-| 33 | [SENTA MARIA VAI X BEAT ABSURDO \- Slowed](https://open.spotify.com/track/2TRBDAcApCXLIbqoFD8q14) | [IMARO](https://open.spotify.com/artist/49mGI97erh26mewRTJtAZr), [DJ EXE](https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi), [MC Gil Do Andaraí](https://open.spotify.com/artist/084A1ahogQHTEUa9mSCNCg), [Mc Furdunço](https://open.spotify.com/artist/13ctfpnIHOyVFw11WHuvFj) | [SENTA MARIA VAI X BEAT ABSURDO](https://open.spotify.com/album/1gljOCfATDpKElvnGOJrTo) | 1:51 |
+| 32 | [SENTA MARIA VAI X BEAT ABSURDO \- Slowed](https://open.spotify.com/track/2TRBDAcApCXLIbqoFD8q14) | [IMARO](https://open.spotify.com/artist/49mGI97erh26mewRTJtAZr), [DJ EXE](https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi), [MC Gil Do Andaraí](https://open.spotify.com/artist/084A1ahogQHTEUa9mSCNCg), [Mc Furdunço](https://open.spotify.com/artist/13ctfpnIHOyVFw11WHuvFj) | [SENTA MARIA VAI X BEAT ABSURDO](https://open.spotify.com/album/1gljOCfATDpKElvnGOJrTo) | 1:51 |
+| 33 | [Mortals Funk Remix](https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:26 |
 | 34 | [Life in Rio](https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Life in Rio](https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5) | 1:34 |
 | 35 | [Montagem Totally Strange](https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf) | [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY), [MC BN](https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe), [MC BF](https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu), [DJ YUZAK](https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS) | [Montagem Totally Strange](https://open.spotify.com/album/35e7by9KnpAKb01SCj5SHn) | 2:25 |
 | 36 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 |

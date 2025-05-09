@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Ninho au top de la première playlist de rap français.
+> Hamza au top de la première playlist de rap français.
 
-325 songs - 16 hr 41 min
+326 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Gâchette](https://open.spotify.com/track/0rjKTXFvdFgAZ4dEG4AryJ) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Gâchette](https://open.spotify.com/album/0qpgphzMRmKDgi9UGCLc2w) | 2:38 | 2022-06-09 | 2022-07-22 |
 | [HAINE&SEX](https://open.spotify.com/track/6Vcxzw4ifKqYxVrp3ckpVF) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DRILL FR](https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN) | 3:21 | 2022-01-06 | 2022-06-10 |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-06-06 |  |
-| [Hockey](https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Hockey](https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF) | 2:56 | 2025-01-16 |  |
+| [Hockey](https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Hockey](https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF) | 2:56 | 2025-01-16 | 2025-05-09 |
 | [HRTBRK \#6](https://open.spotify.com/track/4oujvmTUXlPr6jWTWuzfAK) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [HRTBRK \#6](https://open.spotify.com/album/4XYz0YM0cZjGhzgqyj2glP) | 2:51 | 2023-01-26 | 2023-05-19 |
 | [HRTBRK \#7](https://open.spotify.com/track/3opEx8XXOQ9nv1tLdKhLdc) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [HRTBRK \#7](https://open.spotify.com/album/13de85MorIzPbSp7cE2642) | 3:04 | 2023-11-30 | 2024-04-19 |
 | [I'M SORRY](https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [I'M SORRY](https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6) | 2:32 | 2024-10-17 |  |
@@ -159,6 +159,7 @@
 | [Kalenji](https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Réelle vie 3.0](https://open.spotify.com/album/3qzinl5et0UJo0r5XtG8Kc) | 3:14 | 2022-02-03 | 2022-06-10 |
 | [KOA](https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KOA](https://open.spotify.com/album/7FBlDnQcJkmdxQ7MKO8zc1) | 3:07 | 2022-10-20 | 2023-01-13 |
 | [Kongolais mauvais \(feat\. Ninho\)](https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Le chemin des braves](https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo) | 3:49 | 2022-04-07 | 2022-07-01 |
+| [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 | 2025-05-08 |  |
 | [L'odeur de l'essence](https://open.spotify.com/track/4c3TC1eWvz6BgOqSlOAKdT) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 4:42 | 2022-01-06 | 2022-04-01 |
 | [La 14](https://open.spotify.com/track/3wWrlpzyqUjE47DkR39O7l) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 14](https://open.spotify.com/album/0DSaOBR0QbYpz3d0l9ksvM) | 2:51 | 2022-01-06 | 2022-01-21 |
 | [La 15 \(GSXR\)](https://open.spotify.com/track/5KANzscJcnk2n4CvtTOiZU) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 15 \(GSXR\)](https://open.spotify.com/album/41LI7y7bznXzeAZj6Wup5n) | 2:50 | 2022-06-02 | 2022-07-22 |
