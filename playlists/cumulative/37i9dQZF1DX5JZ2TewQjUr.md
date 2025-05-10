@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Sake by the Water
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Noisy Charlie
 
-1,409 songs - 3 day 7 hr 34 min
+1,415 songs - 3 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-03-18 |
 | [Balenciaga Store Girl](https://open.spotify.com/track/2IU51LT4SmBPJIi7oBVZKz) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [Balenciaga Store Girl](https://open.spotify.com/album/0bqoYF1b2TFurEuhzG5oCh) | 2:56 | 2023-11-02 | 2024-01-05 |
 | [bandaid](https://open.spotify.com/track/0lIAm02QM3kruSx08BaJOc) | [Isaac Chan](https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV), [Jessica Oh](https://open.spotify.com/artist/1545Lqks1a2K8J41pueQCb) | [bandaid](https://open.spotify.com/album/5t1JNivEUa8zdGbi8qd8Yz) | 2:51 | 2022-05-26 | 2022-07-29 |
+| [Be Alright](https://open.spotify.com/track/72chFcwtLodKKzDtb6rUNW) | [Year of the Lion](https://open.spotify.com/artist/6bkaAXKoa1oRLCeS6TtgXf) | [Be Alright](https://open.spotify.com/album/1nKViPu45GCj7bsW4TXnJY) | 3:21 | 2025-05-09 |  |
 | [Be around \- Acoustic](https://open.spotify.com/track/2fff5HjVbc7NHGtlqQ0IGN) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Be around \(Acoustic\)](https://open.spotify.com/album/2sXqdHVpFyVRZwn8V68gnw) | 3:08 | 2022-05-26 | 2022-07-29 |
 | [be friend ok?](https://open.spotify.com/track/0QAjTuquM5uEkmJmsw8Uyf) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [be friend ok?](https://open.spotify.com/album/1ln31LYy6uCIRh8iyPWACq) | 3:05 | 2023-09-28 | 2023-12-01 |
 | [be mine](https://open.spotify.com/track/1qlr9q9ub13lCS4OJKcp9t) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [2nd PRE EVOLUTION](https://open.spotify.com/album/2enwJuwD3Tygke0CHEGcS9) | 2:53 | 2023-04-27 | 2023-07-14 |
@@ -380,6 +381,7 @@
 | [I just wanna sleep](https://open.spotify.com/track/6jNw03uSks35lzpwGcCa9I) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU), [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [I just wanna sleep](https://open.spotify.com/album/6KHiY4KYBPzDieETKjzYSM) | 3:15 | 2023-09-21 | 2023-12-01 |
 | [I kinda feel like going home](https://open.spotify.com/track/1WA1STD9PGm3lOq6SwKVa4) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [nardey](https://open.spotify.com/artist/7tHQPahicLUO5EdLyo5V28) | [Human Heart](https://open.spotify.com/album/46UcZkRj4FkwY9vNb89gij) | 2:25 | 2024-05-09 | 2024-11-15 |
 | [I LIKE U](https://open.spotify.com/track/30Qsh8LvXViQWlOMxI5BNk) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [I LIKE U](https://open.spotify.com/album/5V2gjlY284O3Zv2edHZcdZ) | 2:06 | 2023-06-08 | 2023-09-15 |
+| [I Lost Interest](https://open.spotify.com/track/2vo4wBTebkqeMPLGBp3lcO) | [Gnarlything](https://open.spotify.com/artist/6lBgqDngt8pbv6r7HdzWwM) | [I Lost Interest](https://open.spotify.com/album/0DNO6SLMQsjN12I9Yj81UV) | 1:47 | 2025-05-09 |  |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-09-08 | 2023-03-18 |
 | [i love you](https://open.spotify.com/track/10LOrNwBsBMf5iZYyYJeFW) | [May Chi](https://open.spotify.com/artist/5wCRy3ZyknbKCFXhfzqqcH) | [postcards](https://open.spotify.com/album/1cvRMKgcJSrjBQyDZyD3i9) | 3:35 | 2024-07-04 | 2024-11-15 |
 | [I made wine out of tears](https://open.spotify.com/track/0tu4KP98S7K1o54V5eQ1yy) | [Racy](https://open.spotify.com/artist/5vTtc4X5nArtI6oOD08Oqr) | [I made wine out of tears](https://open.spotify.com/album/0PZGCk65MLxPLIrJC2E5df) | 2:50 | 2022-10-13 | 2023-02-03 |
@@ -417,6 +419,7 @@
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2022-09-22 | 2023-03-18 |
 | [Inside My Head](https://open.spotify.com/track/2gqK1yJ6FBSPhJdmLf0I9W) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Inside My Head](https://open.spotify.com/album/49hKtHlS7FU9tAuDkxHMlS) | 4:14 | 2023-04-06 | 2023-07-14 |
 | [Inside Wanna Out](https://open.spotify.com/track/6UXqcSW9E1WVMaaUiykWQJ) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [Inside Wanna Out](https://open.spotify.com/album/7sxd4XHLaSYliu2AVdS5uw) | 3:30 | 2024-07-18 | 2024-11-15 |
+| [Internecine](https://open.spotify.com/track/4lQhTDGRGyiRfKm3RkgcaT) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Internecine](https://open.spotify.com/album/3pHGC384OfVDqnlTBFKqrH) | 4:02 | 2025-05-09 |  |
 | [It's all just coming back...](https://open.spotify.com/track/74w9yu737MPyC80EspUWni) | [CHRIS KENG](https://open.spotify.com/artist/3DbMgFXRrouUdW92AD9pdu) | [It's all just coming back...](https://open.spotify.com/album/73OvVDkLfASBQBTv5beZOT) | 2:43 | 2024-05-02 | 2024-11-15 |
 | [It's Starting to Rain](https://open.spotify.com/track/0EwaVbFSx9crgupRCW5ybI) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/1z60IEouly3HMUxVRHY5U8) | 3:33 | 2023-05-25 | 2023-07-14 |
 | [It's Starting to Rain](https://open.spotify.com/track/34zi4KYkM2Xh4utbUSk0qE) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/5lYKLyu7mfLm2sPRVqRUzP) | 3:33 | 2023-04-13 | 2023-06-01 |
@@ -537,6 +540,7 @@
 | [Mirages Of You](https://open.spotify.com/track/7vvswZnA6Sx58t521ok8PL) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Mirages Of You](https://open.spotify.com/album/64lnJwsuJ8YYol8bGR0i8m) | 3:16 | 2023-08-31 | 2023-12-01 |
 | [misirlou](https://open.spotify.com/track/7oUxi1hWnyzrcHa8CVENPd) | [miso808](https://open.spotify.com/artist/4JYjh6QC7QnE3KLjtyrCUz), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [misirlou](https://open.spotify.com/album/0oiVzwKblMxHXSYRTfCeYB) | 2:47 | 2024-09-12 | 2024-12-13 |
 | [miss dopamine](https://open.spotify.com/track/2GIB0eGthGtxu95QhupMHh) | [Jayj](https://open.spotify.com/artist/3kH3cdvEQ8E33l3eOQC2N9) | [miss dopamine](https://open.spotify.com/album/1YtUDfH57JBQwaA2dyhojZ) | 4:10 | 2023-09-07 | 2023-11-03 |
+| [Miss Me](https://open.spotify.com/track/7ol5kRNBkXj5VxARfiSfeZ) | [Seungrae](https://open.spotify.com/artist/7g5FyggODL4LruwJvqx4yh) | [Miss Me](https://open.spotify.com/album/58mZKgn2U8ldfguwEg7sXC) | 2:43 | 2025-05-09 |  |
 | [MISTRESS](https://open.spotify.com/track/4iDwZYGMHF30Nh12OUHtcD) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [Daniel Toh](https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U) | [MISTRESS](https://open.spotify.com/album/5Z11m001u3WTHH5sDxLXFC) | 3:01 | 2022-11-03 | 2023-02-03 |
 | [MK Nose](https://open.spotify.com/track/7dlznx1fY6ylydSB4aZp5t) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [Qqbbg](https://open.spotify.com/artist/6ZmrXLpXLuqQRvZNvgHg1O) | [MK Nose](https://open.spotify.com/album/7aprLIUrc6j6iq3jtaveA4) | 2:29 | 2022-09-08 | 2023-03-18 |
 | [Mom I’d Like To...](https://open.spotify.com/track/0zJ3jtxEwtcifX7S0EIVDl) | [MATCH](https://open.spotify.com/artist/3Chg16F5OR4qSf1zE4vywa) | [Mom I’d Like To...](https://open.spotify.com/album/1LQtV1flVtaGPVuBZ6d8q7) | 3:46 | 2024-05-16 | 2024-11-15 |
@@ -1221,6 +1225,7 @@
 | [末世情書](https://open.spotify.com/track/5aEzkY4D0HdU0CyUoJWnmm) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [末世情書](https://open.spotify.com/album/0TMwkt9ibpPMNW3EWWhV6j) | 4:40 | 2022-10-13 | 2023-03-18 |
 | [末世智慧 Apocalypse](https://open.spotify.com/track/6KmbJH5XuXhL3w6OAmyR2A) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [末世智慧 Apocalypse](https://open.spotify.com/album/1AhIKPjhIYzQwbafMB8OqD) | 4:44 | 2023-10-05 | 2023-12-01 |
 | [本末棄置 Give It All Up](https://open.spotify.com/track/6ZOVHBeC4X5I52AoD4SsVT) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [本末棄置 Give It All Up](https://open.spotify.com/album/5htKajNDtwm7Lpn4fPcyS7) | 2:35 | 2023-03-30 | 2023-07-14 |
+| [朱古力撈麵](https://open.spotify.com/track/1dn8AWiynSnUqYbn2ULpFN) | [jett](https://open.spotify.com/artist/4Qmsrm3s3VxZ5xEyM9DPcM), [srx](https://open.spotify.com/artist/1NaPPojIvTCnhJCz0GQeL8) | [朱古力撈麵](https://open.spotify.com/album/5GqXYHMMSE9uj1UCv39WC4) | 3:08 | 2025-05-09 |  |
 | [東主有喜](https://open.spotify.com/track/6RcD4whYTJZ7B1dmjZfTMx) | [鄒旻諾](https://open.spotify.com/artist/4BYz0z0sopfLsuyQpw0YOS) | [東主有喜](https://open.spotify.com/album/7Mep4iNCt9mSp3YO12r8aW) | 4:50 | 2022-10-27 | 2023-02-03 |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 | 2022-07-29 |
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-08-12 | 2022-11-04 |
@@ -1245,6 +1250,7 @@
 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 | 2023-11-23 | 2024-02-02 |
 | [沉船仔](https://open.spotify.com/track/4GKz6m57hsGpIA9IsKZwyX) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [沉船仔](https://open.spotify.com/album/6P9x2W060BFSpLFXxZKt6H) | 2:35 | 2024-08-08 | 2024-11-15 |
 | [沉船仔 \- 原唱版](https://open.spotify.com/track/1HLHN1jFgT0LZ22l3uVzOg) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [沉船仔 \(原唱版\)](https://open.spotify.com/album/71iugvQ9xVcmKGthc9NvMZ) | 2:35 | 2024-11-14 | 2025-03-14 |
+| [沉船花之戀](https://open.spotify.com/track/5YmJPTMi7RzgJrihoJctwu) | [Chi Chan](https://open.spotify.com/artist/4oUfRNUBVysBeGVlCbWe3c) | [沉船花之戀](https://open.spotify.com/album/5ySHqOcwdEmbAz7r8cuTqh) | 2:27 | 2025-05-09 |  |
 | [沉船餐廳](https://open.spotify.com/track/4HabOX14Cckr3ZFWpAl37K) | [FOOLYA 虎牙](https://open.spotify.com/artist/6okFqqvBQmOxtw8pxX43ui) | [沉船餐廳](https://open.spotify.com/album/3fWrBfiO6BMJw3oLh0Ovvl) | 3:30 | 2023-10-05 | 2024-01-05 |
 | [沒有送出的詩](https://open.spotify.com/track/5qLNCttpNjUaDoTsfryRuV) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [沒有送出的詩](https://open.spotify.com/album/5gBZE79vF92KOaTFFpopCd) | 3:30 | 2024-09-12 | 2024-12-13 |
 | [沒法愛多次 Can't Luv Again](https://open.spotify.com/track/31MJXsS1KeNC2N68kYIyVX) | [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK) | [沒法愛多次 Can't Luv Again](https://open.spotify.com/album/09846PguGArXt81DAvU2zt) | 3:05 | 2023-01-05 | 2023-05-26 |

@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "A Moonlit Shore",
+        "url": "https://open.spotify.com/album/1BKVbHMyQR3hEpjhXGmDg2"
+      },
+      "artists": [
+        {
+          "name": "Bill Walton",
+          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173624,
+      "name": "A Moonlit Shore",
+      "url": "https://open.spotify.com/track/73R6uhjqYdxy4NnlXvciVo"
+    },
+    {
+      "album": {
         "name": "A Nightingale Sang In Berkeley Square",
         "url": "https://open.spotify.com/album/2OijUYhZR1MMnlH0gjAgeH"
       },
@@ -725,6 +743,24 @@
     },
     {
       "album": {
+        "name": "An Average Day",
+        "url": "https://open.spotify.com/album/0MtrgOUza9E5OJzMBLwTam"
+      },
+      "artists": [
+        {
+          "name": "Joseph Cole",
+          "url": "https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144398,
+      "name": "An Average Day",
+      "url": "https://open.spotify.com/track/1vqip6ii791NyeKsI9ai2R"
+    },
+    {
+      "album": {
         "name": "An Evening With You",
         "url": "https://open.spotify.com/album/6E3cDDb3UlcPwzRyMnwMtu"
       },
@@ -826,7 +862,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 162427,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/3GCaoFaGqlbsSXFCFrHozb"
@@ -1816,7 +1852,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 164381,
       "name": "Chicago Skyline",
       "url": "https://open.spotify.com/track/0AvO7DJa9amyACsz6SyaI0"
@@ -2734,7 +2770,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 202889,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/4M83WIzH5cqPFqjnYwcji9"
@@ -3058,7 +3094,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 178020,
       "name": "Falling In Love With Love",
       "url": "https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu"
@@ -3944,6 +3980,24 @@
       "duration_ms": 113109,
       "name": "How About You",
       "url": "https://open.spotify.com/track/6ttCNkBmvJ9m452iBRMFet"
+    },
+    {
+      "album": {
+        "name": "How Can I Know",
+        "url": "https://open.spotify.com/album/1qY3y6VYieGEtRMLSHcvOt"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "How Can I Know",
+      "url": "https://open.spotify.com/track/7oe8RKHi8M73ylvglQQ607"
     },
     {
       "album": {
@@ -5218,7 +5272,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 253976,
       "name": "Juniper Leaves",
       "url": "https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew"
@@ -9088,7 +9142,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 209500,
       "name": "Sometime Ago",
       "url": "https://open.spotify.com/track/27tlCFs00O17IvQMpdyBRs"
@@ -9344,6 +9398,24 @@
       "duration_ms": 180594,
       "name": "Spring in Chicago",
       "url": "https://open.spotify.com/track/3GZtZDAbxKusD1QjrwCMDH"
+    },
+    {
+      "album": {
+        "name": "Spring in Ohio",
+        "url": "https://open.spotify.com/album/3qpcyEOkqr3D52zrxTvuVQ"
+      },
+      "artists": [
+        {
+          "name": "Ron Bladworth",
+          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Spring in Ohio",
+      "url": "https://open.spotify.com/track/40C7hkymXZCeMzQ5GuEENd"
     },
     {
       "album": {
@@ -11338,7 +11410,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 135463,
       "name": "When Hearts Turn Blue",
       "url": "https://open.spotify.com/track/7nsHRk3Dbx5tj8ya1Vw1eF"
@@ -11752,7 +11824,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 151093,
       "name": "You can handle it",
       "url": "https://open.spotify.com/track/26iIjzdLwmSFyXNv75DR0e"
@@ -11860,7 +11932,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 155066,
       "name": "You Stepped Out Of A Dream",
       "url": "https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow"

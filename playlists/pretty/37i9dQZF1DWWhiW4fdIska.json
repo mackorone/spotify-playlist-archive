@@ -1,6 +1,6 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 31058,
+  "num_followers": 31055,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Statesboro Blues - Live At Fillmore East, March 12, 1971 - First Show",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "A Hard Road",
         "url": "https://open.spotify.com/album/160euwnzg8f0oSEz3on32Z"
       },
@@ -299,18 +315,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "The 1971 Fillmore East Recordings",
-        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
+        "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
+        "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "Magic Sam",
+          "url": "https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO"
         }
       ],
-      "duration_ms": 284480,
-      "name": "Statesboro Blues - Live At Fillmore East, March 12, 1971 - First Show",
-      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
+      "duration_ms": 176186,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -359,22 +375,6 @@
       "duration_ms": 298666,
       "name": "Freeway Jam",
       "url": "https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
-        "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
-      },
-      "artists": [
-        {
-          "name": "Magic Sam",
-          "url": "https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO"
-        }
-      ],
-      "duration_ms": 176186,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 373000,
-      "name": "Ventilator Blues",
-      "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Somebody Loan Me A Dime",
         "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 179693,
       "name": "Somebody Loan Me A Dime",
       "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Ventilator Blues",
+      "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
     },
     {
       "added_at": "2020-10-21 20:41:20",

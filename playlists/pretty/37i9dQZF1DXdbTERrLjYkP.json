@@ -1,13 +1,157 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: ALINA",
-  "num_followers": 218147,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Audrey Hobert",
+  "num_followers": 218132,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDYwAAAABvN/jMQyqbI5gVgT48u935",
+  "snapshot_id": "aB19xAAAAAAvKKejrdGYH/mW5LnH+w32",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "Sue me",
+        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
+    },
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "table for two",
+        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 111319,
+      "name": "table for two",
+      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
+    },
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "Great White Sharks",
+        "url": "https://open.spotify.com/album/6SvD1F9Gey9kY9GVaJkhbm"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 199255,
+      "name": "Great White Sharks",
+      "url": "https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou"
+    },
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "Mr. Blue Jeans",
+        "url": "https://open.spotify.com/album/7HVWVJnBWYX7rZTNOjis2y"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 201643,
+      "name": "Mr. Blue Jeans",
+      "url": "https://open.spotify.com/track/0bAwwBJloXOyycr9SmZKnS"
+    },
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/255WXj2nePIx2C3MwjpaOA"
+      },
+      "artists": [
+        {
+          "name": "colby!",
+          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
+        }
+      ],
+      "duration_ms": 208563,
+      "name": "You",
+      "url": "https://open.spotify.com/track/01dOtIFsXHDWi6vZsLnVQ2"
+    },
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "Castle",
+        "url": "https://open.spotify.com/album/4Xlh9COlVebZI24fodiVSq"
+      },
+      "artists": [
+        {
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+        }
+      ],
+      "duration_ms": 191219,
+      "name": "Castle",
+      "url": "https://open.spotify.com/track/4B6irprsslV13IM1nr0QoR"
+    },
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "Driving Backwards",
+        "url": "https://open.spotify.com/album/3AzgjMcUjnXhK7yV4epzEq"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 145527,
+      "name": "Ruined",
+      "url": "https://open.spotify.com/track/2NinkPppZ8hpTg6UabxfCz"
+    },
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc"
+    },
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/6rVk1sezvdieHChgqTZ8Ix"
+      },
+      "artists": [
+        {
+          "name": "Todd Lewis Kramer",
+          "url": "https://open.spotify.com/artist/1gzDIi8maUpe3aJ2XTZFIJ"
+        }
+      ],
+      "duration_ms": 200260,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0xaeSigcojEopeeoP92OZ2"
+    },
     {
       "added_at": "2025-04-14 17:52:38",
       "album": {
@@ -217,22 +361,6 @@
       "url": "https://open.spotify.com/track/6P8L4RZSh7NoguKjUFmO1i"
     },
     {
-      "added_at": "2025-04-04 04:00:25",
-      "album": {
-        "name": "Listen to this when you buy a house",
-        "url": "https://open.spotify.com/album/6BTJS3CE6lcSSIT0md7Byv"
-      },
-      "artists": [
-        {
-          "name": "Josie Oliver",
-          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
-        }
-      ],
-      "duration_ms": 219857,
-      "name": "Do you really have to go?",
-      "url": "https://open.spotify.com/track/2Aq88M9sEPxN8VaFCx88Ii"
-    },
-    {
       "added_at": "2025-04-11 04:00:21",
       "album": {
         "name": "placeholder",
@@ -247,22 +375,6 @@
       "duration_ms": 215883,
       "name": "placeholder",
       "url": "https://open.spotify.com/track/0P81XsLbHOGPMzTwMtmxfP"
-    },
-    {
-      "added_at": "2025-04-04 04:00:25",
-      "album": {
-        "name": "cozy you",
-        "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 210734,
-      "name": "cozy you",
-      "url": "https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b"
     },
     {
       "added_at": "2025-04-04 04:00:25",
@@ -457,38 +569,6 @@
       "url": "https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1"
     },
     {
-      "added_at": "2025-03-14 04:00:01",
-      "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
-      },
-      "artists": [
-        {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
-        }
-      ],
-      "duration_ms": 213419,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
-    },
-    {
-      "added_at": "2025-03-14 04:00:01",
-      "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/06D1vzjX7t7zLZJd9xIJ7g"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l"
-    },
-    {
       "added_at": "2025-03-07 05:00:33",
       "album": {
         "name": "The Garden",
@@ -663,22 +743,6 @@
       "duration_ms": 190998,
       "name": "If I Had Never Lost My Mind...",
       "url": "https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH"
-    },
-    {
-      "added_at": "2025-02-14 05:00:22",
-      "album": {
-        "name": "Wonder Bread Winner",
-        "url": "https://open.spotify.com/album/44iFHnZUp09kt83QElJnkK"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 161406,
-      "name": "Wonder Bread Winner",
-      "url": "https://open.spotify.com/track/2D8dZJ7dXFawWNUmnca8TO"
     },
     {
       "added_at": "2025-02-28 05:00:34",
@@ -907,74 +971,6 @@
       "duration_ms": 200230,
       "name": "if only i knew",
       "url": "https://open.spotify.com/track/08Kfu6wPy0HWceUM4XQL6G"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Running Wild",
-        "url": "https://open.spotify.com/album/6R2ai9D2j6WRbQ5r9gE5wM"
-      },
-      "artists": [
-        {
-          "name": "Leith",
-          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/7N04vaIHwmsEFIOSOtEzGd"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "The Alchemist",
-        "url": "https://open.spotify.com/album/1W8QZB9LoDkREFfO6dRSnC"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 212021,
-      "name": "The Alchemist",
-      "url": "https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS"
-    },
-    {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/0d8uUGeWpytdTdQeZNHMHq"
-      },
-      "artists": [
-        {
-          "name": "Fraser Churchill",
-          "url": "https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ"
-        },
-        {
-          "name": "Alyssa Bonagura",
-          "url": "https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Feel Something",
-      "url": "https://open.spotify.com/track/4Vz0i5HbKRXJPArNWupocT"
-    },
-    {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/2v9iswJpEYA2vPdaeLFbb9"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        }
-      ],
-      "duration_ms": 199363,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

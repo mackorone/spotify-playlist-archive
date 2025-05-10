@@ -1,13 +1,73 @@
 {
   "description": "A laid-back trip in the folk scene. Cover: Foxwarren",
-  "num_followers": 167724,
+  "num_followers": 167711,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDZAAAAABwNJwRyiGbf8KV8Z9Ne3gs",
+  "snapshot_id": "aB19xgAAAAAI00866ok958QtcRZ7McAL",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 245520,
+      "name": "Beg, Steal, Borrow",
+      "url": "https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "JVC",
+        "url": "https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 209823,
+      "name": "Hikikomori",
+      "url": "https://open.spotify.com/track/2MnwEZniGPiDXSeMQYqvJM"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Wild and Clear and Blue",
+        "url": "https://open.spotify.com/album/2AAAjeTyO8T9juLBOKsCaV"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 215206,
+      "name": "Wild and Clear and Blue",
+      "url": "https://open.spotify.com/track/6OIvQ2YzNJ2tckkVkUqieI"
+    },
     {
       "added_at": "2025-05-02 04:00:36",
       "album": {
@@ -23,22 +83,6 @@
       "duration_ms": 196453,
       "name": "Grieving",
       "url": "https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2025-05-01 22:58:08",
@@ -63,6 +107,54 @@
       "duration_ms": 132800,
       "name": "Yvonne",
       "url": "https://open.spotify.com/track/6OCv4hNqRyzUkwdAIMSvFf"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Mistakes / Fairview Feeling",
+        "url": "https://open.spotify.com/album/1hvZoZcwgET0uCQLnENLWr"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/5Pdy7tkX4AjEEN9zlAlWUu"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Chainsmokin Memories",
+        "url": "https://open.spotify.com/album/3rt7VMQTX8Iw19AuWgTzOz"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 177967,
+      "name": "Chainsmokin Memories",
+      "url": "https://open.spotify.com/track/7wOSFDy8zijPSlA3y064Oz"
+    },
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2025-05-01 22:58:08",
@@ -1583,86 +1675,6 @@
       "duration_ms": 175750,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "Rust.",
-        "url": "https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 215652,
-      "name": "Rust.",
-      "url": "https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "Anniversary",
-        "url": "https://open.spotify.com/album/076ZsTO3oHNUUNVd6iXWin"
-      },
-      "artists": [
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 174124,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/6nMb2r36d2nUbBgkvVYkWT"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "The Rider (from \"The Lord of the Rings: The War of the Rohirrim\")",
-        "url": "https://open.spotify.com/album/0FZzoS6y3uDXa0H51E6ehn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 233027,
-      "name": "The Rider (from \"The Lord of the Rings: The War of the Rohirrim\")",
-      "url": "https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "Rosyln (Live from the Silo)",
-        "url": "https://open.spotify.com/album/26KsMUd3lHKB0UKyUKIF2i"
-      },
-      "artists": [
-        {
-          "name": "Zackery",
-          "url": "https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc"
-        }
-      ],
-      "duration_ms": 281110,
-      "name": "Rosyln - Live from the Silo",
-      "url": "https://open.spotify.com/track/3M8xHt9ggqBHcp0LTG4Ws9"
-    },
-    {
-      "added_at": "2025-05-01 22:58:08",
-      "album": {
-        "name": "Ohio",
-        "url": "https://open.spotify.com/album/3YoKNEBFmFbirIYtdKeUCw"
-      },
-      "artists": [
-        {
-          "name": "Kieran Campbell",
-          "url": "https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK"
-        }
-      ],
-      "duration_ms": 161098,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1OtDzhNCSiQsbihPA1SOni"
     }
   ],
   "unique_name": "Folk & Friends",

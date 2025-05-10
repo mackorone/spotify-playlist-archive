@@ -4,7 +4,7 @@
 
 > Neo Pistea en la casa del Trap Argentino.
 
-490 songs - 1 day 0 hr 18 min
+492 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Factos](https://open.spotify.com/track/031uMsGKA6CFboZDCX3xSu) | [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [ENEZ 4R](https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE) | [Factos](https://open.spotify.com/album/4GAfjkvxRN1ZvGvUnOEavK) | 2:02 | 2024-05-03 | 2024-06-29 |
 | [FANTASTICO](https://open.spotify.com/track/1CkgsitdwO2QQJcrZaXCKi) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [FANTASTICO](https://open.spotify.com/album/2TNyG3m9RQhbcZKkw0TtTu) | 2:29 | 2023-03-17 | 2023-07-07 |
 | [FANTASTICO](https://open.spotify.com/track/4MXvgHbIRDW4iB4PmMvvJc) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:29 | 2023-06-23 | 2023-09-16 |
+| [Fardos](https://open.spotify.com/track/4VMElk3Khv5DxcFwsJ6XEq) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Fardos](https://open.spotify.com/album/2ZRgzrrwtBEtP9j2XVhyIq) | 1:45 | 2025-05-09 |  |
 | [FINA](https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:36 | 2025-04-11 | 2025-04-22 |
 | [Finesse](https://open.spotify.com/track/5jRs6APlrIx42hBfmbXSCS) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Finesse](https://open.spotify.com/album/4y2eGTZ4KUQcP57ijZ3uDI) | 2:53 | 2022-01-21 | 2022-11-19 |
 | [Flash](https://open.spotify.com/track/2DFIUhox4TTAAl8dSI3yQV) | [Naim](https://open.spotify.com/artist/73vcIhWNd7keZe6whmxSwK), [Killato](https://open.spotify.com/artist/7jKDei7T6rvNeXyW6WeDxo), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Flash](https://open.spotify.com/album/1S95j2ax2dnfp4GFYNW8X6) | 3:30 | 2022-01-21 | 2022-05-20 |
@@ -340,6 +341,7 @@
 | [PASIEMPRE](https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 5:55 | 2025-04-11 | 2025-04-22 |
 | [Pastel Con Nutella](https://open.spotify.com/track/2ksvWFIlW7QgXuvk2MA1FT) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Pastel Con Nutella](https://open.spotify.com/album/04fwnwi4UNEcXPCWmd4dU7) | 4:04 | 2022-05-31 | 2024-06-15 |
 | [Perdoname Si Llego Tarde](https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Nivel](https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS) | 3:12 | 2022-01-21 | 2024-06-15 |
+| [Persiguiéndome](https://open.spotify.com/track/18EMa7Rorie3sd7Xdz40vp) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Persiguiéndome](https://open.spotify.com/album/7gO8DYCixLdXdTrUgzXQv1) | 3:03 | 2025-05-09 |  |
 | [PESO COMPLETO](https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [PESO COMPLETO](https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ) | 3:13 | 2025-04-11 | 2025-04-22 |
 | [Phono](https://open.spotify.com/track/0wxvfLAslCS2yrVHDXg4kk) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Lo Complicado de Ser Simple](https://open.spotify.com/album/66Pl7WcCNMCFlOIeykeESY) | 2:48 | 2024-02-23 | 2024-06-29 |
 | [Pico Y Pala](https://open.spotify.com/track/3JLLtB5gBo94OKM2fmCrqv) | [Kifykify](https://open.spotify.com/artist/1ZM3GOPFXwiy6yVeY1FM3I), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [XLAB](https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6) | [Pico Y Pala](https://open.spotify.com/album/0jwrJoft9XjfuFGg2CgNGb) | 2:29 | 2022-01-21 | 2023-05-05 |

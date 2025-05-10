@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-372 songs - 1 day 0 hr 29 min
+373 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [JOY \(Up The Street\)](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 3:57 | 2023-11-03 |  |
 | [Jump Into The Light \- 7" Mix](https://open.spotify.com/track/6wzNR3WjL6LY41lB6o83HB) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Kathy Sledge](https://open.spotify.com/artist/1uSgUZ6BhPQycUUc6Wo30K) | [Jump Into The Light](https://open.spotify.com/album/6vTp71Na0MLcAQ9UheLHhy) | 3:36 | 2021-07-24 | 2023-05-28 |
 | [Just Another Love Song \- Radio](https://open.spotify.com/track/572OoFzBv3brHdVzTVXJOB) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Just Another Love Song \(Radio\)](https://open.spotify.com/album/1YBVE7xgGCmQg6ocp0sKjq) | 4:44 | 2025-03-28 |  |
+| [Just Be Good To Me](https://open.spotify.com/track/5mdFJPMK2JoLCnTtdCbF9c) | [Baccus](https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW) | [Just Be Good To Me](https://open.spotify.com/album/3iWzrqktRWTbz4XlYlvPjw) | 2:41 | 2025-05-09 |  |
 | [Just for the Night \- Jean Tonique Remix](https://open.spotify.com/track/5sbK8z7M4GRaqUAzIdT9Ux) | [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I), [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Just for the Night \(Jean Tonique Remix\)](https://open.spotify.com/album/5aeZJVEbJ8vpSv17brEa1n) | 3:25 | 2023-05-26 | 2023-07-30 |
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-18 |  |
 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 | 2022-06-20 | 2023-06-04 |
@@ -327,7 +328,7 @@
 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 | 2023-08-11 | 2024-01-29 |
 | [Take You Higher](https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Take You Higher](https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ) | 3:15 | 2024-10-18 |  |
 | [Temptation](https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Temptation](https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43) | 3:09 | 2024-11-01 | 2025-02-26 |
-| [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-27 |  |
+| [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-27 | 2025-05-10 |
 | [That's Right \- Edit](https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [That's Right \(Edit\)](https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z) | 4:36 | 2024-03-15 |  |
 | [The Baddest](https://open.spotify.com/track/6rcITsBAtOZV2m7p7faldT) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [The Baddest](https://open.spotify.com/album/6FDTsaviz1llJDeaAT58Ys) | 3:15 | 2023-05-19 | 2023-06-11 |
 | [The Best Rapper Alive](https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [The Best Rapper Alive](https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm) | 8:07 | 2021-07-24 |  |

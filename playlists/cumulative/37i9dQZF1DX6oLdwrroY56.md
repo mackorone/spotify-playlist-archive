@@ -4,7 +4,7 @@
 
 > pinoy alternative music \. Cover: ena mori
 
-179 songs - 11 hr 29 min
+180 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [bestfriend](https://open.spotify.com/track/1qUcFABxKEe0YZa2sTL24i) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [bestfriend](https://open.spotify.com/album/6VZhkGKPGpAvEtfq7yE5Le) | 2:38 | 2025-02-14 |  |
 | [Binalewala](https://open.spotify.com/track/6VK9rCw2Gwt3zJ23bzxlwJ) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Binalewala](https://open.spotify.com/album/3Jex2fLroiKKgluCvMAifv) | 3:02 | 2023-10-27 | 2025-01-17 |
 | [Boomerang](https://open.spotify.com/track/0Bs1P0jxQvvjQixTbVcUa2) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Boomerang](https://open.spotify.com/album/10SCAVdi1ZYBKDQvVK51zB) | 4:26 | 2025-03-06 |  |
+| [boy](https://open.spotify.com/track/10XkxldeH7vbHetDoTlKpr) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [boy](https://open.spotify.com/album/4He3KAbu09Wion9GRyZm6W) | 3:42 | 2025-05-09 |  |
 | [Break time](https://open.spotify.com/track/7tDdIzfcxAtmU7JPTBpjiZ) | [Reese Lansangan](https://open.spotify.com/artist/2JI8ViuZDBybY6Xd9ujUrb), [Neat](https://open.spotify.com/artist/57I8hoEk21pfPwjVJvJB8U) | [Break time](https://open.spotify.com/album/6qdAy7eI40I0PGOR6nDCkG) | 3:53 | 2024-06-21 | 2025-04-17 |
 | [Bukas](https://open.spotify.com/track/3VW912q9u9F72sjW2sEc6S) | [Criminal Cinema](https://open.spotify.com/artist/08NgBg4Ft0hV7lYPH8MEjl) | [Bukas](https://open.spotify.com/album/7BAbxSZhRVVF6TRCFQ1JO5) | 4:37 | 2023-10-13 | 2024-05-04 |
 | [Bulaklak](https://open.spotify.com/track/2TM786ycFGiO0e2CW5f9uK) | [MarCø](https://open.spotify.com/artist/1ivVBioZ1Pocki7Ccqe3dI) | [Bulaklak](https://open.spotify.com/album/4HKqZ8TlIkRDAKTvPLp9SO) | 4:29 | 2023-10-13 | 2024-02-10 |

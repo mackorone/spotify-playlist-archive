@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Paz Carrara y Raly Barrionuevo",
-  "num_followers": 60167,
+  "num_followers": 60172,
   "original_name": "folk & oto\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "La Capital",
-        "url": "https://open.spotify.com/album/1P3OUooECLJYVUj8NJ1IUJ"
-      },
-      "artists": [
-        {
-          "name": "Ciao Marina",
-          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
-        }
-      ],
-      "duration_ms": 178439,
-      "name": "La Capital",
-      "url": "https://open.spotify.com/track/138AMAxJawuLPkPlxgHsHq"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Te vamos a salvar",
         "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 161000,
       "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
       "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "La Capital",
+        "url": "https://open.spotify.com/album/1P3OUooECLJYVUj8NJ1IUJ"
+      },
+      "artists": [
+        {
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+        }
+      ],
+      "duration_ms": 178439,
+      "name": "La Capital",
+      "url": "https://open.spotify.com/track/138AMAxJawuLPkPlxgHsHq"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -663,46 +663,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Comida China",
-        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 162993,
-      "name": "Comida China",
-      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "A la deriva",
-        "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
-      },
-      "artists": [
-        {
-          "name": "Pablo Joaqu\u00edn",
-          "url": "https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG"
-        },
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 186597,
-      "name": "A la deriva",
-      "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Lesbiandrama",
         "url": "https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR"
       },
@@ -743,6 +703,46 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Comida China",
+        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 162993,
+      "name": "Comida China",
+      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "A la deriva",
+        "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
+      },
+      "artists": [
+        {
+          "name": "Pablo Joaqu\u00edn",
+          "url": "https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG"
+        },
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 186597,
+      "name": "A la deriva",
+      "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "el gil",
         "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Ser\u00e9 m\u00eda",
-        "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
-      },
-      "artists": [
-        {
-          "name": "Kurmi",
-          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
-        }
-      ],
-      "duration_ms": 194611,
-      "name": "Ser\u00e9 m\u00eda",
-      "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Ganas de Dejarte",
         "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 140286,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Ser\u00e9 m\u00eda",
+        "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
+      },
+      "artists": [
+        {
+          "name": "Kurmi",
+          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
+        }
+      ],
+      "duration_ms": 194611,
+      "name": "Ser\u00e9 m\u00eda",
+      "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "a\u00fan as\u00ed",
-        "url": "https://open.spotify.com/album/59m9P7LhajZCo37PffWKMr"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        },
-        {
-          "name": "imbn",
-          "url": "https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o"
-        }
-      ],
-      "duration_ms": 234527,
-      "name": "a\u00fan as\u00ed",
-      "url": "https://open.spotify.com/track/6xhZTQCPxvPVAhptkjL7x1"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 221620,
       "name": "Bailar en la Cuerda Floja",
       "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "a\u00fan as\u00ed",
+        "url": "https://open.spotify.com/album/59m9P7LhajZCo37PffWKMr"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        },
+        {
+          "name": "imbn",
+          "url": "https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o"
+        }
+      ],
+      "duration_ms": 234527,
+      "name": "a\u00fan as\u00ed",
+      "url": "https://open.spotify.com/track/6xhZTQCPxvPVAhptkjL7x1"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Conversaci\u00f3n Cultural",
+        "url": "https://open.spotify.com/album/1XhqaVC1pLZg4FNpOMwAzV"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Vitola",
+          "url": "https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd"
+        }
+      ],
+      "duration_ms": 195301,
+      "name": "Buscala",
+      "url": "https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Simona a Guitarra y Voz (Lado A)",
         "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 157725,
       "name": "Lo Que Hicimos",
       "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Conversaci\u00f3n Cultural",
-        "url": "https://open.spotify.com/album/1XhqaVC1pLZg4FNpOMwAzV"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Vitola",
-          "url": "https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd"
-        }
-      ],
-      "duration_ms": 195301,
-      "name": "Buscala",
-      "url": "https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Las Mareas",
-        "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
-      },
-      "artists": [
-        {
-          "name": "Clara Presta",
-          "url": "https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX"
-        },
-        {
-          "name": "Matias Cella",
-          "url": "https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC"
-        }
-      ],
-      "duration_ms": 194085,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2tU4jiKu6yWCq3fnzQyPwD"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 181718,
       "name": "Eres",
       "url": "https://open.spotify.com/track/4HWZ7WUCJHXKwtvInX8Ofx"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Las Mareas",
+        "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
+      },
+      "artists": [
+        {
+          "name": "Clara Presta",
+          "url": "https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX"
+        },
+        {
+          "name": "Matias Cella",
+          "url": "https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC"
+        }
+      ],
+      "duration_ms": 194085,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
     },
     {
       "added_at": "2025-04-25 03:00:33",

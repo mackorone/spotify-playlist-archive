@@ -1,13 +1,29 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 382450,
+  "num_followers": 382558,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDUQAAAABHWk5f2LRh/8x9kijHsqIY",
+  "snapshot_id": "aB192QAAAADnPUpDel/FNoOpzlSq9bZ0",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:25",
+      "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/2DaMTB2MtDuRWIb2WeLedU"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        }
+      ],
+      "duration_ms": 148629,
+      "name": "Ventura",
+      "url": "https://open.spotify.com/track/6Te6TByygnONS4JyJC0ruN"
+    },
     {
       "added_at": "2025-05-02 04:00:17",
       "album": {
@@ -1619,30 +1635,6 @@
       "duration_ms": 396666,
       "name": "Red Baron",
       "url": "https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Ya-Ka-May (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6"
-      },
-      "artists": [
-        {
-          "name": "Galactic",
-          "url": "https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ"
-        },
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        },
-        {
-          "name": "Corey Henry",
-          "url": "https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh"
-        }
-      ],
-      "duration_ms": 194746,
-      "name": "Cineramascope",
-      "url": "https://open.spotify.com/track/63dv2zKXPamiHHOKQBOzbU"
     },
     {
       "added_at": "2021-04-09 04:01:00",

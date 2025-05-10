@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: INJI",
+  "description": "Dark, hard hitting pop. Cover: Lydia Night",
   "name": "SALT",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 165408,
       "name": "a little bit",
       "url": "https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 165135,
       "name": "BIBI Vengeance",
       "url": "https://open.spotify.com/track/6cwfdl65DXd0VjQk5grYcv"
@@ -2564,6 +2564,24 @@
       "duration_ms": 178089,
       "name": "CAROUSEL",
       "url": "https://open.spotify.com/track/2oIwlCLMTmNm21n1V16phB"
+    },
+    {
+      "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/7Jb7E81AWkiaBUnMCjnVoX"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165996,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/48ccwX9wv8bSSOdb2nKRBK"
     },
     {
       "album": {
@@ -4312,6 +4330,24 @@
       "duration_ms": 157788,
       "name": "drop the man",
       "url": "https://open.spotify.com/track/2cKoq179oHQBXR4wDIke1i"
+    },
+    {
+      "album": {
+        "name": "still not ur girlfriend",
+        "url": "https://open.spotify.com/album/3SxhS51jQH7FewYY5BY3CT"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152857,
+      "name": "dumb dumb dumb",
+      "url": "https://open.spotify.com/track/7mUOGK2T7zONpDE0KwegZ0"
     },
     {
       "album": {
@@ -6598,7 +6634,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 136000,
       "name": "Hide 'N Seek",
       "url": "https://open.spotify.com/track/4JL9hpeiDgGgFjJilloQ97"
@@ -10615,6 +10651,28 @@
     },
     {
       "album": {
+        "name": "out of order",
+        "url": "https://open.spotify.com/album/3QlWoxk7qPfUht297ah82S"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        },
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "out of order",
+      "url": "https://open.spotify.com/track/7vGYjU8uzwuImp1kT7M7IO"
+    },
+    {
+      "album": {
         "name": "over my ex",
         "url": "https://open.spotify.com/album/2UtEAEUx3RaKL1TRKe5asi"
       },
@@ -14111,6 +14169,24 @@
     },
     {
       "album": {
+        "name": "The Hearse",
+        "url": "https://open.spotify.com/album/1PbZ0tNaFtl4DVWgiK5OVg"
+      },
+      "artists": [
+        {
+          "name": "Lydia Night",
+          "url": "https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175587,
+      "name": "The Hearse",
+      "url": "https://open.spotify.com/track/65P2y7TYBecd8FEcuBUeDr"
+    },
+    {
+      "album": {
         "name": "The Maze",
         "url": "https://open.spotify.com/album/3PPaBeyg3p9bKAsgU3uBRW"
       },
@@ -15542,7 +15618,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 166755,
       "name": "What Do Girls Do?",
       "url": "https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x"

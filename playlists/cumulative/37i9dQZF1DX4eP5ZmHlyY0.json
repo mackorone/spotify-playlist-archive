@@ -1119,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "BUCK (feat. Diljit Dosanjh)",
+        "url": "https://open.spotify.com/album/29xxo6iJM8mqwKYWTHCu06"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163853,
+      "name": "BUCK (feat. Diljit Dosanjh)",
+      "url": "https://open.spotify.com/track/70sREIqvDuuHKXSjmWMysS"
+    },
+    {
+      "album": {
         "name": "BURN",
         "url": "https://open.spotify.com/album/22poX10gy30tj7vqUDTKyz"
       },

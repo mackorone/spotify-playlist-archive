@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Rossa",
-  "num_followers": 117219,
+  "num_followers": 117236,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,26 @@
     {
       "added_at": "2025-05-08 17:25:49",
       "album": {
+        "name": "BUCK (feat. Diljit Dosanjh)",
+        "url": "https://open.spotify.com/album/29xxo6iJM8mqwKYWTHCu06"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 163853,
+      "name": "BUCK (feat. Diljit Dosanjh)",
+      "url": "https://open.spotify.com/track/70sREIqvDuuHKXSjmWMysS"
+    },
+    {
+      "added_at": "2025-05-08 17:25:49",
+      "album": {
         "name": "Sincerely,",
         "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
       },
@@ -394,10 +414,6 @@
         {
           "name": "Amy Lee",
           "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
-        },
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
       "duration_ms": 186033,

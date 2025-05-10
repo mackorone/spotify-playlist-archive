@@ -1,13 +1,85 @@
 {
   "description": "New releases for the kids. Cover: Sumo's World",
-  "num_followers": 53485,
+  "num_followers": 53539,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDUwAAAABC+KclP6YU+iZtocL2lvTE",
+  "snapshot_id": "aB194gAAAAA9GJ6MVdVRbY6uLcFKSVl6",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:34",
+      "album": {
+        "name": "I Love My Family",
+        "url": "https://open.spotify.com/album/5HrYMlEN1DJ7NJZk7UkHlC"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 188655,
+      "name": "I Love My Family",
+      "url": "https://open.spotify.com/track/1uDWIw5rkIYUwdGOQx3wIX"
+    },
+    {
+      "added_at": "2025-05-09 04:00:34",
+      "album": {
+        "name": "Aura V Anthem",
+        "url": "https://open.spotify.com/album/4cxT3Qi0xKbDSsyHQ6cQVi"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        }
+      ],
+      "duration_ms": 66288,
+      "name": "Aura V Anthem",
+      "url": "https://open.spotify.com/track/3mjYCpOCqwyv2q4o7E8F0e"
+    },
+    {
+      "added_at": "2025-05-09 04:00:34",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3dq6z58oxIjrD7NzZMnKKq"
+      },
+      "artists": [
+        {
+          "name": "Music with Michal",
+          "url": "https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc"
+        }
+      ],
+      "duration_ms": 149503,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3XmTDe3I7dt1eoA318YHaC"
+    },
+    {
+      "added_at": "2025-05-09 04:00:34",
+      "album": {
+        "name": "In the Kitchen",
+        "url": "https://open.spotify.com/album/3Wlt4AJtCP9LigJDCMRc8t"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "In the Kitchen",
+      "url": "https://open.spotify.com/track/7fKGSUtL3H7Vg7LD33PYhp"
+    },
     {
       "added_at": "2025-05-02 04:00:19",
       "album": {

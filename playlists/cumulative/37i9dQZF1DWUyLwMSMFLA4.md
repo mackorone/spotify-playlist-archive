@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-218 songs - 12 hr 55 min
+219 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Intento](https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac) | 3:53 | 2023-10-06 | 2024-04-19 |
 | [Intento](https://open.spotify.com/track/66ggNhGinVQLTYJODy6P74) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/0ydcUDMrWPKqpz1SACk73x) | 3:53 | 2023-08-25 | 2023-09-20 |
 | [Intento \- En Vivo](https://open.spotify.com/track/0YI5vG7XmhB7IAcMJZjvS2) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Intento \(En Vivo\)](https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb) | 3:47 | 2024-06-14 |  |
-| [JBL](https://open.spotify.com/track/1wvI6lJLC7mjUzdssQq5MU) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [JBL](https://open.spotify.com/album/1GoNfidWzsJpnuI2wqAOj9) | 3:04 | 2024-10-18 |  |
+| [JBL](https://open.spotify.com/track/1wvI6lJLC7mjUzdssQq5MU) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [JBL](https://open.spotify.com/album/1GoNfidWzsJpnuI2wqAOj9) | 3:04 | 2024-10-18 | 2025-05-10 |
 | [JUAN EL CARTERO](https://open.spotify.com/track/5x2Yh61v7aXcMsdWkdYYrq) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [JUAN EL CARTERO](https://open.spotify.com/album/2Ue2AMb7p9DPBzDOu6tg7n) | 2:53 | 2024-03-08 | 2024-03-23 |
 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 | 2023-05-05 |  |
 | [La Chevecha](https://open.spotify.com/track/3gQt1AZ6wwIZAOgEpenyUA) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Zillertal Orchester](https://open.spotify.com/artist/3QFXO42LJqEnoEmlZ3eb9y) | [La Chevecha](https://open.spotify.com/album/6RAm5Xu4OXtLOw8ipOhq68) | 3:48 | 2024-10-11 | 2024-10-19 |
@@ -169,6 +169,7 @@
 | [Qué bonito](https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO) | 3:58 | 2023-05-05 | 2024-04-19 |
 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 | 2023-07-28 | 2023-10-13 |
 | [Quê te pasa corazón?](https://open.spotify.com/track/7a1OLwZPl33gTaRy09dgxX) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Qué te pasa corazón?](https://open.spotify.com/album/5USufj1fRc600atMgXlhaW) | 3:13 | 2023-12-08 | 2023-12-14 |
+| [RE MANIJA](https://open.spotify.com/track/1mP4PFtnRSxnC2wiiUkkb0) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [RE MANIJA](https://open.spotify.com/album/5IilPCTGtRn93PKjeHADUC) | 3:09 | 2025-05-09 |  |
 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2024-02-16 | 2024-04-19 |
 | [Se Fue Viral](https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Se Fue Viral](https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv) | 3:00 | 2023-06-03 | 2025-04-26 |
 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 | 2023-05-05 | 2024-04-19 |

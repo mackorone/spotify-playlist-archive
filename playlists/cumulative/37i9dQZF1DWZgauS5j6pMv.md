@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-476 songs - 1 day 3 hr 53 min
+477 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Lazy Days](https://open.spotify.com/track/5D01593yrUBdq1wUP2RStq) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [STR4TASFEAR](https://open.spotify.com/album/7mMTBm5ktIU92g85RoYLdX) | 4:28 | 2022-10-21 | 2023-03-04 |
 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 | 2021-09-17 | 2023-01-14 |
 | [Lesson](https://open.spotify.com/track/3cR97t8jvOLzIUU4s4mWS4) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Lesson](https://open.spotify.com/album/7aKXdUrAXVwHSrO0Alw479) | 4:10 | 2021-10-15 | 2022-10-29 |
+| [Liar](https://open.spotify.com/track/2vYgFRmLq7aLthkajUfpUh) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Liar](https://open.spotify.com/album/7LPe3LbfSNFJV2moPmTQ5a) | 2:50 | 2025-05-09 |  |
 | [Life's Been Good To Me](https://open.spotify.com/track/70maYMm40ytuPewZ63bzd6) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Life's Been Good To Me](https://open.spotify.com/album/06uPzH5sNiyThjWFLLc48O) | 5:20 | 2021-10-22 | 2022-07-02 |
 | [Lights Out](https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Lights Out](https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf) | 4:01 | 2024-02-09 |  |
 | [Like, Maybe](https://open.spotify.com/track/18UpaCZZX1daAljhgpUd0R) | [Kalu & The Electric Joint](https://open.spotify.com/artist/1OQOcvFKUjJLSHC5gdAkbt) | [Like, Maybe](https://open.spotify.com/album/0WqzN6rft3aP7MA3SNSodv) | 3:35 | 2023-02-24 | 2024-11-16 |
@@ -440,7 +441,7 @@
 | [Until I Get Back](https://open.spotify.com/track/2inueyaWWmc0Hu0LJwMetH) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Until I Get Back](https://open.spotify.com/album/0mqVkEjfEhg8jXz7HRtWqJ) | 4:33 | 2022-05-06 | 2024-01-20 |
 | [Vibes Alright](https://open.spotify.com/track/6ZtWV5Xnnj8Mowoc02JWB5) | [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI) | [Vibes Alright](https://open.spotify.com/album/6hwewxU4YEgTBoxsU5FEOu) | 2:57 | 2024-07-12 |  |
 | [Wagmi Express](https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Water 4 The Soul II](https://open.spotify.com/album/7AjqMjfxFB7r5ZX1UyEMU9) | 3:35 | 2022-01-28 | 2023-05-27 |
-| [WAIT](https://open.spotify.com/track/5wXBM2qHSD47ezJQvD4xf2) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Wait](https://open.spotify.com/album/3DKc2EtHI0ssLoQV27enK9) | 2:27 | 2024-01-12 |  |
+| [WAIT](https://open.spotify.com/track/5wXBM2qHSD47ezJQvD4xf2) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Wait](https://open.spotify.com/album/3DKc2EtHI0ssLoQV27enK9) | 2:27 | 2024-01-12 | 2025-05-10 |
 | [Wait, I Lied](https://open.spotify.com/track/1INnYwu9Zn4odIzxyEAGqf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Forever Isn't Long Enough](https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W) | 3:16 | 2021-05-07 | 2022-01-29 |
 | [Wanna Go](https://open.spotify.com/track/4BSDnTwqQOARzQnsVkS8Gh) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Wanna Go](https://open.spotify.com/album/7xU2fbizvJVD9XUpqlQ8wM) | 2:18 | 2022-06-17 | 2022-09-10 |
 | [Warning Sign](https://open.spotify.com/track/4c0s18ptbeNyaDiepcLe6N) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI) | [Coronation](https://open.spotify.com/album/5OymrKAPQ2iDQ0Oyt8rwKo) | 3:25 | 2023-12-01 |  |

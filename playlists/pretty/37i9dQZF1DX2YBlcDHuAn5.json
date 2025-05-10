@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 32724,
+  "num_followers": 32996,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-05-08 22:00:39",
       "album": {
-        "name": "Midwest Kid",
-        "url": "https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        },
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Wish I Never Met You",
-      "url": "https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO"
-    },
-    {
-      "added_at": "2025-05-08 22:00:39",
-      "album": {
         "name": "Good Horses (feat. Miranda Lambert)",
         "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 237773,
       "name": "Good Horses (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
+    },
+    {
+      "added_at": "2025-05-08 22:00:39",
+      "album": {
+        "name": "Midwest Kid",
+        "url": "https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Wish I Never Met You",
+      "url": "https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO"
     },
     {
       "added_at": "2025-05-08 22:00:39",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-05-08 22:00:39",
       "album": {
+        "name": "Chase My Heart Away (Hero)",
+        "url": "https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 209963,
+      "name": "Chase My Heart Away (Hero)",
+      "url": "https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP"
+    },
+    {
+      "added_at": "2025-05-08 22:00:39",
+      "album": {
         "name": "Separate Cars",
         "url": "https://open.spotify.com/album/0irmnMY7pNUETNQfVa1A1l"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 184055,
       "name": "Separate Cars",
       "url": "https://open.spotify.com/track/7hwOnTyzAl6Jf8XIKEKv2A"
-    },
-    {
-      "added_at": "2025-05-08 22:00:39",
-      "album": {
-        "name": "Chase My Heart Away (Hero)",
-        "url": "https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "duration_ms": 209963,
-      "name": "Chase My Heart Away (Hero)",
-      "url": "https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP"
     }
   ],
   "unique_name": "Country & Americana",

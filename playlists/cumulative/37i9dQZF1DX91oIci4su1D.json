@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "All My Friends Are Hot",
+        "url": "https://open.spotify.com/album/7N1JTF637mtXoRoEtSyE77"
+      },
+      "artists": [
+        {
+          "name": "David Forbes",
+          "url": "https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206433,
+      "name": "All My Friends Are Hot",
+      "url": "https://open.spotify.com/track/5wFAjL87NaTfP8ENFygsuO"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/642I33KMPYEosGoSDAtHD8"
       },

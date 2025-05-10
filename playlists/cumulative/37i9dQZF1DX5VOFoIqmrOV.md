@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-246 songs - 16 hr 18 min
+247 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Emai Poyave](https://open.spotify.com/track/14M1StehpwsydSGGy8z9eq) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Padi Padi Leche Manasu](https://open.spotify.com/album/5yaWNdlJB8FoxwbngILePz) | 2:34 | 2021-12-16 | 2023-11-08 |
 | [Emannavoo](https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Nava Manmadhudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WIwDUoFvEy6o01B29dIz0) | 3:34 | 2023-08-07 |  |
 | [Emitemitemo](https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK) | [Alphonse](https://open.spotify.com/artist/1GRV7IB2LNWKCdG46tsKgT) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 3:23 | 2023-08-07 |  |
-| [Emo Emo](https://open.spotify.com/track/1kYg9IZJ9QwrnHaJztmK5n) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Raahu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/708ZYfQX8GZEPozWVe0mqm) | 4:02 | 2023-05-04 |  |
+| [Emo Emo](https://open.spotify.com/track/1kYg9IZJ9QwrnHaJztmK5n) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Raahu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/708ZYfQX8GZEPozWVe0mqm) | 4:02 | 2023-05-04 | 2025-05-10 |
 | [Enno Ratrulosthayi Remix Song](https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Amigos](https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc) | 4:41 | 2023-03-16 | 2024-12-02 |
 | [Evare](https://open.spotify.com/track/1iFaQCrMLiIc234y7LNaNo) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4B0MGXH5G32jELeP9CD9FW) | 5:09 | 2021-12-16 | 2022-07-25 |
 | [Full Kick](https://open.spotify.com/track/5uWWbI8ovzoaBO8cRifcvN) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Mamta Sharma](https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4) | [Khiladi](https://open.spotify.com/album/2y2BxZpdYUhU3K9wMslvuM) | 3:53 | 2022-01-30 | 2022-07-25 |
@@ -190,6 +190,7 @@
 | [Pillaa Raa](https://open.spotify.com/track/3MXTLAouHSztOxoOSOnbb9) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Top Singer's Playlist](https://open.spotify.com/album/10pn3qTksy0ii0qXogOm0s) | 3:57 | 2022-07-24 | 2022-08-21 |
 | [Pillaa Raa](https://open.spotify.com/track/47hP2BJPCOMyYKT5WQ9evZ) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [RX 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vzddHOuT5R28vKakxD0qJ) | 3:57 | 2021-12-16 | 2022-07-25 |
 | [Pranaamam](https://open.spotify.com/track/75PLRXczgeUtwD9mFzDVsB) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Janatha Garage](https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8) | 4:00 | 2023-08-07 | 2023-11-08 |
+| [Prema Velluva \(From "Hit \- 3"\) \(Telugu\)](https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Prema Velluva \(From "Hit \- 3"\) \(Telugu\)](https://open.spotify.com/album/16RtrmpjjZwfRBdSlAebTG) | 4:12 | 2025-05-09 |  |
 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 | 2021-12-16 |  |
 | [Premalo \(From "Court"\)](https://open.spotify.com/track/02Ck2nLoW3TpgGV6uwvK5Z) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j) | [Premalo \(From "Court"\)](https://open.spotify.com/album/6YLvtxc4R24hRMgPJ0kYhv) | 5:31 | 2025-03-18 |  |
 | [Priya Mithunam \(Telugu\)](https://open.spotify.com/track/4wFU6Q4vInTg2HQ2mkko8x) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Adipurush \(TELUGU\)](https://open.spotify.com/album/0zRFnm1hqjtY0c7ozMK2Lh) | 3:21 | 2023-12-12 |  |

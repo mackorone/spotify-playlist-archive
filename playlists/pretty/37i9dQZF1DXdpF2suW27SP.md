@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Uma edição especial de NaZona, com a co\-curadoria única de Piruka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,308 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,342 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 25 | [Volta à Cabeça](https://open.spotify.com/track/2NEBYP6Vu29Ry96OuxOhs4) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino da Mamã](https://open.spotify.com/album/1nL4jNVtHWn1XAIxqqWKVN) | 3:06 |
 | 26 | [Fogueira](https://open.spotify.com/track/71iaHuhGleeXNutYPDm2lN) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Fogueira](https://open.spotify.com/album/26KsAPQE6KNmcKzUFTu7Wv) | 2:31 |
 | 27 | [Champions League \(with Slow J & Gson\)](https://open.spotify.com/track/7jMSd85QqbHjqlpDSr66Hg) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Champions League \(with Slow J & Gson\)](https://open.spotify.com/album/2tHW0wmKMlYc4jJENTyUPP) | 2:41 |
-| 28 | [Tóxico \(with Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
+| 28 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
 | 29 | [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 |
 | 30 | [Equilíbrio](https://open.spotify.com/track/3UHFYeLV41C0WjN6nn7sKd) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:05 |
 | 31 | [Já Entendi](https://open.spotify.com/track/7FLWucanZJBBCLeWNRDTv9) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Já Entendi](https://open.spotify.com/album/0Ahs6WqVuKBfZb8cnMHAI6) | 2:36 |
-| 32 | [Jogo Da Sorte](https://open.spotify.com/track/7sitxJmZxa67Q3jfGmIaOp) | [Lutz](https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x), [Tsubasv](https://open.spotify.com/artist/12LDzeztDQ0bk2C3SHjh7i) | [Carrossel](https://open.spotify.com/album/3cBwWTFhpOAnL6U4ZhZFof) | 2:19 |
-| 33 | [Estrada \(with Slow J & ProfJam\)](https://open.spotify.com/track/7EUmkQTk9tt93C5J746OzL) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:57 |
+| 32 | [Estrada \(feat\. Slow J & ProfJam\)](https://open.spotify.com/track/7EUmkQTk9tt93C5J746OzL) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:57 |
+| 33 | [Vem Comigo](https://open.spotify.com/track/3InBCrq0zPZpvFb4Jh4GcD) | [Lutz](https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x), [Tsubasv](https://open.spotify.com/artist/12LDzeztDQ0bk2C3SHjh7i) | [Carrossel](https://open.spotify.com/album/3cBwWTFhpOAnL6U4ZhZFof) | 3:47 |
 | 34 | [Como 1 Rei](https://open.spotify.com/track/4PARMoAgm4LG2X8pfJNoxI) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/4Ez4z45AAG56Ms3tu305pL) | 3:11 |
-| 35 | [Chove, dá flor?](https://open.spotify.com/track/2IAmTJWXyH6tb7xvut2uiB) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Tristany](https://open.spotify.com/artist/0x8Ao6CzfUJWvFp7XUkfs7) | [Chove, dá flor](https://open.spotify.com/album/1AtWntveBUzgegZNfqgO3D) | 3:25 |
+| 35 | [Chove, dá flor](https://open.spotify.com/track/2IAmTJWXyH6tb7xvut2uiB) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Tristany](https://open.spotify.com/artist/0x8Ao6CzfUJWvFp7XUkfs7) | [Chove, dá flor](https://open.spotify.com/album/1AtWntveBUzgegZNfqgO3D) | 3:25 |
 | 36 | [Before I Lose My Voice](https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Before I Lose My Voice](https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3) | 3:06 |
 | 37 | [Tou a Ver Mal](https://open.spotify.com/track/1ojC0FuZuXDvV3FZd8nL4d) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Tou a Ver Mal](https://open.spotify.com/album/2XelCnw5bxJC2ivMbYzuaQ) | 2:34 |
 | 38 | [Olhar de Diamante](https://open.spotify.com/track/2RISeRJA1kUbEeRzYUrI5U) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Caco Por Dentro](https://open.spotify.com/album/5QvEQeoK5ZEZ4NurnFbt19) | 2:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [35](https://open.spotify.com/track/1w0g8RAtMkPfqjnsHyDOcg) | [Young Double](https://open.spotify.com/artist/7uxVtHLLKggSUN4MNqqBfY) | [35](https://open.spotify.com/album/4lxCLRaPTyDbMo1yrzMOX0) | 3:21 |
 | 70 | [VIDA RASA](https://open.spotify.com/track/44B0mpzmcDlq3xsJJJznBa) | [PK](https://open.spotify.com/artist/59hToCjzX8t2d3Xa4y069d), [STEF4N](https://open.spotify.com/artist/00tCanu6d5DwGrp8adzYf9) | [VIDA RASA](https://open.spotify.com/album/2Q8MefBLYO7ZIvp03qD9Ab) | 2:46 |
 
-Snapshot ID: `aB03ggAAAACaZnjfLv0kaN/Od5hbn6rt`
+Snapshot ID: `aB5MqwAAAADK4CuFdfSv8ihT8DPL7Py7`

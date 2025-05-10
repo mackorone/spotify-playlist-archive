@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: Ian Isiah
 
-351 songs - 22 hr 11 min
+352 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Sabor a Disco](https://open.spotify.com/track/6Cex0sfMMYwarQWCx2Hrip) | [Fernanda Arrau](https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6), [Balam](https://open.spotify.com/artist/0dqcQcbpMnfEvu72FFLmjL) | [Sabor a Disco EP](https://open.spotify.com/album/1iS9OMb0rKSTzofKta7zvY) | 6:10 | 2024-06-01 | 2024-06-15 |
 | [Sage comme une image \- Good as Gold](https://open.spotify.com/track/2RdqkCm1yEj0V3J7BEYSzT) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Wonderland](https://open.spotify.com/album/4hGpmPcRrysSUbbBnM4F0T) | 3:56 | 2021-10-15 | 2022-06-04 |
 | [Salvation](https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:20 | 2025-02-28 |  |
+| [SATISFY](https://open.spotify.com/track/3yHwfHQn3qU1WLTLSw7VL8) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SATISFY](https://open.spotify.com/album/6pTszhm2TxKPaAplNDzdtM) | 2:45 | 2025-05-09 |  |
 | [SAVE ME](https://open.spotify.com/track/7xhFzIWVrWjfbPumBXVSvh) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [SAVE ME](https://open.spotify.com/album/1kPm4DbVoJcarZoWDQymUy) | 2:18 | 2024-05-10 | 2024-08-27 |
 | [saving flowers](https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [saving flowers](https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd) | 3:30 | 2024-06-14 | 2024-07-02 |
 | [Secretariat \(feat\. Shaun J\. Wright & Kon\)](https://open.spotify.com/track/6NZ2pm3CO9C5HeXLLzMvlh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Shaun J\. Wright](https://open.spotify.com/artist/31iZW0Zin2Ibzfr1BzXqpJ), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Secretariat \(feat\. Shaun J\. Wright & Kon\)](https://open.spotify.com/album/0uqwUBeEk4WYoLt5ZJdirW) | 4:08 | 2024-09-20 |  |
@@ -332,7 +333,7 @@
 | [Throat Goat](https://open.spotify.com/track/2eKFa10K8Hu1VCTLm3DUkO) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:20 | 2024-06-14 | 2024-10-23 |
 | [TITS, LIPS, HIPS, KISS \(10/10 Remix\)](https://open.spotify.com/track/3KkesrPkSGFZYXUHtk1Zfn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [TITS, LIPS, HIPS, KISS \(10/10 Remix\)](https://open.spotify.com/album/49KddmD3D6OD8USyLdTHCe) | 3:36 | 2024-07-12 | 2025-03-15 |
 | [Training Season \- Chloé Caillet Mix](https://open.spotify.com/track/54Csi59aEo0ENBuwIWtTPJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Training Season \(Chloé Caillet Mix\)](https://open.spotify.com/album/0XCixBnX3pucK2merSXAN2) | 4:55 | 2024-06-14 | 2024-07-02 |
-| [Transmission](https://open.spotify.com/track/7kdMnkySYCReo8BsznztAF) | [Slim Soledad](https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db) | [Transmission](https://open.spotify.com/album/7FyHEcVa1qv5f4AryUbtPH) | 4:19 | 2024-06-01 |  |
+| [Transmission](https://open.spotify.com/track/7kdMnkySYCReo8BsznztAF) | [Slim Soledad](https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db) | [Transmission](https://open.spotify.com/album/7FyHEcVa1qv5f4AryUbtPH) | 4:19 | 2024-06-01 | 2025-05-10 |
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2021-10-15 | 2022-06-04 |
 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 | 2025-01-24 |  |
 | [Trust](https://open.spotify.com/track/2FfIlhqu5PONOnlXoRatom) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Trust](https://open.spotify.com/album/0fLTZ5thAE6uMVd1GrT2Pa) | 3:57 | 2022-06-03 | 2023-04-01 |

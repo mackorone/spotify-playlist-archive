@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-413 songs - 1 day 1 hr 1 min
+414 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Por Mala](https://open.spotify.com/track/0HyLFT1hrUHijlXG7D7WjX) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu), [El Tiguere](https://open.spotify.com/artist/1noUS4B84xt3nMpTIRgV8F), [Ataca](https://open.spotify.com/artist/1yvCKeCl9j9aE3tKcDeS4I), [La Alemana](https://open.spotify.com/artist/0A2KrxZn7MSTbEKxdEg41c) | [Por Mala](https://open.spotify.com/album/25qKbsn0bjLsf2S1hOHGL1) | 3:39 | 2024-10-11 |  |
 | [Por Tu Culpa](https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Tu Culpa](https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7) | 3:21 | 2022-03-25 | 2023-01-25 |
 | [Por un Segundo](https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:15 | 2022-03-04 | 2022-09-03 |
+| [Postalita](https://open.spotify.com/track/338FO6wNbL9zBfvqYk7qfg) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2) | [Postalita](https://open.spotify.com/album/2PjIb7VrWVqCPICsRnnFar) | 3:30 | 2025-05-09 |  |
 | [Princesa Mia](https://open.spotify.com/track/58b7JlzLEEK7nnecVP2OQe) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Princesa Mia](https://open.spotify.com/album/5MkMetkuLTsUi4ZIrAfSWr) | 3:40 | 2022-07-19 | 2022-08-20 |
 | [Procura](https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 3:05 | 2023-08-25 |  |
 | [Promise \(feat\. Usher\)](https://open.spotify.com/track/0jr6tT2vc4cIFPHb6wufG3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:12 | 2022-09-02 | 2022-09-10 |
@@ -387,7 +388,7 @@
 | [Traiganme Alcohol](https://open.spotify.com/track/7bWXvDVdp8CsNozvQ4lD9X) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Traiganme Alcohol](https://open.spotify.com/album/2EnYFxOn9lnYDGcExmfELE) | 3:54 | 2022-03-25 | 2022-07-27 |
 | [Tres Veces](https://open.spotify.com/track/5pttj3qDA5F4YRHiwNDxAO) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4), [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Tres Veces](https://open.spotify.com/album/4uzfousUQ1sZZltZU9kH5q) | 3:32 | 2024-05-17 |  |
 | [Tu Eres Ajena \- Bachata](https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Amor En Silencio](https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu) | 3:59 | 2022-03-04 | 2024-01-13 |
-| [Tu Eres Mi Amor \- Bachata Version](https://open.spotify.com/track/2PgyPxXOTDKFPiDbtcdLFE) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Tu Eres Mi Amor \(Bachata Version\)](https://open.spotify.com/album/1WIwGwoD15YXNCFPhruPNg) | 3:41 | 2024-10-04 |  |
+| [Tu Eres Mi Amor \- Bachata Version](https://open.spotify.com/track/2PgyPxXOTDKFPiDbtcdLFE) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Tu Eres Mi Amor \(Bachata Version\)](https://open.spotify.com/album/1WIwGwoD15YXNCFPhruPNg) | 3:41 | 2024-10-04 | 2025-05-10 |
 | [TU FEO](https://open.spotify.com/track/38jBAtOoRaMtQdhRvrGD39) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [BRILLAR](https://open.spotify.com/album/4Ks3FX1TliFM3R8hBIhlTy) | 2:56 | 2024-09-03 |  |
 | [Tu Loca](https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Tu Loca](https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP) | 3:10 | 2024-09-06 |  |
 | [Tu Me Matas](https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:59 | 2022-03-04 | 2022-09-03 |
@@ -398,7 +399,7 @@
 | [Tu y yo](https://open.spotify.com/track/3eEYCiLVmGwwBCoDtLYnYQ) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Tu y yo](https://open.spotify.com/album/5zSGNPJXzrBxMKwsmTixOX) | 3:07 | 2024-03-15 | 2024-09-07 |
 | [Tú y Yo](https://open.spotify.com/track/1zEYHf3IwnsTl5CihyAbcQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:30 | 2022-09-09 | 2023-01-29 |
 | [Un Cigarro](https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Un Cigarro](https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9) | 2:54 | 2023-08-24 | 2024-04-06 |
-| [Un Invierno](https://open.spotify.com/track/1bvtABXiNpjSvH7y9vNATp) | [Mireya](https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06), [Cristian Allexis](https://open.spotify.com/artist/2LTHgCMlC6lrFLCIMYIINr) | [Un Invierno](https://open.spotify.com/album/6oGfZ4pKtJV6VXJUllKOnQ) | 3:02 | 2025-02-07 |  |
+| [Un Invierno](https://open.spotify.com/track/1bvtABXiNpjSvH7y9vNATp) | [Mireya](https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06), [Cristian Allexis](https://open.spotify.com/artist/2LTHgCMlC6lrFLCIMYIINr) | [Un Invierno](https://open.spotify.com/album/6oGfZ4pKtJV6VXJUllKOnQ) | 3:02 | 2025-02-07 | 2025-05-10 |
 | [Un Millón de Lunas](https://open.spotify.com/track/34pO51jqhxDyzGcvJbPj8i) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:01 | 2023-03-24 | 2024-01-13 |
 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 | 2022-03-04 | 2023-11-17 |
 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq) | 4:29 | 2022-03-04 | 2022-07-29 |

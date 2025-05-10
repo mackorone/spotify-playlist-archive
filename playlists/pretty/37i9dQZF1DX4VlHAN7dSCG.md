@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 好樂團 \(Good Band\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,145 likes - 81 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,144 likes - 81 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 39 | [我想要擁有你 \- Netflix影集《影后》插曲](https://open.spotify.com/track/3Xkh1A1o9ecexZDpspT9Va) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [我想要擁有你 \(Netflix影集《影后》插曲\)](https://open.spotify.com/album/5GIQZuQ2trxmbwPk0I1I1O) | 3:42 |
 | 40 | [慶記](https://open.spotify.com/track/0bAoDkEvih3pF4ZnOLfgZg) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [慶記](https://open.spotify.com/album/6Vaa3sSeIZ3GTtAhUacmze) | 4:21 |
 | 41 | [其實我一點都不酷](https://open.spotify.com/track/5Fs9UnKEpvsj4rK60kEsuK) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [我其實一點都不酷](https://open.spotify.com/album/5nu65vQRCMjyc47yNLfFKa) | 4:35 |
-| 42 | [张三的歌 \- 音频纯享版](https://open.spotify.com/track/0x4Zcvgz7GzMGYtwW8wk8V) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb), [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [老有意思旅行社 \(第一次Live\)](https://open.spotify.com/album/2CHOSE8nTqEfWlA5uk0yN6) | 3:29 |
+| 42 | [張三的歌 \- 音頻純享版](https://open.spotify.com/track/0x4Zcvgz7GzMGYtwW8wk8V) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb), [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [老有意思旅行社 \(第一次Live\)](https://open.spotify.com/album/2CHOSE8nTqEfWlA5uk0yN6) | 3:29 |
 | 43 | [Best Wish \(feat\. League2eb\)](https://open.spotify.com/track/2crNwWsEYMevnI3yYiLLBW) | [傳奇小狗汪汪](https://open.spotify.com/artist/1PRgmh7RBNz5aPUPVw1Wor), [League2eb](https://open.spotify.com/artist/78EyEUzjjmFK4TUuqAJcg2) | [Best Wish \(feat\. League2eb\)](https://open.spotify.com/album/22MrjHHQpjz2QuYhBUmdZd) | 4:51 |
 | 44 | [Don't Ask](https://open.spotify.com/track/1AujVhAK0hULDuiMNj9GLo) | [回环 RingAgain](https://open.spotify.com/artist/6yZizKMxiMqmi9hclZ7IB3) | [松一口气！](https://open.spotify.com/album/0pV7ChVoff2LV1MWm7VC5K) | 4:05 |
 | 45 | [幸福的末班車](https://open.spotify.com/track/4odyxCOjYB1aBmc28hP1X2) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4) | [幸福的末班車](https://open.spotify.com/album/31u2uhLaDEmK5U8heLLIzD) | 5:20 |

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-678 songs - 1 day 15 hr 55 min
+679 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [SIEGAS](https://open.spotify.com/track/38ByK1gWksi44m3FFCSieq) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Edu Morote](https://open.spotify.com/artist/5NBXx6FZv0qBTuBcDfQYLQ) | [SIEGAS](https://open.spotify.com/album/642cHQa1Ml3pZ7MEkYAOsf) | 3:02 | 2025-04-25 |  |
 | [siempre es para siempre](https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64) | [Feli Ruiz](https://open.spotify.com/artist/4uptLcxRqdhbxwAfRt6ra5) | [siempre es para siempre](https://open.spotify.com/album/7gWuUD2e7J9Xc0DqweZYJW) | 3:23 | 2024-09-05 |  |
 | [Sigo Dando Amor](https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Sigo Dando Amor](https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu) | 4:41 | 2022-06-03 | 2023-06-10 |
+| [Sin Caer](https://open.spotify.com/track/6SPELYqsqusBkl5Is7qSoV) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Sin Caer](https://open.spotify.com/album/0dWBcThAXm6TCDuI0LLQ4y) | 3:30 | 2025-05-09 |  |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-06-03 | 2023-10-27 |
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-06-03 | 2022-07-24 |
 | [Sin Rumbo](https://open.spotify.com/track/5joIidA3kxvecf66OB9B4f) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Sin Rumbo](https://open.spotify.com/album/4chLnKWpCmDv2FP8rN4nsQ) | 3:24 | 2022-07-01 | 2022-07-28 |
@@ -643,7 +644,7 @@
 | [Una ciudad de cristal \(Montevideo\)](https://open.spotify.com/track/40MPDxMqHq23QYbF692L9K) | [Calequi](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u), [Las Panteras](https://open.spotify.com/artist/2H9bvz22G7CnbT0Gm3uarb), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Facundo Balta](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ), [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Una ciudad de cristal \(Montevideo\)](https://open.spotify.com/album/7IFPI1gBOZi7Vsiyx2cCbt) | 3:57 | 2023-10-05 | 2023-10-27 |
 | [Una Curita para el Raspón](https://open.spotify.com/track/6oaHnpYZSyy7nSysc2o3HP) | [El Chavez](https://open.spotify.com/artist/78At4Kngmy7acsoeNPRHZN), [Marcos Insurgente](https://open.spotify.com/artist/3vcMKTlZppgP6exZh5WTDV) | [Una Curita para el Raspón](https://open.spotify.com/album/5rsBzvDMqOiu71KctWNIEC) | 3:27 | 2022-07-01 | 2022-07-17 |
 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 | 2022-06-03 | 2023-10-27 |
-| [Una Propuesta](https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Una Propuesta](https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL) | 3:15 | 2022-06-03 |  |
+| [Una Propuesta](https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Una Propuesta](https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL) | 3:15 | 2022-06-03 | 2025-05-10 |
 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 | 2024-08-16 | 2024-11-15 |
 | [Universos Paralelos](https://open.spotify.com/track/4QLokwnp4RMWpofhjj1zH6) | [Los Lilas](https://open.spotify.com/artist/3u5ZEm7fgzf13JlHwmVhKB) | [Contracorriente](https://open.spotify.com/album/6f3H56a9DRefillpoiBWjN) | 3:22 | 2023-03-03 | 2023-05-11 |
 | [Usted y Su Ambición](https://open.spotify.com/track/78INCh0IZzEjubLUTYBWjs) | [Los Santos Dumont](https://open.spotify.com/artist/3PTY4xpIpcilnbUlLc5hgm), [LÓPEZ](https://open.spotify.com/artist/0lerZBHTvu6BVzAcUhktr0), [LA JULIA SMITH](https://open.spotify.com/artist/30FpmUWpZbOg1DpzD3jmiD), [Pancho Molina](https://open.spotify.com/artist/7EWVeEhwdpM3R7Qzya6srB), [Joaquín Cárcamo](https://open.spotify.com/artist/0FKNFHFtF1fRYowzCNh71D) | [Usted y Su Ambición](https://open.spotify.com/album/09WR2P2s1aFG1C6F1Vp5Fr) | 5:52 | 2024-10-25 | 2024-11-15 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Sayf e Néza in cover della playlist urban più grande in Italia 🐐🔥
+> Sayf e Néza in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,473 likes - 55 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,668 likes - 55 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 54 | [Colpa Mia](https://open.spotify.com/track/1O9UvXAnPwFXSccCqB9K2R) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Colpa Mia](https://open.spotify.com/album/14hWXI41p18S5cmcOwMPHM) | 2:10 |
 | 55 | [SPOILER 2 \(feat\. 22simba\)](https://open.spotify.com/track/6SSA409P7m2TMND2saQETo) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [SPOILER 2 \(feat\. 22simba\)](https://open.spotify.com/album/6Kgys8Kb1UfLjH9l3nGjDg) | 2:21 |
 
-Snapshot ID: `aB0prwAAAACTlgPGk/s72URzsWS9iUXr`
+Snapshot ID: `aB3FHgAAAAABl4iqKBht3t0B5JpHXDOR`

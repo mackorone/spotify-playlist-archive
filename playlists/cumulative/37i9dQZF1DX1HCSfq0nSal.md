@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Omar Courtz, Bad Gyal
+> Si está pegao, está aquí\. Feat\. Quevedo, Lucho RK
 
-769 songs - 1 day 18 hr 30 min
+770 songs - 1 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Amanece](https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Amanece](https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj) | 3:10 | 2023-03-13 | 2024-01-23 |
 | [Amber \(with Omar Courtz\)](https://open.spotify.com/track/3XoLRrcg9ga7Op6Y6NIdpn) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LOS FLAVORZ](https://open.spotify.com/album/22BVJ7Phbagnr8hhECDzqk) | 3:06 | 2025-03-28 | 2025-04-30 |
 | [Amigos](https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Amigos](https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ) | 3:15 | 2023-12-11 | 2024-01-09 |
-| [AMISTA](https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [AMISTA](https://open.spotify.com/album/12kivfRERofKpsDpcinrmE) | 2:57 | 2025-04-29 |  |
+| [AMISTA](https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [AMISTA](https://open.spotify.com/album/12kivfRERofKpsDpcinrmE) | 2:57 | 2025-04-29 | 2025-05-10 |
 | [Amor ≠ Cristal](https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU) | [Flavio Rodriguez](https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Amor ≠ Cristal](https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL) | 2:52 | 2024-09-17 | 2024-09-24 |
 | [Andaluza](https://open.spotify.com/track/2fhtNu3GpxpZZL669pbP1h) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [David Marley](https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA) | [Andaluza](https://open.spotify.com/album/1k0F8bRdT0klGyWqQa8IPy) | 3:06 | 2023-08-14 | 2023-09-22 |
 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 | 2023-05-16 | 2023-07-12 |
@@ -298,6 +298,7 @@
 | [Goteras](https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Goteras](https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw) | 3:36 | 2024-06-27 | 2024-10-11 |
 | [Grecia](https://open.spotify.com/track/4QAnf806tToaBuvbiv69X5) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Grecia](https://open.spotify.com/album/6e8pv6FfghnBltcOz0cg0C) | 3:43 | 2024-08-30 | 2024-09-18 |
 | [Guay](https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Guay](https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl) | 3:30 | 2024-04-19 | 2024-07-31 |
+| [GUAYA](https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [GUAYA](https://open.spotify.com/album/2P1RZBxXlf4Kr0c2rrt6a0) | 3:14 | 2025-05-09 |  |
 | [GUCCI FENDI](https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GUCCI FENDI](https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8) | 2:52 | 2022-03-10 | 2022-04-14 |
 | [GUERRA CIVIL \(feat\. Full Harmony\)](https://open.spotify.com/track/2kX4W44mOsPp2XBKEyusFP) | [Yannc](https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chalko](https://open.spotify.com/artist/7KqZWDfO2BUR5ijW9CBWPe), [Full Harmony](https://open.spotify.com/artist/5lCxUN0t4niIy30texHRxo) | [GUERRA CIVIL \(feat\. Full Harmony\)](https://open.spotify.com/album/6ebkDlEmRKVirwcK8ArosF) | 3:33 | 2024-11-29 | 2025-03-04 |
 | [Gym Girl](https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:42 | 2024-12-10 | 2025-04-15 |

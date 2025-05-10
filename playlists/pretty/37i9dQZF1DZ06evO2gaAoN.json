@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 52529,
+  "num_followers": 52642,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAABioKH1QDOE05oYbTsWsIfX",
+  "snapshot_id": "aBv0AAAAAABD9RtS4v4m6i7tBevfxsKT",
   "tracks": [
     {
       "added_at": null,
@@ -439,50 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amapiano: East Meets South",
-        "url": "https://open.spotify.com/album/4K9dtInn4pfpearduIBxrU"
-      },
-      "artists": [
-        {
-          "name": "Yumbs",
-          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
-        },
-        {
-          "name": "Soul Nativez",
-          "url": "https://open.spotify.com/artist/29OcJ7yI5UobrUXl4zdGOg"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "I Buy (feat. Marioo)",
-      "url": "https://open.spotify.com/track/6GTfwYjB6R4GWPAZqXdqZx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 159173,
-      "name": "Safer",
-      "url": "https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Di",
         "url": "https://open.spotify.com/album/0dSB2LstksZRA0adSfyTbV"
       },
@@ -507,6 +463,22 @@
       "duration_ms": 249909,
       "name": "La Di",
       "url": "https://open.spotify.com/track/4OCK9za3Z06Oqj4HaKBE2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 159173,
+      "name": "Safer",
+      "url": "https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu"
     }
   ],
   "unique_name": "This Is Tyla",

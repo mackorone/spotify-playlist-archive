@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring KI/KI.",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring LUMI.",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 417693,
       "name": "Control",
       "url": "https://open.spotify.com/track/4p3CqOVsYZVupN00Q9Dv1q"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 217663,
       "name": "digital emotional",
       "url": "https://open.spotify.com/track/2OjlCM4BoucwcJIqqeHwP0"
@@ -3679,6 +3679,24 @@
     },
     {
       "album": {
+        "name": "FU",
+        "url": "https://open.spotify.com/album/0nyP1xa3AEVKN6D327W5yd"
+      },
+      "artists": [
+        {
+          "name": "LUMI",
+          "url": "https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257405,
+      "name": "FU",
+      "url": "https://open.spotify.com/track/5If3BOhTeXSOUr3ePGm5xE"
+    },
+    {
+      "album": {
         "name": "Full Speed (feat. Aviella)",
         "url": "https://open.spotify.com/album/1go08O7spIyibPNIb3lGF4"
       },
@@ -4555,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/1Ynu1lN1FE4mBO1JjKsg0j"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312397,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1hAcMSQaEwMpO2SV4tiStj"
+    },
+    {
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/0GEED4RZAQFAg79028tIMD"
       },
@@ -5246,6 +5282,24 @@
       "duration_ms": 258023,
       "name": "If You Wanna Scream",
       "url": "https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc"
+    },
+    {
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "album": {
@@ -6866,7 +6920,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 173717,
       "name": "N.U.M.T.E.",
       "url": "https://open.spotify.com/track/4mOeDBDYPH5gXoqro372dT"
@@ -7152,6 +7206,24 @@
       "duration_ms": 215116,
       "name": "No Good For Me",
       "url": "https://open.spotify.com/track/7CAwk333MKotsz8nm6Og7j"
+    },
+    {
+      "album": {
+        "name": "no reason to cry",
+        "url": "https://open.spotify.com/album/39t4Ap861N3r7OaJaZJ2CM"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183448,
+      "name": "no reason to cry",
+      "url": "https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0"
     },
     {
       "album": {
@@ -7685,6 +7757,32 @@
     },
     {
       "album": {
+        "name": "Pressure (Indira Paganotto Remix)",
+        "url": "https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf"
+      },
+      "artists": [
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        },
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269424,
+      "name": "Pressure - Indira Paganotto Remix",
+      "url": "https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd"
+    },
+    {
+      "album": {
         "name": "Pretoria",
         "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
       },
@@ -8080,7 +8178,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 296810,
       "name": "Rise (Or:la remix)",
       "url": "https://open.spotify.com/track/1OVHo3HiEfPBkDoJ5dBpba"
@@ -8232,6 +8330,24 @@
       "duration_ms": 339012,
       "name": "Salty",
       "url": "https://open.spotify.com/track/3GUgaRGv8OrD24yomjh5rT"
+    },
+    {
+      "album": {
+        "name": "Samba Disco",
+        "url": "https://open.spotify.com/album/7sMp58NuJGvoZOtvHpNBkI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Spacey",
+          "url": "https://open.spotify.com/artist/255hSkioJ6vRV921Iyw4DA"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361534,
+      "name": "Samba Disco",
+      "url": "https://open.spotify.com/track/47PF45MCPpjEryCIQ3ujYU"
     },
     {
       "album": {
@@ -8474,7 +8590,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 241397,
       "name": "Shark Brain (feat. Shygirl)",
       "url": "https://open.spotify.com/track/4cP4OcoWnDO3AXYCeO83jP"
@@ -8676,7 +8792,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 280162,
       "name": "Siren",
       "url": "https://open.spotify.com/track/2fU6FZYhp33uEIc8HLYUdv"

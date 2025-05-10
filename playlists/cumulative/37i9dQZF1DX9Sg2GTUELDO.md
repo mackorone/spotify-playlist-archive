@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: Cloud 雲浩影 & 媽咪
 
-491 songs - 1 day 5 hr 14 min
+493 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [五瓣玫瑰](https://open.spotify.com/track/3DyvkGveb7MCJgwlUo1VH7) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [五瓣玫瑰](https://open.spotify.com/album/0HfLp4LA5G3QAbrb8JLr8p) | 3:31 | 2024-07-11 |  |
 | [人若海](https://open.spotify.com/track/3OkPxR6SOO8QKGS1brNmWN) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [人若海](https://open.spotify.com/album/0t5tBgasdVVPco3oTbhyJb) | 3:09 | 2024-06-27 |  |
 | [今年煙花特別多](https://open.spotify.com/track/5R60xmTx4XzH4Co3ZgIG2F) | [Apple 凌雪怡](https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp) | [今年煙花特別多](https://open.spotify.com/album/4VIS7XglZQEMxSodj6U0aK) | 4:39 | 2024-08-01 |  |
+| [今期不流行](https://open.spotify.com/track/7x74wZMW5dUZqNsib2eR98) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [今期不流行](https://open.spotify.com/album/1iPwlWCcyPKHCsEbewbpJx) | 4:23 | 2025-05-09 |  |
 | [仍會等](https://open.spotify.com/track/3FGadTlzoJ5F4UtUMWrL3h) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [仍會等](https://open.spotify.com/album/4qMZ8lSzM9GXYEXv3WKa0f) | 3:19 | 2024-06-27 |  |
 | [仍然很想相信你 \(劇集《奪命提示》片尾曲\)](https://open.spotify.com/track/4Qigd81nyUuRnd1XwYAIII) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [仍然很想相信你 \(劇集《奪命提示》片尾曲\)](https://open.spotify.com/album/0TXaqxUnhEAitO6ayCpP8N) | 3:50 | 2025-03-20 |  |
 | [他不是你](https://open.spotify.com/track/4A6uVEFbhT7TO9zXq9pRAL) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [他不是你](https://open.spotify.com/album/7swXlMv4USdhFuENlRRXGq) | 4:11 | 2024-06-27 |  |
@@ -237,6 +238,7 @@
 | [分手後的自癒療程](https://open.spotify.com/track/5migr53jftKZm6eAyBTjqi) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [分手後的自癒療程](https://open.spotify.com/album/0AcylKZ5eG2mu4Ca3CIT27) | 4:20 | 2024-06-27 |  |
 | [別氹我](https://open.spotify.com/track/20GS43c9bGvL7UEb4lJeme) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [別氹我](https://open.spotify.com/album/2mq0PIl6szXutOTmn4Vb6d) | 4:25 | 2024-06-27 |  |
 | [別為我好](https://open.spotify.com/track/7mjD9lnV1pLw36tPcyPHF5) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [別為我好](https://open.spotify.com/album/2IvmamQT6AMugR1mCU2VwZ) | 3:27 | 2024-06-27 |  |
+| [別畏高](https://open.spotify.com/track/7u2kNwQwnlvlBIVeBGksNI) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [別畏高](https://open.spotify.com/album/3TgkrazlHQTZ2vFraQoAzh) | 2:47 | 2025-05-09 |  |
 | [到時](https://open.spotify.com/track/4FcEVN18bBNzv6Mp1oG4F6) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [到時](https://open.spotify.com/album/4MI3HWSBBmBS9qfmKiL3LE) | 4:13 | 2025-01-02 |  |
 | [劇集《愛．回家之開心速遞》主題曲](https://open.spotify.com/track/3IfwYUHvlMJatwYieaX35a) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [這個家 \(劇集《愛．回家之開心速遞》主題曲\)](https://open.spotify.com/album/2jBOH57frK2GkNmTzWvaHU) | 3:00 | 2024-08-22 |  |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2024-06-27 |  |

@@ -4,7 +4,7 @@
 
 > stefanie metendo marcha e AULAS \- maat tb é porque eu rimo pt2
 
-415 songs - 22 hr 57 min
+416 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Destravei](https://open.spotify.com/track/6k1vUdEGISLogRQj5rkBXA) | [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [Max B.O.](https://open.spotify.com/artist/7rtewsbZDDw2iy0GcqYs8e) | [Destravei](https://open.spotify.com/album/29euD1rGZcZ7bX9t2JLrg9) | 3:14 | 2023-11-03 | 2023-12-16 |
 | [Deu Aulas](https://open.spotify.com/track/22jWm5eYrvcIj418DSV7mq) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Deu Aulas](https://open.spotify.com/album/2TxYRZKXYJQWodJ41mDPBa) | 3:10 | 2022-02-24 | 2022-05-28 |
 | [Deus É o Meu Guia](https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Deus É o Meu Guia](https://open.spotify.com/album/5hBNe9L3XC3xU4pDZUtNm3) | 2:46 | 2022-03-11 | 2023-07-01 |
+| [Devoto](https://open.spotify.com/track/5wZ3pAozhIMrbwpioCRbDN) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9) | [Melhor Momento \(Deluxe\)](https://open.spotify.com/album/3Buob72sU30zOIsUz6JuqJ) | 4:26 | 2025-05-09 |  |
 | [Dificuldades](https://open.spotify.com/track/2LbXikcpgkS5ZkQHMjDzbp) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Dificuldades](https://open.spotify.com/album/3Am6SnNxaxNKimP4Zu9cpr) | 3:07 | 2024-05-03 | 2024-05-18 |
 | [Din Din](https://open.spotify.com/track/5q8CsuCFxOo3RKT0lJz6P1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Din Din](https://open.spotify.com/album/4fcpMXjOVLOyg3mb7Fpb3U) | 2:20 | 2022-12-02 | 2023-02-01 |
 | [Dinero \- Spotify Singles](https://open.spotify.com/track/3f75BmT1ClAVyjjFEw6sws) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Dinero \- Spotify Singles](https://open.spotify.com/album/550HfEeA8nIJAquFVlejI8) | 3:03 | 2024-10-25 |  |

@@ -1,13 +1,57 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: KebMo & Taj Mahal",
-  "num_followers": 459840,
+  "num_followers": 459712,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDUgAAAAC8vqMx+qvArkF0ACFdaGjr",
+  "snapshot_id": "aB192wAAAAD/5ytepSG4IYH6Qh72yAJI",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:27",
+      "album": {
+        "name": "Honky Tonk Hell",
+        "url": "https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "duration_ms": 195732,
+      "name": "Honky Tonk Hell",
+      "url": "https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO"
+    },
+    {
+      "added_at": "2025-05-09 04:00:27",
+      "album": {
+        "name": "Roll Mega",
+        "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
+      },
+      "artists": [
+        {
+          "name": "Roll Mega",
+          "url": "https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1"
+        },
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "Twist Your Arm",
+      "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
+    },
     {
       "added_at": "2025-05-02 04:00:18",
       "album": {
@@ -933,22 +977,6 @@
       "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
     },
     {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/4vrG1J4J6h0Sfmq0YdUWUd"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb"
-    },
-    {
       "added_at": "2024-01-12 05:01:00",
       "album": {
         "name": "The Circle Session, 2023",
@@ -1619,22 +1647,6 @@
       "duration_ms": 217234,
       "name": "Bayou Blues - Demo Version",
       "url": "https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Cherry Red Boots / Somebody Tryin\u2019 To HooDoo Me",
-        "url": "https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI"
-      },
-      "artists": [
-        {
-          "name": "The Nude Party",
-          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
-        }
-      ],
-      "duration_ms": 278474,
-      "name": "Somebody Tryin\u2019 to Hoodoo Me",
-      "url": "https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR"
     },
     {
       "added_at": "2023-10-06 04:00:00",

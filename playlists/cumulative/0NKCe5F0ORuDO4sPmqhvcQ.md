@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-666 songs - 1 day 13 hr 29 min
+668 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Nothing On Me](https://open.spotify.com/track/2xVQdYjh1Lul8dHAlas6W2) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Nothing On Me](https://open.spotify.com/album/6Fs2nzfKvHQTtUy00L7slL) | 2:34 | 2022-03-17 | 2022-03-31 |
 | [Nowhere](https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Nowhere](https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz) | 3:13 | 2023-08-04 |  |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-01-31 | 2022-03-10 |
+| [OBSESSION](https://open.spotify.com/track/53fHl9iLv7G9IFo6PrWKEK) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [OBSESSION](https://open.spotify.com/album/6B6OArozqDar19BjWoa0MZ) | 3:19 | 2025-05-09 |  |
 | [Obvious](https://open.spotify.com/track/4HLRMq9E9fSGFUEDI8uzQt) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Obvious](https://open.spotify.com/album/5NHElSsTfLHGqQf64xBAtP) | 2:11 | 2021-11-12 | 2022-01-08 |
 | [Octavia](https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Octavia](https://open.spotify.com/album/7pLF40nSHudOnKd0i4m30m) | 3:30 | 2021-11-12 | 2022-01-08 |
 | [Oh Naur](https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Oh Naur](https://open.spotify.com/album/22puJMyQXeGW1mgiE1vw1I) | 1:18 | 2022-07-19 | 2023-01-20 |
@@ -636,6 +637,7 @@
 | [WAR](https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [WAR](https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD) | 2:37 | 2023-09-29 | 2024-09-07 |
 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P) | 3:29 | 2024-10-28 |  |
 | [WAV3S](https://open.spotify.com/track/3WHg0730YWLaPSEnUaZ0E0) | [33col3](https://open.spotify.com/artist/3X6o8V3Hm7FIcPBfVMoNPt) | [WAV3S](https://open.spotify.com/album/1X3uxRaDKh4AChDmlpQqBF) | 3:08 | 2022-02-28 | 2022-03-31 |
+| [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 | 2025-05-09 |  |
 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 | 2022-07-23 |  |
 | [We Like To Wuki](https://open.spotify.com/track/61EyDcgpYujFLrvd60da0l) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj), [Yo Majesty](https://open.spotify.com/artist/02QcKlcRiv2tXgI669XopZ) | [We Like To Wuki](https://open.spotify.com/album/5gVIZpWenjQfrJXV7XZi5B) | 2:41 | 2022-08-12 | 2022-09-17 |
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-24 |  |

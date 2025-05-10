@@ -5627,6 +5627,24 @@
     },
     {
       "album": {
+        "name": "Postalita",
+        "url": "https://open.spotify.com/album/2PjIb7VrWVqCPICsRnnFar"
+      },
+      "artists": [
+        {
+          "name": "Los Sufridos",
+          "url": "https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Postalita",
+      "url": "https://open.spotify.com/track/338FO6wNbL9zBfvqYk7qfg"
+    },
+    {
+      "album": {
         "name": "Princesa Mia",
         "url": "https://open.spotify.com/album/5MkMetkuLTsUi4ZIrAfSWr"
       },
@@ -7398,7 +7416,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 221564,
       "name": "Tu Eres Mi Amor - Bachata Version",
       "url": "https://open.spotify.com/track/2PgyPxXOTDKFPiDbtcdLFE"
@@ -7608,7 +7626,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 182920,
       "name": "Un Invierno",
       "url": "https://open.spotify.com/track/1bvtABXiNpjSvH7y9vNATp"

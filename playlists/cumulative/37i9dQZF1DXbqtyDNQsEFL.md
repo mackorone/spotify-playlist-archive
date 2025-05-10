@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb?si=nsy7DqQhTJmoqB6H2VtyMA>Joe Mettle</a>
 
-507 songs - 2 day 0 hr 14 min
+508 songs - 2 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [I no go ever tire](https://open.spotify.com/track/31E9nzyPs56BLoOcZt4CQm) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV) | [I no go ever tire](https://open.spotify.com/album/4JM5RKxLPeB11RMxvowla1) | 2:59 | 2024-08-16 | 2024-09-13 |
 | [I Overcame](https://open.spotify.com/track/4VzrPcWyOdMhNudt0SqaW0) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 5:22 | 2023-12-05 | 2023-12-11 |
 | [I Pray](https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 1:43 | 2025-04-18 | 2025-05-09 |
-| [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 | 2024-11-29 |  |
+| [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 | 2024-11-29 | 2025-05-10 |
 | [I Promise](https://open.spotify.com/track/30hiXQJloRoZHDccMf50TQ) | [Deborah Dworshipper](https://open.spotify.com/artist/4f4co0txflmBMkp8I1p7n0) | [I Promise](https://open.spotify.com/album/3si2ZG6aSbZsUbBBJvYsaL) | 4:21 | 2025-04-25 | 2025-04-30 |
 | [I Receive Your Light \(feat\. Magpsalms\) \- Remix](https://open.spotify.com/track/2mjArWhZYBBCrn02oS9G0c) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Magpsalms](https://open.spotify.com/artist/2qjtKb2BJ1ZJ9BQL5XNXo3) | [I Receive Your Light \(feat\. Magpsalms\) \[Remix\]](https://open.spotify.com/album/1yTUzr9tTKReKGwgvgMHQ1) | 8:59 | 2023-11-17 | 2024-01-19 |
 | [I Stand Amazed \- Live in Concert](https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 7:26 | 2023-12-05 | 2023-12-11 |
@@ -515,5 +515,6 @@
 | [Your Way](https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 2:45 | 2025-03-07 |  |
 | [Zoe](https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \- Transcendent Worship](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 8:33 | 2023-06-16 | 2024-08-17 |
 | [ZOE](https://open.spotify.com/track/5hIs8axd88ghEVcfagZRqv) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ZOE](https://open.spotify.com/album/3H9ke91YEz9p6m3Gj1QI6I) | 3:29 | 2024-11-01 | 2025-04-18 |
+| [ÒGO](https://open.spotify.com/track/3bYQ5UKUC5wcSR3aEyAd9P) | [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [ÒGO](https://open.spotify.com/album/0Kz4rKvHzi6bWBZskRCmKW) | 6:24 | 2025-05-09 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

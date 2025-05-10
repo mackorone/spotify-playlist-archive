@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 141500,
       "name": "AJ",
       "url": "https://open.spotify.com/track/2pcIABO9SnBqK7YvxayTUg"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 189295,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2"
@@ -2266,6 +2266,24 @@
       "duration_ms": 192000,
       "name": "Unimerse",
       "url": "https://open.spotify.com/track/4zG5rjF0PLcuVu6u43OgQD"
+    },
+    {
+      "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/5b49YW0wudV51P3XdQKr4M"
+      },
+      "artists": [
+        {
+          "name": "NxCxF",
+          "url": "https://open.spotify.com/artist/4Hm3wX5niVGJ8BZ7j4SaCK"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "Visionary",
+      "url": "https://open.spotify.com/track/0XkVZEVCIQGT7TxlPeB6tp"
     },
     {
       "album": {

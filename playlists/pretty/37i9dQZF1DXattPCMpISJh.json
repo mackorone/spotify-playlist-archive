@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 138121,
+  "num_followers": 138178,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDVQAAAAD9Gi8C+VLzKR+RahUTLpmr",
+  "snapshot_id": "aB194gAAAADPTKtRpQvMmcl8yoHgasad",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:34",
+      "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 170393,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ"
+    },
     {
       "added_at": "2025-03-07 05:00:21",
       "album": {
@@ -55,6 +71,26 @@
       "duration_ms": 192833,
       "name": "Right To Rhythm",
       "url": "https://open.spotify.com/track/4ZmVyNyhSdUZL1aXflrFAb"
+    },
+    {
+      "added_at": "2025-05-09 04:00:34",
+      "album": {
+        "name": "Love Contest (Dave Lee's Disco Mix)",
+        "url": "https://open.spotify.com/album/11Dph9IWslUohm4mCrh6zl"
+      },
+      "artists": [
+        {
+          "name": "The Joneses",
+          "url": "https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Love Contest (Dave Lee's Mini Disco Mix)",
+      "url": "https://open.spotify.com/track/0VneTyVPNsyz9sdXYOH6Q6"
     },
     {
       "added_at": "2025-04-18 04:00:33",
@@ -1831,50 +1867,6 @@
       "duration_ms": 201904,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "All My Love (feat. Olivera)",
-        "url": "https://open.spotify.com/album/4p875FDTzVTHQ3PGmxURJU"
-      },
-      "artists": [
-        {
-          "name": "Lenno",
-          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
-        },
-        {
-          "name": "NOVODOR",
-          "url": "https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY"
-        },
-        {
-          "name": "Olivera",
-          "url": "https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "All My Love (feat. Olivera)",
-      "url": "https://open.spotify.com/track/4axALpFKrIPxwQRnYJ1Zmc"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "When Someone Loves You",
-        "url": "https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 255604,
-      "name": "When Someone Loves You",
-      "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
     },
     {
       "added_at": "2022-10-14 04:00:00",

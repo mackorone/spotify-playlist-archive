@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Innellea, TH;EN, Carlo Whale
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,682 likes - 90 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,778 likes - 90 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 42 | [Day 'N' Night](https://open.spotify.com/track/1nXJn2Sy4d1fdu1VHeJOnd) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Day 'N' Night](https://open.spotify.com/album/0yxi7JGZDcbRFgIv6GzOsZ) | 3:36 |
 | 43 | [Citadel of Reeks](https://open.spotify.com/track/4Vwf8lMXN3ve7CCi72nWDg) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kled Mone](https://open.spotify.com/artist/7c3qqbDJKPEvTgse2h23Ji) | [Citadel of Reeks](https://open.spotify.com/album/0YPx3o1UJ6CikY3gI0uz6x) | 5:43 |
 | 44 | [On It Goes](https://open.spotify.com/track/4EJAOpNaoJGXLLnJFiCKaq) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Storm Queen](https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ) | [On It Goes](https://open.spotify.com/album/5tPNu0O4UU3ad3AOpNm0AM) | 5:41 |
-| 45 | [Circles](https://open.spotify.com/track/5XRz24LjaYi83SI4NEwmam) | [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Never Faded](https://open.spotify.com/album/3yFBwWKUIyNsEh4VBGjCjF) | 2:53 |
+| 45 | [Circles](https://open.spotify.com/track/5XRz24LjaYi83SI4NEwmam) | [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB), [Nairo](https://open.spotify.com/artist/5hiD6D3Spzfb2CqMjqTrqK) | [Never Faded](https://open.spotify.com/album/3yFBwWKUIyNsEh4VBGjCjF) | 2:53 |
 | 46 | [U](https://open.spotify.com/track/23PfB4eAXabSLb82EgMjJZ) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [U](https://open.spotify.com/album/2lEWCEizZYmRrt9wRPT1qG) | 3:36 |
 | 47 | [Acid Freaks](https://open.spotify.com/track/7zQMvM17uYAzGmasBCeloo) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Acid Freaks](https://open.spotify.com/album/2YVpaYWTXTscnAeO3i8sUq) | 3:37 |
 | 48 | [Calima](https://open.spotify.com/track/2SrMqj5TxO0ZFVHX6Zco8p) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Azur](https://open.spotify.com/album/04RmVwMEHIiU9OlaKmQ9uG) | 5:46 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 65 | [Mystic Love](https://open.spotify.com/track/5aF6bFy7Q5CQftJzkHRPyJ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mystic Love](https://open.spotify.com/album/1psvgaLdxg6HRA6o5SMhW0) | 4:47 |
 | 66 | [All Night Long](https://open.spotify.com/track/6q6xBekc6hm1ydA78L6CeK) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [All Night Long](https://open.spotify.com/album/3eGOi5erYI8hxYtY76jbko) | 6:09 |
 | 67 | [Dance Darleen](https://open.spotify.com/track/2Cx0ZKTJ2qwRk4Z1Kh3hqc) | [Sven Wegner](https://open.spotify.com/artist/2CoVpvP5sB3CrSiEV6VJkJ) | [Dance Darleen](https://open.spotify.com/album/2qwBLT9e4VdxlEndckyeMa) | 4:46 |
-| 68 | [Never Faded](https://open.spotify.com/track/4OnpjITRk98rcHlTCvElu8) | [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Never Faded](https://open.spotify.com/album/0eiQD9fHtjTiY4asslHtmp) | 3:35 |
+| 68 | [Never Faded](https://open.spotify.com/track/4OnpjITRk98rcHlTCvElu8) | [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB), [Nairo](https://open.spotify.com/artist/5hiD6D3Spzfb2CqMjqTrqK) | [Never Faded](https://open.spotify.com/album/0eiQD9fHtjTiY4asslHtmp) | 3:35 |
 | 69 | [Midnight](https://open.spotify.com/track/5Gf5DhinTx4Iy10Gtqo2o9) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Midnight](https://open.spotify.com/album/2fkuIs9ljC2eKq8ITnAJPT) | 3:08 |
 | 70 | [Âme](https://open.spotify.com/track/1PF5eWw6fxxD7t4OWHZVNh) | [Dejago](https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C) | [Âme](https://open.spotify.com/album/66Zy7uJ99MWr96hz9rLGUb) | 4:36 |
 | 71 | [Who Is Nora](https://open.spotify.com/track/15K37Vi2f3izDw0QtK8P5g) | [Nela](https://open.spotify.com/artist/2VsZiDrkwZpZQgq3nOfKIO), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [Misha Svirid](https://open.spotify.com/artist/2CRhFwQVlSeSpvwoh5bvcp) | [Who Is Nora](https://open.spotify.com/album/1DuhsAwvDKhA5QEa2Ljcd8) | 6:38 |

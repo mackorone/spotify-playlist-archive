@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Johnny Venus",
+  "description": "The soulful tunes to ease you into your day. Cover: TA Thomas",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 195789,
       "name": "Ain't It Nice",
       "url": "https://open.spotify.com/track/1HpOY4aHE6ELbGN5dVYwS6"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 199813,
       "name": "Be A Witness",
       "url": "https://open.spotify.com/track/7jKb1Vsof8n5Bg3JF9MPcr"
@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 265142,
       "name": "CALM",
       "url": "https://open.spotify.com/track/12VPP012wzcbfcAQWp92rV"
@@ -1992,6 +1992,24 @@
       "duration_ms": 176277,
       "name": "Can't Hide It",
       "url": "https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058"
+    },
+    {
+      "album": {
+        "name": "Can't Stay Mad",
+        "url": "https://open.spotify.com/album/0eB1N3Fd9jy79f2Ub94x07"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303067,
+      "name": "Can't Stay Mad",
+      "url": "https://open.spotify.com/track/3N0Gepa8QoYX39WJmsz6MQ"
     },
     {
       "album": {
@@ -2965,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Southern Soul",
+        "url": "https://open.spotify.com/album/5MVebc75SBfscLBim87bhR"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156397,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/24QQcdy9UpOvBTiDV94KHW"
+    },
+    {
+      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -3146,7 +3182,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 228639,
       "name": "Don't Sleep (feat. Thundercat)",
       "url": "https://open.spotify.com/track/3p0xEoo2jRjshhCplkF8S5"
@@ -3523,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "Face to Face",
+        "url": "https://open.spotify.com/album/7G3jOQKM6nhWQtHVoG2s6J"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Face to Face",
+      "url": "https://open.spotify.com/track/0LzEr4WBgwYaMG2zzDk5IW"
+    },
+    {
+      "album": {
         "name": "Fade (feat. KIRBY)",
         "url": "https://open.spotify.com/album/2np1sUdwyKLUGAe1NFs4uL"
       },
@@ -3654,6 +3708,24 @@
       "duration_ms": 220104,
       "name": "Fear When You Fly",
       "url": "https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0"
+    },
+    {
+      "album": {
+        "name": "Feel Like Makin' Love - Spotify Singles (Cover)",
+        "url": "https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266460,
+      "name": "Feel Like Makin' Love - Spotify Singles - Cover",
+      "url": "https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9"
     },
     {
       "album": {
@@ -4232,6 +4304,42 @@
       "duration_ms": 246680,
       "name": "Get it Got it",
       "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
+    },
+    {
+      "album": {
+        "name": "Gettin' in The Way - Spotify Singles",
+        "url": "https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192425,
+      "name": "Gettin' in The Way - Spotify Singles",
+      "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
+    },
+    {
+      "album": {
+        "name": "Girl - Spotify Singles",
+        "url": "https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316339,
+      "name": "Girl - Spotify Singles",
+      "url": "https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq"
     },
     {
       "album": {
@@ -5382,7 +5490,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 307760,
       "name": "Hope & Love",
       "url": "https://open.spotify.com/track/0sv8Os7FyqzVDNVrxcgRuq"
@@ -6824,7 +6932,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
@@ -8779,6 +8887,24 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213393,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG"
+    },
+    {
+      "album": {
         "name": "The Art Of Making Love",
         "url": "https://open.spotify.com/album/1jJpdCHub5LPNd9FYwyJYM"
       },
@@ -10582,6 +10708,24 @@
       "duration_ms": 151785,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/3Mq49cV6a9smgKAx0ccej4"
+    },
+    {
+      "album": {
+        "name": "YARN",
+        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167494,
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/31fAjf7ZztmKOaRf68sYB1"
     },
     {
       "album": {
@@ -14188,7 +14332,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 188986,
       "name": "Who",
       "url": "https://open.spotify.com/track/2BEQjs0f7Sf2Qqia8nKUYQ"
@@ -14388,7 +14532,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 195692,
       "name": "Would You",
       "url": "https://open.spotify.com/track/7mWvEVLWW3VbEZHr9DOanz"

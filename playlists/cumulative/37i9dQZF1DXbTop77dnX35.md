@@ -4,7 +4,7 @@
 
 > New Music from BNXN, Tyla, Mr Eazi and more
 
-2,589 songs - 5 day 10 hr 38 min
+2,591 songs - 5 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1418,6 +1418,7 @@
 | [Masterclass](https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Masterclass](https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD) | 3:32 | 2025-03-21 | 2025-03-28 |
 | [Matters To Me](https://open.spotify.com/track/0rAoahjILdVLd7JiF2GGFV) | [Jonathan May](https://open.spotify.com/artist/3T4VUy3b6j4k7Xuvu5t6mk), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Matters To Me](https://open.spotify.com/album/6nDq0eSPhbgqH6tpvlHlbd) | 3:05 | 2024-06-21 | 2024-06-28 |
 | [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 | 2024-11-29 | 2024-12-06 |
+| [Me & You](https://open.spotify.com/track/7nZZdrKSoqrZcehPxwPyif) | [Amara](https://open.spotify.com/artist/5fCSA7lk5loHCVoE6Nj6XR) | [Me & You](https://open.spotify.com/album/4m3pI7uQSXCZmltcB2wXBU) | 3:07 | 2025-05-09 |  |
 | [Me Ne Woa](https://open.spotify.com/track/08vdSZrMk6bY8zjkA3CIld) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [2+](https://open.spotify.com/album/1swMrYyV71fXCRLLVb4L76) | 3:30 | 2025-01-31 | 2025-02-07 |
 | [Me too](https://open.spotify.com/track/0f69wNZrUKPe4s2EnSA5ai) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Me too](https://open.spotify.com/album/03Ip4Xc6gRdo2SkJtAh8N9) | 2:38 | 2025-02-28 | 2025-03-07 |
 | [Medicine](https://open.spotify.com/track/2vvml2POK53Yd8fGAz4ty3) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Medicine/Opportunity](https://open.spotify.com/album/2HaenmNhFW4sAj0pbigMzB) | 3:52 | 2024-12-13 | 2024-12-20 |
@@ -1972,6 +1973,7 @@
 | [Rora](https://open.spotify.com/track/0HzR648HztKgyr5c2vtw8Y) | [Two Tapp](https://open.spotify.com/artist/4qT2nqzdzq5lqP6QqqfJo8), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Rora](https://open.spotify.com/album/0nSmOvoMrcnJS8bm1EVfx4) | 3:07 | 2025-02-28 | 2025-03-07 |
 | [Rosalina](https://open.spotify.com/track/6CpkRMig8e7nnRksP1twjX) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Uche B](https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v) | [Rosalina](https://open.spotify.com/album/7mSKyTVOJQqSOwiX0gSjLC) | 4:19 | 2024-09-13 | 2024-09-20 |
 | [Roses](https://open.spotify.com/track/22vul21iSDkUTJoFglVj6T) | [Marrz](https://open.spotify.com/artist/44FH5YoJYDnYEfJ9BQbf27) | [Roses](https://open.spotify.com/album/0yLfTBefDtm1yxYrpDq5oJ) | 2:53 | 2024-12-06 | 2024-12-13 |
+| [Round of Applause](https://open.spotify.com/track/1yXi1BRMLsjIpZxgSxKT02) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Round of Applause](https://open.spotify.com/album/6cViBybeaWr9J0Y0gNEtxL) | 2:04 | 2025-05-09 |  |
 | [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 | 2025-05-09 |  |
 | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB) | 4:16 | 2024-09-06 | 2024-09-13 |
 | [Rugged 2.0 \(with Olivetheboy\)](https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Rugged 2.0 \(with Olivetheboy\)](https://open.spotify.com/album/0YLqst6MXpMNNyVtZKJPQb) | 2:28 | 2024-11-08 | 2024-11-15 |

@@ -2,9 +2,9 @@
 
 ### [Indie Shuffle](https://open.spotify.com/playlist/37i9dQZF1DWVbu3wLXA48X)
 
-> Yung Kai handpicks first 20 tracks that resonate and fuel his creative journey alongside fresh indie cuts from Asia and beyond.
+> yung kai handpicks first 20 tracks that resonate and fuel his creative journey alongside fresh indie cuts from Asia and beyond.
 
-2,195 songs - 5 day 11 hr 54 min
+2,196 songs - 5 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2165,6 +2165,7 @@
 | [You Forever \- Pop Off Edit](https://open.spotify.com/track/79GCsEAXxWQIi9OZG4NfqC) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [You Forever \(Pop Off Edit\)](https://open.spotify.com/album/25FoRKCFt4XVis5tz8rSVX) | 3:39 | 2022-03-03 | 2022-04-01 |
 | [You know how](https://open.spotify.com/track/6KpedOLJFQcp2n9evsr6Q3) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [You know how](https://open.spotify.com/album/5FA5O1J70GbufGPfG9kwRa) | 3:30 | 2024-09-02 | 2024-10-05 |
 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 | 2024-03-15 | 2024-04-29 |
+| [You Will Always Be](https://open.spotify.com/track/7o8wiz2S0t8XYFu4Nj90OA) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [You Will Always Be](https://open.spotify.com/album/7iZrGgFMoMU5bwhOdG3Aif) | 2:48 | 2025-05-08 |  |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 | 2022-05-12 | 2022-06-18 |
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-30 | 2025-04-12 |
 | [You're So Cold \(Like My House\)](https://open.spotify.com/track/5lZ4w2PUb6K6JGQM4tIGzK) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [You're So Cold \(Like My House\)](https://open.spotify.com/album/5gSu5GEKdHMb8csHxbz6v8) | 2:56 | 2024-05-31 | 2024-07-05 |

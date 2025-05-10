@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,078 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,098 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 66 | [Hysteric Humanoid](https://open.spotify.com/track/4GDOaroj4GirkuS9Eq1f9b) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [ALKALOID「Believe 4 leaves」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m) | 4:09 |
 | 67 | [Have you been naughty or nice? \- Game Edit](https://open.spotify.com/track/09pdj4tB9lNyobvEZcxIe7) | [Flambé!/天城 燐音\(CV.阿座上 洋平\)、真白 友也\(CV.比留間 俊哉\)、明星 スバル\(CV.柿原 徹也\)、伏見 弓弦\(CV.橋本 晃太朗\)、七種 茨\(CV.逢坂 良太\)](https://open.spotify.com/artist/0JBdo51QAQ2mMOIH5ft1ag) | [あんさんぶるスターズ！！ Flambé！「Have you been naughty or nice?」 \(Game Edit\)](https://open.spotify.com/album/4HERdcQns4A7gHeCnspkc1) | 2:14 |
 | 68 | [Ruby Love \- Game Edit](https://open.spotify.com/track/6bihc8V3RsruncQ6YQ94eV) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！！ Eve「Ruby Love」 \(Game Edit\)](https://open.spotify.com/album/2ETfxA9wDUJmBnF4SV5NEP) | 2:37 |
-| 69 | [金色千夜夢舞台 \- Game Edit](https://open.spotify.com/track/7bF8aiQ2Y0HywixEytUCgT) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！！ 紅月「金色千夜夢舞台」 \(Game Edit\)](https://open.spotify.com/album/5L23YPqnArhqqm50NFHbTW) | 2:36 |
-| 70 | [Melting Rouge Soul \- Game Edit](https://open.spotify.com/track/4kOXWwLlNtfu3XX2oe2xet) | [Adam/乱 凪砂\(CV.諏訪部順一\)、七種 茨\(CV.逢坂良太\)](https://open.spotify.com/artist/5doOE4ux3bSRL56vebnofQ) | [あんさんぶるスターズ！！ Adam「Melting Rouge Soul」 \(Game Edit\)](https://open.spotify.com/album/2fa1muoZil5Khj84BGGzPV) | 2:37 |
+| 69 | [Melting Rouge Soul \- Game Edit](https://open.spotify.com/track/4kOXWwLlNtfu3XX2oe2xet) | [Adam/乱 凪砂\(CV.諏訪部順一\)、七種 茨\(CV.逢坂良太\)](https://open.spotify.com/artist/5doOE4ux3bSRL56vebnofQ) | [あんさんぶるスターズ！！ Adam「Melting Rouge Soul」 \(Game Edit\)](https://open.spotify.com/album/2fa1muoZil5Khj84BGGzPV) | 2:37 |
+| 70 | [金色千夜夢舞台 \- Game Edit](https://open.spotify.com/track/7bF8aiQ2Y0HywixEytUCgT) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！！ 紅月「金色千夜夢舞台」 \(Game Edit\)](https://open.spotify.com/album/5L23YPqnArhqqm50NFHbTW) | 2:36 |
 | 71 | [パラダイム・リバーシ! \- Game Edit](https://open.spotify.com/track/7cYaHEeUt6Kdk1W7rLeah2) | [Puffy☆Bunny/日々樹 渉\(CV.江口 拓也\)、葵 ひなた\(CV.斉藤 壮馬\)、仙石 忍\(CV.新田 杏樹\)、天城 一彩\(CV.梶原 岳人\)、影片 みか\(CV.大須賀 純\)](https://open.spotify.com/artist/7sjszWcNjZM6sAKH3PRfyn) | [あんさんぶるスターズ！！ Puffy☆Bunny「パラダイム・リバーシ! 」 \(Game Edit\)](https://open.spotify.com/album/7xbBxtVFkI3g9PKY1WwFLP) | 2:14 |
 | 72 | [ROCK ROAR \- Game Edit](https://open.spotify.com/track/6ScjwtZQgKtgG7KVIJZAgk) | [デッドマンズ／朔間 零\(CV.増田 俊樹\)、蓮巳 敬人\(CV.梅原 裕一郎\)、大神 晃牙\(CV.小野 友樹\)、鬼龍 紅郎 \(CV.神尾 晋一郎\)](https://open.spotify.com/artist/15JhHuwM0wSTUl0muVA45Z) | [あんさんぶるスターズ！！ デッドマンズ「ROCK ROAR」 \(Game Edit\)](https://open.spotify.com/album/0U1g4lLPkcJdib2IiK2cSU) | 2:30 |
 | 73 | [Ringing evil phone](https://open.spotify.com/track/2qQRTuUDbce625o8ELS3vX) | [EVIL NUM+／逆先 夏目\(CV.野島 健児\)、氷鷹 北斗\(CV.前野 智昭\)、葵 ひなた\(CV.斉藤 壮馬\)、紫之 創\(CV.高坂 知也\)、朔間 凛月\(CV.山下 大輝\)](https://open.spotify.com/artist/3bMNMWYrLxOUy6CZDsucYt) | [あんさんぶるスターズ！！ EVIL NUM+「Ringing evil phone」](https://open.spotify.com/album/0dd0yMYC6Kx15SETHvgkQo) | 3:57 |

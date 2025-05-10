@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Evangelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,635 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,640 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 14 | [Ma Tora Pia](https://open.spotify.com/track/4FHV331xou6YdNSRdtAPJ9) | [Melina Aslanidou](https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ) | [Ma Tora Pia](https://open.spotify.com/album/4CRS242whkbbIWa7vO0QKt) | 3:28 |
 | 15 | [Ektos Topou Ke Hronou](https://open.spotify.com/track/0H4MTPBBz0g3Gr0rrQyFSI) | [Sofia Manousaki](https://open.spotify.com/artist/4HOhcDTOk0JfElBEZynmcO), [Stefanos Korkolis](https://open.spotify.com/artist/1ZvewXx4WAhSSrxoUDb4Nz), [Gerasimos Evangelatos](https://open.spotify.com/artist/3FOcz0CoQjXRhfnKLqrXQq) | [Ektos Topou Ke Hronou](https://open.spotify.com/album/6ROgu5kJYwGYjT7oUBG1Gm) | 3:39 |
 | 16 | [FREE25](https://open.spotify.com/track/4VRkxuK7G2dcJx7kHaIexJ) | [Mira](https://open.spotify.com/artist/7AjOzyumfIoBcur8rNjABg), [Metronome](https://open.spotify.com/artist/5jbioAsOfAa0SWgDi7twXB) | [FREE25](https://open.spotify.com/album/6G5xbCa3pVYes8NLMyBBtJ) | 2:48 |
-| 17 | [Dihos Ti Foni Sou](https://open.spotify.com/track/4HPNRtrAYUJvkuiFurzzxo) | [Nikoleta Kitsiou](https://open.spotify.com/artist/3HvCDB5ELciZ9UsiZ5f694), [Kitrina Podilata](https://open.spotify.com/artist/5DqzPfumjWC7Q4nI3dNjl9) | [Dihos Ti Foni Sou](https://open.spotify.com/album/1SP4eoO1YJfChpFZez6EQT) | 2:29 |
+| 17 | [Dihos Ti Foni Sou](https://open.spotify.com/track/4HPNRtrAYUJvkuiFurzzxo) | [Nikoleta Kitsiou](https://open.spotify.com/artist/3HvCDB5ELciZ9UsiZ5f694) | [Dihos Ti Foni Sou](https://open.spotify.com/album/1SP4eoO1YJfChpFZez6EQT) | 2:29 |
 | 18 | [Poios Tha Tou To Pei](https://open.spotify.com/track/67rlb9f252xaAJ1LQabIw2) | [Eleni Hatzidou](https://open.spotify.com/artist/6P6FzomDMeM5mwj5AHBaWl) | [Poios Tha Tou To Pei](https://open.spotify.com/album/2MxKF6SqvEIfwzmUpHTa6i) | 3:07 |
 | 19 | [IT'S OK](https://open.spotify.com/track/4D8kOEyHpR3IBpJgmvV5di) | [KIANNA](https://open.spotify.com/artist/4fTmQzW49oi5GGJOpPjuNy), [Solid Grace](https://open.spotify.com/artist/61c8WjJKoVMvcB1dMHb8dk) | [IT'S OK](https://open.spotify.com/album/6xFAyZjIdfgL5XA40ublFB) | 2:10 |
 | 20 | [Lypimeno Mavro](https://open.spotify.com/track/6vwAE5E74kVdGpp3L7SUDI) | [Emmanouela Niniraki](https://open.spotify.com/artist/0pLI5aPVG68u0Z0aEI7Zdk), [Yorgos Kazantzis](https://open.spotify.com/artist/1ZlQS24T617VHiHmizu0BB), [Eleni Fotaki](https://open.spotify.com/artist/1sdYAs2Rp0NURDFF3zG5bi) | [Blue](https://open.spotify.com/album/57anV0eb0fr9W04R4z77qo) | 4:09 |

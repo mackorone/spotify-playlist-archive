@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Joyce Olong
 
-842 songs - 1 day 17 hr 6 min
+843 songs - 1 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [42](https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Make E No Cause Fight 3](https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56) | 2:51 | 2023-11-17 | 2024-06-07 |
 | [4AM in Ibiza](https://open.spotify.com/track/03ihazIgZQERyUB2BGAeLb) | [Castro](https://open.spotify.com/artist/35o4S4FOdo7sF0mn2Qd2O8) | [Triple Take, Vol\. II](https://open.spotify.com/album/31ISMmTdreHPGIZd9ddM4M) | 2:42 | 2022-02-17 | 2022-03-12 |
 | [4ever](https://open.spotify.com/track/2d1yqNf32Ngnr9Kh11xCNr) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:38 | 2023-11-24 | 2024-03-25 |
+| [4GET IT](https://open.spotify.com/track/6hogdxOHNGVWVAnVBWOCz1) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [4GET IT](https://open.spotify.com/album/13V4cvGODBdA92iQT4DTXY) | 2:56 | 2025-05-09 |  |
 | [4r U](https://open.spotify.com/track/0yeOy13aMktGb7NCWww0oC) | [MKABOVE](https://open.spotify.com/artist/6bjBS7xLH2JbajNLMA8FGt) | [Life of The Party](https://open.spotify.com/album/1R48sF7AE4j1wcfjfOtC7Q) | 2:02 | 2024-07-05 | 2024-09-20 |
 | [500 DEGREES](https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [500 DEGREES](https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A) | 2:10 | 2022-10-28 | 2022-12-02 |
 | [5STAR](https://open.spotify.com/track/2SbUl2NjInfY4DyeEzZS7d) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [5STAR](https://open.spotify.com/album/6AyJAGUMwWM0jNmZiLvP8R) | 2:40 | 2021-12-16 | 2022-10-29 |

@@ -2,7 +2,7 @@
 
 ### [Türkçe Rock](https://open.spotify.com/playlist/37i9dQZF1DX3RfxtU3KC3j)
 
-> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Eskitilmiş Yaz
+> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Ufuk Beydemir
 
 298 songs - 17 hr 34 min
 
@@ -163,7 +163,7 @@
 | [Kimse Bilmez](https://open.spotify.com/track/2EkLB4imQ2E3Tz42BRmnw8) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [Kimse Bilmez](https://open.spotify.com/album/3e1wdVU8iVpSbnpSyu7pDv) | 3:12 | 2024-10-17 | 2024-11-08 |
 | [Kişisel Cehennemim \- Rashit Greatest Shits](https://open.spotify.com/track/0milex1kMhCBiWhNugQOTJ) | [Dört X Dört](https://open.spotify.com/artist/1hw1VLiutfMgbxficYxq65), [Volkan Başaran](https://open.spotify.com/artist/5xoh7PaFns9Q4oarHLVMKV) | [Kişisel Cehennemim \- Rashit Greatest Shits](https://open.spotify.com/album/5CHkevNMbdGQUlZvDBCpbq) | 3:24 | 2024-08-29 | 2024-09-13 |
 | [Koca Bir Hataydı \(Seni Tanımak\)](https://open.spotify.com/track/69yMM2HDz1NfT2VXJ2HSGY) | [Parham A.G](https://open.spotify.com/artist/4O3SAIAWxsNuwl5TSxvuYx) | [Daha Anlatacak Çok Şey Var](https://open.spotify.com/album/1g7KnMcmfNQdNgoz8hVkYA) | 3:20 | 2024-06-28 | 2024-08-16 |
-| [Kopamıyorum Senden](https://open.spotify.com/track/2bZ6AYs2zsWpUyhAzIjPmZ) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Kopamıyorum Senden](https://open.spotify.com/album/3xJjIoZkp92E5KmxyK82C1) | 2:44 | 2025-04-10 |  |
+| [Kopamıyorum Senden](https://open.spotify.com/track/2bZ6AYs2zsWpUyhAzIjPmZ) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Kopamıyorum Senden](https://open.spotify.com/album/3xJjIoZkp92E5KmxyK82C1) | 2:44 | 2025-04-10 | 2025-05-10 |
 | [Korkma 07 \(Düet Hayko Cepkin\)](https://open.spotify.com/track/7jZtpQTaO6YwwEAMwMR8ti) | [Ogün Sanlısoy](https://open.spotify.com/artist/6pLClLDuEeB6KdfvPblHSq), [Hayko Cepkin](https://open.spotify.com/artist/3hzijSzD6IwOV4SY2SiWQp) | [Korkma Remastered](https://open.spotify.com/album/2xhpNPI3xBUiYtX7mdNUYb) | 5:12 | 2025-03-27 |  |
 | [Korkmam Artık Ben Karanlıktan](https://open.spotify.com/track/4rpHFSL0CR8YXCX0j4ziSM) | [Kana Kana](https://open.spotify.com/artist/79m8TbKxx4eO0G80RgmZox), [Özge Fışkın](https://open.spotify.com/artist/0acW6PhzqNwRvVcnRozzfB) | [Korkmam Artık Ben Karanlıktan](https://open.spotify.com/album/49HOvxMCCSl4EBF1j8Y7zz) | 4:06 | 2025-03-27 | 2025-04-25 |
 | [Kozmos](https://open.spotify.com/track/7yqSLFZ2pNDL91OXpOf41c) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Kozmos](https://open.spotify.com/album/7v6NYYYKRt2zYEUBTTq8MF) | 3:18 | 2024-06-28 | 2024-12-13 |

@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 미티 \(Mitty\)\) \(Meet the emerging talents of Korea!\)
 
-1,536 songs - 3 day 14 hr 26 min
+1,538 songs - 3 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [closetclosetcloset](https://open.spotify.com/track/7AWeya3LaNLt8S1vXlqEYh) | [hukke](https://open.spotify.com/artist/6XgOEA5NhkUYCU7vbYJAqc) | [closetclosetcloset](https://open.spotify.com/album/3xhq7Hfy7sUY2oIEkTUdNk) | 2:51 | 2022-09-05 | 2022-10-03 |
 | [Cocktail](https://open.spotify.com/track/7h3IjtI7oQKmaWerl3S3v8) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4), [R.L\. KING](https://open.spotify.com/artist/6RnLyUD6H4MFRkh90eWpKS) | [Cocktail](https://open.spotify.com/album/3hhjq59BQ2HoXd3hxyyCPl) | 2:51 | 2023-07-06 | 2023-11-16 |
 | [Cocktail love](https://open.spotify.com/track/4eqVxp7h7cTGJaKzefDRhJ) | [Sae Ra](https://open.spotify.com/artist/6YE2PO4gLc8ybNdD5qf0hP) | [A Profitable Cage OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/6pdJ94PYofmKEksXlbTSEC) | 3:34 | 2024-04-03 | 2025-01-21 |
-| [Cocoa](https://open.spotify.com/track/0EjHPktdg1klqlZFIkK0fk) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [COCOA](https://open.spotify.com/album/6s5P7lk17DKel6JCpEvexk) | 3:14 | 2025-02-04 |  |
+| [Cocoa](https://open.spotify.com/track/0EjHPktdg1klqlZFIkK0fk) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [COCOA](https://open.spotify.com/album/6s5P7lk17DKel6JCpEvexk) | 3:14 | 2025-02-04 | 2025-05-10 |
 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 | 2023-03-31 | 2024-01-03 |
 | [Color Blind](https://open.spotify.com/track/1aPtx99z5Nr9B71CVaQkzl) | [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy) | [Color Blind](https://open.spotify.com/album/65yzd3jv1aq93hEw5plgJw) | 2:29 | 2022-01-24 | 2022-03-03 |
 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 | 2022-09-05 | 2022-11-08 |
@@ -664,6 +664,7 @@
 | [in the middle](https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [in the middle](https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D) | 2:56 | 2024-02-01 | 2025-01-21 |
 | [In The Rain](https://open.spotify.com/track/1vyPrGqBCve587nS5x142B) | [Cloudybay](https://open.spotify.com/artist/0FyGoy4Ek4dQGoMM65eZ0z) | [Rain In Tequila](https://open.spotify.com/album/2PN6HKnZfzv1J8x29ApGLW) | 3:16 | 2022-09-29 | 2022-12-01 |
 | [In This Morning](https://open.spotify.com/track/0WziV52uDQhR2c2CWg38fe) | [Nyork](https://open.spotify.com/artist/4nEjPtZHCsxLmwltzWJvRr), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [In This Morning](https://open.spotify.com/album/16I6H2xqNKAHLpGx7ofQEs) | 3:45 | 2024-03-21 | 2024-08-02 |
+| [indivisible](https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [indivisible](https://open.spotify.com/album/3sV0oGcZ3dNE59Mi3TQ13U) | 2:41 | 2025-05-09 |  |
 | [insomnia \(feat\. KURO\)](https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [insomnia \(feat\. KURO\)](https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs) | 3:47 | 2023-06-01 | 2024-01-03 |
 | [Into You](https://open.spotify.com/track/6BWj5TuwDnHyyvLii4T6R4) | [Anoc](https://open.spotify.com/artist/0mOPxa6cfGNqcVjKQlFnAo) | [Into You](https://open.spotify.com/album/6QbzRMwrWhL4xnMqDpgrNy) | 3:08 | 2023-05-01 | 2023-06-02 |
 | [IntoPieces](https://open.spotify.com/track/3cgZ5I67WMvN5SVpawIQEs) | [Byul.org](https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP) | [Me & My Dog](https://open.spotify.com/album/6J4eAHhWhTmVVMO03ZXeUE) | 4:29 | 2024-06-04 | 2024-09-03 |
@@ -762,6 +763,7 @@
 | [lost in you](https://open.spotify.com/track/18tTGSu8hgDb6r5z2C74OA) | [Oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [lost in you](https://open.spotify.com/album/6srNs2YcyTHUPtsecgukZ0) | 3:20 | 2022-05-11 | 2022-06-19 |
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-09 | 2022-06-19 |
 | [Love & Care](https://open.spotify.com/track/20DJydWFasUXuGiNRAPLNA) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau), [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Love & Care](https://open.spotify.com/album/1GQqMT6zPFX1AiFWSsZmyd) | 3:54 | 2022-09-29 | 2022-12-01 |
+| [Love and Cough♥](https://open.spotify.com/track/0IgbkpnCfM1c5dOlVnALXS) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Love & Cough♥](https://open.spotify.com/album/1ML4GnpXa6DLUjJTSnREW0) | 2:35 | 2025-05-09 |  |
 | [Love Each Other](https://open.spotify.com/track/1MAWAwi7CQDZyZuIsjgIa2) | [HAEDEUN](https://open.spotify.com/artist/2cWWliWQ6Ziim9v8RKK9SI) | [Love Each Other](https://open.spotify.com/album/2lugWah96q2znqUjsoZyb3) | 4:05 | 2022-06-09 | 2022-07-05 |
 | [love ends](https://open.spotify.com/track/74FPQJJ6ao6V8NCBKb1Yjl) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [love ends](https://open.spotify.com/album/5u9HYEIX9G5QMAiwNjHQ0w) | 4:07 | 2023-03-02 | 2023-05-02 |
 | [Love Equation](https://open.spotify.com/track/03ylCEX3Vtu8VxrJ0xNoKm) | [Meriberry](https://open.spotify.com/artist/0Nf0qk7EHwnEfRMgqac3qb) | [Love Equation](https://open.spotify.com/album/5ZdqTTmvBfWu7uWeZCFBvk) | 3:37 | 2024-06-04 | 2025-01-21 |
@@ -1123,7 +1125,7 @@
 | [Sketch](https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Cinema Pt\. 2](https://open.spotify.com/album/2CPsUAUJvUIFuqK5zlQZa9) | 3:17 | 2024-04-03 | 2024-08-02 |
 | [SLEEP](https://open.spotify.com/track/4eyetKkmP14NC6Rr8NyUBO) | [RUDALS](https://open.spotify.com/artist/2gmDfDbae0ZWIws0bvsCn8) | [SLEEP](https://open.spotify.com/album/3lG9l4O28wyd6JYp8jMwrG) | 3:14 | 2022-08-19 | 2022-10-15 |
 | [sleep in your universe](https://open.spotify.com/track/5oHIVMKQgMF4dXkEkSJjPH) | [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8) | [sleep in your universe](https://open.spotify.com/album/4qTNEwgGr2095VE7NYsLuy) | 2:54 | 2024-08-02 | 2024-10-05 |
-| [Slide](https://open.spotify.com/track/1s6hSz0Ll0J79e88Tm7iFI) | [matt matt](https://open.spotify.com/artist/2qVz4hdpr6a73pbVioqk2L) | [Slide](https://open.spotify.com/album/1L6m5gnhzC4HOOcWRkEgiF) | 2:35 | 2025-02-14 |  |
+| [Slide](https://open.spotify.com/track/1s6hSz0Ll0J79e88Tm7iFI) | [matt matt](https://open.spotify.com/artist/2qVz4hdpr6a73pbVioqk2L) | [Slide](https://open.spotify.com/album/1L6m5gnhzC4HOOcWRkEgiF) | 2:35 | 2025-02-14 | 2025-05-10 |
 | [Slow](https://open.spotify.com/track/4O6Iw6DzAhLoTOY2WnpIbA) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [Slow](https://open.spotify.com/album/3TZhRtH50886nLU2lzhTxP) | 3:04 | 2023-01-30 | 2023-04-01 |
 | [SLOWDOWN](https://open.spotify.com/track/3eQMPW1KsaObLtP9zJHePx) | [ODD Cloud](https://open.spotify.com/artist/0EsmRvqVdlPTIwkpOLw3Gi) | [SLOWDOWN](https://open.spotify.com/album/6uqzxFO5MdPpZKfBoPSyoB) | 3:16 | 2024-08-10 | 2025-02-04 |
 | [slowly \(feat\. floryy\)](https://open.spotify.com/track/7g1ddjPuu6Hvp6hnVKCTIZ) | [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C), [floryy](https://open.spotify.com/artist/2F9YMUpMgAlX2GrNTTj6Iz) | [pheromone 0](https://open.spotify.com/album/777Zw7cckoA28eoXt4v1UZ) | 3:10 | 2023-02-15 | 2023-05-02 |

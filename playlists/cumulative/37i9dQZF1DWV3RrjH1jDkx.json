@@ -14247,6 +14247,28 @@
     },
     {
       "album": {
+        "name": "BUCK (feat. Diljit Dosanjh)",
+        "url": "https://open.spotify.com/album/29xxo6iJM8mqwKYWTHCu06"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163853,
+      "name": "BUCK (feat. Diljit Dosanjh)",
+      "url": "https://open.spotify.com/track/70sREIqvDuuHKXSjmWMysS"
+    },
+    {
+      "album": {
         "name": "Bullet",
         "url": "https://open.spotify.com/album/0a1lEYsMG9IW3U0hv4k6aJ"
       },
@@ -39840,10 +39862,6 @@
         {
           "name": "Amy Lee",
           "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
-        },
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
       "date_added": "2025-05-08",
@@ -97944,6 +97962,32 @@
       "duration_ms": 186600,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/73PgCK2nCjzcUKTW9edP3a"
+    },
+    {
+      "album": {
+        "name": "Timeless (Remix)",
+        "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Timeless (feat. Playboi Carti & Doechii) - Remix",
+      "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
     },
     {
       "album": {

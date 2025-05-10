@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno al mando de KUINA.
+> La casa del trap chileno al mando de AQUA VS.
 
-273 songs - 14 hr 4 min
+274 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Haciendo Billete](https://open.spotify.com/track/4MQp8Cw2tLo2MJYDR5GUdg) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Haciendo Billete](https://open.spotify.com/album/0xxvVt3drEUc0xIHy18n6C) | 2:34 | 2022-07-29 | 2024-11-23 |
 | [Hard Style](https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hard Style](https://open.spotify.com/album/2iykEcv7pdEkhRssq4L8E8) | 2:02 | 2022-01-20 | 2024-10-19 |
 | [HIPOCRESÍA](https://open.spotify.com/track/1407BXnFbdE9bZvAL57NxB) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [HIPOCRESÍA](https://open.spotify.com/album/1j4TNRcTJAKBphndDuLsuC) | 1:21 | 2024-03-29 | 2024-08-24 |
-| [Hipócritas](https://open.spotify.com/track/4QmL5s4KnF8YVm2SN3z0dx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hipócritas](https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0) | 2:35 | 2022-01-20 |  |
+| [Hipócritas](https://open.spotify.com/track/4QmL5s4KnF8YVm2SN3z0dx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hipócritas](https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0) | 2:35 | 2022-01-20 | 2025-05-10 |
 | [Hood](https://open.spotify.com/track/5dLd9IBu8aZe47JKwhKvLi) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Hood](https://open.spotify.com/album/79LOfwxYQhNeU2bg3EdaXr) | 2:31 | 2022-01-28 | 2025-03-22 |
 | [Húmeda](https://open.spotify.com/track/1EFGEZu4Gu8rZjoO8PVKf4) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Húmeda](https://open.spotify.com/album/6nJO5KppqEq6Lq0eJBsn66) | 3:24 | 2025-03-31 |  |
 | [ICONIC PERRA](https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [ICONIC PERRA](https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU) | 2:04 | 2024-07-26 | 2024-10-05 |
@@ -146,6 +146,7 @@
 | [MALDITA QL](https://open.spotify.com/track/0fVDSMzzqEMfvat9hiI8JD) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l) | [MALDITA QL](https://open.spotify.com/album/14Dbf2M0BAVY3O4oNqJXbt) | 3:43 | 2024-04-12 | 2024-12-14 |
 | [MaMa](https://open.spotify.com/track/3bOawk8qClklX3sEhefu96) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [SIN PRONTUARIO](https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx) | 2:24 | 2022-08-25 | 2024-04-19 |
 | [MaMa](https://open.spotify.com/track/36AOJ35vNMNlWw9OWpwmKe) | [Pekeño 77, Harry Nach](https://open.spotify.com/artist/5vpqWXcT00uzdG9jtwk5fT) | [SIN PRONTUARIO](https://open.spotify.com/album/6Qfbi4ZYbhlQxjcddwg1G0) | 2:24 | 2022-01-20 | 2024-06-22 |
+| [MANDARÍN](https://open.spotify.com/track/5YkFMht9Htw88n6zJyIw1A) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MANDARÍN](https://open.spotify.com/album/5jWZMseV0yZH9z64cw4ANc) | 2:15 | 2025-05-09 |  |
 | [Manifiesto](https://open.spotify.com/track/2aYsBCPVZqRMGcS74D6jTS) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Mami Trap](https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh) | 2:27 | 2023-07-21 | 2023-09-02 |
 | [Manifiesto](https://open.spotify.com/track/7rXnH5CggkXAAIxWHh0U0H) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 2:27 | 2023-02-24 | 2023-07-28 |
 | [MARILÚ](https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MARILÚ](https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm) | 2:45 | 2023-05-19 |  |

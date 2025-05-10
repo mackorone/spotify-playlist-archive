@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 172811,
+  "num_followers": 172830,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "\u30a2\u30c0\u30d7\u30c8",
-        "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "\u30ad\u30e3\u30e9\u30d0\u30f3",
-      "url": "https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
         "url": "https://open.spotify.com/album/7jUTLJgcOL6z7ou8TVVh24"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 310160,
       "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
       "url": "https://open.spotify.com/track/7p2X86CP7JrIjbVEsZHU0h"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "\u30a2\u30c0\u30d7\u30c8",
+        "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "\u30ad\u30e3\u30e9\u30d0\u30f3",
+      "url": "https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -919,18 +919,18 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "Unlucky!!",
-        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 215221,
-      "name": "Unlucky!!",
-      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -951,18 +951,18 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+        "name": "Unlucky!!",
+        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
+      "duration_ms": 215221,
+      "name": "Unlucky!!",
+      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "\u305a\u308b\u304f\u306a\u3044\uff1f",
-        "url": "https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7"
-      },
-      "artists": [
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 208981,
-      "name": "\u305a\u308b\u304f\u306a\u3044\uff1f",
-      "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "Watching Over You",
         "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
-        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+        "name": "\u305a\u308b\u304f\u306a\u3044\uff1f",
+        "url": "https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7"
       },
       "artists": [
         {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
         }
       ],
-      "duration_ms": 181046,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
+      "duration_ms": 208981,
+      "name": "\u305a\u308b\u304f\u306a\u3044\uff1f",
+      "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1103,6 +1087,22 @@
       "duration_ms": 325898,
       "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
       "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
+        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "Every One Minute",
-        "url": "https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge"
-      },
-      "artists": [
-        {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
-        }
-      ],
-      "duration_ms": 210276,
-      "name": "Every One Minute",
-      "url": "https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "SEPTEMBER",
         "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 275560,
       "name": "SEPTEMBER",
       "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "Every One Minute",
+        "url": "https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge"
+      },
+      "artists": [
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "duration_ms": 210276,
+      "name": "Every One Minute",
+      "url": "https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "Rainy Runway",
         "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 241680,
       "name": "Rainy Runway",
       "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "Flower Garden",
-        "url": "https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Flower Garden",
-      "url": "https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
         "name": "READY",
         "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+        "name": "Flower Garden",
+        "url": "https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+      "duration_ms": 201600,
+      "name": "Flower Garden",
+      "url": "https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1487,6 +1471,22 @@
       "duration_ms": 235500,
       "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1563,50 +1563,18 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "Once Upon a Night",
-        "url": "https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe"
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
         }
       ],
-      "duration_ms": 223395,
-      "name": "Once Upon a Night",
-      "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
-        "name": "STEP IT",
-        "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
-      },
-      "artists": [
-        {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "STEP IT",
-      "url": "https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP"
-    },
-    {
-      "added_at": "2025-04-15 15:00:23",
-      "album": {
-        "name": "\u30ec\u30ad\u30b7\u30c1",
-        "url": "https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4"
-      },
-      "artists": [
-        {
-          "name": "Rekishi",
-          "url": "https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Let's FUJIWARA",
-      "url": "https://open.spotify.com/track/4SwU8g5Yt6Wg2rWBhhmyIG"
+      "duration_ms": 275935,
+      "name": "Document",
+      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
     },
     {
       "added_at": "2025-04-15 15:00:23",
@@ -1627,18 +1595,50 @@
     {
       "added_at": "2025-04-15 15:00:23",
       "album": {
-        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
-        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
+        "name": "STEP IT",
+        "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
       },
       "artists": [
         {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
         }
       ],
-      "duration_ms": 275935,
-      "name": "Document",
-      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
+      "duration_ms": 220000,
+      "name": "STEP IT",
+      "url": "https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "Once Upon a Night",
+        "url": "https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 223395,
+      "name": "Once Upon a Night",
+      "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
+    },
+    {
+      "added_at": "2025-04-15 15:00:23",
+      "album": {
+        "name": "\u30ec\u30ad\u30b7\u30c1",
+        "url": "https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4"
+      },
+      "artists": [
+        {
+          "name": "Rekishi",
+          "url": "https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Let's FUJIWARA",
+      "url": "https://open.spotify.com/track/4SwU8g5Yt6Wg2rWBhhmyIG"
     },
     {
       "added_at": "2025-04-15 15:00:23",

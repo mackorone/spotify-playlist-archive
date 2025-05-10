@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: KebMo & Taj Mahal
 
-433 songs - 1 day 3 hr 5 min
+435 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 | 2022-07-01 | 2022-12-16 |
 | [Hole](https://open.spotify.com/track/2jZcVKNkG5JMAXSRDumflt) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Hole](https://open.spotify.com/album/3pu464f772FhbYLE5KaYlk) | 3:53 | 2024-05-24 | 2024-07-19 |
 | [Holy River](https://open.spotify.com/track/6SedHpk26DGo0uvpL0gyYL) | [Effie Zilch](https://open.spotify.com/artist/1NGw8cxn84OJjOEFLXlJJN) | [Trinity, Vol.2](https://open.spotify.com/album/6Ud7zLdNrSmHIyXX2pyT4V) | 3:07 | 2022-09-09 | 2022-09-17 |
+| [Honky Tonk Hell](https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Honky Tonk Hell](https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3) | 3:15 | 2025-05-09 |  |
 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 | 2022-01-28 | 2024-04-19 |
 | [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-01-28 | 2025-02-22 |
 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-12-17 | 2024-03-23 |
@@ -250,7 +251,7 @@
 | [Mood](https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Mood](https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s) | 3:29 | 2022-10-21 | 2025-03-08 |
 | [Mood Swings](https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7ErL1IFbEZr7Hz2FfelS3I) | 3:25 | 2024-02-09 | 2024-04-08 |
 | [Mood Swings](https://open.spotify.com/track/3j3AQiQEe24de1EcYqVxc3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa) | 3:25 | 2024-02-09 | 2024-04-19 |
-| [Mood Swings](https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/4vrG1J4J6h0Sfmq0YdUWUd) | 3:25 | 2024-02-09 |  |
+| [Mood Swings](https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/4vrG1J4J6h0Sfmq0YdUWUd) | 3:25 | 2024-02-09 | 2025-05-10 |
 | [More Than Love](https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:07 | 2022-07-26 |  |
 | [Mortality Blues](https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mortality Blues](https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ) | 3:15 | 2024-08-02 |  |
 | [Mountain Road](https://open.spotify.com/track/7o2FUCaN5BkqzGrM7kajEo) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Mountain Road](https://open.spotify.com/album/7c1Es2Z6SAV6LwwZc2knQp) | 3:13 | 2023-05-05 | 2023-11-18 |
@@ -331,7 +332,7 @@
 | [So Much Fun](https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3) | [A.J\. Croce](https://open.spotify.com/artist/5GddXlP15Ktw1aHZEcKGZe) | [So Much Fun](https://open.spotify.com/album/6lP1LTZ6X6bzRigf2HwLFu) | 3:10 | 2022-06-17 | 2024-08-24 |
 | [Sober](https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Sober](https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC) | 2:59 | 2021-12-17 | 2023-09-16 |
 | [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/0lFVNmrmtrcG5H0ODj8jcT) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu) | 4:38 | 2023-10-06 | 2024-04-19 |
-| [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Cherry Red Boots / Somebody Tryin’ To HooDoo Me](https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI) | 4:38 | 2023-02-24 |  |
+| [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Cherry Red Boots / Somebody Tryin’ To HooDoo Me](https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI) | 4:38 | 2023-02-24 | 2025-05-10 |
 | [Sorry You're Blue](https://open.spotify.com/track/2wjepWIiTprtyqH3yvAAqT) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Sorry You're Blue](https://open.spotify.com/album/4c2fvHVg0Ogsd1HdbLhMG0) | 2:30 | 2024-03-08 |  |
 | [Soul Searching](https://open.spotify.com/track/3hpZLgDKo3wrQ5PLwaNZyI) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Soul Searching](https://open.spotify.com/album/32KrKYPFcywOHSorWmlp6o) | 3:57 | 2022-10-14 | 2022-11-12 |
 | [Souled Out On You](https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Souled Out On You](https://open.spotify.com/album/50BIR8Bg2W5OifAUjmRviK) | 3:33 | 2021-12-17 |  |
@@ -401,6 +402,7 @@
 | [Trouble](https://open.spotify.com/track/6R8g4UJc2jYda4wmrtz09d) | [Pointy Features](https://open.spotify.com/artist/2juH2VRAmfRlPlu1oaGsuH) | [Trouble](https://open.spotify.com/album/2l5G5XHW8TKudAcxtgAzwU) | 3:34 | 2024-03-01 |  |
 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 | 2024-04-19 | 2025-05-03 |
 | [True Blue](https://open.spotify.com/track/5Z6HBuy8X9MPFq5pIhrEvA) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [True Blue](https://open.spotify.com/album/5xcqjv8Qm0h5r7PqIROYyF) | 4:11 | 2023-08-11 | 2023-09-09 |
+| [Twist Your Arm](https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX) | [Roll Mega](https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Roll Mega](https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l) | 4:42 | 2025-05-09 |  |
 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 | 2021-12-17 | 2023-03-11 |
 | [Unchange](https://open.spotify.com/track/49Dq6pn80uHKYd5htblAXl) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 3:24 | 2022-04-29 | 2024-06-15 |
 | [Unchange](https://open.spotify.com/track/6jiK5cO3rWtPsEGTO1117A) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW) | 3:24 | 2022-05-27 | 2024-04-19 |

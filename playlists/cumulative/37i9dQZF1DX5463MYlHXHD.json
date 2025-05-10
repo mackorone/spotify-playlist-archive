@@ -72,7 +72,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 128265,
       "name": "6to Sentido (Una Vuelta)",
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Su Majestad",
+        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223059,
+      "name": "Caprichosa",
+      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Solida",
         "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 185817,
       "name": "Dale al perreo",
       "url": "https://open.spotify.com/track/6YoP8EHV3T4XYVgDaZS6pG"
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 305177,
       "name": "El Arroyo",
       "url": "https://open.spotify.com/track/6ZozFiI3ggDIdUddvd6eIs"
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 221333,
       "name": "EXCUSAS",
       "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
@@ -3670,7 +3688,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 189416,
       "name": "Mashup de Barrio",
       "url": "https://open.spotify.com/track/4LJoAL77J5B5VKfSnl26yw"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 157080,
       "name": "Mata",
       "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
@@ -4458,7 +4476,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 119048,
       "name": "Parate de Manos Que Lleg\u00f3 Repiola",
       "url": "https://open.spotify.com/track/16zIbSjEb9XhKbdBA5SBmA"
@@ -4960,6 +4978,24 @@
       "duration_ms": 233126,
       "name": "Re Locos Otra Vez",
       "url": "https://open.spotify.com/track/2RLI4XpPQu1qeli6xfGrXa"
+    },
+    {
+      "album": {
+        "name": "RE MANIJA",
+        "url": "https://open.spotify.com/album/5IilPCTGtRn93PKjeHADUC"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189507,
+      "name": "RE MANIJA",
+      "url": "https://open.spotify.com/track/1mP4PFtnRSxnC2wiiUkkb0"
     },
     {
       "album": {
@@ -6810,7 +6846,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 318131,
       "name": "Zapada 3",
       "url": "https://open.spotify.com/track/5lV1gffVy0Tygf7OJONcp7"

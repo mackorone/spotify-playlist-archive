@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197225,
+      "name": "Claroscuro",
+      "url": "https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J"
+    },
+    {
+      "album": {
         "name": "Clavelito Ant\u00e1rtico",
         "url": "https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 209579,
       "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
       "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"

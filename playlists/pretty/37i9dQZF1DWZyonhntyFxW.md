@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أرسينيك وأبو الأنوار
+> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  مروان موسى
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,747 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,774 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ELWA3D](https://open.spotify.com/track/4G5MF3PpirGQEa4UNrb9KB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [ELWA3D](https://open.spotify.com/album/5GxrUw0M57yEf8vMQgso2o) | 3:48 |
-| 2 | [FAWATER EL 3ETAB](https://open.spotify.com/track/69KF73mPJG37guyLv98KuM) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FAWATER EL 3ETAB](https://open.spotify.com/album/5DrNynojvPy7xP6YEwDxwo) | 3:37 |
+| 1 | [FAWATER EL 3ETAB](https://open.spotify.com/track/69KF73mPJG37guyLv98KuM) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FAWATER EL 3ETAB](https://open.spotify.com/album/5DrNynojvPy7xP6YEwDxwo) | 3:37 |
+| 2 | [ELWA3D](https://open.spotify.com/track/4G5MF3PpirGQEa4UNrb9KB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [ELWA3D](https://open.spotify.com/album/5GxrUw0M57yEf8vMQgso2o) | 3:48 |
 | 3 | [Fomanshi](https://open.spotify.com/track/1aMA5gWiKvHOhVYxHJ2pY1) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Fomanshi](https://open.spotify.com/album/3pj9ksj2ATL75K6F1zscW7) | 2:47 |
 | 4 | [BONO](https://open.spotify.com/track/2Jsw1sLDq7Kzb05xkNS6LP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BONO](https://open.spotify.com/album/1uqEXTzK7dGspcFeL97krg) | 1:53 |
 | 5 | [EH EL ARF DAH](https://open.spotify.com/track/6fIebGHXTAQ3jtairsQkPs) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EH EL ARF DAH](https://open.spotify.com/album/6aBAf4qEuRN6TSyfx0hUxM) | 2:11 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Baklem El Amar](https://open.spotify.com/track/7L15zTOGWGnKZY7a7Fr2ol) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa) | [Moga](https://open.spotify.com/album/74pPbkercbdyczbWsW5ZcA) | 2:31 |
 | 40 | [2007](https://open.spotify.com/track/6lztjEZqRlnmlhQqEYxrtH) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [KHOD](https://open.spotify.com/album/4thKK66tWjxDmOTLJSfvmY) | 2:12 |
 
-Snapshot ID: `aByv5AAAAAB0tMozor1noxOx/kq7huNg`
+Snapshot ID: `aB42KQAAAADi7+t1gSVpr1KJTZPcKq68`

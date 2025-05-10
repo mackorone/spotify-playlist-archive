@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : SenSey'
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,877 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,016 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Petit Bateau](https://open.spotify.com/track/04QT11kHiwh9SXVLnnuO8o) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Amaya](https://open.spotify.com/album/3cp9iXga7okjn8jR4U8OIg) | 2:59 |
+| 1 | [Petit Bateau](https://open.spotify.com/track/04QT11kHiwh9SXVLnnuO8o) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Amaya](https://open.spotify.com/album/3cp9iXga7okjn8jR4U8OIg) | 2:58 |
 | 2 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |
 | 3 | [Chimiyé](https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chimiyé](https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE) | 2:31 |
 | 4 | [La Pluie](https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [La Pluie](https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ) | 3:55 |

@@ -2365,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "Dale EP",
+        "url": "https://open.spotify.com/album/2Saf458Llop8Y1dXD8wmWY"
+      },
+      "artists": [
+        {
+          "name": "Julian Fox",
+          "url": "https://open.spotify.com/artist/0yygK6bOq3FSfYkkPlcRAK"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Dale - Radio Edit",
+      "url": "https://open.spotify.com/track/19oieimqB0yPGgksjs7AAR"
+    },
+    {
+      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq"
       },

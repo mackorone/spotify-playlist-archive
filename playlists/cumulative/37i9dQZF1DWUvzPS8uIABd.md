@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa BESS.
 
-556 songs - 1 day 3 hr 55 min
+557 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Fobia](https://open.spotify.com/track/4nVUbeIP3ywKHmkQWs76hH) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Fobia](https://open.spotify.com/album/7sBbhbLZNrLGNauoIkG7Qd) | 3:29 | 2024-07-02 | 2024-08-16 |
 | [Forever Young \(feat\. Joe L\)](https://open.spotify.com/track/6pG5I35avZEynviks1Cxjz) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Forever Young \(feat\. Joe L\)](https://open.spotify.com/album/43tslB3llPYF8ULFuwlgmJ) | 2:59 | 2024-11-07 | 2025-01-03 |
 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 | 2025-03-20 |  |
+| [H2O](https://open.spotify.com/track/2Gu3aoD9aHHmou6AuL0K71) | [Nuppu Oinas](https://open.spotify.com/artist/04EWHXfeAXqrKdqLA7bqxZ) | [H2O](https://open.spotify.com/album/3MomlB2MOvJ2oPE7LvIJXe) | 3:03 | 2025-05-09 |  |
 | [HAAVERI](https://open.spotify.com/track/43abPnVxTyDK7rg5EDXWKc) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [SEPPO MIXTAPE](https://open.spotify.com/album/6k0CnWRzKZDKb7BG4j6A1g) | 2:37 | 2025-01-23 | 2025-03-07 |
 | [Hajonneet](https://open.spotify.com/track/6NIVHos43HS850pmsXWzHy) | [Aksel Kankaanranta](https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2) | [Hajonneet](https://open.spotify.com/album/3OxmINoGWVzYpG4uqck89U) | 3:05 | 2024-09-26 | 2024-10-11 |
 | [Haloo](https://open.spotify.com/track/1iBB1eaWLm2B70LqUCdMZi) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Haloo](https://open.spotify.com/album/6yUjFKMT9jwzsq59fMfwcZ) | 2:43 | 2024-12-12 | 2025-03-07 |
@@ -243,7 +244,7 @@
 | [LOVE](https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [LOVE](https://open.spotify.com/album/02TBIc5O1840Y6VSa92gU5) | 2:26 | 2024-07-02 | 2024-07-12 |
 | [Luotathan](https://open.spotify.com/track/0hua7obC2aRxJdPkSoFKEu) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Luotathan](https://open.spotify.com/album/1JH90V2dgSBiHZbuCzgIIZ) | 3:20 | 2024-07-02 | 2025-04-25 |
 | [Luotui](https://open.spotify.com/track/4yS9DtA071UWfANL19iSwR) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Luotui](https://open.spotify.com/album/7I3MvufdcG1sI82L7HY3sU) | 2:57 | 2025-04-17 |  |
-| [Lupaa](https://open.spotify.com/track/4r6f4dtlUwxBnRn5vLss7t) | [Lore](https://open.spotify.com/artist/1vCDG4xpqfH2k0Gm29MyrB), [JAVE](https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS) | [Lupaa](https://open.spotify.com/album/2LGyGqvWTEzPqzJvDEHxrg) | 2:41 | 2025-04-24 |  |
+| [Lupaa](https://open.spotify.com/track/4r6f4dtlUwxBnRn5vLss7t) | [Lore](https://open.spotify.com/artist/1vCDG4xpqfH2k0Gm29MyrB), [JAVE](https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS) | [Lupaa](https://open.spotify.com/album/2LGyGqvWTEzPqzJvDEHxrg) | 2:41 | 2025-04-24 | 2025-05-10 |
 | [Lupaa et sä lähet](https://open.spotify.com/track/7MR91GiYTmxI5U9oKhqn9c) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Lupaa et sä lähet](https://open.spotify.com/album/3Z3oF6JddtFYHYMY3JFCct) | 3:23 | 2024-07-02 | 2024-08-23 |
 | [Lutkajenkka](https://open.spotify.com/track/3AfyderccqdtuLSTYAu3vv) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [Lutkajenkka](https://open.spotify.com/album/52ixbntmHugJHdcSwAtsiB) | 2:42 | 2024-07-11 | 2024-08-16 |
 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 | 2025-05-01 |  |

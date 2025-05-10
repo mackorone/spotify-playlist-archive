@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "EU TE AMO",
+        "url": "https://open.spotify.com/album/6lvxovwkQGcaTjWpBjS2GV"
+      },
+      "artists": [
+        {
+          "name": "CATTO",
+          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208959,
+      "name": "EU TE AMO",
+      "url": "https://open.spotify.com/track/3mhDxeYWwVUfxDNc51nOD4"
+    },
+    {
+      "album": {
         "name": "Pouso",
         "url": "https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 149646,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"

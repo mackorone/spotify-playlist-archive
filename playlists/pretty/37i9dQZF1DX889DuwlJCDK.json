@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30d6\u30e9\u30f3\u30c7\u30fc\u6226\u8a18",
-  "num_followers": 19186,
+  "num_followers": 19214,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
+        "name": "\u5357\u65b0\u753a",
+        "url": "https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "duration_ms": 247226,
+      "name": "\u5357\u65b0\u753a",
+      "url": "https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS"
+    },
+    {
+      "added_at": "2025-05-06 15:00:06",
+      "album": {
         "name": "\u30e9\u30b9\u30c8\u30e9\u30a4\u30d6",
         "url": "https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q"
       },
@@ -795,6 +811,54 @@
       "duration_ms": 196333,
       "name": "Lovey Dovey",
       "url": "https://open.spotify.com/track/0U3EVAfwbZdN93z7ICu9gI"
+    },
+    {
+      "added_at": "2025-05-06 15:00:06",
+      "album": {
+        "name": "tragedy",
+        "url": "https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "duration_ms": 163322,
+      "name": "tragedy",
+      "url": "https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd"
+    },
+    {
+      "added_at": "2025-05-06 15:00:06",
+      "album": {
+        "name": "\u5fd8\u611b",
+        "url": "https://open.spotify.com/album/1zyInbeCTglw09GThsJMps"
+      },
+      "artists": [
+        {
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 204667,
+      "name": "\u5fd8\u611b",
+      "url": "https://open.spotify.com/track/1a5xbhxEtN3Iz0CIgJPBgA"
+    },
+    {
+      "added_at": "2025-05-06 15:00:06",
+      "album": {
+        "name": "\u9283\u96fb\u4e2d",
+        "url": "https://open.spotify.com/album/3xJTbByKy6q3Suq4FM7tDw"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "duration_ms": 211900,
+      "name": "\u9283\u96fb\u4e2d",
+      "url": "https://open.spotify.com/track/1LxDnRK7p9eXuag3TB3GNF"
     },
     {
       "added_at": "2025-05-06 15:00:06",
@@ -835,54 +899,6 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
-        "name": "\u5fd8\u611b",
-        "url": "https://open.spotify.com/album/1zyInbeCTglw09GThsJMps"
-      },
-      "artists": [
-        {
-          "name": "Atarayo",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 204667,
-      "name": "\u5fd8\u611b",
-      "url": "https://open.spotify.com/track/1a5xbhxEtN3Iz0CIgJPBgA"
-    },
-    {
-      "added_at": "2025-05-06 15:00:06",
-      "album": {
-        "name": "\u9283\u96fb\u4e2d",
-        "url": "https://open.spotify.com/album/3xJTbByKy6q3Suq4FM7tDw"
-      },
-      "artists": [
-        {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
-        }
-      ],
-      "duration_ms": 211900,
-      "name": "\u9283\u96fb\u4e2d",
-      "url": "https://open.spotify.com/track/1LxDnRK7p9eXuag3TB3GNF"
-    },
-    {
-      "added_at": "2025-05-06 15:00:06",
-      "album": {
-        "name": "\u5357\u65b0\u753a",
-        "url": "https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N"
-      },
-      "artists": [
-        {
-          "name": "Haku.",
-          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "\u5357\u65b0\u753a",
-      "url": "https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS"
-    },
-    {
-      "added_at": "2025-05-06 15:00:06",
-      "album": {
         "name": "\u7d19\u98a8\u8239",
         "url": "https://open.spotify.com/album/1rdUrzr2C2iTVjdvBO9zPI"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 188922,
       "name": "\u30d5\u30e9\u30b8\u30e3\u30a4\u30eb\u30fb\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/4AgyrMwqCQc5wlWftTPwrZ"
-    },
-    {
-      "added_at": "2025-05-06 15:00:06",
-      "album": {
-        "name": "tragedy",
-        "url": "https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 163322,
-      "name": "tragedy",
-      "url": "https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd"
     },
     {
       "added_at": "2025-05-06 15:00:06",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
-        "name": "\u30b2\u30eb\u30cb\u30ab",
-        "url": "https://open.spotify.com/album/5SVwbcUEN25Jz9IlW0Ral6"
-      },
-      "artists": [
-        {
-          "name": "CLAN QUEEN",
-          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "\u30b2\u30eb\u30cb\u30ab",
-      "url": "https://open.spotify.com/track/5HS5UodfHqBq09VZG3unuk"
-    },
-    {
-      "added_at": "2025-05-06 15:00:06",
-      "album": {
         "name": "\u5143\u6c17\u3067\u3044\u3066\u306d\u3002",
         "url": "https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 169773,
       "name": "\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb",
       "url": "https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r"
+    },
+    {
+      "added_at": "2025-05-06 15:00:06",
+      "album": {
+        "name": "\u30b2\u30eb\u30cb\u30ab",
+        "url": "https://open.spotify.com/album/5SVwbcUEN25Jz9IlW0Ral6"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "\u30b2\u30eb\u30cb\u30ab",
+      "url": "https://open.spotify.com/track/5HS5UodfHqBq09VZG3unuk"
     },
     {
       "added_at": "2025-05-06 15:00:06",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
-        "name": "\u9006\u5149",
-        "url": "https://open.spotify.com/album/23dQlC3w5yTUu3bWhINSHi"
-      },
-      "artists": [
-        {
-          "name": "BILLY BOO",
-          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
-        }
-      ],
-      "duration_ms": 200472,
-      "name": "\u9006\u5149",
-      "url": "https://open.spotify.com/track/1Y02kNPlR4ZTfpTCKQLFvV"
-    },
-    {
-      "added_at": "2025-05-06 15:00:06",
-      "album": {
         "name": "\u30e9\u30a4\u30e0\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/3piJmNSSwqdmr6hZnqJwTg"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 167873,
       "name": "\u30e9\u30a4\u30e0\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/7seQjvjrQzh8OueltGeDgw"
+    },
+    {
+      "added_at": "2025-05-06 15:00:06",
+      "album": {
+        "name": "\u9006\u5149",
+        "url": "https://open.spotify.com/album/23dQlC3w5yTUu3bWhINSHi"
+      },
+      "artists": [
+        {
+          "name": "BILLY BOO",
+          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
+        }
+      ],
+      "duration_ms": 200472,
+      "name": "\u9006\u5149",
+      "url": "https://open.spotify.com/track/1Y02kNPlR4ZTfpTCKQLFvV"
     },
     {
       "added_at": "2025-05-06 15:00:06",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
-        "name": "I'm Your\u2026",
-        "url": "https://open.spotify.com/album/6rSllpWQ2yo871H83pdOTn"
-      },
-      "artists": [
-        {
-          "name": "No Buses",
-          "url": "https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6"
-        }
-      ],
-      "duration_ms": 132293,
-      "name": "I'm Your\u2026",
-      "url": "https://open.spotify.com/track/1eSn0YdWHnZ5EMrzjvt8Pi"
-    },
-    {
-      "added_at": "2025-05-06 15:00:06",
-      "album": {
         "name": "blanket",
         "url": "https://open.spotify.com/album/2uJrjDPR8OhKBmED2RhmKa"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
-        "name": "\u3075\u305f\u308a\u3058\u3081",
-        "url": "https://open.spotify.com/album/5XDbT8mrABEnxvjzZuy1vG"
+        "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/4RHVfs0r4wZ3MPwZMiMuWO"
       },
       "artists": [
         {
-          "name": "pachae",
-          "url": "https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI"
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
         }
       ],
-      "duration_ms": 264199,
-      "name": "\u3075\u305f\u308a\u3058\u3081",
-      "url": "https://open.spotify.com/track/4ZbVwJbpYar8i92dMtcE2R"
+      "duration_ms": 212266,
+      "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi"
     },
     {
       "added_at": "2025-05-06 15:00:06",
@@ -1299,18 +1283,34 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
-        "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/4RHVfs0r4wZ3MPwZMiMuWO"
+        "name": "I'm Your\u2026",
+        "url": "https://open.spotify.com/album/6rSllpWQ2yo871H83pdOTn"
       },
       "artists": [
         {
-          "name": "yutori",
-          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+          "name": "No Buses",
+          "url": "https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6"
         }
       ],
-      "duration_ms": 212266,
-      "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi"
+      "duration_ms": 132293,
+      "name": "I'm Your\u2026",
+      "url": "https://open.spotify.com/track/1eSn0YdWHnZ5EMrzjvt8Pi"
+    },
+    {
+      "added_at": "2025-05-06 15:00:06",
+      "album": {
+        "name": "\u3075\u305f\u308a\u3058\u3081",
+        "url": "https://open.spotify.com/album/5XDbT8mrABEnxvjzZuy1vG"
+      },
+      "artists": [
+        {
+          "name": "pachae",
+          "url": "https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI"
+        }
+      ],
+      "duration_ms": 264199,
+      "name": "\u3075\u305f\u308a\u3058\u3081",
+      "url": "https://open.spotify.com/track/4ZbVwJbpYar8i92dMtcE2R"
     },
     {
       "added_at": "2025-05-06 15:00:06",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
-        "name": "\u3072\u3068\u3064\u3060\u3051",
-        "url": "https://open.spotify.com/album/210GEsdXOa68MnyzasOufB"
+        "name": "Up",
+        "url": "https://open.spotify.com/album/3ZPDL5LdEkF5UmyiEaYrOu"
       },
       "artists": [
         {
-          "name": "hockrockb",
-          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
         }
       ],
-      "duration_ms": 247560,
-      "name": "\u3072\u3068\u3064\u3060\u3051",
-      "url": "https://open.spotify.com/track/3IxPzZUGIR7xJnDjjSy14W"
+      "duration_ms": 215467,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/6u8I0eP3J6GUF3ORCev4Um"
     },
     {
       "added_at": "2025-05-06 15:00:06",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/3ZPDL5LdEkF5UmyiEaYrOu"
+        "name": "\u3072\u3068\u3064\u3060\u3051",
+        "url": "https://open.spotify.com/album/210GEsdXOa68MnyzasOufB"
       },
       "artists": [
         {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+          "name": "hockrockb",
+          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
         }
       ],
-      "duration_ms": 215467,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/6u8I0eP3J6GUF3ORCev4Um"
+      "duration_ms": 247560,
+      "name": "\u3072\u3068\u3064\u3060\u3051",
+      "url": "https://open.spotify.com/track/3IxPzZUGIR7xJnDjjSy14W"
     },
     {
       "added_at": "2025-05-06 15:00:06",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
-        "name": "\u30aa\u30fc\u30eb\u30bf\u30a4\u30e0\u30e9\u30d6\u30e6\u30fc E.P.",
-        "url": "https://open.spotify.com/album/3YYe5r2XUyAYVcI9UC0fXo"
+        "name": "\u663c\u4e0b\u304c\u308a\u306e\u661f\u3001\u7d9a\u304f\u65c5\u8def",
+        "url": "https://open.spotify.com/album/7xRT0o3mBMKLdQ02vRJv07"
       },
       "artists": [
         {
-          "name": "the paddles",
-          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
         }
       ],
-      "duration_ms": 153786,
-      "name": "\u5026\u6020\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
-      "url": "https://open.spotify.com/track/4X1T4oalHzBKUj3gwsBPES"
+      "duration_ms": 224651,
+      "name": "\u65c5\u8def",
+      "url": "https://open.spotify.com/track/4DDn9TyqXKb8oatJEUzxAf"
     },
     {
       "added_at": "2025-05-06 15:00:06",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
-        "name": "\u663c\u4e0b\u304c\u308a\u306e\u661f\u3001\u7d9a\u304f\u65c5\u8def",
-        "url": "https://open.spotify.com/album/7xRT0o3mBMKLdQ02vRJv07"
-      },
-      "artists": [
-        {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
-        }
-      ],
-      "duration_ms": 224651,
-      "name": "\u65c5\u8def",
-      "url": "https://open.spotify.com/track/4DDn9TyqXKb8oatJEUzxAf"
-    },
-    {
-      "added_at": "2025-05-06 15:00:06",
-      "album": {
         "name": "\u30d0\u30e9\u30c3\u30c9",
         "url": "https://open.spotify.com/album/0sfhfT4oWTshVTikCkML90"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 304180,
       "name": "\u30d0\u30e9\u30c3\u30c9",
       "url": "https://open.spotify.com/track/7i7IIiQmG3aaPksXzN0xmq"
+    },
+    {
+      "added_at": "2025-05-06 15:00:06",
+      "album": {
+        "name": "\u30aa\u30fc\u30eb\u30bf\u30a4\u30e0\u30e9\u30d6\u30e6\u30fc E.P.",
+        "url": "https://open.spotify.com/album/3YYe5r2XUyAYVcI9UC0fXo"
+      },
+      "artists": [
+        {
+          "name": "the paddles",
+          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "\u5026\u6020\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+      "url": "https://open.spotify.com/track/4X1T4oalHzBKUj3gwsBPES"
     },
     {
       "added_at": "2025-05-06 15:00:06",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-05-06 15:00:06",
       "album": {
+        "name": "\u30a8\u30ad\u30b9\u30c8\u30e9",
+        "url": "https://open.spotify.com/album/4lUyJSKjpBpd15h5pP2TLL"
+      },
+      "artists": [
+        {
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
+        }
+      ],
+      "duration_ms": 196850,
+      "name": "\u30a8\u30ad\u30b9\u30c8\u30e9",
+      "url": "https://open.spotify.com/track/1GzJQkdWo8v4v21K0mEhHG"
+    },
+    {
+      "added_at": "2025-05-06 15:00:06",
+      "album": {
         "name": "AGAIN",
         "url": "https://open.spotify.com/album/6AEKlmz50QcOuLeIpPxuUE"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 206300,
       "name": "\u4f55\u8005",
       "url": "https://open.spotify.com/track/27FUEKrI5GK1JlBdvYVPRO"
-    },
-    {
-      "added_at": "2025-05-06 15:00:06",
-      "album": {
-        "name": "25\u6b73",
-        "url": "https://open.spotify.com/album/7pjylBBnITd6yocDyeE0pn"
-      },
-      "artists": [
-        {
-          "name": "the paddles",
-          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
-        }
-      ],
-      "duration_ms": 219754,
-      "name": "25\u6b73",
-      "url": "https://open.spotify.com/track/3LrLefCZ9ly0HZEHfYuhH7"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

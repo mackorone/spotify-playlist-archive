@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Indigo De Souza
+> Explore all things indie rock right now\. Featuring music from Spacey Jane
 
-1,878 songs - 4 day 9 hr 33 min
+1,883 songs - 4 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Are You In](https://open.spotify.com/track/5vVqAE6Y9LLXj7YoCxbeRM) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Are You In](https://open.spotify.com/album/2lyN14f6FTtvCL0ztt6Sxg) | 2:51 | 2023-05-05 | 2023-06-24 |
 | [Are You Looking Up](https://open.spotify.com/track/00uvWPbNBali6gKlZxUxIU) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Are You Looking Up / You got it](https://open.spotify.com/album/7l0sG15g8sYyDgebPA5UyX) | 2:46 | 2023-10-20 | 2024-03-09 |
 | [Are You Thinking of Me](https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F) | 2:35 | 2023-07-07 | 2023-08-05 |
-| [Are You Tired? \(Keep on Singing\)](https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Are You Tired? \(Keep on Singing\)](https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7) | 6:44 | 2025-02-07 |  |
+| [Are You Tired? \(Keep on Singing\)](https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Are You Tired? \(Keep on Singing\)](https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7) | 6:44 | 2025-02-07 | 2025-05-10 |
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-24 | 2025-02-22 |
 | [Armchair](https://open.spotify.com/track/2bULAzCJpIOvDeyfzjriYf) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Armchair](https://open.spotify.com/album/4HnE1gG5lH24ik2fnxaIoY) | 4:30 | 2022-10-28 | 2022-11-19 |
 | [Army Of Me](https://open.spotify.com/track/4RYc3RH9YZD6jn8k6h7aAW) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Army Of Me](https://open.spotify.com/album/3KXPsypHcb5a9taDnFWkFp) | 4:06 | 2021-06-07 | 2022-04-15 |
@@ -198,6 +198,7 @@
 | [biking to your house](https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [biking to your house](https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO) | 3:42 | 2022-08-26 | 2022-11-12 |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-09-30 | 2023-03-11 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-07 |  |
+| [Bitch Heart](https://open.spotify.com/track/1CU65NgKvZxUagOiq5m3fd) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Bitch Heart](https://open.spotify.com/album/4OR108JUFbFuyjdTNVuYIG) | 2:24 | 2025-05-09 |  |
 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 | 2022-07-29 | 2022-10-22 |
 | [biteback](https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [biteback](https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP) | 2:02 | 2022-12-02 | 2022-12-08 |
 | [Black Balloons](https://open.spotify.com/track/6GcGjg0IfSzcnlrATESE4S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Black Balloons](https://open.spotify.com/album/6i1eBfd25KyOdtOaZpeJxW) | 1:53 | 2023-10-20 | 2024-01-13 |
@@ -342,6 +343,7 @@
 | [CIGARETTES](https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [CIGARETTES](https://open.spotify.com/album/6iBfLlPGfEmgjF8HG9OkJd) | 2:04 | 2023-07-21 | 2023-08-10 |
 | [CIGARETTES](https://open.spotify.com/track/3mU9L9qqhMxRbXgMXUncig) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 2:04 | 2023-07-21 | 2023-12-02 |
 | [Circle of Death](https://open.spotify.com/track/31JFXsBWzLzsW8DQWrqtY6) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Anomaly II](https://open.spotify.com/album/6q4rT0kjP8zoMgfDwzz5ij) | 2:40 | 2025-03-07 |  |
+| [Circle of Trust](https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV) | 6:05 | 2025-05-09 |  |
 | [Circles](https://open.spotify.com/track/2t3DvNLlf0gvprC5cMmpJM) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/67erSRNw4PL7t6kO0lODOH) | 3:33 | 2023-10-27 | 2023-11-18 |
 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 | 2023-07-28 | 2023-08-15 |
 | [Circles](https://open.spotify.com/track/5uISR8YsSSO7eEQgoaXrXV) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:33 | 2023-07-28 | 2023-11-02 |
@@ -1009,6 +1011,7 @@
 | [long forgotten](https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [long forgotten](https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V) | 2:55 | 2023-12-15 | 2024-01-27 |
 | [Long Lost](https://open.spotify.com/track/3UogKIjMzKOTRN1VyuBZFP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5gEBQoKHOrgTXRLYMUKCly) | 4:44 | 2021-06-07 | 2022-06-06 |
 | [Lookin' Out](https://open.spotify.com/track/21xQGFDvSeCi2deid5YtaJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Lookin' Out](https://open.spotify.com/album/6sAuAVVo9Wi7K9eecv4txq) | 3:47 | 2023-06-30 | 2023-10-28 |
+| [Looking Back](https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Looking Back](https://open.spotify.com/album/5phyDbVHyJHbh8X5iRtL6h) | 3:55 | 2025-05-09 |  |
 | [Looking For Something](https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:09 | 2022-07-01 | 2023-03-04 |
 | [Looking For Something](https://open.spotify.com/track/3mwUT3bzPAfUlrmOEpkzof) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Looking For Something](https://open.spotify.com/album/3xz0bN9WajSRfvXnm7F9qy) | 3:09 | 2022-05-20 | 2022-09-03 |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2021-06-07 | 2022-06-11 |
@@ -1038,6 +1041,7 @@
 | [Low Era](https://open.spotify.com/track/0pLDhq4cKCN5xab9Y3Gg04) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Low Era](https://open.spotify.com/album/1TBlTbuSKgZ0YBY0AoU7yQ) | 4:14 | 2021-08-27 | 2022-04-21 |
 | [lowlife \- with kenny beats](https://open.spotify.com/track/0YANHO32xutrmLQA6JvYlq) | [dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [lowlife \(with kenny beats\)](https://open.spotify.com/album/2OC02zRmsQv7XjvCoOUkjn) | 2:23 | 2021-09-17 | 2022-04-15 |
 | [Lucky](https://open.spotify.com/track/6mTrJCo3VOX1ch8vBOthH5) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Lucky](https://open.spotify.com/album/7C5FxYoWzNaZg01isi7CA9) | 4:03 | 2022-06-10 | 2022-07-09 |
+| [Lucy](https://open.spotify.com/track/6O1vElqf77upV8az275UZs) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lucy](https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa) | 3:38 | 2025-05-09 |  |
 | [Lucy Takes a Picture](https://open.spotify.com/track/20vW1Ew2jU6mgOFrRZhUdN) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Lucy Takes a Picture](https://open.spotify.com/album/1dQQ661oLGGtZ1fC1dj6dx) | 4:19 | 2024-05-24 | 2024-08-24 |
 | [Lullaby for the Lost](https://open.spotify.com/track/6RiAFP0fZXb3Kobl90Tjoz) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Lullaby for the Lost](https://open.spotify.com/album/5xQO5kwMZSR5jGNa2Uait1) | 6:00 | 2024-09-13 | 2025-01-18 |
 | [Lunch](https://open.spotify.com/track/62R3oYh4gzAkBmEDN3qquI) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Shirt Expansion Pack](https://open.spotify.com/album/5yxwJLd5dNGSN4VFNVNt3i) | 2:09 | 2025-04-11 |  |
@@ -1811,6 +1815,7 @@
 | [What You Say](https://open.spotify.com/track/2uZeiDN9WNvkVdMe4gQPFv) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [What You Say](https://open.spotify.com/album/3rMMWol43O6nm4tNXamuSW) | 3:28 | 2021-06-11 | 2022-04-15 |
 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 | 2024-08-23 | 2025-01-11 |
 | [What's the Rush](https://open.spotify.com/track/3GymBFzWnaTpnxFm7fn7m1) | [Bikini Trill](https://open.spotify.com/artist/3th8l6KA9NpiXgf44Hrdd4) | [What's the Rush](https://open.spotify.com/album/71fQg0YnqJhqMSTnMHrV1u) | 2:54 | 2022-06-10 | 2022-06-25 |
+| [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 | 2025-05-09 |  |
 | [When He Comes Around](https://open.spotify.com/track/2ShbjyFjQJ6mRKy4NykDbU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [When He Comes Around](https://open.spotify.com/album/4Pw4LalZWzcnve0sH4ms1H) | 3:14 | 2024-12-20 | 2025-03-08 |
 | [When It Rains](https://open.spotify.com/track/1V20vefZTBfVRWsZHlL2sO) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [When It Rains](https://open.spotify.com/album/4O3VhOjF5bseqMZbUaj8EI) | 4:51 | 2023-10-20 | 2024-01-27 |
 | [Where Are You Later On, Forever?](https://open.spotify.com/track/0i6iYbKAfDa9i7daY9bC2c) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Where Are You Later On, Forever?](https://open.spotify.com/album/3a513I3mLfr7s2rze2CB9f) | 3:25 | 2023-12-01 | 2024-02-17 |

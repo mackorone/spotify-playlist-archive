@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Space Laces",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Casey Club ",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 173374,
       "name": "2 CLOSE",
       "url": "https://open.spotify.com/track/0fys26idW2pdPy4L3IbBtF"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 205700,
       "name": "All About Love",
       "url": "https://open.spotify.com/track/7j13ipXatVfPuqyVaun8vh"
@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "BLUNT SONG",
+        "url": "https://open.spotify.com/album/7zJ33XAlQAOCWMkx2nfKaS"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "BLUNT SONG",
+      "url": "https://open.spotify.com/track/4DtU9Pd6aqxfwFhQRaERIL"
+    },
+    {
+      "album": {
         "name": "Boarding Party",
         "url": "https://open.spotify.com/album/2hG59Objv4njdYDRnM3wvr"
       },
@@ -2504,6 +2522,24 @@
       "duration_ms": 220800,
       "name": "Break Sh*t",
       "url": "https://open.spotify.com/track/5f2biYeIAqyEFdgH5jXJJt"
+    },
+    {
+      "album": {
+        "name": "Bringing Me Down",
+        "url": "https://open.spotify.com/album/0YQQibok1aIWuO9T9glG6A"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "Bringing Me Down",
+      "url": "https://open.spotify.com/track/6mJcGqgOkA7hfGvAY5mHmI"
     },
     {
       "album": {
@@ -3080,7 +3116,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 218482,
       "name": "Capoz Web",
       "url": "https://open.spotify.com/track/1UgBECMPzU05r5X7QrNDH0"
@@ -5763,6 +5799,24 @@
     },
     {
       "album": {
+        "name": "Duel of the Fates",
+        "url": "https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202449,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp"
+    },
+    {
+      "album": {
         "name": "DUH",
         "url": "https://open.spotify.com/album/6XUrox8qCe1fBRuqMgRMO8"
       },
@@ -5902,6 +5956,28 @@
       "duration_ms": 264000,
       "name": "Eat Your Heart Out",
       "url": "https://open.spotify.com/track/2MymKtopdFwaGQfecL4rQY"
+    },
+    {
+      "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/0kCIr9OtiKlZiw4vZP0tLR"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200275,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/4FewsSaPCPDF6FW3RiDnUK"
     },
     {
       "album": {
@@ -7330,7 +7406,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 189926,
       "name": "Foul Tarnished",
       "url": "https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70"
@@ -8010,7 +8086,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 172610,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/0PyX0nNJjFCGPIMrlXUN1U"
@@ -8234,6 +8310,24 @@
       "duration_ms": 364800,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7"
+    },
+    {
+      "album": {
+        "name": "Grill",
+        "url": "https://open.spotify.com/album/1bh8ckNnpftZlrphTlt3XD"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180428,
+      "name": "Grill",
+      "url": "https://open.spotify.com/track/6Go977kCWKDYumXJwAikNl"
     },
     {
       "album": {
@@ -9616,6 +9710,28 @@
       "duration_ms": 256000,
       "name": "Ill",
       "url": "https://open.spotify.com/track/1jVCWMCgfWibathFUQbGq7"
+    },
+    {
+      "album": {
+        "name": "Impaired",
+        "url": "https://open.spotify.com/album/375RdrGEbAJOnu6l2PLxIT"
+      },
+      "artists": [
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        },
+        {
+          "name": "Dream Takers",
+          "url": "https://open.spotify.com/artist/320SOyq9aq6vAz2vP1un4m"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254548,
+      "name": "Impaired",
+      "url": "https://open.spotify.com/track/0bk86FmZR4sgcu8tyYw1CL"
     },
     {
       "album": {
@@ -13096,7 +13212,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 128000,
       "name": "Obey or Suffer",
       "url": "https://open.spotify.com/track/0QfrgIGuB8ufTN0Pls4aAM"
@@ -13260,7 +13376,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 250285,
       "name": "OLDE GUARDE",
       "url": "https://open.spotify.com/track/6ouMhta0VorcZeSu4auWhl"
@@ -18864,7 +18980,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 224000,
       "name": "The Power of Everything",
       "url": "https://open.spotify.com/track/0QCTSPch7uVA344JWcNlIu"
@@ -19462,6 +19578,24 @@
       "duration_ms": 223098,
       "name": "TOO TURNT",
       "url": "https://open.spotify.com/track/0HiMqVWdNGaeAD3duhbQYt"
+    },
+    {
+      "album": {
+        "name": "Torment",
+        "url": "https://open.spotify.com/album/4TO4IUmungjSg2ffFDgweZ"
+      },
+      "artists": [
+        {
+          "name": "Perry Wayne",
+          "url": "https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144706,
+      "name": "Torment",
+      "url": "https://open.spotify.com/track/61mIX3IdrWGdnz3rmZy6s0"
     },
     {
       "album": {
@@ -20914,6 +21048,24 @@
       "duration_ms": 212152,
       "name": "Where's the Score - Evol Intent Remix, KILL SAFARI REREMIX",
       "url": "https://open.spotify.com/track/51MgUt5ZhEP3FSMpt5cEZu"
+    },
+    {
+      "album": {
+        "name": "Grill",
+        "url": "https://open.spotify.com/album/1bh8ckNnpftZlrphTlt3XD"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "White Claw Wobbler",
+      "url": "https://open.spotify.com/track/76eClAD9WJR8GJiNxXmkwQ"
     },
     {
       "album": {

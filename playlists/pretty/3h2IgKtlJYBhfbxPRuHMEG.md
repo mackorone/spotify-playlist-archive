@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 504 likes - 60 songs - 3 hr 25 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 504 likes - 61 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 | 58 | [Rude Boy 22 \- Spotify Singles](https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 2:15 |
 | 59 | [My Favourite Dream](https://open.spotify.com/track/2UtkFuF09Bu0y7UIZnIx3I) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Tribe Alexander](https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv) | [My Favourite Dream](https://open.spotify.com/album/1a4ZSU5OGdzce2xLnbrwl4) | 3:52 |
 | 60 | [Bone Breaker](https://open.spotify.com/track/6t7QJBcI7xDcjKjRO4mBDf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Bone Breaker](https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx) | 3:22 |
+| 61 | [Telepathy](https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA) | [Telepathy](https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np) | 3:44 |
 
-Snapshot ID: `AAAEffYxWfFDp09yisvtB51HzM2NhTzk`
+Snapshot ID: `AAAEfltg06bF18io9i1U5jHacGBx9Lm5`

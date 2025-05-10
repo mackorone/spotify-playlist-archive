@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,689 likes - 115 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,682 likes - 115 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 84 | [想當你永遠的星辰](https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [想當你永遠的星辰](https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI) | 3:31 |
 | 85 | [我們有多不快樂](https://open.spotify.com/track/23R8OYYHeI7bZ8D9AdWllx) | [Lin Si Tong](https://open.spotify.com/artist/1FXhxn9AhnOPufmvvu7qGc) | [我們有多不快樂](https://open.spotify.com/album/2jqw7P6PGueXTEGSEbLjeo) | 4:16 |
 | 86 | [要是有天快樂被我用完](https://open.spotify.com/track/1kFPCLKNXe0e2mxv6kNhkv) | [周籽言](https://open.spotify.com/artist/6RQDtU5i2LRvZN3tSUv2aY) | [要是有天快樂被我用完](https://open.spotify.com/album/5ZtMb3bxT5TIUym8yUBwWq) | 3:56 |
-| 87 | [张三的歌 \- 音频纯享版](https://open.spotify.com/track/0x4Zcvgz7GzMGYtwW8wk8V) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb), [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [老有意思旅行社 \(第一次Live\)](https://open.spotify.com/album/2CHOSE8nTqEfWlA5uk0yN6) | 3:29 |
+| 87 | [張三的歌 \- 音頻純享版](https://open.spotify.com/track/0x4Zcvgz7GzMGYtwW8wk8V) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb), [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [老有意思旅行社 \(第一次Live\)](https://open.spotify.com/album/2CHOSE8nTqEfWlA5uk0yN6) | 3:29 |
 | 88 | [共生關係 \(LOV3Triangle\)](https://open.spotify.com/track/0cYuCjArno7CnfEFChi0NW) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW) | [共生關係 \(LOV3Triangle\)](https://open.spotify.com/album/0UKa7nLiew4NJTI5BkfsQm) | 2:44 |
 | 89 | [RNB没转音](https://open.spotify.com/track/7dcSnJ2uylKPvO9IrhsHws) | [罗森涛](https://open.spotify.com/artist/546mgYEW9y8zAt4u7SHxzi) | [RNB没转音](https://open.spotify.com/album/27Ul0KDsuaxx0zUoB47NvQ) | 2:39 |
 | 90 | [時時刻刻](https://open.spotify.com/track/4scbxO9opkszB4TzL1moIr) | [瑀禾](https://open.spotify.com/artist/7CMnTDS8VyLz3Irr8UzRiD) | [時時刻刻](https://open.spotify.com/album/1d8fU7gl4ZYC0RhgAWOckC) | 3:44 |

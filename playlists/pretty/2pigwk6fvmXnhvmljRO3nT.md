@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,068 songs - 18 day 9 hr 31 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,087 songs - 18 day 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7076,5 +7076,24 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7066 | [I Think They Call This Love](https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [I Think They Call This Love](https://open.spotify.com/album/5bZT73mZyTvxu3de7BBhEu) | 3:13 |
 | 7067 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
 | 7068 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 |
+| 7069 | [レイン](https://open.spotify.com/track/4hKUNjXvTRp1Xpv9n4O8IK) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [レイン](https://open.spotify.com/album/1GbrjrBv1o9AHZolbFP9Jw) | 4:16 |
+| 7070 | [asphyxia](https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:54 |
+| 7071 | [不可思議のカルテ 桜島麻衣 Ver.](https://open.spotify.com/track/6YK3SFRYD8LTWhBHCexpUA) | [桜島麻衣\(CV:瀬戸麻沙美\)](https://open.spotify.com/artist/1UVd8O92UvNlWjDCgnAkRo) | [不可思議のカルテ 桜島麻衣 Ver.](https://open.spotify.com/album/261CUUpbkLN9I63zoNeE82) | 4:02 |
+| 7072 | [不可思議のカルテ](https://open.spotify.com/track/2Zj2AqmjkgpBix8cZAu6iY) | [桜島麻衣\(CV:瀬戸麻沙美\)](https://open.spotify.com/artist/1UVd8O92UvNlWjDCgnAkRo), [古賀朋絵\(CV:東山奈央\)](https://open.spotify.com/artist/5OZyiM4ahXu9UvYTAlYB4O), [双葉理央\(CV:種﨑敦美\)](https://open.spotify.com/artist/6eKihY7H0iA3topHXLqp90), [豊浜のどか\(CV:内田真礼\)](https://open.spotify.com/artist/7DdzQQlRR7CLHpIN5aTQRw), [梓川かえで\(CV:久保ユリカ\)](https://open.spotify.com/artist/70zCpnNLeqMdVjIqDgTEiq), [牧之原翔子\(CV:水瀬いのり\)](https://open.spotify.com/artist/55qXosk4kvUWL7Iebn5wVh) | [【青春ブタ野郎はバニーガール先輩の夢を見ない】不可思議のカルテ](https://open.spotify.com/album/0dslBsevAhGQMxJF5xSn1S) | 3:59 |
+| 7073 | [残酷な天使のテーゼ \(Directors Edit Version\)](https://open.spotify.com/track/45tD5FiRiU91ya2H62j8cL) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/5EnGn7YuQxDoBb3DkJ2oPU) | 4:04 |
+| 7074 | [Guren no Yumiya](https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:10 |
+| 7075 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 |
+| 7076 | [上](https://open.spotify.com/track/5N5iImDfoQ4IF3YvXBpxPX) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 4:01 |
+| 7077 | [KISS OF DEATH（Produced by HYDE）](https://open.spotify.com/track/0ekGJQiqn1DzeZ3w5AsBoH) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Yuki No Hana 15th Anniversary Best Bible](https://open.spotify.com/album/5v7ZDQu5ysY9MRrH6wAXqv) | 4:08 |
+| 7078 | [You Say Run](https://open.spotify.com/track/0hHc2igYYlSUyZdByauJmB) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:48 |
+| 7079 | [チームの地力](https://open.spotify.com/track/0H5GCiZwJHZv8kdgwNCB3i) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 2:58 |
+| 7080 | [イマジネーション](https://open.spotify.com/track/1xc9r9pgQ3CG7iViKPf0cQ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 2:59 |
+| 7081 | [アイム・ア・ビリーバー](https://open.spotify.com/track/2gVEP5chQzs7pHEemZpMBO) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:37 |
+| 7082 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 |
+| 7083 | [Good Morning World!](https://open.spotify.com/track/6bfDSsy4wnpn6B0de8Qrbx) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BURNOUT SYNDROMEZ](https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa) | 4:09 |
+| 7084 | [ヒカリアレ](https://open.spotify.com/track/5WLaJoYalaASb9JB7Yk5U6) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 |
+| 7085 | [PHOENIX](https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BURNOUT SYNDROMEZ](https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa) | 4:06 |
+| 7086 | [LIFE](https://open.spotify.com/track/5JaYaJnVZ3ZCB4VLvfs3eR) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [23](https://open.spotify.com/album/2GzNbQgpNvnMaqT9hrCIrt) | 3:02 |
+| 7087 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
 
-Snapshot ID: `AAAF/ij3+1AYZ0gUelhRX9K7RV1GHEhb`
+Snapshot ID: `AAAGERsE9/lm7gO2xj81yAXXVzhRecrA`

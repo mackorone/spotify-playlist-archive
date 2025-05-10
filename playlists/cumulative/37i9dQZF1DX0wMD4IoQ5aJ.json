@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3KRzhy0ANx5X4V5hebVOpY"
+      },
+      "artists": [
+        {
+          "name": "Plomb",
+          "url": "https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160848,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5tOokq8ZNXKnecXEhW7Go0"
+    },
+    {
+      "album": {
         "name": "Ambianc\u00e9",
         "url": "https://open.spotify.com/album/2x2RQSYKdNFBIjf0lVascf"
       },
@@ -560,6 +578,24 @@
       "duration_ms": 274543,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6wHt80ii2pZjjffzLfM1mg"
+    },
+    {
+      "album": {
+        "name": "Back Into Fun",
+        "url": "https://open.spotify.com/album/0kjvybQTK6dqV84YtaeMM0"
+      },
+      "artists": [
+        {
+          "name": "Sunset-buff",
+          "url": "https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145694,
+      "name": "Back Into Fun",
+      "url": "https://open.spotify.com/track/7x8VKFBiTy1TgHAOn0bpIe"
     },
     {
       "album": {
@@ -1042,7 +1078,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 120000,
       "name": "Bright Red",
       "url": "https://open.spotify.com/track/306wpz1gZioEodOsqyc16i"
@@ -1280,6 +1316,24 @@
       "duration_ms": 172000,
       "name": "Catch Up",
       "url": "https://open.spotify.com/track/4wRSpt0ZILCSt8Wxco9l12"
+    },
+    {
+      "album": {
+        "name": "Catching Up With My Breath",
+        "url": "https://open.spotify.com/album/5GEduN1QsT99aCG3L66fFs"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156485,
+      "name": "Catching Up With My Breath",
+      "url": "https://open.spotify.com/track/2rZYvvEgUgYGH6B6fZYj1g"
     },
     {
       "album": {
@@ -1535,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Comforting",
+        "url": "https://open.spotify.com/album/1g4EuUFCpcnbrxNuFKAbaT"
+      },
+      "artists": [
+        {
+          "name": "Aneto",
+          "url": "https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153362,
+      "name": "Comforting",
+      "url": "https://open.spotify.com/track/4gZp2Ldwuy35nhoZbCvSA6"
+    },
+    {
+      "album": {
         "name": "Coquelicot",
         "url": "https://open.spotify.com/album/6i5EmMp0z55VIZsnZUSxLJ"
       },
@@ -1636,7 +1708,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 153846,
       "name": "Crisp Velvet",
       "url": "https://open.spotify.com/track/4EVeGsLzlWrOB7W2QGUCdM"
@@ -1726,7 +1798,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 181000,
       "name": "Cube Seat",
       "url": "https://open.spotify.com/track/2imYOSrNnKm5e3dQXtv3TQ"
@@ -2378,7 +2450,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 166797,
       "name": "Encounters",
       "url": "https://open.spotify.com/track/39PAf5P83sN0HQfFFe4OnM"
@@ -2504,7 +2576,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 188467,
       "name": "Eventide",
       "url": "https://open.spotify.com/track/3dZhAToKg4famFWbbqLT1m"
@@ -2868,7 +2940,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 273044,
       "name": "Funky Pants",
       "url": "https://open.spotify.com/track/4M3Ro7Zm7YwwOs0myAyNRX"
@@ -4211,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "Love Yourself",
+        "url": "https://open.spotify.com/album/65yFUkLNtk54lzOxh4ofKe"
+      },
+      "artists": [
+        {
+          "name": "LE OBAL",
+          "url": "https://open.spotify.com/artist/3L04IscPrn4iwZ4WaDO6QL"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144818,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/1lHREZoMexit8oiZSqs2zx"
+    },
+    {
+      "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/0BLFYHFRnY2pfviruJTP9H"
       },
@@ -4276,7 +4366,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 193200,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W"
@@ -4679,6 +4769,24 @@
     },
     {
       "album": {
+        "name": "My Chances",
+        "url": "https://open.spotify.com/album/59PZlSRWeeTdtYlqK84Y5k"
+      },
+      "artists": [
+        {
+          "name": "Poreniacs",
+          "url": "https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175010,
+      "name": "My Chances",
+      "url": "https://open.spotify.com/track/5XIaAOU2zFVE61XEiue7Qy"
+    },
+    {
+      "album": {
         "name": "My Input",
         "url": "https://open.spotify.com/album/49euhFKdAYk2ijhh8FnNyi"
       },
@@ -4784,6 +4892,24 @@
       "duration_ms": 127971,
       "name": "new job",
       "url": "https://open.spotify.com/track/0CNDAJO2dkVsIvChFbDZqD"
+    },
+    {
+      "album": {
+        "name": "New Number",
+        "url": "https://open.spotify.com/album/0NTfcon7qKdfszzbRrcskY"
+      },
+      "artists": [
+        {
+          "name": "Niriko",
+          "url": "https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "New Number",
+      "url": "https://open.spotify.com/track/2AA387qF18kyjAqIDEidvz"
     },
     {
       "album": {
@@ -6696,7 +6822,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 230000,
       "name": "Slow Rain",
       "url": "https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q"
@@ -6822,7 +6948,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 162560,
       "name": "Something Begins",
       "url": "https://open.spotify.com/track/0i7vB0HM4nTfC1yoo1Lbje"
@@ -7398,7 +7524,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 184090,
       "name": "The Brokers",
       "url": "https://open.spotify.com/track/21MHu6sVYAXJ5HCHznwVmV"
@@ -7834,7 +7960,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 193468,
       "name": "Vibe Ticket",
       "url": "https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN"

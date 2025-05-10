@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 527775,
+  "num_followers": 527909,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAABGr03DTKN7BxFvnOawBpac",
+  "snapshot_id": "aBv0AAAAAADqz3mPkMoRuvQXKSNB+eyJ",
   "tracks": [
     {
       "added_at": null,
@@ -255,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untouchables",
-        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 272920,
-      "name": "Thoughtless",
-      "url": "https://open.spotify.com/track/6HlFxHQ5nn6HYGxOOYIrLm"
+      "duration_ms": 200960,
+      "name": "A Different World (feat. Corey Taylor)",
+      "url": "https://open.spotify.com/track/3ns1Hn52RB28zGVHiFvz7W"
     },
     {
       "added_at": null,
@@ -287,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Serenity of Suffering",
-        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 200960,
-      "name": "A Different World (feat. Corey Taylor)",
-      "url": "https://open.spotify.com/track/3ns1Hn52RB28zGVHiFvz7W"
+      "duration_ms": 272920,
+      "name": "Thoughtless",
+      "url": "https://open.spotify.com/track/6HlFxHQ5nn6HYGxOOYIrLm"
     },
     {
       "added_at": null,

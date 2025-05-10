@@ -4,7 +4,7 @@
 
 > 
 
-439 songs - 1 day 1 hr 55 min
+440 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-10-20 | 2024-03-01 |
 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 | 2024-03-01 |  |
 | [Background Noise \- Edit](https://open.spotify.com/track/4wBUpvjmu7nj1pa9zByPvH) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Oli Hannaford](https://open.spotify.com/artist/44zNZPEa461Yw6Zz0JBxMM) | [Background Noise \(Edit\)](https://open.spotify.com/album/2FDpOMkxOHiornkmh2Ircd) | 2:54 | 2022-04-11 | 2022-04-21 |
-| [Backwards \- Dirty Danger Remix](https://open.spotify.com/track/01bm2bOFAqev8ISXyZPcTo) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Dirty Danger](https://open.spotify.com/artist/78lktX7XM4b5604M5Wq1YG) | [Backwards \(Dirty Danger Remix\)](https://open.spotify.com/album/7gJxO9sYE3Z3P6o2ZU11GP) | 2:21 | 2024-06-14 |  |
+| [Backwards \- Dirty Danger Remix](https://open.spotify.com/track/01bm2bOFAqev8ISXyZPcTo) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Dirty Danger](https://open.spotify.com/artist/78lktX7XM4b5604M5Wq1YG) | [Backwards \(Dirty Danger Remix\)](https://open.spotify.com/album/7gJxO9sYE3Z3P6o2ZU11GP) | 2:21 | 2024-06-14 | 2025-05-10 |
 | [Bad Seeds](https://open.spotify.com/track/0dPM5QtTPLYLOPo8Zp9aNa) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Bad Seeds](https://open.spotify.com/album/5QP5uWmiAIcOpTStPW3V86) | 3:00 | 2022-01-28 | 2024-01-04 |
 | [Banana Boi](https://open.spotify.com/track/0pB9kR7qSHU225mUgmFcQr) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Roof](https://open.spotify.com/album/4cyjeXid12wkCVsrmaIv2j) | 5:14 | 2022-01-14 | 2022-04-20 |
 | [Be Mine](https://open.spotify.com/track/3aVaG5q8TGWKW0T5JyLnvV) | [Rachel Foxx](https://open.spotify.com/artist/0t1kdZKkHiXCdjQBVbnN0a) | [Fluorescent](https://open.spotify.com/album/1LEDd1YdnbDUfbZ1uxstFL) | 3:53 | 2021-12-07 | 2022-04-17 |
@@ -110,6 +110,7 @@
 | [Debold](https://open.spotify.com/track/6TNBx9lvDcqLq1GQCPNJqH) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/50156iq4owa0BXegpAf1Mg) | 2:43 | 2021-12-07 | 2022-10-14 |
 | [Deep Blue](https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Deep Blue](https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY) | 3:16 | 2022-06-20 | 2024-03-01 |
 | [Deja Vu](https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Con Cook](https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v) | [Deja Vu](https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD) | 2:05 | 2025-02-20 |  |
+| [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-08 |  |
 | [Did She Know](https://open.spotify.com/track/5eUbSzFwUnT2eKMNZkzQk8) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Back for More \- EP](https://open.spotify.com/album/7jTVYwjkKRY9z6SfY6NfGa) | 3:34 | 2021-12-07 | 2022-04-19 |
 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 | 2024-09-19 |  |
 | [Distant Planets \(feat\. Kool Keith\)](https://open.spotify.com/track/44JdHEljHVRYYZYFqtAqHA) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [Kool Keith](https://open.spotify.com/artist/3zFaWPA8Jobgf5egh38KD2) | [Voyager](https://open.spotify.com/album/6inskjOXMnEFnxt0QUFFYu) | 4:44 | 2021-12-07 | 2022-07-12 |

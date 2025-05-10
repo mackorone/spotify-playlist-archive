@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Faud &amp; Wad, Nico &amp; Vinz ,Altego
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Tiesto, Odd Mobb &amp; Goodboys
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,460 likes - 103 songs - 5 hr 6 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,461 likes - 103 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 102 | [Changes](https://open.spotify.com/track/7c85rhgZ68cUiORoC33Yhz) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Changes](https://open.spotify.com/album/1gJLdjFptxsVUHp6PuCZoC) | 2:35 |
 | 103 | [Love Lift Me](https://open.spotify.com/track/6ihF045mQ2X4Je4YudZYi4) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu) | [Love Lift Me](https://open.spotify.com/album/1vdBwiAI49QQ60BThS94Hv) | 2:41 |
 
-Snapshot ID: `AAAsXLxCVzRUT21GcyyqWs1nV820la3K`
+Snapshot ID: `AAAsXcS8qTYtWGhCyen/P4ooggprw5ss`

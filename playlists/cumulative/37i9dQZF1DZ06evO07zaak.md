@@ -4,13 +4,14 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-60 songs - 5 hr 35 min
+62 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Great Day For Freedom 2022](https://open.spotify.com/track/08ZP6LzduiKEURYbNex8SH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/6A3OZcFfaYhUINlQU7McWU) | 4:07 | 2022-09-17 | 2022-10-13 |
 | [A New Machine, Pt\. 2](https://open.spotify.com/track/1gqS8bomGckIqmfDbavdHD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 0:39 | 2025-02-25 |  |
 | [A Pillow of Winds](https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:12 | 2022-09-17 |  |
+| [A Saucerful of Secrets \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/6H8bTyaMQLHM1edABS1MNf) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pink Floyd at Pompeii \- MCMLXXII \(2025 Mix\)](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI) | 10:10 | 2025-05-10 |  |
 | [Another Brick in the Wall, Pt\. 1](https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:12 | 2022-09-17 |  |
 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 | 2022-09-17 |  |
 | [Astronomy Domine](https://open.spotify.com/track/3Y8gNcoJu1uJ5L1BZuGvqB) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 4:11 | 2022-09-17 | 2022-10-13 |
@@ -36,11 +37,11 @@
 | [Marooned](https://open.spotify.com/track/6bIPHR8AJG5HAcn9oF21Ma) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 5:30 | 2022-09-17 |  |
 | [Money](https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:22 | 2022-09-17 |  |
 | [Mother](https://open.spotify.com/track/1GEOSS415bZVHNuXWlCT6b) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 5:34 | 2022-09-17 |  |
-| [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 | 2022-09-17 | 2022-10-13 |
+| [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 | 2022-09-17 |  |
 | [On the Turning Away](https://open.spotify.com/track/7KA6U0WOHdGxWWLGPYN2Sb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 5:41 | 2022-09-17 |  |
 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:17 | 2022-11-08 |  |
-| [One of These Days](https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:54 | 2022-09-17 | 2025-04-13 |
-| [One of These Days \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/10q3BFCZ61K1rvMZAYvqYi) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [One of These Days \(Live at Pompeii \- MCMLXXII \- 2025 Mix\)](https://open.spotify.com/album/5PtbJkcRsrP4ExckBuH91L) | 5:55 | 2025-04-13 |  |
+| [One of These Days](https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:54 | 2022-09-17 |  |
+| [One of These Days \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/10q3BFCZ61K1rvMZAYvqYi) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [One of These Days \(Live at Pompeii \- MCMLXXII \- 2025 Mix\)](https://open.spotify.com/album/5PtbJkcRsrP4ExckBuH91L) | 5:55 | 2025-04-13 | 2025-05-10 |
 | [Pigs \(Three Different Ones\)](https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 11:25 | 2022-09-17 |  |
 | [Pigs on the Wing 1](https://open.spotify.com/track/19tHmIQsRnebkyK09m2UXE) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 1:24 | 2022-09-17 |  |
 | [Poles Apart](https://open.spotify.com/track/6uE9hF8fIb6shBXrrzA12U) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 7:03 | 2022-09-17 |  |
@@ -48,6 +49,7 @@
 | [Round and Around](https://open.spotify.com/track/4GIq6ZUGqM8qRTJF1BOery) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 1:13 | 2023-06-22 | 2023-09-19 |
 | [San Tropez](https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 3:43 | 2022-09-17 |  |
 | [See Emily Play](https://open.spotify.com/track/1YZuigG1YcdgbfD7XJoCU5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Relics](https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw) | 2:53 | 2022-09-17 | 2022-10-02 |
+| [Set the Controls for the Heart of the Sun \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/4Ik6MZgx9KiJpslsXJBn1j) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pink Floyd at Pompeii \- MCMLXXII \(2025 Mix\)](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI) | 10:29 | 2025-05-10 |  |
 | [Sheep](https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 10:19 | 2022-09-17 |  |
 | [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:31 | 2022-09-17 |  |
 | [Side 2, Pt\. 3: Unsung](https://open.spotify.com/track/6St7hjIG2njuG5Zck8vK4Q) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Endless River](https://open.spotify.com/album/0fXAlQ9wTG2glNJvZEkBZc) | 1:06 | 2022-10-14 | 2023-02-02 |

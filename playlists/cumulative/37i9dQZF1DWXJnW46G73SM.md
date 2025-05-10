@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: فريد
 
-1,456 songs - 3 day 9 hr 24 min
+1,457 songs - 3 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [Lama El Waat Yekhlas \- لما الوقت يخلص](https://open.spotify.com/track/71hKEpvELYUmzgMWXuv18Q) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Lama El Waat Yekhlas \- لما الوقت يخلص](https://open.spotify.com/album/0PDM2uTkZjylHhBcCuG0Zs) | 2:48 | 2023-08-01 | 2023-08-25 |
 | [Lama kont soghayer](https://open.spotify.com/track/4Ub9lUKMl4ae0tLDMpqCBx) | [Shady Shamel](https://open.spotify.com/artist/1vJHplJeBXGKfMzvQrldkb) | [Lama kont soghayer](https://open.spotify.com/album/4nqKCa79eGrrz2CwfIfvcs) | 3:53 | 2022-03-03 | 2022-06-21 |
 | [Lama Lama](https://open.spotify.com/track/38S0fH9jnwtYUpMXd28fNU) | [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Lama Lama](https://open.spotify.com/album/7Dx9UZUcqKeOyakfB84Bxw) | 3:15 | 2022-09-20 | 2022-09-22 |
+| [LAMA TROU2](https://open.spotify.com/track/1HUvF8RK92osBInwE1epTG) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LAMA TROU2](https://open.spotify.com/album/65scTQsaErZPAsaxKzjd31) | 3:16 | 2025-05-09 |  |
 | [Lamahtek](https://open.spotify.com/track/36St3HGIItlMOMcm0FIMgE) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Lamahtek](https://open.spotify.com/album/4GfHTt5RVqAvUfqHpVWRKb) | 2:26 | 2024-12-13 | 2025-01-24 |
 | [Lammet El Habayeb](https://open.spotify.com/track/1oxr8IrrgSGAMaucBGd39R) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [Lammet El Habayeb](https://open.spotify.com/album/6gIEqHPHvN0jPbRc6yG5b3) | 3:30 | 2023-08-09 | 2023-08-25 |
 | [Las3een](https://open.spotify.com/track/3WPTSU26DSleASJCRSpoqz) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:58 | 2023-05-10 | 2023-05-12 |
@@ -1389,7 +1390,7 @@
 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 | 2023-01-03 | 2023-02-17 |
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 | 2023-06-23 | 2023-07-26 |
 | [هروني بوس](https://open.spotify.com/track/5u4uB8pojwUBSgqMVuomHs) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [هروني بوس](https://open.spotify.com/album/14RamPJelhtmLOxa1pEdNP) | 3:31 | 2023-09-28 | 2024-01-05 |
-| [هظبط بيت](https://open.spotify.com/track/0zQdHWdpti9UH0GbQMhQ9F) | [Yahia Alaa](https://open.spotify.com/artist/2gX2GqX7m8cUJILhJp0NVa) | [هظبط بيت](https://open.spotify.com/album/1uDQA2tCjzjAXslU8kXB7a) | 2:45 | 2025-02-14 |  |
+| [هظبط بيت](https://open.spotify.com/track/0zQdHWdpti9UH0GbQMhQ9F) | [Yahia Alaa](https://open.spotify.com/artist/2gX2GqX7m8cUJILhJp0NVa) | [هظبط بيت](https://open.spotify.com/album/1uDQA2tCjzjAXslU8kXB7a) | 2:45 | 2025-02-14 | 2025-05-10 |
 | [هنتقابل بعدين](https://open.spotify.com/track/4zyDUiz5Z19Gt93O4xFRpY) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [هنتقابل بعدين](https://open.spotify.com/album/474Bf3FITUcUkns8TzeXd4) | 4:29 | 2022-03-09 | 2022-07-02 |
 | [هنخربها](https://open.spotify.com/track/46b56o9gUwcgJRXBhIDNTK) | [Amina](https://open.spotify.com/artist/5oqJdJiiqwYKUk1U4kFB2w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [هنخربها](https://open.spotify.com/album/4FrsIKy8Zo8uXTc91brfIb) | 5:16 | 2024-08-13 | 2024-10-04 |
 | [هنساك انا](https://open.spotify.com/track/3toiLGp03KdsNSI6EKCiPg) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [هنساك انا](https://open.spotify.com/album/2Gn06PN0HM3AOUWAu2vfLl) | 3:22 | 2024-12-13 | 2025-01-17 |

@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-346 songs - 19 hr 19 min
+347 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [In Love With The Sky](https://open.spotify.com/track/7vD2PASnOKJssyqoRYggbS) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Soothing Breeze](https://open.spotify.com/album/5pDZOibwnpWmH0jFyZVGz6) | 2:42 | 2024-07-02 | 2025-01-27 |
 | [In the Roses](https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Moonlit Tales](https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h) | 3:18 | 2024-07-02 |  |
 | [in your arms](https://open.spotify.com/track/4fgIoBKHzO7YO5eATyYbMl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/5nNs8PotoPHT8MDTHD9wD5) | 4:37 | 2024-07-02 | 2025-05-02 |
+| [Inevitability](https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R) | [Tido Kang](https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE) | [Flying Petals](https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A) | 3:04 | 2025-05-09 |  |
 | [Into the Reverie](https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Blissful Dreams](https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd) | 2:36 | 2024-07-02 |  |
 | [Ishi](https://open.spotify.com/track/0kD4DaTdwjJdpnLs0Jl7Mb) | [Maiso Linua](https://open.spotify.com/artist/5xtRy4a2R7tyIVuFv9lGwd) | [Ishi](https://open.spotify.com/album/7qLb3Qj6ziLGjFMtzgpLg1) | 1:53 | 2025-05-02 |  |
 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-30 | 2022-07-28 |
@@ -179,7 +180,7 @@
 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 | 2023-01-25 | 2024-06-22 |
 | [Maudie](https://open.spotify.com/track/7qcdtKc7dflDG35ieESgo9) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:04 | 2022-05-03 | 2022-07-29 |
 | [Mind Pool](https://open.spotify.com/track/4imLlC6vDXkcrQAngZkcac) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Time In Motion](https://open.spotify.com/album/0Nf8o7le6bPuEi27tuEYSL) | 1:34 | 2024-07-02 |  |
-| [miracle](https://open.spotify.com/track/47mAzBWrGWnIUs3WEiGF5O) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Planet Zen](https://open.spotify.com/album/2sgyPMR2h2mYJMAb8Xbg6F) | 3:30 | 2024-07-02 |  |
+| [miracle](https://open.spotify.com/track/47mAzBWrGWnIUs3WEiGF5O) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Planet Zen](https://open.spotify.com/album/2sgyPMR2h2mYJMAb8Xbg6F) | 3:30 | 2024-07-02 | 2025-05-10 |
 | [Miso](https://open.spotify.com/track/6dIgNPbGc6tsl2BofmRPUa) | [Shiitaki](https://open.spotify.com/artist/0nzcDWQ95e9yOxs81NUpQ8) | [Miso](https://open.spotify.com/album/6rNinkR51S3ThVRoEZ0ic6) | 2:09 | 2024-07-02 |  |
 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 | 2022-05-03 | 2024-07-03 |
 | [Modern Times](https://open.spotify.com/track/5fClGwV57GC2efm64bJ5Mm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:25 | 2022-05-03 | 2022-09-09 |

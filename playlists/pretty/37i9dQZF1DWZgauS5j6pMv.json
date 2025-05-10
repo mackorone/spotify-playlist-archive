@@ -1,13 +1,33 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 342421,
+  "num_followers": 342413,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDVQAAAAAm8wPGYr5/D8Ls6sbM226O",
+  "snapshot_id": "aB194QAAAACRd9xUU3GbGviwyaK5srp/",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:33",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/7LPe3LbfSNFJV2moPmTQ5a"
+      },
+      "artists": [
+        {
+          "name": "The Past",
+          "url": "https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 170347,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/2vYgFRmLq7aLthkajUfpUh"
+    },
     {
       "added_at": "2025-05-02 04:00:21",
       "album": {
@@ -1867,26 +1887,6 @@
       "duration_ms": 211493,
       "name": "Heavy (Wake the Wild Remix)",
       "url": "https://open.spotify.com/track/2HStqTtRnHeqwNoq2lvdsh"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/3DKc2EtHI0ssLoQV27enK9"
-      },
-      "artists": [
-        {
-          "name": "The Past",
-          "url": "https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        }
-      ],
-      "duration_ms": 147187,
-      "name": "WAIT",
-      "url": "https://open.spotify.com/track/5wXBM2qHSD47ezJQvD4xf2"
     },
     {
       "added_at": "2024-01-12 05:01:00",

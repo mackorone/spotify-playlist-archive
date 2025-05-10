@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Zamdane
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,480 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,492 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 25 | [CHAMBRE 224](https://open.spotify.com/track/2OI8MyNCKw1YE9bTP91Eb4) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq) | [Comment T'aimer Sans Diamants ?](https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7) | 3:09 |
 | 26 | [Libre\-penseur](https://open.spotify.com/track/76r0QoAnrdoeyYWJ1lxYru) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Libre\-penseur](https://open.spotify.com/album/4EtqSIW7iI4jnck9OEMOwZ) | 2:32 |
 | 27 | [Nouveau monde](https://open.spotify.com/track/5KHquvEFCMV0DAEEfl4gMe) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA), [Furax Barbarossa](https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa) | [Nouveau Monde](https://open.spotify.com/album/3zmM7KPFr8Vir4uXgFob1w) | 4:22 |
-| 28 | [Fire](https://open.spotify.com/track/2JcWgw4KjgmQNj4AXYe8sw) | [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan), [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [Fire](https://open.spotify.com/album/1mvyUzFKaxjf0qrAXXbfUd) | 3:17 |
+| 28 | [Fire](https://open.spotify.com/track/2JcWgw4KjgmQNj4AXYe8sw) | [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan), [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [Fire](https://open.spotify.com/album/1mvyUzFKaxjf0qrAXXbfUd) | 2:58 |
 | 29 | [À PLUS TARD](https://open.spotify.com/track/5JHI1Sh8ZnErxLA7Z6KkiK) | [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi), [Jewel Usain](https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6) | [HIVER AUTOMNE](https://open.spotify.com/album/2h9FjQnnf9LAVYfE1wrr9K) | 3:12 |
 | 30 | [Trop tard pour hier](https://open.spotify.com/track/5CjuZbtXEqCVX4wfGBrBaE) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [Métanoïa](https://open.spotify.com/album/2oPmxZ0QHNV1eQrmL4hFoG) | 3:56 |
 | 31 | [LUEUR D'ESPOIR](https://open.spotify.com/track/1CCsdrc8QT6kFzm0LggO2l) | [C.O.R](https://open.spotify.com/artist/6COtnkYhmRVdsDXhSGYtBO) | [LUEUR D'ESPOIR](https://open.spotify.com/album/38mkXQseJ2zu9M2qn7Lezc) | 1:16 |

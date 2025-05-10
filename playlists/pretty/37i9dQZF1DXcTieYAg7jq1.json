@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: grentperez",
-  "num_followers": 419179,
+  "num_followers": 418994,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDWgAAAABoAwM3u74e6iBQ6JJwMRMX",
+  "snapshot_id": "aB19wwAAAACmeKVY54/VWQfBxoBpo0Dc",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:03",
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187455,
+      "name": "All I Can Say",
+      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
+    },
     {
       "added_at": "2025-05-02 04:00:26",
       "album": {
@@ -1159,22 +1175,6 @@
       "duration_ms": 194999,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
-        "name": "Party City",
-        "url": "https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo"
-      },
-      "artists": [
-        {
-          "name": "Sir Woman",
-          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
-        }
-      ],
-      "duration_ms": 260308,
-      "name": "Party City",
-      "url": "https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO"
     },
     {
       "added_at": "2023-02-17 05:01:00",

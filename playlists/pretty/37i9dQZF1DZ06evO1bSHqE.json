@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 902420,
+  "num_followers": 902574,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAABIX943DZzQiWOBO34ltRr4",
+  "snapshot_id": "aBv0AAAAAAD6tRws8RrJOnfkB9W0Xcko",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory (Deluxe)",
-        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Slumber Party",
-      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oops!... I Did It Again",
         "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 230933,
       "name": "Don't Let Me Be the Last to Know",
       "url": "https://open.spotify.com/track/3OitWDgR4SzAUOm3TBmvhw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Slumber Party",
+      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 201906,
-      "name": "Outrageous",
-      "url": "https://open.spotify.com/track/2vPCRs3g0vdLU8sHlAEytO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oops!... I Did It Again",
         "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 216706,
       "name": "What U See (Is What U Get)",
       "url": "https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 201906,
+      "name": "Outrageous",
+      "url": "https://open.spotify.com/track/2vPCRs3g0vdLU8sHlAEytO"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 239213,
-      "name": "Kill the Lights",
-      "url": "https://open.spotify.com/track/263w5yLLnexUUOMc5Py9m5"
+      "duration_ms": 223533,
+      "name": "Don't Go Knockin' on My Door",
+      "url": "https://open.spotify.com/track/3HTkB9Nk04MJHkG0X6cL2R"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "Kill the Lights",
+      "url": "https://open.spotify.com/track/263w5yLLnexUUOMc5Py9m5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Britney Jean (Deluxe Version)",
         "url": "https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 239973,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/0DOgMeHlNponAEqczZoxX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Don't Go Knockin' on My Door",
-      "url": "https://open.spotify.com/track/3HTkB9Nk04MJHkG0X6cL2R"
     },
     {
       "added_at": null,

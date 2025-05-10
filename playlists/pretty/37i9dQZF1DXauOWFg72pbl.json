@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 592823,
+  "num_followers": 592833,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 211226,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
     },
     {
       "added_at": "2025-04-07 23:29:17",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
-        "name": "Threat to Survival",
-        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "State of My Head",
-      "url": "https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 242560,
       "name": "Lydia",
       "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
+        "name": "Threat to Survival",
+        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "State of My Head",
+      "url": "https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ"
     },
     {
       "added_at": "2025-04-07 23:29:17",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 183602,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
         "name": "The Night Before",
         "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 154612,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
     },
     {
       "added_at": "2025-04-07 23:29:17",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
-        "name": "Above the Lake",
-        "url": "https://open.spotify.com/album/43ssEdj6oI46JShIwZaEqX"
-      },
-      "artists": [
-        {
-          "name": "James and the Cold Gun",
-          "url": "https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "Above the Lake",
-      "url": "https://open.spotify.com/track/1pLIbMtWDbTu8AL2om5ooP"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
         "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
         "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 185286,
       "name": "Surf Wax America - Spotify Anniversaries Version - Live",
       "url": "https://open.spotify.com/track/6HHVEg2gVXgqPpDaE5sLVr"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
+        "name": "Above the Lake",
+        "url": "https://open.spotify.com/album/43ssEdj6oI46JShIwZaEqX"
+      },
+      "artists": [
+        {
+          "name": "James and the Cold Gun",
+          "url": "https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "Above the Lake",
+      "url": "https://open.spotify.com/track/1pLIbMtWDbTu8AL2om5ooP"
     },
     {
       "added_at": "2025-04-07 23:29:17",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 272394,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/3jfr0TF6DQcOLat8gGn7E2"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 262733,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/40Gxnw5Vc8hnhGFknXHe3R"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
-        "name": "JACK",
-        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 168630,
-      "name": "JACK",
-      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
     }
   ],
   "unique_name": "Beer & Wings",

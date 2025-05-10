@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/7mmj9Kh2WmbKIs7eEQlGwM"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229373,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy"
+    },
+    {
+      "album": {
         "name": "Viva The Underdogs",
         "url": "https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb"
       },

@@ -2,9 +2,9 @@
 
 ### [Templo do Rock](https://open.spotify.com/playlist/37i9dQZF1DWZ0BlvV9acBN)
 
-> Grandes sucessos e novidades do rock Cristão\. Foto: AtituD
+> Grandes sucessos e novidades do rock Cristão\. Foto: PG, Fernandinho
 
-185 songs - 14 hr 15 min
+186 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,8 +142,9 @@
 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP) | 6:22 | 2022-09-02 | 2024-04-19 |
 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/6lVXZ4l8g3rm2WXOTAFHAV) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/466qdSihFolGNRfdnRLuuS) | 6:22 | 2024-04-19 | 2024-06-08 |
 | [Onde Está \- Ao Vivo](https://open.spotify.com/track/5VMjo4JUWyByKT3CC3IqGL) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Humanos Tour \(Ao Vivo\)](https://open.spotify.com/album/2OFNDyf4xI5tATMjLjV87T) | 5:07 | 2024-05-10 | 2024-06-29 |
-| [ONDE O MEL É MAIS DOCE](https://open.spotify.com/track/2xR7kLS3UaCgrNwvb3AdUf) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN), [Victor Pradella](https://open.spotify.com/artist/2Slv8k7ck4Sq0KagBloxQR), [Arele](https://open.spotify.com/artist/5xzpcH7QlPDbBinEa2s348) | [ONDE O MEL É MAIS DOCE](https://open.spotify.com/album/5GipGJnJt75xXx4O4faAf4) | 5:04 | 2024-09-27 |  |
+| [ONDE O MEL É MAIS DOCE](https://open.spotify.com/track/2xR7kLS3UaCgrNwvb3AdUf) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN), [Victor Pradella](https://open.spotify.com/artist/2Slv8k7ck4Sq0KagBloxQR), [Arele](https://open.spotify.com/artist/5xzpcH7QlPDbBinEa2s348) | [ONDE O MEL É MAIS DOCE](https://open.spotify.com/album/5GipGJnJt75xXx4O4faAf4) | 5:04 | 2024-09-27 | 2025-05-10 |
 | [Onde Tem Lenha](https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Onde Tem Lenha](https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI) | 9:54 | 2022-09-02 |  |
+| [Oração](https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Oração](https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR) | 4:04 | 2025-05-09 |  |
 | [Os Que Confiam \- Live](https://open.spotify.com/track/09iuGgLJ4mr4bLjLvRptye) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 5:38 | 2023-04-15 | 2025-04-15 |
 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 | 2022-09-02 |  |
 | [Palavra Que Liberta](https://open.spotify.com/track/1U6LHz1vv8ZMdlMuCNusOf) | [William Graziane](https://open.spotify.com/artist/1d6bwuv0gGdrJbheeMwzip) | [Palavra Que Liberta](https://open.spotify.com/album/3Hr4GvmwDl0cZoThZAAyAO) | 4:24 | 2023-08-18 | 2023-09-16 |

@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-156 songs - 8 hr 21 min
+157 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Brunette](https://open.spotify.com/track/4bAF0unJk6N9oeBhhRinJX) | [cieratherapper](https://open.spotify.com/artist/7kFzZsHkdwMd3lUUy5K9RD) | [Brunette](https://open.spotify.com/album/4j0cfz5h3Duqjumo0DJj6I) | 2:48 | 2025-03-28 |  |
 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 | 2023-07-21 |  |
 | [Bury Me With Bourbon](https://open.spotify.com/track/0wBLVgwVRCRUr4YKf126Ou) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Bury Me With Bourbon](https://open.spotify.com/album/0C3r7rvvipfjt7wS29BTvk) | 2:48 | 2023-08-18 |  |
+| [Camo and Chrome](https://open.spotify.com/track/4uT25AfDvkjcU9Sh8mplAg) | [501Bryze](https://open.spotify.com/artist/0C07HpMBzSy9NWj98eod3R) | [Camo and Chrome](https://open.spotify.com/album/7zeiOJNPaDPDhT1O9KYCfq) | 2:45 | 2025-05-09 |  |
 | [Campfire Cologne](https://open.spotify.com/track/1fslCOmxtyPvE55p3KVTWY) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Jones In Ya Speaker](https://open.spotify.com/album/0CehH8vI5ZodVx7U88ArOk) | 3:16 | 2023-03-17 |  |
 | [Can't Take My Hometown](https://open.spotify.com/track/0ebCxstXoGh2gQ81SaRCku) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb) | [Pour Decisions](https://open.spotify.com/album/58ChYckljCDpVg5HEHecaM) | 4:35 | 2023-07-14 | 2024-09-21 |
 | [Candle](https://open.spotify.com/track/4rkxahIIMkM9Fr13vbAcTm) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Candle](https://open.spotify.com/album/0Gyq0My9Ft0vWtyiPUQRez) | 2:51 | 2025-02-28 |  |
@@ -53,7 +54,7 @@
 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 | 2023-03-17 | 2023-05-27 |
 | [Cowboy Capone](https://open.spotify.com/track/57pR0VkO0rLLUZCsyhpg8k) | [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Cowboy Capone](https://open.spotify.com/album/0Cy64A0Me95BhPop86hQFl) | 3:11 | 2023-09-29 |  |
 | [Crocodile Hunter](https://open.spotify.com/track/3DLobnxKerFxxuKCK5VAIG) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [Crocodile Hunter](https://open.spotify.com/album/2zVNTo9y6TcUqlCqnljvpe) | 2:18 | 2023-08-04 |  |
-| [Dead or Alive](https://open.spotify.com/track/1oQoh3CDv3BeHSmDOPBQc4) | [AMAG](https://open.spotify.com/artist/4Rs9SGqGgto5ZNlfyfq0as) | [Dead or Alive](https://open.spotify.com/album/4kIiPqdL8sxZd1A1QJbRiW) | 2:26 | 2025-02-07 |  |
+| [Dead or Alive](https://open.spotify.com/track/1oQoh3CDv3BeHSmDOPBQc4) | [AMAG](https://open.spotify.com/artist/4Rs9SGqGgto5ZNlfyfq0as) | [Dead or Alive](https://open.spotify.com/album/4kIiPqdL8sxZd1A1QJbRiW) | 2:26 | 2025-02-07 | 2025-05-10 |
 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 | 2023-03-17 |  |
 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 | 2023-03-17 |  |
 | [Dirt Road](https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dirt Road](https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo) | 2:45 | 2023-03-17 |  |

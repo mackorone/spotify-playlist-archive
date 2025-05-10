@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 136 songs - 14 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 789 likes - 136 songs - 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 104 | [just me](https://open.spotify.com/track/6QOiI0kvrtaAVSaqppv73q) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:04 |
 | 105 | [Just A Man](https://open.spotify.com/track/6QQ7XXL8SziyZhKgbJ0Daa) | [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Just A Man](https://open.spotify.com/album/2sPScDrk3M7ONCQ3984IVi) | 3:36 |
 | 106 | [love is in the air](https://open.spotify.com/track/3qbaSpC8DRPTDR9xShNMIR) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 4:06 |
-| 107 | [good times](https://open.spotify.com/track/0zzvxMOirxssLMF1vVJtca) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:47 |
-| 108 | [We Are the Kingdom](https://open.spotify.com/track/0fwoTobE6n5lxdHUiGhzY7) | [Seacoast](https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [We Are the Kingdom](https://open.spotify.com/album/1ZXnvK9vnRdOsbocOM1TGH) | 4:31 |
+| 107 | [We Are the Kingdom](https://open.spotify.com/track/0fwoTobE6n5lxdHUiGhzY7) | [Seacoast](https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [We Are the Kingdom](https://open.spotify.com/album/1ZXnvK9vnRdOsbocOM1TGH) | 4:31 |
+| 108 | [good times](https://open.spotify.com/track/0zzvxMOirxssLMF1vVJtca) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:47 |
 | 109 | [Get Back To The Well](https://open.spotify.com/track/0KoEDTYICyNnNjIh5mYTaJ) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Nate Moore](https://open.spotify.com/artist/6hxp9zz5Y5d8Htno5hpk66) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:44 |
 | 110 | [Cast My Cares](https://open.spotify.com/track/0jGFiSskGornBEhfkdmd8R) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:19 |
 | 111 | [family tree](https://open.spotify.com/track/0nJLiVml1I1OMJfCt4hB3d) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:56 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 135 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 136 | [Champion/Gratitude \- Live](https://open.spotify.com/track/7C29F2bxN0l5E6p8XMk32U) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/3ipf9dH4349UTXQQD0yRVH) | 10:46 |
 
-Snapshot ID: `Abw5SgAAAAAQIiNt6UgUX2Ih350DryGq`
+Snapshot ID: `Abw+6gAAAABTN+TrkRWzN6Zg4gkc5/Jx`

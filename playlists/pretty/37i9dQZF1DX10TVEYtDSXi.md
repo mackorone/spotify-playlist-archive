@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,830 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,832 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LXS](https://open.spotify.com/track/4fCJv65IdSElmOyjsDEvRO) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [LXS](https://open.spotify.com/album/4vl1NroeMspg0dBvg19dnt) | 3:32 |
-| 2 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 |
-| 3 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
+| 2 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
+| 3 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 |
 | 4 | [Vitamin](https://open.spotify.com/track/2bk8MeKPbwWc9Iwv4qjz7U) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL), [Emilia Hugrun](https://open.spotify.com/artist/0AiC3SnI4tn1XTyVCuF6A3) | [Vitamin](https://open.spotify.com/album/5sFMfwuYslfFAH4PgJ30br) | 2:49 |
 | 5 | [Langar Í](https://open.spotify.com/track/6Op0vTc3e1Dh1kkH1qkbHu) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU), [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [Brat](https://open.spotify.com/album/705ULz5Chxa6TFQOIH14Ae) | 2:10 |
 | 6 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 49 | [Til hvers þá að segja satt?](https://open.spotify.com/track/2i5qrgOv3YUygaVmcDC6Jj) | [Friðrik Dór](https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t), [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Til hvers þá að segja satt?](https://open.spotify.com/album/4ucF8QKDgbd1Ln7kATTT79) | 2:57 |
 | 50 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 
-Snapshot ID: `aB1FlQAAAACIPwlWG0WDUqLAat9hKFpS`
+Snapshot ID: `aB3njgAAAAAqOJuWakeRoAYTCk0v6v3R`

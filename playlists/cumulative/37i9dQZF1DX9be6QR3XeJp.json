@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: PUNCHBAG",
+  "description": "Discover your new favourite artists from UK&IE. Cover: CATTY",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2588,6 +2588,24 @@
       "duration_ms": 147641,
       "name": "Jah",
       "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
+    },
+    {
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj"
+      },
+      "artists": [
+        {
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284548,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3"
     },
     {
       "album": {

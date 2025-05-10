@@ -2,9 +2,9 @@
 
 ### [Praise and Chill](https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm)
 
-> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Moses Bliss & Chandler Moore
+> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Anendlessocean
 
-488 songs - 1 day 3 hr 36 min
+490 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Glory](https://open.spotify.com/track/3KC5eGrdYOhTqjVgcA3g0h) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Glory](https://open.spotify.com/album/7foKRWx8Bfg6TwKoQ0g8Tz) | 3:12 | 2023-11-03 | 2024-01-12 |
 | [Glory](https://open.spotify.com/track/1C6QSvYOKMcBxIongyEkiK) | [Mastapeace Beats](https://open.spotify.com/artist/6jfcSjE052jzhggOXwN0Px), [Annette Yakubu](https://open.spotify.com/artist/0gmX4hMGjc4MEjaiGlFaqx) | [Glory](https://open.spotify.com/album/5GtFBdjxGu6a1mRP7H8cxo) | 2:43 | 2025-05-02 |  |
 | [Glory Days! \- Special Version](https://open.spotify.com/track/2MWzWjqbvDqGwe1nGUeaz2) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Glory Days! \(Special Version\)](https://open.spotify.com/album/3bAUV7ihfuNxmoiTayLGpj) | 2:45 | 2024-10-11 | 2024-11-08 |
-| [God \(Melodic Drill Type Beat\)](https://open.spotify.com/track/7hcQF4srxsXMohm43iWONC) | [Dekingbeatz](https://open.spotify.com/artist/3q4fs9t980Pwoj9B0N52zc), [Drilland](https://open.spotify.com/artist/1qYNVX9vVfTR5orzCtzaSz) | [God \(Melodic Drill Type Beat\)](https://open.spotify.com/album/6VS2gItrQnAZjbc4qojezs) | 3:36 | 2025-02-21 |  |
+| [God \(Melodic Drill Type Beat\)](https://open.spotify.com/track/7hcQF4srxsXMohm43iWONC) | [Dekingbeatz](https://open.spotify.com/artist/3q4fs9t980Pwoj9B0N52zc), [Drilland](https://open.spotify.com/artist/1qYNVX9vVfTR5orzCtzaSz) | [God \(Melodic Drill Type Beat\)](https://open.spotify.com/album/6VS2gItrQnAZjbc4qojezs) | 3:36 | 2025-02-21 | 2025-05-10 |
 | [God abeg](https://open.spotify.com/track/5diDmQkEpe6wbTGDSRh7yW) | [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Lucid Notes Vol\. I](https://open.spotify.com/album/0Ikgis3xcM49NfpohlUfoY) | 3:34 | 2024-03-29 | 2024-05-03 |
 | [God First](https://open.spotify.com/track/2etcvSTrodoQLDfzLF2Jjk) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [God First](https://open.spotify.com/album/4dIXGvZO6953EzOAyaYeH4) | 2:45 | 2025-04-04 |  |
 | [God In Heaven](https://open.spotify.com/track/3Z9fQAaz9AWwxpZreeb8Dz) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2), [Folarin Godman](https://open.spotify.com/artist/7oQQ5DCRffP9JoEKhskxgV) | [God In Heaven](https://open.spotify.com/album/2CWkCGn6cP5b5paZdqKbVI) | 4:13 | 2024-12-27 | 2025-03-21 |
@@ -196,7 +196,7 @@
 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 | 2024-01-26 |  |
 | [Hossana](https://open.spotify.com/track/3rGzoZemU63QFPr0pNwxwy) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Hossana](https://open.spotify.com/album/6z3uhmYUiARvZFUMnxoErm) | 2:34 | 2024-06-14 | 2024-08-16 |
 | [How Great Thou Art](https://open.spotify.com/track/7D1WuQYqXlLd2ZlTghv6iV) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [How Great Thou Art](https://open.spotify.com/album/7j0vex4YSlNjS5U3SKi5RC) | 2:04 | 2025-04-25 |  |
-| [I Love Him](https://open.spotify.com/track/7ao9ApYAffXNd5FvMZ5DiC) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [I Love Him](https://open.spotify.com/album/7spVcuAVAdqPQLTYNmcWmj) | 3:15 | 2025-04-04 |  |
+| [I Love Him](https://open.spotify.com/track/7ao9ApYAffXNd5FvMZ5DiC) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [I Love Him](https://open.spotify.com/album/7spVcuAVAdqPQLTYNmcWmj) | 3:15 | 2025-04-04 | 2025-05-10 |
 | [I Pray](https://open.spotify.com/track/4f3pIJLTJ7pA72AHEBaPc2) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [I Pray](https://open.spotify.com/album/68scxYj7Ja7saSvTGNeBik) | 3:28 | 2025-01-31 | 2025-03-21 |
 | [I Thank the Lord](https://open.spotify.com/track/1vHb7ovFeTKo031f6WSIIA) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [I Thank the Lord](https://open.spotify.com/album/6DxGpp2IN37GnoEO8zGEDB) | 3:16 | 2023-12-15 | 2024-04-06 |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2023-10-20 | 2024-04-19 |
@@ -496,5 +496,7 @@
 | [Your Way](https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 2:45 | 2025-03-07 |  |
 | [Your Will](https://open.spotify.com/track/0PbqGz9L9tW7s6dNW3Mt7a) | [Eliyah Black](https://open.spotify.com/artist/1exHNJVSFIsw0NR3OYk6fj) | [Your Will](https://open.spotify.com/album/3MNf7OAkfqDCm7BBmVEBZS) | 3:48 | 2024-11-01 | 2025-01-10 |
 | [Your Word](https://open.spotify.com/track/1kHVUbF8xeWcDpuYZzd8ME) | [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Your Word](https://open.spotify.com/album/0YXffD71HwbKg5MxYqpds3) | 3:12 | 2025-01-03 | 2025-02-28 |
+| [yours](https://open.spotify.com/track/2CUI95ndyv0TiCLieMVLYk) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [G.E.S](https://open.spotify.com/artist/1r0gAOldNSTyidXhWLDHTF) | [yours](https://open.spotify.com/album/57FTf0XIoXls6CbAJTMkB0) | 2:59 | 2025-05-09 |  |
+| [ZA](https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [ZA](https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT) | 2:41 | 2025-05-09 |  |
 
 \*This playlist was first scraped on 2023-10-20. Prior content cannot be recovered.

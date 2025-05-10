@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sliver
 
-232 songs - 16 hr 12 min
+233 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [My Funny Guy](https://open.spotify.com/track/3571e0EPNI1NUpiVk7ZpOV) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Mar Vilaseca](https://open.spotify.com/artist/04LJBGqMl3Um7fFAxdMr0Y) | [My Funny Guy](https://open.spotify.com/album/7IIr2aHjaqAE0JQOxfePvy) | 4:03 | 2024-08-01 |  |
 | [My Galaxies](https://open.spotify.com/track/7qaFl9TwwpcPufnczWkVLN) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Sondang Silalahi](https://open.spotify.com/artist/1L6fNXi1tYovfQYvyyi9sz) | [My Galaxies](https://open.spotify.com/album/4txkolAYBuc2ZvQS6wZz81) | 2:31 | 2022-09-02 | 2023-06-09 |
 | [Mystical Glow](https://open.spotify.com/track/3CDDzWzcyY84fh0UE3NeKH) | [Indra Lesmana](https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7) | [Surya Sewana](https://open.spotify.com/album/72cSOyJTh3pImtWv6DRqc3) | 8:16 | 2023-03-03 | 2024-12-07 |
+| [Nada dan Asmara](https://open.spotify.com/track/2d7zhTRq7STod8nGyeXwn9) | [Modulus](https://open.spotify.com/artist/1yWOvzIzbIfqoLHMADczPa) | [Nada dan Asmara](https://open.spotify.com/album/1u1nD0JHkFsz0yRzD9sSo4) | 4:19 | 2025-05-09 |  |
 | [Never Asked For](https://open.spotify.com/track/09VyrDoKfZPyihWVobpqIh) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Never Asked For](https://open.spotify.com/album/1lGZZyKRXVTqQN6P4oEhnH) | 4:42 | 2023-03-03 |  |
 | [Nganggur](https://open.spotify.com/track/3xWHUBJoiNLbcJ3oQia64e) | [Societeit de Harmonie](https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9), [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Nganggur](https://open.spotify.com/album/2rJJSQ3EYTtdyvIvgpLWkl) | 4:48 | 2025-04-17 |  |
 | [Noodle](https://open.spotify.com/track/0skPOaR1KzICWLqhzTJoOA) | [Cresensia Naibaho](https://open.spotify.com/artist/2F0SWxOlxawQl2DiguXpCm) | [Cherish in Samba](https://open.spotify.com/album/4NsGUUs73KDI5ugeFyppzQ) | 3:03 | 2024-05-30 |  |

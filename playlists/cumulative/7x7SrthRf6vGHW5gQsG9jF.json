@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Err",
+        "url": "https://open.spotify.com/album/2fA95j9dpuoKIs9Heyn32i"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186896,
+      "name": "Err",
+      "url": "https://open.spotify.com/track/4UMR8jH9twpyE7rqMvvQRq"
+    },
+    {
+      "album": {
         "name": "eye cue rew see",
         "url": "https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0"
       },
@@ -13842,6 +13860,24 @@
       "duration_ms": 165692,
       "name": "\u5b99\u3067\u304a\u3084\u3059\u307f",
       "url": "https://open.spotify.com/track/3suBTF60wmknRkISYx34Wp"
+    },
+    {
+      "album": {
+        "name": "\u9752\u4e8c\u624d",
+        "url": "https://open.spotify.com/album/2Tv54fqQpFKlykCpAECxI8"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u306c\u304b",
+          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219173,
+      "name": "\u5bc4\u308a\u9154\u3044",
+      "url": "https://open.spotify.com/track/7Hj7PMdrx3bKse1hhL7qv4"
     },
     {
       "album": {

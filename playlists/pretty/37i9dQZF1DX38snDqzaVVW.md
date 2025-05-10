@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,860 likes - 56 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,849 likes - 56 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hubb Ennabi](https://open.spotify.com/track/2qZ7TOLvwtD8uWn5e8qYXc) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Hubb Ennabi](https://open.spotify.com/album/2YZFEVlbqNJs22h35HPfmY) | 3:53 |
-| 2 | [Salaam](https://open.spotify.com/track/0ekuaPp7dcww2tlJsa3imW) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ayisha Abdul Basith](https://open.spotify.com/artist/2Y5VZBuZCkYOBBdoGurfJG), [Salim Merchant](https://open.spotify.com/artist/4LlyeRyHdQaXQhjLHiINB1) | [Salaam](https://open.spotify.com/album/2URs3EtQlWwRCg7y4VEBgU) | 5:06 |
+| 2 | [Salaam](https://open.spotify.com/track/0ekuaPp7dcww2tlJsa3imW) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ayisha Abdul Basith](https://open.spotify.com/artist/2Y5VZBuZCkYOBBdoGurfJG), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Salaam](https://open.spotify.com/album/2URs3EtQlWwRCg7y4VEBgU) | 5:06 |
 | 3 | [Ya Habibi Ya Muhammad](https://open.spotify.com/track/2cgUPNcVIuDJ94R1c2xcpx) | [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Ya Habibi Ya Muhammad](https://open.spotify.com/album/5APg4pDxA6jf6UKSW1vsi9) | 4:04 |
 | 4 | [Ashraf Al Araab](https://open.spotify.com/track/67i5XcT7Ry0Y7wzRegExsh) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Ashraf Al Araab](https://open.spotify.com/album/3AKgdSxdOAUuDU3nmqKX6H) | 3:06 |
 | 5 | [Mohamed](https://open.spotify.com/track/0xUI2k7FElQ001qkwtjyvj) | [Lotfi Bouchnak](https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z) | [Mohamed](https://open.spotify.com/album/0ZZPTgbUbWNwWswex1feHB) | 6:58 |

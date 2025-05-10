@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-02-26",
-  "description": "smooth, healing, soulful \ud83c\udf31 the best of Jazz House, featuring dublon",
+  "description": "Jazz house is our love language  \ud83c\udf33  with  Chaos In The CBD",
   "name": "Jazz House",
   "tracks": [
+    {
+      "album": {
+        "name": "35k",
+        "url": "https://open.spotify.com/album/5zt1HJWzyBrXpbbjPvuxs2"
+      },
+      "artists": [
+        {
+          "name": "Milan93",
+          "url": "https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176450,
+      "name": "35k",
+      "url": "https://open.spotify.com/track/2zetGr1iFeihczuZ4IxmS3"
+    },
     {
       "album": {
         "name": "@ tha jazz club",
@@ -20,6 +38,28 @@
       "duration_ms": 226620,
       "name": "@ tha jazz club",
       "url": "https://open.spotify.com/track/24E9lAXzbPTO7fYjmcsLiq"
+    },
+    {
+      "album": {
+        "name": "A Deeper Life",
+        "url": "https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Isaac Aesili",
+          "url": "https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484711,
+      "name": "A Deeper Life",
+      "url": "https://open.spotify.com/track/2BeFVOi5hh545rnHTmDmPF"
     },
     {
       "album": {
@@ -118,7 +158,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 392118,
       "name": "AWA - Atjazz Love Soul Mix",
       "url": "https://open.spotify.com/track/5Nwn75vYZCEtTf0bFNT6AT"
@@ -1083,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "A Deeper Life",
+        "url": "https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278379,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/2x9lYHqC6bIPVGofPEj54j"
+    },
+    {
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
       },
@@ -1098,7 +1160,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 278379,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
@@ -1406,7 +1468,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 152000,
       "name": "Open The Door",
       "url": "https://open.spotify.com/track/587sTcmLLNuYSSxsi9L9qP"
@@ -1442,7 +1504,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 234216,
       "name": "Piebald",
       "url": "https://open.spotify.com/track/2N6hpU8eByX5z4QBKEyEKy"
@@ -1848,7 +1910,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 426759,
       "name": "Tryin' Find A Way - Club Mix",
       "url": "https://open.spotify.com/track/5dUMhESneKFO2owCLbVKJ8"
@@ -1940,6 +2002,42 @@
       "duration_ms": 235932,
       "name": "Villa Palmera",
       "url": "https://open.spotify.com/track/2efRw4Puze8guf4W68QM7x"
+    },
+    {
+      "album": {
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/61mMPhinXrwLSvD85xhcSN"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176625,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/2qiZjjUdKL5cFQJ3GUdczo"
+    },
+    {
+      "album": {
+        "name": "waxed & sealed",
+        "url": "https://open.spotify.com/album/37BirUtJ0E36jf0uuLsZAb"
+      },
+      "artists": [
+        {
+          "name": "birdnote",
+          "url": "https://open.spotify.com/artist/7MYkDdtnQI7XS31ohILPVY"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116166,
+      "name": "waxed & sealed",
+      "url": "https://open.spotify.com/track/5cYSLRDc9jRWaPfxcR5LjJ"
     },
     {
       "album": {

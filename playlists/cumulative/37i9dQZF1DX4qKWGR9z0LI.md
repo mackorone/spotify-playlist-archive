@@ -2,7 +2,7 @@
 
 ### [Salsa Nation](https://open.spotify.com/playlist/37i9dQZF1DX4qKWGR9z0LI)
 
-> Lo último y lo mejor de la salsa\. Cover: Luis Figueroa & Christian Alicea
+> Lo último y lo mejor de la salsa\. Cover: Gloria Estefan
 
 307 songs - 22 hr 15 min
 

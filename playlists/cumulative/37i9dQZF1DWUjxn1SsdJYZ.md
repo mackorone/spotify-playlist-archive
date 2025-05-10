@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Sollyy
 
-1,168 songs - 2 day 6 hr 20 min
+1,170 songs - 2 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Atlaniz](https://open.spotify.com/track/5yptxdOYN9moHHZtMWB0by) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Atlaniz](https://open.spotify.com/album/6aAus1L5L8m71e7Y1mE0Bm) | 2:23 | 2025-01-16 | 2025-05-02 |
 | [AUSSIE OI OI](https://open.spotify.com/track/5mm9T67XsFPLzQuPQOh34f) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [AUSSIE OI OI](https://open.spotify.com/album/0QIM3trZruyPLRCIOSEry5) | 2:53 | 2023-12-14 | 2024-04-26 |
 | [Aussie Raver](https://open.spotify.com/track/2IxukbfXzRflTlE06OFI7l) | [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Aussie Raver](https://open.spotify.com/album/4TKmOab6AcYpZmYw44Qkxd) | 2:59 | 2022-03-21 | 2022-08-11 |
+| [Authority](https://open.spotify.com/track/742tDvOCEYtMlvRJyNiA9K) | [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot) | [Authority](https://open.spotify.com/album/5Zz9ecda5sfDY1DTE3NY90) | 2:25 | 2025-05-08 |  |
 | [Avalanche](https://open.spotify.com/track/6NTZCq7P6aZRbP6KpJTIvw) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Avalanche](https://open.spotify.com/album/3uyRVYklYijNZbk5wgfsEr) | 2:36 | 2023-09-28 | 2023-11-24 |
 | [Average](https://open.spotify.com/track/3PfvN0B3W85jFdiXBfxf3T) | [SaxONLY](https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y) | [Average](https://open.spotify.com/album/12LBSY5AEYjiiSBp8Tzq74) | 2:50 | 2025-04-24 |  |
 | [Away](https://open.spotify.com/track/2sTTl6TAswhoIM1Anwxdl3) | [Jacqia](https://open.spotify.com/artist/49RGZ16C5XjWyO846KdxOH), [Shaedy](https://open.spotify.com/artist/7qlWg1i9vba1jZSU8s7CeS) | [Away](https://open.spotify.com/album/4e9eRZkYzbWHENp9xwzaWK) | 3:01 | 2024-05-30 | 2024-07-27 |
@@ -195,6 +196,7 @@
 | [CHAT](https://open.spotify.com/track/21QQ3YJv6FZ7UQwhTim5SQ) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [CHAT](https://open.spotify.com/album/6sSwcmateR8ewm6ztIae2x) | 2:40 | 2023-04-13 | 2023-08-25 |
 | [Choices](https://open.spotify.com/track/2M4s02m6qOFlm6ZZdqha4c) | [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Choices](https://open.spotify.com/album/7nO3ZsoO7mpn3hLPGD8LoQ) | 2:05 | 2022-08-25 | 2022-11-11 |
 | [Choose](https://open.spotify.com/track/013dgF92MbSCUCZocphQa1) | [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [Choose](https://open.spotify.com/album/3r500zrhmpZ5XO54qwQmU7) | 2:42 | 2024-10-17 | 2024-12-20 |
+| [CHRYSALIS](https://open.spotify.com/track/2tMqFsvsIo7QxzFywAh80m) | [RAAJ](https://open.spotify.com/artist/7dUyhRfyEsUTS7gySitrDc), [Yiko](https://open.spotify.com/artist/5BkNQBCtJLri1mwaAKVC0S) | [CHRYSALIS](https://open.spotify.com/album/4gbHSLy28E3RAuJemh7B6p) | 2:10 | 2025-05-08 |  |
 | [Circus](https://open.spotify.com/track/0pkPXOYifXJDJkAFhb34Gb) | [Sexton](https://open.spotify.com/artist/0k4gmF1Uhpyb8uCHz2fGU2) | [Circus](https://open.spotify.com/album/2LfD3WwrM3BcQF8muen1b6) | 2:58 | 2024-03-07 | 2024-05-24 |
 | [Circus Lover](https://open.spotify.com/track/4qnTWmkLvvoowBc7HtoA28) | [Mzuki](https://open.spotify.com/artist/1WXhw0PBeOUR46yQsXoXW9) | [Circus Lover](https://open.spotify.com/album/6W3DtFVWU2MOmYHwK1OS9c) | 3:03 | 2023-03-23 | 2023-04-28 |
 | [CITY 2 WEST](https://open.spotify.com/track/5j1HnLFIQB4BWMS2HOk1fg) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej), [JAYVY](https://open.spotify.com/artist/5nzxFTaL8FDA5lLlm5PbKj) | [CITY 2 WEST](https://open.spotify.com/album/78gTk5y1cRqMf2JnONzFtK) | 2:53 | 2022-05-18 | 2022-10-07 |

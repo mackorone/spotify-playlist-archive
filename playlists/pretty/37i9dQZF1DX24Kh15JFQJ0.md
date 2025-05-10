@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Dwight Yoakam
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,350 likes - 222 songs - 13 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,345 likes - 222 songs - 13 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,7 +221,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 211 | [Going Out Like This](https://open.spotify.com/track/2La9vfJPqpxxKgOxCqlJT3) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Sippin' On The Simple Life](https://open.spotify.com/album/5vKquArL0GIKYNrNXpS3Mo) | 3:29 |
 | 212 | [This is Where the End Starts Feat\. Haley Vassar](https://open.spotify.com/track/6bUjoKsbk81P0w7lJmaX9I) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6), [Haley Vassar](https://open.spotify.com/artist/7ILb0lzos2z2vJu8csvkBU) | [Stripped Down](https://open.spotify.com/album/5V0zJI8m8VTOagqo5BWhTd) | 3:15 |
 | 213 | [The Slow Lane](https://open.spotify.com/track/46RjasCR1TcTphfY32VB7f) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Life On the Flip Side](https://open.spotify.com/album/0ne63EVUZXiNCCPsi9n9Sc) | 4:10 |
-| 214 | [I'd Take Another One of Those](https://open.spotify.com/track/4S80ssHGKWJmm5SR3EQFbJ) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [I'd Take Another One of Those](https://open.spotify.com/album/3UwtQR77UKz5BwyZwskvv0) | 3:32 |
+| 214 | [I'd Take Another One of Those](https://open.spotify.com/track/4S80ssHGKWJmm5SR3EQFbJ) | [Shenandoah](https://open.spotify.com/artist/1V7lYXKHArf6jGOv2IEBkH), [Zac Brown Band](https://open.spotify.com/artist/4K3cMAN1mfM83SmW4gMLMD) | [I'd Take Another One of Those](https://open.spotify.com/album/3UwtQR77UKz5BwyZwskvv0) | 3:32 |
 | 215 | [Workin' My Way Down](https://open.spotify.com/track/6RauCs5nVH1UR2stIQNjXu) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [Promised Land: The Lost Album](https://open.spotify.com/album/6Jiv6V6D16E3SkkIcqCY77) | 3:24 |
 | 216 | [Trying to Find Atlantis 2.0](https://open.spotify.com/track/21r2ejC94FazSJw16RVZOS) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Sometimes](https://open.spotify.com/album/5ZdhIK7dLcQ81HuPVCqEsD) | 3:13 |
 | 217 | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/track/6u7ZlZMY0WtHHfTKv9Khdv) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/album/3ha32uxw82uW6rFHzErQVE) | 3:20 |

@@ -4,7 +4,7 @@
 
 > PH vibin' cover: jikamarie, Skusta Clee
 
-333 songs - 18 hr 31 min
+335 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Aminin](https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX) | [Pricetagg](https://open.spotify.com/artist/1UvsiRB2EarPibq6XRl9Sv), [Zae](https://open.spotify.com/artist/4Flrlc0Sf1QaWLbDLdvU3L) | [Aminin](https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy) | 3:37 | 2023-07-28 | 2024-02-10 |
 | [AMNN \(Alam Mo Naman Na\)](https://open.spotify.com/track/7GIs27eaJs9Lc9qH6MkedG) | [\_dyco](https://open.spotify.com/artist/4NzPBLN5xfDwrUwz42xpnb), [$NPRD](https://open.spotify.com/artist/1bHNpzVQ7bDb9arASspvu6) | [AMNN \(Alam Mo Naman Na\)](https://open.spotify.com/album/5gjvdL7DfSbtyylG2yxZHq) | 2:48 | 2024-08-16 | 2025-03-22 |
 | [Araw2x Gabi2x](https://open.spotify.com/track/5LrsVk1IzDBXkaUDL6PoDC) | [Zo zo](https://open.spotify.com/artist/0xyijUZwKlIH8yjj0OuDf6) | [Araw2x Gabi2x](https://open.spotify.com/album/5tCSAhDhtQZlvFXywZu7PZ) | 3:43 | 2022-10-12 | 2023-07-29 |
+| [AROUND ME](https://open.spotify.com/track/2Y1hk3o0UUvpPLBjiY4AUu) | [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [huwag sana kayong magkita](https://open.spotify.com/album/0geCmePCm9X12ZDrdAXTNX) | 2:39 | 2025-05-09 |  |
 | [Ayos Lang ‘Yan](https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg) | [Hero](https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm) | [Ayos Lang ‘Yan](https://open.spotify.com/album/2pBLiHZ28ZbC3gC6MOIp1H) | 3:23 | 2023-10-02 | 2023-12-06 |
 | [AYOS NAKO](https://open.spotify.com/track/4E50oSx0Ukhvxe5FtncKXP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [KATE](https://open.spotify.com/artist/55C6x2IhdRfvWM9BCWyFKV) | [AYOS NAKO](https://open.spotify.com/album/7emzj6oAgypnXGO7vNttrI) | 2:17 | 2024-02-09 | 2025-01-17 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-10-27 | 2025-01-17 |
@@ -223,6 +224,7 @@
 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 | 2022-10-12 | 2023-07-29 |
 | [O Luna](https://open.spotify.com/track/788LOVoDxwsB0OkdbQvTHd) | [JMKO](https://open.spotify.com/artist/1onz2fxn4zwyarm9FPVuyp) | [O Luna](https://open.spotify.com/album/0gkuV2JkdAnUUeipnd4BkC) | 3:42 | 2022-12-14 | 2023-07-29 |
 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-02-23 | 2023-09-16 |
+| [OBOB](https://open.spotify.com/track/1SHAy0cu2AY1glzvZtwFOG) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [masyadong in\-love](https://open.spotify.com/album/2jVYMf1mVGvdImSTb3bJd3) | 3:37 | 2025-05-09 |  |
 | [On It](https://open.spotify.com/track/4Oa7hB0TLwbBOotG2Br45k) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9), [NER](https://open.spotify.com/artist/6QS2Yudp5FJMMVvrji5Rvs) | [On It](https://open.spotify.com/album/1Czy7pcqUGAfvtFYUIOnYt) | 3:32 | 2022-10-12 | 2023-07-29 |
 | [On&Off](https://open.spotify.com/track/4uh7kGhYyAzvABoNVUG50M) | [Vince Lucero](https://open.spotify.com/artist/4UXx2GO375uJJFcMk8FWwq), [knōwmaad](https://open.spotify.com/artist/1fLR67iN8Rm9atDIhgMbAU), [ONEFLOOR](https://open.spotify.com/artist/5mn4HsyvMQ1tluNNl2HXDQ) | [On&Off](https://open.spotify.com/album/0UzoVAS4sDTE46lmKDCyVT) | 3:41 | 2024-08-09 | 2025-03-22 |
 | [Only One](https://open.spotify.com/track/4mHusVLmGSUywXjhU2zUBM) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Only One](https://open.spotify.com/album/6VMWV0ecrxgL7xCZeBKKZi) | 3:59 | 2023-04-06 | 2023-08-04 |

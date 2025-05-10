@@ -1,13 +1,61 @@
 {
-  "description": "Underground indie rock gems. Cover: Maria Somerville",
-  "num_followers": 308127,
+  "description": "Underground indie rock gems. Cover: Paper Lady",
+  "num_followers": 308148,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDZAAAAAAGCD4O0sHRCx6iPOOCIpIt",
+  "snapshot_id": "aB19yQAAAAA/9yFStN6F8wEuQKuc+/TQ",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:09",
+      "album": {
+        "name": "Idle Fate",
+        "url": "https://open.spotify.com/album/710kwPGLlw7tD9mBzxoySs"
+      },
+      "artists": [
+        {
+          "name": "Paper Lady",
+          "url": "https://open.spotify.com/artist/5C00UvIYl9iDUqd52k02Fo"
+        }
+      ],
+      "duration_ms": 306013,
+      "name": "Amaranth",
+      "url": "https://open.spotify.com/track/3vu6D9c8y88rGATkfUQsHe"
+    },
+    {
+      "added_at": "2025-05-09 04:00:09",
+      "album": {
+        "name": "Racing Mount Pleasant",
+        "url": "https://open.spotify.com/album/24rTA1jGh2AdmuN6GrYhpw"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "duration_ms": 315619,
+      "name": "Racing Mount Pleasant",
+      "url": "https://open.spotify.com/track/6ITu4g9Rw4uO6N07gjpIQ2"
+    },
+    {
+      "added_at": "2025-05-09 04:00:09",
+      "album": {
+        "name": "Magic Of The Sale",
+        "url": "https://open.spotify.com/album/0uCLrzrEjIBlfgUlJPAH8V"
+      },
+      "artists": [
+        {
+          "name": "Teethe",
+          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "Magic Of The Sale",
+      "url": "https://open.spotify.com/track/1GzXC7Qd3c53KnTwdWGB3s"
+    },
     {
       "added_at": "2025-05-02 04:00:36",
       "album": {
@@ -23,6 +71,90 @@
       "duration_ms": 214106,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
+    },
+    {
+      "added_at": "2025-05-09 04:00:09",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/55rpMuLkB9sMzYt60PPaUy"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 255520,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/0ryNoC6c7pqVm1nAtuAgw5"
+    },
+    {
+      "added_at": "2025-05-09 04:00:09",
+      "album": {
+        "name": "kissing under an (almost) full moon",
+        "url": "https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 250217,
+      "name": "lose her",
+      "url": "https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1"
+    },
+    {
+      "added_at": "2025-05-09 04:00:09",
+      "album": {
+        "name": "medicine",
+        "url": "https://open.spotify.com/album/08xbyDiFxAlvUIlWkXkRPH"
+      },
+      "artists": [
+        {
+          "name": "porch kiss",
+          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+        },
+        {
+          "name": "link3",
+          "url": "https://open.spotify.com/artist/2hlo7e04n5T55WoJVs71XC"
+        }
+      ],
+      "duration_ms": 157654,
+      "name": "medicine",
+      "url": "https://open.spotify.com/track/1owDB48jleZTM01Lq7Y1I6"
+    },
+    {
+      "added_at": "2025-05-09 04:00:09",
+      "album": {
+        "name": "Recognize Me",
+        "url": "https://open.spotify.com/album/7HCfOw4R32FyRdR0KYmcWu"
+      },
+      "artists": [
+        {
+          "name": "Maiya Blaney",
+          "url": "https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Recognize Me",
+      "url": "https://open.spotify.com/track/43ezfVzC3NsPw8Qbcn1Ajf"
+    },
+    {
+      "added_at": "2025-05-09 04:00:09",
+      "album": {
+        "name": "Objection!",
+        "url": "https://open.spotify.com/album/1UTgkMZcqoBxLARwMnPB8M"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 169661,
+      "name": "Objection!",
+      "url": "https://open.spotify.com/track/35i5bteSxtDzork3AfM7as"
     },
     {
       "added_at": "2025-05-02 04:00:36",
@@ -103,6 +235,22 @@
       "duration_ms": 279612,
       "name": "The Pencil",
       "url": "https://open.spotify.com/track/0PhgjfjfaaVteJMW4Q7STQ"
+    },
+    {
+      "added_at": "2025-05-09 04:00:09",
+      "album": {
+        "name": "MadDog",
+        "url": "https://open.spotify.com/album/2Q6eyFzIAGrfcacgBw3wMC"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 242868,
+      "name": "MadDog",
+      "url": "https://open.spotify.com/track/141fl9M2mCLjtVzEKQuCRc"
     },
     {
       "added_at": "2025-05-02 04:00:36",
@@ -1291,22 +1439,6 @@
     {
       "added_at": "2025-05-02 04:00:36",
       "album": {
-        "name": "I can do what I want",
-        "url": "https://open.spotify.com/album/34syhtKXv345KDnYcJcmN7"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 180606,
-      "name": "I can do what I want",
-      "url": "https://open.spotify.com/track/4ExoRP6SDTO8LvYIjUsyiK"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
         "name": "Graze",
         "url": "https://open.spotify.com/album/4vxPvTAW936GCopDV6nj64"
       },
@@ -1351,118 +1483,6 @@
       "duration_ms": 290003,
       "name": "Watch Me Drive Them Dogs Wild",
       "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "i want the light to swallow me whole",
-        "url": "https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 218784,
-      "name": "i want the light to swallow me whole",
-      "url": "https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Since April",
-        "url": "https://open.spotify.com/album/5Qr0ATirEQjY31oFkyvhsw"
-      },
-      "artists": [
-        {
-          "name": "girlpuppy",
-          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
-        }
-      ],
-      "duration_ms": 155853,
-      "name": "Since April",
-      "url": "https://open.spotify.com/track/11hTGnist3szhkE1yWAcWk"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Cadillac",
-        "url": "https://open.spotify.com/album/66hxxcnB5jqZm6wxgHUabu"
-      },
-      "artists": [
-        {
-          "name": "Colin Miller",
-          "url": "https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Cadillac",
-      "url": "https://open.spotify.com/track/5wkPrNPC9DFUCyLIJ9wytE"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "All In The Game",
-        "url": "https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM"
-      },
-      "artists": [
-        {
-          "name": "Moreish Idols",
-          "url": "https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "All In The Game",
-      "url": "https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "HANNAH",
-        "url": "https://open.spotify.com/album/7s5waXjOyndvlPAGLWIJml"
-      },
-      "artists": [
-        {
-          "name": "AKA BK",
-          "url": "https://open.spotify.com/artist/0X4QGHQMh6BJOjveGen7b0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "HANNAH",
-      "url": "https://open.spotify.com/track/7bQHlxL6JDQTNrT2PMO5Lt"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Movies",
-        "url": "https://open.spotify.com/album/137J7ZwtKlnRNbjiQS0MlV"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 255743,
-      "name": "Records",
-      "url": "https://open.spotify.com/track/3cOJaWwa5MmirlH6BVheMZ"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Hot Friend",
-        "url": "https://open.spotify.com/album/19xWGXCXeaC02R2JX0VH9L"
-      },
-      "artists": [
-        {
-          "name": "SMILE",
-          "url": "https://open.spotify.com/artist/6OY6Dxy4fEtfwYJxPdoQC8"
-        }
-      ],
-      "duration_ms": 243652,
-      "name": "Hot Friend",
-      "url": "https://open.spotify.com/track/0j2nyOdTNjc27Dd3wYjnkd"
     },
     {
       "added_at": "2025-05-02 04:00:36",
@@ -2119,154 +2139,6 @@
       "duration_ms": 177726,
       "name": "cologne",
       "url": "https://open.spotify.com/track/7hE2DkwKFvBVUdJBNk6CT7"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "What You Want Me To Say",
-        "url": "https://open.spotify.com/album/4T1AVvZ04npfNvPTSaFQN5"
-      },
-      "artists": [
-        {
-          "name": "mercury",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
-        }
-      ],
-      "duration_ms": 246340,
-      "name": "What You Want Me To Say",
-      "url": "https://open.spotify.com/track/3iK2mw9vvvInORkd5Vq9jh"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "gossip",
-        "url": "https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF"
-      },
-      "artists": [
-        {
-          "name": "Goat Girl",
-          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "gossip",
-      "url": "https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "headbanger",
-        "url": "https://open.spotify.com/album/2NRjwUmXWZgUCJf84fPulM"
-      },
-      "artists": [
-        {
-          "name": "untitled (halo)",
-          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "emo is good",
-      "url": "https://open.spotify.com/track/7DO020rZXOyCue7HCmY3kF"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "baby bye bye",
-        "url": "https://open.spotify.com/album/7F496nPn7R9KA5Cz4oWTjy"
-      },
-      "artists": [
-        {
-          "name": "Glitter Party",
-          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
-        }
-      ],
-      "duration_ms": 114831,
-      "name": "baby bye bye",
-      "url": "https://open.spotify.com/track/0PmWqF3kWiBPhQQ6Y9CGX1"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Hand In Hand (feat. Baseball Game)",
-        "url": "https://open.spotify.com/album/0HEzBnugBCH4jm6xaMNSSw"
-      },
-      "artists": [
-        {
-          "name": "Hayden Everett",
-          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
-        },
-        {
-          "name": "Baseball Game",
-          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
-        }
-      ],
-      "duration_ms": 229590,
-      "name": "Hand In Hand (feat. Baseball Game)",
-      "url": "https://open.spotify.com/track/6gyV0V6KNrBRZtP5atmJz5"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Bite",
-        "url": "https://open.spotify.com/album/6ToD4RofYRJf81ClqgKqwV"
-      },
-      "artists": [
-        {
-          "name": "The Sewing Club",
-          "url": "https://open.spotify.com/artist/4dEUp9bmI8xPLDdVfEN24Q"
-        }
-      ],
-      "duration_ms": 207449,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/1F2Be353eI0YTwGJ1SLY7H"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Sweet Anecdote",
-        "url": "https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C"
-      },
-      "artists": [
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Sweet Anecdote",
-      "url": "https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Crickets",
-        "url": "https://open.spotify.com/album/2PgyjdmNivt1iFXQ4C7VkI"
-      },
-      "artists": [
-        {
-          "name": "Hollis Howard",
-          "url": "https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Crickets",
-      "url": "https://open.spotify.com/track/6f069VM5bj00oF7f82NkqP"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Falling Down a Well / Born Without a Smile",
-        "url": "https://open.spotify.com/album/2ad6OJI02AHDOXDCCdf9Sg"
-      },
-      "artists": [
-        {
-          "name": "Jack J",
-          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
-        }
-      ],
-      "duration_ms": 173825,
-      "name": "Falling Down a Well",
-      "url": "https://open.spotify.com/track/6y4eFBfaADWBdUMq4HlrOC"
     }
   ],
   "unique_name": "undercurrents",

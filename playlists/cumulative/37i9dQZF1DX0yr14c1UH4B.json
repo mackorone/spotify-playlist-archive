@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "An eclectic mix of new releases ft. Ed Sheeran",
+  "description": "An eclectic mix of new releases ft. Miley Cyrus",
   "name": "The Gold List",
   "tracks": [
+    {
+      "album": {
+        "name": "2 much 2 handle",
+        "url": "https://open.spotify.com/album/6nyI7UeD5jHxEitLg7m9ua"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140613,
+      "name": "2 much 2 handle",
+      "url": "https://open.spotify.com/track/0A28TOFc5aTmeUuMaIKYwk"
+    },
     {
       "album": {
         "name": "The Great American Bar Scene",
@@ -56,6 +74,24 @@
       "duration_ms": 208648,
       "name": "A Place In Your Heart",
       "url": "https://open.spotify.com/track/0ncqg9PZKik2NicM051KPt"
+    },
+    {
+      "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/3eWfloj21GAywURReF6Nxv"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173586,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/3asiTEBXKEgcUXULDhbcNX"
     },
     {
       "album": {
@@ -1060,7 +1096,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 145977,
       "name": "downward spiral",
       "url": "https://open.spotify.com/track/41NLDchtPOKKkSCKtoygBI"
@@ -1588,6 +1624,24 @@
       "duration_ms": 217380,
       "name": "GOOD FEELiNGS",
       "url": "https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO"
+    },
+    {
+      "album": {
+        "name": "Great White Sharks",
+        "url": "https://open.spotify.com/album/6SvD1F9Gey9kY9GVaJkhbm"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199255,
+      "name": "Great White Sharks",
+      "url": "https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou"
     },
     {
       "album": {
@@ -2717,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "The Seven Spirits of Her",
+        "url": "https://open.spotify.com/album/6cgUDc9crqMBomAqWjGfU4"
+      },
+      "artists": [
+        {
+          "name": "Jude Kelly",
+          "url": "https://open.spotify.com/artist/0xHZwRejbMwSEfDZNnyviZ"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201660,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2ZSm9bCxkQqF5e8QNlosQQ"
+    },
+    {
+      "album": {
         "name": "The Long Way Round",
         "url": "https://open.spotify.com/album/3P2S6dILjqropRqOGrMIcB"
       },
@@ -2793,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "More to Lose",
+        "url": "https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275780,
+      "name": "More to Lose",
+      "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
+    },
+    {
+      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -2808,6 +2898,24 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "album": {
+        "name": "Tales Of An Eldest Daughter",
+        "url": "https://open.spotify.com/album/3xC46xnWrW38qWAk5oD2da"
+      },
+      "artists": [
+        {
+          "name": "Alex Apolline",
+          "url": "https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184978,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/3sad1WsfFDlwechthgL8Ei"
     },
     {
       "album": {
@@ -2880,6 +2988,24 @@
       "duration_ms": 205453,
       "name": "my little island",
       "url": "https://open.spotify.com/track/0aybEH8KXNY6ZagqPSjuUm"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213393,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG"
     },
     {
       "album": {
@@ -3255,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "All My Innocence Has Been Ridden",
+        "url": "https://open.spotify.com/album/6Nx3XNCusMFs3NLZMn3WpN"
+      },
+      "artists": [
+        {
+          "name": "Beattie",
+          "url": "https://open.spotify.com/artist/3wymvWMpCgtYf1CtV4ZddR"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190837,
+      "name": "Other Humans",
+      "url": "https://open.spotify.com/track/0a59QShDwHsWkbPiWBthgP"
+    },
+    {
+      "album": {
         "name": "Over and Over",
         "url": "https://open.spotify.com/album/31TTw2uKYx1sfvXTZe3WvJ"
       },
@@ -3364,6 +3508,24 @@
       "duration_ms": 198186,
       "name": "Pined For You My Whole Life",
       "url": "https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi"
+    },
+    {
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198617,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U"
     },
     {
       "album": {
@@ -3534,6 +3696,24 @@
       "duration_ms": 243516,
       "name": "Radical Tenderness",
       "url": "https://open.spotify.com/track/126dxlPCG1OTvTar7MAoU4"
+    },
+    {
+      "album": {
+        "name": "Raised By A Woman",
+        "url": "https://open.spotify.com/album/3wdKUiNHUOWyC4QJtUjdZG"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Raised By A Woman",
+      "url": "https://open.spotify.com/track/04ZoA27GtDXp6xGgR55rZu"
     },
     {
       "album": {
@@ -3804,7 +3984,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 185000,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/7tnjGSvjYDPXyLtEwttSM1"
@@ -3901,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/27vmolsE6YhpGbZoMfdjcv"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236315,
+      "name": "Silver Ford",
+      "url": "https://open.spotify.com/track/1tpgA9lmb1m3qZm1qTnJtD"
+    },
+    {
+      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
       },
@@ -3916,6 +4114,24 @@
       "duration_ms": 197533,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
+    },
+    {
+      "album": {
+        "name": "Sincerely, Your Son",
+        "url": "https://open.spotify.com/album/6inDTzD1SG7s5f4PJn3n3c"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229799,
+      "name": "Sincerely, Your Son",
+      "url": "https://open.spotify.com/track/4Avhm4TheMNptgXdaQN52O"
     },
     {
       "album": {
@@ -4363,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Take A Sexy Picture Of Me",
+        "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229933,
+      "name": "Take A Sexy Picture Of Me",
+      "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36"
       },
@@ -4648,7 +4882,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 148301,
       "name": "this is what floating feels like",
       "url": "https://open.spotify.com/track/51aKhzD5dtUJeiK1TN3RmL"
@@ -4670,6 +4904,24 @@
       "duration_ms": 230520,
       "name": "This Is Who I Am - From \u201cThe Day of the Jackal\u201d",
       "url": "https://open.spotify.com/track/63ZSKE6wZag6fV3YIfJc4d"
+    },
+    {
+      "album": {
+        "name": "D R E A M S I C L E",
+        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "too good",
+      "url": "https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J"
     },
     {
       "album": {
@@ -4742,6 +4994,24 @@
       "duration_ms": 199996,
       "name": "Treehouse Wings",
       "url": "https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3"
+    },
+    {
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/3MEkYRv9qRdxGi03qKkFh6"
+      },
+      "artists": [
+        {
+          "name": "Ava Joe",
+          "url": "https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149135,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/7rO7QXBRq8Ka9bgs8pVaBr"
     },
     {
       "album": {
@@ -4825,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Used To This",
+        "url": "https://open.spotify.com/album/503LzBcWV1EYrja1IHKPTu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Wallace",
+          "url": "https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214265,
+      "name": "Used To This",
+      "url": "https://open.spotify.com/track/6P5nvbE3mCLMGBNDB37S2q"
+    },
+    {
+      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -4872,7 +5160,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 211153,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1suxL65o1WETsaGBf7e6Gk"
@@ -4908,7 +5196,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 202937,
       "name": "Waiting For The Walls To Change",
       "url": "https://open.spotify.com/track/3lLHICs9iYNNt0kV8u8GZk"
@@ -5162,7 +5450,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 157333,
       "name": "Wish I Never Met You",
       "url": "https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO"

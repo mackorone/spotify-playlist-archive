@@ -4,7 +4,7 @@
 
 > C'è un nuovo pezzo di Gazzelle ed è proprio qua su Indie Italia 👀
 
-284 songs - 15 hr 0 min
+285 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Veleno](https://open.spotify.com/track/4w9pKLXVOmKkI3UOiRvOGM) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Veleno](https://open.spotify.com/album/0kivI9DqD5PzKGeh26HycU) | 3:19 | 2024-12-05 | 2025-01-10 |
 | [Venere](https://open.spotify.com/track/5AwfzS5XZ7giXnTjV5BhfV) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Venere](https://open.spotify.com/album/7eCTsM1ZpUo8PRbkJ6jAjP) | 3:39 | 2024-11-14 | 2024-12-20 |
 | [Via Ricordi](https://open.spotify.com/track/4U468A5OhnjqYVXPow7xfy) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/3yqQhXmHd7SKnz4pBOjApa) | 3:15 | 2025-01-09 | 2025-02-12 |
+| [VIENNARÌ](https://open.spotify.com/track/4jiplAN9NaGsapfWZED45b) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [VIENNARÌ](https://open.spotify.com/album/5pnwiqz4zlZOJkLPwOWxIT) | 3:28 | 2025-05-08 |  |
 | [Vita](https://open.spotify.com/track/26iJUQYEsYN3P1y8Ze4c4T) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [Notti Brave](https://open.spotify.com/album/1BayCxyyUYlm3x0Ys1z4Fl) | 3:20 | 2025-04-10 |  |
 | [vita lenta](https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [vita lenta](https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN) | 3:01 | 2024-06-27 | 2024-11-29 |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-12 |  |

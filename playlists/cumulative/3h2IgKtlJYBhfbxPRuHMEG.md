@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-169 songs - 9 hr 31 min
+170 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Take ft\. Kimbra](https://open.spotify.com/track/65GMJ7KrLhUi8ya8uO9jJe) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Take ft\. Kimbra](https://open.spotify.com/album/40vNmeAq90YxNen2h1COXQ) | 2:50 | 2023-12-01 | 2025-05-03 |
 | [Takedown](https://open.spotify.com/track/1w57rbbZmsbeMpeDiQoaHx) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Takedown](https://open.spotify.com/album/62Nx27SgklKgnjIDB1A99T) | 2:51 | 2024-03-22 | 2024-11-09 |
 | [Techno Prank](https://open.spotify.com/track/2JqbTRtUZmkTIHxPyBkurQ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Techno Prank](https://open.spotify.com/album/7GXvOmUgon63BfUk3AB5fS) | 3:23 | 2023-12-01 | 2025-05-03 |
+| [Telepathy](https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA) | [Telepathy](https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np) | 3:44 | 2025-05-09 |  |
 | [Tell Me](https://open.spotify.com/track/31qDXfNdobsc8nGIt6ue9B) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [We Are Deadbeats Vol\. 5](https://open.spotify.com/album/4Y406A1WDA2ao3rRSQTSpZ) | 2:34 | 2023-12-01 | 2025-05-03 |
 | [Ten Toes \(Feat\. MC Spyda, General Levy & Eksman\)](https://open.spotify.com/track/6d7smhFOnBEVeaKAiYm8PK) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Ten Toes \(Feat\. MC Spyda, General Levy & Eksman\)](https://open.spotify.com/album/1cmCebelS6vjNHb9dnPAbn) | 3:54 | 2024-05-22 | 2024-11-09 |
 | [The Box](https://open.spotify.com/track/0iWXA5HTkEVfIhOUS9dMUI) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [The Box](https://open.spotify.com/album/3eTsXqycvOk2j4STUhDJ2A) | 3:41 | 2024-06-14 | 2024-11-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 336762,
+  "num_followers": 336875,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/4Q4lurjRENDP1VOEfww9Im"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 262053,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/5PNa1MjGan22iWil3F4zv6"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Waiting for You",
         "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 211470,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/4Q4lurjRENDP1VOEfww9Im"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 262053,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/5PNa1MjGan22iWil3F4zv6"
     },
     {
       "added_at": "2024-09-02 12:32:28",

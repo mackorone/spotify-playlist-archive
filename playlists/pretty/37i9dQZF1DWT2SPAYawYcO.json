@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Spacey Jane, Royel Otis, Miley Cyrus, PinkPantheress + more",
-  "num_followers": 406807,
+  "num_followers": 407212,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,30 @@
       "duration_ms": 250217,
       "name": "lose her",
       "url": "https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1"
+    },
+    {
+      "added_at": "2025-05-08 14:00:21",
+      "album": {
+        "name": "Timeless (Remix)",
+        "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Timeless (feat. Playboi Carti & Doechii) - Remix",
+      "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
     },
     {
       "added_at": "2025-05-08 14:00:21",
@@ -534,15 +558,27 @@
         {
           "name": "Amy Lee",
           "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
-        },
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
       "duration_ms": 186033,
       "name": "Hand That Feeds - From the Film Ballerina",
       "url": "https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N"
+    },
+    {
+      "added_at": "2025-05-08 14:00:21",
+      "album": {
+        "name": "Forever (71943509)",
+        "url": "https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 188967,
+      "name": "Forever (71943509)",
+      "url": "https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz"
     },
     {
       "added_at": "2025-05-08 14:00:21",
@@ -1122,6 +1158,10 @@
         {
           "name": "Jordy Maxwell",
           "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        },
+        {
+          "name": "Paige Valentine",
+          "url": "https://open.spotify.com/artist/03CUg2BV0QxiYIq0IfAsBS"
         }
       ],
       "duration_ms": 200509,
@@ -1411,6 +1451,22 @@
     {
       "added_at": "2025-05-08 14:00:21",
       "album": {
+        "name": "Authority",
+        "url": "https://open.spotify.com/album/5Zz9ecda5sfDY1DTE3NY90"
+      },
+      "artists": [
+        {
+          "name": "Stallyano",
+          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
+        }
+      ],
+      "duration_ms": 145157,
+      "name": "Authority",
+      "url": "https://open.spotify.com/track/742tDvOCEYtMlvRJyNiA9K"
+    },
+    {
+      "added_at": "2025-05-08 14:00:21",
+      "album": {
         "name": "Ashamed That You Hate It",
         "url": "https://open.spotify.com/album/17WILF08O3PIq8YEcZyGKW"
       },
@@ -1595,6 +1651,22 @@
       "duration_ms": 248080,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/5UNJoyjnm1bfOz25NcMo6q"
+    },
+    {
+      "added_at": "2025-05-08 14:00:21",
+      "album": {
+        "name": "Glasshouse",
+        "url": "https://open.spotify.com/album/1eqMt48Mq3sZnVAt7E9Izn"
+      },
+      "artists": [
+        {
+          "name": "Lewis Love",
+          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/5lwrpaatdj6LNVRWTBmWm0"
     },
     {
       "added_at": "2025-05-08 14:00:21",

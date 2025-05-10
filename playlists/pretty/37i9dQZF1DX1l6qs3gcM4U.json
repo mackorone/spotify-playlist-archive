@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Florito, Neyna",
-  "num_followers": 227667,
+  "num_followers": 227703,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,38 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
+        "name": "AROMA INSANO",
+        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "AROMA INSANO",
+      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 255690,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -427,38 +459,6 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        }
-      ],
-      "duration_ms": 255690,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "AROMA INSANO",
-        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "AROMA INSANO",
-      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
-        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Bruna Tatiana",
-          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
-        }
-      ],
-      "duration_ms": 237717,
-      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
-      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "Vem Ser Feliz",
         "url": "https://open.spotify.com/album/5I3p9Ahmt2eLYivBrjKVLK"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 237570,
       "name": "Ref\u00fagio",
       "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
+        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Bruna Tatiana",
+          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
+        }
+      ],
+      "duration_ms": 237717,
+      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
+      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Filme",
-        "url": "https://open.spotify.com/album/1x2A4KzdcS4RCkCqLjEohS"
+        "name": "Buqu\u00ea",
+        "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
       },
       "artists": [
         {
           "name": "Deejay Telio",
           "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         }
       ],
-      "duration_ms": 166810,
-      "name": "Filme",
-      "url": "https://open.spotify.com/track/1RWKoFGg4XN4pnHw7OVDac"
+      "duration_ms": 211584,
+      "name": "Buqu\u00ea",
+      "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1347,18 +1343,22 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Buqu\u00ea",
-        "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
+        "name": "Filme",
+        "url": "https://open.spotify.com/album/1x2A4KzdcS4RCkCqLjEohS"
       },
       "artists": [
         {
           "name": "Deejay Telio",
           "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         }
       ],
-      "duration_ms": 211584,
-      "name": "Buqu\u00ea",
-      "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
+      "duration_ms": 166810,
+      "name": "Filme",
+      "url": "https://open.spotify.com/track/1RWKoFGg4XN4pnHw7OVDac"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1399,30 +1399,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Divino",
-        "url": "https://open.spotify.com/album/60BF8XXcz7XMinc13qPxpQ"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Twenty Fingers",
-          "url": "https://open.spotify.com/artist/3hZ2JuVlcM4yFRDwPUSXvC"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Divino",
-      "url": "https://open.spotify.com/track/5SCcDWBNJjWaLxLAt6WldT"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "Vai Chamar A M\u00e3e Dela",
         "url": "https://open.spotify.com/album/59N0hXSONHKEvw7pD8xk7q"
       },
@@ -1443,6 +1419,30 @@
       "duration_ms": 176000,
       "name": "Vai Chamar A M\u00e3e Dela",
       "url": "https://open.spotify.com/track/4P3ihy3K9aH4Z01YevyHG1"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/60BF8XXcz7XMinc13qPxpQ"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Twenty Fingers",
+          "url": "https://open.spotify.com/artist/3hZ2JuVlcM4yFRDwPUSXvC"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Divino",
+      "url": "https://open.spotify.com/track/5SCcDWBNJjWaLxLAt6WldT"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Doda",
-        "url": "https://open.spotify.com/album/2yGoDSzzHg0cOs3uWbzb16"
-      },
-      "artists": [
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        }
-      ],
-      "duration_ms": 210684,
-      "name": "Doda",
-      "url": "https://open.spotify.com/track/0CmWTQYRqTJI9oZb6QcHs9"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "Mininu Di Oru",
         "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 205996,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "Doda",
+        "url": "https://open.spotify.com/album/2yGoDSzzHg0cOs3uWbzb16"
+      },
+      "artists": [
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "duration_ms": 210684,
+      "name": "Doda",
+      "url": "https://open.spotify.com/track/0CmWTQYRqTJI9oZb6QcHs9"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Dando Love",
-        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Dando Love",
-      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L"
       },
@@ -1659,6 +1639,50 @@
       "duration_ms": 207500,
       "name": "Control",
       "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "Vem Dan\u00e7ar",
+        "url": "https://open.spotify.com/album/0x58soyHvSKk2GUY0aPa2x"
+      },
+      "artists": [
+        {
+          "name": "Yuri da Cunha",
+          "url": "https://open.spotify.com/artist/5Qw3RHD3R95D98alngBJOZ"
+        },
+        {
+          "name": "Ary",
+          "url": "https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST"
+        },
+        {
+          "name": "Dada 2",
+          "url": "https://open.spotify.com/artist/4at1l7I7RmqjlZfKTVoG0V"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Vem Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/0DhlDgtPyO4Mm9UTlDNEnt"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "Dando Love",
+        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "Dando Love",
+      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1783,8 +1807,8 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Vem Dan\u00e7ar",
-        "url": "https://open.spotify.com/album/0x58soyHvSKk2GUY0aPa2x"
+        "name": "Mano Mingo",
+        "url": "https://open.spotify.com/album/2lKbnZcZMsyFHpU6G0LLmR"
       },
       "artists": [
         {
@@ -1796,13 +1820,17 @@
           "url": "https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST"
         },
         {
-          "name": "Dada 2",
-          "url": "https://open.spotify.com/artist/4at1l7I7RmqjlZfKTVoG0V"
+          "name": "Danny Peezy",
+          "url": "https://open.spotify.com/artist/1XMHvR1wcH5bgiLGljmc1T"
+        },
+        {
+          "name": "Diboba",
+          "url": "https://open.spotify.com/artist/7EeGS7RRFJBOPGPgPUvfPO"
         }
       ],
-      "duration_ms": 228333,
-      "name": "Vem Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/0DhlDgtPyO4Mm9UTlDNEnt"
+      "duration_ms": 209041,
+      "name": "Mano Mingo",
+      "url": "https://open.spotify.com/track/71UG3Xb9UH78ujxLzcwrvn"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1907,50 +1935,22 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Eu Sei",
-        "url": "https://open.spotify.com/album/3PodGbYpuNkouzGt1TEUlz"
+        "name": "Marilia Mendon\u00e7a",
+        "url": "https://open.spotify.com/album/6HE6oZIUPnHaoui0RccW8B"
       },
       "artists": [
         {
-          "name": "Anderson M\u00e1rio",
-          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+          "name": "Cleyton David",
+          "url": "https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq"
         },
         {
-          "name": "Mariana Pereira",
-          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+          "name": "Tamyris Moiane",
+          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Eu Sei",
-      "url": "https://open.spotify.com/track/0XA69bF9HiS6H80VyG4d84"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "Mano Mingo",
-        "url": "https://open.spotify.com/album/2lKbnZcZMsyFHpU6G0LLmR"
-      },
-      "artists": [
-        {
-          "name": "Yuri da Cunha",
-          "url": "https://open.spotify.com/artist/5Qw3RHD3R95D98alngBJOZ"
-        },
-        {
-          "name": "Ary",
-          "url": "https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST"
-        },
-        {
-          "name": "Danny Peezy",
-          "url": "https://open.spotify.com/artist/1XMHvR1wcH5bgiLGljmc1T"
-        },
-        {
-          "name": "Diboba",
-          "url": "https://open.spotify.com/artist/7EeGS7RRFJBOPGPgPUvfPO"
-        }
-      ],
-      "duration_ms": 209041,
-      "name": "Mano Mingo",
-      "url": "https://open.spotify.com/track/71UG3Xb9UH78ujxLzcwrvn"
+      "duration_ms": 174342,
+      "name": "Marilia Mendon\u00e7a",
+      "url": "https://open.spotify.com/track/7fi9jQkoaLn4xVvjR4ZoQ1"
     }
   ],
   "unique_name": "Dancing Kizomba",

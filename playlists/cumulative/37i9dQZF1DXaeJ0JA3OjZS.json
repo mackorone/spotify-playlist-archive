@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "El Payaso",
+        "url": "https://open.spotify.com/album/7nEa4qa8Bcfc993KotJYaB"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180382,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/1eIIZzMC0NDHTbjScOYees"
+    },
+    {
+      "album": {
         "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
         "url": "https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B"
       },
@@ -728,7 +746,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 221986,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/1dmHOooKueXIkghSKdRYMC"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 131573,
       "name": "El Durango Contra El Peligro",
       "url": "https://open.spotify.com/track/02YhmAsJJ0xaG13aqD0dw1"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 193773,
       "name": "El Muchacho y el Potro",
       "url": "https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG"
@@ -1036,6 +1054,24 @@
       "duration_ms": 222020,
       "name": "El Nuevo Comandante",
       "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
+    },
+    {
+      "album": {
+        "name": "Me Traes de un Ala",
+        "url": "https://open.spotify.com/album/3us0ln0heM9tVS0EGihj1y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151133,
+      "name": "El Panam\u00e1 West",
+      "url": "https://open.spotify.com/track/2ifRNH5dVcY2wW5Z3YDiUd"
     },
     {
       "album": {
@@ -1093,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "El Payaso",
+        "url": "https://open.spotify.com/album/1IDb4xJUubJpvtp9oqCnQE"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199276,
+      "name": "El Payaso",
+      "url": "https://open.spotify.com/track/01jyuuM0sA6EkRVqemjDyY"
+    },
+    {
+      "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
@@ -1122,7 +1176,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 131291,
       "name": "El Polvorete",
       "url": "https://open.spotify.com/track/6YRLJX07LWUeVrx0sXC58C"
@@ -1288,7 +1342,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 177625,
       "name": "El Quijote De Don Chuy",
       "url": "https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp"

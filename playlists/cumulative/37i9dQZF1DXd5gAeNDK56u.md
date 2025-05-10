@@ -4,7 +4,7 @@
 
 > Mic check, 1, 2.
 
-133 songs - 5 hr 52 min
+134 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [2face](https://open.spotify.com/track/2NVEDeZ8ZJcEqIBpSAARLT) | [Kutoff](https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [2face](https://open.spotify.com/album/2nzWd9Eh2Cja9JZVuJQYcy) | 2:50 | 2023-03-27 |  |
 | [2face](https://open.spotify.com/track/6g8gWk2DX4olY3lVT0dDGz) | [Kutoff](https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [2face](https://open.spotify.com/album/2krIvIH9GdV7jeAN49NCAf) | 2:50 | 2023-03-27 | 2024-04-19 |
 | [Adhesion](https://open.spotify.com/track/0wWxkMoj8Nq4B1Hwt79y6R) | [7hour flower](https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK) | [Adhesion](https://open.spotify.com/album/2FPHivbc7Mb7ynW67tgKCS) | 2:50 | 2023-03-27 |  |
-| [AJ](https://open.spotify.com/track/2pcIABO9SnBqK7YvxayTUg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [AJ](https://open.spotify.com/album/1sKGSWZLv9meMtIAChg2pU) | 2:21 | 2023-03-27 |  |
+| [AJ](https://open.spotify.com/track/2pcIABO9SnBqK7YvxayTUg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [AJ](https://open.spotify.com/album/1sKGSWZLv9meMtIAChg2pU) | 2:21 | 2023-03-27 | 2025-05-10 |
 | [Alchemy](https://open.spotify.com/track/0kLFCLOe4pMZmqivsOjgNa) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Alchemy](https://open.spotify.com/album/1toAvZiVpZjfAYRhwy8Qav) | 2:49 | 2025-03-07 |  |
 | [All Good](https://open.spotify.com/track/1IKoX9kt3BSwrTtWlcEXrz) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Selected Archive \(1996 \- 2002\) \- No\. 5](https://open.spotify.com/album/5NbcdKLDqdkgZyUgsxUnME) | 2:01 | 2023-03-27 |  |
 | [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 2:26 | 2023-03-27 |  |
@@ -56,7 +56,7 @@
 | [Fly by Night](https://open.spotify.com/track/5u3vpXS3p1NEPGpK87MfTO) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Fly By Night](https://open.spotify.com/album/3XDxXhJUcii0AcwIiqkIsm) | 2:09 | 2023-03-27 |  |
 | [Forest of Sin](https://open.spotify.com/track/7irQGbq5KxxRpSWQn07YNp) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Forest of Sin](https://open.spotify.com/album/4dPY93ianmoQkWkNDjeZq8) | 2:38 | 2024-02-22 |  |
 | [Friction](https://open.spotify.com/track/3H2B44AsFACyQt7RTvqyuf) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:11 | 2023-03-27 |  |
-| [Frozen](https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/23dKuFmFNnE6Te4UfjDews) | 3:09 | 2023-03-27 |  |
+| [Frozen](https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/23dKuFmFNnE6Te4UfjDews) | 3:09 | 2023-03-27 | 2025-05-10 |
 | [Frozen](https://open.spotify.com/track/6PuJovR9z3hph9MDCiIVgS) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/0GRRcND8BPMGmFakvmwqWf) | 3:09 | 2023-03-27 | 2024-04-19 |
 | [GAMETIME](https://open.spotify.com/track/13YCzEIXsoBWLEXSyaTeAe) | [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK), [TUNDRAMANE](https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu) | [GAMETIME](https://open.spotify.com/album/5WMNiz7h7MoUSYHK1R2s6t) | 1:55 | 2023-03-27 | 2024-02-23 |
 | [Green Tea](https://open.spotify.com/track/5J6kPJitwCWunE3EjHWIHh) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Green Tea](https://open.spotify.com/album/5m6LyuH74ie0sDQi4MiXqv) | 1:45 | 2023-03-27 | 2024-02-23 |
@@ -130,6 +130,7 @@
 | [Twenty Ten](https://open.spotify.com/track/6GfH6Y1L94563PL4sQxmzk) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:31 | 2023-03-27 |  |
 | [Undefeated](https://open.spotify.com/track/0ki6laglGoxUxTSzI8qoBU) | [Cris Luke](https://open.spotify.com/artist/3rWSBTTVA1lFOu9hKrLaCp) | [Freestyle Beats, Vol\. 4](https://open.spotify.com/album/1bOwP3mYKh0RbHUT7yiZiW) | 3:23 | 2023-03-27 |  |
 | [Unimerse](https://open.spotify.com/track/4zG5rjF0PLcuVu6u43OgQD) | [Push N' Glide](https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA) | [Unimerse](https://open.spotify.com/album/7lfcSg7ikGV3p1Zbd91e61) | 3:12 | 2024-03-26 |  |
+| [Visionary](https://open.spotify.com/track/0XkVZEVCIQGT7TxlPeB6tp) | [NxCxF](https://open.spotify.com/artist/4Hm3wX5niVGJ8BZ7j4SaCK) | [Visionary](https://open.spotify.com/album/5b49YW0wudV51P3XdQKr4M) | 2:24 | 2025-05-09 |  |
 | [Voices](https://open.spotify.com/track/0wotNoOjaZ0ywOL6H0ryRg) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Voices](https://open.spotify.com/album/4I5OMUosuaxd67tikjoLzA) | 3:02 | 2023-03-27 |  |
 | [VVS](https://open.spotify.com/track/6222XJYoLxi9EQ2KnmSJCX) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [VVS](https://open.spotify.com/album/1ANnj2y4Bznw82pSkIxtYM) | 1:59 | 2023-03-27 | 2024-02-23 |
 | [Waiting](https://open.spotify.com/track/61PZO6qSaGjqfllC5gu4Hn) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Waiting](https://open.spotify.com/album/7IK9cKeVVbjEsUueOXS2OE) | 3:12 | 2025-01-10 | 2025-03-08 |

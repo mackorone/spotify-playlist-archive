@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > Using one of the largest archives in the world at Universal Music Group, we have gone through tens of thousands of tracks to curate a playlist of the best dance music\. Find classics, rarities and undiscovered gems from artists that shaped the scene as we know it\. RE:VERSAL \- roots in the past, fruit
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 13 likes - 87 songs - 10 hr 3 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 14 likes - 87 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 | 71 | [Bulletproof Love \- Van Rivers & The Subliminal Kid Remix](https://open.spotify.com/track/7vMOUHxFN7YmaADCTJKvPk) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Splitting The Atom](https://open.spotify.com/album/4lBpAlKcllrmSOn0SidPdg) | 6:43 |
 | 72 | [Bandelero Desperado](https://open.spotify.com/track/4kBkClwoLboMPCeowlFtmw) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Danny Vicious](https://open.spotify.com/artist/4292r3Q0datJ3PKJNZn0Nj) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 3:57 |
 | 73 | [Crazy Love](https://open.spotify.com/track/1I0lNV2PAKHLsFCuRC1Z1Y) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 4:39 |
-| 74 | [Deja Vu \- Vibe](https://open.spotify.com/track/0xlRzzdG8Yr1FqnuP6Ck2t) | [Latanza Waters](https://open.spotify.com/artist/061izSOA0UOK0aTRSS1WRt), [E\-Smoove](https://open.spotify.com/artist/5pNtSxu0GvUXbcO7iNy7Qx) | [Look What We Found On This Nervous DAT EP](https://open.spotify.com/album/3O5JuoGFuElT7v2wUV5DiU) | 6:24 |
+| 74 | [Deja Vu \- Vibe](https://open.spotify.com/track/0xlRzzdG8Yr1FqnuP6Ck2t) | [Latanza Waters](https://open.spotify.com/artist/1ahHwDoAfvoBMC144CIcjV), [E\-Smoove](https://open.spotify.com/artist/5pNtSxu0GvUXbcO7iNy7Qx) | [Look What We Found On This Nervous DAT EP](https://open.spotify.com/album/3O5JuoGFuElT7v2wUV5DiU) | 6:24 |
 | 75 | [Toxygene \- Kris Needs Up For A Fortnight Mix Edit](https://open.spotify.com/track/2hjKYF4eoACzEAnRaCwDJp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 7:14 |
 | 76 | [Life Is Sweet \- Remix 2](https://open.spotify.com/track/2qwD1jCAOz3iqSU9URgYUO) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Life Is Sweet](https://open.spotify.com/album/3jmskN3iAuf03HQmj2xZbg) | 6:15 |
 | 77 | [While Others Cry](https://open.spotify.com/track/2gkv3llAPf2ISvwG9oGW8o) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Accelerator](https://open.spotify.com/album/5QJgGoswsej4o1KwXpfYCZ) | 5:27 |

@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP你我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: LBI利比
+> Hotpot & HOTPOP你我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus
 
-187 songs - 12 hr 29 min
+192 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [但願人長久](https://open.spotify.com/track/0K9JlgBeEtcx5I2OgX9hlg) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [晴歌集](https://open.spotify.com/album/2NkOW9aVr1Ov261a9upeH1) | 4:19 | 2023-02-02 | 2025-04-04 |
 | [住進你的行李 \(A Plus Ver.\)](https://open.spotify.com/track/0sk1CPmvdzL03FpdMDud57) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [住進你的行李 \(A Plus Ver.\)](https://open.spotify.com/album/24wLyLLvLG8L0f4tvWOwJP) | 3:34 | 2025-04-03 |  |
 | [你在我喜歡的世界裡（《愛你》影視劇主題曲）](https://open.spotify.com/track/14PzcR0qXHYCfPhvSM2RlT) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [你在我喜歡的世界裡（《愛你》影視劇主題曲）](https://open.spotify.com/album/78BlwkN5CKGfU8jeDXLz4G) | 3:44 | 2025-04-03 |  |
+| [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 | 2025-05-09 |  |
 | [你救哪一個 \(Hidden Track\)](https://open.spotify.com/track/3F4di2gUOaxexwCsrPwtQT) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Vibes](https://open.spotify.com/album/4KmgdX1Q7Q5tzEwNhNjjII) | 3:37 | 2023-02-02 | 2025-04-04 |
 | [你是我的女人](https://open.spotify.com/track/6jDLdVKCa0lM8RyzNuvnxn) | [Robynn & Kendy](https://open.spotify.com/artist/3NFZHFNSDK0Q8k3k38ysTp) | [Robynn & Kendy](https://open.spotify.com/album/4Kh0aJr49Tb4lDBEJu5kAq) | 3:36 | 2023-02-02 | 2025-04-04 |
 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:44 | 2025-04-10 |  |
@@ -74,6 +75,7 @@
 | [卡農 in Love](https://open.spotify.com/track/5q2KZ00BlQCqvN5JYBcsY4) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [卡農 in Love](https://open.spotify.com/album/3jaJeH586fUiZ4gbAPfkgP) | 3:26 | 2025-04-03 |  |
 | [友情歲月](https://open.spotify.com/track/1EzjQgHyJL3RoDdQBwIG06) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 5:08 | 2024-04-04 | 2025-04-04 |
 | [取消資格](https://open.spotify.com/track/5fTvinvM2O7Qfedvp4u3ck) | [Cass Phang](https://open.spotify.com/artist/0RkQt8LMVrxCjQb9BxpBfF) | [給我愛過的男孩們\. 10週年24K金碟限量版](https://open.spotify.com/album/5yR2ixyCiWRtSfB5Jeb9CF) | 4:01 | 2023-02-02 | 2025-04-04 |
+| [吹吹風](https://open.spotify.com/track/7qpNCIAEv55q1jkzsO1jxd) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [吹吹風](https://open.spotify.com/album/5vape6V9FymJGeFKZfugS4) | 2:55 | 2025-05-09 |  |
 | [喜歡戀愛](https://open.spotify.com/track/4FzNaixy0Ura2eDmS3217L) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [Sammi VS Sammi](https://open.spotify.com/album/1ZMrZVljBvcfVt2Eez0e9a) | 4:30 | 2023-02-02 | 2025-04-04 |
 | [嗵嗵](https://open.spotify.com/track/2XP3hbbZKRhrlSBf8POjuA) | [DOUDOU](https://open.spotify.com/artist/0ctojL7wBYi3YJ4mNWeXcC) | [嗵嗵](https://open.spotify.com/album/4N0gVumgPBUJ135KBrmQyM) | 4:23 | 2025-04-03 |  |
 | [囍帖街](https://open.spotify.com/track/4Bftk2JcO5Ul017BCmcBL4) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [Eason Chan Duo Concert 2010](https://open.spotify.com/album/07fbAm4G10mTHjzWk8pz62) | 4:27 | 2024-04-04 | 2025-04-04 |
@@ -155,6 +157,8 @@
 | [白日夢繩索](https://open.spotify.com/track/6Jy0rQR3mrYX57MoSt8Lmc) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [白日夢繩索](https://open.spotify.com/album/1gmqNF6LM9coMjNv5og8u7) | 3:55 | 2025-04-03 |  |
 | [白銀](https://open.spotify.com/track/2N1pcj1jkiRtDjpMwo0k4H) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:24 | 2022-03-10 | 2023-02-03 |
 | [盡力呼吸 \(ViuTV 身後事務所主題曲\)](https://open.spotify.com/track/1KoK7b4MeItuE19jbNpsaT) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [盡力呼吸 \(ViuTV 身後事務所主題曲\)](https://open.spotify.com/album/4OwQFCRUeZROVQ2XjRILfg) | 3:56 | 2022-03-10 | 2023-02-03 |
+| [相信自己相信自己相信自己](https://open.spotify.com/track/7vYOhhgIK5KNPXVcoM1jUP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [相信自己相信自己相信自己](https://open.spotify.com/album/4CIdGWnaU5tsdbptNCIUIV) | 4:20 | 2025-05-09 |  |
+| [真不懂為啥又emoㄌ](https://open.spotify.com/track/0U2xVv5i8JddIPobKNuaev) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [真不懂為啥又emoㄌ](https://open.spotify.com/album/3VZvrik2kpghuw4aoeltXQ) | 2:29 | 2025-05-09 |  |
 | [祝君好](https://open.spotify.com/track/5bSF9Tlr0RM7buiMbCoamZ) | [Justin Lo](https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC) | [金牌醇音樂](https://open.spotify.com/album/6jPQJnhNyqO49dcyJGBHcR) | 4:00 | 2023-02-02 | 2025-04-04 |
 | [禁色](https://open.spotify.com/track/1wx0DU53rprgVs1EfwinIo) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [梁祝下世傳奇 \(2nd Version\)](https://open.spotify.com/album/26NCYcvfFhRwQeyJTK4iOG) | 4:01 | 2023-02-02 | 2025-04-04 |
 | [禁色](https://open.spotify.com/track/3upZiipbPQ6ewvm0PDyarH) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [達明一代](https://open.spotify.com/album/512ilWYaatApFMRpBoohXl) | 3:54 | 2024-04-04 | 2025-04-04 |
@@ -188,6 +192,7 @@
 | [陪著你走 \- 劇集 "不懂撒嬌的女人" 插曲](https://open.spotify.com/track/6ZowYBoRWQaS7bPmmDuWpS) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [Lonely](https://open.spotify.com/album/7jtCtoHovPWMOmzpTNNvVO) | 3:32 | 2023-02-02 | 2025-04-04 |
 | [陽光彩虹小白馬](https://open.spotify.com/track/4VYv4gIbr6XPWKTddnGBlh) | [Wowkie Da](https://open.spotify.com/artist/3RIgMUtdfRx98Lm5bXM3GD) | [人間精品](https://open.spotify.com/album/0NUqmEiC6AtqFTGV9KlaGo) | 3:46 | 2025-04-17 |  |
 | [隐形人（电视剧《难哄》等待曲）](https://open.spotify.com/track/11Vu9Zo7P4JXdrDRWVyrem) | [白敬亭](https://open.spotify.com/artist/7wAeyk4fSkYVf7BPiLPkda) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 4:45 | 2025-04-03 |  |
+| [隔著螢幕想念你](https://open.spotify.com/track/2UG57mASKdND4iQaS8EH1y) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [隔著螢幕想念你](https://open.spotify.com/album/14X0jLPKuLpJUa3YH8wpeC) | 3:04 | 2025-05-09 |  |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2022-03-10 | 2023-02-03 |
 | [難道喜歡處女座 \- J1M3 Remix](https://open.spotify.com/track/0ZWpQpsBL0aPRvSpxCPpnH) | [梁釗峰](https://open.spotify.com/artist/28ZDaobarpiyxFtfg11sS8), [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v) | [難道喜歡處女座 \(J1M3 Remix\)](https://open.spotify.com/album/1BI2KlhZY5Ba9hG68Syuj4) | 2:22 | 2023-02-02 | 2025-04-04 |
 | [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay 小肥](https://open.spotify.com/artist/14wCkmaUSQPkMjqo0MRhRv), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 | 2023-02-02 | 2025-04-04 |

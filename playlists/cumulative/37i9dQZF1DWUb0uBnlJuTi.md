@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-442 songs - 1 day 9 hr 36 min
+443 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Chromazone](https://open.spotify.com/track/5Ti3lJQt3sdPYlfUCsbODl) | [Elegant People](https://open.spotify.com/artist/0nLfAz1vNeKkFVkt89hMyL), [Lo Greco Bros](https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY) | [Chromazone](https://open.spotify.com/album/62qDJ7bZ6kQNpF1ZNbRj1u) | 4:59 | 2022-04-08 | 2023-05-27 |
 | [Chum City](https://open.spotify.com/track/2zdWHYYe0aqqzBjOKEvE8k) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [WRD Trio](https://open.spotify.com/artist/3X7BXKZNdJxqDhkIxgwzCM), [Nick Gerlach](https://open.spotify.com/artist/2uoITnBqKWeWlBsYk3tC1t) | [The Hit](https://open.spotify.com/album/4loBAN5ILsy8FFl4xcaALe) | 4:30 | 2021-04-30 | 2023-07-22 |
 | [Cincy Kid](https://open.spotify.com/track/5dEYKPx9UaRZsmeYGVNPmU) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Cincy Kid](https://open.spotify.com/album/50sB8VrdMPW41rCyE2n8B1) | 3:44 | 2024-03-29 | 2024-09-07 |
-| [Cineramascope](https://open.spotify.com/track/63dv2zKXPamiHHOKQBOzbU) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Corey Henry](https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh) | [Ya\-Ka\-May \(Deluxe Edition\)](https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6) | 3:14 | 2020-10-09 |  |
+| [Cineramascope](https://open.spotify.com/track/63dv2zKXPamiHHOKQBOzbU) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Corey Henry](https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh) | [Ya\-Ka\-May \(Deluxe Edition\)](https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6) | 3:14 | 2020-10-09 | 2025-05-10 |
 | [Cissy Strut](https://open.spotify.com/track/4eqo4WYx13P7DcyAy0umUN) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Cissy Strut](https://open.spotify.com/album/0xMtRJhjKWjIX6cD9s35WN) | 4:30 | 2023-01-27 |  |
 | [Closer](https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Closer](https://open.spotify.com/album/2aVYyjgHni7OpuNf53KUH0) | 4:55 | 2023-08-18 |  |
 | [Closer](https://open.spotify.com/track/53RnNvi572PmTJkQHP8lnq) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Veronica Swift](https://open.spotify.com/album/053XeiFx1CVMD0sU3gZ8f8) | 4:55 | 2023-08-18 | 2024-04-19 |
@@ -417,6 +417,7 @@
 | [Universal Insanity](https://open.spotify.com/track/16H5KPPLFLzvW0oZjJjwwe) | [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Universal Insanity](https://open.spotify.com/album/1OMIi4qsKlROBKp2sZEdFy) | 6:46 | 2021-10-01 |  |
 | [V Neck Sweater](https://open.spotify.com/track/2QdcIeRxcBbTQk3B6fng25) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [What Happened To Television?](https://open.spotify.com/album/6y4pGQRe2Nipa05NbGwsCq) | 2:35 | 2020-10-09 | 2022-07-04 |
 | [V\-Neck Sweater](https://open.spotify.com/track/5K5NAQrHIX5OdHdGgAVfIx) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [What Happened to Television?](https://open.spotify.com/album/2guvIXBJ1DeKg1c85D8j6C) | 2:35 | 2020-10-09 | 2023-03-11 |
+| [Ventura](https://open.spotify.com/track/6Te6TByygnONS4JyJC0ruN) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Ventura](https://open.spotify.com/album/2DaMTB2MtDuRWIb2WeLedU) | 2:28 | 2025-05-09 |  |
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2021-04-16 |  |
 | [War Dance](https://open.spotify.com/track/2tEEhDH6gxSAAzj0aJzpWO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 5:38 | 2022-08-12 | 2023-10-18 |
 | [War Dance](https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 5:38 | 2022-08-05 | 2023-04-30 |

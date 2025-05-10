@@ -1,29 +1,13 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 117070,
+  "num_followers": 117087,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAADmr0/35OCd2z5jDyugizoC",
+  "snapshot_id": "aBv0AAAAAACvnb4tTPBzCgSwRD9X7nn9",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Piensa En Ti (Sonando Desde El Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/6RlTdExC3Yd0wIxL8MTpBw"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 217978,
-      "name": "No Piensa En Ti - Sonando Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/5ZY4KPgjOVBMAzZXdUIGyH"
-    },
     {
       "added_at": null,
       "album": {
@@ -75,26 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pero Qu\u00e9 Necesidad",
-        "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
+        "name": "Unidad, Cerveza y Ska",
+        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 188394,
-      "name": "Pero Qu\u00e9 Necesidad",
-      "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
+      "duration_ms": 249906,
+      "name": "No Piensa En Ti",
+      "url": "https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM"
     },
     {
       "added_at": null,
@@ -147,18 +123,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+        "name": "Pero Qu\u00e9 Necesidad",
+        "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
       },
       "artists": [
         {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 255373,
-      "name": "Por \u00daltima Vez",
-      "url": "https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu"
+      "duration_ms": 188394,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
     },
     {
       "added_at": null,
@@ -199,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidad, Cerveza y Ska",
-        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
       "artists": [
         {
@@ -208,9 +192,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR"
+      "duration_ms": 255373,
+      "name": "Por \u00daltima Vez",
+      "url": "https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu"
     },
     {
       "added_at": null,
@@ -263,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como Te Extra\u00f1o (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/0RetTuwMa9ZPANEtjW9qSu"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Como Te Extra\u00f1o - Sonando Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/06P1xfDkxkrDS1t7zixhCy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
       },
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amar o Morir",
-        "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Brindo por ti",
-      "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 245146,
       "name": "Las Tijeras",
       "url": "https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amar o Morir",
+        "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Brindo por ti",
+      "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 276493,
-      "name": "Inspiracional",
-      "url": "https://open.spotify.com/track/1iPLqMA51oVMzaATZrcZZ1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 230207,
+      "name": "Deja Ya de Mentir",
+      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+        "name": "Unidad, Cerveza y Ska",
+        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 230207,
-      "name": "Deja Ya de Mentir",
-      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
+      "duration_ms": 236346,
+      "name": "Inspiracional",
+      "url": "https://open.spotify.com/track/6rpuI5wb7070I1ZpMvRpzh"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "No Puedo Ser Tu Amigo",
-      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 239333,
       "name": "Desatinos",
       "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "No Puedo Ser Tu Amigo",
+      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Te Falt\u00f3 Coraz\u00f3n - Versi\u00f3n Bolero",
-      "url": "https://open.spotify.com/track/77ugG1dWbDv980I5J0IEzY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
       "artists": [
         {
@@ -804,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 154897,
-      "name": "Ara\u00f1a Ska",
-      "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
+      "duration_ms": 267333,
+      "name": "Te Falt\u00f3 Coraz\u00f3n - Versi\u00f3n Bolero",
+      "url": "https://open.spotify.com/track/77ugG1dWbDv980I5J0IEzY"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 205720,
       "name": "Breve Historia de Amor y una Mujer",
       "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 154897,
+      "name": "Ara\u00f1a Ska",
+      "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
     },
     {
       "added_at": null,

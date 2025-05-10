@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Sam Opuku
 
-1,251 songs - 2 day 12 hr 14 min
+1,255 songs - 2 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [Maybe It's You](https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Maybe It's You](https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6) | 1:55 | 2024-05-10 | 2024-07-27 |
 | [Maybe, Maybe Not](https://open.spotify.com/track/6J2AWg7cIQtIHkiU3T0zFt) | [Gyidi](https://open.spotify.com/artist/3jY1C6F2eSZe6Sgo82Oeq6) | [Maybe, Maybe Not](https://open.spotify.com/album/3uMDhS7oJ9JfeqepR8kUQt) | 2:33 | 2024-02-23 | 2024-04-12 |
 | [Me & U](https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Me & U](https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf) | 3:04 | 2023-09-14 | 2024-02-16 |
+| [Me & You](https://open.spotify.com/track/7nZZdrKSoqrZcehPxwPyif) | [Amara](https://open.spotify.com/artist/5fCSA7lk5loHCVoE6Nj6XR) | [Me & You](https://open.spotify.com/album/4m3pI7uQSXCZmltcB2wXBU) | 3:07 | 2025-05-09 |  |
 | [Me & You](https://open.spotify.com/track/7GQWq2bKlhGTEEkXMQkloe) | [Eli Jae](https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ) | [Me & You](https://open.spotify.com/album/0ITlgh9xtnwV3SKphG66FA) | 2:45 | 2024-08-02 | 2024-11-16 |
 | [Me First](https://open.spotify.com/track/0ROpSlbII1MFx9vKW4v470) | [Rebecca Winter](https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5) | [Me First](https://open.spotify.com/album/5yDKrACWOvU9nZXFJsV8jR) | 2:33 | 2023-03-03 | 2023-03-11 |
 | [Me Ne Woa](https://open.spotify.com/track/08vdSZrMk6bY8zjkA3CIld) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [2+](https://open.spotify.com/album/1swMrYyV71fXCRLLVb4L76) | 3:30 | 2025-01-31 | 2025-02-20 |
@@ -955,6 +956,7 @@
 | [Running Over](https://open.spotify.com/track/7ddO2IAJRp8JUNpISskFMG) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [THE MANDATE](https://open.spotify.com/album/2TwGUBLCc4gMW37ANmWdvi) | 2:46 | 2024-03-15 | 2024-05-10 |
 | [Saati Ramoni](https://open.spotify.com/track/6zLC5tfSmJmotGcOKF37Gc) | [MUIS](https://open.spotify.com/artist/5UhxuCNM1djBJLm5VhvuRy) | [Saati Ramoni](https://open.spotify.com/album/0VmgXMeTpKOknX6Vy6dBbV) | 3:09 | 2023-06-22 | 2023-11-24 |
 | [Sad and Sober](https://open.spotify.com/track/54W4G5BZC9CxDtIuVe5SFM) | [Dicey](https://open.spotify.com/artist/2B6QM6JZ6C7YsOSGPehcnm) | [Sad and Sober / Go Home](https://open.spotify.com/album/1ZcPP8gLMX1t9pyH7PHbuE) | 2:49 | 2024-02-16 | 2024-03-01 |
+| [Sade](https://open.spotify.com/track/2AXGzJKUM7y9rFM4LHUVmz) | [Dera](https://open.spotify.com/artist/0fm0WfnKaOf2C8rdvnHlnj) | [Sade + Any Other Day](https://open.spotify.com/album/5qI89bdgXp4h8XfxXSFGOi) | 3:04 | 2025-05-09 |  |
 | [Sade's Dilemma](https://open.spotify.com/track/6TTbMeipMlRTXGHXV996Bl) | [Musmah](https://open.spotify.com/artist/2UtsSN12dSDhK0ZtPqVLbC) | [Sade's Dilemma](https://open.spotify.com/album/30IJ8Q1JIQOu3mBlmoyQPi) | 2:44 | 2023-01-13 | 2023-02-24 |
 | [Safe](https://open.spotify.com/track/7dXdkGdFsBqHA12BCLrYm2) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc), [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Story of Our Lives](https://open.spotify.com/album/11She1URb5G1orrCZeLFsG) | 2:42 | 2024-09-20 | 2024-11-30 |
 | [Saints Row](https://open.spotify.com/track/3OGKSo3gKQnQbG7d8GFLJE) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C) | [Saints Row](https://open.spotify.com/album/6kEjvHgwHodZdPhLBpQzxu) | 2:56 | 2023-03-24 | 2023-05-26 |
@@ -962,6 +964,7 @@
 | [Salam](https://open.spotify.com/track/1vLStnc9ynBzPihr218WfT) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Salam](https://open.spotify.com/album/5u4szlTB3ZXXUm2PFPGDch) | 3:13 | 2024-10-18 | 2025-03-29 |
 | [Salt](https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Salt](https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG) | 3:05 | 2024-03-29 | 2024-07-05 |
 | [Sama Riddim](https://open.spotify.com/track/6FDCIpdd1aeJqB4bweUz7c) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [Nana Dinero](https://open.spotify.com/artist/7AAizi9ZwavkXbtg7MLeIx), [Zel X](https://open.spotify.com/artist/7wvdLJerMHrlCnpVo7zdmt) | [Solu, Vol\. 1](https://open.spotify.com/album/11uI3FGpSb4A2UDrEPYzpC) | 2:06 | 2023-03-17 | 2023-05-26 |
+| [Samory](https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM) | [Dahvi](https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt) | [Samory](https://open.spotify.com/album/2zGag5WZkERb7PpoVu2SuP) | 2:41 | 2025-05-09 |  |
 | [San Pe](https://open.spotify.com/track/2zqHnkOlfCIJoel6nhAxUZ) | [Lakna](https://open.spotify.com/artist/4KPdER6eNWruPkJ8ps4f6c), [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r) | [San Pe](https://open.spotify.com/album/7jk41jBPqxkWma6P741pYQ) | 2:46 | 2024-06-28 | 2024-07-12 |
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 | 2023-03-25 |
 | [Santi](https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O) | [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Santi](https://open.spotify.com/album/45qYrEUMR65J6PDoh6G8fQ) | 3:50 | 2022-08-19 | 2022-11-19 |
@@ -1194,6 +1197,7 @@
 | [weight](https://open.spotify.com/track/6Xs0BBQGIRCQxQwL0zt7lD) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Ashref](https://open.spotify.com/artist/5VlCWMebGynSUIx6dRxaPe) | [Dear Z](https://open.spotify.com/album/5yYCqkCxYnXFLqApA98Ltv) | 2:54 | 2024-11-22 |  |
 | [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 | 2022-06-30 | 2023-03-11 |
 | [welcome to my world](https://open.spotify.com/track/31Cg8s9yfeNbL10xo9KyJx) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [welcome to my world](https://open.spotify.com/album/0j0q0bAmZMSr5Im6P8hi2R) | 3:02 | 2024-07-05 | 2024-09-13 |
+| [Well](https://open.spotify.com/track/5GJpGaP79iINgsXERqERlc) | [Nello MXL](https://open.spotify.com/artist/3tTgOZaxLpzUirK4aKQalD) | [Well](https://open.spotify.com/album/20YEEoY9fomFLV1BYOJ7gk) | 1:36 | 2025-05-09 |  |
 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-01-29 | 2023-02-11 |
 | [What Do I Do?](https://open.spotify.com/track/6V4Rf276IlbCk3q6T1zxrx) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Kozo Zwane](https://open.spotify.com/artist/0Sa8nh1qc2jZhlqddED69k), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [There's a Burning Sensation Where My Heart Used to Be](https://open.spotify.com/album/58GU30ulA0gAb0a55mYiDb) | 4:18 | 2025-03-14 | 2025-03-29 |
 | [What I Need](https://open.spotify.com/track/5b1lVbGspiud4hIIiSCgGG) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Vynyl Sky](https://open.spotify.com/artist/1MSBh2UA3aK4YHajopxdLZ) | [With Love, Cozï](https://open.spotify.com/album/6Zh5AjQosM2aRzdIldGxKP) | 2:35 | 2025-04-18 |  |

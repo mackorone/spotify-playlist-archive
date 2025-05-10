@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3KRzhy0ANx5X4V5hebVOpY"
+      },
+      "artists": [
+        {
+          "name": "Plomb",
+          "url": "https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160848,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5tOokq8ZNXKnecXEhW7Go0"
+    },
+    {
+      "album": {
         "name": "Always A Princess",
         "url": "https://open.spotify.com/album/0zdJKeVbgqW1sMtIg4a0I9"
       },
@@ -200,6 +218,24 @@
       "duration_ms": 156000,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3xhTIo9o6Dd7fRYjBGjmv6"
+    },
+    {
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/4o71bCrDTJrhG2I8i2E4wP"
+      },
+      "artists": [
+        {
+          "name": "Oskarr Starr",
+          "url": "https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/6BujvePkNQpyGv5HerFipI"
     },
     {
       "album": {
@@ -294,6 +330,24 @@
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+    },
+    {
+      "album": {
+        "name": "beer goggles",
+        "url": "https://open.spotify.com/album/3gGJUDbEC0Jt0GWJNHEvdk"
+      },
+      "artists": [
+        {
+          "name": "rigii",
+          "url": "https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161819,
+      "name": "beer goggles",
+      "url": "https://open.spotify.com/track/4CFTyvX7JlnXFXGz2rYjkq"
     },
     {
       "album": {
@@ -564,6 +618,24 @@
       "duration_ms": 162208,
       "name": "Both Of Us",
       "url": "https://open.spotify.com/track/5l3ScH72LOQpXQ8qsO1SQc"
+    },
+    {
+      "album": {
+        "name": "Brooklyn Caf\u00e9",
+        "url": "https://open.spotify.com/album/2NVjMTfZNEdr0Ov2QW0ox8"
+      },
+      "artists": [
+        {
+          "name": "Palm Club",
+          "url": "https://open.spotify.com/artist/1q2QW8MMcFBOiqSh1AS5iv"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Brooklyn Caf\u00e9",
+      "url": "https://open.spotify.com/track/7ABcu8abthGXp26NswHwh2"
     },
     {
       "album": {
@@ -1288,7 +1360,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 134279,
       "name": "Dreaming Together",
       "url": "https://open.spotify.com/track/3yJCxQ784xrtePvpP2WK2n"
@@ -1745,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/2uEREUXRhoegj3yLh2VbRj"
+      },
+      "artists": [
+        {
+          "name": "Flower City",
+          "url": "https://open.spotify.com/artist/5ODtSBWuOOQ3MtSWuXe2Yp"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122016,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3jO4c2efUMnWeZVfJfmb4t"
+    },
+    {
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/6FTx15VgguASDLeZ2Y2DJO"
       },
@@ -1958,6 +2048,42 @@
       "duration_ms": 194181,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/71T8jxCMV616irGnEDtNht"
+    },
+    {
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/0asdkaEvKUc2y7wYiZHdVZ"
+      },
+      "artists": [
+        {
+          "name": "Half Tone",
+          "url": "https://open.spotify.com/artist/2AQalBCbiCK7zUReGcIzA8"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150521,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/3XPlql9pvEVyUtg26cGqZh"
+    },
+    {
+      "album": {
+        "name": "Heart on the Floor",
+        "url": "https://open.spotify.com/album/3NHzFiVKGdLH5qo4EEOqqn"
+      },
+      "artists": [
+        {
+          "name": "Sonido Solar",
+          "url": "https://open.spotify.com/artist/1GLUdo7Gb11aUla9lLb1mP"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Heart on the Floor",
+      "url": "https://open.spotify.com/track/37jLsdiIWhlhAu4myjaZgj"
     },
     {
       "album": {
@@ -2465,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/515lFKeWXkC6jIO5bucegv"
+      },
+      "artists": [
+        {
+          "name": "crayg",
+          "url": "https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160078,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/6TqIQ92s4hmv3oWRBD0zxW"
+    },
+    {
+      "album": {
         "name": "life's medicine",
         "url": "https://open.spotify.com/album/7J3BOF0ppMIl2rUI72J0BI"
       },
@@ -2861,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/3k0WoI9iatoLN28GMB3W2p"
+      },
+      "artists": [
+        {
+          "name": "Sonido Solar",
+          "url": "https://open.spotify.com/artist/1GLUdo7Gb11aUla9lLb1mP"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/4D4LilSp8N17KxGPmRfPq8"
+    },
+    {
+      "album": {
         "name": "my only",
         "url": "https://open.spotify.com/album/2nyllF9zZIJQYDFBAubiqk"
       },
@@ -2876,6 +3038,24 @@
       "duration_ms": 161500,
       "name": "my only",
       "url": "https://open.spotify.com/track/0PuEySwuDjWltm1hJfDLf9"
+    },
+    {
+      "album": {
+        "name": "My Soul",
+        "url": "https://open.spotify.com/album/6KFLHD1jzt9mf6STSwkk3H"
+      },
+      "artists": [
+        {
+          "name": "Palm Club",
+          "url": "https://open.spotify.com/artist/1q2QW8MMcFBOiqSh1AS5iv"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127304,
+      "name": "My Soul",
+      "url": "https://open.spotify.com/track/0by5E5sNv5w9t2VdbwzxJA"
     },
     {
       "album": {
@@ -3117,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2ByOlDrc32tCGQBiUrr1wb"
+      },
+      "artists": [
+        {
+          "name": "Sun Fighters",
+          "url": "https://open.spotify.com/artist/3MI5lIsreyUVcmNEFMd32S"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123185,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/23U2UGF030EHT6eJiF2NDZ"
+    },
+    {
+      "album": {
         "name": "Cygnus A",
         "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
       },
@@ -3186,6 +3384,24 @@
       "duration_ms": 155044,
       "name": "One Time",
       "url": "https://open.spotify.com/track/59f4mL88oqkIOfGAspJ5xD"
+    },
+    {
+      "album": {
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/0w6ui13i0sOb215zFHS2Jb"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125387,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/1kbt0P3mzHg6zho4DzH0xJ"
     },
     {
       "album": {
@@ -4174,6 +4390,24 @@
       "duration_ms": 150508,
       "name": "Summersome",
       "url": "https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G"
+    },
+    {
+      "album": {
+        "name": "Sunny Dance",
+        "url": "https://open.spotify.com/album/0slJeTmYldP9seS2WzWmDY"
+      },
+      "artists": [
+        {
+          "name": "Bear Frantz",
+          "url": "https://open.spotify.com/artist/1nEOXCXHk8zFrNecfXhgrr"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121486,
+      "name": "Sunny Dance",
+      "url": "https://open.spotify.com/track/2dX3L4HKJYOYLHENSID3eO"
     },
     {
       "album": {

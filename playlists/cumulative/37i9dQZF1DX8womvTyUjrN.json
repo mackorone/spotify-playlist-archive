@@ -4745,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Disco Rayado",
+        "url": "https://open.spotify.com/album/4GPtLXLaE56QWFcd2tRECu"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151912,
+      "name": "Disco Rayado",
+      "url": "https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7"
+    },
+    {
+      "album": {
         "name": "Disculpa Amiga",
         "url": "https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp"
       },
@@ -6308,7 +6326,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 152575,
       "name": "flash y pose",
       "url": "https://open.spotify.com/track/0Pg1kpLvT0TxWWLsDERTpV"
@@ -8730,7 +8748,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 184028,
       "name": "Llorando en una bici",
       "url": "https://open.spotify.com/track/1td30grY6zt6U0T5a50INJ"
@@ -14613,6 +14631,28 @@
     },
     {
       "album": {
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/1pfdJnA2T4vueqWh17xUMV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165859,
+      "name": "Showtime",
+      "url": "https://open.spotify.com/track/0Dzutlm6BRefqy9UL0N2KV"
+    },
+    {
+      "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
@@ -15310,7 +15350,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 246974,
       "name": "Still Luvin",
       "url": "https://open.spotify.com/track/0SDmW4WnnMouTsPEv3kftj"
@@ -18028,6 +18068,24 @@
       "duration_ms": 156666,
       "name": "\u00bfQu\u00e9 Hubiera Pasado?",
       "url": "https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk"
+    },
+    {
+      "album": {
+        "name": "PREGUNTAS A LAS 11:11",
+        "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180949,
+      "name": "\u00bfTrato Hecho?",
+      "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
     },
     {
       "album": {

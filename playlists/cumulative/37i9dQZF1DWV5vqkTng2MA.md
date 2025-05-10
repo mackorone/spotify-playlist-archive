@@ -2,9 +2,9 @@
 
 ### [the new retro](https://open.spotify.com/playlist/37i9dQZF1DWV5vqkTng2MA)
 
-> Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
+> Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: 54 Ultra
 
-298 songs - 17 hr 54 min
+299 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Call Me](https://open.spotify.com/track/0Of5so0SmxQprfv96NkXhb) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/7dmD07Qccdkm5Gina2emQ5) | 2:51 | 2021-10-01 | 2022-07-29 |
 | [Call Me](https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 2:51 | 2022-06-01 | 2024-04-19 |
 | [Can't Let Go](https://open.spotify.com/track/5SMb9DajcX67GuiL4urSjp) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Can't Let Go](https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr) | 3:41 | 2021-10-01 |  |
-| [Candid](https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3) | [MICKY](https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH) | [Candid](https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav) | 3:29 | 2024-09-06 |  |
+| [Candid](https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3) | [MICKY](https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH) | [Candid](https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav) | 3:29 | 2024-09-06 | 2025-05-10 |
 | [Can’t Let Go](https://open.spotify.com/track/6dQh60A0KlpwPT2p9ptJaY) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 3:41 | 2022-06-01 | 2024-04-19 |
 | [Car You Drive](https://open.spotify.com/track/2JKOUxv67D8kJ13XU8jAuE) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Car You Drive](https://open.spotify.com/album/6z0GegQkQN1D65F9AXuJmQ) | 3:16 | 2022-02-11 | 2022-07-29 |
 | [Champagne Corolla](https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:38 | 2021-10-01 | 2024-06-29 |
@@ -178,6 +178,7 @@
 | [No Matter Who](https://open.spotify.com/track/4e7kWhTaCZknQy2Lfv8FPC) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Emotions And Math](https://open.spotify.com/album/5bvAtftv0OnXJW2Ix5jlan) | 2:57 | 2021-10-01 | 2022-07-29 |
 | [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 | 2022-06-01 | 2023-10-02 |
 | [No Sugar In My Coffee](https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg) | 3:28 | 2023-09-15 | 2024-04-19 |
+| [No Tengo Valor](https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [No Tengo Valor](https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL) | 3:02 | 2025-05-09 |  |
 | [Noam Chomsky Is A Soft Revolution](https://open.spotify.com/track/5Hmqw5n7eAG3AOjegIOZF8) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Noam Chomsky Is A Soft Revolution](https://open.spotify.com/album/2vlXUWE82bX5MwmANg6eIO) | 2:28 | 2021-10-01 | 2022-07-28 |
 | [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 | 2021-10-01 |  |
 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 | 2021-10-01 |  |

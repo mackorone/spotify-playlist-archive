@@ -4,7 +4,7 @@
 
 > The world's most iconic and relaxing classical piano.
 
-146 songs - 9 hr 38 min
+147 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Liszt: Grandes études de Paganini, S\. 141: No\. 3 in G\-Sharp Minor "La campanella"](https://open.spotify.com/track/144YIgyuNfvWw1b6jJ0f5H) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mariam Batsashvili](https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci) | [Liszt: La campanella](https://open.spotify.com/album/1SRpbfDZVzU1YLJxr0Tv2n) | 4:59 | 2025-05-02 |  |
 | [Liszt: Liebesträume, S\. 541: No\. 1 in A\-Flat Major, Hohe Liebe](https://open.spotify.com/track/31xwm95e63OsHqopeYQlEM) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mariam Batsashvili](https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci) | [Lizst: Liebesträume, S\. 541: No\. 1, Hohe Liebe](https://open.spotify.com/album/1ZygzMzpSbIHGx14TavzaF) | 6:07 | 2025-04-04 |  |
 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 | 2021-12-06 |  |
+| [Lyric Pieces, Book 1, Op\. 12: No\. 7, Album Leaf](https://open.spotify.com/track/7hfoLeHqbJ6jWz0RqWfzBB) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Wonderland \- Edvard Grieg: Piano Concerto, Lyric Pieces](https://open.spotify.com/album/2UuimI3vh1uOLs1WemYk1m) | 1:20 | 2025-05-09 |  |
 | [Lyric Pieces, Book III, Op\. 43: No\. 5, Erotikon](https://open.spotify.com/track/4Fr1EjBybRVAeHyEW8xoXv) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Andrey Gugnin](https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe) | [Grieg: Lyric Pieces, Book III, Op\. 43: No\. 5, Erotikon](https://open.spotify.com/album/3sSsJvmJ2deZICQkB6Vrpe) | 3:44 | 2024-03-22 |  |
 | [Mahler / Transcr\. Tharaud: Symphony No\. 5 in C\-Sharp Minor, Pt\. 3: IV\. Adagietto](https://open.spotify.com/track/2wRDxGoCJWiWVNgjC8eHwJ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Le Poète du piano](https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk) | 10:36 | 2021-12-06 | 2022-03-18 |
 | [Menuets, RCT 6/3\-4](https://open.spotify.com/track/55MKF4WkMkVUcvJUr9SUP5) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Rameau: Menuets, RCT 6/3\-4](https://open.spotify.com/album/1pvXtnqy0WvrTFbfd2duVK) | 2:54 | 2025-04-11 |  |

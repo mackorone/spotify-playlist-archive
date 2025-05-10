@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Suki Waterhouse
+> New and approved indie pop\. Cover: Men I Trust
 
-2,106 songs - 4 day 15 hr 29 min
+2,108 songs - 4 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Candyfloss](https://open.spotify.com/track/4qMcXVzphY85iKSxYYrtoq) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 2:48 | 2022-12-16 | 2023-02-25 |
 | [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 | 2022-06-01 | 2022-10-14 |
 | [car freshener aftershave](https://open.spotify.com/track/3WjJsxVGgv338WTJjqMMUo) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [car freshener aftershave](https://open.spotify.com/album/4bttNVeiW21axEo78V9n6B) | 4:03 | 2021-05-05 | 2021-05-27 |
+| [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 | 2025-05-09 |  |
 | [CARRY YOU](https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [CARRY YOU](https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k) | 3:08 | 2024-08-09 | 2024-08-24 |
 | [Castaway](https://open.spotify.com/track/69wolqsoM2iep99SK53FpN) | [Jiubel](https://open.spotify.com/artist/1pmY5q8eybXnnrwOEFqQ1M) | [Castaway](https://open.spotify.com/album/1Hfo8EEoxWLnP9Rqhc8ppP) | 3:13 | 2022-04-01 | 2022-04-14 |
 | [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-10-28 | 2022-12-10 |
@@ -1201,7 +1202,7 @@
 | [Marigold](https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Hearth Room](https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO) | 3:22 | 2024-01-12 | 2024-02-08 |
 | [mario kart \(feat\. Travis Barker\)](https://open.spotify.com/track/30ymFh1FOJFYrxHNwP1NQU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [drinking under the streetlights](https://open.spotify.com/album/5U4bpnZJBgFxmkhLMDmXEz) | 3:15 | 2021-06-04 | 2022-04-15 |
 | [Mariposa](https://open.spotify.com/track/1DoTOLMkoBQBvwL03teDcX) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Mariposa](https://open.spotify.com/album/3odwLJIqls0IKMF5WlQg65) | 3:41 | 2020-10-13\* | 2021-01-21 |
-| [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 | 2025-04-04 |  |
+| [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 | 2025-04-04 | 2025-05-10 |
 | [mason jar](https://open.spotify.com/track/44MDRUBb2OWMXznojxHMS4) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [mason jar / wanna be](https://open.spotify.com/album/0fKp8beezInGKO2Rqw7cLh) | 3:40 | 2021-10-29 | 2022-01-17 |
 | [Massive Escape \- Arlie Remix](https://open.spotify.com/track/68rtq5ugG2ac3CQJRkVOKm) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg), [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Massive Escape \(Arlie Remix\)](https://open.spotify.com/album/5cmU7KKqlejkXB7ZtfnGMg) | 2:58 | 2022-05-20 | 2022-07-18 |
 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 | 2021-05-04 | 2021-05-28 |
@@ -1246,7 +1247,7 @@
 | [Mirror](https://open.spotify.com/track/3ojRuwQJsUQz7o9AYbtfUr) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Mirror](https://open.spotify.com/album/0aqHu5PjLZH3jsbY3hkCF8) | 4:05 | 2022-04-08 | 2022-04-17 |
 | [miss andry](https://open.spotify.com/track/4IxRx6byFf1RuXcbNny5qj) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [miss andry](https://open.spotify.com/album/4BeN8xu9ZEPUIPEFVFHuN6) | 4:23 | 2020-10-13\* | 2020-11-10 |
 | [miss me if u want to](https://open.spotify.com/track/5rwDHRNX2ntvlJbcb8xONo) | [Tipling Rock](https://open.spotify.com/artist/2ZDHVJnLtH2KJfBFzShihr) | [miss me if u want to](https://open.spotify.com/album/5JZ2VGDwBYO2sZwZJOk3A0) | 2:37 | 2020-10-13\* | 2020-11-20 |
-| [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-05-17 |  |
+| [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-05-17 | 2025-05-10 |
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2021-05-07 | 2022-04-09 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-25 | 2022-07-02 |
 | [Mona Lisa](https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Mona Lisa](https://open.spotify.com/album/4HWQr1DMWpRjlLf871CWe5) | 3:33 | 2021-11-12 | 2022-04-21 |
@@ -1255,6 +1256,7 @@
 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 | 2023-04-21 | 2023-12-09 |
 | [Monsters](https://open.spotify.com/track/1YsPiKqxgsQjp1KR4Anhlp) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Good Morning Stranger](https://open.spotify.com/album/3WzPTX1IRa5EOAhPYMq1SZ) | 3:44 | 2020-11-10 | 2021-05-25 |
 | [Montage](https://open.spotify.com/track/5spPysUyJk4E2Q1NeOPzMR) | [India Thieriot](https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg) | [Montage](https://open.spotify.com/album/5wB8X7AQjIlNdvTJNa7woo) | 2:50 | 2023-02-10 | 2023-03-04 |
+| [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-09 |  |
 | [Moon Girl](https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [Moon Girl](https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ) | 3:26 | 2024-01-12 | 2024-03-17 |
 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 | 2023-08-25 | 2024-01-27 |
 | [Moonshine](https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Moonshine](https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu) | 4:00 | 2023-04-14 | 2024-02-28 |

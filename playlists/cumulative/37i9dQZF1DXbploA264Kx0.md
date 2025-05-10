@@ -4,7 +4,7 @@
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: 安吉 \(ANGIE\)
 
-431 songs - 1 day 2 hr 12 min
+432 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Yessir](https://open.spotify.com/track/5b1TxI5Cy5nAzbI6w6EMTO) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Yessir](https://open.spotify.com/album/6Dd7YuUA4VOQnJXYaV2GYO) | 2:21 | 2024-08-22 | 2024-08-30 |
 | [You Better Kiss Me \( feat.LINION \)](https://open.spotify.com/track/4vw5HnGzn2eRiciecr3xxd) | [My Skin Against Your Skin](https://open.spotify.com/artist/4RU3DH7wuKdqrd9AaLp8Df), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [安卓雅](https://open.spotify.com/album/48hms3wgpjR6GJ27fdEFg6) | 4:32 | 2024-01-25 | 2024-05-11 |
 | [You know how](https://open.spotify.com/track/6KpedOLJFQcp2n9evsr6Q3) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [You know how](https://open.spotify.com/album/5FA5O1J70GbufGPfG9kwRa) | 3:32 | 2024-08-29 |  |
+| [You Will Always Be](https://open.spotify.com/track/7o8wiz2S0t8XYFu4Nj90OA) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [You Will Always Be](https://open.spotify.com/album/7iZrGgFMoMU5bwhOdG3Aif) | 2:48 | 2025-05-08 |  |
 | [Young Man](https://open.spotify.com/track/02cOOZKta4qE4Qv9BusfOQ) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/5nc0Puti8JCg2jkbFRYQ0x) | 4:17 | 2024-07-04 | 2024-07-27 |
 | [Yume](https://open.spotify.com/track/3vn1fOjZNCxxvSBxJMfkl7) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [Not Your Wet Dream](https://open.spotify.com/album/0bO1JBudQdhs2Ov1ajGylX) | 3:42 | 2025-03-13 | 2025-03-29 |
 | [Zan“讚”](https://open.spotify.com/track/7v0mO9hTJzhWMrYcMnZt03) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ), [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [Zan“讚”](https://open.spotify.com/album/0LDIKGg05W5vXotyHy6iiy) | 3:13 | 2024-12-26 | 2025-01-17 |

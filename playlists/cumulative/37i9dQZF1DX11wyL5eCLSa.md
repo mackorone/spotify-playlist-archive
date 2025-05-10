@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Lost Acapulco en Portada.
 
-633 songs - 1 day 13 hr 55 min
+635 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Lo Lamento](https://open.spotify.com/track/5Qnn5bQvjBVki9MSybe9Jg) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Lo Lamento](https://open.spotify.com/album/6hL4z4irsQampoG2aniRK8) | 3:01 | 2024-07-19 | 2025-02-01 |
 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 | 2024-02-09 | 2024-03-09 |
 | [Lo Que Siento por Ti](https://open.spotify.com/track/6kffxPk7W0kxvc1LDE9EFt) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Lo Que Siento por Ti](https://open.spotify.com/album/6UNzdNlomtHHP5zPjeRKnC) | 2:40 | 2023-02-24 | 2023-03-25 |
+| [Lo Rompimos Otra Vez](https://open.spotify.com/track/4BZJ9iCI7UKBIV3K6fqoWU) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Lo Rompimos Otra Vez](https://open.spotify.com/album/082lYpp3Wdj6mUxhBo6Lgf) | 2:53 | 2025-05-09 |  |
 | [LOBO HOMBRE EN PARÍS \- GRANDES ÉXITOS VERSIÓN SALVAJE](https://open.spotify.com/track/57fut1YLOHW3I3jkgMvA4l) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [UNO](https://open.spotify.com/album/6UwnkS2wNG9cxx04wjmPSB) | 3:24 | 2023-03-17 | 2023-03-25 |
 | [Loca](https://open.spotify.com/track/27yZs70h867i9omMP1ddFs) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Loca](https://open.spotify.com/album/4MNaCQTABABfWrom6DF30H) | 3:33 | 2024-12-20 | 2025-01-18 |
 | [Loco](https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Loco](https://open.spotify.com/album/3OWrrEeotMJYHiJKh3w3DJ) | 3:35 | 2025-02-25 | 2025-05-03 |
@@ -352,6 +353,7 @@
 | [Me has invitado a bailar](https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Me has invitado a bailar](https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp) | 3:12 | 2024-08-23 |  |
 | [Me la Pelas](https://open.spotify.com/track/3lSqRMbUmnQqxbLbxj0t5x) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Me la Pelas](https://open.spotify.com/album/6pB4owcjhJldY4FzYcsm7O) | 2:36 | 2023-02-10 | 2023-02-22 |
 | [Me Quieren Matar](https://open.spotify.com/track/3soKTnPmFPNK3feqeTAI9B) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Me Quieren Matar](https://open.spotify.com/album/1P4QJa2eFwuQSZkxj7kiS0) | 3:56 | 2025-04-18 |  |
+| [Me Siento Morir](https://open.spotify.com/track/0kDTu4tfBg92kKLP111jIW) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Me Siento Morir](https://open.spotify.com/album/07ZjXo3lbGfAY85yZ9eonZ) | 3:17 | 2025-05-09 |  |
 | [Me Sobra la Plata](https://open.spotify.com/track/3igxC0qw663Ip91fIwrU8q) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Me Sobra la Plata](https://open.spotify.com/album/3QeJmMXRGITqC7dARLP7Xy) | 3:44 | 2021-12-17 | 2022-04-30 |
 | [Me Solté de tus Brazos](https://open.spotify.com/track/3mq7R9UboWxi25tDs4S8c7) | [Pressive](https://open.spotify.com/artist/0A5tnsz3SjTXp9SOWc2Rx4), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Me Solté de tus Brazos](https://open.spotify.com/album/6qWYmzmvFYfU1gkfG0GyPb) | 3:55 | 2024-08-30 | 2025-02-15 |
 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
@@ -497,7 +499,7 @@
 | [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 | 2023-06-23 | 2024-05-04 |
 | [Sabinal](https://open.spotify.com/track/7paWGmYSmpkjG8WL7uQtjt) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/0b0mXtRM4QGRVvnpJO4FoA) | 2:16 | 2024-02-02 | 2024-04-19 |
 | [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 | 2022-02-09 | 2022-05-04 |
-| [Sale el Sol](https://open.spotify.com/track/1o7HnuQ87p2yEC64rCpPNt) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Novela](https://open.spotify.com/album/1c4mLG7WdqEmlPwoNU8qtG) | 2:38 | 2025-03-28 |  |
+| [Sale el Sol](https://open.spotify.com/track/1o7HnuQ87p2yEC64rCpPNt) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Novela](https://open.spotify.com/album/1c4mLG7WdqEmlPwoNU8qtG) | 2:38 | 2025-03-28 | 2025-05-10 |
 | [Santa Ursula](https://open.spotify.com/track/2fZnIhx4KNOsmImwM6Ad4L) | [Carrion Kids](https://open.spotify.com/artist/3BaXYCo5ZPoXCQ4MW93ulu) | [Santa Ursula](https://open.spotify.com/album/6iKFX0Mi8dftGut3AkZfVc) | 2:50 | 2025-03-07 |  |
 | [Sasha, Sissi y el Círculo de Baba \- EADDA9223 \(feat\. Mon Laferte\)](https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 3:58 | 2023-06-02 | 2023-06-24 |
 | [SATURADOS.](https://open.spotify.com/track/1xD2qhHRZ8OoWX0W5WhoDb) | [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [SATURADOS.](https://open.spotify.com/album/1awu6bROUZk9NE63huOT9e) | 2:27 | 2022-07-01 | 2022-07-15 |
@@ -578,7 +580,7 @@
 | [Tu Puto Grupo](https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Edu Espín](https://open.spotify.com/artist/1ZnwH4hFx4zPOCHMXMBMdk) | [Tu Puto Grupo](https://open.spotify.com/album/0E6yLyVWpKWjlIdOtxrMrj) | 3:06 | 2024-10-18 | 2024-12-07 |
 | [Tu Tiempo](https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tu Tiempo](https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp) | 3:25 | 2022-02-01 | 2023-09-09 |
 | [Tumbos](https://open.spotify.com/track/7CDuNfOfzLUeK45rjmtPWW) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Tumbos](https://open.spotify.com/album/4n2ljAchiEWrgiDuLHQiMP) | 2:39 | 2025-03-28 |  |
-| [TUS OJOS](https://open.spotify.com/track/5UyrF7PB7rni3kVWiajCVr) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [TUS OJOS](https://open.spotify.com/album/1KZnt2RfQQhSUKqfGGtOkk) | 3:32 | 2025-04-04 |  |
+| [TUS OJOS](https://open.spotify.com/track/5UyrF7PB7rni3kVWiajCVr) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [TUS OJOS](https://open.spotify.com/album/1KZnt2RfQQhSUKqfGGtOkk) | 3:32 | 2025-04-04 | 2025-05-10 |
 | [Tus Pasos](https://open.spotify.com/track/3akV8nvN6BNxdwT6yacH08) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Tus Pasos](https://open.spotify.com/album/61Ql4NZcrtpn2euqdgIqYk) | 3:26 | 2023-08-04 | 2023-09-02 |
 | [Términos y Condiciones](https://open.spotify.com/track/0NeQY4wc4fCGkRUMPuA3wM) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Términos y Condiciones](https://open.spotify.com/album/2udbVEb7ZysWb605c91NRT) | 2:35 | 2024-10-25 | 2025-03-29 |
 | [Tótem](https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Tótem](https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa) | 2:27 | 2024-05-10 | 2024-09-07 |

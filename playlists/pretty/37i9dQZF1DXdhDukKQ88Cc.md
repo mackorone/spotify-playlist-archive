@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,239 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,245 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 14 | [Pilot](https://open.spotify.com/track/4bdhr8csdbOX690DKsBOnH) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Pilot](https://open.spotify.com/album/5MacHtaCqoCziU1bOY8bu2) | 3:00 |
 | 15 | [Slå Dine Tanker Ihjel](https://open.spotify.com/track/7McXYvdZCrb0NFPJcmYVru) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Slå Dine Tanker Ihjel](https://open.spotify.com/album/0dssC4aiDhsuik7SYB8hjO) | 1:54 |
 | 16 | [Steve O](https://open.spotify.com/track/2x355lU17q5QEemPuj2eba) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Steve O](https://open.spotify.com/album/0F9k9AE4Mbm19VpveE8grZ) | 2:09 |
-| 17 | [Gennemsigtig](https://open.spotify.com/track/7EmL02uKWiG5VrdvbCf7gH) | [Will](https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT) | [Gennemsigtig](https://open.spotify.com/album/1XDo0v9Eg3GU3tRsXQ3vBd) | 2:46 |
+| 17 | [Gennemsigtig](https://open.spotify.com/track/7EmL02uKWiG5VrdvbCf7gH) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Gennemsigtig](https://open.spotify.com/album/1XDo0v9Eg3GU3tRsXQ3vBd) | 2:46 |
 | 18 | [Gøre Det Igen](https://open.spotify.com/track/1BOgF6FLheiCR5YLnkd36w) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Gøre Det Igen](https://open.spotify.com/album/6ycmMHSu86WJzuFIdslzTL) | 2:37 |
 | 19 | [Flad Af Grin \(feat\. Noah Carter & Benny Jamz\)](https://open.spotify.com/track/6xm5NjUzitBPdgtUUXR6P6) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Supernova](https://open.spotify.com/album/5vbJhFQh6zShDRuWIlaFbg) | 2:16 |
 | 20 | [Der Ik' Noget Imorgen](https://open.spotify.com/track/3II4mrde41VDBEBVJf2SaO) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Der Ik' Noget Imorgen](https://open.spotify.com/album/0lTI7nGxveTSafMpoEm0Lu) | 2:12 |

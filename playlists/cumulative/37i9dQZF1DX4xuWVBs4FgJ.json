@@ -1329,7 +1329,7 @@
         },
         {
           "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
         },
         {
           "name": "Maren Morris",
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 243455,
       "name": "Earthstar",
       "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
@@ -4292,7 +4292,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 174375,
       "name": "Lavender Haze - Acoustic Version",
       "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
@@ -5471,6 +5471,24 @@
     },
     {
       "album": {
+        "name": "No Tengo Valor",
+        "url": "https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "No Tengo Valor",
+      "url": "https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH"
+    },
+    {
+      "album": {
         "name": "mama's boy",
         "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
       },
@@ -5558,7 +5576,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 170083,
       "name": "Old School Love",
       "url": "https://open.spotify.com/track/4IywS1K0mIm1fdGDasE6uu"
@@ -6745,6 +6763,24 @@
     },
     {
       "album": {
+        "name": "table for two",
+        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111319,
+      "name": "table for two",
+      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
+    },
+    {
+      "album": {
         "name": "Take It With Me",
         "url": "https://open.spotify.com/album/6i8Dp8VHJOawYl331h0qkl"
       },
@@ -7702,6 +7738,24 @@
       "duration_ms": 180081,
       "name": "Waiting for God in the Garden",
       "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"
+    },
+    {
+      "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191244,
+      "name": "Walk The Way",
+      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
     },
     {
       "album": {

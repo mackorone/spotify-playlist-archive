@@ -1,12 +1,12 @@
 {
   "description": "Jadi lebih produktif ditemani musik terkini",
-  "num_followers": 147059,
+  "num_followers": 147056,
   "original_name": "Lebih Produktif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBl2mgAAAAD3ehUs5uIIpT+gdbdb2Gh3",
+  "snapshot_id": "aB2zswAAAAA/TZIirLFAQ0qu0w66fu62",
   "tracks": [
     {
       "added_at": "2025-04-21 07:26:37",
@@ -167,6 +167,38 @@
     {
       "added_at": "2025-04-21 07:26:37",
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "dreams, books, power and walls",
+      "url": "https://open.spotify.com/track/1deQhoZakgMT5fw0t9zliD"
+    },
+    {
+      "added_at": "2025-05-09 07:20:07",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+    },
+    {
+      "added_at": "2025-04-21 07:26:37",
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
@@ -197,20 +229,20 @@
       "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
     },
     {
-      "added_at": "2025-04-21 07:26:37",
+      "added_at": "2025-05-09 07:50:11",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
       },
       "artists": [
         {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 297000,
-      "name": "dreams, books, power and walls",
-      "url": "https://open.spotify.com/track/1deQhoZakgMT5fw0t9zliD"
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
       "added_at": "2025-04-21 07:26:37",

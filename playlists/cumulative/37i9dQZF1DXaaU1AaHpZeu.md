@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina, con babas tutsipop en portada.
 
-5,987 songs - 13 day 17 hr 50 min
+5,988 songs - 13 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4089,6 +4089,7 @@
 | [Pa Ti](https://open.spotify.com/track/2RI6t2wnifhfIyeSKXupio) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Pa ti](https://open.spotify.com/album/3uoCt9ywjzKWfwMP4qNeTn) | 2:11 | 2024-07-26 | 2024-08-03 |
 | [Pa' Que Sepas](https://open.spotify.com/track/1zv4GLkzu9aC1LxANPVABR) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa' Que Sepas](https://open.spotify.com/album/2v1MC1AaDxXvSg0yU5DKg1) | 2:51 | 2022-10-21 | 2022-10-29 |
 | [pacto\_bonus\_track](https://open.spotify.com/track/1brzr0qgELat2wblkMjYKV) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [sistema de entretenimiento](https://open.spotify.com/artist/4Fps5rcLi7YIfOcmTKHpHv) | [pacto\_bonus\_track](https://open.spotify.com/album/6Zok5UUSaBUufeKpc1EsjL) | 2:08 | 2024-04-26 | 2024-05-11 |
+| [Padiante](https://open.spotify.com/track/0RdRTdsqK9BVJnmbQPWLOX) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Padiante](https://open.spotify.com/album/2KxHh90sAc9vmtWID0mRoE) | 2:49 | 2025-05-08 |  |
 | [PAGA DIOS](https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAGA DIOS](https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit) | 2:16 | 2022-03-25 | 2022-04-02 |
 | [Paisaje](https://open.spotify.com/track/4QalPauP8X8TkaQrBudKCR) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Paisaje](https://open.spotify.com/album/24BxLzsxkoS9JZ279oFhpO) | 2:04 | 2024-05-31 | 2024-06-08 |
 | [Pajarito](https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Pajarito](https://open.spotify.com/album/24g6fF66JD00LheckA50yw) | 3:29 | 2022-09-23 | 2022-10-01 |

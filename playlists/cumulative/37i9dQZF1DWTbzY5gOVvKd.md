@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-198 songs - 13 hr 46 min
+199 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 | 2020-10-24 |  |
 | [Hours Of Ours](https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP) | [Waiting For Dawn](https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd) | 5:47 | 2019-05-29 |  |
 | [I Can't Give You Anything](https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Me and My Radio](https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF) | 5:18 | 2019-05-26\* | 2025-02-08 |
+| [I Could Have Danced All Night](https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Stella Cole \(Extended Version\)](https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w) | 2:40 | 2025-05-09 |  |
 | [I Could Write a Book](https://open.spotify.com/track/23hVRi7d6PqAHCwT1VBPAz) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Can't We Be Friends](https://open.spotify.com/album/713e1pr0LoxyIsY5zD297X) | 2:26 | 2022-05-02 | 2022-05-19 |
 | [I Don't Know Why \(I Just Do\)](https://open.spotify.com/track/1YeERdiy4oQr3A58e66OTP) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Still Blooming](https://open.spotify.com/album/2TA9I5hYhwBJQ9JcDqCjbg) | 3:44 | 2025-04-25 |  |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/4TRX5ZivGItdUnpkRC3JyU) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [I Get A Kick Out Of You](https://open.spotify.com/album/7dSqdzXE3lZxd6QBKesRab) | 3:33 | 2021-10-01 | 2022-06-01 |
@@ -139,7 +140,7 @@
 | [My Romance](https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:42 | 2022-05-02 |  |
 | [My True Love Is You](https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 3:12 | 2019-05-26\* |  |
 | [My Valentine](https://open.spotify.com/track/03SuyWE6YU5bRO7rp7sASB) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [My Valentine](https://open.spotify.com/album/3OQvJiraXKN7zo82ZOy2YT) | 3:28 | 2022-02-14 | 2022-06-01 |
-| [Never Less Than Yesterday](https://open.spotify.com/track/7ldeu7Q6Yx0iXPoFLqZBlQ) | [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [Never Less Than Yesterday](https://open.spotify.com/album/1QVtc9J5ckPLkOb32z9xcv) | 3:48 | 2025-02-21 |  |
+| [Never Less Than Yesterday](https://open.spotify.com/track/7ldeu7Q6Yx0iXPoFLqZBlQ) | [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [Never Less Than Yesterday](https://open.spotify.com/album/1QVtc9J5ckPLkOb32z9xcv) | 3:48 | 2025-02-21 | 2025-05-10 |
 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 | 2019-05-26\* |  |
 | [Never Let Me Go](https://open.spotify.com/track/4FCwx5XYXU5WQhfstq7Hdq) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Breakfast on the Morning Tram](https://open.spotify.com/album/5RwBI4pEinXbIiUhWzAMbX) | 4:38 | 2019-05-26\* | 2022-07-29 |
 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2022-06-22 | 2023-08-25 |

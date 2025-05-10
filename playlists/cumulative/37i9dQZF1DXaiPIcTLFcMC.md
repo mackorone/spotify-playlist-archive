@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Crushology 101\. \(바니와 오빠들의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-29 songs - 1 hr 25 min
+30 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Like A Dream](https://open.spotify.com/track/4Kw1ykVLHoFQxOPSVd8R2E) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Lovely Runner, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/5fqhw5RIuAu14Na1ld2FFC) | 4:09 | 2025-05-02 |  |
 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 | 2025-05-02 |  |
 | [No Longer](https://open.spotify.com/track/629NRMzA7LTXSuzwG7R1Ag) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 4:57 | 2025-05-02 |  |
+| [Our sea](https://open.spotify.com/track/41Uv8ri1InCygCF8ImOZZ2) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Our sea \(Crushology 101 OST Part.7\)](https://open.spotify.com/album/6YBjAt603jhnckUKdLoeeG) | 4:29 | 2025-05-09 |  |
 | [Snowfall at Night](https://open.spotify.com/track/0Zfbke9pFba6W4Vumee8iM) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Snowfall at Night](https://open.spotify.com/album/51dYUYuUzgfJLF3q9J45zr) | 2:59 | 2025-05-02 |  |
 | [Sunshine](https://open.spotify.com/track/5pX4PRX9nVSY7gBa2T6uF7) | [DENI](https://open.spotify.com/artist/4uNPpl6LsFtHCJ2E8A10x5) | [Sunshine \(Crushology 101 OST Part.2\)](https://open.spotify.com/album/3F3e4w8eZkTgoi9OD8eBLd) | 3:55 | 2025-05-02 |  |
 | [Trace of Stars](https://open.spotify.com/track/1xjbtApCZRAfQSCY0kv9jQ) | [ISA](https://open.spotify.com/artist/1wh0EIAV7aNtJ7q5da4rAT) | [Trace of Stars \(Crushology 101 OST Part.1\)](https://open.spotify.com/album/3CSpnXdnR4RDnVDaPMqJSG) | 4:23 | 2025-05-02 |  |

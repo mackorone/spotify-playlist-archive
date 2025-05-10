@@ -4,7 +4,7 @@
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245?si=P5cPXL8xSUCxQCnriunKTw">Skylaa Tylaa</a>
 
-336 songs - 23 hr 38 min
+337 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/32YnNTVsrqcSPj3aXDbi80) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4Inwvvp1zEZrhIriqbZK5f) | 5:31 | 2022-09-15 | 2022-12-13 |
 | [Selfmade $lick](https://open.spotify.com/track/379ldnzfmpVV1aaXQQVVOC) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Selfmade $lick](https://open.spotify.com/album/6m2yz9GrAqT8JZRRQYV8Md) | 3:03 | 2022-08-04 | 2022-08-12 |
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:51 | 2023-11-23 | 2024-07-12 |
+| [Sgubu Sa Kasi](https://open.spotify.com/track/3HNPrTRRTfy565DbTKTiWo) | [DJ Axeidental](https://open.spotify.com/artist/6BcVJBWTT5nAIynLLz4mrz), [LAE](https://open.spotify.com/artist/5tEuaS1APkI90VOicB8UR6), [YanoKinqz](https://open.spotify.com/artist/40xHdqb73QPZWUF69wgajt), [A\-Listars](https://open.spotify.com/artist/3pOidFYPyu1yycUkNyDusd) | [Sgubu Sa Kasi](https://open.spotify.com/album/5vl2oHbake0QaCH0KuxtW5) | 4:08 | 2025-05-08 |  |
 | [Shayi'Moto \(feat\. Seemah & Yanda Woods\)](https://open.spotify.com/track/0AQfRLzd7pQZcLtfh9Onb8) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Mr Pilato](https://open.spotify.com/artist/3qqJxbB40F5AmjBiO4akVa), [Seemah](https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF), [Yanda Woods](https://open.spotify.com/artist/0RHglXjgE13MSSVXhbADxt) | [Shayi'Moto \(feat\. Seemah & Yanda Woods\)](https://open.spotify.com/album/1GRp8XrV8yz1Yg3NyQflgv) | 7:25 | 2025-03-20 |  |
 | [Shetani \(feat\. Costa Titch & Alfa Kat\)](https://open.spotify.com/track/4zCzPIdWmPDnvcyhSGvHqS) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 3:11 | 2022-10-31 | 2023-12-08 |
 | [Show Me](https://open.spotify.com/track/0HJh9qKJ1OnqNBf4AszBcf) | [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY), [Nina Nevra](https://open.spotify.com/artist/0LfTLvRKowL8aXYL8NSO7c) | [Show Me](https://open.spotify.com/album/1WbCN78350GdM7AH7eXF7N) | 3:51 | 2025-01-24 | 2025-02-21 |

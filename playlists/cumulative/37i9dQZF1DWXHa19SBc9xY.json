@@ -797,6 +797,28 @@
     },
     {
       "album": {
+        "name": "Cores do Rio",
+        "url": "https://open.spotify.com/album/7IhLHlCmusRT16jJYDhFYw"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Catan",
+          "url": "https://open.spotify.com/artist/7jnGj8x2qSjMqMMHXhklny"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151574,
+      "name": "Cores do Rio",
+      "url": "https://open.spotify.com/track/1wbZDCAUohRGB3Qo0kq0Ic"
+    },
+    {
+      "album": {
         "name": "C\u00e9u Ros\u00e9",
         "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
@@ -2020,7 +2042,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 151606,
       "name": "O Caf\u00e9 Num Esfriou",
       "url": "https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL"

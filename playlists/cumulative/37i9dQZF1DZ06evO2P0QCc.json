@@ -304,10 +304,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 226760,
       "name": "Como Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR"
+    },
+    {
+      "album": {
+        "name": "Como Te Extra\u00f1o (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/0RetTuwMa9ZPANEtjW9qSu"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214773,
+      "name": "Como Te Extra\u00f1o - Sonando Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/06P1xfDkxkrDS1t7zixhCy"
     },
     {
       "album": {
@@ -653,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Unidad, Cerveza y Ska",
+        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236346,
+      "name": "Inspiracional",
+      "url": "https://open.spotify.com/track/6rpuI5wb7070I1ZpMvRpzh"
+    },
+    {
+      "album": {
         "name": "Inspecci\u00f3n Retroac\u00fastica",
         "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
@@ -664,7 +700,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 276493,
       "name": "Inspiracional",
       "url": "https://open.spotify.com/track/1iPLqMA51oVMzaATZrcZZ1"
@@ -882,7 +918,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 249906,
       "name": "No Piensa En Ti",
       "url": "https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM"
@@ -900,7 +936,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 217978,
       "name": "No Piensa En Ti - Sonando Desde El Auditorio Nacional",
       "url": "https://open.spotify.com/track/5ZY4KPgjOVBMAzZXdUIGyH"

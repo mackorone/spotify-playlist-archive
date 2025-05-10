@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 60730,
+  "num_followers": 60738,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAACUd3b1TzpgMaMdWHyJykWD",
+  "snapshot_id": "aBv0AAAAAACm71JI+C09rpppk6OQWMVr",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Olvidarte, \u00bfC\u00f3mo?",
+      "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Buen Ejemplo",
         "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 148186,
       "name": "Gente Batallosa",
       "url": "https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Olvidarte, \u00bfC\u00f3mo?",
-      "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "C\u00f3mo No Adorarla",
-      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hombre De Trabajo",
         "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 204413,
       "name": "\u00bfDesde Cu\u00e1ndo No Me Quieres?",
       "url": "https://open.spotify.com/track/1zMxs8npzBg46TbJtwFgO0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "C\u00f3mo No Adorarla",
+      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
     },
     {
       "added_at": null,
@@ -399,42 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqu\u00ed No Se Termina (En Vivo)",
-        "url": "https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 199464,
-      "name": "Aqu\u00ed No Se Termina (En Vivo)",
-      "url": "https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -455,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1ximo Nivel",
         "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 180200,
       "name": "As\u00ed Te Necesito",
       "url": "https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqu\u00ed No Se Termina (En Vivo)",
+        "url": "https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 199464,
+      "name": "Aqu\u00ed No Se Termina (En Vivo)",
+      "url": "https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuela Alto",
-        "url": "https://open.spotify.com/album/2EJM2bCVNoQdZkdBIAvUzw"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 158742,
-      "name": "Vuela Alto",
-      "url": "https://open.spotify.com/track/6zAbof3A0ZOt0J7PNF3sIx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hombre De Trabajo",
         "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
       },
@@ -539,6 +519,22 @@
       "duration_ms": 173600,
       "name": "En Qu\u00e9 Cabeza Cabe",
       "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "\u00bfC\u00f3mo Le Digo?",
+      "url": "https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9"
     },
     {
       "added_at": null,
@@ -559,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+        "name": "Vuela Alto",
+        "url": "https://open.spotify.com/album/2EJM2bCVNoQdZkdBIAvUzw"
       },
       "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 185160,
-      "name": "\u00bfC\u00f3mo Le Digo?",
-      "url": "https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9"
+      "duration_ms": 158742,
+      "name": "Vuela Alto",
+      "url": "https://open.spotify.com/track/6zAbof3A0ZOt0J7PNF3sIx"
     },
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Consentidos De Don Chuy",
-        "url": "https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W"
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
       "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 224801,
-      "name": "Los Consentidos De Don Chuy",
-      "url": "https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m"
+      "duration_ms": 199440,
+      "name": "Ya Me Sirvi\u00f3 De Experiencia",
+      "url": "https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI"
     },
     {
       "added_at": null,
@@ -631,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+        "name": "Los Consentidos De Don Chuy",
+        "url": "https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W"
       },
       "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 199440,
-      "name": "Ya Me Sirvi\u00f3 De Experiencia",
-      "url": "https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI"
+      "duration_ms": 224801,
+      "name": "Los Consentidos De Don Chuy",
+      "url": "https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segunda Temporada",
-        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Volver\u00e1s A Ser Feliz",
-      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 191560,
       "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Volver\u00e1s A Ser Feliz",
+      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Ad\u00e1n Cruz en portada.",
+  "description": "Bienvenidx a la trampa mexa. Alem\u00e1n en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -4103,6 +4103,28 @@
     },
     {
       "album": {
+        "name": "De Vuelta a las Andadas",
+        "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179436,
+      "name": "Le Gustan As\u00ed",
+      "url": "https://open.spotify.com/track/4ZP264Ld4mOd72cNa0LvVF"
+    },
+    {
+      "album": {
         "name": "Le tir\u00e9",
         "url": "https://open.spotify.com/album/6DgcTU4NE4tDtfGbe2k7qH"
       },
@@ -5652,6 +5674,28 @@
       "duration_ms": 179250,
       "name": "Ola Como Estas? - Remix",
       "url": "https://open.spotify.com/track/3VuEmalCwS7P897bgbx8AK"
+    },
+    {
+      "album": {
+        "name": "OSIRIS",
+        "url": "https://open.spotify.com/album/0VDwIM9pqzbYSHTWXO5p3g"
+      },
+      "artists": [
+        {
+          "name": "Charro Ma",
+          "url": "https://open.spotify.com/artist/0gscaylKde9RrbYFKBD3nS"
+        },
+        {
+          "name": "Ritorukai",
+          "url": "https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "OSIRIS",
+      "url": "https://open.spotify.com/track/7Iq8SvKliXuh8rcPpjJZed"
     },
     {
       "album": {

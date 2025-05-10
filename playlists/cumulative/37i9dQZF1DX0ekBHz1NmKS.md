@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,854 songs - 4 day 0 hr 11 min
+1,855 songs - 4 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1625,6 +1625,7 @@
 | [Till Solen Brinner Ut](https://open.spotify.com/track/2DTa2kupO7EwBcVDJrENJ2) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Till Solen Brinner Ut](https://open.spotify.com/album/6PlbjhdgIeBavM5EcNztvB) | 3:19 | 2022-09-29 | 2022-10-07 |
 | [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-06 | 2024-08-09 |
 | [Tillräcklig](https://open.spotify.com/track/5KTWAnAjNvWpJ5oTlzkOUU) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Tillräcklig](https://open.spotify.com/album/5fwPOg0afgFvEnVZFY6Dqa) | 2:46 | 2023-10-26 | 2024-02-09 |
+| [Tills idag](https://open.spotify.com/track/6VS8Y3icddJzgUPHgM35Ds) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Tills idag](https://open.spotify.com/album/1zstzUYTyLI9VMLMmZL0Ki) | 3:01 | 2025-05-08 |  |
 | [Tillsammans](https://open.spotify.com/track/3ibHLzsA6cJzAtJSwpRzpZ) | [Tim Damerau](https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ), [Linnea Andersson](https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4) | [Tillsammans](https://open.spotify.com/album/2QO70oJcBK5tRNHZWk3Z2t) | 3:21 | 2024-01-18 | 2024-02-04 |
 | [Tillsammans](https://open.spotify.com/track/77l26wJl8mAWROEuZvMBIl) | [Tim Damerau](https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ), [Linnea Andersson](https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4) | [Tillsammans](https://open.spotify.com/album/4Mxr4PtZv8WDmX2yrm0rJ8) | 3:21 | 2024-02-08 | 2024-02-23 |
 | [Tilt](https://open.spotify.com/track/0eQadZfhWLntMvsEjYDRLk) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Tilt](https://open.spotify.com/album/0AC4E1o8yb9e0RMmqxcgXI) | 3:34 | 2022-04-28 | 2022-07-29 |
@@ -1835,7 +1836,7 @@
 | [YOU](https://open.spotify.com/track/2OyauYlmXhB8ffpf4S9mjQ) | [Alissa Reah](https://open.spotify.com/artist/53TuN2OUabI6gDAjd49Fs2) | [YOU](https://open.spotify.com/album/1htfK5RJY2vuj6P4XaofbY) | 3:01 | 2022-03-24 | 2022-07-20 |
 | [You](https://open.spotify.com/track/6GzsiAwzdBGdN1bz8xirCu) | [Mathilda Bohman](https://open.spotify.com/artist/0WWFdINhodlSuohLkvKfez) | [You](https://open.spotify.com/album/5lZCFrw70QDYj3CSNZ7cZ7) | 2:52 | 2024-05-16 | 2024-06-14 |
 | [You to Me](https://open.spotify.com/track/5xQmNeAKK6Y3p5Y5K2zqIT) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [You to Me](https://open.spotify.com/album/4abCLxqbInPOw7fiblaLVL) | 2:36 | 2021-12-16 | 2022-01-13 |
-| [You're Gonna Worry About Me One Day](https://open.spotify.com/track/1vBfEbQ0DXkwUEPhYtLnb5) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Delicious Delusional](https://open.spotify.com/album/2qjNiLhOarJTEWpPvXCJiC) | 3:54 | 2025-03-20 |  |
+| [You're Gonna Worry About Me One Day](https://open.spotify.com/track/1vBfEbQ0DXkwUEPhYtLnb5) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Delicious Delusional](https://open.spotify.com/album/2qjNiLhOarJTEWpPvXCJiC) | 3:54 | 2025-03-20 | 2025-05-10 |
 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 | 2024-10-24 | 2025-04-18 |
 | [Younger](https://open.spotify.com/track/5VehjO5iZZ9iitRbTt9P69) | [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id) | [Younger](https://open.spotify.com/album/14ZHCYhVN0B2dzY8GVISWO) | 3:06 | 2022-05-12 | 2022-05-14 |
 | [Younger](https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab) | 3:16 | 2023-12-14 | 2024-01-26 |

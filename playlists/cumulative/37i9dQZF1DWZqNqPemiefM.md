@@ -4,11 +4,12 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-777 songs - 2 day 12 hr 14 min
+778 songs - 2 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#19](https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [\#19](https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss) | 10:14 | 2024-12-10 |  |
+| [\#6f6f6f \(03:13:00am \- 06:15:59am\)](https://open.spotify.com/track/5pd8GFBoi5CneUmca6rbhm) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#6f6f6f \(03:13:00am \- 06:15:59am\)](https://open.spotify.com/album/35Cfg8jxQY8NTw3SUlcbOw) | 3:03 | 2025-05-02 |  |
 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 | 2025-03-06 |  |
 | [\#Fluctuations](https://open.spotify.com/track/3gjHqtXWFqm8RT12nmwH7k) | [Tomotsuga Nakamura](https://open.spotify.com/artist/4i7Pwkk9LA8PpyjkmotMtj) | [\#Fluctuations](https://open.spotify.com/album/5GFb2EdOG2ORXhB73g5LI2) | 3:28 | 2022-03-31 | 2022-07-23 |
 | [\(Sanity / Vanity\)](https://open.spotify.com/track/2T0DCUfEoHR8eqychnVHxR) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Liberty](https://open.spotify.com/album/0XI6VPGDpg8pW1FxdcoLIw) | 1:03 | 2022-04-16 | 2022-07-19 |
@@ -447,7 +448,7 @@
 | [Nocturne](https://open.spotify.com/track/0KM52GC7FVq2dMD6VPhC03) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 6:38 | 2024-02-08 | 2024-12-10 |
 | [Nocturne \- New Recording](https://open.spotify.com/track/03IzGkHbZHnQxweVx1V6q8) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Nocturne \- New Recording](https://open.spotify.com/album/3ubWJpP2KOf2HG3zXmCJe8) | 4:55 | 2023-05-11 | 2023-05-26 |
 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 | 2024-06-07 | 2024-12-04 |
-| [Norton](https://open.spotify.com/track/4z9jqw3j2exNVCouafDQzE) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [Norton](https://open.spotify.com/album/25wgcyPri2UD4PZ6iVk7jH) | 2:01 | 2025-04-04 |  |
+| [Norton](https://open.spotify.com/track/4z9jqw3j2exNVCouafDQzE) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [Norton](https://open.spotify.com/album/25wgcyPri2UD4PZ6iVk7jH) | 2:01 | 2025-04-04 | 2025-05-10 |
 | [Nostalgia](https://open.spotify.com/track/1SDCau14XiiaPB67yj9qZ9) | [Ramza](https://open.spotify.com/artist/1Trmp5nqg46a1InSpynV72) | [Whispering Jewels \- ひび割れの鼓動](https://open.spotify.com/album/7ahgNbVn0iLISPEwXU2hJO) | 8:56 | 2022-09-15 | 2022-12-24 |
 | [Nostalgia 2](https://open.spotify.com/track/2v6fUufnDYNvoevK8ILcNy) | [Saito Koji](https://open.spotify.com/artist/0S7H7SA7XfrTqy2gYj4jAS) | [Nostalgia](https://open.spotify.com/album/4c44do7drzjAIJJnOqvZmf) | 5:33 | 2022-04-07 | 2022-04-12 |
 | [Nothing01](https://open.spotify.com/track/5c073vLIWI3dRUSZeGgEkM) | [ass](https://open.spotify.com/artist/1BwcsRjCnhyM3SNZfT4jQy) | [Ymnat](https://open.spotify.com/album/1qs0A3slfbHKdNNtIptkol) | 3:28 | 2022-04-07 | 2022-04-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,057 songs - 2 day 16 hr 55 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,060 songs - 2 day 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1065,5 +1065,8 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1055 | [I Punched Through The Wall](https://open.spotify.com/track/49lYeNtjK2w2gErCYz2ljk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:08 |
 | 1056 | [Drawn Away](https://open.spotify.com/track/3NipzSKSELraJND5tcVlGV) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:32 |
 | 1057 | [BROKEN ROAD](https://open.spotify.com/track/6zNbjGO87XDGVaRdq2wXXm) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew) | [DONDA 2](https://open.spotify.com/album/5qmBulRQR05gKH2r7fRofg) | 1:40 |
+| 1058 | [Tell Me You Love Me](https://open.spotify.com/track/12TuGHYMlodnW9X2NaL37v) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:34 |
+| 1059 | [Your Long Black Hair \- Full Band](https://open.spotify.com/track/5fJ8CKkoUVgkB3D2Z04G6f) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:34 |
+| 1060 | [Neverland](https://open.spotify.com/track/0F4KRoicBk9v9lrcbHQt67) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Neverland](https://open.spotify.com/album/3HXiOLdmPqItX7vSLvCt0m) | 3:56 |
 
-Snapshot ID: `AAAI7N1UkcajmJssI60h7bGE3LOeFEqx`
+Snapshot ID: `AAAI78zo48Mvsgtzl9OIWAfNXJ86A3AA`

@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 46 min
+53 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [The Boogie Back](https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Change Up The Groove](https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M) | 4:40 | 2025-03-11 |  |
 | [Vibin' W/Ayers](https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 5:29 | 2025-03-11 |  |
 | [Wasting](https://open.spotify.com/track/3gX3MH4xNWXaQOinDORqZh) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Vision](https://open.spotify.com/album/7GWwRPL4keJ9Xd460YHwR5) | 4:41 | 2025-03-11 |  |
-| [What You Won't Do For Love](https://open.spotify.com/track/3wqjuBowiWVFG6vCFJQfjQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 5:52 | 2025-03-11 |  |
+| [What You Won't Do For Love](https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [No Stranger To Love](https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5) | 5:50 | 2025-05-10 |  |
+| [What You Won't Do For Love](https://open.spotify.com/track/3wqjuBowiWVFG6vCFJQfjQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 5:52 | 2025-03-11 | 2025-05-10 |
 | [You Send Me](https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 8:28 | 2025-03-11 |  |
 
 \*This playlist was first scraped on 2025-03-11. Prior content cannot be recovered.

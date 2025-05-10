@@ -4,7 +4,7 @@
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-66 songs - 4 hr 5 min
+67 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 | 2024-02-22 | 2024-04-19 |
 | [Macho](https://open.spotify.com/track/4BTW4OJRGcPmHq9ZicXyG0) | [Frenéticas](https://open.spotify.com/artist/0fvtTgGadhxwdCTQx82HUu) | [Caia na gandaia](https://open.spotify.com/album/4gfRQX7xT5RinTEfgMIiAR) | 3:09 | 2023-01-20 |  |
 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 | 2023-01-20 |  |
+| [Marinou, Limou](https://open.spotify.com/track/0RrvXQjKQNcBEt0dWoanvA) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY) | 4:35 | 2025-05-09 |  |
 | [Mistério da raça](https://open.spotify.com/track/3GDM3x918Z9o9COKIdf4jc) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Nós](https://open.spotify.com/album/4mYtE1kbSHLDqqhzUjSY2b) | 3:07 | 2023-01-20 |  |
 | [Moqueca](https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2ZQLiEqJgQeNAVuZpMP8iA) | 4:04 | 2023-01-20 |  |
 | [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 | 2023-01-20 | 2024-04-19 |
@@ -73,6 +74,6 @@
 | [Tô Parado Na Tua](https://open.spotify.com/track/5LUjfo9lReS6zsPyesaJAV) | [Almir Ricardi](https://open.spotify.com/artist/6LycV8XSGC3KMwcLF08kxb) | [Festa Funk](https://open.spotify.com/album/3mPVlmsaql2TngiYZ0hf9p) | 4:47 | 2023-01-20 |  |
 | [Vidigal](https://open.spotify.com/track/4y2Va0sLjrmSb0iAovAkmP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Gafieira Universal](https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3) | 3:37 | 2023-01-20 |  |
 | [Você Só Quer Me Comer](https://open.spotify.com/track/15UdoDLmAJCNZHAsAkqxOS) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [O Que Me Cabe](https://open.spotify.com/album/3nwMkcMmZB05ctmM5fXBN7) | 2:57 | 2023-09-01 | 2024-04-19 |
-| [Você Só Quer Me Comer](https://open.spotify.com/track/7woovMgaU7UwFJXum9AGqI) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Você Só Quer Me Comer](https://open.spotify.com/album/5Njq5t3CBJZ4HIzU2NzxiN) | 2:58 | 2023-01-20 |  |
+| [Você Só Quer Me Comer](https://open.spotify.com/track/7woovMgaU7UwFJXum9AGqI) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Você Só Quer Me Comer](https://open.spotify.com/album/5Njq5t3CBJZ4HIzU2NzxiN) | 2:58 | 2023-01-20 | 2025-05-10 |
 
 \*This playlist was first scraped on 2023-02-05. Prior content cannot be recovered.

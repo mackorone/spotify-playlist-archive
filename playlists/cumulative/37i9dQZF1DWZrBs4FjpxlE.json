@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 169330,
       "name": "Central Park",
       "url": "https://open.spotify.com/track/5CSCpV7F9ZJZqFTOYxGoAw"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 180565,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/4vMaUYpkdmOKPzqLnQsBx6"
@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Escape the simulation",
+        "url": "https://open.spotify.com/album/7ewUQ8N7gmK2BaGlePk9Tl"
+      },
+      "artists": [
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82894,
+      "name": "Escape the simulation",
+      "url": "https://open.spotify.com/track/6vBiulXzG1QQD5qlU8uKBi"
+    },
+    {
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
@@ -660,6 +678,24 @@
       "duration_ms": 257265,
       "name": "Feeling Whitney",
       "url": "https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0"
+    },
+    {
+      "album": {
+        "name": "Forever (71943509)",
+        "url": "https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188967,
+      "name": "Forever (71943509)",
+      "url": "https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz"
     },
     {
       "album": {
@@ -1239,6 +1275,32 @@
     },
     {
       "album": {
+        "name": "Lost On The Weekend",
+        "url": "https://open.spotify.com/album/08BVC7TZiSfLGugjWWZqdl"
+      },
+      "artists": [
+        {
+          "name": "OminousyL",
+          "url": "https://open.spotify.com/artist/1LMQwJWethElqahOYT9ajV"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        },
+        {
+          "name": "Monty Datta",
+          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132187,
+      "name": "Lost On The Weekend",
+      "url": "https://open.spotify.com/track/00bi5lHQ7Kjb63jLvlOoQk"
+    },
+    {
+      "album": {
         "name": "Love Is Gone (Acoustic)",
         "url": "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
       },
@@ -1562,7 +1624,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 140800,
       "name": "Sad Song",
       "url": "https://open.spotify.com/track/6TGcyIIJgkfVEg5AP4mwHo"

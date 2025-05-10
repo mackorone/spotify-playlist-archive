@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-257 songs - 14 hr 58 min
+258 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [NIGHT](https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT](https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP) | 2:54 | 2024-10-11 |  |
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2023-01-13 | 2024-09-21 |
 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 | 2022-02-18 | 2022-12-10 |
+| [Nocturne+α](https://open.spotify.com/track/3ZUj4htwRvxXNqWcszE7Qu) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Bye Bye, Earth \- Vol\. 3 \(Original Anime Series Soundtrack\)](https://open.spotify.com/album/5MLnSaJy5wxxiL8QNxpp02) | 4:22 | 2025-05-09 |  |
 | [Number One \(vocal ver.\)](https://open.spotify.com/track/4BKetvTh5lMcIDlv9tYQgW) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 4:56 | 2022-12-09 | 2024-07-13 |
 | [Number One \- Bankai](https://open.spotify.com/track/1nThz7yEG2vbyI4UmInj5z) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [Number One \- Bankai](https://open.spotify.com/album/5Mw54lDeLc8jfflOUf5dKQ) | 4:36 | 2022-12-16 | 2024-07-13 |
 | [Number One \- Bankai](https://open.spotify.com/track/3w5Fha9feEdRp6FZ29tU2O) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 4:46 | 2024-01-05 |  |

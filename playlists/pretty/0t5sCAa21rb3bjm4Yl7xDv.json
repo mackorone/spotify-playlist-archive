@@ -1,13 +1,29 @@
 {
-  "description": "your favourite playlist's favourite playlist &lt;3. shop the pop collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>. Cover: Maroon 5 &amp; LISA",
-  "num_followers": 79911,
+  "description": "your favourite playlist's favourite playlist &lt;3. shop the pop collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>. Cover: Kali Uchis",
+  "num_followers": 79898,
   "original_name": "Summer Pop Hits",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAA7TOSOT/fWtgdHfk8p/3suKia2BpRr",
+  "snapshot_id": "AAA7UU0z/DMB6FSY65HwlJftBhp59Urg",
   "tracks": [
+    {
+      "added_at": "2025-05-09 14:34:14",
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187455,
+      "name": "All I Can Say",
+      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
+    },
     {
       "added_at": "2025-05-05 13:12:24",
       "album": {
@@ -1679,22 +1695,6 @@
       "duration_ms": 166812,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
-    },
-    {
-      "added_at": "2025-05-05 13:12:24",
-      "album": {
-        "name": "ROOM UNDER THE STAIRS",
-        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
     },
     {
       "added_at": "2025-05-05 13:12:24",

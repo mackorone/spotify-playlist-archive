@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 167619,
       "name": "Dale",
       "url": "https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww"
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
@@ -3882,6 +3882,24 @@
       "duration_ms": 210000,
       "name": "Justi\u00e7a",
       "url": "https://open.spotify.com/track/773tughXqcLU5ztfWVyEsk"
+    },
+    {
+      "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180109,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
     },
     {
       "album": {
@@ -5828,7 +5846,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
@@ -6772,7 +6790,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 146250,
       "name": "Shingaling Shingaling",
       "url": "https://open.spotify.com/track/3fwmJrwHkJrUcybkmTU8pd"
@@ -6794,7 +6812,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 167459,
       "name": "SI TE VAS",
       "url": "https://open.spotify.com/track/70wWSIgYuecaVcB0Uy1TpV"

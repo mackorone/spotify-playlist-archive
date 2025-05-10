@@ -1,40 +1,36 @@
 {
   "description": "Love at its most dramatic. Cover: Boop! The Musical.",
-  "num_followers": 27781,
+  "num_followers": 27786,
   "original_name": "Broadway in Love!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9ZSgAAAAAaNOFaXuSZprsdsL3bX2Ks",
+  "snapshot_id": "aB193QAAAACAPpZjvima8JrT+jhnAaae",
   "tracks": [
     {
-      "added_at": "2025-04-04 04:00:10",
+      "added_at": "2025-05-09 04:00:29",
       "album": {
-        "name": "Why Look Around The Corner",
-        "url": "https://open.spotify.com/album/4rU435RIfQVkM3kz91r6Zx"
+        "name": "She Knocks Me Out",
+        "url": "https://open.spotify.com/album/6gcJAl6HZ3fzN7MXCxlBv3"
       },
       "artists": [
         {
-          "name": "Jasmine Amy Rogers",
-          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
-        },
-        {
-          "name": "Original Broadway Cast of Boop! The Musical",
-          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+          "name": "Ainsley Melham",
+          "url": "https://open.spotify.com/artist/0BLHPEZNAUa4U0AGjdADTM"
         },
         {
           "name": "David Foster",
           "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
         },
         {
-          "name": "Ainsley Melham",
-          "url": "https://open.spotify.com/artist/0BLHPEZNAUa4U0AGjdADTM"
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
         }
       ],
-      "duration_ms": 234946,
-      "name": "Why Look Around The Corner",
-      "url": "https://open.spotify.com/track/7b7eQyaNI1cQ84aWd7Ttai"
+      "duration_ms": 188317,
+      "name": "She Knocks Me Out",
+      "url": "https://open.spotify.com/track/7zaCoHhmiCq0rTOBJH7cjK"
     },
     {
       "added_at": "2024-06-14 21:06:19",
@@ -259,6 +255,34 @@
       "duration_ms": 409720,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/6olJrYB94NqdARj9tWRplO"
+    },
+    {
+      "added_at": "2025-04-04 04:00:10",
+      "album": {
+        "name": "Why Look Around The Corner",
+        "url": "https://open.spotify.com/album/4rU435RIfQVkM3kz91r6Zx"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Amy Rogers",
+          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
+        },
+        {
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+        },
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Ainsley Melham",
+          "url": "https://open.spotify.com/artist/0BLHPEZNAUa4U0AGjdADTM"
+        }
+      ],
+      "duration_ms": 234946,
+      "name": "Why Look Around The Corner",
+      "url": "https://open.spotify.com/track/7b7eQyaNI1cQ84aWd7Ttai"
     },
     {
       "added_at": "2024-06-14 21:06:19",
@@ -843,62 +867,6 @@
       "duration_ms": 301413,
       "name": "You're the Top",
       "url": "https://open.spotify.com/track/5poMgcmtczmFfC38ayOdlw"
-    },
-    {
-      "added_at": "2024-06-14 21:06:19",
-      "album": {
-        "name": "Spring Awakening (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3aiuPuezy2yAwt4uvBUZxY"
-      },
-      "artists": [
-        {
-          "name": "Lea Michele",
-          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
-        },
-        {
-          "name": "Lilli Cooper",
-          "url": "https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp"
-        },
-        {
-          "name": "Lauren Pritchard",
-          "url": "https://open.spotify.com/artist/388N7KQACGPkR0VW0Uce6K"
-        },
-        {
-          "name": "Phoebe Strole",
-          "url": "https://open.spotify.com/artist/0HlXoMWQAzdyrggNEIn8g8"
-        },
-        {
-          "name": "Remy Zaken",
-          "url": "https://open.spotify.com/artist/56pnQN33y8k2R8W0MoO1QZ"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/3h0UstEidZYyYdb4F4qeSy"
-        },
-        {
-          "name": "Jonathan B. Wright",
-          "url": "https://open.spotify.com/artist/4sC25H6noNOw0akd01pXvN"
-        },
-        {
-          "name": "Gideon Glick",
-          "url": "https://open.spotify.com/artist/38LQlt0tB9RLgsCf3p1xDn"
-        },
-        {
-          "name": "Skylar Astin",
-          "url": "https://open.spotify.com/artist/1QXyMGVMzdhyM5efhg3m3j"
-        },
-        {
-          "name": "John Gallagher Jr.",
-          "url": "https://open.spotify.com/artist/20HJ0KBphamOUmXI1uG1z6"
-        },
-        {
-          "name": "Jonathan Groff",
-          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
-        }
-      ],
-      "duration_ms": 145906,
-      "name": "My Junk - Original Broadway Cast Recording/2006",
-      "url": "https://open.spotify.com/track/1ObqIFmNsmION2gjrvYycO"
     },
     {
       "added_at": "2024-06-14 21:06:19",

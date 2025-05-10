@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North.
 
-154 songs - 13 hr 35 min
+156 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Jólanótt](https://open.spotify.com/track/0LHxitnBVBbmRVqCZH8I74) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Jólanótt](https://open.spotify.com/album/212WacUd6V0YsXOcRAt3uk) | 3:25 | 2022-05-13 | 2024-11-06 |
 | [Khaalo](https://open.spotify.com/track/7mE8m4vRSFhjRbTLqPRGRg) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh) | [Khaalo](https://open.spotify.com/album/01VmZeDpVALsIbNmq8oHew) | 5:45 | 2022-05-13 | 2022-06-11 |
 | [Krigsgaldr](https://open.spotify.com/track/5P9qFmIiMqE6r2UfwVIdIZ) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Ofnir](https://open.spotify.com/album/6vohdbsWGcqbqiAimhGj6N) | 8:58 | 2022-05-13 | 2024-04-17 |
+| [Käärmeen synty](https://open.spotify.com/track/3VyXw6QyfpTJbDhuyfYcBa) | [Noiduin](https://open.spotify.com/artist/5slOpOZMe7pvqKYWMCSirH) | [Lovi](https://open.spotify.com/album/1wKXFOCfUd8AsfOR5VeGCO) | 5:11 | 2025-05-09 |  |
 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 | 2022-05-13 |  |
 | [Lady of the Depe](https://open.spotify.com/track/0R5QKL9pWF89Ihl7kOoUEa) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Songs from the Mere](https://open.spotify.com/album/5TIPUwfqMQtlv0WXCh9ksK) | 6:18 | 2022-05-13 | 2024-12-04 |
 | [Lady of the Depe](https://open.spotify.com/track/7eSFkW8t5GgG3e9xny5cDq) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Songs from the Mere](https://open.spotify.com/album/51JRlcqqDvbhL4W5pSWstG) | 6:18 | 2022-07-08 | 2024-04-19 |
@@ -103,7 +104,7 @@
 | [Skugge](https://open.spotify.com/track/3e271PjoGBvN2ALz5E55QY) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn](https://open.spotify.com/album/6xMpbnSwIddBUx86hq2dTp) | 6:38 | 2022-07-08 | 2023-07-14 |
 | [Skugge](https://open.spotify.com/track/5E48z1EGgE93HoCpi94nzK) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn](https://open.spotify.com/album/5LNSX7ibqConJ2lAIM598L) | 6:38 | 2023-02-17 | 2024-04-14 |
 | [Skugge](https://open.spotify.com/track/6rDzCWPqu1HL68R17tTVlp) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Skugge](https://open.spotify.com/album/1bCZ0eqT2D5QvTE4NxoLS0) | 6:38 | 2022-05-13 | 2024-11-06 |
-| [Slow Motion](https://open.spotify.com/track/1MlFP727igtyqCqFcvEgng) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Slow Motion](https://open.spotify.com/album/5ev4zVppLL7mptzcvZWgAD) | 5:19 | 2022-05-13 |  |
+| [Slow Motion](https://open.spotify.com/track/1MlFP727igtyqCqFcvEgng) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Slow Motion](https://open.spotify.com/album/5ev4zVppLL7mptzcvZWgAD) | 5:19 | 2022-05-13 | 2025-05-10 |
 | [Slow Motion](https://open.spotify.com/track/3mAJGIX7q2XdMQzZ7gnew2) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The Line](https://open.spotify.com/album/7M4DXCXYMaLKDWwdX9P6jC) | 5:19 | 2022-07-08 | 2023-07-14 |
 | [Slow Motion](https://open.spotify.com/track/7JZxpUYXrzPCwYK4jlOL6M) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The Line](https://open.spotify.com/album/7bI5b4KEynXXnebLcBMPr1) | 5:19 | 2023-02-17 | 2024-04-19 |
 | [Snake Pit Poetry](https://open.spotify.com/track/4bJI9uGfjRCWVZnZHaHzuQ) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Snake Pit Poetry](https://open.spotify.com/album/7MUGGBH196GiArjholsWGJ) | 7:08 | 2022-07-08 | 2023-07-14 |
@@ -126,12 +127,13 @@
 | [The Loom](https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA) | [Anilah](https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW) | [The Loom](https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj) | 7:13 | 2022-05-13 |  |
 | [The Path to Valhalla](https://open.spotify.com/track/5Y0890ieCPQ7InnCOMbpYm) | [Zergananda](https://open.spotify.com/artist/17l0IpeSiUshT3GEQjbJKb) | [The Path to Valhalla](https://open.spotify.com/album/5sqkryWnUZtlOCWbE5h5CB) | 4:50 | 2022-05-13 |  |
 | [The Wolven Storm \(Priscilla's Song\)](https://open.spotify.com/track/1mr1cG8dA5ZiydlaEq8vkH) | [Sharm](https://open.spotify.com/artist/1wRg4gzKanLRgNeMIB1zAR) | [The Wolven Storm \(Priscilla's Song\)](https://open.spotify.com/album/3DylCZmwC74Trm6Khns2K6) | 3:58 | 2022-07-08 | 2024-04-19 |
-| [The Wolven Storm \(Priscilla's Song\)](https://open.spotify.com/track/1uNwMVBI3fZeCcGrSlKfc8) | [Sharm](https://open.spotify.com/artist/1wRg4gzKanLRgNeMIB1zAR) | [The Wolven Storm \(Priscilla's Song\)](https://open.spotify.com/album/4mDJYxhnWHxKIJTUbKlBqk) | 3:58 | 2022-05-13 |  |
+| [The Wolven Storm \(Priscilla's Song\)](https://open.spotify.com/track/1uNwMVBI3fZeCcGrSlKfc8) | [Sharm](https://open.spotify.com/artist/1wRg4gzKanLRgNeMIB1zAR) | [The Wolven Storm \(Priscilla's Song\)](https://open.spotify.com/album/4mDJYxhnWHxKIJTUbKlBqk) | 3:58 | 2022-05-13 | 2025-05-10 |
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 | 2022-07-08 |
 | [Trøllabundin](https://open.spotify.com/track/3MdEnYp8pv39XHynVC8Lq0) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Slør](https://open.spotify.com/album/54GSg6YH72DvPf5G1egXY2) | 4:30 | 2022-05-13 |  |
 | [Två Systrar](https://open.spotify.com/track/50QofZ82BfzPpZjv88dVRb) | [Garmarna](https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI) | [Två Systrar](https://open.spotify.com/album/5pCP287g0eJdIxEUA8UNwB) | 5:52 | 2022-05-13 |  |
 | [Tyrty veri, seiso!](https://open.spotify.com/track/2OI785cloJRhaP9Vxlc5Kj) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Tyrty veri, seiso!](https://open.spotify.com/album/1KahsgDixLjc5MEciL0pl5) | 3:56 | 2022-05-13 | 2024-04-17 |
 | [U\-Gra](https://open.spotify.com/track/1skpul4CRFFh1irTjprkF7) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [U\-Gra](https://open.spotify.com/album/25S9xlQbFOAZE9pgV2sczx) | 6:00 | 2022-05-13 | 2024-04-17 |
+| [Uhrikivi](https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6) | [Noitakuningas](https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6) | [Uhrikivi](https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg) | 5:37 | 2025-05-09 |  |
 | [Ulvsblakk](https://open.spotify.com/track/7m4Z1nsSHc55wGVC0Go3iQ) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Kveldssanger](https://open.spotify.com/album/7cXrQFBd5R6TwtRyV7LOGq) | 6:56 | 2022-05-13 | 2024-05-04 |
 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 | 2022-05-13 |  |
 | [Unnr \| MINDBEACH](https://open.spotify.com/track/38oAbSWuIpMZB7Ny0Z42zC) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Borgar Magnason](https://open.spotify.com/artist/0UvE0FOPYcShzzE4IYmD5n), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Unnr \| MINDBEACH](https://open.spotify.com/album/5B2Gsb3s1p0sNtPbj8HT4Y) | 9:36 | 2022-05-13 |  |

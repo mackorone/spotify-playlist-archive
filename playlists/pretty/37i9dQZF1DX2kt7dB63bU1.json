@@ -1,13 +1,81 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 156859,
+  "num_followers": 156889,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDUQAAAAC4szfe5eTT84UtMNaP+u25",
+  "snapshot_id": "aB192gAAAABtmu1ObaeSzqRYYiz2iZnK",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "table for two",
+        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 111319,
+      "name": "table for two",
+      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "Stella Cole (Extended Version)",
+        "url": "https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "I Could Have Danced All Night",
+      "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "Honeysuckle Rose",
+        "url": "https://open.spotify.com/album/7af6wV4XW51jX9C4BGB0p1"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Bridgewater",
+          "url": "https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/1443kKss2nI8dIwvQkHpBg"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/6nwnnnWv9wuRRP8ScrT9eo"
+      },
+      "artists": [
+        {
+          "name": "Maria Kim",
+          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
+        }
+      ],
+      "duration_ms": 309666,
+      "name": "All or Nothing at All",
+      "url": "https://open.spotify.com/track/0JQtOJkm9JJH7psMoYJpjI"
+    },
     {
       "added_at": "2025-05-02 04:00:17",
       "album": {
@@ -159,22 +227,6 @@
       "duration_ms": 172080,
       "name": "Make It Another Old Fashioned, Please",
       "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
-    },
-    {
-      "added_at": "2025-04-04 04:00:09",
-      "album": {
-        "name": "cozy you",
-        "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 210734,
-      "name": "cozy you",
-      "url": "https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b"
     },
     {
       "added_at": "2025-04-25 04:00:40",
@@ -387,22 +439,6 @@
       "duration_ms": 175070,
       "name": "Cold Cold Rain",
       "url": "https://open.spotify.com/track/1YybV3nGg1XrwKoM2PN1Oy"
-    },
-    {
-      "added_at": "2025-01-31 05:00:46",
-      "album": {
-        "name": "Never Say Yes",
-        "url": "https://open.spotify.com/album/670e77IHq9uXEBiaPh4fQZ"
-      },
-      "artists": [
-        {
-          "name": "Maria Kim",
-          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Never Say Yes",
-      "url": "https://open.spotify.com/track/2Ka8P81G57GuTFg6dP22qN"
     },
     {
       "added_at": "2025-02-28 05:00:30",
@@ -791,22 +827,6 @@
       "duration_ms": 153568,
       "name": "Steppin' Out With My Baby",
       "url": "https://open.spotify.com/track/1iGjgeHu7a6O1Ejfe71dcj"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Stella Cole",
-        "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "My Future",
-      "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
     },
     {
       "added_at": "2024-09-06 17:43:45",
@@ -1463,30 +1483,6 @@
       "duration_ms": 267087,
       "name": "Good Nothin",
       "url": "https://open.spotify.com/track/6kXF7Mhr3HaIvkPo3h3dOs"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "The Legacy Experience (Live)",
-        "url": "https://open.spotify.com/album/6HgZrTauLCDoZfAJX4jN3G"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "The Baylor Project",
-          "url": "https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp"
-        },
-        {
-          "name": "Russell Ferrante",
-          "url": "https://open.spotify.com/artist/6WNJUszfgnEpiHp1Wh6kgI"
-        }
-      ],
-      "duration_ms": 463999,
-      "name": "Vulnerable - Live",
-      "url": "https://open.spotify.com/track/7AClBxdiwyv2x6Jg4iM9M0"
     },
     {
       "added_at": "2023-09-29 04:01:00",

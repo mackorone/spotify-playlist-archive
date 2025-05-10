@@ -1,13 +1,49 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 74902,
+  "num_followers": 74928,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAsI6QAAAABhBvAUd0Z/Z4lLTsNnQgsC",
+  "snapshot_id": "aB192gAAAAAxXzkjyqhPJQrUxZ803CCh",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "Too Good 2 Let Go",
+        "url": "https://open.spotify.com/album/2RjHddps2L3AD08pqNHf0Z"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 261930,
+      "name": "Too Good 2 Let Go",
+      "url": "https://open.spotify.com/track/0apPen3CrIuhaYscmJIxRj"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/4L2cWfX8037pnNrUsPzCnk"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        },
+        {
+          "name": "Mike \"Big Mike\" Hart",
+          "url": "https://open.spotify.com/artist/0w8zYoQhaEgTicuoFKpCYV"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/36tUynQfikBMxs8CzHUWJ7"
+    },
     {
       "added_at": "2025-04-25 04:00:41",
       "album": {
@@ -119,26 +155,6 @@
       "duration_ms": 151137,
       "name": "Love Laced",
       "url": "https://open.spotify.com/track/6AbWZbQEdPTe8iW2XSmTMu"
-    },
-    {
-      "added_at": "2025-04-04 04:00:09",
-      "album": {
-        "name": "Think Of Me",
-        "url": "https://open.spotify.com/album/64qW6mU2oyvHdnmSmEoZRZ"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        },
-        {
-          "name": "Phylicia Rae",
-          "url": "https://open.spotify.com/artist/5mAHG74GmGIllg3MqnKQyi"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "Think Of Me",
-      "url": "https://open.spotify.com/track/0TsKSHkM77cylzqBiibxCk"
     },
     {
       "added_at": "2025-03-14 04:00:05",
@@ -1711,22 +1727,6 @@
       "duration_ms": 314314,
       "name": "Heartwood",
       "url": "https://open.spotify.com/track/2v3nj34zNc1gt2cySA9992"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Smooth Jazz Renditions of Daniel Caesar (Instrumental)",
-        "url": "https://open.spotify.com/album/3VKiW7p1ekczui9eA0kZqK"
-      },
-      "artists": [
-        {
-          "name": "Smooth Jazz All Stars",
-          "url": "https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi"
-        }
-      ],
-      "duration_ms": 185617,
-      "name": "LOVE AGAIN - Instrumental",
-      "url": "https://open.spotify.com/track/3HlCC1C3oMLOn5khnK82PP"
     },
     {
       "added_at": "2023-06-02 04:01:00",

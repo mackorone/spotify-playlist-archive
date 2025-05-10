@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> Tablo x RM\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>창모 \(CHANGMO\)\)
 
 1,525 songs - 3 day 10 hr 28 min
 
@@ -481,7 +481,7 @@
 | [Go Back](https://open.spotify.com/track/4WRzvrqXTdzpEB6KaO1Oqh) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [Go Back](https://open.spotify.com/album/2hb3zy9V9edKEGESIaUXaH) | 3:06 | 2022-10-25 | 2023-03-28 |
 | [Go Insane \(Feat\. Loopy\)](https://open.spotify.com/track/0D1XTPsaKK6uDjlGz0ZYRE) | [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2), [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [DIRTY](https://open.spotify.com/album/2nsezTTpqxLpolX8AggyiS) | 3:18 | 2025-01-02 |  |
 | [GO LOUD! \(Feat\. punchnello\) \(Prod\. Padi\)](https://open.spotify.com/track/1maXqI1F1K8a51z2JWIchw) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [GO LOUD!](https://open.spotify.com/album/7CsaWY1dUP0CfCR68e5wNB) | 2:27 | 2023-03-14 | 2023-03-28 |
-| [GO MAX](https://open.spotify.com/track/6WEEsETsneU2NFZvOKOLS8) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [GO MAX](https://open.spotify.com/album/2h4E9cCI9uLUkh7SiPnFyS) | 2:18 | 2025-02-25 |  |
+| [GO MAX](https://open.spotify.com/track/6WEEsETsneU2NFZvOKOLS8) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [GO MAX](https://open.spotify.com/album/2h4E9cCI9uLUkh7SiPnFyS) | 2:18 | 2025-02-25 | 2025-05-10 |
 | [Go Way](https://open.spotify.com/track/7IXcYYamS2tIOV2EXeJktG) | [Sway D](https://open.spotify.com/artist/3HfWEOcXit3EkuRCt5M3Yd) | [Go Way](https://open.spotify.com/album/77Wrn4DojRzDULosl0Lx79) | 3:36 | 2021-12-29 | 2022-04-14 |
 | [GO!](https://open.spotify.com/track/0o4SZSFkZlsDUQr4Gf0aFI) | [Kash Bang](https://open.spotify.com/artist/4Dg0FW3kt3GShHgwPbY1bj) | [GO!](https://open.spotify.com/album/5w7VDQT9SVPvOUsoZhVrNi) | 1:51 | 2022-11-07 | 2022-11-17 |
 | [Go, dude !](https://open.spotify.com/track/1YWO7jS4KEyIW8aZvHcba2) | [ChaMane](https://open.spotify.com/artist/2jyURAEr7r2UfWMpFQDOQd) | [26](https://open.spotify.com/album/4S72a69hZrCFmoPzclt3QR) | 2:28 | 2022-04-08 | 2022-04-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,552 likes - 148 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,611 likes - 148 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 8 | [Ingen som du](https://open.spotify.com/track/7oQhh8xyDupOGqoC054BvA) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Ingen som du](https://open.spotify.com/album/1JFkKT8lMmA52sGU6wgi4t) | 3:18 |
 | 9 | [Bröllopsvals](https://open.spotify.com/track/4rCPsqjiqpUfKWGd6mng7v) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Bröllopsvals](https://open.spotify.com/album/00NWOsJgEvXQNlermmrGEJ) | 2:52 |
 | 10 | [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 |
-| 11 | [Time Moves](https://open.spotify.com/track/3HNBUxmA65NuwLBgJu6Kc8) | [Tussilago](https://open.spotify.com/artist/4t6RTEVNwReIHzr23UUF25) | [Time Moves](https://open.spotify.com/album/4t8PvsCUalhrCQUV7lKQ30) | 4:49 |
+| 11 | [Time Moves](https://open.spotify.com/track/3HNBUxmA65NuwLBgJu6Kc8) | [Tussilago](https://open.spotify.com/artist/4t6RTEVNwReIHzr23UUF25), [Petter Sebastian](https://open.spotify.com/artist/02qM8e0kuLtDBx9BEQIg5e) | [Time Moves](https://open.spotify.com/album/4t8PvsCUalhrCQUV7lKQ30) | 4:49 |
 | 12 | [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 |
 | 13 | [Roller Coaster](https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Roller Coaster](https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd) | 2:35 |
 | 14 | [Om du var här \- Spotify Singles](https://open.spotify.com/track/5WnjVs6d73VCwBi5oY9oN1) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [Om du var här \- Spotify Singles](https://open.spotify.com/album/3sQuajlLmF2ridGbRZrTbG) | 4:28 |

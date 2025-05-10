@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Beach Fossils
 
-478 songs - 1 day 5 hr 15 min
+479 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK) | 4:27 | 2022-11-11 | 2024-04-19 |
 | [Go Your Own Way](https://open.spotify.com/track/4SEKzsw9Gx1vvOxcgHuvzT) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Go Your Own Way](https://open.spotify.com/album/2fGTIN85UwkWGTr3PJn0xR) | 3:25 | 2021-07-21 | 2022-04-18 |
 | [Go Your Own Way](https://open.spotify.com/track/08lNxeu5DYszZaiOM1AWHj) | [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Go Your Own Way](https://open.spotify.com/album/2lJ1BityP2IWqegkMb3Y0y) | 2:40 | 2021-03-12 | 2022-04-16 |
-| [God Only Knows](https://open.spotify.com/track/31MwXSAGt4BErA3jITUf8m) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [God Only Knows](https://open.spotify.com/album/7eUS2wu8pqoHIQZXuvtKL6) | 2:51 | 2021-03-12 |  |
+| [God Only Knows](https://open.spotify.com/track/31MwXSAGt4BErA3jITUf8m) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [God Only Knows](https://open.spotify.com/album/7eUS2wu8pqoHIQZXuvtKL6) | 2:51 | 2021-03-12 | 2025-05-10 |
 | [God's Plan](https://open.spotify.com/track/2R0QwDcfbDfJkAzgk6eC6y) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/5MVuDYaYnVAhohSuOYLaUD) | 2:46 | 2023-10-13 | 2024-04-19 |
 | [God's Plan](https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5) | 2:46 | 2022-08-09 | 2023-11-06 |
 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 | 2021-03-12 |  |
@@ -366,6 +366,7 @@
 | [Song to the Siren](https://open.spotify.com/track/3DpnyWxZlxpDv5c2UiKZoa) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Song to the Siren](https://open.spotify.com/album/6MgQd4TxKbCL4d9gbGF4eI) | 4:45 | 2021-04-02 | 2022-07-16 |
 | [Soon \- piano](https://open.spotify.com/track/6XIqrMq5RpQOWvcQRo8yLw) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Soon \(piano\) + The River \(piano\)](https://open.spotify.com/album/6BtlliNtg4YwPr8RG0warf) | 3:52 | 2021-03-12 | 2022-07-28 |
 | [Sparks](https://open.spotify.com/track/0XWe8Cxl9ebrtE4I9lkFD3) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Parachutes](https://open.spotify.com/album/2FhVMpJN2jtR2BwvZOFZop) | 3:45 | 2021-11-19 | 2022-04-21 |
+| [Stars And Sons](https://open.spotify.com/track/17r1eCC7OwNOrxrzMT9Yp1) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Stars And Sons / Almost Crimes](https://open.spotify.com/album/0rTfdnqZBNLNqebyomwhTF) | 4:28 | 2025-05-09 |  |
 | [Stay](https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 3:58 | 2021-03-12 | 2022-04-20 |
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 | 2022-09-03 | 2024-04-19 |
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 | 2021-10-08 | 2022-10-13 |

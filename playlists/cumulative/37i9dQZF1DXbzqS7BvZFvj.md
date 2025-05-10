@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Key Glock
 
-1,149 songs - 2 day 10 hr 7 min
+1,150 songs - 2 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [FLY](https://open.spotify.com/track/0y2viBvXtPSmEH0j7t1AMD) | [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [THE GRIFFIN TAPES](https://open.spotify.com/album/4YMGw7zIbk27pQo3kIrCoI) | 2:32 | 2024-10-25 | 2025-02-21 |
 | [FOOLERY](https://open.spotify.com/track/0ekFXEgioxeP6nVx1qd64p) | [OnPointLikeOP](https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [FOOLERY](https://open.spotify.com/album/5e1bBTVdrMi7TCSmBlsU6S) | 3:39 | 2024-02-01 | 2024-03-08 |
 | [For A Reason](https://open.spotify.com/track/4Fnd3gIheWMWXSbdxjcuOJ) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [For A Reason](https://open.spotify.com/album/2oUKDqojhgfDu1Vfo5r5yw) | 2:27 | 2024-11-19 | 2025-02-21 |
+| [Forever \(71943509\)](https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Forever \(71943509\)](https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt) | 3:08 | 2025-05-08 |  |
 | [Foundation](https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Foundation](https://open.spotify.com/album/3kAaQtrPZY7KpO6Y9hywOP) | 2:31 | 2024-02-01 | 2024-02-16 |
 | [FREAK \(feat\. Freddie Dredd\)](https://open.spotify.com/track/3N1ze49Sbg9KF3DcxqTv37) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [FREAK \(feat\. Freddie Dredd\)](https://open.spotify.com/album/3piuGUdzaWK8FRwh3MzLUa) | 2:20 | 2023-11-16 | 2023-12-09 |
 | [Freaknik \(feat\. Rob49\)](https://open.spotify.com/track/2WFgPHTz1w2mMKMT9R9buO) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Freaknik \(feat\. Rob49\)](https://open.spotify.com/album/2FkFcZqiaVmUIOkcXDW2jl) | 2:37 | 2024-04-18 | 2024-05-24 |

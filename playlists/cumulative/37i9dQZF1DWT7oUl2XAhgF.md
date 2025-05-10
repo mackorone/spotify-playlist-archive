@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-504 songs - 1 day 6 hr 21 min
+506 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Blink](https://open.spotify.com/track/6W67RESmxjAp10u5bQ6eH0) | [Las Los](https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1) | [Blink](https://open.spotify.com/album/7IgkMSeDtEvAV6q0IIKtJf) | 2:30 | 2023-09-08 | 2025-01-25 |
 | [Blow My Mind](https://open.spotify.com/track/18vFLgoBcvIXsJP7pTX93e) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Blow My Mind](https://open.spotify.com/album/0lGPCXSe5AHUtZRuOXebAR) | 4:08 | 2022-03-25 | 2023-09-30 |
 | [Bridge of Love](https://open.spotify.com/track/4gzjWQHdsN0aLhKK1YDEqY) | [Bobby Harden & The Soulful Saints](https://open.spotify.com/artist/71Gn2qVCqTPof7twyFKasz) | [Bridge of Love](https://open.spotify.com/album/1zPVAfmWW8w5VBYpeewE6S) | 5:15 | 2023-04-07 | 2023-09-09 |
-| [Bring You A Ring](https://open.spotify.com/track/66ELEVRlZzcOx3V55qYY5F) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Bring You A Ring](https://open.spotify.com/album/5BsO8y5Kd9RfIRRpCY8OhZ) | 3:06 | 2023-09-08 |  |
+| [Bring You A Ring](https://open.spotify.com/track/66ELEVRlZzcOx3V55qYY5F) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Bring You A Ring](https://open.spotify.com/album/5BsO8y5Kd9RfIRRpCY8OhZ) | 3:06 | 2023-09-08 | 2025-05-10 |
 | [Brooklyn to Brooklin](https://open.spotify.com/track/6gn7j9XgdEQgaaJeGm6uTp) | [Scone Cash Players](https://open.spotify.com/artist/3GMruM6YOWc69pzKC74qK5) | [Brooklyn to Brooklin](https://open.spotify.com/album/78cN2KkuMGa8dlBenxWpeR) | 4:34 | 2022-08-19 | 2023-02-25 |
 | [By Design \[Evel Knievel\]](https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [By Design \[Evel Knievel\]](https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS) | 3:45 | 2022-06-10 |  |
 | [California Wine](https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [California Wine](https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje) | 3:07 | 2021-07-09 | 2023-01-28 |
@@ -278,6 +278,7 @@
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2021-07-09 | 2024-08-17 |
 | [Making Up Making Love](https://open.spotify.com/track/7wrmrF5iU0lGSlYkTsaNGW) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [The Nostalgiac](https://open.spotify.com/album/0HZQqwnq5WDugzJSh4l3fD) | 4:18 | 2023-06-23 | 2023-10-21 |
 | [MARY \- A COLORS SHOW](https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY \- A COLORS SHOW](https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C) | 3:24 | 2024-02-23 |  |
+| [Maybe It's You](https://open.spotify.com/track/7kFgKExxDFZJghA6Q4kCUR) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Maybe It's You](https://open.spotify.com/album/2K52HJlE1DOY5JgVMAr4Xz) | 3:54 | 2025-05-09 |  |
 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 | 2022-08-09 | 2022-09-17 |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-01-14 | 2022-07-29 |
 | [Miss Strut](https://open.spotify.com/track/2jdi8zHvx1crcnIy049p78) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Miss Strut](https://open.spotify.com/album/1RsS0tnVbAeiNuJHClpGDc) | 2:41 | 2024-09-06 | 2024-09-21 |
@@ -326,7 +327,7 @@
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-11-05 | 2022-07-29 |
 | [Paris](https://open.spotify.com/track/2dgSbz6osX3pCZtNmPGCzB) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Paris](https://open.spotify.com/album/4cAI2lU33xuw3YLixV8w1T) | 2:56 | 2025-01-17 |  |
 | [Pelvis Pusher](https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Pelvis Pusher](https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8) | 3:07 | 2021-07-09 | 2022-09-03 |
-| [Phases](https://open.spotify.com/track/5nXT7uZL7xCEBnFCpa2uYh) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Phases](https://open.spotify.com/album/35Pjy1frpTpW1UZXLRcgt0) | 3:03 | 2025-04-04 |  |
+| [Phases](https://open.spotify.com/track/5nXT7uZL7xCEBnFCpa2uYh) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Phases](https://open.spotify.com/album/35Pjy1frpTpW1UZXLRcgt0) | 3:03 | 2025-04-04 | 2025-05-10 |
 | [Piece of Me](https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS) | 3:42 | 2021-07-09 | 2025-03-22 |
 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2021-07-09 | 2024-04-19 |
 | [Poppyseed](https://open.spotify.com/track/7pMaJob2XJhQqZJ51crGpE) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Poppyseed](https://open.spotify.com/album/6gorqLIe62IVJVrFa9FBVn) | 4:19 | 2022-04-15 | 2023-07-01 |
@@ -473,6 +474,7 @@
 | [Waiting](https://open.spotify.com/track/7maKDsx5c9pGH82gqTwiOf) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Waiting](https://open.spotify.com/album/6HdBhsYLgnb9IQICF8zxgW) | 3:06 | 2024-10-25 |  |
 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 | 2024-09-13 | 2024-10-05 |
 | [Waiting on the Sidelines](https://open.spotify.com/track/02UQxP9ft9Qb8oL7Jf2Eir) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/3ayx7YiPVzsRUfz8v42E76) | 4:03 | 2023-05-05 | 2023-08-26 |
+| [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 | 2025-05-09 |  |
 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 | 2024-08-30 | 2025-01-25 |
 | [Warpaint](https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Warpaint](https://open.spotify.com/album/2MkJIYLt4fz2SDSozVntDD) | 4:50 | 2022-03-21 | 2022-07-29 |
 | [Way You Shine](https://open.spotify.com/track/5RlgjfMCs8KW0AtkqRvyZM) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Way You Shine](https://open.spotify.com/album/0sfmf3mJc7rgaGg3CZXmRv) | 3:10 | 2024-07-26 | 2025-02-08 |

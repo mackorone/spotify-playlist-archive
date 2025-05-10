@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Gloria Estefan",
+  "description": "Lo nuevo del mundo tropical. Cover: Luis Figueroa",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 204375,
       "name": "7 Pecados",
       "url": "https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj"
+    },
+    {
+      "album": {
+        "name": "\u00bfpor qu\u00e9 corres? ya estamos ah\u00ed",
+        "url": "https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183386,
+      "name": "A 150",
+      "url": "https://open.spotify.com/track/4uK3NcTfDQzePn8ixG6w8V"
     },
     {
       "album": {
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 185374,
       "name": "Borr\u00f3n y Cuenta Nueva",
       "url": "https://open.spotify.com/track/2s4qBR3yaAvuVSTRR23wzS"
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 234444,
       "name": "Cl\u00e1sicos 1.0: Robando Sue\u00f1os",
       "url": "https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei"
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 208980,
       "name": "Como Te Hago Entender",
       "url": "https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8"
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 210474,
       "name": "Cuando Te Vas",
       "url": "https://open.spotify.com/track/7113KNZCDFgHoGbNgeQJqS"
@@ -2844,6 +2862,24 @@
       "duration_ms": 206412,
       "name": "Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
+    },
+    {
+      "album": {
+        "name": "GRIS",
+        "url": "https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239106,
+      "name": "C\u00f3mo Se Compara",
+      "url": "https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd"
     },
     {
       "album": {
@@ -5453,6 +5489,28 @@
     },
     {
       "album": {
+        "name": "KLK",
+        "url": "https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "KLK",
+      "url": "https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp"
+    },
+    {
+      "album": {
         "name": "Kruela",
         "url": "https://open.spotify.com/album/5KCs98xl6Gn8ZRnhfID3rN"
       },
@@ -6918,6 +6976,28 @@
       "duration_ms": 288162,
       "name": "Lunes, Martes, Miercoles",
       "url": "https://open.spotify.com/track/4qWlCGb88CwW3Aq5PAk4m4"
+    },
+    {
+      "album": {
+        "name": "Luquillo",
+        "url": "https://open.spotify.com/album/0qM3TxO18AQrLuAryc4cYn"
+      },
+      "artists": [
+        {
+          "name": "Babywine",
+          "url": "https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151829,
+      "name": "Luquillo",
+      "url": "https://open.spotify.com/track/3G06OfTDhREomvTNDCVzOZ"
     },
     {
       "album": {
@@ -8503,6 +8583,28 @@
     },
     {
       "album": {
+        "name": "No Te Hagas",
+        "url": "https://open.spotify.com/album/0INLo9d20pUVNHOX1x2X4Q"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Sensato",
+          "url": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128041,
+      "name": "No Te Hagas",
+      "url": "https://open.spotify.com/track/4f1PmMKVxCr8vIXikhXwEn"
+    },
+    {
+      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/3LUThmGH76h0Onpmvrxjcv"
       },
@@ -8748,7 +8850,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 207333,
       "name": "Ojitos Rojos",
       "url": "https://open.spotify.com/track/3aELvqT50UzebNg2at9vDe"
@@ -9646,6 +9748,24 @@
       "duration_ms": 154063,
       "name": "Pose Favorita",
       "url": "https://open.spotify.com/track/37MYCcXTzfwxSdqZwhI76x"
+    },
+    {
+      "album": {
+        "name": "Postalita",
+        "url": "https://open.spotify.com/album/2PjIb7VrWVqCPICsRnnFar"
+      },
+      "artists": [
+        {
+          "name": "Los Sufridos",
+          "url": "https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Postalita",
+      "url": "https://open.spotify.com/track/338FO6wNbL9zBfvqYk7qfg"
     },
     {
       "album": {
@@ -10690,7 +10810,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 173430,
       "name": "Si A Todo",
       "url": "https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL"

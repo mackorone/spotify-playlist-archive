@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Court",
-  "num_followers": 374518,
+  "num_followers": 375529,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+vWzgAAAABL3s+Sj5slPnf0gO09anw6",
+  "snapshot_id": "aB4HTwAAAADyh8KKIksQ6nn/JGuUcow1",
   "tracks": [
     {
       "added_at": "2025-03-12 11:56:08",
@@ -37,6 +37,58 @@
       "url": "https://open.spotify.com/track/02Ck2nLoW3TpgGV6uwvK5Z"
     },
     {
+      "added_at": "2025-05-09 09:56:17",
+      "album": {
+        "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
+        "url": "https://open.spotify.com/album/16RtrmpjjZwfRBdSlAebTG"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Nutana Mohan",
+          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
+      "url": "https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl"
+    },
+    {
+      "added_at": "2024-11-30 11:14:40",
+      "album": {
+        "name": "Bujji Thalli (From \"Thandel\")",
+        "url": "https://open.spotify.com/album/4a8iv6jApEjx5SuLyEnA2n"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Shree Mani",
+          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
+        }
+      ],
+      "duration_ms": 248825,
+      "name": "Bujji Thalli (From \"Thandel\")",
+      "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
+    },
+    {
       "added_at": "2025-01-06 08:20:46",
       "album": {
         "name": "Godari Gattu Meedha (From \"Sankranthiki Vasthunam\")",
@@ -65,54 +117,6 @@
       "url": "https://open.spotify.com/track/0ibgjKZZ56aoelJ76o7OW9"
     },
     {
-      "added_at": "2025-03-25 06:58:30",
-      "album": {
-        "name": "RANU BOMBAI KI RANU",
-        "url": "https://open.spotify.com/album/020Uee4xX9W3N5jKsAukX5"
-      },
-      "artists": [
-        {
-          "name": "Ramu Rathod",
-          "url": "https://open.spotify.com/artist/3rBCIwmTIyxNRnVYSl9hGv"
-        },
-        {
-          "name": "Singer Prabha",
-          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
-        },
-        {
-          "name": "Kalyan Keys",
-          "url": "https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN"
-        }
-      ],
-      "duration_ms": 256665,
-      "name": "RANU BOMBAI KI RANU",
-      "url": "https://open.spotify.com/track/4CMs30Udn5tShfPyF7gYvD"
-    },
-    {
-      "added_at": "2024-11-30 11:14:40",
-      "album": {
-        "name": "Bujji Thalli (From \"Thandel\")",
-        "url": "https://open.spotify.com/album/4a8iv6jApEjx5SuLyEnA2n"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        },
-        {
-          "name": "Shree Mani",
-          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
-        }
-      ],
-      "duration_ms": 248825,
-      "name": "Bujji Thalli (From \"Thandel\")",
-      "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
-    },
-    {
       "added_at": "2024-08-05 12:07:26",
       "album": {
         "name": "Chuttamalle (From \"Devara Part 1\")",
@@ -135,122 +139,6 @@
       "duration_ms": 222063,
       "name": "Chuttamalle (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
-    },
-    {
-      "added_at": "2025-04-01 12:06:38",
-      "album": {
-        "name": "Rowdy Fellow",
-        "url": "https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 255876,
-      "name": "Aa Seetadevi Navvula",
-      "url": "https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf"
-    },
-    {
-      "added_at": "2024-11-28 12:52:51",
-      "album": {
-        "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
-        "url": "https://open.spotify.com/album/0brWxb6f6ppsOH2RsshQnV"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 272908,
-      "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
-      "url": "https://open.spotify.com/track/1vkRcRkNTujACs7wdHRBc3"
-    },
-    {
-      "added_at": "2025-01-06 12:52:53",
-      "album": {
-        "name": "Dabidi Dibidi (From \"Daaku Maharaaj\")",
-        "url": "https://open.spotify.com/album/2i9vfuJlSNoVVaSHTu2dnC"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Kumara Vagdevi",
-          "url": "https://open.spotify.com/artist/2DZUQkCCjquQ830riDtzFu"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 241507,
-      "name": "Dabidi Dibidi (From \"Daaku Maharaaj\")",
-      "url": "https://open.spotify.com/track/67V0RZx812gG2GQjOA4vPD"
-    },
-    {
-      "added_at": "2025-01-06 08:20:46",
-      "album": {
-        "name": "Swathi Reddy (From \"Mad Square\")",
-        "url": "https://open.spotify.com/album/6Nc85QdkWlxzfEMNL1R15A"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Swathi Reddy UK",
-          "url": "https://open.spotify.com/artist/3lgDXKavd9zCXvaEEAYpib"
-        },
-        {
-          "name": "Suresh Gangula",
-          "url": "https://open.spotify.com/artist/3BzOPKZs10Ov6IOg5m9d01"
-        }
-      ],
-      "duration_ms": 209369,
-      "name": "Swathi Reddy (From \"Mad Square\")",
-      "url": "https://open.spotify.com/track/4LitAOz0wo4rmVI6sstajG"
-    },
-    {
-      "added_at": "2025-03-18 08:29:43",
-      "album": {
-        "name": "Adhi Dha Surprisu (From \"Robinhood\")",
-        "url": "https://open.spotify.com/album/0xuRXbsij9sk8c3IQEtZA7"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 229458,
-      "name": "Adhi Dha Surprisu (From \"Robinhood\")",
-      "url": "https://open.spotify.com/track/1g8IC4Ks0OldTvWw5NpFHG"
     },
     {
       "added_at": "2024-11-25 10:09:45",
@@ -281,6 +169,30 @@
       "url": "https://open.spotify.com/track/7peNClR7CbF9bDYCmOiy4L"
     },
     {
+      "added_at": "2023-12-11 04:38:53",
+      "album": {
+        "name": "ANIMAL (TELUGU)",
+        "url": "https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "duration_ms": 275439,
+      "name": "Ammayi",
+      "url": "https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0"
+    },
+    {
       "added_at": "2024-06-05 09:12:34",
       "album": {
         "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
@@ -305,6 +217,174 @@
       "url": "https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb"
     },
     {
+      "added_at": "2023-08-30 10:44:11",
+      "album": {
+        "name": "RX 100",
+        "url": "https://open.spotify.com/album/2vjnanwkgSnHU96BPZVtpR"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 235299,
+      "name": "Pillaa Raa",
+      "url": "https://open.spotify.com/track/6Vq4ePrJPZ2vU6DXnZGcVD"
+    },
+    {
+      "added_at": "2025-01-06 12:52:53",
+      "album": {
+        "name": "Dabidi Dibidi (From \"Daaku Maharaaj\")",
+        "url": "https://open.spotify.com/album/2i9vfuJlSNoVVaSHTu2dnC"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Kumara Vagdevi",
+          "url": "https://open.spotify.com/artist/2DZUQkCCjquQ830riDtzFu"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 241507,
+      "name": "Dabidi Dibidi (From \"Daaku Maharaaj\")",
+      "url": "https://open.spotify.com/track/67V0RZx812gG2GQjOA4vPD"
+    },
+    {
+      "added_at": "2023-08-30 10:44:11",
+      "album": {
+        "name": "Aarya - 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7vuWNVdv7zSwgHJ7qx26O4"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "duration_ms": 327640,
+      "name": "Uppenantha",
+      "url": "https://open.spotify.com/track/57zEYntUat0ofbFpoicN26"
+    },
+    {
+      "added_at": "2024-02-19 04:32:52",
+      "album": {
+        "name": "Gumma (From \"Ambajipeta Marriage Band\")",
+        "url": "https://open.spotify.com/album/3UtsdAsNLgSakD8UYYXf4o"
+      },
+      "artists": [
+        {
+          "name": "Shekar Chandra",
+          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "Gumma (From \"Ambajipeta Marriage Band\")",
+      "url": "https://open.spotify.com/track/30CBQmKZ0fugbhs7ExGT1e"
+    },
+    {
+      "added_at": "2024-01-02 11:53:22",
+      "album": {
+        "name": "ANIMAL (TELUGU)",
+        "url": "https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 250329,
+      "name": "Evarevaro",
+      "url": "https://open.spotify.com/track/0ljjmkJocnhXzP62JYNW8p"
+    },
+    {
+      "added_at": "2025-03-25 06:58:30",
+      "album": {
+        "name": "RANU BOMBAI KI RANU",
+        "url": "https://open.spotify.com/album/020Uee4xX9W3N5jKsAukX5"
+      },
+      "artists": [
+        {
+          "name": "Ramu Rathod",
+          "url": "https://open.spotify.com/artist/3rBCIwmTIyxNRnVYSl9hGv"
+        },
+        {
+          "name": "Singer Prabha",
+          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
+        },
+        {
+          "name": "Kalyan Keys",
+          "url": "https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN"
+        }
+      ],
+      "duration_ms": 256665,
+      "name": "RANU BOMBAI KI RANU",
+      "url": "https://open.spotify.com/track/4CMs30Udn5tShfPyF7gYvD"
+    },
+    {
+      "added_at": "2025-03-18 08:29:43",
+      "album": {
+        "name": "Adhi Dha Surprisu (From \"Robinhood\")",
+        "url": "https://open.spotify.com/album/0xuRXbsij9sk8c3IQEtZA7"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 229458,
+      "name": "Adhi Dha Surprisu (From \"Robinhood\")",
+      "url": "https://open.spotify.com/track/1g8IC4Ks0OldTvWw5NpFHG"
+    },
+    {
+      "added_at": "2025-01-06 08:20:46",
+      "album": {
+        "name": "Swathi Reddy (From \"Mad Square\")",
+        "url": "https://open.spotify.com/album/6Nc85QdkWlxzfEMNL1R15A"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Swathi Reddy UK",
+          "url": "https://open.spotify.com/artist/3lgDXKavd9zCXvaEEAYpib"
+        },
+        {
+          "name": "Suresh Gangula",
+          "url": "https://open.spotify.com/artist/3BzOPKZs10Ov6IOg5m9d01"
+        }
+      ],
+      "duration_ms": 209369,
+      "name": "Swathi Reddy (From \"Mad Square\")",
+      "url": "https://open.spotify.com/track/4LitAOz0wo4rmVI6sstajG"
+    },
+    {
       "added_at": "2024-04-18 09:25:53",
       "album": {
         "name": "Om Bheem Bush",
@@ -327,6 +407,166 @@
       "duration_ms": 211670,
       "name": "Anuvanuvuu",
       "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
+    },
+    {
+      "added_at": "2024-02-12 09:26:05",
+      "album": {
+        "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
+        "url": "https://open.spotify.com/album/0BV1m2cWIBUmFpO3DhkvJN"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 267682,
+      "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
+      "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
+    },
+    {
+      "added_at": "2023-11-06 11:12:57",
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/070z9uG6XuIOI49AgwCnCy"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Varam",
+          "url": "https://open.spotify.com/artist/7M1gYudbPTr899NHeTOEHY"
+        },
+        {
+          "name": "Keerthana Sharma",
+          "url": "https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "College Papa",
+      "url": "https://open.spotify.com/track/4ZguAeEoNjipSbQFzfDsYI"
+    },
+    {
+      "added_at": "2024-02-12 09:26:05",
+      "album": {
+        "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
+        "url": "https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 156497,
+      "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
+      "url": "https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql"
+    },
+    {
+      "added_at": "2024-11-28 12:52:51",
+      "album": {
+        "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
+        "url": "https://open.spotify.com/album/0brWxb6f6ppsOH2RsshQnV"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 272908,
+      "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
+      "url": "https://open.spotify.com/track/1vkRcRkNTujACs7wdHRBc3"
+    },
+    {
+      "added_at": "2024-04-01 13:45:16",
+      "album": {
+        "name": "Tillu Square",
+        "url": "https://open.spotify.com/album/7ujJhfGKy2qKe2OBQqw173"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 188648,
+      "name": "Radhika",
+      "url": "https://open.spotify.com/track/0S9j9OAG3KjmBg4j9XzFcC"
+    },
+    {
+      "added_at": "2024-10-21 06:33:22",
+      "album": {
+        "name": "Devara Part 1 [TELUGU]",
+        "url": "https://open.spotify.com/album/7ixEMlvfmqKqb7yJjB7Chk"
+      },
+      "artists": [
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 174088,
+      "name": "Ayudha Pooja [TELUGU]",
+      "url": "https://open.spotify.com/track/5Pqv6e52EWyqxeNyFYqDni"
+    },
+    {
+      "added_at": "2025-04-01 12:06:38",
+      "album": {
+        "name": "Rowdy Fellow",
+        "url": "https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 255876,
+      "name": "Aa Seetadevi Navvula",
+      "url": "https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf"
     },
     {
       "added_at": "2025-02-07 08:31:59",
@@ -385,54 +625,6 @@
       "url": "https://open.spotify.com/track/4rc1WGmRJ2CsHXTmrBu3gH"
     },
     {
-      "added_at": "2024-10-21 06:33:22",
-      "album": {
-        "name": "Devara Part 1 [TELUGU]",
-        "url": "https://open.spotify.com/album/7ixEMlvfmqKqb7yJjB7Chk"
-      },
-      "artists": [
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 174088,
-      "name": "Ayudha Pooja [TELUGU]",
-      "url": "https://open.spotify.com/track/5Pqv6e52EWyqxeNyFYqDni"
-    },
-    {
-      "added_at": "2023-12-11 04:38:53",
-      "album": {
-        "name": "ANIMAL (TELUGU)",
-        "url": "https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P"
-      },
-      "artists": [
-        {
-          "name": "Raghav Chaitanya",
-          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        }
-      ],
-      "duration_ms": 275439,
-      "name": "Ammayi",
-      "url": "https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0"
-    },
-    {
       "added_at": "2024-05-01 12:02:24",
       "album": {
         "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
@@ -459,30 +651,6 @@
       "duration_ms": 256032,
       "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
       "url": "https://open.spotify.com/track/5bnxMZqd9Kpn9ByHj3Dc9C"
-    },
-    {
-      "added_at": "2024-02-12 09:26:05",
-      "album": {
-        "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
-        "url": "https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 156497,
-      "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
-      "url": "https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql"
     },
     {
       "added_at": "2024-11-14 06:03:14",
@@ -657,22 +825,6 @@
       "url": "https://open.spotify.com/track/2B8lRjTNqqaJ8M4YytDUO9"
     },
     {
-      "added_at": "2024-02-19 04:32:52",
-      "album": {
-        "name": "Gumma (From \"Ambajipeta Marriage Band\")",
-        "url": "https://open.spotify.com/album/3UtsdAsNLgSakD8UYYXf4o"
-      },
-      "artists": [
-        {
-          "name": "Shekar Chandra",
-          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Gumma (From \"Ambajipeta Marriage Band\")",
-      "url": "https://open.spotify.com/track/30CBQmKZ0fugbhs7ExGT1e"
-    },
-    {
       "added_at": "2023-12-30 10:49:01",
       "album": {
         "name": "Kurchi Madathapetti (From \"Guntur Kaaram\")(Telugu)",
@@ -729,54 +881,6 @@
       "url": "https://open.spotify.com/track/1g9V1QE7vbeAx5Xm04DfLi"
     },
     {
-      "added_at": "2023-11-06 11:12:57",
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/070z9uG6XuIOI49AgwCnCy"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Varam",
-          "url": "https://open.spotify.com/artist/7M1gYudbPTr899NHeTOEHY"
-        },
-        {
-          "name": "Keerthana Sharma",
-          "url": "https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "College Papa",
-      "url": "https://open.spotify.com/track/4ZguAeEoNjipSbQFzfDsYI"
-    },
-    {
-      "added_at": "2024-04-01 13:45:16",
-      "album": {
-        "name": "Tillu Square",
-        "url": "https://open.spotify.com/album/7ujJhfGKy2qKe2OBQqw173"
-      },
-      "artists": [
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 188648,
-      "name": "Radhika",
-      "url": "https://open.spotify.com/track/0S9j9OAG3KjmBg4j9XzFcC"
-    },
-    {
       "added_at": "2023-09-25 09:44:04",
       "album": {
         "name": "Kotabommali P.S",
@@ -795,46 +899,6 @@
       "duration_ms": 229631,
       "name": "Lingi Lingi Lingidi",
       "url": "https://open.spotify.com/track/1qgb9TXSQqOHmVj5dBAtFX"
-    },
-    {
-      "added_at": "2024-02-12 09:26:05",
-      "album": {
-        "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
-        "url": "https://open.spotify.com/album/0BV1m2cWIBUmFpO3DhkvJN"
-      },
-      "artists": [
-        {
-          "name": "GowraHari",
-          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 267682,
-      "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
-      "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
-    },
-    {
-      "added_at": "2024-01-02 11:53:22",
-      "album": {
-        "name": "ANIMAL (TELUGU)",
-        "url": "https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
-        }
-      ],
-      "duration_ms": 250329,
-      "name": "Evarevaro",
-      "url": "https://open.spotify.com/track/0ljjmkJocnhXzP62JYNW8p"
     },
     {
       "added_at": "2023-09-25 09:44:04",
@@ -903,42 +967,6 @@
       "duration_ms": 218385,
       "name": "Darshana",
       "url": "https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "RX 100",
-        "url": "https://open.spotify.com/album/2vjnanwkgSnHU96BPZVtpR"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 235299,
-      "name": "Pillaa Raa",
-      "url": "https://open.spotify.com/track/6Vq4ePrJPZ2vU6DXnZGcVD"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Thattukolede",
-        "url": "https://open.spotify.com/album/2Ch8BRdcnGnATmjIPcxSQc"
-      },
-      "artists": [
-        {
-          "name": "Vijai Bulganin",
-          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
-        },
-        {
-          "name": "Sindhuja Srinivasan",
-          "url": "https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm"
-        }
-      ],
-      "duration_ms": 284192,
-      "name": "Thattukolede",
-      "url": "https://open.spotify.com/track/5idQ5WN2CK5FeUhRQ4ZvKY"
     },
     {
       "added_at": "2023-08-30 10:44:11",
@@ -1059,26 +1087,6 @@
       "duration_ms": 315493,
       "name": "Inka Edho",
       "url": "https://open.spotify.com/track/0WM0NpFIZg6JhgneUyU5tl"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Aarya - 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7vuWNVdv7zSwgHJ7qx26O4"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        }
-      ],
-      "duration_ms": 327640,
-      "name": "Uppenantha",
-      "url": "https://open.spotify.com/track/57zEYntUat0ofbFpoicN26"
     },
     {
       "added_at": "2023-08-30 10:44:11",

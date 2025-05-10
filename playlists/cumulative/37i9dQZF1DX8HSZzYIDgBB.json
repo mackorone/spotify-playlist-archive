@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Feid en portada.",
+  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Frente Cumbiero en portada.",
   "name": "tropic.alt",
   "tracks": [
     {
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 199640,
       "name": "Cumbia Bajo El Sol",
       "url": "https://open.spotify.com/track/1AOwWFdeZeAxN5ay2EEavb"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 178800,
       "name": "Distintos - Remix",
       "url": "https://open.spotify.com/track/5DXitUebX2lxzQAosHtQUe"
@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 187625,
       "name": "Donde",
       "url": "https://open.spotify.com/track/6wiwcn6GkkKEXCBwOYldLM"
@@ -4071,6 +4071,28 @@
     },
     {
       "album": {
+        "name": "Miro al Cielo",
+        "url": "https://open.spotify.com/album/0sSWc831h2haK2fbeODND7"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "Koral",
+          "url": "https://open.spotify.com/artist/2HfrYyScFHLhPpPF4XjzzT"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Miro al Cielo",
+      "url": "https://open.spotify.com/track/3gj66jp2SOOAO132gY7cDf"
+    },
+    {
+      "album": {
         "name": "Mis Amigos",
         "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
       },
@@ -5027,6 +5049,28 @@
     },
     {
       "album": {
+        "name": "Perro Lobo",
+        "url": "https://open.spotify.com/album/6Sq4kHef4WRtDTWtQqHWE4"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        },
+        {
+          "name": "La Corea\u00f1era",
+          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204499,
+      "name": "Perro Lobo",
+      "url": "https://open.spotify.com/track/1V1apaDSstamRbQxpHykke"
+    },
+    {
+      "album": {
         "name": "PIDA LO QUE QUIERA MAMI - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7Dlm8O7WcrSuY3OKtPE7BK"
       },
@@ -5224,6 +5268,24 @@
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH"
+    },
+    {
+      "album": {
+        "name": "Inconcreto & Asociados",
+        "url": "https://open.spotify.com/album/2igVN56nzK3hBmucjeZUsG"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239316,
+      "name": "Puente del Papa",
+      "url": "https://open.spotify.com/track/0UibzOFBUEJyihHiJ5fDjZ"
     },
     {
       "album": {

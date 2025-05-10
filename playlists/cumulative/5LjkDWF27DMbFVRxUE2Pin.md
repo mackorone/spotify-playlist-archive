@@ -4,7 +4,7 @@
 
 > 
 
-578 songs - 1 day 13 hr 5 min
+579 songs - 1 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Pretty When You’re High](https://open.spotify.com/track/0NbPHisUKFBsTJHa9qEkfR) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 3:25 | 2024-07-16 |  |
 | [Preybirds \(Watcher Song\)](https://open.spotify.com/track/3Yjki0QYxpdSHdykr2QYN9) | [Rabbitology](https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO) | [Preybirds \(Watcher Song\)](https://open.spotify.com/album/4JSmfscihbBXfbAlf3FwYq) | 3:46 | 2025-03-24 |  |
 | [Prickly Thorn, But Sweetly Worn](https://open.spotify.com/track/1dgKHceI7CBOInztnsdIVo) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 3:05 | 2024-07-17 |  |
+| [Provider](https://open.spotify.com/track/7JVAVLkkhpKOp8g4jX5Z12) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:05 | 2025-05-09 |  |
 | [Pure](https://open.spotify.com/track/0byw9oyQKnZ1fUWHfLQ9Wq) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:14 | 2024-07-19 |  |
 | [Queen of the Bees](https://open.spotify.com/track/1Gd0u5VnSvag7ic9zUquaB) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Entering Heaven Alive](https://open.spotify.com/album/4GxhBXlAhfNzI7ehTDmFJ5) | 2:30 | 2024-07-25 |  |
 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 | 2024-07-19 |  |

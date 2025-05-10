@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: RUSSELL!, Illest Morena\)
 
-2,778 songs - 5 day 20 hr 33 min
+2,780 songs - 5 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [For You](https://open.spotify.com/track/0dqLS8eWxMv11Ro9WStXVc) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [For You](https://open.spotify.com/album/2gbnNeyrZHh9rQSNssjf9p) | 3:45 | 2025-05-08 |  |
 | [Foreclosure](https://open.spotify.com/track/3qpySDNXf86isiB0I4tr6h) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Foreclosure](https://open.spotify.com/album/7poB9nXfbOkjEwRFJaw8iK) | 2:54 | 2024-05-09 | 2024-06-21 |
 | [Forever & Ever & Ever & Even After That](https://open.spotify.com/track/3BlXpC1PXYYbTxIulMLbP5) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Forever & Ever & Ever & Even After That](https://open.spotify.com/album/2VZ32TB1aCoNseOeImafsb) | 3:35 | 2024-02-29 | 2024-05-03 |
+| [Forever \(71943509\)](https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Forever \(71943509\)](https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt) | 3:08 | 2025-05-08 |  |
 | [Forever Young](https://open.spotify.com/track/3JswK0tQ0uzK2lCorvSqaX) | [Tobio](https://open.spotify.com/artist/1blwd72jvfbVUrFjFoaKtM) | [Tobio Outside](https://open.spotify.com/album/4RncfoIn8xFPqgwA4ZljTE) | 2:59 | 2022-02-10 | 2022-03-04 |
 | [FORGIVE ME](https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FORGIVE ME](https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4) | 2:23 | 2024-04-26 | 2024-06-08 |
 | [Fortunate \(Feat\. Kanye West, Dreezy & CHILLER\)](https://open.spotify.com/track/1eZAwpXSwtoXYkm8GAZJAH) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [CHILLER](https://open.spotify.com/artist/3klsOr0E1Vro9ojNeiHkWQ) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 3:55 | 2022-08-11 | 2022-08-18 |
@@ -2436,6 +2437,7 @@
 | [TiFFANY](https://open.spotify.com/track/5VKFxeCNXVoJbFUUlfmVx9) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [TiFFANY](https://open.spotify.com/album/02xePX5V2OJTHmGjzHlFMk) | 2:22 | 2024-06-20 | 2024-08-02 |
 | [TIKTIKTOKIN](https://open.spotify.com/track/160yGlJuvJx3AnD3IXn7Am) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [TIKTIKTOKIN](https://open.spotify.com/album/1WumZ7GBSO6JoTy2oMzBJs) | 2:05 | 2023-03-17 | 2023-04-14 |
 | [Time Crisis](https://open.spotify.com/track/14mwus7gOtHaktHg07f2Ef) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [Time Crisis](https://open.spotify.com/album/6KS44Ir8jT67nqQ10Q16ps) | 2:06 | 2022-03-10 | 2022-04-01 |
+| [Timeless \(feat\. Playboi Carti & Doechii\) \- Remix](https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless \(Remix\)](https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv) | 3:48 | 2025-05-08 |  |
 | [Timeless \(feat\. Wxrdie\)](https://open.spotify.com/track/1wxgXzvmzPfPfwrg8osgX9) | [prettyXIX](https://open.spotify.com/artist/28XrDF0G35BpyybcGaQTzU), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Timeless \(feat\. Wxrdie\)](https://open.spotify.com/album/0BPWIeORyYtv0hoQ43061s) | 3:21 | 2022-01-20 | 2022-01-28 |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-27 | 2024-11-22 |
 | [timezones](https://open.spotify.com/track/0LiWOWo7RXmmWy6RMLZrFZ) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [timezones](https://open.spotify.com/album/4Kq8tS6e0AplUcR3ZZFEp7) | 2:40 | 2024-05-30 | 2024-07-12 |

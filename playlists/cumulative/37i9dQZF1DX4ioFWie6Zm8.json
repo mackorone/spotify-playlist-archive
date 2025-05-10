@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "So Kono",
+        "url": "https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327040,
+      "name": "Awa",
+      "url": "https://open.spotify.com/track/75G3E59I9CGpFQMgtdahOk"
+    },
+    {
+      "album": {
         "name": "Ethiopiques 28 - Great Oromo Music",
         "url": "https://open.spotify.com/album/5IuThMnaayjZACJ1QhVDf0"
       },
@@ -943,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Emem / Lagos Sundown",
+        "url": "https://open.spotify.com/album/0eoHel2kgJA6BjDCH0okZL"
+      },
+      "artists": [
+        {
+          "name": "Nsikak David",
+          "url": "https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177458,
+      "name": "Emem",
+      "url": "https://open.spotify.com/track/0dpHY6IOhk82FM1BBRby6m"
+    },
+    {
+      "album": {
         "name": "Heavier Yet (Lays The Crownless Head)",
         "url": "https://open.spotify.com/album/2xsxl1780BXMEfxw5ZsTja"
       },
@@ -1212,7 +1248,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 304981,
       "name": "Good Things God Knows",
       "url": "https://open.spotify.com/track/5JJzSGrCDdPpyZAhBxVeNO"
@@ -1400,7 +1436,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 440053,
       "name": "I Won't Run Away",
       "url": "https://open.spotify.com/track/4Mi7YwSHOg80ALiykqpJES"
@@ -1898,7 +1934,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 373640,
       "name": "Keremiela",
       "url": "https://open.spotify.com/track/3OgMkV8ZcwyNQ7xFuhqcsa"
@@ -2318,7 +2354,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 341706,
       "name": "Leul Aswededegn",
       "url": "https://open.spotify.com/track/7bS0A09pkBQdXgOki4tnMn"
@@ -3034,6 +3070,24 @@
       "duration_ms": 238080,
       "name": "Ngum Nya Ko",
       "url": "https://open.spotify.com/track/1bXhMdba6mVxONY2uewg6y"
+    },
+    {
+      "album": {
+        "name": "Nkwanta Bisa (At the Junction)",
+        "url": "https://open.spotify.com/album/3bCZoxF9fYNulDweud2Xdt"
+      },
+      "artists": [
+        {
+          "name": "Kwashibu Area Band",
+          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209376,
+      "name": "Nkwanta Bisa (At the Junction)",
+      "url": "https://open.spotify.com/track/0ANO7DbSb79plOXnKZ6m9h"
     },
     {
       "album": {
@@ -4598,7 +4652,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 205078,
       "name": "YAHO | KENA BEL",
       "url": "https://open.spotify.com/track/2vsBVE4B1RABY7uJPgj2yK"

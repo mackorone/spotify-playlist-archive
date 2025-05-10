@@ -4139,6 +4139,28 @@
     },
     {
       "album": {
+        "name": "La Receta",
+        "url": "https://open.spotify.com/album/6KvjcTfytpH5WmiAQdZOTG"
+      },
+      "artists": [
+        {
+          "name": "Zica",
+          "url": "https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr"
+        },
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188780,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/13NPr8gjyMxro5FQgYIVX4"
+    },
+    {
+      "album": {
         "name": "166 (DELUXE) retirada",
         "url": "https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm"
       },

@@ -1,13 +1,29 @@
 {
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Laura P\u00e9rez",
-  "num_followers": 122644,
+  "num_followers": 122636,
   "original_name": "Pop Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9oWwAAAABdp8JRu5rWfIKIg+TQt//H",
+  "snapshot_id": "aB3NUwAAAABSSLxueQtznaa06mYM4Lq6",
   "tracks": [
+    {
+      "added_at": "2025-05-09 09:39:31",
+      "album": {
+        "name": "Milagros",
+        "url": "https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 235026,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V"
+    },
     {
       "added_at": "2025-02-21 03:23:24",
       "album": {
@@ -25,24 +41,60 @@
       "url": "https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS"
     },
     {
-      "added_at": "2025-02-21 03:23:24",
+      "added_at": "2025-05-09 09:39:31",
       "album": {
-        "name": "YA NO SIENTO FR\u00cdO",
-        "url": "https://open.spotify.com/album/4LgbiGTzIzcXq8Lz8yajqs"
+        "name": "Disco Rayado",
+        "url": "https://open.spotify.com/album/4GPtLXLaE56QWFcd2tRECu"
       },
       "artists": [
         {
-          "name": "Natalia Natalia",
-          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 199736,
-      "name": "YA NO SIENTO FR\u00cdO",
-      "url": "https://open.spotify.com/track/1GxmUYppuasIUYvwoTRulN"
+      "duration_ms": 151912,
+      "name": "Disco Rayado",
+      "url": "https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7"
+    },
+    {
+      "added_at": "2025-05-09 09:39:31",
+      "album": {
+        "name": "BOGOT\u00c1",
+        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 228562,
+      "name": "Una Flor",
+      "url": "https://open.spotify.com/track/2uWJ7SZfaTHkGAGPLvngNh"
+    },
+    {
+      "added_at": "2025-05-09 09:39:31",
+      "album": {
+        "name": "Coste\u00f1ita",
+        "url": "https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 226618,
+      "name": "Coste\u00f1ita",
+      "url": "https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g"
     },
     {
       "added_at": "2025-02-21 03:23:24",
@@ -61,6 +113,22 @@
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
     },
     {
+      "added_at": "2025-05-09 09:39:31",
+      "album": {
+        "name": "Limonar",
+        "url": "https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 195892,
+      "name": "Limonar",
+      "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
+    },
+    {
       "added_at": "2025-02-21 03:23:24",
       "album": {
         "name": "Por Si No Te Vuelvo A Ver",
@@ -75,6 +143,26 @@
       "duration_ms": 185464,
       "name": "Por Si No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
+    },
+    {
+      "added_at": "2025-05-09 09:39:31",
+      "album": {
+        "name": "Me Toca A M\u00ed",
+        "url": "https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 180340,
+      "name": "Me Toca A M\u00ed",
+      "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
     },
     {
       "added_at": "2025-02-21 03:23:24",
@@ -97,6 +185,22 @@
       "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
     },
     {
+      "added_at": "2025-05-09 09:39:31",
+      "album": {
+        "name": "Vino Ros\u00e9",
+        "url": "https://open.spotify.com/album/704jcoZrwyMFkjpnMS9sUC"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 157758,
+      "name": "Vino Ros\u00e9",
+      "url": "https://open.spotify.com/track/4d7BNubjTRsyd5zCK3SJCl"
+    },
+    {
       "added_at": "2025-02-21 03:23:24",
       "album": {
         "name": "Los Domingos",
@@ -111,6 +215,22 @@
       "duration_ms": 214000,
       "name": "Los Domingos",
       "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
+    },
+    {
+      "added_at": "2025-05-09 09:39:31",
+      "album": {
+        "name": "DOS VECES",
+        "url": "https://open.spotify.com/album/4yZDVCsYSLFcZkJX3SltJJ"
+      },
+      "artists": [
+        {
+          "name": "Natalia Natalia",
+          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
+        }
+      ],
+      "duration_ms": 198125,
+      "name": "DOS VECES",
+      "url": "https://open.spotify.com/track/1UAVfSfyJxzAM6O48jugjQ"
     },
     {
       "added_at": "2025-04-04 05:04:27",
@@ -167,6 +287,26 @@
     {
       "added_at": "2025-02-21 03:23:24",
       "album": {
+        "name": "YA NO SIENTO FR\u00cdO",
+        "url": "https://open.spotify.com/album/4LgbiGTzIzcXq8Lz8yajqs"
+      },
+      "artists": [
+        {
+          "name": "Natalia Natalia",
+          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 199736,
+      "name": "YA NO SIENTO FR\u00cdO",
+      "url": "https://open.spotify.com/track/1GxmUYppuasIUYvwoTRulN"
+    },
+    {
+      "added_at": "2025-02-21 03:23:24",
+      "album": {
         "name": "Bogot\u00e1",
         "url": "https://open.spotify.com/album/5gizCs5NxTYby7QGIyEVYX"
       },
@@ -183,26 +323,6 @@
     {
       "added_at": "2025-02-21 03:23:24",
       "album": {
-        "name": "ERES (Lado B)",
-        "url": "https://open.spotify.com/album/5U16JEDoxaUgEgWbMTy682"
-      },
-      "artists": [
-        {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 177081,
-      "name": "ERES - Lado B",
-      "url": "https://open.spotify.com/track/2mVYNz95eZ5MPrAZWLfEvT"
-    },
-    {
-      "added_at": "2025-02-21 03:23:24",
-      "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/4xrro73gRMWxStGt4khR6J"
       },
@@ -215,22 +335,6 @@
       "duration_ms": 211215,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/6C7EC0BWQ5A57UkY6HLJqA"
-    },
-    {
-      "added_at": "2025-02-21 03:23:24",
-      "album": {
-        "name": "Summer En Par\u00eds",
-        "url": "https://open.spotify.com/album/3qLo8V07kEVNmjuklblbk5"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 185720,
-      "name": "Summer En Par\u00eds",
-      "url": "https://open.spotify.com/track/3uunvMbxsCZmzgHmOJJe4Y"
     },
     {
       "added_at": "2025-02-21 03:23:24",
@@ -267,22 +371,6 @@
     {
       "added_at": "2025-02-21 03:23:24",
       "album": {
-        "name": "ME QUEBRASTE",
-        "url": "https://open.spotify.com/album/5V9zLGYI93HWkCzVLnyJJ1"
-      },
-      "artists": [
-        {
-          "name": "Valka",
-          "url": "https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr"
-        }
-      ],
-      "duration_ms": 175519,
-      "name": "ME QUEBRASTE",
-      "url": "https://open.spotify.com/track/1CgEaoW0Zz2txdQiZvL610"
-    },
-    {
-      "added_at": "2025-02-21 03:23:24",
-      "album": {
         "name": "\u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
       },
@@ -315,42 +403,6 @@
       "duration_ms": 201471,
       "name": "Tus Mejores D\u00edas",
       "url": "https://open.spotify.com/track/5lommDP2j9oFKKEaaoLzc1"
-    },
-    {
-      "added_at": "2025-02-21 03:23:24",
-      "album": {
-        "name": "Solo Tuyo",
-        "url": "https://open.spotify.com/album/3YUrhJt9OHldgoQsCJMrLD"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Solo Tuyo - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7HkP1m0ldONAhutDx1teju"
-    },
-    {
-      "added_at": "2025-02-21 03:23:24",
-      "album": {
-        "name": "C\u00f3mo Los De Antes",
-        "url": "https://open.spotify.com/album/2lKJXgamNCOWRx3tU7JFxd"
-      },
-      "artists": [
-        {
-          "name": "Cristina Charry",
-          "url": "https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ"
-        },
-        {
-          "name": "Sin Animo De Lucro",
-          "url": "https://open.spotify.com/artist/1cyEMpyEQatd4xre5reEcR"
-        }
-      ],
-      "duration_ms": 187889,
-      "name": "C\u00f3mo Los De Antes",
-      "url": "https://open.spotify.com/track/1V3l4a88uzbaebvD1m7xC9"
     },
     {
       "added_at": "2025-02-21 03:23:24",
@@ -727,22 +779,6 @@
     {
       "added_at": "2025-02-21 03:23:24",
       "album": {
-        "name": "Si Te Soy Sincera",
-        "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 159835,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
-    },
-    {
-      "added_at": "2025-02-21 03:23:24",
-      "album": {
         "name": "VIAJANTE",
         "url": "https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h"
       },
@@ -819,38 +855,6 @@
       "duration_ms": 184666,
       "name": "Segundos Platos",
       "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
-    },
-    {
-      "added_at": "2025-02-21 03:23:24",
-      "album": {
-        "name": "F\u00f3rmula 1",
-        "url": "https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B"
-      },
-      "artists": [
-        {
-          "name": "Susana Cala",
-          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
-        }
-      ],
-      "duration_ms": 157968,
-      "name": "F\u00f3rmula 1",
-      "url": "https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB"
-    },
-    {
-      "added_at": "2025-02-21 03:23:24",
-      "album": {
-        "name": "Muriendo en Vida",
-        "url": "https://open.spotify.com/album/5HzmWdLS7wuVNcjd8sBRZB"
-      },
-      "artists": [
-        {
-          "name": "Sinisterra",
-          "url": "https://open.spotify.com/artist/46hFpNlGbQT8hFf233H29I"
-        }
-      ],
-      "duration_ms": 165001,
-      "name": "Muriendo en Vida",
-      "url": "https://open.spotify.com/track/1cP7B6Fn6hOzZnvoKVOyBo"
     },
     {
       "added_at": "2025-02-21 03:23:24",

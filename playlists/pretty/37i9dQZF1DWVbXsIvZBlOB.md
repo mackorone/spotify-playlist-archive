@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ענבל ביבי
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,624 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,623 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 4 | [ביקור מולדת](https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [ביקור מולדת](https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4) | 4:05 |
 | 5 | [עד שייפול הירח](https://open.spotify.com/track/1IGBBGr0r8xVAm49Pkf4YR) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [עד שייפול הירח](https://open.spotify.com/album/53Hrnu2s8H9ALN0zoOv12L) | 3:19 |
 | 6 | [לחיות](https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [לחיות](https://open.spotify.com/album/15e4Iu5sz7Efpn3yC51uCD) | 4:07 |
-| 7 | [טופא לוק](https://open.spotify.com/track/5gyCR3uqESRM9UHAqS9Qsh) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [טופא לוק](https://open.spotify.com/album/7ytPaTqr7yO01OCfgBeBR0) | 2:37 |
+| 7 | [טופא לוק](https://open.spotify.com/track/5gyCR3uqESRM9UHAqS9Qsh) | [Asulin](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [טופא לוק](https://open.spotify.com/album/7ytPaTqr7yO01OCfgBeBR0) | 2:37 |
 | 8 | [רעש זכוכיות](https://open.spotify.com/track/0lNTX7Z9xbS5qWzaBo7F3d) | [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa) | [רעש זכוכיות](https://open.spotify.com/album/0qvNFZO6Kfu9UbYVOYrETv) | 3:13 |
 | 9 | [כמו פעם](https://open.spotify.com/track/7pjYI0WTS8ZXeP4Rsxrx14) | [Zehava Ben](https://open.spotify.com/artist/1ZiRuouid1bUvYXpEVaouj) | [כמו פעם](https://open.spotify.com/album/5jUsaGDWOe2rQ5ru8ZyEpU) | 3:41 |
 | 10 | [שיר מלחמה](https://open.spotify.com/track/65r0aiVac3vRyJNKKaPlDf) | [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx), [Ofer Levi](https://open.spotify.com/artist/28G94gtkEJysBQoAUOdc0U) | [מי אני חושבת שאני](https://open.spotify.com/album/0GmnawznVnMkYFzmhJMppe) | 3:20 |

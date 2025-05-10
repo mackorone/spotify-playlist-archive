@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: SIDARTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,191 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,208 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 13 | [Kapos Allios](https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [ODYDOZE](https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ) | [MAVRI ELLADA](https://open.spotify.com/album/1VLERIT9MWXQGypnzYaTe9) | 3:07 |
 | 14 | [Savvato](https://open.spotify.com/track/1lRvZrrEbOGlU4uZB9nmKQ) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Royal](https://open.spotify.com/album/6NigROCnaigsr6FroYtDAu) | 2:53 |
 | 15 | [Me vs Me](https://open.spotify.com/track/70cUcJrb1TXW7IcoBSWo4w) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [Ki2d](https://open.spotify.com/album/4APMq2g1qGMZxkuHrgqO6q) | 2:19 |
-| 16 | [Prwto Trapezi Pista](https://open.spotify.com/track/3eL5wAkqdaLviZR477Etp1) | [Lil PoP](https://open.spotify.com/artist/6Z53MNjWyTH16xE6hXwttS), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [Prwto Trapezi Pista](https://open.spotify.com/album/4cXbMUUiDspCgUss8ibQqU) | 2:48 |
+| 16 | [PROTO TRAPEZI](https://open.spotify.com/track/3eL5wAkqdaLviZR477Etp1) | [Lil PoP](https://open.spotify.com/artist/6Z53MNjWyTH16xE6hXwttS), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [PROTO TRAPEZI](https://open.spotify.com/album/4cXbMUUiDspCgUss8ibQqU) | 2:48 |
 | 17 | [CAPO DEI CAPI](https://open.spotify.com/track/5EAa3CqPUv1kudp8zHgyPm) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [CAPO DEI CAPI](https://open.spotify.com/album/2Oz75fOLIhUkl7xySEZk9t) | 4:36 |
 | 18 | [Mprosta](https://open.spotify.com/track/2J8LgasKpBYXV45m9Dj451) | [12os Pithikos](https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI), [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [Mprosta](https://open.spotify.com/album/1kohqG5msRGOfXMJO8xvub) | 4:25 |
 | 19 | [PERCIE](https://open.spotify.com/track/7r39xkoj9KHHbTvSLM47We) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [ASTRO](https://open.spotify.com/album/5iDNJiIHtU7mzXTBydwRcB) | 2:17 |

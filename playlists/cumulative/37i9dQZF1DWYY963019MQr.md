@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-104 songs - 5 hr 40 min
+106 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [I Can't Get Started](https://open.spotify.com/track/7agPPJXP14osXy001r9kWN) | [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Standards](https://open.spotify.com/album/27JVfoJ1uq83yW1KYovrQO) | 6:01 | 2023-10-26 | 2024-04-19 |
 | [I Should Care](https://open.spotify.com/track/24XjTCIq4WrhUvHtmUd4ju) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [I Should Care](https://open.spotify.com/album/2bZuqVCkXSbjGw5SgBb9cK) | 1:46 | 2023-02-02 | 2023-09-16 |
 | [In A Sentimental Mood](https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [In A Sentimental Mood](https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y) | 2:42 | 2022-10-13 |  |
+| [In the Moment](https://open.spotify.com/track/73tRejGyaBicoJAOccOLxX) | [Jamie Wilkis](https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ) | [In the Moment](https://open.spotify.com/album/0xIp3ZHUTtMzH4Bp83NHC0) | 2:06 | 2025-05-09 |  |
 | [Just Friends](https://open.spotify.com/track/3tHg7ih7aOsHUSMEImsLhU) | [Jim Stolar](https://open.spotify.com/artist/5hWUYUBGBKYhVolIy0DC5O) | [Just Friends](https://open.spotify.com/album/7HTSR4JClDS0r16RrLpmKE) | 2:26 | 2022-10-13 |  |
 | [Lament](https://open.spotify.com/track/4vZhchoL2XrWUwROtCLygh) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 5:01 | 2022-10-13 |  |
 | [Late Mood](https://open.spotify.com/track/4F5frv4DMz1X4sXRSdmCtX) | [Elliot Smythe](https://open.spotify.com/artist/5dGebAKGhbbbPCAZKxpoFc) | [Late Mood](https://open.spotify.com/album/3zFeTY3jdzKcVkYEE6E2fK) | 2:06 | 2022-10-13 |  |
@@ -69,7 +70,7 @@
 | [Misty](https://open.spotify.com/track/51HXNZE27Z1HZv434alcCU) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Misty](https://open.spotify.com/album/3mm9MeaqIKonEcINmU4boS) | 1:42 | 2023-02-16 | 2023-09-16 |
 | [Mona Lisa](https://open.spotify.com/track/2HGbt4l6SI2QklbIL56gqJ) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Kiss And Tell](https://open.spotify.com/album/5inAnI4fK2mZZKahLIxDGB) | 4:49 | 2022-10-13 | 2024-07-23 |
 | [Moon River](https://open.spotify.com/track/7HFhaGSj1ZOsNwyDilDEGm) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Moon River](https://open.spotify.com/album/6IC8m7kndMMCp8OkNjnjPE) | 3:34 | 2022-10-13 |  |
-| [Moon River](https://open.spotify.com/track/3W8D2HWFwHWPmLwO9DFHAN) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Moon River](https://open.spotify.com/album/0SOV5LKZPBwQL4E2vfK0s2) | 2:24 | 2025-03-10 |  |
+| [Moon River](https://open.spotify.com/track/3W8D2HWFwHWPmLwO9DFHAN) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Moon River](https://open.spotify.com/album/0SOV5LKZPBwQL4E2vfK0s2) | 2:24 | 2025-03-10 | 2025-05-10 |
 | [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 | 2022-12-01 | 2023-08-11 |
 | [My Foolish Heart](https://open.spotify.com/track/3zsM3SaQiMxd3IEUeQ1L5n) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 3:51 | 2022-10-13 |  |
 | [My Heart Stood Still](https://open.spotify.com/track/23xrHsJ6yEz1WJuBBqX2wt) | [Cole Laurence](https://open.spotify.com/artist/1iw5lLOqWw7LhoKzm9G6dw) | [My Heart Stood Still](https://open.spotify.com/album/1TNCzrqc6KnESILZX2knda) | 2:20 | 2023-05-11 |  |
@@ -94,6 +95,7 @@
 | [Someday My Prince Will Come](https://open.spotify.com/track/3WoSrYUi2UoF321UCXE6UO) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Someday My Prince Will Come](https://open.spotify.com/album/3me7OLET9zLwToQ2TOk5yh) | 2:35 | 2022-10-27 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/7tOzfZjgXHqiah32IIQplt) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [Somewhere Over The Rainbow](https://open.spotify.com/album/2wtxBVqcVFR6hG5yleEKOa) | 2:12 | 2022-10-27 | 2024-01-05 |
 | [Stella By Starlight](https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Stella By Starlight](https://open.spotify.com/album/3MHrBUtYPA1pzK9pW2InrB) | 2:51 | 2022-11-24 |  |
+| [Sunflowers](https://open.spotify.com/track/75XlFoKGhCjOM6oxNCREyK) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Sunflowers](https://open.spotify.com/album/2MPdZrdRPyB1BLfdLZnMoD) | 2:26 | 2025-05-09 |  |
 | [Sunny Shadow](https://open.spotify.com/track/3w0o8Mo8aFrQ0HtmwBVg2v) | [Morris Valentin](https://open.spotify.com/artist/4eNel5cDOyyO9AuVHCg7h8) | [Sunny Shadow](https://open.spotify.com/album/1Phq0mAzxfgavFzKiNZuz3) | 2:10 | 2025-01-07 |  |
 | [Tangerine](https://open.spotify.com/track/0iaaX04FpfgPfqzCInwudD) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Tangerine](https://open.spotify.com/album/38gxSGItvmeSUA9s18VGcO) | 3:44 | 2024-10-21 |  |
 | [Tenderly](https://open.spotify.com/track/5wRKHllJVRtAaLmyN8tDHS) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 3:11 | 2022-10-13 |  |
@@ -104,7 +106,7 @@
 | [The Way You Look Tonight](https://open.spotify.com/track/4QzkLSRHaqdAj9MYdyzf5Z) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Love Songs](https://open.spotify.com/album/1mP0H6sPc8lEHpaBlsUw0i) | 5:35 | 2022-10-13 | 2023-08-17 |
 | [This World](https://open.spotify.com/track/2hUILUOnp0zo8II8TcawL0) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [This World](https://open.spotify.com/album/17liHgNayApFU9mD9uLKyX) | 4:19 | 2023-02-23 |  |
 | [Traveling Back](https://open.spotify.com/track/3MnJEpFl6B4PsyUcE1tstN) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 3:02 | 2022-10-13 | 2024-10-09 |
-| [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 | 2022-10-13 |  |
+| [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 | 2022-10-13 | 2025-05-10 |
 | [Waltz van Amsterdam](https://open.spotify.com/track/0kPLZB72XgKxlpq93qQ3R3) | [Casper Hejlesen](https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g) | [Waltz van Amsterdam](https://open.spotify.com/album/3QeDhkEceu7PJY02WUhttF) | 4:50 | 2024-02-02 |  |
 | [When I Fall In Love](https://open.spotify.com/track/1hsPTRZmb8mf0wZQfMAdhG) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [When I Fall In Love](https://open.spotify.com/album/1Mw304xtAcLXdPpxkcuDXF) | 2:12 | 2022-11-17 |  |
 | [When It's Sleepy Time Down South](https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr) | [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR), [Helmut Nieberle](https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO) | [Timelines](https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY) | 3:20 | 2022-10-13 |  |

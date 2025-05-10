@@ -3109,6 +3109,28 @@
     },
     {
       "album": {
+        "name": "Manasu",
+        "url": "https://open.spotify.com/album/7kCsUSSQNGDr0ArNHD8uHy"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Pavitra Krishnan",
+          "url": "https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262736,
+      "name": "Manasu",
+      "url": "https://open.spotify.com/track/3Akm212i2lCzxfFnX7Bioe"
+    },
+    {
+      "album": {
         "name": "Manasuke - Symphony of Emotions",
         "url": "https://open.spotify.com/album/4XS55WoJ6puSxOfcHXTRuT"
       },
@@ -3552,7 +3574,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 229920,
       "name": "Na Hrudayama - Female Version",
       "url": "https://open.spotify.com/track/78Glb2SX7qBYxssJcFb43J"

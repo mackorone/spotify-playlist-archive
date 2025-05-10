@@ -5087,6 +5087,32 @@
     },
     {
       "album": {
+        "name": "MR. SMOOVE, Vol. 1",
+        "url": "https://open.spotify.com/album/6jbrPR4QNwSvoVOoc7cDxT"
+      },
+      "artists": [
+        {
+          "name": "Baby T",
+          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "Sayle",
+          "url": "https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C"
+        },
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/3bX1UBuREUv9PBbkeqeY1S"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Dois Lados",
+      "url": "https://open.spotify.com/track/7LtZZRUOs0MWDwnC7woHBZ"
+    },
+    {
+      "album": {
         "name": "Dolce & Gabbana",
         "url": "https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw"
       },
@@ -10104,7 +10130,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 241846,
       "name": "Meu Mundo (feat. Baco Exu do Blues)",
       "url": "https://open.spotify.com/track/6lSzZU3QJsu4x788gfQKNT"
@@ -14489,6 +14515,40 @@
     },
     {
       "album": {
+        "name": "Senta Pros Do Momento",
+        "url": "https://open.spotify.com/album/7wp7dajAjWOj4onmViycAs"
+      },
+      "artists": [
+        {
+          "name": "Recayd Mob",
+          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
+        },
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190360,
+      "name": "Senta Pros Do Momento",
+      "url": "https://open.spotify.com/track/64O5X0s5QYtLQcUrXeo0L7"
+    },
+    {
+      "album": {
         "name": "Sequestro",
         "url": "https://open.spotify.com/album/5rq1soVKaDW0yTvFb5s23N"
       },
@@ -16286,7 +16346,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 151982,
       "name": "Um Mano Discreto (feat. Mc Luanna)",
       "url": "https://open.spotify.com/track/0lN6Mpuubw0DRgOqYq7Fg8"

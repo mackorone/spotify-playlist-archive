@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 33461,
+  "num_followers": 33476,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-05-05 15:04:14",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2025-05-05 15:04:14",
-      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2025-05-05 15:04:14",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2025-05-05 15:04:14",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-05-05 15:04:14",
       "album": {
-        "name": "Love Is The Answer",
-        "url": "https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD"
-      },
-      "artists": [
-        {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
-        }
-      ],
-      "duration_ms": 212076,
-      "name": "Love Is The Answer",
-      "url": "https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6"
-    },
-    {
-      "added_at": "2025-05-05 15:04:14",
-      "album": {
         "name": "Afacere",
         "url": "https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 147773,
       "name": "Afacere",
       "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
+    },
+    {
+      "added_at": "2025-05-05 15:04:14",
+      "album": {
+        "name": "Love Is The Answer",
+        "url": "https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        }
+      ],
+      "duration_ms": 212076,
+      "name": "Love Is The Answer",
+      "url": "https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6"
     },
     {
       "added_at": "2025-05-05 15:04:14",
@@ -1651,8 +1651,8 @@
     {
       "added_at": "2025-05-05 15:04:14",
       "album": {
-        "name": "Anglia",
-        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
+        "name": "Spania",
+        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
       },
       "artists": [
         {
@@ -1660,9 +1660,9 @@
           "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
         }
       ],
-      "duration_ms": 131977,
-      "name": "Anglia",
-      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
+      "duration_ms": 159194,
+      "name": "Spania",
+      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
     },
     {
       "added_at": "2025-05-05 15:04:14",
@@ -1771,8 +1771,8 @@
     {
       "added_at": "2025-05-05 15:04:14",
       "album": {
-        "name": "Spania",
-        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
+        "name": "Anglia",
+        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
       },
       "artists": [
         {
@@ -1780,9 +1780,9 @@
           "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
         }
       ],
-      "duration_ms": 159194,
-      "name": "Spania",
-      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
+      "duration_ms": 131977,
+      "name": "Anglia",
+      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
     },
     {
       "added_at": "2025-05-05 15:04:14",
@@ -1807,22 +1807,18 @@
     {
       "added_at": "2025-05-05 15:04:14",
       "album": {
-        "name": "Lumea toat\u0103",
-        "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
+        "name": "Ancora",
+        "url": "https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan"
       },
       "artists": [
         {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        },
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "The Urs",
+          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Lumea toat\u0103",
-      "url": "https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql"
+      "duration_ms": 205714,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

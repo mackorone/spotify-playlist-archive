@@ -5301,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7ie5IYVdXEqNmHSpmgdIuw"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189091,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/5ipbUo59q4RI0ncqCrx5aJ"
+    },
+    {
+      "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC"
       },
@@ -21458,6 +21476,32 @@
       "duration_ms": 158374,
       "name": "Rock n Roll",
       "url": "https://open.spotify.com/track/7Ex6Hs7zBrc96liOUTnPFC"
+    },
+    {
+      "album": {
+        "name": "Rock n Roll (Matt Sassari Remix)",
+        "url": "https://open.spotify.com/album/2XrB4nZykzanKU70nmNHUX"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152812,
+      "name": "Rock n Roll - Matt Sassari Remix",
+      "url": "https://open.spotify.com/track/3mM5oOgTMVmErHXtnQZ58U"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zoë Më
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,580 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,596 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 24 | [Deep Inside Love \- Edit](https://open.spotify.com/track/2aZTZK0TiD44o5HyzKz9uE) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Deep Inside Love](https://open.spotify.com/album/2q8QCvf45Ti8KSBMJgpQNF) | 4:04 |
 | 25 | [Ok](https://open.spotify.com/track/5YrONaqm7njKu0imcINj7O) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Ok](https://open.spotify.com/album/1FBHLmElb7q1sJKhem5wbP) | 2:25 |
 | 26 | [Geist](https://open.spotify.com/track/65MUQzyTn5lz067N0yS57E) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Geist](https://open.spotify.com/album/2TLFXXiWA9Q8uw3Xle2wwa) | 3:21 |
-| 27 | [Say What You Want](https://open.spotify.com/track/73i6cz59sCQFNaZwR8p96N) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Say What You Want](https://open.spotify.com/album/5plD1YDdvlJWIzK5fic2GU) | 2:15 |
-| 28 | [Unlearn](https://open.spotify.com/track/0bCY2oqtq99zTgg9OYzjpH) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Unlearn](https://open.spotify.com/album/1eAcorMqEkerbVH1stj7og) | 3:06 |
-| 29 | [Blauen Planeten](https://open.spotify.com/track/7tQFQPmug9ZMVEam7ZJU8y) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Blauen Planeten](https://open.spotify.com/album/54fMKybZ2ekWi3R2jLLw33) | 2:44 |
-| 30 | [Mystic Love](https://open.spotify.com/track/5aF6bFy7Q5CQftJzkHRPyJ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mystic Love](https://open.spotify.com/album/1psvgaLdxg6HRA6o5SMhW0) | 4:47 |
-| 31 | [Delusional](https://open.spotify.com/track/2G01NugTMqUFQscRAVkc4A) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Delusional](https://open.spotify.com/album/26HrMm2LC1z51Rp1ANp20M) | 2:21 |
-| 32 | [fata morgana](https://open.spotify.com/track/33UHH5ZdOesZIWviYJEtz9) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [fata morgana](https://open.spotify.com/album/1D4Y9K6NDPtPw2V0CCoBJU) | 2:05 |
+| 27 | [Blauen Planeten](https://open.spotify.com/track/7tQFQPmug9ZMVEam7ZJU8y) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Blauen Planeten](https://open.spotify.com/album/54fMKybZ2ekWi3R2jLLw33) | 2:44 |
+| 28 | [Say What You Want](https://open.spotify.com/track/73i6cz59sCQFNaZwR8p96N) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Say What You Want](https://open.spotify.com/album/5plD1YDdvlJWIzK5fic2GU) | 2:15 |
+| 29 | [Unlearn](https://open.spotify.com/track/0bCY2oqtq99zTgg9OYzjpH) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Unlearn](https://open.spotify.com/album/1eAcorMqEkerbVH1stj7og) | 3:06 |
+| 30 | [fata morgana](https://open.spotify.com/track/33UHH5ZdOesZIWviYJEtz9) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [fata morgana](https://open.spotify.com/album/1D4Y9K6NDPtPw2V0CCoBJU) | 2:05 |
+| 31 | [Mystic Love](https://open.spotify.com/track/5aF6bFy7Q5CQftJzkHRPyJ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mystic Love](https://open.spotify.com/album/1psvgaLdxg6HRA6o5SMhW0) | 4:47 |
+| 32 | [Delusional](https://open.spotify.com/track/2G01NugTMqUFQscRAVkc4A) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Delusional](https://open.spotify.com/album/26HrMm2LC1z51Rp1ANp20M) | 2:21 |
 | 33 | [Mirror](https://open.spotify.com/track/0m2S53VeqNnYNNGiTo2AGb) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Mirror](https://open.spotify.com/album/1uOJudeVL4sMJyfLJsiAnt) | 4:09 |
 | 34 | [Boys & Girls & Theys](https://open.spotify.com/track/0K3gWuGSDC0V0UHm60KhWn) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [Boys & Girls & Theys](https://open.spotify.com/album/3yru8SXHsVIlSQnpOT8Nhn) | 3:19 |
 | 35 | [Blinde Passagiere](https://open.spotify.com/track/7j4R30Ae96SBBkTAolLCcb) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Schiffe Versenken \(tape\)](https://open.spotify.com/album/1rrBIh1c1off8NJmY5Ltnx) | 3:06 |
-| 36 | [Mirror](https://open.spotify.com/track/1pIPpS2d4wjQG3qtjbq7GF) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Mirror](https://open.spotify.com/album/4hmXcfGg3N8YBZDLAB6wZz) | 3:12 |
-| 37 | [fick dich](https://open.spotify.com/track/3aoWrdMqBvc7Vn025KDPBe) | [emma](https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw) | [fick dich](https://open.spotify.com/album/7qjivdljBThfyKLJPEzEgZ) | 2:32 |
+| 36 | [fick dich](https://open.spotify.com/track/3aoWrdMqBvc7Vn025KDPBe) | [emma](https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw) | [fick dich](https://open.spotify.com/album/7qjivdljBThfyKLJPEzEgZ) | 2:32 |
+| 37 | [Mirror](https://open.spotify.com/track/1pIPpS2d4wjQG3qtjbq7GF) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Mirror](https://open.spotify.com/album/4hmXcfGg3N8YBZDLAB6wZz) | 3:12 |
 | 38 | [Rotes Haus](https://open.spotify.com/track/5gmgZxiTQtHPFdgo5BR2bC) | [Ana Kohler](https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw) | [Rotes Haus](https://open.spotify.com/album/5EQT7WmZgwDrvfVQUV5DZJ) | 2:38 |
 | 39 | [I Hate Love](https://open.spotify.com/track/0LeyCzaxWW6ashnoEiow37) | [lina\-mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Hate Love](https://open.spotify.com/album/1kA1toYzXRZe6fZle3oLQH) | 3:12 |
 | 40 | [Little Girl](https://open.spotify.com/track/3qWB0PqkjR8D0tC3xmpy4s) | [The Red Flags](https://open.spotify.com/artist/7FIb3f7HlWJre42vwT6rDN) | [Little Girl](https://open.spotify.com/album/2EjiBxcgXvcpuG7mwI2yro) | 1:31 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 44 | [Outdoor Guy](https://open.spotify.com/track/1kEqnatUtLQIWb8gKyiXz2) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Outdoor Guy](https://open.spotify.com/album/0PHEp3OkW1iozIuxAqW8xp) | 2:48 |
 | 45 | [I'll Take The Cake](https://open.spotify.com/track/4nTTsz2fvWhaI9sCorNafH) | [Veigh Malow](https://open.spotify.com/artist/3wHRJEtJVhuTWFIFZxgZ8G) | [I'll Take The Cake](https://open.spotify.com/album/4EvIwHb4oZ1EHKOJ3KENul) | 3:19 |
 | 46 | [Run Boy Run](https://open.spotify.com/track/7pM3w00254rTDdlzYhYObw) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Socially Awkward](https://open.spotify.com/album/5MN9hKbSo0VKxy7tgtj4GB) | 2:54 |
-| 47 | [Would I Be A Woman](https://open.spotify.com/track/7uwmt2YPuyFOcTAGDNEOo1) | [Marlena Käthe](https://open.spotify.com/artist/40sGCC2yxtOagLD7aewQJc), [Fama M'Boup](https://open.spotify.com/artist/4evTQ9PcRlZvvlK4TtW4HF) | [Would I Be A Woman](https://open.spotify.com/album/5dUOevsymHIPMV2snFTNun) | 3:21 |
-| 48 | [C.A.G.E](https://open.spotify.com/track/3C5ZYZEdGw0VWwpt8OGtPt) | [Cage](https://open.spotify.com/artist/5AcetCgP402g9PqzkcSxNo) | [C.A.G.E](https://open.spotify.com/album/5tv7BUjQDoqriJBS7qNJ7w) | 3:00 |
+| 47 | [C.A.G.E](https://open.spotify.com/track/3C5ZYZEdGw0VWwpt8OGtPt) | [Cage](https://open.spotify.com/artist/5AcetCgP402g9PqzkcSxNo) | [C.A.G.E](https://open.spotify.com/album/5tv7BUjQDoqriJBS7qNJ7w) | 3:00 |
+| 48 | [Would I Be A Woman](https://open.spotify.com/track/7uwmt2YPuyFOcTAGDNEOo1) | [Marlena Käthe](https://open.spotify.com/artist/40sGCC2yxtOagLD7aewQJc), [Fama M'Boup](https://open.spotify.com/artist/4evTQ9PcRlZvvlK4TtW4HF) | [Would I Be A Woman](https://open.spotify.com/album/5dUOevsymHIPMV2snFTNun) | 3:21 |
 | 49 | [Tehran is Burning](https://open.spotify.com/track/0nRKKtmfHjrEOp4jvRGXbv) | [MADANii](https://open.spotify.com/artist/1RzGXB2manO8IeUxrPSG4f) | [Tehran Is Burning](https://open.spotify.com/album/1L3v5AdcNllGXGEY3f2QYp) | 2:24 |
 | 50 | [Barfuß vom Rendezvous](https://open.spotify.com/track/2lDqdeGyBHxMKESKr0Z5gt) | [AngelA](https://open.spotify.com/artist/5OO4Ry74Sczxp4EdzrT18L) | [Barfuß vom Rendezvous](https://open.spotify.com/album/0XggqJLUyQvn2c7JUy5J6y) | 2:57 |
 

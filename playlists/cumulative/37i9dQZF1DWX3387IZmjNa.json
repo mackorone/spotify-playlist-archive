@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/17CpBBDsIr8s5qDY1takj0"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142976,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/29eoiKeYRzFHlVccym0Ccw"
+    },
+    {
+      "album": {
         "name": "Float 2 London",
         "url": "https://open.spotify.com/album/1SQNd5rYIqvCYYJzm1tMJx"
       },
@@ -3252,7 +3270,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 125908,
       "name": "Drop Me Tha Lo!",
       "url": "https://open.spotify.com/track/3HmdjnyKt8Kz4WWQSIJIDn"
@@ -3987,6 +4005,46 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/2gbnNeyrZHh9rQSNssjf9p"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225301,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0dqLS8eWxMv11Ro9WStXVc"
+    },
+    {
+      "album": {
+        "name": "Forever (71943509)",
+        "url": "https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188967,
+      "name": "Forever (71943509)",
+      "url": "https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz"
+    },
+    {
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -4064,7 +4122,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 186858,
       "name": "French Tips (feat. Coco Jones)",
       "url": "https://open.spotify.com/track/3pPlFiN3TLqHd5uXnRr4Cv"
@@ -10280,7 +10338,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 153667,
       "name": "Said And Done",
       "url": "https://open.spotify.com/track/5Y1GBrE0OjLNSY74rtUbPI"

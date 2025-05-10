@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Municipal Waste",
+  "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Sodom",
   "name": "Thrashers",
   "tracks": [
     {
@@ -924,6 +924,24 @@
       "duration_ms": 234578,
       "name": "Blood On Your Hands",
       "url": "https://open.spotify.com/track/2SvaoXpigVKbipjqqAcoxG"
+    },
+    {
+      "album": {
+        "name": "Bloodbath",
+        "url": "https://open.spotify.com/album/4FqK2NIyw1ux52zrK2LI26"
+      },
+      "artists": [
+        {
+          "name": "Vicious Rumors",
+          "url": "https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237203,
+      "name": "Bloodbath",
+      "url": "https://open.spotify.com/track/79AdYAlZd8nth7G8LQfPof"
     },
     {
       "album": {
@@ -5678,7 +5696,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 205541,
       "name": "Recycled Hate",
       "url": "https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k"
@@ -6364,7 +6382,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 226598,
       "name": "State of Apathy",
       "url": "https://open.spotify.com/track/5hgN5IYDZGN1Fjkf8EfXII"
@@ -7748,6 +7766,24 @@
       "duration_ms": 228080,
       "name": "Wings Of Judgement",
       "url": "https://open.spotify.com/track/69SeadjXbRQQxTSoJVBqzy"
+    },
+    {
+      "album": {
+        "name": "Witchhunter",
+        "url": "https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193345,
+      "name": "Witchhunter",
+      "url": "https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX"
     },
     {
       "album": {

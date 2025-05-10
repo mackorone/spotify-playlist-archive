@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 49260,
+  "num_followers": 49257,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAAB8KjMJzqgbuBWRmpr7nAcr",
+  "snapshot_id": "aBv0AAAAAAAJ5JunFVNir7mLz4pd3RLs",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+        "name": "\u6625\u3092\u544a\u3052\u308b\uff08\u2606Taku Takahashi Remix\uff09",
+        "url": "https://open.spotify.com/album/6ghWkxKtZ31ybSx0IsTkvQ"
       },
       "artists": [
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "\u2606Taku Takahashi",
+          "url": "https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Film",
-      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
+      "duration_ms": 184436,
+      "name": "\u6625\u3092\u544a\u3052\u308b\uff08\u2606Taku Takahashi Remix\uff09",
+      "url": "https://open.spotify.com/track/7bUd6EGBZSeMJnTT92QktK"
     },
     {
       "added_at": null,
@@ -271,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6625\u3092\u544a\u3052\u308b\uff08\u2606Taku Takahashi Remix\uff09",
-        "url": "https://open.spotify.com/album/6ghWkxKtZ31ybSx0IsTkvQ"
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
       },
       "artists": [
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "\u2606Taku Takahashi",
-          "url": "https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9"
         }
       ],
-      "duration_ms": 184436,
-      "name": "\u6625\u3092\u544a\u3052\u308b\uff08\u2606Taku Takahashi Remix\uff09",
-      "url": "https://open.spotify.com/track/7bUd6EGBZSeMJnTT92QktK"
+      "duration_ms": 195133,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
       "duration_ms": 181266,
       "name": "\u611b\u3092\u89e3\u304f",
       "url": "https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "TORIHADA",
-      "url": "https://open.spotify.com/track/0NGNeVj68sBFcyyHwax4C0"
     },
     {
       "added_at": null,
@@ -359,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "TORIHADA",
+      "url": "https://open.spotify.com/track/0NGNeVj68sBFcyyHwax4C0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u96eb",
         "url": "https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa"
       },
@@ -375,26 +375,6 @@
       "duration_ms": 276133,
       "name": "\u96eb",
       "url": "https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "\u30ec\u30b3\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc"
     },
     {
       "added_at": null,
@@ -431,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "\u30ec\u30b3\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/2XskQcykcw8kEH6xkDjUkO"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 270160,
-      "name": "rain check",
-      "url": "https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30af\u30ea\u30fc\u30e0",
         "url": "https://open.spotify.com/album/4JX57Yo9ACKXP8v1ZW2KRo"
       },
@@ -483,22 +467,6 @@
       "duration_ms": 218571,
       "name": "\u30af\u30ea\u30fc\u30e0",
       "url": "https://open.spotify.com/track/6q2anED2iLMVW1XvdZx5pQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u58f0\u660e",
-        "url": "https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 215700,
-      "name": "\u58f0\u660e",
-      "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
     },
     {
       "added_at": null,
@@ -528,15 +496,15 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 241186,
-      "name": "semicolon",
-      "url": "https://open.spotify.com/track/3FFeh3VjHhnJjjqmBydCF1"
+      "duration_ms": 270160,
+      "name": "rain check",
+      "url": "https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u771f\u3063\u767d",
-        "url": "https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8"
+        "name": "\u58f0\u660e",
+        "url": "https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F"
       },
       "artists": [
         {
@@ -544,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 287166,
-      "name": "\u771f\u3063\u767d",
-      "url": "https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc"
+      "duration_ms": 215700,
+      "name": "\u58f0\u660e",
+      "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
     },
     {
       "added_at": null,
@@ -567,6 +535,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u771f\u3063\u767d",
+        "url": "https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 287166,
+      "name": "\u771f\u3063\u767d",
+      "url": "https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 241186,
+      "name": "semicolon",
+      "url": "https://open.spotify.com/track/3FFeh3VjHhnJjjqmBydCF1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "MUSE",
-      "url": "https://open.spotify.com/track/3MnTSni3zVhxOedGGDiJkk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
         "url": "https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY"
       },
@@ -611,6 +595,38 @@
       "duration_ms": 219206,
       "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u4e00\u5bf8\u306e\u8d64",
+        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 231673,
+      "name": "\u4e00\u5bf8\u306e\u8d64",
+      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "MUSE",
+      "url": "https://open.spotify.com/track/3MnTSni3zVhxOedGGDiJkk"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 245214,
       "name": "Hello/Hello",
       "url": "https://open.spotify.com/track/5M13MqCBVJykhVUXgjjYcX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u4e00\u5bf8\u306e\u8d64",
-        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 231673,
-      "name": "\u4e00\u5bf8\u306e\u8d64",
-      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
     },
     {
       "added_at": null,

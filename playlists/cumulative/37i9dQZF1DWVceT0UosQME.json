@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "another time, another place",
+        "url": "https://open.spotify.com/album/4dWPNuUqkN1yPICPJFFFTi"
+      },
+      "artists": [
+        {
+          "name": "olbejom",
+          "url": "https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165861,
+      "name": "another time, another place",
+      "url": "https://open.spotify.com/track/6A0Nu9iDYTjeCVXCm2fplq"
+    },
+    {
+      "album": {
         "name": "Lil' Magic",
         "url": "https://open.spotify.com/album/3vYB22AkKq49RIfu0WCeUH"
       },
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 135529,
       "name": "Bullet Train",
       "url": "https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 130000,
       "name": "Collecting Dust",
       "url": "https://open.spotify.com/track/2Rr4GXLsUy7vJy2PB3mSYj"
@@ -1939,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Cozy Vinylesque",
+        "url": "https://open.spotify.com/album/4lIGVP2TKRTKycSpdTOIoH"
+      },
+      "artists": [
+        {
+          "name": "ax am",
+          "url": "https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194909,
+      "name": "Cozy Vinylesque",
+      "url": "https://open.spotify.com/track/4JVpk5H3oHWR55l1etHslh"
+    },
+    {
+      "album": {
         "name": "Fog Syndrome",
         "url": "https://open.spotify.com/album/2iHPHfcK0Uixn74qn8SDJa"
       },
@@ -2058,7 +2094,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 128664,
       "name": "Daydream Thing",
       "url": "https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x"
@@ -2764,7 +2800,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 180000,
       "name": "faltering heights",
       "url": "https://open.spotify.com/track/71GgMWy54Ctffgnba5tZwJ"
@@ -3110,7 +3146,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 160109,
       "name": "Follow the maze",
       "url": "https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko"
@@ -3402,7 +3438,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 118588,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/60xBFhU4ojvkFID0Le4XIw"
@@ -3546,7 +3582,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 141578,
       "name": "Gas Guzzling",
       "url": "https://open.spotify.com/track/4S586yJKAg7TtGaA4SOLec"
@@ -3618,7 +3654,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 130746,
       "name": "glossy window",
       "url": "https://open.spotify.com/track/2AG1nSGB6J9xEQOIm1Dyc8"
@@ -4472,7 +4508,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 151125,
       "name": "in a... mood",
       "url": "https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs"
@@ -4814,7 +4850,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 111333,
       "name": "kodak",
       "url": "https://open.spotify.com/track/7q8NJyn5JHHzfTwa1auiPH"
@@ -5174,7 +5210,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 126035,
       "name": "Let\u2019s back that up",
       "url": "https://open.spotify.com/track/6qB6Tf93CQyItAywIUfusl"
@@ -5228,7 +5264,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 119117,
       "name": "Like a Chameleon",
       "url": "https://open.spotify.com/track/0zX4YRYnQ0PYgQmRqOW0cm"
@@ -5430,7 +5466,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 140392,
       "name": "Longing for summer",
       "url": "https://open.spotify.com/track/7I6VIP00dwIA97Ge5AK1YP"
@@ -6460,7 +6496,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 140053,
       "name": "New Digs",
       "url": "https://open.spotify.com/track/49vHEmDBptOhfz1EUR2qt0"
@@ -6518,6 +6554,24 @@
       "duration_ms": 125250,
       "name": "Nice & Slow",
       "url": "https://open.spotify.com/track/248PhgimKf2fadl85Jpahp"
+    },
+    {
+      "album": {
+        "name": "night gaze",
+        "url": "https://open.spotify.com/album/4Ux0OruNOUwCWT10UMcn6a"
+      },
+      "artists": [
+        {
+          "name": "wuy-wuy",
+          "url": "https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161854,
+      "name": "night gaze",
+      "url": "https://open.spotify.com/track/0gTqtb5dNhqMpEuz3v2LCf"
     },
     {
       "album": {
@@ -7072,7 +7126,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 129000,
       "name": "Particles",
       "url": "https://open.spotify.com/track/5iutyPUPT8BD6NmUjMVVj2"
@@ -7144,7 +7198,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 144000,
       "name": "pato blanco",
       "url": "https://open.spotify.com/track/4qADdUyjAppU2XT7yKfBcg"
@@ -7724,7 +7778,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 111724,
       "name": "Rain Is Coming",
       "url": "https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O"
@@ -7868,7 +7922,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 140000,
       "name": "Resting Days",
       "url": "https://open.spotify.com/track/6FKD7NlcNchJckU1LxjN5U"
@@ -8372,7 +8426,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 101538,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/74mNIO5GJ2wN4gSHBMutN6"
@@ -8408,7 +8462,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 163124,
       "name": "Silence",
       "url": "https://open.spotify.com/track/63XQRpucFtZi1c8tQx48L2"
@@ -8570,7 +8624,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 121500,
       "name": "Smokin' aces",
       "url": "https://open.spotify.com/track/3GoTqkZ7NxIGy7uBLkeLuR"
@@ -8642,7 +8696,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 153474,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/2y0qzhtfsdGqYjsfKIh2kP"
@@ -8966,7 +9020,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 129423,
       "name": "Starfew Alley",
       "url": "https://open.spotify.com/track/4j647icCpXJcRES7szthoM"
@@ -9578,7 +9632,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 151565,
       "name": "The Next Stop Is",
       "url": "https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5"
@@ -10525,6 +10579,24 @@
     },
     {
       "album": {
+        "name": "Window Seat",
+        "url": "https://open.spotify.com/album/0mggu2pUIaegtW1NrCyf08"
+      },
+      "artists": [
+        {
+          "name": "BeatsDotCom",
+          "url": "https://open.spotify.com/artist/5Qly1NvJNo9y2GcL2AmRwc"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107840,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5GxUzE9Mm2YnEZQKW5RyiH"
+    },
+    {
+      "album": {
         "name": "Winter Artifacts",
         "url": "https://open.spotify.com/album/0SFPkBCpXGMR5QshHhvnOI"
       },
@@ -10630,7 +10702,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 173164,
       "name": "wombat",
       "url": "https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV"
@@ -10666,7 +10738,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 118359,
       "name": "World Wonders",
       "url": "https://open.spotify.com/track/7ECNeHwthaexm4DlKXoB6L"
@@ -10702,7 +10774,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 117160,
       "name": "wrapped arms",
       "url": "https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC"

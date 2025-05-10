@@ -1,12 +1,12 @@
 {
   "description": "This is P.O.D.. The essential tracks, all in one playlist.",
-  "num_followers": 73834,
+  "num_followers": 73842,
   "original_name": "This Is P.O.D.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAADjeFFzSlh8/j9jc85AQkz5",
+  "snapshot_id": "aBv0AAAAAACCSbRgvH2N6t546iW/cu/M",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 268200,
-      "name": "Going in Blind",
-      "url": "https://open.spotify.com/track/4VdR5o57IdK2L6EF8JmTBK"
+      "duration_ms": 204800,
+      "name": "Sleeping Awake - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6F3V2RlMJ9mlizobqjTPiO"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Sleeping Awake - 2006 Remaster",
-      "url": "https://open.spotify.com/track/6F3V2RlMJ9mlizobqjTPiO"
+      "duration_ms": 268200,
+      "name": "Going in Blind",
+      "url": "https://open.spotify.com/track/4VdR5o57IdK2L6EF8JmTBK"
     },
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Sun",
-        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
       "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        },
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 186453,
-      "name": "They Don't Like It",
-      "url": "https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL"
+      "duration_ms": 246773,
+      "name": "Set Your Eyes to Zion",
+      "url": "https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG"
     },
     {
       "added_at": null,
@@ -611,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fundamental Elements of Southtown",
-        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
+        "name": "American Sun",
+        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
       },
       "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        },
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 246773,
-      "name": "Set Your Eyes to Zion",
-      "url": "https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG"
+      "duration_ms": 186453,
+      "name": "They Don't Like It",
+      "url": "https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL"
     },
     {
       "added_at": null,

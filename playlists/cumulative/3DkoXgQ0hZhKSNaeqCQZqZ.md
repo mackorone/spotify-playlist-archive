@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request @ spotify.furrest.net
 
-341 songs - 18 hr 1 min
+342 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Fox Boy](https://open.spotify.com/track/6Znko1vwkXU7ebLmQ0Nl4E) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Fox Boy](https://open.spotify.com/album/68m9JFPkoH54ntMsCh2niB) | 4:00 | 2023-06-14 |  |
 | [Fratricide](https://open.spotify.com/track/7a6Q9vKtA9oPU08XZSOGR9) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [Fratricide](https://open.spotify.com/album/6yzq6H3QI7ylehs1yZ4z3G) | 3:40 | 2023-08-07 |  |
 | [Free Tonight](https://open.spotify.com/track/6Y0rTVgEHLbyv2LaFHMbHB) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [Another](https://open.spotify.com/album/4ku6hiP8aiueGRUtaDzwT0) | 2:58 | 2025-03-01 |  |
+| [Frizk Fundamentals!](https://open.spotify.com/track/5xJg2mHwmCWFwHtuefK4Ro) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Frizk Fundamentals!](https://open.spotify.com/album/7C3W5UlZpLuK1r5dJeEkaR) | 2:00 | 2025-05-10 |  |
 | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/track/4t5vhVmALRs8rkakMGZYjk) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/album/2d9lTBrplUQSXxKXJGVI6b) | 2:35 | 2024-11-17 | 2025-02-06 |
 | [Galaxy](https://open.spotify.com/track/7H1riDF2BhjeUP0Gvfvt1L) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Galaxy](https://open.spotify.com/album/5mOYMAiHKtV9HOP2K9JMv9) | 3:43 | 2023-06-27 |  |
 | [gen3mlp](https://open.spotify.com/track/2pq1qNcFLdWKas7DLNsOMF) | [lulamoon](https://open.spotify.com/artist/0DAelTYQOImud40A6DFnYR), [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G) | [opal](https://open.spotify.com/album/34Zr3RTwjMsQcTAedwWwpg) | 3:16 | 2025-01-25 |  |

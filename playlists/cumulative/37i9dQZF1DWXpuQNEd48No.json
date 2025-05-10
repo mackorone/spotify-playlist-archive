@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: Krish Rao",
+  "description": "Best of Haryanvi Hip-Hop! Cover: D Naveen",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -755,6 +755,28 @@
     },
     {
       "album": {
+        "name": "BADERA",
+        "url": "https://open.spotify.com/album/77mzQDtenloNZCgsZtGtEo"
+      },
+      "artists": [
+        {
+          "name": "BOBBY GAHLOT AKA RJ01",
+          "url": "https://open.spotify.com/artist/7ft8TXI7fXZgCWdUYgP5yu"
+        },
+        {
+          "name": "Mad Mix",
+          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143348,
+      "name": "BADERA",
+      "url": "https://open.spotify.com/track/6lPHkAlcTwbasmpaGJ0MiY"
+    },
+    {
+      "album": {
         "name": "Nuke",
         "url": "https://open.spotify.com/album/0agmnQzKZ1aKvC4eSFau14"
       },
@@ -1196,7 +1218,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 145125,
       "name": "Bhains Lathi",
       "url": "https://open.spotify.com/track/3A3QEjpPaofClmH0deLPaI"
@@ -1672,7 +1694,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 144000,
       "name": "Chore Albadi - From \"Incomparable\"",
       "url": "https://open.spotify.com/track/0ivHqJTvof0LaIaJCM1jXu"
@@ -2172,7 +2194,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 209189,
       "name": "Dehshat",
       "url": "https://open.spotify.com/track/5AzK9Eo8DYwAumfqXeZZvT"
@@ -2212,6 +2234,28 @@
       "duration_ms": 126000,
       "name": "Delhi X Haryana",
       "url": "https://open.spotify.com/track/5hVJ9jc2YN3KGFH50AazEV"
+    },
+    {
+      "album": {
+        "name": "DN.1",
+        "url": "https://open.spotify.com/album/2mUW6az4bpukrLsJt52fsP"
+      },
+      "artists": [
+        {
+          "name": "D Naveen",
+          "url": "https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb"
+        },
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124848,
+      "name": "Desi",
+      "url": "https://open.spotify.com/track/5lTHCIhhRvd43Pp54M6XCK"
     },
     {
       "album": {
@@ -3001,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Gaadi 150",
+        "url": "https://open.spotify.com/album/1Xp8PesszaBmk58MKYwgfy"
+      },
+      "artists": [
+        {
+          "name": "Vikram Sarkar",
+          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Gaadi 150",
+      "url": "https://open.spotify.com/track/0qNMptHdkQuZsWKxZ8rmW2"
+    },
+    {
+      "album": {
         "name": "Gaadi Drill",
         "url": "https://open.spotify.com/album/1hnGmtUKZtMXerEVUIMlk1"
       },
@@ -3162,6 +3224,32 @@
       "duration_ms": 176551,
       "name": "Ghane Gande",
       "url": "https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6"
+    },
+    {
+      "album": {
+        "name": "Ghani Der Hogi",
+        "url": "https://open.spotify.com/album/5Fg1aPjCOS6nCOptr1ureK"
+      },
+      "artists": [
+        {
+          "name": "Rigul",
+          "url": "https://open.spotify.com/artist/7vlWwl8xvyQdLQabfdb9wv"
+        },
+        {
+          "name": "Yawar",
+          "url": "https://open.spotify.com/artist/2IWAyq4Hd0rT9lbDDI3u1y"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140563,
+      "name": "Ghani Der Hogi",
+      "url": "https://open.spotify.com/track/6EX1udGZhfia6Cz3nlHJtw"
     },
     {
       "album": {
@@ -3332,7 +3420,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 272418,
       "name": "Gudgamma Gang",
       "url": "https://open.spotify.com/track/4DsO9pGrWVjmTNZff6rxaj"
@@ -3734,6 +3822,28 @@
       "duration_ms": 184000,
       "name": "HMM",
       "url": "https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ"
+    },
+    {
+      "album": {
+        "name": "Scooby Doo!",
+        "url": "https://open.spotify.com/album/4FcIRH0FzWsZwjiF19AOog"
+      },
+      "artists": [
+        {
+          "name": "Aman Mangali Aala",
+          "url": "https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR"
+        },
+        {
+          "name": "Manish Gaat",
+          "url": "https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235097,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/6PmQZFaI21dN8l0c756Xep"
     },
     {
       "album": {
@@ -4584,7 +4694,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 143181,
       "name": "just you",
       "url": "https://open.spotify.com/track/6dHY91zpA3AnQfhX7xxGWM"
@@ -5214,7 +5324,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 134634,
       "name": "Kurti",
       "url": "https://open.spotify.com/track/6Kd9EZ4sTfSYEXmuzhkdNh"
@@ -5302,6 +5412,28 @@
       "duration_ms": 184888,
       "name": "Lal Dabbi",
       "url": "https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8"
+    },
+    {
+      "album": {
+        "name": "Lath",
+        "url": "https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        },
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "Lath",
+      "url": "https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy"
     },
     {
       "album": {
@@ -6148,7 +6280,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 138272,
       "name": "No Love",
       "url": "https://open.spotify.com/track/0EUPq7PY2Zm7ey1UVDiB4Z"
@@ -6500,7 +6632,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 199916,
       "name": "Outrun",
       "url": "https://open.spotify.com/track/3dFIg3IsVNjPSaw2eDDfuS"
@@ -6804,6 +6936,24 @@
       "duration_ms": 214540,
       "name": "Punja Daab",
       "url": "https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo"
+    },
+    {
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/3QPy1PxgY1HnYwIIZP26LB"
+      },
+      "artists": [
+        {
+          "name": "Kaize",
+          "url": "https://open.spotify.com/artist/1Qg96R86xzjL4kLMRDAdTV"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149328,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/3XDhZvPRAxpTOvqFUQc2Es"
     },
     {
       "album": {
@@ -7387,6 +7537,28 @@
     },
     {
       "album": {
+        "name": "Scooby Doo!",
+        "url": "https://open.spotify.com/album/4FcIRH0FzWsZwjiF19AOog"
+      },
+      "artists": [
+        {
+          "name": "Aman Mangali Aala",
+          "url": "https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR"
+        },
+        {
+          "name": "Manish Gaat",
+          "url": "https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207440,
+      "name": "Scooby-Doo",
+      "url": "https://open.spotify.com/track/68Rql9iIYt0RM0nfwGZ2np"
+    },
+    {
+      "album": {
         "name": "Scorpio",
         "url": "https://open.spotify.com/album/5roOwIcUakxTCqdy756NEU"
       },
@@ -7922,7 +8094,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 140812,
       "name": "Tabbar",
       "url": "https://open.spotify.com/track/5Hji0DZ29bRT4IZg331lao"
@@ -8242,6 +8414,28 @@
       "duration_ms": 176000,
       "name": "Tool",
       "url": "https://open.spotify.com/track/5HmcQoM06urojODrgEpEiV"
+    },
+    {
+      "album": {
+        "name": "Scooby Doo!",
+        "url": "https://open.spotify.com/album/4FcIRH0FzWsZwjiF19AOog"
+      },
+      "artists": [
+        {
+          "name": "Aman Mangali Aala",
+          "url": "https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR"
+        },
+        {
+          "name": "Manish Gaat",
+          "url": "https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217526,
+      "name": "Trap-Aloch",
+      "url": "https://open.spotify.com/track/4MrxNSv3MP8A07qsjpsklW"
     },
     {
       "album": {

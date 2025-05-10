@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 872 songs - 2 day 7 hr 49 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 874 songs - 2 day 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -880,5 +880,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 870 | [perfect blue](https://open.spotify.com/track/58CzkZkRHmP2sf5H5jRklc) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Sour Salty Realism](https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9) | 3:31 |
 | 871 | [nonsense song](https://open.spotify.com/track/6l4p35w3y6YAKD7slM9LK6) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Sour Salty Realism](https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9) | 4:02 |
 | 872 | [A Little Happiness \- yuigot Remix](https://open.spotify.com/track/7zKcCqjaJMW2H5Qf37kRs7) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Sour Salty Realism](https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9) | 2:38 |
+| 873 | [寄り酔い](https://open.spotify.com/track/7Hj7PMdrx3bKse1hhL7qv4) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [青二才](https://open.spotify.com/album/2Tv54fqQpFKlykCpAECxI8) | 3:39 |
+| 874 | [Err](https://open.spotify.com/track/4UMR8jH9twpyE7rqMvvQRq) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [Err](https://open.spotify.com/album/2fA95j9dpuoKIs9Heyn32i) | 3:06 |
 
-Snapshot ID: `AAAFDMWpTslEfsqIFPngCbn+I2pTLKJt`
+Snapshot ID: `AAAFDrlc8AWqHLIR16C6qA4HqMHktLZB`

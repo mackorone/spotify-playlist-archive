@@ -1,12 +1,12 @@
 {
   "description": "Uma edi\u00e7\u00e3o especial de NaZona, com a co-curadoria \u00fanica de Piruka. ",
-  "num_followers": 186308,
+  "num_followers": 186342,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB03ggAAAACaZnjfLv0kaN/Od5hbn6rt",
+  "snapshot_id": "aB5MqwAAAADK4CuFdfSv8ihT8DPL7Py7",
   "tracks": [
     {
       "added_at": "2025-05-08 23:00:18",
@@ -497,7 +497,7 @@
         }
       ],
       "duration_ms": 196276,
-      "name": "T\u00f3xico (with Ivandro & WIU)",
+      "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
     },
     {
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Carrossel",
-        "url": "https://open.spotify.com/album/3cBwWTFhpOAnL6U4ZhZFof"
-      },
-      "artists": [
-        {
-          "name": "Lutz",
-          "url": "https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x"
-        },
-        {
-          "name": "Tsubasv",
-          "url": "https://open.spotify.com/artist/12LDzeztDQ0bk2C3SHjh7i"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "Jogo Da Sorte",
-      "url": "https://open.spotify.com/track/7sitxJmZxa67Q3jfGmIaOp"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -601,8 +581,28 @@
         }
       ],
       "duration_ms": 237134,
-      "name": "Estrada (with Slow J & ProfJam)",
+      "name": "Estrada (feat. Slow J & ProfJam)",
       "url": "https://open.spotify.com/track/7EUmkQTk9tt93C5J746OzL"
+    },
+    {
+      "added_at": "2025-05-09 18:42:51",
+      "album": {
+        "name": "Carrossel",
+        "url": "https://open.spotify.com/album/3cBwWTFhpOAnL6U4ZhZFof"
+      },
+      "artists": [
+        {
+          "name": "Lutz",
+          "url": "https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x"
+        },
+        {
+          "name": "Tsubasv",
+          "url": "https://open.spotify.com/artist/12LDzeztDQ0bk2C3SHjh7i"
+        }
+      ],
+      "duration_ms": 227566,
+      "name": "Vem Comigo",
+      "url": "https://open.spotify.com/track/3InBCrq0zPZpvFb4Jh4GcD"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -637,7 +637,7 @@
         }
       ],
       "duration_ms": 205384,
-      "name": "Chove, d\u00e1 flor?",
+      "name": "Chove, d\u00e1 flor",
       "url": "https://open.spotify.com/track/2IAmTJWXyH6tb7xvut2uiB"
     },
     {

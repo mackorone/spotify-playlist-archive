@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/5ifsposLasr1Bwr3FnIbUf"
+      },
+      "artists": [
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/49nDMhpStdVOkPYucjjyo5"
+    },
+    {
+      "album": {
         "name": "after some time",
         "url": "https://open.spotify.com/album/433PUeV8mTW0ojY5x789Zj"
       },
@@ -6936,7 +6954,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 140800,
       "name": "Beacon",
       "url": "https://open.spotify.com/track/42hMkVcL01a9AVW9QG1iYp"
@@ -7194,7 +7212,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 121519,
       "name": "Bedroom Afterparty",
       "url": "https://open.spotify.com/track/2OPKbYceWjngZERuU1lDHJ"
@@ -13410,7 +13428,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 136941,
       "name": "Chillwalk",
       "url": "https://open.spotify.com/track/19Cm2BhY04tNN9iXEGGfin"
@@ -17080,7 +17098,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 115200,
       "name": "Cyanea",
       "url": "https://open.spotify.com/track/5s4YGlFclQbrXwlbdeQNLU"
@@ -20466,7 +20484,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 99775,
       "name": "Dreaming Pool",
       "url": "https://open.spotify.com/track/4nz1l6T2qNl1GMZ9Dw9lwF"
@@ -22326,7 +22344,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 92616,
       "name": "Empty Glass",
       "url": "https://open.spotify.com/track/5sCwBoZMMfooOx4eGYtN2a"
@@ -24692,7 +24710,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 114615,
       "name": "Fint",
       "url": "https://open.spotify.com/track/6RcS2D1J87SPKZcbfNUKgG"
@@ -25090,7 +25108,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 172009,
       "name": "Flat",
       "url": "https://open.spotify.com/track/4Lxh3lRm24bFhsmQyQsRMe"
@@ -26016,7 +26034,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 113354,
       "name": "Fluff",
       "url": "https://open.spotify.com/track/54LKiXE5UIdFzDgKsbLacL"
@@ -34932,7 +34950,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Illvibe",
       "url": "https://open.spotify.com/track/3xxNwh5HZxB0qyzBiVoZbW"
@@ -41346,7 +41364,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 108705,
       "name": "leaffall",
       "url": "https://open.spotify.com/track/053oWRVLFVcCHo5GNivZva"
@@ -42752,7 +42770,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 178642,
       "name": "Lily Scent and Cigarette Smoke",
       "url": "https://open.spotify.com/track/5aF4wHXhE4SgjqZga6tBli"
@@ -43450,7 +43468,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 161333,
       "name": "Lonesome George",
       "url": "https://open.spotify.com/track/0UBevjzBwYosYSgq2iISie"
@@ -47360,7 +47378,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 111610,
       "name": "Midnight Drive",
       "url": "https://open.spotify.com/track/0RgCZ9RKtQGQpvfASJ01B6"
@@ -48054,6 +48072,28 @@
       "duration_ms": 106265,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/75lkVw6YrP9JhVqL02gAFN"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/51E3fQ40L5hAgWxxjx0rD3"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        },
+        {
+          "name": "Kylan",
+          "url": "https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/5YNz8JFoV8ZvYycHWWoDEl"
     },
     {
       "album": {
@@ -49460,6 +49500,32 @@
       "duration_ms": 126976,
       "name": "Morning & Night",
       "url": "https://open.spotify.com/track/4k81GmyRVbPQeR1jtI05E6"
+    },
+    {
+      "album": {
+        "name": "Morning At The Sea",
+        "url": "https://open.spotify.com/album/3dmCT6SQbc9Ev37DitypPT"
+      },
+      "artists": [
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        },
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        },
+        {
+          "name": "Theo Juarez",
+          "url": "https://open.spotify.com/artist/3Z9OuAjJsitd2yLGCq7q6A"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134333,
+      "name": "Morning At The Sea",
+      "url": "https://open.spotify.com/track/1n1B9mpuzO6oUEh86HfJIC"
     },
     {
       "album": {
@@ -53747,6 +53813,24 @@
     },
     {
       "album": {
+        "name": "Asphalt Oasis",
+        "url": "https://open.spotify.com/album/5sXx0DiHHz643FboZdwu2v"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144781,
+      "name": "Nonobody",
+      "url": "https://open.spotify.com/track/5WZMjTa13So2h5OGcEB42m"
+    },
+    {
+      "album": {
         "name": "Nonobody",
         "url": "https://open.spotify.com/album/4Yn55I0bFe87BrUFQIISXF"
       },
@@ -54406,7 +54490,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 118535,
       "name": "Ocean Cove",
       "url": "https://open.spotify.com/track/3vgNDsgsE9pyk9pGY2W5zv"
@@ -56490,6 +56574,24 @@
       "duration_ms": 141646,
       "name": "Outlands",
       "url": "https://open.spotify.com/track/55qLhh9X1MS3cB0wwbFUDs"
+    },
+    {
+      "album": {
+        "name": "Sketches",
+        "url": "https://open.spotify.com/album/0EPvscUymb7sapGPnzcA0T"
+      },
+      "artists": [
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128873,
+      "name": "Outlines",
+      "url": "https://open.spotify.com/track/4kPeJwqxGDX7DJYFuOCQAF"
     },
     {
       "album": {
@@ -63186,7 +63288,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 153658,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/4i86wZZ77PO0ds6e2QeF4P"
@@ -68920,7 +69022,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 134397,
       "name": "So Too",
       "url": "https://open.spotify.com/track/6bwSDvu5okIMvESH2A3iEi"
@@ -74360,7 +74462,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 98461,
       "name": "Sunflower Fields",
       "url": "https://open.spotify.com/track/5x06pW7r0lebJulesKVnSS"
@@ -82980,7 +83082,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "Vibe I'm",
       "url": "https://open.spotify.com/track/07RlP8Rj6ihc4sT3wZu7yw"
@@ -86514,7 +86616,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 122790,
       "name": "White Nikes",
       "url": "https://open.spotify.com/track/1OZERbSLUpTq8wMP1eby88"
@@ -88508,7 +88610,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 115955,
       "name": "Yugen",
       "url": "https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l"

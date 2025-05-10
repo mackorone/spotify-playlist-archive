@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: 유발이 \(U.BAR.E\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-257 songs - 18 hr 8 min
+258 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 | 2022-05-18 | 2024-04-19 |
 | [Did you just play some light jazz?](https://open.spotify.com/track/7cuApcXcpQ8xxbZAzCWJt4) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 3:00 | 2024-12-17 |  |
 | [Difference \(with Park Chan Young\)](https://open.spotify.com/track/6VuslUo78MrJiJTmlbPUhQ) | [Jinju Yi](https://open.spotify.com/artist/1wOcvOmQJOR1LUMF0cIQS5), [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Difference](https://open.spotify.com/album/6hroMp0MzJ4UThj5OehuZG) | 3:23 | 2022-11-11 | 2024-09-20 |
-| [Don’t Blame Yourself](https://open.spotify.com/track/4ZucTmhwzc3vp0AhIOtY2r) | [Pudditorium](https://open.spotify.com/artist/7uhOcLi85Fj8PlOempXh6z) | [Prologue : Hope](https://open.spotify.com/album/3soUCShTrQXB69QUv0CuYj) | 4:34 | 2024-09-04 |  |
+| [Don’t Blame Yourself](https://open.spotify.com/track/4ZucTmhwzc3vp0AhIOtY2r) | [Pudditorium](https://open.spotify.com/artist/7uhOcLi85Fj8PlOempXh6z) | [Prologue : Hope](https://open.spotify.com/album/3soUCShTrQXB69QUv0CuYj) | 4:34 | 2024-09-04 | 2025-05-10 |
 | [dudndudndudn](https://open.spotify.com/track/6l5HTEXfhpcGAGqigEpLSb) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb) | [dudndudndudn](https://open.spotify.com/album/6lTeQXswOMjX1E2Le2YduD) | 3:36 | 2024-10-04 |  |
 | [DUO](https://open.spotify.com/track/4qy4NFSM69Ttu5RyZTYQvp) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [DUO](https://open.spotify.com/album/4WhNgdDFTuoA3YUhKMLBhi) | 3:10 | 2024-06-07 | 2025-04-04 |
 | [Embrace Your Emotions](https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W) | [A.Rion](https://open.spotify.com/artist/0VHEXCiwvN64fSXIOhpdqS) | [Embrace Your Emotions](https://open.spotify.com/album/387AhSf2J6RFAz9lOPAnaG) | 3:06 | 2024-11-29 |  |
@@ -82,6 +82,7 @@
 | [Eutopia](https://open.spotify.com/track/407bLxRDt9EZveTmxEHwIe) | [Mia](https://open.spotify.com/artist/1s3S4AjGqTNTWpxcoYLt3v), [Yeore](https://open.spotify.com/artist/7FoL8vsCZFp6V1AD2X4Uqv) | [Eutopia](https://open.spotify.com/album/1eTONEvpqONG733rCRwCP3) | 6:49 | 2023-12-12 | 2024-11-07 |
 | [Every Little Step](https://open.spotify.com/track/61wwBgK2Ff5yao4QKhuPUX) | [Seon Dabin](https://open.spotify.com/artist/0JSuzK5w5DEDuxzs7ghqXL) | [Every Little Step](https://open.spotify.com/album/6gQfvxjDsW0NiV0a2a7DVl) | 6:38 | 2023-02-07 | 2024-11-07 |
 | [Everyday Romance](https://open.spotify.com/track/4LOTrQr2GpvFMS62rKEo9M) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [Things I Love](https://open.spotify.com/album/5e0bhqRkZW5ZOgQpUaF1me) | 3:32 | 2024-11-07 |  |
+| [Everything Happens To Me](https://open.spotify.com/track/0qfzJgrFePDWekyVSbFnxl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Everything Happens To Me](https://open.spotify.com/album/2pMlrQthaDJoB2UqhJAgqQ) | 4:02 | 2025-05-09 |  |
 | [Falling In U](https://open.spotify.com/track/24b3VpnaRlYGWDgwPwOLBz) | [다해](https://open.spotify.com/artist/65jZwKXoHgYxbbc0mRCA0V) | [Falling In U](https://open.spotify.com/album/2ufBOd2lyvhlgJM4pFvvw6) | 3:00 | 2023-04-10 | 2024-11-07 |
 | [Ferrari](https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Ferrari](https://open.spotify.com/album/5OWnu7q4KDcsotJRkIfqVE) | 3:16 | 2023-02-24 | 2024-11-07 |
 | [Finale \(feat\. Kihun Park\)](https://open.spotify.com/track/0Ak7SzhUqRFQDFzO6JlM21) | [Lee ye in](https://open.spotify.com/artist/0Srx88PZKu7nBtKNp1Bv0X), [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Finale](https://open.spotify.com/album/6MdAxE4RRlHKNGzCN2fNLb) | 2:15 | 2022-05-03 | 2022-05-19 |

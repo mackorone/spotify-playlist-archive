@@ -1,13 +1,61 @@
 {
-  "description": "The best indie tracks of the moment. Cover: Nil\u00fcfer Yanya",
-  "num_followers": 160598,
+  "description": "The best indie tracks of the moment. Cover: Men I Trust",
+  "num_followers": 160596,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDWQAAAACvDU5sqHNadN6k9uE8vMh9",
+  "snapshot_id": "aB19xQAAAAArVmzWwBs3/P04F+fIPsWO",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
+    },
+    {
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 365426,
+      "name": "Circle of Trust",
+      "url": "https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp"
+    },
+    {
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
     {
       "added_at": "2025-05-02 04:00:25",
       "album": {
@@ -45,6 +93,22 @@
       "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
     },
     {
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "moody",
+        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "moody",
+      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
+    },
+    {
       "added_at": "2025-04-25 19:36:05",
       "album": {
         "name": "What Was That",
@@ -59,6 +123,22 @@
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+    },
+    {
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "Objection!",
+        "url": "https://open.spotify.com/album/1UTgkMZcqoBxLARwMnPB8M"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 169661,
+      "name": "Objection!",
+      "url": "https://open.spotify.com/track/35i5bteSxtDzork3AfM7as"
     },
     {
       "added_at": "2025-04-25 19:36:05",
@@ -77,6 +157,22 @@
       "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
     },
     {
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "Max Potential",
+        "url": "https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Max Potential",
+      "url": "https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6"
+    },
+    {
       "added_at": "2025-05-02 04:00:25",
       "album": {
         "name": "On This Love",
@@ -91,6 +187,22 @@
       "duration_ms": 169903,
       "name": "On This Love",
       "url": "https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF"
+    },
+    {
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "Great White Sharks",
+        "url": "https://open.spotify.com/album/6SvD1F9Gey9kY9GVaJkhbm"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 199255,
+      "name": "Great White Sharks",
+      "url": "https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou"
     },
     {
       "added_at": "2025-04-25 19:36:05",
@@ -111,6 +223,22 @@
       "duration_ms": 216440,
       "name": "Anthems For A Seventeen Year-Old Girl",
       "url": "https://open.spotify.com/track/2lB6Q5nBX3d22RWX59jNj9"
+    },
+    {
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 216692,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
     },
     {
       "added_at": "2025-05-02 04:00:25",
@@ -143,6 +271,38 @@
       "duration_ms": 193141,
       "name": "Heartthrob",
       "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
+    },
+    {
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 218151,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
+    },
+    {
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "Mistakes / Fairview Feeling",
+        "url": "https://open.spotify.com/album/1hvZoZcwgET0uCQLnENLWr"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/5Pdy7tkX4AjEEN9zlAlWUu"
     },
     {
       "added_at": "2025-04-25 19:36:05",
@@ -1495,174 +1655,6 @@
       "duration_ms": 188863,
       "name": "One More Dance",
       "url": "https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV"
-    },
-    {
-      "added_at": "2025-04-25 19:36:05",
-      "album": {
-        "name": "Did You Love Somebody (feat. Sir Chloe)",
-        "url": "https://open.spotify.com/album/5AiC1ESCiFpZcDxSWylVeB"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        },
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 248722,
-      "name": "Did You Love Somebody (feat. Sir Chloe)",
-      "url": "https://open.spotify.com/track/3lZhH5QiBpcPUrvSy5VfZz"
-    },
-    {
-      "added_at": "2025-04-25 19:36:05",
-      "album": {
-        "name": "keep my head down",
-        "url": "https://open.spotify.com/album/6dA3pcAClcZPbEnKajxiuC"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "keep my head down",
-      "url": "https://open.spotify.com/track/5dspUfbKWu1IoKZwQ5zX4h"
-    },
-    {
-      "added_at": "2025-04-25 19:36:05",
-      "album": {
-        "name": "Ripple",
-        "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 161007,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
-    },
-    {
-      "added_at": "2025-04-25 19:36:05",
-      "album": {
-        "name": "Love & Money",
-        "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 229656,
-      "name": "Love & Money",
-      "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
-    },
-    {
-      "added_at": "2025-04-25 19:36:05",
-      "album": {
-        "name": "Keep Me Satisfied",
-        "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 145663,
-      "name": "Keep Me Satisfied",
-      "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
-    },
-    {
-      "added_at": "2025-04-25 19:36:05",
-      "album": {
-        "name": "Anytime, Anyplace, Anyhow",
-        "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 227147,
-      "name": "Anytime, Anyplace, Anyhow",
-      "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
-    },
-    {
-      "added_at": "2025-04-25 19:36:05",
-      "album": {
-        "name": "I DON'T WANT TO FEEL THAT WAY",
-        "url": "https://open.spotify.com/album/506iSKo9D9LIDK1MU0KOfj"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        },
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        }
-      ],
-      "duration_ms": 231626,
-      "name": "I DON'T WANT TO FEEL THAT WAY",
-      "url": "https://open.spotify.com/track/11kXuEqLHM2dKPCZnllbba"
-    },
-    {
-      "added_at": "2025-04-25 19:36:05",
-      "album": {
-        "name": "Du soleil dans l\u2019oeil",
-        "url": "https://open.spotify.com/album/4WaP4xIVuZcUhJM2yXCdIe"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "La montagne",
-      "url": "https://open.spotify.com/track/06EJqWXMilZGmSrHApSs4e"
-    },
-    {
-      "added_at": "2025-04-25 19:36:05",
-      "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 161158,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA"
-    },
-    {
-      "added_at": "2025-04-25 19:36:05",
-      "album": {
-        "name": "look what you're doing to me",
-        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "look what you're doing to me",
-      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
     }
   ],
   "unique_name": "Indie All Stars",

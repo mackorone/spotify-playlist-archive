@@ -4,7 +4,7 @@
 
 > mostly rock
 
-880 songs - 2 day 8 hr 23 min
+882 songs - 2 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [end roll](https://open.spotify.com/track/4ZXT0PaJylQpcBqFu6StSM) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [as usual](https://open.spotify.com/album/7ippYmIKZVI3z0HqNNnZVP) | 2:57 | 2023-12-12 |  |
 | [Endless Season](https://open.spotify.com/track/2h8QYwFU4UNEJrRUoPldpu) | [Minuano](https://open.spotify.com/artist/4gBAA2nKYYBUsr01k0EVY4) | [Butterfly Dream](https://open.spotify.com/album/3XZOFj8Nr3GJFM76zpqkPU) | 4:13 | 2024-01-18 |  |
 | [endroll](https://open.spotify.com/track/7ukM55XQhmWslXF365GfDu) | [mikanzil](https://open.spotify.com/artist/1lG3lwW6606R3gvvmrf05H), [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl) | [4th\-peace](https://open.spotify.com/album/0wS5GVwwndBHst5FeEjgSi) | 5:33 | 2024-10-01 |  |
+| [Err](https://open.spotify.com/track/4UMR8jH9twpyE7rqMvvQRq) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [Err](https://open.spotify.com/album/2fA95j9dpuoKIs9Heyn32i) | 3:06 | 2025-05-09 |  |
 | [ERROR](https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [eye cue rew see](https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0) | 2:58 | 2023-07-21 |  |
 | [Escapism](https://open.spotify.com/track/27VJb1TJhEhtiPzA2lgKrT) | [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6), [HOSHIMIYA TOTO](https://open.spotify.com/artist/4Q2PcVL35XedJ6qmd5aC8l) | [POP\-AID](https://open.spotify.com/album/1GMnqT9EffWh7xtXiD9y5g) | 2:53 | 2024-05-03 |  |
 | [evergreen](https://open.spotify.com/track/3Si5bI1PQufvCbqVThp2sV) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [evergreen/modify Youth](https://open.spotify.com/album/3rfcMKe4vOugZxhJxYv6lf) | 3:50 | 2024-04-30 |  |
@@ -754,6 +755,7 @@
 | [太陽とイーリス](https://open.spotify.com/track/43kkbhLbi8KmmCbC3fwuyd) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [SUNDOGS](https://open.spotify.com/album/7sEDZ39OypzfXPYbQStTMe) | 4:05 | 2023-07-28 |  |
 | [太陽と暮らしてきた](https://open.spotify.com/track/6m1IMazLwvpjeL24LUIw2g) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [祈りでは届かない距離](https://open.spotify.com/album/5rVIDVX0PcdDAkkSTZ4gor) | 3:56 | 2023-09-30 |  |
 | [宙でおやすみ](https://open.spotify.com/track/3suBTF60wmknRkISYx34Wp) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [長瀬有花](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [宙でおやすみ](https://open.spotify.com/album/2M3mhpAbzgjgjh6hWNixca) | 2:45 | 2024-08-01 |  |
+| [寄り酔い](https://open.spotify.com/track/7Hj7PMdrx3bKse1hhL7qv4) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [青二才](https://open.spotify.com/album/2Tv54fqQpFKlykCpAECxI8) | 3:39 | 2025-05-09 |  |
 | [寄り酔い \- 羽生まゐご Remix](https://open.spotify.com/track/6chuWbcZQLlzDiNHyv77Nb) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [寄り酔い \(羽生まゐご Remix\)](https://open.spotify.com/album/77ZCrLec5SYBQ0U3gPVHAK) | 3:29 | 2023-06-12 |  |
 | [小粋なバイバイ](https://open.spotify.com/track/4HXx0ovcxi3jozdZTWq1oH) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [濡れゆく私小説](https://open.spotify.com/album/7fWU9HyW6Ukh8ajJNJAuOI) | 3:41 | 2023-08-18 |  |
 | [少女の官能基](https://open.spotify.com/track/47XtK2ErrSTignWpa2VlkQ) | [溶けない名前](https://open.spotify.com/artist/2kFFIxf8oy58ydskv0UdOj) | [タイムマシンが壊れる前に](https://open.spotify.com/album/41EUxuE33auJebOHa8Ltsa) | 3:36 | 2024-02-04 |  |

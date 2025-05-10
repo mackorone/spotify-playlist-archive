@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Robe y Leiva.
 
-590 songs - 1 day 13 hr 48 min
+591 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Corre Conmigo](https://open.spotify.com/track/4gXKfivNyfJMfpEShncpuc) | [Garbayo](https://open.spotify.com/artist/4MvtEdHdvl7s0rzTeB47OD) | [Corre Conmigo](https://open.spotify.com/album/7pW1LwPP2UPXHSQQZLMJIo) | 2:32 | 2025-05-01 |  |
 | [Cosas de la edad \- Aniversario](https://open.spotify.com/track/7DGblEJrq5Lkd7Ml5YOQMq) | [Modestia Aparte](https://open.spotify.com/artist/6yPTzaskdKAAlLMdnw9IkM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR), [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [Cosas de la edad \(Aniversario\)](https://open.spotify.com/album/1K4fZ8pX7hvMj2FOQx1KsS) | 2:27 | 2024-03-28 | 2024-04-05 |
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-27 | 2023-05-19 |
-| [Cowboys de la A3](https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Cowboys de la A3](https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH) | 4:36 | 2024-04-25 |  |
+| [Cowboys de la A3](https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Cowboys de la A3](https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH) | 4:36 | 2024-04-25 | 2025-05-10 |
 | [Creo que me he perdido algo](https://open.spotify.com/track/75DOPnTP5GWEw2Xn9QaCe9) | [Jose Ignacio Lapido](https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8) | [Creo que me he perdido algo](https://open.spotify.com/album/0NeBPZBBV8okNyKrn6O8ic) | 4:39 | 2023-02-16 | 2023-03-03 |
 | [Criminal](https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Criminal](https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n) | 2:48 | 2024-06-20 | 2024-10-11 |
 | [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 | 2023-09-22 |
@@ -451,6 +451,7 @@
 | [Puede ser](https://open.spotify.com/track/4Gq8lWZjWUHjCUjyk4Mt2Q) | [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK) | [Puede ser](https://open.spotify.com/album/7obTiGolwQFcWagC4tzUUy) | 3:43 | 2025-02-06 | 2025-02-14 |
 | [Pulpos en la Castellana \- Versión 2024](https://open.spotify.com/track/7MjBCgRMu52ef9xAzwoh0u) | [faLsantes](https://open.spotify.com/artist/3eFyXQROHxu4eGADc5QFiu) | [Pulpos en la Castellana](https://open.spotify.com/album/3rTYv1nlGB5oCIzyMSOrrB) | 3:15 | 2024-11-07 | 2024-11-15 |
 | [Puntos Cardinales](https://open.spotify.com/track/0aT7bu51VYDV4GcO4zUCod) | [Tocando Techo](https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo) | [Puntos Cardinales](https://open.spotify.com/album/1gWsrweysgf7joT7hp8tGr) | 3:17 | 2023-06-15 | 2023-06-23 |
+| [Puntos suspensivos](https://open.spotify.com/track/1vo9W7p9tPuzsH1b4JGDQD) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Se nos lleva el aire](https://open.spotify.com/album/3V0gXpeLYWle5J3vy1O4Lu) | 5:52 | 2025-05-09 |  |
 | [Puño](https://open.spotify.com/track/27ftICjvEPlBFBtZjhH3xm) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [Puño](https://open.spotify.com/album/6aVHxdAzvCCdanJeDsvj35) | 2:53 | 2024-09-05 | 2024-09-10 |
 | [Pájaro Herido](https://open.spotify.com/track/3XSlPnk9uclOFGC5WrdhvI) | [Pancho Varona](https://open.spotify.com/artist/0F9zkPxJs5duaybGwqipyC) | [Pájaro Herido](https://open.spotify.com/album/1UP0k6JViOIO3sDH2FTk78) | 4:05 | 2023-06-22 | 2023-06-30 |
 | [Pájaros de Desván](https://open.spotify.com/track/3zCKtvltc5c52y7ARFSJ2N) | [Litus](https://open.spotify.com/artist/6Xq1CkD3KKbhK5DF1uzDBo), [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Pájaros de Desván](https://open.spotify.com/album/6rSWAtvFcpGfUtvnYzc6S4) | 3:35 | 2023-03-02 | 2023-03-18 |

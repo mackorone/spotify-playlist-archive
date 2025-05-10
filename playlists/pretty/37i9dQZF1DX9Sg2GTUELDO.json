@@ -1,13 +1,45 @@
 {
   "description": "\u611f\u53d7\u5973\u8072\u529b\u91cf\u3002Cover: Cloud \u96f2\u6d69\u5f71 & \u5abd\u54aa",
-  "num_followers": 29908,
+  "num_followers": 29907,
   "original_name": "\u6700\u611b\u5973\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBzVFgAAAADXjeDjah8aESLDtnef7aHm",
+  "snapshot_id": "aB2XiQAAAADoxNz9dLTjLX08Q0m4fmB1",
   "tracks": [
+    {
+      "added_at": "2025-05-09 05:50:01",
+      "album": {
+        "name": "\u5225\u754f\u9ad8",
+        "url": "https://open.spotify.com/album/3TgkrazlHQTZ2vFraQoAzh"
+      },
+      "artists": [
+        {
+          "name": "Cloud \u96f2\u6d69\u5f71",
+          "url": "https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk"
+        }
+      ],
+      "duration_ms": 167915,
+      "name": "\u5225\u754f\u9ad8",
+      "url": "https://open.spotify.com/track/7u2kNwQwnlvlBIVeBGksNI"
+    },
+    {
+      "added_at": "2025-05-09 05:50:01",
+      "album": {
+        "name": "\u4eca\u671f\u4e0d\u6d41\u884c",
+        "url": "https://open.spotify.com/album/1iPwlWCcyPKHCsEbewbpJx"
+      },
+      "artists": [
+        {
+          "name": "Winka \u9673\u6cf3\u4f3d",
+          "url": "https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls"
+        }
+      ],
+      "duration_ms": 263750,
+      "name": "\u4eca\u671f\u4e0d\u6d41\u884c",
+      "url": "https://open.spotify.com/track/7x74wZMW5dUZqNsib2eR98"
+    },
     {
       "added_at": "2025-05-08 16:00:22",
       "album": {

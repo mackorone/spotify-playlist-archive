@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 214253,
+  "num_followers": 214245,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-05-08 22:00:32",
       "album": {
-        "name": "Cut the shit",
-        "url": "https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC"
-      },
-      "artists": [
-        {
-          "name": "Ylva",
-          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
-        }
-      ],
-      "duration_ms": 153161,
-      "name": "Cut the shit",
-      "url": "https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn"
-    },
-    {
-      "added_at": "2025-05-08 22:00:32",
-      "album": {
         "name": "99 Problemer",
         "url": "https://open.spotify.com/album/4jv7JUXugDpAu0bHx89Q4n"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 152158,
       "name": "99 Problemer",
       "url": "https://open.spotify.com/track/4GrN08TEmpFC93cOf0S4sE"
+    },
+    {
+      "added_at": "2025-05-08 22:00:32",
+      "album": {
+        "name": "Cut the shit",
+        "url": "https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC"
+      },
+      "artists": [
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        }
+      ],
+      "duration_ms": 153161,
+      "name": "Cut the shit",
+      "url": "https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn"
     },
     {
       "added_at": "2025-05-08 22:00:32",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-05-08 22:00:32",
       "album": {
-        "name": "VENUS",
-        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+        "name": "Tilbake",
+        "url": "https://open.spotify.com/album/26LpufP90MSrePNkn7q46Y"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
         }
       ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4"
+      "duration_ms": 127403,
+      "name": "Tilbake",
+      "url": "https://open.spotify.com/track/5VzJAbt14nJ70wijAEmujX"
     },
     {
       "added_at": "2025-05-08 22:00:32",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-05-08 22:00:32",
       "album": {
-        "name": "Tilbake",
-        "url": "https://open.spotify.com/album/26LpufP90MSrePNkn7q46Y"
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 127403,
-      "name": "Tilbake",
-      "url": "https://open.spotify.com/track/5VzJAbt14nJ70wijAEmujX"
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4"
     }
   ],
   "unique_name": "ung, dum & lovende",

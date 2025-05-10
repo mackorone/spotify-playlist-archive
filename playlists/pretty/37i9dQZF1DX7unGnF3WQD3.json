@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 10599,
+  "num_followers": 10631,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Puro 3 Letras",
-        "url": "https://open.spotify.com/album/5pshOxUCAJfUeOo6gk4rEt"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Silva",
-          "url": "https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Puro 3 Letras",
-      "url": "https://open.spotify.com/track/5OT6AqQpERX1YKjt7DZOU4"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Bailar Contigo (Leeb Remix)",
         "url": "https://open.spotify.com/album/43iOlqaQpedw7iO8xbKBrv"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 262786,
       "name": "Bailar Contigo - Leeb Remix",
       "url": "https://open.spotify.com/track/0otkSHy1PB1Ycymx0wOrBk"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Puro 3 Letras",
+        "url": "https://open.spotify.com/album/5pshOxUCAJfUeOo6gk4rEt"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Silva",
+          "url": "https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Puro 3 Letras",
+      "url": "https://open.spotify.com/track/5OT6AqQpERX1YKjt7DZOU4"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2067,6 +2067,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "PROVENZA - REMIX",
+      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Guisao",
         "url": "https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx"
       },
@@ -2095,22 +2115,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+        "name": "MTG EU J\u00c1 TE SUPEREI",
+        "url": "https://open.spotify.com/album/2CP3NPuAkjcCE7nElydML7"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Karui",
+          "url": "https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
         }
       ],
-      "duration_ms": 187670,
-      "name": "PROVENZA - REMIX",
-      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
+      "duration_ms": 132923,
+      "name": "MTG EU J\u00c1 TE SUPEREI",
+      "url": "https://open.spotify.com/track/5b9Udoe8x7SnB8dj2mEIIj"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2135,30 +2159,6 @@
       "duration_ms": 122812,
       "name": "MTG T\u00f4 Nem Ai",
       "url": "https://open.spotify.com/track/6GIofgAZPjLMxBDQ6RGqmV"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG EU J\u00c1 TE SUPEREI",
-        "url": "https://open.spotify.com/album/2CP3NPuAkjcCE7nElydML7"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Karui",
-          "url": "https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "MTG EU J\u00c1 TE SUPEREI",
-      "url": "https://open.spotify.com/track/5b9Udoe8x7SnB8dj2mEIIj"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Saxofon",
-        "url": "https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm"
-      },
-      "artists": [
-        {
-          "name": "Gio Silva",
-          "url": "https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Saxofon",
-      "url": "https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "LA FALDA (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/6nkUCUZ4vT2z074AjCbr2s"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 174285,
       "name": "LA FALDA - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3mnH4IGAoxIh5sRY8N8NS0"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Saxofon",
+        "url": "https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm"
+      },
+      "artists": [
+        {
+          "name": "Gio Silva",
+          "url": "https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Saxofon",
+      "url": "https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2623,30 +2623,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG A CULPA \u00c9 SUA",
-        "url": "https://open.spotify.com/album/1LJxDunEIUS3WuIwwWh7hd"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "MC Bouth",
-          "url": "https://open.spotify.com/artist/4gTGJuezOS7sHK41r3Neuh"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        }
-      ],
-      "duration_ms": 163153,
-      "name": "MTG A CULPA \u00c9 SUA",
-      "url": "https://open.spotify.com/track/2D364Fgzm5aWfNUyMpfWBw"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG Cora\u00e7\u00e3o de Vaqueiro",
         "url": "https://open.spotify.com/album/0PD0NHGf0gSg0ke1Xivof4"
       },
@@ -2671,6 +2647,54 @@
       "duration_ms": 136615,
       "name": "MTG Cora\u00e7\u00e3o de Vaqueiro",
       "url": "https://open.spotify.com/track/10FMXXD6DQPbywJkePNYB1"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG A CULPA \u00c9 SUA",
+        "url": "https://open.spotify.com/album/1LJxDunEIUS3WuIwwWh7hd"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "MC Bouth",
+          "url": "https://open.spotify.com/artist/4gTGJuezOS7sHK41r3Neuh"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "duration_ms": 163153,
+      "name": "MTG A CULPA \u00c9 SUA",
+      "url": "https://open.spotify.com/track/2D364Fgzm5aWfNUyMpfWBw"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "C ARMO",
+        "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "C ARMO",
+      "url": "https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2739,26 +2763,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "C ARMO",
-        "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
+        "name": "El Merengue (HUGEL Remix)",
+        "url": "https://open.spotify.com/album/11XlVWabaJZbSWaKipFp9k"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         },
         {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         }
       ],
-      "duration_ms": 182500,
-      "name": "C ARMO",
-      "url": "https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m"
+      "duration_ms": 168153,
+      "name": "El Merengue - HUGEL Remix",
+      "url": "https://open.spotify.com/track/3qMimm5bezPaKIISP9f7mu"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2783,30 +2807,6 @@
       "duration_ms": 194000,
       "name": "Buenos Aires (en la cara)",
       "url": "https://open.spotify.com/track/6sn9Dgxbh4FBDrxs2EOhrr"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "El Merengue (HUGEL Remix)",
-        "url": "https://open.spotify.com/album/11XlVWabaJZbSWaKipFp9k"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 168153,
-      "name": "El Merengue - HUGEL Remix",
-      "url": "https://open.spotify.com/track/3qMimm5bezPaKIISP9f7mu"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2871,30 +2871,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "GOZANDO",
-        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "GOZANDO",
-      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
         "url": "https://open.spotify.com/album/6daS2BRfBTVWHz734TTatM"
       },
@@ -2931,6 +2907,30 @@
       "duration_ms": 195802,
       "name": "El Mariachi",
       "url": "https://open.spotify.com/track/4lvgZsyJZIYn6QRMZvlt3O"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "GOZANDO",
+        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "GOZANDO",
+      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3135,26 +3135,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Trackhouse",
-        "url": "https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 135348,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/6ZTTj1y8kEtADL3nMHoV4a"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Exportando M\u00fasica",
         "url": "https://open.spotify.com/album/1JIhQQlDYXJ47k3tHv5eLr"
       },
@@ -3171,6 +3151,26 @@
       "duration_ms": 193502,
       "name": "No Puedo Olvidarla",
       "url": "https://open.spotify.com/track/67AcYiv8eI5ycuxuM3dHGK"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Trackhouse",
+        "url": "https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 135348,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/6ZTTj1y8kEtADL3nMHoV4a"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3259,18 +3259,18 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Alucina2",
-        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
       "artists": [
         {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 133793,
-      "name": "Alucina2",
-      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+      "duration_ms": 202000,
+      "name": "Fancys",
+      "url": "https://open.spotify.com/track/2AXzmijK5XGp27edG4VMyJ"
     }
   ],
   "unique_name": "los prohibidos",

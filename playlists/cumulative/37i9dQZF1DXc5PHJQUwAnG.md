@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ\_MX](https://open.spotify.com/playlist/37i9dQZF1DXc5PHJQUwAnG)
 
-> Bienvenidx a la trampa mexa\. Adán Cruz en portada.
+> Bienvenidx a la trampa mexa\. Alemán en portada.
 
-364 songs - 17 hr 15 min
+366 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [La Perrada de la R](https://open.spotify.com/track/2rfhYUlnrj8d9NvOMfiAl4) | [Proceder Elegante](https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO) | [La Perrada de la R](https://open.spotify.com/album/3mEa2RTqTJF4oMJ2UpwocX) | 2:50 | 2024-07-05 |  |
 | [La Trampa](https://open.spotify.com/track/5hSjKz5d9BNFLbVN1dJ0YV) | [Krusha G](https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm) | [La Trampa](https://open.spotify.com/album/1zK3TV2luYmgMTBgViW2Jc) | 3:03 | 2023-09-29 | 2024-05-18 |
 | [LAS COSAS CAMBIARON](https://open.spotify.com/track/6c1YWLzBPm3qA7vK4Io8S3) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [SOTORIUS](https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT) | 2:53 | 2024-10-11 |  |
+| [Le Gustan Así](https://open.spotify.com/track/4ZP264Ld4mOd72cNa0LvVF) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [De Vuelta a las Andadas](https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q) | 2:59 | 2025-05-09 |  |
 | [Le tiré](https://open.spotify.com/track/6cBeF1NWjZBfN3sLZ8kCRh) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Le tiré](https://open.spotify.com/album/6DgcTU4NE4tDtfGbe2k7qH) | 2:12 | 2023-06-09 | 2023-09-23 |
 | [Lento y Contento \- Remix](https://open.spotify.com/track/2hHBzhSQShNFmWPXrFK9yU) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT) | [Lento y Contento \(Remix\)](https://open.spotify.com/album/0QR8tzQEwBHa3LHG1Mr8Sl) | 3:22 | 2023-06-09 |  |
 | [Leviatán](https://open.spotify.com/track/4uEjU4PREM4zyODNUx5HSc) | [Romeroflacko](https://open.spotify.com/artist/2miHP8kA3PuPT0yrcqWAhT), [KadaK](https://open.spotify.com/artist/2KM0hJihcECHnvDv0SE2Iu) | [Leviatán](https://open.spotify.com/album/6JsDwooDRvRkN6dZPeJ3QY) | 2:39 | 2024-12-06 |  |
@@ -263,6 +264,7 @@
 | [Odio Estar Horny](https://open.spotify.com/track/7yfvQHFDKJRbSrX5WWkdk5) | [Charlie Pistolas](https://open.spotify.com/artist/6uIUUi8bJy2BDDljZdgnWl) | [Odio Estar Horny](https://open.spotify.com/album/0D0TeKi7Bn2DcJaHg5VsG3) | 2:18 | 2023-06-09 | 2023-10-23 |
 | [OKAY / GEISHA](https://open.spotify.com/track/24MYjmAJ7tI2Iv5aYjxlaX) | [Perdón Amor](https://open.spotify.com/artist/3i0LLJewOCJ5pOSE9HUjJa) | [OKAY / GEISHA](https://open.spotify.com/album/3mxm7gNfAUu0tbllNcpq4L) | 3:35 | 2025-03-07 |  |
 | [Ola Como Estas? \- Remix](https://open.spotify.com/track/3VuEmalCwS7P897bgbx8AK) | [Tokkio!!](https://open.spotify.com/artist/69Tc3quroO0wgl4M7KCwfY), [Biowaverave](https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK), [Rowku](https://open.spotify.com/artist/26ZvU63ZMVVgB9TbLrLU64) | [Ola Como Estas? \(Remix\)](https://open.spotify.com/album/5sCPVoIUbsSFYvlzVu4q0N) | 2:59 | 2023-06-09 | 2023-07-15 |
+| [OSIRIS](https://open.spotify.com/track/7Iq8SvKliXuh8rcPpjJZed) | [Charro Ma](https://open.spotify.com/artist/0gscaylKde9RrbYFKBD3nS), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [OSIRIS](https://open.spotify.com/album/0VDwIM9pqzbYSHTWXO5p3g) | 2:28 | 2025-05-09 |  |
 | [Otro Año Más](https://open.spotify.com/track/1Q8HXylcZFujuLtUlxJ2c3) | [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm) | [Otro Año Más](https://open.spotify.com/album/2WYkE3aHETy7z27SYm1uge) | 3:40 | 2024-01-03 | 2024-02-10 |
 | [Ozono](https://open.spotify.com/track/0jIDoX0NINHswdGsktWf6X) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn), [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ), [Multi](https://open.spotify.com/artist/5Hp4j1fNOVJAfj0QWJbsnR) | [Ozono](https://open.spotify.com/album/10siYSoduw7MAtda4VnFnf) | 3:44 | 2023-06-09 | 2023-07-15 |
 | [P0rn0 Gr@t1$](https://open.spotify.com/track/6T4P9BZoObMWZgkWAnxPRq) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Niña Buena](https://open.spotify.com/album/1kmpefOeR8l3dasGIUbIgd) | 2:36 | 2023-12-01 | 2024-01-13 |

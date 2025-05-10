@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Sayf e Néza in cover della playlist urban più grande in Italia 🐐🔥
+> Sayf e Néza in cover della playlist urban più grande in Italia 🔥
 
 773 songs - 1 day 13 hr 49 min
 

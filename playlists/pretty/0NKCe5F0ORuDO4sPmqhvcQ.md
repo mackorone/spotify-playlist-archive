@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,559 likes - 139 songs - 8 hr 3 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,559 likes - 141 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,5 +147,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 137 | [YOU & I](https://open.spotify.com/track/6cgOdelOyLpjdcOl811Z9t) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [YOU & I](https://open.spotify.com/album/29MLRMFFGmRPxHJ93JeHhZ) | 3:51 |
 | 138 | [Death By Love](https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Death By Love](https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF) | 2:50 |
 | 139 | [BOUNCE N BREAK](https://open.spotify.com/track/76MPqUq9kPye6JzH7tvzI6) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF), [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [BOUNCE N BREAK](https://open.spotify.com/album/67lf3VYH0ZYj6KG4FNqWkl) | 2:37 |
+| 140 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
+| 141 | [OBSESSION](https://open.spotify.com/track/53fHl9iLv7G9IFo6PrWKEK) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [OBSESSION](https://open.spotify.com/album/6B6OArozqDar19BjWoa0MZ) | 3:19 |
 
-Snapshot ID: `AAAqTodAxc4h/XRTB02c3MsqWcHwwmaw`
+Snapshot ID: `AAAqUEEkGXWro3/IxD3FVHkYfXYFvyfm`

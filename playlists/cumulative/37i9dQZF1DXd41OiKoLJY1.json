@@ -9321,6 +9321,24 @@
     },
     {
       "album": {
+        "name": "Burnin' Up",
+        "url": "https://open.spotify.com/album/30ATI6eNIL9D48eEjfx2fD"
+      },
+      "artists": [
+        {
+          "name": "Johannes Rissler",
+          "url": "https://open.spotify.com/artist/1iIzyojfZ86BC00HW7WVFy"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Burnin' Up",
+      "url": "https://open.spotify.com/track/4p3K9en3Tbhm21aoWzYdHC"
+    },
+    {
+      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/46089eVEriqkjD6L2WyyGe"
       },

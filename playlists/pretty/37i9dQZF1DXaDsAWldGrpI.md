@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,661 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,696 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 99 | [Fishin' In The Dark \- Live At The Red Deer Fine Arts Center, Canada/1991](https://open.spotify.com/track/1EzLOOiaWCQGIQVQeBKngv) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:26 |
 | 100 | [Trouble \- Live From The Opry / 2023](https://open.spotify.com/track/3vxBzadt8w0QHvLlMvS0UO) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble \(Live From The Opry / 2023\)](https://open.spotify.com/album/1C0GhQve9fF4YMZeC0a6Ps) | 4:27 |
 
-Snapshot ID: `Z+9ZTwAAAABrX2ZfDhjndvvqwssgsWb6`
+Snapshot ID: `aB19ywAAAAD8EmheC0fqc12LrkenvkMZ`

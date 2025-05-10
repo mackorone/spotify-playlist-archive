@@ -1,13 +1,57 @@
 {
-  "description": "The best songs from the new shows and the buzziest hits. Cover: Maybe Happy Endings",
-  "num_followers": 112404,
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Idina Menzel in Redwood",
+  "num_followers": 112411,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAHOYAAAAABSIKMud+RnH5lF/6mndwRr",
+  "snapshot_id": "aB193QAAAACuxMnRTwoU3DleLTIu3Vq/",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:29",
+      "album": {
+        "name": "In the Leaves",
+        "url": "https://open.spotify.com/album/2ZZysVfn8CW27dXqO3jAEL"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Original Broadway Cast of Redwood",
+          "url": "https://open.spotify.com/artist/05gJ005XevdmT8XK1vS1kK"
+        }
+      ],
+      "duration_ms": 264326,
+      "name": "In the Leaves",
+      "url": "https://open.spotify.com/track/6dvLYjhqprthcB6b4v3WyO"
+    },
+    {
+      "added_at": "2025-05-09 04:00:29",
+      "album": {
+        "name": "She Knocks Me Out",
+        "url": "https://open.spotify.com/album/6gcJAl6HZ3fzN7MXCxlBv3"
+      },
+      "artists": [
+        {
+          "name": "Ainsley Melham",
+          "url": "https://open.spotify.com/artist/0BLHPEZNAUa4U0AGjdADTM"
+        },
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+        }
+      ],
+      "duration_ms": 188317,
+      "name": "She Knocks Me Out",
+      "url": "https://open.spotify.com/track/7zaCoHhmiCq0rTOBJH7cjK"
+    },
     {
       "added_at": "2025-03-31 16:26:09",
       "album": {
@@ -285,6 +329,30 @@
       "url": "https://open.spotify.com/track/3erRbtsj9KJrSUcQZ4ZRG0"
     },
     {
+      "added_at": "2025-05-09 04:00:29",
+      "album": {
+        "name": "Everything You Long For (Is In New Jersey)",
+        "url": "https://open.spotify.com/album/2mlDCrC6Bzsjz19R22TxGr"
+      },
+      "artists": [
+        {
+          "name": "Randy Klein",
+          "url": "https://open.spotify.com/artist/0FB2K9p4SWmtIFaqsdPIrn"
+        },
+        {
+          "name": "Matthew Hardy",
+          "url": "https://open.spotify.com/artist/5jtkQvXSX0QMnHeSw5wYA7"
+        },
+        {
+          "name": "Ashley Fox Linton",
+          "url": "https://open.spotify.com/artist/19qudppdBZdHYJ9Hp9l1Jx"
+        }
+      ],
+      "duration_ms": 237931,
+      "name": "Everything You Long For (is in New Jersey)",
+      "url": "https://open.spotify.com/track/18qIH3TEyw3597CeV0uFmY"
+    },
+    {
       "added_at": "2025-03-31 16:26:09",
       "album": {
         "name": "Why Am I So Single? (Original London Cast Recording)",
@@ -371,6 +439,30 @@
       "duration_ms": 235923,
       "name": "How Do You Sleep",
       "url": "https://open.spotify.com/track/5O1KUF2pfaDvWG42z8927P"
+    },
+    {
+      "added_at": "2025-05-09 04:00:29",
+      "album": {
+        "name": "Today I Am Here",
+        "url": "https://open.spotify.com/album/073BmFGgktQCF2vrXcRtKA"
+      },
+      "artists": [
+        {
+          "name": "King of Pangea Musical",
+          "url": "https://open.spotify.com/artist/4kMLTbB3MuxU5da73oBvu2"
+        },
+        {
+          "name": "Martin Storrow",
+          "url": "https://open.spotify.com/artist/2ZK6Ew8k5DDO43kloeaorE"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 199163,
+      "name": "Today I Am Here",
+      "url": "https://open.spotify.com/track/7lBQi6V12cxLBz6XMmCOLb"
     },
     {
       "added_at": "2025-04-11 04:00:26",

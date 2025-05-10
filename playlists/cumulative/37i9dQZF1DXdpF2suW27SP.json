@@ -3378,7 +3378,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 205384,
-      "name": "Chove, d\u00e1 flor?",
+      "name": "Chove, d\u00e1 flor",
       "url": "https://open.spotify.com/track/2IAmTJWXyH6tb7xvut2uiB"
     },
     {
@@ -5416,7 +5416,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 237134,
-      "name": "Estrada (with Slow J & ProfJam)",
+      "name": "Estrada (feat. Slow J & ProfJam)",
       "url": "https://open.spotify.com/track/7EUmkQTk9tt93C5J746OzL"
     },
     {
@@ -7478,7 +7478,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 139726,
       "name": "Jogo Da Sorte",
       "url": "https://open.spotify.com/track/7sitxJmZxa67Q3jfGmIaOp"
@@ -15330,7 +15330,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196276,
-      "name": "T\u00f3xico (with Ivandro & WIU)",
+      "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
     },
     {
@@ -15632,6 +15632,28 @@
       "duration_ms": 188663,
       "name": "Vagalume",
       "url": "https://open.spotify.com/track/7m0bUtNOfrtrIcNDDcrPjS"
+    },
+    {
+      "album": {
+        "name": "Carrossel",
+        "url": "https://open.spotify.com/album/3cBwWTFhpOAnL6U4ZhZFof"
+      },
+      "artists": [
+        {
+          "name": "Lutz",
+          "url": "https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x"
+        },
+        {
+          "name": "Tsubasv",
+          "url": "https://open.spotify.com/artist/12LDzeztDQ0bk2C3SHjh7i"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227566,
+      "name": "Vem Comigo",
+      "url": "https://open.spotify.com/track/3InBCrq0zPZpvFb4Jh4GcD"
     },
     {
       "album": {

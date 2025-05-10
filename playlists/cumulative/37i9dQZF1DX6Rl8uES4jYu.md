@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-470 songs - 1 day 2 hr 13 min
+471 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Matter of Time](https://open.spotify.com/track/1mjPHZ7D5oyvZ4Yxk7FDYD) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Matter of Time](https://open.spotify.com/album/3BK0VtyunR767TbHJAROOe) | 4:02 | 2025-02-07 |  |
 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 | 2020-11-13 | 2022-02-16 |
 | [Monica](https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Dreamboat](https://open.spotify.com/album/2923kCvLK48x4Yy8Abqw29) | 3:07 | 2022-07-29 | 2024-01-13 |
+| [Mood For You \(Complexive Remix\)](https://open.spotify.com/track/3ZuzzbGfE9TYoQpLlwnVLH) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Complexive](https://open.spotify.com/artist/4j5O0d9dCAcoaTc5uA6sOT) | [Mood For You \(Complexive Remix\)](https://open.spotify.com/album/3eJWto9uzANj3mUQ187TEC) | 2:57 | 2025-05-09 |  |
 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-23 | 2023-07-08 |
 | [Moonwalking](https://open.spotify.com/track/0ghnwFrfblAPwGxsNlasOd) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [Moonwalking](https://open.spotify.com/album/2uR5RuNR0KypxPYNjF5JXK) | 3:01 | 2022-08-19 | 2022-09-18 |
 | [More](https://open.spotify.com/track/5fkAuH8tIC537wT67dwrDn) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Living Room](https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P) | 3:16 | 2020-11-13 | 2022-03-23 |
@@ -450,7 +451,7 @@
 | [What A Night](https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [What A Night](https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf) | 2:04 | 2022-07-01 | 2025-01-11 |
 | [What Dreams Are Made Of](https://open.spotify.com/track/1445ytlUaJdffrICHr77at) | [Lyrics Born](https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr), [Joyo Velarde](https://open.spotify.com/artist/421XkmAzrTjRzfKxYG3Den) | [What Dreams Are Made Of](https://open.spotify.com/album/0kL1SGJErc8xcyAMY2NgMZ) | 3:43 | 2024-09-13 |  |
 | [What's Up What's Down](https://open.spotify.com/track/27ULQxLIwvRWdBEkfyD3lV) | [Andrew De Silva](https://open.spotify.com/artist/1TmFfrKARyOpFKaatbBoKz) | [What's Up What's Down](https://open.spotify.com/album/2EOUib6Y3yahXmPNG1QXkq) | 4:12 | 2021-09-21 | 2022-04-26 |
-| [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-02 |  |
+| [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-02 | 2025-05-10 |
 | [When We Kiss](https://open.spotify.com/track/5SqqLxD2UxuklijNBHwIFC) | [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3), [Alex Slay](https://open.spotify.com/artist/3ln3LqQWM10v8nj3TC8G59) | [When We Kiss](https://open.spotify.com/album/29SukqjrZNDpwGbF2YW3eS) | 2:11 | 2024-03-01 |  |
 | [Where Do I Go From Here](https://open.spotify.com/track/6GgilVSiwORRZpxDVS5VrZ) | [Soulpersona](https://open.spotify.com/artist/4SOCuwOpa0FUmQ57i9C362), [Princess Freesia](https://open.spotify.com/artist/7KGXDaB3Tmfz0Fpa74qnER) | [Extended Pleasure](https://open.spotify.com/album/3ajFuJCUGHt96d8EE9BmMn) | 5:54 | 2021-09-21 | 2022-04-21 |
 | [Which Side You're On](https://open.spotify.com/track/7aBjTHXRcZed06n0rWgyLu) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Which Side You're On](https://open.spotify.com/album/7Lo6Fc6SRr1AxIKIK3Fbjz) | 3:34 | 2021-05-14 | 2022-04-20 |

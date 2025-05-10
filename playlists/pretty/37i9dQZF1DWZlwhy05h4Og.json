@@ -1,13 +1,33 @@
 {
-  "description": "The sweetest bops. Cover: FIFTY FIFTY",
-  "num_followers": 60289,
+  "description": "The sweetest bops. Cover: Kylie Cantrell ",
+  "num_followers": 60312,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDYAAAAABn9xlJGy2UK98c8V7RKx0Z",
+  "snapshot_id": "aB19xAAAAADzljel+Irq5/S2cQdNdE6g",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "B.O.Y.",
+        "url": "https://open.spotify.com/album/6ITrAoLmu9UBpTW5B89xgW"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 130442,
+      "name": "See U Tonight (feat. YUNAH & MINJU of ILLIT)",
+      "url": "https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM"
+    },
     {
       "added_at": "2025-05-02 04:00:32",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 152813,
       "name": "Pookie",
       "url": "https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF"
+    },
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "shoot",
+        "url": "https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "shoot",
+      "url": "https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q"
     },
     {
       "added_at": "2025-05-02 04:00:32",
@@ -55,6 +91,22 @@
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
+    },
+    {
+      "added_at": "2025-05-09 04:00:04",
+      "album": {
+        "name": "Pinky Swear?",
+        "url": "https://open.spotify.com/album/5U36itC7v2erjq9Gwh97PB"
+      },
+      "artists": [
+        {
+          "name": "Pebbles&TamTam",
+          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+        }
+      ],
+      "duration_ms": 131467,
+      "name": "Pinky Swear?",
+      "url": "https://open.spotify.com/track/4Yvu5lwTuoxmesv3oizLRa"
     },
     {
       "added_at": "2025-05-02 04:00:32",
@@ -903,22 +955,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Wish You Hell - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Wish You Hell",
-      "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -995,38 +1031,6 @@
       "duration_ms": 211786,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "I GOT YOU",
-        "url": "https://open.spotify.com/album/7mVYkS8Bwibque5PEMA9F1"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "I GOT YOU",
-      "url": "https://open.spotify.com/track/5PC5gR6dt9Xp4mij4OJ9rV"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Fe3O4: BREAK",
-        "url": "https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 166979,
-      "name": "DASH",
-      "url": "https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1"
     },
     {
       "added_at": "2024-07-26 04:00:00",

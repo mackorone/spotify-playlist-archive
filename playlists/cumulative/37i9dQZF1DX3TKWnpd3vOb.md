@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Tres.
 
-312 songs - 19 hr 46 min
+313 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cerca del Sol](https://open.spotify.com/track/4LoB0vpJvhlROCaOMNJP78) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cerca del Sol](https://open.spotify.com/album/2JyB6oVNlkblXEsdHlBks6) | 4:32 | 2022-04-08 | 2023-03-03 |
 | [Cielo](https://open.spotify.com/track/0edQQyB3klYXb3ptkcdDIo) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cielo](https://open.spotify.com/album/7qsBFKGtx7itrfVd7fOxiE) | 3:40 | 2023-10-27 | 2023-11-30 |
 | [Clara](https://open.spotify.com/track/07tq9iJkXzRgvgA4vsM80b) | [Enei](https://open.spotify.com/artist/3ychxeKDZNc3ITaeJfz7GO) | [Clara](https://open.spotify.com/album/7EQNBGyaddHvNToBCFHvNi) | 3:17 | 2022-04-08 | 2022-07-24 |
+| [Claroscuro](https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Claroscuro](https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn) | 3:17 | 2025-05-09 |  |
 | [Clavelito Antártico](https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw) | [Hijo de Ladrón](https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM) | [Clavelito Antártico](https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj) | 5:21 | 2022-07-01 | 2023-03-03 |
 | [Como Caes](https://open.spotify.com/track/1UYbrhb57tGcZtYOq9sdRA) | [Ermitaño](https://open.spotify.com/artist/6ICRv7oox3xRu0WxvELbqO) | [La Balada de la Muerte](https://open.spotify.com/album/0o9tgfIzCwid0QI6OnTcy2) | 3:28 | 2022-04-08 | 2022-07-23 |
 | [Como es que no gozas](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Como es que no gozas](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 | 2023-08-11 |  |
@@ -101,7 +102,7 @@
 | [Elijo Soledad](https://open.spotify.com/track/0De9FIACgaulJDIzIN7jqq) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Elijo Soledad](https://open.spotify.com/album/03UF0yRngtiNd5gZaJ9Msk) | 4:27 | 2022-09-23 | 2023-03-03 |
 | [Entre Mis Brazos](https://open.spotify.com/track/1hM3r9AKtL3XZwPqRHcCMG) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers](https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV) | 5:02 | 2022-04-08 | 2022-12-17 |
 | [Eso que ves ahí](https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Eso que ves ahí](https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf) | 3:28 | 2022-04-08 | 2024-08-31 |
-| [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY) | 3:29 | 2023-10-13 |  |
+| [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY) | 3:29 | 2023-10-13 | 2025-05-10 |
 | [Esta Tarde Vi Llover](https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F) | [Los Ex](https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP) | [Esta Tarde Vi Llover](https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp) | 2:33 | 2022-04-08 |  |
 | [Estereotipo](https://open.spotify.com/track/7400p5DQgZByjkhYw9dprs) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Estereotipo](https://open.spotify.com/album/7MthIfL1jkDZAJxfsR23IQ) | 2:56 | 2022-04-08 | 2022-07-29 |
 | [Estrechez de Corazón \(En Vivo\)](https://open.spotify.com/track/0UC5d0kcl6qxRjnjBdJdBN) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Estrechez de Corazón \(En Vivo\)](https://open.spotify.com/album/45d0IXNNcFkpK7nzcnJ6mO) | 7:20 | 2022-04-08 | 2022-12-17 |

@@ -151,6 +151,28 @@
     },
     {
       "album": {
+        "name": "4GET IT",
+        "url": "https://open.spotify.com/album/13V4cvGODBdA92iQT4DTXY"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        },
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "4GET IT",
+      "url": "https://open.spotify.com/track/6hogdxOHNGVWVAnVBWOCz1"
+    },
+    {
+      "album": {
         "name": "500 DEGREES",
         "url": "https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A"
       },
@@ -850,7 +872,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 141662,
       "name": "Bad Bitch Syndrome",
       "url": "https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA"
@@ -6147,6 +6169,24 @@
     },
     {
       "album": {
+        "name": "Lazy Baby",
+        "url": "https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126131,
+      "name": "Lazy Baby",
+      "url": "https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl"
+    },
+    {
+      "album": {
         "name": "Osapa London - Deluxe",
         "url": "https://open.spotify.com/album/38SLubt4uf3dQJcLpRapoa"
       },
@@ -9453,6 +9493,24 @@
     },
     {
       "album": {
+        "name": "Round of Applause",
+        "url": "https://open.spotify.com/album/6cViBybeaWr9J0Y0gNEtxL"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Round of Applause",
+      "url": "https://open.spotify.com/track/1yXi1BRMLsjIpZxgSxKT02"
+    },
+    {
+      "album": {
         "name": "RTL",
         "url": "https://open.spotify.com/album/3BCCcDroewejHhnJU2fUtM"
       },
@@ -10958,7 +11016,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 155028,
       "name": "Time Of My life",
       "url": "https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0"

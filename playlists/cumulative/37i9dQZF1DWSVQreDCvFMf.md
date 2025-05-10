@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Amiel Sol
 
-356 songs - 22 hr 21 min
+359 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [7:07 \(Hay Buhay\)](https://open.spotify.com/track/5KesauCcOmAPJNUBPB3I3y) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [7:07 \(Hay Buhay\)](https://open.spotify.com/album/37Dhm53dSWWKUAO21BD2Mn) | 3:10 | 2024-07-02 | 2024-07-19 |
 | [A Little Bit](https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [SWABE](https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L) | 4:37 | 2025-04-25 |  |
 | [A Tale of Us](https://open.spotify.com/track/5fCd7HfQzCDWplEJMaVr5O) | [Huni](https://open.spotify.com/artist/00ZKfj5ZkA4F4KvipCDZQc) | [A Tale of Us](https://open.spotify.com/album/0LEvapJu0hYIKtKo7Ak1JM) | 4:12 | 2024-07-02 | 2024-07-13 |
+| [Ahon](https://open.spotify.com/track/2ZNUhyHeCLzwKLBMH0m48Y) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Ahon](https://open.spotify.com/album/6TUc561cCK7NAubC7YVxKN) | 4:17 | 2025-05-09 |  |
 | [Akala Ko](https://open.spotify.com/track/2OWyYWZ2Z03bXqaGcOHJ7T) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Akala Ko](https://open.spotify.com/album/2lukVfOU2cJCOVmKt6bumz) | 3:43 | 2025-05-02 |  |
 | [Ako nalang](https://open.spotify.com/track/3Ujf4wZ44Yx4MAcnQnufUN) | [NIO](https://open.spotify.com/artist/3xkS4OmxFVJbJ3IlAv30qH), [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Ako nalang](https://open.spotify.com/album/1VD9Ud7e7xPFmLUXucqLy8) | 3:41 | 2024-12-25 | 2025-04-16 |
 | [Alipin](https://open.spotify.com/track/4M58QFY0zKnt2V2IPKsoy5) | [Khel Pangilinan](https://open.spotify.com/artist/39ZvrXAretQWcY8yDoWAtP) | [Alipin](https://open.spotify.com/album/4AD5QC9YS6u0flPv458gtE) | 3:55 | 2024-11-20 | 2025-02-26 |
@@ -115,7 +116,9 @@
 | [Happy Ending](https://open.spotify.com/track/1hv8gjkImdxHMw98bxXGre) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Happy Ending](https://open.spotify.com/album/2mWCsQlDlhidVlxyRRoQ1a) | 4:41 | 2024-11-22 |  |
 | [hardest part](https://open.spotify.com/track/7mVRAONygdjSsxt83DEbEx) | [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [Lazy McGuire](https://open.spotify.com/artist/1PrWniB1r9Qpk22hKP8opw) | [hardest part](https://open.spotify.com/album/3lnwhZrqett24YdC1Yl2pA) | 2:29 | 2024-09-18 | 2024-11-30 |
 | [Hayaan](https://open.spotify.com/track/2XJh7f9YrJlvXOq4OH0Lfa) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Hayaan](https://open.spotify.com/album/2pIQmW7vmDdmVY5qOjCjWS) | 5:49 | 2024-09-04 | 2024-11-23 |
+| [Hele](https://open.spotify.com/track/16CAfglFpGKN9U8n1VoaF4) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Hele](https://open.spotify.com/album/2uWlw4sPVjH267Jw7UQt61) | 4:51 | 2025-05-09 |  |
 | [Hey You](https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Hey You](https://open.spotify.com/album/6Ux8KoRZJYi5td2vKRFd6J) | 4:31 | 2024-07-02 | 2024-08-17 |
+| [Hingalo](https://open.spotify.com/track/1Bu4SSuA5gne7t5q8MW8Ka) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge), [Shirebound](https://open.spotify.com/artist/4LulEzMKzIDPPaVZ8MFLGk) | [Hingalo](https://open.spotify.com/album/2VSGdqPuSWfPIjJS5BvJYk) | 3:39 | 2025-05-09 |  |
 | [Hirana](https://open.spotify.com/track/6mOhNJfrKXWD5SnrqPwR6o) | [CRIMASON](https://open.spotify.com/artist/2omAS3u3ZQaxiWXA9OmiWj) | [Hirana](https://open.spotify.com/album/6ZRHYWB8uI6CjfBHTyLAhS) | 4:56 | 2024-07-02 | 2024-07-13 |
 | [Hirap Kalimutan](https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Hirap Kalimutan](https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C) | 2:53 | 2024-10-18 | 2025-04-08 |
 | [Hiraya](https://open.spotify.com/track/4byYvg0R2equLR0TMRvcB5) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Hiraya](https://open.spotify.com/album/7tEI48ifzaMHKjdBrHux6t) | 3:18 | 2024-11-22 | 2025-02-15 |

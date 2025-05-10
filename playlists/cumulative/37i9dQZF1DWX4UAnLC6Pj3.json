@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Espinoza Paz en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda El Recodo en portada.",
   "name": "Banda 2025",
   "tracks": [
     {
@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 158813,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
@@ -2353,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "El Payaso",
+        "url": "https://open.spotify.com/album/7nEa4qa8Bcfc993KotJYaB"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180382,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/1eIIZzMC0NDHTbjScOYees"
+    },
+    {
+      "album": {
         "name": "Corridos Arriesgados y De Respeto (En Vivo)",
         "url": "https://open.spotify.com/album/52SZy21R2MoUiDwwCUjOe9"
       },
@@ -2651,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde Jap\u00f3n",
+        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "El Malo Soy Yo",
+      "url": "https://open.spotify.com/track/1MbSAdfdafVfnYPNP8cUUK"
+    },
+    {
+      "album": {
         "name": "El Moyo",
         "url": "https://open.spotify.com/album/3EMeK6okfqjkFsbv9kezf9"
       },
@@ -2880,7 +2916,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 234215,
       "name": "El Pr\u00f3ximo Viernes",
       "url": "https://open.spotify.com/track/28OJgDZ7mzzNfydnixtrVE"
@@ -3062,6 +3098,24 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+    },
+    {
+      "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/1StCFcV4mgSMCAAdIjHHYN"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145167,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/0pCch1eHrjCXON48LoZDCY"
     },
     {
       "album": {
@@ -3394,7 +3448,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 188000,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
@@ -6566,7 +6620,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 213562,
       "name": "Que Hay Que Hacer",
       "url": "https://open.spotify.com/track/11AS1e1BTVn9dBGk10kdAj"
@@ -7383,6 +7437,24 @@
     },
     {
       "album": {
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/2N9Doi1fgdEIFavKu58qSI"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193687,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/2NvjIR3bHAVxMY032nNuR2"
+    },
+    {
+      "album": {
         "name": "Sin Miedo al \u00c9xito",
         "url": "https://open.spotify.com/album/2R0Tuws9nwlxzrLwc7iLgm"
       },
@@ -7496,7 +7568,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 189506,
       "name": "Soltero Para Rato",
       "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
@@ -8632,7 +8704,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 198635,
       "name": "Uno Que Me Quiera",
       "url": "https://open.spotify.com/track/0a4cj4UFXkPs32DBMP3kcc"
@@ -9132,6 +9204,32 @@
       "duration_ms": 147053,
       "name": "Ya Te Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
+    },
+    {
+      "album": {
+        "name": "Yo Nac\u00ed Pa' Ser Jefe",
+        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168553,
+      "name": "Yo Nac\u00ed Pa' Ser Jefe",
+      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
     },
     {
       "album": {

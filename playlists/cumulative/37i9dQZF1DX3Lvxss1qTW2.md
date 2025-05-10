@@ -4,7 +4,7 @@
 
 > The future hits of today\. <br/>Cover:  Kaestyle
 
-372 songs - 17 hr 18 min
+373 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Lamba](https://open.spotify.com/track/42RqCNmjZKd1b0rmwbHPIW) | [Bims](https://open.spotify.com/artist/7mvvczRGyHKTZafmKFBFtr) | [Unorthodox](https://open.spotify.com/album/2ax60imIeNA6oAKDAaigAi) | 2:14 | 2024-10-04 | 2024-10-26 |
 | [Last Week](https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Bad Boy Etiquette 102: Continuous Assessment](https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC) | 3:55 | 2024-06-28 | 2024-07-19 |
 | [LAST WEEK](https://open.spotify.com/track/4Qag5L7G1QEDSza9ygRntZ) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [LAST WEEK](https://open.spotify.com/album/1RnhiJQw2Z7rjETKvOxZiC) | 2:34 | 2024-07-19 | 2024-11-08 |
+| [Lazy Baby](https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lazy Baby](https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh) | 2:06 | 2025-05-09 |  |
 | [Left Right \- Remix](https://open.spotify.com/track/3qVrEW61X44OTkV4WtG722) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Left Right \(Remix\)](https://open.spotify.com/album/5P6aFTTB6cvh6AlFWCMycR) | 2:46 | 2024-06-28 | 2024-07-19 |
 | [Lemme Know](https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Lemme Know](https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf) | 2:53 | 2024-10-25 | 2024-11-29 |
 | [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 | 2024-09-20 | 2025-03-07 |
@@ -275,7 +276,7 @@
 | [Oshimiri](https://open.spotify.com/track/7CX3rEmKtC54tx6sOuLicM) | [RAGEE](https://open.spotify.com/artist/0mjNWMrcydC0CNQWBwjDuu), [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Oshimiri](https://open.spotify.com/album/1POl3m0J5qgozQW5kTvhnP) | 2:36 | 2024-07-08 | 2024-08-02 |
 | [OYO \(On Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 | 2025-02-21 | 2025-04-08 |
 | [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-01-31 | 2025-04-01 |
-| [Paper](https://open.spotify.com/track/5u6IZWUOEnvVYfNDxppXqr) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Paper](https://open.spotify.com/album/1Zio0hgdWu8Ngc5q816ETl) | 2:16 | 2025-01-24 |  |
+| [Paper](https://open.spotify.com/track/5u6IZWUOEnvVYfNDxppXqr) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Paper](https://open.spotify.com/album/1Zio0hgdWu8Ngc5q816ETl) | 2:16 | 2025-01-24 | 2025-05-10 |
 | [Pepper Dem](https://open.spotify.com/track/4u1H2ZQ5sh188p2XFd5Ehs) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Pepper Dem](https://open.spotify.com/album/7BLuaIUb92iX8QT3YMk5wK) | 2:36 | 2024-08-30 | 2024-10-01 |
 | [Pity Me](https://open.spotify.com/track/2RVUFIMYxs6HeebK7i2Ff3) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Pity Me](https://open.spotify.com/album/2ZFUvGdlMsY949oyKZdcXW) | 2:09 | 2024-10-04 | 2024-11-29 |
 | [PON MY MIND](https://open.spotify.com/track/61Fgo7az4lKB2sVPxhoCCO) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [PON MY MIND](https://open.spotify.com/album/1mMoebjcoBQNUSGkgyo4Kw) | 1:40 | 2024-09-27 | 2024-10-26 |

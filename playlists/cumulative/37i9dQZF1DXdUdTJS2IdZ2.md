@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: hongjoin
 
-675 songs - 1 day 12 hr 42 min
+676 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [The Haunting](https://open.spotify.com/track/5hzBYT4w6szUKJ32BxTvq2) | [ZEAF](https://open.spotify.com/artist/3yBuHr8NBnZSpboHPDL02A) | [The Haunting](https://open.spotify.com/album/579E9QhxyWB2mRjMLQbtYN) | 3:04 | 2025-05-08 |  |
 | [The Key](https://open.spotify.com/track/31zhJnJpDIA5jutqQ1pN72) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [The Key](https://open.spotify.com/album/6N5WhWGEWi2LMv5fmjBpTp) | 2:40 | 2024-12-26 | 2025-02-21 |
 | [The Name Is \(Bro Unga Peru\)](https://open.spotify.com/track/7dgvXRjFRde7AghLhzi5kZ) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [The Name Is \(Bro Unga Peru\)](https://open.spotify.com/album/0UC4hzPPAkN8TCvri3Xs7q) | 1:40 | 2024-08-15 | 2024-09-20 |
+| [The Nomad](https://open.spotify.com/track/2AKN7UxUxQRaipp0vgzk7L) | [YOENN](https://open.spotify.com/artist/7j80RWqtdaihalAuiboaBZ) | [The Nomad](https://open.spotify.com/album/00LPP74QWMU6vSxEr2fnFp) | 3:14 | 2025-05-08 |  |
 | [The Pains of Being Pure at Heart \(with Nosedive\)](https://open.spotify.com/track/3b47lJ9r09oOfgGHvVxyaI) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef), [Nosedive](https://open.spotify.com/artist/6RiuHjfKaX83exKcgG4X4Y) | [The Pains of Being Pure at Heart \(with Nosedive\)](https://open.spotify.com/album/4RxQqHFKSQQIO9sZ2sE6o9) | 3:10 | 2024-12-06 | 2025-02-07 |
 | [The Sun Will Cry](https://open.spotify.com/track/2qxVwFicRzUA71ftfrQUfY) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Sun Will Cry](https://open.spotify.com/album/1gxcOXXdPP7W8vafVmJhIX) | 3:19 | 2024-12-06 | 2025-02-14 |
 | [The Test](https://open.spotify.com/track/1HcWAYTGv931OOK0aUIcAv) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Push&Pull](https://open.spotify.com/album/0WzcMeriAjLqUAMGdT0YGH) | 2:43 | 2024-11-08 | 2025-01-17 |

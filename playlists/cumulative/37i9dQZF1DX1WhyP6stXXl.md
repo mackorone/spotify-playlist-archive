@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Mark Ambor
 
-1,036 songs - 2 day 4 hr 18 min
+1,037 songs - 2 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2024-10-03 | 2024-10-25 |
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-16 | 2025-01-31 |
 | [Everywhere](https://open.spotify.com/track/6z5FlIaI0gHwBVSqHqEAn3) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Everywhere](https://open.spotify.com/album/3EBmOGNNUYnopA6LYKRanO) | 3:22 | 2024-11-14 | 2024-12-13 |
+| [excuses](https://open.spotify.com/track/41Tl8Wk6Y7VTwtIUvMPQpQ) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [UNSAID \(Deluxe\)](https://open.spotify.com/album/4SkkTkqPDk2oPTZxSrI6rf) | 2:21 | 2025-05-08 |  |
 | [Expiration Date](https://open.spotify.com/track/1NVBtxinJHsbKSV2XN5S0X) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Expiration Date](https://open.spotify.com/album/6bZUiMauhzHD1VdlUPqfbK) | 2:25 | 2024-11-28 | 2025-01-03 |
 | [Eyes Dried Over \(feat\. Tom Walker\)](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 | 2024-12-12 | 2025-01-24 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-24 | 2024-11-08 |

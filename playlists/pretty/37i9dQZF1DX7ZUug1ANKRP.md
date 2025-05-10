@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Don Diablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,855,564 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,854,910 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 34 | [I'm Alive](https://open.spotify.com/track/3BfxxcfMdCoNRy63y13pwW) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [I'm Alive](https://open.spotify.com/album/1zQep617eWlNelCIpil5Z0) | 2:36 |
 | 35 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 36 | [Infinity \- Adagio For Strings](https://open.spotify.com/track/6hcTkn83waVM5YbDAFWcta) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Infinity \(Adagio For Strings\)](https://open.spotify.com/album/1s7FN8TtMhm3KCw16ZWg56) | 2:16 |
-| 37 | [Paradise](https://open.spotify.com/track/4d0MjR2a51UIM1mg9ekNHI) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Robin White](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA) | [Paradise](https://open.spotify.com/album/2mkWRmTKqX1Mr3SCoUi1zg) | 3:06 |
+| 37 | [Paradise](https://open.spotify.com/track/4d0MjR2a51UIM1mg9ekNHI) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [ROBIN WHITE](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA) | [Paradise](https://open.spotify.com/album/2mkWRmTKqX1Mr3SCoUi1zg) | 3:06 |
 | 38 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
 | 39 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 |
 | 40 | [Gasoline](https://open.spotify.com/track/1K5jNnhhfOinqCphPUoloa) | [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj) | [Gasoline](https://open.spotify.com/album/7Be86e7w8ehc8DlCadaKn3) | 2:02 |

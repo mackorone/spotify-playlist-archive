@@ -2,9 +2,9 @@
 
 ### [Progressive Metal](https://open.spotify.com/playlist/37i9dQZF1DX5wgKYQVRARv)
 
-> New and recent favorites of Prog Metal\. Cover: Dream Theater
+> New and recent favorites of Prog Metal\. Cover: Katatonia
 
-794 songs - 2 day 20 hr 10 min
+795 songs - 2 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Gordian Naught](https://open.spotify.com/track/6QD6PReeaIZ5iZXVEntcKE) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Gordian Naught](https://open.spotify.com/album/4NZVjgBQQw9iscGkydO5J2) | 4:48 | 2022-02-25 | 2022-11-05 |
 | [Gordian Naught](https://open.spotify.com/track/7uhwNvGV8LaWoHsrawt6jD) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Parrhesia](https://open.spotify.com/album/1mIiGxlTjTnNMTS9HYwsuB) | 4:48 | 2022-10-28 | 2024-04-19 |
 | [Grasping Time \- Single Version](https://open.spotify.com/track/27DIYmcXxMNNVztsjiCApl) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Grasping Time](https://open.spotify.com/album/5z4BnCZGs1JX8oIhUyedjW) | 4:20 | 2021-12-17 | 2022-06-26 |
-| [Gratitude](https://open.spotify.com/track/03IY1x0GbOXI6yVLQwfIJF) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Gratitude](https://open.spotify.com/album/4vRMVsCjRurtww8MpUrKpn) | 3:29 | 2024-11-22 |  |
+| [Gratitude](https://open.spotify.com/track/03IY1x0GbOXI6yVLQwfIJF) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Gratitude](https://open.spotify.com/album/4vRMVsCjRurtww8MpUrKpn) | 3:29 | 2024-11-22 | 2025-05-10 |
 | [Great Escape, Pt\. 1](https://open.spotify.com/track/5wpH4Co0ugsFB7D6DUdlyQ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Great Escape, Pt\. 1](https://open.spotify.com/album/3FhlQbfXg8ZpHjJ9M6Z30B) | 7:36 | 2021-12-17 | 2022-01-27 |
 | [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 | 2025-01-10 |  |
 | [Gula](https://open.spotify.com/track/6JJ22tCYd0nuCNNBT1VgNc) | [The Great Discord](https://open.spotify.com/artist/3KWOkq7nrD0UybEUMj4Ryt) | [Gula](https://open.spotify.com/album/2P6ERbEJH2eVTmnoGd9qZh) | 3:30 | 2021-12-17 | 2022-07-28 |
@@ -621,6 +621,7 @@
 | [Synaesthesia](https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr) | [Weather Systems](https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq) | [Synaesthesia](https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU) | 9:11 | 2024-11-22 |  |
 | [Taurus](https://open.spotify.com/track/5hTRa6cl2MlpkrYyHO5zbR) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Taurus](https://open.spotify.com/album/2ze4aFb1a3SMNIQ5qL1aEj) | 4:48 | 2023-01-20 | 2024-11-23 |
 | [Temple Of Circadia](https://open.spotify.com/track/4DkdmrJ1P8v1PFZrBZIuoV) | [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Terminal Velocity](https://open.spotify.com/album/0ThCSFfHT7zTobzMoDH4vu) | 7:10 | 2021-12-17 | 2022-09-03 |
+| [Temporal](https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Temporal](https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM) | 4:10 | 2025-05-09 |  |
 | [Terminal Velocity](https://open.spotify.com/track/3FNoShKmJkVElO7J43RreL) | [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Terminal Velocity](https://open.spotify.com/album/0ThCSFfHT7zTobzMoDH4vu) | 6:07 | 2021-12-17 | 2022-09-03 |
 | [Terrene Hunter](https://open.spotify.com/track/6Km6XsyXdOsRhu0tj1Jj6x) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Terrene Hunter](https://open.spotify.com/album/60cruwKvuPfkevirdVpXC2) | 3:51 | 2022-07-13 |  |
 | [Testudines](https://open.spotify.com/track/4TVZNdiR8ilvsezut94wOr) | [Dawn of Ouroboros](https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX) | [Testudines](https://open.spotify.com/album/24CdRMLBHTVyXxV09H9slP) | 4:44 | 2023-04-07 | 2023-05-08 |

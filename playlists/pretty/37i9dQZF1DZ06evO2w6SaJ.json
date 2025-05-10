@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6425,
+  "num_followers": 6429,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAADk7xk7n9AostxRQQVUyKpc",
+  "snapshot_id": "aBv0AAAAAACbJYQUpwnBreV3JZ8R6Gc3",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "APOCALIPS",
+        "url": "https://open.spotify.com/album/72F2zT9lAbEBuvWuzeUpLH"
+      },
+      "artists": [
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        },
+        {
+          "name": "Ray Garrison",
+          "url": "https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64"
+        }
+      ],
+      "duration_ms": 222573,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5VVSJqGpIKPVGntd7qFUeI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starry Eyed Surprise",
         "url": "https://open.spotify.com/album/4z5wOC6kklR2XKEBmv5orT"
       },
@@ -203,26 +231,6 @@
       "duration_ms": 191039,
       "name": "Starry Eyed Surprise",
       "url": "https://open.spotify.com/track/2VdNMzJRe7xwD2xPpjmdhW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
-        }
-      ],
-      "duration_ms": 202197,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
     },
     {
       "added_at": null,
@@ -267,30 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/7iisWcs9RmyaQqoXdZjogz"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
       },
       "artists": [
-        {
-          "name": "Silos",
-          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
-        },
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        },
-        {
-          "name": "Ray Garrison",
-          "url": "https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64"
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
         }
       ],
-      "duration_ms": 222573,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/0hGCYEqYNOjNT31wHPy4HX"
+      "duration_ms": 202197,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
     },
     {
       "added_at": null,
@@ -320,13 +320,17 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "Fann",
-          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
+          "name": "J. Angel",
+          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
+        },
+        {
+          "name": "DJ Am",
+          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
         }
       ],
-      "duration_ms": 189893,
-      "name": "Baby You Don't Know",
-      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
+      "duration_ms": 212306,
+      "name": "Born to Raise Hell",
+      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
     },
     {
       "added_at": null,
@@ -388,17 +392,13 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "J. Angel",
-          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
-        },
-        {
-          "name": "DJ Am",
-          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
+          "name": "Fann",
+          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Born to Raise Hell",
-      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
+      "duration_ms": 189893,
+      "name": "Baby You Don't Know",
+      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
     },
     {
       "added_at": null,

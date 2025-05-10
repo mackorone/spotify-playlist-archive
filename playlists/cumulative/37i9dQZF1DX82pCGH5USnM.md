@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-881 songs - 2 day 0 hr 14 min
+884 songs - 2 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Forest Run](https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Forest Run](https://open.spotify.com/album/7bqI8NfwJ4xVglMlcqp3V5) | 1:57 | 2021-11-08 | 2022-02-11 |
 | [Forget About It](https://open.spotify.com/track/3j1OuqbJEvfy51u6oAUjqB) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Club Highs](https://open.spotify.com/album/6L3AfoDQZVHFfVU3d2se2S) | 2:51 | 2022-12-16 |  |
 | [Fortunella](https://open.spotify.com/track/2jrkuEIxCZjB4Q8nazTCBN) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Fortunella](https://open.spotify.com/album/6caqarK76FDpmIeJmU7TMH) | 2:59 | 2023-08-11 |  |
+| [Found](https://open.spotify.com/track/43nODiD6xAhmpmygGp29uf) | [Lukas Hiraeth](https://open.spotify.com/artist/0e6m03hmu9HNYQBaeFkn8D) | [Found](https://open.spotify.com/album/4Dv3BJNRDjyD3fkKgOuR4q) | 2:28 | 2025-05-09 |  |
 | [Fountain](https://open.spotify.com/track/2mcedqPaiGiEC91COidFzf) | [shade of sienna](https://open.spotify.com/artist/20vM7cfwRhHalNHzCt5571) | [Fountain](https://open.spotify.com/album/0Ds3yUOWEC76qmqhAgId9x) | 2:41 | 2023-01-20 |  |
 | [Fragaria](https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Fragaria / Deflexus](https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C) | 5:45 | 2021-11-08 | 2022-08-05 |
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 | 2022-07-08 |
@@ -537,6 +538,7 @@
 | [Ocean Flow](https://open.spotify.com/track/0kW5OLcBxPTzi8dj7XJf1a) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Tomtebo](https://open.spotify.com/album/1pm7p9wuOepnYKPIsnbXXC) | 3:46 | 2021-01-27 | 2022-05-11 |
 | [Oku\-Shibu](https://open.spotify.com/track/2EtdCz6NWsvbSqdqXY3G5X) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Oku\-Shibu](https://open.spotify.com/album/4drxD2euTThbQYUFdkZGZt) | 2:52 | 2025-02-21 |  |
 | [OMG Coffee](https://open.spotify.com/track/0NMoB00vQXRPYs4xiUahBj) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [OMG Coffee](https://open.spotify.com/album/0VA0nwREAwUZ2QBdRoTPa5) | 3:22 | 2022-07-29 | 2025-01-11 |
+| [omg that's vibey](https://open.spotify.com/track/4i42zTacDKnt5HODJneJ28) | [Yavuz Grill](https://open.spotify.com/artist/48rhQRNzTD4ypCTn4qQmaA) | [omg that's vibey](https://open.spotify.com/album/5gBbpSnBhcFc8jhFrcWlg7) | 2:06 | 2025-05-09 |  |
 | [On My Mind](https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [On My Mind](https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3) | 3:14 | 2021-02-19 | 2022-06-24 |
 | [on my mind](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [on my mind](https://open.spotify.com/album/3V3Wbbd4KwxV9jBJ9EB7gs) | 2:57 | 2022-08-19 | 2024-09-28 |
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2021-11-08 | 2023-07-29 |
@@ -704,6 +706,7 @@
 | [Smek \- Rey&Kjavik Remix](https://open.spotify.com/track/1PyfWp1rg8omX2DOtg65pR) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Smek \(Rey&Kjavik Remix\)](https://open.spotify.com/album/55BVCDc7BpOqS2MbzgO3x6) | 6:06 | 2020-11-04 | 2020-11-19 |
 | [Smiling Falsifier](https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Smiling Falsifier](https://open.spotify.com/album/1AP8iOyjLZXAMyhSosSHt1) | 3:08 | 2023-01-20 |  |
 | [Smoke N' Stuff](https://open.spotify.com/track/76GzwL91UGF3mczJ5rD1JU) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Smoke N' Stuff](https://open.spotify.com/album/2SPGcjGcimqvcsEKBbkCsj) | 3:17 | 2022-11-25 | 2025-01-11 |
+| [Snake Oil](https://open.spotify.com/track/1fo0083nKePBcIaLgX7yNG) | [The Afronaut](https://open.spotify.com/artist/0RcAEaIg21iTmK6ru4WS9U) | [Snake Oil](https://open.spotify.com/album/5bSp7XG8irPHVReZB6BuIw) | 2:17 | 2025-05-09 |  |
 | [Socorro & Jüpiter](https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Socorro & Jüpiter](https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84) | 6:55 | 2020-11-11 | 2020-12-02 |
 | [Soft and Nice](https://open.spotify.com/track/0vrQTP6dfQsQSohyIfB7SP) | [Calvin Durant](https://open.spotify.com/artist/7v3g6YWSgDGIsSZFlCznOL) | [Soft and Nice](https://open.spotify.com/album/6wYji9i4ZVFsz4kYOoVAtm) | 2:22 | 2023-12-01 |  |
 | [Soil](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Soil](https://open.spotify.com/album/1nr940JdureKTuemThNzQ4) | 2:17 | 2023-02-24 |  |

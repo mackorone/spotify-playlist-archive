@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 
 > Songs that will make you and your kids laugh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,700 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,695 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 22 | [Bill Nye the Science Guy](https://open.spotify.com/track/6L33GgWMpd53M1vldLstrW) | [Mr Dooves](https://open.spotify.com/artist/1YP1NgBkOUyqsOiIUBqOrr) | [Saturday Morning Acapella: Volume 4](https://open.spotify.com/album/4Hx7U3oSNHVGKXpuRf4vRp) | 0:31 |
 | 23 | [Run Like The Kitty](https://open.spotify.com/track/0njL7tKenSQRxmBXdGouGs) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/6pEPcbShtQj5G5VMd2SUbz) | 0:56 |
 | 24 | [Games On My Computer](https://open.spotify.com/track/3RahKhz9mGQCJ252EbUifz) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [The Really Really Really Really Boring Album](https://open.spotify.com/album/1IJSsAAraXkzM5VF6aX4Lj) | 1:45 |
-| 25 | [The Best Day Ever](https://open.spotify.com/track/3L3dVggx061Wx5y4d2L0mQ) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj) | [The SpongeBob SquarePants Movie\-Music From The Movie and More](https://open.spotify.com/album/3yaX4L63CKiN2oleC53fy8) | 3:02 |
+| 25 | [The Best Day Ever](https://open.spotify.com/track/3L3dVggx061Wx5y4d2L0mQ) | [SpongeBob](https://open.spotify.com/artist/6GYJSrbyUsWQq29YUOgjvE) | [The SpongeBob SquarePants Movie\-Music From The Movie and More](https://open.spotify.com/album/3yaX4L63CKiN2oleC53fy8) | 3:02 |
 | 26 | [Bananaphone](https://open.spotify.com/track/2Uu4AnnMTJpevC0IrwAuOW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Bananaphone](https://open.spotify.com/album/1y772v6xDzzRWlaYWcNWHq) | 3:14 |
 | 27 | [Waffle City](https://open.spotify.com/track/5q3j5mwaPy1ZwA3PnfG4aV) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Waffle City](https://open.spotify.com/album/5SzrF02E4eectM3r6vYMW8) | 2:11 |
 | 28 | [Jungle Boogie](https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:40 |

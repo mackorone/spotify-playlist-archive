@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Loathe.",
-  "num_followers": 8918,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Sleep Token.",
+  "num_followers": 8917,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAOA0gynZj+uy7v4TDE+0FaAGGPrM8O",
+  "snapshot_id": "AAAODNrr87Q6RD0kAOqOaJVjP4v6hxCV",
   "tracks": [
+    {
+      "added_at": "2025-05-09 20:12:30",
+      "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO"
+    },
+    {
+      "added_at": "2025-05-09 20:11:31",
+      "album": {
+        "name": "Other World",
+        "url": "https://open.spotify.com/album/6W7oUC8NUMwEPRwN3cPT1v"
+      },
+      "artists": [
+        {
+          "name": "Harms Way",
+          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Other World",
+      "url": "https://open.spotify.com/track/2RJQVoChwhL2ywpnp1cD01"
+    },
+    {
+      "added_at": "2025-05-09 20:11:47",
+      "album": {
+        "name": "MEAN",
+        "url": "https://open.spotify.com/album/0A6z8JM3YdXnqbdK5snV3o"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 199435,
+      "name": "MEAN",
+      "url": "https://open.spotify.com/track/2chUwJ0OfRFtOLbKuIUpTZ"
+    },
+    {
+      "added_at": "2025-05-09 20:12:02",
+      "album": {
+        "name": "Wingkawnoam",
+        "url": "https://open.spotify.com/album/0bGQ7VcGDaggzepHuKYe0j"
+      },
+      "artists": [
+        {
+          "name": "Mawiza",
+          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
+        }
+      ],
+      "duration_ms": 218097,
+      "name": "Wingkawnoam",
+      "url": "https://open.spotify.com/track/296f88Y1anuVEaLSF97cKd"
+    },
+    {
+      "added_at": "2025-05-09 20:12:18",
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/7mmj9Kh2WmbKIs7eEQlGwM"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy"
+    },
+    {
+      "added_at": "2025-05-09 20:12:50",
+      "album": {
+        "name": "Stone Cold (Feat. Jonny Hawkins)",
+        "url": "https://open.spotify.com/album/7qNoMrmecMkSFdIG5hw3E3"
+      },
+      "artists": [
+        {
+          "name": "Doobie",
+          "url": "https://open.spotify.com/artist/1p68N0GuFAjR2IusIJWFk7"
+        },
+        {
+          "name": "Jonny Hawkins",
+          "url": "https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN"
+        }
+      ],
+      "duration_ms": 217970,
+      "name": "Stone Cold (Feat. Jonny Hawkins)",
+      "url": "https://open.spotify.com/track/6ivyvIgmSVxTmrG0VtTCc8"
+    },
     {
       "added_at": "2025-05-02 20:02:13",
       "album": {

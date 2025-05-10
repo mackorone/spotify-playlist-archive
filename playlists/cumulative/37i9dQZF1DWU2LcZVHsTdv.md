@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-276 songs - 16 hr 48 min
+278 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Nearer My God To Thee](https://open.spotify.com/track/4YEc0qCOtR53aduLgURSVT) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Nearer My God To Thee](https://open.spotify.com/album/5ANnfvCCSn3tNujhrGxPIg) | 4:10 | 2021-12-10 | 2024-12-14 |
 | [Nearer My God to Thee](https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Gospel](https://open.spotify.com/album/6q5STzEtZOcixjE2lCthgv) | 4:10 | 2022-07-15 | 2024-04-19 |
 | [No Prayer Like Mama's](https://open.spotify.com/track/4ePJLYgmBBBcUaUEzKpDOk) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [No Prayer Like Mama's](https://open.spotify.com/album/085BMJh3MhylH0fHuet6Fe) | 2:41 | 2023-02-10 |  |
+| [Oh Death](https://open.spotify.com/track/1U8KGvV3UNBYomNP7taETr) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Oh Death](https://open.spotify.com/album/4nMkF8ILHhE2AUqH7sFNGZ) | 3:30 | 2025-05-09 |  |
 | [Ol' Church Hymn](https://open.spotify.com/track/6YlQYcJCm0XLkpA3flcbaD) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Ol' Church Hymn](https://open.spotify.com/album/0WNfWSVgvNxqD2OYbWdOvA) | 3:31 | 2022-09-30 |  |
 | [One More Hallelujah](https://open.spotify.com/track/6HnxFNElDrHCClUAofO62l) | [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [One More Hallelujah](https://open.spotify.com/album/2rdif8xIfOoZxACrvrvCy3) | 4:12 | 2021-12-10 |  |
 | [Only Jesus For My Pain \(feat\. Franni Rae\)](https://open.spotify.com/track/0eijsNezWwvX3PP8ryy1u9) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Franni Rae](https://open.spotify.com/artist/2cCLNv3sEiVfczqal2Skxg) | [Only Jesus For My Pain \(feat\. Franni Rae\)](https://open.spotify.com/album/5BXHLeZnAuAlsag0sPPpPi) | 2:59 | 2024-08-02 |  |
@@ -207,6 +208,7 @@
 | [She Loves Jesus](https://open.spotify.com/track/6crnBVNhXq2aEi5ALEVc41) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [She Loves Jesus](https://open.spotify.com/album/4T6btzyWWrifniVKkTmZbs) | 4:00 | 2022-10-28 |  |
 | [Shine](https://open.spotify.com/track/1391pTC3PlDqAWZTNUkdPc) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [The Messenger](https://open.spotify.com/album/70od9008rtHk29AYSgp24n) | 2:41 | 2025-03-21 |  |
 | [Show Me Around](https://open.spotify.com/track/1kAjZE74FPpadN5JUgrIcZ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:40 | 2021-12-10 |  |
+| [Since Jesus](https://open.spotify.com/track/65QRRHctNDru7cMg80Jxd5) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Since Jesus](https://open.spotify.com/album/3FJAX9lXLQTDzdlYcTCd5a) | 3:01 | 2025-05-09 |  |
 | [Sing \(feat\. Russell Dickerson, Florida Georgia Line\)](https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:46 | 2021-12-10 |  |
 | [Somebody Else](https://open.spotify.com/track/5EaDQlO1mSdyDhgmmV3ECo) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Somebody Else](https://open.spotify.com/album/3qSl2EUB9MHWNZ7blQVOL4) | 3:09 | 2023-04-14 | 2024-12-14 |
 | [Somebody Prayed \(feat\. Dylan Scott\)](https://open.spotify.com/track/1scOxOB5efkZAxijmBpK6A) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Somebody Prayed \(feat\. Dylan Scott\)](https://open.spotify.com/album/6fWF4AeyqhUhBEUui0v6zq) | 3:45 | 2024-10-18 |  |

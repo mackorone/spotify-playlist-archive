@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 
 > This is Sleep Token\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,007 likes - 33 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,334 likes - 34 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 | 31 | [Shelter \- from the room below](https://open.spotify.com/track/4UgjE3JRXh1Y4xHU6DAvzL) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 3:12 |
 | 32 | [When the Bough Breaks](https://open.spotify.com/track/4By7rlsQO5KBN9vWgSPHBa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [One](https://open.spotify.com/album/6NJfEwMs0sdtxoDQyAo3jv) | 7:35 |
 | 33 | [When The Party's Over \- from the room below](https://open.spotify.com/track/6qH9hCt89r1o0NUWFRmj3n) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 2:26 |
+| 34 | [I Wanna Dance With Somebody \- from the room below](https://open.spotify.com/track/6YnB0wTkXJOdn2m41yTiXD) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 2:49 |
 
-Snapshot ID: `aBlRAAAAAAB03601i6r8NkifEftjpVfY`
+Snapshot ID: `aBv0AAAAAACWFgDJpfO7jxGL1KXzal8D`

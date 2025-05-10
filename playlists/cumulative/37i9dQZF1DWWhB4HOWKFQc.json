@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Sheila on 7",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Tsaqib",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 194800,
       "name": "Air",
       "url": "https://open.spotify.com/track/6HSns0qPQQfgekCrBF0Dkf"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 265440,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/14nP0U50fCX3F3PjSgE4lb"
@@ -4958,7 +4958,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 119916,
       "name": "Dongeng Pulau Gelembung",
       "url": "https://open.spotify.com/track/6m7FwKlJjrOuZ16S2OnuwO"
@@ -6496,7 +6496,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 216264,
       "name": "Hampstead",
       "url": "https://open.spotify.com/track/4D2DFuqs2PwLiHbcf6CX47"
@@ -6630,7 +6630,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 204000,
       "name": "Harus Bagaimana",
       "url": "https://open.spotify.com/track/3pIlumNprSdVavRvpmNihI"
@@ -8014,7 +8014,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 214453,
       "name": "IN YOUR EYES",
       "url": "https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX"
@@ -8430,6 +8430,24 @@
       "duration_ms": 190594,
       "name": "Just Say The Words",
       "url": "https://open.spotify.com/track/6Ymyy2yJ5lncQg0JEnRcKJ"
+    },
+    {
+      "album": {
+        "name": "Kaiju",
+        "url": "https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252722,
+      "name": "Kaiju",
+      "url": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
     },
     {
       "album": {
@@ -10789,6 +10807,24 @@
     },
     {
       "album": {
+        "name": "Mau Tak Mau",
+        "url": "https://open.spotify.com/album/1ciuEAPeVGCdTNWbFRo6TS"
+      },
+      "artists": [
+        {
+          "name": "Tsaqib",
+          "url": "https://open.spotify.com/artist/2o1sa27U08Oa7jRLrZrFlx"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227078,
+      "name": "Mau Tak Mau",
+      "url": "https://open.spotify.com/track/0SF4Sgr27Mq5EFO3roYbOa"
+    },
+    {
+      "album": {
         "name": "When The Phone Rings, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5AWmbhkgfUQIoNSxcwIVYi"
       },
@@ -11060,7 +11096,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 209776,
       "name": "Menunggu Cinta",
       "url": "https://open.spotify.com/track/0ZSt7rN9ILFOL23axrgfAJ"
@@ -11601,6 +11637,24 @@
     },
     {
       "album": {
+        "name": "Dat Type Of Gurl",
+        "url": "https://open.spotify.com/album/2n2sXuFZW2FrhI8JYhicI7"
+      },
+      "artists": [
+        {
+          "name": "Rasheeda",
+          "url": "https://open.spotify.com/artist/3x6gZfwmkDn92EKOwnYq4H"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208520,
+      "name": "My Bubble Gum",
+      "url": "https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -11892,7 +11946,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 208313,
       "name": "next door (feat. ASTN)",
       "url": "https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP"
@@ -12004,6 +12058,28 @@
       "duration_ms": 277944,
       "name": "Nina",
       "url": "https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm"
+    },
+    {
+      "album": {
+        "name": "Nina (Namoy Budaya Remix)",
+        "url": "https://open.spotify.com/album/1NqRTrTOk0YwJwZSYOMp7n"
+      },
+      "artists": [
+        {
+          "name": "Namoy Budaya",
+          "url": "https://open.spotify.com/artist/52Jp7JFsa3gRL7uPq59oXn"
+        },
+        {
+          "name": ".Feast",
+          "url": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285789,
+      "name": "Nina (Namoy Budaya Remix)",
+      "url": "https://open.spotify.com/track/1VomP8gYKZynYA156YTy4N"
     },
     {
       "album": {
@@ -13672,6 +13748,24 @@
       "duration_ms": 209000,
       "name": "Pretty Eyes",
       "url": "https://open.spotify.com/track/5V2buzGktAWyMe1ldrIvmd"
+    },
+    {
+      "album": {
+        "name": "Connie Francis Sings Second Hand Love & Other Hits",
+        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142520,
+      "name": "Pretty Little Baby",
+      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {
       "album": {
@@ -16122,7 +16216,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 210543,
       "name": "Snacks & Wine",
       "url": "https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn"
@@ -16577,6 +16671,24 @@
     },
     {
       "album": {
+        "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34400,
+      "name": "Steve's Lava Chicken",
+      "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
+    },
+    {
+      "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
       },
@@ -16700,7 +16812,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 151013,
       "name": "STUPID IDIOT",
       "url": "https://open.spotify.com/track/298BoO0FqEs3hfwO4K86fI"
@@ -16866,7 +16978,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 163381,
       "name": "supernatural",
       "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
@@ -17474,6 +17586,28 @@
       "duration_ms": 212205,
       "name": "Tanpa Bicara",
       "url": "https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ"
+    },
+    {
+      "album": {
+        "name": "Tanpa Cinta",
+        "url": "https://open.spotify.com/album/5FZVotW2jvhK31tvGSCKHz"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255327,
+      "name": "Tanpa Cinta",
+      "url": "https://open.spotify.com/track/3CSFXGhoR8C9kBF90xhIXG"
     },
     {
       "album": {
@@ -19070,7 +19204,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"

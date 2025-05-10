@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop! Cover: Sultaan",
+  "description": "Best of Punjabi Hip-Hop! Cover: AP Dhillon",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -2899,6 +2899,28 @@
     },
     {
       "album": {
+        "name": "LEVEL",
+        "url": "https://open.spotify.com/album/2LGsxAFGP9c2BPgP9r2m5M"
+      },
+      "artists": [
+        {
+          "name": "Sardar Khehra",
+          "url": "https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP"
+        },
+        {
+          "name": "Rass",
+          "url": "https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155483,
+      "name": "LEVEL",
+      "url": "https://open.spotify.com/track/3Som8HXULC5zwyCF4w754j"
+    },
+    {
+      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/3UhoziCnYqcgxFpzYSx233"
       },
@@ -3544,7 +3566,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 191503,
       "name": "NEVER LET YOU GO",
       "url": "https://open.spotify.com/track/1qOk5j2nzKQ8dICX8DNo51"
@@ -4905,6 +4927,28 @@
     },
     {
       "album": {
+        "name": "OKAY STFU",
+        "url": "https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174810,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/1JioaCninhpfY1filFEIZi"
+    },
+    {
+      "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
       },
@@ -4960,7 +5004,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 109714,
       "name": "Sultan Rahi",
       "url": "https://open.spotify.com/track/6xynqprt4AGDohJraoSEhZ"

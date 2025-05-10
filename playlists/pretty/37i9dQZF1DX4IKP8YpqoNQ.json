@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 31051,
+  "num_followers": 31054,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "These Songs for You, Live!",
+        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 355400,
+      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
+      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
         "url": "https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 376973,
       "name": "Dorothy Parker - Live from One Nite Alone Tour...The Aftershow",
       "url": "https://open.spotify.com/track/2PSgQzbGHlv99xv3KGxD4X"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "These Songs for You, Live!",
-        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 355400,
-      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
-      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        },
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Alive (Live At the Jazz Cafe, London)",
         "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 192600,
       "name": "At Last - Live",
       "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        },
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "Feeling Good - Live",
-      "url": "https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "Add To Me - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live In Stockholm",
         "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 484858,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "Add To Me - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Curtis in Chicago - Recorded Live!",
-        "url": "https://open.spotify.com/album/2hPtmUGxCFZEyoaCCLAUNt"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Superfly - Live in Chicago",
-      "url": "https://open.spotify.com/track/2DGW153VNRhZyaPjKFeSmS"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
         "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 299938,
       "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
       "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Curtis in Chicago - Recorded Live!",
+        "url": "https://open.spotify.com/album/2hPtmUGxCFZEyoaCCLAUNt"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Superfly - Live in Chicago",
+      "url": "https://open.spotify.com/track/2DGW153VNRhZyaPjKFeSmS"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Fela With Ginger Baker Live!",
-        "url": "https://open.spotify.com/album/7fkwNiJJggsA4bFyDMzmSr"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 465280,
-      "name": "Let's Start",
-      "url": "https://open.spotify.com/track/5iBPlU3XOy6ooug4rD9Cft"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Dave Chappelle's Block Party",
         "url": "https://open.spotify.com/album/3dmlZgLFJjctQrn7iUAMas"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 246133,
       "name": "Back In The Day - Live Album Version (Explicit)",
       "url": "https://open.spotify.com/track/62R2Dt1z4z1rurfZt06zmc"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Fela With Ginger Baker Live!",
+        "url": "https://open.spotify.com/album/7fkwNiJJggsA4bFyDMzmSr"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 465280,
+      "name": "Let's Start",
+      "url": "https://open.spotify.com/track/5iBPlU3XOy6ooug4rD9Cft"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live In NYC",
-        "url": "https://open.spotify.com/album/2ek7e3WgzpZVmxgDdWkSkU"
+        "name": "Simply The Best: Live!",
+        "url": "https://open.spotify.com/album/5B0ZSh5gb6vFoOe5hSq97w"
       },
       "artists": [
         {
-          "name": "Nicole Bus",
-          "url": "https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX"
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Look Up To The Sky - Live",
-      "url": "https://open.spotify.com/track/7AToEkxMNtu2DGerv9lTFv"
+      "duration_ms": 158533,
+      "name": "Time Is On My Side - Live At Slim's, San Francisco, CA / 8-30-1990 & 8-31-1990",
+      "url": "https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Simply The Best: Live!",
-        "url": "https://open.spotify.com/album/5B0ZSh5gb6vFoOe5hSq97w"
+        "name": "Live In NYC",
+        "url": "https://open.spotify.com/album/2ek7e3WgzpZVmxgDdWkSkU"
       },
       "artists": [
         {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+          "name": "Nicole Bus",
+          "url": "https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX"
         }
       ],
-      "duration_ms": 158533,
-      "name": "Time Is On My Side - Live At Slim's, San Francisco, CA / 8-30-1990 & 8-31-1990",
-      "url": "https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU"
+      "duration_ms": 243000,
+      "name": "Look Up To The Sky - Live",
+      "url": "https://open.spotify.com/track/7AToEkxMNtu2DGerv9lTFv"
     },
     {
       "added_at": "2024-10-25 07:48:43",

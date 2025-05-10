@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 76859,
+  "num_followers": 76921,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAAAVx8hy5LvMofCqVUhItn6l",
+  "snapshot_id": "aBv0AAAAAAAOjNXliOlJji6PR4sD5Adj",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Boba Ni\u00f1a Nice - Teenage Superstar",
+      "url": "https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico Se Pinta de Luz (Only for Streaming)",
         "url": "https://open.spotify.com/album/5LEwTDRCpE1egWxc2NZOAP"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 218973,
       "name": "Luz",
       "url": "https://open.spotify.com/track/5ogsMocz0VBYwmdpKDJl70"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Boba Ni\u00f1a Nice - Teenage Superstar",
-      "url": "https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1"
     },
     {
       "added_at": null,
@@ -1135,6 +1135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "No Entiendo - I Don't Understand You",
+      "url": "https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -1155,38 +1171,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+        "name": "Te Quiero Maxi Single",
+        "url": "https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H"
       },
       "artists": [
         {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 244600,
-      "name": "No Entiendo - I Don't Understand You",
-      "url": "https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Globall",
-        "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
-      },
-      "artists": [
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+        },
         {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 203306,
-      "name": "Desesperada (feat. Belinda)",
-      "url": "https://open.spotify.com/track/26ywANcomUjNBQWTuAHBGt"
+      "duration_ms": 205775,
+      "name": "Te Quiero (feat. Belinda) - Spanglish",
+      "url": "https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm"
     }
   ],
   "unique_name": "This Is Belinda",

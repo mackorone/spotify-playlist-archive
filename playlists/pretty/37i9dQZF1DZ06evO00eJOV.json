@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36635,
+  "num_followers": 36644,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAAChdU/57zlSVI/bfhbzb7Vl",
+  "snapshot_id": "aBv0AAAAAADd2Zit/L60j/mp5Lv1vY+g",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Ama-Gents",
+      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nomakanjani",
         "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 331466,
       "name": "Party Time - Kuya Ngokuthi Ungubani",
       "url": "https://open.spotify.com/track/1BNqCfgKVNePaG8AKR1qzw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Ama-Gents",
-      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Late For Mama",
-        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 277896,
-      "name": "Don't Follow Me I'm Married",
-      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 290613,
       "name": "Uyang'Embarasa",
       "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Late For Mama",
+        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 277896,
+      "name": "Don't Follow Me I'm Married",
+      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Late For Mama",
-        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 331497,
-      "name": "Good Black Woman",
-      "url": "https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soon And Very Soon",
         "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 236560,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/1uqXE6k9BlpdWHBnnoxiSg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Late For Mama",
+        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 331497,
+      "name": "Good Black Woman",
+      "url": "https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX"
     },
     {
       "added_at": null,
@@ -835,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not A Bad Girl",
-        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
+        "name": "Refe Matla",
+        "url": "https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8"
       },
       "artists": [
+        {
+          "name": "Pure Gold",
+          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
+        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 314426,
-      "name": "Ngiyakusaba",
-      "url": "https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4"
+      "duration_ms": 285160,
+      "name": "Kellela Moya",
+      "url": "https://open.spotify.com/track/3lOFXc1T0MxWWCjtjtkiaG"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

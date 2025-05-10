@@ -4,7 +4,7 @@
 
 > Jorja Smith's got that big energy.
 
-488 songs - 1 day 0 hr 9 min
+489 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [I LIKE HOES](https://open.spotify.com/track/33hiUOCaTAxgKbQyHNCQh5) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [steven shaeffer](https://open.spotify.com/artist/0sPHi4SXo7KmY1PcmlcEp2) | [Lvl 1: At Least It Was Fun](https://open.spotify.com/album/67vlxarO0ZAD65EHgg06ip) | 2:39 | 2024-11-08 | 2025-01-01 |
 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 | 2023-08-18 | 2024-03-16 |
 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 | 2023-09-04 | 2024-02-03 |
+| [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-09 |  |
 | [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 | 2024-10-25 | 2025-01-01 |
 | [In My Bag](https://open.spotify.com/track/7Fa4P7koWXkVs5ZUIWvAD3) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [In My Bag](https://open.spotify.com/album/2YiIZYRUZGjs981DgpvmHJ) | 2:17 | 2024-05-03 | 2024-06-01 |
 | [In The Rain](https://open.spotify.com/track/4UGBZOfhpyFGu62NqXVZAQ) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [In The Rain](https://open.spotify.com/album/6sMpx5uNhG6EPNqRhMwxCV) | 3:03 | 2024-11-22 |  |
@@ -408,7 +409,7 @@
 | [Squad Up](https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Squad Up](https://open.spotify.com/album/1S2JXFkTAuO1OYBF1uvwvj) | 2:46 | 2024-02-02 | 2024-03-23 |
 | [Stand Up](https://open.spotify.com/track/2tbM222PBUYPSSlRJpjkBa) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Stand Up](https://open.spotify.com/album/7cHNUQEtCX6y7xPnNtV1Rl) | 2:05 | 2024-01-05 | 2024-01-27 |
 | [Standing Up To The Wind](https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:18 | 2024-07-12 | 2024-08-24 |
-| [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-04-25 |  |
+| [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-04-25 | 2025-05-10 |
 | [Steve Harvey](https://open.spotify.com/track/3uFLBg3x1B9xQb1iCuWNRk) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Steve Harvey](https://open.spotify.com/album/7fNNdIF9yktKGe0ro8Bl4U) | 2:26 | 2024-05-03 | 2024-07-13 |
 | [Stick Up](https://open.spotify.com/track/1Humc1T8KHmkftPWvnsUyy) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Stick Up](https://open.spotify.com/album/7a7I2LsYQRjRt5M7RVy5My) | 2:04 | 2024-02-16 | 2024-05-18 |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2023-08-18 | 2024-03-30 |

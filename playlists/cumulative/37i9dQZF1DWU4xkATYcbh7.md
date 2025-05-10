@@ -4,7 +4,7 @@
 
 > Get amped!  Listen to the official soundtrack for Tony Hawk’s Pro Skater 3+4.
 
-60 songs - 3 hr 3 min
+61 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [She Goes to Finos](https://open.spotify.com/track/62YK30OBK4NXcpVYKFA1U0) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [A Far Out Disc \(Bonus Tracks Edition\)](https://open.spotify.com/album/3sog0wAw7RcnUh7oKQF6pb) | 3:37 | 2025-03-27 |  |
 | [Siren Song](https://open.spotify.com/track/5NS740oCv7xncFqEtx0BU3) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Passion Depression](https://open.spotify.com/album/4XWlGGOueIdtMNVhUVjaHR) | 4:22 | 2025-03-27 |  |
 | [Skate and Destroy \- 40th Anniversary](https://open.spotify.com/track/1mgpIngnNiqy1Fj9NvCZ5W) | [The Faction](https://open.spotify.com/artist/2PiIuk4LQgFEPLQvqhHvuN) | [Collection 1982\-1985 40th Anniversary](https://open.spotify.com/album/2OdN4TtE4hExYE312PL4m3) | 1:52 | 2025-03-27 |  |
-| [The Boy Who Destroyed The World](https://open.spotify.com/track/1Cslhx9RYXYY9yphPdherP) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Music For The Soul Vol 5](https://open.spotify.com/album/0huRI7Mef6x5fn3hrX9Bw5) | 3:05 | 2025-05-08 |  |
+| [The Boy Who Destroyed The World](https://open.spotify.com/track/1Cslhx9RYXYY9yphPdherP) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Music For The Soul Vol 5](https://open.spotify.com/album/0huRI7Mef6x5fn3hrX9Bw5) | 3:05 | 2025-05-08 | 2025-05-10 |
+| [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 | 2025-05-09 |  |
 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 | 2025-03-13 |  |
 | [uknowhatimsayin¿](https://open.spotify.com/track/1YV1i71ubI6EmKCBOSSufi) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [uknowhatimsayin¿](https://open.spotify.com/album/5RCXsrdnNwXGDgKVYpWKHW) | 2:55 | 2025-05-08 |  |
 | [Ultimate](https://open.spotify.com/track/6R0GRYk2vs2XuBVemYK5YZ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Ultimate](https://open.spotify.com/album/5r0LVuUjx659ddoV15P5MI) | 3:09 | 2025-03-13 |  |

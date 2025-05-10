@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "(Extra cheese)",
+        "url": "https://open.spotify.com/album/498XPKVVddBfuwBqkB1WeN"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91461,
+      "name": "(Extra cheese)",
+      "url": "https://open.spotify.com/track/3EhqkRh6JO4jjyU9Ok2pG1"
+    },
+    {
+      "album": {
         "name": "1 Mo Time",
         "url": "https://open.spotify.com/album/5rQcdELMiUNbRAb9XRve77"
       },
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 134394,
       "name": "BABY",
       "url": "https://open.spotify.com/track/1hs6NSqRaOSnnsHDTq23D4"
@@ -2052,6 +2070,28 @@
       "duration_ms": 158896,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D"
+    },
+    {
+      "album": {
+        "name": "Back Of My Mind (feat. Nino Paid)",
+        "url": "https://open.spotify.com/album/5C82P33f089DBN4VRhnwnL"
+      },
+      "artists": [
+        {
+          "name": "Rockout Danny",
+          "url": "https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc"
+        },
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120765,
+      "name": "Back Of My Mind (feat. Nino Paid)",
+      "url": "https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8"
     },
     {
       "album": {
@@ -3260,7 +3300,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 215065,
       "name": "Bigger and Bigger",
       "url": "https://open.spotify.com/track/1N4kT5sgp2AE5smdqtaIU3"
@@ -4786,7 +4826,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 122933,
       "name": "BUTTERFLY KISSES",
       "url": "https://open.spotify.com/track/1KmKoRxR8R3vrTWLXeNnbY"
@@ -6308,7 +6348,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 176141,
       "name": "Crime Bud and Women",
       "url": "https://open.spotify.com/track/3JVcv4CLLl5A7r1PKOqVs1"
@@ -6688,6 +6728,32 @@
       "duration_ms": 225902,
       "name": "Danger Danger (with Swizz Beatz, Pusha T & Jadakiss)",
       "url": "https://open.spotify.com/track/6WiIoG4iuSebXWYi7C9o1L"
+    },
+    {
+      "album": {
+        "name": "Dark Nights (remix)",
+        "url": "https://open.spotify.com/album/0tbHsvCdo1QM1sHUqgFZEx"
+      },
+      "artists": [
+        {
+          "name": "Kocky Ka",
+          "url": "https://open.spotify.com/artist/3XQ18LnZPy6tiOElsC93dU"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260040,
+      "name": "Dark Nights - remix",
+      "url": "https://open.spotify.com/track/05mU8pZ5AIaxyC45dteVyv"
     },
     {
       "album": {
@@ -7438,7 +7504,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 211653,
       "name": "Do Sum With It",
       "url": "https://open.spotify.com/track/715jl4rMm36KxLa2o5rubV"
@@ -8160,7 +8226,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 128000,
       "name": "Double D's",
       "url": "https://open.spotify.com/track/2g7q8degYW2rpPlhhbzp9y"
@@ -8972,7 +9038,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 155109,
       "name": "Executioners from Shaolin",
       "url": "https://open.spotify.com/track/67pv7MwpkrBujzaJkJpomE"
@@ -9344,7 +9410,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 130354,
       "name": "Feel Me (Rare Mix)",
       "url": "https://open.spotify.com/track/1tzHk1XRirUDBM6FSObTN8"
@@ -10056,6 +10122,24 @@
       "duration_ms": 110471,
       "name": "Foreign Shit",
       "url": "https://open.spotify.com/track/6ARRF0o0moDLS7coAp2xDS"
+    },
+    {
+      "album": {
+        "name": "Forever (71943509)",
+        "url": "https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188967,
+      "name": "Forever (71943509)",
+      "url": "https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz"
     },
     {
       "album": {
@@ -14315,6 +14399,24 @@
     },
     {
       "album": {
+        "name": "JAT",
+        "url": "https://open.spotify.com/album/7z4bsG5rL2zTJcsamh1c4r"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "JAT",
+      "url": "https://open.spotify.com/track/70P4w3bgH61ZSt4gGFd0r2"
+    },
+    {
+      "album": {
         "name": "Jenn Jenn Jenn",
         "url": "https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg"
       },
@@ -14656,6 +14758,32 @@
       "duration_ms": 129473,
       "name": "July The Fourth",
       "url": "https://open.spotify.com/track/5L2yLS4c0rEAVu2sQouz7t"
+    },
+    {
+      "album": {
+        "name": "Pinball II",
+        "url": "https://open.spotify.com/album/7H4y33iaBpDJ5QqlCULlMR"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Tony Seltzer",
+          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166105,
+      "name": "Jumanji - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/0gHXr4WqGY8VK1sNApTbpH"
     },
     {
       "album": {
@@ -15828,7 +15956,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 129519,
       "name": "Letter To My Fans",
       "url": "https://open.spotify.com/track/5blFLGxv7UjgAUmgkzEhw5"
@@ -18502,7 +18630,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 99230,
       "name": "My Aura",
       "url": "https://open.spotify.com/track/3ZVu7pcmsZAbjWSFBmrjat"
@@ -19016,7 +19144,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 144217,
       "name": "Never Switch",
       "url": "https://open.spotify.com/track/6DKgI4qytnMm2S67ONLUvT"
@@ -19834,6 +19962,32 @@
       "duration_ms": 182487,
       "name": "Non Judgmental",
       "url": "https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB"
+    },
+    {
+      "album": {
+        "name": "Norbit",
+        "url": "https://open.spotify.com/album/4q2WD6bxDAh5YfeXUWUCSO"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "The Hics",
+          "url": "https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194072,
+      "name": "Norbit",
+      "url": "https://open.spotify.com/track/20NVTKQQ5CBmHG4l2MzmQU"
     },
     {
       "album": {
@@ -21854,7 +22008,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 141176,
       "name": "PMR (feat. A Boogie Wit da Hoodie) - Instrumental",
       "url": "https://open.spotify.com/track/3tK5QLBLF4D1gVohPuasee"
@@ -24671,6 +24825,24 @@
     },
     {
       "album": {
+        "name": "See It Different",
+        "url": "https://open.spotify.com/album/4PKCRM75MUrzOHrHKAJOEe"
+      },
+      "artists": [
+        {
+          "name": "Baby Osamaa",
+          "url": "https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "See It Different",
+      "url": "https://open.spotify.com/track/2uuHRb2O0L48dmXTyXqNjw"
+    },
+    {
+      "album": {
         "name": "See My Face",
         "url": "https://open.spotify.com/album/4v38RH4ZJRjOACF0yc2z2q"
       },
@@ -25812,6 +25984,24 @@
       "duration_ms": 130332,
       "name": "Sofine",
       "url": "https://open.spotify.com/track/0G7OaE3Vngi5DoTOywlgqo"
+    },
+    {
+      "album": {
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/55vTWKWqRLNYoJoEzDEU2h"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101408,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/4oSo1Wtu73wqf8YxerTiV4"
     },
     {
       "album": {

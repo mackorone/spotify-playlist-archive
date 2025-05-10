@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 488961,
       "name": "Evaporator",
       "url": "https://open.spotify.com/track/7GMPPM6VMzfXhbotpjxw9E"
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 226725,
       "name": "Funeral March",
       "url": "https://open.spotify.com/track/3IpfRVjJIAZtqrCbE8Y1jx"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 220907,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5UYEN39zu5bJaZ8PT7tdlh"
@@ -3713,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "Paper Skull",
+        "url": "https://open.spotify.com/album/6TokQ8DfFUM3ssS5XqOTwa"
+      },
+      "artists": [
+        {
+          "name": "Esoterica",
+          "url": "https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "Paper Skull",
+      "url": "https://open.spotify.com/track/0T3X9IDWeEvDVn7P0xKyNn"
+    },
+    {
+      "album": {
         "name": "Friend Of A Phantom",
         "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
       },
@@ -4034,7 +4052,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 143546,
       "name": "Relentless Fury - Live",
       "url": "https://open.spotify.com/track/5rToFh3U7wWGsuGH9PQWuF"
@@ -4464,6 +4482,24 @@
       "duration_ms": 271533,
       "name": "Seen Better Days",
       "url": "https://open.spotify.com/track/7u83aHzPZsgo7NCPbJdERM"
+    },
+    {
+      "album": {
+        "name": "Liveforms: An Evening With Haken (Live in London 2024)",
+        "url": "https://open.spotify.com/album/0eE2ZynDLL8R55NWXNm1TG"
+      },
+      "artists": [
+        {
+          "name": "Haken",
+          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507693,
+      "name": "Sempiternal Beings - Live in London 2024",
+      "url": "https://open.spotify.com/track/4XqKhTrkh84VgEO9tfBo4z"
     },
     {
       "album": {
@@ -5067,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "Stormlight",
+        "url": "https://open.spotify.com/album/4G0DPW7bYihd8zd282rld3"
+      },
+      "artists": [
+        {
+          "name": "Algal",
+          "url": "https://open.spotify.com/artist/6AU6DQHPVlHvPh175WIXHa"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212210,
+      "name": "Stormlight",
+      "url": "https://open.spotify.com/track/1b9UV6eQlb32Fb4RFCrt5i"
+    },
+    {
+      "album": {
         "name": "Street Midnight Vibe",
         "url": "https://open.spotify.com/album/4I6OOYFlNUroBb3rAZxaPG"
       },
@@ -5194,6 +5248,24 @@
       "duration_ms": 607680,
       "name": "Tannh\u00e4user / Derive",
       "url": "https://open.spotify.com/track/0gURBZfus0Bt9YV2Q5RtYg"
+    },
+    {
+      "album": {
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM"
+      },
+      "artists": [
+        {
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250397,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc"
     },
     {
       "album": {
@@ -5522,6 +5594,24 @@
       "duration_ms": 330862,
       "name": "The Kiss And The Lie",
       "url": "https://open.spotify.com/track/5V7zj2rKl3K4JZeuhZin62"
+    },
+    {
+      "album": {
+        "name": "The Lamb Lies Down on Broadway (Live in London 2024)",
+        "url": "https://open.spotify.com/album/5qOYPawjMes16QS1aHwsZN"
+      },
+      "artists": [
+        {
+          "name": "Steve Hackett",
+          "url": "https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318241,
+      "name": "The Lamb Lies Down on Broadway - Live in London 2024",
+      "url": "https://open.spotify.com/track/7eEpNgoVqzuNl8JsMQcyhd"
     },
     {
       "album": {
@@ -5940,7 +6030,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 273750,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/7KBaLm8c7yiPTkVCLbYHAN"

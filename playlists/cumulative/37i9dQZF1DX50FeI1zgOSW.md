@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-524 songs - 1 day 6 hr 0 min
+525 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Thathalithen](https://open.spotify.com/track/0tR9ONL0jexF09Z8FEAnc1) | [Sharath Narayan](https://open.spotify.com/artist/4U29BtbckXtWM7m9goeIKb), [Jay Unnithan](https://open.spotify.com/artist/0CS2KzsuCXswXNnu7Up7b9), [Prabhu Muraleedharan](https://open.spotify.com/artist/1uzU8IyXE0m8m14Tf0m3Xd) | [Thathalithen](https://open.spotify.com/album/4JFFrzrrUZs5ez9ZSo4ae8) | 4:17 | 2023-04-26 | 2023-07-25 |
 | [Thavi Thavikudhu](https://open.spotify.com/track/6OgUmT7FKBscC9b0fSpOYS) | [Adityan](https://open.spotify.com/artist/3oE6w5AkzIXRIR860NKYjc) | [Thavi Thavikudhu](https://open.spotify.com/album/6bGtp2etuNLu7xxcGvJN4g) | 3:37 | 2024-03-22 | 2024-06-15 |
 | [The Gym](https://open.spotify.com/track/4JqF7JsvHJsYp9YpxiJnhe) | [Hustler Bhai](https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH), [Azim Ousman](https://open.spotify.com/artist/6Yu7WrUqltHbkBXZekd58r), [J Mic](https://open.spotify.com/artist/5uCiefzBc4ZLTVr0x1J1nj) | [The Gym](https://open.spotify.com/album/2ie6Opxa86GV3gXjONECb6) | 6:16 | 2023-09-26 | 2024-02-23 |
+| [The Last Light](https://open.spotify.com/track/1FR72yGnPnKwyV1QdKJPDm) | [Simeon Telfer](https://open.spotify.com/artist/4vkn9dybP20UlSOEXxO0ak), [Roja Aditya](https://open.spotify.com/artist/6g551keqGM5TQ6KOrvfSNQ) | [The Last Light](https://open.spotify.com/album/0nS93d4a3vB4Sn2klAP5Jt) | 2:38 | 2025-05-09 |  |
 | [The Olu Song \- From "Think Uncut"](https://open.spotify.com/track/7eetxPcFZh36XQq4s00Mz5) | [Sivakumar](https://open.spotify.com/artist/02ZswAWCbZKdJrVp4GlFOU), [Sultan](https://open.spotify.com/artist/6CxPhwJegxh1fe2reQVgGD), [VishnuRam](https://open.spotify.com/artist/6nn1eFpW3VbPzdolibrVrW), [G Rajeshkumar](https://open.spotify.com/artist/4xj6ketxsODe1TDGzXgz3l), [Gaanaa Kamaraj](https://open.spotify.com/artist/0XyxErk3DPnFvyUS5fSlin) | [The Olu Song \(From "Think Uncut"\)](https://open.spotify.com/album/6LMa1yPl2nNwsVOLjjOgTh) | 2:55 | 2023-04-05 | 2023-07-28 |
 | [The Woahhh Song](https://open.spotify.com/track/5ns1dASf7sRmTAPeMluUfi) | [Jaison Siva](https://open.spotify.com/artist/20en5q74NI07Cj4nqYcREN) | [The Woahhh Song](https://open.spotify.com/album/6kz9WebGEgaqWSCjQ76y18) | 3:12 | 2024-09-13 | 2024-12-26 |
 | [Thean Aruvi](https://open.spotify.com/track/6ImKfKnGadzcmOrgoYNy9u) | [Vishakh Chandran](https://open.spotify.com/artist/66xZT319U6s2rmmu8rq6YL) | [Thean Aruvi](https://open.spotify.com/album/7rnC5gYOoFWddvbE99fmat) | 3:52 | 2025-04-25 |  |

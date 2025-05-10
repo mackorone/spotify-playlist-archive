@@ -7866,10 +7866,6 @@
         {
           "name": "Amy Lee",
           "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
-        },
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
       "date_added": "2025-05-08",
@@ -10923,7 +10919,7 @@
         },
         {
           "name": "Omega",
-          "url": "https://open.spotify.com/artist/3Z4jeEBYUlHXekcVKrvUj5"
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
         }
       ],
       "date_added": "2025-05-08",
@@ -21091,6 +21087,24 @@
     },
     {
       "album": {
+        "name": "Zindan",
+        "url": "https://open.spotify.com/album/5OWTdNmB4bnkrTLTBdjmyK"
+      },
+      "artists": [
+        {
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Zindan",
+      "url": "https://open.spotify.com/track/3nOJJtgLmXvcIDzPlVIQG6"
+    },
+    {
+      "album": {
         "name": "Hayalini Saklad\u0131m",
         "url": "https://open.spotify.com/album/3YfAKdppPqMMIJ4Quw8dr0"
       },
@@ -21211,7 +21225,7 @@
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 144466,
+      "duration_ms": 146796,
       "name": "\u00c7at \u00c7at",
       "url": "https://open.spotify.com/track/2Ul0guYYOHFFrmd7siSGS2"
     },

@@ -2,9 +2,9 @@
 
 ### [i <3 pop ](https://open.spotify.com/playlist/37i9dQZF1DX10Mbn4IUmhR)
 
-> All the South African and global pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ?si=S9sCgCTuTGOU7DAxIpB\_CQ"> SazbyTwins</a>
+> All the South African and global pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ?si=S9sCgCTuTGOU7DAxIpB\_CQ"> SaxbyTwins</a>
 
-421 songs - 22 hr 42 min
+422 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Supernova](https://open.spotify.com/track/5z3YBZcuyanjpRV13CEqXQ) | [Graai](https://open.spotify.com/artist/0qkuOfYRKoB2aJxB70serm) | [Supernova](https://open.spotify.com/album/7w8V1YCpHaKCWV8ZWp1iBn) | 3:28 | 2025-04-04 | 2025-04-18 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2025-02-27 | 2025-03-28 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 | 2025-03-11 | 2025-03-14 |
+| [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 | 2025-05-08 |  |
 | [Take Me to Church](https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:01 | 2025-04-24 |  |
 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-01 | 2025-05-09 |
 | [Talk About It](https://open.spotify.com/track/2PhoSaWFwjTBLutzVTHG9G) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Bedazzled, Pt\. 2](https://open.spotify.com/album/5ovXeIEDlidbFeO2k7jf5k) | 2:24 | 2024-09-12 | 2024-10-11 |
@@ -389,7 +390,7 @@
 | [U & Me](https://open.spotify.com/track/0KwD3YFqizHG8uhCKOVXXM) | [Tom Mitchell](https://open.spotify.com/artist/0QZSfJjzE6XM7qdpOuz6kM) | [U & Me](https://open.spotify.com/album/32HOMsl6VaLSehGmHNlJMr) | 3:15 | 2024-11-21 | 2025-03-21 |
 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-11-28 | 2025-01-24 |
 | [UNDERCOVER](https://open.spotify.com/track/4EvbMQMievM4jmeBpWEUvZ) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [UNDERCOVER](https://open.spotify.com/album/3T6iKrglvo69iLvTvfx66j) | 3:29 | 2024-07-25 | 2024-08-10 |
-| [Vicious](https://open.spotify.com/track/2iYd12EeJxCs9Oxqk7UlHo) | [Tokyo Project](https://open.spotify.com/artist/6b6w8DXrLFEPxnG4kTqUnT), [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Vicious](https://open.spotify.com/album/3QP3Thp7juEUMEDAKsH1Dt) | 2:37 | 2025-04-17 |  |
+| [Vicious](https://open.spotify.com/track/2iYd12EeJxCs9Oxqk7UlHo) | [Tokyo Project](https://open.spotify.com/artist/6b6w8DXrLFEPxnG4kTqUnT), [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Vicious](https://open.spotify.com/album/3QP3Thp7juEUMEDAKsH1Dt) | 2:37 | 2025-04-17 | 2025-05-10 |
 | [Voodoo Doll](https://open.spotify.com/track/4o1nG9It5PNu8S2rV8xjsT) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Voodoo Doll](https://open.spotify.com/album/36YSVWHHTwuoBaejDH7v1z) | 2:07 | 2024-11-07 | 2024-11-16 |
 | [Wake Up \(It's Morning\)](https://open.spotify.com/track/0bEOwrj5k5fcYqMBC5bqFn) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Wake Up \(It's Morning\)](https://open.spotify.com/album/1GbksMazCofzc3K50jPO9k) | 2:58 | 2024-11-28 | 2025-02-21 |
 | [Want Me](https://open.spotify.com/track/7wI19ThH9yf95MOHcCG6U5) | [We Could Be Related](https://open.spotify.com/artist/2XcXphEXYMEkjQunAA2tnc), [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [Want Me](https://open.spotify.com/album/6QBVU9jJXNX69LyvYpXzPi) | 3:26 | 2025-04-24 |  |

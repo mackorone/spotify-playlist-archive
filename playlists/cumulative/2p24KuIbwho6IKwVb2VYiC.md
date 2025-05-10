@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: Sammy Virji
 
-308 songs - 16 hr 6 min
+311 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Going Out To The Ravers \(feat\. Everyone You Know\)](https://open.spotify.com/track/2VMGrvCgpiTVwnyuIsU9fm) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [London Sound](https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY) | 3:09 | 2024-01-26 | 2025-02-05 |
 | [Good Good \- Jax Jones Midnight Snacks Remix](https://open.spotify.com/track/4oSVlwgWFNpWTnVaFPCljH) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good \(Jax Jones Midnight Snacks Remix\)](https://open.spotify.com/album/0C03t4KKEkZg47CNNhs5HB) | 3:14 | 2023-11-24 | 2025-02-01 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-10-27 | 2025-02-01 |
+| [Good Shit](https://open.spotify.com/track/3bGZFJeoFhM4jxqNtz4dnH) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Good Shit](https://open.spotify.com/album/5mhmFB2CSeF2QvBBFU9yNM) | 3:43 | 2025-05-09 |  |
 | [Got Me Started \- Bag Raiders Remix](https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Got Me Started \(Bag Raiders Remix\)](https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX) | 3:41 | 2024-03-22 |  |
 | [Got Stuff](https://open.spotify.com/track/3gZnaB3hCCUPPAP4IBvrqn) | [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34) | [Got Stuff](https://open.spotify.com/album/6KcG8miMJiBX7PEMBgLEfw) | 2:57 | 2024-08-13 |  |
 | [Grin](https://open.spotify.com/track/7fk3UZ2gNePMdfHvXAgehG) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE](https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9) | 2:50 | 2024-12-10 |  |
@@ -278,6 +279,7 @@
 | [Tearing Up My Heart \(feat\. Sofia Quinn\)](https://open.spotify.com/track/7sHvEINPFk8n45mMFl7cR7) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Tearing Up My Heart \(feat\. Sofia Quinn\)](https://open.spotify.com/album/2H3ydFTmEuRxYfDjGZVHh0) | 2:32 | 2023-10-27 | 2024-02-27 |
 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 | 2024-07-12 | 2025-01-22 |
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-19 |  |
+| [Telepathy](https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA) | [Telepathy](https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np) | 3:44 | 2025-05-09 |  |
 | [TENTEN](https://open.spotify.com/track/6njivaRY1zUaaEZGf22unI) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe) | [TENTEN](https://open.spotify.com/album/5X7s4cPiT5e5QjvsEUp76Q) | 3:29 | 2025-04-11 |  |
 | [The Box](https://open.spotify.com/track/0iWXA5HTkEVfIhOUS9dMUI) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [The Box](https://open.spotify.com/album/3eTsXqycvOk2j4STUhDJ2A) | 3:41 | 2024-06-14 | 2025-01-22 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2024-12-06 |  |
@@ -315,6 +317,7 @@
 | [You Can Have It](https://open.spotify.com/track/1fx1ptytiaRIdnGLt6feeQ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Victor Flash](https://open.spotify.com/artist/1IEF03NP5cb0XuOBpfxZXg) | [You Can Have It](https://open.spotify.com/album/1oYqMHHBkuar0ScgiJiPmQ) | 3:52 | 2023-12-19 | 2024-01-20 |
 | [You Don't Even Know Me](https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [You Don’t Even Know Me](https://open.spotify.com/album/1YSZG8X5xJNi3KL9pxgghn) | 2:31 | 2023-11-17 | 2024-09-25 |
 | [You Know It](https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [You Know It](https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY) | 3:55 | 2024-03-01 | 2024-09-25 |
+| [Your Loving](https://open.spotify.com/track/1HuDcH1KECyj1aCHub4D4G) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Your Loving](https://open.spotify.com/album/3D2oyrCFxJyoKpBhlyueHK) | 3:24 | 2025-05-09 |  |
 | [Zig Zag](https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Zig Zag](https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z) | 4:14 | 2024-03-29 | 2024-09-25 |
 
 \*This playlist was first scraped on 2023-11-08. Prior content cannot be recovered.

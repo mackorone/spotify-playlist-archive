@@ -375,6 +375,32 @@
     },
     {
       "album": {
+        "name": "Air (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160021,
+      "name": "Air (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh"
       },
@@ -8616,7 +8642,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 210000,
       "name": "Lie",
       "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
@@ -11026,10 +11052,36 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 208695,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0RGZiQiPG2VHzEJ0fs7b7I"
+    },
+    {
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/6w6CCu67mut6Kn8UVfKWHo"
+      },
+      "artists": [
+        {
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+        },
+        {
+          "name": "N3WPORT",
+          "url": "https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252387,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1yzJPwHYOiYmxLsFiegKou"
     },
     {
       "album": {
@@ -11184,7 +11236,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 200000,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/5fSCgdPiucneXsFbGfmvax"
@@ -15558,6 +15610,32 @@
       "duration_ms": 262702,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
+    },
+    {
+      "album": {
+        "name": "Waiting On This Day Forever",
+        "url": "https://open.spotify.com/album/0prOosQFge1HKryicdbaZ1"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Siberia",
+          "url": "https://open.spotify.com/artist/5AezLZZAw28r0FhLbbL1b2"
+        },
+        {
+          "name": "Freja The Dragon",
+          "url": "https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212625,
+      "name": "Waiting On This Day Forever",
+      "url": "https://open.spotify.com/track/0C1NSDqt7Vr6OxfoiBprOS"
     },
     {
       "album": {

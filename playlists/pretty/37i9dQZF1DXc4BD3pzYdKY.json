@@ -1,13 +1,341 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  Lecrae & Miles Minnick",
-  "num_followers": 181670,
+  "num_followers": 181813,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9ZXQAAAADfVHNi12hOT2f4GS0OUAzY",
+  "snapshot_id": "aB19xgAAAAB+FBCkp7blocotvAWdGglA",
   "tracks": [
+    {
+      "added_at": "2025-03-24 19:06:57",
+      "album": {
+        "name": "Heaven Sent",
+        "url": "https://open.spotify.com/album/58Nvt6xXv8XCuIqRWNTumw"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 125467,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/3oRjAEpFOlbXltuQklNVhE"
+    },
+    {
+      "added_at": "2025-02-28 05:35:29",
+      "album": {
+        "name": "DROP!",
+        "url": "https://open.spotify.com/album/2sTP4Wk2ctDugKJ6SPnv8p"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 234271,
+      "name": "DROP!",
+      "url": "https://open.spotify.com/track/4MgpHcDBkz2k84ao1BrBHK"
+    },
+    {
+      "added_at": "2025-02-28 05:35:29",
+      "album": {
+        "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
+        "url": "https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "One Church Music",
+          "url": "https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa"
+        }
+      ],
+      "duration_ms": 171822,
+      "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
+      "url": "https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "RAIN ON ME",
+        "url": "https://open.spotify.com/album/2Hi63v931OtIxnPAxXUXOJ"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        }
+      ],
+      "duration_ms": 132666,
+      "name": "RAIN ON ME",
+      "url": "https://open.spotify.com/track/2MYo9BI8aO2884Y0GrgLj3"
+    },
+    {
+      "added_at": "2025-03-24 19:06:57",
+      "album": {
+        "name": "JERICHO WALLS",
+        "url": "https://open.spotify.com/album/3Tco6lGqiHmttFOd9z5pkb"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "JERICHO WALLS",
+      "url": "https://open.spotify.com/track/2lboNYBNF71Ju153GaMrez"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/2CcUmK9yjStElQjVffDX6s"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/57Il3OuTJdiF42Qwz1A17n"
+    },
+    {
+      "added_at": "2025-02-28 05:35:29",
+      "album": {
+        "name": "Working it out",
+        "url": "https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp"
+      },
+      "artists": [
+        {
+          "name": "Josh Lecroy",
+          "url": "https://open.spotify.com/artist/11QQiwcAtTaRXWDlLKesdy"
+        },
+        {
+          "name": "Hannah Barr",
+          "url": "https://open.spotify.com/artist/5YXeLDR70GQsT07VLgawty"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Working it out",
+      "url": "https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "SAME OLE",
+        "url": "https://open.spotify.com/album/4OKDfYTUQ8J4t0Be5miCYN"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "duration_ms": 149687,
+      "name": "SAME OLE",
+      "url": "https://open.spotify.com/track/7c8nwCUzXQ6qjN6NZtDqwi"
+    },
+    {
+      "added_at": "2025-02-28 05:35:29",
+      "album": {
+        "name": "Matthew 18:20",
+        "url": "https://open.spotify.com/album/2axk8Nh8qkD8cj7gx6vGgh"
+      },
+      "artists": [
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        },
+        {
+          "name": "De La Cruz",
+          "url": "https://open.spotify.com/artist/6U4TcvAHuizFqLcWXiMkRD"
+        }
+      ],
+      "duration_ms": 168046,
+      "name": "Matthew 18:20",
+      "url": "https://open.spotify.com/track/2CQNa8WplamGGPnMpSlFt6"
+    },
+    {
+      "added_at": "2025-02-28 05:35:29",
+      "album": {
+        "name": "Let Go Let God: The EP",
+        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 185441,
+      "name": "Let Go Let God (The Anthem)",
+      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "NEVER GOING BACK",
+        "url": "https://open.spotify.com/album/2j5Kbe1G5jQUcEMAhmytq9"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Kato On The Track",
+          "url": "https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 152014,
+      "name": "NEVER GOING BACK",
+      "url": "https://open.spotify.com/track/7cBufOFCMzMgOJ0YdZRpWz"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "FINALLY FOUND",
+        "url": "https://open.spotify.com/album/5D94S9LbsNWZaRcPAv3GWu"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "FINALLY FOUND",
+      "url": "https://open.spotify.com/track/3FDEJe5uXFPw2flARVH0f8"
+    },
+    {
+      "added_at": "2025-03-24 19:06:57",
+      "album": {
+        "name": "ROB HELL",
+        "url": "https://open.spotify.com/album/36m7D5xlqA3w3rp0Xaf1N1"
+      },
+      "artists": [
+        {
+          "name": "indie tribe",
+          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 151173,
+      "name": "ROB HELL",
+      "url": "https://open.spotify.com/track/6868cDsJrSGPyYnO8HPxHZ"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "TYTANIUM 2",
+        "url": "https://open.spotify.com/album/1AeJyskKeWh1m7R2noeNNi"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "2010",
+      "url": "https://open.spotify.com/track/3qpxke8vQQEfpN3ahn5COP"
+    },
+    {
+      "added_at": "2025-02-28 05:35:29",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/0omB6BRNkl9RtKJ7zoNd2E"
+      },
+      "artists": [
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/2MAnU3hCcVavku3qHz5v42"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Flee",
+        "url": "https://open.spotify.com/album/1GQbRDrhjXxMzZZbMUA0ku"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        },
+        {
+          "name": "Chikk",
+          "url": "https://open.spotify.com/artist/5bxdDL1QwU3h3uNeVwMm6e"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Flee",
+      "url": "https://open.spotify.com/track/1VsQx3TLsMcM7JLqKGDtz5"
+    },
     {
       "added_at": "2025-02-28 05:35:29",
       "album": {
@@ -25,24 +353,20 @@
       "url": "https://open.spotify.com/track/30Udhv44t5BlPfLUOyhXfM"
     },
     {
-      "added_at": "2025-04-04 04:00:29",
+      "added_at": "2025-05-09 04:00:06",
       "album": {
-        "name": "2 Major",
-        "url": "https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/07PI7hrmzdA171tWRjFR9s"
       },
       "artists": [
         {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
         }
       ],
-      "duration_ms": 138857,
-      "name": "2 Major",
-      "url": "https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h"
+      "duration_ms": 206253,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/7aDV85RL1ult3MtsDi1GJp"
     },
     {
       "added_at": "2025-04-04 04:00:29",
@@ -101,28 +425,24 @@
       "url": "https://open.spotify.com/track/1aAmyrXohPQ6O7w5a5VWMF"
     },
     {
-      "added_at": "2025-02-28 05:35:29",
+      "added_at": "2025-05-09 04:00:06",
       "album": {
-        "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
-        "url": "https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp"
+        "name": "ROUND 2",
+        "url": "https://open.spotify.com/album/0DEsUWBxPHkFcwhRlP9pbi"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
         },
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "One Church Music",
-          "url": "https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa"
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
         }
       ],
-      "duration_ms": 171822,
-      "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
-      "url": "https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a"
+      "duration_ms": 125034,
+      "name": "ROUND 2",
+      "url": "https://open.spotify.com/track/032qPateb3DArj71mpam2a"
     },
     {
       "added_at": "2025-04-04 04:00:29",
@@ -141,48 +461,20 @@
       "url": "https://open.spotify.com/track/2ZoARkXKcwQiWtzxBGIdIt"
     },
     {
-      "added_at": "2025-02-28 05:35:29",
+      "added_at": "2025-05-09 04:00:06",
       "album": {
-        "name": "DROP!",
-        "url": "https://open.spotify.com/album/2sTP4Wk2ctDugKJ6SPnv8p"
+        "name": "City on His Back",
+        "url": "https://open.spotify.com/album/4S9IdV7Lua5EHkNZ2zlGH5"
       },
       "artists": [
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
         }
       ],
-      "duration_ms": 234271,
-      "name": "DROP!",
-      "url": "https://open.spotify.com/track/4MgpHcDBkz2k84ao1BrBHK"
-    },
-    {
-      "added_at": "2025-03-24 19:06:57",
-      "album": {
-        "name": "ROB HELL",
-        "url": "https://open.spotify.com/album/36m7D5xlqA3w3rp0Xaf1N1"
-      },
-      "artists": [
-        {
-          "name": "indie tribe",
-          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        },
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 151173,
-      "name": "ROB HELL",
-      "url": "https://open.spotify.com/track/6868cDsJrSGPyYnO8HPxHZ"
+      "duration_ms": 203570,
+      "name": "City on His Back",
+      "url": "https://open.spotify.com/track/6AlQ5HtGrPQO7M20pTtsf5"
     },
     {
       "added_at": "2025-04-04 04:00:29",
@@ -253,48 +545,20 @@
       "url": "https://open.spotify.com/track/3KfzwglHt2AS1UB9bZgagk"
     },
     {
-      "added_at": "2025-02-28 05:35:29",
+      "added_at": "2025-05-09 04:00:06",
       "album": {
-        "name": "Matthew 18:20",
-        "url": "https://open.spotify.com/album/2axk8Nh8qkD8cj7gx6vGgh"
+        "name": "TALK SPICY",
+        "url": "https://open.spotify.com/album/3EJphzwiHE5sC4GFSLHntd"
       },
       "artists": [
         {
-          "name": "Alex Jean",
-          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
-        },
-        {
-          "name": "De La Cruz",
-          "url": "https://open.spotify.com/artist/6U4TcvAHuizFqLcWXiMkRD"
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
         }
       ],
-      "duration_ms": 168046,
-      "name": "Matthew 18:20",
-      "url": "https://open.spotify.com/track/2CQNa8WplamGGPnMpSlFt6"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "Let Go Let God: The EP",
-        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 185441,
-      "name": "Let Go Let God (The Anthem)",
-      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
+      "duration_ms": 112822,
+      "name": "TALK SPICY",
+      "url": "https://open.spotify.com/track/2nuQeMvwn2uiiCm3w5vCzB"
     },
     {
       "added_at": "2025-04-04 04:00:29",
@@ -317,26 +581,6 @@
       "url": "https://open.spotify.com/track/2c299IzzVhir4EsPswCJyz"
     },
     {
-      "added_at": "2025-03-24 19:06:57",
-      "album": {
-        "name": "Heaven Sent",
-        "url": "https://open.spotify.com/album/58Nvt6xXv8XCuIqRWNTumw"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 125467,
-      "name": "Heaven Sent",
-      "url": "https://open.spotify.com/track/3oRjAEpFOlbXltuQklNVhE"
-    },
-    {
       "added_at": "2025-02-28 05:35:29",
       "album": {
         "name": "WAIT",
@@ -351,6 +595,58 @@
       "duration_ms": 146800,
       "name": "WAIT",
       "url": "https://open.spotify.com/track/7LK9vvJFIDtDxAKawKTQV9"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Aretha",
+        "url": "https://open.spotify.com/album/7JXd9Aqk4jPIX6wgIZVuYd"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 135405,
+      "name": "Aretha",
+      "url": "https://open.spotify.com/track/0Clatxwq8QuhcTTRQgxS7z"
+    },
+    {
+      "added_at": "2025-04-04 04:00:29",
+      "album": {
+        "name": "2 Major",
+        "url": "https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "2 Major",
+      "url": "https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "take the wheel",
+        "url": "https://open.spotify.com/album/7sWUex3pzMhcKIvx5Kx3Ig"
+      },
+      "artists": [
+        {
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
+        }
+      ],
+      "duration_ms": 137150,
+      "name": "take the wheel",
+      "url": "https://open.spotify.com/track/2H6Xw9IKbZirY1camQHot3"
     },
     {
       "added_at": "2025-03-24 19:06:57",
@@ -457,26 +753,6 @@
       "url": "https://open.spotify.com/track/1B6WFAp0o3NS07Tf4a1qC1"
     },
     {
-      "added_at": "2025-03-24 19:06:57",
-      "album": {
-        "name": "JERICHO WALLS",
-        "url": "https://open.spotify.com/album/3Tco6lGqiHmttFOd9z5pkb"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        },
-        {
-          "name": "Dell Mac",
-          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "JERICHO WALLS",
-      "url": "https://open.spotify.com/track/2lboNYBNF71Ju153GaMrez"
-    },
-    {
       "added_at": "2025-02-28 05:35:29",
       "album": {
         "name": "Who Is Y'all",
@@ -547,6 +823,26 @@
       "duration_ms": 125915,
       "name": "Joy In Chaos",
       "url": "https://open.spotify.com/track/3pHJFnVrlqbn1li6mLEnQg"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "My Enemies",
+        "url": "https://open.spotify.com/album/6omnvGQhlFfXHc07X5jbHx"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        },
+        {
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        }
+      ],
+      "duration_ms": 179696,
+      "name": "My Enemies",
+      "url": "https://open.spotify.com/track/6QUjDyRtxbX4e5X87hDuHh"
     },
     {
       "added_at": "2025-02-28 05:35:29",
@@ -723,26 +1019,6 @@
     {
       "added_at": "2025-02-28 05:35:29",
       "album": {
-        "name": "Working it out",
-        "url": "https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp"
-      },
-      "artists": [
-        {
-          "name": "Josh Lecroy",
-          "url": "https://open.spotify.com/artist/11QQiwcAtTaRXWDlLKesdy"
-        },
-        {
-          "name": "Hannah Barr",
-          "url": "https://open.spotify.com/artist/5YXeLDR70GQsT07VLgawty"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Working it out",
-      "url": "https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
         "name": "SET Sail",
         "url": "https://open.spotify.com/album/1UuVfMjQUk9quzZr0hx97U"
       },
@@ -791,22 +1067,6 @@
       "duration_ms": 157857,
       "name": "I.S.W.I.S",
       "url": "https://open.spotify.com/track/3YhFGcDcV2hInkTLaAyVRQ"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/0omB6BRNkl9RtKJ7zoNd2E"
-      },
-      "artists": [
-        {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/2MAnU3hCcVavku3qHz5v42"
     },
     {
       "added_at": "2025-02-28 05:35:29",
@@ -1263,26 +1523,6 @@
     {
       "added_at": "2025-02-28 05:35:29",
       "album": {
-        "name": "Come And See.",
-        "url": "https://open.spotify.com/album/0SGCpIvbLDlmbFgwd1ov52"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 225252,
-      "name": "REPENT",
-      "url": "https://open.spotify.com/track/77epkfBkOgrCHPlxjoHr5m"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
         "name": "Gotta Tell Somebody",
         "url": "https://open.spotify.com/album/7oQcqGM0utW9oIy4uEJNt9"
       },
@@ -1483,26 +1723,6 @@
     {
       "added_at": "2025-02-28 05:35:29",
       "album": {
-        "name": "Amazing",
-        "url": "https://open.spotify.com/album/0aXpeLU03p6F9X1L6k7FVU"
-      },
-      "artists": [
-        {
-          "name": "Nashbi",
-          "url": "https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ"
-        },
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 186620,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/4mPdrJA4h0txHWUYQqozw7"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
         "name": "SO GOOD",
         "url": "https://open.spotify.com/album/5XgpszQ9iZhrVjOei0TsfH"
       },
@@ -1567,22 +1787,6 @@
     {
       "added_at": "2025-02-28 05:35:29",
       "album": {
-        "name": "Shake Loose",
-        "url": "https://open.spotify.com/album/44juT4W9Z6lDhYhyZ1Sv37"
-      },
-      "artists": [
-        {
-          "name": "LANELL GRANT",
-          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "Shake Loose",
-      "url": "https://open.spotify.com/track/6AzDlMZFOyEGwePlK8VYIL"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
         "name": "TELL YOU TWICE",
         "url": "https://open.spotify.com/album/5I7UmNw5YDux5QDnsyDIV8"
       },
@@ -1603,54 +1807,6 @@
     {
       "added_at": "2025-02-28 05:35:29",
       "album": {
-        "name": "Drop It",
-        "url": "https://open.spotify.com/album/4FrbZnllU4wYKY0W7w8RbY"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "CJ Emulous",
-          "url": "https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ"
-        },
-        {
-          "name": "Tommy Zuko",
-          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Drop It",
-      "url": "https://open.spotify.com/track/2KmB83eDao5pjXlylVLdHB"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "Give Me My Heart Back",
-        "url": "https://open.spotify.com/album/5U1f0n73kyqYcwBFzxIm1h"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Tyron Hapi",
-          "url": "https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Give Me My Heart Back",
-      "url": "https://open.spotify.com/track/6PJGrQ6N75ZZe3LCHZDptr"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
         "name": "SINNER",
         "url": "https://open.spotify.com/album/6lZZQrx24HKZdmUatoRkjt"
       },
@@ -1663,46 +1819,6 @@
       "duration_ms": 209748,
       "name": "SINNER",
       "url": "https://open.spotify.com/track/2yrDu0686PDeoZ4XCky6o4"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "Big Man",
-        "url": "https://open.spotify.com/album/0AmUjPOJUFn5YqeNTby90H"
-      },
-      "artists": [
-        {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
-        },
-        {
-          "name": "Big Yeet",
-          "url": "https://open.spotify.com/artist/1gOj2mSVypJfiSULPlC7Sn"
-        }
-      ],
-      "duration_ms": 165608,
-      "name": "Big Man",
-      "url": "https://open.spotify.com/track/4urxRgbNQ0iAW41Gm2yK77"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "Long Time Coming",
-        "url": "https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        },
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 173322,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X"
     },
     {
       "added_at": "2025-02-28 05:35:29",
@@ -1739,102 +1855,6 @@
     {
       "added_at": "2025-02-28 05:35:29",
       "album": {
-        "name": "BOSSA NOVA",
-        "url": "https://open.spotify.com/album/5rAx6q2Bto6TWbeqKMGrEa"
-      },
-      "artists": [
-        {
-          "name": "Kham",
-          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
-        },
-        {
-          "name": "Jered Sanders",
-          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
-        },
-        {
-          "name": "PRXM",
-          "url": "https://open.spotify.com/artist/5PmDzSmHCK32VeRyMjAxoe"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 235778,
-      "name": "Bossa Nova - Remix",
-      "url": "https://open.spotify.com/track/2yCdn5yeRBAhVuoCvWyB7p"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "BODEGA 2!",
-        "url": "https://open.spotify.com/album/5gjFi7iEKKnSkI0kqKJGpO"
-      },
-      "artists": [
-        {
-          "name": "DJ Mykael V",
-          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
-        },
-        {
-          "name": "1995",
-          "url": "https://open.spotify.com/artist/5JbYUdjaOALZLyhYRI79K2"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "am.sunday",
-          "url": "https://open.spotify.com/artist/1a0L3rVz3uFSXGxKAw9dvY"
-        },
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        },
-        {
-          "name": "350",
-          "url": "https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "FVLL OF ROME",
-      "url": "https://open.spotify.com/track/2K7XbkWjPD7lYPti7d5UCn"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "Demon Killer University",
-        "url": "https://open.spotify.com/album/7g5DrycaS9OTbIIbIqyVk2"
-      },
-      "artists": [
-        {
-          "name": "DKG KIE",
-          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "CHRISTIAN DRILL IS BACK (CDIB)",
-      "url": "https://open.spotify.com/track/2BhTdNsmA9PbmRu8gOKV9Z"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "TYTANIUM",
-        "url": "https://open.spotify.com/album/5GzyQ9rNrn7UQ0vLHGGycc"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        }
-      ],
-      "duration_ms": 139780,
-      "name": "Chrome Hearted",
-      "url": "https://open.spotify.com/track/6HWo6qSG6D1qhvb7i9tzxQ"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
         "name": "Championship Ring",
         "url": "https://open.spotify.com/album/5fn91vH0P9WKykYME4U7Cf"
       },
@@ -1847,42 +1867,6 @@
       "duration_ms": 164796,
       "name": "Championship Ring",
       "url": "https://open.spotify.com/track/0jkPGZsE4JGyW4WOPOjsqp"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "I Love It (Remix)",
-        "url": "https://open.spotify.com/album/7kN2C7LKgWUav9K1OlLzR5"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "I Love It (Remix)",
-      "url": "https://open.spotify.com/track/4uItU1qpsYuWkWKPsHBHX4"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/2xjEf6jp9tKA6TNzSz4q6H"
-      },
-      "artists": [
-        {
-          "name": "Reece Lache\u2019",
-          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/1fU67BFt38BMKnk6y5xv0c"
     },
     {
       "added_at": "2025-02-28 05:35:29",
@@ -1919,22 +1903,6 @@
       "duration_ms": 137142,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/22qdtq7W3LxW6Lhvp7neCd"
-    },
-    {
-      "added_at": "2025-02-28 05:35:29",
-      "album": {
-        "name": "Lightchild",
-        "url": "https://open.spotify.com/album/6hAtXCrwWc4hBgXL9Ax5FQ"
-      },
-      "artists": [
-        {
-          "name": "Kieran the Light",
-          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/54hXDJQ2KX68JUBJN8T92x"
     }
   ],
   "unique_name": "The Flow",

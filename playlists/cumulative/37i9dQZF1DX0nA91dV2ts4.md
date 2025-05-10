@@ -4,7 +4,7 @@
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Leo
 
-142 songs - 9 hr 49 min
+143 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs) | 3:10 | 2023-07-06 |  |
 | [Kadharalz](https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Indian 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l) | 3:54 | 2024-06-24 |  |
 | [Kalasala Kalasala](https://open.spotify.com/track/2PcgMmmhIZA83kwIYEjR8f) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [L\. R\. Eswari](https://open.spotify.com/artist/4tGWdSKKqKmaVQogfAFnlx), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Solar Sai](https://open.spotify.com/artist/36IO5ItRvRUxC7RcJAv0Zh) | [Osthe \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yfStC7OGYcfFJzGmsyLpy) | 4:11 | 2021-06-21 |  |
+| [Kanimaa](https://open.spotify.com/track/6W252ttoT3h82w8xZrvWKO) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [The Indian Choral Ensemble](https://open.spotify.com/artist/4Rp2Fp4kllqWQWZLbEZgm3), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Retro \[TAMIL\]](https://open.spotify.com/album/5G6wOndtXdAygfFXSy1f7q) | 4:03 | 2025-05-09 |  |
 | [Kannitheevu Ponna](https://open.spotify.com/track/7qEHrdtSLnFdNOrRtLmN30) | [K](https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d), [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Yuddham Sei \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RgEBwheMHo03p9larEywp) | 4:34 | 2021-06-21 |  |
-| [Karuthavanlaam Galeejaam](https://open.spotify.com/track/22cCckQ9DR4E94QhtUzSW3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM) | 3:28 | 2021-06-21 |  |
+| [Karuthavanlaam Galeejaam](https://open.spotify.com/track/22cCckQ9DR4E94QhtUzSW3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM) | 3:28 | 2021-06-21 | 2025-05-10 |
 | [Kokkorakko](https://open.spotify.com/track/161BGczu2fn59QR7EYdjWB) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Gilli \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6quR1wqFlwSoCANhnfN9r9) | 4:34 | 2023-07-06 |  |
 | [Kokkorakko \(From "Gilli"\)](https://open.spotify.com/track/1qc8U5gYUHv0wAKJlf1tMG) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Singer Special Udit Narayan](https://open.spotify.com/album/49pkTxQ7Z9jvlPHFHUmvZ3) | 4:34 | 2023-07-06 | 2024-04-19 |
 | [Kuchi Mittai](https://open.spotify.com/track/57nldabnSPgRfGNFyddITw) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Aranmanai 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4c5FnCEdOWZrCEAvBQGcms) | 4:11 | 2021-06-21 | 2023-07-07 |

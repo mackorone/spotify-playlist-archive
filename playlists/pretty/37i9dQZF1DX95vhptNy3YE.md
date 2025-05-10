@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > KayBlack e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,738 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,694 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 44 | [Rotina 2](https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:07 |
 | 45 | [Febre \- Ao Vivo](https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Sorte \(Ao Vivo / EP02\)](https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU) | 3:02 |
 | 46 | [HINO DOS D](https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 5:24 |
-| 47 | [Pago Pra Ver / Supera / Telegrama \- Ao Vivo](https://open.spotify.com/track/2LvbPKkYXTL7IFOdGCqXbf) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 4:05 |
+| 47 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
 | 48 | [Dependente / Pirata e Tesouro / Fala \- Ao Vivo](https://open.spotify.com/track/4GJs1j7djCRBS7mns7T6ze) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD), [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Resenha das Minas 2, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7) | 4:57 |
-| 49 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
+| 49 | [Pago Pra Ver / Supera / Telegrama \- Ao Vivo](https://open.spotify.com/track/2LvbPKkYXTL7IFOdGCqXbf) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 4:05 |
 | 50 | [Vivências](https://open.spotify.com/track/1y0Rdm4A2E0F8rgMv3GsZd) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [D Santana](https://open.spotify.com/artist/6jTAbPlEnP8A2CG5LX3q2m), [Trxntin](https://open.spotify.com/artist/0fTGSnfNzshCCWK6tFnsbW), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Pool Party \- Vivências](https://open.spotify.com/album/56nX0RDYQFsBxNBmqeY7rY) | 2:52 |
 
 Snapshot ID: `aBQ1fgAAAAA+TXNzz5fH9gONO/SC4xWz`

@@ -5887,6 +5887,24 @@
     },
     {
       "album": {
+        "name": "Lo Rompimos Otra Vez",
+        "url": "https://open.spotify.com/album/082lYpp3Wdj6mUxhBo6Lgf"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173864,
+      "name": "Lo Rompimos Otra Vez",
+      "url": "https://open.spotify.com/track/4BZJ9iCI7UKBIV3K6fqoWU"
+    },
+    {
+      "album": {
         "name": "UNO",
         "url": "https://open.spotify.com/album/6UwnkS2wNG9cxx04wjmPSB"
       },
@@ -6514,6 +6532,24 @@
       "duration_ms": 236800,
       "name": "Me Quieren Matar",
       "url": "https://open.spotify.com/track/3soKTnPmFPNK3feqeTAI9B"
+    },
+    {
+      "album": {
+        "name": "Me Siento Morir",
+        "url": "https://open.spotify.com/album/07ZjXo3lbGfAY85yZ9eonZ"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "Me Siento Morir",
+      "url": "https://open.spotify.com/track/0kDTu4tfBg92kKLP111jIW"
     },
     {
       "album": {
@@ -9334,7 +9370,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 158039,
       "name": "Sale el Sol",
       "url": "https://open.spotify.com/track/1o7HnuQ87p2yEC64rCpPNt"
@@ -10884,7 +10920,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 212571,
       "name": "TUS OJOS",
       "url": "https://open.spotify.com/track/5UyrF7PB7rni3kVWiajCVr"

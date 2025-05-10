@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 守夜人 \(Night Keepers\)
 
-2,123 songs - 5 day 3 hr 36 min
+2,125 songs - 5 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [You Be You](https://open.spotify.com/track/6A4haTbhY7SIvbBZ2buMhk) | [Veny 刘雨妮](https://open.spotify.com/artist/4wA2BZD8EeuQn0BZKG4tZB) | [You Be You](https://open.spotify.com/album/45X2iaChrCOjK6vbIPRhld) | 3:04 | 2025-04-03 | 2025-04-11 |
 | [You know how](https://open.spotify.com/track/6KpedOLJFQcp2n9evsr6Q3) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [You know how](https://open.spotify.com/album/5FA5O1J70GbufGPfG9kwRa) | 3:30 | 2024-08-29 | 2024-09-20 |
 | [You Should Know My Name](https://open.spotify.com/track/4gpQuLl9tf22dA9yLXNYKv) | [C.Y](https://open.spotify.com/artist/2OasGr7TmpHG8pfhWztDV8) | [You Should Know My Name](https://open.spotify.com/album/39mulKWPnb6TFoHn0oX27d) | 3:26 | 2025-04-10 | 2025-05-02 |
+| [You Will Always Be](https://open.spotify.com/track/7o8wiz2S0t8XYFu4Nj90OA) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [You Will Always Be](https://open.spotify.com/album/7iZrGgFMoMU5bwhOdG3Aif) | 2:48 | 2025-05-08 |  |
 | [You're So Beautiful](https://open.spotify.com/track/2sVFZkrFqVURKMFmG0P4v1) | [MADJAKE](https://open.spotify.com/artist/2LcNeXQLThjoeqdcfFUurK) | [You're So Beautiful](https://open.spotify.com/album/18EeicGTK3eCAEH8Pxi4er) | 2:54 | 2024-10-03 | 2024-10-11 |
 | [Youaretheappleofmyeye](https://open.spotify.com/track/5xhxBQJeLNfIu95HpyF0pZ) | [晨昏星 Morning Dusk Stars](https://open.spotify.com/artist/0L7Hbd9lDbbsJZ69DDf4Ma) | [Youaretheappleofmyeye](https://open.spotify.com/album/6psOUW1fVPHRdcpJdVtyBd) | 3:06 | 2024-08-15 | 2024-11-29 |
 | [Young Man](https://open.spotify.com/track/02cOOZKta4qE4Qv9BusfOQ) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/5nc0Puti8JCg2jkbFRYQ0x) | 4:17 | 2024-07-04 | 2024-07-27 |
@@ -973,7 +974,7 @@
 | [回不去的禮物](https://open.spotify.com/track/1MMxAmO7uc5MV3GM0y8jLl) | [Mikeyyy Jen](https://open.spotify.com/artist/5xp2ErvzSOO2OyQuhRQAyk), [ABYSS](https://open.spotify.com/artist/76vD78frGB35mbkmLfnihi) | [回不去的禮物](https://open.spotify.com/album/4HGYCl61MrPeXWCBNV1x6p) | 2:07 | 2024-09-19 | 2024-10-04 |
 | [回形针](https://open.spotify.com/track/3GLe0dg1Jp79fcCVGQsxWQ) | [Feith Li](https://open.spotify.com/artist/4LVRvWh1ht2qMPVotYMUjD) | [回形针](https://open.spotify.com/album/6uDJ4ZkUAmtuSUWKAbw5Lf) | 3:56 | 2025-03-13 |  |
 | [回身](https://open.spotify.com/track/4vin8qZseMtdphanlG28Lu) | [老大!](https://open.spotify.com/artist/6aoEebRmAvyg3Stwx55vF0), [Gigi洪](https://open.spotify.com/artist/2d4PlC51MqcTEj1b5mK6tx) | [回聲定位](https://open.spotify.com/album/5rIfN66CL8MmD9Ltxrdpmj) | 3:15 | 2024-11-07 | 2024-11-29 |
-| [因為錢 Feat\. 王以太](https://open.spotify.com/track/0zXgVJWWIS4HYJqsJOOsSo) | [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR), [Yitai Wang](https://open.spotify.com/artist/6bmoSEQiKYl1CPSnSqLOOw) | [因為錢 Feat\. 王以太](https://open.spotify.com/album/5CUU7Avdyvn2gVQ7iLQFKM) | 4:36 | 2025-05-08 |  |
+| [因為錢 Feat\. 王以太](https://open.spotify.com/track/0zXgVJWWIS4HYJqsJOOsSo) | [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR), [Yitai Wang](https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j) | [因為錢 Feat\. 王以太](https://open.spotify.com/album/5CUU7Avdyvn2gVQ7iLQFKM) | 4:36 | 2025-05-08 |  |
 | [圓先生](https://open.spotify.com/track/11zQU8OQAoz1FwemgDsFZK) | [Papaya Duck](https://open.spotify.com/artist/09uL1PjQRBf2t6HwcYLuPU) | [圆先生](https://open.spotify.com/album/7aPzWympkuTD6aeWGzkVTs) | 3:24 | 2024-10-10 | 2024-10-18 |
 | [圓缺](https://open.spotify.com/track/7tamia5gcIgQ87dkiWLwFG) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ), [Chunho](https://open.spotify.com/artist/1mq5glQO50pi57PdxXmTAP) | [圓缺](https://open.spotify.com/album/2i8yE9njaBMPFoXSOPreUq) | 4:04 | 2025-05-01 |  |
 | [在你夢裡借住一晚](https://open.spotify.com/track/1P7kJ9bhp5uTlseJw4cp0h) | [余育憲哥](https://open.spotify.com/artist/6xB7uDQ0Bi1rfUvz9LMoxw) | [在你夢裡借住一晚](https://open.spotify.com/album/3VpWZZrmTvNxOfkGuVb9HV) | 5:03 | 2025-03-20 | 2025-04-11 |
@@ -1908,6 +1909,7 @@
 | [該死的結局](https://open.spotify.com/track/1DjRpNCvgcV2TsUkO01jBu) | [Wadewei](https://open.spotify.com/artist/3NO1uEvxv7DM2ZIeSHTQG0) | [該死的結局](https://open.spotify.com/album/0eFOPuItlkSdSrh7HCKHzY) | 3:53 | 2024-08-15 | 2024-09-27 |
 | [誒哦](https://open.spotify.com/track/656eBcnAwDJIz2lmA9j9B3) | [王晨宇IceCraz](https://open.spotify.com/artist/2Hn1JOz00GeUV7iEfdYfYM), [肯迪仔](https://open.spotify.com/artist/0Pv3uJRJun8GY0X8nvM131) | [誒哦](https://open.spotify.com/album/7fXCO7IJ7XyKS6LZMAQeeR) | 3:42 | 2024-11-28 | 2024-12-06 |
 | [語畢，請再一遍](https://open.spotify.com/track/3630b4gewzNGNuw0HcmLdv) | [BabyGrape格蕾普](https://open.spotify.com/artist/3OAaEtoIFea0Ecmdczb9t3), [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [雙重溫柔](https://open.spotify.com/album/1Ml9lk0jpkwPHBaJ8i2kZy) | 3:02 | 2024-06-27 | 2024-07-05 |
+| [說了不再愛你這種謊](https://open.spotify.com/track/2qwPTqR0nAoeGogcpWkhWY) | [Coy6oi](https://open.spotify.com/artist/3UN0S5PuO1xQtE9P9XJ2TV) | [說了不再愛你這種謊](https://open.spotify.com/album/46HRCXOsH3Ex2DihDxm5Xk) | 2:34 | 2025-05-08 |  |
 | [說出我的名字](https://open.spotify.com/track/1JQw48L55xvdeS9WenilnB) | [Tizzy Bac](https://open.spotify.com/artist/6Rv0ndBVPEQJ7KagPDtC5H) | [說出我的名字](https://open.spotify.com/album/0AFvYBhgqq8Ai4xGAhHRvN) | 5:55 | 2025-03-27 | 2025-04-18 |
 | [說好](https://open.spotify.com/track/39SKeJRiOwZIFtkPIfEdr2) | [林加安](https://open.spotify.com/artist/4XdTzldVEGnxAU4KwfSNrw) | [說好](https://open.spotify.com/album/5bwpyP3Zo1SypPE7WsAAuw) | 2:31 | 2024-08-08 | 2024-08-23 |
 | [說真的](https://open.spotify.com/track/4GXNNj6B1N3MPEjodZzDyi) | [痞爺](https://open.spotify.com/artist/73G9tzZhnkWwHWP0rF2jfB) | [說真的](https://open.spotify.com/album/5bkvRfdelChZpyv7Okd8DM) | 2:23 | 2024-11-07 | 2024-11-15 |

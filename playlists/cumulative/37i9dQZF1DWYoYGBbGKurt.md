@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,988 songs - 3 day 4 hr 55 min
+1,992 songs - 3 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Animal Crackers](https://open.spotify.com/track/6zmL0Bh4xKcyLoTQmUyNjE) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Effervescence](https://open.spotify.com/album/6Y7FWY7v3ZJFhZB83WPWv0) | 2:29 | 2021-12-07 | 2022-04-22 |
 | [Another Day](https://open.spotify.com/track/4W5uebptHEmglHmveaYuj0) | [MagicCarpet](https://open.spotify.com/artist/20GTeaSXQRZspkO26Aq08R) | [Another Day](https://open.spotify.com/album/7uEbuJiST2zxb1CVmGD7ZF) | 2:09 | 2024-04-12 | 2025-04-19 |
 | [Another Dream](https://open.spotify.com/track/1prwLKcbevHh3roJBvZM1V) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Embers](https://open.spotify.com/album/093XnMFA71IuV7XFPBJEuR) | 1:24 | 2022-12-02 | 2023-08-22 |
+| [another time, another place](https://open.spotify.com/track/6A0Nu9iDYTjeCVXCm2fplq) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [another time, another place](https://open.spotify.com/album/4dWPNuUqkN1yPICPJFFFTi) | 2:45 | 2025-05-09 |  |
 | [Anti\-Gravity](https://open.spotify.com/track/7bzarmiobBm1oOCSBmTevV) | [Space Time](https://open.spotify.com/artist/357YQNXCYAKT5NLytqNLs0) | [Anti\-Gravity](https://open.spotify.com/album/1SfGFTKbHjoYkPVcdAbV3a) | 2:18 | 2024-01-12 |  |
 | [Anywhere the Wind Blows](https://open.spotify.com/track/0ObXNS2YAEjoHO6knz0bTd) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Dan Gregory](https://open.spotify.com/artist/40OoU1mqsoy53I6Rw8gLBn) | [Anywhere the Wind Blows](https://open.spotify.com/album/45eqgbLS0Df9Ohnhl9dsav) | 1:50 | 2022-05-13 | 2022-11-12 |
 | [Aperol](https://open.spotify.com/track/3nT71GkftYk8U1M3rKYDSg) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Aperol](https://open.spotify.com/album/7dVnhhUo1Shgm4lMTqZKx8) | 2:05 | 2024-09-27 | 2024-12-21 |
@@ -376,6 +377,7 @@
 | [Could I Feel Better](https://open.spotify.com/track/77dVrzrAEIwrLw7MOqo0Gq) | [Pixel Pixie](https://open.spotify.com/artist/3xN8CL9MfW5pcU6WiS9p3w) | [Could I Feel Better](https://open.spotify.com/album/23DN93uarwRcGJMv7KN6fg) | 1:48 | 2024-06-21 | 2024-07-27 |
 | [counting sheep](https://open.spotify.com/track/3x2Y0A58sRnkx2PD9dcbCc) | [Zack Zhu](https://open.spotify.com/artist/6MRw1mgKzI22Yjlcu2Fzea) | [counting sheep](https://open.spotify.com/album/77vFl5Aox31AH8XroidWES) | 1:56 | 2022-10-14 | 2024-05-14 |
 | [counting stars](https://open.spotify.com/track/2I0Y9S45ytIc5SSCwZU4MH) | [the sharp shooter](https://open.spotify.com/artist/5U1WPd2gl9JoyYNFq4s8EC) | [super sharp shots](https://open.spotify.com/album/7jBqXDmwdeZTo6UlqD0dj5) | 1:36 | 2021-12-07 | 2022-05-27 |
+| [Cozy Vinylesque](https://open.spotify.com/track/4JVpk5H3oHWR55l1etHslh) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Cozy Vinylesque](https://open.spotify.com/album/4lIGVP2TKRTKycSpdTOIoH) | 3:14 | 2025-05-09 |  |
 | [Crazy Love](https://open.spotify.com/track/57pur3MoSCX7raelUCpiAK) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Crazy Love](https://open.spotify.com/album/4k72z9GeyqEkRD7jtE6lTI) | 1:48 | 2023-12-08 | 2024-10-17 |
 | [CREAM](https://open.spotify.com/track/3hEUtaQZbmXOWlHfiIE3lk) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [CREAM](https://open.spotify.com/album/0xL2eVoJ8WWSxGBuDvnwKv) | 2:24 | 2023-02-17 | 2024-09-07 |
 | [Creek](https://open.spotify.com/track/24lu4bbwxA8OCxn7pvl6aX) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Creek](https://open.spotify.com/album/17CTrhI1JV89loCBPo4Mge) | 1:43 | 2022-08-12 | 2024-04-13 |
@@ -493,6 +495,7 @@
 | [dried](https://open.spotify.com/track/4aOi2UCzY4hsMskN8bxh3d) | [lawnii](https://open.spotify.com/artist/0eaAa2Aow2ijexx9RNdf4G) | [dried](https://open.spotify.com/album/265wwPlmKVQEji7K8a79lo) | 2:16 | 2021-12-07 | 2022-04-08 |
 | [Drift](https://open.spotify.com/track/7DgiTzkm5OcTlD4vYLmGS9) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f), [Ninn Tendo](https://open.spotify.com/artist/1OF6VqF0EwQP7tfJlFIVMw) | [Drift](https://open.spotify.com/album/6bmoUmUkCHbfKa4sb3iXEP) | 2:03 | 2021-12-07 | 2022-07-15 |
 | [Drift Bird](https://open.spotify.com/track/0KkPlMsjzHyLflIBKlNjOy) | [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV), [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy) | [Drift Bird](https://open.spotify.com/album/4sS5OTae0b9Zy9uN2QEqVu) | 2:31 | 2023-08-21 | 2024-02-09 |
+| [Drift Into Dream](https://open.spotify.com/track/1bDZbT1BvX6T2P2m5zHyv1) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Drift Into Dream](https://open.spotify.com/album/1GDUpFgPyZXO4jTny1Bd3Z) | 2:36 | 2025-05-09 |  |
 | [Drift Ritual](https://open.spotify.com/track/21BrewhyiUBA3yEUGpv9bP) | [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt) | [Drift Ritual](https://open.spotify.com/album/5Fg2eQQb5pzMFrZ5xu6J73) | 2:55 | 2022-09-09 | 2022-12-10 |
 | [Driftin' Blues](https://open.spotify.com/track/1fjPX6GXvJ7OQMuIk9jW83) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [Driftin' Blues](https://open.spotify.com/album/3WV5TzmUJ4xuccEY9qOHYB) | 1:49 | 2022-12-23 | 2023-11-11 |
 | [Drifting](https://open.spotify.com/track/6sQEOXvW9JyMiihWyCZv1E) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Drifting](https://open.spotify.com/album/00mz7xgsCHhPWtpJmHmr9U) | 2:00 | 2023-01-13 |  |
@@ -1864,6 +1867,7 @@
 | [until my coffee turns cold](https://open.spotify.com/track/7I3cw5cUn3UM74uvkEoIHW) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [sing me to sleep](https://open.spotify.com/album/7mQoMWn1oQCJtlS22hR7vp) | 2:19 | 2022-12-16 | 2023-10-20 |
 | [Unwind](https://open.spotify.com/track/4INlGADt1s5LuKaqbU9UKH) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Unwind](https://open.spotify.com/album/7LIsZFGPVlLmhNN1eC1rOg) | 2:25 | 2025-02-28 |  |
 | [Unwind](https://open.spotify.com/track/29FJzCW7Uj2VmwW4uroaiC) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Unwind](https://open.spotify.com/album/5PrhLUjoJ1YGI2LjfAIZ1O) | 2:03 | 2022-06-24 | 2022-11-12 |
+| [unwinding](https://open.spotify.com/track/4Ya8V46537FZVR6QBIjs50) | [sumwut](https://open.spotify.com/artist/6rDyCgfBm5atHVVNFxLFn0) | [unwinding](https://open.spotify.com/album/0tO2zPgJAgTFlPY4zHNO1J) | 2:25 | 2025-05-09 |  |
 | [up and upper](https://open.spotify.com/track/5fFgCGDi9eP2A0yUM6LG7k) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [up and upper](https://open.spotify.com/album/03B0KT5nLYh9uSf33frzYk) | 2:24 | 2024-06-12 | 2024-11-09 |
 | [Up High \- Instrumental](https://open.spotify.com/track/5rovmF8UWLuEK2EWRZ2ppr) | [Syrup](https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Up High \(Instrumental\)](https://open.spotify.com/album/2mRlBtG53k8nKZmIvKfEG2) | 2:10 | 2023-07-13 | 2023-09-29 |
 | [Urban](https://open.spotify.com/track/3FOWRYStQ16GEqWIoqXidM) | [Beat X](https://open.spotify.com/artist/6Av1D6HQTl3Vjrd6pna9db) | [Urban](https://open.spotify.com/album/1pX6ICWA8FeGdkzPYiOl3S) | 2:35 | 2023-04-03 |  |

@@ -1,13 +1,45 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 123965,
+  "num_followers": 123995,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAsI8AAAAAD54TbTGJNvS+zxSM2LUkaQ",
+  "snapshot_id": "aB19wQAAAABYxO2FcN2zSKHFy7rOWF2N",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:01",
+      "album": {
+        "name": "Forever (71943509)",
+        "url": "https://open.spotify.com/album/14kRP3nG8zEwpRjgGBlGKt"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 188967,
+      "name": "Forever (71943509)",
+      "url": "https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz"
+    },
+    {
+      "added_at": "2025-04-25 04:00:48",
+      "album": {
+        "name": "WITHERED",
+        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 195328,
+      "name": "Is This Really Love?",
+      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
+    },
     {
       "added_at": "2025-03-28 04:00:28",
       "album": {
@@ -29,22 +61,6 @@
       "url": "https://open.spotify.com/track/0hvzHfDeNjxE2cDlZObr6H"
     },
     {
-      "added_at": "2025-04-25 04:00:48",
-      "album": {
-        "name": "WITHERED",
-        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 195328,
-      "name": "Is This Really Love?",
-      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
-    },
-    {
       "added_at": "2025-02-14 05:00:22",
       "album": {
         "name": "Dead Roses",
@@ -59,6 +75,30 @@
       "duration_ms": 122292,
       "name": "Dead Roses",
       "url": "https://open.spotify.com/track/0T3bi3vnjpTQmLuz8Y9vOm"
+    },
+    {
+      "added_at": "2025-05-09 04:00:01",
+      "album": {
+        "name": "Lost On The Weekend",
+        "url": "https://open.spotify.com/album/08BVC7TZiSfLGugjWWZqdl"
+      },
+      "artists": [
+        {
+          "name": "OminousyL",
+          "url": "https://open.spotify.com/artist/1LMQwJWethElqahOYT9ajV"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        },
+        {
+          "name": "Monty Datta",
+          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
+        }
+      ],
+      "duration_ms": 132187,
+      "name": "Lost On The Weekend",
+      "url": "https://open.spotify.com/track/00bi5lHQ7Kjb63jLvlOoQk"
     },
     {
       "added_at": "2025-03-21 04:00:48",
@@ -79,22 +119,6 @@
       "duration_ms": 184854,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/4vN0rGGkuDKqPpPLL5L8Cl"
-    },
-    {
-      "added_at": "2025-04-25 04:00:48",
-      "album": {
-        "name": "PISCES",
-        "url": "https://open.spotify.com/album/7nktQKQFOMkh40iOTOzzBS"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 180565,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/4vMaUYpkdmOKPzqLnQsBx6"
     },
     {
       "added_at": "2025-01-24 05:00:30",
@@ -123,26 +147,6 @@
       "duration_ms": 166072,
       "name": "Purple Sky",
       "url": "https://open.spotify.com/track/0qw5NG3gqoPVJX9rnNPNuG"
-    },
-    {
-      "added_at": "2025-03-28 04:00:28",
-      "album": {
-        "name": "Central Park",
-        "url": "https://open.spotify.com/album/50VY4hGQOZYKjDNsEo7pOT"
-      },
-      "artists": [
-        {
-          "name": "Vwillz",
-          "url": "https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1"
-        },
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 169330,
-      "name": "Central Park",
-      "url": "https://open.spotify.com/track/5CSCpV7F9ZJZqFTOYxGoAw"
     },
     {
       "added_at": "2024-12-13 05:00:35",
@@ -175,6 +179,22 @@
       "duration_ms": 217000,
       "name": "JUST IN CASE",
       "url": "https://open.spotify.com/track/7wmHvJtAfc9zfbXoU6HEQD"
+    },
+    {
+      "added_at": "2025-05-09 04:00:01",
+      "album": {
+        "name": "Escape the simulation",
+        "url": "https://open.spotify.com/album/7ewUQ8N7gmK2BaGlePk9Tl"
+      },
+      "artists": [
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        }
+      ],
+      "duration_ms": 82894,
+      "name": "Escape the simulation",
+      "url": "https://open.spotify.com/track/6vBiulXzG1QQD5qlU8uKBi"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -239,22 +259,6 @@
       "duration_ms": 131240,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
-    },
-    {
-      "added_at": "2025-01-31 05:00:28",
-      "album": {
-        "name": "Sad Song",
-        "url": "https://open.spotify.com/album/60K08nLuWmoctIih6sILjP"
-      },
-      "artists": [
-        {
-          "name": "Vwillz",
-          "url": "https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Sad Song",
-      "url": "https://open.spotify.com/track/6TGcyIIJgkfVEg5AP4mwHo"
     },
     {
       "added_at": "2024-02-23 05:00:00",

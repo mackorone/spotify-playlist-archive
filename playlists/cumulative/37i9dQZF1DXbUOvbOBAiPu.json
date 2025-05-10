@@ -32554,10 +32554,6 @@
         {
           "name": "Amy Lee",
           "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
-        },
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
       "date_added": "2025-05-08",
@@ -42883,7 +42879,7 @@
         },
         {
           "name": "Omega",
-          "url": "https://open.spotify.com/artist/3Z4jeEBYUlHXekcVKrvUj5"
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
         }
       ],
       "date_added": "2025-05-08",
@@ -80219,6 +80215,32 @@
     },
     {
       "album": {
+        "name": "Timeless (Remix)",
+        "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Timeless (feat. Playboi Carti & Doechii) - Remix",
+      "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
       },
@@ -83557,7 +83579,7 @@
     },
     {
       "album": {
-        "name": "Uptown",
+        "name": "Uptown (feat. Chy Cartier)",
         "url": "https://open.spotify.com/album/3JQ5ILpec1hGp59h3dhrzb"
       },
       "artists": [
@@ -83574,7 +83596,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 152112,
-      "name": "Uptown",
+      "name": "Uptown (feat. Chy Cartier)",
       "url": "https://open.spotify.com/track/76Pu3WalpqCdQDvO0VWbas"
     },
     {

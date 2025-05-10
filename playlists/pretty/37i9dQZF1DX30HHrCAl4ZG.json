@@ -1,13 +1,61 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Indigo De Souza",
-  "num_followers": 833379,
+  "description": "Explore all things indie rock right now. Featuring music from Spacey Jane",
+  "num_followers": 832944,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRP8AAAAAC2MU0ng0v5a61BjxRq2IyP",
+  "snapshot_id": "aB19xgAAAAD7KGrMbnlKZtKtGDD+SeVM",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "If That Makes Sense",
+        "url": "https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 178304,
+      "name": "Whateverrrr",
+      "url": "https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 218151,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 365426,
+      "name": "Circle of Trust",
+      "url": "https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp"
+    },
     {
       "added_at": "2025-05-02 04:00:33",
       "album": {
@@ -25,20 +73,36 @@
       "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
     },
     {
-      "added_at": "2025-05-02 04:00:33",
+      "added_at": "2025-05-09 04:00:06",
       "album": {
-        "name": "Event of a Fire",
-        "url": "https://open.spotify.com/album/0YkFwRdulcXdf0hNWScqIt"
+        "name": "Looking Back",
+        "url": "https://open.spotify.com/album/5phyDbVHyJHbh8X5iRtL6h"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 235013,
-      "name": "Event of a Fire",
-      "url": "https://open.spotify.com/track/6XeNjkIGrphY3kzyU5RZJk"
+      "duration_ms": 235015,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q"
+    },
+    {
+      "added_at": "2025-05-02 04:00:33",
+      "album": {
+        "name": "Romance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 236245,
+      "name": "Before You I Just Forget",
+      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
       "added_at": "2025-05-02 04:00:33",
@@ -59,6 +123,22 @@
     {
       "added_at": "2025-05-02 04:00:33",
       "album": {
+        "name": "Event of a Fire",
+        "url": "https://open.spotify.com/album/0YkFwRdulcXdf0hNWScqIt"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 235013,
+      "name": "Event of a Fire",
+      "url": "https://open.spotify.com/track/6XeNjkIGrphY3kzyU5RZJk"
+    },
+    {
+      "added_at": "2025-05-02 04:00:33",
+      "album": {
         "name": "Animaru",
         "url": "https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow"
       },
@@ -71,6 +151,22 @@
       "duration_ms": 161571,
       "name": "Animaru",
       "url": "https://open.spotify.com/track/1SkY6npvIxrTAU1cP4XMIg"
+    },
+    {
+      "added_at": "2025-05-09 04:00:06",
+      "album": {
+        "name": "Bitch Heart",
+        "url": "https://open.spotify.com/album/4OR108JUFbFuyjdTNVuYIG"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 144918,
+      "name": "Bitch Heart",
+      "url": "https://open.spotify.com/track/1CU65NgKvZxUagOiq5m3fd"
     },
     {
       "added_at": "2025-05-02 04:00:33",
@@ -107,6 +203,22 @@
     {
       "added_at": "2025-05-02 04:00:33",
       "album": {
+        "name": "Dead Beat City",
+        "url": "https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl"
+      },
+      "artists": [
+        {
+          "name": "Kids That Fly",
+          "url": "https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX"
+        }
+      ],
+      "duration_ms": 233496,
+      "name": "Dead Beat City",
+      "url": "https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb"
+    },
+    {
+      "added_at": "2025-05-02 04:00:33",
+      "album": {
         "name": "Lucius",
         "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
@@ -135,22 +247,6 @@
       "duration_ms": 194387,
       "name": "Lights Fall",
       "url": "https://open.spotify.com/track/1W8cWE4mphc5mmCqaRhACZ"
-    },
-    {
-      "added_at": "2025-05-02 04:00:33",
-      "album": {
-        "name": "Romance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 236245,
-      "name": "Before You I Just Forget",
-      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
       "added_at": "2025-05-02 04:00:33",
@@ -471,22 +567,6 @@
       "duration_ms": 190441,
       "name": "Get back to me",
       "url": "https://open.spotify.com/track/3YxMOcoa7ogJlG4e6zyJwm"
-    },
-    {
-      "added_at": "2025-05-02 04:00:33",
-      "album": {
-        "name": "Dead Beat City",
-        "url": "https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl"
-      },
-      "artists": [
-        {
-          "name": "Kids That Fly",
-          "url": "https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX"
-        }
-      ],
-      "duration_ms": 233496,
-      "name": "Dead Beat City",
-      "url": "https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb"
     },
     {
       "added_at": "2025-05-02 04:00:33",
@@ -1711,22 +1791,6 @@
       "duration_ms": 218272,
       "name": "Burnout Days",
       "url": "https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y"
-    },
-    {
-      "added_at": "2025-05-02 04:00:33",
-      "album": {
-        "name": "Are You Tired? (Keep on Singing)",
-        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 404562,
-      "name": "Are You Tired? (Keep on Singing)",
-      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
     },
     {
       "added_at": "2025-05-02 04:00:33",

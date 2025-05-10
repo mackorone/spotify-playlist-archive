@@ -5813,6 +5813,24 @@
     },
     {
       "album": {
+        "name": "Round of Applause",
+        "url": "https://open.spotify.com/album/6cViBybeaWr9J0Y0gNEtxL"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Round of Applause",
+      "url": "https://open.spotify.com/track/1yXi1BRMLsjIpZxgSxKT02"
+    },
+    {
+      "album": {
         "name": "Dynastie",
         "url": "https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg"
       },

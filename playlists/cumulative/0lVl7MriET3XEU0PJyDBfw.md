@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Find the mix series on SoundCloud: Bassline Therapy Radio
 
-658 songs - 1 day 10 hr 33 min
+659 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Control Me](https://open.spotify.com/track/4nqUCXokD9BYZJ5WFlC1aR) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe) | [Unlocked Vol\. 11](https://open.spotify.com/album/6Ig37HY8wzmFMG75aAuLYW) | 3:23 | 2024-06-23 | 2024-08-20 |
 | [D.A.N.C.E](https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [D.A.N.C.E](https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y) | 2:37 | 2024-10-12 | 2024-12-22 |
 | [DADDY KEEPS CALLING](https://open.spotify.com/track/1iue9j6pHYFdk8pR0ekLJS) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [DADDY KEEPS CALLING](https://open.spotify.com/album/3yceYuyQpneDvuHnkTR41C) | 2:37 | 2024-09-15 | 2024-10-29 |
+| [Dale \- Radio Edit](https://open.spotify.com/track/19oieimqB0yPGgksjs7AAR) | [Julian Fox](https://open.spotify.com/artist/0yygK6bOq3FSfYkkPlcRAK) | [Dale EP](https://open.spotify.com/album/2Saf458Llop8Y1dXD8wmWY) | 3:37 | 2025-05-09 |  |
 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 | 2024-01-15 | 2024-01-30 |
 | [Dancefloor](https://open.spotify.com/track/4dfhKJo55TLlKlq6Mh1tmr) | [dhuss](https://open.spotify.com/artist/0VCdowS9c0KjYcVJAZCvBd) | [Dancefloor EP](https://open.spotify.com/album/4lSZzzNPHmYxETXGqp5mEM) | 4:18 | 2024-02-05 | 2024-06-24 |
 | [Dancefloor](https://open.spotify.com/track/7lk1IsQ6oS8c0cmW5Qr2EE) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Dancefloor](https://open.spotify.com/album/1jq4DZb0TM25hTPAssCQKa) | 3:26 | 2024-01-08 | 2024-01-22 |

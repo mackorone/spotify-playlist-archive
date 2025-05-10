@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/4He3KAbu09Wion9GRyZm6W"
+      },
+      "artists": [
+        {
+          "name": "(e)motion engine",
+          "url": "https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/10XkxldeH7vbHetDoTlKpr"
+    },
+    {
+      "album": {
         "name": "Break time",
         "url": "https://open.spotify.com/album/6qdAy7eI40I0PGOR6nDCkG"
       },

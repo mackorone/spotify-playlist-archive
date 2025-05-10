@@ -8433,6 +8433,36 @@
     },
     {
       "album": {
+        "name": "Let Me Love You More",
+        "url": "https://open.spotify.com/album/4QmhnesRttsnImCdC1tWe3"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        },
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        },
+        {
+          "name": "Emma Munns",
+          "url": "https://open.spotify.com/artist/7MTo3pAwxkYBoySu334Det"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307866,
+      "name": "Let Me Love You More",
+      "url": "https://open.spotify.com/track/53nmVlRqzZTSNbdIpPurKs"
+    },
+    {
+      "album": {
         "name": "Coming Back To The Heart (Live Collection)",
         "url": "https://open.spotify.com/album/0hZCaD2xckc6RSZjQHY97E"
       },
@@ -15354,7 +15384,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 214192,
       "name": "Unforgiveness",
       "url": "https://open.spotify.com/track/2rMMAvmjWtWxuuhGNCMzce"

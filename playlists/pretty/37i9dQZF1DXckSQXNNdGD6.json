@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Mar\u00eda Pel\u00e1e.",
-  "num_followers": 20322,
+  "num_followers": 20304,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2025-05-06 22:00:38",
       "album": {
+        "name": "Dec\u00edrtelo",
+        "url": "https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ"
+      },
+      "artists": [
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        },
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        }
+      ],
+      "duration_ms": 156460,
+      "name": "Dec\u00edrtelo",
+      "url": "https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6"
+    },
+    {
+      "added_at": "2025-05-06 22:00:38",
+      "album": {
         "name": "XXL",
         "url": "https://open.spotify.com/album/2xWGZx7WeIt5sVKAFWC51e"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 139940,
       "name": "PRIVADO",
       "url": "https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS"
-    },
-    {
-      "added_at": "2025-05-06 22:00:38",
-      "album": {
-        "name": "Dec\u00edrtelo",
-        "url": "https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ"
-      },
-      "artists": [
-        {
-          "name": "MAYO",
-          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
-        },
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        }
-      ],
-      "duration_ms": 156460,
-      "name": "Dec\u00edrtelo",
-      "url": "https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6"
     },
     {
       "added_at": "2025-05-06 22:00:38",

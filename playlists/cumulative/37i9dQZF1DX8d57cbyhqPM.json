@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Animation FR",
+        "url": "https://open.spotify.com/album/6jgXMoDr51yRbmfZJWKKHa"
+      },
+      "artists": [
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141710,
+      "name": "Animation FR",
+      "url": "https://open.spotify.com/track/5e7VKePa6T6zsBLmW5gtb3"
+    },
+    {
+      "album": {
         "name": "ANTIDOTE",
         "url": "https://open.spotify.com/album/5J8cYNlz6oP2tiHKtWEmtB"
       },
@@ -870,6 +888,28 @@
       "duration_ms": 283127,
       "name": "Banzutu",
       "url": "https://open.spotify.com/track/4ZOWoIGZML7llXnJKaew7N"
+    },
+    {
+      "album": {
+        "name": "Oblig\u00e9e",
+        "url": "https://open.spotify.com/album/760U6s9PCeFAa4YYPcoze9"
+      },
+      "artists": [
+        {
+          "name": "Angelcy",
+          "url": "https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2"
+        },
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150667,
+      "name": "Bara",
+      "url": "https://open.spotify.com/track/5MP8EHj9F0kXOToFnrZNqu"
     },
     {
       "album": {
@@ -2096,7 +2136,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 152282,
       "name": "CO CO CO",
       "url": "https://open.spotify.com/track/32oU9kw2aZdD7B4izNvq84"
@@ -3852,7 +3892,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 592020,
       "name": "Force ap\u00f4tres",
       "url": "https://open.spotify.com/track/3FaT2UbtlGHS59C1CGdC6f"
@@ -6521,6 +6561,28 @@
     },
     {
       "album": {
+        "name": "MASTERCLASS",
+        "url": "https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170492,
+      "name": "MASTERCLASS",
+      "url": "https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE"
+    },
+    {
+      "album": {
         "name": "MATALANA (Vendredi)",
         "url": "https://open.spotify.com/album/6pfRRYXmP6vJBNRHJa3WS1"
       },
@@ -8618,7 +8680,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 156130,
       "name": "Pas De Commentaire",
       "url": "https://open.spotify.com/track/3uqaOPH5qNI6MknOn526YK"
@@ -8640,7 +8702,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 154867,
       "name": "Pas de Ralentir",
       "url": "https://open.spotify.com/track/3s3LcEdYzo77TOqFOuvjVF"
@@ -11742,6 +11804,24 @@
       "duration_ms": 263576,
       "name": "\u03a3. MOROSE",
       "url": "https://open.spotify.com/track/6kXuDZGyFZAJqqnUVQFuiT"
+    },
+    {
+      "album": {
+        "name": "GOAT Intemporel, Vol. 1",
+        "url": "https://open.spotify.com/album/1XTlQB4KC8VQg0vav48Nvg"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474255,
+      "name": "\u2060Fouta Drome",
+      "url": "https://open.spotify.com/track/764NplMOlSjCcie32z5GDe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM"

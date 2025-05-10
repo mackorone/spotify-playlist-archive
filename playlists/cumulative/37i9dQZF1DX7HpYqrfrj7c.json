@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Prodigy Vision",
+        "url": "https://open.spotify.com/album/2cj4KrLQBpngclJF5KErZH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183702,
+      "name": "Prodigy Vision",
+      "url": "https://open.spotify.com/track/7GG2FRZUlqZ4Ll4bNU0G6U"
+    },
+    {
+      "album": {
         "name": "The All Boom",
         "url": "https://open.spotify.com/album/7xFXnNeyFek3kCgYBkkus0"
       },

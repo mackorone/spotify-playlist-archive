@@ -4,7 +4,7 @@
 
 > All the best instrumentals & sounds from the internet gathered in one perfect chill out playlist 🫀
 
-110 songs - 5 hr 38 min
+111 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 | 2025-02-27 |  |
 | [Swimming](https://open.spotify.com/track/0sTjyzgd2K5htQpU8ienNe) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Swimming](https://open.spotify.com/album/7dGLag4xmWGKjyokzYJP8q) | 3:08 | 2025-02-27 |  |
 | [take a moment to breathe\. \- Instrumental](https://open.spotify.com/track/3lQmOV3OBO7O9FR7oCC8v1) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [take a moment to breathe.](https://open.spotify.com/album/22V9tEtQVgB85xG24ozhS3) | 3:38 | 2025-04-04 |  |
+| [Tchaikovsky: Swan Lake, Op\. 20, Act 2: No\. 10, Scene\. Moderato](https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Tchaikovsky: Swan Lake](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) | 2:46 | 2025-05-09 |  |
 | [Televangelism](https://open.spotify.com/track/6jd7Cv7yfWGTs7g89eA9Ss) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 3:03 | 2025-02-27 |  |
 | [The End](https://open.spotify.com/track/4A4JPfwz2Wiym25sHSm63N) | [LLow](https://open.spotify.com/artist/4zwj4Z93k8LjJMwaCw5EDh) | [The End](https://open.spotify.com/album/3kuwABiln5LHd6eVoZUanF) | 2:05 | 2025-04-23 |  |
 | [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 | 2025-04-24 |  |

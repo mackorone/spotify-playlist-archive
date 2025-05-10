@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-158 songs - 7 hr 54 min
+159 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Coração Calejado \- Ao Vivo](https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:46 | 2023-10-13 |  |
 | [Coração de Quatro](https://open.spotify.com/track/0JbOWU1lkCiPZPGGw216Uu) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Coração de Quatro](https://open.spotify.com/album/6Q2cBAHXCOtQakQTO5Y3vb) | 2:35 | 2023-10-13 |  |
 | [Coração Infectado](https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Guias Dvd 2018](https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz) | 2:43 | 2023-10-13 |  |
+| [Criança Pequena \- Família \- Ao Vivo](https://open.spotify.com/track/4t0UIfmZhGgLk1m35fPlka) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia Vol\. 01](https://open.spotify.com/album/6nVk02INL9nxhppU0Sqi5o) | 3:35 | 2025-05-09 |  |
 | [Cuidado Que Eu Te Supero](https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Cuidado Que Eu Te Supero](https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz) | 2:54 | 2023-10-13 |  |
 | [Cê Acredita](https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Cê Acredita](https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY) | 2:50 | 2023-10-13 |  |
 | [Cê Não Me Superou \- Ao Vivo](https://open.spotify.com/track/7zmS0vPbWg2k6sfL3uqrGD) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Continua, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe) | 2:48 | 2023-10-13 |  |
@@ -65,7 +66,7 @@
 | [Desbotequei \(Ai Bebê\) \- Acústico / Ao Vivo](https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Acústico Show PPA \(Acústico / Ao Vivo\)](https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww) | 2:27 | 2023-10-13 |  |
 | [Desconhecido \- Ao Vivo](https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:53 | 2023-10-13 |  |
 | [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 | 2023-10-13 |  |
-| [Do Copo Eu Vim \(feat\. Marília Mendonça\) \- Ao Vivo em Brasília](https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 2:24 | 2024-07-15 |  |
+| [Do Copo Eu Vim \(feat\. Marília Mendonça\) \- Ao Vivo em Brasília](https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 2:24 | 2024-07-15 | 2025-05-10 |
 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 | 2023-10-13 |  |
 | [Duvido Você Não Tomar Uma \- Ao Vivo](https://open.spotify.com/track/43SZcLQB8jtHMuDVDHTV5S) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:10 | 2023-10-13 |  |
 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 | 2023-10-13 |  |

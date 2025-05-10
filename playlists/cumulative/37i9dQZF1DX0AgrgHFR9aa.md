@@ -4,7 +4,7 @@
 
 > Les plus belles plumes rap français du moment\. Photo : Zamdane
 
-191 songs - 10 hr 25 min
+191 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [F\*\*K UN DICK EATING](https://open.spotify.com/track/6WFkPqae10dwszrKcBC0yd) | [Sneazzy](https://open.spotify.com/artist/1cA379ILgR07m7XQVXyP6Q), [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [DERRIÈRE L’HORIZON …](https://open.spotify.com/album/3cbnIh7cgPNBLDv7LCFdHg) | 3:27 | 2025-01-30 | 2025-03-14 |
 | [FABRICS \(feat\. Jungle Jack\)](https://open.spotify.com/track/3fwjyWXsDiTFnyNpbheCf8) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Violence Culture Sport & Fashion](https://open.spotify.com/album/0NlQ2thSbdlRKgiNmHYVQr) | 3:29 | 2024-11-21 | 2025-01-10 |
 | [FAST LIFE & FAMILLE](https://open.spotify.com/track/3Ird3tXm20WmN24qZPxNpZ) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [.H.K](https://open.spotify.com/artist/61qvcZWDAT1yvsw4bEVowX), [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:58 | 2024-09-26 | 2025-01-24 |
-| [Fire](https://open.spotify.com/track/2JcWgw4KjgmQNj4AXYe8sw) | [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan), [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [Fire](https://open.spotify.com/album/1mvyUzFKaxjf0qrAXXbfUd) | 3:17 | 2025-04-17 |  |
+| [Fire](https://open.spotify.com/track/2JcWgw4KjgmQNj4AXYe8sw) | [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan), [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [Fire](https://open.spotify.com/album/1mvyUzFKaxjf0qrAXXbfUd) | 2:58 | 2025-04-17 |  |
 | [Freestyle 5min \#13](https://open.spotify.com/track/3SCpDGmAibiM5U09lNefUJ) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Freestyle 5min \#13](https://open.spotify.com/album/5udVZsakxGZH3H2q3di9bw) | 5:42 | 2024-06-27 | 2024-08-23 |
 | [Gamberge d'ancien](https://open.spotify.com/track/5KolI8eEwlv0omxdvUGwWU) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Gamberge d'ancien](https://open.spotify.com/album/3phiVsa0qCrpnwS2iJk1Av) | 3:31 | 2024-12-05 | 2025-02-28 |
 | [Gizeh](https://open.spotify.com/track/47Hac81oOEivgApSukjj7W) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [NIRVANA](https://open.spotify.com/album/5p583Gi2HJlcjJDQ7R2Tox) | 2:27 | 2025-03-27 |  |

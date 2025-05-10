@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Jacopo Sol
 
-711 songs - 1 day 9 hr 2 min
+712 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [7 VITE](https://open.spotify.com/track/6pDgrvVN6USSlstIcw7Quq) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [7 VITE](https://open.spotify.com/album/3gZuVdhfzgmklwURswCnOR) | 3:18 | 2024-12-05 | 2025-03-07 |
 | [8 PM](https://open.spotify.com/track/6dcZGdXWWGyrfxq8MLqXIX) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [8 PM](https://open.spotify.com/album/4WENYnSEuWaTQD3ulS5U8V) | 3:14 | 2024-08-01 | 2024-08-23 |
 | [9000 KM](https://open.spotify.com/track/3K0W8Y4UWjDPTRkNbfmsbe) | [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC) | [9000 KM](https://open.spotify.com/album/1aB8x8m7r9h2kETprJQJWL) | 2:27 | 2024-04-11 | 2024-05-03 |
+| [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 | 2025-05-09 |  |
 | [A Modo Nostro \(feat\. Mose\)](https://open.spotify.com/track/4u8ADeOiiWXSvvI3v8OOrb) | [Matteo E Io](https://open.spotify.com/artist/4Zx1FdnVj10w170XV0GzvO), [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [A Modo Nostro \(feat\. Mose\)](https://open.spotify.com/album/3lEdKxz9XtJfmkjAgLJYRN) | 2:19 | 2023-11-16 | 2023-12-08 |
 | [a Nessuno](https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:13 | 2023-05-04 | 2023-05-26 |
 | [A Squarciagola](https://open.spotify.com/track/1broDLBCr9ZXrMW3RjLa5J) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [A Squarciagola](https://open.spotify.com/album/2r8ADr19yoR2gsgshFH1SV) | 3:04 | 2023-11-02 | 2023-12-13 |
@@ -564,7 +565,7 @@
 | [Scusa](https://open.spotify.com/track/40nbU2KzxgNICwnD84apPM) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [Scusa](https://open.spotify.com/album/4H14ewfokXlCBThQpDdYru) | 2:20 | 2025-02-20 | 2025-03-07 |
 | [Scusa](https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:55 | 2023-04-13 | 2023-06-09 |
 | [SCUSAMI SE](https://open.spotify.com/track/4c2PdSDERoU0hA4sz2ohNN) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [SCUSAMI SE](https://open.spotify.com/album/25mWDe25KmW15WyBOWjQer) | 2:46 | 2023-12-21 | 2024-02-02 |
-| [Se ci lasciassimo domani](https://open.spotify.com/track/5khKS5beNp9oYIg6lTI5zz) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Se ci lasciassimo domani](https://open.spotify.com/album/2LrLAT0Y2Nj79rOn1qjq98) | 2:33 | 2025-04-10 |  |
+| [Se ci lasciassimo domani](https://open.spotify.com/track/5khKS5beNp9oYIg6lTI5zz) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Se ci lasciassimo domani](https://open.spotify.com/album/2LrLAT0Y2Nj79rOn1qjq98) | 2:33 | 2025-04-10 | 2025-05-10 |
 | [SE MI LASCI DOMANI](https://open.spotify.com/track/4Z8Rrgk9MYwcvMGbxZluuX) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [SE MI LASCI DOMANI](https://open.spotify.com/album/23w6agrUntnc6Ok1A18gvD) | 3:33 | 2023-04-20 | 2023-06-23 |
 | [Se poi domani](https://open.spotify.com/track/32XKm4CJzVNRUCzkhQoX13) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Se poi domani](https://open.spotify.com/album/6gsgGDGj0bfP46w0xCISQ2) | 3:28 | 2023-03-23 | 2023-07-07 |
 | [se ti amo in teoria](https://open.spotify.com/track/7ah7BZBvBrX0JkWzdbyaaa) | [GEREMIA](https://open.spotify.com/artist/0V23jpgaF7Ce7OPGXNQuMu), [MVRZA](https://open.spotify.com/artist/6AwKE4jzOL5dhuJIB5W1eV) | [se ti amo in teoria](https://open.spotify.com/album/2LSUToMiSvYhdKfZPEzhsQ) | 2:10 | 2024-09-26 | 2024-10-04 |

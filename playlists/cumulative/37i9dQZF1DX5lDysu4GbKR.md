@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover: Pink Sweat$
+> Stripped back vibes\. Cover: Gaidaa
 
-273 songs - 16 hr 10 min
+277 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Can't Be Wrong \- Majestic Session](https://open.spotify.com/track/6aTjY2Fj5lbVNy1p7Y0nLd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Can't Be Wrong \(Majestic Session\)](https://open.spotify.com/album/3XyV7eKz63SzZHsxINSi67) | 4:05 | 2021-12-09 |  |
 | [Can't Have It All \(Acoustic\)](https://open.spotify.com/track/2xLhNn8me1FJM9k3m8qCRh) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Can't Have It All \(Acoustic\)](https://open.spotify.com/album/6SwbTc479EogHUYbI7tCan) | 2:58 | 2022-12-15 |  |
 | [Can't Stay](https://open.spotify.com/track/2sVV8LROIH1Z7mJWBBYpkU) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:41 | 2024-11-15 |  |
+| [CARI'S HONEYMOON](https://open.spotify.com/track/0AU4Spk0C443gEWAJ6hUh9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 1:00 | 2025-05-09 |  |
 | [Check \- Acoustic](https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check \(Acoustic\)](https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr) | 3:02 | 2024-08-16 |  |
 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 | 2024-11-01 |  |
 | [Coffee in the Morning](https://open.spotify.com/track/1I3hnFXFmco3dUY2AYcvLL) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [HAVE A NICE DAY!](https://open.spotify.com/album/1I9S6JjC6OtSiNXGNiLMLL) | 3:46 | 2024-01-17 | 2024-04-19 |
@@ -69,6 +70,7 @@
 | [Desert Flower](https://open.spotify.com/track/4fT4kJxP3QfmktqB6hxDhE) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:54 | 2021-12-09 | 2022-10-13 |
 | [Devil That I Know](https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:50 | 2022-06-16 | 2022-08-26 |
 | [Devil That I Know](https://open.spotify.com/track/7bkxJOCyc7dQyQQrOcwXdF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Devil That I Know](https://open.spotify.com/album/3OR56niCd9ULFGRhBsZBn3) | 2:50 | 2021-12-09 | 2022-07-29 |
+| [Distance](https://open.spotify.com/track/4vvjCuR7vAXkE4XUrOgVjm) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 2:33 | 2025-05-09 |  |
 | [Dive Bar \- Demo Version](https://open.spotify.com/track/6uGS5ijqsTxJBopWF2rM7o) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Love, Drugs, & Decisions \(Acoustic\)](https://open.spotify.com/album/78b0W5qCMxiId6ZGnvm2w4) | 3:57 | 2021-12-09 | 2022-01-26 |
 | [DND \- Acoustic](https://open.spotify.com/track/0y9hUWaHuyIBppaKvcjAXt) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [DND \(Acoustic\)](https://open.spotify.com/album/0plcAlY3I6rYDI4nGaWZlp) | 2:18 | 2024-08-09 |  |
 | [Don't Lay It All On Me](https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Don't Lay It All On Me](https://open.spotify.com/album/6cXnkR2AXOQyAAnOLe3OfH) | 3:51 | 2022-09-29 |  |
@@ -107,6 +109,7 @@
 | [Hold On](https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Hold On](https://open.spotify.com/album/6VTfE25P75bAiJWUUKWd3J) | 3:20 | 2021-12-09 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-06-16 | 2023-08-31 |
 | [Horsepower For The Streets \- Acoustic String Version](https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets \(Deluxe Version\)](https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP) | 2:25 | 2023-04-07 |  |
+| [Hues](https://open.spotify.com/track/0cng6ZQ0SnOUsLWMlozTJg) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [WARM](https://open.spotify.com/album/4IJVAYnl2ZtSBeyNGY1j8A) | 2:50 | 2025-05-09 |  |
 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 | 2021-12-09 |  |
 | [Human being](https://open.spotify.com/track/5Qm3pqH0Nwnybuy5MSDJS2) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [Human being](https://open.spotify.com/album/48WCietPwTNvv69myEUp4O) | 2:52 | 2023-12-14 |  |
 | [I Can't Make You Love Me \(feat\. Nick Dow\)](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [Nick Dow](https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca) | [I Can't Make You Love Me \(feat\. Nick Dow\) \[Live at the Auckland Town Hall, featuring Nick Dow on Piano\]](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 | 2021-12-09 |  |
@@ -280,6 +283,7 @@
 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-14 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2021-12-09 | 2023-04-09 |
 | [YOU \- Live](https://open.spotify.com/track/7MM899Zw7uVEWwWpSUOLUJ) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [YOU \(Live\)](https://open.spotify.com/album/1asr3WiGnqxr2bwuyPjmx4) | 3:24 | 2024-11-08 |  |
+| [You Look Like Love](https://open.spotify.com/track/04xIUPk0TBTfpv3O42qGzi) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Before You Go](https://open.spotify.com/album/5w1CiB6umzBpiB6FjYWxVX) | 4:13 | 2025-05-09 |  |
 | [You Win](https://open.spotify.com/track/5oLHZYHAvYXmIt3AEqm2PE) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [You Win](https://open.spotify.com/album/7AWkXbVuFinaGlItRtCR0o) | 2:39 | 2021-12-09 | 2024-02-09 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

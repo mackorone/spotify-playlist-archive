@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring Spacey Jane 🍑
 
-234 songs - 12 hr 48 min
+235 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [false gold \- Imogen Heap Remix](https://open.spotify.com/track/1FTDuTMJLeUkmDx7O6TUbl) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [ai.mogen](https://open.spotify.com/artist/77mYai06p9Ju6y5pyGBH4C), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [false gold \(Imogen Heap Remix\)](https://open.spotify.com/album/3HDQvr31JTdn7QMFEM7G5K) | 3:38 | 2024-06-14 | 2025-01-24 |
 | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 | 2024-06-14 | 2025-01-24 |
 | [Feel Anything](https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Feel Anything](https://open.spotify.com/album/3lOds66db1cRvTTO6Gcx4a) | 2:42 | 2025-01-24 |  |
-| [Feral](https://open.spotify.com/track/22iHFRz6uGaWpeThdeww09) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Feral](https://open.spotify.com/album/53fLgn5m83bKdJ1Bszg5en) | 3:04 | 2025-01-24 |  |
+| [Feral](https://open.spotify.com/track/22iHFRz6uGaWpeThdeww09) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Feral](https://open.spotify.com/album/53fLgn5m83bKdJ1Bszg5en) | 3:04 | 2025-01-24 | 2025-05-10 |
 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 | 2025-04-12 |  |
 | [follow you back home](https://open.spotify.com/track/08Ps8ypLWzDDTVsM3qCFDv) | [gcmayn](https://open.spotify.com/artist/3n24tWtdvGsJFqsQcm9ujR) | [follow you back home](https://open.spotify.com/album/33YmkEWW1GKpoxNp9aSfDI) | 2:18 | 2025-05-08 |  |
 | [Forgive to Forget](https://open.spotify.com/track/1Z9kJcKVm7OLSpesWRwgTW) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Forgive to Forget](https://open.spotify.com/album/1NHPGsNKeOL0MDHqIkomRt) | 4:15 | 2024-06-14 | 2024-09-21 |
@@ -157,6 +157,7 @@
 | [miss american dream](https://open.spotify.com/track/36INfE0gV6do8vfa7QHoki) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn), [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [miss american dream](https://open.spotify.com/album/2gsa6Xm1r2hbXkeH9FVvsW) | 3:16 | 2024-06-14 | 2024-10-04 |
 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2025-01-24 |  |
 | [monsters](https://open.spotify.com/track/7BFIBULShxfEOaPEHUZP61) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [monsters](https://open.spotify.com/album/7sUVCCRwEkQHONmQ7A2aAU) | 2:26 | 2024-07-12 | 2024-08-22 |
+| [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-08 |  |
 | [Moving Slow](https://open.spotify.com/track/28ePKpOvM6q9t2HLm1K4OG) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/2AoyVm8A8ZfkbRzij3qq7i) | 3:51 | 2024-06-14 | 2024-08-22 |
 | [Mr Useless](https://open.spotify.com/track/0B2jp7LW4HL9tfEBOwQ8Td) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Third Second Chance](https://open.spotify.com/album/2g8QiLGGO8oUhCeQuPgBFv) | 2:59 | 2024-06-14 | 2024-08-22 |
 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 | 2024-06-14 | 2025-04-13 |

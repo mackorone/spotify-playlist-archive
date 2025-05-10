@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ season is officially here!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,756 likes - 434 songs - 1 day 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,797 likes - 434 songs - 1 day 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 23 | [Forever](https://open.spotify.com/track/3fsJKg6QgcYrSRK5MhBxAa) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Lost / Forever](https://open.spotify.com/album/4EqRyqNNtTOtWPrNLhKZJi) | 3:27 |
 | 24 | [All The Love \- WhoMadeWho & Samm Remix](https://open.spotify.com/track/1EBkH56rR8EunWZkcQjQ1r) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [All The Love \(WhoMadeWho & Samm Remix\)](https://open.spotify.com/album/26MwrKWXpUpEV8AnnoHNiY) | 4:26 |
 | 25 | [Valodja \(Liva K Remix\)](https://open.spotify.com/track/6crRAkisXn9J3THH4yWX3S) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Valodja \(Liva K Remix\)](https://open.spotify.com/album/3aYmKkfbN0Gln01YMAYWAD) | 3:16 |
-| 26 | [My Soul \(Yet More Remix\)](https://open.spotify.com/track/020hzFqngd7sWHK3k50Bqm) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Teymour Khalatbari](https://open.spotify.com/artist/4VKd1W7t9AVDCLfkJPlKd4), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [My Soul](https://open.spotify.com/album/2Nelp3PgBk6sYm9NDsiwiQ) | 4:38 |
+| 26 | [My Soul \(Yet More Remix\)](https://open.spotify.com/track/020hzFqngd7sWHK3k50Bqm) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [My Soul](https://open.spotify.com/album/2Nelp3PgBk6sYm9NDsiwiQ) | 4:38 |
 | 27 | [Not Going Home](https://open.spotify.com/track/0IZVjZNdDhjb1pXydPA6AU) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Not Going Home](https://open.spotify.com/album/5xmMohRmdN6r1DnOcnqNFC) | 3:29 |
 | 28 | [The Black Dream](https://open.spotify.com/track/5EOSz05uxwecWAT6ajXt69) | [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [The Black Dream](https://open.spotify.com/album/2UsqTXVahxb1PCE1DuiXSP) | 4:20 |
 | 29 | [Breathe \- Andrea Oliva Remix](https://open.spotify.com/track/4nP9vG8WxEwXJVwth6eq1H) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Inhale / Exhale Remixed](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 5:11 |

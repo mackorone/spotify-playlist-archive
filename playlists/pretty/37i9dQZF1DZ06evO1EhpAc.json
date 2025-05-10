@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9418,
+  "num_followers": 9422,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAAALRoz4DmJ80ED3fSOs3uza",
+  "snapshot_id": "aBv0AAAAAABrqL46ZyXdiUzH1M5wmzWW",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "easy breezy",
-        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "easy breezy",
-      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel It Out",
         "url": "https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 196364,
       "name": "Feel It Out",
       "url": "https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
     },
     {
       "added_at": null,
@@ -319,30 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe In Ya (Max Tundra Remix)",
-        "url": "https://open.spotify.com/album/2sNg4t68Q3df4zOoBG7at6"
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
       "artists": [
         {
-          "name": "Girl Talk",
-          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Max Tundra",
-          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
         }
       ],
-      "duration_ms": 284411,
-      "name": "Believe In Ya (Max Tundra Remix)",
-      "url": "https://open.spotify.com/track/1Tlr1PHzDwaPJVRUD6A1bo"
+      "duration_ms": 218910,
+      "name": "After That",
+      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
     },
     {
       "added_at": null,
@@ -407,18 +395,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+        "name": "Believe In Ya (Max Tundra Remix)",
+        "url": "https://open.spotify.com/album/2sNg4t68Q3df4zOoBG7at6"
       },
       "artists": [
         {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Max Tundra",
+          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
         }
       ],
-      "duration_ms": 218910,
-      "name": "After That",
-      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
+      "duration_ms": 284411,
+      "name": "Believe In Ya (Max Tundra Remix)",
+      "url": "https://open.spotify.com/track/1Tlr1PHzDwaPJVRUD6A1bo"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Full of It",
-      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 196923,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
     },
     {
       "added_at": null,

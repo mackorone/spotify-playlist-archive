@@ -4,7 +4,7 @@
 
 > Lo mejor del electropop latino\. Foto: CAMI
 
-174 songs - 11 hr 4 min
+175 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [I SEE U LATER](https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [I SEE U LATER](https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl) | 3:25 | 2023-12-15 | 2024-10-19 |
 | [Im a Star](https://open.spotify.com/track/1As9E1SkTEgCyggNXDwjbB) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [Im a Star](https://open.spotify.com/album/1zebOb5UkfBDAj19xWBgBx) | 2:27 | 2024-04-12 |  |
 | [Inevitable](https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C) | [Linxes](https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx) | [Inevitable](https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD) | 2:50 | 2024-10-18 |  |
+| [Intento](https://open.spotify.com/track/3gsog6UPpHdPfYC59Ptws6) | [Lainus](https://open.spotify.com/artist/3usHdM5IQcWhHbWqQPf3iO) | [Intento](https://open.spotify.com/album/5bhpNyL25mbjaueL5oPTtN) | 3:06 | 2025-05-09 |  |
 | [Juego Amoroso](https://open.spotify.com/track/0z40KTSBqMWIhoFsGF2K9U) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Cecilia Aguayo](https://open.spotify.com/artist/6rXlCSp0d779BSfgaIvCI2) | [Juego Amoroso](https://open.spotify.com/album/0J6rQSqSd7VADiee89nGdv) | 4:18 | 2024-03-08 |  |
 | [La Casa del Amor Nocturno](https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9) | 5:01 | 2024-03-08 |  |
 | [La Montaña](https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8) | [Fakuta](https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD) | [La Montaña](https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL) | 3:55 | 2023-09-08 | 2024-10-19 |

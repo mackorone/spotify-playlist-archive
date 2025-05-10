@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Ramè in cover della playlist dell'R&B italiano 🎧
+> Shablo & Co in cover della playlist dell'R&B italiano 🎧
 
-771 songs - 1 day 14 hr 9 min
+774 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Interno N.6](https://open.spotify.com/track/57SBANqHenDufs98cl35Vl) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Interno N.6](https://open.spotify.com/album/3TBGbh3LTDNsCUMHWX766z) | 3:24 | 2022-06-30 | 2022-09-30 |
 | [invidiosa](https://open.spotify.com/track/6cygIx1k0KcUjGlJXY65Ra) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [invidiosa](https://open.spotify.com/album/4h8OEFdmS8Oj3XQdyPdp42) | 2:41 | 2024-05-02 | 2024-10-25 |
 | [Invisibile](https://open.spotify.com/track/16ul9kzVQqpjdFat8gRbeM) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Invisibile](https://open.spotify.com/album/56qIcB3BWjrEyKy49HB32z) | 2:47 | 2022-05-05 | 2022-08-12 |
+| [invisibile \(feat\. Federico Di Napoli\)](https://open.spotify.com/track/02jOcdjDq5cFoFA1lug3RL) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx), [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu) | [invisibile \(feat\. Federico Di Napoli\)](https://open.spotify.com/album/1maQUoFdBVe0UjoI5VIs0d) | 3:01 | 2025-05-09 |  |
 | [Io sono in paranoia](https://open.spotify.com/track/4TvvAnvrvyQmdJgv7FASaF) | [L'Alba](https://open.spotify.com/artist/1MZ9OluQIQngTfG27rhOcj), [Saffi](https://open.spotify.com/artist/33DnVEwpiJGyHynUdQR0VR), [Yako](https://open.spotify.com/artist/5R2zIsjbgxycc2BH8BPFV8) | [Io sono in paranoia](https://open.spotify.com/album/7sEJpEQ8zRtMwv7AD5ujVE) | 2:16 | 2022-06-23 | 2022-09-09 |
 | [Ion](https://open.spotify.com/track/1YmNkL6FHnO8GgpN2HqWaS) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 3:25 | 2022-05-26 | 2022-07-29 |
 | [Janara](https://open.spotify.com/track/6c2To2ELFZ6MEPQCPHZLiq) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Janara](https://open.spotify.com/album/0swEfPxCi3RN3unHRXUMJf) | 2:55 | 2023-05-11 | 2023-10-06 |
@@ -720,6 +721,7 @@
 | [Tu fai di me](https://open.spotify.com/track/2eRRyG0grWuOCq6iJ1snDh) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Tu fai di me](https://open.spotify.com/album/2UYzngGg1XVBrbOXNOWdW4) | 3:10 | 2023-05-25 | 2023-06-23 |
 | [Tu Me Faje Murí](https://open.spotify.com/track/0KjwK1p3zAWiyrN2M3x1gb) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Tu Me Faje Murí](https://open.spotify.com/album/1XJbJoFrOUUhMymaZoEKUP) | 3:20 | 2024-09-05 | 2024-12-13 |
 | [tu sonrisa de diseño](https://open.spotify.com/track/53FfBBPlNbJS170DxtuSWS) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [iako](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [tu sonrisa de diseño](https://open.spotify.com/album/6hX4z8fr1EHZs8lOnhanG9) | 2:48 | 2022-05-05 | 2022-07-29 |
+| [Tunnel](https://open.spotify.com/track/0DBV5Pe201bmncX6xwsTkc) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Notturno](https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw) | 2:51 | 2025-05-09 |  |
 | [Turn Up \#4](https://open.spotify.com/track/3gONZ1bwG2xJFOr8TI0Sz1) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [Turn Up \#4](https://open.spotify.com/album/2SUjwyPhhmrqYsCTKPwDya) | 2:38 | 2022-10-27 | 2022-12-02 |
 | [tutta la città](https://open.spotify.com/track/5jZ3gAws7oYZcJ9e9moN2u) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [tutta la città](https://open.spotify.com/album/1Vnpi1IsmucBnoouygSyTI) | 2:55 | 2022-05-05 | 2022-10-14 |
 | [tutte le mie notti](https://open.spotify.com/track/4VfUYdqzEyN7B90jPEAmJY) | [main](https://open.spotify.com/artist/1c7qYAfX0Rwg1woBsqpCzz), [bless](https://open.spotify.com/artist/51omrX2a1LfghTD6LIAPkN) | [tutte le mie notti](https://open.spotify.com/album/1kTreH9Rqi48aRpAa4sC4u) | 2:56 | 2024-09-05 | 2025-03-07 |
@@ -760,6 +762,7 @@
 | [Vienna](https://open.spotify.com/track/53KrUxwMNVHjLILF1jyAfn) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Vienna](https://open.spotify.com/album/3FP4ojnhOoKc2GKj5L85yu) | 2:37 | 2022-06-02 | 2022-07-29 |
 | [Vivere](https://open.spotify.com/track/40P8i5YKA3xMDSozUw1vgK) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Vivere](https://open.spotify.com/album/6REfVvtABJIP3wVIvoyOEP) | 2:19 | 2023-09-28 | 2023-10-27 |
 | [VIVO!](https://open.spotify.com/track/2NX0FgRvkxumI1oUasjDNg) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [VIVO!](https://open.spotify.com/album/1Ym4vf6OSKx3lVgv97TW8h) | 2:46 | 2024-06-13 | 2024-09-27 |
+| [voce](https://open.spotify.com/track/1FDhFlvgowZCuSrkO3wYb6) | [gnvra](https://open.spotify.com/artist/0HdDGvPohyWskzqRBOWU4S) | [voce](https://open.spotify.com/album/0aLjKGGhv6lp8SIFcixbaK) | 2:40 | 2025-05-09 |  |
 | [Voglia Malinconia](https://open.spotify.com/track/6mxNu4CCgwjxzp7UXr1IqK) | [ramé](https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw) | [Voglia Malinconia](https://open.spotify.com/album/3VeTfVKsw1RR1gUJrmDgj9) | 2:54 | 2024-12-12 |  |
 | [Voglio di più](https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7) | [estro](https://open.spotify.com/artist/20UtSgbibao6RDTnUyiyIn) | [Voglio di più](https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF) | 2:35 | 2024-06-20 | 2024-10-04 |
 | [Volevo Portarti Al Mare](https://open.spotify.com/track/0GXIWEkfHN5RE3G9Y67bqr) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Volevo Portarti Al Mare](https://open.spotify.com/album/0KIp2ubNGwlo2H9DDpegfV) | 3:17 | 2022-05-26 | 2023-04-14 |

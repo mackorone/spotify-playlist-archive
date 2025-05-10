@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1686668,
+  "num_followers": 1686906,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV"
-      },
-      "artists": [
-        {
-          "name": "Dave Armstrong",
-          "url": "https://open.spotify.com/artist/4wknbsqzOCI7g8xihM7QP7"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Make Your Move - Radio Edit",
-      "url": "https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 220320,
       "name": "Behind - Callea Radio Mix",
       "url": "https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV"
+      },
+      "artists": [
+        {
+          "name": "Dave Armstrong",
+          "url": "https://open.spotify.com/artist/4wknbsqzOCI7g8xihM7QP7"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Make Your Move - Radio Edit",
+      "url": "https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "I Am The Club Rocker",
         "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
       },
@@ -1719,6 +1735,22 @@
       "duration_ms": 224533,
       "name": "Sun Is Up - Play & Win Radio Edit",
       "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Deep Inside (2009 Mixes)",
+        "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392668,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1739,18 +1771,38 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "The Longest Road",
+        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
+      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1791,26 +1843,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "The Longest Road",
-        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
-      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Best of Alter Ego",
         "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
       },
@@ -1823,38 +1855,6 @@
       "duration_ms": 288053,
       "name": "Rocker",
       "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Deep Inside (2009 Mixes)",
-        "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 392668,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Dance4Life (feat. Maxi Jazz)",
-        "url": "https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Maxi Jazz",
-          "url": "https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq"
-        }
-      ],
-      "duration_ms": 213320,
-      "name": "Dance4Life (feat. Maxi Jazz) - Radio Edit",
-      "url": "https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/00vuTPggKkAZ4qGcsYE1zm"
       },
@@ -2015,6 +1995,26 @@
       "duration_ms": 183146,
       "name": "It's Too Late - Dirty South",
       "url": "https://open.spotify.com/track/6GbAqnbj3diM6MvVc1oiKt"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Dance4Life (feat. Maxi Jazz)",
+        "url": "https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Maxi Jazz",
+          "url": "https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq"
+        }
+      ],
+      "duration_ms": 213320,
+      "name": "Dance4Life (feat. Maxi Jazz) - Radio Edit",
+      "url": "https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2119,26 +2119,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Elements of Life",
-        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 420546,
-      "name": "Everything (feat. JES)",
-      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/00vuTPggKkAZ4qGcsYE1zm"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 189000,
       "name": "You Make Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/55nlD6bpoWk0ZwCnn7PTDt"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Elements of Life",
+        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 420546,
+      "name": "Everything (feat. JES)",
+      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
     },
     {
       "added_at": "2024-07-12 15:40:20",

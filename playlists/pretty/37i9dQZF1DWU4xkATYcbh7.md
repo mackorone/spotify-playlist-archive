@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 
 > Get amped!  Listen to the official soundtrack for Tony Hawk’s Pro Skater 3+4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,297 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,893 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 | 9 | [New York City](https://open.spotify.com/track/2eAUmupMVz9Hozf4gJ9L4l) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Sonic Temple](https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV) | 4:41 |
 | 10 | [A Foul Form](https://open.spotify.com/track/0dZ3XsTXMOpXE2fMRfV6Ko) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [A Foul Form](https://open.spotify.com/album/6KbOhrDyyCuTtqsknmyX4w) | 1:51 |
 | 11 | [uknowhatimsayin¿](https://open.spotify.com/track/1YV1i71ubI6EmKCBOSSufi) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [uknowhatimsayin¿](https://open.spotify.com/album/5RCXsrdnNwXGDgKVYpWKHW) | 2:55 |
-| 12 | [In the City](https://open.spotify.com/track/2R2PDn38jJG0Oj35brA4es) | [Tony Hawk](https://open.spotify.com/artist/1XWGJNww9690UJ1GmXq4Sk), [Punk Rock Karaoke](https://open.spotify.com/artist/2AAW0UubUv6ZiTKCAP7x5N) | [In The City](https://open.spotify.com/album/00Kqo28njLLiNWOzWv2TMj) | 2:26 |
-| 13 | [The Boy Who Destroyed The World](https://open.spotify.com/track/1Cslhx9RYXYY9yphPdherP) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Music For The Soul Vol 5](https://open.spotify.com/album/0huRI7Mef6x5fn3hrX9Bw5) | 3:05 |
+| 12 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 |
+| 13 | [In the City](https://open.spotify.com/track/2R2PDn38jJG0Oj35brA4es) | [Tony Hawk](https://open.spotify.com/artist/1XWGJNww9690UJ1GmXq4Sk), [Punk Rock Karaoke](https://open.spotify.com/artist/2AAW0UubUv6ZiTKCAP7x5N) | [In The City](https://open.spotify.com/album/00Kqo28njLLiNWOzWv2TMj) | 2:26 |
 | 14 | [BETTER OFF](https://open.spotify.com/track/3bmLQ2dntVPxWMipSZDOBy) | [Common Perry](https://open.spotify.com/artist/4XjJbzwCf6AOYhUsG15Z2G) | [BETTER OFF](https://open.spotify.com/album/6adJptcl08ngKGQ3YVZqO1) | 2:32 |
 | 15 | [East of the 405](https://open.spotify.com/track/3fGU4O0wjsLvVd2CZKZKWE) | [Strawberry Fuzz](https://open.spotify.com/artist/5xadFKKSMplAet2Es2y0i2) | [Strongs Dr.](https://open.spotify.com/album/1UOc2j96BYyNJuzdckufFh) | 2:06 |
 | 16 | [L.A.](https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt) | [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Murray's Revenge](https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 | 59 | [Roadkill](https://open.spotify.com/track/6SIY0L1eW6lnspLovq8nCW) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 2:22 |
 | 60 | [Amoeba](https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d) | 3:06 |
 
-Snapshot ID: `aBzVEQAAAAAckWxbWWCOq1TSr9qNqc7w`
+Snapshot ID: `aB4M9gAAAADzHLNOJRuNGsHwCOQqyEkB`

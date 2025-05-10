@@ -4,7 +4,7 @@
 
 > sexy afrobeats
 
-133 songs - 6 hr 47 min
+134 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 | 2024-09-13 |
 | [Room 69](https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:09 | 2024-02-09 | 2024-03-29 |
 | [Rum & Butter](https://open.spotify.com/track/1UVy3p0uQqnWi9kndjhNCC) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 4:25 | 2024-02-09 | 2024-04-26 |
+| [Samory](https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM) | [Dahvi](https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt) | [Samory](https://open.spotify.com/album/2zGag5WZkERb7PpoVu2SuP) | 2:41 | 2025-05-09 |  |
 | [Sexual Healing](https://open.spotify.com/track/5UlIQlThsFv7qCEhQbR5EG) | [Eli Jae](https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ) | [Sexual Healing](https://open.spotify.com/album/0B3HUlpNETv0FAF7grb0Sd) | 2:55 | 2025-03-28 |  |
 | [Shadow](https://open.spotify.com/track/3nRNBZWIeLWfXKvuLuyiWl) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Shadow](https://open.spotify.com/album/2cJLHEoYe1o1NkeexIWMRS) | 2:49 | 2024-02-09 | 2024-03-15 |
 | [Shady](https://open.spotify.com/track/0N0avWHBgmoKLqmyMlEHvZ) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Shady](https://open.spotify.com/album/6295ZTH8yEMfO8CRvBeJoo) | 3:32 | 2024-05-17 | 2024-08-31 |

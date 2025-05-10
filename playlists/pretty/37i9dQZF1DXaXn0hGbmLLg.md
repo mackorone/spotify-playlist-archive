@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! Benelux ambassador: <a href="spotify:artist:2qVi7G7OjgVXyl9zxabzTQ">Sarah Julia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,113 likes - 83 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,114 likes - 83 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 57 | [ROUGE À LÈVRES](https://open.spotify.com/track/2kp9Sk1o4vVUBvNPR49879) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [ROUGE À LÈVRES](https://open.spotify.com/album/1Pz1Znu69a93P16a0vrbES) | 2:32 |
 | 58 | [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 |
 | 59 | [USA](https://open.spotify.com/track/02clCdkx74qchfAvoJiNgl) | [May The Muse](https://open.spotify.com/artist/1IrFtEbmhbGENE14a9hV7s) | [USA](https://open.spotify.com/album/423UyJ4qEV5xyIuCOLZvka) | 3:11 |
-| 60 | [Are You Sorry Now](https://open.spotify.com/track/3YaiC0QULDTj6VqpWWNcce) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Are You Sorry Now](https://open.spotify.com/album/5JGuqtgOld0j5KsQiNtujG) | 2:50 |
+| 60 | [Are You Sorry Now?](https://open.spotify.com/track/3YaiC0QULDTj6VqpWWNcce) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Are You Sorry Now?](https://open.spotify.com/album/5JGuqtgOld0j5KsQiNtujG) | 2:50 |
 | 61 | [Ah Min Hala](https://open.spotify.com/track/2AfIs1TZDz9zyTOEbwP33i) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Ah Min Hala](https://open.spotify.com/album/3hOtTZjlcdlJw7eOdxPoLW) | 2:12 |
 | 62 | [Hush](https://open.spotify.com/track/6zgZQ0Txc4cpF03TAjnEMJ) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts \(Deluxe\)](https://open.spotify.com/album/7rkuRWugpXPOj9KVaYQZlM) | 2:09 |
 | 63 | [Killing Time](https://open.spotify.com/track/5faNmEw9yCofUMkLSkdB9t) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Killing Time](https://open.spotify.com/album/3gck5lYZG61SN078f9d67Z) | 2:49 |

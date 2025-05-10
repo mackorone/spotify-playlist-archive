@@ -2881,6 +2881,28 @@
     },
     {
       "album": {
+        "name": "Honky Tonk Hell",
+        "url": "https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195732,
+      "name": "Honky Tonk Hell",
+      "url": "https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO"
+    },
+    {
+      "album": {
         "name": "GET ON BOARD",
         "url": "https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z"
       },
@@ -4568,7 +4590,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 205026,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb"
@@ -6090,7 +6112,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 278474,
       "name": "Somebody Tryin\u2019 to Hoodoo Me",
       "url": "https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR"
@@ -7380,6 +7402,32 @@
       "duration_ms": 251503,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/5Z6HBuy8X9MPFq5pIhrEvA"
+    },
+    {
+      "album": {
+        "name": "Roll Mega",
+        "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
+      },
+      "artists": [
+        {
+          "name": "Roll Mega",
+          "url": "https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1"
+        },
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "Twist Your Arm",
+      "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
     },
     {
       "album": {

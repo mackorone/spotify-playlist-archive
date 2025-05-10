@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Pink Floyd at Pompeii - MCMLXXII (2025 Mix)",
+        "url": "https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610025,
+      "name": "A Saucerful of Secrets - Live at Pompeii - MCMLXXII - 2025 Mix",
+      "url": "https://open.spotify.com/track/6H8bTyaMQLHM1edABS1MNf"
+    },
+    {
+      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
@@ -524,7 +542,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 184040,
       "name": "Obscured by Clouds",
       "url": "https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 354613,
       "name": "One of These Days",
       "url": "https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 355874,
       "name": "One of These Days - Live at Pompeii - MCMLXXII - 2025 Mix",
       "url": "https://open.spotify.com/track/10q3BFCZ61K1rvMZAYvqYi"
@@ -726,6 +744,24 @@
       "duration_ms": 173800,
       "name": "See Emily Play",
       "url": "https://open.spotify.com/track/1YZuigG1YcdgbfD7XJoCU5"
+    },
+    {
+      "album": {
+        "name": "Pink Floyd at Pompeii - MCMLXXII (2025 Mix)",
+        "url": "https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 629257,
+      "name": "Set the Controls for the Heart of the Sun - Live at Pompeii - MCMLXXII - 2025 Mix",
+      "url": "https://open.spotify.com/track/4Ik6MZgx9KiJpslsXJBn1j"
     },
     {
       "album": {

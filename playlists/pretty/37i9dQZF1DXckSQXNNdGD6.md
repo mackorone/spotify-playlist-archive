@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: María Peláe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,322 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,304 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 30 | [MULTIORGASMIKA](https://open.spotify.com/track/10Kup2Q1oop6WjWaNAy183) | [MIGUELITA](https://open.spotify.com/artist/5ft3Lm4NT2TwfPbzEmudjN) | [SOY UNA PUTA ESTRELLA](https://open.spotify.com/album/5yKge4FKRK2vQJkCquAKVY) | 2:45 |
 | 31 | [La Eternidad](https://open.spotify.com/track/1RSDkkGBXP1EGuhvZBf2BF) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [La Eternidad](https://open.spotify.com/album/6m9rWwWLMuTatgqfNrsPSr) | 3:45 |
 | 32 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [MARTIN](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
-| 33 | [XXL](https://open.spotify.com/track/2VtCQgBsKrwpi22g8q5nWz) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [XXL](https://open.spotify.com/album/2xWGZx7WeIt5sVKAFWC51e) | 2:36 |
-| 34 | [PRIVADO](https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [EL NENE, VOL\. 1](https://open.spotify.com/album/2BBpvXStR1P4uoVmtce2kx) | 2:19 |
-| 35 | [Decírtelo](https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Decírtelo](https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ) | 2:36 |
+| 33 | [Decírtelo](https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Decírtelo](https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ) | 2:36 |
+| 34 | [XXL](https://open.spotify.com/track/2VtCQgBsKrwpi22g8q5nWz) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [XXL](https://open.spotify.com/album/2xWGZx7WeIt5sVKAFWC51e) | 2:36 |
+| 35 | [PRIVADO](https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [EL NENE, VOL\. 1](https://open.spotify.com/album/2BBpvXStR1P4uoVmtce2kx) | 2:19 |
 | 36 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 |
 | 37 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
 | 38 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |

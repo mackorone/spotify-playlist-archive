@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Alli Walker",
+  "description": "The home of Canadian country music. Cover: Thelma & James",
   "name": "North Country",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 144307,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/7atCOAWrcPK8Q2GLPdZN4k"
@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Chainsmokin Memories",
+        "url": "https://open.spotify.com/album/3rt7VMQTX8Iw19AuWgTzOz"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177967,
+      "name": "Chainsmokin Memories",
+      "url": "https://open.spotify.com/track/7wOSFDy8zijPSlA3y064Oz"
+    },
+    {
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/1Q303HZ7KT6B5xGlfJBF6c"
       },
@@ -616,7 +634,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 208425,
       "name": "Coming Home To You (Bigger Houses) [feat. Owen Riegling]",
       "url": "https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT"
@@ -868,7 +886,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 188544,
       "name": "Dishonest",
       "url": "https://open.spotify.com/track/0CFpvRMXVlBbGBqKduQGTW"
@@ -1342,6 +1360,24 @@
       "duration_ms": 167386,
       "name": "Got It",
       "url": "https://open.spotify.com/track/1hJzdE1N69zSEmG5VIhEwy"
+    },
+    {
+      "album": {
+        "name": "Gotta Be Country",
+        "url": "https://open.spotify.com/album/2etCBGd1lP6hjRyFTiLZQj"
+      },
+      "artists": [
+        {
+          "name": "The Martin Boys",
+          "url": "https://open.spotify.com/artist/0Jjl71AwTHhQlvhSeugY8k"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194307,
+      "name": "Gotta Be Country",
+      "url": "https://open.spotify.com/track/556NgrV6yBcJ7jLkqUwj4P"
     },
     {
       "album": {
@@ -2662,7 +2698,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 219396,
       "name": "Neon Cowgirl",
       "url": "https://open.spotify.com/track/6EViVjzk04NKzhVMtMxvbk"
@@ -2760,6 +2796,24 @@
       "duration_ms": 178240,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/0hDhVVVJWkT6HfAvZa5DbK"
+    },
+    {
+      "album": {
+        "name": "Nice Girl",
+        "url": "https://open.spotify.com/album/4ZUYCh9U0NSUnsz3r3TRpv"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160574,
+      "name": "Nice Girl",
+      "url": "https://open.spotify.com/track/2TylYUOGXjj0lXFqlNn6zK"
     },
     {
       "album": {
@@ -4076,7 +4130,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 168319,
       "name": "Tomorrows Left",
       "url": "https://open.spotify.com/track/4GAvEtCD0kRDP6qhUIg9zP"
@@ -4268,6 +4322,42 @@
       "duration_ms": 237186,
       "name": "Water in the fuel",
       "url": "https://open.spotify.com/track/3dMnMAkB1zzSe9yZxaYGuA"
+    },
+    {
+      "album": {
+        "name": "We're Back Baby",
+        "url": "https://open.spotify.com/album/3Rc4srVXAoiEb8xvntja2R"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192475,
+      "name": "We're Back Baby",
+      "url": "https://open.spotify.com/track/7s7vDLLuk3yVjwsoVPMkyH"
+    },
+    {
+      "album": {
+        "name": "Western Wind",
+        "url": "https://open.spotify.com/album/5zh5UmVMhLKwa1yJX8pSq7"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172823,
+      "name": "Western Wind",
+      "url": "https://open.spotify.com/track/5FuDbCYf4LAn3BjMMN85Y1"
     },
     {
       "album": {
@@ -4629,6 +4719,24 @@
     },
     {
       "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/0HFWQXxhxtlJ4ztZUIkjpW"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184155,
+      "name": "You Problem",
+      "url": "https://open.spotify.com/track/4EZvWqWbZtOdCPa8P5jzET"
+    },
+    {
+      "album": {
         "name": "You're Gonna Fall",
         "url": "https://open.spotify.com/album/0wSXHbSfSsIbSJD9X0jXXV"
       },
@@ -4644,7 +4752,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 151320,
       "name": "You're Gonna Fall",
       "url": "https://open.spotify.com/track/1lIv7tnLHNRKjQ6CxJjiIW"

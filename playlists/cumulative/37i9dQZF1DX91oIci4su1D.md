@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Paul van Dyk
 
-1,114 songs - 2 day 19 hr 4 min
+1,115 songs - 2 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [All Falls Down](https://open.spotify.com/track/7mbUX7eBTYdN0FNNQqbdyy) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Florentin](https://open.spotify.com/artist/4h5iVy88coDjOop3wM2wTp), [Kyle Anson](https://open.spotify.com/artist/0FeeM3GXVth20s0RWfI5rE) | [Lifeline](https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL) | 3:06 | 2023-02-17 | 2023-07-22 |
 | [All I Want](https://open.spotify.com/track/0Xg6Qq6FNmO5GaCD9S8fHY) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [All I Want](https://open.spotify.com/album/6D2PFcFuKxjKocz9GQhBQV) | 2:55 | 2022-11-04 | 2022-12-03 |
 | [All in Good Time \- Club Radio Edit](https://open.spotify.com/track/0qRBsTdkWas8ILZVaNdGCN) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [All in Good Time \(Mixes\)](https://open.spotify.com/album/7EC4C9B2M1KXarfsA05uOx) | 2:26 | 2025-04-25 |  |
+| [All My Friends Are Hot](https://open.spotify.com/track/5wFAjL87NaTfP8ENFygsuO) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [All My Friends Are Hot](https://open.spotify.com/album/7N1JTF637mtXoRoEtSyE77) | 3:26 | 2025-05-09 |  |
 | [All Night](https://open.spotify.com/track/0zlr4Q8qZZWfM8ezyrDAWe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [All Night](https://open.spotify.com/album/642I33KMPYEosGoSDAtHD8) | 3:03 | 2025-01-31 |  |
 | [All or Nothing](https://open.spotify.com/track/5pUozP7ECHhMLAgRCR9z6y) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [All or Nothing](https://open.spotify.com/album/0Z74bCmcj81sCytlEFDvp2) | 3:29 | 2022-08-19 | 2022-09-03 |
 | [All Over My Skin](https://open.spotify.com/track/5qVkxrb06HPP4t592deVJH) | [EMBERS](https://open.spotify.com/artist/1o4OrJNVM9ZSj0paJaEVxk), [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Ava La'Rae](https://open.spotify.com/artist/5qCHujnLBXrf4txu5pTWOm) | [All Over My Skin](https://open.spotify.com/album/1K4I9cTFAZfZw4Kc8hN9vM) | 2:56 | 2021-12-17 | 2022-02-26 |

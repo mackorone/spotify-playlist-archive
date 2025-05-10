@@ -1047,6 +1047,36 @@
     },
     {
       "album": {
+        "name": "Me Odeia",
+        "url": "https://open.spotify.com/album/3RUjdzJpBdYUZk890VhLPY"
+      },
+      "artists": [
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Me Odeia",
+      "url": "https://open.spotify.com/track/1DoSOQe0UYjAfYul1LKoXU"
+    },
+    {
+      "album": {
         "name": "Meio Dia",
         "url": "https://open.spotify.com/album/11CDv8nWVPsvCRNuuP5I2y"
       },
@@ -1066,7 +1096,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 243112,
       "name": "Meio Dia",
       "url": "https://open.spotify.com/track/2LjonKYRikUx7H3H96MbBi"

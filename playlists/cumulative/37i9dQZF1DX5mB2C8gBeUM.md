@@ -2,7 +2,7 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: ERNEST and Snoop Dogg
+> Country gone wild! You never know what you're gonna get\. Cover: Graham Barham
 
 515 songs - 1 day 1 hr 32 min
 

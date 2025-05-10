@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "bands and tracks on the rise in heavy music. Cover: Knosis",
+  "description": "bands and tracks on the rise in heavy music. Cover: Orthodox",
   "name": "New Blood",
   "tracks": [
     {
@@ -1729,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "helium",
+        "url": "https://open.spotify.com/album/5WjiWOcFguju9bZkfXk2DR"
+      },
+      "artists": [
+        {
+          "name": "AVRALIZE",
+          "url": "https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215421,
+      "name": "helium",
+      "url": "https://open.spotify.com/track/2N8djHgfdViWfGSxJpJO0c"
+    },
+    {
+      "album": {
         "name": "Her Eyes",
         "url": "https://open.spotify.com/album/1HlRjRD9b4DZriCMW3WvNg"
       },
@@ -2054,6 +2072,24 @@
       "duration_ms": 195306,
       "name": "K.M.B.",
       "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
+    },
+    {
+      "album": {
+        "name": "Keep Your Blessings",
+        "url": "https://open.spotify.com/album/1cwSqnPyYZ5v2oLwFefmwc"
+      },
+      "artists": [
+        {
+          "name": "Orthodox",
+          "url": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209558,
+      "name": "Keep Your Blessings",
+      "url": "https://open.spotify.com/track/28gJfJ5tuvZORsjBoVo5GR"
     },
     {
       "album": {
@@ -2830,6 +2866,24 @@
       "duration_ms": 242782,
       "name": "Pessimist",
       "url": "https://open.spotify.com/track/4kCzHLVfTdeATOAxCNN2ia"
+    },
+    {
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/5G7W03txWDF1WKoUrCqU4L"
+      },
+      "artists": [
+        {
+          "name": "Yenne",
+          "url": "https://open.spotify.com/artist/6tZMlfJQLduowvUFsMvrUR"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226802,
+      "name": "Piece of Me",
+      "url": "https://open.spotify.com/track/2DTy9Itjmyi4bG8kkEmoQ6"
     },
     {
       "album": {

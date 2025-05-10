@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "4GET IT",
+        "url": "https://open.spotify.com/album/13V4cvGODBdA92iQT4DTXY"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        },
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "4GET IT",
+      "url": "https://open.spotify.com/track/6hogdxOHNGVWVAnVBWOCz1"
+    },
+    {
+      "album": {
         "name": "Life of The Party",
         "url": "https://open.spotify.com/album/1R48sF7AE4j1wcfjfOtC7Q"
       },

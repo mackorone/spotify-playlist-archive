@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,688 likes - 118 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,656 likes - 118 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 7 | [Wishful Thinking \(feat\. Fat Joe, Kool G Rap & B\-Real\) \- Instrumental](https://open.spotify.com/track/38bo1szvJSShbUjcScJfPO) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Kool G Rap](https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [I'm Not a Player EP](https://open.spotify.com/album/39GhNF5p6t8WGryJBspqKi) | 4:25 |
 | 8 | [The Næckbræker](https://open.spotify.com/track/4U0RGb92eZ4VEJtdBmfRXN) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [To live & Die in U.A.](https://open.spotify.com/album/4ukakuZYnXtg5b8MDAn21O) | 3:10 |
 | 9 | [Courtyard Cadence](https://open.spotify.com/track/2UsnJcR7WFjg316sshTPVK) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Deli Dynamics](https://open.spotify.com/album/5efz5F8RirhZADaEiAE7fd) | 2:32 |
-| 10 | [The Séance \- Instrumental](https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [The Séance \(Instrumental\)](https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R) | 2:47 |
-| 11 | [Born 2 Live \- Instrumental](https://open.spotify.com/track/3rlNahb3xsXq83bBPT6bee) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Word...Life \(Deluxe Edition\)](https://open.spotify.com/album/3UwGJNvu2bAzjxx25GlqA5) | 4:30 |
+| 10 | [Born 2 Live \- Instrumental](https://open.spotify.com/track/3rlNahb3xsXq83bBPT6bee) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Word...Life \(Deluxe Edition\)](https://open.spotify.com/album/3UwGJNvu2bAzjxx25GlqA5) | 4:30 |
+| 11 | [The Séance \- Instrumental](https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [The Séance \(Instrumental\)](https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R) | 2:47 |
 | 12 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 |
 | 13 | [Immersive](https://open.spotify.com/track/5eqdjCfqFcbX4F6GBISrHm) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Immersive](https://open.spotify.com/album/7JEyelqrTWVdYq5jhH2a22) | 3:04 |
 | 14 | [Deeper \(You & Me\)](https://open.spotify.com/track/5RYaxKQYstksG8rNw8GPw9) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Deeper \(You & Me\)](https://open.spotify.com/album/55rAOu6q5xC3tqadSOUq0h) | 2:02 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 117 | [Players \(Instrumental\)](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
 | 118 | [Drugs \- Instrumental](https://open.spotify.com/track/4BnqIkoyrxpQZFO6xSmE3P) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:19 |
 
-Snapshot ID: `Z/kvfQAAAABAl16mewFaFRxJEfz1dPZL`
+Snapshot ID: `aB474QAAAACoK7QKRzssC9V5tRwCP+N4`

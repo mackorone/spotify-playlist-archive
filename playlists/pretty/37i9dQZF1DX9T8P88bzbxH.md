@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Pull up for chaos, throwbacks, and bangers\. Cover: Neck Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,016 likes - 17 songs - 55 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 57,004 likes - 17 songs - 55 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

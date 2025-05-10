@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Ela Taubert.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,376 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,374 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [¿Quién Diría?](https://open.spotify.com/track/1ZdldCWgka1Jub9TWrDj6r) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Quién Diría?](https://open.spotify.com/album/0gjvPlgS0QqSZVaC85QyLd) | 2:20 |
+| 1 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
 | 2 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
 | 3 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
 | 4 | [Pies Descalzos, Sueños Blancos](https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:25 |
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 21 | [x100](https://open.spotify.com/track/3ZL2ls4j4KC4AzIYXMP8dw) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:52 |
 | 22 | [cuídate](https://open.spotify.com/track/6UoxNcp5uY9y1KygNGXj3q) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:31 |
 | 23 | [Niña Bonita](https://open.spotify.com/track/1P4FdxMW67mPPbbM4FBhqR) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Baile de los Sueños](https://open.spotify.com/album/4t6JSY0PRzS9rIX7faeDCJ) | 3:59 |
-| 24 | [Rayo \- Spotify Singles](https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt), [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Rayo \(Spotify Singles\)](https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT) | 2:55 |
-| 25 | [Me permití llorar](https://open.spotify.com/track/7HLadvAp3uy9QbayhPUnkD) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Fragmentada](https://open.spotify.com/album/52KJukZvqRtmSSCBhsljkJ) | 3:23 |
-| 26 | [Mucha Salsa](https://open.spotify.com/track/7MEam5ltcAIcNUsOTVV0T3) | [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt) | [QUEEN OF TRAP](https://open.spotify.com/album/19RFiFwKmA8Z3FUjzdVPVi) | 2:26 |
-| 27 | [Capullo](https://open.spotify.com/track/6lcTiaj32npIWn2ZRcD2sX) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Kinesis](https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK) | 3:29 |
-| 28 | [Cómo Duele](https://open.spotify.com/track/02tk974QEHBfTQq80Lpn7d) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ) | [Cómo Duele](https://open.spotify.com/album/0h9cZ9loIaVs12uOnxKH8G) | 3:25 |
-| 29 | [Caribeña](https://open.spotify.com/track/7hOkl9XlwbPLMX9hJm8Vu3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Cuchara Chueca](https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V) | 3:11 |
+| 24 | [¿Quién Diría?](https://open.spotify.com/track/1ZdldCWgka1Jub9TWrDj6r) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Quién Diría?](https://open.spotify.com/album/0gjvPlgS0QqSZVaC85QyLd) | 2:20 |
+| 25 | [Rayo \- Spotify Singles](https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt), [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Rayo \(Spotify Singles\)](https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT) | 2:55 |
+| 26 | [Me permití llorar](https://open.spotify.com/track/7HLadvAp3uy9QbayhPUnkD) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Fragmentada](https://open.spotify.com/album/52KJukZvqRtmSSCBhsljkJ) | 3:23 |
+| 27 | [Mucha Salsa](https://open.spotify.com/track/7MEam5ltcAIcNUsOTVV0T3) | [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt) | [QUEEN OF TRAP](https://open.spotify.com/album/19RFiFwKmA8Z3FUjzdVPVi) | 2:26 |
+| 28 | [Capullo](https://open.spotify.com/track/6lcTiaj32npIWn2ZRcD2sX) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Kinesis](https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK) | 3:29 |
+| 29 | [Cómo Duele](https://open.spotify.com/track/02tk974QEHBfTQq80Lpn7d) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ) | [Cómo Duele](https://open.spotify.com/album/0h9cZ9loIaVs12uOnxKH8G) | 3:25 |
 | 30 | [La Sala](https://open.spotify.com/track/6ugYIJ41dFVYVU0cvMHyyT) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [La Sala](https://open.spotify.com/album/72ZgkkWlxHEUrQHKT3zHzu) | 2:55 |
 | 31 | [Luz de Salida \(Yo Groovie\)](https://open.spotify.com/track/3ZF7n4m3gxhlPTUVn4Y7T0) | [Brina Quoya](https://open.spotify.com/artist/632hn2DX5vh2nnytdhrDfY) | [Luz de Salida \(Yo Groovie\)](https://open.spotify.com/album/6k4yVWUcx9X1bhIzrJ3qvx) | 3:00 |
 | 32 | [30 \(Tarde\)](https://open.spotify.com/track/09OeQrWLjSVceIwkXVMfKH) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Quince por Dos](https://open.spotify.com/album/4gWUczX5VD1HsQS7AICG8S) | 3:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 59 | [Cómo Te Atreves](https://open.spotify.com/track/3Iw5nYAPwHw12sjhTaVn5P) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Cómo Te Atreves](https://open.spotify.com/album/5jBnlgFRHm1gJHrhVDdE5I) | 2:59 |
 | 60 | [QSV](https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [QSV](https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1) | 2:05 |
 
-Snapshot ID: `aBt6JgAAAABTeS9oUS1UKckeAEoJf0EO`
+Snapshot ID: `aB3GNgAAAACiHmqoDd5AKgKNTJKFLZIW`

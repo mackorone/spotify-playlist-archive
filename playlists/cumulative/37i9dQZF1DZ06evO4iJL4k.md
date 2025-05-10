@@ -4,7 +4,7 @@
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-105 songs - 7 hr 3 min
+106 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Só Pra Você Lembrar](https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:54 | 2024-04-26 |  |
 | [Só Pra Você Lembrar](https://open.spotify.com/track/7pwSEJ0HuN067dxCiGvaUh) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 3:54 | 2023-09-21 | 2024-04-26 |
 | [Só Precisamos de Nós](https://open.spotify.com/track/4oiVWCeHJvTQ8GCCAWORQg) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Numa Margem Distante](https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ) | 3:58 | 2023-09-21 | 2023-12-20 |
+| [Trem Bala](https://open.spotify.com/track/5FMGxAsvNJGvrP8J5Z4uKN) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:40 | 2025-05-10 |  |
 | [Tudo do Melhor](https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Tudo do Melhor](https://open.spotify.com/album/0AFvUWJbsl049V5M6De4bk) | 4:33 | 2023-09-21 |  |
 | [Uma Era](https://open.spotify.com/track/43Msl0A3dw0FqM0XypInD2) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:38 | 2024-11-17 | 2024-11-18 |
 | [Vermelho Fogo \- Ao Vivo](https://open.spotify.com/track/4hx3eUopSeyzhIowdQmUBN) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 2:17 | 2024-01-09 | 2024-08-11 |

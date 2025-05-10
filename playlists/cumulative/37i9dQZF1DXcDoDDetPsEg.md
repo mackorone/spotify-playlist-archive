@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Drake
 
-1,508 songs - 3 day 4 hr 11 min
+1,509 songs - 3 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -798,6 +798,7 @@
 | [Love Made Me Do It](https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Love Made Me Do It](https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2) | 3:16 | 2023-08-03 | 2023-11-11 |
 | [Love Me How](https://open.spotify.com/track/3mi5y0lctEWa5BlpweVsYD) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Love Me How](https://open.spotify.com/album/1vo86IKNOT899kXoqcfhlz) | 2:30 | 2024-02-16 | 2024-04-06 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-25 | 2024-11-15 |
+| [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 | 2025-05-09 |  |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-10 | 2024-02-16 |
 | [Low Vibrations](https://open.spotify.com/track/5I1t1h0LSvjJuGZUqC3Dwp) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Low Vibrations](https://open.spotify.com/album/5huwFVBaEZQ2ntWjCDzIMk) | 2:56 | 2025-01-10 | 2025-04-25 |
 | [LSW](https://open.spotify.com/track/4HYYvnNZg3sZCGr0NkS8S1) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LSW](https://open.spotify.com/album/2knHvyFM8HCBs3KCM8Om9k) | 2:14 | 2022-06-03 | 2022-06-17 |
@@ -1398,7 +1399,7 @@
 | [Unruly](https://open.spotify.com/track/332LAe5CARYmQZ9PneOR2c) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Unruly](https://open.spotify.com/album/40KmIveFJGLnFIz6g8jqPR) | 3:12 | 2023-05-25 | 2023-08-04 |
 | [Update](https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B) | 3:27 | 2025-03-04 |  |
 | [Upset \(feat\. Tommy Richman & FELIX!\)](https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 | 2023-11-10 | 2024-01-26 |
-| [Uptown](https://open.spotify.com/track/76Pu3WalpqCdQDvO0VWbas) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Uptown](https://open.spotify.com/album/3JQ5ILpec1hGp59h3dhrzb) | 2:32 | 2025-05-09 |  |
+| [Uptown \(feat\. Chy Cartier\)](https://open.spotify.com/track/76Pu3WalpqCdQDvO0VWbas) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Uptown \(feat\. Chy Cartier\)](https://open.spotify.com/album/3JQ5ILpec1hGp59h3dhrzb) | 2:32 | 2025-05-09 |  |
 | [Us Against the World](https://open.spotify.com/track/4TaS4giQQK01vKzBB40AEY) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Us Against the World](https://open.spotify.com/album/5m2xRmSB1D30YZHDHr8556) | 2:19 | 2022-12-05 | 2023-02-17 |
 | [Us Against the World \- Remix](https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Us Against the World \(Remix\)](https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv) | 3:12 | 2023-02-17 | 2023-07-14 |
 | [Us vs Them](https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Us vs Them](https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE) | 2:03 | 2024-12-13 | 2025-03-07 |
@@ -1461,7 +1462,7 @@
 | [where you been?](https://open.spotify.com/track/4RXWjqC56ecdnvpzVbCxcB) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [my neighbours don't know.](https://open.spotify.com/album/26nbJ8gBWq4XxxIWaE2i2N) | 3:17 | 2023-09-08 | 2023-11-18 |
 | [where you been?](https://open.spotify.com/track/5D3pKs2gtE1yFZRV9z0YZj) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [where you been?](https://open.spotify.com/album/4gHK6EstE0X8BsfIUSSNr3) | 3:17 | 2023-09-08 | 2023-09-09 |
 | [Whistle](https://open.spotify.com/track/7zJzkC25kjMj3TjuUWItXj) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [SMILE?](https://open.spotify.com/album/7vXoT4TosRxP0IZZyPlIl6) | 2:02 | 2024-05-31 | 2024-07-05 |
-| [Whistle](https://open.spotify.com/track/6YvKrlE1Vj1YIZmw3BDYhL) | [Stepz](https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P) | [Whistle](https://open.spotify.com/album/2264kFRNCVDNd6KLcCTDl0) | 2:09 | 2025-02-21 |  |
+| [Whistle](https://open.spotify.com/track/6YvKrlE1Vj1YIZmw3BDYhL) | [Stepz](https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P) | [Whistle](https://open.spotify.com/album/2264kFRNCVDNd6KLcCTDl0) | 2:09 | 2025-02-21 | 2025-05-10 |
 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 | 2023-05-12 | 2023-06-30 |
 | [White Ash](https://open.spotify.com/track/3u47ySotzOLUU4oWbqQ7ev) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [White Ash](https://open.spotify.com/album/0fq5Tu08ZzjlTgk6vgtdma) | 3:45 | 2023-05-11 | 2023-05-13 |
 | [White Lies \(feat\. Kwengface\)](https://open.spotify.com/track/5sFnfo4RB4c9jMojpp6eH5) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [White Lies \(feat\. Kwengface\)](https://open.spotify.com/album/5SP4C1eYeOVwLxqK2sxkW7) | 3:08 | 2023-02-10 | 2023-03-31 |

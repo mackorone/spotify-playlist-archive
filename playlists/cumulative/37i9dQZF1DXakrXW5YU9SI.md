@@ -4,7 +4,7 @@
 
 > Wiosna state of mind 🌷
 
-471 songs - 1 day 2 hr 25 min
+472 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Dzięki Tobie](https://open.spotify.com/track/6iL49K0EnSuRLovS8fbdzV) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Dzięki Tobie](https://open.spotify.com/album/7qEh9GxF8ds5lBGbLUybJc) | 2:30 | 2024-12-19 | 2025-01-25 |
 | [Dzwonisz](https://open.spotify.com/track/6f0jOhp2WuvDXGUFYAzDRb) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Dzwonisz](https://open.spotify.com/album/2mL2OPLHnpGw8IT5WC20Xg) | 3:23 | 2025-04-18 | 2025-04-26 |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-07-05 | 2024-08-04 |
+| [East Coast Summers](https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [East Coast Summers](https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX) | 3:41 | 2025-05-09 |  |
 | [Elegia o… \[chłopcu polskim\] \(K\. K\. Baczyński\)](https://open.spotify.com/track/4URWWN9TQrpScaAfN8XZ4j) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Michał Bajor](https://open.spotify.com/artist/4wiuQi8pMd9fwJxreqT5H1) | [Elegia o… \[chłopcu polskim\] \(K\. K\. Baczyński\)](https://open.spotify.com/album/5x4HWBcOoTfDXgrEh8Z6wf) | 3:40 | 2025-01-24 | 2025-02-22 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-09-12 | 2024-11-22 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-18 |  |
@@ -439,7 +440,7 @@
 | [W kwietniu się nie umiera](https://open.spotify.com/track/7uOYx1FNQQao9iwYTRxuOn) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0) | [W kwietniu się nie umiera](https://open.spotify.com/album/5HsOaA8jlC6RgtFAwkJO7b) | 3:06 | 2024-10-14 | 2024-10-18 |
 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 | 2024-09-12 | 2024-10-20 |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2024-09-12 | 2024-11-22 |
-| [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 | 2025-03-07 |  |
+| [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 | 2025-03-07 | 2025-05-10 |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-19 | 2025-03-01 |
 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 | 2024-10-07 | 2024-11-22 |
 | [Where The Names Are Real](https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Where The Names Are Real](https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV) | 5:21 | 2024-09-20 | 2024-10-07 |

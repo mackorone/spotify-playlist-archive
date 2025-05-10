@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Audra McDonald in "Gypsy"
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,382 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,393 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 41 | [Memory](https://open.spotify.com/track/47i10K4nwAc62K6hNWYb9m) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), ["Cats" 1981 Original London Cast](https://open.spotify.com/artist/5PwgSnrvg48DYvdsf2Y2ZD), [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA) | [Cats \(Original London Cast Recording / 1981\)](https://open.spotify.com/album/4QNvSfF1b5CzZzv57cyQHq) | 5:15 |
 | 42 | [Broadway Baby](https://open.spotify.com/track/1HqTfnxh75Tz7LwHQfoPkk) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1), [Jayne Houdyshell](https://open.spotify.com/artist/6zpBHseSGMVwMh35Gb0eub), [Mary Beth Peil](https://open.spotify.com/artist/2QQcdCmfjnTkoKVrEpERZT), [Susan Watson](https://open.spotify.com/artist/10tHiM5SzvOOdToUgE7wso), [Don Correia](https://open.spotify.com/artist/0WZNwCY7f0rL8b0mYSBRyd) | [Follies: New Broadway Cast Recording](https://open.spotify.com/album/7vx2IsGyWN0lim75r1pdau) | 3:23 |
 | 43 | [Show Off](https://open.spotify.com/track/2pMas1kINft5X1tz1dm9AR) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), ['The Drowsy Chaperone' Original Broadway Cast](https://open.spotify.com/artist/6WnYGqfmqjmRIIO6FZdmHo) | [The Drowsy Chaperone \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1xV9B2D7B2rW9HaGcYWlkH) | 4:41 |
-| 44 | [It All Fades Away](https://open.spotify.com/track/7LLhQMq2KPuFz61V18FKGH) | [Steven Pasquale](https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I) | [Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3LaPdSklCPjDDz9etyDvIb) | 4:55 |
+| 44 | [It All Fades Away](https://open.spotify.com/track/7LLhQMq2KPuFz61V18FKGH) | [Steven Pasquale](https://open.spotify.com/artist/6eN9Ls5x8Ey7GhuIkaBn8z) | [Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3LaPdSklCPjDDz9etyDvIb) | 4:55 |
 | 45 | [Dead Girl Walking](https://open.spotify.com/track/5L5N8YOsBxdzR9h9sudBgG) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:24 |
 | 46 | [Kiss Of The Spider Woman](https://open.spotify.com/track/3olvRkd8DUlDlzQeJXsWtR) | [Chita Rivera](https://open.spotify.com/artist/55DHRcQ9oxUu76VNuQz48P) | [Kiss of the Spider Woman \(Original Cast Recording\)](https://open.spotify.com/album/5siyxD2uVjKd2W0rFzt9k0) | 2:32 |
 | 47 | [My New Philosophy](https://open.spotify.com/track/3ZZcnhEbohNn1rXgcahmwK) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Stanley Wayne Mathis](https://open.spotify.com/artist/7IwQ8Cr68eQr3UxrLzcmlv), [Ilana Levine](https://open.spotify.com/artist/5TiaTkECtgVhFaTdVW7Kg9) | [You're a Good Man, Charlie Brown \(New Broadway Cast Recording \(1999\)\)](https://open.spotify.com/album/1LpzcTUzuRoDCCUEREcqkX) | 2:56 |

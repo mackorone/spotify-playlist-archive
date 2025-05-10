@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-88 songs - 4 hr 31 min
+89 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Never Stop Rockin'](https://open.spotify.com/track/4F5TNPbI9JTrd17fsdb1yK) | [Beamic](https://open.spotify.com/artist/5pNCAqkw3TlNDsq3kZIyc1) | [Never Stop Rockin'](https://open.spotify.com/album/4NeAD0Efyo7RY0TMFH7Jw5) | 4:20 | 2024-06-24 |  |
 | [On the Fritz](https://open.spotify.com/track/7KSe5EwXawbxoMSYqs4pF7) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Amalfi](https://open.spotify.com/album/5M2w39JfqEM0yIbsXShpnd) | 2:21 | 2024-06-24 |  |
 | [Passin' Me By \- Instrumental](https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde \(25th Anniversary Edition\)](https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke) | 5:02 | 2024-06-24 |  |
+| [Prodigy Vision](https://open.spotify.com/track/7GG2FRZUlqZ4Ll4bNU0G6U) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Prodigy Vision](https://open.spotify.com/album/2cj4KrLQBpngclJF5KErZH) | 3:03 | 2025-05-09 |  |
 | [Proof](https://open.spotify.com/track/5J3blYdGa29GfqTi4FFqTY) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH), [DJ Shon](https://open.spotify.com/artist/2Me9Ky7kqAJtVJKcfTlqHy) | [The All Boom](https://open.spotify.com/album/7xFXnNeyFek3kCgYBkkus0) | 2:00 | 2024-06-24 |  |
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2024-06-24 |  |
 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 | 2024-06-24 |  |

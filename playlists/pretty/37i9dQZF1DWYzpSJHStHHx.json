@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 486641,
+  "num_followers": 486660,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Thrift Store",
-        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Thrift Store",
-      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 377556,
       "name": "Sun Rise Swell",
       "url": "https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Thrift Store",
+        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Thrift Store",
+      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Valley Girl",
-        "url": "https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH"
-      },
-      "artists": [
-        {
-          "name": "The Burkharts",
-          "url": "https://open.spotify.com/artist/0zvND4IqnGShzA7X47MIkp"
-        }
-      ],
-      "duration_ms": 211829,
-      "name": "Valley Girl",
-      "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "III: Arcade Dynamics",
@@ -567,6 +551,22 @@
       "duration_ms": 259317,
       "name": "Killin' the Vibe",
       "url": "https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Valley Girl",
+        "url": "https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH"
+      },
+      "artists": [
+        {
+          "name": "The Burkharts",
+          "url": "https://open.spotify.com/artist/0zvND4IqnGShzA7X47MIkp"
+        }
+      ],
+      "duration_ms": 211829,
+      "name": "Valley Girl",
+      "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mushroom",
-        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+        "name": "Freaks Feel Like Divas",
+        "url": "https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn"
       },
       "artists": [
         {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+          "name": "Fast Color",
+          "url": "https://open.spotify.com/artist/4huERTmJQbJVtA0A8dmY7J"
         }
       ],
-      "duration_ms": 205974,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
+      "duration_ms": 150733,
+      "name": "Natasha Lyonne",
+      "url": "https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Freaks Feel Like Divas",
-        "url": "https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn"
+        "name": "Mushroom",
+        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
       },
       "artists": [
         {
-          "name": "Fast Color",
-          "url": "https://open.spotify.com/artist/4huERTmJQbJVtA0A8dmY7J"
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
         }
       ],
-      "duration_ms": 150733,
-      "name": "Natasha Lyonne",
-      "url": "https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm"
+      "duration_ms": 205974,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "The Way You Talk",
+        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
+      },
+      "artists": [
+        {
+          "name": "The Red Pears",
+          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
+        }
+      ],
+      "duration_ms": 198420,
+      "name": "The Way You Talk",
+      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Tommy Bahama",
         "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 174080,
       "name": "Cold Summers",
       "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "The Way You Talk",
-        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
-      },
-      "artists": [
-        {
-          "name": "The Red Pears",
-          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
-        }
-      ],
-      "duration_ms": 198420,
-      "name": "The Way You Talk",
-      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "(The Ballad of) Buddy Kid",
-        "url": "https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93"
-      },
-      "artists": [
-        {
-          "name": "Prokop",
-          "url": "https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "(The Ballad of) Buddy Kid",
-      "url": "https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Malibu Sunset b/w Hang On",
         "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 128194,
       "name": "Malibu Sunset",
       "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "(The Ballad of) Buddy Kid",
+        "url": "https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93"
+      },
+      "artists": [
+        {
+          "name": "Prokop",
+          "url": "https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "(The Ballad of) Buddy Kid",
+      "url": "https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn"
     },
     {
       "added_at": "2024-10-11 04:00:00",

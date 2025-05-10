@@ -4,7 +4,7 @@
 
 > a little indie, a little pop\.  Cover: Daniel Seavey
 
-1,323 songs - 2 day 17 hr 53 min
+1,326 songs - 2 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [100 boys](https://open.spotify.com/track/77lDTbgLWe0FnX2eBKWADX) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [100 boys](https://open.spotify.com/album/3DAu1hq60xQReMBfVFHiUO) | 3:16 | 2023-06-16 | 2023-06-21 |
 | [1000 Tears](https://open.spotify.com/track/33Nc5TE2bPHa6wtUUFLVSz) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [1000 Tears](https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT) | 2:41 | 2022-02-04 | 2022-02-26 |
 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 | 2022-08-12 | 2022-09-24 |
+| [1234567](https://open.spotify.com/track/1vWOauv3X5GHUEY4Qe9WFo) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [1234567](https://open.spotify.com/album/1YyN5LVNUiXHXgGtWk6u7d) | 2:45 | 2025-05-09 |  |
 | [16](https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [16](https://open.spotify.com/album/2u5D7W8rZ1azEWJ02BX27P) | 2:45 | 2024-01-05 | 2024-03-02 |
 | [16 dogs](https://open.spotify.com/track/6evha6l77b3R2dxTKRVXjh) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [16 dogs](https://open.spotify.com/album/0kIWwzGOGMXcgqRxZBW1h3) | 2:40 | 2024-07-26 | 2024-08-17 |
 | [1990something](https://open.spotify.com/track/1bC1bEPZSKxgZgBgEVn2yj) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [1990something](https://open.spotify.com/album/7cCB1WAPcvnpnT0BRHDfSE) | 3:03 | 2022-07-08 | 2022-09-17 |
@@ -173,6 +174,7 @@
 | [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 | 2024-03-22 | 2024-06-01 |
 | [Bruise](https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Bruise](https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx) | 2:59 | 2023-07-28 | 2023-09-16 |
 | [bubble boi](https://open.spotify.com/track/0g1o9HmpAmCLYYDESbhfZm) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [bubble boi](https://open.spotify.com/album/2DlARJZSNkxBMXQ1xqGug8) | 2:48 | 2023-04-28 | 2023-07-08 |
+| [BUCK \(feat\. Diljit Dosanjh\)](https://open.spotify.com/track/70sREIqvDuuHKXSjmWMysS) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [BUCK \(feat\. Diljit Dosanjh\)](https://open.spotify.com/album/29xxo6iJM8mqwKYWTHCu06) | 2:43 | 2025-05-09 |  |
 | [burn](https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [burn](https://open.spotify.com/album/2ORYGkzXBNrd1npPQBeZYQ) | 2:29 | 2024-08-16 | 2024-09-21 |
 | [Burner Phone](https://open.spotify.com/track/4K1jCxXt8w0wI58rgBm830) | [West High](https://open.spotify.com/artist/1strrexNHv8TNVfVnMRhVD) | [Burner Phone](https://open.spotify.com/album/5lujInS05JMTTiinhnBU2B) | 2:33 | 2024-05-17 | 2024-07-19 |
 | [Buy American](https://open.spotify.com/track/7FWgmusJFhVVa41hMBcnsX) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Buy American](https://open.spotify.com/album/6ACtTKubJIs8oJjwHPkjfr) | 3:22 | 2022-01-14 | 2022-02-26 |
@@ -952,6 +954,7 @@
 | [RICOCHET](https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [RICOCHET](https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3) | 3:17 | 2024-10-11 | 2025-02-15 |
 | [Ride or Die](https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 3:30 | 2022-05-27 | 2022-07-30 |
 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2023-08-18 | 2024-01-05 |
+| [ring my bell](https://open.spotify.com/track/5pX5ZWRsPdzJPL22dajuIP) | [country girl](https://open.spotify.com/artist/3CexosgwAdYgWww7AAHnXl), [Melody English](https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp) | [ring my bell](https://open.spotify.com/album/1io4H0laNnkC6jEsTdQdh4) | 2:16 | 2025-05-09 |  |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-24 | 2025-04-12 |
 | [Riptide](https://open.spotify.com/track/7dDQ7tGCVaqOfng9dwSCM2) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [Riptide](https://open.spotify.com/album/1FjvRCNvO3ZFJp6OlTY7d0) | 3:00 | 2022-01-07 | 2022-02-26 |
 | [rock music](https://open.spotify.com/track/0QU3VTMzBkx6Jyv9cgUaVh) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [luca](https://open.spotify.com/album/5sHVvoJi5rV8L5rgEVc18o) | 3:42 | 2022-02-25 | 2022-03-18 |

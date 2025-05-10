@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-331 songs - 20 hr 59 min
+332 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Song](https://open.spotify.com/track/3mg8Bw4u8SuPZRvW89S0Hc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Sun of Our Life](https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR) | 5:13 | 2025-03-02 | 2025-03-04 |
 | [Sonny Go Down](https://open.spotify.com/track/376YOi3CzrxyFENN8jcPKc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis](https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG) | 3:17 | 2023-05-29 | 2024-05-24 |
 | [Soon My Work Will All Be Done](https://open.spotify.com/track/0UOLaiZRhOMtfJfFbfwydK) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 3:44 | 2022-05-25 | 2024-10-27 |
-| [Soon My Work Will All Be Done](https://open.spotify.com/track/2hWGyYyvnLivZfdoBmCTpW) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:45 | 2025-01-06 |  |
+| [Soon My Work Will All Be Done](https://open.spotify.com/track/2hWGyYyvnLivZfdoBmCTpW) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:45 | 2025-01-06 | 2025-05-10 |
 | [Soon My Work Will All Be Done](https://open.spotify.com/track/72Sk3xw6VP5vACVTQ6o3wi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 4:00 | 2023-03-13 | 2023-04-11 |
 | [Spoonful](https://open.spotify.com/track/3K0kTc57OMOwxqcoPjGPBe) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:12 | 2024-05-03 | 2024-11-20 |
 | [Spoonful](https://open.spotify.com/track/7KxYAPiTd63VItfXxtKRrn) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:12 | 2023-06-20 | 2023-06-24 |
@@ -292,6 +292,7 @@
 | [There's Destruction In That Land \(Message From Heaven\)](https://open.spotify.com/track/20A0XItLKQRCYjKQdxCC5m) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 5:53 | 2023-04-20 | 2024-06-04 |
 | [There's Destruction in That Land \(Message from Heaven\)](https://open.spotify.com/track/3Zs7ZRcSudowk9NxeHwmRo) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 5:53 | 2023-01-14 | 2023-01-28 |
 | [There's Destruction on This Land](https://open.spotify.com/track/5PqweQoOlKK9MzRJBk2wGV) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 5:23 | 2022-05-25 | 2023-07-16 |
+| [This Train](https://open.spotify.com/track/6JMa1slr6CUBY3DcLcwTqG) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis](https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG) | 4:42 | 2025-05-10 |  |
 | [Tie Me to Your Apron Strings Again](https://open.spotify.com/track/7ECZRpHGC2NRjrpx96bgnn) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 1:56 | 2022-10-30 | 2025-03-20 |
 | [Time Is Drawing Near](https://open.spotify.com/track/64QZaHgNuMUgM60qsIwc5g) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:24 | 2022-05-25 |  |
 | [Tired, My Soul Needs Resting](https://open.spotify.com/track/0G8Kb8gNVC7Oa5Kn7wr9WP) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 2:15 | 2023-12-13 | 2024-06-11 |

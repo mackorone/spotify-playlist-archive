@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Royel Otis
 
-1,376 songs - 3 day 6 hr 58 min
+1,377 songs - 3 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Bullseye \(with Hozier\)](https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:23 | 2025-03-27 | 2025-04-25 |
 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 | 2025-01-23 | 2025-02-14 |
 | [Bus](https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Bus](https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU) | 3:23 | 2024-06-28 | 2024-07-05 |
-| [Buses Replace Trains](https://open.spotify.com/track/6zxK1aQo9e61wi9UJWJfrv) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Buses Replace Trains](https://open.spotify.com/album/0jJ8k0Nmv0IwL5EzK9EWJT) | 3:42 | 2025-04-17 |  |
+| [Buses Replace Trains](https://open.spotify.com/track/6zxK1aQo9e61wi9UJWJfrv) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Buses Replace Trains](https://open.spotify.com/album/0jJ8k0Nmv0IwL5EzK9EWJT) | 3:42 | 2025-04-17 | 2025-05-10 |
 | [BusyBusyBusy](https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW) | [¡BangBang Watergun!](https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ) | [Nostalgia / Again It's On](https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG) | 3:51 | 2025-02-20 | 2025-03-07 |
 | [But Then The Night](https://open.spotify.com/track/105U0cTOYihNh1S4zHPjgK) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [But Then The Night](https://open.spotify.com/album/0NEoxBk7TlWuvz3QMStFZH) | 1:34 | 2024-07-11 | 2024-08-09 |
 | [Butterfly](https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:09 | 2024-11-07 | 2024-11-29 |
@@ -1238,6 +1238,7 @@
 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 | 2024-10-03 | 2024-10-18 |
 | [TMN](https://open.spotify.com/track/1atGiLsGuzJ5SduA6vVvrG) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [TMN](https://open.spotify.com/album/0yLlTZNuMUYqCx8zktCIWD) | 2:51 | 2025-05-08 |  |
 | [To a New Day](https://open.spotify.com/track/68VxRbvBOxc1q3VQtzwur2) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Sønderjysk Pigekor](https://open.spotify.com/artist/0OYX2MQG7fkZ5eaSA9ZC09) | [To a New Day](https://open.spotify.com/album/4PAlZMe3jbqDfXkY08XLfn) | 3:44 | 2024-07-25 | 2024-08-23 |
+| [To All The Ones That I Love](https://open.spotify.com/track/6Z3Ank38DbdeCtlpcvZfQH) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [To All The Ones That I Love](https://open.spotify.com/album/7lsQd2eIoDJI6NVLsbIgBc) | 3:54 | 2025-05-09 |  |
 | [To trust you](https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [To trust you](https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98) | 2:27 | 2024-11-14 | 2024-11-29 |
 | [To Your Own Devices](https://open.spotify.com/track/7F7tkvQTutq9Hkx4XibCj3) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [To Your Own Devices](https://open.spotify.com/album/0zm80nUu0uXDNmVsiRfutJ) | 3:21 | 2024-06-28 | 2024-07-12 |
 | [Tokyo Summer](https://open.spotify.com/track/4MHkUjGrY6Y1bBfd2NpQEB) | [Liam Mockridge](https://open.spotify.com/artist/2AVSP0Z9axRhpkMC4EImbG) | [Tokyo Summer](https://open.spotify.com/album/5wA6blK5crGRRXCCAvxufK) | 2:20 | 2025-05-01 | 2025-05-09 |

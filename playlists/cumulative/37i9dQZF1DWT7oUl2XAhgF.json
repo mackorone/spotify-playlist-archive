@@ -786,7 +786,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 186710,
       "name": "Bring You A Ring",
       "url": "https://open.spotify.com/track/66ELEVRlZzcOx3V55qYY5F"
@@ -5141,6 +5141,24 @@
     },
     {
       "album": {
+        "name": "Maybe It's You",
+        "url": "https://open.spotify.com/album/2K52HJlE1DOY5JgVMAr4Xz"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234584,
+      "name": "Maybe It's You",
+      "url": "https://open.spotify.com/track/7kFgKExxDFZJghA6Q4kCUR"
+    },
+    {
+      "album": {
         "name": "Me Or Her",
         "url": "https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ"
       },
@@ -6056,7 +6074,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 183889,
       "name": "Phases",
       "url": "https://open.spotify.com/track/5nXT7uZL7xCEBnFCpa2uYh"
@@ -8820,6 +8838,24 @@
       "duration_ms": 243720,
       "name": "Waiting on the Sidelines",
       "url": "https://open.spotify.com/track/02UQxP9ft9Qb8oL7Jf2Eir"
+    },
+    {
+      "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191244,
+      "name": "Walk The Way",
+      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
     },
     {
       "album": {

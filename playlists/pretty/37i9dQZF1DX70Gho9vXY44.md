@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: A.C.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,596 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,594 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 2 | [Nos Vamos](https://open.spotify.com/track/6zbZr7j9rkkaycv8lOoWmi) | [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Nos Vamos](https://open.spotify.com/album/2oCe9cIPMlhcPaVoU28Sbd) | 3:41 |
 | 3 | [no le mienta a mamá](https://open.spotify.com/track/6ckaxHc7YjKZuIb4obB29X) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [no le mienta a mamá](https://open.spotify.com/album/0UnIcBlwXeIUTgywoiYzxx) | 3:48 |
 | 4 | [Olvidémonos](https://open.spotify.com/track/139v1V3FmBtRl6JzZXThoX) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Olvidémonos](https://open.spotify.com/album/2Z3Sr04hEC4GhH7QiogJV1) | 3:17 |
-| 5 | [El Último Vaso](https://open.spotify.com/track/6ApF353zceYhfRbztOcJ12) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx), [Deep Nao](https://open.spotify.com/artist/6x0vvJdWlDS2wCexaYvRtC) | [El Último Vaso](https://open.spotify.com/album/5YHBvgRgvMYVRtvAVLWGL5) | 2:42 |
+| 5 | [El Último Vaso](https://open.spotify.com/track/6ApF353zceYhfRbztOcJ12) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx), [Deep Nao](https://open.spotify.com/artist/16GiHoSL7jWfcJwI3lo0pW) | [El Último Vaso](https://open.spotify.com/album/5YHBvgRgvMYVRtvAVLWGL5) | 2:42 |
 | 6 | [No Puedo](https://open.spotify.com/track/6tR7jCnOKTWzhIMbDdXgSu) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Licor Amor & Jazz](https://open.spotify.com/album/2GhMbToGx7NXxMr5YADy7a) | 3:01 |
 | 7 | [sektor inesperado de Marfield](https://open.spotify.com/track/5B7iP6UkS3Sw2h7RDDygqP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [TOY LOKAZO](https://open.spotify.com/album/5Dqi0yKIDsT7Bds9F3VHIn) | 5:59 |
 | 8 | [Llovía](https://open.spotify.com/track/3gHnMo8cVviPnEgeFgckuF) | [Primobeatz](https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [PrimoBeatz en las Bases](https://open.spotify.com/album/3nhdeNfHDKpEaBkMMUXV1L) | 4:52 |

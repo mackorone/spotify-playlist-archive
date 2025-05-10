@@ -952,7 +952,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 161632,
       "name": "LMPDGTO",
       "url": "https://open.spotify.com/track/2bHzhgRITAIaZJt3zxe7TY"
@@ -986,6 +986,28 @@
       "duration_ms": 233948,
       "name": "Los Opaco",
       "url": "https://open.spotify.com/track/11uBOJBC9zh7pVuX0USUok"
+    },
+    {
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2pjZO2uC4uOLBaEoSXhPO3"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5tLIQPZ6EzdsvJDuUiJrvK"
     },
     {
       "album": {
@@ -1122,10 +1144,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 185870,
       "name": "Mar y Tierra",
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
+    },
+    {
+      "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187932,
+      "name": "Mar y Tierra",
+      "url": "https://open.spotify.com/track/5NOZMr9d0V5nN42BiRtL2p"
     },
     {
       "album": {

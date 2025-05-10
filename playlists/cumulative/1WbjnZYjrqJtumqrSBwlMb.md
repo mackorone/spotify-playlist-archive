@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,081 songs - 2 day 18 hr 17 min
+1,084 songs - 2 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Never Get Tired of Dancing](https://open.spotify.com/track/65p52RT9sM8Pyee7wQ3abt) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Change the Show](https://open.spotify.com/album/0dI32Mcr4eYerUWYWEuB28) | 3:38 | 2022-02-14 |  |
 | [Never Get Tired of Dancing \- Acoustic Version](https://open.spotify.com/track/4dB3CpeNDYyWFJcUBZc38m) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Never Get Tired of Dancing \(Acoustic Version\)](https://open.spotify.com/album/5giMGSJ9gamkLu9SgaAK5R) | 2:51 | 2022-03-25 |  |
 | [Neverender](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Neverender](https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u) | 4:26 | 2024-04-26 |  |
+| [Neverland](https://open.spotify.com/track/0F4KRoicBk9v9lrcbHQt67) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Neverland](https://open.spotify.com/album/3HXiOLdmPqItX7vSLvCt0m) | 3:56 | 2025-05-09 |  |
 | [New Again](https://open.spotify.com/track/75QktuEju5vz9lyXiLaUao) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:03 | 2021-10-01 |  |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-08-31 |  |
 | [New House](https://open.spotify.com/track/79yScU3wNnv2yPF3awYqnU) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [New House](https://open.spotify.com/album/5Upjd2sQh4iJnWyJgi3TsA) | 3:19 | 2022-07-03 |  |
@@ -893,6 +894,7 @@
 | [tell me a joke](https://open.spotify.com/track/7BZgDEld5mMdr1G39dIkvW) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [tell me a joke](https://open.spotify.com/album/6BLLjSqBTRPmrUSjd72D9b) | 5:05 | 2022-10-24 |  |
 | [Tell Me What I Don't Know](https://open.spotify.com/track/3yM8iyra4fkuyf0H5RFHuE) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Atrocity Exhibition](https://open.spotify.com/album/3e7vtKJ3m1zVh38VGq2g3H) | 2:31 | 2022-11-30 |  |
 | [Tell Me Where To Go](https://open.spotify.com/track/28rYYAT4AF7aeUV5rzCOBB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 2:53 | 2023-07-11 |  |
+| [Tell Me You Love Me](https://open.spotify.com/track/12TuGHYMlodnW9X2NaL37v) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:34 | 2025-05-09 |  |
 | [Tell Your Friends](https://open.spotify.com/track/2POhSUOXkU7xEIi2z2nEDE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 5:34 | 2024-02-12 |  |
 | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G) | 2:53 | 2024-05-02 |  |
 | [Tequila Shots](https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:13 | 2022-04-07 |  |
@@ -1088,6 +1090,7 @@
 | [young gun \(feat\. Jon Bellion\)](https://open.spotify.com/track/1JhYMr09dwlnMKShG5WmtH) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [young gun \(feat\. Jon Bellion\)](https://open.spotify.com/album/5cBSap5rFL2h45d3G2Pahj) | 2:53 | 2023-12-02 |  |
 | [your clothes](https://open.spotify.com/track/5gFfE8UgFslvqjVQw7dktZ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Frailty](https://open.spotify.com/album/6rO7DlLYSHabzSsD7Gpe14) | 4:14 | 2022-09-19 |  |
 | [Your Long Black Hair](https://open.spotify.com/track/7eTGg3CoJtcSXwUQ6KQI92) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 3:46 | 2024-10-25 |  |
+| [Your Long Black Hair \- Full Band](https://open.spotify.com/track/5fJ8CKkoUVgkB3D2Z04G6f) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:34 | 2025-05-09 |  |
 | [Your Woman](https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women In Technology](https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6) | 4:19 | 2023-08-06 |  |
 
 \*This playlist was first scraped on 2024-04-06. Prior content cannot be recovered.

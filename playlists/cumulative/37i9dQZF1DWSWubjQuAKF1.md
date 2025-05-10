@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: adaś.
 
-451 songs - 21 hr 50 min
+453 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Chyba że z Tobą](https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Chyba że z Tobą](https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L) | 2:11 | 2024-06-28 | 2024-07-12 |
 | [chłodniejsze noce](https://open.spotify.com/track/2MI9NuIHwCn6aLf90erAtQ) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [chłodniejsze noce](https://open.spotify.com/album/1WJlceX1m1d2Qp4MigRlZZ) | 2:10 | 2024-07-25 | 2024-08-31 |
 | [chłopcy](https://open.spotify.com/track/4BupR2P5QwoQNudwGNz2f4) | [RYSIA](https://open.spotify.com/artist/3sobbRn7Mx3TM6HAACPYTp) | [chłopcy](https://open.spotify.com/album/0HyxlVOaa4Cf7KTSdDGzWN) | 2:24 | 2024-06-28 | 2024-07-19 |
-| [ciut za bardzo](https://open.spotify.com/track/1cfhGqNhInqt31NyvuF4vB) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [ciut za bardzo](https://open.spotify.com/album/3GGGhT2VKHSNSwYJhpK1bG) | 2:27 | 2025-04-24 |  |
+| [ciut za bardzo](https://open.spotify.com/track/1cfhGqNhInqt31NyvuF4vB) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [ciut za bardzo](https://open.spotify.com/album/3GGGhT2VKHSNSwYJhpK1bG) | 2:27 | 2025-04-24 | 2025-05-10 |
 | [Clean girl era](https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [Clean girl era](https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE) | 2:37 | 2024-07-18 | 2024-10-19 |
 | [co ty na to?](https://open.spotify.com/track/2IC10VSx7soc9pPdEpmZ6A) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu), [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [co ty na to?](https://open.spotify.com/album/646vsWAg8YLIZXHZJOZgvC) | 2:31 | 2025-05-01 |  |
 | [Co, jeśli?](https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Co, jeśli?](https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU) | 2:33 | 2025-03-20 |  |
@@ -194,6 +194,7 @@
 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 | 2025-01-23 | 2025-04-25 |
 | [linia niedostępna](https://open.spotify.com/track/5VWuIuFLSHLz50Eyoj2RWH) | [MISSI](https://open.spotify.com/artist/2cv6HFwLykuUwNhdw0d5Fp) | [linia niedostępna](https://open.spotify.com/album/2hOyG8A7yWci6K5VBhB7gW) | 2:17 | 2024-07-11 | 2024-08-23 |
 | [List](https://open.spotify.com/track/2a0XfGcXniIlQyFMEZTKJL) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:37 | 2025-01-23 | 2025-01-31 |
+| [LOSER](https://open.spotify.com/track/2MigZHK1Xjuow1P0BeR5k3) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [LOSER](https://open.spotify.com/album/5xn1mAB7jn8mURro3m2I4H) | 2:45 | 2025-05-08 |  |
 | [love song sad](https://open.spotify.com/track/3cfWFPP2ppll7GxjZopnJp) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [love song sad](https://open.spotify.com/album/6Hh6nEb6skP7BkO3bZ0caO) | 2:57 | 2024-09-27 | 2024-10-19 |
 | [LOVESONG](https://open.spotify.com/track/7496oBsqMZXTkKYK9nls14) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [LOVESONG](https://open.spotify.com/album/0J2VCffmw6ZWm2dP4cRO92) | 2:38 | 2025-02-13 | 2025-02-28 |
 | [lubię patrzeć na twą broń](https://open.spotify.com/track/1xgWsfJ8qmFhrvJ6NmP1UW) | [Patryk Krzysztof Molenda](https://open.spotify.com/artist/3pxfM6pz8d8dXGriLKGyvG) | [lubię patrzeć na twą broń](https://open.spotify.com/album/6Wn64bI8wMIB66Zy0ReTHP) | 3:01 | 2024-10-25 | 2025-01-17 |
@@ -313,6 +314,7 @@
 | [Pokaż Twarz \(tą naprawdę\)](https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Wachlarz Wad EP](https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe) | 2:04 | 2024-08-22 | 2025-01-24 |
 | [Pole namiotowe](https://open.spotify.com/track/4YQJAv6jwldSppTmbwdGYs) | [cosmos](https://open.spotify.com/artist/7q349p87C2eR92EJcRX3P1) | [Pole namiotowe](https://open.spotify.com/album/6DPS1tx26SJVb7VHOPc340) | 3:04 | 2024-06-28 | 2024-08-02 |
 | [Polecę do gwiazd](https://open.spotify.com/track/7Cy7tvCsU9TBa9tmXSIFT2) | [Michell Siwak](https://open.spotify.com/artist/2nKTrZd6c5xy8AgNyrSM0q) | [Polecę do gwiazd](https://open.spotify.com/album/40e57jAadRbNmcWXDHdM1D) | 2:24 | 2024-09-13 | 2025-01-24 |
+| [Polki Są Najpiękniejsze](https://open.spotify.com/track/547ag5NdLB7P6esSQGLzWM) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Polki Są Najpiękniejsze](https://open.spotify.com/album/6yzq8ve6chRV80U5KpYTdC) | 2:44 | 2025-05-08 |  |
 | [POLSKI SPIDERMAN](https://open.spotify.com/track/7Hq0pMuSXqNf4S2gmZ5aS3) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [POLSKI SPIDERMAN](https://open.spotify.com/album/38GbDZRfoJ9ErpePeEUaWr) | 2:37 | 2025-04-17 |  |
 | [POPSTAR](https://open.spotify.com/track/1HuCX4lQF59JjpoaGc82r0) | [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb), [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [POPSTAR](https://open.spotify.com/album/5TCgpSMekiz0v3n3r9caF7) | 2:28 | 2024-06-28 | 2024-08-31 |
 | [Poszukam](https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Pośród Snów EP](https://open.spotify.com/album/7u5KWpB6S7YaJhhKYzXkDg) | 2:26 | 2024-07-11 | 2024-10-12 |
@@ -389,7 +391,7 @@
 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 | 2024-09-06 | 2024-09-20 |
 | [Tchórz](https://open.spotify.com/track/3IWmtaAgIywmurEdfBcMVh) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tchórz](https://open.spotify.com/album/3rHS5Om5ZqZGpvwpQneCU2) | 2:51 | 2024-06-28 | 2024-07-19 |
 | [teleranek](https://open.spotify.com/track/68lwG3Z14g6ZguSpUCtqUD) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Teleranek](https://open.spotify.com/album/61C2QQjGxZioq1gyenC2GM) | 3:07 | 2024-06-28 | 2024-07-27 |
-| [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 | 2025-03-06 |  |
+| [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 | 2025-03-06 | 2025-05-10 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-01-23 | 2025-04-25 |
 | [THINK OF ME](https://open.spotify.com/track/510ZpiTU4fNXTlnrFFx5Yt) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [THINK OF ME](https://open.spotify.com/album/4aJWqEswzebwxDSCkVzTEt) | 2:29 | 2025-03-13 | 2025-03-21 |
 | [tired](https://open.spotify.com/track/4n7R8CV8VpASepuuA0WUxY) | [Bartek Koziorowski](https://open.spotify.com/artist/6a28yBCAdWnh1n1qc6zNBT) | [tired](https://open.spotify.com/album/5nspfDd338PUt3VNW2MrLI) | 2:06 | 2025-01-23 | 2025-02-21 |

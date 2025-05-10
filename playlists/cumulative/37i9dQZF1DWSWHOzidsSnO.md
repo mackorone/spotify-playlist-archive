@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Ela Taubert.
 
-533 songs - 1 day 5 hr 5 min
+534 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [capricho](https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:59 | 2025-02-06 | 2025-03-06 |
 | [Capullo](https://open.spotify.com/track/6lcTiaj32npIWn2ZRcD2sX) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Kinesis](https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK) | 3:29 | 2025-03-05 |  |
 | [Capulí](https://open.spotify.com/track/1bcT1TJd2L1JtdCMWDvDbc) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [¿Para Qué?](https://open.spotify.com/album/7lP58KBvmFcmtAgI2WZRdp) | 3:22 | 2025-03-05 |  |
-| [Caribeña](https://open.spotify.com/track/7hOkl9XlwbPLMX9hJm8Vu3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Cuchara Chueca](https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V) | 3:11 | 2025-03-05 |  |
+| [Caribeña](https://open.spotify.com/track/7hOkl9XlwbPLMX9hJm8Vu3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Cuchara Chueca](https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V) | 3:11 | 2025-03-05 | 2025-05-10 |
 | [Carmen de Bolívar](https://open.spotify.com/track/08KKrMkUXIXa5dvdyab0y1) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Carmen de Bolívar](https://open.spotify.com/album/4mVSPmzmxgaraYSR4LTXfd) | 3:25 | 2022-01-05 | 2022-01-29 |
 | [Casi Te Creo](https://open.spotify.com/track/2nKzJr7WnHUqYcfvIDDFvv) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Casi Te Creo](https://open.spotify.com/album/4g6u5bBK2hPUxhSIyGTvOm) | 2:20 | 2025-04-02 |  |
 | [Cha Cha Cha](https://open.spotify.com/track/02r4y9kqU8GQYX2kg32n6W) | [Anna Carina](https://open.spotify.com/artist/7moMwCf6s2SVquYO0rrlR8) | [Cha Cha Cha](https://open.spotify.com/album/6FhtQQydH3Y6SNb1X6UgFn) | 2:43 | 2023-01-04 | 2025-03-06 |
@@ -538,6 +538,7 @@
 | [¿Quién Diría?](https://open.spotify.com/track/1ZdldCWgka1Jub9TWrDj6r) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Quién Diría?](https://open.spotify.com/album/0gjvPlgS0QqSZVaC85QyLd) | 2:20 | 2025-05-07 |  |
 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Qué Hubiera Pasado?](https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs) | 2:36 | 2023-04-05 | 2023-11-22 |
 | [¿Qué Voy a Hacer?](https://open.spotify.com/track/39VaE08TKJEJQLYyOBn8hM) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [¿Qué Voy a Hacer?](https://open.spotify.com/album/61TbtrFSK00wwyQVKGQ1R4) | 5:04 | 2024-11-06 | 2025-01-09 |
+| [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 | 2025-05-09 |  |
 | [Échale Fuego](https://open.spotify.com/track/0GGFWgHZe4v1dXfHMypHwd) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Échale Fuego](https://open.spotify.com/album/2UGtJRRI2WWkxibKaGqMAO) | 3:00 | 2023-05-26 | 2023-11-22 |
 | [último y primero](https://open.spotify.com/track/3hF6BMF3pT8MV6vWQZZI4h) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/2GwdTLsgFiGYd5cIUp6RvG) | 2:59 | 2022-01-05 | 2022-03-05 |
 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2023-03-03 | 2023-05-04 |

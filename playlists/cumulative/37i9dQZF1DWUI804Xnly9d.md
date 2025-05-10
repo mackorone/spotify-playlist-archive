@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-529 songs - 1 day 5 hr 42 min
+530 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Pyaar](https://open.spotify.com/track/0EVjhEnj83G6OUojSaBwok) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Pyaar](https://open.spotify.com/album/2gta6d9zUGZ7YU0wowtIOR) | 3:33 | 2024-02-13 | 2024-03-15 |
 | [Pyaar Hai](https://open.spotify.com/track/1M7gC1mxXQ9nTt5VixcuyU) | [Himanshu Hansraj](https://open.spotify.com/artist/7d15Obeo5bBqzIfOZ2ehYi) | [Pyaar Hai](https://open.spotify.com/album/7DHBw176MEAkift5jUCgRY) | 3:23 | 2025-04-15 |  |
 | [Pyaar Ke Naam](https://open.spotify.com/track/5lHScIaefFRfHPNjChzI0J) | [Amit Grover](https://open.spotify.com/artist/3dHLpB7BTVfP0XVrqnZe64) | [Pyaar Ke Naam](https://open.spotify.com/album/5CSLBoJQ2MLp0iWUIU0Kxz) | 4:00 | 2024-06-13 | 2024-11-06 |
+| [Pyaar Ki Talaash](https://open.spotify.com/track/1CLtcOV4JBW4MNE7zUb2no) | [Snehdeep Singh Kalsi](https://open.spotify.com/artist/5aFZ2WlD4ry5rc20mXTOa9) | [Pyaar Ki Talaash](https://open.spotify.com/album/0lHsPrKNPzaJycavRZSUdh) | 3:07 | 2025-05-09 |  |
 | [Pyaar Tera](https://open.spotify.com/track/454wwgqDwt9GsAMPQO2SVf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2ZVdtecXaxrPhNTNoRwuzf) | 3:24 | 2023-06-02 | 2023-07-16 |
 | [Qaabil](https://open.spotify.com/track/2PwVCVkts7c7RxTNHL4wLf) | [Mohsin Akhtar](https://open.spotify.com/artist/1fspXrBL0yCyMD69krMnjj) | [Qaabil](https://open.spotify.com/album/63BKQAMGAeR7BUdj7C556A) | 4:39 | 2024-06-07 | 2024-10-05 |
 | [Raah](https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC) | [Raah](https://open.spotify.com/album/4riwoENCoewQiI4k1fK9xj) | 2:57 | 2023-05-17 | 2023-07-15 |
@@ -435,7 +436,7 @@
 | [Tasweer](https://open.spotify.com/track/1DVZdAQcO55X638XYaphEr) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Tasweer](https://open.spotify.com/album/2roCoXtU0n2OKlv3Mc4wP2) | 3:10 | 2025-04-14 |  |
 | [Tauba Tauba \- Reply Version](https://open.spotify.com/track/6QuvG0gL7S0XlTVvjGLly1) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx) | [Tauba Tauba \- Reply Version](https://open.spotify.com/album/68fer3E93D3XdzbHFdq3af) | 1:47 | 2024-07-22 | 2024-08-15 |
 | [Tera Aasra](https://open.spotify.com/track/2bt46Wc1gdlwLq4WA34Lwf) | [Xeede](https://open.spotify.com/artist/4vctQONvB4a2PdcySenCRu), [F Kaze](https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7) | [Tera Aasra](https://open.spotify.com/album/0FVTyISjP50lQI9nLKLgG9) | 3:00 | 2023-07-12 | 2023-09-23 |
-| [Tera Asar](https://open.spotify.com/track/2EJa6A72ki9Y4VWz92614c) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Tera Asar](https://open.spotify.com/album/01heUCTqHfWIHj3MooPIsX) | 3:07 | 2025-01-23 |  |
+| [Tera Asar](https://open.spotify.com/track/2EJa6A72ki9Y4VWz92614c) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Tera Asar](https://open.spotify.com/album/01heUCTqHfWIHj3MooPIsX) | 3:07 | 2025-01-23 | 2025-05-10 |
 | [Tera Hi Intezaar Hai](https://open.spotify.com/track/3CUOhQONkaHfyEbJ9o6eFY) | [Rrajeev Sharma](https://open.spotify.com/artist/64zDyqa34wJUmIUr5iXKLv), [Harshit Shrivastava](https://open.spotify.com/artist/5eYHTsRSjK7Kqo7KDxEtSA) | [Tera Hi Intezaar Hai](https://open.spotify.com/album/7xju3kOHcr5VUiH2Au4FaA) | 3:06 | 2023-11-17 | 2023-12-02 |
 | [Tera Rahoon](https://open.spotify.com/track/2trVpKomYRJZP15P8Ya2JU) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tera Rahoon](https://open.spotify.com/album/1tMApkXGbpx9ZmL9Q0pTEJ) | 2:52 | 2024-08-23 |  |
 | [Tera Saath](https://open.spotify.com/track/1fINFWBFzNNU2k5TVWgFoa) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Bhaven Dhanak](https://open.spotify.com/artist/3HI3NpSJpafnCHuiKKhJ9D) | [Tera Saath](https://open.spotify.com/album/4GLNPcFEMzcLOoIcyy4nxQ) | 2:54 | 2023-06-20 | 2023-09-22 |

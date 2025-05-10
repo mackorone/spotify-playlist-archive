@@ -1,31 +1,39 @@
 {
-  "description": "Today's Hip-Hop with Key Glock, Quavo, Takeoff, Drake, Young Thug and NAV.",
-  "num_followers": 814393,
+  "description": "Today's Hip-Hop with The Weeknd, Playboi Carti, Doechii, Drake, Megan Thee Stallion and Lil Tecca.",
+  "num_followers": 814360,
   "original_name": "Hip-Hop Central",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDVQAAAADUIU63u/wpQzNbmrIWSwCB",
+  "snapshot_id": "aB19xQAAAACcF5tTAXgLE8LjM9vnFr1k",
   "tracks": [
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
-        "name": "Glockaveli",
-        "url": "https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6"
+        "name": "Timeless (Remix)",
+        "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
       },
       "artists": [
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 139860,
-      "name": "Blue Devil",
-      "url": "https://open.spotify.com/track/6eTweWBgIkPzPfiqs7l2E3"
+      "duration_ms": 228000,
+      "name": "Timeless (feat. Playboi Carti & Doechii) - Remix",
+      "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Dope Boy Phone (with Takeoff)",
         "url": "https://open.spotify.com/album/2bbTlvoX7gaRTjznctL7nu"
@@ -45,7 +53,23 @@
       "url": "https://open.spotify.com/track/3QuxakJMdpWDvu30D5I1hH"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "Glockaveli",
+        "url": "https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 139860,
+      "name": "Blue Devil",
+      "url": "https://open.spotify.com/track/6eTweWBgIkPzPfiqs7l2E3"
+    },
+    {
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Money On Money (feat. Future)",
         "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
@@ -65,7 +89,7 @@
       "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -81,7 +105,7 @@
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Dark Thoughts",
         "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
@@ -97,7 +121,23 @@
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
+      "album": {
+        "name": "SORRY RACH!",
+        "url": "https://open.spotify.com/album/24HXbfPIjw7Yi8bpif4H79"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 234593,
+      "name": "SORRY RACH!",
+      "url": "https://open.spotify.com/track/581wx4eVMwnfHWqoGd90jn"
+    },
+    {
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Whenever",
         "url": "https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx"
@@ -113,7 +153,7 @@
       "url": "https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
@@ -129,7 +169,7 @@
       "url": "https://open.spotify.com/track/7atWd7Y5eC3aE7fn90xl3y"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "OMW2 REXDALE (DELUXE)",
         "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
@@ -145,7 +185,7 @@
       "url": "https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Friday Prayer (feat. Headie One & Aitch)",
         "url": "https://open.spotify.com/album/0S4Q6d6NRA6RubFH05Nz0R"
@@ -169,7 +209,7 @@
       "url": "https://open.spotify.com/track/69I5rRxwBNBODyFbTZJBqX"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo"
@@ -193,7 +233,7 @@
       "url": "https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Just Us (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
@@ -213,7 +253,7 @@
       "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Pop It Off",
         "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
@@ -233,7 +273,7 @@
       "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "WRK",
         "url": "https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu"
@@ -249,7 +289,7 @@
       "url": "https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Legends (with Lil Baby)",
         "url": "https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh"
@@ -269,7 +309,7 @@
       "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "OMW2 REXDALE",
         "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
@@ -289,7 +329,7 @@
       "url": "https://open.spotify.com/track/4j8n7cA99r729g1nAtA6qV"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -309,7 +349,7 @@
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "LUV? (feat. Anne-Marie)",
         "url": "https://open.spotify.com/album/5ypPFVTmsSQ5Os2hqHVxTM"
@@ -329,7 +369,7 @@
       "url": "https://open.spotify.com/track/4kSXfaTJzXGkEdGBQBl0MB"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Product Launching",
         "url": "https://open.spotify.com/album/59EbbeQY8hPOBaxDMUNxAK"
@@ -345,7 +385,7 @@
       "url": "https://open.spotify.com/track/5RhMTwWBPareq71d4JjK4W"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "cLOUDs",
         "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
@@ -361,7 +401,7 @@
       "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Lost In Euphoria",
         "url": "https://open.spotify.com/album/7baqnLVVcQUr5yUhakW9KX"
@@ -377,7 +417,7 @@
       "url": "https://open.spotify.com/track/2f7NXiO2Uyffl4Pp2AArRI"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
@@ -393,7 +433,7 @@
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "DOLLAR menu",
         "url": "https://open.spotify.com/album/2uA1w90cupy2tS1FsUM2rB"
@@ -409,7 +449,7 @@
       "url": "https://open.spotify.com/track/4uSaaHuvtIo1qIdWgsX4AH"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "RENT'S DUE",
         "url": "https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD"
@@ -429,7 +469,7 @@
       "url": "https://open.spotify.com/track/1OrR5tTnYaryjbfZ8Jl2wT"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/4Kf53rJMirogBxNIDzQVSe"
@@ -445,27 +485,7 @@
       "url": "https://open.spotify.com/track/56Tn1NezPK8I82vgZ38FzR"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
-      "album": {
-        "name": "Kush + Orange Juice 2",
-        "url": "https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 223571,
-      "name": "Cashed Out - feat. Larry June",
-      "url": "https://open.spotify.com/track/1qUyn3s2q7ltOZ5HntTT8K"
-    },
-    {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "2004 (feat. buddy & the gang)",
         "url": "https://open.spotify.com/album/0FKxD8lXXxJI0DDMMm8whM"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/53TwJxoz2dCjrfRYZJAIaQ"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "CAN'T RUSH GREATNESS",
         "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
@@ -509,31 +529,7 @@
       "url": "https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
-      "album": {
-        "name": "Winter's Over",
-        "url": "https://open.spotify.com/album/5FiAdqj0b6uDckZ1vU8Xcq"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 150002,
-      "name": "Winter's Over",
-      "url": "https://open.spotify.com/track/1zKTAM10B7Z5ES2A0SsQ3W"
-    },
-    {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
@@ -553,7 +549,7 @@
       "url": "https://open.spotify.com/track/6oXwnROJNUkozh28jT9O1V"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "5 Star (feat. Gunna)",
         "url": "https://open.spotify.com/album/3aKFzOw4GGmEMJ5LbBSa8n"
@@ -573,7 +569,7 @@
       "url": "https://open.spotify.com/track/00H3q5D7iXFIms4VYbsMP0"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "A Jaguar's Dream",
         "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
@@ -593,7 +589,7 @@
       "url": "https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -609,7 +605,7 @@
       "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Crush (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5"
@@ -629,7 +625,7 @@
       "url": "https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "BAD DECISIONS",
         "url": "https://open.spotify.com/album/6FRtJw6ULKUrSvqXK99PjR"
@@ -645,7 +641,7 @@
       "url": "https://open.spotify.com/track/6DPe3yHTfpFwVVx92AVT54"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
@@ -665,7 +661,7 @@
       "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "HANDLING BUSINESS (with Tory Lanez)",
         "url": "https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV"
@@ -685,7 +681,7 @@
       "url": "https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "2s n 3s",
         "url": "https://open.spotify.com/album/5XO5hOeV9vDooe90ufbCwT"
@@ -705,7 +701,7 @@
       "url": "https://open.spotify.com/track/5Wzc4Qh6nBoWZz2TjRIHYG"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "SPINNIN (Segway Remix)",
         "url": "https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Blanco",
         "url": "https://open.spotify.com/album/7gO4N7Lhppp9QHwjnUA6Mb"
@@ -745,7 +741,7 @@
       "url": "https://open.spotify.com/track/1mS6WBo2ZH9TXnjMEIOTcW"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Wheels Fall Off (feat. Ye)",
         "url": "https://open.spotify.com/album/2esSSY9u8toeydXTlkbmfb"
@@ -765,7 +761,7 @@
       "url": "https://open.spotify.com/track/6QNR2YGST3W8EIhyrrrQvH"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
@@ -781,7 +777,7 @@
       "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Big Dawgs (Remix) [with A$AP Rocky]",
         "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
@@ -805,7 +801,7 @@
       "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
@@ -821,7 +817,7 @@
       "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "WICK",
         "url": "https://open.spotify.com/album/7CDKWBqKdCCw0hN1Mmr6d4"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/6wje3JOEzPz5TqiDNWTVXk"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "BABYGIRL (feat. Lil Tjay)",
         "url": "https://open.spotify.com/album/2nYUUZRsShRIiRxj3ijqvx"
@@ -861,7 +857,7 @@
       "url": "https://open.spotify.com/track/3KxIbjdYaya7ubByPPL7J3"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Blow for Blow (feat. J. Cole)",
         "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
@@ -881,7 +877,7 @@
       "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
@@ -901,7 +897,7 @@
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "WHAM",
         "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
@@ -921,7 +917,7 @@
       "url": "https://open.spotify.com/track/2BsDkWthyNrYbpY3iOnrR0"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "TAKE CARE (DELUXE)",
         "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
@@ -937,7 +933,7 @@
       "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
     },
     {
-      "added_at": "2025-05-02 04:00:21",
+      "added_at": "2025-05-09 04:00:05",
       "album": {
         "name": "Swing My Way",
         "url": "https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z"

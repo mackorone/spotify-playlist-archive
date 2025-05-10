@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-683 songs - 1 day 5 hr 18 min
+686 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [boulevard sunset](https://open.spotify.com/track/3t3YJVQWqFp8DWhg5Ax98n) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [boulevard sunset](https://open.spotify.com/album/6vlqku0NJCGCamiTLkAMvK) | 2:05 | 2021-11-10 | 2022-08-20 |
 | [Branching Spiral](https://open.spotify.com/track/5elH9TFqpMKCbnuNl2zjdx) | [Richard Houghten](https://open.spotify.com/artist/1CsZ0ihKPWBDUERlQt8ekr), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Branching Spiral](https://open.spotify.com/album/6TS4jjFcfJGCK8P94MsWeZ) | 2:51 | 2023-09-01 |  |
 | [Breakups Are Hard](https://open.spotify.com/track/2xJuvHrr1OgDAkIxL6klv5) | [Pink Halcyon](https://open.spotify.com/artist/02YzIekYco9IxU1HZuVg0C) | [Breakups Are Hard](https://open.spotify.com/album/2cRJ1TWmG6e7cU91md5ymn) | 2:16 | 2021-11-10 | 2022-06-10 |
+| [Breeze](https://open.spotify.com/track/42mPGV6cDZHkPbRoSMzE1A) | [Chill Motion](https://open.spotify.com/artist/7uxTNkHkgq1ZLC9tNCxgde) | [Breeze](https://open.spotify.com/album/2oFMPl1PAYVyvBGINyW9T7) | 2:46 | 2025-05-09 |  |
 | [Breeze](https://open.spotify.com/track/533iOIwyGWSADc1wA7Hzvk) | [Hanagoori](https://open.spotify.com/artist/2vRSKTF2P233iIMuhkoO2l) | [Breeze](https://open.spotify.com/album/5TNrlGsFcWTamyUmNJnhzJ) | 2:10 | 2021-11-10 | 2022-08-20 |
 | [Brief City](https://open.spotify.com/track/3dKJr5umYNA02xDlS76B6W) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [Brief City](https://open.spotify.com/album/1GL1UZWjdNNzW8qRvrZ9Tc) | 2:19 | 2025-03-14 |  |
 | [brilliant blush](https://open.spotify.com/track/2ivcFIx7zAzNVNtJjdXflH) | [nadezhiko](https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp) | [brilliant blush](https://open.spotify.com/album/4lQYTQLQ1HZqIGTl8nr4Yj) | 2:32 | 2022-01-21 | 2023-01-20 |
@@ -280,6 +281,7 @@
 | [I Really Like The You That You Are](https://open.spotify.com/track/5xcnrvC1E5OlZBkbFnE6K5) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [I Really Like The You That You Are](https://open.spotify.com/album/4zhbtsbmuZkngz80SLqQ1r) | 3:10 | 2025-04-11 |  |
 | [I Think It Was In June](https://open.spotify.com/track/5ILMxmLYnmIcnjkNbWn3b0) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [I Think It Was In June](https://open.spotify.com/album/5sMFY17vv0LVna3tHIzgub) | 2:02 | 2022-09-16 | 2023-03-18 |
 | [i tried](https://open.spotify.com/track/6W7hFzh8GNeSTljK7qzCsT) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [i tried](https://open.spotify.com/album/3WyFAmRvYnIo7c3ZzyL7uo) | 3:12 | 2022-07-29 | 2022-09-23 |
+| [I'd Rather Be Outside](https://open.spotify.com/track/0MRZTYnGKltNKYXyUNdwb3) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [I'd Rather Be Outside](https://open.spotify.com/album/4KGofAD6fcRP8YVunJ68yk) | 3:01 | 2025-05-09 |  |
 | [Iampredotto don](https://open.spotify.com/track/0gqQB2GBIyprIf4qJYvOHJ) | [SpizyAnice](https://open.spotify.com/artist/2EfobqosVRmphWbrOEIn0Q) | [Iampredotto don](https://open.spotify.com/album/1NDMmgKNdAaPQp7dETbSaK) | 2:30 | 2022-01-21 |  |
 | [Ice Castle](https://open.spotify.com/track/3yrRhxtZO4sxsAkviHFwZd) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Ice Castle](https://open.spotify.com/album/26iomIRqL35QWNpjGTTLDS) | 2:24 | 2021-11-10 | 2022-07-01 |
 | [Idek](https://open.spotify.com/track/0hcHE5BXofyzmFO5hDhQoF) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Idek](https://open.spotify.com/album/08gr2z5AKW09RB74L65w2g) | 2:48 | 2022-07-29 | 2023-01-13 |
@@ -560,6 +562,7 @@
 | [Sounds right](https://open.spotify.com/track/6lFGmtqXEaooUGIuyoR9Hm) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Sounds right](https://open.spotify.com/album/3hG5sLzWIPaxlMWYJfvxZC) | 2:19 | 2025-02-14 |  |
 | [south sailing](https://open.spotify.com/track/1LhFpbFIXio7KS4Yk2S0Aw) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [south sailing](https://open.spotify.com/album/0VnaLqu5JJsiE6aW6T3ddp) | 2:23 | 2025-05-02 |  |
 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 | 2021-11-10 | 2022-08-20 |
+| [Speak Easy](https://open.spotify.com/track/7oDt3lycRiXtHecTGIEWOw) | [Nova Ave](https://open.spotify.com/artist/3EsaUyBu1MKuAK50VCkZ2x) | [Speak Easy](https://open.spotify.com/album/7LTCKdEYHLSoNb7BzXXTUM) | 2:32 | 2025-05-09 |  |
 | [Spectra](https://open.spotify.com/track/2MFkg5GzZyRZKnVi3CciBw) | [Oh Lascar](https://open.spotify.com/artist/74qLRIl7rBXBWAzk0CMOYe) | [Spectra](https://open.spotify.com/album/23SmT1r0p9WuQM0FzDjvBW) | 2:33 | 2021-11-10 | 2022-04-15 |
 | [Spin](https://open.spotify.com/track/3SYVkFt9xCEivtpHlia9yT) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Spin](https://open.spotify.com/album/68MdBMv34Nf1YR7oFgRufK) | 2:50 | 2025-02-28 |  |
 | [spring](https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP) | [slowseventeen](https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X) | [spring](https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX) | 2:23 | 2021-11-10 | 2022-05-20 |

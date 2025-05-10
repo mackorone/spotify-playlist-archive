@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-435 songs - 20 hr 53 min
+438 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Automatic](https://open.spotify.com/track/3KmfcNPQ8PtYZEdo0JFgNw) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Automatic](https://open.spotify.com/album/63E9zyXGEyMZPNJGNnCS1V) | 3:33 | 2024-02-09 | 2025-04-27 |
 | [Back To Us](https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us](https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3) | 2:54 | 2023-08-11 | 2025-04-27 |
 | [Back To Us \- Acoustic Mix](https://open.spotify.com/track/6uVua5Di40zCSyT07zdPRA) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us \(Acoustic Mix\)](https://open.spotify.com/album/1W2Mb3YgdjJcWCV7HxhFtk) | 3:02 | 2024-03-08 | 2025-04-27 |
+| [Backline w/ Niko Slim](https://open.spotify.com/track/5AeW5Iv669afbNRoIeNJEl) | [Mondry](https://open.spotify.com/artist/5hRYM1iYnXNSPCjFWPApsL), [Niko Slim](https://open.spotify.com/artist/6tXq4tIH5nCZep5E4hAMMO) | [Backline w/ Niko Slim](https://open.spotify.com/album/4WM321pIlSq3wfuF6FKAvk) | 2:20 | 2025-05-09 |  |
 | [Backroom](https://open.spotify.com/track/0zHVGowVIwapmi0Vq1MgT4) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [Backroom](https://open.spotify.com/album/6ZqL3CD9YxMqAmKgSgYVEM) | 2:09 | 2024-09-20 | 2025-04-27 |
 | [BAD](https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [BAD](https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN) | 2:53 | 2024-05-31 | 2025-04-27 |
 | [Bad For U](https://open.spotify.com/track/6QSJ6YykdSXSXIXEIyXDjz) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Mevil](https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW), [Enigmix](https://open.spotify.com/artist/4t60Tdbrh9XXcIUVShQbZL) | [Bad For U](https://open.spotify.com/album/5rF6MSD64uT4ylAjpukdXW) | 2:37 | 2023-04-07 | 2025-04-27 |
@@ -195,6 +196,7 @@
 | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/track/7xsbPoykY9CaBblguhsFDF) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/album/5T6MkcNfbHXM0GqxBTtprV) | 2:53 | 2024-02-16 | 2025-04-27 |
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-05-06 | 2022-08-06 |
 | [INOXENTE \- Steve Aoki & Dee Mad Remix](https://open.spotify.com/track/719e5fPCJE34Lb3a6upwhV) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI) | [INOXENTE \(Steve Aoki & Dee Mad Remix\)](https://open.spotify.com/album/3OL3ZtuxuF4czRXHoQBLOi) | 3:00 | 2023-05-05 | 2025-04-27 |
+| [International Party Girl](https://open.spotify.com/track/4MZSIPKJ5IKx1yisFygkIz) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [International Party Girl](https://open.spotify.com/album/4jBszuxjEknADKZFJUZfYu) | 2:33 | 2025-05-09 |  |
 | [Into The Light](https://open.spotify.com/track/46pGbxr3Z8tIT5QEvHJFDb) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Into The Light](https://open.spotify.com/album/58WkOT84TCYtWAjGO2l2K9) | 2:36 | 2025-05-02 |  |
 | [It Clicked](https://open.spotify.com/track/6CZEvodrbQ2peNYVVfH785) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [It Clicked](https://open.spotify.com/album/5xCcujnvIlwkwhA2QRHglJ) | 1:50 | 2025-03-07 |  |
 | [It's A Vibe](https://open.spotify.com/track/1lF6fVuFGAT9EAkD0S04ql) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [It's A Vibe](https://open.spotify.com/album/1pJ7SKaN5pBgWVOmyIsFdJ) | 2:48 | 2024-07-08 | 2025-04-27 |
@@ -301,6 +303,7 @@
 | [One On One \(feat\. marlonbeats\)](https://open.spotify.com/track/5UeW8R15toXJcw6Vk5dBb8) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [marlonbeats](https://open.spotify.com/artist/5CgKRZNH68S6yctIBLPOmx), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [One On One \(feat\. marlonbeats\)](https://open.spotify.com/album/08QI4r07qv4sCiNGNp3DSF) | 2:18 | 2024-08-09 | 2025-04-27 |
 | [Only Fanz](https://open.spotify.com/track/5aDKjQ0i7xuxgGKPmI7QrT) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [REMODEL](https://open.spotify.com/album/3gZgElt4vczjfoXI4LDEAo) | 2:11 | 2023-11-22 | 2025-04-27 |
 | [OPEN YOUR EYES](https://open.spotify.com/track/6NU79Y1bRxbHwqSYdWUL2h) | [THIEVES](https://open.spotify.com/artist/0l6M2vf0lC8N42B4spXUSn), [BADVOID](https://open.spotify.com/artist/1xLTclBBWlypMWDMV8Eb6O) | [OPEN YOUR EYES](https://open.spotify.com/album/6ZHkAA8tCE9803lwFAgwKU) | 3:12 | 2023-01-04 | 2023-04-09 |
+| [Origami](https://open.spotify.com/track/79XdQkKdRNM6JZWR5nv0Uv) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Origami](https://open.spotify.com/album/3SvsWB2wA3aKvYhFn4YJhJ) | 2:25 | 2025-05-09 |  |
 | [Oro Negro](https://open.spotify.com/track/47CgO81InO20CWqKR7bfWC) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Oro Negro](https://open.spotify.com/album/0UufG3fDNZCkVc1mmR59yJ) | 2:13 | 2022-05-06 | 2022-09-10 |
 | [Osaka Psycho](https://open.spotify.com/track/4al48UReBtAEGNK48WLPCR) | [SWAGE](https://open.spotify.com/artist/4AX69F3L6j5N4wZFUaXYdc) | [Osaka Psycho](https://open.spotify.com/album/5gANRMe0nkkXIBhQ4d3ptr) | 3:44 | 2022-12-20 | 2023-03-25 |
 | [Out Of Love](https://open.spotify.com/track/5jRIWngYH11xuX2HjQwacj) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Out Of Love](https://open.spotify.com/album/2C61LqHVFz12uEJDRdBZUZ) | 2:34 | 2023-08-25 | 2025-04-27 |

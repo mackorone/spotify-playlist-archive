@@ -14414,7 +14414,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 255045,
       "name": "F\u00f6rsent",
       "url": "https://open.spotify.com/track/1U49LNwMAgAwlLMQxeqWL6"
@@ -15546,7 +15546,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 120545,
       "name": "Godnattvisan",
       "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
@@ -19390,7 +19390,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "I min bil",
       "url": "https://open.spotify.com/track/0W6ol1CE3oQSkI35ZcsDb6"
@@ -19916,7 +19916,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 137727,
       "name": "Ikv\u00e4ll Igen",
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
@@ -22782,7 +22782,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 113333,
       "name": "Kontroversiell (Intro)",
       "url": "https://open.spotify.com/track/2Q5oXS6667pr4n5AIy8mIT"
@@ -23302,10 +23302,28 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 276400,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y"
+    },
+    {
+      "album": {
+        "name": "Skelet\u00e1",
+        "url": "https://open.spotify.com/album/37a1ehu3HGYPA07QFvWIsL"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276402,
+      "name": "Lachryma",
+      "url": "https://open.spotify.com/track/0UvLAFRXgH4vNzzLdcWtWs"
     },
     {
       "album": {
@@ -43652,7 +43670,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 147428,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"

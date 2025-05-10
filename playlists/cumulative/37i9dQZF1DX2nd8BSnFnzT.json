@@ -651,6 +651,32 @@
     },
     {
       "album": {
+        "name": "Amor Incondicional",
+        "url": "https://open.spotify.com/album/3uv17SLDy9qkRV7uS5RxSG"
+      },
+      "artists": [
+        {
+          "name": "Edgard Scandurra",
+          "url": "https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF"
+        },
+        {
+          "name": "Benzina aka Scandurra",
+          "url": "https://open.spotify.com/artist/3Graw2y2nCA7hFdwMdoSLc"
+        },
+        {
+          "name": "Charlie Crooijmans",
+          "url": "https://open.spotify.com/artist/1pU0rInm1Tgn4QLyqR6RTv"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262713,
+      "name": "Amor Incondicional - Charlie Mix",
+      "url": "https://open.spotify.com/track/6Zydg3hj9nNtaHTkXviV4F"
+    },
+    {
+      "album": {
         "name": "Andando de SK8",
         "url": "https://open.spotify.com/album/5xHLWqJjt6svcBPyvvXfl1"
       },
@@ -2576,6 +2602,24 @@
       "duration_ms": 327600,
       "name": "Dias de Luta",
       "url": "https://open.spotify.com/track/5wbyTA4Db4Mxl2BLPTRcGN"
+    },
+    {
+      "album": {
+        "name": "Dinheiro",
+        "url": "https://open.spotify.com/album/3x7uImBPf6gaGt3Ax6hsvM"
+      },
+      "artists": [
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176356,
+      "name": "Dinheiro",
+      "url": "https://open.spotify.com/track/0nn0kewBZNScomh6e9X1Of"
     },
     {
       "album": {
@@ -4508,7 +4552,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 192000,
       "name": "Livre - Ao Vivo",
       "url": "https://open.spotify.com/track/572YfgMpcF2gIvMVswqZlB"
@@ -7440,7 +7484,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 173513,
       "name": "Pra Recome\u00e7ar",
       "url": "https://open.spotify.com/track/6XFszYlyisvYoMv62XZxWe"

@@ -4,7 +4,7 @@
 
 > Rimas argentinas 📸 Oney1
 
-364 songs - 18 hr 15 min
+365 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Kpoper](https://open.spotify.com/track/5NKscBgVX8yY7UbdPpsPos) | [Rayder](https://open.spotify.com/artist/33PpkcHB2eCvphzqqqDAmC), [Benji24](https://open.spotify.com/artist/0fkb9EixInbTgSCf6GIuyk) | [Kpoper](https://open.spotify.com/album/3peKlhIthkXCsWuItCYTi4) | 2:20 | 2024-05-17 | 2024-11-09 |
 | [La Cara Del Barrio](https://open.spotify.com/track/5CRqtYLTHXpNwztvaEW29C) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [La Cara Del Barrio](https://open.spotify.com/album/615IhDA8nIoq89V0qLzsvV) | 2:40 | 2023-05-12 | 2023-08-26 |
 | [la cruz como a sampaoli](https://open.spotify.com/track/49QGK8K8J7BT374csMdn0x) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO!](https://open.spotify.com/album/3CqJ9pw9gAGhHi1DHjtD1f) | 2:21 | 2025-04-25 |  |
+| [La Receta](https://open.spotify.com/track/13NPr8gjyMxro5FQgYIVX4) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf) | [La Receta](https://open.spotify.com/album/6KvjcTfytpH5WmiAQdZOTG) | 3:08 | 2025-05-09 |  |
 | [LA TORTURA](https://open.spotify.com/track/1vKXtNEKU9fegCsHt9LQPD) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf) | [166 \(DELUXE\) retirada](https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm) | 2:28 | 2025-05-06 |  |
 | [La Vibe](https://open.spotify.com/track/3YCMLVzfHHZIcuQTjoeVGg) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Vibe](https://open.spotify.com/album/1x2JTHTEXqF5XvadfXOujT) | 3:15 | 2023-04-24 | 2024-06-22 |
 | [LEGENDARIO](https://open.spotify.com/track/47Y7zbY54UmViUUDUrq7Sk) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 3:04 | 2024-05-24 | 2025-03-01 |

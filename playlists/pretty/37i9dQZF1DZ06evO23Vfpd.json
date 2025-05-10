@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 47060,
+  "num_followers": 47184,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBlRAAAAAABW83ouVj5MlbbcBee3JHL4",
+  "snapshot_id": "aBv0AAAAAADtCfINzVl+hpEvsH6ECzKs",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,26 @@
       "duration_ms": 197403,
       "name": "Amen",
       "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire and Gasoline - A COLORS ENCORE",
+        "url": "https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 191162,
+      "name": "Fire and Gasoline - A COLORS ENCORE",
+      "url": "https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX"
     },
     {
       "added_at": null,
@@ -212,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 153667,
-      "name": "All Men Die (Freestyle)",
-      "url": "https://open.spotify.com/track/60aoMGaYBzlNEJPX6w8oAA"
+      "duration_ms": 195676,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6hXdDiZeoe2r6qspLCjMoZ"
     },
     {
       "added_at": null,
@@ -284,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 195676,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6hXdDiZeoe2r6qspLCjMoZ"
+      "duration_ms": 153667,
+      "name": "All Men Die (Freestyle)",
+      "url": "https://open.spotify.com/track/60aoMGaYBzlNEJPX6w8oAA"
     },
     {
       "added_at": null,
@@ -372,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 192609,
-      "name": "Fire And Gasoline",
-      "url": "https://open.spotify.com/track/2bSp7973XonvsjQ5X73ESN"
+      "duration_ms": 145321,
+      "name": "Chrome - Bonus",
+      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
     },
     {
       "added_at": null,
@@ -436,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 145321,
-      "name": "Chrome - Bonus",
-      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
+      "duration_ms": 186446,
+      "name": "Anabelle",
+      "url": "https://open.spotify.com/track/4GG8Rx7YMvZ1NbIEW8yZtF"
     },
     {
       "added_at": null,
@@ -500,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 186446,
-      "name": "Anabelle",
-      "url": "https://open.spotify.com/track/4GG8Rx7YMvZ1NbIEW8yZtF"
+      "duration_ms": 237250,
+      "name": "East Of The Massanutten",
+      "url": "https://open.spotify.com/track/3qUc4SlnZOeD6WjD3veU5X"
     },
     {
       "added_at": null,
@@ -564,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 237250,
-      "name": "East Of The Massanutten",
-      "url": "https://open.spotify.com/track/3qUc4SlnZOeD6WjD3veU5X"
+      "duration_ms": 189086,
+      "name": "Finally Over",
+      "url": "https://open.spotify.com/track/1Q0STF75iyO3qbMvlZ9RB9"
     },
     {
       "added_at": null,
@@ -628,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 189086,
-      "name": "Finally Over",
-      "url": "https://open.spotify.com/track/1Q0STF75iyO3qbMvlZ9RB9"
+      "duration_ms": 213126,
+      "name": "Steal Her From Me",
+      "url": "https://open.spotify.com/track/0aNcni6E5x9xy5cWwIKUhA"
     },
     {
       "added_at": null,

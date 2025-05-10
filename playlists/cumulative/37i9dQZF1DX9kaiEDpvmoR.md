@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-353 songs - 20 hr 16 min
+354 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Salta tårar](https://open.spotify.com/track/2d7JfqU2Vhe94bedlOJRNy) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Salta tårar](https://open.spotify.com/album/08BcoLD1gNU0NsDRZAdLit) | 3:23 | 2024-06-27 | 2024-08-16 |
 | [Samma saga](https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Samma saga](https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI) | 3:33 | 2024-10-10 | 2025-04-25 |
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-10 |  |
+| [Seven Days Of Heaven](https://open.spotify.com/track/4FdVXLaBpWLNshAzXP4WAa) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Seven Days Of Heaven](https://open.spotify.com/album/1xfkNCZQmq4sGKRxTpOFe9) | 3:35 | 2025-05-08 |  |
 | [Show Me](https://open.spotify.com/track/23mymG8MR8H4oQ6uyJ40cQ) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Show Me](https://open.spotify.com/album/2iX8n3q3raSUgt3J1ejovV) | 3:38 | 2024-06-27 | 2024-08-09 |
 | [Sign](https://open.spotify.com/track/1HiMLlD5OBUqoKNMNBMgTV) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Sign](https://open.spotify.com/album/5WhLbhoV8ZB4P0SxceezKc) | 3:07 | 2024-12-05 |  |
 | [Siljans strand](https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Siljans strand / Midsommarvisa](https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw) | 3:46 | 2024-06-27 | 2024-09-13 |
@@ -326,7 +327,7 @@
 | [Vi kommer aldrig](https://open.spotify.com/track/7kGS4wTFv3Mzu41Uxbcei8) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Vi kommer aldrig](https://open.spotify.com/album/5ey4CjvDR571IBBvhyRQew) | 3:13 | 2024-06-27 | 2024-08-16 |
 | [Vi lämnar det så](https://open.spotify.com/track/4ubcbAoGBNg3oS1JQBwtD7) | [PYK](https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm) | [Vi lämnar det så](https://open.spotify.com/album/6ojlFDERZgValMPokz2ulK) | 3:03 | 2025-01-09 | 2025-01-17 |
 | [Vi står inte ut](https://open.spotify.com/track/79SPnz1ts8Qky3HrWxj3YA) | [Tomas Rimeika](https://open.spotify.com/artist/6gDITTUXRJ4mb0fhiOcyyz) | [Den klarnande april](https://open.spotify.com/album/5XpmuYfcGCz2P8k73UCnGG) | 3:17 | 2024-09-12 | 2024-09-20 |
-| [Via Dolorosa](https://open.spotify.com/track/2LEyM4qnfKydqSjV90OvZY) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Via Dolorosa](https://open.spotify.com/album/1n5WdaQJKAG8NTUq2M8d0f) | 4:36 | 2025-03-13 |  |
+| [Via Dolorosa](https://open.spotify.com/track/2LEyM4qnfKydqSjV90OvZY) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Via Dolorosa](https://open.spotify.com/album/1n5WdaQJKAG8NTUq2M8d0f) | 4:36 | 2025-03-13 | 2025-05-10 |
 | [Viker inte ner mig än](https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Viker inte ner mig än](https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2) | 3:47 | 2024-06-27 | 2024-10-25 |
 | [Vill ha mer \- 2024 Version](https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII) | [Nordman](https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN) | [Vill ha mer \(2024 Version\)](https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl) | 2:44 | 2024-08-08 | 2024-10-13 |
 | [Vingar](https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Vingar](https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au) | 2:53 | 2024-06-27 | 2024-08-16 |

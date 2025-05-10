@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 171160,
       "name": "For Us",
       "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 187666,
       "name": "hellbound",
       "url": "https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o"
@@ -2561,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "ONLY LOVERS LEFT",
+        "url": "https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195506,
+      "name": "Kiss of fire",
+      "url": "https://open.spotify.com/track/3tZhtCYISL5esUNEvcWclc"
+    },
+    {
+      "album": {
         "name": "Evergray",
         "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
@@ -2798,6 +2816,24 @@
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "album": {
+        "name": "Lovers In The Night",
+        "url": "https://open.spotify.com/album/1K8vhT940w44DgXKUYjSgv"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210546,
+      "name": "Lovers In The Night",
+      "url": "https://open.spotify.com/track/1riG0Dk62yWVqNxdWY28j0"
     },
     {
       "album": {

@@ -717,6 +717,28 @@
     },
     {
       "album": {
+        "name": "MARAVILHOSAMENTE BEM",
+        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275275,
+      "name": "Marinou, Limou",
+      "url": "https://open.spotify.com/track/0RrvXQjKQNcBEt0dWoanvA"
+    },
+    {
+      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/4mYtE1kbSHLDqqhzUjSY2b"
       },
@@ -1246,7 +1268,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 178223,
       "name": "Voc\u00ea S\u00f3 Quer Me Comer",
       "url": "https://open.spotify.com/track/7woovMgaU7UwFJXum9AGqI"

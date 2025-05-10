@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: FORD TRIO",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SoundSleep",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 244000,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/3t0EwFuZj8OcXJCmilfPMo"
@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e31\u0e48\u0e07\u0e01\u0e32\u0e23\u0e16\u0e39\u0e01\u0e1d\u0e31\u0e07(Unreal Catacomb)",
+        "url": "https://open.spotify.com/album/33yd6qAl1Xi79gjB6IcARA"
+      },
+      "artists": [
+        {
+          "name": "pOd",
+          "url": "https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365000,
+      "name": "\u0e14\u0e31\u0e48\u0e07\u0e01\u0e32\u0e23\u0e16\u0e39\u0e01\u0e1d\u0e31\u0e07(Unreal Catacomb)",
+      "url": "https://open.spotify.com/track/31Joa4uMV4huGmglEDtDdq"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e32\u0e27",
         "url": "https://open.spotify.com/album/5ehk1Bqb2rNpqx0PUUEi7D"
       },
@@ -1539,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c\u0e01\u0e32\u0e25",
+        "url": "https://open.spotify.com/album/7mmFwpTwcpkhtal3LBkrIH"
+      },
+      "artists": [
+        {
+          "name": "Bluedream",
+          "url": "https://open.spotify.com/artist/0KFHTUubhWrWJ3IBGyQ6vS"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386400,
+      "name": "\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c\u0e01\u0e32\u0e25",
+      "url": "https://open.spotify.com/track/4LBfWEp5d7JNMnGzYCGEm0"
+    },
+    {
+      "album": {
         "name": "\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08",
         "url": "https://open.spotify.com/album/1boJRDPJYl5rBJLN4UbEvC"
       },
@@ -1849,7 +1885,7 @@
     },
     {
       "album": {
-        "name": "\u0e1e\u0e39\u0e48\u0e01\u0e31\u0e19 (feat. dopameen & Last Ratha)",
+        "name": "\u0e1e\u0e39\u0e48\u0e01\u0e31\u0e19 (feat. dopameen & IAmLast)",
         "url": "https://open.spotify.com/album/7jKGt7AVFeLmyeDnnK3peG"
       },
       "artists": [
@@ -1862,15 +1898,15 @@
           "url": "https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T"
         },
         {
-          "name": "Last Ratha",
-          "url": "https://open.spotify.com/artist/0SfOSNtLibiKfY5Yv5WzFy"
+          "name": "IAmLast",
+          "url": "https://open.spotify.com/artist/54OmDwMEA7CWxKzrgi91PG"
         }
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241250,
-      "name": "\u0e1e\u0e39\u0e48\u0e01\u0e31\u0e19 (feat. dopameen & Last Ratha)",
+      "name": "\u0e1e\u0e39\u0e48\u0e01\u0e31\u0e19 (feat. dopameen & IAmLast)",
       "url": "https://open.spotify.com/track/1YLRLshOz0o8m0UQO7ZEm2"
     },
     {
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 171624,
       "name": "\u0e22\u0e2d\u0e21\u0e23\u0e31\u0e1a",
       "url": "https://open.spotify.com/track/270aCRJUV0zSSevAqwL5As"
@@ -2978,7 +3014,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 233010,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e39\u0e49 (Why)",
       "url": "https://open.spotify.com/track/1OjZuGbeXKh7fvJ4uPlNCg"
@@ -3526,6 +3562,24 @@
       "duration_ms": 228643,
       "name": "\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32? (Crush)",
       "url": "https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e40\u0e18\u0e2d\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e22\u0e31\u0e07\u0e44\u0e07 (Oblivion)",
+        "url": "https://open.spotify.com/album/3yEhe0j7XHRHJEAuhoj7Rj"
+      },
+      "artists": [
+        {
+          "name": "SoundSleep",
+          "url": "https://open.spotify.com/artist/6s1SgkazTTQy1i0fs6ZIGw"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e40\u0e18\u0e2d\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e22\u0e31\u0e07\u0e44\u0e07 (Oblivion)",
+      "url": "https://open.spotify.com/track/40iWwQzs0TALQaTPu8L2lc"
     },
     {
       "album": {

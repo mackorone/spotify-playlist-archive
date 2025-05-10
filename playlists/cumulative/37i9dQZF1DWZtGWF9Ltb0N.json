@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Afraid / Count 10",
+        "url": "https://open.spotify.com/album/1g0BjYAwI3B5PowHYTqISD"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/1IbVm5MmOOY7a7dFFKtznt"
+    },
+    {
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/5x2pZCBJeC8XPXdex5MSsu"
       },
@@ -1044,6 +1062,24 @@
       "duration_ms": 254117,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/1ZIglHDIFjtMiFV2VItzPg"
+    },
+    {
+      "album": {
+        "name": "Bassline One",
+        "url": "https://open.spotify.com/album/39Hrsbsue2x0JynDtWg3vw"
+      },
+      "artists": [
+        {
+          "name": "not yes",
+          "url": "https://open.spotify.com/artist/3sAig7Ir86KX0ZdcxSR1ax"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205582,
+      "name": "Bassline One",
+      "url": "https://open.spotify.com/track/5gsRs5oPcc6rxoHJSQgqV9"
     },
     {
       "album": {
@@ -2380,7 +2416,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 261134,
       "name": "Connected Illusions",
       "url": "https://open.spotify.com/track/6hsklmT7gmue5XjeALOCYD"
@@ -2922,6 +2958,24 @@
       "duration_ms": 205241,
       "name": "D33P",
       "url": "https://open.spotify.com/track/39sLXM6qyOKfsCnc7nBgvC"
+    },
+    {
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/4IyUp6QSm1hzldu1N8V76q"
+      },
+      "artists": [
+        {
+          "name": "Pigeon Hole",
+          "url": "https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211851,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/3JoQJwkHpw0TPVrcan7cmq"
     },
     {
       "album": {
@@ -5288,7 +5342,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 185142,
       "name": "Glory",
       "url": "https://open.spotify.com/track/2UnhLpz7PF9gZqq1v1YFSK"
@@ -5440,6 +5494,24 @@
       "duration_ms": 173327,
       "name": "GREEZE",
       "url": "https://open.spotify.com/track/6mm2KkENHYOXXOQaNq1a9m"
+    },
+    {
+      "album": {
+        "name": "Grill",
+        "url": "https://open.spotify.com/album/1bh8ckNnpftZlrphTlt3XD"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180428,
+      "name": "Grill",
+      "url": "https://open.spotify.com/track/6Go977kCWKDYumXJwAikNl"
     },
     {
       "album": {
@@ -6810,7 +6882,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 281146,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X"
@@ -7528,7 +7600,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 158709,
       "name": "Lightspeed (feat. d\u00eatre)",
       "url": "https://open.spotify.com/track/4LVcRkElDaOWOC4SfO3LRm"
@@ -13735,6 +13807,28 @@
     },
     {
       "album": {
+        "name": "Torque",
+        "url": "https://open.spotify.com/album/3pGbXi954T1TsEfqSmmJQZ"
+      },
+      "artists": [
+        {
+          "name": "Golden Child",
+          "url": "https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR"
+        },
+        {
+          "name": "as\u00e1u",
+          "url": "https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Torque",
+      "url": "https://open.spotify.com/track/1NsVTeIbOoxwtQoqJZKivu"
+    },
+    {
+      "album": {
         "name": "toys",
         "url": "https://open.spotify.com/album/3BCWCeSDwXAkehZtZhU15J"
       },
@@ -14860,7 +14954,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 212862,
       "name": "Woofer",
       "url": "https://open.spotify.com/track/3DvH2GoGvI8imw22IoETL6"

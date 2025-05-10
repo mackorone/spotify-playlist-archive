@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Loski, Chy Cartier
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,286 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,314 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/track/1OrR5tTnYaryjbfZ8Jl2wT) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 2:40 |
 | 2 | [Crazy Love](https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Crazy Love](https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo) | 2:00 |
 | 3 | [It Is What It Is](https://open.spotify.com/track/56Tn1NezPK8I82vgZ38FzR) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [It Is What It Is](https://open.spotify.com/album/4Kf53rJMirogBxNIDzQVSe) | 2:39 |
-| 4 | [Uptown](https://open.spotify.com/track/76Pu3WalpqCdQDvO0VWbas) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Uptown](https://open.spotify.com/album/3JQ5ILpec1hGp59h3dhrzb) | 2:32 |
+| 4 | [Uptown \(feat\. Chy Cartier\)](https://open.spotify.com/track/76Pu3WalpqCdQDvO0VWbas) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Uptown \(feat\. Chy Cartier\)](https://open.spotify.com/album/3JQ5ILpec1hGp59h3dhrzb) | 2:32 |
 | 5 | [Victory Lap](https://open.spotify.com/track/0E6i96Gpn3otnwCgoYOSAF) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Victory Lap](https://open.spotify.com/album/15SSmyng4aNTvJLtKRjFjg) | 2:01 |
 | 6 | [Introvert](https://open.spotify.com/track/7s2fwl23lZE6FpdJ5yFp9c) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Introvert](https://open.spotify.com/album/21PQEuG2z3sCoxHo4SIenI) | 2:13 |
 | 7 | [Friday Prayer \(feat\. Headie One & Aitch\)](https://open.spotify.com/track/69I5rRxwBNBODyFbTZJBqX) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Friday Prayer \(feat\. Headie One & Aitch\)](https://open.spotify.com/album/0S4Q6d6NRA6RubFH05Nz0R) | 3:15 |

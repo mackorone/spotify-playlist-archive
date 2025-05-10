@@ -1,13 +1,65 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover:  Xavier Om\u00e4r",
-  "num_followers": 55061,
+  "description": "R&B of the moment by the artists of the future. Cover:  Nippa",
+  "num_followers": 55056,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDZAAAAABhVhoGiixW76LOP6sQVtPT",
+  "snapshot_id": "aB191gAAAABYLNEaRUWDZfiNqJJ1AtSE",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "Hope She Hears This",
+        "url": "https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "duration_ms": 128421,
+      "name": "One More - Bonus",
+      "url": "https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "What I Gotta Do",
+        "url": "https://open.spotify.com/album/2fl9ez05isjoG6IdqOXUzI"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 96048,
+      "name": "What I Gotta Do",
+      "url": "https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "Sympathy",
+        "url": "https://open.spotify.com/album/4tU6JQsRx6NRmGPDLduQ8l"
+      },
+      "artists": [
+        {
+          "name": "Aaron Page",
+          "url": "https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ"
+        },
+        {
+          "name": "Domani",
+          "url": "https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq"
+        }
+      ],
+      "duration_ms": 179591,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/7AGwFQn8ETG3cE8MVSjXBT"
+    },
     {
       "added_at": "2025-05-02 04:00:36",
       "album": {
@@ -25,6 +77,78 @@
       "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
     },
     {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "FEEL THE BA$S (Extendo) [feat. BEAM]",
+        "url": "https://open.spotify.com/album/1iHWp6CEKFhaIQ29AorMQ5"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 167029,
+      "name": "FEEL THE BA$S (Extendo) [feat. BEAM]",
+      "url": "https://open.spotify.com/track/7D376hckBJfa3yDWdgn3MN"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "I'm A Good Girl..... Do You Believe Me?",
+        "url": "https://open.spotify.com/album/3o9LhBYcra8I10QKBoDYUI"
+      },
+      "artists": [
+        {
+          "name": "Mia Ariannaa",
+          "url": "https://open.spotify.com/artist/6lM8vEEWM1Mg9IXyiR0rSI"
+        }
+      ],
+      "duration_ms": 222764,
+      "name": "S.T.M.F.U.",
+      "url": "https://open.spotify.com/track/4leXhi5nddAs8mVbsNr91p"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/4kh79ZG95W2tzswDQjh9VR"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/3gVaJZPl0fLaPeky7mwMlS"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "DOYA?",
+        "url": "https://open.spotify.com/album/7FyYBUJVSsqPaBV0QzvSnW"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        }
+      ],
+      "duration_ms": 211921,
+      "name": "DOYA?",
+      "url": "https://open.spotify.com/track/2q525jOBsyaEvP9OnNaA8c"
+    },
+    {
       "added_at": "2025-05-02 04:00:36",
       "album": {
         "name": "Crystal Ball",
@@ -39,6 +163,38 @@
       "duration_ms": 154594,
       "name": "Crystal Ball",
       "url": "https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "Southern Soul",
+        "url": "https://open.spotify.com/album/5MVebc75SBfscLBim87bhR"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 156397,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/24QQcdy9UpOvBTiDV94KHW"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/5PnshvGWjRU4PWGcnBBbbs"
+      },
+      "artists": [
+        {
+          "name": "CHOSZN",
+          "url": "https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK"
+        }
+      ],
+      "duration_ms": 162833,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/3ptalT1zhIEaJwZ355KxpA"
     },
     {
       "added_at": "2025-05-02 04:00:36",
@@ -73,20 +229,36 @@
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
-      "added_at": "2025-05-02 04:00:36",
+      "added_at": "2025-05-09 04:00:22",
       "album": {
-        "name": "It's Complicated",
-        "url": "https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo"
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/5w1CiB6umzBpiB6FjYWxVX"
       },
       "artists": [
         {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
         }
       ],
-      "duration_ms": 160476,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x"
+      "duration_ms": 206554,
+      "name": "2 Good",
+      "url": "https://open.spotify.com/track/6onTSGUlM6RTH6wfePrDPd"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "YARN",
+        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 197323,
+      "name": "Empath",
+      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
     },
     {
       "added_at": "2025-05-02 04:00:36",
@@ -121,6 +293,38 @@
       "url": "https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa"
     },
     {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "Haiku",
+        "url": "https://open.spotify.com/album/4cWC2yy4u4a1gYjyU2IL5i"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 212618,
+      "name": "Haiku",
+      "url": "https://open.spotify.com/track/52uaVOICJKsGh3jBM1EW6m"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "WARM",
+        "url": "https://open.spotify.com/album/4IJVAYnl2ZtSBeyNGY1j8A"
+      },
+      "artists": [
+        {
+          "name": "Nami",
+          "url": "https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq"
+        }
+      ],
+      "duration_ms": 199332,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/24ouK1I3KXVItXRWIu2G9W"
+    },
+    {
       "added_at": "2025-05-02 04:00:36",
       "album": {
         "name": "Feel Like Makin' Love - Spotify Singles (Cover)",
@@ -151,6 +355,22 @@
       "duration_ms": 128590,
       "name": "Do For Love",
       "url": "https://open.spotify.com/track/3SMRP2eGrpxBS1I1rZNFLP"
+    },
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 160476,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x"
     },
     {
       "added_at": "2025-04-25 06:33:52",
@@ -247,26 +467,6 @@
       "duration_ms": 128233,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/5Ha86zPip9CSUj8hB61yUi"
-    },
-    {
-      "added_at": "2025-03-14 06:39:18",
-      "album": {
-        "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
-        "url": "https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 97371,
-      "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
-      "url": "https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9"
     },
     {
       "added_at": "2025-03-28 04:00:51",
@@ -713,42 +913,6 @@
       "url": "https://open.spotify.com/track/61nZp8eL70rmv9olKyxFnL"
     },
     {
-      "added_at": "2025-04-11 05:30:41",
-      "album": {
-        "name": "Think I Might",
-        "url": "https://open.spotify.com/album/2Jf36TiQ4eQqhRRaOYfhp1"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 174222,
-      "name": "Think I Might",
-      "url": "https://open.spotify.com/track/3J5w5UZuhcaI1qryqeIk06"
-    },
-    {
-      "added_at": "2025-04-18 05:56:45",
-      "album": {
-        "name": "Bon Voyage (with Tierra Whack)",
-        "url": "https://open.spotify.com/album/0fouUfV4VftFXq4EcNEAEb"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        },
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        }
-      ],
-      "duration_ms": 182814,
-      "name": "Bon Voyage (with Tierra Whack)",
-      "url": "https://open.spotify.com/track/1f8W0X1qC2R3ym8KqAgYsF"
-    },
-    {
       "added_at": "2025-04-18 05:56:45",
       "album": {
         "name": "PLASTIC CUP",
@@ -985,22 +1149,6 @@
       "url": "https://open.spotify.com/track/3AhjqljvTK2yuiMHSJXQyx"
     },
     {
-      "added_at": "2025-02-28 06:56:32",
-      "album": {
-        "name": "Cruel, Cruel World",
-        "url": "https://open.spotify.com/album/2Jplnof86ciDHNdUpRdlWd"
-      },
-      "artists": [
-        {
-          "name": "Felix Ames",
-          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
-        }
-      ],
-      "duration_ms": 154940,
-      "name": "Cruel, Cruel World",
-      "url": "https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD"
-    },
-    {
       "added_at": "2025-03-14 06:39:18",
       "album": {
         "name": "Suzette",
@@ -1099,22 +1247,6 @@
       "duration_ms": 192000,
       "name": "Out the Frame",
       "url": "https://open.spotify.com/track/2N0EoOoz8ngKMUlsI21Ryk"
-    },
-    {
-      "added_at": "2025-03-07 06:20:43",
-      "album": {
-        "name": "Forget U",
-        "url": "https://open.spotify.com/album/6B6rKxe9yVNtMGrQztaTLO"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Forget U",
-      "url": "https://open.spotify.com/track/7FgjoiSwkVAHHUAzubUTc5"
     },
     {
       "added_at": "2025-03-07 06:20:43",
@@ -1327,26 +1459,6 @@
       "duration_ms": 250700,
       "name": "Love is Gold",
       "url": "https://open.spotify.com/track/5VOJowDxS3o2zEHCLZuhTo"
-    },
-    {
-      "added_at": "2025-02-14 08:04:25",
-      "album": {
-        "name": "The Louvre",
-        "url": "https://open.spotify.com/album/3RJV3Qrx3FTeuGWPCevZ2E"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "LUCIIA",
-          "url": "https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd"
-        }
-      ],
-      "duration_ms": 211123,
-      "name": "The Louvre (feat. LUCIIA)",
-      "url": "https://open.spotify.com/track/3DU4QItoEgpBYNODVZRHNn"
     },
     {
       "added_at": "2025-02-14 08:04:25",
@@ -2507,22 +2619,6 @@
     {
       "added_at": "2024-10-18 19:42:43",
       "album": {
-        "name": "Come Find Me",
-        "url": "https://open.spotify.com/album/3am1LNeOdmSOHqgm7fI9pU"
-      },
-      "artists": [
-        {
-          "name": "James Savage",
-          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
-        }
-      ],
-      "duration_ms": 133636,
-      "name": "Come Find Me",
-      "url": "https://open.spotify.com/track/1lYTebUDk3gaK5rURVPE1m"
-    },
-    {
-      "added_at": "2024-10-18 19:42:43",
-      "album": {
         "name": "Make Money (feat. Mereba)",
         "url": "https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui"
       },
@@ -3059,22 +3155,6 @@
       "duration_ms": 174266,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/4nAtrAfbl6wrPsOJWVurHI"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 269055,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU"
     },
     {
       "added_at": "2024-08-16 04:00:00",

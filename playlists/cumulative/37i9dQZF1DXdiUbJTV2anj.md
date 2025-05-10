@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> bands and tracks on the rise in heavy music\. Cover: Knosis
+> bands and tracks on the rise in heavy music\. Cover: Orthodox
 
-256 songs - 14 hr 49 min
+259 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-08-19 | 2022-10-15 |
 | [Gross Abuse](https://open.spotify.com/track/6fL0AtGIH9hWi8zc6m7XOK) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Manual Manic Procedures](https://open.spotify.com/album/2p4qPInJmmYl8QZ3uhIbDb) | 1:49 | 2024-07-15 |  |
 | [Guiding Light](https://open.spotify.com/track/0xjK3dF93FVr2HC0BU29aj) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 4:22 | 2024-07-15 |  |
+| [helium](https://open.spotify.com/track/2N8djHgfdViWfGSxJpJO0c) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [helium](https://open.spotify.com/album/5WjiWOcFguju9bZkfXk2DR) | 3:35 | 2025-05-09 |  |
 | [Her Eyes](https://open.spotify.com/track/6iTYBfAOuy7oSMyppweXc7) | [The Cost](https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Her Eyes](https://open.spotify.com/album/1HlRjRD9b4DZriCMW3WvNg) | 4:44 | 2024-07-15 | 2024-12-11 |
 | [Hesitation Wound](https://open.spotify.com/track/7jONBc1Udycy2r9uNzUWjv) | [BRAT](https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF) | [Social Grace](https://open.spotify.com/album/0Dw6dBw85aJh1i4Q5HcCX8) | 1:37 | 2024-07-15 |  |
 | [Human](https://open.spotify.com/track/042GkzRN9bEVHPUqLqk5vi) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Human](https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb) | 3:44 | 2024-07-15 |  |
@@ -120,6 +121,7 @@
 | [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 | 2024-07-15 | 2024-12-11 |
 | [just like me](https://open.spotify.com/track/1RWXx2SsAE99IxaYtr7b0h) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [just like me](https://open.spotify.com/album/2Vw8K8NvfZhMj86expwS2O) | 2:29 | 2023-02-09 | 2023-03-25 |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-07-29 | 2022-08-20 |
+| [Keep Your Blessings](https://open.spotify.com/track/28gJfJ5tuvZORsjBoVo5GR) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Keep Your Blessings](https://open.spotify.com/album/1cwSqnPyYZ5v2oLwFefmwc) | 3:29 | 2025-05-09 |  |
 | [Koaitra](https://open.spotify.com/track/3uEGLg1TsIVvyzDQpuNkje) | [LohArano](https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP) | [Koaitra](https://open.spotify.com/album/28QBnbAKQQnvYjE1leuV6n) | 2:51 | 2023-03-02 | 2023-05-19 |
 | [Leave](https://open.spotify.com/track/6tG4RFIbberUOM7Eos8cza) | [Backbiter](https://open.spotify.com/artist/6Roo57sI7GFnLxH3JEg9xb) | [Demonstration of Decimation](https://open.spotify.com/album/3E8dxp9zP5rVcEJLAmDV5v) | 1:53 | 2024-07-15 |  |
 | [LEECH](https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [LEECH](https://open.spotify.com/album/2cNUcSOqhUZoOoGluEENZV) | 3:53 | 2025-04-28 |  |
@@ -162,6 +164,7 @@
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-10-14 | 2023-03-03 |
 | [Permanently Fucked](https://open.spotify.com/track/6cHWzELjRZguOd4Ruvb5wM) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN) | [Permanently Fucked](https://open.spotify.com/album/1Qq9cVADXfGaooqiqI5x3H) | 4:13 | 2024-07-15 |  |
 | [Pessimist](https://open.spotify.com/track/4kCzHLVfTdeATOAxCNN2ia) | [VNDALE](https://open.spotify.com/artist/3fONcYljQ5hkvg95Q0W8Fh) | [Pessimist](https://open.spotify.com/album/4A8w8UM06UdAyEpWAc1Qpu) | 4:02 | 2022-07-29 | 2022-08-20 |
+| [Piece of Me](https://open.spotify.com/track/2DTy9Itjmyi4bG8kkEmoQ6) | [Yenne](https://open.spotify.com/artist/6tZMlfJQLduowvUFsMvrUR) | [Piece of Me](https://open.spotify.com/album/5G7W03txWDF1WKoUrCqU4L) | 3:46 | 2025-05-09 |  |
 | [Pigs](https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pigs](https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC) | 3:53 | 2023-02-09 | 2024-07-16 |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-07-29 | 2022-08-20 |
 | [Poisoned Apple](https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB) | [Lilith PH](https://open.spotify.com/artist/5nXlGudijhyJZ5f3KgIDG3) | [Poisoned Apple](https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT) | 3:56 | 2024-07-15 |  |

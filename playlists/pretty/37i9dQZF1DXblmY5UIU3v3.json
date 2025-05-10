@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 476450,
+  "num_followers": 476481,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-01-07 16:57:19",
       "album": {
-        "name": "Night Tales",
-        "url": "https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO"
-      },
-      "artists": [
-        {
-          "name": "TBT Prod.",
-          "url": "https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM"
-        },
-        {
-          "name": "WONGA",
-          "url": "https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "Night Tales",
-      "url": "https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV"
-    },
-    {
-      "added_at": "2025-01-07 16:57:19",
-      "album": {
         "name": "01",
         "url": "https://open.spotify.com/album/0wftiNjxIMvgt7ROVU5i7d"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 173331,
       "name": "01",
       "url": "https://open.spotify.com/track/2U4fr16sIR5k6ep9iv3vZG"
+    },
+    {
+      "added_at": "2025-01-07 16:57:19",
+      "album": {
+        "name": "Night Tales",
+        "url": "https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO"
+      },
+      "artists": [
+        {
+          "name": "TBT Prod.",
+          "url": "https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM"
+        },
+        {
+          "name": "WONGA",
+          "url": "https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "Night Tales",
+      "url": "https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV"
     }
   ],
   "unique_name": "DOWN LOW",

@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 
 ### [Punto Tropical](https://open.spotify.com/playlist/37i9dQZF1DWZ1FUX6sM67g)
 
-> ¡En este punto tropical, se encuentra un poco de todo! Foto: Fonseca & Rawayana
+> ¡En este punto tropical, se encuentra un poco de todo! Foto: J Balvin & Omega
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,420 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,382 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [VENGA lo que VENGA](https://open.spotify.com/track/53q6jYH4RpudSBrCu321al) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [VENGA lo que VENGA](https://open.spotify.com/album/3iazKoltbY6851gJSEfI1q) | 3:08 |
-| 2 | [ME MUEVO](https://open.spotify.com/track/4i8bNPEJhstY3sNRNgv8hF) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [ME MUEVO](https://open.spotify.com/album/6MgpWSSIdgTVseNjZlHAZt) | 3:43 |
-| 3 | [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 |
-| 4 | [Bachata Bonita](https://open.spotify.com/track/3bOi5rzfBokNwhLKT8KXXx) | [Wilfran Castillo](https://open.spotify.com/artist/1KDd0gF0WMZeFeHV2JRj1L) | [D O B L E U U: La Experiencia](https://open.spotify.com/album/46HKnw6QFVZbkEj79Tx8JU) | 3:16 |
-| 5 | [Vale la Pena](https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN) | 3:27 |
-| 6 | [No Me Debes Nada](https://open.spotify.com/track/4iZByuCyFRM0llpAr1dgrq) | [HeyBroders](https://open.spotify.com/artist/6gapwMNVkCxUrQLEzUD6GH), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [No Me Debes Nada](https://open.spotify.com/album/0xYroHrK9Y5wtlmjPChkiM) | 3:41 |
-| 7 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 |
-| 8 | [LA ISLA](https://open.spotify.com/track/5TGRRjV16CXdNvitAsObIr) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [LA ISLA](https://open.spotify.com/album/6VBJdfE8LKDBwCpRoTBT71) | 2:15 |
-| 9 | [Para el que me enamora](https://open.spotify.com/track/4PRDf8kbPE5oWZrfoCXtog) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Para el que me enamora](https://open.spotify.com/album/4ON39RWUZ4joq0WnyzumnV) | 3:24 |
-| 10 | [Cosas Sencillas](https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cosas Sencillas](https://open.spotify.com/album/7unbBGse88W3EmNqFwuD0j) | 3:12 |
-| 11 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
-| 12 | [Mía](https://open.spotify.com/track/4a0boU6hLy1dqh9b2ihv33) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Mía](https://open.spotify.com/album/1ZpIwQLBouIfThnXmsWgOT) | 3:28 |
-| 13 | [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 |
-| 14 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
+| 1 | [KLK](https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [KLK](https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23) | 3:19 |
+| 2 | [VENGA lo que VENGA](https://open.spotify.com/track/53q6jYH4RpudSBrCu321al) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [VENGA lo que VENGA](https://open.spotify.com/album/3iazKoltbY6851gJSEfI1q) | 3:08 |
+| 3 | [ME MUEVO](https://open.spotify.com/track/4i8bNPEJhstY3sNRNgv8hF) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [ME MUEVO](https://open.spotify.com/album/6MgpWSSIdgTVseNjZlHAZt) | 3:43 |
+| 4 | [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 |
+| 5 | [Bachata Bonita](https://open.spotify.com/track/3bOi5rzfBokNwhLKT8KXXx) | [Wilfran Castillo](https://open.spotify.com/artist/1KDd0gF0WMZeFeHV2JRj1L) | [D O B L E U U: La Experiencia](https://open.spotify.com/album/46HKnw6QFVZbkEj79Tx8JU) | 3:16 |
+| 6 | [Vale la Pena](https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN) | 3:27 |
+| 7 | [No Me Debes Nada](https://open.spotify.com/track/4iZByuCyFRM0llpAr1dgrq) | [HeyBroders](https://open.spotify.com/artist/6gapwMNVkCxUrQLEzUD6GH), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [No Me Debes Nada](https://open.spotify.com/album/0xYroHrK9Y5wtlmjPChkiM) | 3:41 |
+| 8 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 |
+| 9 | [LA ISLA](https://open.spotify.com/track/5TGRRjV16CXdNvitAsObIr) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [LA ISLA](https://open.spotify.com/album/6VBJdfE8LKDBwCpRoTBT71) | 2:15 |
+| 10 | [Para el que me enamora](https://open.spotify.com/track/4PRDf8kbPE5oWZrfoCXtog) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Para el que me enamora](https://open.spotify.com/album/4ON39RWUZ4joq0WnyzumnV) | 3:24 |
+| 11 | [Cosas Sencillas](https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cosas Sencillas](https://open.spotify.com/album/7unbBGse88W3EmNqFwuD0j) | 3:12 |
+| 12 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
+| 13 | [Mía](https://open.spotify.com/track/4a0boU6hLy1dqh9b2ihv33) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Mía](https://open.spotify.com/album/1ZpIwQLBouIfThnXmsWgOT) | 3:28 |
+| 14 | [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 |
 | 15 | [La Colombiana](https://open.spotify.com/track/0L4vNSaf47SbElTWneJUU5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Colombiana](https://open.spotify.com/album/5gf2EKYxwU4CG0tKuR93Ju) | 2:46 |
 | 16 | [Pedacito de Playa](https://open.spotify.com/track/1wEkEIBnVGiVDupJofBwVL) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:28 |
 | 17 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 | 59 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 |
 | 60 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 |
 
-Snapshot ID: `aAtdMwAAAAAI4xczGuQsUJvV12KMYqUF`
+Snapshot ID: `aB3GfAAAAADwIFZA+cJSM1frFTE4q2k3`

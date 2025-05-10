@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by BIG KAY SMG, Baggh\-e SMG, Farmaan SMG and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,883 likes - 74 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,906 likes - 74 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 20 | [Heroic](https://open.spotify.com/track/2h7y1x1dZ8K5U3uipmQtvo) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc) | [Heroic](https://open.spotify.com/album/7reBkwh1qEmxmekDVhfLOc) | 2:42 |
 | 21 | [Scammer](https://open.spotify.com/track/5fmBSdibQGpS6gPgpeMWY5) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [666](https://open.spotify.com/album/6rckuST20EVrFRXUx66Xx5) | 2:34 |
 | 22 | [Shikari](https://open.spotify.com/track/6NK0r2uRTDVRjFM8mlienL) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Shikari](https://open.spotify.com/album/5nnfRcMzQF2qSl3XhAS9CK) | 2:48 |
-| 23 | [Blight](https://open.spotify.com/track/7M7YISICp1U3gVeM3rytgw) | [Harvi](https://open.spotify.com/artist/5rpl4dM4cZVFeseE6XT0AZ), [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [Blight](https://open.spotify.com/album/22Cpvkunzvz33lDeL4Km59) | 2:51 |
+| 23 | [Blight](https://open.spotify.com/track/7M7YISICp1U3gVeM3rytgw) | [Harvi](https://open.spotify.com/artist/5rpl4dM4cZVFeseE6XT0AZ), [Jind Universe](https://open.spotify.com/artist/2L0waTxzV3owB62vWw88nj) | [Blight](https://open.spotify.com/album/22Cpvkunzvz33lDeL4Km59) | 2:51 |
 | 24 | [No Lies](https://open.spotify.com/track/1SCkkm7O2LMChTLj2HlTa9) | [NXS](https://open.spotify.com/artist/4NrlUQ2WgLRUGCYVvIG9bt), [M I R Z A](https://open.spotify.com/artist/2GjdfcJM9zwBHZZY6DBhTJ) | [No Lies](https://open.spotify.com/album/3ilAsOAHtllYb1a9w0iUkE) | 2:29 |
 | 25 | [Guess Who's Back](https://open.spotify.com/track/0iwnZ5y4p5zJKQrwIvmHBq) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Inder D Last Level](https://open.spotify.com/artist/5mHnBqe0ORanNO0oeIWX2d) | [Guess Who's Back](https://open.spotify.com/album/4auy2TO4XOOJR7JzWYrrP9) | 3:48 |
 | 26 | [Ye Yo](https://open.spotify.com/track/0ZkVhsJhKxzPcG5joTrvWn) | [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT), [Kash Ladhar](https://open.spotify.com/artist/5aX4K8tN6Ii8JIGFRcs3uR), [Jot Ladhar](https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR) | [Ye Yo](https://open.spotify.com/album/659BhZezgyVIZWxW7tFVYR) | 2:54 |

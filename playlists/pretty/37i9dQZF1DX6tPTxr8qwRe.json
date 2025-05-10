@@ -1,13 +1,29 @@
 {
-  "description": "Dark, hard hitting pop. Cover: INJI",
+  "description": "Dark, hard hitting pop. Cover: Lydia Night",
   "num_followers": 426201,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDZgAAAADLoRu+XlPFPzk2onqrP91y",
+  "snapshot_id": "aB19zAAAAABKYVivyoQGBnFwCjvm7urI",
   "tracks": [
+    {
+      "added_at": "2025-05-09 04:00:12",
+      "album": {
+        "name": "The Hearse",
+        "url": "https://open.spotify.com/album/1PbZ0tNaFtl4DVWgiK5OVg"
+      },
+      "artists": [
+        {
+          "name": "Lydia Night",
+          "url": "https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l"
+        }
+      ],
+      "duration_ms": 175587,
+      "name": "The Hearse",
+      "url": "https://open.spotify.com/track/65P2y7TYBecd8FEcuBUeDr"
+    },
     {
       "added_at": "2025-05-02 04:00:38",
       "album": {
@@ -25,6 +41,26 @@
       "url": "https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl"
     },
     {
+      "added_at": "2025-05-09 04:00:12",
+      "album": {
+        "name": "out of order",
+        "url": "https://open.spotify.com/album/3QlWoxk7qPfUht297ah82S"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        },
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "out of order",
+      "url": "https://open.spotify.com/track/7vGYjU8uzwuImp1kT7M7IO"
+    },
+    {
       "added_at": "2025-05-02 04:00:38",
       "album": {
         "name": "Boys",
@@ -39,6 +75,22 @@
       "duration_ms": 130621,
       "name": "Boys",
       "url": "https://open.spotify.com/track/2PODSkB110NvZg50k2pj8a"
+    },
+    {
+      "added_at": "2025-05-09 04:00:12",
+      "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/7Jb7E81AWkiaBUnMCjnVoX"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 165996,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/48ccwX9wv8bSSOdb2nKRBK"
     },
     {
       "added_at": "2025-02-21 05:00:22",
@@ -103,6 +155,22 @@
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "added_at": "2025-05-09 04:00:12",
+      "album": {
+        "name": "still not ur girlfriend",
+        "url": "https://open.spotify.com/album/3SxhS51jQH7FewYY5BY3CT"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 152857,
+      "name": "dumb dumb dumb",
+      "url": "https://open.spotify.com/track/7mUOGK2T7zONpDE0KwegZ0"
     },
     {
       "added_at": "2025-05-02 04:00:38",
@@ -457,22 +525,6 @@
       "url": "https://open.spotify.com/track/4Q0WhPIQdLXdPuKn9JNLyw"
     },
     {
-      "added_at": "2025-03-07 05:00:40",
-      "album": {
-        "name": "a little bit",
-        "url": "https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 165408,
-      "name": "a little bit",
-      "url": "https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2"
-    },
-    {
       "added_at": "2025-04-11 04:00:29",
       "album": {
         "name": "Jennifer's Body",
@@ -763,58 +815,6 @@
       "duration_ms": 146250,
       "name": "Jared",
       "url": "https://open.spotify.com/track/6SmRJgpCbxzSfM58D401MT"
-    },
-    {
-      "added_at": "2025-01-24 05:00:27",
-      "album": {
-        "name": "Hide 'N Seek",
-        "url": "https://open.spotify.com/album/2wsalZdJzD7YK8FIJIgqNN"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Project",
-          "url": "https://open.spotify.com/artist/6b6w8DXrLFEPxnG4kTqUnT"
-        },
-        {
-          "name": "Diana Goldberg",
-          "url": "https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Hide 'N Seek",
-      "url": "https://open.spotify.com/track/4JL9hpeiDgGgFjJilloQ97"
-    },
-    {
-      "added_at": "2025-01-20 22:53:21",
-      "album": {
-        "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
-        "url": "https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 165135,
-      "name": "BIBI Vengeance",
-      "url": "https://open.spotify.com/track/6cwfdl65DXd0VjQk5grYcv"
-    },
-    {
-      "added_at": "2025-01-10 17:27:32",
-      "album": {
-        "name": "What Do Girls Do?",
-        "url": "https://open.spotify.com/album/77vLvAKcNHpgcvn4h5SUp7"
-      },
-      "artists": [
-        {
-          "name": "Snow Wife",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 166755,
-      "name": "What Do Girls Do?",
-      "url": "https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x"
     }
   ],
   "unique_name": "SALT",

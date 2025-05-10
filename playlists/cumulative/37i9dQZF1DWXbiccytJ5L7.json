@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Camo and Chrome",
+        "url": "https://open.spotify.com/album/7zeiOJNPaDPDhT1O9KYCfq"
+      },
+      "artists": [
+        {
+          "name": "501Bryze",
+          "url": "https://open.spotify.com/artist/0C07HpMBzSy9NWj98eod3R"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165825,
+      "name": "Camo and Chrome",
+      "url": "https://open.spotify.com/track/4uT25AfDvkjcU9Sh8mplAg"
+    },
+    {
+      "album": {
         "name": "Jones In Ya Speaker",
         "url": "https://open.spotify.com/album/0CehH8vI5ZodVx7U88ArOk"
       },
@@ -954,7 +972,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 146000,
       "name": "Dead or Alive",
       "url": "https://open.spotify.com/track/1oQoh3CDv3BeHSmDOPBQc4"

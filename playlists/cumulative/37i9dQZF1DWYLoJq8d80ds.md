@@ -4,7 +4,7 @@
 
 > Para bailar hasta el amanecer\. Foto: Los Nocheros
 
-193 songs - 10 hr 48 min
+194 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/0RseYmZD6vMtoc04LqkG95) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/1rEWtg5n3YqyFUHTGCqmNW) | 3:09 | 2024-11-15 |  |
 | [Un Beso Tuyo](https://open.spotify.com/track/319Gag1zq0amHN4APzdts7) | [Cóndor Sbarbati](https://open.spotify.com/artist/6MR2IdgCSFxDvRvD0SNDZz), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Rabia al Silencio](https://open.spotify.com/album/42NfSPhQ0xfPcxPt3Ie4wR) | 3:36 | 2021-12-31 | 2024-09-27 |
 | [Un Beso Tuyo](https://open.spotify.com/track/55ErfHRkSZOpMbY4pTj0wV) | [Cóndor Sbarbati](https://open.spotify.com/artist/6MR2IdgCSFxDvRvD0SNDZz), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Rabia al Silencio](https://open.spotify.com/album/2JBv39NYe8qK8dzjFLhBSJ) | 3:36 | 2022-07-01 | 2024-04-19 |
+| [Un Millón de rosas](https://open.spotify.com/track/58hBuil2mZcMTotNdyYr8m) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Un Millón de rosas](https://open.spotify.com/album/7cissQhE8wLqMq7z8z3aVU) | 3:15 | 2025-05-09 |  |
 | [Una Flor y una Cruz](https://open.spotify.com/track/0DSenAmygCKDdMelU6mZsz) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:13 | 2022-07-01 | 2024-04-19 |
 | [Una Flor y una Cruz](https://open.spotify.com/track/1rICbblyhrPDlwmCDyELrd) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:13 | 2021-12-31 |  |
 | [Uno a la Vez](https://open.spotify.com/track/7deoF9pTQ8H8pOt2KzYf6u) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Uno a la Vez](https://open.spotify.com/album/4GJ4McfXOysNotzUqo0the) | 3:14 | 2021-12-31 |  |

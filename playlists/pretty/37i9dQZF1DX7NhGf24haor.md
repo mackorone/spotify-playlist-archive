@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Radical Redemption, Rebelion & Nolz
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,885 likes - 104 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,195 likes - 104 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 22 | [Sleepless](https://open.spotify.com/track/5a9WCuXxi8gDqrIPiokL82) | [ERABREAK](https://open.spotify.com/artist/1ykesmLeugHwTXDfc81Pu8), [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Sleepless](https://open.spotify.com/album/4nq1dhRjuYRrLW09udeLyn) | 3:37 |
 | 23 | [Fire In The Sky](https://open.spotify.com/track/47UsBoRKypZUpvDXK3FZeo) | [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Fire In The Sky](https://open.spotify.com/album/4DrcAtagCHnh2wTB97MaYa) | 2:31 |
 | 24 | [Escape Reality](https://open.spotify.com/track/1ykV9y2yIY7LLbWySsueYd) | [State of Deva](https://open.spotify.com/artist/7MyoSv4wg5VRYvoUBHdhJi) | [Escape Reality](https://open.spotify.com/album/0obeLaxo9Biz07hUgwCcxx) | 3:03 |
-| 25 | [Let's Lose Control](https://open.spotify.com/track/4AyVhwedlNs5qXRXax4Uaz) | [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [Nick Spear](https://open.spotify.com/artist/0HBrnl7A7nm159RVxol6F3) | [Let's Lose Control](https://open.spotify.com/album/1kI6PziqZmDnr2LtRv9ZjL) | 3:37 |
+| 25 | [Let's Lose Control](https://open.spotify.com/track/4AyVhwedlNs5qXRXax4Uaz) | [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [Nick Spear](https://open.spotify.com/artist/6uCXHeW33GYc78vStuBIhh) | [Let's Lose Control](https://open.spotify.com/album/1kI6PziqZmDnr2LtRv9ZjL) | 3:37 |
 | 26 | [DnB Militant](https://open.spotify.com/track/5hVPEEyC1wexQ43tix4DeY) | [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY) | [DnB Militant](https://open.spotify.com/album/5NbVbV82Ban0oqqIVd8cqb) | 2:33 |
 | 27 | [Burning](https://open.spotify.com/track/6SvkrCuHeb9cXKl2STnLoM) | [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ) | [Burning](https://open.spotify.com/album/50ClQHmurZaaZn0oImLc8U) | 2:39 |
 | 28 | [Beautiful](https://open.spotify.com/track/2V8eLJgrZdBfAjCALtUGGf) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Beautiful](https://open.spotify.com/album/3UizaV21tIa7dw2SYUNnru) | 3:27 |

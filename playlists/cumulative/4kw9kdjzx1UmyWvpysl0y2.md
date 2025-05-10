@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-978 songs - 2 day 7 hr 10 min
+979 songs - 2 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Eagle Rock](https://open.spotify.com/track/04XcibbkTGfV5dbUZ1e2FJ) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 4:04 | 2022-11-19 | 2022-11-22 |
 | [easier](https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [clouds in my basement](https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ) | 2:44 | 2022-08-26 | 2022-11-02 |
 | [EAT SLEEP RAGE](https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [EAT SLEEP RAGE](https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF) | 3:36 | 2023-07-20 | 2023-12-14 |
+| [ECHO](https://open.spotify.com/track/4FewsSaPCPDF6FW3RiDnUK) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ECHO](https://open.spotify.com/album/0kCIr9OtiKlZiw4vZP0tLR) | 3:20 | 2025-05-09 |  |
 | [Echoes In My Head](https://open.spotify.com/track/54ASGJSgIJqBCUnvLRQsPg) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Echoes In My Head](https://open.spotify.com/album/6BvhFE7TcTiuMaIVRfNp8o) | 4:13 | 2023-11-21 | 2024-03-05 |
 | [Echoes Of Silence](https://open.spotify.com/track/1MgjRb4bfIktunmJS6rqBN) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Echoes Of Silence](https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU) | 3:53 | 2022-07-15 | 2022-09-27 |
 | [Echoes Of You](https://open.spotify.com/track/6oFhzKeMvRq8LwjpEPYqJc) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Echoes Of You](https://open.spotify.com/album/2sMz70D7NB9J6mCrCbO0vk) | 2:58 | 2024-10-15 | 2025-01-25 |

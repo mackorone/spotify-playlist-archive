@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Miley Cyrus, DYSTINCT x Morad et Tyla au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,313 likes - 84 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,879 likes - 84 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 5 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 6 | [Mozart Capitaine Jackson \(Épisode 4\)](https://open.spotify.com/track/3OxX0oBMXtFzDsLoeuWgXj) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mozart Capitaine Jackson \(Épisode 4\)](https://open.spotify.com/album/55UgvEanITC40ogi4G9ovu) | 3:03 |
 | 7 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
-| 8 | [Hand That Feeds \- From the Film Ballerina](https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Hand That Feeds \(From the Film Ballerina\)](https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg) | 3:06 |
+| 8 | [Hand That Feeds \- From the Film Ballerina](https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Hand That Feeds \(From the Film Ballerina\)](https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg) | 3:06 |
 | 9 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
 | 10 | [Business Man](https://open.spotify.com/track/0lsTAaJDMe45X5hna0LwYg) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Business Man](https://open.spotify.com/album/2TRO0EH6oX6a4ffGjUllN6) | 2:59 |
 | 11 | [The Final Countdown 2025](https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown 2025](https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC) | 3:02 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 40 | [PARANO \(feat\. Maes\)](https://open.spotify.com/track/6oiIpf4veyhXT5666V2kDr) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [PARANO \(feat\. Maes\)](https://open.spotify.com/album/09fcQiO7QKjzjEq5jLbddK) | 3:05 |
 | 41 | [TROP LOVE](https://open.spotify.com/track/33dJhAnryWez0YcwdwRLIt) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [HISTOIRES D'AMOUR](https://open.spotify.com/album/7eiylQt70j5hQ2kDAQrY46) | 3:00 |
 | 42 | [Neverland](https://open.spotify.com/track/0F4KRoicBk9v9lrcbHQt67) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Neverland](https://open.spotify.com/album/3HXiOLdmPqItX7vSLvCt0m) | 3:56 |
-| 43 | [Petit Bateau](https://open.spotify.com/track/04QT11kHiwh9SXVLnnuO8o) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Amaya](https://open.spotify.com/album/3cp9iXga7okjn8jR4U8OIg) | 2:59 |
+| 43 | [Petit Bateau](https://open.spotify.com/track/04QT11kHiwh9SXVLnnuO8o) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Amaya](https://open.spotify.com/album/3cp9iXga7okjn8jR4U8OIg) | 2:58 |
 | 44 | [Full Attention](https://open.spotify.com/track/6Yhzabh1wK19kniAJOz1G2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Full Attention](https://open.spotify.com/album/25Gn5IvV9ykJTPDGigx452) | 3:04 |
 | 45 | [Lift Off](https://open.spotify.com/track/4LGn8oQ0bzByeJ5XxUueIx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Lift Off](https://open.spotify.com/album/3IslzywfEKTs1f2MyP3H6X) | 2:36 |
 | 46 | [Ohoui!](https://open.spotify.com/track/2JUZRzETKeURFgA6tBZneA) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Ohoui!](https://open.spotify.com/album/70hIWmC2Q1nyRgYjcipAGk) | 2:32 |

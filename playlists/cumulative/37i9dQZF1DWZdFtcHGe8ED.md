@@ -2,9 +2,9 @@
 
 ### [Thrashers](https://open.spotify.com/playlist/37i9dQZF1DWZdFtcHGe8ED)
 
-> All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Municipal Waste
+> All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Sodom
 
-438 songs - 1 day 7 hr 3 min
+440 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bleeding Out](https://open.spotify.com/track/43leqVDeli1HgybvpX93GG) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Bleeding Out](https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO) | 4:33 | 2021-12-17 |  |
 | [Blood On Our Hands](https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs) | 3:54 | 2022-09-09 | 2024-04-19 |
 | [Blood On Your Hands](https://open.spotify.com/track/2SvaoXpigVKbipjqqAcoxG) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/7Jr3AHWcPDUAQx3gGFO4lD) | 3:54 | 2021-12-17 | 2022-08-21 |
+| [Bloodbath](https://open.spotify.com/track/79AdYAlZd8nth7G8LQfPof) | [Vicious Rumors](https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3) | [Bloodbath](https://open.spotify.com/album/4FqK2NIyw1ux52zrK2LI26) | 3:57 | 2025-05-09 |  |
 | [Bloody Rain](https://open.spotify.com/track/6tSDBDxtrQR4dEWWG5aymJ) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Bloody Rain](https://open.spotify.com/album/5aWuJV6GQ0whl0InQyMuqV) | 5:16 | 2021-12-17 | 2022-07-25 |
 | [Bombenhagel](https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Bombenhagel](https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS) | 6:06 | 2021-12-17 |  |
 | [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 | 2022-07-13 |  |
@@ -319,7 +320,7 @@
 | [Reapers Fool](https://open.spotify.com/track/6Oe10mOeOteWjSTzs1uRsh) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Reapers Fool](https://open.spotify.com/album/5ssrLiNJPe8YmtB7fQ5fQa) | 3:22 | 2021-12-17 |  |
 | [Reborn Through Hate](https://open.spotify.com/track/4607Hs3imvA9ycS9R5uYOX) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [R.I.P.](https://open.spotify.com/album/6F98XoLiU6WsRNuyeiXg7d) | 4:52 | 2022-07-13 |  |
 | [Reckoning Force](https://open.spotify.com/track/3VHqYO3jX9QoTFHUzSi2op) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [At the Walls](https://open.spotify.com/album/7ciGk9GGeY3EWVocMHj9ee) | 3:17 | 2021-12-17 | 2022-07-19 |
-| [Recycled Hate](https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Recycled Hate](https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7) | 3:25 | 2022-04-01 |  |
+| [Recycled Hate](https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Recycled Hate](https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7) | 3:25 | 2022-04-01 | 2025-05-10 |
 | [Refuse / Resist](https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 3:19 | 2022-12-15 |  |
 | [Remain Violent](https://open.spotify.com/track/2CXrH4eUWhusFmDk3PWpKX) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Woe to the Vanquished](https://open.spotify.com/album/5cs1TbegYyGYlQyeN12ErL) | 3:24 | 2022-07-13 | 2024-04-19 |
 | [Remain Violent](https://open.spotify.com/track/6vqfI9RPcpzwt3VhasBHdV) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Woe To The Vanquished](https://open.spotify.com/album/7yXARozNFzIwEeoX9kbS0i) | 3:24 | 2021-12-17 | 2022-07-29 |
@@ -356,7 +357,7 @@
 | [Space Seed](https://open.spotify.com/track/04Db6DnoyLOzHg2hXMRQsm) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Decade of Revival](https://open.spotify.com/album/7hnmaMO1cyVUtgX9DSbOOJ) | 2:57 | 2021-12-17 |  |
 | [Speak Your Truth](https://open.spotify.com/track/5oNETwnn8zSkF6z4Oar4gz) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [Speak Your Truth](https://open.spotify.com/album/70m2gIooXbRDaNROa6NqVK) | 3:30 | 2022-03-10 | 2022-07-28 |
 | [Start the Fire](https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [The Dark](https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ) | 3:45 | 2022-07-13 |  |
-| [State of Apathy](https://open.spotify.com/track/5hgN5IYDZGN1Fjkf8EfXII) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [State of Apathy](https://open.spotify.com/album/490dTJ1j5UsKGnFXV1QnLj) | 3:46 | 2021-12-17 |  |
+| [State of Apathy](https://open.spotify.com/track/5hgN5IYDZGN1Fjkf8EfXII) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [State of Apathy](https://open.spotify.com/album/490dTJ1j5UsKGnFXV1QnLj) | 3:46 | 2021-12-17 | 2025-05-10 |
 | [Step by Step](https://open.spotify.com/track/3tWkJ2zLklnSF8qDBzTOHX) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Twisted Into Form](https://open.spotify.com/album/06cQQ47KHUZf6bAuflpbb0) | 4:52 | 2022-07-13 |  |
 | [Strike Back](https://open.spotify.com/track/0cXs8TirSU9BYB2ng46IyU) | [The Lightbringer of Sweden](https://open.spotify.com/artist/6u53rgRUxnjgX8gyyqRsml) | [Strike Back](https://open.spotify.com/album/02Yfyh4R4ONJGNoWGOBTRv) | 5:37 | 2022-03-10 |  |
 | [Strike Fast Strike Hard](https://open.spotify.com/track/0h6sUQTO9bDmM8AdAiKxfG) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Generation Antichrist](https://open.spotify.com/album/6cXwP33CAtgEZ83syWTrWj) | 4:38 | 2022-07-13 | 2022-12-16 |
@@ -433,6 +434,7 @@
 | [Will](https://open.spotify.com/track/1McVG4zrAtMTRrZkYEjo15) | [Devil In Me](https://open.spotify.com/artist/4iJJYo1VWZPEvJzE8YxXqL) | [Will](https://open.spotify.com/album/3ysfhAWXBoxPtB8gMnNUK0) | 2:49 | 2021-12-17 | 2022-02-28 |
 | [Winds Of Slaughter](https://open.spotify.com/track/1st60RcopofZkit6bSltag) | [Shrapnel](https://open.spotify.com/artist/5svar5SaK3U0NvKzTUPGjf) | [Winds Of Slaughter](https://open.spotify.com/album/1Mc6fY65sHE2Jkx7a27d9h) | 4:44 | 2021-12-17 | 2022-07-28 |
 | [Wings Of Judgement](https://open.spotify.com/track/69SeadjXbRQQxTSoJVBqzy) | [Heart Attack](https://open.spotify.com/artist/3ZNpC1P3jaqgAyx7bDWk6q) | [Wings Of Judgement](https://open.spotify.com/album/0wdBDkFKeSkEu09QxOn9zt) | 3:48 | 2022-04-01 | 2022-07-14 |
+| [Witchhunter](https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Witchhunter](https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2) | 3:13 | 2025-05-09 |  |
 | [Witching Hour](https://open.spotify.com/track/1V36Hxv16qWjGvnK2FV4cO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Witching Hour](https://open.spotify.com/album/5pBhA2ZnRbP16R4mQ6xh9z) | 3:03 | 2022-07-01 |  |
 | [Witching Metal](https://open.spotify.com/track/6FFhcYF1E0tZNE7qiUfBTr) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [1982](https://open.spotify.com/album/41vrCbXFyOwLTHls46ugCV) | 3:28 | 2024-01-12 | 2024-01-17 |
 | [Word of God](https://open.spotify.com/track/6MJKSvcUgn7PHwoiM5b2ny) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [Word of God](https://open.spotify.com/album/7AoO9136P69B9CSzuXcMwZ) | 3:04 | 2021-12-17 | 2022-03-03 |

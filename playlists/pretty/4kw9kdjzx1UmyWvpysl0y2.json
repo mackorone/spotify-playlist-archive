@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125343,
+  "num_followers": 125336,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUEPbDHtqPNLf37kkhUp/9slEH3u/K",
+  "snapshot_id": "AAAUEVe8pvW2uWEdEcbcffUJgxVGHSUI",
   "tracks": [
+    {
+      "added_at": "2025-05-09 14:12:46",
+      "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/0kCIr9OtiKlZiw4vZP0tLR"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 200275,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/4FewsSaPCPDF6FW3RiDnUK"
+    },
     {
       "added_at": "2025-05-08 15:11:30",
       "album": {

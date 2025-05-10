@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Kean Kavanagh",
-  "num_followers": 114277,
+  "num_followers": 114272,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/0bLFYPsVH2EfTeHyXLLXoY"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "duration_ms": 265931,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/0ItTJFuV4K30xpBxymoroQ"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
         "name": "Fig Tree",
         "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 175680,
       "name": "Backseat Driver",
       "url": "https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
-        "name": "Candle",
-        "url": "https://open.spotify.com/album/0bLFYPsVH2EfTeHyXLLXoY"
-      },
-      "artists": [
-        {
-          "name": "Hotline TNT",
-          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
-        }
-      ],
-      "duration_ms": 265931,
-      "name": "Candle",
-      "url": "https://open.spotify.com/track/0ItTJFuV4K30xpBxymoroQ"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp"
       },
       "artists": [
         {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb"
+      "duration_ms": 237410,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/71NmSLUZGoU5UP9JFyhIiz"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d"
       },
       "artists": [
         {
-          "name": "Cliffords",
-          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
         }
       ],
-      "duration_ms": 237410,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/71NmSLUZGoU5UP9JFyhIiz"
+      "duration_ms": 190426,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
+        "name": "Heart Attack Police",
+        "url": "https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD"
+      },
+      "artists": [
+        {
+          "name": "Callinsick",
+          "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
+        }
+      ],
+      "duration_ms": 176340,
+      "name": "Heart Attack Police",
+      "url": "https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
         "name": "Shandy in the Graveyard",
         "url": "https://open.spotify.com/album/6TSQw8FPwp9yatWywO7I2L"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Heart Attack Police",
-        "url": "https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD"
-      },
-      "artists": [
-        {
-          "name": "Callinsick",
-          "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
-        }
-      ],
-      "duration_ms": 176340,
-      "name": "Heart Attack Police",
-      "url": "https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
         "name": "Vain",
         "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 156106,
       "name": "Vain",
       "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
-        "name": "Over and Over",
-        "url": "https://open.spotify.com/album/5e4eoRfKYGH0CYbcTd2UmL"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/7EgfTld4hrzfdBLkqd52cx"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1315,22 +1299,6 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Ankles",
-        "url": "https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "Ankles",
-      "url": "https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
         "name": "Dungarvan Bay",
         "url": "https://open.spotify.com/album/1mdLhKK2P573OovvcU0Rb4"
       },
@@ -1359,6 +1327,38 @@
       "duration_ms": 180663,
       "name": "Garden",
       "url": "https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/5e4eoRfKYGH0CYbcTd2UmL"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/7EgfTld4hrzfdBLkqd52cx"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
-        "name": "Switch Over",
-        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
+        "name": "Lady Messiah",
+        "url": "https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q"
       },
       "artists": [
         {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
         }
       ],
-      "duration_ms": 185915,
-      "name": "Switch Over",
-      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
+      "duration_ms": 206810,
+      "name": "Lady Messiah",
+      "url": "https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB"
     },
     {
       "added_at": "2025-05-01 21:26:35",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-05-01 21:26:35",
       "album": {
+        "name": "Switch Over",
+        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "Switch Over",
+      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
+    },
+    {
+      "added_at": "2025-05-01 21:26:35",
+      "album": {
         "name": "The Lowrider (Just About Meant To Be)",
         "url": "https://open.spotify.com/album/4xW2GmQethztAMp81hkCxx"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 247535,
       "name": "The Lowrider (Just About Meant To Be)",
       "url": "https://open.spotify.com/track/4aCRH85lzpMp2ZzQWe5mlu"
-    },
-    {
-      "added_at": "2025-05-01 21:26:35",
-      "album": {
-        "name": "Lady Messiah",
-        "url": "https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q"
-      },
-      "artists": [
-        {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
-        }
-      ],
-      "duration_ms": 206810,
-      "name": "Lady Messiah",
-      "url": "https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB"
     },
     {
       "added_at": "2025-05-01 21:26:35",

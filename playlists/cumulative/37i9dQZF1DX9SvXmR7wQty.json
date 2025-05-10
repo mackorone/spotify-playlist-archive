@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: mokina",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: FouKi",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 176842,
       "name": "20e Avenue",
       "url": "https://open.spotify.com/track/3yplM9p2VyFwINgPcWOxKq"
@@ -7845,6 +7845,24 @@
     },
     {
       "album": {
+        "name": "C'est mieux comme \u00e7a",
+        "url": "https://open.spotify.com/album/09epU1a5bPaVlaySIa41ig"
+      },
+      "artists": [
+        {
+          "name": "The Damn Truth",
+          "url": "https://open.spotify.com/artist/3aEHKmYKru5l6OkG9IOIPb"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274752,
+      "name": "C'est mieux comme \u00e7a",
+      "url": "https://open.spotify.com/track/3cfAinfalq4ZSURKY2ZvcD"
+    },
+    {
+      "album": {
         "name": "Elle et moi simplement (Live)",
         "url": "https://open.spotify.com/album/3yJ3Rq3HLPFrxUe3SlbQna"
       },
@@ -8960,7 +8978,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 223184,
       "name": "Cavale",
       "url": "https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY"
@@ -11496,7 +11514,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 153586,
       "name": "Comme Ye",
       "url": "https://open.spotify.com/track/64pEZyDpOpb3zOjryhvNSv"
@@ -11852,7 +11870,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 159234,
       "name": "Contre toute esp\u00e9rance",
       "url": "https://open.spotify.com/track/091iepLFWbVumgB1yyotVF"
@@ -14766,7 +14784,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 148924,
       "name": "DIAMANTS",
       "url": "https://open.spotify.com/track/1ZC312U3ze5V6VQRJ18alQ"
@@ -25657,6 +25675,24 @@
     },
     {
       "album": {
+        "name": "Triste Animal",
+        "url": "https://open.spotify.com/album/0GQLDetV1hwYEadWWL3mGx"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256693,
+      "name": "Jamais tout \u00e0 fait",
+      "url": "https://open.spotify.com/track/18Aw5iL0jPrLZ7e9Z2WLig"
+    },
+    {
+      "album": {
         "name": "James Dean",
         "url": "https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ"
       },
@@ -29034,7 +29070,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 162457,
       "name": "La Boh\u00e8me",
       "url": "https://open.spotify.com/track/1Dd7eWQOzmZ9hMLUdbN2XZ"
@@ -32024,7 +32060,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 332786,
       "name": "Le pauvre riche",
       "url": "https://open.spotify.com/track/5pUsd8oPZw8HyYnunPpBVG"
@@ -32242,6 +32278,24 @@
       "duration_ms": 164000,
       "name": "Le retour en bateau",
       "url": "https://open.spotify.com/track/5W5yReDkiROArWbkqNHJWC"
+    },
+    {
+      "album": {
+        "name": "Le roseau",
+        "url": "https://open.spotify.com/album/1NciUKsAsZvBMf2qCjiSP3"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Le roseau",
+      "url": "https://open.spotify.com/track/20ya14O7Y7oyVhJ8tBpA9R"
     },
     {
       "album": {
@@ -34500,6 +34554,28 @@
       "duration_ms": 146133,
       "name": "Lola",
       "url": "https://open.spotify.com/track/43vjYTKZg8R5LsuITJ4wVu"
+    },
+    {
+      "album": {
+        "name": "Scam Industry",
+        "url": "https://open.spotify.com/album/0v7bEm9wTXYgkTTmUlsmwV"
+      },
+      "artists": [
+        {
+          "name": "gapman",
+          "url": "https://open.spotify.com/artist/51ZBNSPS2WAuR4PzPRO8Ry"
+        },
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "Lollipop (feat. Enima)",
+      "url": "https://open.spotify.com/track/4aSoTgQe3XjILsJyQQUtQN"
     },
     {
       "album": {
@@ -36945,6 +37021,28 @@
     },
     {
       "album": {
+        "name": "MASTERCLASS",
+        "url": "https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170492,
+      "name": "MASTERCLASS",
+      "url": "https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE"
+    },
+    {
+      "album": {
         "name": "Clay Scott",
         "url": "https://open.spotify.com/album/6MmCYro1YtIJEbzbdiF7QP"
       },
@@ -38054,7 +38152,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 183212,
       "name": "mirage",
       "url": "https://open.spotify.com/track/4ATeJw3PCPQxw6KDMjZ9Bs"
@@ -38268,6 +38366,24 @@
       "duration_ms": 205000,
       "name": "MODE HARDCORE",
       "url": "https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo"
+    },
+    {
+      "album": {
+        "name": "Moderne, transgressive et excessive (Radio Edit)",
+        "url": "https://open.spotify.com/album/0s2OzLPwmxhgna44NPHo16"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157571,
+      "name": "Moderne, transgressive et excessive - Radio Edit",
+      "url": "https://open.spotify.com/track/0lU0UtSb2JJbiujc1tmaC1"
     },
     {
       "album": {
@@ -41020,7 +41136,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 124827,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/1MyZEVT1GcKiRevXholafj"
@@ -41766,7 +41882,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 223129,
       "name": "On n'oublie pas",
       "url": "https://open.spotify.com/track/4xhIungWLM2PK3nXg6dun9"
@@ -42424,6 +42540,24 @@
       "duration_ms": 183776,
       "name": "Oublier",
       "url": "https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43"
+    },
+    {
+      "album": {
+        "name": "Oubliette",
+        "url": "https://open.spotify.com/album/6TCEBF0TNbc5PmkZn1C5DW"
+      },
+      "artists": [
+        {
+          "name": "Freeze the Fall",
+          "url": "https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249109,
+      "name": "Oubliette",
+      "url": "https://open.spotify.com/track/21yMSodGqrS6nZyexAy3t1"
     },
     {
       "album": {
@@ -43440,7 +43574,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 261945,
       "name": "Paroles paroles",
       "url": "https://open.spotify.com/track/35c6c3wlxYQv8P20R4yXr2"
@@ -48142,6 +48276,24 @@
       "duration_ms": 180107,
       "name": "Quill\u00e9",
       "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
+    },
+    {
+      "album": {
+        "name": "Quitte ou double",
+        "url": "https://open.spotify.com/album/0L3gCG4BpFbkPMnpBIymBq"
+      },
+      "artists": [
+        {
+          "name": "Zagata",
+          "url": "https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Quitte ou double",
+      "url": "https://open.spotify.com/track/2xVL9eAbsk43nH5KAWBhjk"
     },
     {
       "album": {
@@ -54129,6 +54281,28 @@
     },
     {
       "album": {
+        "name": "Still Kankan",
+        "url": "https://open.spotify.com/album/26SMovF2nmxqvOO4fMILfM"
+      },
+      "artists": [
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        },
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213519,
+      "name": "Still Kankan",
+      "url": "https://open.spotify.com/track/0hSy2TdRDpON8DnrcY8o8R"
+    },
+    {
+      "album": {
         "name": "Stirer la roux",
         "url": "https://open.spotify.com/album/1O9Wph6ieuA9V24yNbPHPE"
       },
@@ -55203,6 +55377,28 @@
     },
     {
       "album": {
+        "name": "Ta peau",
+        "url": "https://open.spotify.com/album/65aOxSBxZCbF5QiUghOUaP"
+      },
+      "artists": [
+        {
+          "name": "Juste Robert",
+          "url": "https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi"
+        },
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197716,
+      "name": "Ta peau",
+      "url": "https://open.spotify.com/track/3tw5Y0FhPJ19R0JB29BC57"
+    },
+    {
+      "album": {
         "name": "ta peau",
         "url": "https://open.spotify.com/album/0CDkekykSRQAUkQ6d7BRfH"
       },
@@ -55462,6 +55658,24 @@
       "duration_ms": 234293,
       "name": "Tant pis",
       "url": "https://open.spotify.com/track/6EhRIJXwQGvRDKj2clUB7W"
+    },
+    {
+      "album": {
+        "name": "Tant qu'on est toi et moi",
+        "url": "https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169842,
+      "name": "Tant qu'on est toi et moi",
+      "url": "https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg"
     },
     {
       "album": {
@@ -55890,7 +56104,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-10",
       "duration_ms": 167109,
       "name": "Tennessee Dream",
       "url": "https://open.spotify.com/track/5QxEGgzCVFd3mhYVToBlJ5"
@@ -61166,6 +61380,24 @@
       "duration_ms": 162124,
       "name": "Walou",
       "url": "https://open.spotify.com/track/5gMfj4pAqq6TinFU2GIivU"
+    },
+    {
+      "album": {
+        "name": "WANTA",
+        "url": "https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "WANTA",
+      "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"
     },
     {
       "album": {
