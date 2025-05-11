@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93330,
+  "num_followers": 93331,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
         "name": "Sad Makeup",
         "url": "https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "AND THEN, FROM THE SHADOWS - EP",
         "url": "https://open.spotify.com/album/0wZLxZ9Y3IbCvuMiPssrbA"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 185219,
       "name": "SOMEBODY JUST LIKE YOU",
       "url": "https://open.spotify.com/track/0bWBaRqjmTY0D5r6Ak68t3"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -479,6 +463,22 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
         "name": "Vegas Nights",
         "url": "https://open.spotify.com/album/1FsZaYem94Jqu2z9JMUEA5"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 188889,
       "name": "Vegas Nights",
       "url": "https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 212858,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -511,22 +527,6 @@
       "duration_ms": 180677,
       "name": "Mamma sa",
       "url": "https://open.spotify.com/track/1vCGSR1n81hoPBkePWrAes"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "Roll With The Punches",
-        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 212858,
-      "name": "Roll With The Punches",
-      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Swan Song",
-        "url": "https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO"
-      },
-      "artists": [
-        {
-          "name": "Weeping Willows",
-          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Swan Song",
-      "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "Know You've Been Loved",
         "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 216594,
       "name": "Know You've Been Loved",
       "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO"
+      },
+      "artists": [
+        {
+          "name": "Weeping Willows",
+          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
+        "name": "Den jag aldrig kunde va",
+        "url": "https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 169301,
+      "name": "Den jag aldrig kunde va",
+      "url": "https://open.spotify.com/track/5epuLjfS7X2LM5c0bGcBjJ"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
         "name": "Uteblivna vi",
         "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 204287,
       "name": "Fyllda Av Sommar",
       "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "Den jag aldrig kunde va",
-        "url": "https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 169301,
-      "name": "Den jag aldrig kunde va",
-      "url": "https://open.spotify.com/track/5epuLjfS7X2LM5c0bGcBjJ"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
+        "name": "Men bara om min \u00e4lskade v\u00e4ntar",
+        "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
+      },
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+        }
+      ],
+      "duration_ms": 213774,
+      "name": "Men bara om min \u00e4lskade v\u00e4ntar",
+      "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 172333,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "What I'm Running From",
-        "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
-      },
-      "artists": [
-        {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
-        }
-      ],
-      "duration_ms": 227654,
-      "name": "What I'm Running From",
-      "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Men bara om min \u00e4lskade v\u00e4ntar",
-        "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
+        "name": "What I'm Running From",
+        "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
       },
       "artists": [
         {
-          "name": "Nationalteatern",
-          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
         }
       ],
-      "duration_ms": 213774,
-      "name": "Men bara om min \u00e4lskade v\u00e4ntar",
-      "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
+      "duration_ms": 227654,
+      "name": "What I'm Running From",
+      "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
-        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
-      },
-      "artists": [
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 354600,
-      "name": "Silverregn",
-      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "En s\u00e5ng till Selma",
         "url": "https://open.spotify.com/album/0zEX0k3GybLRJAuzAeqZnp"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 238226,
       "name": "H\u00f6r mig!",
       "url": "https://open.spotify.com/track/4dyQBbtqbsbh23yWPc7Gqu"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
+        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 354600,
+      "name": "Silverregn",
+      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1191,6 +1191,22 @@
       "duration_ms": 251362,
       "name": "R\u00e4dd f\u00f6r hundar",
       "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "En sommar utan dig",
+        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
+      },
+      "artists": [
+        {
+          "name": "Andreas Leksell",
+          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
+        }
+      ],
+      "duration_ms": 189593,
+      "name": "En sommar utan dig",
+      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "En sommar utan dig",
-        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
-      },
-      "artists": [
-        {
-          "name": "Andreas Leksell",
-          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
-        }
-      ],
-      "duration_ms": 189593,
-      "name": "En sommar utan dig",
-      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "Country Tack Vare Er",
         "url": "https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 207184,
       "name": "Country Tack Vare Er",
       "url": "https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "Om igen",
-        "url": "https://open.spotify.com/album/1CVTxlicj7olEclcGV7HUD"
-      },
-      "artists": [
-        {
-          "name": "Sannex",
-          "url": "https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Om igen",
-      "url": "https://open.spotify.com/track/6tx6iWDAZP2iZjnXxY07Tq"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
+        "name": "Om igen",
+        "url": "https://open.spotify.com/album/1CVTxlicj7olEclcGV7HUD"
+      },
+      "artists": [
+        {
+          "name": "Sannex",
+          "url": "https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Om igen",
+      "url": "https://open.spotify.com/track/6tx6iWDAZP2iZjnXxY07Tq"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
         "name": "Happiness",
         "url": "https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 269766,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "Sommar",
-        "url": "https://open.spotify.com/album/6LardUaFQo2AgiXsVnjiuu"
-      },
-      "artists": [
-        {
-          "name": "Staffan Hellstrand",
-          "url": "https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl"
-        }
-      ],
-      "duration_ms": 142600,
-      "name": "Mitt i min stad",
-      "url": "https://open.spotify.com/track/2a3FwtpaCCz8WkQVKRUrPn"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
+        "name": "Sommar",
+        "url": "https://open.spotify.com/album/6LardUaFQo2AgiXsVnjiuu"
+      },
+      "artists": [
+        {
+          "name": "Staffan Hellstrand",
+          "url": "https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl"
+        }
+      ],
+      "duration_ms": 142600,
+      "name": "Mitt i min stad",
+      "url": "https://open.spotify.com/track/2a3FwtpaCCz8WkQVKRUrPn"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
         "name": "Back To The Sea",
         "url": "https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Vita Skelett",
-        "url": "https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 183086,
-      "name": "Spartas Svarta Hj\u00e4rta",
-      "url": "https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "Seven Days Of Heaven",
         "url": "https://open.spotify.com/album/1xfkNCZQmq4sGKRxTpOFe9"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 215504,
       "name": "Seven Days Of Heaven",
       "url": "https://open.spotify.com/track/4FdVXLaBpWLNshAzXP4WAa"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "Vita Skelett",
+        "url": "https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 183086,
+      "name": "Spartas Svarta Hj\u00e4rta",
+      "url": "https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey"
     }
   ],
   "unique_name": "Aktuellt",

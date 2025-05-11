@@ -1,6 +1,6 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 176758,
+  "num_followers": 176862,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "I Feel for You",
-        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 343400,
-      "name": "I Feel for You",
-      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "The Best of Branigan",
         "url": "https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 295066,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 343400,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
     },
     {
       "added_at": "2024-07-09 02:45:34",

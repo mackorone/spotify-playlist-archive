@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 
 > Songs all about cleaning up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,533 likes - 33 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,534 likes - 33 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 | 14 | [Tidy up Song](https://open.spotify.com/track/2AwKs2JAHuDBBvpvARB1J1) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [Imagine That! \(Kiwi Songs for Kids Under 7\)](https://open.spotify.com/album/5oCjNXxxxWFRHySLIgTkBg) | 2:32 |
 | 15 | [Cleanup Time](https://open.spotify.com/track/1WM37alvId4gYIFQKeq2bg) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 1 \(Music From The Original Series\)](https://open.spotify.com/album/1SKApykupjLWWole4UiXoT) | 1:09 |
 | 16 | [This Room Ain't Gonna Clean Itself](https://open.spotify.com/track/06WXjbQoDZJCqPWb63QdGp) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Songs to Sit Criss\-Cross to \(But Dance If You Want\)](https://open.spotify.com/album/5vjCoc8e6lPtnp3VjDgU0t) | 2:04 |
-| 17 | [Clean up Song](https://open.spotify.com/track/2GToYdregYT3o89jbo9daC) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 2:37 |
+| 17 | [Clean Up Song](https://open.spotify.com/track/2GToYdregYT3o89jbo9daC) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 2:37 |
 | 18 | [Clean Up & Tidy Up](https://open.spotify.com/track/1dsAmvY07yqWPgzeVVSJmq) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Jump Up](https://open.spotify.com/album/5xod1u7UJXKFl9tJHkpxNu) | 2:54 |
 | 19 | [Clean Up Time](https://open.spotify.com/track/7GX2IeEpBtCVDUXqMsKcE5) | [Radha & The Kiwi Kids](https://open.spotify.com/artist/6J9Lq9uvCdflqtZU3Ix2yd) | [Clean Up Time](https://open.spotify.com/album/71tt7461lEJ4Fov8P46pB3) | 3:29 |
 | 20 | [Recycling](https://open.spotify.com/track/3vYOUyYqpwIl958RlCt89w) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Recycling](https://open.spotify.com/album/3wcWxPHc9NKV7JIqkDWczI) | 2:26 |

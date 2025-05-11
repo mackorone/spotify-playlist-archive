@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 171073,
       "name": "Azonto Fiesta (feat. Amaarae & Mugeez)",
       "url": "https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw"
@@ -5748,12 +5748,12 @@
       },
       "artists": [
         {
-          "name": "Samad",
-          "url": "https://open.spotify.com/artist/3H6ywgDZDimbLKJbce3Vvw"
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
         },
         {
           "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/7tuRwDV0EOIlkA5LU5UcDh"
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
         }
       ],
       "date_added": "2025-05-09",
@@ -8203,6 +8203,24 @@
     },
     {
       "album": {
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145325,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6"
+    },
+    {
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
       },
@@ -8558,7 +8576,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 159587,
       "name": "Mad",
       "url": "https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe"
@@ -14874,6 +14892,28 @@
       "duration_ms": 158812,
       "name": "Wetin No Good",
       "url": "https://open.spotify.com/track/23Fh73OaYgY5cisouEybte"
+    },
+    {
+      "album": {
+        "name": "WHEN NOBODY IS WATCHING",
+        "url": "https://open.spotify.com/album/7wupiYO6dV8M4Ghs3dWljJ"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "WHAT HAVE YOU DONE",
+      "url": "https://open.spotify.com/track/7s7kxVXd3l1vDHrBe8YtYC"
     },
     {
       "album": {

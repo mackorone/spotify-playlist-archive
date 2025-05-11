@@ -7021,6 +7021,28 @@
     },
     {
       "album": {
+        "name": "Ge\u00e7sin Y\u0131llar",
+        "url": "https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx"
+      },
+      "artists": [
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        },
+        {
+          "name": "Merve \u00d6zbey",
+          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Ge\u00e7sin Y\u0131llar",
+      "url": "https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS"
+    },
+    {
+      "album": {
         "name": "GFY",
         "url": "https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq"
       },
@@ -8124,6 +8146,24 @@
       "duration_ms": 189548,
       "name": "Hat\u0131ran Yeter",
       "url": "https://open.spotify.com/track/4YOpHUpImFDFtDibUUxYsK"
+    },
+    {
+      "album": {
+        "name": "Hat\u0131r\u0131 Yok Mu?",
+        "url": "https://open.spotify.com/album/0jnuzFnHmRqio0sRrtpieH"
+      },
+      "artists": [
+        {
+          "name": "Ufuk Beydemir",
+          "url": "https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Hat\u0131r\u0131 Yok Mu?",
+      "url": "https://open.spotify.com/track/65jS1McXvIixyiCKrpDsZR"
     },
     {
       "album": {
@@ -15099,7 +15139,7 @@
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 250769,
+      "duration_ms": 250750,
       "name": "Sanki",
       "url": "https://open.spotify.com/track/1x9vVX4Cas9wsjEZobLoRm"
     },

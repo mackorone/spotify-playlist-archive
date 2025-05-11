@@ -689,7 +689,7 @@
     },
     {
       "album": {
-        "name": "ESCAPARADE",
+        "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
         "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
       },
       "artists": [
@@ -702,7 +702,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 324633,
-      "name": "115 million kilometer film",
+      "name": "115\u4e07\u30ad\u30ed\u306e\u30d5\u30a3\u30eb\u30e0",
       "url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7"
     },
     {
@@ -76399,24 +76399,6 @@
     },
     {
       "album": {
-        "name": "ESCAPARADE",
-        "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "date_added": "2025-01-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202394,
-      "name": "No Doubt",
-      "url": "https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV"
-    },
-    {
-      "album": {
         "name": "The Light Pack",
         "url": "https://open.spotify.com/album/14EzA7MWoKYPjzjeT4gtj3"
       },
@@ -128386,6 +128368,24 @@
       "duration_ms": 575986,
       "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2\u30fb\u30aa\u30d6\u30fb\u30a2\u30a4\u30e9\u30f3\u30c9",
       "url": "https://open.spotify.com/track/6Ys5Xmyl13GuzVWDOqZlcL"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202394,
+      "name": "\u30ce\u30fc\u30c0\u30a6\u30c8",
+      "url": "https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV"
     },
     {
       "album": {

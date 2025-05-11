@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 189917,
       "name": "Bagl\u00e6ns",
       "url": "https://open.spotify.com/track/5O2NovuSaij0nsULxUt8V5"
@@ -3826,7 +3826,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 174209,
       "name": "Bind For \u00d8jnene",
       "url": "https://open.spotify.com/track/5BbThXzOsjM01gCDEkPcU4"
@@ -5150,7 +5150,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 217183,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0"
@@ -9694,6 +9694,24 @@
       "duration_ms": 177684,
       "name": "En Af De Dage",
       "url": "https://open.spotify.com/track/0ghuhkLjHIxfqzIPL39j6I"
+    },
+    {
+      "album": {
+        "name": "En dr\u00f8m om et menneske",
+        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
     },
     {
       "album": {
@@ -35326,7 +35344,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 224175,
       "name": "Til Solen Er Sort",
       "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
@@ -36510,6 +36528,28 @@
       "duration_ms": 157191,
       "name": "T\u00e6t P\u00e5",
       "url": "https://open.spotify.com/track/0dzaJiaATL2UFVEZ01okt3"
+    },
+    {
+      "album": {
+        "name": "T\u00c6T P\u00c5 (feat. Delara)",
+        "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "T\u00c6T P\u00c5 (feat. Delara)",
+      "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
     },
     {
       "album": {

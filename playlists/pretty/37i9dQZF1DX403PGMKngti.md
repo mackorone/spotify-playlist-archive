@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,930 likes - 65 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,940 likes - 65 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [VUELA](https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Dekko](https://open.spotify.com/artist/1LPvyE6UshqFghBPJT1hji), [Luister La Voz](https://open.spotify.com/artist/6sNXVnJ5ZwENFSA2W68S4x) | [VUELA](https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq) | 3:13 |
+| 1 | [VUELA](https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Dekko](https://open.spotify.com/artist/1LPvyE6UshqFghBPJT1hji), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [VUELA](https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq) | 3:13 |
 | 2 | [Dame Un Beso](https://open.spotify.com/track/6D8ayHlwlcKaaGLjGNLsr7) | [Young F](https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM) | [Dame Un Beso](https://open.spotify.com/album/0LpMyOTBAQCXvMJ6C09V6v) | 3:37 |
 | 3 | [La Depre](https://open.spotify.com/track/3MuBMbH6Y2xs78eZdLTPpu) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG), [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq) | [La Depre](https://open.spotify.com/album/741p7BXXzyVOVUmNf1wgFP) | 2:55 |
 | 4 | [Los Insuperables](https://open.spotify.com/track/2Fiu8HbYuIn5xBC2Xg4608) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx) | [Volvió El Rey](https://open.spotify.com/album/6sLEpUUgSz4vTHcEef4gXE) | 3:16 |

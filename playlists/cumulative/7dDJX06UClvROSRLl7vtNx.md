@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-862 songs - 1 day 13 hr 25 min
+863 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,6 +629,7 @@
 | [Runaway](https://open.spotify.com/track/2fsmmxnl2AHQEoEW3pheQJ) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Runaway](https://open.spotify.com/album/5KrlLxEmWLob6U7Vnf90zH) | 2:22 | 2024-12-20 |  |
 | [Runaway](https://open.spotify.com/track/6MSG2kP4qDufLiFZTzv3Mr) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU) | [Runaway](https://open.spotify.com/album/68iT2Sh07ikfDY4Qwk8b6Q) | 2:58 | 2024-05-16 | 2024-10-11 |
 | [Runaway](https://open.spotify.com/track/6gJvZJrUrTLRpgH9fS2Tdj) | [SHKHR](https://open.spotify.com/artist/1ZEJTNLYcquv69asSb1G13), [Josiah Nichols](https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3), [Talamo](https://open.spotify.com/artist/00hh2BfGPXa6GW5pHtf1mP) | [Runaway](https://open.spotify.com/album/6VMykPPLXYrUhPwGhmXX9m) | 3:05 | 2024-11-10 | 2025-03-03 |
+| [Running Around](https://open.spotify.com/track/48ccpiNRWLKy02fXMvRwM1) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Running Around](https://open.spotify.com/album/6zu9U6l0csBc8b0u3pX019) | 2:11 | 2025-05-10 |  |
 | [running down the beach](https://open.spotify.com/track/2RsqBpiLR1Yi0MRcQltNeO) | [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [running down the beach](https://open.spotify.com/album/3U95KqsLDzPKwgaIqCRpLy) | 2:23 | 2023-09-22 |  |
 | [Running Out Of Time](https://open.spotify.com/track/60y5GAE0G1paoq3iLAxN74) | [JDM](https://open.spotify.com/artist/0ypVB4coLY48d4te3lUYoo), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Running Out Of Time](https://open.spotify.com/album/0UI4HeIHKxCFVJTkrxqMZV) | 2:36 | 2024-10-26 |  |
 | [Rushing From Me](https://open.spotify.com/track/1E7R3c2lHdlftcXcK4HnJL) | [Santorelli](https://open.spotify.com/artist/2W3PRQeJoFaEFaLZYiVrkR) | [Rushing From Me](https://open.spotify.com/album/4w1iRgykyDw8c433JRIgFs) | 2:48 | 2024-01-27 | 2024-06-01 |

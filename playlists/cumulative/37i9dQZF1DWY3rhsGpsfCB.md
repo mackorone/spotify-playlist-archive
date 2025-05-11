@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-760 songs - 1 day 15 hr 23 min
+761 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 | 2023-08-10 | 2023-09-15 |
 | [BISOUS](https://open.spotify.com/track/1V2NorIjuRXla69SxsYIcs) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [BISOUS](https://open.spotify.com/album/4yI7pgYcbAcsV9v4VlbHSH) | 2:43 | 2025-01-17 | 2025-02-22 |
 | [Bitter](https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:03 | 2022-06-24 | 2023-02-17 |
+| [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-09 |  |
 | [BLKN](https://open.spotify.com/track/72dnVyRTuvKakKNtbBGlKc) | [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [BLKN](https://open.spotify.com/album/0z8dBIlqELOczRx3dLCls9) | 2:07 | 2024-11-29 | 2025-03-07 |
 | [Bloody Samaritan \(with Kelly Rowland\) \- Remix](https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Bloody Samaritan \(with Kelly Rowland\) \[Remix\]](https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX) | 3:09 | 2022-09-30 | 2023-02-11 |
 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-03-12 | 2024-02-09 |
@@ -364,7 +365,7 @@
 | [Link Up](https://open.spotify.com/track/5vsCD4vU93v7Y3HDVdGl4b) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Link Up](https://open.spotify.com/album/2vlW2rFQ0V9EnzzYXuhPvg) | 2:33 | 2023-09-29 | 2023-10-13 |
 | [Little Things I want](https://open.spotify.com/track/2GmDuSpcIHuAi9OCye3ZMm) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Little Things I want](https://open.spotify.com/album/5Q52c4OQE5Tv94HhAhygb2) | 1:20 | 2023-09-20 | 2024-05-17 |
 | [Lock Up](https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Lock Up](https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz) | 3:43 | 2023-03-24 | 2024-02-23 |
-| [Lockdown](https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Lockdown](https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv) | 2:34 | 2025-02-21 |  |
+| [Lockdown](https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Lockdown](https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv) | 2:34 | 2025-02-21 | 2025-05-11 |
 | [lon3ly](https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:44 | 2024-10-12 | 2025-04-06 |
 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 | 2023-07-28 | 2023-09-08 |
 | [Looking for God](https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Looking for God](https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ) | 2:24 | 2024-07-05 |  |

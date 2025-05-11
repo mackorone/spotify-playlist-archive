@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160111,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+    },
+    {
+      "album": {
         "name": "BLKN",
         "url": "https://open.spotify.com/album/0z8dBIlqELOczRx3dLCls9"
       },
@@ -7204,7 +7222,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 154174,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"

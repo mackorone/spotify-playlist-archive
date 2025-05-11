@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-596 songs - 2 day 1 hr 24 min
+597 songs - 2 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2005 NYE](https://open.spotify.com/track/1rzH1WxcHyLEyBuErJQVO0) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/1Epdx4Nl1hobUOEnIXGHVl) | 4:47 | 2022-10-28 | 2024-04-13 |
 | [2005 NYE](https://open.spotify.com/track/6ezV370O6dVoAf9DtRK4X9) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/4PPA1thVaDI5MUuRqmNTR9) | 4:47 | 2021-12-08 | 2022-12-26 |
 | [2daBeat](https://open.spotify.com/track/1BpG59DLyW6jZxN2PYiUA3) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Musik 3](https://open.spotify.com/album/7vHtRLKLA8ZkNBN3kNwlT6) | 5:29 | 2022-02-21 | 2024-04-13 |
+| [A Deeper Life](https://open.spotify.com/track/2BeFVOi5hh545rnHTmDmPF) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 8:04 | 2025-05-09 |  |
 | [A Distance Inwards](https://open.spotify.com/track/3zPV4wjfvVAkBM1JMHOyFN) | [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B) | [Brooklyn Zoo](https://open.spotify.com/album/4ngyeGZoZZN0HGC2uwUHDM) | 5:28 | 2021-12-08 | 2022-07-16 |
 | [A Downpour Of Blessings](https://open.spotify.com/track/13ofhF3akKSze47em3ihua) | [Yone\-ko](https://open.spotify.com/artist/5lpbbYojKrSoU2FoNlah10) | [Dial 2020 \(II\)](https://open.spotify.com/album/2rwZVVj0gLRL7z1D09QmYE) | 6:59 | 2022-02-21 | 2022-07-25 |
 | [A Power Over Me](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [A Power Over Me EP](https://open.spotify.com/album/78uWTRjStnaxMpfeFj9MR1) | 5:34 | 2023-07-14 |  |
@@ -340,7 +341,7 @@
 | [Never Enough](https://open.spotify.com/track/63oLL7nhjCx3hqNQWfwYVM) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Never Enough](https://open.spotify.com/album/66YANI4iTibEQOQ1zHjbbO) | 3:32 | 2023-11-24 | 2024-07-13 |
 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 | 2022-10-28 |  |
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2021-12-08 | 2023-08-12 |
-| [Nightcall](https://open.spotify.com/track/6dcmqwpZ00IXjmg8ZVxQZP) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Nightcall](https://open.spotify.com/album/5fTwR0zWU6EKHVDHxffJLO) | 5:27 | 2024-07-12 |  |
+| [Nightcall](https://open.spotify.com/track/6dcmqwpZ00IXjmg8ZVxQZP) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Nightcall](https://open.spotify.com/album/5fTwR0zWU6EKHVDHxffJLO) | 5:27 | 2024-07-12 | 2025-05-11 |
 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 | 2023-07-31 |  |
 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 | 2021-12-08 | 2024-04-13 |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/3ZRb3HCjzWH2bQqlzk52xb) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Coookies 2](https://open.spotify.com/album/22GejLMhLmoRWaYvcuMkmw) | 4:02 | 2021-12-08 | 2022-09-04 |

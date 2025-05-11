@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Shenlong, SV, Orochi
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,692 likes - 74 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,688 likes - 74 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 67 | [Sururu Com Cachaça](https://open.spotify.com/track/3vjgVDFU2y1E1IzXh1drGg) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Prodbythb](https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae) | [O Som do Litoral](https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL) | 2:48 |
 | 68 | [Toma](https://open.spotify.com/track/73IPytoDsTmpNS6L7KHDEZ) | [Spark Trap](https://open.spotify.com/artist/0QY3FktU1SwpEqPRf4w1YX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Toma](https://open.spotify.com/album/0nxOQfGs2MqrLKayVBtPzW) | 2:44 |
 | 69 | [INVICTO](https://open.spotify.com/track/2X6ohX5bFCQ5DPcIQqEXNp) | [Samu](https://open.spotify.com/artist/7q3AJCYfIRZLHxFOsCs34l), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [INVICTO](https://open.spotify.com/album/73B91DACTMorYOyvESiBUM) | 2:24 |
-| 70 | [Bombay](https://open.spotify.com/track/7xOZEfVDgkQ57eh9xJprh7) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [$nif](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw), [ÉoDan](https://open.spotify.com/artist/2wJTFunFUfIEZBoSRtgGzl) | [Bombay](https://open.spotify.com/album/3BEJ1eLNwA0aHHleVjSLA5) | 4:21 |
+| 70 | [Bombay](https://open.spotify.com/track/7xOZEfVDgkQ57eh9xJprh7) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [SNIF](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw), [ÉoDan](https://open.spotify.com/artist/2wJTFunFUfIEZBoSRtgGzl) | [Bombay](https://open.spotify.com/album/3BEJ1eLNwA0aHHleVjSLA5) | 4:21 |
 | 71 | [A Volta Do Detroit](https://open.spotify.com/track/3XDMhkNXAWqm03dwBDn39T) | [Danike](https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK), [Shark47](https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F), [AçúK](https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM) | [A Volta Do Detroit](https://open.spotify.com/album/1cewX8x8yQwTq5AusFLXzC) | 2:46 |
 | 72 | [Modelo Brasileiro](https://open.spotify.com/track/6lUQQUxG5UNAJ0kviKSQA9) | [Marchi](https://open.spotify.com/artist/6CJHLVdu1rmPcgYYTiEF78), [DANZIN](https://open.spotify.com/artist/3dRJ3mpupzrEI6iS4Lz7k1), [N4NY](https://open.spotify.com/artist/7dlN2GCn49Rc9ebgBbJbX2) | [D>M>M>D](https://open.spotify.com/album/3hO5N7WjWt4mNHWdStS8D7) | 2:08 |
 | 73 | [EU MESMO & EU](https://open.spotify.com/track/7gAlaiJQnZTNaR5pdPptVQ) | [Tsunami Santo](https://open.spotify.com/artist/22AL835hyYpFoRJSLTLwqh), [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [EU MESMO & EU](https://open.spotify.com/album/1cpgFskTnh1UsuaGkry1QS) | 2:09 |

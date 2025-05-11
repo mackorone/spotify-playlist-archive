@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 163875,
+  "num_followers": 163885,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAAAeWnlePCc5hL3IrnHKwNqa",
+  "snapshot_id": "aB1FgAAAAADzaj5r+ARznMBwME8UQUUS",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C,XOXO",
-        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "HE KNOWS (feat. Lil Nas X)",
-      "url": "https://open.spotify.com/track/5TdrCQVt3l1uEz3pFdTgXC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -227,22 +207,6 @@
       "duration_ms": 146005,
       "name": "TALES OF DOMINICA",
       "url": "https://open.spotify.com/track/5S4PZ7AuYlYiVIVik3wHUf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEAN ON MY BODY",
-        "url": "https://open.spotify.com/album/0jhD8ONMLsw0NWEq9TIg3p"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "LEAN ON MY BODY",
-      "url": "https://open.spotify.com/track/1UjT0n2YNQHqk4yL86CWrS"
     },
     {
       "added_at": null,
@@ -263,6 +227,42 @@
       "duration_ms": 144324,
       "name": "P.B.S.",
       "url": "https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C,XOXO",
+        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "HE KNOWS (feat. Lil Nas X)",
+      "url": "https://open.spotify.com/track/5TdrCQVt3l1uEz3pFdTgXC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEAN ON MY BODY",
+        "url": "https://open.spotify.com/album/0jhD8ONMLsw0NWEq9TIg3p"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "LEAN ON MY BODY",
+      "url": "https://open.spotify.com/track/1UjT0n2YNQHqk4yL86CWrS"
     },
     {
       "added_at": null,

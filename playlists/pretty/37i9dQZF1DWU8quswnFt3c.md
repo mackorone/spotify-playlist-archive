@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Creators at full volume\. Cover: Ana Bacalhau
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,426 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,220 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 23 | [Baby Tee](https://open.spotify.com/track/0YRvcIlETPNLdasQYkJabY) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Tee](https://open.spotify.com/album/2AgNQHS5SSwt7JyJaH7YGj) | 3:48 |
 | 24 | [Acelesi Yok](https://open.spotify.com/track/5MvyyXreTNkvTOviS3i2Ab) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Acelesi Yok](https://open.spotify.com/album/1iEjaFIF9CBZHxP7kvAjS3) | 2:46 |
 | 25 | [Modo Antidepresivo](https://open.spotify.com/track/56x01c0Drtlmd7e0t6G97r) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Modo Antidepresivo](https://open.spotify.com/album/1qYRyF4r6pla84M5LYJy8K) | 2:11 |
-| 26 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
-| 27 | [Self Love](https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:52 |
-| 28 | [Ups and downs](https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:15 |
+| 26 | [Ups and downs](https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:15 |
+| 27 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
+| 28 | [Self Love](https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:52 |
 | 29 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 | 30 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 |
 | 31 | [Jungle](https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Jungle](https://open.spotify.com/album/2LahAsMCOCcPOs3Xj6NDiS) | 2:40 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 39 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 |
 | 40 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
 | 41 | [Teman Makan Teman](https://open.spotify.com/track/1DZJ5Q6MLS49KWEHSGlfgu) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Teman Makan Teman](https://open.spotify.com/album/3CxI4HwlH56BtQlUKcClC4) | 2:54 |
-| 42 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
-| 43 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
+| 42 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
+| 43 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
 | 44 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 |
 | 45 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 |
 | 46 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 53 | [Decostruire](https://open.spotify.com/track/6WoR1LIrwT7fhah2JVYtEK) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [Decostruire](https://open.spotify.com/album/4ZHVYWm8nQKkqAkNcBTdKB) | 2:49 |
 | 54 | [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 |
 | 55 | [TALK2ME](https://open.spotify.com/track/6wEBSQtojMMC0dSqJ8PY40) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [TALK2ME](https://open.spotify.com/album/6iGvIHnOxyuZLJLSv4oOn6) | 3:26 |
-| 56 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
+| 56 | [cuộc đàm phán với nỗi đau](https://open.spotify.com/track/6fIK1aYNlH0fu4yr3w81Ao) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [cuộc đàm phán với nỗi đau](https://open.spotify.com/album/4kGDHIucM2yJcVO5CpKhwI) | 5:08 |
 | 57 | [Wui229](https://open.spotify.com/track/6ys5ZWv1RTBlwBs1vRFyd1) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 2:59 |
-| 58 | [cuộc đàm phán với nỗi đau](https://open.spotify.com/track/6fIK1aYNlH0fu4yr3w81Ao) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [cuộc đàm phán với nỗi đau](https://open.spotify.com/album/4kGDHIucM2yJcVO5CpKhwI) | 5:08 |
+| 58 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
 | 59 | [everything is on fire](https://open.spotify.com/track/2kVOwGHpegpiUSkDmfTGsu) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [everything is on fire](https://open.spotify.com/album/7lM95ZsaWOvYkdA57nbSAa) | 2:28 |
 | 60 | [Bolí Ma](https://open.spotify.com/track/5vOiFCEpxLiPYdb25RkQc6) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Columba](https://open.spotify.com/album/3bXpHSo2MAzVsysQnoloGG) | 3:34 |
-| 61 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 |
-| 62 | [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 |
+| 61 | [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 |
+| 62 | [Benar Kata Temanku](https://open.spotify.com/track/153JoaPN0pXMFiIFwjoOgD) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Benar Kata Temanku](https://open.spotify.com/album/6Zad0I4yrlUwTzOWX8W7D8) | 2:28 |
 | 63 | [Tourment d’amour](https://open.spotify.com/track/1ePGj5Nuo4Q7GZ2AvnZQKb) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 3:20 |
 | 64 | [Make Up](https://open.spotify.com/track/17wgXMgncYVMa33et1WE4X) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Make Up](https://open.spotify.com/album/6rFEHXqExBkjde9Uhyadrj) | 3:22 |
 | 65 | [科幻小說 \(prod\. by Sōryo\)](https://open.spotify.com/track/53XaSgJqHmYqhkJe4IpQEJ) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:＊\- 合作的秘密](https://open.spotify.com/album/54y9HZviKYV9sohtlYmBEb) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,697 likes - 76 songs - 3 hr 14 min
+[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,698 likes - 76 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 31 | [SILLY PISS SONG](https://open.spotify.com/track/2AeDwo9LB1uap5CJBOb4BD) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 0:50 |
 | 32 | [EDGE PLAY](https://open.spotify.com/track/43saXiFb4mEm9ajLfiMoji) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY](https://open.spotify.com/album/6I75QTK7OKFpWj2hbHfB8I) | 1:24 |
 | 33 | [KNOT SONG](https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [KNOT SONG](https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT) | 2:18 |
-| 34 | [femboy supremacy](https://open.spotify.com/track/5FE0polTp5p6qmd9ftDbPa) | [ dizzy crush](https://open.spotify.com/artist/5URoqCxBwQUTyfHHJOrAWg) | [femboy supremacy](https://open.spotify.com/album/7ha0aAUidu3dNq3tGc9ElF) | 1:49 |
+| 34 | [femboy supremacy](https://open.spotify.com/track/5FE0polTp5p6qmd9ftDbPa) | [Dizzy Crush](https://open.spotify.com/artist/5URoqCxBwQUTyfHHJOrAWg) | [femboy supremacy](https://open.spotify.com/album/7ha0aAUidu3dNq3tGc9ElF) | 1:49 |
 | 35 | [Ode to a Werewolf](https://open.spotify.com/track/5yTzesOGaZ16iv59cgam9b) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 2:10 |
 | 36 | [Back End Blues](https://open.spotify.com/track/7g1HuVyMNGmMxfzS8nQ1Hn) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 2:51 |
 | 37 | [Intro Jingle](https://open.spotify.com/track/3bcGDqANHU0nCa7Hvz3tw5) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 0:08 |

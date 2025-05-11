@@ -4,7 +4,7 @@
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 42 min
+64 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [2020](https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Wonder Stereo](https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn) | [2020](https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL) | 2:25 | 2022-11-22 |  |
 | [Backseat Love](https://open.spotify.com/track/4easNsCEqsVWDNTXIvMcBk) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [I Just Wanna Know](https://open.spotify.com/album/1UlBXM0fhoHZ1YQLjiCFkN) | 3:47 | 2024-04-16 | 2025-03-06 |
 | [Booty Bounce](https://open.spotify.com/track/53TfXXQXVXUX7FvifN6ZZX) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce](https://open.spotify.com/album/42n9ah7zuBftx5C0X09Xhs) | 3:16 | 2021-12-28 | 2022-05-12 |
-| [Booty Bounce \- Extended Mix](https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce](https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf) | 4:00 | 2022-05-11 |  |
+| [Booty Bounce \- Extended Mix](https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce](https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf) | 4:00 | 2022-05-11 | 2025-05-11 |
+| [Booty Bounce \- Radio Edit](https://open.spotify.com/track/1O77wG0zZxhjhdr7nw0srF) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce \(Radio Edit\)](https://open.spotify.com/album/0wIucx9FODLGqEkHXLEOut) | 3:17 | 2025-05-11 |  |
 | [Break Your Heart](https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:21 | 2021-12-28 | 2025-04-13 |
 | [Break Your Heart](https://open.spotify.com/track/7mDCg8XTEyDNPzC5Jdt7mu) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:05 | 2024-06-12 |  |
 | [Break Your Heart \- Mixin Marc And Tony Svejda Radio Edit](https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Jersey Shore Soundtrack](https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX) | 4:26 | 2022-01-06 | 2024-11-15 |

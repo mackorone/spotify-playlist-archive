@@ -919,7 +919,7 @@
     },
     {
       "album": {
-        "name": "7 Dias",
+        "name": "7 DIAS",
         "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
       },
       "artists": [
@@ -934,9 +934,9 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 180688,
-      "name": "7 Dias",
+      "name": "7 DIAS",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
     },
     {
@@ -10518,7 +10518,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 193462,
       "name": "Como Te Pago",
       "url": "https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej"
@@ -15456,7 +15456,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 222127,
       "name": "El Ingeniero vs Me Rehuso (Mashup dj Remix)",
       "url": "https://open.spotify.com/track/6JcaezefReCHsaDoYxSSfI"
@@ -28866,7 +28866,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -35890,7 +35890,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 215200,
       "name": "Nobody New",
       "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt"
@@ -40079,6 +40079,32 @@
     },
     {
       "album": {
+        "name": "POLARIZADOS",
+        "url": "https://open.spotify.com/album/2dKRTrgdXxyIgNWMEF4OgY"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        },
+        {
+          "name": "\u00c1ngel Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/6IuOEyhdhzyjHeHmnpofW7"
+        },
+        {
+          "name": "Gheef",
+          "url": "https://open.spotify.com/artist/1eC6KPyQBE2eYoV7JWCNDz"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134722,
+      "name": "POLARIZADOS",
+      "url": "https://open.spotify.com/track/53M0vEX1HG6jGsaDk5ZamF"
+    },
+    {
+      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -44056,7 +44082,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 216000,
       "name": "Saborcito A Miel",
       "url": "https://open.spotify.com/track/1dUVRA8zxsw7n6BChwKk1r"
@@ -50088,7 +50114,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 176129,
       "name": "Te Quer\u00eda Ver",
       "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
@@ -55377,6 +55403,28 @@
     },
     {
       "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184743,
+      "name": "Vita Fer",
+      "url": "https://open.spotify.com/track/3jS9G4KmuOwuawj3k4Smpc"
+    },
+    {
+      "album": {
         "name": "Vita Fer",
         "url": "https://open.spotify.com/album/2UyuT1u6vDSwK1WXEkyfr4"
       },
@@ -55392,7 +55440,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 184743,
       "name": "Vita Fer",
       "url": "https://open.spotify.com/track/5HZBdV5AwSvKdHFOYbXYD7"

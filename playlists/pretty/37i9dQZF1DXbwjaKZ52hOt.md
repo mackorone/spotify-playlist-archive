@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,422 likes - 150 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,433 likes - 150 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 2 | [Six Little Ducks](https://open.spotify.com/track/7jgMcaafsL3YvZyymuuJSy) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Six Little Ducks](https://open.spotify.com/album/1JBMMyIQyBfemZCWRmPDx1) | 1:58 |
 | 3 | [If You're Happy And You Know It Clap Your Hands](https://open.spotify.com/track/1RZmi7MaS1rR9gMtg6UpFj) | [Nursery Rhymes and Kids Songs](https://open.spotify.com/artist/5q0OF8Ql4tW3OWFXftiUAO) | [Old Macdonald Had A Farm & more Playtime Songs](https://open.spotify.com/album/08hGwlAcjuErXnfyeBJudC) | 2:53 |
 | 4 | [Old MacDonald](https://open.spotify.com/track/5HDHI7vniziKvFwEZJxIbr) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Old MacDonald](https://open.spotify.com/album/7p2vDbyCJbRaD7dKIUNMiI) | 3:34 |
-| 5 | [Muffin Man \- Dance Party](https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Sing, Dance, Party!, Vol\. 3](https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK) | 2:26 |
+| 5 | [The Muffin Man \- Dance Party Version](https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Sing, Dance, Party!, Vol\. 3](https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK) | 2:26 |
 | 6 | [Wheels on the Bus \(All Through the Town\)](https://open.spotify.com/track/6SHCXhux6u4DxIiy77E2al) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/3WM68FwyD2PzaRrHUToEqZ) | 2:10 |
 | 7 | [One, Two, Buckle My Shoe](https://open.spotify.com/track/3hW0KHABBsresOUik93KF6) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:33 |
 | 8 | [Oh Dear, What Can the Matter Be?](https://open.spotify.com/track/7bRRaKqYB7U1DI86dQxCZN) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [The 50 Best Nursery Rhymes Ever](https://open.spotify.com/album/4qNChccwh72RdCNH3x6u5w) | 2:32 |

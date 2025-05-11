@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Entdecke die Songauswahl der Stubete Gäng.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,503 likes - 20 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,580 likes - 20 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

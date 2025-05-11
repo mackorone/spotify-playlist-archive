@@ -4,7 +4,7 @@
 
 > 
 
-170 songs - 6 hr 38 min
+171 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [NALGOTICA!](https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [NALGOTICA!](https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc) | 1:54 | 2025-04-10 | 2025-04-12 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2024-12-31 |  |
 | [NASTYWERKKKK!](https://open.spotify.com/track/7kvQptbfqq5b4MWRQOMrZC) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [NASTYWERKKKK!](https://open.spotify.com/album/0eFoFhftAdNeb0vtTJ0iSB) | 2:19 | 2025-03-09 | 2025-04-04 |
+| [NECKLACE](https://open.spotify.com/track/72wWSf8fIXLB6tPPBUECru) | [SUPXR](https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [NECKLACE](https://open.spotify.com/album/3kRXR4BRXHEhaN2mjpNzcW) | 2:59 | 2025-05-10 |  |
 | [needless](https://open.spotify.com/track/3AeYfw6VlIIRsXMSyTO5lf) | [akselbolt](https://open.spotify.com/artist/32O9ENEJnldkd0SMkjFz25), [akoge](https://open.spotify.com/artist/42hqB8RQixQXhyxGqm1moL) | [needless](https://open.spotify.com/album/53W8vQb2ovfZJmEXTUiJK2) | 2:10 | 2025-04-11 |  |
 | [NEW BANZ!](https://open.spotify.com/track/7F7Gc8zj61NN1v0PLDxUef) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:54 | 2024-12-08 |  |
 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 | 2025-02-26 |  |

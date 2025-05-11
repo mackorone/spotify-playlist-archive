@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de AQUA VS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,061 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,085 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 28 | [Exotica \(feat\. La Zowi\)](https://open.spotify.com/track/03zrHVbUNHve5e7eIBMBGC) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:24 |
 | 29 | [Fetty](https://open.spotify.com/track/4VUCD7MJpEsPG71MJDXBdD) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Fetty](https://open.spotify.com/album/6iU0MQfHr7q8XCU2cGwX1q) | 2:53 |
 | 30 | [Singapur \(feat\. Yung Beef\)](https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:49 |
-| 31 | [TROMPETAS \(feat\. King Savagge & Best\)](https://open.spotify.com/track/7FwUyEny91YMSWGPyi99dG) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TROMPETAS \(feat\. King Savagge & Best\)](https://open.spotify.com/album/7pm56gmohoxcfT1sGB41DR) | 2:46 |
+| 31 | [TROMPETAS \(feat\. King Savagge & Best\)](https://open.spotify.com/track/7FwUyEny91YMSWGPyi99dG) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [AK4:20](https://open.spotify.com/artist/4In6oRGF6vASj3yFpv2Sc7), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TROMPETAS \(feat\. King Savagge & Best\)](https://open.spotify.com/album/7pm56gmohoxcfT1sGB41DR) | 2:46 |
 | 32 | [Sin Coro](https://open.spotify.com/track/5qmiyYsNPiku1ogHGHn1iB) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Sin Coro](https://open.spotify.com/album/0oV0vK4dwxaaxILPPO9Yyr) | 2:35 |
 | 33 | [Señales](https://open.spotify.com/track/4UutKgioPfaMRFhLiGJcN7) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Señales](https://open.spotify.com/album/71pvU5AxbEBVcoQBqxdzkS) | 2:59 |
 | 34 | [LOS PEINE](https://open.spotify.com/track/3FoH4YJoBhEvMFF8Low3Ma) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [LOS PEINE](https://open.spotify.com/album/0QE5o0Eef14KCY1UFBJ81D) | 3:16 |

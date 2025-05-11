@@ -1397,6 +1397,32 @@
     },
     {
       "album": {
+        "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
+        "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226753,
+      "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
+      "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
+    },
+    {
+      "album": {
         "name": "Tougher",
         "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
       },

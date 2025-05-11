@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,681 likes - 20 songs - 1 hr 21 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,686 likes - 20 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 | 14 | [Dance!](https://open.spotify.com/track/70GR0y0UQoWDOzApauQqpN) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Dance!](https://open.spotify.com/album/4SDP4cjecVJyK4Y7dJSRHL) | 3:06 |
 | 15 | [Lawn Tennis](https://open.spotify.com/track/7ejTSljNUKugYwVzW9Ahpt) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Lawn Tennis](https://open.spotify.com/album/4t10VnshTvsVBR3aqYBoPU) | 2:25 |
 | 16 | [Get Out My Face AKA Bad Kitty](https://open.spotify.com/track/1MWtB95XxXM3rlhH058YsD) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Get Out My Face AKA Bad Kitty](https://open.spotify.com/album/1ULJktTBsYpAt3CgCyyH5L) | 4:36 |
-| 17 | [Omens](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [Omens](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
+| 17 | [OMENS](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [OMENS](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
 | 18 | [Keep Your Blessings](https://open.spotify.com/track/28gJfJ5tuvZORsjBoVo5GR) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Keep Your Blessings](https://open.spotify.com/album/1cwSqnPyYZ5v2oLwFefmwc) | 3:29 |
 | 19 | [A primeval detachment](https://open.spotify.com/track/7qb1JeP4fdlMS8ZhM6nyoI) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [A primeval detachment](https://open.spotify.com/album/4tMrAzr6WmnG2q3GR4euIu) | 4:29 |
 | 20 | [Dream Projector](https://open.spotify.com/track/4Laq03nDYhQOv8fsyDNnhm) | [Kusanagi](https://open.spotify.com/artist/7KTvJ8yhAJxvpJDzSFY4Hi) | [Dream Projector](https://open.spotify.com/album/2bM5m2IfPvJE3nHPWK8eDN) | 6:54 |

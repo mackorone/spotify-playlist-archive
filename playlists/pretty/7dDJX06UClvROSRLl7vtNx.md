@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 79,965 likes - 231 songs - 9 hr 59 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 80,123 likes - 232 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,10 +234,11 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 224 | [Love In California](https://open.spotify.com/track/7hPwgTYYLfqKQ3T6KgeC2K) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [José Lucas](https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP), [Bloke & Bird](https://open.spotify.com/artist/4DVAVxb23QtgmBspCLi10c) | [Love In California](https://open.spotify.com/album/3uec87fKWLQJHVx0azTTgj) | 2:55 |
 | 225 | [What's The Harm](https://open.spotify.com/track/6sEZPeZtEYGAQ9ncLdORpu) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48), [Youngmin](https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb) | [What's The Harm](https://open.spotify.com/album/1dIU2tly1YsvYXPLj24NCC) | 2:27 |
 | 226 | [Girls Like Us](https://open.spotify.com/track/2t2uYv81UF81cnvnCqCBon) | [Byond Bliss](https://open.spotify.com/artist/1eBjc550NNKmWGUJNVtliE), [Medusa](https://open.spotify.com/artist/08Cmz2Whs8UYTPT4Th0c8w) | [Girls Like Us](https://open.spotify.com/album/7lIdPGKEhJt7wp75ZixROn) | 2:39 |
-| 227 | [Love Has Landed \- Junerule Remix](https://open.spotify.com/track/5nnpN7gYLoiPGIIJzS5Sfc) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie), [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur) | [Love Has Landed \(Junerule Remix\)](https://open.spotify.com/album/2b8mAWUeXg5UBQcYSQnisp) | 3:00 |
-| 228 | [Get You The Moon](https://open.spotify.com/track/3ciO40CQHrP5rYDhoMfOWQ) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe) | [Get You The Moon](https://open.spotify.com/album/1LDvI7zJlNVPUpmYh0WasO) | 2:36 |
-| 229 | [Easily](https://open.spotify.com/track/7EtAT9cvwWrduQUJ2uZ6fr) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Easily](https://open.spotify.com/album/4RvVc0vbaA46SWUH75Joks) | 2:38 |
-| 230 | [I Just Might](https://open.spotify.com/track/4zxdvKmFpXoTLClXzijzbT) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [RÆ](https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h) | [I Just Might](https://open.spotify.com/album/4GmXryaqgOrpCdSTw5ebss) | 2:33 |
-| 231 | [Silence](https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Silence](https://open.spotify.com/album/1HEeUhoxsJDWK9dOL1cakm) | 3:02 |
+| 227 | [Running Around](https://open.spotify.com/track/48ccpiNRWLKy02fXMvRwM1) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Running Around](https://open.spotify.com/album/6zu9U6l0csBc8b0u3pX019) | 2:11 |
+| 228 | [Love Has Landed \- Junerule Remix](https://open.spotify.com/track/5nnpN7gYLoiPGIIJzS5Sfc) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie), [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur) | [Love Has Landed \(Junerule Remix\)](https://open.spotify.com/album/2b8mAWUeXg5UBQcYSQnisp) | 3:00 |
+| 229 | [Get You The Moon](https://open.spotify.com/track/3ciO40CQHrP5rYDhoMfOWQ) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe) | [Get You The Moon](https://open.spotify.com/album/1LDvI7zJlNVPUpmYh0WasO) | 2:36 |
+| 230 | [Easily](https://open.spotify.com/track/7EtAT9cvwWrduQUJ2uZ6fr) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Easily](https://open.spotify.com/album/4RvVc0vbaA46SWUH75Joks) | 2:38 |
+| 231 | [I Just Might](https://open.spotify.com/track/4zxdvKmFpXoTLClXzijzbT) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [RÆ](https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h) | [I Just Might](https://open.spotify.com/album/4GmXryaqgOrpCdSTw5ebss) | 2:33 |
+| 232 | [Silence](https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Silence](https://open.spotify.com/album/1HEeUhoxsJDWK9dOL1cakm) | 3:02 |
 
-Snapshot ID: `AABJ3kAkVYI2qksPgnLqq383HYV76CUo`
+Snapshot ID: `AABJ4CrfDMnn+1yzAqMJIi1dqN3YpIIg`

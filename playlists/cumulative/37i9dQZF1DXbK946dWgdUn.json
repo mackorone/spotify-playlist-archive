@@ -185,24 +185,6 @@
     },
     {
       "album": {
-        "name": "CoComelon Lane (Songs From the Netflix Series)",
-        "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "date_added": "2024-01-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160357,
-      "name": "Are We There Yet - Songs From the Netflix Series",
-      "url": "https://open.spotify.com/track/1CTYFYLKkikkQoYJsHQfVo"
-    },
-    {
-      "album": {
         "name": "CoComelon Kids Hits, Vol. 4",
         "url": "https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy"
       },
@@ -218,6 +200,24 @@
       "duration_ms": 148081,
       "name": "Are We There Yet?",
       "url": "https://open.spotify.com/track/4uAgWZfhL1Znf7YgRuUk0G"
+    },
+    {
+      "album": {
+        "name": "CoComelon Lane (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/3ujn5ON401KAhrO3DaGhFj"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160357,
+      "name": "Are We There Yet? - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/1CTYFYLKkikkQoYJsHQfVo"
     },
     {
       "album": {
@@ -998,7 +998,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 127026,
-      "name": "Head Shoulders Knees and Toes",
+      "name": "Head Shoulders Knees And Toes - Radio Edit",
       "url": "https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA"
     },
     {
@@ -1682,7 +1682,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166749,
-      "name": "Mary Had a Little Lamb",
+      "name": "Mary Had A Little Lamb - School Time Version",
       "url": "https://open.spotify.com/track/12o2pvdkWhOeEMbAXma5Cq"
     },
     {
@@ -1760,24 +1760,6 @@
       "duration_ms": 104549,
       "name": "Mr. Sun",
       "url": "https://open.spotify.com/track/4XHKJMno0cp0uGcvF4HyjL"
-    },
-    {
-      "album": {
-        "name": "Sing, Dance, Party!, Vol. 3",
-        "url": "https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "date_added": "2025-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146229,
-      "name": "Muffin Man - Dance Party",
-      "url": "https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya"
     },
     {
       "album": {
@@ -3096,6 +3078,24 @@
       "duration_ms": 141000,
       "name": "The Muffin Man",
       "url": "https://open.spotify.com/track/6fEBcYJBFiPvREHQiQr9Db"
+    },
+    {
+      "album": {
+        "name": "Sing, Dance, Party!, Vol. 3",
+        "url": "https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146229,
+      "name": "The Muffin Man - Dance Party Version",
+      "url": "https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya"
     },
     {
       "album": {

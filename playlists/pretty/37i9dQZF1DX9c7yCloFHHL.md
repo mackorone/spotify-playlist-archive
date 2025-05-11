@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: André 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,644 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,784 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 28 | [M4 \- Future Days Mix](https://open.spotify.com/track/6h24wnpxvThfULdlavJqey) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Magniificent Little Dudes \(The Remixes\)](https://open.spotify.com/album/0ogqBah5cedRe2uoyKSLnc) | 5:51 |
 | 29 | [Beautification Technologies](https://open.spotify.com/track/3YXxTG4fUZRWXybgBsMZvW) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Beautification Technologies](https://open.spotify.com/album/0S5QUYkSQT04CpmG1uPmNu) | 4:53 |
 | 30 | [A Necessary Escape \(Part 2\)](https://open.spotify.com/track/2kHPwzW058WyLdT1I81pTd) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [A Necessary Escape \(Part 2\)](https://open.spotify.com/album/2eIzRLE2sKmMRTz8nvBoRH) | 8:23 |
-| 31 | [Looking Through The Mirror Of The Soul \- Chihei Hatakeyama Remix](https://open.spotify.com/track/1wBTUjG4n6h9xTxsOGVTYM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Everything Changes, Nothing Ends \(Remixes\)](https://open.spotify.com/album/6gtYPyG3E3fHASBm4mUaAR) | 3:56 |
+| 31 | [Looking Through The Mirror Of The Soul \- Chihei Hatakeyama Remix](https://open.spotify.com/track/1wBTUjG4n6h9xTxsOGVTYM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Everything Changes, Nothing Ends \(The Remixes\)](https://open.spotify.com/album/6gtYPyG3E3fHASBm4mUaAR) | 3:56 |
 | 32 | [Adamord \(Edit\) 2025 Remaster](https://open.spotify.com/track/38dnWjEktlBattrZaUWDdj) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [Adamord \(Edit\) 2025 Remaster](https://open.spotify.com/album/2loNa7Ijcvx2fMJdUr2KLk) | 2:23 |
 | 33 | [Bin](https://open.spotify.com/track/3glw2vbGfpq3aDJ575ZT6n) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Bin](https://open.spotify.com/album/2b2Ld9mFZHvl4iyEpJlXkP) | 2:24 |
 | 34 | [Equilibrium is Death](https://open.spotify.com/track/4wKAcgfu8DppqP8xfN2VwT) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito Xtended](https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1) | 3:46 |

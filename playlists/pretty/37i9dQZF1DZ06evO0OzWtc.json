@@ -1,13 +1,41 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 1867,
+  "num_followers": 1866,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAADCyRdMQg5JML1YpXc062zP",
+  "snapshot_id": "aB1FgAAAAABzIlAQZ5dKTbhyNBIaWh/9",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mafioso Americano",
+        "url": "https://open.spotify.com/album/0606krUwrFzhgvIzBopq8T"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Tian Glez",
+          "url": "https://open.spotify.com/artist/1D8DPSHgRcnzzHyNFoplMS"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 142501,
+      "name": "Mafioso Americano",
+      "url": "https://open.spotify.com/track/1eFIgq7Wj5cQnDFZ3NfEv8"
+    },
     {
       "added_at": null,
       "album": {

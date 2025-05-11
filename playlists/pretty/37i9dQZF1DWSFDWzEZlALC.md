@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: fyne
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,027 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,167 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 9 | [Swimming Circles \(edit\)](https://open.spotify.com/track/5VPxrumSn6DiLX2VfJ5Kfj) | [FRISO](https://open.spotify.com/artist/4xAMTJFCMfH1AZNQexkYEt) | [Swimming Circles \(edit\)](https://open.spotify.com/album/5w7aQAGOUpRC0pQOLB7OYa) | 3:57 |
 | 10 | [emotional support](https://open.spotify.com/track/3S92kcXT7qeLWwI7cUOk1F) | [PAUL FALC](https://open.spotify.com/artist/0ryxCmymTyz0myAGR4WnC1) | [emotional support](https://open.spotify.com/album/6WRHrZFTjpLMu7Jh69fA5D) | 2:10 |
 | 11 | [Verliebt](https://open.spotify.com/track/1zXKNXhMs4D9ESWx0sok6W) | [Hænsen](https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66) | [Verliebt](https://open.spotify.com/album/2wTNz8rJ8IVufjrd8SCofo) | 2:15 |
-| 12 | [Erdnussallergie](https://open.spotify.com/track/4eBDKj52bjWGqmxiEYkQTp) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [Erdnussallergie](https://open.spotify.com/album/0durMZegCQh5kZ9S3gVtg5) | 1:53 |
+| 12 | [erdnussallergie](https://open.spotify.com/track/4eBDKj52bjWGqmxiEYkQTp) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [erdnussallergie](https://open.spotify.com/album/0durMZegCQh5kZ9S3gVtg5) | 1:53 |
 | 13 | [Tanktop in weiß](https://open.spotify.com/track/1QO6A6YsufugovuDMGnJPf) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [Tanktop in weiß](https://open.spotify.com/album/1buE1NXVYqsOhf7tHivWqT) | 2:48 |
 | 14 | [Ich wär so gern gelenkiger](https://open.spotify.com/track/3gbdZHpBXhe7u5YWyEWAdN) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Ich wär so gern gelenkiger](https://open.spotify.com/album/2m2VQjAMSBDFObPafvuAjy) | 3:12 |
 | 15 | [Liebe Süße Mädchen](https://open.spotify.com/track/5zC4yUKVWiM19AzWsg0T7u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Liebe Süße Mädchen](https://open.spotify.com/album/0YoAxIdKx9MUn2b1quqDGr) | 2:21 |

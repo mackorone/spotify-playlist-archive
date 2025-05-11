@@ -3189,24 +3189,6 @@
     },
     {
       "album": {
-        "name": "Sing, Dance, Party!, Vol. 3",
-        "url": "https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "date_added": "2024-02-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146229,
-      "name": "Muffin Man - Dance Party",
-      "url": "https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya"
-    },
-    {
-      "album": {
         "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
         "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
       },
@@ -5102,6 +5084,24 @@
       "duration_ms": 122906,
       "name": "The Muffin Man - 2012 Version",
       "url": "https://open.spotify.com/track/6au6Hv9BgciDSxHx85k7ut"
+    },
+    {
+      "album": {
+        "name": "Sing, Dance, Party!, Vol. 3",
+        "url": "https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146229,
+      "name": "The Muffin Man - Dance Party Version",
+      "url": "https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya"
     },
     {
       "album": {

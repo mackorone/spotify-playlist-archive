@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 2,212 songs - 4 day 20 hr 36 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 2,213 songs - 4 day 20 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2220,5 +2220,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2210 | [KALE KOPPE](https://open.spotify.com/track/55j8e22tYUmzcS1irWm9d0) | [ALBINO](https://open.spotify.com/artist/0ZEaOlMqKyqXsHuLl3Su9b) | [KALE KOPPE](https://open.spotify.com/album/5MzVZSliKCNMRam8pwIzzO) | 1:53 |
 | 2211 | [Smash!](https://open.spotify.com/track/3p2kipfMbs2D4758dPAGRq) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Mini Motors](https://open.spotify.com/album/4pH7yONPimU85qwYfcif3x) | 2:26 |
 | 2212 | [Best You Ever Had](https://open.spotify.com/track/08acxMzslJdUBNv9HsD8iE) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh) | [Best You Ever Had](https://open.spotify.com/album/58QJwgExmaPdCinbO38CWc) | 2:26 |
+| 2213 | [HARDCORE AMERICAN COWBOY 2.0](https://open.spotify.com/track/1rlbRXFTQwDaZDimbwMZ0K) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [HARDCORE AMERICAN COWBOY 2.0](https://open.spotify.com/album/2HPTamTD6cHROWGdAPlZxR) | 2:13 |
 
-Snapshot ID: `AAAI4N2U8LTaOJEHyY2/YlE4rOoXUREd`
+Snapshot ID: `AAAI4bkDkeiA4ClVhYlSjHl7GZGfx+AK`

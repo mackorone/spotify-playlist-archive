@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request @ spotify.furrest.net
 
-342 songs - 18 hr 3 min
+344 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Korrent City Streets](https://open.spotify.com/track/4GDi16UNFP1jxo5hTjQvMu) | [JAMIEvx](https://open.spotify.com/artist/0gL0yv87B01UdAXjrkjSIP) | [In Flux](https://open.spotify.com/album/0UyM7Rn7PZNt1UghxPvnWE) | 4:33 | 2025-04-03 |  |
 | [Last Knight \(Final Girl\)](https://open.spotify.com/track/4KgcyoJSoDq8FuQsewrvNi) | [Sergeant Hare Apollo](https://open.spotify.com/artist/0KsMGLqXgzIqQp9QWg1PRQ) | [Last Knight \(Final Girl\)](https://open.spotify.com/album/53IpGt3nY72iJFneRIdpJB) | 3:52 | 2024-11-18 |  |
 | [LDR](https://open.spotify.com/track/4cX5v8mjtmvMJivWTJlQE5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 3:02 | 2024-06-15 |  |
+| [liar, liar](https://open.spotify.com/track/65fE7bg2WdZZAxHt4A8JEn) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [set fire to the world](https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK) | 4:17 | 2025-05-10 |  |
 | [LIFE](https://open.spotify.com/track/23Hhl3U1b2FxRMc2zo6IR8) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU), [Filterocity](https://open.spotify.com/artist/3raEjNj1yydwtfhnkJ9PkJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [EQUINOX](https://open.spotify.com/album/2HcUhzatJKAn13ejeI1idU) | 3:37 | 2024-02-09 |  |
 | [likeadrug](https://open.spotify.com/track/1fAVjBTYJqIt3EyYGsVH3h) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:37 | 2025-02-03 |  |
 | [lil boy](https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 2:15 | 2025-01-25 |  |
@@ -327,6 +328,7 @@
 | [Toxic](https://open.spotify.com/track/2B7qk6mt9mSFVrdumESMyO) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Toxic](https://open.spotify.com/album/3GBL08IpIhu6V20iFOa9jF) | 2:48 | 2024-10-31 |  |
 | [trail](https://open.spotify.com/track/6P3FopPSVuqeuKxtkHQzFQ) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [trail](https://open.spotify.com/album/78oCCp2iWSo3zxfllN4JBE) | 2:20 | 2024-04-15 |  |
 | [Trash Talkin'](https://open.spotify.com/track/3kBzzYNNR5T6QRQD7FN6ST) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Trash Talkin'](https://open.spotify.com/album/2eW2mOSWttJQ6of9FhEd26) | 3:43 | 2023-06-14 |  |
+| [turn tail](https://open.spotify.com/track/0ZF8y0kcVWFts8QqL4cZDA) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [set fire to the world](https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK) | 3:58 | 2025-05-10 |  |
 | [Unleashed](https://open.spotify.com/track/3o4nIl4q6Rpcm2PNvKhBJT) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 5:56 | 2024-02-10 |  |
 | [UNMARKETABLE](https://open.spotify.com/track/1GXQG1drYNjW9EmZ60RkLY) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal), [AQUASINE](https://open.spotify.com/artist/77ncj3o51Ng6KaJCp5wTiG) | [UNMARKETABLE](https://open.spotify.com/album/3jG4mLZZsaBBaMVNCKMQkl) | 2:06 | 2024-05-28 |  |
 | [Voices in my head](https://open.spotify.com/track/47q6JbwiwqxIud1FcbbCDm) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi), [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Chapter 2](https://open.spotify.com/album/0EWerXaZCXA5KmMfEKJN2x) | 2:41 | 2024-07-14 |  |

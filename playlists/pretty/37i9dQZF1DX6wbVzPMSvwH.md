@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,453 likes - 85 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,441 likes - 85 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 4 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 |
 | 5 | [Pesan Cinta](https://open.spotify.com/track/41M4whJ2Vy5UV9tvWaVt8B) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:23 |
 | 6 | [PILIHLAH AKU](https://open.spotify.com/track/5WqGqgeknOAmkuucH5ytct) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [PILIHLAH AKU](https://open.spotify.com/album/27CH3SGHz1EpTIsK8zI29c) | 3:09 |
-| 7 | [Hanya Memuji](https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/75eKV8vEiT7mjwSHhLfSNi) | [Hanya Memuji](https://open.spotify.com/album/5WRLsSxz99UFtkLishLcB1) | 3:57 |
+| 7 | [Hanya Memuji](https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Hanya Memuji](https://open.spotify.com/album/5WRLsSxz99UFtkLishLcB1) | 3:57 |
 | 8 | [Serasa X Juwita](https://open.spotify.com/track/4tBWE1YXuLOKalCHyAgRvq) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Serasa X Juwita](https://open.spotify.com/album/7ieS8TtZfUqKCycMTAkPHh) | 6:32 |
 | 9 | [Rima Raga](https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Rima Raga](https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR) | 3:13 |
 | 10 | [Alunan Mimpi](https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Alunan Mimpi](https://open.spotify.com/album/1yAUInJLR2QCL7eUb1htG5) | 4:06 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: \u00c1ngela Aguilar ",
-  "num_followers": 364074,
+  "num_followers": 364120,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-05-02 06:50:17",
       "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 153216,
+      "name": "Nadie Se Va Como Lleg\u00f3",
+      "url": "https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf"
+    },
+    {
+      "added_at": "2025-05-02 06:50:17",
+      "album": {
         "name": "Poco",
         "url": "https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC"
       },
@@ -331,26 +347,6 @@
       "duration_ms": 225705,
       "name": "Poco",
       "url": "https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb"
-    },
-    {
-      "added_at": "2025-05-02 06:50:17",
-      "album": {
-        "name": "Pa' Olvidarme De Ella",
-        "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 227233,
-      "name": "Pa' Olvidarme De Ella",
-      "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
     },
     {
       "added_at": "2025-05-02 06:50:17",
@@ -375,18 +371,22 @@
     {
       "added_at": "2025-05-02 06:50:17",
       "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR"
+        "name": "Pa' Olvidarme De Ella",
+        "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 153216,
-      "name": "Nadie Se Va Como Lleg\u00f3",
-      "url": "https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf"
+      "duration_ms": 227233,
+      "name": "Pa' Olvidarme De Ella",
+      "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
     },
     {
       "added_at": "2025-05-02 06:50:17",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2025-05-02 06:50:17",
       "album": {
-        "name": "El Cigarrillo",
-        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 219411,
-      "name": "El Cigarrillo",
-      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     },
     {
       "added_at": "2025-05-02 06:50:17",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-05-02 06:50:17",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
+        "name": "El Cigarrillo",
+        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
+      "duration_ms": 219411,
+      "name": "El Cigarrillo",
+      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
     },
     {
       "added_at": "2025-05-02 06:50:17",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-05-02 06:50:17",
       "album": {
-        "name": "Gavil\u00e1n o Paloma",
-        "url": "https://open.spotify.com/album/78q7MzI5WqcsUsi0fZp2Bw"
+        "name": "Si Ya Me Enamor\u00e9",
+        "url": "https://open.spotify.com/album/2Owva7mSM0Si15iD6rhRDM"
       },
       "artists": [
         {
-          "name": "Kevin Aguilar",
-          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+          "name": "Jos\u00e9 Esparza",
+          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/1Bex5jXvCsysHyBC6CmHrE"
+      "duration_ms": 167801,
+      "name": "Si Ya Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4zdcnQA7D2xbvZ1bym7jou"
     },
     {
       "added_at": "2025-05-02 06:50:17",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-05-02 06:50:17",
       "album": {
-        "name": "Si Ya Me Enamor\u00e9",
-        "url": "https://open.spotify.com/album/2Owva7mSM0Si15iD6rhRDM"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Esparza",
-          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
-        }
-      ],
-      "duration_ms": 167801,
-      "name": "Si Ya Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4zdcnQA7D2xbvZ1bym7jou"
-    },
-    {
-      "added_at": "2025-05-02 06:50:17",
-      "album": {
         "name": "Los Caminos de la Vida",
         "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 228436,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
+    },
+    {
+      "added_at": "2025-05-02 06:50:17",
+      "album": {
+        "name": "No Creo Merecerte",
+        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "No Creo Merecerte",
+      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
     },
     {
       "added_at": "2025-05-02 06:50:17",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2025-05-02 06:50:17",
       "album": {
-        "name": "No Creo Merecerte",
-        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
+        "name": "Gavil\u00e1n o Paloma",
+        "url": "https://open.spotify.com/album/78q7MzI5WqcsUsi0fZp2Bw"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
         }
       ],
-      "duration_ms": 185853,
-      "name": "No Creo Merecerte",
-      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
+      "duration_ms": 256000,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/1Bex5jXvCsysHyBC6CmHrE"
     },
     {
       "added_at": "2025-05-02 06:50:17",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-05-02 06:50:17",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/22C9ulEE7oDldOCmTtGf5b"
-      },
-      "artists": [
-        {
-          "name": "Kevin Aguilar",
-          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/5HjrFBysgnmOX5McjIykYd"
-    },
-    {
-      "added_at": "2025-05-02 06:50:17",
-      "album": {
         "name": "Todo Me Recuerda A Ti",
         "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2025-05-02 06:50:17",
       "album": {
+        "name": "Vali\u00f3 La Pena Con Mariachi",
+        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Duele Estar Vivo",
+      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
+    },
+    {
+      "added_at": "2025-05-02 06:50:17",
+      "album": {
         "name": "La Caminera",
         "url": "https://open.spotify.com/album/7siwCssx8fWnknViHVzggI"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2025-05-02 06:50:17",
       "album": {
-        "name": "Vali\u00f3 La Pena Con Mariachi",
-        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/22C9ulEE7oDldOCmTtGf5b"
       },
       "artists": [
         {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Duele Estar Vivo",
-      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
+      "duration_ms": 216000,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/5HjrFBysgnmOX5McjIykYd"
     },
     {
       "added_at": "2025-05-02 06:50:17",
@@ -1635,22 +1635,6 @@
       "duration_ms": 173016,
       "name": "X Personas Como T\u00fa",
       "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
-    },
-    {
-      "added_at": "2025-05-02 06:50:17",
-      "album": {
-        "name": "Lo que no fue no ser\u00e1",
-        "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
-      },
-      "artists": [
-        {
-          "name": "Kevin Aguilar",
-          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Lo que no fue no ser\u00e1",
-      "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
     },
     {
       "added_at": "2025-05-02 06:50:17",
@@ -1731,6 +1715,26 @@
       "duration_ms": 140160,
       "name": "Me Vale Madre",
       "url": "https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H"
+    },
+    {
+      "added_at": "2025-05-02 06:50:17",
+      "album": {
+        "name": "Paloma Blanca",
+        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "PALOMA BLANCA",
+      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
     }
   ],
   "unique_name": "Mariachi 2025",

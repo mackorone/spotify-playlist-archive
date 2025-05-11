@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,818 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,837 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 57 | [Campana](https://open.spotify.com/track/7xGzAyF9H4h8CCUbWCzBqt) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Campana](https://open.spotify.com/album/3lUj4RtVOEEyvTm9A4NffE) | 4:48 |
 | 58 | [Tus Labios](https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tus Labios](https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD) | 2:55 |
 | 59 | [Dragona Rmix](https://open.spotify.com/track/1nuf47FxdQrxekJJ8fVndJ) | [Mole](https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Fulo El Yeyo](https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh), [Tot](https://open.spotify.com/artist/5MjQKoeaNFMabcAgJRo0yB), [Kabliz](https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy) | [Dragona Rmix](https://open.spotify.com/album/5zd4HNljt1AJglj9YB6xqV) | 5:40 |
-| 60 | [ALBERTO NAVARRO \(feat\. Danny Yash\)](https://open.spotify.com/track/0jDkzYfkYI5faOTftiqydF) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Yemil](https://open.spotify.com/artist/09C6rf8DemU3fzandnYw8p), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [ALBERTO NAVARRO \(feat\. Danny Yash\)](https://open.spotify.com/album/3eYNNa322PLWcPtua9rOky) | 4:25 |
+| 60 | [ALBERTO NAVARRO \(feat\. Danny Yash\)](https://open.spotify.com/track/0jDkzYfkYI5faOTftiqydF) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [ALBERTO NAVARRO \(feat\. Danny Yash\)](https://open.spotify.com/album/3eYNNa322PLWcPtua9rOky) | 4:25 |
 | 61 | [TUS FALLOS](https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [El Tachi](https://open.spotify.com/artist/18rdlyUjloy7fRK1g62tUt) | [NOW OR NEVER](https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x) | 6:24 |
 | 62 | [La Sesión \#47](https://open.spotify.com/track/3X8NRejOXJ0gKzDC6qVzn6) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Monster](https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa), [Alberto Sandino](https://open.spotify.com/artist/1g7k0SBYc922yRdRPmFg47), [Directed by Karma](https://open.spotify.com/artist/5bgxAPHQ7LSyVnnxsEKxQR) | [La Sesión \#47](https://open.spotify.com/album/3TJh1E1VYtGpOZoJ5XZoBm) | 3:03 |
 | 63 | [Qué Prefieres?](https://open.spotify.com/track/1YEQ5CvZVK9P4PsZY76GK5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Qué Prefieres?](https://open.spotify.com/album/5EswK2NXREOYyhrPk8lXb1) | 3:22 |

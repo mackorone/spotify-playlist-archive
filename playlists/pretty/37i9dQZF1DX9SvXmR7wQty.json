@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: FouKi",
-  "num_followers": 44700,
+  "num_followers": 44704,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,22 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
-        "name": "TOUCH\u00c9",
-        "url": "https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif"
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         },
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 173445,
-      "name": "TOUCH\u00c9",
-      "url": "https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD"
+      "duration_ms": 173538,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
     },
     {
       "added_at": "2025-05-09 04:00:07",
@@ -251,22 +251,22 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ"
+        "name": "TOUCH\u00c9",
+        "url": "https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif"
       },
       "artists": [
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
           "name": "GIMS",
           "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
         }
       ],
-      "duration_ms": 173538,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
+      "duration_ms": 173445,
+      "name": "TOUCH\u00c9",
+      "url": "https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD"
     },
     {
       "added_at": "2025-05-09 04:00:07",
@@ -507,26 +507,6 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "La Pluie",
-      "url": "https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5"
-    },
-    {
-      "added_at": "2025-05-09 04:00:07",
-      "album": {
         "name": "Comment T'aimer Sans Diamants ?",
         "url": "https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 178533,
       "name": "ALICANTE",
       "url": "https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH"
+    },
+    {
+      "added_at": "2025-05-09 04:00:07",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "La Pluie",
+      "url": "https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5"
     },
     {
       "added_at": "2025-05-09 04:00:07",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
+        "name": "On va",
+        "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 144022,
+      "name": "On va",
+      "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
+    },
+    {
+      "added_at": "2025-05-09 04:00:07",
+      "album": {
         "name": "J'avoue",
         "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
-        "name": "On va",
-        "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 144022,
-      "name": "On va",
-      "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
-    },
-    {
-      "added_at": "2025-05-09 04:00:07",
-      "album": {
         "name": "HERMES",
         "url": "https://open.spotify.com/album/1StXBGTd2q23LGN6rQdXlE"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 107868,
       "name": "HERMES",
       "url": "https://open.spotify.com/track/7DZSBDz3YMRWehPTLE1xOs"
-    },
-    {
-      "added_at": "2025-05-09 04:00:07",
-      "album": {
-        "name": "B\u00eatise",
-        "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 165253,
-      "name": "B\u00eatise",
-      "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
     },
     {
       "added_at": "2025-05-09 04:00:07",
@@ -727,22 +711,6 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
-        "name": "Famille",
-        "url": "https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV"
-      },
-      "artists": [
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Cette guerre",
-      "url": "https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ"
-    },
-    {
-      "added_at": "2025-05-09 04:00:07",
-      "album": {
         "name": "Feel Good (Version Acoustique)",
         "url": "https://open.spotify.com/album/5t1ClJpWR3OqXO3hxG7oBz"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 149896,
       "name": "Feel Good - Version Acoustique",
       "url": "https://open.spotify.com/track/2lmYsDvV8grxCcZ2FNi7Wt"
+    },
+    {
+      "added_at": "2025-05-09 04:00:07",
+      "album": {
+        "name": "B\u00eatise",
+        "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "B\u00eatise",
+      "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
+    },
+    {
+      "added_at": "2025-05-09 04:00:07",
+      "album": {
+        "name": "Famille",
+        "url": "https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Cette guerre",
+      "url": "https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ"
     },
     {
       "added_at": "2025-05-09 04:00:07",
@@ -811,6 +811,42 @@
     {
       "added_at": "2025-05-09 04:00:07",
       "album": {
+        "name": "Piments",
+        "url": "https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "duration_ms": 158532,
+      "name": "Piments",
+      "url": "https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt"
+    },
+    {
+      "added_at": "2025-05-09 04:00:07",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
+    },
+    {
+      "added_at": "2025-05-09 04:00:07",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf"
       },
@@ -859,42 +895,6 @@
       "duration_ms": 178293,
       "name": "Amour cyclone",
       "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
-    },
-    {
-      "added_at": "2025-05-09 04:00:07",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
-    },
-    {
-      "added_at": "2025-05-09 04:00:07",
-      "album": {
-        "name": "Piments",
-        "url": "https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX"
-      },
-      "artists": [
-        {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        },
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
-        }
-      ],
-      "duration_ms": 158532,
-      "name": "Piments",
-      "url": "https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt"
     },
     {
       "added_at": "2025-05-09 04:00:07",

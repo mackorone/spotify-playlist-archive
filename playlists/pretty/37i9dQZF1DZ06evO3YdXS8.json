@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 633664,
+  "num_followers": 633744,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAABpQ3WBxa1sSbf4bFCxUdNm",
+  "snapshot_id": "aB1FgAAAAABknq/qSz5Hy3O5ayegGZyn",
   "tracks": [
     {
       "added_at": null,
@@ -331,18 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena",
-        "url": "https://open.spotify.com/album/20b5sD6sxg1PVUasNcZLSe"
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
       "artists": [
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        },
+        {
+          "name": "Alvaro Torres",
+          "url": "https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE"
         }
       ],
-      "duration_ms": 232373,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/4xUQFUSPSJjSbLfmVRsZml"
+      "duration_ms": 284973,
+      "name": "Buenos Amigos",
+      "url": "https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM"
     },
     {
       "added_at": null,
@@ -379,28 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        },
-        {
-          "name": "Alvaro Torres",
-          "url": "https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE"
-        }
-      ],
-      "duration_ms": 284973,
-      "name": "Buenos Amigos",
-      "url": "https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+        "name": "Selena",
+        "url": "https://open.spotify.com/album/20b5sD6sxg1PVUasNcZLSe"
       },
       "artists": [
         {
@@ -408,41 +392,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 148026,
-      "name": "Ven Conmigo",
-      "url": "https://open.spotify.com/track/0R4TBAYYSq1gdEvwNe9aex"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Siempre Hace Frio",
-      "url": "https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 125266,
-      "name": "Amor Prohibido - Live",
-      "url": "https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw"
+      "duration_ms": 232373,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/4xUQFUSPSJjSbLfmVRsZml"
     },
     {
       "added_at": null,
@@ -463,6 +415,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/0R4TBAYYSq1gdEvwNe9aex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 125266,
+      "name": "Amor Prohibido - Live",
+      "url": "https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Siempre Hace Frio",
+      "url": "https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Mejores Canciones: 17 Super Exitos",
-        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4T2lNtytcsuIa3FipR37Wu"
+      "duration_ms": 193693,
+      "name": "Las Cadenas",
+      "url": "https://open.spotify.com/track/0lPQT4BthmWqa6PQPCJTE3"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+        "name": "Mis Mejores Canciones: 17 Super Exitos",
+        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 193693,
-      "name": "Las Cadenas",
-      "url": "https://open.spotify.com/track/0lPQT4BthmWqa6PQPCJTE3"
+      "duration_ms": 228466,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4T2lNtytcsuIa3FipR37Wu"
     },
     {
       "added_at": null,

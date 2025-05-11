@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: theophilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,500 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,510 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 12 | [through others' eyes](https://open.spotify.com/track/4WrioYRb6nwVTYqbf2Juf2) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [through others' eyes](https://open.spotify.com/album/29hdqsJg7hzCUcmMKjwMTD) | 2:50 |
 | 13 | [Everything Everywhere at Once](https://open.spotify.com/track/5qXxXEoDQvkGc0aw4DTEmJ) | [Kleo](https://open.spotify.com/artist/3UvjfeWjJTe7E88iz1dWbc) | [Everything Everywhere at Once](https://open.spotify.com/album/4ySnolM6OMKtRVbCs3FFXf) | 2:44 |
 | 14 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 |
-| 15 | [Summer Kissin´](https://open.spotify.com/track/0en8lR3jKVZdtu2udzmDyV) | [Pom Femme](https://open.spotify.com/artist/7Fq7iZTu4VF5SQwtdsGOd0) | [Summer Kissin´](https://open.spotify.com/album/3gaGXaUClbB7il3dvnE9Md) | 3:26 |
+| 15 | [Summer Kissin'](https://open.spotify.com/track/0en8lR3jKVZdtu2udzmDyV) | [Pom Femme](https://open.spotify.com/artist/7Fq7iZTu4VF5SQwtdsGOd0) | [Summer Kissin'](https://open.spotify.com/album/3gaGXaUClbB7il3dvnE9Md) | 3:26 |
 | 16 | [Not Coming Home Tonight](https://open.spotify.com/track/5EXdjIdKwDZbL1YME5sgqN) | [Adam Seuba](https://open.spotify.com/artist/7hLLarNo36ZfaThr01L6XV) | [Not Coming Home Tonight](https://open.spotify.com/album/39Vdd4qxvHyKP6RxKaqRuB) | 3:30 |
 | 17 | [MISS ME](https://open.spotify.com/track/2M4CkwOClFTWSjv5cndkWq) | [Nellie Drené](https://open.spotify.com/artist/2UYVoGUWe4w4ctQvYikm7W) | [MISS ME](https://open.spotify.com/album/6KQqofHnF3ZW6z5rV2kiVQ) | 2:36 |
 | 18 | [COLD COFFEE](https://open.spotify.com/track/6y8hcUBRDmi37Ru73ulOoP) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [COLD COFFEE](https://open.spotify.com/album/4k1YrKRfvj6ky2oljlqk71) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,025 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,129 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 63 | [Grace after Grace](https://open.spotify.com/track/5h3Zp8z3UP5zqsuUIFgHRf) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls), [Kenny J West](https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb) | [Grace after Grace](https://open.spotify.com/album/14lJlizbzXdtC2nrS0nR5O) | 4:13 |
 | 64 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 |
 | 65 | [Foolish & Ruined](https://open.spotify.com/track/6C1b3QYgIwHUxt8if271fg) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL) | [Foolish & Ruined](https://open.spotify.com/album/1VTMJQrkPyGoAguXMSc3nK) | 4:59 |
-| 66 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 |
-| 67 | [Who May Ascend](https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo) | [Cross Church Worship](https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO) | [Who May Ascend](https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG) | 4:56 |
+| 66 | [Who May Ascend](https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo) | [Cross Church Worship](https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO) | [Who May Ascend](https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG) | 4:56 |
+| 67 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 |
 | 68 | [Better Plan](https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Better Plan](https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i) | 3:58 |
 | 69 | [You Never Break a Promise](https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [You Never Break a Promise](https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA) | 5:37 |
 | 70 | [I Need You](https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV) | [Momentum Music](https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt) | [I Need You](https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA) | 6:27 |
 | 71 | [Go With Me](https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Go With Me](https://open.spotify.com/album/4At1FoRpKILlQScRac9B65) | 4:25 |
 | 72 | [Let Go](https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ) | [Faith Rose](https://open.spotify.com/artist/364y53omHupjImsnsOJkpp) | [Let Go](https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz) | 3:49 |
 | 73 | [King of Eternity](https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde) | [LW Music](https://open.spotify.com/artist/3ZdJUwiDYcaTuQLfNyFfiG), [Garett Serban](https://open.spotify.com/artist/1rz9mPKs2EP0o8R8lbubqj), [Nixaide Lopez](https://open.spotify.com/artist/4hVgOOca8r8vQaYtrX0JMx) | [King of Eternity](https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq) | 6:48 |
-| 74 | [Holy Here and Now](https://open.spotify.com/track/3K13jFO8mWf23paD3GlQ8U) | [Sophia Rebekah Mitchell](https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f) | [Holy Here and Now](https://open.spotify.com/album/2SMEwcH1DRXJPyAqzGP91i) | 4:07 |
-| 75 | [It Goes Both Ways](https://open.spotify.com/track/61agJFeawepC25zhwZgP5Y) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [It Goes Both Ways](https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8) | 3:42 |
+| 74 | [It Goes Both Ways](https://open.spotify.com/track/61agJFeawepC25zhwZgP5Y) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [It Goes Both Ways](https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8) | 3:42 |
+| 75 | [Holy Here and Now](https://open.spotify.com/track/3K13jFO8mWf23paD3GlQ8U) | [Sophia Rebekah Mitchell](https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f) | [Holy Here and Now](https://open.spotify.com/album/2SMEwcH1DRXJPyAqzGP91i) | 4:07 |
 | 76 | [Before You](https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ) | [Before You](https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE) | 4:21 |
 | 77 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 |
 | 78 | [peacefully](https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [peacefully](https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI) | 2:01 |

@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Studio Murena
 
-522 songs - 1 day 15 hr 18 min
+523 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Anastasia](https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn) | [Stefano Di Battista](https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK) | [Stefano Di Battista](https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP) | 5:10 | 2024-04-26 | 2025-05-06 |
 | [Anastasia](https://open.spotify.com/track/0qBYNE6tgJFT0RxOSGREqU) | [Stefano Di Battista](https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK) | [round about roma](https://open.spotify.com/album/0IJrtsaMdNd4EP108yCOWJ) | 6:37 | 2023-06-04 | 2023-09-18 |
 | [Animo](https://open.spotify.com/track/0wD0jc5NYktDpYznv8pFCj) | [Ivan Segreto](https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19) | [Integra](https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz) | 5:30 | 2023-01-30 | 2023-06-05 |
+| [Another Day with Another Sun](https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [Notturno](https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw) | 3:17 | 2025-05-08 |  |
 | [Aperture](https://open.spotify.com/track/3lFSMND54Kqc6sVBBlqHkC) | [Collettivo Immaginario](https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM), [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2) | [Trasforma](https://open.spotify.com/album/2pvJyykDcs2tm0SucmDsmV) | 3:26 | 2024-03-28 | 2024-04-19 |
 | [Aperture](https://open.spotify.com/track/6rKtQFk8Lbz2QDD3Jpssn5) | [Collettivo Immaginario](https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM), [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2), [Alberto Lincetto](https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62), [Nicolò Masetto](https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq) | [Aperture](https://open.spotify.com/album/6SsRFfNQHautbq2pQHT3Gm) | 3:26 | 2022-11-02 | 2022-12-06 |
 | [Apollo](https://open.spotify.com/track/5He69pTQbuYxEoyLUP9HTg) | [Lorenzo Cominoli](https://open.spotify.com/artist/6tPpbEcC7fLPHTXNiYUvfR) | [Lem](https://open.spotify.com/album/6kax3ZJbeKMaGvVAvqcVu1) | 2:10 | 2023-01-30 | 2023-06-05 |
@@ -340,7 +341,7 @@
 | [My Heart in a Song](https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Simona Severini](https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l) | [My Songbook](https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E) | 5:40 | 2022-09-30 | 2025-05-09 |
 | [My Way](https://open.spotify.com/track/3XJC0d3Yo0y17ZtOlOdC3P) | [Chiara Civello](https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk) | [Chansons](https://open.spotify.com/album/7d6I7tR73f3smXLcKQNgF9) | 5:11 | 2022-09-30 |  |
 | [Na Minha Casa Mais Uma Vez](https://open.spotify.com/track/48uyu04YowGIg4uXb4k8qq) | [Francesca Corrias](https://open.spotify.com/artist/5CVqFDtjtfBpFIvtBIX4Kf) | [Songshine](https://open.spotify.com/album/0IElVERB2Ht5dsxhkOEeYO) | 5:57 | 2023-01-30 | 2023-06-05 |
-| [Napule È](https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9) | [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0) | [Senza Fine](https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3) | 2:17 | 2024-04-26 |  |
+| [Napule È](https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9) | [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0) | [Senza Fine](https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3) | 2:17 | 2024-04-26 | 2025-05-11 |
 | [Natale](https://open.spotify.com/track/4xM4ctOb3WswWUQzutFh1P) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [De Gregori](https://open.spotify.com/album/7lXs5nwf9uayxVnjDqB16J) | 2:35 | 2022-12-05 | 2023-02-01 |
 | [Natale 'Nzieme A Tte](https://open.spotify.com/track/4MgpGgFdetliH20e3NWgwt) | [Roberto Murolo](https://open.spotify.com/artist/4Y7fW86VPX4T4Ojio2fQCm) | [Natale Napoletano: Christmas In Italy \(2022 Remaster\)](https://open.spotify.com/album/4Z9LTLb1IQRK3qHLIqLPg1) | 2:18 | 2022-12-05 | 2023-02-01 |
 | [Natale allo zenzero](https://open.spotify.com/track/0YAzTMg2rOv7FbkbBJSDo2) | [Elio e le Storie Tese](https://open.spotify.com/artist/61r4cE4aoOD50wPNhQ5fF7) | [Baffo Natale Compilation \(Le canzoni di Natale di Radio Deejay\)](https://open.spotify.com/album/4GBKwwtQlTOF8GJfaht7Mz) | 4:31 | 2022-12-05 | 2023-02-01 |

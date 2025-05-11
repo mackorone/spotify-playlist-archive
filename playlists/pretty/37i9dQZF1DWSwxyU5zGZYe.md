@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,296 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,314 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 6 | [Tumhare Hi Rahenge Hum \- Unplugged](https://open.spotify.com/track/1BnXYmT4IC7sOxHWuhd4eR) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Tumhare Hi Rahenge Hum \- Unplugged](https://open.spotify.com/album/7ElxCKoUQWNuVxanJDgvpB) | 1:19 |
 | 7 | [Channa Mereya \- Unplugged](https://open.spotify.com/track/0xHvmWCpz9Pnn1sDvRehAs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 2:45 |
 | 8 | [O'Meri Laila \- Radio Version](https://open.spotify.com/track/0w82o6lVX8ENxGjWBecP4D) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v) | [Laila Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO) | 3:11 |
-| 9 | [Sanam Teri Kasam \- Reprise](https://open.spotify.com/track/2IKGt4VWUSmN7VdsZxH2FX) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Sameer Anjaan](https://open.spotify.com/artist/7KQ4t4Fvxcfcb0pzJFFN7W) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D) | 4:56 |
+| 9 | [Sanam Teri Kasam \- Reprise](https://open.spotify.com/track/2IKGt4VWUSmN7VdsZxH2FX) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D) | 4:56 |
 | 10 | [Rozana](https://open.spotify.com/track/1mYcukuz7uow0wc7DmPXHU) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Rozana \(From "Naam Shabana"\)](https://open.spotify.com/album/6QsWVJu3QawRgoAgUH9QX5) | 4:34 |
 | 11 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6sfVSlvCl5evgokuWNrHbE) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/4AyGMWLHvkZiBniFBvTw8F) | 4:00 |
 | 12 | [Shayad \(Film Version\) \- From "Love Aaj Kal"](https://open.spotify.com/track/72s1xrc7E27aATdCMbFMC6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Shayad \(Film Version\) \[From "Love Aaj Kal"\]](https://open.spotify.com/album/3IbTgvx8roeABgl7i4d2TV) | 4:05 |

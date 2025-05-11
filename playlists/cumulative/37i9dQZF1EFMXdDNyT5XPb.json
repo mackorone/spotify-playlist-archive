@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/2jYKPul21QiYqfFFfyO3KI"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152459,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/72na5hu1cHuifzVAPmYCLj"
+    },
+    {
+      "album": {
         "name": "Coffee (Give Me Something)",
         "url": "https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe"
       },

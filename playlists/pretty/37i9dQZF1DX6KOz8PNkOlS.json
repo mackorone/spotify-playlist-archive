@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 554148,
+  "num_followers": 554271,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-04-25 08:07:44",
       "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+    },
+    {
+      "added_at": "2025-04-25 08:07:44",
+      "album": {
         "name": "Too Good (Unknown Mortal Orchestra Remix)",
         "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 235005,
       "name": "Too Good - Unknown Mortal Orchestra Remix",
       "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
-    },
-    {
-      "added_at": "2025-04-25 08:07:44",
-      "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
       "added_at": "2025-04-25 08:07:44",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-04-25 08:07:44",
       "album": {
-        "name": "Acts of Faith",
-        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 434758,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
-    },
-    {
-      "added_at": "2025-04-25 08:07:44",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/11FqXtXViQ1XZ5s2NaFEOJ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 341345,
       "name": "For My Ladies",
       "url": "https://open.spotify.com/track/1GOiGHZpvVIwIXqmXVwvCy"
+    },
+    {
+      "added_at": "2025-04-25 08:07:44",
+      "album": {
+        "name": "Acts of Faith",
+        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
     },
     {
       "added_at": "2025-04-25 08:07:44",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-04-25 08:07:44",
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
-    },
-    {
-      "added_at": "2025-04-25 08:07:44",
-      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 173774,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
+    },
+    {
+      "added_at": "2025-04-25 08:07:44",
+      "album": {
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": "2025-04-25 08:07:44",
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-04-25 08:07:44",
       "album": {
-        "name": "Notes from a Quiet Life",
-        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
         }
       ],
-      "duration_ms": 176049,
-      "name": "Wait on You",
-      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
+      "duration_ms": 182710,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
     },
     {
       "added_at": "2025-04-25 08:07:44",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-04-25 08:07:44",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
+        "name": "Notes from a Quiet Life",
+        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
       },
       "artists": [
         {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 182710,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
+      "duration_ms": 176049,
+      "name": "Wait on You",
+      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
     },
     {
       "added_at": "2025-04-25 08:07:44",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-04-25 08:07:44",
       "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Run A Red Light",
-      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
-    },
-    {
-      "added_at": "2025-04-25 08:07:44",
-      "album": {
         "name": "ocean tales",
         "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
+    },
+    {
+      "added_at": "2025-04-25 08:07:44",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Run A Red Light",
+      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
     },
     {
       "added_at": "2025-04-25 08:07:44",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-04-25 08:07:44",
       "album": {
+        "name": "Marci",
+        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
+      },
+      "artists": [
+        {
+          "name": "Marci",
+          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
+        }
+      ],
+      "duration_ms": 209873,
+      "name": "Immaterial Girl",
+      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
+    },
+    {
+      "added_at": "2025-04-25 08:07:44",
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 228786,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
-    },
-    {
-      "added_at": "2025-04-25 08:07:44",
-      "album": {
-        "name": "Marci",
-        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
-      },
-      "artists": [
-        {
-          "name": "Marci",
-          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
-        }
-      ],
-      "duration_ms": 209873,
-      "name": "Immaterial Girl",
-      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
     },
     {
       "added_at": "2025-04-25 08:07:44",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-04-25 08:07:44",
       "album": {
-        "name": "L\u00f8veskatt",
-        "url": "https://open.spotify.com/album/4brikg7YkZMYyXuIIQptE1"
-      },
-      "artists": [
-        {
-          "name": "Ora the Molecule",
-          "url": "https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m"
-        }
-      ],
-      "duration_ms": 287185,
-      "name": "L\u00f8veskatt",
-      "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
-    },
-    {
-      "added_at": "2025-04-25 08:07:44",
-      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 228213,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
+    },
+    {
+      "added_at": "2025-04-25 08:07:44",
+      "album": {
+        "name": "L\u00f8veskatt",
+        "url": "https://open.spotify.com/album/4brikg7YkZMYyXuIIQptE1"
+      },
+      "artists": [
+        {
+          "name": "Ora the Molecule",
+          "url": "https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m"
+        }
+      ],
+      "duration_ms": 287185,
+      "name": "L\u00f8veskatt",
+      "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
     },
     {
       "added_at": "2025-04-25 08:07:44",

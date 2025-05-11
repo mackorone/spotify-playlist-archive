@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: CHYL
 
-808 songs - 1 day 19 hr 59 min
+809 songs - 1 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [TALKIN](https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm) | [TALKIN](https://open.spotify.com/album/6ouZexiJDA9fkh9pEvqX9V) | 3:50 | 2022-01-14 | 2022-03-18 |
 | [Talking To Myself](https://open.spotify.com/track/32cyCuTxU5R0AKl4eP8RmF) | [Vanrip](https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl) | [Talking To Myself](https://open.spotify.com/album/6sjoh5VtzLxBw7y13KHy0b) | 3:04 | 2022-10-07 | 2022-12-17 |
 | [TECHNO N' BASS](https://open.spotify.com/track/3eC5zOfHgLYK2FYv8ObvMC) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [TECHNO N' BASS](https://open.spotify.com/album/7yiVNFSI7HBuHpgt6FUUqk) | 2:33 | 2024-12-06 | 2025-01-18 |
+| [Telepathy](https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA) | [Telepathy](https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np) | 3:44 | 2025-05-09 |  |
 | [Tell It To My Heart \(feat\. Hozier\) \- Tiësto Remix](https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Tell It To My Heart \(Tiësto Remix\)](https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30) | 2:55 | 2022-01-21 | 2022-04-29 |
 | [Tell That Boy](https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Tell That Boy](https://open.spotify.com/album/1pQODgWcJzz8oUoucbos1R) | 3:34 | 2023-10-27 | 2024-04-28 |
 | [TEQUILA](https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [TEQUILA](https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB) | 3:03 | 2023-12-01 | 2024-04-02 |
@@ -790,7 +791,7 @@
 | [We Make It Pop](https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [We Make It Pop](https://open.spotify.com/album/1xSKqKJAjZseHGYhBnVXgw) | 2:16 | 2022-08-19 | 2022-12-17 |
 | [What Is Life \(feat\. rhys from the sticks\)](https://open.spotify.com/track/7bqV6hzUmA5PoGV8ajAKlb) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [What Is Life](https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU) | 5:43 | 2024-10-11 | 2024-11-19 |
 | [What You Got](https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [What You Got](https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh) | 2:40 | 2023-04-28 | 2024-03-09 |
-| [Where You Are \- Gorgon City Remix](https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Where You Are \(Gorgon City Remix\)](https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg) | 4:42 | 2023-06-30 |  |
+| [Where You Are \- Gorgon City Remix](https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Where You Are \(Gorgon City Remix\)](https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg) | 4:42 | 2023-06-30 | 2025-05-11 |
 | [Who I Am](https://open.spotify.com/track/4mr00M5jfoSwK4oCUzCISj) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Who I Am](https://open.spotify.com/album/544B3hUGZ39KuHoZXeWWD1) | 3:48 | 2022-01-14 | 2022-01-22 |
 | [Who U With](https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f), [rrotik](https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd), [Killa Kela](https://open.spotify.com/artist/6xus0aGb1MipQik7XcSX82) | [Who U With](https://open.spotify.com/album/1waUr0RXjEInyT5ogwL7no) | 2:41 | 2022-06-03 | 2022-10-01 |
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-03-20 |

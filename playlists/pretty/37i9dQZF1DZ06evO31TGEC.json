@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50256,
+  "num_followers": 50265,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAADa51krEFAj3YB5Q2T4lLeI",
+  "snapshot_id": "aB1FgAAAAADPm4M1mXklIPbB4xeBZ/gF",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 166013,
-      "name": "Amarla Es Un Placer",
-      "url": "https://open.spotify.com/track/1ScJFneDCKEgFFcq4rsMt1"
+      "duration_ms": 152960,
+      "name": "T\u00fa, Yo Y La Luna",
+      "url": "https://open.spotify.com/track/37Pq9KiFf4jMkIXXra7Jbt"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 152960,
-      "name": "T\u00fa, Yo Y La Luna",
-      "url": "https://open.spotify.com/track/37Pq9KiFf4jMkIXXra7Jbt"
+      "duration_ms": 166013,
+      "name": "Amarla Es Un Placer",
+      "url": "https://open.spotify.com/track/1ScJFneDCKEgFFcq4rsMt1"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apasionado (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
-      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 206133,
       "name": "Bendito Amor",
       "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apasionado (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
+      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 191796,
       "name": "Le Dire Que Me Gusta",
       "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
     },
     {
       "added_at": null,

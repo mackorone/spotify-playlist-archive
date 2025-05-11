@@ -588,7 +588,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 177004,
       "name": "Bianca Er Back (feat. Bianca)",
       "url": "https://open.spotify.com/track/54kEhATVPeurJxcU4Wor11"
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 150000,
       "name": "Lilli Bendriss",
       "url": "https://open.spotify.com/track/1dpRxwygh80Vgb2QiEl2j4"
@@ -4511,6 +4511,28 @@
     },
     {
       "album": {
+        "name": "So cool",
+        "url": "https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222546,
+      "name": "So cool",
+      "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
+    },
+    {
+      "album": {
         "name": "Sommerfl\u00f8rt",
         "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
       },
@@ -4639,7 +4661,7 @@
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 141000,
+      "duration_ms": 142660,
       "name": "St. Tropez",
       "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
     },
@@ -5296,6 +5318,28 @@
       "duration_ms": 177571,
       "name": "Tur i oturen",
       "url": "https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K"
+    },
+    {
+      "album": {
+        "name": "T\u00c6T P\u00c5 (feat. Delara)",
+        "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "T\u00c6T P\u00c5 (feat. Delara)",
+      "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Kean Kavanagh
 
-718 songs - 1 day 16 hr 43 min
+719 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Baby Don't Cry](https://open.spotify.com/track/0fq4yVxkZbu59JiCe5zeFZ) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Baby Don't Cry](https://open.spotify.com/album/6MYBlQZe66fp8R7npEl9xZ) | 3:57 | 2021-10-15 | 2022-08-19 |
 | [Backseat Banton](https://open.spotify.com/track/4thz5RjPS2PuONIaK4u2TQ) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:31 | 2025-03-27 |  |
 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 | 2024-10-03 |  |
-| [BAD GUY](https://open.spotify.com/track/5s3FTdUcbj4tgDorkwHQBy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BAD GUY](https://open.spotify.com/album/3hCHdkTOHV5i3Wg7PRHkbM) | 3:36 | 2025-02-21 |  |
+| [BAD GUY](https://open.spotify.com/track/5s3FTdUcbj4tgDorkwHQBy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BAD GUY](https://open.spotify.com/album/3hCHdkTOHV5i3Wg7PRHkbM) | 3:36 | 2025-02-21 | 2025-05-11 |
 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 | 2022-04-01 | 2022-08-19 |
 | [Bad Love](https://open.spotify.com/track/3MEYOBGJlvDgG99hSKIDQH) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Bad Love](https://open.spotify.com/album/0lUqvNrhKRtU5OlPPcqXr0) | 2:30 | 2022-02-14 | 2022-07-29 |
 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2021-08-04 | 2022-04-02 |
@@ -109,6 +109,7 @@
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-12 | 2024-07-15 |
 | [Bucket](https://open.spotify.com/track/0JG0YbmFnSDZtLfkM89zTf) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Bucket](https://open.spotify.com/album/3m9D0jKVo6ePClPxHnaPKS) | 2:59 | 2024-03-15 | 2024-06-23 |
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2024-12-06 |  |
+| [Bugs](https://open.spotify.com/track/40UBd76lFOA4A9LIj92D8M) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bugs](https://open.spotify.com/album/69uHXZDySbtOqJTlM3J0pr) | 3:57 | 2025-05-01 |  |
 | [Building 650](https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Building 650](https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK) | 3:51 | 2025-01-17 | 2025-04-17 |
 | [Burn](https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Burn](https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0) | 3:57 | 2025-05-01 |  |
 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-12 |  |

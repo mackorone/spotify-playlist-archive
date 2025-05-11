@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,534 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,536 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 41 | [Juntos Somos Mas](https://open.spotify.com/track/1pJia6Nw9TNRs71V2R7fKT) | [Mercedes Lambre](https://open.spotify.com/artist/6LIY7Ni8uMsuVOKZq4iNPh), [Lodovica Comello](https://open.spotify.com/artist/1vANzzDo9L1ZyCKJaYQQvq), [Candelaria Molfese](https://open.spotify.com/artist/3QHfoNHT7vrSZX2XatyEsy), [Facundo Gambandé](https://open.spotify.com/artist/2yB4FfJdqlQ4UGVuZNTemG), [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD), [Nick Garnier](https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy), [Rodrigo Velilla](https://open.spotify.com/artist/625j5WP6f7bEtBOu0StmKv) | [Violetta](https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS) | 2:57 |
 | 42 | [Los Numeros](https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:59 |
 | 43 | [Cocinar](https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 1:37 |
-| 44 | [Sana Sana](https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu Vol\. 2](https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U) | 2:32 |
-| 45 | [Feliz En Tu Día](https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 1:38 |
+| 44 | [Feliz En Tu Día](https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 1:38 |
+| 45 | [Sana Sana](https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu Vol\. 2](https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U) | 2:32 |
 | 46 | [Manos Divertidas](https://open.spotify.com/track/3UXhQNMTVMZBE2Bkej9owC) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 2:02 |
 | 47 | [Vacaciones tope guay](https://open.spotify.com/track/4tOdiwIqwF9wSp2hM4KnST) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Vacaciones tope guay](https://open.spotify.com/album/0Y2c1pfdLGtl1u4d32G7pf) | 3:29 |
 | 48 | [Las mañanitas](https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 1:12 |

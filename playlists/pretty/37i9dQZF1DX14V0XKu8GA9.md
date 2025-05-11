@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Peysoh
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,575 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,620 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 12 | [Trap Bout it](https://open.spotify.com/track/3PnfLc41TAZJDdjnrArMuZ) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Trap Bout it](https://open.spotify.com/album/4JR2wdoilfwZ08gGZj8qXU) | 2:45 |
 | 13 | [Drop Top Down](https://open.spotify.com/track/4MVuezmJ0vh071qLHWEeTO) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Drop Top Down](https://open.spotify.com/album/2EkJsPsm2ZgYQrTD2Tqvp1) | 3:57 |
 | 14 | [Re\-Up](https://open.spotify.com/track/3Ha1Kj4Kr7Jyt6iQKKQObo) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Cactus Boyz CBE](https://open.spotify.com/artist/7FGIrOzKTac5wU60Dj4Cyj), [TK RUN IT UP](https://open.spotify.com/artist/2nmXKh1URuUD1DaIoWJ9ww) | [Re\-Up](https://open.spotify.com/album/1OWZav2xsNGv7rMZNQoGSQ) | 2:53 |
-| 15 | [Heavens Above \(My Angel\)](https://open.spotify.com/track/2N4hIFZ7md1kP5Ekts4RIG) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Heavens Above \(My Angel\)](https://open.spotify.com/album/2IosEc26m00LIquMx6GdtH) | 3:18 |
+| 15 | [HEAVENS ABOVE \(MY ANGEL\)](https://open.spotify.com/track/2N4hIFZ7md1kP5Ekts4RIG) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [HEAVENS ABOVE \(MY ANGEL\)](https://open.spotify.com/album/2IosEc26m00LIquMx6GdtH) | 3:18 |
 | 16 | [Call My Bluff](https://open.spotify.com/track/2xO6getZ1yBp6ae5CTt8te) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Call My Bluff](https://open.spotify.com/album/40AfyjD9TO9rZCUer25mfy) | 3:14 |
 | 17 | [Goodbye](https://open.spotify.com/track/7aebAsh8n99WGxDZbeV0jL) | [Karlaaa](https://open.spotify.com/artist/0lCjXVMo21Jb79tBcVoSr1), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Goodbye](https://open.spotify.com/album/0R3WzwnPODjbORMX4Eg7Rb) | 2:22 |
 | 18 | [Bad Luck](https://open.spotify.com/track/4ujUMbeLNce81m8DFLQJOd) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Bad Luck](https://open.spotify.com/album/2tSd3FEYn59AFkpkQ41cJB) | 2:31 |

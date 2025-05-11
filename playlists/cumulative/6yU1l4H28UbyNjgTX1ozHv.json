@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 204796,
       "name": "Landslide - Acoustic",
       "url": "https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt"
@@ -3945,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "Sweet Child O' Mine",
+        "url": "https://open.spotify.com/album/4siAdCXWrND8XwIbEVVOcO"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/1Zfwf5Sj6hTzFt7dLrdlCu"
+    },
+    {
+      "album": {
         "name": "Sweet Child O' Mine (Acoustic)",
         "url": "https://open.spotify.com/album/75TC3uieZuC99RUFzZazo2"
       },
@@ -4108,6 +4126,24 @@
       "duration_ms": 218542,
       "name": "The Best - Acoustic",
       "url": "https://open.spotify.com/track/7MkQ4oVMEsF3boi4hsajDG"
+    },
+    {
+      "album": {
+        "name": "The Lady In Red",
+        "url": "https://open.spotify.com/album/30H8Xm5PzpxpPIDyESoGsB"
+      },
+      "artists": [
+        {
+          "name": "Kevin Simm",
+          "url": "https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246662,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/18Lc5luPtdEN5dr3QoYA5l"
     },
     {
       "album": {

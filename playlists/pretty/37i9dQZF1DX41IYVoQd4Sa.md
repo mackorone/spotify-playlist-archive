@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : נגה ארז
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,912 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,919 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 23 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |
 | 24 | [DUMB \(AATM\) \- Live](https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [DUMB \(AATM\) \[Live\]](https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM) | 2:29 |
 | 25 | [ביקור מולדת](https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [ביקור מולדת](https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4) | 4:05 |
-| 26 | [זה בדיוק מה שאתה אוהב](https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/52Y7nq83AIKf2FRcEA1UtP) | 3:00 |
-| 27 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
+| 26 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
+| 27 | [זה בדיוק מה שאתה אוהב](https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/52Y7nq83AIKf2FRcEA1UtP) | 3:00 |
 | 28 | [הכי אוהב אותי](https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [הכי אוהב אותי](https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C) | 2:30 |
 | 29 | [מודה אני](https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic) | [Safe Space Sessions](https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg), [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [מרחב מוגן](https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X) | 4:39 |
-| 30 | [Running Out of Time](https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH) | [Running Out of Time](https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW) | 3:00 |
-| 31 | [אלבי](https://open.spotify.com/track/0uL2TjyNqgBgbXIxzqcv9y) | [Sivan Talmor](https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd) | [אלבי](https://open.spotify.com/album/2LgPeo7Kk22ksXeNO5AA8R) | 3:26 |
-| 32 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
-| 33 | [Caviar](https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Caviar](https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ) | 4:06 |
+| 30 | [Caviar](https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Caviar](https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ) | 4:06 |
+| 31 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
+| 32 | [אלבי](https://open.spotify.com/track/0uL2TjyNqgBgbXIxzqcv9y) | [Sivan Talmor](https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd) | [אלבי](https://open.spotify.com/album/2LgPeo7Kk22ksXeNO5AA8R) | 3:26 |
+| 33 | [Running Out of Time](https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH) | [Running Out of Time](https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW) | 3:00 |
 | 34 | [לגלגל את זה הלאה](https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [אירוע מתגלגל](https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF) | 4:19 |
 | 35 | [שמש קטנה](https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy) | [Aviv Guedj](https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT) | [שמש קטנה](https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt) | 4:23 |
 | 36 | [משהו לתת](https://open.spotify.com/track/4AhPbFtFCfAQfWYmGHOGFi) | [Anat Malamud](https://open.spotify.com/artist/34VgaC3eefsp2SoNFU4cZQ) | [יתגלה האור](https://open.spotify.com/album/31czfHaWu4Gt5MtOqECw9G) | 3:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 46 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
 | 47 | [שבתות וחגים](https://open.spotify.com/track/2st7mVorFZpOBrZEzeIt7a) | [Eran Tzur](https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY), [Korin Allal](https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7) | [סימנים מקדימים](https://open.spotify.com/album/3mPB7mDLvFypbUpMDX7FEd) | 4:25 |
 | 48 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
-| 49 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 |
-| 50 | [עוד יום](https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Nir Shlomo](https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef) | [עוד יום](https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr) | 3:08 |
+| 49 | [עוד יום](https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Nir Shlomo](https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef) | [עוד יום](https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr) | 3:08 |
+| 50 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 |
 
 Snapshot ID: `aB0bXQAAAAC+VytMgusGe9AMZWH+LBGz`

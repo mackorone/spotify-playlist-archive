@@ -1,13 +1,29 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 644288,
+  "num_followers": 644431,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAACpztISnB8YaUZ8z0OqfjKb",
+  "snapshot_id": "aB1FgAAAAAB1f9ENkE2LO4chAsD0l78h",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self-Inflicted",
+        "url": "https://open.spotify.com/album/3tDWZZXcpKIKzX35WsqbVT"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 87377,
+      "name": "Self-Inflicted",
+      "url": "https://open.spotify.com/track/3nG2tQJ7wFJ72mfrYifTLP"
+    },
     {
       "added_at": null,
       "album": {
@@ -367,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7th or St. Tammany",
-        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 144242,
-      "name": "Drugs/Hoes/Money/Etc.",
-      "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radical $uicide",
         "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 122253,
       "name": "Memoirs of a Gorilla",
       "url": "https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7th or St. Tammany",
+        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 144242,
+      "name": "Drugs/Hoes/Money/Etc.",
+      "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
     },
     {
       "added_at": null,
@@ -539,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+        "name": "GERM HAS A DEATHWISH",
+        "url": "https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23"
       },
       "artists": [
+        {
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
+        },
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 165970,
-      "name": "The Number You Have Dialed Is Not in Service",
-      "url": "https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh"
+      "duration_ms": 109898,
+      "name": "AWKWARD CAR DRIVE",
+      "url": "https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx"
     },
     {
       "added_at": null,
@@ -571,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GERM HAS A DEATHWISH",
-        "url": "https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23"
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
       },
       "artists": [
-        {
-          "name": "Germ",
-          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
-        },
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 109898,
-      "name": "AWKWARD CAR DRIVE",
-      "url": "https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx"
+      "duration_ms": 165970,
+      "name": "The Number You Have Dialed Is Not in Service",
+      "url": "https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh"
     },
     {
       "added_at": null,
@@ -643,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radical $uicide",
+        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        }
+      ],
+      "duration_ms": 116114,
+      "name": "Champion of Death",
+      "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KILL YOURSELF Part IX: The Soulseek Saga",
         "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
       },
@@ -671,26 +707,6 @@
       "duration_ms": 153808,
       "name": "Clouds as Witnesses",
       "url": "https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radical $uicide",
-        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        }
-      ],
-      "duration_ms": 116114,
-      "name": "Champion of Death",
-      "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YUNGDEATHLILLIFE",
-        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "LTE",
-      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
         "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 134962,
       "name": "Audubon",
       "url": "https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YUNGDEATHLILLIFE",
+        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "LTE",
+      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
     },
     {
       "added_at": null,
@@ -831,26 +847,6 @@
       "duration_ms": 106340,
       "name": "What the Fuck is Happening",
       "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DIRTIESTNASTIEST$UICIDE",
-        "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Germ",
-          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
-        }
-      ],
-      "duration_ms": 140288,
-      "name": "Champagne Face",
-      "url": "https://open.spotify.com/track/1UsvO5U72YRU8Xnq8Lp14O"
     }
   ],
   "unique_name": "This Is $uicideboy$",

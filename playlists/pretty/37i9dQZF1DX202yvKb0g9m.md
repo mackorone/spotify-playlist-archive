@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,171 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,220 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 18 | [Miserablism](https://open.spotify.com/track/20GBfHqwta4csdKTDVjZ9F) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Alternative](https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw) | 4:10 |
 | 19 | [The Smell Of Suds And Steel](https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Qualm](https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H) | 8:11 |
 | 20 | [Afrofunk \(Valique Boogie Brother Remix\)](https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv) | [Timewarp Inc](https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr), [Valique](https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH) | [Adventures in Acid Boogie, Vol.2](https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC) | 5:25 |
-| 21 | [Ready My Black Asz](https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 5:24 |
-| 22 | [Tokyo](https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [For Those Who](https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90) | 6:26 |
+| 21 | [Tokyo](https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [For Those Who](https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90) | 6:26 |
+| 22 | [Ready My Black Asz](https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 5:24 |
 | 23 | [TAKE YOUR LIFE](https://open.spotify.com/track/2nl2twiYDrw6PAT4cy2Uev) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV), [Koogan](https://open.spotify.com/artist/0NDsaErrMCFW3S8PmwO5za) | [HAVEL](https://open.spotify.com/album/3pFWjCpLWiqqzuTcKRxwl7) | 3:30 |
 | 24 | [At Night \- Peggy Gou's Acid Journey Remix](https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [At Night \(Remixes\)](https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8) | 7:11 |
 | 25 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 29 | [Rip It Up](https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F) | 5:20 |
 | 30 | [Can You Feel It](https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Washing Machine](https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I) | 5:44 |
 | 31 | [Winona](https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Winona](https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK) | 8:31 |
-| 32 | [Do You Feel The Same?](https://open.spotify.com/track/2OasvzxZ0R52l0I7TG8mlI) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [The Feast Of The Broken Heart](https://open.spotify.com/album/7nzzw3jQeC2X1k9BdDI0Th) | 4:41 |
-| 33 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
+| 32 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
+| 33 | [Do You Feel The Same?](https://open.spotify.com/track/2OasvzxZ0R52l0I7TG8mlI) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [The Feast Of The Broken Heart](https://open.spotify.com/album/7nzzw3jQeC2X1k9BdDI0Th) | 4:41 |
 | 34 | [Acid Trax](https://open.spotify.com/track/0zSyKNVHqvAmzTwEHItE92) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Church of Danceology](https://open.spotify.com/album/2HDBCM1fDFZYuH0SVGMQmL) | 11:54 |
 | 35 | [Everybody Needs A 303](https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP) | 5:48 |
 | 36 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0) | 3:27 |

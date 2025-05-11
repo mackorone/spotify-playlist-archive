@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 47477,
+  "num_followers": 47478,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAADY5foU0jodq8N2TL4/vkPt",
+  "snapshot_id": "aB1FgAAAAABRVpoGhrOQyZkuSPP2RURK",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "plum blossom",
         "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 167925,
       "name": "the idea of you",
       "url": "https://open.spotify.com/track/1g1Ni37doHAEjypC9SrFoY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "blame game",
-      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rising (the deluxe)",
         "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 142573,
       "name": "plastic pony",
       "url": "https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "blame game",
+      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "rising (the deluxe)",
+        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "kaleidoscope",
+      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/7yXKgxE3jtv4hCDCeR7ZJ7"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 196301,
       "name": "Queen",
       "url": "https://open.spotify.com/track/73x5oFlbHcMhWQ7Wez5z3I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "rising (the deluxe)",
-        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "kaleidoscope",
-      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
     },
     {
       "added_at": null,
@@ -835,18 +835,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "post-post apocalyptic dance party (From \"LEGO\u00ae Horizon Adventures\u2122\")",
-        "url": "https://open.spotify.com/album/2RUIq2luLzt4H4VHjMNBej"
+        "name": "So Mean",
+        "url": "https://open.spotify.com/album/24sVYdbUT74K1lO3lTnbOe"
       },
       "artists": [
         {
+          "name": "afternoon",
+          "url": "https://open.spotify.com/artist/7i95A726HxGqwlaEVDxtNM"
+        },
+        {
+          "name": "love-sadKID",
+          "url": "https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s"
+        },
+        {
           "name": "mxmtoon",
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        {
+          "name": "Samsa",
+          "url": "https://open.spotify.com/artist/5FN9kuAUamAd4IadVnH4jH"
         }
       ],
-      "duration_ms": 170591,
-      "name": "post-post apocalyptic dance party (From \"LEGO\u00ae Horizon Adventures\u2122\")",
-      "url": "https://open.spotify.com/track/1M62uXa2Y6vczDfKIpOnDy"
+      "duration_ms": 270445,
+      "name": "So Mean",
+      "url": "https://open.spotify.com/track/67LVRpGwukS1vEO8nNzT37"
     }
   ],
   "unique_name": "This Is mxmtoon",

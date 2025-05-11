@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,275 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,533 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 102 | [Ramito De Violetas](https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:32 |
 | 103 | [Provócame](https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN) | 3:00 |
 | 104 | [Sangoloteadito](https://open.spotify.com/track/3Eql8puvczeQC4WWgcDv7R) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:59 |
-| 105 | [Te He de Querer](https://open.spotify.com/track/2aXkdMPXokMlYPPyRvrr8g) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD) | 2:33 |
+| 105 | [La Guarecita](https://open.spotify.com/track/1ypG39Hh9plTazkgbhE4Cv) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuerdate De Mi](https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey) | 3:13 |
 | 106 | [No Me Dejes Tan Solo](https://open.spotify.com/track/7kDmpsxLjsExnH0PF7E2oU) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Lo Dejaría Todo](https://open.spotify.com/album/0slFxxE8mELjY6pg5My39R) | 3:02 |
 | 107 | [El Domingo Se Casa](https://open.spotify.com/track/5HPIaNpIPbZYlSzIuTcwND) | [Banda San Miguel](https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG) | [La Gran Historia Vol\. 1](https://open.spotify.com/album/3AjDSQHKqkrHMgv44Esfen) | 2:37 |
 | 108 | [Frio De Aucencia](https://open.spotify.com/track/3YxSPQh2jQgyxrLdB9tKqK) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Ultimo Trago](https://open.spotify.com/album/6OUv4N8H2dRSmuNXdOFnl3) | 3:09 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 112 | [Soy Como Quiero Ser](https://open.spotify.com/track/42mJA9XTxNC1uVkt04IiNs) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:32 |
 | 113 | [Solo Esta Vez](https://open.spotify.com/track/3yMJkJfWoJW1vo2vVmW23J) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Solo Esta Vez](https://open.spotify.com/album/3nQLgjWf79JfcowiGMQWZr) | 3:20 |
 | 114 | [Me Dicen El Coyote](https://open.spotify.com/track/6tS1jMgrY8UKF9kfvPOnaB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 2\)](https://open.spotify.com/album/4WfvdBmvwXXv4RMq9eOWVV) | 2:22 |
-| 115 | [La Guarecita](https://open.spotify.com/track/1ypG39Hh9plTazkgbhE4Cv) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuerdate De Mi](https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey) | 3:13 |
+| 115 | [Te He de Querer](https://open.spotify.com/track/2aXkdMPXokMlYPPyRvrr8g) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD) | 2:33 |
 | 116 | [No Bailes De Caballito](https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 4:01 |
 | 117 | [Borracho Morire](https://open.spotify.com/track/4b6ImioSLFFQeweQFzx69h) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Colección Privada](https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq) | 3:23 |
 | 118 | [Viejo Joven El](https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:36 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 146 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 |
 | 147 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
 | 148 | [Mis Recuerdos](https://open.spotify.com/track/1ULtstKTT3ARXBF1cRFIL1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 4:40 |
-| 149 | [Ojitos Verdes](https://open.spotify.com/track/2IQNiCvRnwTmd2Ddo2QR5Q) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 2:22 |
-| 150 | [El Disgusto](https://open.spotify.com/track/7m62E9JAXqUwJeQz4WjLzv) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:07 |
+| 149 | [El Disgusto](https://open.spotify.com/track/7m62E9JAXqUwJeQz4WjLzv) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:07 |
+| 150 | [Ojitos Verdes](https://open.spotify.com/track/2IQNiCvRnwTmd2Ddo2QR5Q) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 2:22 |
 
 Snapshot ID: `ZoWRvgAAAABVDuTYMdahuRmzLfyIvfxs`

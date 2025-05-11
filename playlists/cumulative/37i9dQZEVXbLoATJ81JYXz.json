@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 220520,
       "name": "17 \u00e5r",
       "url": "https://open.spotify.com/track/7MzmBmyI9KkyQJaPNLdtUi"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 115426,
       "name": "Aldrig sett f\u00f6rut",
       "url": "https://open.spotify.com/track/061G4BWNLuJkAJWedFpoZm"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 166234,
       "name": "Alla Ska D\u00f6",
       "url": "https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt"
@@ -3552,10 +3552,28 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 166880,
       "name": "Bara Bada Bastu",
       "url": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
+    },
+    {
+      "album": {
+        "name": "Sauna Collection",
+        "url": "https://open.spotify.com/album/4CWJY1YRrC5U8SCBScB4SX"
+      },
+      "artists": [
+        {
+          "name": "KAJ",
+          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166880,
+      "name": "Bara Bada Bastu",
+      "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
     },
     {
       "album": {
@@ -4667,6 +4685,28 @@
     },
     {
       "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219650,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
+    },
+    {
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
       },
@@ -5124,6 +5164,28 @@
       "duration_ms": 150866,
       "name": "Bop",
       "url": "https://open.spotify.com/track/1KwmjwEfQeMnoNR121rzBy"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "album": {
@@ -6462,6 +6524,24 @@
       "duration_ms": 219130,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/36712WkOjKPSvFXzFFLxYc"
+    },
+    {
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/5iRT4669x6nim2INHF7wyI"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192593,
+      "name": "Carpe Diem",
+      "url": "https://open.spotify.com/track/1LJFTgkr5UeYU2vUX4MAvp"
     },
     {
       "album": {
@@ -10929,6 +11009,28 @@
     },
     {
       "album": {
+        "name": "Ekko",
+        "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        },
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156035,
+      "name": "Ekko",
+      "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
+    },
+    {
+      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/4FiLLOOiVRAlcdoxEbJn81"
       },
@@ -13682,6 +13784,24 @@
       "duration_ms": 170645,
       "name": "Frankfurt",
       "url": "https://open.spotify.com/track/2D5GrrD4Zx5NK9ZQdoLEVm"
+    },
+    {
+      "album": {
+        "name": "Fredagsbarn",
+        "url": "https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190946,
+      "name": "Fredagsbarn",
+      "url": "https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn"
     },
     {
       "album": {
@@ -18570,7 +18690,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 114124,
       "name": "Humlehum",
       "url": "https://open.spotify.com/track/6F0EAXG5D1iFZU57wfa0Ys"
@@ -23320,7 +23440,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 276402,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/0UvLAFRXgH4vNzzLdcWtWs"
@@ -26611,6 +26731,32 @@
     },
     {
       "album": {
+        "name": "Med oss",
+        "url": "https://open.spotify.com/album/5wkrS2tvFNMCTbPVkUE6YY"
+      },
+      "artists": [
+        {
+          "name": "24K",
+          "url": "https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "ROMANOS",
+          "url": "https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124153,
+      "name": "Med oss",
+      "url": "https://open.spotify.com/track/3t0TkJynelNUERIUw2X9qt"
+    },
+    {
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
       },
@@ -27286,6 +27432,24 @@
       "duration_ms": 121263,
       "name": "Millions",
       "url": "https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg"
+    },
+    {
+      "album": {
+        "name": "Mimosa",
+        "url": "https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192575,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE"
     },
     {
       "album": {
@@ -29092,7 +29256,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 161481,
       "name": "Nu s\u00e4ger vi godnatt",
       "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
@@ -29573,6 +29737,28 @@
     },
     {
       "album": {
+        "name": "OBAMA",
+        "url": "https://open.spotify.com/album/0rXPLDNVlxhpW3rBLQiysp"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        },
+        {
+          "name": "SH1",
+          "url": "https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "OBAMA",
+      "url": "https://open.spotify.com/track/31ozexiE5T5lWeEly3XWzG"
+    },
+    {
+      "album": {
         "name": "GUTS (spilled)",
         "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
       },
@@ -29700,6 +29886,24 @@
       "duration_ms": 200333,
       "name": "Oh, vilken h\u00e4rlig da'",
       "url": "https://open.spotify.com/track/1Taqw1VEHl8Gy9qAZtRLAq"
+    },
+    {
+      "album": {
+        "name": "OJOJOJ",
+        "url": "https://open.spotify.com/album/7tpfGKlZ7BgyPRmbIeSnpu"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "OJOJOJ",
+      "url": "https://open.spotify.com/track/1tm4w2K1EpRguWS0PuhnQh"
     },
     {
       "album": {
@@ -31048,7 +31252,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 138857,
       "name": "Pickadollen",
       "url": "https://open.spotify.com/track/5wRbAgpsQ217200dzd4hoO"
@@ -39876,7 +40080,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -41852,6 +42056,28 @@
       "duration_ms": 196800,
       "name": "Tusen g\u00e5nger om (feat. Newkid)",
       "url": "https://open.spotify.com/track/3EsUkO1XncklrPvQaabHaz"
+    },
+    {
+      "album": {
+        "name": "Tusen sp\u00e4nn",
+        "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Tusen sp\u00e4nn",
+      "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
       "album": {
@@ -44032,7 +44258,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 166363,
       "name": "V\u00e5ldsamma Dr\u00f6mmar",
       "url": "https://open.spotify.com/track/2TYXDjotkrTUydjejNT2qz"

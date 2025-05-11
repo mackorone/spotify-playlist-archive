@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 356698,
+  "num_followers": 356679,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -923,30 +923,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-        "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
+        "name": "Sun Goes Up",
+        "url": "https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "C3DRIC",
+          "url": "https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK"
         },
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Eliine",
+          "url": "https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk"
         }
       ],
-      "duration_ms": 227283,
-      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-      "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
+      "duration_ms": 133200,
+      "name": "Sun Goes Up",
+      "url": "https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -971,22 +963,30 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Sun Goes Up",
-        "url": "https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT"
+        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+        "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
       },
       "artists": [
         {
-          "name": "C3DRIC",
-          "url": "https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "Eliine",
-          "url": "https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Sun Goes Up",
-      "url": "https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV"
+      "duration_ms": 227283,
+      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "IGEN IGEN IGEN",
-        "url": "https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj"
-      },
-      "artists": [
-        {
-          "name": "LOOKET",
-          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
-        }
-      ],
-      "duration_ms": 130153,
-      "name": "IGEN IGEN IGEN",
-      "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "ALLA F\u00c5R KOMMA",
         "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 144732,
       "name": "ALLA F\u00c5R KOMMA",
       "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "IGEN IGEN IGEN",
+        "url": "https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "duration_ms": 130153,
+      "name": "IGEN IGEN IGEN",
+      "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "MEDVETSL\u00d6S",
+        "url": "https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "MEDVETSL\u00d6S",
+      "url": "https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "FULLT \u00d6S ARBETSL\u00d6S",
         "url": "https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 150384,
       "name": "FULLT \u00d6S ARBETSL\u00d6S",
       "url": "https://open.spotify.com/track/1ZBN3siAVwEXlsJfhMPuCz"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "MEDVETSL\u00d6S",
-        "url": "https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH"
-      },
-      "artists": [
-        {
-          "name": "Raggarligan",
-          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "MEDVETSL\u00d6S",
-      "url": "https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy"
     },
     {
       "added_at": "2024-06-13 22:00:00",

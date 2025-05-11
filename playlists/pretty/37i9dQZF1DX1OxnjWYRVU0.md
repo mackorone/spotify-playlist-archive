@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,648 likes - 368 songs - 16 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,693 likes - 368 songs - 16 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 156 | [Turn Me On](https://open.spotify.com/track/2AvcOZ7djW97iYeHKVYRMk) | [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [LAZAR](https://open.spotify.com/artist/5mvFgmAe5Sb5FqqvN5RoQC) | [Turn Me On](https://open.spotify.com/album/6MELaghpGnlgwmsLRZjNvO) | 2:31 |
 | 157 | [Out Of My Mind](https://open.spotify.com/track/2FSvmq9jktuOnl6H45zEaD) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Out Of My Mind](https://open.spotify.com/album/6V0uuxw9BnRBlZRjUw30Fa) | 2:36 |
 | 158 | [Sweet Dreams](https://open.spotify.com/track/2TrOi4R69UEAfQV68DxgPy) | [ISAEV](https://open.spotify.com/artist/7iUsVLMlakNkftEkbBNBBh), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [Sweet Dreams](https://open.spotify.com/album/0LDZOchMYH8luc1B7r1JLh) | 2:25 |
-| 159 | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ) | 2:58 |
+| 159 | [Call Me \(with R3HAB, Timmy Trumpet & Charla K\)](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [Call Me \(with R3HAB, Timmy Trumpet & Charla K\)](https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ) | 2:58 |
 | 160 | [Girls Like You](https://open.spotify.com/track/2M2fvZZ8raF9w0gz3rF0zP) | [Mannymore](https://open.spotify.com/artist/4nJ7nW0IQpvHymuih4y6OC), [Kilian K](https://open.spotify.com/artist/04sHHRws8Q7apGxRnUnjQs) | [Girls Like You](https://open.spotify.com/album/6xZmJYQpaC5TaIYqNiYnAe) | 2:07 |
 | 161 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need \(Club Edit\)](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 |
 | 162 | [abcdefu](https://open.spotify.com/track/2PS3GeUGuvmtEuJyCMBbbY) | [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo), [Aili](https://open.spotify.com/artist/0TVW1CjHIgfuFIUimSgPoj) | [abcdefu](https://open.spotify.com/album/3alzRQqqHIrvm4pCRUbaA2) | 2:30 |

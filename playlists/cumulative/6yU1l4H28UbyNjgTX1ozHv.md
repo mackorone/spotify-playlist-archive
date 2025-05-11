@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-280 songs - 14 hr 21 min
+282 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Kiss Me \- Acoustic](https://open.spotify.com/track/6HdffpL3hV8rY8Z4OkQbMH) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Kiss Me \(Acoustic\)](https://open.spotify.com/album/7LKx9ZvhM5rhoGh6UMjrrR) | 2:15 | 2024-09-06 | 2024-10-26 |
 | [L\-O\-V\-E \- Acoustic](https://open.spotify.com/track/7y3BUNpjfXA2QHu2Ze7Ua4) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [L\-O\-V\-E \(Acoustic\)](https://open.spotify.com/album/6d70Le6UzZLbSxN51AXxET) | 2:45 | 2022-04-10 | 2024-07-27 |
 | [Landslide \- Acoustic](https://open.spotify.com/track/1EvKNWy03koO00YezaSYLv) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Landslide \(Acoustic\)](https://open.spotify.com/album/0cNmFRc8lFjIGwdtgJYLjp) | 2:56 | 2025-05-03 |  |
-| [Landslide \- Acoustic](https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Reid Zingale](https://open.spotify.com/artist/1ZjNNCAZ7gtZIVmLiCvKoq) | [Landslide \(Acoustic\)](https://open.spotify.com/album/6T983j5MMR8IYWzKHWyDaU) | 3:24 | 2023-12-15 |  |
+| [Landslide \- Acoustic](https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Reid Zingale](https://open.spotify.com/artist/1ZjNNCAZ7gtZIVmLiCvKoq) | [Landslide \(Acoustic\)](https://open.spotify.com/album/6T983j5MMR8IYWzKHWyDaU) | 3:24 | 2023-12-15 | 2025-05-11 |
 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 | 2019-10-13 |  |
 | [Lay All Your Love On Me \- Acoustic](https://open.spotify.com/track/6Id2vDi41Z3NhY0vM1GMT9) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [Lay All Your Love On Me \(Acoustic\)](https://open.spotify.com/album/23eHCOC9NKTFtAf8dX3VMq) | 2:44 | 2023-09-30 | 2025-02-10 |
 | [Lean on Me](https://open.spotify.com/track/40qEnmwWaJW7teieAtLAsz) | [Joseph Vincent](https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I) | [Lean on Me](https://open.spotify.com/album/4GveKz4QiYwIauZZp2kVuw) | 1:55 | 2024-03-03 |  |
@@ -220,6 +220,7 @@
 | [Stuck In A Moment You Can't Get Out Of \- Acoustic Version / Remastered 2020](https://open.spotify.com/track/4qxXipoHUokPaPX1YWs47q) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can’t Leave Behind](https://open.spotify.com/album/42zp9yVG4N0SpcejLPoko5) | 3:44 | 2020-10-01 |  |
 | [Sugar, We're Going Down \- Acoustic](https://open.spotify.com/track/460dwU9YPeLUbvOaKqDKsd) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Sugar, We're Going Down \(Acoustic\)](https://open.spotify.com/album/6tsaX49Go1aol8NcM6y8qO) | 3:48 | 2023-06-10 | 2023-12-14 |
 | [Sunsets For Somebody Else](https://open.spotify.com/track/0GyNfI3eKLWQJ5QwXo4WL6) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sunsets For Somebody Else](https://open.spotify.com/album/0QI7USp1Y4xDdA3xytReUq) | 3:30 | 2019-10-13 |  |
+| [Sweet Child O' Mine](https://open.spotify.com/track/1Zfwf5Sj6hTzFt7dLrdlCu) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Sweet Child O' Mine](https://open.spotify.com/album/4siAdCXWrND8XwIbEVVOcO) | 3:14 | 2025-05-10 |  |
 | [Sweet Child O' Mine \- Acoustic](https://open.spotify.com/track/1VZmEl9wmuteCBAqkyFttF) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Child O' Mine \(Acoustic\)](https://open.spotify.com/album/75TC3uieZuC99RUFzZazo2) | 2:58 | 2020-08-08 | 2022-07-23 |
 | [Sweet Child O' Mine \- Acoustic Version](https://open.spotify.com/track/7p6wCoyhLOd3njCFK9hYVP) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Child O' Mine \(Acoustic Version\)](https://open.spotify.com/album/33ZaiLls318tubzqi9Iyl6) | 2:56 | 2023-11-12 | 2024-04-30 |
 | [Sweet Dreams \(Are Made of This\) \- Acoustic](https://open.spotify.com/track/4QnF8CePWPb4k2imP90Q1Z) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Dreams \(Are Made of This\) \[Acoustic\]](https://open.spotify.com/album/1hAOKALlbJeuanzRCMTcBE) | 2:43 | 2023-01-20 | 2023-02-11 |
@@ -229,6 +230,7 @@
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/5ZprRG6q2boxa5Ypa3u6Hp) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/2MfAsqckmrxIssTdeReizP) | 3:31 | 2023-01-13 | 2023-03-18 |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/6g2Fiqf2HGj1oag2wbeWCI) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/26FVlm5oL62SgHxc0MZmcE) | 3:26 | 2021-12-12 | 2022-06-18 |
 | [The Best \- Acoustic](https://open.spotify.com/track/7MkQ4oVMEsF3boi4hsajDG) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [The Best \(Acoustic\)](https://open.spotify.com/album/0zydjTR0i385HRexojYc5s) | 3:38 | 2020-08-08 | 2024-03-04 |
+| [The Lady In Red](https://open.spotify.com/track/18Lc5luPtdEN5dr3QoYA5l) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [The Lady In Red](https://open.spotify.com/album/30H8Xm5PzpxpPIDyESoGsB) | 4:06 | 2025-05-10 |  |
 | [The Scientist \- Candlelight Version](https://open.spotify.com/track/5SMv8eDDtNWK3syFauHGOG) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [The Scientist \(Candlelight Version\)](https://open.spotify.com/album/35c4uhnGB3BBuTcYfe5Djf) | 3:09 | 2024-06-21 | 2024-09-07 |
 | [The Way You Make Me Feel \- Acoustic](https://open.spotify.com/track/4TOYSDT4aaSoQKbxshBYbI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [The Way You Make Me Feel \(Acoustic\)](https://open.spotify.com/album/34pciOFOyl4rI1SIc1F0gw) | 2:37 | 2024-05-10 |  |
 | [There She Goes \- Acoustic](https://open.spotify.com/track/3nDEkIX8lfi4rg62XaDM0O) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5rNQUran1E5UllSg6uqI4Y) | 2:54 | 2021-10-01 | 2022-07-16 |

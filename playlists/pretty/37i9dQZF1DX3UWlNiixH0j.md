@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Chappo シャッポ
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,945 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,950 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 20 | [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 |
 | 21 | [Smooth](https://open.spotify.com/track/3wGNAOCHbHwkhHhxbdp6uU) | [Nerd in Disco](https://open.spotify.com/artist/3FO1TjJvSHtO141dRWkq5l) | [Smooth](https://open.spotify.com/album/2KY32E8TeTIEDXm7eiiY4d) | 3:05 |
 | 22 | [meaning](https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meaning](https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW) | 3:44 |
-| 23 | [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [KanekoAyano](https://open.spotify.com/artist/4wmR2R8rCIxnGEahFjaZYC) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 |
+| 23 | [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 |
 | 24 | [Apollo \- Single Version](https://open.spotify.com/track/2p8GxDwi4ZH7WrvSOprFqi) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Apollo](https://open.spotify.com/album/7pJkY6zhcFm4jzSeGEUy6k) | 3:48 |
 | 25 | [Yanenonaihoshi](https://open.spotify.com/track/4s7ZGVJU8qJX1XBJmkQRNs) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Yanenonaihoshi](https://open.spotify.com/album/3Z1mgn7AraZ88tXKdCmozW) | 4:57 |
 | 26 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 |
@@ -60,28 +60,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 50 | [裸、道すがら](https://open.spotify.com/track/1jqKoXdfmRs2kI3OsLDmKI) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [裸、道すがら](https://open.spotify.com/album/6uJ6dHiRA9eBWM7S6rKK0m) | 2:54 |
 | 51 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
 | 52 | [ステラ](https://open.spotify.com/track/3P2s80yVnpaABmMVbq1KPJ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ステラ](https://open.spotify.com/album/5Re5sssjx93JkNfYADiLCE) | 3:07 |
-| 53 | [Wave](https://open.spotify.com/track/1pXIk9DQmaCFRzFREdq2P9) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Wave](https://open.spotify.com/album/4O0vNDX1DS8fk2XqQjuOwf) | 3:28 |
+| 53 | [ラブコメ](https://open.spotify.com/track/3NlIznCiPTTYYjxoVXHV7v) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ラブコメ](https://open.spotify.com/album/4zcHOrQn3reSiyvHdlJJiy) | 4:15 |
 | 54 | [Swim](https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Swim](https://open.spotify.com/album/6KTZ7NAPmZP64DN0Mh9b6M) | 3:23 |
-| 55 | [ラブコメ](https://open.spotify.com/track/3NlIznCiPTTYYjxoVXHV7v) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ラブコメ](https://open.spotify.com/album/4zcHOrQn3reSiyvHdlJJiy) | 4:15 |
+| 55 | [Wave](https://open.spotify.com/track/1pXIk9DQmaCFRzFREdq2P9) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Wave](https://open.spotify.com/album/4O0vNDX1DS8fk2XqQjuOwf) | 3:28 |
 | 56 | [その日](https://open.spotify.com/track/2zBzHYumBgFh2sm6dE4ckh) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [Adrift in Time](https://open.spotify.com/album/0OiWixcir4dJ28OZ3W7CJi) | 3:22 |
 | 57 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
 | 58 | [Unconsiously](https://open.spotify.com/track/2n7oP8zYvxfceZyOuETQ7S) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | ["Design Ah! neo"1](https://open.spotify.com/album/2kgnj4sZUvkBHuUCNCOGLd) | 1:47 |
 | 59 | [Dying Star](https://open.spotify.com/track/60fJwXfsLswVout8DYaAzf) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Dying Star](https://open.spotify.com/album/3hwHY1kb8NZQ3b3rG50Jkh) | 3:10 |
-| 60 | [meaning \- KIDCOZY Remix](https://open.spotify.com/track/7iB2ug8CIUpdx9XOJdTD2Z) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [KIDCOZY](https://open.spotify.com/artist/4sc3CKuPjbbFeLx49qBBrB) | [meaning \(KIDCOZY Remix\)](https://open.spotify.com/album/5rWSKXaKwFdviw0t2ZeLgl) | 3:41 |
-| 61 | [あたらしい旅](https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あたらしい旅](https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X) | 3:27 |
-| 62 | [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 |
-| 63 | [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 |
-| 64 | [君にノーベル賞](https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [メロい夢](https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5) | 2:39 |
-| 65 | [静岡](https://open.spotify.com/track/5EPbJqc4qpucI7MlNuqP58) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [静岡](https://open.spotify.com/album/0euk7AJx2ZHVXKZChy3ubo) | 3:44 |
+| 60 | [静岡](https://open.spotify.com/track/5EPbJqc4qpucI7MlNuqP58) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [静岡](https://open.spotify.com/album/0euk7AJx2ZHVXKZChy3ubo) | 3:44 |
+| 61 | [meaning \- KIDCOZY Remix](https://open.spotify.com/track/7iB2ug8CIUpdx9XOJdTD2Z) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [KIDCOZY](https://open.spotify.com/artist/4sc3CKuPjbbFeLx49qBBrB) | [meaning \(KIDCOZY Remix\)](https://open.spotify.com/album/5rWSKXaKwFdviw0t2ZeLgl) | 3:41 |
+| 62 | [あたらしい旅](https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あたらしい旅](https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X) | 3:27 |
+| 63 | [君にノーベル賞](https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [メロい夢](https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5) | 2:39 |
+| 64 | [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 |
+| 65 | [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 |
 | 66 | [Lover](https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [Lover](https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy) | 6:34 |
 | 67 | [Elevator Lover](https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender \(Deluxe Edition\)](https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx) | 2:38 |
 | 68 | [Whenever, Whatever](https://open.spotify.com/track/3zE8xmbyFYQoHfRwb1Hs04) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [In Your Languages](https://open.spotify.com/album/1nJlr4uATMI2G26PYLVlvE) | 4:56 |
 | 69 | [CONTRAST](https://open.spotify.com/track/3VSu7JS5sAP62eiAxqrXGR) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [CONTRAST](https://open.spotify.com/album/4G1fsGrrWiTqK4UwprfwTc) | 3:17 |
-| 70 | [Kaze](https://open.spotify.com/track/4xpFyoaOkH5UK9BPv3nWBZ) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Kaze](https://open.spotify.com/album/1UsXneklNKajfXyDwucJ8H) | 3:15 |
-| 71 | [Burn](https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Burn](https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld) | 2:49 |
+| 70 | [Burn](https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Burn](https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld) | 2:49 |
+| 71 | [Kaze](https://open.spotify.com/track/4xpFyoaOkH5UK9BPv3nWBZ) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Kaze](https://open.spotify.com/album/1UsXneklNKajfXyDwucJ8H) | 3:15 |
 | 72 | [Ghost](https://open.spotify.com/track/2b2ck4wCQhwIlr6m7mCY7N) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [Ghost](https://open.spotify.com/album/2TYDqjnlad15lj4PT1CUib) | 5:27 |
-| 73 | [Trial](https://open.spotify.com/track/6F4dJc6g4o9bunMkhciBzN) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Antigone](https://open.spotify.com/album/2G9x4lIqKywDAywaIJPsQm) | 4:06 |
-| 74 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 |
+| 73 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 |
+| 74 | [Trial](https://open.spotify.com/track/6F4dJc6g4o9bunMkhciBzN) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Antigone](https://open.spotify.com/album/2G9x4lIqKywDAywaIJPsQm) | 4:06 |
 | 75 | [Higher](https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Higher](https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV) | 3:41 |
 
 Snapshot ID: `aBoj9AAAAACIV0bN2znYvrRQ9wiQetF7`

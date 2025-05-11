@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAABrqL46ZyXdiUzH1M5wmzWW",
+  "snapshot_id": "aB1FgAAAAAC6bfFhkfGbbuT7T9Lbbicz",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "booboo",
-        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "booboo",
-      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirror (feat. Jessy Lanza & Yaeji)",
         "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
       },
@@ -91,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
@@ -103,26 +103,6 @@
       "duration_ms": 274728,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5HwHdYpk3QiOUhsfWKYkFq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pondeggi",
-        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "E Wata",
-          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Pondeggi",
-      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
     },
     {
       "added_at": null,
@@ -147,6 +127,42 @@
       "duration_ms": 153093,
       "name": "February 2017 (feat. Clairo and Yaeji)",
       "url": "https://open.spotify.com/track/3fTEcn7Jt6Dq3NVVdNvl4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pondeggi",
+        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "E Wata",
+          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Pondeggi",
+      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel It Out",
+        "url": "https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 196364,
+      "name": "Feel It Out",
+      "url": "https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ"
     },
     {
       "added_at": null,
@@ -211,22 +227,6 @@
       "duration_ms": 202537,
       "name": "One More",
       "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feel It Out",
-        "url": "https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 196364,
-      "name": "Feel It Out",
-      "url": "https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ"
     },
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+        "name": "RAVE:N, The Remixes",
+        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
       },
       "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 155116,
-      "name": "Feelings Change",
-      "url": "https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB"
+      "duration_ms": 149982,
+      "name": "Enough For Love - Yaeji heart+beat Remix",
+      "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
     },
     {
       "added_at": null,
@@ -531,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAVE:N, The Remixes",
-        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
       "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 149982,
-      "name": "Enough For Love - Yaeji heart+beat Remix",
-      "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
+      "duration_ms": 155116,
+      "name": "Feelings Change",
+      "url": "https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 148568,
+  "num_followers": 148590,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 175693,
       "name": "Hate This Song",
       "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "Back To Me / Alive",
-        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Cinderella Snapped",
-        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 173103,
-      "name": "Cinderella Snapped",
-      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 128323,
       "name": "K.O.",
       "url": "https://open.spotify.com/track/0SbcrlSSBXJUnm1cT4E4GQ"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Cinderella Snapped",
+        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 173103,
+      "name": "Cinderella Snapped",
+      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 144074,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Vicious",
         "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 207177,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 144074,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "The Fray Is Back",
-        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Known You Always",
-      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 184281,
       "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "The Fray Is Back",
+        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Known You Always",
+      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Walk This World With Me",
-        "url": "https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Walk This World With Me",
-      "url": "https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Walk This World With Me",
+        "url": "https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 228372,
+      "name": "Walk This World With Me",
+      "url": "https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "diamonds on your dagger",
-        "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 201710,
-      "name": "diamonds on your dagger",
-      "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Year 3000 2.0",
         "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 197387,
       "name": "Year 3000 2.0",
       "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "diamonds on your dagger",
+        "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 201710,
+      "name": "diamonds on your dagger",
+      "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "DUMB",
-        "url": "https://open.spotify.com/album/3pNjQuJygUNCQhfmkNzbc1"
-      },
-      "artists": [
-        {
-          "name": "BEGINNERS",
-          "url": "https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3"
-        }
-      ],
-      "duration_ms": 148433,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/0O354383OL3XXPICUiHOkl"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Red Lights / Ireland",
         "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 147000,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/3pNjQuJygUNCQhfmkNzbc1"
+      },
+      "artists": [
+        {
+          "name": "BEGINNERS",
+          "url": "https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3"
+        }
+      ],
+      "duration_ms": 148433,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/0O354383OL3XXPICUiHOkl"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "hurt like it should",
-        "url": "https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY"
-      },
-      "artists": [
-        {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        }
-      ],
-      "duration_ms": 203467,
-      "name": "hurt like it should",
-      "url": "https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Inner Love Energy",
         "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 186670,
       "name": "Good Feeling About You",
       "url": "https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "hurt like it should",
+        "url": "https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "duration_ms": 203467,
+      "name": "hurt like it should",
+      "url": "https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr"
     },
     {
       "added_at": "2025-02-14 18:48:51",

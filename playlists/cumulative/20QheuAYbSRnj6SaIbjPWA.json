@@ -1477,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "A Letter from the Universe",
+        "url": "https://open.spotify.com/album/6urF2OXed5Be4p4QlqG6lu"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187745,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/6NzO8H8HWe1hHaiZWiGpXH"
+    },
+    {
+      "album": {
         "name": "Six Paths",
         "url": "https://open.spotify.com/album/5MEImpWt30V3Huwd5n1XM8"
       },

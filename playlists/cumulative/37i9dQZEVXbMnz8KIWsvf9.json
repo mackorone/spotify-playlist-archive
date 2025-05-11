@@ -5581,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "I love you a latte",
+        "url": "https://open.spotify.com/album/5sNeJA74iuvnlSXaCBM1EI"
+      },
+      "artists": [
+        {
+          "name": "the ge",
+          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233103,
+      "name": "I love you a latte",
+      "url": "https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV"
+    },
+    {
+      "album": {
         "name": "I Love You So",
         "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
       },
@@ -7861,6 +7879,28 @@
     },
     {
       "album": {
+        "name": "Messy (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179055,
+      "name": "Messy (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
+    },
+    {
+      "album": {
         "name": "Michi Teyu Ku (Overflowing)",
         "url": "https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq"
       },
@@ -9014,7 +9054,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -10158,7 +10198,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/65ZihkVQO3KqPj7ZKxmcev"
@@ -14960,7 +15000,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 266280,
       "name": "\u0e02\u0e35\u0e49\u0e2b\u0e36\u0e07",
       "url": "https://open.spotify.com/track/1nmdJTwB575vxvNm6PdXHq"
@@ -20124,7 +20164,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 246973,
       "name": "\u0e40\u0e25\u0e48\u0e19\u0e02\u0e2d\u0e07\u0e2a\u0e39\u0e07",
       "url": "https://open.spotify.com/track/5ILPWem0xm3v85WeXqrTKP"

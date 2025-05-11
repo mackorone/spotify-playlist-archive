@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Olamide & Wizkid",
-  "num_followers": 163991,
+  "num_followers": 164158,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-05-02 01:59:16",
       "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
+    },
+    {
+      "added_at": "2025-05-02 01:59:16",
+      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
-    },
-    {
-      "added_at": "2025-05-02 01:59:16",
-      "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
-      },
-      "artists": [
-        {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2025-05-02 01:59:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-05-02 01:59:16",
       "album": {
-        "name": "Laho",
-        "url": "https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Laho",
-      "url": "https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy"
-    },
-    {
-      "added_at": "2025-05-02 01:59:16",
-      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 141818,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
+    },
+    {
+      "added_at": "2025-05-02 01:59:16",
+      "album": {
+        "name": "Laho",
+        "url": "https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Laho",
+      "url": "https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy"
     },
     {
       "added_at": "2025-05-02 01:59:16",
@@ -1203,6 +1203,46 @@
     {
       "added_at": "2025-05-02 01:59:16",
       "album": {
+        "name": "Mr Caesar",
+        "url": "https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Big Fearless",
+          "url": "https://open.spotify.com/artist/6HBrHz0msvztD26a6R4qaO"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Mr Caesar",
+      "url": "https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb"
+    },
+    {
+      "added_at": "2025-05-02 01:59:16",
+      "album": {
+        "name": "Pano Tona",
+        "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Pano Tona",
+      "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
+    },
+    {
+      "added_at": "2025-05-02 01:59:16",
+      "album": {
         "name": "Conse (feat. Fatboy E & Smada)",
         "url": "https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC"
       },
@@ -1231,46 +1271,6 @@
       "duration_ms": 169411,
       "name": "Conse (feat. Fatboy E & Smada)",
       "url": "https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV"
-    },
-    {
-      "added_at": "2025-05-02 01:59:16",
-      "album": {
-        "name": "Pano Tona",
-        "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 174107,
-      "name": "Pano Tona",
-      "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
-    },
-    {
-      "added_at": "2025-05-02 01:59:16",
-      "album": {
-        "name": "Mr Caesar",
-        "url": "https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Big Fearless",
-          "url": "https://open.spotify.com/artist/6HBrHz0msvztD26a6R4qaO"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Mr Caesar",
-      "url": "https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb"
     },
     {
       "added_at": "2025-05-02 01:59:16",

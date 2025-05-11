@@ -4,7 +4,7 @@
 
 > Bengü Beker ve haftanın en iyi çıkışları!
 
-1,137 songs - 2 day 10 hr 6 min
+1,139 songs - 2 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [GEÇER DİYE BEKLEDİM](https://open.spotify.com/track/16ea1IMD8B8FYSKAY1Mepq) | [Konu Sen Değilsin](https://open.spotify.com/artist/0sxkccugLSSE5Vm45KCtXG) | [GEÇER DİYE BEKLEDİM](https://open.spotify.com/album/0uEergbwCrhtiOioUa3FHv) | 3:48 | 2025-04-10 | 2025-04-18 |
 | [Geçmeyen Yaralar](https://open.spotify.com/track/428yh644LNmZXcVJxH6QRF) | [Pespembe](https://open.spotify.com/artist/0cuaBe58KnJ9HY4WboOfO6) | [Geçmeyen Yaralar](https://open.spotify.com/album/7zmDmIOu06zrwGIwWGP21G) | 3:53 | 2025-03-06 | 2025-03-14 |
 | [Geçmişe Gömdüm Acılarımı](https://open.spotify.com/track/0KHSpu0uCtTlLRKAnKFa7Q) | [DEMET ELLOO](https://open.spotify.com/artist/4KscXPzH57nCckPGRKLY6F) | [Geçmişe Gömdüm Acılarımı](https://open.spotify.com/album/3H68tl3VLomu5EUOOxksKH) | 2:51 | 2025-04-10 | 2025-04-18 |
+| [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 | 2025-05-10 |  |
 | [GFY](https://open.spotify.com/track/33KNeop6x7cfUlSVyLMc8G) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [GFY](https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq) | 2:54 | 2025-03-06 | 2025-03-14 |
 | [Gheddo Gospel](https://open.spotify.com/track/5zZmcB2NZOUy8dbYhHmOwL) | [Ozthewiz](https://open.spotify.com/artist/2ANKUXtknFmV4EKgoix3kC) | [Gheddo Gospel](https://open.spotify.com/album/54zVYkHgFDVEHMvTXWiPIp) | 3:05 | 2025-03-20 | 2025-03-28 |
 | [Gidelim Buralardan](https://open.spotify.com/track/5PEsP9kyZdB8Ld33SqCSFA) | [Can Yıldırım](https://open.spotify.com/artist/7sPIPrOtMF5L272OIM6Qi3) | [Gidelim Buralardan](https://open.spotify.com/album/6vUgUAppPiyTYMep0I85Vf) | 3:04 | 2025-04-17 | 2025-04-25 |
@@ -429,6 +430,7 @@
 | [HATIRLA](https://open.spotify.com/track/1wUFOsQmIBejLIJCQt3T0p) | [Orchi](https://open.spotify.com/artist/17adKXL6KxtaIcWY6UvEve) | [HATIRLA](https://open.spotify.com/album/4ZMOF8doyn7k5JFIxmF4FG) | 1:38 | 2025-04-24 | 2025-05-02 |
 | [Hatıran Var](https://open.spotify.com/track/1M3qOvxRiR5ZvlRjXSSTgz) | [Kenan](https://open.spotify.com/artist/720jWnlmqf0o6UgIAaWArU) | [Hatıran Var](https://open.spotify.com/album/5wo9co28fFLkk6Qd9X4XTv) | 2:48 | 2025-02-27 | 2025-03-07 |
 | [Hatıran Yeter](https://open.spotify.com/track/4YOpHUpImFDFtDibUUxYsK) | [Asya](https://open.spotify.com/artist/65D2U3HYsHE0RIZ80hCaF2) | [Hatıran Yeter](https://open.spotify.com/album/4JPKwh0cgQ6xvo4i8wdyda) | 3:09 | 2025-05-08 |  |
+| [Hatırı Yok Mu?](https://open.spotify.com/track/65jS1McXvIixyiCKrpDsZR) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Hatırı Yok Mu?](https://open.spotify.com/album/0jnuzFnHmRqio0sRrtpieH) | 3:07 | 2025-05-08 |  |
 | [havada gibi aklım](https://open.spotify.com/track/68HAs1kZ94nDmUcLcgMpB9) | [7EDI](https://open.spotify.com/artist/4167SqZnbUagsRL7qNugRr) | [havada gibi aklım](https://open.spotify.com/album/5PlCr9ksfJAjD6XtdAzr69) | 1:21 | 2025-02-20 | 2025-02-28 |
 | [Havariler](https://open.spotify.com/track/07fcpj0jarrWBkI1Ig41dI) | [İmpala](https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF) | [Havariler](https://open.spotify.com/album/3Rxg4NVRlFjSt2Nd8GUEYD) | 2:57 | 2025-03-27 | 2025-04-04 |
 | [Have It All](https://open.spotify.com/track/4ncXEOVRqg5OMMoFZgBNLB) | [Marsias](https://open.spotify.com/artist/2b7PWasPxNRzwyUkXVIZ3a) | [Have It All](https://open.spotify.com/album/0tjRff5CXpauUGZoAwDdew) | 3:13 | 2025-03-20 | 2025-03-28 |

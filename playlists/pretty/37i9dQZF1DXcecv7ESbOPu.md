@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Darin, waterbaby, Hooja och Miriam Bryant med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,337 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,355 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 55 | [Roller Coaster](https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Roller Coaster](https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd) | 2:35 |
 | 56 | [TMN](https://open.spotify.com/track/1atGiLsGuzJ5SduA6vVvrG) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [TMN](https://open.spotify.com/album/0yLlTZNuMUYqCx8zktCIWD) | 2:51 |
 | 57 | [Cognac](https://open.spotify.com/track/0hnr3CSgI38tmMt4wxsSNS) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [EDEN](https://open.spotify.com/album/7gQVdGW5Erlo5iwPeNImUR) | 2:09 |
-| 58 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:21 |
+| 58 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 |
 | 59 | [too good](https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:40 |
 | 60 | [Alla minnen kvar](https://open.spotify.com/track/0sXv5C6EEag4ATQmeSYw9e) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Andreas Mattsson](https://open.spotify.com/artist/4Vff2nZMDC6c3GBrVL2y8n) | [I mina drömmars land](https://open.spotify.com/album/1yclSKg2FVF7t6bXcDc2XJ) | 2:51 |
 | 61 | [Sakta lägger båten ut från land](https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Sakta lägger båten ut från land](https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza) | 5:24 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 96 | [Be The First One](https://open.spotify.com/track/0UsBpozOiItwFrErgLkDAh) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [NYAROL](https://open.spotify.com/artist/378ilmifyE7FfICFkwlAD7) | [Be The First One](https://open.spotify.com/album/5yNthIBAghTkSfRTtDKd8k) | 2:43 |
 | 97 | [High On The Internet](https://open.spotify.com/track/06FGo1WHf20zKD7eF7veM6) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [High On The Internet](https://open.spotify.com/album/3GARsxwPT6bbyik0yn6NGu) | 3:22 |
 | 98 | [Godzilla](https://open.spotify.com/track/3RWeiILZt6iLN6D98X9rUD) | [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Godzilla](https://open.spotify.com/album/6wdusE6hgCXkAp66LXKWIj) | 2:00 |
-| 99 | [Summer Kissin´](https://open.spotify.com/track/0en8lR3jKVZdtu2udzmDyV) | [Pom Femme](https://open.spotify.com/artist/7Fq7iZTu4VF5SQwtdsGOd0) | [Summer Kissin´](https://open.spotify.com/album/3gaGXaUClbB7il3dvnE9Md) | 3:26 |
+| 99 | [Summer Kissin'](https://open.spotify.com/track/0en8lR3jKVZdtu2udzmDyV) | [Pom Femme](https://open.spotify.com/artist/7Fq7iZTu4VF5SQwtdsGOd0) | [Summer Kissin'](https://open.spotify.com/album/3gaGXaUClbB7il3dvnE9Md) | 3:26 |
 | 100 | [Walk On Air](https://open.spotify.com/track/3D0c1zeclp4KAoeM7HZZ0r) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Walk On Air](https://open.spotify.com/album/67Pwh19FsAwlmTCXU99mJ8) | 3:48 |
 | 101 | [Esperanza](https://open.spotify.com/track/7qwYI7or3ozNquQWQOCazN) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [AWAŸKEN](https://open.spotify.com/artist/2oNiJMAEXgGuZjkQ9ZERa7) | [Esperanza](https://open.spotify.com/album/5qoUam4FsJma7nkDPp6xPj) | 6:25 |
 

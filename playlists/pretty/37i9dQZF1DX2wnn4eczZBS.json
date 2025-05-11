@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: MEROL & Elmer",
-  "num_followers": 10298,
+  "num_followers": 10303,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-05-08 22:00:45",
       "album": {
-        "name": "De Lucht",
-        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
-      },
-      "artists": [
-        {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
-        }
-      ],
-      "duration_ms": 166663,
-      "name": "WijTwee",
-      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
-    },
-    {
-      "added_at": "2025-05-08 22:00:45",
-      "album": {
         "name": "ER IS HOOP*",
         "url": "https://open.spotify.com/album/3P4VJVsYKu6gzuZbEc9iJe"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178610,
       "name": "IK LACH MAAR IK HUIL",
       "url": "https://open.spotify.com/track/6PsPnB18dswCvVagWJ5trp"
+    },
+    {
+      "added_at": "2025-05-08 22:00:45",
+      "album": {
+        "name": "De Lucht",
+        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 166663,
+      "name": "WijTwee",
+      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
     },
     {
       "added_at": "2025-05-08 22:00:45",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-05-08 22:00:45",
       "album": {
-        "name": "Iemand Anders",
-        "url": "https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL"
-      },
-      "artists": [
-        {
-          "name": "REINDIER",
-          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
-        }
-      ],
-      "duration_ms": 230599,
-      "name": "Iemand Anders",
-      "url": "https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK"
-    },
-    {
-      "added_at": "2025-05-08 22:00:45",
-      "album": {
         "name": "IK MIS JE",
         "url": "https://open.spotify.com/album/0gbNyJSEctAU96fhS7T0zj"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203225,
       "name": "IK MIS JE",
       "url": "https://open.spotify.com/track/1u1wKliOsyKZfku9DbZq5q"
+    },
+    {
+      "added_at": "2025-05-08 22:00:45",
+      "album": {
+        "name": "Zonder Naam",
+        "url": "https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5"
+      },
+      "artists": [
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Zonder Naam",
+      "url": "https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri"
     },
     {
       "added_at": "2025-05-08 22:00:45",
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-05-08 22:00:45",
       "album": {
-        "name": "Zonder Naam",
-        "url": "https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5"
+        "name": "Iemand Anders",
+        "url": "https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL"
       },
       "artists": [
         {
-          "name": "Spinvis",
-          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+          "name": "REINDIER",
+          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Zonder Naam",
-      "url": "https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri"
+      "duration_ms": 230599,
+      "name": "Iemand Anders",
+      "url": "https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK"
     },
     {
       "added_at": "2025-05-08 22:00:45",
@@ -779,8 +779,8 @@
     {
       "added_at": "2025-05-08 22:00:45",
       "album": {
-        "name": "Symptomen",
-        "url": "https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f"
+        "name": "Wildernis",
+        "url": "https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0"
         }
       ],
-      "duration_ms": 222506,
-      "name": "Symptomen",
-      "url": "https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs"
+      "duration_ms": 211186,
+      "name": "Wildernis",
+      "url": "https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ"
     },
     {
       "added_at": "2025-05-08 22:00:45",

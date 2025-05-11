@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-472 songs - 1 day 1 hr 4 min
+473 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-12-03 | 2023-08-05 |
 | [Cherry Lips](https://open.spotify.com/track/2vfcLK0mU3JhMC6vscawrM) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Cherry Lips](https://open.spotify.com/album/4MjHMcTvVgqGFuXVejbpXc) | 2:51 | 2024-02-16 | 2024-08-17 |
 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 | 2024-07-26 |  |
+| [CHOOSE LOVE](https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [CHOOSE LOVE](https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT) | 2:46 | 2025-05-09 |  |
 | [Chucks](https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Chucks](https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW) | 2:49 | 2021-12-03 | 2022-07-29 |
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2022-05-27 |  |
 | [CLASH \- Edit](https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [CLASH](https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv) | 3:30 | 2023-02-17 | 2023-06-24 |
@@ -477,7 +478,7 @@
 | [Young Forever](https://open.spotify.com/track/2VveodsDiyIi3zcYMDgRx1) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Young Forever](https://open.spotify.com/album/4tUfK3lJ9ss49U0CwuDnDo) | 3:38 | 2021-12-03 | 2022-01-08 |
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-03-11 | 2024-11-16 |
 | [Young Summer](https://open.spotify.com/track/1OfHes9WQdGQSIgNwrqIAw) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Young Summer](https://open.spotify.com/album/6yXyTpttvpLCCLq7zZQASo) | 2:36 | 2021-12-03 | 2022-11-19 |
-| [Your Light](https://open.spotify.com/track/1QuoMcTglBzFIsPwiXHNQQ) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Your Light](https://open.spotify.com/album/62nlkAM6lQIqQ2v7g75jdI) | 3:57 | 2022-09-09 |  |
+| [Your Light](https://open.spotify.com/track/1QuoMcTglBzFIsPwiXHNQQ) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Your Light](https://open.spotify.com/album/62nlkAM6lQIqQ2v7g75jdI) | 3:57 | 2022-09-09 | 2025-05-11 |
 | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/track/7hLqii5dbwnwn3IiHt7k4D) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/album/2b19uYnO6jSwzTrT221lyA) | 2:57 | 2023-05-12 | 2025-03-15 |
 | [‎Sing Hallelujah](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [‎Sing Hallelujah](https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee) | 4:37 | 2023-07-14 | 2024-04-13 |
 

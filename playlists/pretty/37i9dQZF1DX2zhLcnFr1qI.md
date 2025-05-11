@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,659 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,646 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 34 | [Holly Jolly Christmas](https://open.spotify.com/track/0JtruSwwDucpjKnUnKhz0b) | [Briseida](https://open.spotify.com/artist/28YlhRSPEFNqShzh1ZjKxG) | [Holly Jolly Christmas](https://open.spotify.com/album/1OKH32KFWv5cf2mTb8ENEz) | 5:05 |
 | 35 | [Jingle Bells \(feat\. Ricky Vicente\)](https://open.spotify.com/track/5Q2YQvm9LN7rOsTwsNx4cm) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb), [Ricky Vicente](https://open.spotify.com/artist/0vJ5kU4z3TMRIFU6adhPB8) | [Christmas Dance Party \(Project Xmas\)](https://open.spotify.com/album/126Xv1O3gOpeaFUSNRvcNY) | 1:43 |
 | 36 | [Jingle Bells \(feat\. Soran\)](https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Kaskade Christmas Deluxe](https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I) | 3:21 |
-| 37 | [Christmas Trees](https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [A Very Decent Christmas 4](https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g) | 3:13 |
-| 38 | [Last Christmas \- YAMAS Edit](https://open.spotify.com/track/30CO4b3Z9zmbqyguI0nn1a) | [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY) | [Last Christmas \(YAMAS Edit\)](https://open.spotify.com/album/0NAnNrWeRjfT7kMaB9QbLE) | 2:22 |
+| 37 | [Last Christmas \- YAMAS Edit](https://open.spotify.com/track/30CO4b3Z9zmbqyguI0nn1a) | [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY) | [Last Christmas \(YAMAS Edit\)](https://open.spotify.com/album/0NAnNrWeRjfT7kMaB9QbLE) | 2:22 |
+| 38 | [Christmas Trees](https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [A Very Decent Christmas 4](https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g) | 3:13 |
 | 39 | [Are You With Me \- Christmas Mix](https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf) | 2:18 |
 | 40 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 |
 | 41 | [Driving Home For Christmas](https://open.spotify.com/track/1R87nOHx4YRvHoiovqZUed) | [Holidayz](https://open.spotify.com/artist/482s2jUGaqL2r9upJVcgKk) | [Christmas Dance Party Vol\. 1](https://open.spotify.com/album/0DP0qSBmLp13LH5gbBXNTX) | 4:15 |

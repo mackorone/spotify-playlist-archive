@@ -2,7 +2,7 @@
 
 ### [ACM Awards 2025](https://open.spotify.com/playlist/37i9dQZF1DX13kFuGnInkY)
 
-> Congratulations to all of the ACM Awards nominees! Cover: Reba
+> Congratulations to all of the ACM Awards nominees and winners! Cover: Ella Langley
 
 339 songs - 19 hr 2 min
 

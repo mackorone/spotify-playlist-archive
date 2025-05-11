@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 433966,
+  "num_followers": 434072,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,26 @@
     {
       "added_at": "2025-04-24 16:00:29",
       "album": {
+        "name": "Money Sucks, Friends Rule",
+        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
+    },
+    {
+      "added_at": "2025-04-24 16:00:29",
+      "album": {
         "name": "Tonight (D.I.Y.A)",
         "url": "https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 181341,
       "name": "Tonight (D.I.Y.A)",
       "url": "https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI"
-    },
-    {
-      "added_at": "2025-04-24 16:00:29",
-      "album": {
-        "name": "Money Sucks, Friends Rule",
-        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
     },
     {
       "added_at": "2025-04-24 16:00:29",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2025-04-24 16:00:29",
       "album": {
-        "name": "Believe (feat. Goodboys)",
-        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
+        "name": "Right Here, Right Now",
+        "url": "https://open.spotify.com/album/6yEtqmOfxybN4fSxPIAFsQ"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 188709,
-      "name": "Believe (feat. Goodboys)",
-      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
+      "duration_ms": 152307,
+      "name": "Right Here, Right Now",
+      "url": "https://open.spotify.com/track/0zYjllevbCpjeOI06v40bu"
     }
   ],
   "unique_name": "EDM Samplings",

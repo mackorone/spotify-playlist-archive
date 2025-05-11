@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAACVsUE5ZO3p6zah6FY+psOt",
+  "snapshot_id": "aB1FgAAAAAAV6+3cJXOFQv7+zEU0XQ7o",
   "tracks": [
     {
       "added_at": null,
@@ -312,25 +312,17 @@
           "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
         },
         {
-          "name": "D-LO",
-          "url": "https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR"
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Raymon Marco",
-          "url": "https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
         }
       ],
-      "duration_ms": 238181,
-      "name": "YANKIN!",
-      "url": "https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP"
+      "duration_ms": 198165,
+      "name": "GIVE ME A BEAT!",
+      "url": "https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4"
     },
     {
       "added_at": null,
@@ -351,22 +343,6 @@
       "duration_ms": 155571,
       "name": "Sneeze",
       "url": "https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Me Lit",
-        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 131794,
-      "name": "Get Me Lit",
-      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
     },
     {
       "added_at": null,
@@ -395,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Me Lit",
+        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 131794,
+      "name": "Get Me Lit",
+      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -404,41 +396,25 @@
           "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
         },
         {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+          "name": "D-LO",
+          "url": "https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 198165,
-      "name": "GIVE ME A BEAT!",
-      "url": "https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Had To",
-        "url": "https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          "name": "Raymon Marco",
+          "url": "https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG"
         },
         {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
         }
       ],
-      "duration_ms": 161285,
-      "name": "Had To",
-      "url": "https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51"
+      "duration_ms": 238181,
+      "name": "YANKIN!",
+      "url": "https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP"
     },
     {
       "added_at": null,
@@ -467,6 +443,30 @@
       "duration_ms": 173000,
       "name": "What We On (feat. E-40)",
       "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Had To",
+        "url": "https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 161285,
+      "name": "Had To",
+      "url": "https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51"
     },
     {
       "added_at": null,

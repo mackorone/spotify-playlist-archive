@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Of Mice & Men
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,873 likes - 99 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,017 likes - 99 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 6 | [Make Me A Martyr](https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Make Me A Martyr](https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569) | 3:55 |
 | 7 | [Erase Me](https://open.spotify.com/track/06om1aJnEjWpJev4Z70GYW) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Left Alone](https://open.spotify.com/album/4PKf574spLkr6xETLg0pFq) | 3:17 |
 | 8 | [Last Goodbye](https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Last Goodbye](https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB) | 3:32 |
-| 9 | [Omens](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [Omens](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
+| 9 | [OMENS](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [OMENS](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
 | 10 | [Dance!](https://open.spotify.com/track/70GR0y0UQoWDOzApauQqpN) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Dance!](https://open.spotify.com/album/4SDP4cjecVJyK4Y7dJSRHL) | 3:06 |
 | 11 | [Temporal](https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Temporal](https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM) | 4:10 |
 | 12 | [Criminal](https://open.spotify.com/track/0OoWd8aynOJkAn3QCyAhhe) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Criminal](https://open.spotify.com/album/4KPMUpAhf3IGMgsV1RAdY1) | 2:55 |

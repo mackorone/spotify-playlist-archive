@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-171 songs - 9 hr 40 min
+172 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [I Don't Wanna Be Free](https://open.spotify.com/track/1ibMPNtcyEwFFwtnVvmve1) | [Markiplier](https://open.spotify.com/artist/65BxFegOKWTiwG3DGCckef), [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [I Don't Wanna Be Free](https://open.spotify.com/album/5PpN4ODODnj5Bc7SlpUng4) | 2:22 | 2022-06-30 |  |
 | [I Love You](https://open.spotify.com/track/4iEMpHibbcGsciVrbuefRY) | [OMFG](https://open.spotify.com/artist/0UdoKjWIe3tHyiqc4qT3Oz) | [I Love You](https://open.spotify.com/album/2KQ6i83Dfc8rbTahLfxXoa) | 3:57 | 2018-12-06 |  |
 | [I Stink](https://open.spotify.com/track/2y5Pg9yWLSI5CS7RldBgau) | [AI Gems](https://open.spotify.com/artist/5NwnFlLnUf1PehOfgiFONc) | [I Stink](https://open.spotify.com/album/2zQvD7H4UcyoMTM34qFgAy) | 2:20 | 2024-09-23 |  |
+| [I Wanna Be A Machine](https://open.spotify.com/track/0crWBrpRLkMHmOgYq8CXsV) | [Beat Saber](https://open.spotify.com/artist/0omOtYsniDOsmu11EWcnyp), [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Beat Saber \(Original Game Soundtrack\), Vol\. V](https://open.spotify.com/album/0IRE7MsSzrZaeklhCzwbI5) | 3:25 | 2025-05-11 |  |
 | [I Wish \- Radio Edit](https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE) | 4:12 | 2019-11-12 |  |
 | [I Won't](https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [I Won't](https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ) | 2:48 | 2022-10-23 |  |
 | [I'm Something Else](https://open.spotify.com/track/3zRgdfwiFzHeDq4VYOpYpk) | [SomeThingElseyt](https://open.spotify.com/artist/1lVDBUHFHFGNogAAqnmYDN) | [I'm Something Else](https://open.spotify.com/album/3Ha6PNJ8OeBT8DSdzWTlsO) | 2:24 | 2024-12-03 |  |

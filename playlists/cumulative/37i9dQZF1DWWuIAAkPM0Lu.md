@@ -4,7 +4,7 @@
 
 > Det er fredag, og ny musik fra Annika, Gobs, Tobias Rahim og mange flere 👀
 
-5,405 songs - 11 day 15 hr 31 min
+5,406 songs - 11 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2611,6 +2611,7 @@
 | [Jeanne d’Arc](https://open.spotify.com/track/02x1LkP9QxZtXdDbG22PDb) | [Rune Kuda](https://open.spotify.com/artist/1bmeYQ1w5TJEymee7OLanY) | [Jeanne d’Arc](https://open.spotify.com/album/4InjFHOVMpplzIXGXGn4TF) | 2:55 | 2024-06-20 | 2024-06-28 |
 | [Jeg Er Den Jeg Er](https://open.spotify.com/track/6okjEUdk2SYbmyVvVRwrez) | [Luie](https://open.spotify.com/artist/5ihCplN5a8mzkdFhLM2WD6) | [Jeg Er Den Jeg Er](https://open.spotify.com/album/6vvMPhjh16SpjSeC73TlSk) | 2:24 | 2025-02-27 | 2025-03-07 |
 | [Jeg Er Vild Med Alt På Bryggen](https://open.spotify.com/track/1mLsSfNoV9d5ajaorUueTL) | [Linse Kessler](https://open.spotify.com/artist/70NnefxFZbNwAkc9KaAYY3) | [Jeg Er Vild Med Alt På Bryggen](https://open.spotify.com/album/2ctDTR0IRlUUkF0nQoJNEe) | 2:23 | 2024-05-09 | 2024-05-17 |
+| [Jeg gav alt jeg havde](https://open.spotify.com/track/6D59xNJEg9gN572oShGrmF) | [FRAADS](https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH) | [Hard drive schlappers](https://open.spotify.com/album/7d6B5R1x4M3BcLUFkmAfnm) | 2:51 | 2025-05-08 |  |
 | [Jeg Hader At Jeg Tænkte At Du Lignede En Engel](https://open.spotify.com/track/6mQz9UqcNd0sA5UEaBe76p) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Jeg Hader At Jeg Tænkte At Du Lignede En Engel](https://open.spotify.com/album/2dojdKgkIMDsuq3Klpk1f4) | 3:43 | 2024-11-21 | 2024-11-29 |
 | [Jeg Har Ik Tid](https://open.spotify.com/track/5PZxGUfsiXPxCvBJryrBME) | [William Quist](https://open.spotify.com/artist/2PYYYdQkjPTYd4CXIV7ZgW) | [Jeg Har Ik Tid](https://open.spotify.com/album/1xBxvSvAJraq9R3cB2Q48g) | 2:57 | 2024-07-04 | 2024-07-12 |
 | [Jeg hater deg](https://open.spotify.com/track/5Q2cbjla7Ix468vl7SRoUk) | [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Jeg hater deg](https://open.spotify.com/album/6B30YfLbkpAP6NlHisd4Ds) | 2:22 | 2024-10-03 | 2024-10-11 |
@@ -4425,7 +4426,7 @@
 | [SPY](https://open.spotify.com/track/3J6OqU2s8FMERRkNieyjiJ) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SPY](https://open.spotify.com/album/2KtxjHs3j3W1s1hDBjkcMu) | 2:07 | 2024-11-07 | 2024-11-15 |
 | [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 | 2025-01-30 | 2025-02-07 |
 | [Squeeze My Hand](https://open.spotify.com/track/4vpaVLispe36uhvLe3qOc3) | [Baby In Vain](https://open.spotify.com/artist/20khGbiJWINJJibuMzT8yr) | [Squeeze My Hand](https://open.spotify.com/album/1QEHkUyEsQh9GNYqEe6vzx) | 4:22 | 2024-10-31 | 2024-11-08 |
-| [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:21 | 2025-05-08 |  |
+| [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 | 2025-05-08 |  |
 | [Stadig](https://open.spotify.com/track/4SZKRF8WukFPVgkH6cZsMC) | [Ankerstjerne](https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d) | [Stadig](https://open.spotify.com/album/72vierIDfoapRJKqdPrVT5) | 2:02 | 2024-05-09 | 2024-05-17 |
 | [Stafet](https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Stafet](https://open.spotify.com/album/6ArGpxENQEFyUSgmlsp1EP) | 2:25 | 2025-04-24 | 2025-05-02 |
 | [Stairways](https://open.spotify.com/track/2By9b3XRtB26Wa79tBP33Y) | [Vinnie Who](https://open.spotify.com/artist/5Lt78N8RGSNxqbrHI8JeFM) | [So Real Surreal](https://open.spotify.com/album/1csNgPRiolCg50sSkcFJPW) | 3:35 | 2024-09-19 | 2024-09-27 |

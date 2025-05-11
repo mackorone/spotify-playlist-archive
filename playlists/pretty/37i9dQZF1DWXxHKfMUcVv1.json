@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 123401,
+  "num_followers": 123400,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Canciones Que Amo",
+        "url": "https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Hechicera",
+      "url": "https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 251626,
       "name": "Ni Contigo, Ni Sin Ti",
       "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Canciones Que Amo",
-        "url": "https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Hechicera",
-      "url": "https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Canciones Rotas",
-        "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
-      },
-      "artists": [
-        {
-          "name": "Pablo Benegas",
-          "url": "https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Soy De Mi Tierra",
-      "url": "https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Vallenatos para el Cora: Obsesion Mi Estrella Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 279614,
       "name": "Vallenatos para el Cora: Obsesion Mi Estrella Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Canciones Rotas",
+        "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
+      },
+      "artists": [
+        {
+          "name": "Pablo Benegas",
+          "url": "https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Soy De Mi Tierra",
+      "url": "https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Aguije",
-        "url": "https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh"
-      },
-      "artists": [
-        {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        }
-      ],
-      "duration_ms": 191331,
-      "name": "Aguije",
-      "url": "https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Tu Loquito Vos Mi Loquita",
         "url": "https://open.spotify.com/album/3mo2JuYksoOoGepCCFyyhE"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Aguije",
+        "url": "https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh"
+      },
+      "artists": [
+        {
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+        }
+      ],
+      "duration_ms": 191331,
+      "name": "Aguije",
+      "url": "https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Imposible",
         "url": "https://open.spotify.com/album/3GK2930aijx836XgQ720GV"
       },
@@ -663,38 +663,6 @@
       "duration_ms": 174680,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/7b3h31GXmBdFbTWZ0xem7V"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
-      },
-      "artists": [
-        {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
-        }
-      ],
-      "duration_ms": 223608,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "El Equilibrio",
-        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
-      },
-      "artists": [
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        }
-      ],
-      "duration_ms": 169928,
-      "name": "La Semilla",
-      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -723,6 +691,38 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "El Equilibrio",
+        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "duration_ms": 169928,
+      "name": "La Semilla",
+      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
+      },
+      "artists": [
+        {
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+        }
+      ],
+      "duration_ms": 223608,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Verano \u00b499",
         "url": "https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A"
       },
@@ -743,30 +743,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Soy Latino",
-        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/7tk1J50942TGMsEGUGGlJJ"
       },
       "artists": [
         {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Cruz",
-          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
+          "name": "Japiaguar",
+          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
         }
       ],
-      "duration_ms": 189658,
-      "name": "Soy Latino",
-      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
+      "duration_ms": 188013,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -803,18 +791,30 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/7tk1J50942TGMsEGUGGlJJ"
+        "name": "Soy Latino",
+        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
       },
       "artists": [
         {
-          "name": "Japiaguar",
-          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Cruz",
+          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
         }
       ],
-      "duration_ms": 188013,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG"
+      "duration_ms": 189658,
+      "name": "Soy Latino",
+      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -851,26 +851,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW"
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/35bkjlH5s7kSayeSJGDAju"
       },
       "artists": [
         {
-          "name": "Wildo Samuel",
-          "url": "https://open.spotify.com/artist/3mh9ySoVfvp4pt7HAiflR1"
-        },
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        },
-        {
-          "name": "Basti",
-          "url": "https://open.spotify.com/artist/7hLsmdqGDPeCJLiKRGljDb"
+          "name": "Japiaguar",
+          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
         }
       ],
-      "duration_ms": 204950,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG"
+      "duration_ms": 153433,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0zZTDvd4QeWd4PHrEXNQ8T"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

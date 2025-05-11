@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > 22simba in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,823 likes - 64 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,829 likes - 64 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 16 | [RUM&COLA \(feat\. Papa V & Silent Bob\)](https://open.spotify.com/track/2lVnXCvi1Jqy2WeFxP8Iqx) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [MALACARNE](https://open.spotify.com/album/2vlok6snGqVdq6uGQ4HFHC) | 2:20 |
 | 17 | [Sarà Perchè Ti Amo](https://open.spotify.com/track/2KPth5vlBFoFETGwjGf7Fa) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Sarà Perchè Ti Amo](https://open.spotify.com/album/4jsTSoE4BenJ7A84gEC5sH) | 2:09 |
 | 18 | [FORMICAIO](https://open.spotify.com/track/6pXKQok2V4dM8C6DBbne9L) | [RAPCALLING](https://open.spotify.com/artist/2DNNmsJBIb8FUrPPTWyIRI), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3), [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [FORMICAIO](https://open.spotify.com/album/4lG31p0zXbVii5b4d6QNOo) | 1:10 |
-| 19 | [Per I Roiz 3](https://open.spotify.com/track/03CDoSGmgQ8M0fSMfJsvwZ) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [V per Ventidue](https://open.spotify.com/album/61rxGfJSgCpHqKuSylu32b) | 2:11 |
+| 19 | [Per i Roiz 3](https://open.spotify.com/track/03CDoSGmgQ8M0fSMfJsvwZ) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [V per Ventidue](https://open.spotify.com/album/61rxGfJSgCpHqKuSylu32b) | 2:11 |
 | 20 | [Popolare](https://open.spotify.com/track/228vIap79Ni5fpLOBcGUIm) | [Amon](https://open.spotify.com/artist/1jiVHVMFuHekLOGrAISQeb) | [Popolare](https://open.spotify.com/album/7aidXqSstj1E4b3APfxFgg) | 2:21 |
 | 21 | [FERRO DI CAVALLO](https://open.spotify.com/track/2YTjhb4zRJSNQmdBlxcqXc) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72) | [FERRO DI CAVALLO](https://open.spotify.com/album/5swwQlEqCkc5GCs6MMD5Yl) | 2:40 |
 | 22 | [LOVE SONGS 4 DA COAST](https://open.spotify.com/track/0tzjBsI3D8ry6zUOEOYBLA) | [Razer.Rah](https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb) | [LOVE SONGS 4 DA COAST](https://open.spotify.com/album/4n37PB58DDpeU5E3JVXn20) | 2:00 |

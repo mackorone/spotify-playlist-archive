@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,819 likes - 100 songs - 6 hr 21 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,823 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 9 | [Come Together](https://open.spotify.com/track/7n8sDrEcuMt0yezLDhIbnN) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Come Together / Naturish](https://open.spotify.com/album/51bI3TSSCHo87eNRjPeHMj) | 3:42 |
 | 10 | [All My Life](https://open.spotify.com/track/6txjv1bYloEaQ65SainV1Y) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 3:12 |
 | 11 | [Satisfied \- Ambient Reprise](https://open.spotify.com/track/4vNW3T8XMgXltqrSxNnykV) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \(The Remixes\)](https://open.spotify.com/album/7zEKaM5PDUm8GfEk1Lzt0b) | 3:15 |
-| 12 | [It’s Just Like Falling Asleep \- Tagavaka Remix](https://open.spotify.com/track/5ESDqEsdwBwEWzCwxed7yE) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Tagavaka](https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy) | [Everything Changes, Nothing Ends \(Remixes\)](https://open.spotify.com/album/6gtYPyG3E3fHASBm4mUaAR) | 3:33 |
+| 12 | [It’s Just Like Falling Asleep \- Tagavaka Remix](https://open.spotify.com/track/5ESDqEsdwBwEWzCwxed7yE) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Tagavaka](https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy) | [Everything Changes, Nothing Ends \(The Remixes\)](https://open.spotify.com/album/6gtYPyG3E3fHASBm4mUaAR) | 3:33 |
 | 13 | [Nightwhisper \- Chill Mix](https://open.spotify.com/track/0fkoqytIal07KgtUQbpShZ) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper \(Chill Mix\)](https://open.spotify.com/album/2QxuAUei2dRmRKmSAUWncE) | 4:00 |
 | 14 | [8 Hours, Still No Rain](https://open.spotify.com/track/7u3tmftMEaOYqYE6fUnNmX) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF), [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 3:02 |
 | 15 | [Sunrise Song](https://open.spotify.com/track/2gsa8ffLRpj0QrgsTWdJxF) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Life at Full Speed](https://open.spotify.com/album/0nWAp3Dhfy2a4tyaHMVSPr) | 3:47 |

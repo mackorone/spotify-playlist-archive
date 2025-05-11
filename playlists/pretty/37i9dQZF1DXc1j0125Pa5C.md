@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiago Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,042 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,111 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 13 | [Sem Abuso / Maneiras](https://open.spotify.com/track/20ba17syY508T4hRtI8Oic) | [Samba 90 Graus](https://open.spotify.com/artist/6h3xVRZMOFMRIyKOqvRnCE) | [Samba 90 Graus Vol\. 1](https://open.spotify.com/album/0dMN58fUFDX1R33PWuLY9K) | 4:41 |
 | 14 | [Gamação Danada / Bem Melhor Que Você](https://open.spotify.com/track/5YxD04nZSCoTYKMzLqes2C) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB), [Neguinho Da Beija Flor](https://open.spotify.com/artist/799vto7KXqGNiIYGCiEFa1), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Empretecendo](https://open.spotify.com/album/3mWOmZ4NXi9iXyu46qZxf9) | 3:53 |
 | 15 | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \- Ao Vivo](https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \(Ao Vivo\)](https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR) | 6:41 |
-| 16 | [Tá Escrito / Nascentes \- Ao Vivo](https://open.spotify.com/track/5I8LR0uXqKd3UqiyAnIpht) | [Marcelinho Freitas](https://open.spotify.com/artist/6LIIAx0yKVB9wQ9y5IGils), [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1) | [Tá Escrito / Nascentes](https://open.spotify.com/album/4PfXtH0WH8pD2LAYZ4f71k) | 3:01 |
+| 16 | [Tá Escrito / Nascente \- Ao Vivo](https://open.spotify.com/track/5I8LR0uXqKd3UqiyAnIpht) | [Marcelinho Freitas](https://open.spotify.com/artist/6LIIAx0yKVB9wQ9y5IGils), [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1) | [Tá Escrito / Nascente](https://open.spotify.com/album/4PfXtH0WH8pD2LAYZ4f71k) | 3:01 |
 | 17 | [Nosso Lance / No Meu Olhar / Uma Estrela \- Ao Vivo](https://open.spotify.com/track/3w9ZpncSzPhqcW3xq7e1ST) | [Samba da Ladeira](https://open.spotify.com/artist/0IB2uaFC6Xm2I9VSaUlesk) | [Samba da Ladeira \(Ao Vivo\)](https://open.spotify.com/album/3kXFjarRTF0HDevJfahQgP) | 5:39 |
 | 18 | [Que Situação / Melhor Amiga da Minha Namorada / Ex\-Namorada \- Ao Vivo](https://open.spotify.com/track/7LzJjwPHpxTBKYi982ftAX) | [Lance Solto](https://open.spotify.com/artist/4yTSTXLrgC3BnYmxojLyOl), [Bokaloka](https://open.spotify.com/artist/6XgJ4LQHTOtveWKH5V7X56) | [Que Situação / Melhor Amiga da Minha Namorada / Ex\-Namorada \(Ao Vivo\)](https://open.spotify.com/album/3FiW0zF9VkGBtu3UbbK5au) | 5:42 |
 | 19 | [É Na Madrugada / Amor Bipolar / A Casa Caiu \- Ao Vivo](https://open.spotify.com/track/1r7Ik46RmpvfQAfBu40No6) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Guerêguerê, Bloco 6 \(Ao Vivo\)](https://open.spotify.com/album/5ABomsOe78kUOdG1ZJHt7V) | 4:27 |

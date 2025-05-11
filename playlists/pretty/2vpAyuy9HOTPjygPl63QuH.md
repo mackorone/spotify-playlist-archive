@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,199 likes - 47 songs - 2 hr 38 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,204 likes - 48 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,16 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 35 | [Losing My Head](https://open.spotify.com/track/0t1RKCzVvtzc3DPjQ3hXFN) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb), [Juush](https://open.spotify.com/artist/4E3LoXmQVgt6uWJvAw9Olo), [Gaby G](https://open.spotify.com/artist/5lfKSWvnayeG2Q16tPM9Rh) | [Losing My Head](https://open.spotify.com/album/0aeUSR4UuucnxyFVvUGi3k) | 3:37 |
 | 36 | [Come To Me](https://open.spotify.com/track/797ukfRPyCab6zC17qUSL2) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Spark & Come To Me](https://open.spotify.com/album/41THsQi8MvFaXqXxTaYOi5) | 3:41 |
 | 37 | [Disco Demon](https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Disco Demon](https://open.spotify.com/album/4gI8M9Uu9UbXCt7CT6bknP) | 2:35 |
-| 38 | [D.A.N.C.E](https://open.spotify.com/track/1eWznPDtLZq8OxNhCJvZLn) | [David Lowe](https://open.spotify.com/artist/52dT7EHXa4b74ozIjFISzD), [Micah Baxter](https://open.spotify.com/artist/1IHY1bbjZvKR7QSjUAjCje) | [D.A.N.C.E](https://open.spotify.com/album/29Ibf1P7AQlYIF1daQKfmK) | 3:52 |
-| 39 | [Syncopat](https://open.spotify.com/track/7mnilfyiiOHEtOMA1nsDxB) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Syncopat](https://open.spotify.com/album/5gidNifqUlhBb3Vp6AE4dj) | 3:17 |
-| 40 | [Curveball](https://open.spotify.com/track/2RQuDieFWnJFOX5c3CcMG2) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Curveball](https://open.spotify.com/album/2yvW9f49ZMXQb1uPi8CG1l) | 3:12 |
-| 41 | [How we get Down](https://open.spotify.com/track/3Oz5enwG39NFJrH03v8XZL) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [How we get Down](https://open.spotify.com/album/4Ek7YWWxgWsWt9xIbgbJMP) | 3:00 |
-| 42 | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/album/3vZ71dARheqUhoxXLp9gvf) | 2:29 |
-| 43 | [Solo](https://open.spotify.com/track/3u7xRnEFNzdpYahkVA5yLS) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Solo](https://open.spotify.com/album/0INFpqhD7VPeL10pkFBFix) | 6:45 |
-| 44 | [Someday](https://open.spotify.com/track/63FxWnLTk9LcoPwOGdMgWv) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Someday](https://open.spotify.com/album/27N3fOm7u8Sj4JEGraTc1d) | 3:47 |
-| 45 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
-| 46 | [Dance To My Beat](https://open.spotify.com/track/20lt25AyM3QVE4Li7uedrT) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Dance To My Beat](https://open.spotify.com/album/50CeL37i1INXpB7eHYBvQx) | 3:15 |
-| 47 | [SXY](https://open.spotify.com/track/4MVOhTnAMyUl3g323pNn76) | [Carvalho\(BR\)](https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c) | [SXY EP](https://open.spotify.com/album/1fia45ZfeADV2hNlpDOXO5) | 3:30 |
+| 38 | [Jack 2.0](https://open.spotify.com/track/5QDKNa9ytupZ8tQq46qo2h) | [Kenty Clide](https://open.spotify.com/artist/2Shy7amYgzRmadn7sX4Ri0), [Kiro Prime](https://open.spotify.com/artist/21WEErBdntViTGBBNIX1Sr) | [Energy EP](https://open.spotify.com/album/0jf9tIZm02DJqv6hlkWb6s) | 2:53 |
+| 39 | [D.A.N.C.E](https://open.spotify.com/track/1eWznPDtLZq8OxNhCJvZLn) | [David Lowe](https://open.spotify.com/artist/52dT7EHXa4b74ozIjFISzD), [Micah Baxter](https://open.spotify.com/artist/1IHY1bbjZvKR7QSjUAjCje) | [D.A.N.C.E](https://open.spotify.com/album/29Ibf1P7AQlYIF1daQKfmK) | 3:52 |
+| 40 | [Syncopat](https://open.spotify.com/track/7mnilfyiiOHEtOMA1nsDxB) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Syncopat](https://open.spotify.com/album/5gidNifqUlhBb3Vp6AE4dj) | 3:17 |
+| 41 | [Curveball](https://open.spotify.com/track/2RQuDieFWnJFOX5c3CcMG2) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Curveball](https://open.spotify.com/album/2yvW9f49ZMXQb1uPi8CG1l) | 3:12 |
+| 42 | [How we get Down](https://open.spotify.com/track/3Oz5enwG39NFJrH03v8XZL) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [How we get Down](https://open.spotify.com/album/4Ek7YWWxgWsWt9xIbgbJMP) | 3:00 |
+| 43 | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/album/3vZ71dARheqUhoxXLp9gvf) | 2:29 |
+| 44 | [Solo](https://open.spotify.com/track/3u7xRnEFNzdpYahkVA5yLS) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Solo](https://open.spotify.com/album/0INFpqhD7VPeL10pkFBFix) | 6:45 |
+| 45 | [Someday](https://open.spotify.com/track/63FxWnLTk9LcoPwOGdMgWv) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Someday](https://open.spotify.com/album/27N3fOm7u8Sj4JEGraTc1d) | 3:47 |
+| 46 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
+| 47 | [Dance To My Beat](https://open.spotify.com/track/20lt25AyM3QVE4Li7uedrT) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Dance To My Beat](https://open.spotify.com/album/50CeL37i1INXpB7eHYBvQx) | 3:15 |
+| 48 | [SXY](https://open.spotify.com/track/4MVOhTnAMyUl3g323pNn76) | [Carvalho\(BR\)](https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c) | [SXY EP](https://open.spotify.com/album/1fia45ZfeADV2hNlpDOXO5) | 3:30 |
 
-Snapshot ID: `AAAlu6WpCEzAxzmrgPGqdEzCy54Ays+o`
+Snapshot ID: `AAAlvfvZngpVTrn+wXuOlRZZp3b9hNnu`

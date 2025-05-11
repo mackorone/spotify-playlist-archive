@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
 
-2,018 songs - 6 day 13 hr 30 min
+2,019 songs - 6 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1416,7 +1416,7 @@
 | [Road to Techno](https://open.spotify.com/track/3Qc7eb1JrtCPjMjwhmzhxh) | [Adrian Dett](https://open.spotify.com/artist/1wpeyU0O8FMgp5QNSMuIx3) | [Road to Techno](https://open.spotify.com/album/1eAgVQ6XRrOtbiFbeWzre8) | 8:00 | 2023-03-01 | 2023-04-06 |
 | [ROAD2RAILS](https://open.spotify.com/track/78J3e3c0GWy3Crw8jzaqwy) | [NIGELTHREETIMES](https://open.spotify.com/artist/2idYU20N0SmiDmd3KLhcsK) | [METROPOLIS N](https://open.spotify.com/album/2XPIMtFys1sMHfnjLTsBVU) | 4:51 | 2024-01-10 | 2024-04-04 |
 | [Room of Fear](https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm) | [AIKA](https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m) | [Rebirth](https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6) | 1:54 | 2023-08-01 | 2023-10-26 |
-| [roots](https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [forevermore](https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN) | 2:39 | 2025-03-25 |  |
+| [roots](https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [forevermore](https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN) | 2:39 | 2025-03-25 | 2025-05-11 |
 | [Roots](https://open.spotify.com/track/4mrYVeASpXLLKF1jXpTnhV) | [Malvae](https://open.spotify.com/artist/3xDYZyU0u2UORxJh6BcZe4) | [Roots](https://open.spotify.com/album/0tcqytj09avkRwgKoE12WT) | 4:23 | 2022-04-06 | 2022-06-30 |
 | [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 | 2024-04-03 |  |
 | [Roseate](https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Last Boy Picked](https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC) | 5:14 | 2022-01-12 | 2022-03-31 |
@@ -1449,6 +1449,7 @@
 | [Sanbashi](https://open.spotify.com/track/2zu2c4BHYCPn6q2NFtVffx) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR), [Cotto Center](https://open.spotify.com/artist/4yC8SooQDAT3WDPEJMDn3o) | [Yasuragi Land](https://open.spotify.com/album/11saLOyIsjX1NsXHIVcpFc) | 2:15 | 2021-07-29 | 2021-08-25 |
 | [sANCTUAry, it mUST happeN AGain!](https://open.spotify.com/track/2zciBB3qF3wisjEsvrcBcW) | [ishi vu](https://open.spotify.com/artist/1YUA9X2dr5rzNXdMCUa5rH) | [La Luz](https://open.spotify.com/album/2utsontyjBT4r8eNc1a7qm) | 3:14 | 2021-05-15 | 2021-05-29 |
 | [Sandalphon, Archangel of Malkuth](https://open.spotify.com/track/1eo97er6QMEqwD7kzGZtDA) | [John Bence](https://open.spotify.com/artist/0glQIvo5leLVYxy8HREkX5) | [Archangels](https://open.spotify.com/album/6lrI17uDr0tzp8JZtHBmZZ) | 6:59 | 2023-03-15 | 2023-05-11 |
+| [Sangue coagulato](https://open.spotify.com/track/3as5N2iBqzVwslgYQfb0d4) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Lacrimae](https://open.spotify.com/album/5F5KGB9XBm9hViPBMZpipd) | 5:39 | 2025-05-07 |  |
 | [Sansevieria](https://open.spotify.com/track/28V06ats2bx8OCdh9DBBOR) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 4:24 | 2020-10-30\* | 2021-01-15 |
 | [SC46kop](https://open.spotify.com/track/2z0xkLDfg1BwlqKREicqpQ) | [4THSEX](https://open.spotify.com/artist/2ULfBdmjqfKsn3cFroeAYS) | [SC46kop](https://open.spotify.com/album/59CiMFG1pKHZREQnKg5n1b) | 4:16 | 2023-08-01 | 2023-11-08 |
 | [scale](https://open.spotify.com/track/1LNjJtvaTfwBtzGm9Gm3Hg) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/7vbidq5v7PoumjBZhzHfJ0) | 10:35 | 2022-05-18 | 2022-07-28 |

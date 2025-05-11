@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Sammy Virji
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,328 likes - 121 songs - 6 hr 13 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,330 likes - 121 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

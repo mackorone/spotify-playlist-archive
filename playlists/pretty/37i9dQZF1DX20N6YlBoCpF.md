@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Danny Smoke, Christ Steyn, Die Piesangskille, Christia Visser, Armand Aucamp en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,870 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,907 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 98 | [Afrikaans Het Nie Brieke Nie](https://open.spotify.com/track/2OV3FnLOxmwYYbPXlpPH9e) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [Afrikaans Het Nie Brieke Nie](https://open.spotify.com/album/6Wz1V6SZhi3weZ217coDjn) | 4:05 |
 | 99 | [Ribbetjie](https://open.spotify.com/track/2eLPxfcGwXzRqzDjQLuJf2) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Ik Ben Een Afrikaander](https://open.spotify.com/album/7GQuuRi2tLX3WOkmw5hxTc) | 3:11 |
 
-Snapshot ID: `aB0pewAAAABSdymZyX11uUnEpcWiPLuC`
+Snapshot ID: `aB92pwAAAABkHxQ/Joqu5gx1Q52ctuYf`

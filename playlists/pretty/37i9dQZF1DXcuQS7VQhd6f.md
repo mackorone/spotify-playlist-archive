@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,849 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,948 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 72 | [It's Working](https://open.spotify.com/track/6cfvKRVBkw0i6usuYwsYSI) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [God Chaser](https://open.spotify.com/album/0BLe7iiUwRz3qlYVSvHPdS) | 4:52 |
 | 73 | [Worth \- Full Version](https://open.spotify.com/track/6gsTSmu6V9XO7INh2YRa4w) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Everyday Jesus](https://open.spotify.com/album/2Au0g4g40OKq5LJCQluApV) | 5:46 |
 | 74 | [More Than I Can Bear](https://open.spotify.com/track/6hr7Ivu11c0HWIM79ha8sX) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:21 |
-| 75 | [I Need You To Survive](https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 7:31 |
-| 76 | [Let It Rain](https://open.spotify.com/track/6L3o6xf3aR5rF1WKN46IuG) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk) | [Bishop Paul Morton \- Let It Rain](https://open.spotify.com/album/1qsnkRCuP9AQD4tKHordO0) | 8:29 |
+| 75 | [Let It Rain](https://open.spotify.com/track/6L3o6xf3aR5rF1WKN46IuG) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk) | [Bishop Paul Morton \- Let It Rain](https://open.spotify.com/album/1qsnkRCuP9AQD4tKHordO0) | 8:29 |
+| 76 | [I Need You To Survive](https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 7:31 |
 | 77 | [God in Me \(feat\. Kierra Sheard\)](https://open.spotify.com/track/1ZxwWrMNukjS8sb9TZ0HjU) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:12 |
 | 78 | [I Almost Let Go](https://open.spotify.com/track/7mg2zRCXpQG4kAGBlZrT7W) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3) | 5:40 |
 | 79 | [Praise Is What I Do](https://open.spotify.com/track/3prZxvQe9PF1PKBZJM3L3u) | [Shekinah Glory Ministry](https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx) | [Praise Is What I Do](https://open.spotify.com/album/4DgFkFk3fDbknJ8MRDgIO8) | 9:12 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 114 | [We Must Praise](https://open.spotify.com/track/1c8eGC7114l4xexQmfARCE) | [James Moss](https://open.spotify.com/artist/2w3FR8QZkY7PT5UC0CQ1TG) | [The J Moss Project](https://open.spotify.com/album/5IvjhjdaKLghRYu1XaBlus) | 5:08 |
 | 115 | [Not About Us](https://open.spotify.com/track/3s4oYZa7iRKotV0HEcsMv1) | [Bishop Noel Jones](https://open.spotify.com/artist/1zf8KLjJNFnIpMUavKJ1PI), [The City of Refuge Sanctuary Choir](https://open.spotify.com/artist/2rmMOR1Lddlnxep73UmDGb) | [Welcome To The City](https://open.spotify.com/album/6rg15XPgPhunxqpsUxmbfM) | 4:33 |
 | 116 | [Yes You Can](https://open.spotify.com/track/0vPcumZ97NDC99nU0ViHgE) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [You Shall Live](https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8) | 4:53 |
-| 117 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
-| 118 | [Sinner's Prayer](https://open.spotify.com/track/1I3v23MpvlCQQ7ugP7jkQ0) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Lost And Found](https://open.spotify.com/album/2AYr5UPvyQ0niaHDYwDosW) | 5:02 |
+| 117 | [Sinner's Prayer](https://open.spotify.com/track/1I3v23MpvlCQQ7ugP7jkQ0) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Lost And Found](https://open.spotify.com/album/2AYr5UPvyQ0niaHDYwDosW) | 5:02 |
+| 118 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
 | 119 | [Awanwan Do](https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 6:17 |
 | 120 | [Take It Back](https://open.spotify.com/track/518g0gs6NP9fHtUkgEfr5k) | [Dorinda Clark\-Cole](https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK) | [Take It Back](https://open.spotify.com/album/55GT0tiIaTpKsUhgMmBTaU) | 6:44 |
 | 121 | [Who Would've Thought \(feat\. Marvin Winans\)](https://open.spotify.com/track/3Pp3efMD2VNkwIlCDUhlYP) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 5:53 |

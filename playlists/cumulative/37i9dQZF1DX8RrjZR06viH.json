@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Tobias Sten",
+        "url": "https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233500,
+      "name": "Ka visste eg",
+      "url": "https://open.spotify.com/track/3EG3vnspSaUzPDHDF1m33l"
+    },
+    {
+      "album": {
         "name": "Keeps Me Going",
         "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
       },
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 230201,
       "name": "Om du tror p\u00e5 oss",
       "url": "https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL"
@@ -2944,6 +2962,28 @@
       "duration_ms": 137810,
       "name": "Slutet av sommarn",
       "url": "https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO"
+    },
+    {
+      "album": {
+        "name": "So cool",
+        "url": "https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222546,
+      "name": "So cool",
+      "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
     },
     {
       "album": {
@@ -3876,7 +3916,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 132834,
       "name": "V\u00e6r s\u00e5 snill",
       "url": "https://open.spotify.com/track/1E1pF8K5l8K4gRWR7w3OFc"

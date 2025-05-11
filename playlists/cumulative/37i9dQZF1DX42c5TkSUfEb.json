@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Amiss",
+        "url": "https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Amiss",
+      "url": "https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ"
+    },
+    {
+      "album": {
         "name": "and we\u2019ll leave it there\u2026",
         "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 208010,
       "name": "Future Ghosts",
       "url": "https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY"
@@ -3078,6 +3096,24 @@
       "duration_ms": 238000,
       "name": "In a Manner of Speaking",
       "url": "https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT"
+    },
+    {
+      "album": {
+        "name": "Inland Ocean",
+        "url": "https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294026,
+      "name": "Inland Ocean",
+      "url": "https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG"
     },
     {
       "album": {
@@ -5496,7 +5532,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 207982,
       "name": "Stay cool",
       "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"

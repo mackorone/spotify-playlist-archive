@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,196 songs - 5 day 4 hr 14 min
+2,197 songs - 5 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -966,6 +966,7 @@
 | [It's That Time \- FISHER Remix](https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [It's That Time \(FISHER Remix\)](https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2) | 2:51 | 2024-06-21 | 2024-07-13 |
 | [It's Time](https://open.spotify.com/track/5wo8Gt4FPo4XSGh1hAKrIg) | [IBRA](https://open.spotify.com/artist/5ASWBtbVe1yfxjrCuREQ4p) | [It's Time](https://open.spotify.com/album/7HH4LiIIrbJ2dc5pzftC0m) | 2:48 | 2025-01-17 | 2025-03-01 |
 | [Jabula](https://open.spotify.com/track/6Kb5zYN5rUlBAZC3EqAB0T) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Verseless](https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM), [King Her](https://open.spotify.com/artist/6acKJrfjda2y2rbJ9lKLm5) | [Roots EP](https://open.spotify.com/album/6ZAcM29Ot4yCMlsRTmA7ze) | 3:38 | 2023-09-29 | 2023-10-07 |
+| [Jack 2.0](https://open.spotify.com/track/5QDKNa9ytupZ8tQq46qo2h) | [Kenty Clide](https://open.spotify.com/artist/2Shy7amYgzRmadn7sX4Ri0), [Kiro Prime](https://open.spotify.com/artist/21WEErBdntViTGBBNIX1Sr) | [Energy EP](https://open.spotify.com/album/0jf9tIZm02DJqv6hlkWb6s) | 2:53 | 2025-05-10 |  |
 | [Jack On The Line](https://open.spotify.com/track/3am9Xqm1H9bEpcl6g4m7tI) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Jack On The Line](https://open.spotify.com/album/4IGGQibQn3uUOhCQOLtwFS) | 4:23 | 2022-11-11 | 2022-11-19 |
 | [Jackstion \- Edit](https://open.spotify.com/track/5WRe14AMPtYOpIkfJjVogv) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Up The Attic EP](https://open.spotify.com/album/6Hh8t98iHvGEUZyHRIOUdq) | 4:09 | 2023-04-15 | 2023-04-22 |
 | [Jamming \- FISHER Rework](https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Jamming \(FISHER Rework\)](https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk) | 3:21 | 2024-02-17 | 2024-03-30 |

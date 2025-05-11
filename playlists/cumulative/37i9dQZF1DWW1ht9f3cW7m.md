@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring Spacey Jane 🍑
 
-235 songs - 12 hr 51 min
+237 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 | 2024-08-21 | 2025-02-07 |
 | [Lucky October](https://open.spotify.com/track/5jbMNZLyMOz6Yrwr7ox7aK) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Lucky October](https://open.spotify.com/album/7rElcjHJysuPTvc28oDj2s) | 2:41 | 2025-05-01 |  |
 | [Lungs](https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Lungs](https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr) | 3:40 | 2024-06-14 | 2025-04-13 |
-| [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 | 2025-05-01 |  |
+| [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 | 2025-05-01 | 2025-05-11 |
 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-08-21 | 2025-01-24 |
 | [Mega Circuit](https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Mega Circuit](https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS) | 3:04 | 2025-02-14 |  |
 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 | 2024-06-14 | 2025-01-24 |
@@ -160,6 +160,7 @@
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-08 |  |
 | [Moving Slow](https://open.spotify.com/track/28ePKpOvM6q9t2HLm1K4OG) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/2AoyVm8A8ZfkbRzij3qq7i) | 3:51 | 2024-06-14 | 2024-08-22 |
 | [Mr Useless](https://open.spotify.com/track/0B2jp7LW4HL9tfEBOwQ8Td) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Third Second Chance](https://open.spotify.com/album/2g8QiLGGO8oUhCeQuPgBFv) | 2:59 | 2024-06-14 | 2024-08-22 |
+| [My Brother's Guest Bed](https://open.spotify.com/track/609Nd2xhxPgFxdSFx2F3VN) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [My Brother's Guest Bed](https://open.spotify.com/album/430a74Rz9ehcYqIGQE5Pqr) | 2:36 | 2025-05-08 |  |
 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 | 2024-06-14 | 2025-04-13 |
 | [Never Get It Right](https://open.spotify.com/track/5sfcsarWqncOJ5vi34aAXz) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Never Get It Right](https://open.spotify.com/album/1LVnxRugTrMRHEQxKqRrMT) | 3:21 | 2024-06-14 | 2024-08-22 |
 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 | 2024-06-14 | 2025-01-24 |
@@ -223,6 +224,7 @@
 | [Tulips](https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Tulips](https://open.spotify.com/album/6EXK2krpifmLZZhJVlEgbv) | 3:18 | 2024-06-14 | 2024-07-13 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-04-12 |  |
 | [UnHinged](https://open.spotify.com/track/0tnqSQzffOCR3J0bnBUtJa) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [UnHinged](https://open.spotify.com/album/7A4oGPJzbB706sfR5AxZVz) | 2:48 | 2025-01-24 |  |
+| [Use A Friend](https://open.spotify.com/track/7fGzH1N3Hv3TZOuscdSLvn) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Only Making It Worse](https://open.spotify.com/album/6W7mdEoe0lAIDFIhAYf8cx) | 3:18 | 2025-05-08 |  |
 | [Use Me](https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Use Me](https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V) | 3:39 | 2024-06-14 | 2025-04-13 |
 | [Vertigo](https://open.spotify.com/track/3jowQzeDQU4dIAKQg7ahXh) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sadgirl](https://open.spotify.com/album/4zWfJm5YZnk7ML3mRRi0Xo) | 2:53 | 2025-05-01 |  |
 | [waiting on time](https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [waiting on time](https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL) | 3:06 | 2025-04-12 |  |
@@ -238,7 +240,7 @@
 | [Who](https://open.spotify.com/track/36Qy5JWTlosQe8mliqKCjw) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR), [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Who](https://open.spotify.com/album/6dUqAzE6hZbHbhIhtvoXA0) | 3:07 | 2024-06-14 | 2024-07-13 |
 | [Why Won't We](https://open.spotify.com/track/6293vQ1jOawXNqDhHZvFP5) | [Jack Panther](https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN) | [Why Won't We](https://open.spotify.com/album/1TnPgz3o5exKqZ2Ypdj80v) | 3:44 | 2025-01-24 | 2025-02-24 |
 | [With u](https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [With u](https://open.spotify.com/album/1EJFRkOwbD9DysVZImiu4h) | 2:20 | 2025-01-24 |  |
-| [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 | 2025-04-12 |  |
+| [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 | 2025-04-12 | 2025-05-11 |
 | [Yard](https://open.spotify.com/track/1pounXkmSnY4qudGv079kS) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Applesauce](https://open.spotify.com/album/3OBdKoFtSsBVqk7UDWH2M0) | 3:08 | 2025-04-12 | 2025-05-02 |
 | [you say that i'm crazy](https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [you say that i'm crazy](https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9) | 2:26 | 2025-01-24 | 2025-04-13 |
 | [YOU SUCK](https://open.spotify.com/track/1AP4ZEGsMjQmejiZRZLiXT) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [YOU SUCK](https://open.spotify.com/album/1DrreMLDkOgrQz7XwiLsOE) | 2:29 | 2025-04-12 |  |

@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: Zanai Bhosle
+> Most exciting artists from the Indian Indie scene\. Cover: maahi
 
-357 songs - 20 hr 12 min
+358 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-07-03 | 2024-06-22 |
 | [Jaadoogari](https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Jaadoogari](https://open.spotify.com/album/7xH1diJuXLqpv10oc2skWV) | 4:20 | 2021-12-06 | 2022-08-11 |
 | [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 | 2024-05-31 |  |
+| [Jaan Se Zyada](https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jaan Se Zyada](https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1) | 2:53 | 2025-05-10 |  |
 | [Jaana Kaha Hai](https://open.spotify.com/track/6aHl7WFS38wYezyWHTdghb) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Muhafiz](https://open.spotify.com/album/3i1b37UcMyjpG5vF5G3TMz) | 4:32 | 2021-12-06 | 2022-03-17 |
 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 | 2023-07-21 |  |
 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-09 | 2025-03-28 |
@@ -184,7 +185,7 @@
 | [Khwaab](https://open.spotify.com/track/7xOogdepAEsl16t7TFSJwA) | [The Lost Symbols](https://open.spotify.com/artist/5ABVMc7CPQJ9RZHoBFuXpa) | [The Diary](https://open.spotify.com/album/7DdCtXE6CQGdDXXbBXoin1) | 4:08 | 2021-12-06 | 2023-01-11 |
 | [Khwaabre](https://open.spotify.com/track/59mfcu2HSYSSFFopuUJmSY) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Anshul Mathur](https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX) | [Khwaabre](https://open.spotify.com/album/32anWLyKsIDiTjMFp4dV7a) | 3:01 | 2025-03-27 | 2025-04-23 |
 | [Khwaaish](https://open.spotify.com/track/3fCRkNn2uWBzMuRwi841pP) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [roshni](https://open.spotify.com/artist/5jdpVcss5rApltpJ53fwyW), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Shyam Renganathan](https://open.spotify.com/artist/6FhV9mVOAu3El9CJ5PJdf0) | [Khwaaish](https://open.spotify.com/album/0dftenaNNTJO61vGBrJdK7) | 3:49 | 2022-01-10 | 2023-01-11 |
-| [Khwabon Ke Rang](https://open.spotify.com/track/56QZnxULNrDzV7ueQLqlXo) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Khwabon Ke Rang](https://open.spotify.com/album/2Cx031mb2M1RtJ2QPm19Qi) | 3:36 | 2023-03-01 |  |
+| [Khwabon Ke Rang](https://open.spotify.com/track/56QZnxULNrDzV7ueQLqlXo) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Khwabon Ke Rang](https://open.spotify.com/album/2Cx031mb2M1RtJ2QPm19Qi) | 3:36 | 2023-03-01 | 2025-05-11 |
 | [Kitna hai pyaar](https://open.spotify.com/track/2HguBk9eKHGpEmRuo17Oz4) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Kitna hai pyaar](https://open.spotify.com/album/3yhuVkaGs7cJvHkKuQmoon) | 4:23 | 2021-12-06 | 2022-03-22 |
 | [Kitna Tarsey](https://open.spotify.com/track/1qPEaFTUb64NGcxM9QEK00) | [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Mahima Choudhary](https://open.spotify.com/artist/7y8aaSoQcEohBfCNpuGX6V) | [Kitna Tarsey](https://open.spotify.com/album/7m9PxUfmGeYbSXRYm0iizd) | 5:24 | 2021-12-06 | 2023-01-11 |
 | [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2021-12-06 | 2022-01-11 |

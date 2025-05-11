@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-728 songs - 1 day 11 hr 30 min
+729 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2023-03-23 | 2024-02-09 |
 | [Ancient Calm](https://open.spotify.com/track/61Nh3AZTeyO41688TfNmw7) | [Gabriel Carter](https://open.spotify.com/artist/7c8zAMsbkEZVGDiwloByHr) | [Ancient Calm](https://open.spotify.com/album/39muA5z5ivtLfO1qOnzOlI) | 2:50 | 2024-02-08 | 2024-08-17 |
 | [Anheral Motions](https://open.spotify.com/track/0qP5XbQTNpzXPf43AM4fuD) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Anheral Motions](https://open.spotify.com/album/5RAibrix0cx1l5EDmqWuu0) | 2:56 | 2025-04-23 |  |
-| [Animálico](https://open.spotify.com/track/3uZ4KyVZwwnfAt3IGhS3c0) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Turtle tear](https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT) | 2:41 | 2024-05-20 |  |
+| [Animálico](https://open.spotify.com/track/3uZ4KyVZwwnfAt3IGhS3c0) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Turtle tear](https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT) | 2:41 | 2024-05-20 | 2025-05-11 |
 | [Answers](https://open.spotify.com/track/2iOKDbXoqcTENod90jSmcH) | [Elmer Loyd](https://open.spotify.com/artist/4VIdNbofDE1Txze8n5jshd) | [Answers](https://open.spotify.com/album/6L7t3tZ2gQAJ3CYhM4joVp) | 2:58 | 2023-03-23 | 2024-04-06 |
 | [Antares](https://open.spotify.com/track/3PsBjzhmyOU2SRlQpozoc4) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Antares](https://open.spotify.com/album/2eDkjQZjSEWKZ6oZ1G60zb) | 3:03 | 2024-01-17 | 2024-07-13 |
 | [Antennae](https://open.spotify.com/track/3P7a523ZweyG0V97exR3OT) | [Lumious Dreamer](https://open.spotify.com/artist/7oZwy1TQhQidpCUTLsPd98) | [Antennae](https://open.spotify.com/album/0e0jmCeOYj542Untm7XqWN) | 2:40 | 2024-03-06 | 2024-03-21 |
@@ -189,6 +189,7 @@
 | [Doux](https://open.spotify.com/track/6ho42Ki13hVke3brhpCpS5) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Doux](https://open.spotify.com/album/5cZjbTGHqspFL1wUzl9YjY) | 4:12 | 2023-03-23 | 2024-01-18 |
 | [Downshifter](https://open.spotify.com/track/0MpMC42nt3Ud99MTfBOFw3) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Downshifter](https://open.spotify.com/album/1iTWiJDHdBc5DX3fxgHwjs) | 2:52 | 2024-12-17 |  |
 | [Doze](https://open.spotify.com/track/47SXoCdTY5ywuh7Fbf9Cjf) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Doze](https://open.spotify.com/album/1WMLr1i1P5093q0mECbk1O) | 2:45 | 2025-01-22 |  |
+| [Dream Path](https://open.spotify.com/track/2KSykAv743DfpWv5Eyu0VV) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Dream Path](https://open.spotify.com/album/3DUF8FElAy18CXwWhvk73K) | 2:34 | 2025-05-07 |  |
 | [Dream Prelude](https://open.spotify.com/track/16APbZysrMuvYvrfcvCZye) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Dream Prelude](https://open.spotify.com/album/6jgMM1JGpHVxA7RAxIJF8Z) | 3:00 | 2024-12-17 |  |
 | [Dream Reality](https://open.spotify.com/track/1aRSdvKuD2ZAkkNxWX8WSK) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Dream Reality](https://open.spotify.com/album/5wxnTcXIYBfog4sNDSOeMi) | 3:06 | 2023-03-23 | 2024-02-09 |
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2023-03-23 | 2024-03-21 |

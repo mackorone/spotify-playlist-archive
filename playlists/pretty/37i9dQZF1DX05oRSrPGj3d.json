@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 278452,
+  "num_followers": 278536,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Handle On You",
-        "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Handle On You",
-      "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "The Panhandlers",
         "url": "https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 188610,
       "name": "West Texas in My Eye",
       "url": "https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Handle On You",
+        "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Handle On You",
+      "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Burning The Day",
-        "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Interstate",
-      "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Wicked Twisted Road",
         "url": "https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 205760,
       "name": "Wicked Twisted Road",
       "url": "https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Burning The Day",
+        "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "Interstate",
+      "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
     },
     {
       "added_at": "2024-07-05 20:39:25",

@@ -1,6 +1,6 @@
 {
   "description": "Flow so good, it deserved a reload.  Cover: Footsie, Strategy",
-  "num_followers": 733565,
+  "num_followers": 733560,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,26 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
-        "name": "NAGASAKI",
-        "url": "https://open.spotify.com/album/23Q1sb2XLPfMENMxoFQaZL"
+        "name": "STILL REMINISCING",
+        "url": "https://open.spotify.com/album/4mpe33kvA9isxz7ts2OxIQ"
       },
       "artists": [
         {
-          "name": "JAY10!",
-          "url": "https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S"
+          "name": "Paul Stephan",
+          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
+        },
+        {
+          "name": "BexBlu",
+          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
+        },
+        {
+          "name": "Awaiting Kvng",
+          "url": "https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc"
         }
       ],
-      "duration_ms": 125142,
-      "name": "NAGASAKI",
-      "url": "https://open.spotify.com/track/3hdRDD1AEFO0077sxJKLwb"
+      "duration_ms": 147107,
+      "name": "STILL REMINISCING",
+      "url": "https://open.spotify.com/track/736FYsG3s7DP17BFgWxyTk"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -427,6 +435,22 @@
       "duration_ms": 150857,
       "name": "Falling Into Place",
       "url": "https://open.spotify.com/track/1Pmz95JwdCItjhPzOCpyga"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/23Q1sb2XLPfMENMxoFQaZL"
+      },
+      "artists": [
+        {
+          "name": "JAY10!",
+          "url": "https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/3hdRDD1AEFO0077sxJKLwb"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -487,6 +511,22 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/2k7Ug9KFqKGbLjXoVRDhwI"
+      },
+      "artists": [
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "duration_ms": 220791,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/0S4v7cMGdVr3wpxtbsVnVQ"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
         "name": "CHATTER",
         "url": "https://open.spotify.com/album/1Cb0LhKUdmd00qzoHoE56u"
       },
@@ -507,22 +547,6 @@
       "duration_ms": 144000,
       "name": "CHATTER",
       "url": "https://open.spotify.com/track/4Cy9267dN73kuBXlk9Auxb"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/2k7Ug9KFqKGbLjXoVRDhwI"
-      },
-      "artists": [
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
-        }
-      ],
-      "duration_ms": 220791,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/0S4v7cMGdVr3wpxtbsVnVQ"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -639,22 +663,6 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
-        "name": "Putting on Weight",
-        "url": "https://open.spotify.com/album/4IbnHED3BCP9bjIu68xghy"
-      },
-      "artists": [
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 183283,
-      "name": "Putting on Weight",
-      "url": "https://open.spotify.com/track/4RuSxcgeanxhLik8LIx3ND"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
         "name": "Watch the Ride",
         "url": "https://open.spotify.com/album/2GcfSVz2I2Y4Ck3XOTddLa"
       },
@@ -671,6 +679,22 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
+        "name": "Putting on Weight",
+        "url": "https://open.spotify.com/album/4IbnHED3BCP9bjIu68xghy"
+      },
+      "artists": [
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 183283,
+      "name": "Putting on Weight",
+      "url": "https://open.spotify.com/track/4RuSxcgeanxhLik8LIx3ND"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
         "name": "On Toppa Dat",
         "url": "https://open.spotify.com/album/2THmfSCYjtagtgaRiwl3yq"
       },
@@ -683,6 +707,30 @@
       "duration_ms": 214825,
       "name": "On Toppa Dat",
       "url": "https://open.spotify.com/track/6xILImJGF1bi9UuY6nkdGD"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
+        "name": "Everything Is Under Control",
+        "url": "https://open.spotify.com/album/0AaIKiYApduLqEzFOx5W4R"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "MoreNight",
+          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
+        },
+        {
+          "name": "Kamakaze",
+          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Exercise",
+      "url": "https://open.spotify.com/track/7dMnwxwno1vlYvs1DeEarL"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -731,30 +779,6 @@
       "duration_ms": 253718,
       "name": "Grimey",
       "url": "https://open.spotify.com/track/2vvhQW7s1czelKMplu7T1d"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
-        "name": "Everything Is Under Control",
-        "url": "https://open.spotify.com/album/0AaIKiYApduLqEzFOx5W4R"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        },
-        {
-          "name": "MoreNight",
-          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
-        },
-        {
-          "name": "Kamakaze",
-          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Exercise",
-      "url": "https://open.spotify.com/track/7dMnwxwno1vlYvs1DeEarL"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -827,6 +851,22 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
+        "name": "No Remorse",
+        "url": "https://open.spotify.com/album/3ikKskfLpAGVeqLsReUaLT"
+      },
+      "artists": [
+        {
+          "name": "Jammz",
+          "url": "https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0"
+        }
+      ],
+      "duration_ms": 180506,
+      "name": "Focussed",
+      "url": "https://open.spotify.com/track/0Ya9VclZT2lAiJvDYXZDcl"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
         "name": "NO SENSE",
         "url": "https://open.spotify.com/album/4ZQ9aXylRGbQoxe0vTbBIQ"
       },
@@ -843,46 +883,6 @@
       "duration_ms": 195428,
       "name": "NO SENSE",
       "url": "https://open.spotify.com/track/6KarkNK3MGxD5xd8NXCIXN"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
-        "name": "Or What?",
-        "url": "https://open.spotify.com/album/5af3gKAMG5ohDcUaXGnL5r"
-      },
-      "artists": [
-        {
-          "name": "Silencer",
-          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
-        },
-        {
-          "name": "More Fire Crew",
-          "url": "https://open.spotify.com/artist/5oZ8KfzPMkIanBdvY371cK"
-        },
-        {
-          "name": "Bruza",
-          "url": "https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx"
-        }
-      ],
-      "duration_ms": 171433,
-      "name": "Or What?",
-      "url": "https://open.spotify.com/track/7hJug6mHWKyJwLpIYIhPyd"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
-        "name": "No Remorse",
-        "url": "https://open.spotify.com/album/3ikKskfLpAGVeqLsReUaLT"
-      },
-      "artists": [
-        {
-          "name": "Jammz",
-          "url": "https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0"
-        }
-      ],
-      "duration_ms": 180506,
-      "name": "Focussed",
-      "url": "https://open.spotify.com/track/0Ya9VclZT2lAiJvDYXZDcl"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -923,6 +923,30 @@
       "duration_ms": 207857,
       "name": "Nature Of the Game",
       "url": "https://open.spotify.com/track/1Z1MXTGoC7qDvCfvu5KFzQ"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
+        "name": "Or What?",
+        "url": "https://open.spotify.com/album/5af3gKAMG5ohDcUaXGnL5r"
+      },
+      "artists": [
+        {
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "More Fire Crew",
+          "url": "https://open.spotify.com/artist/5oZ8KfzPMkIanBdvY371cK"
+        },
+        {
+          "name": "Bruza",
+          "url": "https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx"
+        }
+      ],
+      "duration_ms": 171433,
+      "name": "Or What?",
+      "url": "https://open.spotify.com/track/7hJug6mHWKyJwLpIYIhPyd"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -1031,22 +1055,6 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
-        "name": "Just-B",
-        "url": "https://open.spotify.com/album/6wosb2TsbT4POqP17ll5R3"
-      },
-      "artists": [
-        {
-          "name": "Just-B",
-          "url": "https://open.spotify.com/artist/6tQKpWqFbZTGXKCrdHJkTh"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Jenova",
-      "url": "https://open.spotify.com/track/7sj716ZVpLv3YDCM3ULFsc"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
         "name": "Streets Of Rage",
         "url": "https://open.spotify.com/album/7JSFtsnMVxEfk4gToZYM1t"
       },
@@ -1063,6 +1071,22 @@
       "duration_ms": 251292,
       "name": "Streets Of Rage",
       "url": "https://open.spotify.com/track/4o1fiAhnayXFvxwHNmxlcB"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
+        "name": "Just-B",
+        "url": "https://open.spotify.com/album/6wosb2TsbT4POqP17ll5R3"
+      },
+      "artists": [
+        {
+          "name": "Just-B",
+          "url": "https://open.spotify.com/artist/6tQKpWqFbZTGXKCrdHJkTh"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Jenova",
+      "url": "https://open.spotify.com/track/7sj716ZVpLv3YDCM3ULFsc"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -1103,30 +1127,6 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
-        "name": "STILL REMINISCING",
-        "url": "https://open.spotify.com/album/4mpe33kvA9isxz7ts2OxIQ"
-      },
-      "artists": [
-        {
-          "name": "Paul Stephan",
-          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
-        },
-        {
-          "name": "BexBlu",
-          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
-        },
-        {
-          "name": "Awaiting Kvng",
-          "url": "https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc"
-        }
-      ],
-      "duration_ms": 147107,
-      "name": "STILL REMINISCING",
-      "url": "https://open.spotify.com/track/736FYsG3s7DP17BFgWxyTk"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
         "name": "Bring N Kill",
         "url": "https://open.spotify.com/album/0Ng3EqYDKU74SZfz5O1yT2"
       },
@@ -1139,6 +1139,26 @@
       "duration_ms": 168000,
       "name": "Bring N Kill",
       "url": "https://open.spotify.com/track/0um0oJHWDBqSLlRF2DCa0D"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
+        "name": "Sickest",
+        "url": "https://open.spotify.com/album/1rPnfCR9P8aKh17zkJxt64"
+      },
+      "artists": [
+        {
+          "name": "Skamma",
+          "url": "https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU"
+        },
+        {
+          "name": "Skinzmann",
+          "url": "https://open.spotify.com/artist/4LYC87LRTZHzfcjE6369OM"
+        }
+      ],
+      "duration_ms": 236486,
+      "name": "Sickest",
+      "url": "https://open.spotify.com/track/2dPXzSEky54rtrszuVm32O"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -1175,26 +1195,6 @@
       "duration_ms": 201588,
       "name": "A ROADMAN'S TALE OF HOME",
       "url": "https://open.spotify.com/track/6kkUaLzdlga6I4fRBkWxVq"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
-        "name": "Sickest",
-        "url": "https://open.spotify.com/album/1rPnfCR9P8aKh17zkJxt64"
-      },
-      "artists": [
-        {
-          "name": "Skamma",
-          "url": "https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU"
-        },
-        {
-          "name": "Skinzmann",
-          "url": "https://open.spotify.com/artist/4LYC87LRTZHzfcjE6369OM"
-        }
-      ],
-      "duration_ms": 236486,
-      "name": "Sickest",
-      "url": "https://open.spotify.com/track/2dPXzSEky54rtrszuVm32O"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
-        "name": "ICE VS ICE",
-        "url": "https://open.spotify.com/album/6XemLZ6kdvA4WY0DRc3QjM"
-      },
-      "artists": [
-        {
-          "name": "Lady Ice",
-          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
-        }
-      ],
-      "duration_ms": 82500,
-      "name": "ICE VS ICE",
-      "url": "https://open.spotify.com/track/2Hcg8Jrx0EzUI80pxKnmZa"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
         "name": "We're All On TV",
         "url": "https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 222124,
       "name": "In My Corner",
       "url": "https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
+        "name": "ICE VS ICE",
+        "url": "https://open.spotify.com/album/6XemLZ6kdvA4WY0DRc3QjM"
+      },
+      "artists": [
+        {
+          "name": "Lady Ice",
+          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
+        }
+      ],
+      "duration_ms": 82500,
+      "name": "ICE VS ICE",
+      "url": "https://open.spotify.com/track/2Hcg8Jrx0EzUI80pxKnmZa"
     },
     {
       "added_at": "2025-05-08 23:00:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Rishab Rikhiram Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,022 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,046 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 12 | [Nehar Wale Pul](https://open.spotify.com/track/68VvEaiP2xHt1qfXvR4fBt) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4), [Swarupa Ananth](https://open.spotify.com/artist/29RyBMursO97PbeLmPF3Qb) | [Nehar Wale Pul](https://open.spotify.com/album/2dMQOpGzLrEyXXvLsCPrEU) | 2:51 |
 | 13 | [Chaap Tilak](https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 8:52 |
 | 14 | [Latthay Di Chaadar](https://open.spotify.com/track/58AkcBdW5NpM2TBbkKbdK3) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 4](https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX) | 7:58 |
-| 15 | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M) | 5:28 |
-| 16 | [Bulbuli](https://open.spotify.com/track/3UQNpb3oIk5GWNu9efvNg5) | [Ritu Raj](https://open.spotify.com/artist/1yTkWdk95JHU9bD8gZWMor), [Nandita](https://open.spotify.com/artist/1olb97DNlYXqItxaR3qfxC) | [Bulbuli](https://open.spotify.com/album/4f5KGhlRtDxxxrQwLSnhZK) | 5:46 |
+| 15 | [Bulbuli](https://open.spotify.com/track/3UQNpb3oIk5GWNu9efvNg5) | [Ritu Raj](https://open.spotify.com/artist/1yTkWdk95JHU9bD8gZWMor), [Nandita](https://open.spotify.com/artist/1olb97DNlYXqItxaR3qfxC) | [Bulbuli](https://open.spotify.com/album/4f5KGhlRtDxxxrQwLSnhZK) | 5:46 |
+| 16 | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M) | 5:28 |
 | 17 | [Khamaaj](https://open.spotify.com/track/1yOzcnB0kIli8JttbJFMEK) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:39 |
 | 18 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 |
 | 19 | [Mitho Laage \- The Dewarists, Season 5](https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Mitho Laage \(The Dewarists, Season 5\)](https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp) | 4:40 |

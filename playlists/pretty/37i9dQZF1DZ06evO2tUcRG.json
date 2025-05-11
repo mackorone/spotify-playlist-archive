@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAABxWtV8yv7BNtMrRHocpnUp",
+  "snapshot_id": "aB1FgAAAAABHHBMOGEs2PPFVjAeJEQ6a",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 230719,
+      "name": "O Mover do Esp\u00edrito (Quero que Valorize)",
+      "url": "https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 374986,
       "name": "Nada Al\u00e9m de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 230719,
-      "name": "O Mover do Esp\u00edrito (Quero que Valorize)",
-      "url": "https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT"
     },
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fernandinho Em Casa (ao Vivo)",
-        "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
+        "name": "Atos 2 (feat. Gabriela Rocha)",
+        "url": "https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "ALEXANDRE APOSAN",
+          "url": "https://open.spotify.com/artist/5aqyG1NWZsQ3F1puhd9egt"
         },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 367380,
-      "name": "Me Leva - Ao Vivo",
-      "url": "https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl"
+      "duration_ms": 342221,
+      "name": "Atos 2 (feat. Gabriela Rocha)",
+      "url": "https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L"
     },
     {
       "added_at": null,
@@ -495,22 +495,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atos 2 (feat. Gabriela Rocha)",
-        "url": "https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J"
+        "name": "Fernandinho Em Casa (ao Vivo)",
+        "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
       },
       "artists": [
         {
-          "name": "ALEXANDRE APOSAN",
-          "url": "https://open.spotify.com/artist/5aqyG1NWZsQ3F1puhd9egt"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 342221,
-      "name": "Atos 2 (feat. Gabriela Rocha)",
-      "url": "https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L"
+      "duration_ms": 367380,
+      "name": "Me Leva - Ao Vivo",
+      "url": "https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tuas \u00c1guas",
+        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Tuas \u00c1guas",
+      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
     },
     {
       "added_at": null,
@@ -535,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pequenos Levitas",
+        "url": "https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 246309,
+      "name": "Meu Respirar",
+      "url": "https://open.spotify.com/track/0aYacAcJiyatA3isESq9nO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estrela da Manh\u00e3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
       },
@@ -547,42 +583,6 @@
       "duration_ms": 208025,
       "name": "Estrela da Manh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pequenos Levitas",
-        "url": "https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 282081,
-      "name": "Bondade de Deus",
-      "url": "https://open.spotify.com/track/5qNpWIV6uues1TTgo0aIph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tuas \u00c1guas",
-        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Tuas \u00c1guas",
-      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 246309,
-      "name": "Meu Respirar",
-      "url": "https://open.spotify.com/track/0aYacAcJiyatA3isESq9nO"
+      "duration_ms": 282081,
+      "name": "Bondade de Deus",
+      "url": "https://open.spotify.com/track/5qNpWIV6uues1TTgo0aIph"
     },
     {
       "added_at": null,

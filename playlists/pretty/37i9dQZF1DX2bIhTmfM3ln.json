@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 43389,
+  "num_followers": 43403,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
-        "name": "Arike",
-        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 124286,
-      "name": "Arike",
-      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
-    },
-    {
-      "added_at": "2025-05-09 13:06:39",
-      "album": {
         "name": "All The Love",
         "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 188127,
       "name": "All The Love",
       "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "added_at": "2025-05-09 13:06:39",
+      "album": {
+        "name": "Arike",
+        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 124286,
+      "name": "Arike",
+      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
     },
     {
       "added_at": "2025-05-09 13:06:39",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
-    },
-    {
-      "added_at": "2025-05-09 13:06:39",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 170666,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy"
+    },
+    {
+      "added_at": "2025-05-09 13:06:39",
+      "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2025-05-09 13:06:39",
@@ -667,18 +667,22 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
-        "name": "Mr Lover",
-        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
+        "name": "Hildabaci (Remix)",
+        "url": "https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z"
       },
       "artists": [
         {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
         }
       ],
-      "duration_ms": 136266,
-      "name": "Mr Lover",
-      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
+      "duration_ms": 192921,
+      "name": "Hildabaci - Remix",
+      "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"
     },
     {
       "added_at": "2025-05-09 13:06:39",
@@ -719,6 +723,22 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
+        "name": "Mr Lover",
+        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "Mr Lover",
+      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
+    },
+    {
+      "added_at": "2025-05-09 13:06:39",
+      "album": {
         "name": "NUMBER ONE (feat. Minz)",
         "url": "https://open.spotify.com/album/7qsbzgt7rxG82wr7qi0v6T"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 243744,
       "name": "NUMBER ONE (feat. Minz)",
       "url": "https://open.spotify.com/track/1uOd46FEiW7ritNBNgNdBK"
-    },
-    {
-      "added_at": "2025-05-09 13:06:39",
-      "album": {
-        "name": "Hildabaci (Remix)",
-        "url": "https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z"
-      },
-      "artists": [
-        {
-          "name": "Samad",
-          "url": "https://open.spotify.com/artist/3H6ywgDZDimbLKJbce3Vvw"
-        },
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/7tuRwDV0EOIlkA5LU5UcDh"
-        }
-      ],
-      "duration_ms": 192921,
-      "name": "Hildabaci - Remix",
-      "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"
     },
     {
       "added_at": "2025-05-09 13:06:39",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
+        "name": "Maradona",
+        "url": "https://open.spotify.com/album/43l7zSy9bqfrBYBaNWhc9P"
+      },
+      "artists": [
+        {
+          "name": "Agatchu",
+          "url": "https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65"
+        }
+      ],
+      "duration_ms": 152941,
+      "name": "Maradona",
+      "url": "https://open.spotify.com/track/0FSEqwIBzMOI6R5n8E6Cxx"
+    },
+    {
+      "added_at": "2025-05-09 13:06:39",
+      "album": {
         "name": "i think i love you 2",
         "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
       },
@@ -799,34 +815,18 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
-        "name": "Maradona",
-        "url": "https://open.spotify.com/album/43l7zSy9bqfrBYBaNWhc9P"
+        "name": "Conversations",
+        "url": "https://open.spotify.com/album/5mxKCceapm5IHrfJ6v0P4u"
       },
       "artists": [
         {
-          "name": "Agatchu",
-          "url": "https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65"
+          "name": "Garvicii",
+          "url": "https://open.spotify.com/artist/4WluWeHM8nC1XSzwsd111V"
         }
       ],
-      "duration_ms": 152941,
-      "name": "Maradona",
-      "url": "https://open.spotify.com/track/0FSEqwIBzMOI6R5n8E6Cxx"
-    },
-    {
-      "added_at": "2025-05-09 13:06:39",
-      "album": {
-        "name": "Samory",
-        "url": "https://open.spotify.com/album/2zGag5WZkERb7PpoVu2SuP"
-      },
-      "artists": [
-        {
-          "name": "Dahvi",
-          "url": "https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt"
-        }
-      ],
-      "duration_ms": 161291,
-      "name": "Samory",
-      "url": "https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM"
+      "duration_ms": 135576,
+      "name": "Conversations",
+      "url": "https://open.spotify.com/track/7d918PzAZdGEIlaENCH9SE"
     },
     {
       "added_at": "2025-05-09 13:06:39",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
-        "name": "Conversations",
-        "url": "https://open.spotify.com/album/5mxKCceapm5IHrfJ6v0P4u"
+        "name": "Samory",
+        "url": "https://open.spotify.com/album/2zGag5WZkERb7PpoVu2SuP"
       },
       "artists": [
         {
-          "name": "Garvicii",
-          "url": "https://open.spotify.com/artist/4WluWeHM8nC1XSzwsd111V"
+          "name": "Dahvi",
+          "url": "https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt"
         }
       ],
-      "duration_ms": 135576,
-      "name": "Conversations",
-      "url": "https://open.spotify.com/track/7d918PzAZdGEIlaENCH9SE"
+      "duration_ms": 161291,
+      "name": "Samory",
+      "url": "https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM"
     },
     {
       "added_at": "2025-05-09 13:06:39",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/417gVtxA0PrdGVTMnMFAfA"
-      },
-      "artists": [
-        {
-          "name": "Zarion Uti",
-          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "100",
-      "url": "https://open.spotify.com/track/4tVM51ch0CnTjgG77cLZqE"
-    },
-    {
-      "added_at": "2025-05-09 13:06:39",
-      "album": {
         "name": "Like Home (feat. Teni)",
         "url": "https://open.spotify.com/album/1ZU1iHIFaN92OK2Pc1Oah4"
       },
@@ -1039,18 +1023,34 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
-        "name": "Virtuoso",
-        "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
+        "name": "100",
+        "url": "https://open.spotify.com/album/417gVtxA0PrdGVTMnMFAfA"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "Zarion Uti",
+          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
         }
       ],
-      "duration_ms": 190641,
-      "name": "Despasito",
-      "url": "https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg"
+      "duration_ms": 150666,
+      "name": "100",
+      "url": "https://open.spotify.com/track/4tVM51ch0CnTjgG77cLZqE"
+    },
+    {
+      "added_at": "2025-05-09 13:06:39",
+      "album": {
+        "name": "Well",
+        "url": "https://open.spotify.com/album/20YEEoY9fomFLV1BYOJ7gk"
+      },
+      "artists": [
+        {
+          "name": "Nello MXL",
+          "url": "https://open.spotify.com/artist/3tTgOZaxLpzUirK4aKQalD"
+        }
+      ],
+      "duration_ms": 96521,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/5GJpGaP79iINgsXERqERlc"
     },
     {
       "added_at": "2025-05-09 13:06:39",
@@ -1103,6 +1103,22 @@
       "duration_ms": 159819,
       "name": "Keep It Sexy",
       "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
+    },
+    {
+      "added_at": "2025-05-09 13:06:39",
+      "album": {
+        "name": "Virtuoso",
+        "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 190641,
+      "name": "Despasito",
+      "url": "https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg"
     },
     {
       "added_at": "2025-05-09 13:06:39",
@@ -1163,22 +1179,6 @@
       "duration_ms": 159294,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
-    },
-    {
-      "added_at": "2025-05-09 13:06:39",
-      "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/20YEEoY9fomFLV1BYOJ7gk"
-      },
-      "artists": [
-        {
-          "name": "Nello MXL",
-          "url": "https://open.spotify.com/artist/3tTgOZaxLpzUirK4aKQalD"
-        }
-      ],
-      "duration_ms": 96521,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/5GJpGaP79iINgsXERqERlc"
     },
     {
       "added_at": "2025-05-09 13:06:39",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 145325,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6"
+    },
+    {
+      "added_at": "2025-05-09 13:06:39",
+      "album": {
         "name": "Lemme Know",
         "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
       },
@@ -1307,6 +1323,26 @@
       "duration_ms": 173571,
       "name": "Lemme Know",
       "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
+    },
+    {
+      "added_at": "2025-05-09 13:06:39",
+      "album": {
+        "name": "WHEN NOBODY IS WATCHING",
+        "url": "https://open.spotify.com/album/7wupiYO6dV8M4Ghs3dWljJ"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "WHAT HAVE YOU DONE",
+      "url": "https://open.spotify.com/track/7s7kxVXd3l1vDHrBe8YtYC"
     },
     {
       "added_at": "2025-05-09 13:06:39",
@@ -1443,22 +1479,6 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
-        "name": "Te Nu Mo",
-        "url": "https://open.spotify.com/album/3o798fSJdqlQZ0o5OA57MB"
-      },
-      "artists": [
-        {
-          "name": "Mizzle",
-          "url": "https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "Te Nu Mo",
-      "url": "https://open.spotify.com/track/0oyZYjXFFwUhwyDDfxGdU1"
-    },
-    {
-      "added_at": "2025-05-09 13:06:39",
-      "album": {
         "name": "Pace",
         "url": "https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI"
       },
@@ -1483,46 +1503,18 @@
     {
       "added_at": "2025-05-09 13:06:39",
       "album": {
-        "name": "Diamond & Roses",
-        "url": "https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf"
+        "name": "Te Nu Mo",
+        "url": "https://open.spotify.com/album/3o798fSJdqlQZ0o5OA57MB"
       },
       "artists": [
         {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Mizzle",
+          "url": "https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd"
         }
       ],
-      "duration_ms": 159587,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe"
-    },
-    {
-      "added_at": "2025-05-09 13:06:39",
-      "album": {
-        "name": "Road To Fuego",
-        "url": "https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
-        }
-      ],
-      "duration_ms": 171073,
-      "name": "Azonto Fiesta (feat. Amaarae & Mugeez)",
-      "url": "https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw"
+      "duration_ms": 175161,
+      "name": "Te Nu Mo",
+      "url": "https://open.spotify.com/track/0oyZYjXFFwUhwyDDfxGdU1"
     }
   ],
   "unique_name": "Lovin' Beats",

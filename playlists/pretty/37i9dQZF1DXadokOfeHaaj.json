@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Real Lies",
-  "num_followers": 35877,
+  "num_followers": 35904,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 214921,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 214921,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
     },
     {
       "added_at": "2025-05-08 23:00:20",
@@ -639,26 +639,6 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
-        "name": "All You Children",
-        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 254142,
-      "name": "All You Children",
-      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
         "name": "24h In A Disco",
         "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 195254,
       "name": "24h In A Disco",
       "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
+        "name": "All You Children",
+        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "All You Children",
+      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
     },
     {
       "added_at": "2025-05-08 23:00:20",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
-        "name": "The Mirror",
-        "url": "https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 173120,
-      "name": "The Mirror",
-      "url": "https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
         "name": "Song for You / The Wizard",
         "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 213466,
       "name": "Song for You",
       "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 173120,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N"
     },
     {
       "added_at": "2025-05-08 23:00:20",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
         "name": "Rush (Missing Out On Me)",
         "url": "https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 144802,
       "name": "Rush (Missing Out On Me)",
       "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
     },
     {
       "added_at": "2025-05-08 23:00:20",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
+        "name": "The Person You\u2019d Like To Be",
+        "url": "https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 197890,
+      "name": "The Person You\u2019d Like To Be",
+      "url": "https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
         "name": "Watching Me Dance",
         "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 213688,
       "name": "Watching Me Dance",
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
-        "name": "The Person You\u2019d Like To Be",
-        "url": "https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 197890,
-      "name": "The Person You\u2019d Like To Be",
-      "url": "https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P"
     },
     {
       "added_at": "2025-05-08 23:00:20",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-05-08 23:00:20",
       "album": {
-        "name": "Mild To Moderate Pain",
-        "url": "https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 195282,
-      "name": "Mild To Moderate Pain",
-      "url": "https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK"
-    },
-    {
-      "added_at": "2025-05-08 23:00:20",
-      "album": {
         "name": "Thrown Around",
         "url": "https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 260407,
       "name": "Thrown Around",
       "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
+    },
+    {
+      "added_at": "2025-05-08 23:00:20",
+      "album": {
+        "name": "Mild To Moderate Pain",
+        "url": "https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 195282,
+      "name": "Mild To Moderate Pain",
+      "url": "https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK"
     }
   ],
   "unique_name": "Indie Electronic ",

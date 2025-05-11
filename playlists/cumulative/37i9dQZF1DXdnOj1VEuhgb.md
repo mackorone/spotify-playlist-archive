@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Wegh x Reynmen
 
-599 songs - 1 day 3 hr 12 min
+600 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Hipnoz](https://open.spotify.com/track/5rF4T9eLBH22n001km84Sp) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Hipnoz](https://open.spotify.com/album/54nTCuqmDn9Lcc7aYV4iCj) | 2:14 | 2025-04-24 | 2025-05-09 |
 | [HMDL](https://open.spotify.com/track/4gB1ND5arP2TEb7ZYAUrdL) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS) | [HMDL](https://open.spotify.com/album/6Hc0LHGmWgFHtLLPkALdom) | 3:47 | 2025-03-13 |  |
 | [Hot Baklava](https://open.spotify.com/track/022rI0RuFfCXbccNYdQF1l) | [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Hot Baklava](https://open.spotify.com/album/0rrBvjk4AUIo737hTUSM7k) | 2:20 | 2023-07-27 | 2023-08-19 |
-| [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-11-09 |  |
+| [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-11-09 | 2025-05-11 |
 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 | 2025-03-06 |  |
 | [Hüsran](https://open.spotify.com/track/6R97ZWEIAdPM733YsJETnx) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Hüsran](https://open.spotify.com/album/0GB3rPFXXOG6nggS7ipwAm) | 3:12 | 2023-11-09 | 2023-12-14 |
 | [Hüsran Hepsi](https://open.spotify.com/track/1cLGvuG1AQYxIHhto1XJda) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Hüsran Hepsi](https://open.spotify.com/album/5Py36nVFgslvqkTdhO9EBJ) | 3:33 | 2024-12-12 | 2024-12-27 |
@@ -450,6 +450,7 @@
 | [pVg](https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [pVg](https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6) | 4:03 | 2024-01-18 | 2024-11-01 |
 | [Pışşt Baksana](https://open.spotify.com/track/1zb7jJXt2aAP7cFBrd9GcX) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh) | [Pışşt Baksana](https://open.spotify.com/album/5pgE4mqzQPUzQqcgGZgQ8N) | 2:23 | 2023-11-09 | 2024-01-26 |
 | [R \- CHORBA](https://open.spotify.com/track/79YI30eKDKmcHwDQvN9ryS) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 1:17 | 2023-01-10 | 2023-03-10 |
+| [RACK ROMANTIK](https://open.spotify.com/track/3C5Btxi0vW5QCiYH8GzMpX) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB), [Young Mesh](https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys) | [RACK ROMANTIK](https://open.spotify.com/album/4QdpmssfdvtB8B4BpYtWnF) | 2:49 | 2025-05-10 |  |
 | [Rampapam](https://open.spotify.com/track/2YvcBymuw17DtWOtSBQYuS) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Rampapam](https://open.spotify.com/album/6z7ciF1khZ4yF0U5J9SKiB) | 2:04 | 2025-05-08 |  |
 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 | 2023-03-09 | 2023-12-15 |
 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 | 2023-03-02 | 2023-04-28 |

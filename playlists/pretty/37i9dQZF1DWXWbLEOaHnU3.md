@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,247 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,305 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 60 | [Shingara](https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [3Form](https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs), [Psyfeature](https://open.spotify.com/artist/36n64MsjDNcijIzOojYw2F) | [Shingara](https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs) | 5:17 |
 | 61 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
 | 62 | [Ancient Aum](https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4) | [Ancient Aum](https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5) | 8:00 |
-| 63 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
-| 64 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
+| 63 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
+| 64 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
 | 65 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 |
 | 66 | [The Hook](https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr) | [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [The Hook](https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q) | 4:45 |
 | 67 | [Nova](https://open.spotify.com/track/0ekoUHScohhFaSE5yS28K3) | [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4), [Protonica](https://open.spotify.com/artist/2fhNO804KWA0hiFxjpv3Tt) | [Nova](https://open.spotify.com/album/3dy4DmQnHDQuXRcead8IMv) | 8:08 |

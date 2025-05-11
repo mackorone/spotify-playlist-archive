@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: adaś.
 
-453 songs - 21 hr 56 min
+454 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Jest jak jest](https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Jest jak jest](https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7) | 2:48 | 2025-04-24 |  |
 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 | 2024-08-30 | 2025-01-24 |
 | [jesteś głupi](https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [jesteś głupi](https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw) | 2:38 | 2024-08-22 | 2025-01-24 |
+| [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-08 |  |
 | [jutro będzie furtką](https://open.spotify.com/track/7CKoaVBHrzovd5lRLnpHAi) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [jutro będzie furtką](https://open.spotify.com/album/10EBsg405gpFD2LpUnv6ES) | 3:08 | 2024-06-28 | 2024-07-05 |
 | [Już nie szkoda](https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Już nie szkoda](https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh) | 2:48 | 2024-06-28 | 2024-11-29 |
 | [Kalifornia](https://open.spotify.com/track/2s33rfHUFAxiTh9AzSUloU) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Kalifornia](https://open.spotify.com/album/7kD8PQnZQ5WetSlvANmeQk) | 4:33 | 2025-04-24 |  |
@@ -349,7 +350,7 @@
 | [Sangria](https://open.spotify.com/track/2eOZVNpzl3BxAlUduZfUPu) | [MILI JACK](https://open.spotify.com/artist/545f9s9IidY421Nw3QtyhO) | [Sangria](https://open.spotify.com/album/6Ad8k07iiHmD9wbuNfAM03) | 2:40 | 2024-06-28 | 2024-10-05 |
 | [Sansewierie](https://open.spotify.com/track/5CWSpK1cmWWEgYod64Wlrf) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Sansewierie](https://open.spotify.com/album/3lA9ppkbEyLkGhMYjdGSQF) | 3:24 | 2024-08-30 | 2025-01-24 |
 | [SELFISH](https://open.spotify.com/track/7kPuCRW93380qAKwAD4NFQ) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ) | [SELFISH](https://open.spotify.com/album/5UoQemJq64zyyU2DAvOvu2) | 2:31 | 2024-07-04 | 2024-08-23 |
-| [Sen, który się powtarza](https://open.spotify.com/track/5TWLguF47GizHYaNGJVSCu) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Sen, który się powtarza](https://open.spotify.com/album/5pGlN5xkGn2rR2VV2h843W) | 2:31 | 2025-05-01 |  |
+| [Sen, który się powtarza](https://open.spotify.com/track/5TWLguF47GizHYaNGJVSCu) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Sen, który się powtarza](https://open.spotify.com/album/5pGlN5xkGn2rR2VV2h843W) | 2:31 | 2025-05-01 | 2025-05-11 |
 | [Sentymenty](https://open.spotify.com/track/3l2Ktx9BaFMpu5sKedn4ji) | [Martyna Rempała](https://open.spotify.com/artist/3iL4ECdi3TcAQXI08e4BUt) | [Droga do marzeń](https://open.spotify.com/album/6rRYbzotYUDzK5VAfuCT4m) | 2:30 | 2024-11-28 | 2025-01-24 |
 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-23 | 2025-02-28 |
 | [side eye](https://open.spotify.com/track/2ZfmRSYUAbHE2twToeQgdV) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [side eye](https://open.spotify.com/album/5ZDhhwbT8AGih1jLwZzh9d) | 1:51 | 2024-06-28 | 2024-09-14 |

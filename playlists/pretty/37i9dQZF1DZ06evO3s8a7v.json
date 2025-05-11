@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 43717,
+  "num_followers": 43724,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAAAnDLwD2FwnQr/WKt+QNidA",
+  "snapshot_id": "aB1FgAAAAAANDTjp/KQbm+pvRPldWHqu",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAL DE AMOR",
-        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 221270,
-      "name": "MAL DE AMOR",
-      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HISTERIQUEO",
         "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 205809,
       "name": "HISTERIQUEO",
       "url": "https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAL DE AMOR",
+        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 221270,
+      "name": "MAL DE AMOR",
+      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
     },
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lejos (REMIX)",
+        "url": "https://open.spotify.com/album/0BveghjcZHf8rgjpG2Gf3I"
+      },
+      "artists": [
+        {
+          "name": "Valentina Olguin",
+          "url": "https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 190861,
+      "name": "Lejos - REMIX",
+      "url": "https://open.spotify.com/track/2bIbFssR2q89LZUshe5vTb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre La Tierra y El Cielo",
         "url": "https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 253496,
       "name": "Entre La Tierra y El Cielo",
       "url": "https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lejos (REMIX)",
-        "url": "https://open.spotify.com/album/0BveghjcZHf8rgjpG2Gf3I"
-      },
-      "artists": [
-        {
-          "name": "Valentina Olguin",
-          "url": "https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 190861,
-      "name": "Lejos - REMIX",
-      "url": "https://open.spotify.com/track/2bIbFssR2q89LZUshe5vTb"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Dvicio",
-          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "4 Meses",
-      "url": "https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MYA LIVE P1: Chanel de Coco",
         "url": "https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 209725,
       "name": "MYA LIVE P1: Chanel de Coco",
       "url": "https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Dvicio",
+          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "4 Meses",
+      "url": "https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe"
     },
     {
       "added_at": null,
@@ -935,26 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Insta (Remix)",
-        "url": "https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp"
+        "name": "Suelta, Sola y Tranquila (feat. MYA)",
+        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
       },
       "artists": [
         {
-          "name": "Lauta",
-          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
         },
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 206772,
-      "name": "Insta - Remix",
-      "url": "https://open.spotify.com/track/1K9b2N8P77GNFnx5Tw6MbA"
+      "duration_ms": 149929,
+      "name": "Suelta, Sola y Tranquila (feat. MYA)",
+      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
     },
     {
       "added_at": null,
@@ -983,22 +979,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suelta, Sola y Tranquila (feat. MYA)",
-        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
+        "name": "Insta (Remix)",
+        "url": "https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp"
       },
       "artists": [
         {
-          "name": "FABRO",
-          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
         },
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 149929,
-      "name": "Suelta, Sola y Tranquila (feat. MYA)",
-      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
+      "duration_ms": 206772,
+      "name": "Insta - Remix",
+      "url": "https://open.spotify.com/track/1K9b2N8P77GNFnx5Tw6MbA"
     },
     {
       "added_at": null,

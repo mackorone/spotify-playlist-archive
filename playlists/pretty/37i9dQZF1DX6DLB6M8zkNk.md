@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,637 likes - 76 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,945 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 54 | [My Father's Favourite](https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Tony Hymas](https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Jonathan Snowdon](https://open.spotify.com/artist/752896mc0Y5RDJwZAETv13), [Robert Hill](https://open.spotify.com/artist/5TFInGNkbqsyFW0BdpB0RM), [Richard Morgan](https://open.spotify.com/artist/3IbUU6yqnGpK2p24ZJMjIO) | [Sense & Sensibility \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq) | 5:27 |
 | 55 | [The Prince and the Emperor](https://open.spotify.com/track/0T387GumMkV4CKNUb2yAwf) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Prince and the Emperor](https://open.spotify.com/album/661xdHFeMHZg9biKHudInm) | 3:48 |
 | 56 | [Tewkesbury's Trail](https://open.spotify.com/track/7i6aVrjKTpxz0I2G3IubY9) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Enola Holmes \(Music from the Netflix Film\)](https://open.spotify.com/album/6sFS4WAvywzoeormyV0tA5) | 1:41 |
-| 57 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
+| 57 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomàs Peire Serrate](https://open.spotify.com/artist/5Ej2nkofJ86vrXgu1bTmgr) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
 | 58 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
 | 59 | [Pavane, Op\. 50 \(Version for Piano\)](https://open.spotify.com/track/2mNQl3DEWtkrwKllwYpxi0) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Jorge Federico Osorio](https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057) | [The French Album](https://open.spotify.com/album/4QYFeRjBgVCv8Vrb3cK7wI) | 5:59 |
 | 60 | [leaves and trees](https://open.spotify.com/track/17Cv0iBOjWabaeLqAMAxQf) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 5:57 |

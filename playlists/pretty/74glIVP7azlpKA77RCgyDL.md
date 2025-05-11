@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Sleep Token.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,917 likes - 113 songs - 6 hr 36 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,918 likes - 113 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 55 | [Mascot](https://open.spotify.com/track/2cxkTaDpJz0F2WRHVa8Ti1) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Mascot](https://open.spotify.com/album/4kSyalTUF0LmvLJykLFHPO) | 2:42 |
 | 56 | [Nü Burn](https://open.spotify.com/track/6SpXyStq0oiro815bJLey9) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Nü Burn](https://open.spotify.com/album/01i8t4KWDs5RSTO6mR69m0) | 4:01 |
 | 57 | [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 |
-| 58 | [Button Eyes](https://open.spotify.com/track/2DOUn2VHfSfUIyyZLE9Ig9) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [Button Eyes](https://open.spotify.com/album/1Ea8ce1wPV4CthoUAEkbtL) | 3:38 |
+| 58 | [button eyes](https://open.spotify.com/track/2DOUn2VHfSfUIyyZLE9Ig9) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [button eyes](https://open.spotify.com/album/1Ea8ce1wPV4CthoUAEkbtL) | 3:38 |
 | 59 | [Black Rainbow](https://open.spotify.com/track/3xNwSLvN6QsZ6BgUbQKRm3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:24 |
 | 60 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
 | 61 | [Brain Dead](https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Brain Dead](https://open.spotify.com/album/3JETPcu03Ccra5Md9guFlU) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,611 likes - 148 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,670 likes - 148 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

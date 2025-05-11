@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Syahravi
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,631 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,638 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 2 | [Blue](https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Blue](https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y) | 3:40 |
 | 3 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 |
 | 4 | [Nuansa Romansa](https://open.spotify.com/track/5IlUsmKzmLDcjfC64huD43) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db) | [Nuansa Romansa](https://open.spotify.com/album/0FbED58kWNrEd41ZGh4X9T) | 4:38 |
-| 5 | [Hanya Memuji](https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/75eKV8vEiT7mjwSHhLfSNi) | [Hanya Memuji](https://open.spotify.com/album/5WRLsSxz99UFtkLishLcB1) | 3:57 |
+| 5 | [Hanya Memuji](https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Hanya Memuji](https://open.spotify.com/album/5WRLsSxz99UFtkLishLcB1) | 3:57 |
 | 6 | [Bring It On](https://open.spotify.com/track/7jjSkcLMIVQT0w9LlsfL9q) | [SEBY](https://open.spotify.com/artist/2gyoZB0qaowphecujZAzTd) | [A to Z](https://open.spotify.com/album/5Uwg2KxTq43qPGJkAYWrlR) | 4:08 |
 | 7 | [Delusional](https://open.spotify.com/track/2V5NrnoZajhUP5pVZZVjs9) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Romansa](https://open.spotify.com/album/65KdItMclPJytUzzNuI8eJ) | 3:31 |
 | 8 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |

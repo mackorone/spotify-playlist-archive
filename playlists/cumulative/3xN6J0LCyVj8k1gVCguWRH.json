@@ -7990,7 +7990,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 169410,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/3ONU5ylXYEwwEGjKqbpdcJ"
@@ -18166,7 +18166,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 191879,
       "name": "Crystal Clear",
       "url": "https://open.spotify.com/track/1dDAEPmDEYFPDkxuHEX4gQ"
@@ -76728,7 +76728,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 171360,
       "name": "Sweet Lies",
       "url": "https://open.spotify.com/track/7MgBO6sA9suc8wQPFaECdk"
@@ -81823,6 +81823,24 @@
     },
     {
       "album": {
+        "name": "Tinz on Tinz",
+        "url": "https://open.spotify.com/album/0JjnPagt808HoNtG1GQINc"
+      },
+      "artists": [
+        {
+          "name": "Dumomi the Jig",
+          "url": "https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Tinz on Tinz",
+      "url": "https://open.spotify.com/track/18gQ7GMHw2CI5hsbHGbFAi"
+    },
+    {
+      "album": {
         "name": "Moonlight Beach",
         "url": "https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA"
       },
@@ -83636,6 +83654,36 @@
       "duration_ms": 172307,
       "name": "Turks (Please)",
       "url": "https://open.spotify.com/track/59pctfTKSFFi8yKMUWsbnJ"
+    },
+    {
+      "album": {
+        "name": "Turn Arounds",
+        "url": "https://open.spotify.com/album/6liWdqBSSnJTAXRyl5Rda2"
+      },
+      "artists": [
+        {
+          "name": "dopameen",
+          "url": "https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T"
+        },
+        {
+          "name": "PHE",
+          "url": "https://open.spotify.com/artist/3GiMHB8QcOaxt6s2UZcxKa"
+        },
+        {
+          "name": "PinkLane Project",
+          "url": "https://open.spotify.com/artist/1uWywGx35Tq3zh5AjAD9c8"
+        },
+        {
+          "name": "Swimming Teddys",
+          "url": "https://open.spotify.com/artist/6kTqvXVMr7SCmBiqkJUeeY"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Turn Arounds",
+      "url": "https://open.spotify.com/track/0xhDVF992seHZAJ3A1P5gX"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 175525,
+  "num_followers": 175585,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-01-13 13:12:00",
       "album": {
-        "name": "Sylvie's Love (Amazon Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj"
-      },
-      "artists": [
-        {
-          "name": "Fabrice Lecomte",
-          "url": "https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp"
-        },
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 119986,
-      "name": "B.-Loved (feat. C\u00e9cile McLorin Salvant) - French Version",
-      "url": "https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6"
-    },
-    {
-      "added_at": "2025-01-13 13:12:00",
-      "album": {
         "name": "Chico & Rita",
         "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 76773,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke"
+    },
+    {
+      "added_at": "2025-01-13 13:12:00",
+      "album": {
+        "name": "Sylvie's Love (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj"
+      },
+      "artists": [
+        {
+          "name": "Fabrice Lecomte",
+          "url": "https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp"
+        },
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 119986,
+      "name": "B.-Loved (feat. C\u00e9cile McLorin Salvant) - French Version",
+      "url": "https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6"
     },
     {
       "added_at": "2025-01-13 13:12:00",

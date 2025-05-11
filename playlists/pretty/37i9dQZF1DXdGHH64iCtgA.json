@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 84952,
+  "num_followers": 84981,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Working Class Woman",
-        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
-      },
-      "artists": [
-        {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        }
-      ],
-      "duration_ms": 306187,
-      "name": "So Right",
-      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
-    },
-    {
-      "added_at": "2025-04-25 05:00:30",
-      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Eatin' Good",
-        "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
+        "name": "Working Class Woman",
+        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
       },
       "artists": [
         {
-          "name": "Woodcamp",
-          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
         }
       ],
-      "duration_ms": 221904,
-      "name": "Eatin' Good",
-      "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
+      "duration_ms": 306187,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1115,6 +1099,22 @@
       "duration_ms": 523453,
       "name": "Iron 2021",
       "url": "https://open.spotify.com/track/19VTLxYPvCyYpAWxsfj3ir"
+    },
+    {
+      "added_at": "2025-04-25 05:00:30",
+      "album": {
+        "name": "Eatin' Good",
+        "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
+      },
+      "artists": [
+        {
+          "name": "Woodcamp",
+          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "Eatin' Good",
+      "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Animosity (SOPHIE Remix)",
-        "url": "https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh"
-      },
-      "artists": [
-        {
-          "name": "Abyss X",
-          "url": "https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 486760,
-      "name": "Animosity - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
-    },
-    {
-      "added_at": "2025-04-25 05:00:30",
-      "album": {
         "name": "We All Move Together (Kevin Saunderson x Latroit Remix)",
         "url": "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 200000,
       "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
       "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
+    },
+    {
+      "added_at": "2025-04-25 05:00:30",
+      "album": {
+        "name": "Animosity (SOPHIE Remix)",
+        "url": "https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh"
+      },
+      "artists": [
+        {
+          "name": "Abyss X",
+          "url": "https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 486760,
+      "name": "Animosity - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
+        "name": "Jam Fam (Chanel Show Version)",
+        "url": "https://open.spotify.com/album/4bfWioZVwpafj6ZAndLDZy"
+      },
+      "artists": [
+        {
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+        }
+      ],
+      "duration_ms": 209555,
+      "name": "Jam Fam - Chanel Show Version",
+      "url": "https://open.spotify.com/track/5c9mk8S49pGZnUWXVLEGpI"
+    },
+    {
+      "added_at": "2025-04-25 05:00:30",
+      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Jam Fam (Chanel Show Version)",
-        "url": "https://open.spotify.com/album/4bfWioZVwpafj6ZAndLDZy"
+        "name": "DIAMOND TAPE",
+        "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
       },
       "artists": [
         {
-          "name": "Planningtorock",
-          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         }
       ],
-      "duration_ms": 209555,
-      "name": "Jam Fam - Chanel Show Version",
-      "url": "https://open.spotify.com/track/5c9mk8S49pGZnUWXVLEGpI"
+      "duration_ms": 246101,
+      "name": "3AM IN CHELSEA",
+      "url": "https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1419,22 +1435,6 @@
       "duration_ms": 187000,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
-    },
-    {
-      "added_at": "2025-04-25 05:00:30",
-      "album": {
-        "name": "DIAMOND TAPE",
-        "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 246101,
-      "name": "3AM IN CHELSEA",
-      "url": "https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA"
-      },
-      "artists": [
-        {
-          "name": "ermhoi",
-          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
-        }
-      ],
-      "duration_ms": 252459,
-      "name": "E",
-      "url": "https://open.spotify.com/track/21wXCpWHhImzz4KYHxQ71q"
-    },
-    {
-      "added_at": "2025-04-25 05:00:30",
-      "album": {
         "name": "Late Night Specialist",
         "url": "https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 362267,
       "name": "Fierce",
       "url": "https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn"
+    },
+    {
+      "added_at": "2025-04-25 05:00:30",
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA"
+      },
+      "artists": [
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "duration_ms": 252459,
+      "name": "E",
+      "url": "https://open.spotify.com/track/21wXCpWHhImzz4KYHxQ71q"
     },
     {
       "added_at": "2025-04-25 05:00:30",

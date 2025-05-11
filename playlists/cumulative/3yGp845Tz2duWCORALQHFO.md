@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,838 songs - 6 day 9 hr 55 min
+2,839 songs - 6 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2806,6 +2806,7 @@
 | [Wrap Yourself Around Me](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Wrap Yourself Around Me](https://open.spotify.com/album/3tVEnCdypxOfjpyv7G6Fo4) | 3:15 | 2025-02-21 | 2025-03-01 |
 | [Writing's On The Wall](https://open.spotify.com/track/1tzp16G2CYBl7878BVaz9i) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Moments In Everglow](https://open.spotify.com/album/1VpvvVrZ7EzVL2o0cDvW1l) | 3:31 | 2025-04-18 | 2025-04-25 |
 | [Wrong Feels Right](https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy) | [Format:B](https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux) | [Wrong Feels Right](https://open.spotify.com/album/4JStjZisUl2g35HszGXxt5) | 2:35 | 2024-11-08 | 2024-11-16 |
+| [WTFTF?](https://open.spotify.com/track/7JYJRDEELG8ZKdnKskHA5Z) | [Ambrxse](https://open.spotify.com/artist/47oNSHfwymN7Gg2IftahRA), [SMALLS](https://open.spotify.com/artist/4YoHx0687cG3Sy5PHbvT8y) | [WTFTF?](https://open.spotify.com/album/1AUCabtvZbsJyK84HYZySG) | 3:02 | 2025-05-10 |  |
 | [WTFU](https://open.spotify.com/track/0cHilmFKEfqEPL44631FQF) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [WTFU](https://open.spotify.com/album/07JB8VElSyX1mNqy2lSRrP) | 2:57 | 2024-11-22 | 2024-11-30 |
 | [WTFU \- Chocolate Puma House Mix](https://open.spotify.com/track/7v6sDb9ts9cp9BLh3BLplD) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [WTFU \(Chocolate Puma House Mix\)](https://open.spotify.com/album/2l3wz2y3mwAe7n64738pMC) | 3:02 | 2024-12-13 | 2024-12-20 |
 | [WUB WUB](https://open.spotify.com/track/0prmgC69Ik1WBF8u1gQvXv) | [JALES](https://open.spotify.com/artist/5sqLaObOwRwfBNBxde1IQi) | [WUB WUB](https://open.spotify.com/album/3YB8TeYA23aYdeKc7LlKgM) | 2:08 | 2024-06-28 | 2024-07-06 |

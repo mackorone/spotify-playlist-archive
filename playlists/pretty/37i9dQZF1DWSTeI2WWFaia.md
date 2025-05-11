@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,120 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,047 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 46 | [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 |
 | 47 | [CEMETERY lanterns](https://open.spotify.com/track/0xaloe0I542PKzVJqAQnca) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [CEMETERY lanterns](https://open.spotify.com/album/1nuh4LbgW3jcalOcmF17d2) | 3:45 |
 | 48 | [Bad Choices](https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Bad Choices](https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g) | 3:04 |
-| 49 | [RSNS](https://open.spotify.com/track/3PfMSGIlU5ZsiHBguJmbVB) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [V Don](https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq) | [Alphabet Highway](https://open.spotify.com/album/6ycmH3cA1cHMTwPCkzf97b) | 3:08 |
-| 50 | [The Rose Bowl](https://open.spotify.com/track/4R3V2vn98DbTGi9s0xnNjq) | [The High & Mighty](https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [The Rose Bowl](https://open.spotify.com/album/738mu27ZSAb4E6HuSO9tzt) | 4:15 |
+| 49 | [Unapologetic](https://open.spotify.com/track/4AUJexwwUwEf6Wi1kHV5iC) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Token of Appreciation](https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT) | 3:09 |
+| 50 | [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 |
 
 Snapshot ID: `aB191QAAAABrYqv7BIDM6RPU2tkW5lpJ`

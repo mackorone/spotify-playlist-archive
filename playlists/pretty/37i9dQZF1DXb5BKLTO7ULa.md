@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van Naomi Sharon, néomí \(RADAR\-artiest\), Tyla, Miley Cyrus en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,864 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,883 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

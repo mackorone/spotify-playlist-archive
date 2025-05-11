@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Limonar",
+        "url": "https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195892,
+      "name": "Limonar",
+      "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
+    },
+    {
+      "album": {
         "name": "Lo Malo (Remix)",
         "url": "https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf"
       },
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 137386,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0"

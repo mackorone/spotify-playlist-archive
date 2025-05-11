@@ -14713,6 +14713,24 @@
     },
     {
       "album": {
+        "name": "MAIS",
+        "url": "https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "FOS STO DROMO",
+      "url": "https://open.spotify.com/track/1R3RMMX96zftzTPnboEa6N"
+    },
+    {
+      "album": {
         "name": "Psihi",
         "url": "https://open.spotify.com/album/0q5FSP6nRfgWvze8vJxAYy"
       },
@@ -20210,7 +20228,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 262566,
       "name": "KALIKES",
       "url": "https://open.spotify.com/track/30vCFuH2i81OwqxxqXkhJU"
@@ -20796,6 +20814,24 @@
       "duration_ms": 189374,
       "name": "Kathreftis",
       "url": "https://open.spotify.com/track/4azlWSauf9tzq8otYeEM5U"
+    },
+    {
+      "album": {
+        "name": "Oneiropolos",
+        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Kathreftis",
+      "url": "https://open.spotify.com/track/5QC9BGJEiSzpGXF3Zo23Z2"
     },
     {
       "album": {
@@ -31414,7 +31450,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 210000,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6vAZ49VeVb8fQuSenKUBH2"
@@ -31648,7 +31684,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 130367,
       "name": "Para Polla",
       "url": "https://open.spotify.com/track/4vNAGErj3JZs6I56JWQQUE"
@@ -34012,6 +34048,24 @@
       "duration_ms": 225230,
       "name": "PROVLIMA",
       "url": "https://open.spotify.com/track/539dzbXamyNpK1LA9LMWdW"
+    },
+    {
+      "album": {
+        "name": "Oneiropolos",
+        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Provlimata",
+      "url": "https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH"
     },
     {
       "album": {
@@ -43524,10 +43578,28 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 189622,
       "name": "Vorias",
       "url": "https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY"
+    },
+    {
+      "album": {
+        "name": "Oneiropolos",
+        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189622,
+      "name": "Vorias",
+      "url": "https://open.spotify.com/track/3gOXiqKkGCE0TR31c2SONO"
     },
     {
       "album": {
@@ -44604,10 +44676,28 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 157578,
       "name": "Xiliometra",
       "url": "https://open.spotify.com/track/2acUYxCZbgndtm70LgCCbS"
+    },
+    {
+      "album": {
+        "name": "Oneiropolos",
+        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157578,
+      "name": "Xiliometra",
+      "url": "https://open.spotify.com/track/2zR6FzBG3hAfZoWz7MsqT1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1516231,
+  "num_followers": 1516213,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Ac\u00fastico Na Casa Do Lago (Ac\u00fastico / Ao Vivo)",
         "url": "https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 219728,
       "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -543,22 +543,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Sol Lua Sol, ao Vivo em S\u00e3o Paulo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla"
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
       },
       "artists": [
         {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 257282,
-      "name": "Outra Vez - Ao Vivo",
-      "url": "https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL"
+      "duration_ms": 223773,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -595,18 +591,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
+        "name": "Sol Lua Sol, ao Vivo em S\u00e3o Paulo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 223773,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
+      "duration_ms": 257282,
+      "name": "Outra Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL"
     },
     {
       "added_at": "2024-08-02 18:37:00",

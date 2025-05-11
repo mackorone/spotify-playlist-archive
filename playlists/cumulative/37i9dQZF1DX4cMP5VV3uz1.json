@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/2k7Ug9KFqKGbLjXoVRDhwI"
+      },
+      "artists": [
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220791,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/0S4v7cMGdVr3wpxtbsVnVQ"
+    },
+    {
+      "album": {
         "name": "West Connect",
         "url": "https://open.spotify.com/album/4A4Ab2OjKIVvelyAs2apOz"
       },
@@ -3493,6 +3511,28 @@
     },
     {
       "album": {
+        "name": "Hijack",
+        "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155913,
+      "name": "Hijack",
+      "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
+    },
+    {
+      "album": {
         "name": "Hit The Brakes",
         "url": "https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz"
       },
@@ -3774,7 +3814,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 195428,
       "name": "In tha Place",
       "url": "https://open.spotify.com/track/0av9s9O8gpAWPb7M4WTzFz"
@@ -4804,7 +4844,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 231379,
       "name": "Mayhem",
       "url": "https://open.spotify.com/track/42LqXbanU92CKjxpsJN01Z"
@@ -5634,6 +5674,28 @@
       "duration_ms": 177136,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+    },
+    {
+      "album": {
+        "name": "Outta Order",
+        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235885,
+      "name": "Outta Order",
+      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
     },
     {
       "album": {
@@ -8714,7 +8776,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 181034,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ"

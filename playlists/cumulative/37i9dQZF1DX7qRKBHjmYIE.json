@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334448,
+      "name": "Angels All Around Me\u2026",
+      "url": "https://open.spotify.com/track/0tbzabQUhf3QpxRuS9jKxi"
+    },
+    {
+      "album": {
         "name": "Antes De Partir",
         "url": "https://open.spotify.com/album/5vcN3zxTsyTPZcIlVDNhOq"
       },
@@ -4590,7 +4608,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 204000,
       "name": "Durmiendo",
       "url": "https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt"
@@ -12448,7 +12466,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 263480,
       "name": "Polos Opuestos",
       "url": "https://open.spotify.com/track/0xoTYvHVwTwWqPKthhJe1S"
@@ -12618,6 +12636,24 @@
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH"
+    },
+    {
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220964,
+      "name": "PUERTA DEL SOL",
+      "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
     },
     {
       "album": {
@@ -14940,7 +14976,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 217096,
       "name": "Te Am\u00e9 Temprano",
       "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
@@ -15940,6 +15976,28 @@
       "duration_ms": 170362,
       "name": "UN A\u00d1O DE MIERDA",
       "url": "https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y"
+    },
+    {
+      "album": {
+        "name": "Un Castigo",
+        "url": "https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189580,
+      "name": "Un Castigo",
+      "url": "https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX"
     },
     {
       "album": {

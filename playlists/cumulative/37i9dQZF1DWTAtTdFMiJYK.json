@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover: Zanai Bhosle",
+  "description": "Most exciting artists from the Indian Indie scene. Cover: maahi",
   "name": "RADAR India",
   "tracks": [
     {
@@ -2577,6 +2577,32 @@
     },
     {
       "album": {
+        "name": "Jaan Se Zyada",
+        "url": "https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Zain - Sam",
+          "url": "https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173597,
+      "name": "Jaan Se Zyada",
+      "url": "https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP"
+    },
+    {
+      "album": {
         "name": "Muhafiz",
         "url": "https://open.spotify.com/album/3i1b37UcMyjpG5vF5G3TMz"
       },
@@ -3532,7 +3558,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 216461,
       "name": "Khwabon Ke Rang",
       "url": "https://open.spotify.com/track/56QZnxULNrDzV7ueQLqlXo"

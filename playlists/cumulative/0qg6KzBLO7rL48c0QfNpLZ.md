@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,059 songs - 1 day 22 hr 52 min
+1,060 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [Only Thing We Know](https://open.spotify.com/track/77YLeSEI8unMbZVWNUqioQ) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Only Thing We Know](https://open.spotify.com/album/3MUMYAr6ma1ELvgeL8Ogh9) | 2:53 | 2023-12-29 | 2024-09-15 |
 | [Only Us](https://open.spotify.com/track/3K1MapNENokJiM7hEKPVFY) | [ENVOL](https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4) | [Only Us](https://open.spotify.com/album/0Q7CHtFnknIDlRplfLOoy9) | 2:34 | 2025-04-25 |  |
 | [Open Fire](https://open.spotify.com/track/7JZSZ5Uy8h9VmLCDJbvWCM) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [blaank](https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Open Fire](https://open.spotify.com/album/1UEB001N38SJ9DXEfwcIhv) | 2:23 | 2024-08-02 | 2024-08-31 |
+| [Open Your Eyes](https://open.spotify.com/track/5xWGLlUZHordQ7MKHXRvTu) | [Affective Sound](https://open.spotify.com/artist/4USMfRih7XRwvmhuG96nPo) | [Open Your Eyes](https://open.spotify.com/album/6ISMYtKrV8x2L9AkUoW2iw) | 2:46 | 2025-05-10 |  |
 | [Our Mirror](https://open.spotify.com/track/15oKxmTDg0s3tXJ0MC4XsH) | [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv), [giant cactus](https://open.spotify.com/artist/02TbkOielUUsgRVxnT1Xyc) | [Our Mirror](https://open.spotify.com/album/7hIIxoYgHLzIz054ThUSqc) | 2:41 | 2024-02-16 | 2024-03-16 |
 | [Our Paradise](https://open.spotify.com/track/274nknNGE9xabI7FtOg59m) | [Daïtshi](https://open.spotify.com/artist/6dYujIzzHgSWODbmPYoJVC), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [Our Paradise](https://open.spotify.com/album/6psMx9uV4Vp2bfpgjNnCPw) | 2:37 | 2024-08-30 | 2024-09-15 |
 | [Our Way](https://open.spotify.com/track/4uAyfGoQcu1tmM0uvQxQI8) | [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg), [Keely Keyz](https://open.spotify.com/artist/4GyZgtnuaI35gkhi22yZTE), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Our Way](https://open.spotify.com/album/6YiODwq71WRPqdk2cl8l2B) | 2:18 | 2025-04-26 | 2025-05-10 |

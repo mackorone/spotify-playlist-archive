@@ -4,7 +4,7 @@
 
 > 
 
-2,219 songs - 4 day 20 hr 59 min
+2,220 songs - 4 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -871,6 +871,7 @@
 | [Hard uit me plaat](https://open.spotify.com/track/6AtTrmYEkzJ8uMUj8J8Vmt) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Brutaal](https://open.spotify.com/artist/2L75XehpwmdRiCRtT8ctiU) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 2:42 | 2022-09-06 |  |
 | [HARD\-COREMATA \- HVS ver.](https://open.spotify.com/track/1pj171RxCE6ZaW4dTVIBXy) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb), [Matatabi Sound System](https://open.spotify.com/artist/2psvrZAUoHkWuM5KZAbwc5), [DJ NECOJITA](https://open.spotify.com/artist/5SWIqvJVbXytqkRg5ste4h), [Shinonome Interface](https://open.spotify.com/artist/1cYzRgYVdxIwCjYBYAh8U7), [blaxervant](https://open.spotify.com/artist/35iNXVtX6Joy1aRqgo7BaN) | [HiTNEX ViRTUAL SHiFTERZ](https://open.spotify.com/album/0ETNfFWDHqLq48n52CDFAg) | 3:09 | 2024-05-13 |  |
 | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/track/1L5WsT1jrgXRCIbu9jlk3F) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/album/25paSvklKJb1ENR1K7cMdh) | 3:49 | 2025-01-24 |  |
+| [HARDCORE AMERICAN COWBOY 2.0](https://open.spotify.com/track/1rlbRXFTQwDaZDimbwMZ0K) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [HARDCORE AMERICAN COWBOY 2.0](https://open.spotify.com/album/2HPTamTD6cHROWGdAPlZxR) | 2:13 | 2025-05-10 |  |
 | [Hardcore ASMR](https://open.spotify.com/track/6xCeXMlYGhuOocEtWpTCdo) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt), [Nanahira](https://open.spotify.com/artist/0bkkiFN0ghGl4j9aLi3oQx) | [Screamin' Showcase](https://open.spotify.com/album/1N1ynCOqZxE1PNc1oBsUqB) | 3:51 | 2022-08-11 |  |
 | [Hardcore Drip](https://open.spotify.com/track/5AKNPzHMM6bKbBRTPcJkAP) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6), [AndyHas](https://open.spotify.com/artist/6wfN5ffp4HgM3RNswX1hCW) | [Final Destination](https://open.spotify.com/album/7p7c4LcT3WljqkxHDqvnp1) | 3:29 | 2022-09-06 |  |
 | [Hardcore France 15 \- I Like To Fck](https://open.spotify.com/track/0yJpVrfbL6C8jB3IDdCEtm) | [Mr\. Bassmeister](https://open.spotify.com/artist/5aT7fqsgVA5IKJHtkfpPDw) | [Hardcore France 15 \- I Like To Fck](https://open.spotify.com/album/2vRiqGY2j6PbGTGKQ4HELb) | 4:22 | 2022-04-19 |  |

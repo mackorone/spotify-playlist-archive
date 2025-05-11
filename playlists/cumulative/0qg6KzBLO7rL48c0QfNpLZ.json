@@ -15199,6 +15199,24 @@
     },
     {
       "album": {
+        "name": "Open Your Eyes",
+        "url": "https://open.spotify.com/album/6ISMYtKrV8x2L9AkUoW2iw"
+      },
+      "artists": [
+        {
+          "name": "Affective Sound",
+          "url": "https://open.spotify.com/artist/4USMfRih7XRwvmhuG96nPo"
+        }
+      ],
+      "date_added": "2025-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/5xWGLlUZHordQ7MKHXRvTu"
+    },
+    {
+      "album": {
         "name": "Our Mirror",
         "url": "https://open.spotify.com/album/7hIIxoYgHLzIz054ThUSqc"
       },

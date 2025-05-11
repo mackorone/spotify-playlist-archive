@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
-  "num_followers": 465077,
+  "num_followers": 464986,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "The Covers",
-        "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        },
-        {
-          "name": "Tyler Cain",
-          "url": "https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd"
-        },
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 196537,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "...but i'd rather be with you, too",
         "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "The Covers",
+        "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Tyler Cain",
+          "url": "https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 196537,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1307,58 +1307,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Ohio / After The Gold Rush",
-        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 294142,
-      "name": "After The Gold Rush",
-      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "The Circle Game [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm"
-      },
-      "artists": [
-        {
-          "name": "Tom Rush",
-          "url": "https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp"
-        }
-      ],
-      "duration_ms": 317133,
-      "name": "The Circle Game - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "All The Good Times",
-        "url": "https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        },
-        {
-          "name": "David Rawlings",
-          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
-        }
-      ],
-      "duration_ms": 212308,
-      "name": "Jackson",
-      "url": "https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
         "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
       },
@@ -1383,6 +1331,58 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Ohio / After The Gold Rush",
+        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 294142,
+      "name": "After The Gold Rush",
+      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "All The Good Times",
+        "url": "https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "duration_ms": 212308,
+      "name": "Jackson",
+      "url": "https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "The Circle Game [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm"
+      },
+      "artists": [
+        {
+          "name": "Tom Rush",
+          "url": "https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp"
+        }
+      ],
+      "duration_ms": 317133,
+      "name": "The Circle Game - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Love At The Five & Dime",
         "url": "https://open.spotify.com/album/3h3OflWVSlb7gvhVQ2qJQn"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Your Song (Vapor IKEA Commercial)",
-        "url": "https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 110110,
-      "name": "Your Song (Vapor IKEA Commercial)",
-      "url": "https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 264930,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Your Song (Vapor IKEA Commercial)",
+        "url": "https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 110110,
+      "name": "Your Song (Vapor IKEA Commercial)",
+      "url": "https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 190110,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "i'm not okay",
         "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 174773,
       "name": "i'm not okay",
       "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 190110,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Sings Kacey Musgraves",
+        "url": "https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "duration_ms": 217524,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "Sings Kacey Musgraves",
-        "url": "https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
-        }
-      ],
-      "duration_ms": 217524,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR"
     },
     {
       "added_at": "2025-05-02 17:28:32",

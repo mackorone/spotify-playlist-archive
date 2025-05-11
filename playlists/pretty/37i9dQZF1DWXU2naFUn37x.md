@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Young Hash in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,329 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,372 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 38 | [CAFFÈ AMARO](https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAFFÈ AMARO](https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV) | 1:59 |
 | 39 | [Samsung \(feat\. Artie 5ive\)](https://open.spotify.com/track/3f1jFXeKXlRPhW1S8yEgmj) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 3:15 |
 | 40 | [HASTA LA MUERTE](https://open.spotify.com/track/7rb3Fo6N2NhbsBlCtNjYUk) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [HASTA LA MUERTE](https://open.spotify.com/album/7BO0UzQeDgHK3g1rYcw4M5) | 2:34 |
-| 41 | [Per I Roiz 3](https://open.spotify.com/track/03CDoSGmgQ8M0fSMfJsvwZ) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [V per Ventidue](https://open.spotify.com/album/61rxGfJSgCpHqKuSylu32b) | 2:11 |
+| 41 | [Per i Roiz 3](https://open.spotify.com/track/03CDoSGmgQ8M0fSMfJsvwZ) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [V per Ventidue](https://open.spotify.com/album/61rxGfJSgCpHqKuSylu32b) | 2:11 |
 | 42 | [Sarà Perchè Ti Amo](https://open.spotify.com/track/2KPth5vlBFoFETGwjGf7Fa) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Sarà Perchè Ti Amo](https://open.spotify.com/album/4jsTSoE4BenJ7A84gEC5sH) | 2:09 |
 | 43 | [Santo Domingo](https://open.spotify.com/track/2WLXU9SmXgcxPC3gfLfhLX) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Lucifer](https://open.spotify.com/artist/0VNf9xwpp1f2TFUH2Q85Ar) | [MC30](https://open.spotify.com/album/5dhZ6Rpkqyg3QRbBMBQEgS) | 2:06 |
 | 44 | [PROCESS \(feat\. Vaz Tè, Nader Shah, Izi, Ill Rave\)](https://open.spotify.com/track/3qtOJSry0Ufgare0uytXHP) | [Helmi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Nader Shah](https://open.spotify.com/artist/0hzphYnZcEjlCT5nesxeV1), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Ill Rave](https://open.spotify.com/artist/2UED7orH77Ei8kwVG4TNAJ) | [PROCESS \(feat\. Vaz Tè, Nader Shah, Izi, Ill Rave\)](https://open.spotify.com/album/3N04MZoALnYHVmmEW2JZkV) | 3:06 |

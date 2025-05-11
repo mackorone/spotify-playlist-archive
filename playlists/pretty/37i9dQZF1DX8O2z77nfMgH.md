@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Jombriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,937 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,781 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 52 | [Tengo El Poder](https://open.spotify.com/track/6CTtvxq9NkxJiIbGIgomX6) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Tengo El Poder](https://open.spotify.com/album/1hyMJqn5MFDEXtXHhlR2Jt) | 3:57 |
 | 53 | [5 Minuticos](https://open.spotify.com/track/36Frr9nfKMTYY7IgKfqByW) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [KOA](https://open.spotify.com/album/2BRvRxaP4WsIf5vWJBI447) | 2:39 |
 | 54 | [MI CORAZÓN](https://open.spotify.com/track/21siL31jweFlbCZh4idq4X) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [MI CORAZÓN](https://open.spotify.com/album/2RIUSj8bvYiNjjFHgrufu3) | 2:57 |
-| 55 | [La Ruta \- Remix](https://open.spotify.com/track/2lgVPNWmwW1fzG3VQundVN) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [Robin Rouse](https://open.spotify.com/artist/36pU0SBDFZq23Ca4qq40jg), [High Galaxy Music](https://open.spotify.com/artist/6DX3eOyDrzIBvvBdZyxxqd), [RK Trap](https://open.spotify.com/artist/1MQG28t597ZKQ3B5LwKZXh) | [La Ruta](https://open.spotify.com/album/3KBLXG2oWGWXpT0bR5ojXQ) | 3:52 |
+| 55 | [La Ruta \- Remix](https://open.spotify.com/track/2lgVPNWmwW1fzG3VQundVN) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [Robin Rouse](https://open.spotify.com/artist/36pU0SBDFZq23Ca4qq40jg), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [High Galaxy Music](https://open.spotify.com/artist/6DX3eOyDrzIBvvBdZyxxqd), [RK Trap](https://open.spotify.com/artist/1MQG28t597ZKQ3B5LwKZXh) | [La Ruta](https://open.spotify.com/album/3KBLXG2oWGWXpT0bR5ojXQ) | 3:52 |
 | 56 | [Maravilhosamente Bem](https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY) | 3:46 |
 | 57 | [Puente del Papa](https://open.spotify.com/track/0UibzOFBUEJyihHiJ5fDjZ) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Inconcreto & Asociados](https://open.spotify.com/album/2igVN56nzK3hBmucjeZUsG) | 3:59 |
 | 58 | [Chino Dale Frito + Ella No Es Mala](https://open.spotify.com/track/0QNOpPJDmUuzxYEfTQ8jlO) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Alofoke Music](https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY) | [Chino Dale Frito + Ella No Es Mala](https://open.spotify.com/album/7zepTejz7Yog4Fh7X7dE7Q) | 2:32 |

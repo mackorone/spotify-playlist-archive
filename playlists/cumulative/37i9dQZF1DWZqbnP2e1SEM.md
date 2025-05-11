@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-475 songs - 1 day 1 hr 17 min
+476 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Mantra](https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Mantra](https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun) | 3:07 | 2024-09-19 | 2025-05-09 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-07-09 | 2024-08-03 |
 | [Me & U](https://open.spotify.com/track/06nCnkVALuvvNcBwVRNTUS) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Me & U](https://open.spotify.com/album/2M6deeLX5B02deMpHoOu1G) | 3:33 | 2021-07-09 | 2022-05-11 |
-| [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 | 2024-06-14 |  |
+| [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 | 2024-06-14 | 2025-05-11 |
 | [Million Rings](https://open.spotify.com/track/3xPIndCsBuz27cLygsUhSB) | [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd), [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Million Rings](https://open.spotify.com/album/4r9jyeljiOBrOX1O9vYoSm) | 2:42 | 2021-07-09 | 2022-05-05 |
 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 | 2024-05-16 | 2024-08-03 |
 | [Monday Kind of Tuesday](https://open.spotify.com/track/6V8UEh7aSmuh1qxe1HnNnE) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Monday Kind of Tuesday](https://open.spotify.com/album/3UH4jh4TcxS2Iyk1EAHVgj) | 2:22 | 2022-05-10 | 2023-01-08 |
@@ -467,6 +467,7 @@
 | [Wild](https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Wild](https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ) | 2:14 | 2024-06-14 |  |
 | [Wile Out 24 \- Edit](https://open.spotify.com/track/4I9J6gGFrYxtruBUvbsWge) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Wile Out 24 \- Edit](https://open.spotify.com/album/6B1s84m7mwdYwwkBFURp5G) | 2:41 | 2024-08-02 | 2024-09-20 |
 | [Wish You Well](https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Wish You Well](https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ) | 3:25 | 2021-07-09 | 2023-09-12 |
+| [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 | 2025-05-08 |  |
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/3fpKdubElctX8ZrwA548Mj) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/3vNSK2M0KtBzAKNLmxDC4Y) | 2:58 | 2023-11-22 | 2024-08-03 |
 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 | 2023-09-11 | 2024-04-19 |
 | [WYWM](https://open.spotify.com/track/0nzjCmmKJy482Y2UuP4kmO) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Volaris](https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy) | [WYWM](https://open.spotify.com/album/7dlDUnpMkjGLZSxGWrZhbz) | 3:02 | 2024-05-24 | 2024-09-20 |

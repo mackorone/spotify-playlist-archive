@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: nobigdyl\. & Kato On The Track
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,949 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,990 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 19 | [love me as i am \(Live from Two Palms\)](https://open.spotify.com/track/7yOftAlQPfh83xOT0FHBVL) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [love me as i am](https://open.spotify.com/album/2BXPkOwk3VgKSVQwghsDDn) | 5:02 |
 | 20 | [Sing to the Lord \- Live](https://open.spotify.com/track/5U72MP3C5YibqEs9hkm1xn) | [Jake MacAdam](https://open.spotify.com/artist/2P70gIAc2Zw5kXIMtbPoaH) | [Sing to the Lord \- Live](https://open.spotify.com/album/2PzA92dFa7knfjOrYKggnx) | 2:45 |
 | 21 | [Little](https://open.spotify.com/track/5iUEJPnJQ1Z1uRFBRHyqhp) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Little](https://open.spotify.com/album/4UtMVStJx8IpYlRkuIBV0b) | 3:36 |
-| 22 | [Growing Up And Growing Old](https://open.spotify.com/track/300wOCld4kQjwfPptDMwI0) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Growing Up And Growing Old](https://open.spotify.com/album/3HK8c05UVtSjJQxKPSbK99) | 2:57 |
+| 22 | [Growing Up & Growing Old](https://open.spotify.com/track/300wOCld4kQjwfPptDMwI0) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Growing Up & Growing Old](https://open.spotify.com/album/3HK8c05UVtSjJQxKPSbK99) | 2:57 |
 | 23 | [I'll Always Love You Mom](https://open.spotify.com/track/2NoeqtywlQeUPhXx4OYedU) | [Mackenna Swann](https://open.spotify.com/artist/2YTJsLKQeu4j996OBdeHTB) | [I'll Always Love You Mom](https://open.spotify.com/album/2mSGnaTc2jf32CU16oP5vq) | 3:35 |
 | 24 | [Take It From Me](https://open.spotify.com/track/3KHXU5g2OazK66V9ZKxQiO) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2), [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Take It From Me](https://open.spotify.com/album/1jcjGpwRRuhPv5UXUEmFW9) | 3:02 |
 | 25 | [You Make Everything Beautiful](https://open.spotify.com/track/6bn6sdDlaACi5JuKAhYKFm) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Gemma Fink](https://open.spotify.com/artist/6lHgemnDLexAkPpZLZrarx), [Imogen Fink](https://open.spotify.com/artist/6kZJgQrsMzRrMI2diSBSar) | [You Make Everything Beautiful](https://open.spotify.com/album/5XfmiSllh2oLB9bf3ehUvF) | 3:03 |

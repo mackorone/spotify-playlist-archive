@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-276 songs - 15 hr 6 min
+277 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Alone on Christmas Day](https://open.spotify.com/track/68W3huy1epLq9FYzFjFOlL) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alone on Christmas Day](https://open.spotify.com/album/71157ey57PMDf4n57UsuEP) | 2:54 | 2021-11-12 | 2022-07-29 |
 | [Alone on Christmas Day](https://open.spotify.com/track/1McwIfM0P4F4DGGkHMyYqZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Bill Murray](https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1), [Buster Poindexter](https://open.spotify.com/artist/5He6VbFkpZk9D73A22xwDo), [Jason Schwartzmann](https://open.spotify.com/artist/3SP1erst3IDfntKJsTrZd6), [Paul Shaffer](https://open.spotify.com/artist/2CAITNejdagAXH9Scdt97z) | [Alone on Christmas Day](https://open.spotify.com/album/0otVCpoMNacGRWbyPR1dIJ) | 2:54 | 2021-11-12 | 2022-10-14 |
 | [Alone on Christmas Day](https://open.spotify.com/track/4ZkkqhQl0KQzvvNfuhznAm) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Bill Murray](https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1), [Buster Poindexter](https://open.spotify.com/artist/5He6VbFkpZk9D73A22xwDo), [Jason Schwartzmann](https://open.spotify.com/artist/3SP1erst3IDfntKJsTrZd6), [Paul Shaffer](https://open.spotify.com/artist/2CAITNejdagAXH9Scdt97z) | [Alone on Christmas Day](https://open.spotify.com/album/2DNeWE54G8WriLMcvIFl4B) | 2:54 | 2021-11-12 | 2024-04-19 |
+| [Amelia \(A Christmas Carol\)](https://open.spotify.com/track/3es8Mx4rLDVFw6DQBqwCTG) | [Jimmy Kelly](https://open.spotify.com/artist/36HJ2ONaZ9fShnJvgvqFTq) | [Amelia \(A Christmas Carol\)](https://open.spotify.com/album/0JF3CO07Svd1lFLnRWXOdy) | 3:03 | 2024-12-20 |  |
 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 | 2021-11-12 |  |
 | [Angel In The Snow](https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:37 | 2022-12-23 | 2024-04-19 |
 | [Angel In The Snow](https://open.spotify.com/track/7FtqC39RKToWH7x4lUDCJW) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 2:37 | 2022-12-23 | 2023-04-16 |
@@ -175,7 +176,7 @@
 | [Love to Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 | 2021-12-03 |  |
 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2021-12-03 | 2024-04-19 |
 | [Mama It's Christmas](https://open.spotify.com/track/2r3zWJ1sWux8Fix5MODSGI) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:56 | 2022-12-07 | 2023-09-02 |
-| [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 | 2023-08-18 |  |
+| [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 | 2023-08-18 | 2025-05-11 |
 | [Marshmallow World](https://open.spotify.com/track/4mdVkJdWmb50glN1NFbUOb) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Marshmallow World](https://open.spotify.com/album/7lrmUFv0Or4AtdysLgj7Fi) | 2:26 | 2021-11-12 | 2024-11-19 |
 | [Maybe This Christmas](https://open.spotify.com/track/3TrwJl33jfgEJDdwpSa2lK) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The O.C\. Mix 3 Have A Very Merry Chrismukkah](https://open.spotify.com/album/6NIY572otUHYWANBBa4fiq) | 1:52 | 2021-11-12 |  |
 | [Maybe This Christmas](https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Maybe This Christmas](https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY) | 1:52 | 2021-11-12 | 2023-10-30 |

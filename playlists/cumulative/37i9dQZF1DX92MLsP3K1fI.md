@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! ARIA BELA en portada.
 
-481 songs - 1 day 0 hr 21 min
+482 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Buscándote A Ti](https://open.spotify.com/track/0RJ9McwfcSScP4uurdSRtO) | [Pambo](https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P) | [Buscándote A Ti](https://open.spotify.com/album/6h6korJPEHmHNq1tNCcJ45) | 2:22 | 2025-04-04 | 2025-04-26 |
 | [Cafeína](https://open.spotify.com/track/2JqCcsDlOpnKSvSlFKNgMN) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [Cafeína](https://open.spotify.com/album/6KnqwfyVKhCIQ2MNh1UKyp) | 3:21 | 2022-02-04 | 2022-07-26 |
 | [Calendario](https://open.spotify.com/track/78R4gwIR5s2qoyNwVP6Z6m) | [Kevin Rogers](https://open.spotify.com/artist/45AV3EoWdFzdEMqhfot4QK) | [Calendario](https://open.spotify.com/album/4fq5rBmUen36wSAJjxpVu3) | 3:19 | 2022-03-04 | 2022-06-19 |
-| [calma](https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [calma](https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh) | 2:20 | 2025-03-21 |  |
+| [calma](https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [calma](https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh) | 2:20 | 2025-03-21 | 2025-05-11 |
 | [Canción 2](https://open.spotify.com/track/77a5i89RIF8B3lhRIxY4YB) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Canción 2](https://open.spotify.com/album/1hXSMNto2tKY8WtJ13BwjW) | 2:28 | 2024-05-17 | 2024-06-01 |
 | [capricho](https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:59 | 2025-01-31 | 2025-03-29 |
 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 | 2023-02-10 | 2023-04-13 |
@@ -142,6 +142,7 @@
 | [Dime](https://open.spotify.com/track/6MEQ0MaLs5Na66Tsc8Fq7l) | [Santa Musa](https://open.spotify.com/artist/2YQAd2AhnUBACG81W5DxNg) | [Dime](https://open.spotify.com/album/7AqEjgf07HPFdnsC9mxNIz) | 2:46 | 2023-05-06 | 2023-08-25 |
 | [Dime Dime](https://open.spotify.com/track/6LvGw0k9GkebNNajrSsyat) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Dime Dime](https://open.spotify.com/album/4u9rSMKrjy183jBqvXkOv2) | 3:09 | 2022-03-11 | 2022-11-22 |
 | [Diosa](https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Diosa](https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd) | 2:55 | 2025-05-09 |  |
+| [Disco Rayado](https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Disco Rayado](https://open.spotify.com/album/4GPtLXLaE56QWFcd2tRECu) | 2:31 | 2025-05-09 |  |
 | [Dopamina](https://open.spotify.com/track/1K1qSkHpZIFlsydsMFdPPi) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [Dopamina](https://open.spotify.com/album/5zfZPuzW44WYKIk3UH4eXh) | 2:58 | 2022-02-18 | 2022-06-24 |
 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 | 2024-08-30 | 2024-12-16 |
 | [Dron](https://open.spotify.com/track/47oyxEeXMxF1SP5ednNw40) | [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [Dron](https://open.spotify.com/album/3Y02AXXs6M8cUakBYDk7eq) | 3:50 | 2022-02-04 | 2022-05-28 |

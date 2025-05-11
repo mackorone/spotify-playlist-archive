@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴✨ NORSK INVASION!!! ✨🇳🇴
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,924 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,022 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 7 | [SCANDIHOE \(feat\. Krobbe\)](https://open.spotify.com/track/5lZai3M8jYy9EYTzeypzHS) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Kulturaften](https://open.spotify.com/artist/7y4tvVGuB9WTDQwTj3ueu7), [Krobbe](https://open.spotify.com/artist/7GXGB5x4GvnZpl7AnjM3Ej) | [SCANDIHOE \(feat\. Krobbe\)](https://open.spotify.com/album/7B4nkgwAe4o3WCY1eOkl3n) | 2:41 |
 | 8 | [Valhalla](https://open.spotify.com/track/71iE8l9wdiAkvjXYHSogdI) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [GRABBARNA GRUS](https://open.spotify.com/artist/3vqZpcHSUlnIEczeBUdBvx) | [Valhalla](https://open.spotify.com/album/0LuJfolb0AyM8zBC8S8tlM) | 2:22 |
 | 9 | [Samma det](https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Samma det](https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp) | 2:34 |
-| 10 | [SLÅ MIG HÅRT I ANSIKTET](https://open.spotify.com/track/50PauDpbcRWFs8Sn4FTJwN) | [Danzbanderz](https://open.spotify.com/artist/4lRlXewrnT2Q32BvbfvyAn), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [SLÅ MIG HÅRT I ANSIKTET](https://open.spotify.com/album/3gcoCTvkKM40bpT6Z22oog) | 2:20 |
+| 10 | [SLÅ MIG HÅRT I ANSIKTET](https://open.spotify.com/track/50PauDpbcRWFs8Sn4FTJwN) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Danzbanderz](https://open.spotify.com/artist/4lRlXewrnT2Q32BvbfvyAn) | [SLÅ MIG HÅRT I ANSIKTET](https://open.spotify.com/album/3gcoCTvkKM40bpT6Z22oog) | 2:20 |
 | 11 | [PLATTAN I MATTAN](https://open.spotify.com/track/4KvUcbnfWOrvIAMpZ5X6ZC) | [Grannen Måns](https://open.spotify.com/artist/1GOGNYD5gumMX6VHfZGXuJ) | [PLATTAN I MATTAN](https://open.spotify.com/album/1wNN11kGSPfmm92ptiyhTS) | 2:03 |
 | 12 | [Big Dick Energy](https://open.spotify.com/track/7nh0rLtKM0W7puJIt24MN5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Big Dick Energy](https://open.spotify.com/album/4xAQH8jt7C2rXc4JGBEoTt) | 2:22 |
 | 13 | [FRÖKEN FUSK](https://open.spotify.com/track/6p9WALFnSFYaPm38Lbq7cV) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO), [NORDBØYZ](https://open.spotify.com/artist/0uUeZp50KXx1WCREiEop8y) | [FRÖKEN FUSK](https://open.spotify.com/album/3gdoxqKomWr8Yp8ZFsT0tE) | 2:39 |

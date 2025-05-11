@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-114 songs - 8 hr 3 min
+115 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Resiste Más Que Yo](https://open.spotify.com/track/6Ykqb2Kb7GG9miWxZy9R5I) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/2TPhgYtFdIF0xlpOK0Arp3) | 5:59 | 2025-04-15 |  |
 | [Solo el Sol \- Remix](https://open.spotify.com/track/3TBTVJRElT9eO7WXcj2HMN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Solo el Sol \(Remix\)](https://open.spotify.com/album/14fNTy68j4YcrIjk2aV6RN) | 6:18 | 2022-09-16 | 2023-02-22 |
 | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/track/2X7Mzcr24Zk7LyHE0JQBs9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/album/3WfMKEzc06cGLrqfyDAQ5c) | 4:04 | 2022-09-16 | 2025-04-14 |
-| [Sombras Destino \- Demo \- 2008](https://open.spotify.com/track/5Dt4R2sq0e9BeZCmumeues) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/album/5bw2AIGO8YcpsfjFPpDdkP) | 4:04 | 2025-04-14 |  |
+| [Sombras Destino \- Demo \- 2008](https://open.spotify.com/track/5Dt4R2sq0e9BeZCmumeues) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/album/5bw2AIGO8YcpsfjFPpDdkP) | 4:04 | 2025-04-14 | 2025-05-11 |
+| [Sombras Destino \- Demo 2008](https://open.spotify.com/track/6HXe1dC9JFnLNiG9Q6tOA9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \(Demo 2008\)](https://open.spotify.com/album/3XC8YVXmcojg9Qbm6e9YGo) | 4:04 | 2025-05-11 |  |
 | [Te](https://open.spotify.com/track/1mjUuavkhO7WkQU9P5RUhC) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD) | 4:10 | 2025-04-14 | 2025-04-29 |
 | [Te](https://open.spotify.com/track/6vSekblfCHVVJHF9IQkPs3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 4:10 | 2022-09-16 | 2025-04-14 |
 | [Te Mueres](https://open.spotify.com/track/5fbpZGY5TZ3bRhkQqTOSj0) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 5:15 | 2022-09-16 | 2025-04-13 |

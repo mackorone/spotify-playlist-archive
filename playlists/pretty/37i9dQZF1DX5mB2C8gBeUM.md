@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Graham Barham
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,234 likes - 152 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,961 likes - 152 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 31 | [Before I Wake](https://open.spotify.com/track/2dZ01Y9mydQwsqNns0Nrej) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Before I Wake](https://open.spotify.com/album/06MGG8jfvAsbbrHcLvhxD8) | 2:47 |
 | 32 | [Called Crazy](https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Called Crazy](https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8) | 3:19 |
 | 33 | [Cowboy Sh!t](https://open.spotify.com/track/0XdNr3otU9OMoo7eUXZctf) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Cowboy Sh!t](https://open.spotify.com/album/71CSM6nLCeSRF1yzXp5Kx2) | 2:35 |
-| 34 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
+| 34 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/50Go69TFtQpjC2r5ibArm9) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
 | 35 | [Better \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/7L5yUAQfKSm5ydJRjPx5Ok) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Brooklyn Cowboy](https://open.spotify.com/album/5yu1avpoo3znhpc5aeTo8P) | 2:57 |
 | 36 | [Cold Blooded](https://open.spotify.com/track/4FKURHEBJawl7Da2OIocSz) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Cold Blooded](https://open.spotify.com/album/5JosVPtHNfu2O4m0QTIfab) | 2:41 |
 | 37 | [goodbye looks good on you \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/4K3tnAfDLPZPvc3lzsrjoq) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING: Messing It Up](https://open.spotify.com/album/1Uyc48o6p2Dv1RfyZYztFS) | 2:51 |

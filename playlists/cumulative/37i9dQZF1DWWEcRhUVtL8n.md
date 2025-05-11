@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Men I Trust
 
-2,108 songs - 4 day 15 hr 35 min
+2,111 songs - 4 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [cheap flowers](https://open.spotify.com/track/6NsU8OFGg51u3nMKmb7Old) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [a teenage diary](https://open.spotify.com/album/1e8SCLzmt8yJUi831rSfha) | 3:26 | 2021-10-13 | 2021-10-14 |
 | [Check In](https://open.spotify.com/track/2NrFcgdrWRptgX8Ai9BciK) | [JWestern](https://open.spotify.com/artist/3Hj7VnvhMqphE4MF9oBzkG) | [Check In](https://open.spotify.com/album/5TcPDctDTpfHF9URMoISKd) | 3:45 | 2020-10-13\* | 2020-11-13 |
 | [Cheer Captain](https://open.spotify.com/track/1rW9uae4EZuui4vARG2IyI) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Cheer Captain](https://open.spotify.com/album/1o7tDvg8UBCf4Fzu1G6egP) | 3:00 | 2021-05-06 | 2021-11-11 |
-| [Cheer Me On](https://open.spotify.com/track/11gdbJcwyy7mgOrhArwi1D) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Cheer Me On](https://open.spotify.com/album/3BZrsHbBApn2UyM8IclceX) | 4:17 | 2025-03-28 |  |
+| [Cheer Me On](https://open.spotify.com/track/11gdbJcwyy7mgOrhArwi1D) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Cheer Me On](https://open.spotify.com/album/3BZrsHbBApn2UyM8IclceX) | 4:17 | 2025-03-28 | 2025-05-11 |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-28 |  |
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-21 | 2025-02-22 |
 | [cherry blossom](https://open.spotify.com/track/44xUqPXksQ2MNtuF2AuRBN) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [cherry blossom](https://open.spotify.com/album/4iwQeZpCPNI3TNfhrYmk8U) | 2:20 | 2020-12-12 | 2021-05-30 |
@@ -972,6 +972,7 @@
 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 | 2020-10-20 | 2021-05-24 |
 | [IF YOU WANT IT](https://open.spotify.com/track/2ZZ0ITwRqitCvddi2CGfgq) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:07 | 2022-03-18 | 2022-04-20 |
 | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/track/1n4vgMWmmNlXrvyxQFhUEl) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 5:19 | 2020-10-20 | 2022-06-15 |
+| [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-09 |  |
 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-07-12 | 2025-01-09 |
 | [Imaginary Friends \- St\. Lucia Remix](https://open.spotify.com/track/2PXbkeD7oyMJwpKd0HoiB6) | [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Imaginary Friends \(St\. Lucia Remix\)](https://open.spotify.com/album/2TNQueYbu3esjJRLaZyiWy) | 4:26 | 2021-02-23 | 2021-05-24 |
 | [Immediately](https://open.spotify.com/track/1J1925GGyVXBlrgyBJ78Po) | [Stay Lunar](https://open.spotify.com/artist/6kqPs71d5mSIQ5XYc4VRpK) | [Immediately](https://open.spotify.com/album/4b936ZtmChocnDB6I5Sg05) | 3:07 | 2021-11-07 | 2021-11-08 |
@@ -1009,6 +1010,7 @@
 | [It Might Take a Woman](https://open.spotify.com/track/59FVrD6JZb0PsF1Ok9AoPb) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [It Might Take a Woman](https://open.spotify.com/album/7HZYjMfb9uZg2rcmbDPF1u) | 3:10 | 2020-10-13\* | 2021-06-03 |
 | [it's a landslide](https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [it's a landslide](https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER) | 2:39 | 2021-07-19 | 2022-01-15 |
 | [It's Been So Long](https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Been So Long](https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I) | 3:12 | 2022-12-07 | 2023-02-18 |
+| [It's Just Us](https://open.spotify.com/track/78oIDxTChs1EJrQwUc931r) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:00 | 2025-05-09 |  |
 | [It's Not You, It's Me](https://open.spotify.com/track/72zrIWo99bFsoGvmSu0Dnf) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [It's Not You, It's Me](https://open.spotify.com/album/6vOlCVkJox6i50IPz6aEhZ) | 2:45 | 2020-10-20 | 2021-05-28 |
 | [It's Ok to Cry](https://open.spotify.com/track/3LpatCGL0WM7na3JWk1NlY) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [It's Ok to Cry](https://open.spotify.com/album/0xemqy7Lea1gWWxi25Ubzp) | 2:41 | 2024-01-26 | 2024-04-06 |
 | [It’s All Right](https://open.spotify.com/track/4K207bP97AYGmiXni7D4eP) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [It’s All Right](https://open.spotify.com/album/1TvAy8gh24XclaV8iy86Mj) | 3:06 | 2021-10-14 | 2021-10-16 |
@@ -1757,7 +1759,7 @@
 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-05-24 | 2025-01-17 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-11-07 | 2024-10-26 |
 | [Still Here](https://open.spotify.com/track/5NRFBtaNmTV0F9NaPwhOL2) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Still Here](https://open.spotify.com/album/4rWzxxuZF4Yox7buaxMM6I) | 3:34 | 2021-02-22 | 2021-05-27 |
-| [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 |  |
+| [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 | 2025-05-11 |
 | [Still In Love](https://open.spotify.com/track/4nI5nW9MYQ1Sqf9oSotmla) | [Jackson Harris](https://open.spotify.com/artist/0pW16l7mPsVjS9CdmvOstz) | [Still In Love](https://open.spotify.com/album/7ohMD9pTi6zTMLAGlo1Ldy) | 2:57 | 2021-02-22 | 2021-05-26 |
 | [Still What I'm Looking For](https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Still What I'm Looking For](https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE) | 3:07 | 2024-07-12 | 2024-09-03 |
 | [Stomping](https://open.spotify.com/track/2RCxfudVc5y1cPvppLwVAp) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:12 | 2022-01-14 | 2022-04-21 |
@@ -1939,7 +1941,7 @@
 | [Too Fast](https://open.spotify.com/track/5MJ47IaaEMMKsgUqYEaCCv) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Too Fast](https://open.spotify.com/album/7xeKLRPVHhBn5WoJAAK8a8) | 2:33 | 2020-10-13\* | 2021-06-02 |
 | [Too Late](https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Too Late](https://open.spotify.com/album/4VhSINv5l9dJN1t781T6sX) | 4:12 | 2021-02-23 | 2021-05-28 |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-09 | 2024-10-26 |
-| [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 |  |
+| [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 | 2025-05-11 |
 | [Too Sensitive](https://open.spotify.com/track/29W6ddO7Tlm1BiSsIAFj01) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [Too Sensitive](https://open.spotify.com/album/28CssaUwpNtHlcmKtF67fM) | 2:41 | 2020-10-16 | 2022-04-15 |
 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-04-14 | 2023-09-23 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-10 | 2024-08-31 |
@@ -2106,6 +2108,7 @@
 | [You&I.](https://open.spotify.com/track/0h5mhcSOZQEnQIKjdhPjRA) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [You&I.](https://open.spotify.com/album/3xXqA7odtZ9GEoE7QXsJdQ) | 4:16 | 2021-02-13 | 2021-02-24 |
 | [YOU'RE MY KIND](https://open.spotify.com/track/0g4a4Lsu9RUw8CPnRzCQZa) | [WHY NOT](https://open.spotify.com/artist/0gU8JtrXa3Df75VOVRGuWP) | [WHY NOT](https://open.spotify.com/album/3uBYoiQjO3VHhcXO0yLYGY) | 3:34 | 2022-05-20 | 2022-07-29 |
 | [You're The One](https://open.spotify.com/track/6gCQOoiPsCVJWahUic1JDT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [You're The One](https://open.spotify.com/album/7Cd98dJhEkm97KdjIe4RLh) | 3:19 | 2021-05-03 | 2021-10-12 |
+| [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 | 2025-05-09 |  |
 | [Young Mistakes](https://open.spotify.com/track/40M9EC8kBbzOe9jIDwJ1dK) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Young Mistakes](https://open.spotify.com/album/5VQXsENfCGGvZvyZcwD3aX) | 2:51 | 2021-06-03 | 2021-06-04 |
 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 | 2024-02-16 | 2024-09-22 |
 | [Your Drugs](https://open.spotify.com/track/6PPxKutSxVks6WoVHGvXDs) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Your Drugs](https://open.spotify.com/album/4llATXF3wt0UJuQKlg7iqc) | 3:23 | 2020-10-13\* | 2020-11-13 |

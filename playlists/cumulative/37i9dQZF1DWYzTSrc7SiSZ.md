@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-294 songs - 15 hr 47 min
+295 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 | 2023-11-24 |  |
 | [Cardenalito](https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:32 | 2022-08-08 | 2023-09-29 |
 | [Cardenalito](https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciseis](https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG) | 3:32 | 2023-10-12 | 2024-04-19 |
+| [CATALINA, ME QUEMAS](https://open.spotify.com/track/5xocxpueYPFZ2wcPJzqz2w) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6), [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [CATALINA, ME QUEMAS](https://open.spotify.com/album/6M5oFbVV6g85E2Q1k22Vys) | 3:05 | 2025-05-09 |  |
 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 | 2022-12-30 | 2023-04-09 |
 | [Chistes Malos](https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Chistes Malos](https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba) | 2:51 | 2024-02-09 |  |
 | [Chocomenta](https://open.spotify.com/track/3puwMzQnKzBKf0LH851Yha) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [JAYANI](https://open.spotify.com/artist/5HttJaMcYf0rhMUdoRmvDa) | [Chocomenta](https://open.spotify.com/album/5q6pe9FjbRgBdAeUNxD1Wr) | 2:44 | 2024-07-12 |  |
@@ -242,7 +243,7 @@
 | [robusta](https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe) | [iced latte](https://open.spotify.com/artist/5WT2j29ajCAxsK10dqksg2) | [robusta](https://open.spotify.com/album/04UNh2Lb7c5RYDcQMEe7dP) | 2:18 | 2024-04-19 |  |
 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 | 2024-05-10 |  |
 | [see me now](https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [See Me Now](https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi) | 3:29 | 2023-04-28 | 2023-07-16 |
-| [Siempre Tendré Mi Voz](https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 2:45 | 2024-05-10 |  |
+| [Siempre Tendré Mi Voz](https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 2:45 | 2024-05-10 | 2025-05-11 |
 | [Siempre tengo sueño](https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Siempre tengo sueño](https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3) | 2:45 | 2023-04-07 |  |
 | [Siento](https://open.spotify.com/track/00VFW0mnvoFYLVhrhFsk7y) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:30 | 2022-07-11 | 2023-01-07 |
 | [Siento](https://open.spotify.com/track/0WFqLLU1eofNctXNVjzuIX) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Siento](https://open.spotify.com/album/08dn0Fi95hgdzUJmFgzRat) | 3:30 | 2022-05-20 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 107663,
+  "num_followers": 107664,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-04-04 03:00:18",
       "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2025-04-04 03:00:18",
+      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2025-04-04 03:00:18",
-      "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2025-04-04 03:00:18",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-04-04 03:00:18",
       "album": {
-        "name": "mi mundo entero",
-        "url": "https://open.spotify.com/album/2KbaIa4JXWy7ezh3dVeAYE"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
-        }
-      ],
-      "duration_ms": 192625,
-      "name": "mi mundo entero",
-      "url": "https://open.spotify.com/track/0mf6B7NGBjDE6ujdoIjT7c"
-    },
-    {
-      "added_at": "2025-04-04 03:00:18",
-      "album": {
         "name": "Acuerdo",
         "url": "https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 203470,
       "name": "Acuerdo",
       "url": "https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue"
+    },
+    {
+      "added_at": "2025-04-04 03:00:18",
+      "album": {
+        "name": "mi mundo entero",
+        "url": "https://open.spotify.com/album/2KbaIa4JXWy7ezh3dVeAYE"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 192625,
+      "name": "mi mundo entero",
+      "url": "https://open.spotify.com/track/0mf6B7NGBjDE6ujdoIjT7c"
     },
     {
       "added_at": "2025-04-04 03:00:18",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-04-04 03:00:18",
       "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
-    },
-    {
-      "added_at": "2025-04-04 03:00:18",
-      "album": {
         "name": "Joderlo Todo",
         "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 227079,
       "name": "Joderlo Todo",
       "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
+    },
+    {
+      "added_at": "2025-04-04 03:00:18",
+      "album": {
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     },
     {
       "added_at": "2025-04-04 03:00:18",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-04-04 03:00:18",
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/3rjay3TC0UuyXz9jXAznhx"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/3pWKmAgp9FnQCsMPvrKlTa"
+    },
+    {
+      "added_at": "2025-04-04 03:00:18",
+      "album": {
         "name": "Volver a Llorar",
         "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 209732,
       "name": "Pedazo de Cielo",
       "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
-    },
-    {
-      "added_at": "2025-04-04 03:00:18",
-      "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/3rjay3TC0UuyXz9jXAznhx"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/3pWKmAgp9FnQCsMPvrKlTa"
     },
     {
       "added_at": "2025-04-04 03:00:18",
@@ -1755,18 +1755,22 @@
     {
       "added_at": "2025-04-04 03:00:18",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+        "name": "Respiro (Cap. 8)",
+        "url": "https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo"
       },
       "artists": [
         {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
+      "duration_ms": 221390,
+      "name": "Respiro (Cap. 8)",
+      "url": "https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw"
     }
   ],
   "unique_name": "Amor Indie",

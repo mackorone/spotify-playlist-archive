@@ -1,13 +1,33 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 153381,
+  "num_followers": 153403,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAABlcnW9EvrIdHwj4mtLkRT+",
+  "snapshot_id": "aB1FgAAAAACTlryL+Qp0s+kdhudJBssr",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puro Che Rios Oiga",
+        "url": "https://open.spotify.com/album/0RpKcuhlypb45ragJxcPDD"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Ciclones del Arroyo",
+          "url": "https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/7aQzaktSRWOs7JX4iAFGQq"
+    },
     {
       "added_at": null,
       "album": {
@@ -423,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 191494,
-      "name": "Yo Estaba Solo",
-      "url": "https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo Y Nada",
         "url": "https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag"
       },
@@ -455,6 +459,22 @@
       "duration_ms": 214505,
       "name": "Polvo Y Nada",
       "url": "https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 191494,
+      "name": "Yo Estaba Solo",
+      "url": "https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB"
     },
     {
       "added_at": null,
@@ -811,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 157605,
+      "name": "Arr\u00e1ncame La Vida",
+      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pero La Recuerdo",
         "url": "https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG"
       },
@@ -827,22 +863,6 @@
       "duration_ms": 225653,
       "name": "Pero La Recuerdo",
       "url": "https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Arr\u00e1ncame La Vida",
-      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
     },
     {
       "added_at": null,
@@ -899,22 +919,6 @@
       "duration_ms": 200546,
       "name": "Con El Alma Marchita",
       "url": "https://open.spotify.com/track/0u0BI9iLG7JzCr0x4eXXWw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Amo Y Te Amar\u00e9",
-        "url": "https://open.spotify.com/album/2Znp7ihFVi0PFm2Csq5wKS"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 226580,
-      "name": "Siempre Te Voy A Recordar",
-      "url": "https://open.spotify.com/track/03Ger3TJI5fd5KFDYvZQfP"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

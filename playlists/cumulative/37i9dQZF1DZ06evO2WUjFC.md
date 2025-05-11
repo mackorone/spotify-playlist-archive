@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 10 min
+129 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [La Ambición](https://open.spotify.com/track/3lo1Mv3ovnJLijz5BppO48) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [La Ambición](https://open.spotify.com/album/1QbFLgmBJcU1zxxvxpsq5S) | 3:43 | 2024-02-12 | 2024-11-22 |
 | [La Cadenita \(Live\)](https://open.spotify.com/track/6rekTj3LwYOz9C4C2Tcz7g) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 2:32 | 2024-04-01 | 2025-05-07 |
 | [La Canelera \- En Vivo](https://open.spotify.com/track/08dFJtcFBMVs8EAyoIcSyR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 4:09 | 2024-11-18 | 2025-04-10 |
+| [LA CAPITAL](https://open.spotify.com/track/2NnxDhtPyWgASTDVp8MnnM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [LA CAPITAL](https://open.spotify.com/album/2nGXA6aI0CcSX6e9curx7T) | 3:30 | 2025-05-11 |  |
 | [LA CARRETERA](https://open.spotify.com/track/2mjiVUUTy0RkK9pfaSyAkB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LA CARRETERA](https://open.spotify.com/album/1BxkK7beRTaYflcU33pJlc) | 3:01 | 2024-07-27 | 2024-10-31 |
 | [La Chona \- En Vivo](https://open.spotify.com/track/3Lrw6HpAN3sUnlcZU7AmQt) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:44 | 2024-02-19 | 2024-04-05 |
 | [La F\*\*\*\*g Ola](https://open.spotify.com/track/0HN4gWiwydXWLsXaRBQ2CW) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [La F\*\*\*\*g Ola](https://open.spotify.com/album/60dcyhKJXf69o3jx474mAE) | 3:27 | 2024-01-29 | 2024-12-22 |
@@ -106,7 +107,7 @@
 | [Pa Que Sepan De Una Vez](https://open.spotify.com/track/2xS2oBq0mCa7O4RbdxBtxL) | [Carlos Y Los Del Monte Sinai](https://open.spotify.com/artist/3bNAwmmGrAz6YTioxIBmXc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Pa Que Sepan De Una Vez](https://open.spotify.com/album/5lFgevGf7iLk3WOe7Uhz3G) | 2:57 | 2024-01-29 |  |
 | [Popurri de Cumbias](https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 4:50 | 2024-01-29 | 2024-09-25 |
 | [POPURRÍ RETRO \- En Vivo](https://open.spotify.com/track/4Qe6D5zMsUnuEFQG1cg8vU) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [POPURRÍ RETRO \(En Vivo\)](https://open.spotify.com/album/3vWJhdj4HXVYvCLuVIzWIf) | 5:00 | 2025-02-16 |  |
-| [POR UNA MUJER BONITA \- En Vivo](https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Mas Sierreños](https://open.spotify.com/artist/5pRtqHfS2cUHCuywRcEXhK) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:05 | 2025-04-16 |  |
+| [POR UNA MUJER BONITA \- En Vivo](https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Mas Sierreños](https://open.spotify.com/artist/5pRtqHfS2cUHCuywRcEXhK) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:05 | 2025-04-16 | 2025-05-11 |
 | [PRC \- En Vivo](https://open.spotify.com/track/56XItKFtHbwf6Eneqkd9oj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:11 | 2024-03-31 | 2025-04-19 |
 | [QUIÉREME](https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:43 | 2024-09-04 | 2025-03-12 |
 | [QUIÉREME](https://open.spotify.com/track/7DXa9fFf0GZmpCfd5X0Rn2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [QUIÉREME](https://open.spotify.com/album/28FeS8GCbUhRWEuoe5L1Om) | 3:43 | 2024-04-14 | 2024-08-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href="spotify:artist:1PU2QmArAkuOgEXXRJhYl0">M!ka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,079 likes - 150 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,072 likes - 150 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 7 | [Ritz](https://open.spotify.com/track/3dtqAkNTYcmyInE9DgIkW1) | [Leski](https://open.spotify.com/artist/5mo8dMBdWypyKgz3SQ0EEu), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Ritz](https://open.spotify.com/album/4wcMLeOkrbpeT2W4TN5V92) | 3:05 |
 | 8 | [no hard feelings](https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [no hard feelings](https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI) | 2:21 |
 | 9 | [Fck It](https://open.spotify.com/track/0b50WMEvjAfDzcg0RAQGPJ) | [SNAKES SNAKES SNAKES](https://open.spotify.com/artist/2CFa0AcASWHg9ow5rYL2kx) | [Fck It](https://open.spotify.com/album/0Rfx2Qw7hglGo7D7V3CSKY) | 2:21 |
-| 10 | [Przepraszam Cię](https://open.spotify.com/track/09q21u7NalwZJ7obb4dxga) | [kuba i kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Przepraszam Cię](https://open.spotify.com/album/1230ASuBvNjPsR323sGKul) | 2:25 |
+| 10 | [Przepraszam Cię](https://open.spotify.com/track/09q21u7NalwZJ7obb4dxga) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Przepraszam Cię](https://open.spotify.com/album/1230ASuBvNjPsR323sGKul) | 2:25 |
 | 11 | [Oczy złote](https://open.spotify.com/track/7aRu5SMzSJQlygUf3dTPtl) | [Aleksander](https://open.spotify.com/artist/3ZHaJihO7saZsETK1lmFSj) | [Oczy złote](https://open.spotify.com/album/347dxcqvZX54nxP8G9qD6R) | 4:06 |
 | 12 | [Questioning The Sky](https://open.spotify.com/track/5Ao4GFEoay50BmcTIR9f0b) | [Rosa Vertov](https://open.spotify.com/artist/1jkVkjpQ7WpH3MIT3IESUf) | [Questioning The Sky](https://open.spotify.com/album/29IHsYhqiiOWlz3J0EAIrC) | 4:15 |
 | 13 | [Nightshift](https://open.spotify.com/track/329nn3wGnrtM8bblge5Wb3) | [Fetysz](https://open.spotify.com/artist/4Q6Ro5v2pYwW4hJgPo2Idz) | [Nightshift](https://open.spotify.com/album/4CoO7KqqR6lfQbon0GG5s6) | 3:06 |

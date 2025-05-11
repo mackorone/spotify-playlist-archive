@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 135387,
+  "num_followers": 135396,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "\u5fc3\u306e\u305d\u3070\u306b",
-        "url": "https://open.spotify.com/album/1iZDg7OG1kv1hUDuOpTFiI"
-      },
-      "artists": [
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
-        }
-      ],
-      "duration_ms": 303812,
-      "name": "\u5fc3\u306e\u305d\u3070\u306b",
-      "url": "https://open.spotify.com/track/2hR3yLXHkMQLvdOPR8LGQp"
-    },
-    {
-      "added_at": "2025-02-28 16:00:14",
-      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "\u3081\u3050\u308b",
-        "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
+        "name": "\u5fc3\u306e\u305d\u3070\u306b",
+        "url": "https://open.spotify.com/album/1iZDg7OG1kv1hUDuOpTFiI"
       },
       "artists": [
         {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
         }
       ],
-      "duration_ms": 265026,
-      "name": "\u3081\u3050\u308b",
-      "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
+      "duration_ms": 303812,
+      "name": "\u5fc3\u306e\u305d\u3070\u306b",
+      "url": "https://open.spotify.com/track/2hR3yLXHkMQLvdOPR8LGQp"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1099,6 +1083,22 @@
       "duration_ms": 331984,
       "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
       "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
+    },
+    {
+      "added_at": "2025-02-28 16:00:14",
+      "album": {
+        "name": "\u3081\u3050\u308b",
+        "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "\u3081\u3050\u308b",
+      "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "Double Rift",
-        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
-      },
-      "artists": [
-        {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
-        }
-      ],
-      "duration_ms": 255213,
-      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
-      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
-    },
-    {
-      "added_at": "2025-02-28 16:00:14",
-      "album": {
         "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
         "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 266000,
       "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
       "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
+    },
+    {
+      "added_at": "2025-02-28 16:00:14",
+      "album": {
+        "name": "Double Rift",
+        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 255213,
+      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
+      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
-        "url": "https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6"
-      },
-      "artists": [
-        {
-          "name": "Mone Kamishiraishi",
-          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
-        }
-      ],
-      "duration_ms": 317853,
-      "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
-      "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
-    },
-    {
-      "added_at": "2025-02-28 16:00:14",
-      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 233946,
       "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
+    },
+    {
+      "added_at": "2025-02-28 16:00:14",
+      "album": {
+        "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
+        "url": "https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "duration_ms": 317853,
+      "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
+      "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
     },
     {
       "added_at": "2025-02-28 16:00:14",

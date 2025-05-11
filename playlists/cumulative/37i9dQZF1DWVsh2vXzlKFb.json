@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 189360,
       "name": "Getting Started",
       "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
@@ -9754,6 +9754,24 @@
       "duration_ms": 212346,
       "name": "Up To Something",
       "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
+    },
+    {
+      "album": {
+        "name": "Vacay",
+        "url": "https://open.spotify.com/album/6g4FBDcga66XtqlchM1alX"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142962,
+      "name": "Vacay",
+      "url": "https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S"
     },
     {
       "album": {

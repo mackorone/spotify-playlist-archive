@@ -1,4 +1,4 @@
-## Playlists \(8492\)
+## Playlists \(8494\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2249,6 +2249,7 @@
 - [Forecasting Love and Weather \(기상청 사람들\)](/playlists/pretty/37i9dQZF1DX4dJwhR3LtVd.md)
 - [Forest Bathing](/playlists/pretty/37i9dQZF1DXaPleDxjpDoo.md)
 - [Forever Country](/playlists/pretty/37i9dQZF1DX9hWdQ46pHPo.md)
+- [Forever Official Playlist](/playlists/pretty/37i9dQZF1DXak4YJ5RJ6q4.md)
 - [Found Them First](/playlists/pretty/3sJ6SlgRo56Oa7YhHcLK5l.md)
 - [Foxall's track IDs](/playlists/pretty/37i9dQZF1DX2Jggz04vUOo.md)
 - [Francis Mercier's Track IDs](/playlists/pretty/37i9dQZF1DWYMHHO92ZJ8z.md)
@@ -8128,6 +8129,7 @@
 - [pov: the final girl](/playlists/pretty/37i9dQZF1DXe6mC1lhUK7K.md)
 - [pov: u borrowed an alien's headphones](/playlists/pretty/37i9dQZF1DWW9lEco8NkcU.md)
 - [pov: ur slow dancing with your love at midnight](/playlists/pretty/37i9dQZF1DWZcQCn3wRBSc.md)
+- [pov: ur that girl](/playlists/pretty/37i9dQZF1DWZjCOHYzGCXB.md)
 - [pretty girls with machine guns](/playlists/pretty/6Okv16x3Ers130DBAaX0LT.md)
 - [primavera chill](/playlists/pretty/37i9dQZF1DX5tzVwq5dYaq.md)
 - [pulp](/playlists/pretty/37i9dQZF1DX3IplhwNexYg.md)

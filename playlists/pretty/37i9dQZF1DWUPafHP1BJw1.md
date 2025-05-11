@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,769 likes - 176 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,844 likes - 176 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 91 | [As It Was](https://open.spotify.com/track/0RsaOIEKB4u4dbZMgs8zXP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [As It Was](https://open.spotify.com/album/1de4PdJI0bgz3j1wd0bW94) | 2:41 |
 | 92 | [Daylight \- Instrumental](https://open.spotify.com/track/0nA0BTzf0GpQp2CJ7LLQoA) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Daylight \(Instrumental\)](https://open.spotify.com/album/51LxsIqA3s3wfTQLuBFbZX) | 3:40 |
 | 93 | [LA FAMA](https://open.spotify.com/track/1RTMnKO8H1XiZaJUmBVg4b) | [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [LA FAMA](https://open.spotify.com/album/2BID0wZNtqNSN8x7FS0i91) | 2:59 |
-| 94 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
+| 94 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomàs Peire Serrate](https://open.spotify.com/artist/5Ej2nkofJ86vrXgu1bTmgr) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
 | 95 | [I Want To Know What Love Is](https://open.spotify.com/track/48NJRzCcD6t3d65nOJcrhg) | [Rock Me Classical](https://open.spotify.com/artist/08tuXNeG1BJ8mn3jixU8Rj), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [I Want To Know What Love Is](https://open.spotify.com/album/1IcD6YtmkSavyvatxFxnax) | 3:37 |
 | 96 | [Love Me Like You Do](https://open.spotify.com/track/7CNO19a6MzNLmBd3m2iCbU) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions II](https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe) | 3:15 |
 | 97 | [Give Me Everything \(Arr\. Piano\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/2rDmCIiu0GjN6NB6JkKbJL) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Give Me Everything \(Arr\. Piano\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/2IpV7sJRwfIcZpJkS7K939) | 3:33 |

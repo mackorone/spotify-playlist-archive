@@ -1719,6 +1719,28 @@
     },
     {
       "album": {
+        "name": "Puro Che Rios Oiga",
+        "url": "https://open.spotify.com/album/0RpKcuhlypb45ragJxcPDD"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Ciclones del Arroyo",
+          "url": "https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263786,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/7aQzaktSRWOs7JX4iAFGQq"
+    },
+    {
+      "album": {
         "name": "Hombre Enamorado",
         "url": "https://open.spotify.com/album/5D77PYz1WHp9nna1DkA48I"
       },
@@ -2162,7 +2184,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 226580,
       "name": "Siempre Te Voy A Recordar",
       "url": "https://open.spotify.com/track/03Ger3TJI5fd5KFDYvZQfP"

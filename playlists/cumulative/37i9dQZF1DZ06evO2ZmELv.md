@@ -4,7 +4,7 @@
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 58 min
+75 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Anillo Grabado \- En Vivo](https://open.spotify.com/track/1rdWXDbnI7jK584fjIuJe1) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 2:49 | 2023-09-15 | 2023-12-31 |
 | [Animas Que No Amanezca \- Versión Norteño En Vivo](https://open.spotify.com/track/3XMBTKx7OIGhGIrcyvcwCs) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:17 | 2024-01-04 | 2025-05-10 |
 | [Besos de Papel \- En Vivo](https://open.spotify.com/track/6ILt8LHVCRGAhf1HFeZVty) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:26 | 2024-03-24 | 2025-03-16 |
-| [Caray \- En Vivo](https://open.spotify.com/track/2i1LoKxbEaRb4PDBmWBqoh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:38 | 2023-04-04 | 2024-07-27 |
+| [Caray \- En Vivo](https://open.spotify.com/track/2i1LoKxbEaRb4PDBmWBqoh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:38 | 2023-04-04 |  |
 | [Cariñito de Mi Vida \- Versión Norteño En Vivo](https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:18 | 2023-03-10 |  |
 | [Carta Jugada \- En Vivo](https://open.spotify.com/track/4x26OTPJNmCKWxQhrgDEep) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:12 | 2024-02-11 | 2025-04-29 |
 | [Catarino Y Los Rurales \- En Vivo](https://open.spotify.com/track/7FKoRLAxG5gX5w72quP3zT) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:34 | 2024-05-11 | 2024-05-24 |
@@ -72,7 +72,7 @@
 | [Si Algún Día Te Encuentro](https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Algún Día Te Encuentro](https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz) | 3:36 | 2023-06-14 | 2025-01-02 |
 | [Te Metiste \- En Vivo](https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu) | [DEL Records](https://open.spotify.com/artist/6rW5Y4FndhF6xC3FuWT3rZ), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Te Metiste \(En Vivo\)](https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm) | 3:18 | 2023-04-12 |  |
 | [Te Metiste \- En Vivo](https://open.spotify.com/track/2kv7VeksDUQ7s3TmXtlSHf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [DEL Records Presenta \- En Vivo Desde La Finca El Cielo](https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq) | 3:18 | 2023-03-10 | 2023-04-13 |
-| [Te Traigo Estas Flores \- En Vivo](https://open.spotify.com/track/7b11w1h0oEmyTXEOnNg50Y) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:42 | 2024-02-07 |  |
+| [Te Traigo Estas Flores \- En Vivo](https://open.spotify.com/track/7b11w1h0oEmyTXEOnNg50Y) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:42 | 2024-02-07 | 2025-05-11 |
 | [Tengo Miedo \- En Vivo](https://open.spotify.com/track/5ZKuMhwEnR3KZnsi8sacfE) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:33 | 2024-01-28 | 2024-06-01 |
 | [Tiempo](https://open.spotify.com/track/32ung15IIZshuPRQBs2yXX) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Lo Raro de Mi Libreta](https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN) | 3:29 | 2023-03-10 |  |
 | [Tu Eterno Enamorado](https://open.spotify.com/track/0qxubTnyRFzE2gAD4RhPMl) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Tu Eterno Enamorado](https://open.spotify.com/album/5ci7DdbawR0Qe7T6TsDlHM) | 2:54 | 2025-02-16 |  |
@@ -81,6 +81,7 @@
 | [Tu Nuevo Cariñito \- En Vivo](https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:01 | 2023-03-10 |  |
 | [Un Día 27](https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Un Día 27](https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU) | 3:11 | 2023-03-10 |  |
 | [Un Mundo Raro \- Versión Banda En Vivo](https://open.spotify.com/track/3DVa2De5SqGSs9Nj3vQMx3) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:58 | 2024-10-09 | 2025-02-27 |
+| [Vuela Paloma](https://open.spotify.com/track/5wXa6VEW2cv81pN40Jcpeg) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Vuela Paloma](https://open.spotify.com/album/1pknEtNbzO9CCxDCbVn4QS) | 4:25 | 2025-05-11 |  |
 | [Ya No Recuerdo](https://open.spotify.com/track/2UEXaEG7eV345Pi91OcWOu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Ya No Recuerdo](https://open.spotify.com/album/3heIkc37kxEfruon2P7eiQ) | 3:01 | 2023-03-10 |  |
 
 \*This playlist was first scraped on 2023-03-11. Prior content cannot be recovered.

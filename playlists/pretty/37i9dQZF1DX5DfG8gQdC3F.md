@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Weeknd ft\. Playboi Carti & Doechii, Avril Lavigne, Arcade Fire, Men I Trust, Naomi Sharon and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,695 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,747 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

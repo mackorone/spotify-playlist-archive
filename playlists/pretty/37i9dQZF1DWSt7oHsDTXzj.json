@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 259336,
+  "num_followers": 259312,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Christmas Caller",
         "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 135020,
       "name": "Christmas Caller",
       "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1043,38 +1043,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+        "name": "Christmas Special",
+        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Sofia Bolt",
-          "url": "https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA"
+      "duration_ms": 188533,
+      "name": "Christmas Special",
+      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1095,18 +1075,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Christmas Special",
-        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Christmas Special",
-      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1123,6 +1103,26 @@
       "duration_ms": 217733,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Sofia Bolt",
+          "url": "https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1241,20 +1241,20 @@
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
     },
     {
-      "added_at": "2024-12-13 04:00:30",
+      "added_at": "2024-12-20 04:00:16",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "Amelia (A Christmas Carol)",
+        "url": "https://open.spotify.com/album/0JF3CO07Svd1lFLnRWXOdy"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Jimmy Kelly",
+          "url": "https://open.spotify.com/artist/36HJ2ONaZ9fShnJvgvqFTq"
         }
       ],
-      "duration_ms": 296673,
-      "name": "Mama It's Christmas",
-      "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
+      "duration_ms": 183706,
+      "name": "Amelia (A Christmas Carol)",
+      "url": "https://open.spotify.com/track/3es8Mx4rLDVFw6DQBqwCTG"
     }
   ],
   "unique_name": "Indie Christmas",

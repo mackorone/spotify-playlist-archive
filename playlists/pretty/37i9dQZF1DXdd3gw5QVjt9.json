@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1154579,
+  "num_followers": 1154219,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Sleeping with Headphones",
-        "url": "https://open.spotify.com/album/3LAmo7buPnacVykNc2Iho9"
-      },
-      "artists": [
-        {
-          "name": "Melanie MacLaren",
-          "url": "https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF"
-        },
-        {
-          "name": "Lorkin O'Reilly",
-          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
-        }
-      ],
-      "duration_ms": 251833,
-      "name": "Sleeping with Headphones",
-      "url": "https://open.spotify.com/track/1YjbOF5pRNTMKnIvZxYEfY"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Same History, New Feelings",
         "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 236133,
       "name": "New Person, Old Place (New Feelings Version)",
       "url": "https://open.spotify.com/track/6G5C3uAzRh5CPDBoXhMAhP"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Sleeping with Headphones",
+        "url": "https://open.spotify.com/album/3LAmo7buPnacVykNc2Iho9"
+      },
+      "artists": [
+        {
+          "name": "Melanie MacLaren",
+          "url": "https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF"
+        },
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "duration_ms": 251833,
+      "name": "Sleeping with Headphones",
+      "url": "https://open.spotify.com/track/1YjbOF5pRNTMKnIvZxYEfY"
     },
     {
       "added_at": "2024-08-23 14:59:54",

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,855 songs - 4 day 0 hr 14 min
+1,856 songs - 4 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,7 +620,7 @@
 | [Grand Hotel](https://open.spotify.com/track/4AFWZcUaYfYIU3EAoTK0Dz) | [Daniella Binyamin](https://open.spotify.com/artist/0j7DhjdXfuDhB8ciUTh1hK) | [Grand Hotel](https://open.spotify.com/album/3KzRnmq5uYX7qhYjgaZPRp) | 3:14 | 2022-03-24 | 2022-05-08 |
 | [gravity \- alternative version](https://open.spotify.com/track/6zq4g1UiKjge8SbJ6IrgEg) | [sad dad](https://open.spotify.com/artist/0W2hFxt7ifMmoTVXedX5qU), [leoblu](https://open.spotify.com/artist/1gJctVXTu7xYbZbs7gvcar) | [gravity \(alternative version\)](https://open.spotify.com/album/0w1Senxcwve0CXQHSHrd2n) | 3:12 | 2024-01-25 | 2024-01-28 |
 | [Ground Zero](https://open.spotify.com/track/45gZh2WFXYkxUNKnu5sIFz) | [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [Ground Zero](https://open.spotify.com/album/5Ty7WNx9pKidF4yQj3rOSZ) | 3:46 | 2024-05-02 | 2024-06-01 |
-| [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 | 2025-01-16 |  |
+| [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 | 2025-01-16 | 2025-05-11 |
 | [Gräset på andra sidan \(feat\. Newkid & ORKID\)](https://open.spotify.com/track/3rA5UCOnHSnwWwPYSz9e7r) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Gräset på andra sidan \(feat\. Newkid & ORKID\)](https://open.spotify.com/album/4F8dhrVlBLcrXGyYTygyX1) | 2:09 | 2025-05-01 |  |
 | [Grät](https://open.spotify.com/track/2nlqyj01smLQFngHVuxFJN) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Grät](https://open.spotify.com/album/2QpFnswrI1v7H8u3Eup2Fu) | 4:18 | 2024-01-11 | 2024-03-15 |
 | [Gråt inte mer](https://open.spotify.com/track/021Ja91kIji3tI8qguxer6) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Så mycket bättre 2021 \- Tolkningarna](https://open.spotify.com/album/1hdMYrIDrIMxgowte5V9w4) | 3:28 | 2022-07-28 | 2022-09-16 |
@@ -1054,6 +1054,7 @@
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
 | [Miles away](https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF) | [Carl :Cries](https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP) | [Miles away](https://open.spotify.com/album/1IJ0AewQmGV57xx81FMF1B) | 2:34 | 2024-02-24 | 2024-04-06 |
 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 | 2024-09-12 | 2024-12-03 |
+| [Mimosa](https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Mimosa](https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp) | 3:12 | 2025-05-08 |  |
 | [MIN DROG](https://open.spotify.com/track/2BngrOStmPmRmpRRxmfU9m) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN DROG](https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs) | 2:29 | 2024-08-08 | 2024-12-08 |
 | [Min död](https://open.spotify.com/track/7j1auwawNJAmRJN0Pa6cLU) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Min död](https://open.spotify.com/album/05eyKYwHi06cEZcAuK60Hx) | 2:30 | 2024-05-16 | 2024-06-14 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-26 |

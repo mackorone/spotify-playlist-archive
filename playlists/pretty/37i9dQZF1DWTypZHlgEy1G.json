@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 536955,
+  "num_followers": 536941,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -303,54 +303,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "20 chansons d'or",
-        "url": "https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b"
-      },
-      "artists": [
-        {
-          "name": "Gilbert B\u00e9caud",
-          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
-        }
-      ],
-      "duration_ms": 247560,
-      "name": "Nathalie",
-      "url": "https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
-        "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
-      },
-      "artists": [
-        {
-          "name": "Bourvil",
-          "url": "https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm"
-        }
-      ],
-      "duration_ms": 195280,
-      "name": "Salade de fruits",
-      "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "de l'accordeoniste a milord",
-        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "La foule",
-      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV"
       },
@@ -371,6 +323,54 @@
       "duration_ms": 171640,
       "name": "La chanson d'H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "20 chansons d'or",
+        "url": "https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "duration_ms": 247560,
+      "name": "Nathalie",
+      "url": "https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "La foule",
+      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
+      },
+      "artists": [
+        {
+          "name": "Bourvil",
+          "url": "https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "Salade de fruits",
+      "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 212200,
-      "name": "Emmenez Moi",
-      "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
+      "duration_ms": 140826,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 140826,
-      "name": "Hier encore",
-      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
+      "duration_ms": 212200,
+      "name": "Emmenez Moi",
+      "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
     },
     {
       "added_at": "2024-07-25 13:22:22",

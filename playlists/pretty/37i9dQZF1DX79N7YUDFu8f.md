@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,337 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,367 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 2 | [Flowers Grow in the Saddest Parts](https://open.spotify.com/track/6g3ZkK2Rkn1Nhbyf0uUCte) | [Silver Lake](https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb) | [Flowers Grow In The Saddest Parts](https://open.spotify.com/album/4fVmTL6baDtBeZokzEULTU) | 2:58 |
 | 3 | [Heart Talks](https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Heart Talks](https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs) | 2:01 |
 | 4 | [He went to the mountains](https://open.spotify.com/track/6zAkJCn0MQUwUZzXsRcudV) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [He went to the mountains](https://open.spotify.com/album/6mRF9DeOzvVlTOYrNxtjJo) | 4:10 |
-| 5 | [It Takes Ten](https://open.spotify.com/track/63x35hCISEPFns7pGSv8qh) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [It Takes Ten](https://open.spotify.com/album/1KdJ9Kn7lWYBv17jDUxdGd) | 3:41 |
+| 5 | [It Takes Ten](https://open.spotify.com/track/63x35hCISEPFns7pGSv8qh) | [Levi Boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [It Takes Ten](https://open.spotify.com/album/1KdJ9Kn7lWYBv17jDUxdGd) | 3:41 |
 | 6 | [Our Part of Town](https://open.spotify.com/track/79bfMnQOe8oaqXjZenmcQw) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Our Part of Town](https://open.spotify.com/album/5cH4Ls7MGVkc1sJrmDEoqX) | 3:07 |
 | 7 | [Swords](https://open.spotify.com/track/75ASmXxDMQf6Ntzhq1e8vg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Swords](https://open.spotify.com/album/5bBvnFuL3lVetizlVozBuW) | 3:23 |
 | 8 | [Spring \(But With The Snow\)](https://open.spotify.com/track/6zW0xZCyPE1sYCi7flJmHM) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Tender Superpower](https://open.spotify.com/album/2dmEJeZTuo5H5TfD3eBGTM) | 4:08 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 36 | [Hope](https://open.spotify.com/track/0rB5UZpt3AHmA8o80gxb2F) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Hope](https://open.spotify.com/album/6NiGNXGhMRoToVXf59ujX7) | 2:24 |
 | 37 | [Places To Be](https://open.spotify.com/track/72OhurZMGaH7nja23KnFs5) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Places To Be](https://open.spotify.com/album/6pMIeLMlduThBJqYnugEQB) | 4:03 |
 | 38 | [Give or Take a Few](https://open.spotify.com/track/5FzCz6sNG38TC722559eAl) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Give or Take a Few](https://open.spotify.com/album/44qsKBxh5097kyFAlP9LFn) | 3:33 |
-| 39 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 |
+| 39 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [Levi Boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 |
 | 40 | [Lay In The Sun](https://open.spotify.com/track/0BBB3QcVfHHY7w5lXT8ig6) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Lay In The Sun](https://open.spotify.com/album/3qTp8ABtfxzoxb70pUy015) | 2:15 |
 | 41 | [All Is Ours \- Acoustic Version](https://open.spotify.com/track/2GiKm519SjcHtETEGsSXwi) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [All Is Ours](https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT) | 4:51 |
 | 42 | [Peaceful Now](https://open.spotify.com/track/6SiGBl8vh4vJuxxTrE4uqE) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Peaceful Now](https://open.spotify.com/album/27JGlj8aO16dMYFe62fsxN) | 2:33 |

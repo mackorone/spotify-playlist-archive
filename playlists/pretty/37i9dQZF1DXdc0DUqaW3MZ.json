@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 365941,
+  "num_followers": 366000,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -483,26 +499,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "The Road To Hell Is Paved With Good Intentions",
-        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        },
-        {
-          "name": "L\u00e9a Sen",
-          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
-        }
-      ],
-      "duration_ms": 174579,
-      "name": "Turn Me Inside",
-      "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -519,6 +515,26 @@
       "duration_ms": 134714,
       "name": "Still (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "The Road To Hell Is Paved With Good Intentions",
+        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "duration_ms": 174579,
+      "name": "Turn Me Inside",
+      "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -631,6 +647,26 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 174562,
+      "name": "More Than A Little Bit (feat. Tinashe)",
+      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -651,26 +687,6 @@
       "duration_ms": 284573,
       "name": "Impact (feat. Robyn & Channel Tres)",
       "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 174562,
-      "name": "More Than A Little Bit (feat. Tinashe)",
-      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -831,46 +847,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "North",
-        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
-      },
-      "artists": [
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
-      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "The Water",
-        "url": "https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox"
-      },
-      "artists": [
-        {
-          "name": "Bel Tempo",
-          "url": "https://open.spotify.com/artist/4pJRvcgbeXo78Lne0j9uKJ"
-        },
-        {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "The Water",
-      "url": "https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "ILLUSIONS Pt. II",
         "url": "https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv"
       },
@@ -891,22 +867,22 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+        "name": "North",
+        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
       "artists": [
         {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
         },
         {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 218308,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
+      "duration_ms": 222000,
+      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
+      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -935,6 +911,46 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
+        "name": "The Water",
+        "url": "https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox"
+      },
+      "artists": [
+        {
+          "name": "Bel Tempo",
+          "url": "https://open.spotify.com/artist/4pJRvcgbeXo78Lne0j9uKJ"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "The Water",
+      "url": "https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 218308,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
+        "name": "Deafened (feat. Family Habits)",
+        "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Family Habits",
+          "url": "https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Deafened (feat. Family Habits)",
+      "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
         "name": "Typical Remixes",
         "url": "https://open.spotify.com/album/1erRlyRYARL5frALjooxTw"
       },
@@ -1147,22 +1167,18 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Deafened (feat. Family Habits)",
-        "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Family Habits",
-          "url": "https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y"
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Deafened (feat. Family Habits)",
-      "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1183,22 +1199,6 @@
       "duration_ms": 241961,
       "name": "Enchant\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3x7ro52yzcFqlUicJhGFM0"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
         "name": "this is no longer a dream [DELUXE]",
         "url": "https://open.spotify.com/album/6jlID59b6Nin71hhY6DL6d"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 215357,
       "name": "transcending (Karen Nyame KG remix) - Remix",
       "url": "https://open.spotify.com/track/3IKM5Dt9fZA1CIVbM91CNY"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
         "name": "4mysoul",
         "url": "https://open.spotify.com/album/22IQuoj7FA21jKOdgU0xd3"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 196510,
       "name": "4mysoul",
       "url": "https://open.spotify.com/track/65WJw3Poze7Lnf4U0R465p"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        }
-      ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     },
     {
       "added_at": "2025-05-08 23:00:18",

@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: JENNIE",
-  "num_followers": 88716,
+  "num_followers": 88734,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
+        "name": "New Classic",
+        "url": "https://open.spotify.com/album/3eng3l5kQyWj9SKt3Fokyv"
+      },
+      "artists": [
+        {
+          "name": "DOLLA",
+          "url": "https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "CLASSIC",
+      "url": "https://open.spotify.com/track/4hwkUETISUnFz5WkiU1DKt"
+    },
+    {
+      "added_at": "2025-05-01 04:00:07",
+      "album": {
         "name": "trust (feat. RINI)",
         "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 197557,
       "name": "trust (feat. RINI)",
       "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
-    },
-    {
-      "added_at": "2025-05-01 04:00:07",
-      "album": {
-        "name": "New Classic",
-        "url": "https://open.spotify.com/album/3eng3l5kQyWj9SKt3Fokyv"
-      },
-      "artists": [
-        {
-          "name": "DOLLA",
-          "url": "https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "CLASSIC",
-      "url": "https://open.spotify.com/track/4hwkUETISUnFz5WkiU1DKt"
     },
     {
       "added_at": "2025-05-01 04:00:07",

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Contra El Tiempo (En Vivo)",
+        "url": "https://open.spotify.com/album/0wpA6OJp9b0PycfxfSqcBQ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "Contra El Tiempo - En Vivo",
+      "url": "https://open.spotify.com/track/4ngBpSBbgLDopT16rgOvOY"
+    },
+    {
+      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-11",
       "duration_ms": 173963,
       "name": "Se Ve Linda",
       "url": "https://open.spotify.com/track/0L77znyikAzLKIbxz3Lshd"

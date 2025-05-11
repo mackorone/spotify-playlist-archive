@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 62477,
+  "num_followers": 62475,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAABBBJu1WKjDoA5NLRHeWQtm",
+  "snapshot_id": "aB1FgAAAAAC+u9i6UM2cqefv8TNMucE8",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9s Bem-Vindo \u00e0 Mesa",
         "url": "https://open.spotify.com/album/79XQ40MyFbpEpTZU1lnPRS"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 538285,
       "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/5yonnE8BKuczROIGQKI6Ca"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00edvea Soares 10 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 417573,
-      "name": "Me Esvaziar",
-      "url": "https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gloria A Deus",
         "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 379803,
       "name": "Maravilhado",
       "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00edvea Soares 10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 417573,
+      "name": "Me Esvaziar",
+      "url": "https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: Kae Tempest",
-  "num_followers": 32876,
+  "num_followers": 32878,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Touching Yourself",
+      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
+    },
+    {
+      "added_at": "2025-04-07 23:00:34",
+      "album": {
         "name": "Paint The Town Blue (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 115533,
       "name": "Paint The Town Blue (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
-    },
-    {
-      "added_at": "2025-04-07 23:00:34",
-      "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Touching Yourself",
-      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     },
     {
       "added_at": "2025-04-07 23:00:34",
@@ -211,38 +211,6 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
-        "name": "Cathexis",
-        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 183741,
-      "name": "Doomsday Blue",
-      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
-    },
-    {
-      "added_at": "2025-04-07 23:00:34",
-      "album": {
-        "name": "Love Is A Stillness",
-        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 114637,
-      "name": "Love Is A Stillness",
-      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
-    },
-    {
-      "added_at": "2025-04-07 23:00:34",
-      "album": {
         "name": ":)",
         "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
@@ -259,18 +227,18 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
-        "name": "69",
-        "url": "https://open.spotify.com/album/65AGTpy6jBYVi8KH4oVugq"
+        "name": "Love Is A Stillness",
+        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
       },
       "artists": [
         {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 209417,
-      "name": "69",
-      "url": "https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD"
+      "duration_ms": 114637,
+      "name": "Love Is A Stillness",
+      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
     },
     {
       "added_at": "2025-04-07 23:00:34",
@@ -295,18 +263,34 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc"
+        "name": "69",
+        "url": "https://open.spotify.com/album/65AGTpy6jBYVi8KH4oVugq"
       },
       "artists": [
         {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
         }
       ],
-      "duration_ms": 220036,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK"
+      "duration_ms": 209417,
+      "name": "69",
+      "url": "https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD"
+    },
+    {
+      "added_at": "2025-04-07 23:00:34",
+      "album": {
+        "name": "Cathexis",
+        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 183741,
+      "name": "Doomsday Blue",
+      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
     },
     {
       "added_at": "2025-04-07 23:00:34",
@@ -323,6 +307,22 @@
       "duration_ms": 138533,
       "name": "Cuntology 101",
       "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
+    },
+    {
+      "added_at": "2025-04-07 23:00:34",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK"
     },
     {
       "added_at": "2025-04-07 23:00:34",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
+        "name": "#gigi",
+        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142227,
+      "name": "real feel",
+      "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
+    },
+    {
+      "added_at": "2025-04-07 23:00:34",
+      "album": {
         "name": "Smalltown Boy (feat. Perfume Genius)",
         "url": "https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
-        "name": "#gigi",
-        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
+        "name": "softscars",
+        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "duration_ms": 142227,
-      "name": "real feel",
-      "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
+      "duration_ms": 186987,
+      "name": "cyber meat",
+      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
     },
     {
       "added_at": "2025-04-07 23:00:34",
@@ -799,22 +815,6 @@
       "duration_ms": 207533,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0"
-    },
-    {
-      "added_at": "2025-04-07 23:00:34",
-      "album": {
-        "name": "softscars",
-        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 186987,
-      "name": "cyber meat",
-      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
     },
     {
       "added_at": "2025-04-07 23:00:34",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
-        "name": "Recognise",
-        "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 269280,
-      "name": "Recognise",
-      "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
-    },
-    {
-      "added_at": "2025-04-07 23:00:34",
-      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
+        "name": "Recognise",
+        "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 269280,
+      "name": "Recognise",
+      "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
+    },
+    {
+      "added_at": "2025-04-07 23:00:34",
+      "album": {
         "name": "if i was ur boy",
         "url": "https://open.spotify.com/album/7pEiX5BexOW7z19LHKUy1R"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 187660,
-      "name": "Joe",
-      "url": "https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o"
-    },
-    {
-      "added_at": "2025-04-07 23:00:34",
-      "album": {
         "name": "Hex So Heavy",
         "url": "https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 185600,
       "name": "Hex So Heavy",
       "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
+    },
+    {
+      "added_at": "2025-04-07 23:00:34",
+      "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 187660,
+      "name": "Joe",
+      "url": "https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o"
     },
     {
       "added_at": "2025-04-07 23:00:34",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
+        "name": "Love Second Music First",
+        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "duration_ms": 245259,
+      "name": "Love Second Music First",
+      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
+    },
+    {
+      "added_at": "2025-04-07 23:00:34",
+      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 158167,
       "name": "PROCESS",
       "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
-    },
-    {
-      "added_at": "2025-04-07 23:00:34",
-      "album": {
-        "name": "Love Second Music First",
-        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
-      },
-      "artists": [
-        {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        }
-      ],
-      "duration_ms": 245259,
-      "name": "Love Second Music First",
-      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
     },
     {
       "added_at": "2025-04-07 23:00:34",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 124760,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv"
+    },
+    {
+      "added_at": "2025-04-07 23:00:34",
+      "album": {
         "name": "Cowboys!",
         "url": "https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi"
+        "name": "You Know What You\u2019ve Done",
+        "url": "https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp"
       },
       "artists": [
         {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
         }
       ],
-      "duration_ms": 124760,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv"
+      "duration_ms": 191883,
+      "name": "You Know What You\u2019ve Done",
+      "url": "https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O"
     },
     {
       "added_at": "2025-04-07 23:00:34",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
-        "name": "You Know What You\u2019ve Done",
-        "url": "https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 191883,
-      "name": "You Know What You\u2019ve Done",
-      "url": "https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O"
-    },
-    {
-      "added_at": "2025-04-07 23:00:34",
-      "album": {
         "name": "Heaven Can Wait",
         "url": "https://open.spotify.com/album/6dweyz4Y0Uyo3fVrz0vgsD"
       },
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2025-04-07 23:00:34",
       "album": {
+        "name": "Sad Girl Mixtape",
+        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 193181,
+      "name": "Sad Girl Summer",
+      "url": "https://open.spotify.com/track/66xT802jNExU9nMii68YnZ"
+    },
+    {
+      "added_at": "2025-04-07 23:00:34",
+      "album": {
         "name": "i can't get my shit together",
         "url": "https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 173551,
       "name": "i can't get my shit together",
       "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
-    },
-    {
-      "added_at": "2025-04-07 23:00:34",
-      "album": {
-        "name": "DONT MAKE THIS WEIRD",
-        "url": "https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs"
-      },
-      "artists": [
-        {
-          "name": "DONT MAKE THIS WEIRD",
-          "url": "https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p"
-        }
-      ],
-      "duration_ms": 170905,
-      "name": "DONT MAKE THIS WEIRD",
-      "url": "https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

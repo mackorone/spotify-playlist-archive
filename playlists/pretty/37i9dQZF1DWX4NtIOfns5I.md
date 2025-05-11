@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Jack Van Cleaf's debut is here 🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,374 likes - 130 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,360 likes - 130 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

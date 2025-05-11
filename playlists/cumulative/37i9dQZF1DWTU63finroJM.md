@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: MEOVV.
 
-1,994 songs - 4 day 11 hr 49 min
+1,996 songs - 4 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,7 +587,7 @@
 | [Fuckery \(feat\. Charmaine\)](https://open.spotify.com/track/13KjMbVC5JLTaEG2NI6ytg) | [LAUREN](https://open.spotify.com/artist/5zK6Y7XOLDFFg0sdThkVxr), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [Fuckery \(feat\. Charmaine\)](https://open.spotify.com/album/3gDG8Nco79Nm6mvXJTA2g0) | 1:55 | 2022-03-24 | 2022-08-02 |
 | [Fui El Borrego](https://open.spotify.com/track/4K9ZTPMrvpQ2mnLMu6UKnR) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fui El Borrego](https://open.spotify.com/album/0Gba5NI1R8k8LUiflUEgbg) | 3:20 | 2023-09-15 | 2023-10-14 |
 | [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 | 2024-05-03 | 2024-06-01 |
-| [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-04-04 |  |
+| [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-04-04 | 2025-05-11 |
 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 | 2024-09-23 | 2025-04-05 |
 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 | 2024-01-19 | 2024-04-19 |
 | [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 | 2022-03-31 | 2022-08-27 |
@@ -1663,10 +1663,11 @@
 | [Una Chica Como Tú](https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Chica Como Tú](https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M) | 2:47 | 2022-02-25 | 2022-04-19 |
 | [Una Cumbia Triste](https://open.spotify.com/track/0aZTEC8uIFXLJpkYRby45Y) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ) | [Una Cumbia Triste](https://open.spotify.com/album/5HmM3U9Y5OIoloBfHAbza6) | 3:35 | 2023-10-13 | 2024-04-06 |
 | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/track/5wOPYSiXuK3kpcf3ZH1BkM) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/album/3tro2KxwswtcYlfkbkR9kZ) | 3:01 | 2024-06-07 | 2024-10-12 |
-| [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-01-31 |  |
+| [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-01-31 | 2025-05-11 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-08-18 | 2024-01-20 |
 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-10-13 | 2024-04-06 |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2022-02-10 | 2022-08-02 |
+| [UNITY](https://open.spotify.com/track/1ii9uwB3yTRDAyIpWauE5v) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [UNITY](https://open.spotify.com/album/6bnf6dgi1gDKHwg4YeCpbf) | 4:38 | 2025-05-09 |  |
 | [Universitaria](https://open.spotify.com/track/3durq4YUSFRaeoodpfHBmJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Universitaria](https://open.spotify.com/album/6WSUOZbCvKMTMLtOvE1KW0) | 2:13 | 2022-06-27 | 2022-08-02 |
 | [Universum regelt](https://open.spotify.com/track/0oFlUUf7zFcTkFJVkxgqh9) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Universum regelt](https://open.spotify.com/album/6KlvS05TnVENX7TtId6Got) | 3:12 | 2022-03-24 | 2022-04-18 |
 | [Unlearn](https://open.spotify.com/track/0bCY2oqtq99zTgg9OYzjpH) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Unlearn](https://open.spotify.com/album/1eAcorMqEkerbVH1stj7og) | 3:06 | 2025-04-11 | 2025-05-04 |
@@ -1725,6 +1726,7 @@
 | [What The Truck](https://open.spotify.com/track/4HCJcKwRmhDIROAtNMj6K1) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [What The Truck](https://open.spotify.com/album/3OKlwjvdtVkQDfnYZ65FK0) | 2:24 | 2022-03-24 | 2022-04-11 |
 | [What U Need](https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [What U Need](https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U) | 2:49 | 2025-04-04 |  |
 | [What?](https://open.spotify.com/track/1evZendZnEe8a8eXjd1Bcn) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 4:30 | 2022-02-03 | 2022-03-17 |
+| [WHATEVERWHATEVER](https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [WHATEVERWHATEVER](https://open.spotify.com/album/5nCl0anzakUn8ycOHqYFne) | 2:28 | 2025-05-09 |  |
 | [When I Ain't Lookin'](https://open.spotify.com/track/0des8iQjWbqSGkn89w7AWr) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Waves On A Sunset](https://open.spotify.com/album/3BZLyz9vRkmsw7Q8UyX3dm) | 3:05 | 2024-10-04 | 2025-04-26 |
 | [When It's Over](https://open.spotify.com/track/2EcsBI9PipH9K8cikqZixI) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [When It's Over](https://open.spotify.com/album/2irzSmx5N2QvP3YLJXkRHD) | 3:04 | 2024-03-22 | 2024-04-06 |
 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 | 2022-02-03 | 2022-03-18 |

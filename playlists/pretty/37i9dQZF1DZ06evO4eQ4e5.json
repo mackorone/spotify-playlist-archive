@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 84002,
+  "num_followers": 84015,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBv0AAAAAAB2yMpDfoFbcKfS2AAOoZfR",
+  "snapshot_id": "aB1FgAAAAABks/wlGV4Ezun/zr7sPPPF",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extrav\u00edate",
+        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Entre ella y yo",
+      "url": "https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 255186,
       "name": "El Amor Acaba (with Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/4IYvp8uYQ9Kgt1pW5YEwUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extrav\u00edate",
-        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Entre ella y yo",
-      "url": "https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs"
     },
     {
       "added_at": null,
@@ -687,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Yo Quiera Has De Volver",
-        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
+        "name": "Celebrando a una Leyenda (En Vivo)",
+        "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
       },
       "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 212126,
-      "name": "Cuando Yo Quiera Has De Volver",
-      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
+      "duration_ms": 220329,
+      "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
+      "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
     },
     {
       "added_at": null,
@@ -719,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando a una Leyenda (En Vivo)",
-        "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
+        "name": "Cuando Yo Quiera Has De Volver",
+        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
       },
       "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 220329,
-      "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
-      "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
+      "duration_ms": 212126,
+      "name": "Cuando Yo Quiera Has De Volver",
+      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
     },
     {
       "added_at": null,

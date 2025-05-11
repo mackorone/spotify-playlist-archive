@@ -1,6 +1,6 @@
 {
   "description": "Det er fredag, og ny musik fra Annika, Gobs, Tobias Rahim og mange flere \ud83d\udc40",
-  "num_followers": 120020,
+  "num_followers": 120036,
   "original_name": "New Music Friday Denmark",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-05-08 22:00:40",
       "album": {
+        "name": "Hard drive schlappers",
+        "url": "https://open.spotify.com/album/7d6B5R1x4M3BcLUFkmAfnm"
+      },
+      "artists": [
+        {
+          "name": "FRAADS",
+          "url": "https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH"
+        }
+      ],
+      "duration_ms": 171057,
+      "name": "Jeg gav alt jeg havde",
+      "url": "https://open.spotify.com/track/6D59xNJEg9gN572oShGrmF"
+    },
+    {
+      "added_at": "2025-05-08 22:00:40",
+      "album": {
         "name": "Arcade (Spotify Singles)",
         "url": "https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy"
       },
@@ -992,7 +1008,7 @@
           "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
         }
       ],
-      "duration_ms": 141000,
+      "duration_ms": 142660,
       "name": "St. Tropez",
       "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
     },

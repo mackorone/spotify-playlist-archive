@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 933 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 932 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Kato Tebe Vtori Nyama](https://open.spotify.com/track/3LzpgBBMv6aFmUYu7dfdhg) | [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1), [Vanko 1](https://open.spotify.com/artist/19Ts8VmVkszIeHB7Bz0Q90) | [Azis 2014](https://open.spotify.com/album/4eob5WbssPxs5RqRQ61zau) | 4:05 |
 | 50 | [Башмайсторска](https://open.spotify.com/track/1rLpf280OicMHgkl6SfGHG) | [Billy Hlapeto](https://open.spotify.com/artist/0dz4rGLXin0gvKYqFh7iyI), [Lexus](https://open.spotify.com/artist/7L0jOBGO246iJcBr8uWfXs), [Dim4ou](https://open.spotify.com/artist/6URykZzv72st8HDMcJNrsV) | [Башмайсторска](https://open.spotify.com/album/3TSTVv5u0S4wGktlHdQNEO) | 3:07 |
 
-Snapshot ID: `L7FvoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L7LDeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 > 50 nejžhavějších hitů v České republice\. Cover: Sara Rikas
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,552 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,628 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 12 | [Silnej hlad](https://open.spotify.com/track/6pLvqvjAQG9kXpKgGCFbgd) | [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY), [Lboy Bsc](https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2) | [Drive By](https://open.spotify.com/album/5VO7ksbvagitZYZArtxl33) | 2:47 |
 | 13 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 14 | [Cígo a káva \(feat\. Saul\)](https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 3:03 |
-| 15 | [AENE](https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [DMS](https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D), [SMART](https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 4:55 |
+| 15 | [AENE](https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [SMART](https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf), [Dame](https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 4:55 |
 | 16 | [Vítej mezi náma \(feat\. STEIN27\)](https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 3:13 |
 | 17 | [Pro štěstí](https://open.spotify.com/track/6KrZjI3fqzqctnmO0MjC4d) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Pro štěstí](https://open.spotify.com/album/0PjQfJtve9FGWFyVwaGKL2) | 2:47 |
 | 18 | [Syndrom](https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 2:46 |

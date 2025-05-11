@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,342 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,406 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [spontaneous combustion!](https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX) | [Jay Crusoe](https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7) | [spontaneous combustion!](https://open.spotify.com/album/2CWGA9IfKlCDq3YMub0d6B) | 5:42 |
 | 2 | [Underground Ways](https://open.spotify.com/track/3gdGg8aoZ0rVStKAOSCPff) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Underground Ways](https://open.spotify.com/album/2Ygx3tuwzLxSL5nWFZoIeI) | 3:17 |
 | 3 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
-| 4 | [Malikan](https://open.spotify.com/track/1RNUW7puT3hGr9Gsy8lx4I) | [Italobros](https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5) | [Malikan](https://open.spotify.com/album/2RRwRafJxXPBCEchkTlMFl) | 3:13 |
+| 4 | [Need Your Body](https://open.spotify.com/track/5bMH3BpMkxXN4tt5U6pDzu) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Need Your Body](https://open.spotify.com/album/7oEy46T56xbOLJaCHpPsGl) | 3:24 |
 | 5 | [What You Say](https://open.spotify.com/track/2aOlGcKkcYYLABhtLDAvqn) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [What You Say EP](https://open.spotify.com/album/0Y3fdVxgQ9Aoh8Nw1Nw1ZA) | 5:11 |
 | 6 | [Confession](https://open.spotify.com/track/6MeGdzOM0tvuKLjU8uaeKU) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M), [Barbie Mak](https://open.spotify.com/artist/1rnMncuiUjiXdGDpgmqlNY) | [Confession](https://open.spotify.com/album/6MuwtAEHHrX23i8j8xYFN3) | 3:00 |
 | 7 | [Won't Stop \(Don't\)](https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\)](https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu) | 3:53 |
 | 8 | [Take My Love \- Prunk Remix](https://open.spotify.com/track/6iVOj4c1eQIDv2AKBn2NdI) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP), [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [Take My Love](https://open.spotify.com/album/07WAoaCn3c1dgfgFfDCUQK) | 3:10 |
 | 9 | [groove that never stops](https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds) | [Jake Antonio](https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC) | [groove that never stops](https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ) | 4:07 |
 | 10 | [A Place We Can Be Free](https://open.spotify.com/track/0cYSit2eR3wa5c8ZtdlPl6) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv), [Ian Orr](https://open.spotify.com/artist/6uLKO2fYC6WPUUZZaQH32V) | [A Place We Can Be Free \(feat\. Ian Orr\)](https://open.spotify.com/album/1XI2O5zCIZWPL6VYA1ialB) | 3:46 |
-| 11 | [Need Your Body](https://open.spotify.com/track/5bMH3BpMkxXN4tt5U6pDzu) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Need Your Body](https://open.spotify.com/album/7oEy46T56xbOLJaCHpPsGl) | 3:24 |
-| 12 | [Expressions](https://open.spotify.com/track/3I85rOzMDeQqVSJnO3zIqK) | [Dyl Poole](https://open.spotify.com/artist/0vRUQytdOTCdqYMZvQ6SQw) | [Expressions](https://open.spotify.com/album/4ZR8EYXTeeZFtlNZALBkEK) | 4:07 |
+| 11 | [Expressions](https://open.spotify.com/track/3I85rOzMDeQqVSJnO3zIqK) | [Dyl Poole](https://open.spotify.com/artist/0vRUQytdOTCdqYMZvQ6SQw) | [Expressions](https://open.spotify.com/album/4ZR8EYXTeeZFtlNZALBkEK) | 4:07 |
+| 12 | [Malikan](https://open.spotify.com/track/1RNUW7puT3hGr9Gsy8lx4I) | [Italobros](https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5) | [Malikan](https://open.spotify.com/album/2RRwRafJxXPBCEchkTlMFl) | 3:13 |
 | 13 | [Yalla Habibi](https://open.spotify.com/track/7gghABdext1rWaAr6U508t) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Yalla Habibi](https://open.spotify.com/album/2Ug29UHBsikpysJlpSZS2s) | 3:55 |
 | 14 | [Way Back](https://open.spotify.com/track/7cfFMlr9FEIc3WVBZwpnJJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Way Back EP](https://open.spotify.com/album/4APn6rJ9usEWuxf6LDYdZF) | 6:18 |
 | 15 | [No Joke](https://open.spotify.com/track/46UzMU4yX1D4ARkMhEiPe2) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [No Joke](https://open.spotify.com/album/0Qt32OnZmF7z5iRQ9Bytnm) | 2:51 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 124 | [Heartbreaker \- Original Mix](https://open.spotify.com/track/2bQX4uvdWdEI3leqLNavLp) | [Nacho Scoppa](https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA) | [Deeperfect Summer Stuff](https://open.spotify.com/album/1QoLYjaCi6Yt4TnnDg1jH9) | 3:36 |
 | 125 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
 
-Snapshot ID: `aB5XfAAAAAB6duZYNiyRi/YG1S2Vyosz`
+Snapshot ID: `aB9uEAAAAADWGetQaqq/We+Zrh7/nETQ`

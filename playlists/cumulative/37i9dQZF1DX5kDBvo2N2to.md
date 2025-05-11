@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-304 songs - 16 hr 46 min
+306 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 | 2025-02-24 |
 | [BeReal](https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Waterworks](https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L) | 2:08 | 2024-06-28 | 2024-08-23 |
 | [Big Nose](https://open.spotify.com/track/0Vr1b1m2v5F4NorSjUUXym) | [Frey](https://open.spotify.com/artist/7rf5nN7CXclpCw7k7ah3yK) | [Big Nose](https://open.spotify.com/album/244WbaXCLVuZkRfUvLz2Sz) | 3:37 | 2024-06-28 | 2024-08-16 |
-| [BIRDS FLY HIGH](https://open.spotify.com/track/63hXKh8T502h6Nkp2fuizM) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Birds fly high](https://open.spotify.com/album/0JtNg52YdsdeT8WbZs3ZdZ) | 2:43 | 2025-03-13 |  |
+| [BIRDS FLY HIGH](https://open.spotify.com/track/63hXKh8T502h6Nkp2fuizM) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Birds fly high](https://open.spotify.com/album/0JtNg52YdsdeT8WbZs3ZdZ) | 2:43 | 2025-03-13 | 2025-05-11 |
 | [Black Lake](https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Black Lake](https://open.spotify.com/album/7e4KbLhXLMtAISnyc9mSQJ) | 2:55 | 2024-08-15 | 2024-10-08 |
 | [BLOD & VODKA](https://open.spotify.com/track/73zSeH1CdAudlGqSTTXke4) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [BLOD & VODKA](https://open.spotify.com/album/00B5qQXF9CXXUFbtt0cESq) | 2:00 | 2025-03-27 | 2025-04-04 |
 | [Blomma i city](https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Blomma i city](https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi) | 3:19 | 2024-06-28 | 2024-08-16 |
@@ -110,7 +110,7 @@
 | [Gimme](https://open.spotify.com/track/6f2x86p54shxxPVEmhkJPm) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Gimme](https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae) | 3:04 | 2024-10-24 | 2025-01-19 |
 | [Glas](https://open.spotify.com/track/13IqDjxqFl763yUcTg2ycX) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Glas](https://open.spotify.com/album/2SgPhxnfejHUbW9FjBrb7U) | 2:52 | 2025-04-24 |  |
 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 | 2025-03-07 |  |
-| [glöm det](https://open.spotify.com/track/4OLwEZqfG8GyJkjH6frFSW) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [glöm det](https://open.spotify.com/album/3L66LCj1nrl49zNx8BRRHq) | 3:19 | 2025-03-13 |  |
+| [glöm det](https://open.spotify.com/track/4OLwEZqfG8GyJkjH6frFSW) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [glöm det](https://open.spotify.com/album/3L66LCj1nrl49zNx8BRRHq) | 3:19 | 2025-03-13 | 2025-05-11 |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-28 | 2024-08-30 |
 | [GODDESS](https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [GODDESS](https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx) | 3:10 | 2024-10-24 |  |
 | [Goldfish](https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Goldfish](https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV) | 3:06 | 2025-05-01 |  |
@@ -280,6 +280,7 @@
 | [The Prettiest Face](https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [The Prettiest Face](https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4) | 3:31 | 2025-03-07 |  |
 | [Thee Unknown](https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 3:24 | 2024-09-19 | 2025-05-09 |
 | [There She Goes](https://open.spotify.com/track/4ZvNXUjjrllLUUiuv6feob) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [There She Goes](https://open.spotify.com/album/771Yi73tdaXNK0MHzKYlXF) | 3:10 | 2025-03-07 | 2025-03-14 |
+| [Tiderna i Solna](https://open.spotify.com/track/0mJahyRnWWalqO1e0HERBj) | [Joel Nordenberg](https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW) | [Tiderna i Solna](https://open.spotify.com/album/6rRfCs1pgXT33V8azO2jmu) | 2:18 | 2025-05-09 |  |
 | [Till hälften människa, till hälften moderat](https://open.spotify.com/track/6X1QmXwBadartUpzhUfgjS) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Till hälften människa, till hälften moderat](https://open.spotify.com/album/7M2UQRwp5YgXHE2PvMShgG) | 4:44 | 2024-06-28 | 2024-10-11 |
 | [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-28 | 2024-09-21 |
 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 | 2025-04-10 |  |
@@ -309,6 +310,7 @@
 | [Yine Aşık Oldum Sana](https://open.spotify.com/track/2sxpcczGEHIUXep8leghgk) | [Bahoz & Baran](https://open.spotify.com/artist/4cP6d9sa9B21WHO3MvtOP6) | [Yine Aşık Oldum Sana](https://open.spotify.com/album/73gHXKxN8SoaX6UAIUXjq4) | 2:35 | 2024-11-08 | 2024-12-13 |
 | [You You You](https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [You You You](https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV) | 2:42 | 2025-04-17 |  |
 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 | 2024-10-24 |  |
+| [Your Fantasy](https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Your Fantasy](https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB) | 2:19 | 2025-05-09 |  |
 | [You’re Breaking My Heart](https://open.spotify.com/track/2tAGHHcz1YPbZRAfgS8DP9) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [You’re Breaking My Heart](https://open.spotify.com/album/6tlW066bFMZhLN0LHFUB59) | 3:29 | 2024-06-28 | 2024-09-22 |
 | [Zoey](https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd), [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Zoey](https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX) | 3:03 | 2024-09-26 |  |
 | [Zombie](https://open.spotify.com/track/68FnxCqRL1YJ2SrJ1qSsl7) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Goat](https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj) | 5:28 | 2024-10-10 | 2025-03-08 |
