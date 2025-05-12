@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAABtg0NEMv1rHbHobraLxGVf",
+  "snapshot_id": "aB6XAAAAAAAmnkH6oC4NYIL25+POlfO9",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 241837,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub"
+      "duration_ms": 217690,
+      "name": "For the Future",
+      "url": "https://open.spotify.com/track/70otjXKq2lzJbynH7W3N76"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 217690,
-      "name": "For the Future",
-      "url": "https://open.spotify.com/track/70otjXKq2lzJbynH7W3N76"
+      "duration_ms": 241837,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub"
     },
     {
       "added_at": null,
@@ -623,26 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "G.U.R.U.",
-        "url": "https://open.spotify.com/album/2zGzjKOL0cjNipoqjXRaLg"
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
       "artists": [
         {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
         }
       ],
-      "duration_ms": 268164,
-      "name": "G.U.R.U.",
-      "url": "https://open.spotify.com/track/1lCCn7sRZQSPzHZP8tNzd7"
+      "duration_ms": 206854,
+      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
+      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
     },
     {
       "added_at": null,
@@ -675,6 +671,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "G.U.R.U.",
+        "url": "https://open.spotify.com/album/2zGzjKOL0cjNipoqjXRaLg"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "duration_ms": 268164,
+      "name": "G.U.R.U.",
+      "url": "https://open.spotify.com/track/1lCCn7sRZQSPzHZP8tNzd7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Breukelen Story (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 188710,
       "name": "Kings",
       "url": "https://open.spotify.com/track/6b8ftCJXOdx922FW2KKOSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 206854,
-      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
-      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baker's Dozen: Marco Polo",
-        "url": "https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 161092,
-      "name": "The Rub",
-      "url": "https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -811,26 +795,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pageants",
-        "url": "https://open.spotify.com/album/3oo68FP4cCpDL84U5QIhiX"
+        "name": "Baker's Dozen: Marco Polo",
+        "url": "https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt"
       },
       "artists": [
-        {
-          "name": "El Gant",
-          "url": "https://open.spotify.com/artist/4llsXvzrFDouECrWMjrEtx"
-        },
-        {
-          "name": "Ras Kass",
-          "url": "https://open.spotify.com/artist/0OiS4KHxViIFnJooFTXl7V"
-        },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 218610,
-      "name": "Pageants",
-      "url": "https://open.spotify.com/track/2vT7ffgyFYrPkWIGQ6kbT2"
+      "duration_ms": 161092,
+      "name": "The Rub",
+      "url": "https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Copywrite",
+          "url": "https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP"
     },
     {
       "added_at": null,
@@ -859,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Port Authority",
-        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Copywrite",
-          "url": "https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Get Busy",
-      "url": "https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Newport Authority 2",
         "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 179288,
       "name": "Fame For President",
       "url": "https://open.spotify.com/track/4eRfNBuj4EyOmGHvvPmTsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pageants",
+        "url": "https://open.spotify.com/album/3oo68FP4cCpDL84U5QIhiX"
+      },
+      "artists": [
+        {
+          "name": "El Gant",
+          "url": "https://open.spotify.com/artist/4llsXvzrFDouECrWMjrEtx"
+        },
+        {
+          "name": "Ras Kass",
+          "url": "https://open.spotify.com/artist/0OiS4KHxViIFnJooFTXl7V"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 218610,
+      "name": "Pageants",
+      "url": "https://open.spotify.com/track/2vT7ffgyFYrPkWIGQ6kbT2"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 150786,
-      "name": "What Is The Question",
-      "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Newport Authority 2",
         "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 198418,
       "name": "BK 2 NJ",
       "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 150786,
+      "name": "What Is The Question",
+      "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,66 @@
       "duration_ms": 190160,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/2d559tVeYdwUOvA6rk91TT"
+      },
+      "artists": [
+        {
+          "name": "MindsOne",
+          "url": "https://open.spotify.com/artist/2dcR9flQrOV8SKge4zU5FT"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 160682,
+      "name": "Blind Fury",
+      "url": "https://open.spotify.com/track/2l3qE9f4DEdCjjat6iBWWX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Titled",
+        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
+      },
+      "artists": [
+        {
+          "name": "Solo For Dolo",
+          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Quarter Water Kids",
+      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 228824,
+      "name": "Miejmy To za Sob\u0105",
+      "url": "https://open.spotify.com/track/1sSB4QeES1fDkaBeC7MPVM"
     },
     {
       "added_at": null,
@@ -1059,26 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 228824,
-      "name": "Miejmy To za Sob\u0105",
-      "url": "https://open.spotify.com/track/1sSB4QeES1fDkaBeC7MPVM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MP On The MP: The Beat Tape Vol. 1",
         "url": "https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh"
       },
@@ -1095,22 +1135,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Titled",
-        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
+        "name": "Midnight Run",
+        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
       },
       "artists": [
         {
-          "name": "Solo For Dolo",
-          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 190680,
-      "name": "Quarter Water Kids",
-      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
+      "duration_ms": 162951,
+      "name": "Makin' Up",
+      "url": "https://open.spotify.com/track/2WUUwYV7SmKgFXgKlgGPYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 239393,
+      "name": "\u017bywy lub Martwy",
+      "url": "https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB"
     },
     {
       "added_at": null,
@@ -1131,74 +1191,6 @@
       "duration_ms": 236626,
       "name": "War",
       "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/2d559tVeYdwUOvA6rk91TT"
-      },
-      "artists": [
-        {
-          "name": "MindsOne",
-          "url": "https://open.spotify.com/artist/2dcR9flQrOV8SKge4zU5FT"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 160682,
-      "name": "Blind Fury",
-      "url": "https://open.spotify.com/track/2l3qE9f4DEdCjjat6iBWWX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Green",
-          "url": "https://open.spotify.com/artist/425dAH6elWgBjvcJmSxMbf"
-        },
-        {
-          "name": "Kas",
-          "url": "https://open.spotify.com/artist/1lFQ4azorYPPjFr4RyTFrn"
-        },
-        {
-          "name": "Zorak",
-          "url": "https://open.spotify.com/artist/3pJVkXr1jLitXhE0u7vutE"
-        }
-      ],
-      "duration_ms": 345813,
-      "name": "Garri Kasparow",
-      "url": "https://open.spotify.com/track/4fiK2HSueG8QBQSbmD3h5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MP On The MP: The Beat Tape Vol. 1",
-        "url": "https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 127249,
-      "name": "Cindy",
-      "url": "https://open.spotify.com/track/29dmXXYjMb8zp7RTlEZYDC"
     }
   ],
   "unique_name": "This Is Marco Polo",

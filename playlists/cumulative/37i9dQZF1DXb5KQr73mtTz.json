@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218546,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr"
+    },
+    {
+      "album": {
         "name": "Lyrical 1 \u2013 Afterimage",
         "url": "https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo"
       },
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 192430,
       "name": "Forgetting You",
       "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 216830,
       "name": "Let`s never meet again",
       "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
@@ -3068,6 +3086,28 @@
       "duration_ms": 161932,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/3KVIzUHVvF2VV7BCQEJRbA"
+    },
+    {
+      "album": {
+        "name": "No Longer Human",
+        "url": "https://open.spotify.com/album/3a0LsOTERa9WRzHUD8KVhv"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200428,
+      "name": "No Longer Human (feat. Sonny Zero)",
+      "url": "https://open.spotify.com/track/5Gez0iCghDCzBApeyicHaN"
     },
     {
       "album": {

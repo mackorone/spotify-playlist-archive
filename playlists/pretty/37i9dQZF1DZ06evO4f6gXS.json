@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3365,
+  "num_followers": 3367,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAACSUGejkG2ynCYueCs9IgkC",
+  "snapshot_id": "aB6XAAAAAABTKbIYQh6WSaxbzJPOEV7i",
   "tracks": [
     {
       "added_at": null,
@@ -736,12 +736,16 @@
       },
       "artists": [
         {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
+          "name": "Richard Anthony Davis",
+          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         },
         {
           "name": "Emmanuel",
           "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
+        },
+        {
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "Dean Edwards",
@@ -762,15 +766,11 @@
         {
           "name": "The Sound Principle",
           "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
-        },
-        {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/50UOjlh09B4y1OBbNMPQwF"
+      "duration_ms": 297000,
+      "name": "Lovers for Life",
+      "url": "https://open.spotify.com/track/70TgN1YwZOaqBmPLKOfbus"
     },
     {
       "added_at": null,
@@ -828,16 +828,12 @@
       },
       "artists": [
         {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "Emmanuel",
           "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
-        },
-        {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "Dean Edwards",
@@ -858,11 +854,15 @@
         {
           "name": "The Sound Principle",
           "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
+        },
+        {
+          "name": "Richard Anthony Davis",
+          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Lovers for Life",
-      "url": "https://open.spotify.com/track/70TgN1YwZOaqBmPLKOfbus"
+      "duration_ms": 340000,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/50UOjlh09B4y1OBbNMPQwF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiago Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,111 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,410 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 10 | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm) | 5:20 |
 | 11 | [Até Que Durou / 1 Metro e 65 \- Ao Vivo](https://open.spotify.com/track/1cS6BbRwFGgkhAeO8lHUva) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [After do Benza \(Ao Vivo\)](https://open.spotify.com/album/3VAQTlftSOa79dQpsIdjhG) | 4:53 |
 | 12 | [Vacilão / Deixa a Vida Me Levar / Coração Em Desalinho \- Ao Vivo](https://open.spotify.com/track/0ZgQiCYAUJhlHnaMOPySn6) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Mixturadin 3 \(Ao Vivo\)](https://open.spotify.com/album/4uBtbtKEG21NIl1I6mx4UV) | 6:44 |
-| 13 | [Sem Abuso / Maneiras](https://open.spotify.com/track/20ba17syY508T4hRtI8Oic) | [Samba 90 Graus](https://open.spotify.com/artist/6h3xVRZMOFMRIyKOqvRnCE) | [Samba 90 Graus Vol\. 1](https://open.spotify.com/album/0dMN58fUFDX1R33PWuLY9K) | 4:41 |
+| 13 | [Sem Abuso / Maneiras \- Ao Vivo](https://open.spotify.com/track/20ba17syY508T4hRtI8Oic) | [Samba 90 Graus](https://open.spotify.com/artist/6h3xVRZMOFMRIyKOqvRnCE) | [Samba 90 Graus Vol\. 1](https://open.spotify.com/album/0dMN58fUFDX1R33PWuLY9K) | 4:41 |
 | 14 | [Gamação Danada / Bem Melhor Que Você](https://open.spotify.com/track/5YxD04nZSCoTYKMzLqes2C) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB), [Neguinho Da Beija Flor](https://open.spotify.com/artist/799vto7KXqGNiIYGCiEFa1), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Empretecendo](https://open.spotify.com/album/3mWOmZ4NXi9iXyu46qZxf9) | 3:53 |
 | 15 | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \- Ao Vivo](https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \(Ao Vivo\)](https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR) | 6:41 |
 | 16 | [Tá Escrito / Nascente \- Ao Vivo](https://open.spotify.com/track/5I8LR0uXqKd3UqiyAnIpht) | [Marcelinho Freitas](https://open.spotify.com/artist/6LIIAx0yKVB9wQ9y5IGils), [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1) | [Tá Escrito / Nascente](https://open.spotify.com/album/4PfXtH0WH8pD2LAYZ4f71k) | 3:01 |

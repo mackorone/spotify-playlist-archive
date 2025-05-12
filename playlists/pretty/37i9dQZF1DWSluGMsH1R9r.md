@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,446,847 likes - 218 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446,880 likes - 218 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 15 | [Chanson Pour Un Amour Perdu](https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Chanson Pour Un Amour Perdu](https://open.spotify.com/album/4wSJswIZfgIzd3yxGdckFn) | 2:03 |
 | 16 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 |
 | 17 | [Ballerina Waltz](https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Ballerina Waltz](https://open.spotify.com/album/70NHM7YBG7jEC0Xm3PR5p9) | 2:35 |
-| 18 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
-| 19 | [Replenish](https://open.spotify.com/track/194Ck9M0KJ4eT2s8TJqExp) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Replenish](https://open.spotify.com/album/7ot8PYioVCSCsAltO3ENaf) | 2:26 |
+| 18 | [Replenish](https://open.spotify.com/track/194Ck9M0KJ4eT2s8TJqExp) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Replenish](https://open.spotify.com/album/7ot8PYioVCSCsAltO3ENaf) | 2:26 |
+| 19 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
 | 20 | [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 |
 | 21 | [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 |
 | 22 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 54 | [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 |
 | 55 | [Inside A Dream](https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [Inside A Dream](https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l) | 2:25 |
 | 56 | [Prati](https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Prati](https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU) | 2:25 |
-| 57 | [In A Darkened Room](https://open.spotify.com/track/0iVMAdJchuoG3DqPBu1450) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [In A Darkened Room](https://open.spotify.com/album/30jOl0PWPzrFJrYnIFC1QC) | 2:18 |
-| 58 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 |
+| 57 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 |
+| 58 | [In A Darkened Room](https://open.spotify.com/track/0iVMAdJchuoG3DqPBu1450) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [In A Darkened Room](https://open.spotify.com/album/30jOl0PWPzrFJrYnIFC1QC) | 2:18 |
 | 59 | [Hiraeth](https://open.spotify.com/track/7Bu7bhBR0ZzJYV6rXy2WBE) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Hiraeth](https://open.spotify.com/album/0X7oAZw91zTDeDYBo8csfR) | 2:27 |
 | 60 | [Making peace](https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Making peace](https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q) | 2:23 |
 | 61 | [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 |
@@ -184,8 +184,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 174 | [Encore une Danse](https://open.spotify.com/track/5o7LUHW8BVTU0NQV8wMgbw) | [Francis Laplanne](https://open.spotify.com/artist/5CKQ9qNvPaV6mZ3eeOcUMY) | [Encore une Danse](https://open.spotify.com/album/6wym62QStSSPaBmDN1kunZ) | 2:01 |
 | 175 | [Enchanted](https://open.spotify.com/track/4VFWqPpohVxrvj0X30zY7M) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Enchanted](https://open.spotify.com/album/1Ok4CK8AVQH0v7KAVkmHSS) | 2:16 |
 | 176 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 |
-| 177 | [Ocean Breeze](https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Ocean Breeze](https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3) | 2:11 |
-| 178 | [Fljúga](https://open.spotify.com/track/1rFxXMAIF7GQhBhBNzumT1) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fljúga](https://open.spotify.com/album/5wQ1doSiGa5Onc5SxGpd61) | 2:37 |
+| 177 | [Fljúga](https://open.spotify.com/track/1rFxXMAIF7GQhBhBNzumT1) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fljúga](https://open.spotify.com/album/5wQ1doSiGa5Onc5SxGpd61) | 2:37 |
+| 178 | [Ocean Breeze](https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Ocean Breeze](https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3) | 2:11 |
 | 179 | [Fanciful](https://open.spotify.com/track/0I3Rxri1PbEnBZVol9NY1B) | [Oscar O'Keefe](https://open.spotify.com/artist/19nC7hEB44GQsl6TaE7fIR) | [Fanciful](https://open.spotify.com/album/4yF3b9tkhhDHLGkpfL6HXV) | 2:19 |
 | 180 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 |
 | 181 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 |
@@ -209,16 +209,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 199 | [Final Thoughts](https://open.spotify.com/track/33N2hGEswrt2owzlW5PAsX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Final Thoughts](https://open.spotify.com/album/445Tm1RU9hCsXTagEdZ3Y1) | 2:14 |
 | 200 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 |
 | 201 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 |
-| 202 | [Turn](https://open.spotify.com/track/26UD6EFThaMnBcmHxb8MOG) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Turn](https://open.spotify.com/album/5dzEdj4p2MdqoojNvOFEUS) | 2:59 |
-| 203 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 |
+| 202 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 |
+| 203 | [Turn](https://open.spotify.com/track/26UD6EFThaMnBcmHxb8MOG) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Turn](https://open.spotify.com/album/5dzEdj4p2MdqoojNvOFEUS) | 2:59 |
 | 204 | [Minorities](https://open.spotify.com/track/0WGxduCskRMRz2sBkHgpDg) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Minorities](https://open.spotify.com/album/48ludebOOiB7RpPpgtEhxs) | 2:49 |
 | 205 | [Into the Subconscious](https://open.spotify.com/track/68WU8PnAO2EajCfL1s7TIL) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Into the Subconscious](https://open.spotify.com/album/3RWMMRlWWlpEfBikCBpSLC) | 2:43 |
 | 206 | [Murasaki No Yume](https://open.spotify.com/track/5hiuOPmW0LBilvTFParX3V) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Murasaki No Yume](https://open.spotify.com/album/2JSfaNSxtVVplSGGNE6Dj4) | 2:12 |
 | 207 | [Morning Air](https://open.spotify.com/track/75yhwBaQZoBOt5XeX1Dm6E) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Morning Air](https://open.spotify.com/album/6r5cXVhPeNalnSEgIupUcj) | 2:57 |
 | 208 | [Imagine](https://open.spotify.com/track/6Q0m7E33lcj6FOgdEsH448) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Imagine](https://open.spotify.com/album/7azCak0GgPVaSFelg61xYa) | 2:09 |
 | 209 | [Promenade](https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Promenade](https://open.spotify.com/album/3LW1XhKVlovivBri0LDZwB) | 2:00 |
-| 210 | [Lovesong](https://open.spotify.com/track/1FVaEmntOX3Qf2Ng5wdMok) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Lovesong](https://open.spotify.com/album/702GZkPC9uj5n0c37CwaBq) | 2:11 |
-| 211 | [Tana](https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Tana](https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG) | 2:58 |
+| 210 | [Tana](https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Tana](https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG) | 2:58 |
+| 211 | [Lovesong](https://open.spotify.com/track/1FVaEmntOX3Qf2Ng5wdMok) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Lovesong](https://open.spotify.com/album/702GZkPC9uj5n0c37CwaBq) | 2:11 |
 | 212 | [Synchronicities](https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Synchronicities](https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v) | 2:46 |
 | 213 | [La Velata](https://open.spotify.com/track/3FPQTs1k6ZvwQVsD5WJ6tU) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Lumière du Matin](https://open.spotify.com/album/4QKzhpZ1YAhVtWoZwrofTY) | 2:46 |
 | 214 | [Days](https://open.spotify.com/track/75mVGk9NnVwI1hC42MrvcG) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Poems](https://open.spotify.com/album/6VYkb4InDz4hHgarKcC8LH) | 2:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Panetti in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,343 likes - 92 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,348 likes - 92 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

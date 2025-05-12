@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,747 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,859 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 47 | [Yaad](https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Yaad](https://open.spotify.com/album/6KqNthM4VNfQnbHLtHtTNl) | 2:22 |
 | 48 | [SPAIN](https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 1:44 |
 | 49 | [Milky Way](https://open.spotify.com/track/2QfUhWY2m7X7aURqUPfxEp) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Milky Way](https://open.spotify.com/album/66rBRTEYWfFkYqmtIj9M9W) | 2:19 |
-| 50 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Arjan Virk](https://open.spotify.com/artist/3W4K6YoTzt7G6jc2rtNIbY) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |
+| 50 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Arjan Virk](https://open.spotify.com/artist/3W4K6YoTzt7G6jc2rtNIbY), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |
 | 51 | [Khulle Aasmaan](https://open.spotify.com/track/2zZMYUiTPcXN1mY5RrER33) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Khulle Aasmaan](https://open.spotify.com/album/1zAkoiHmUOlICFeYAsPEFE) | 3:39 |
 | 52 | [Tareef](https://open.spotify.com/track/76kJt6gHCqCYhRGI0ifp53) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tareef](https://open.spotify.com/album/102wTfX90nx1r2i5aCTgUo) | 3:06 |
 | 53 | [Jungle Da Raja](https://open.spotify.com/track/2e7RkAsPa2I7soubnm9Xv2) | [Tiger](https://open.spotify.com/artist/1Bvb9LcDqKiwwbUAVZMDtm), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Jungle Da Raja](https://open.spotify.com/album/4R8fPpndTz2XcMMB5hYDGH) | 3:19 |

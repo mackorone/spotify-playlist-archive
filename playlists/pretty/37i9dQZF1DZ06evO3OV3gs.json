@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 684144,
+  "num_followers": 684230,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAABm5oDRtu0aXMevujuGRHIU",
+  "snapshot_id": "aB6XAAAAAADfrfQuNNdV1LRFWpL1SoiA",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erotica (PA Version)",
-        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 324733,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
+      "duration_ms": 239093,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 239093,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
+      "duration_ms": 324733,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
       "duration_ms": 315466,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 229280,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 278135,
       "name": "You'll See",
       "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 229280,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79"
     },
     {
       "added_at": null,

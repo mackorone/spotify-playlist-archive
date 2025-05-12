@@ -4,7 +4,7 @@
 
 > 
 
-171 songs - 6 hr 41 min
+175 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [ATTACKING VERTICAL](https://open.spotify.com/track/1zDPYoaXTejmNtSaOBbPOd) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 1:55 | 2025-03-06 |  |
 | [BEAM!](https://open.spotify.com/track/6zjto41Jnk4HGIHucW5ime) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [BEAM!](https://open.spotify.com/album/3ydmXcIWr4aWdPYHLuEfqR) | 1:49 | 2025-01-05 |  |
 | [bi.](https://open.spotify.com/track/4SUmeADBziuSW4axIFIMtZ) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:30 | 2025-04-04 |  |
+| [BLAME HER](https://open.spotify.com/track/5ZOGg0PbjdFRbo19tDS5NL) | [SUPXR](https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt), [QKReign](https://open.spotify.com/artist/5pTDhtjL1lF9Mft8TYCjv6) | [BLAME HER](https://open.spotify.com/album/4xmwWx7TDOqaG5h4SxtxK3) | 1:58 | 2025-05-12 |  |
 | [blow my brains out](https://open.spotify.com/track/6ifraZfdjd8qWmjcJ1HwYA) | [akoge](https://open.spotify.com/artist/42hqB8RQixQXhyxGqm1moL) | [blow my brains out](https://open.spotify.com/album/3iZCLuZloIL9W11BRduvvC) | 2:23 | 2025-04-11 |  |
 | [Blur](https://open.spotify.com/track/1CBy3jD5S8MDEI1dRyvoiu) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:23 | 2025-03-11 |  |
 | [BOREDOM!](https://open.spotify.com/track/5dTAODGBAaEjfmyzaReN3Y) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 2:09 | 2024-12-06 |  |
@@ -82,6 +83,7 @@
 | [ICEWHORE!](https://open.spotify.com/track/0RgKtaVv27Nff2y29qaD8W) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/5J00ADHG1jlJiLjQDPURVh) | 1:19 | 2024-12-31 |  |
 | [IHATEBITCHES](https://open.spotify.com/track/5n5QrGdF98Eu0wsQ1Px7Mu) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [m3wk4](https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe) | [IHATEBITCHES](https://open.spotify.com/album/48P5GlBBTUOgfdkSFfwTcV) | 1:50 | 2025-04-11 |  |
 | [IN DA JET!](https://open.spotify.com/track/4KiG9LRMjDkJcr15SERmgV) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [IN DA JET!](https://open.spotify.com/album/7c7oDsmIhXi9O2pUqQZohD) | 2:11 | 2025-03-02 |  |
+| [IN MY HEAD!](https://open.spotify.com/track/1Vd7oY1K1QlxiaNu5aBeKY) | [SUPXR](https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt) | [IN MY HEAD!](https://open.spotify.com/album/1nCBOeRlpPatcktJSnnFZy) | 2:13 | 2025-05-12 |  |
 | [In On It](https://open.spotify.com/track/0ey0KwCzoUdjvPzbLX8qSa) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:23 | 2025-03-12 |  |
 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 | 2025-01-17 |  |
 | [IN2U! / USOFINE!](https://open.spotify.com/track/5Z2F0WoRHRPWbvug6N2mCz) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 4:42 | 2025-03-24 |  |
@@ -152,6 +154,7 @@
 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 | 2025-03-11 |  |
 | [sunroof.](https://open.spotify.com/track/2Y352bwEe4jbupCj94lbbD) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:26 | 2025-04-12 |  |
 | [TAP DAT!](https://open.spotify.com/track/4gNALFfkBwikNddA0WvLeX) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Cacity](https://open.spotify.com/artist/3HOEqAUeNKys5WJEsjkCph) | [TAP DAT!](https://open.spotify.com/album/3TnlD72ac0W89zHgWJ09Yl) | 2:22 | 2024-11-23 |  |
+| [That Way](https://open.spotify.com/track/48oqcueW4GEWJgPcyLPmEQ) | [Miles Yuno](https://open.spotify.com/artist/2bev3VQQJjQ9qLB7Dr8GWo), [Yuno Miles](https://open.spotify.com/artist/6gtIvaBCrswcltfMt67LMn) | [2 Songs](https://open.spotify.com/album/2l28lB0XYveO2lj2EsYHbP) | 2:32 | 2025-05-12 |  |
 | [The Real](https://open.spotify.com/track/6Ux3fUYIKunILT948gEFMM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:30 | 2025-04-05 |  |
 | [THIS AIN’T EVEN ABOUT ANYONE LOL!](https://open.spotify.com/track/2OFmvK2LnlWoWvxATonQqh) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:51 | 2025-03-24 |  |
 | [Thot K](https://open.spotify.com/track/5VPbUZPVASN9scsXak9kDB) | [iluvern!](https://open.spotify.com/artist/5B1esX3IbuEZQqcx95bMzS) | [Thot K](https://open.spotify.com/album/1uXiSa6UrQXZdbxMVnrYm5) | 3:05 | 2024-12-31 |  |
@@ -172,6 +175,7 @@
 | [WHAT?](https://open.spotify.com/track/6MIaCadFk3NxEuY7yCOJls) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [WHAT?](https://open.spotify.com/album/0nqOP9Duwfkl88PSOm68yC) | 1:57 | 2024-12-26 |  |
 | [WHATITMEAN!?](https://open.spotify.com/track/3T6Cx9YYK38MSiHXKRwb0U) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [WHATITMEAN!?](https://open.spotify.com/album/2WwACGlMbQxWhwDkSRhza5) | 1:00 | 2025-04-11 |  |
 | [whats the use?](https://open.spotify.com/track/0eyiSPQKRiWUBYqlswj0m8) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [whats the use?](https://open.spotify.com/album/6LRWRsdhgXRHNOGrGLnG1T) | 2:18 | 2025-05-03 |  |
+| [WHATS UP!](https://open.spotify.com/track/5wHrkFzq57D0dErqtUoZ1e) | [SUPXR](https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt) | [WHATS UP!](https://open.spotify.com/album/3OJY3Vu9dfhtEkzoiBLWGp) | 2:12 | 2025-05-12 |  |
 | [why try?](https://open.spotify.com/track/4TaktbfwiMLBG8TI49Qi9o) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [why try?](https://open.spotify.com/album/4UnwglMgm3Slopx5HGDoJb) | 2:39 | 2025-01-16 |  |
 | [WOA!](https://open.spotify.com/track/4pBZbCEiabXZrWfSFpm7Bs) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 2:26 | 2024-12-08 |  |
 | [WTFG!](https://open.spotify.com/track/7kMFqDbwdxt6XMKGF2uyL6) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [BLCKK](https://open.spotify.com/artist/4Zs1wgcjD3aYvaN1lFRMRt), [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [WTFG!](https://open.spotify.com/album/6kfvKS1TNG7bnqR2rRr9pV) | 2:44 | 2025-04-12 |  |

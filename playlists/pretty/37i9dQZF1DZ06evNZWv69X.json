@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8318,
+  "num_followers": 8323,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAASs2F29iHBKaUFRJHoA1UH",
+  "snapshot_id": "aB6XAAAAAABEIjneWRJYPTq1OUzBaNFR",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si algo as\u00ed como el amor est\u00e1 en el aire",
-        "url": "https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW"
+        "name": "Lado B",
+        "url": "https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 306986,
-      "name": "Vuelve Conmigo",
-      "url": "https://open.spotify.com/track/0JTBnDXkc9XFWPuMTYf3v2"
+      "duration_ms": 209386,
+      "name": "Viejo Amor, Nuevo Amor",
+      "url": "https://open.spotify.com/track/1B1MMCuGh1ZNpOW64K1AcJ"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si algo as\u00ed como el amor est\u00e1 en el aire",
+        "url": "https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 306986,
+      "name": "Vuelve Conmigo",
+      "url": "https://open.spotify.com/track/0JTBnDXkc9XFWPuMTYf3v2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lado B",
         "url": "https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t"
       },
@@ -420,25 +436,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Viejo Amor, Nuevo Amor",
-      "url": "https://open.spotify.com/track/1B1MMCuGh1ZNpOW64K1AcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Otra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR"
+      "duration_ms": 193093,
+      "name": "Lisa en el Espejo",
+      "url": "https://open.spotify.com/track/0fp20PQabJAHeXBu8UkniG"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lado B",
-        "url": "https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t"
+        "name": "III",
+        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Lisa en el Espejo",
-      "url": "https://open.spotify.com/track/0fp20PQabJAHeXBu8UkniG"
+      "duration_ms": 225626,
+      "name": "Otra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR"
     },
     {
       "added_at": null,

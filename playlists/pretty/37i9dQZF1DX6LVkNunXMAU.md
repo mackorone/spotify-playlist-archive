@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > indie folk latino de estación\. Foto: Paz Carrara y Raly Barrionuevo
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,179 likes - 95 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,184 likes - 95 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 8 | [Huracán](https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Huracán](https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs) | 3:11 |
 | 9 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 |
 | 10 | [Ana María](https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TÁ](https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03) | 2:20 |
-| 11 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
-| 12 | [Vapor](https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Vapor](https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e) | 3:02 |
-| 13 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 |
-| 14 | [Pétalo de sal](https://open.spotify.com/track/1caOzwrLNlGpB2EmHKFAZL) | [Dos Más Uno](https://open.spotify.com/artist/7MhvLP9XRGrcNo167nTZWh) | [Las canciones más lindas del mundo, Vol\. 2](https://open.spotify.com/album/3cwIE8jEoB626Z1Sj3J1Fm) | 2:55 |
-| 15 | [Si Sabes Regresar](https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Si Sabes Regresar](https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN) | 2:38 |
-| 16 | [La Capital](https://open.spotify.com/track/138AMAxJawuLPkPlxgHsHq) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [La Capital](https://open.spotify.com/album/1P3OUooECLJYVUj8NJ1IUJ) | 2:58 |
+| 11 | [Vapor](https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Vapor](https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e) | 3:02 |
+| 12 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 |
+| 13 | [Pétalo de sal](https://open.spotify.com/track/1caOzwrLNlGpB2EmHKFAZL) | [Dos Más Uno](https://open.spotify.com/artist/7MhvLP9XRGrcNo167nTZWh) | [Las canciones más lindas del mundo, Vol\. 2](https://open.spotify.com/album/3cwIE8jEoB626Z1Sj3J1Fm) | 2:55 |
+| 14 | [Si Sabes Regresar](https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Si Sabes Regresar](https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN) | 2:38 |
+| 15 | [La Capital](https://open.spotify.com/track/138AMAxJawuLPkPlxgHsHq) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [La Capital](https://open.spotify.com/album/1P3OUooECLJYVUj8NJ1IUJ) | 2:58 |
+| 16 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
 | 17 | [Amigos Animales \(Acústico\) \- Edición 2024](https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Te vamos a salvar](https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW) | 2:41 |
 | 18 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 |
 | 19 | [me hace bien amar\(te\)](https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [me hace bien amar\(te\)](https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2) | 3:43 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 75 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
 | 76 | [Apasionadamente](https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Juan Pablo de Mendonça](https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT) | [Sed de Ternura Vol.1 \(Duo Set\)](https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA) | 3:07 |
 | 77 | [Cumbia Nena Magic](https://open.spotify.com/track/7iU8rcZIZBsVs8UX3t5xCW) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [Cumbia Nena Magic](https://open.spotify.com/album/2caja4MilrThiyXshp5nTa) | 3:11 |
-| 78 | [De Viaje](https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [De Viaje](https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU) | 3:22 |
-| 79 | [Buscala](https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Conversación Cultural](https://open.spotify.com/album/1XhqaVC1pLZg4FNpOMwAzV) | 3:15 |
+| 78 | [Buscala](https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Conversación Cultural](https://open.spotify.com/album/1XhqaVC1pLZg4FNpOMwAzV) | 3:15 |
+| 79 | [De Viaje](https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [De Viaje](https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU) | 3:22 |
 | 80 | [Me Fui](https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Me Fui](https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w) | 4:45 |
 | 81 | [Paredes Finas](https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona a Guitarra y Voz \(Lado A\)](https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC) | 4:07 |
 | 82 | [despegar mis pies \- En Vivo](https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Un Nuevo Refugio \(Dulce Cuarto Sesiones\) \[En Vivo\]](https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ) | 3:48 |

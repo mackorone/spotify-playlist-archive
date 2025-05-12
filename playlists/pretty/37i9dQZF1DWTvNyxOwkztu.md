@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,004,685 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,004,892 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 54 | [Santa Fe](https://open.spotify.com/track/46hBN101eELE1lhjYPauSx) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [Santa Fe](https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa) | 2:57 |
 | 55 | [Dreams](https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Dreams](https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b) | 3:27 |
 | 56 | [Love Tonight](https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Love Tonight](https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV) | 2:54 |
-| 57 | [Time to Chill](https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Time to Chill](https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko) | 5:12 |
-| 58 | [Missing You](https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Missing You](https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP) | 2:28 |
-| 59 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 |
-| 60 | [Liftoff](https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Liftoff](https://open.spotify.com/album/0mpEDy0wUtGHbe5lj5nYIv) | 3:25 |
+| 57 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 |
+| 58 | [Liftoff](https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Liftoff](https://open.spotify.com/album/0mpEDy0wUtGHbe5lj5nYIv) | 3:25 |
+| 59 | [Missing You](https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Missing You](https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP) | 2:28 |
+| 60 | [Time to Chill](https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Time to Chill](https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko) | 5:12 |
 | 61 | [Don't Worry](https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Don't Worry](https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1) | 2:24 |
 | 62 | [Don't Worry](https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Don't Worry](https://open.spotify.com/album/1JY1js3AQi74qUZhqG6xrL) | 3:15 |
 | 63 | [I Feel Warmer Already](https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [I Feel Warmer Already](https://open.spotify.com/album/72jLh8lLAIG07SY7m1cADS) | 2:30 |

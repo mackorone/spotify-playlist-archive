@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,475 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,508 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 87 | [Lost Valley](https://open.spotify.com/track/0iumWLcmMMQ6sdST9HrqgJ) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Lost Valley](https://open.spotify.com/album/2m2EQgKQ9XoJIb314ZihkN) | 3:01 |
 | 88 | [Vicinities](https://open.spotify.com/track/0GbG6xZEk5vvGGkXyqaAHI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Where All Is Fled](https://open.spotify.com/album/0DSX1JfPpFz03OmBHJBRsG) | 5:01 |
 | 89 | [In Gleam](https://open.spotify.com/track/65n315tA59gt8sAUdG4Bcc) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [In Gleam](https://open.spotify.com/album/2IJI1sCPaJvqx9yInRORd0) | 5:31 |
-| 90 | [solaria\_](https://open.spotify.com/track/3x7uXaVxr8f4APs8ztqtZR) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy) | [solaria\_](https://open.spotify.com/album/3z6yDp5T1h1jM1wV9chpqy) | 2:45 |
+| 90 | [solaria](https://open.spotify.com/track/3x7uXaVxr8f4APs8ztqtZR) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy) | [solaria](https://open.spotify.com/album/3z6yDp5T1h1jM1wV9chpqy) | 2:45 |
 | 91 | [Polyrhythmic Focus and Studying Part 1](https://open.spotify.com/track/6vzlTcJBemMHOK6rNlW99C) | [Greecho](https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx) | [Polyrhythmic Focus And Studying](https://open.spotify.com/album/3eVENAC5Fr5WphpkTIEQz0) | 3:56 |
 | 92 | [The Wing](https://open.spotify.com/track/4nIdUgjJwddAnfZhggwFpa) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:24 |
 | 93 | [Relief Focus Part 1](https://open.spotify.com/track/4iu11idQuMvhRWfeKsT7eZ) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Relief Focus](https://open.spotify.com/album/43OcuIirS6m1pDpabjy9Kx) | 5:20 |

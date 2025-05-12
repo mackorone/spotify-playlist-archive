@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,114 likes - 129 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,124 likes - 129 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 6 | [PARAGON](https://open.spotify.com/track/5XbhCs9IBWBRJwsJoU3BeD) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [PARAGON](https://open.spotify.com/album/31mNUa6zQ3dAbW6xl0VP4Y) | 2:45 |
 | 7 | [Ditty \- NV](https://open.spotify.com/track/5RsahemEpfCPpRXu7pdiih) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NV](https://open.spotify.com/album/6NebdhrFtfzmuCqMTxXoU3) | 2:37 |
 | 8 | [DARK ARIA \-ARISE\-](https://open.spotify.com/track/0BSGwoTRRZ0q58WB8RXLO3) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [DARK ARIA \-ARISE\-](https://open.spotify.com/album/2JnWgaONEiGWfT2jkOpoEH) | 2:20 |
-| 9 | [REVIVƎЯ](https://open.spotify.com/track/67x1DxMJvnHdHzOQ9E3AS7) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [REVIVƎЯ](https://open.spotify.com/album/3WVpSguducGqscoPiHsvYO) | 3:11 |
+| 9 | [REVIVƎЯ](https://open.spotify.com/track/67x1DxMJvnHdHzOQ9E3AS7) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [REVIVƎЯ](https://open.spotify.com/album/3WVpSguducGqscoPiHsvYO) | 3:11 |
 | 10 | [Ma Vie en Rose \- MovieEdit](https://open.spotify.com/track/4chSM0fI1ZK9RxqGCkEpcA) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [マリー・アントワネット\(CV.平野 綾\)](https://open.spotify.com/artist/3Uxkq58KaQpOT9EMeRczIY) | [Song Collection from The Rose of Versailles \- MovieEDIT \-](https://open.spotify.com/album/5eZ2EtpDifkPsObzHwjqc5) | 2:23 |
 | 11 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
-| 12 | [SHADOWBORN](https://open.spotify.com/track/0QnjcR3CzjZAibq74RW02x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [SHADOWBORN](https://open.spotify.com/album/54kydss0Fz9B7dKNMuwGKs) | 3:11 |
+| 12 | [SHADOWBORN](https://open.spotify.com/track/0QnjcR3CzjZAibq74RW02x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Benjamin](https://open.spotify.com/artist/3hUQrVzWSjbHu7USOygIaz), [mpi](https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz) | [SHADOWBORN](https://open.spotify.com/album/54kydss0Fz9B7dKNMuwGKs) | 3:11 |
 | 13 | [DARK ARIA](https://open.spotify.com/track/3SR85l1lZDNPr68rkAlYOy) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 2:21 |
 | 14 | [\[Solo\-Leveling\]SymphonicSuite\-Lv.3](https://open.spotify.com/track/5Yii2VWmLpSCtR7hsXZdYO) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [\[Solo\-Leveling\]SymphonicSuite\-Lv.3](https://open.spotify.com/album/3S5bCqO3Fp5zyPGzj58qf3) | 4:53 |
 | 15 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 |

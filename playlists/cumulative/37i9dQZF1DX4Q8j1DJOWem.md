@@ -4,7 +4,7 @@
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองแห่งปี 2025 ที่นี่เลย! ปก: guncharlie
 
-255 songs - 15 hr 51 min
+256 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Follow](https://open.spotify.com/track/6qXCg8lIDRuquq0xgRzmU2) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Follow](https://open.spotify.com/album/2D9rFCRKSVRruOTZOax12I) | 3:58 | 2023-09-15 | 2024-03-29 |
 | [Friends](https://open.spotify.com/track/1Q7vncRS2gtX9s41Ax5fgo) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Friends](https://open.spotify.com/album/0MC4L4gQJqsyu2xa82U0wG) | 3:43 | 2024-02-18 | 2024-03-29 |
 | [FROM NOW IT'S MY TURN](https://open.spotify.com/track/1d6pYOpVosI1e2gQwE0OlM) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [FROM NOW IT'S MY TURN](https://open.spotify.com/album/76nhn0zfwMGJgCsj41d6hP) | 3:32 | 2025-03-27 |  |
+| [G.A.Y o\(T^T\)o](https://open.spotify.com/track/30p0jzv4DZf1gOIHOvBlRh) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [G.A.Y o\(T^T\)o](https://open.spotify.com/album/1tonE5HqMUp6oTqQtUWuaI) | 3:47 | 2025-05-11 |  |
 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 | 2024-02-18 | 2024-03-29 |
 | [Heart Poppin'](https://open.spotify.com/track/1qV5KvsNGL1umoFUTJR306) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [Heart Poppin'](https://open.spotify.com/album/6am59D7FRoeMtWmGE0oA09) | 3:29 | 2025-03-01 | 2025-03-28 |
 | [How Are You](https://open.spotify.com/track/5CAI7JfvqBKKbdkXs5wKE5) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [How Are You](https://open.spotify.com/album/2o59vkcCyL1fSXArEyHHTO) | 4:35 | 2023-08-25 | 2024-03-29 |

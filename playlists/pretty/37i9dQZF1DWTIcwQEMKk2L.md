@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,028 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,035 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 | 54 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 |
 | 55 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 |
 | 56 | [Up Above](https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Up Above](https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg) | 2:03 |
-| 57 | [Easy To Love](https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Easy To Love](https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY) | 2:46 |
-| 58 | [Behind The Jalousie](https://open.spotify.com/track/39YCja6W45q9EtAtztQImq) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Behind The Jalousie](https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ) | 3:14 |
-| 59 | [Rest Well, My Good Friend](https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3) | [Angus Grove](https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL) | [Rest Well, My Good Friend](https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi) | 2:41 |
-| 60 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 |
+| 57 | [Behind The Jalousie](https://open.spotify.com/track/39YCja6W45q9EtAtztQImq) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Behind The Jalousie](https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ) | 3:14 |
+| 58 | [Rest Well, My Good Friend](https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3) | [Angus Grove](https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL) | [Rest Well, My Good Friend](https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi) | 2:41 |
+| 59 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 |
+| 60 | [Easy To Love](https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Easy To Love](https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY) | 2:46 |
 | 61 | [This Is The Time](https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [This Is The Time](https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU) | 2:39 |
 | 62 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 |
 | 63 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 |

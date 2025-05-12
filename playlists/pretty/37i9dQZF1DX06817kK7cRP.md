@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,014 likes - 125 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,044 likes - 125 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 105 | [overtake on the outside](https://open.spotify.com/track/13wgIAjCCWKkebdUlPnS70) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [overtake on the outside](https://open.spotify.com/album/2cKPB2qD6K88rC6o3G7xaW) | 2:31 |
 | 106 | [Too Much](https://open.spotify.com/track/36X8j52PvjhJztIGopCjIJ) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Thursday](https://open.spotify.com/album/5L829kuzY7EhGHEimMUDeF) | 2:17 |
 | 107 | [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 |
-| 108 | [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 |
-| 109 | [Warm Light](https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Lost Travelers](https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb) | 2:36 |
+| 108 | [Warm Light](https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Lost Travelers](https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb) | 2:36 |
+| 109 | [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 |
 | 110 | [Leafy Greens](https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Leafy Greens](https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt) | 2:40 |
 | 111 | [Mad Summer](https://open.spotify.com/track/74NXZxHh9WGjDTWtkVkAzi) | [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Mad Summer](https://open.spotify.com/album/19mCcLU4lQXBCqg2XRrDF9) | 2:47 |
 | 112 | [For the Homies](https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [yuckgod](https://open.spotify.com/artist/53FJ7kvKR7Nk7nOo5yGRK7), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Thank You for Waiting](https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe) | 2:03 |

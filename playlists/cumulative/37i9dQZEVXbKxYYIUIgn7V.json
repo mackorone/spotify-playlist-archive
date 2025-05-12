@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 138354,
       "name": "AKON",
       "url": "https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf"
@@ -7266,7 +7266,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 145989,
       "name": "Dein Mann Freestyle",
       "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
@@ -19097,6 +19097,28 @@
     },
     {
       "album": {
+        "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
+        "url": "https://open.spotify.com/album/0IsyBAUsONwNmTvsaUeMtj"
+      },
+      "artists": [
+        {
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+        },
+        {
+          "name": "SAMY",
+          "url": "https://open.spotify.com/artist/3m785bWzNnoLuIJP88DUN1"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243561,
+      "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
+      "url": "https://open.spotify.com/track/0xSd7MjLb8eCdSraudx0SJ"
+    },
+    {
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -22903,6 +22925,24 @@
     },
     {
       "album": {
+        "name": "Baba aller Babas",
+        "url": "https://open.spotify.com/album/31gn729ax0kRu9KcUr8Lg3"
+      },
+      "artists": [
+        {
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/5GIRDsQNm7G7GXQNGJmhCn"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
       },
@@ -24140,7 +24180,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 152923,
       "name": "Plug",
       "url": "https://open.spotify.com/track/5XlJP2J81wF20QariDKRJW"
@@ -29098,6 +29138,32 @@
       "duration_ms": 138027,
       "name": "Ta3al Lahon 2",
       "url": "https://open.spotify.com/track/6GaiAuFaCE2jPgRn9V4OBy"
+    },
+    {
+      "album": {
+        "name": "Der Holland Job",
+        "url": "https://open.spotify.com/album/6H16l0aclr4Ck2t8xGGX5x"
+      },
+      "artists": [
+        {
+          "name": "Coup",
+          "url": "https://open.spotify.com/artist/3DoYGi5spOR9sIqjdkf2R4"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "Tach Tach",
+      "url": "https://open.spotify.com/track/7B5bGlw1n5iEIMsUmGTypc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2025\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,889 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,455 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 68 | [Gimme](https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Gimme](https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK) | 2:59 |
 | 69 | [Motions](https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH) | 3:28 |
 | 70 | [Alma de Ibiza \(WEPA\)](https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [LonelyBrothers](https://open.spotify.com/artist/4aXojyC6guVNQ11bP4ez1f), [Kush Rust](https://open.spotify.com/artist/2KpM8KjdeGHGjhMH2JpFX1) | [Alma de Ibiza \(WEPA\)](https://open.spotify.com/album/6XmaDWlsn0BRoMbysvhktj) | 2:52 |
-| 71 | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb) | 2:38 |
-| 72 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
-| 73 | [Up N Down](https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Up N Down](https://open.spotify.com/album/66lG6q9LY1TV9pjbmlcllX) | 2:47 |
+| 71 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
+| 72 | [Up N Down](https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Up N Down](https://open.spotify.com/album/66lG6q9LY1TV9pjbmlcllX) | 2:47 |
+| 73 | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb) | 2:38 |
 | 74 | [Crazy](https://open.spotify.com/track/4CVqYMpHOozDjjdkb32QQY) | [False Persona](https://open.spotify.com/artist/0o9eLbvKL4PGG549qygy1o), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Crazy](https://open.spotify.com/album/4YgiVywFl6ZUK85JZQK4lL) | 4:29 |
 | 75 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
 | 76 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |

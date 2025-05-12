@@ -1,6 +1,6 @@
 {
   "description": "A calm and cosy classical soundtrack to all activities. ",
-  "num_followers": 107965,
+  "num_followers": 108086,
   "original_name": "Classical in the Background",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2025-05-02 15:11:20",
       "album": {
-        "name": "Debussy: Bruy\u00e8res (Home Session)",
-        "url": "https://open.spotify.com/album/4BXFAXaREZ96i733A132um"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 216061,
-      "name": "Pr\u00e9ludes / Book 2, L. 123: 5. Bruy\u00e8res - Home Session",
-      "url": "https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7"
-    },
-    {
-      "added_at": "2025-05-02 15:11:20",
-      "album": {
         "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
         "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 131333,
       "name": "6 Chants polonais, S. 480: No. 2, Fr\u00fchling (Wiosna, Spring) [After Chopin's Op. 74]",
       "url": "https://open.spotify.com/track/7jBaUnodzhFJCMaPRC4cD7"
+    },
+    {
+      "added_at": "2025-05-02 15:11:20",
+      "album": {
+        "name": "Debussy: Bruy\u00e8res (Home Session)",
+        "url": "https://open.spotify.com/album/4BXFAXaREZ96i733A132um"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 216061,
+      "name": "Pr\u00e9ludes / Book 2, L. 123: 5. Bruy\u00e8res - Home Session",
+      "url": "https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7"
     },
     {
       "added_at": "2025-05-02 15:11:20",
@@ -859,6 +859,26 @@
     {
       "added_at": "2025-05-02 15:11:20",
       "album": {
+        "name": "Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",
+        "url": "https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Arcadi Volodos",
+          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Minuet in A major, D. 334",
+      "url": "https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW"
+    },
+    {
+      "added_at": "2025-05-02 15:11:20",
+      "album": {
         "name": "Chopin: Waltz No. 19 in A Minor, KK IVb (Version for Harp in A Flat Minor)",
         "url": "https://open.spotify.com/album/0abwlgcTkteYoqF5MdJqvO"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 156573,
       "name": "Variations on a Rococo Theme, Op. 33, TH 57: Var: VI. Andante",
       "url": "https://open.spotify.com/track/123zFAGx0F5ScgrLrCWGDX"
-    },
-    {
-      "added_at": "2025-05-02 15:11:20",
-      "album": {
-        "name": "Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",
-        "url": "https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Arcadi Volodos",
-          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Minuet in A major, D. 334",
-      "url": "https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW"
     },
     {
       "added_at": "2025-05-02 15:11:20",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-05-02 15:11:20",
       "album": {
-        "name": "re:member",
-        "url": "https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 125413,
-      "name": "momentary",
-      "url": "https://open.spotify.com/track/2vD20Aj8Ru9NAmJl1Ca2qS"
-    },
-    {
-      "added_at": "2025-05-02 15:11:20",
-      "album": {
         "name": "Schumann: Kinderszenen, Op. 15: Tr\u00e4umerei (Arr. Lewin for Guitar)",
         "url": "https://open.spotify.com/album/3dtyRuctasvglDB28bijNg"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 215800,
       "name": "Kinderszenen, Op. 15: Tr\u00e4umerei (Arr. Lewin for Guitar)",
       "url": "https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs"
+    },
+    {
+      "added_at": "2025-05-02 15:11:20",
+      "album": {
+        "name": "re:member",
+        "url": "https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 125413,
+      "name": "momentary",
+      "url": "https://open.spotify.com/track/2vD20Aj8Ru9NAmJl1Ca2qS"
     },
     {
       "added_at": "2025-05-02 15:11:20",
@@ -2007,6 +2007,38 @@
     {
       "added_at": "2025-05-02 15:11:20",
       "album": {
+        "name": "New Seasons - H\u00e4ndel f\u00fcr Oboe und Orchester",
+        "url": "https://open.spotify.com/album/5J2GNmnNxDcPWpnP3E0lz4"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Albrecht Mayer",
+          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
+        },
+        {
+          "name": "Sinfonia Varsovia",
+          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
+        },
+        {
+          "name": "Jakub Haufa",
+          "url": "https://open.spotify.com/artist/0D1ATNY4F1idBehqwqCoYH"
+        },
+        {
+          "name": "Monika Razynska",
+          "url": "https://open.spotify.com/artist/2uWiFtRGSmpMXFvaEEEd1z"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
+      "url": "https://open.spotify.com/track/6ajRRfc2LHpk9Ln8tKIrf5"
+    },
+    {
+      "added_at": "2025-05-02 15:11:20",
+      "album": {
         "name": "Finlandia: Finland Independence Day",
         "url": "https://open.spotify.com/album/6xEJ3Wo3AixeTnfMdOZJcq"
       },
@@ -2063,38 +2095,6 @@
       "duration_ms": 300213,
       "name": "Adagio in G Minor (Arr. for Harp and Orchestra)",
       "url": "https://open.spotify.com/track/47xdo9qYjAbOIVVBAqom1b"
-    },
-    {
-      "added_at": "2025-05-02 15:11:20",
-      "album": {
-        "name": "New Seasons - H\u00e4ndel f\u00fcr Oboe und Orchester",
-        "url": "https://open.spotify.com/album/5J2GNmnNxDcPWpnP3E0lz4"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Albrecht Mayer",
-          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
-        },
-        {
-          "name": "Sinfonia Varsovia",
-          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
-        },
-        {
-          "name": "Jakub Haufa",
-          "url": "https://open.spotify.com/artist/0D1ATNY4F1idBehqwqCoYH"
-        },
-        {
-          "name": "Monika Razynska",
-          "url": "https://open.spotify.com/artist/2uWiFtRGSmpMXFvaEEEd1z"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
-      "url": "https://open.spotify.com/track/6ajRRfc2LHpk9Ln8tKIrf5"
     },
     {
       "added_at": "2025-05-02 15:11:20",
@@ -2175,6 +2175,26 @@
     {
       "added_at": "2025-05-02 15:11:20",
       "album": {
+        "name": "Schumann: Carnaval Op. 9, Fantasie Op. 17 & Mondnacht Op. 39 No. 5",
+        "url": "https://open.spotify.com/album/1kXYfEsNIZJVJF4NDwLQnp"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Emile Naoumoff",
+          "url": "https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2"
+        }
+      ],
+      "duration_ms": 139760,
+      "name": "Carnaval, Op. 9: No. 5. Eusebius (Adagio - Pi\u00f9 lento molto teneramente)",
+      "url": "https://open.spotify.com/track/73kFkK74uTO8fy8yBfMrTk"
+    },
+    {
+      "added_at": "2025-05-02 15:11:20",
+      "album": {
         "name": "Clair de Lune - Orchestral Favourites; Waldteufel - Waltzes",
         "url": "https://open.spotify.com/album/6cHVhRbxBkXYfN0Gfz9uau"
       },
@@ -2219,26 +2239,6 @@
       "duration_ms": 133160,
       "name": "3 Pieces in Old Style: No. 1. Aria",
       "url": "https://open.spotify.com/track/2cnCYr5QgPJG0OJqYY4DGF"
-    },
-    {
-      "added_at": "2025-05-02 15:11:20",
-      "album": {
-        "name": "Schumann: Carnaval Op. 9, Fantasie Op. 17 & Mondnacht Op. 39 No. 5",
-        "url": "https://open.spotify.com/album/1kXYfEsNIZJVJF4NDwLQnp"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Emile Naoumoff",
-          "url": "https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2"
-        }
-      ],
-      "duration_ms": 139760,
-      "name": "Carnaval, Op. 9: No. 5. Eusebius (Adagio - Pi\u00f9 lento molto teneramente)",
-      "url": "https://open.spotify.com/track/73kFkK74uTO8fy8yBfMrTk"
     },
     {
       "added_at": "2025-05-02 15:11:20",
@@ -2599,26 +2599,6 @@
     {
       "added_at": "2025-05-02 15:11:20",
       "album": {
-        "name": "Chopin: The Nocturnes",
-        "url": "https://open.spotify.com/album/3E18eNdHxIZ5ri5H8dzbAD"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
-        }
-      ],
-      "duration_ms": 334053,
-      "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
-      "url": "https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4"
-    },
-    {
-      "added_at": "2025-05-02 15:11:20",
-      "album": {
         "name": "Faur\u00e9: Berceuse, Op. 16",
         "url": "https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc"
       },
@@ -2639,6 +2619,26 @@
       "duration_ms": 237600,
       "name": "Berceuse, Op. 16",
       "url": "https://open.spotify.com/track/7sSSQHaGVwm0rNSlI2M7so"
+    },
+    {
+      "added_at": "2025-05-02 15:11:20",
+      "album": {
+        "name": "Chopin: The Nocturnes",
+        "url": "https://open.spotify.com/album/3E18eNdHxIZ5ri5H8dzbAD"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4"
     },
     {
       "added_at": "2025-05-02 15:11:20",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2025-05-02 15:11:20",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/4SnP1l5d6u0i6NoSxi8PPy"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/2eWtgHcw0q0829ZuuHgZqE"
-    },
-    {
-      "added_at": "2025-05-02 15:11:20",
-      "album": {
         "name": "Lux",
         "url": "https://open.spotify.com/album/7L9qteIW4h28p8aa2NvU6D"
       },
@@ -3043,6 +3027,22 @@
       "duration_ms": 279506,
       "name": "Triple Concerto in C Major, Op. 56: II. Largo - Single Version",
       "url": "https://open.spotify.com/track/7vCYqAGK3j7OlRMz1gLfVS"
+    },
+    {
+      "added_at": "2025-05-02 15:11:20",
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/4SnP1l5d6u0i6NoSxi8PPy"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2eWtgHcw0q0829ZuuHgZqE"
     },
     {
       "added_at": "2025-05-02 15:11:20",
@@ -3451,30 +3451,6 @@
     {
       "added_at": "2025-05-02 15:11:20",
       "album": {
-        "name": "Two Pianos 2",
-        "url": "https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Kyohei Sorita",
-          "url": "https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc"
-        },
-        {
-          "name": "Keigo Mukawa",
-          "url": "https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Dolly Suite, Op. 56: I. Berceuse",
-      "url": "https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW"
-    },
-    {
-      "added_at": "2025-05-02 15:11:20",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/09TIZ4XM46PFxq133GoFMq"
       },
@@ -3503,6 +3479,30 @@
       "duration_ms": 147264,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3mKYC2wJ8TOMqbCJYNunr2"
+    },
+    {
+      "added_at": "2025-05-02 15:11:20",
+      "album": {
+        "name": "Two Pianos 2",
+        "url": "https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Kyohei Sorita",
+          "url": "https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc"
+        },
+        {
+          "name": "Keigo Mukawa",
+          "url": "https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Dolly Suite, Op. 56: I. Berceuse",
+      "url": "https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW"
     },
     {
       "added_at": "2025-05-02 15:11:20",

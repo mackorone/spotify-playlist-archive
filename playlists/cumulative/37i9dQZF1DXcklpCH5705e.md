@@ -2,7 +2,7 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP你我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus
 
 192 songs - 12 hr 45 min
 

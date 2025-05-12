@@ -4,7 +4,7 @@
 
 > mostly rock
 
-882 songs - 2 day 8 hr 30 min
+884 songs - 2 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Deeeeep!](https://open.spotify.com/track/3CaQdboLeE42pFJ35bUsy1) | [Lionel Hsiao](https://open.spotify.com/artist/7Jva80kAaicgR3vZ69ojia) | [Deeeeep!](https://open.spotify.com/album/0VJo7QD4AS5BCcZhWOGlsD) | 2:49 | 2024-06-30 |  |
 | [deep love](https://open.spotify.com/track/3KVVXyYUrPiWqIfPXYsfZM) | [Split end](https://open.spotify.com/artist/7HxOuo5CXeShZ03FzmtFKv) | [deep love](https://open.spotify.com/album/2ZO8nAjCwDNVB8Vi4vxom0) | 3:55 | 2024-04-07 |  |
 | [delusionalism](https://open.spotify.com/track/10FC7rI5KzGmyTHowOoebw) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [kirametal](https://open.spotify.com/album/1C8uN2OHUV6UZmkEPu9rzv) | 3:41 | 2023-07-15 |  |
+| [DENNO MIENMIEN MAO \(feat\. namigroove\)](https://open.spotify.com/track/2qXS1nJJpH6EaTvqt9JwXC) | [chinoi momone](https://open.spotify.com/artist/0zdGwa8ihyor4J729eSIGI), [namigroove](https://open.spotify.com/artist/2t7wKLcqZ08LwQXmBS2OOL) | [As Tenshi\-sama says](https://open.spotify.com/album/29ivIRiC7xB0VrWyDfcXor) | 2:34 | 2025-05-12 |  |
 | [DIC 954](https://open.spotify.com/track/4fp3ZHvEaK8dQN1x24l7EC) | [Veltpunch](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [Paint your life gray](https://open.spotify.com/album/7BlaeJiWruJTiEduWgz2Y3) | 4:03 | 2023-08-13 |  |
 | [Disco Crimson](https://open.spotify.com/track/00TazEoB0bLPQMkGOslGlp) | [CQ](https://open.spotify.com/artist/7HNhnD4Yu2sJWyvWbRyc2e) | [Communication, Cultural, Curiosity Quotient](https://open.spotify.com/album/2SjH6VMdKVKYDKl6MD4Yio) | 4:29 | 2024-02-22 |  |
 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2024-10-02 |  |
@@ -822,6 +823,7 @@
 | [海と花束](https://open.spotify.com/track/5ZJwj1m125lhcpjIvZr1Go) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [ロンググッドバイ](https://open.spotify.com/album/2qqwUNewGqmBiV7jUdqqQd) | 3:12 | 2023-07-28 |  |
 | [混ぜるな危険](https://open.spotify.com/track/3WWslYheowgYhLk1wrW0T0) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [真っ黒](https://open.spotify.com/album/5doNaJuxzyiybQV0YswLBv) | 1:33 | 2023-06-24 |  |
 | [火傷に雨](https://open.spotify.com/track/3O6cA0xColhZ2PeBENPC2H) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [縫層](https://open.spotify.com/album/4tuZhHGTTYKYuAtuKA6QL2) | 3:45 | 2024-04-19 |  |
+| [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 | 2025-05-12 |  |
 | [無能](https://open.spotify.com/track/7qHv2Q41uBorzTguYfbUOw) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [無能](https://open.spotify.com/album/6IB6afgdF4fvBhFtpKVcow) | 3:40 | 2023-10-29 |  |
 | [爆弾魔 \- Re\-Recording](https://open.spotify.com/track/4wufVE3ELYSfNRBIjvSi5D) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 3:35 | 2025-02-19 |  |
 | [爆裂パニエさん](https://open.spotify.com/track/3hh3OcIYg4RDtrdJ5Poxj8) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [爆裂トリコさん](https://open.spotify.com/album/6jkO0IhFvDSTIw5sJy9uHQ) | 3:52 | 2023-09-24 |  |

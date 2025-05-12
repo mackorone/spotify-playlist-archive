@@ -595,6 +595,26 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "No Other King",
+        "url": "https://open.spotify.com/album/0HbfaCYo5MGrbX4qDurc9T"
+      },
+      "artists": [
+        {
+          "name": "Simply Worship",
+          "url": "https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM"
+        },
+        {
+          "name": "Maria Segerholm",
+          "url": "https://open.spotify.com/artist/1CbE4AxbU6uXsWuqNlHn5I"
+        }
+      ],
+      "duration_ms": 258620,
+      "name": "No Other King",
+      "url": "https://open.spotify.com/track/79wC9jcNNVrLsLHRT85FsW"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 226063,
       "name": "I can always find You",
       "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "No Other King",
-        "url": "https://open.spotify.com/album/0HbfaCYo5MGrbX4qDurc9T"
-      },
-      "artists": [
-        {
-          "name": "Simply Worship",
-          "url": "https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM"
-        },
-        {
-          "name": "Maria Segerholm",
-          "url": "https://open.spotify.com/artist/1CbE4AxbU6uXsWuqNlHn5I"
-        }
-      ],
-      "duration_ms": 258620,
-      "name": "No Other King",
-      "url": "https://open.spotify.com/track/79wC9jcNNVrLsLHRT85FsW"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Goodness of God",
+        "url": "https://open.spotify.com/album/3RwBIgQ9nGFWLoFEkt8ai7"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "duration_ms": 243822,
+      "name": "Goodness of God",
+      "url": "https://open.spotify.com/track/2qVj8JCKMT7Wcj7SJ7Oeb7"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Precious Gold",
         "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 231000,
       "name": "Quench This Love",
       "url": "https://open.spotify.com/track/19w9r9vWXOgomOlCTXczNr"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Goodness of God",
-        "url": "https://open.spotify.com/album/3RwBIgQ9nGFWLoFEkt8ai7"
-      },
-      "artists": [
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 243822,
-      "name": "Goodness of God",
-      "url": "https://open.spotify.com/track/2qVj8JCKMT7Wcj7SJ7Oeb7"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "King Of Grace",
-        "url": "https://open.spotify.com/album/2T1R3F4Bcli2u1xahLYBIl"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        },
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
-        }
-      ],
-      "duration_ms": 334677,
-      "name": "King Of Grace",
-      "url": "https://open.spotify.com/track/7EMmx7cOPksZ2Fb5kXqzIC"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Surrendered",
         "url": "https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 559206,
       "name": "Surrendered",
       "url": "https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "King Of Grace",
+        "url": "https://open.spotify.com/album/2T1R3F4Bcli2u1xahLYBIl"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        },
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        }
+      ],
+      "duration_ms": 334677,
+      "name": "King Of Grace",
+      "url": "https://open.spotify.com/track/7EMmx7cOPksZ2Fb5kXqzIC"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 290526,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Heart of Worship: Songs for Prayer and Reflection",
         "url": "https://open.spotify.com/album/7rN2lXBTRTT0DAfJT0rZqn"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 212234,
       "name": "Holy",
       "url": "https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 290526,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
     },
     {
       "added_at": "2025-04-05 02:41:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,188 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,222 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 53 | [A Usted](https://open.spotify.com/track/5k3IIxkZbvGoWdEPhw6Z2L) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [En Transito](https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ) | 3:13 |
 | 54 | [Y Si Amanece por Fin](https://open.spotify.com/track/549MXL7AHiCGDGtzE13uNX) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 4:35 |
 | 55 | [Nanas de la Cebolla](https://open.spotify.com/track/1joUuNG5lEcjY2OxUJwL5J) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Miguel Hernandez](https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S) | 5:53 |
-| 56 | [Por Delicadeza \(with Leiva\)](https://open.spotify.com/track/5swet7SN0apSl38ZtRZCxH) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp) | 3:13 |
+| 56 | [Por Delicadeza \(with Leiva\)](https://open.spotify.com/track/5swet7SN0apSl38ZtRZCxH) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Lo Niego Todo](https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp) | 3:13 |
 | 57 | [Cada Loco Con Su Tema](https://open.spotify.com/track/1thgvw4iBQEUTzcGKOPwhy) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Cada Loco Con Su Tema](https://open.spotify.com/album/5RX5mfuHRA7QIriJ693QG3) | 5:36 |
 | 58 | [Dieguitos y Mafaldas \- Directo](https://open.spotify.com/track/3mHM00zrF1fmDzlTzUAtPM) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 4:41 |
 | 59 | [La Paloma](https://open.spotify.com/track/6eQ3D0DF3y6huX7eKSPBS7) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [La Paloma](https://open.spotify.com/album/10CPq3R1c4Lq9nH4qVA8Eg) | 3:12 |

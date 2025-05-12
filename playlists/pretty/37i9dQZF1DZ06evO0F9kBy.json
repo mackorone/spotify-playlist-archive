@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26899,
+  "num_followers": 26903,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAACJ7cWHOQ9G7WFG+6hRNmHt",
+  "snapshot_id": "aB6XAAAAAAAeuDLsaz6YOKRhi/9SikMT",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God, Turn It Around",
-        "url": "https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 280086,
-      "name": "God, Turn It Around (feat. Matt Maher) - Live Version",
-      "url": "https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 246627,
       "name": "No Body (feat. Matt Maher)",
       "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God, Turn It Around",
+        "url": "https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 280086,
+      "name": "God, Turn It Around (feat. Matt Maher) - Live Version",
+      "url": "https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abide With Me (Radio Version)",
-        "url": "https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 221546,
-      "name": "Abide With Me - Radio Version",
-      "url": "https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Lose Sight (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 359973,
       "name": "Adoration (Live)",
       "url": "https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abide With Me (Radio Version)",
+        "url": "https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 221546,
+      "name": "Abide With Me - Radio Version",
+      "url": "https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET"
     },
     {
       "added_at": null,
@@ -831,30 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Climate Vigil Songs",
-        "url": "https://open.spotify.com/album/3aMGPjxPYVzrmKTtBY1m2X"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 291057,
-      "name": "Hosanna! (Will You Rise?)",
-      "url": "https://open.spotify.com/track/0FkLUL0ofJQ0wHeedtTWia"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The St. Nemele Collab Sessions",
         "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
       },
@@ -883,18 +859,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+        "name": "Climate Vigil Songs",
+        "url": "https://open.spotify.com/album/3aMGPjxPYVzrmKTtBY1m2X"
       },
       "artists": [
         {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
+      "duration_ms": 291057,
+      "name": "Hosanna! (Will You Rise?)",
+      "url": "https://open.spotify.com/track/0FkLUL0ofJQ0wHeedtTWia"
     },
     {
       "added_at": null,
@@ -911,6 +895,22 @@
       "duration_ms": 239256,
       "name": "Lord of My Life",
       "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": null,

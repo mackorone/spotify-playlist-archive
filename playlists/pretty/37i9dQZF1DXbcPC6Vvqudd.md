@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,256 likes - 325 songs - 14 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,489 likes - 325 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,10 +171,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 161 | [Rain: Dark Skies](https://open.spotify.com/track/1zH3ZD0xXlwNphuANYz00z) | [H20 Recording](https://open.spotify.com/artist/4bUfAQsEWiP31GmX5D6E1r) | [Rain: Dark Skies](https://open.spotify.com/album/48olG5g74NLiO7jOXNVIv4) | 2:43 |
 | 162 | [Rain White Noise](https://open.spotify.com/track/04gDwncwCgqRuVFyZsrQn5) | [Sound FX of Nature](https://open.spotify.com/artist/27nw1ldFoK3yTpcm3BGKcs) | [Sound FX of Nature](https://open.spotify.com/album/5FeODHtQ6GoIW9yVVLinhI) | 2:34 |
 | 163 | [City Thunderstorm](https://open.spotify.com/track/7fTAkwHYIRSZmjOBi2hZnr) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Bad Weather](https://open.spotify.com/album/3j478bPDiacEeOFexch1lY) | 2:34 |
-| 164 | [Light Rain and Thunder](https://open.spotify.com/track/3rsXIGQjD96knIRVdayTBe) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Resting \(Rain and Rivers\)](https://open.spotify.com/album/0cFuXOpJc5jFYnKJVIHfbW) | 3:08 |
-| 165 | [The Sky's Awake](https://open.spotify.com/track/0GGHxdy1mw6OcS2dVAH0es) | [Drivotra](https://open.spotify.com/artist/11662aaOqDYv2EBHSxJPJV) | [Thunder Nights](https://open.spotify.com/album/1Sp4OvpqqGqGsJbiFj3ICO) | 3:28 |
-| 166 | [Storm Through The Night](https://open.spotify.com/track/1OMb4pb98GL1SJBJqM3Mq3) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Through The Night](https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5) | 2:36 |
-| 167 | [Entre Gotas](https://open.spotify.com/track/7qOERAzik4dEeYKJH2ZsgW) | [Cumulus](https://open.spotify.com/artist/78RzbCrbIehBAcQZNyATUb) | [Entre Gotas](https://open.spotify.com/album/5zbp7kZg8jDJAvPFMX0WGl) | 2:18 |
+| 164 | [The Sky's Awake](https://open.spotify.com/track/0GGHxdy1mw6OcS2dVAH0es) | [Drivotra](https://open.spotify.com/artist/11662aaOqDYv2EBHSxJPJV) | [Thunder Nights](https://open.spotify.com/album/1Sp4OvpqqGqGsJbiFj3ICO) | 3:28 |
+| 165 | [Storm Through The Night](https://open.spotify.com/track/1OMb4pb98GL1SJBJqM3Mq3) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Through The Night](https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5) | 2:36 |
+| 166 | [Entre Gotas](https://open.spotify.com/track/7qOERAzik4dEeYKJH2ZsgW) | [Cumulus](https://open.spotify.com/artist/78RzbCrbIehBAcQZNyATUb) | [Entre Gotas](https://open.spotify.com/album/5zbp7kZg8jDJAvPFMX0WGl) | 2:18 |
+| 167 | [Light Rain and Thunder](https://open.spotify.com/track/3rsXIGQjD96knIRVdayTBe) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Resting \(Rain and Rivers\)](https://open.spotify.com/album/0cFuXOpJc5jFYnKJVIHfbW) | 3:08 |
 | 168 | [Ambient Rain Noise](https://open.spotify.com/track/4g6Vw8odUtPpxCQqpZwfGR) | [Dark Focus](https://open.spotify.com/artist/2njHaC9RSwt6ySM3HgGgfB) | [Ambient Nature Noise](https://open.spotify.com/album/5i3bk6Nn1ypbejqfIgNhod) | 2:30 |
 | 169 | [Super Soft Rain with Super Soft Thunder](https://open.spotify.com/track/68S9h5bDYVNinuyGRz1rLv) | [The Natural Healing](https://open.spotify.com/artist/62dysQ8CjUwvdI3wLoTdHe) | [Wide Spring Rain](https://open.spotify.com/album/7h640Dh8VAa2gtBhPuoOP0) | 2:07 |
 | 170 | [Flooding Rain](https://open.spotify.com/track/42lrVq6KambSMyAFo1zmeo) | [Bali Rain](https://open.spotify.com/artist/54tn0DvLnrBUmX1tthjwJS) | [Part 1](https://open.spotify.com/album/3R5FIHnUQ8QJQtLdKrq4iV) | 3:47 |
@@ -263,10 +263,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 253 | [Rainy Alley](https://open.spotify.com/track/3OlS3gkeNvoynH6sZ03fl1) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Bad Weather](https://open.spotify.com/album/3j478bPDiacEeOFexch1lY) | 3:00 |
 | 254 | [Peaceful Weather](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Exclusive Nature](https://open.spotify.com/artist/0hc7iYm9MFl0ST7NrCXeDt) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 2:17 |
 | 255 | [Thunder Flow](https://open.spotify.com/track/1r5Ep4NrQFWD6mrGmW9jzB) | [Skyscration](https://open.spotify.com/artist/2uliIyMyLnG5zT7gV095uG) | [Storm Of The Sea](https://open.spotify.com/album/7DXWehfNqqbfXEYWnzt1z9) | 2:27 |
-| 256 | [Breeze, Light Rain, Thunder](https://open.spotify.com/track/7AEqfRTwTJfHqk0OcVTDEj) | [Mother Nature Recordings](https://open.spotify.com/artist/2XVbrQz4APKq6tqZqGb2Gz) | [Bad Day Weather](https://open.spotify.com/album/5xGfczFFUpJ71WmFJvorEI) | 2:18 |
-| 257 | [The Mystique Sounds Of Nature](https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w) | [Moods & Water sounds](https://open.spotify.com/artist/4S8KHt6NF6LYdzJwba3vMp) | [Moods & Water sounds](https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi) | 2:24 |
-| 258 | [Nearing Thunder](https://open.spotify.com/track/5Heunc5NwiwE5R1xX9Rt3N) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Stormy Mornings](https://open.spotify.com/album/2eQzSgqbEh2uw4smilbRHr) | 3:28 |
-| 259 | [Under the Rainy Skies](https://open.spotify.com/track/5L5tusKjZYfPcPpWPmKduv) | [The Rain Seeker](https://open.spotify.com/artist/3D9BR2Fa86NsSY5aISRoKT) | [Under the Rainy Skies](https://open.spotify.com/album/6Xh0gOKnRW6HUfgiBqok68) | 3:23 |
+| 256 | [The Mystique Sounds Of Nature](https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w) | [Moods & Water sounds](https://open.spotify.com/artist/4S8KHt6NF6LYdzJwba3vMp) | [Moods & Water sounds](https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi) | 2:24 |
+| 257 | [Nearing Thunder](https://open.spotify.com/track/5Heunc5NwiwE5R1xX9Rt3N) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Stormy Mornings](https://open.spotify.com/album/2eQzSgqbEh2uw4smilbRHr) | 3:28 |
+| 258 | [Under the Rainy Skies](https://open.spotify.com/track/5L5tusKjZYfPcPpWPmKduv) | [The Rain Seeker](https://open.spotify.com/artist/3D9BR2Fa86NsSY5aISRoKT) | [Under the Rainy Skies](https://open.spotify.com/album/6Xh0gOKnRW6HUfgiBqok68) | 3:23 |
+| 259 | [Breeze, Light Rain, Thunder](https://open.spotify.com/track/7AEqfRTwTJfHqk0OcVTDEj) | [Mother Nature Recordings](https://open.spotify.com/artist/2XVbrQz4APKq6tqZqGb2Gz) | [Bad Day Weather](https://open.spotify.com/album/5xGfczFFUpJ71WmFJvorEI) | 2:18 |
 | 260 | [Rainy Stoop](https://open.spotify.com/track/4ydNgtF9wusuw2CPFvofnH) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain in Spring](https://open.spotify.com/album/2fe8KZKkPyGCvlH1uthPIh) | 2:24 |
 | 261 | [Friskt Regn](https://open.spotify.com/track/1baZVsKUgC1Uisoz0Cq6Ih) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Regn](https://open.spotify.com/album/0mr6zgZL3NGZfJWH0Q9OCr) | 2:59 |
 | 262 | [Foggy Day \- Rain](https://open.spotify.com/track/6O1pVoqhU67xcef4pglZHK) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Drizzling Days](https://open.spotify.com/album/5d0ac3jdhP8PGJehBqpHbQ) | 2:16 |

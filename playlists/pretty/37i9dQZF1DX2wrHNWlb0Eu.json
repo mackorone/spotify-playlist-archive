@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49!",
-  "num_followers": 119772,
+  "num_followers": 119794,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
+        "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "duration_ms": 256178,
+      "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp"
+    },
+    {
+      "added_at": "2025-05-02 17:11:48",
+      "album": {
         "name": "\u0e19\u0e34\u0e42\u0e04\u0e15\u0e34\u0e19 - Single",
         "url": "https://open.spotify.com/album/5e0anFANpCnBAv5pEAVc34"
       },
@@ -291,22 +307,6 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
-        "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 222727,
-      "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
-    },
-    {
-      "added_at": "2025-05-02 17:11:48",
-      "album": {
         "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
         "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
       },
@@ -323,18 +323,18 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
-        "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
-        "url": "https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC"
+        "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j"
       },
       "artists": [
         {
-          "name": "D Gerrard",
-          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
         }
       ],
-      "duration_ms": 256178,
-      "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp"
+      "duration_ms": 222727,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
     },
     {
       "added_at": "2025-05-02 17:11:48",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
-        "name": "\u0e40\u0e21\u0e30",
-        "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
-      },
-      "artists": [
-        {
-          "name": "THE TOYS",
-          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u0e40\u0e21\u0e30",
-      "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
-    },
-    {
-      "added_at": "2025-05-02 17:11:48",
-      "album": {
         "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
         "url": "https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T"
       },
@@ -691,22 +675,6 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
-        "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
-        "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
-      },
-      "artists": [
-        {
-          "name": "Patrickananda",
-          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
-      "url": "https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT"
-    },
-    {
-      "added_at": "2025-05-02 17:11:48",
-      "album": {
         "name": "Nude",
         "url": "https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2"
       },
@@ -723,6 +691,38 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
+        "name": "\u0e40\u0e21\u0e30",
+        "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e21\u0e30",
+      "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
+    },
+    {
+      "added_at": "2025-05-02 17:11:48",
+      "album": {
+        "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
+        "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
+      "url": "https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT"
+    },
+    {
+      "added_at": "2025-05-02 17:11:48",
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
         "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 253636,
       "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
       "url": "https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd"
+    },
+    {
+      "added_at": "2025-05-02 17:11:48",
+      "album": {
+        "name": "\u0e43\u0e08\u0e2a\u0e21\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI"
+      },
+      "artists": [
+        {
+          "name": "TheChanisara",
+          "url": "https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox"
+        }
+      ],
+      "duration_ms": 196774,
+      "name": "\u0e43\u0e08\u0e2a\u0e21\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB"
     },
     {
       "added_at": "2025-05-02 17:11:48",
@@ -759,6 +775,22 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
+        "name": "1001 (You're Lovely)",
+        "url": "https://open.spotify.com/album/1wFsK9shNnndg6oDUoOLqt"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "duration_ms": 194842,
+      "name": "1001 (You're Lovely)",
+      "url": "https://open.spotify.com/track/4X6pR4sgSGXG1lSX7nxWEM"
+    },
+    {
+      "added_at": "2025-05-02 17:11:48",
+      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e19\u0e32\u0e19 \u0e46",
         "url": "https://open.spotify.com/album/27vnza2tIBJ7eOtPXhLmBV"
       },
@@ -775,38 +807,6 @@
       "duration_ms": 214903,
       "name": "\u0e23\u0e31\u0e01\u0e19\u0e32\u0e19 \u0e46",
       "url": "https://open.spotify.com/track/3DoCl74hQWMxlvBeVj51XC"
-    },
-    {
-      "added_at": "2025-05-02 17:11:48",
-      "album": {
-        "name": "\u0e43\u0e08\u0e2a\u0e21\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI"
-      },
-      "artists": [
-        {
-          "name": "TheChanisara",
-          "url": "https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox"
-        }
-      ],
-      "duration_ms": 196774,
-      "name": "\u0e43\u0e08\u0e2a\u0e21\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB"
-    },
-    {
-      "added_at": "2025-05-02 17:11:48",
-      "album": {
-        "name": "1001 (You're Lovely)",
-        "url": "https://open.spotify.com/album/1wFsK9shNnndg6oDUoOLqt"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 194842,
-      "name": "1001 (You're Lovely)",
-      "url": "https://open.spotify.com/track/4X6pR4sgSGXG1lSX7nxWEM"
     },
     {
       "added_at": "2025-05-02 17:11:48",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1qJcBV0NMrdMZS0vcxNt1J"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 183913,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3gzO8tyrRN8rWQxvJ3XFSY"
-    },
-    {
-      "added_at": "2025-05-02 17:11:48",
-      "album": {
         "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
         "url": "https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 247398,
       "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
       "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
+    },
+    {
+      "added_at": "2025-05-02 17:11:48",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1qJcBV0NMrdMZS0vcxNt1J"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 183913,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3gzO8tyrRN8rWQxvJ3XFSY"
     },
     {
       "added_at": "2025-05-02 17:11:48",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
-        "name": "TWO OF A KIND",
-        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
-    },
-    {
-      "added_at": "2025-05-02 17:11:48",
-      "album": {
         "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
         "url": "https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 243346,
       "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
       "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
+    },
+    {
+      "added_at": "2025-05-02 17:11:48",
+      "album": {
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
     },
     {
       "added_at": "2025-05-02 17:11:48",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
-        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
-        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
-    },
-    {
-      "added_at": "2025-05-02 17:11:48",
-      "album": {
         "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
         "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 183238,
       "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
       "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
+    },
+    {
+      "added_at": "2025-05-02 17:11:48",
+      "album": {
+        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
+        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
     },
     {
       "added_at": "2025-05-02 17:11:48",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
-        "name": "\u0e20\u0e39\u0e40\u0e02\u0e32\u0e1a\u0e31\u0e07\u0e40\u0e2a\u0e49\u0e19\u0e1c\u0e21 (Hide you)",
-        "url": "https://open.spotify.com/album/29eQN5K2vGOaYyeGxENsEr"
-      },
-      "artists": [
-        {
-          "name": "Stamp",
-          "url": "https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "\u0e20\u0e39\u0e40\u0e02\u0e32\u0e1a\u0e31\u0e07\u0e40\u0e2a\u0e49\u0e19\u0e1c\u0e21 (Hide you) feat. TWOPEE",
-      "url": "https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA"
-    },
-    {
-      "added_at": "2025-05-02 17:11:48",
-      "album": {
         "name": "\u0e40\u0e2d\u0e32\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e44\u0e1b (Take All My Love)",
         "url": "https://open.spotify.com/album/1TZgz2TxlvdSVXmgPxrEIz"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 188000,
       "name": "\u0e40\u0e2d\u0e32\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e44\u0e1b (Take All My Love)",
       "url": "https://open.spotify.com/track/7nfx4O5ZGvevkdaPkLzK3d"
+    },
+    {
+      "added_at": "2025-05-02 17:11:48",
+      "album": {
+        "name": "\u0e20\u0e39\u0e40\u0e02\u0e32\u0e1a\u0e31\u0e07\u0e40\u0e2a\u0e49\u0e19\u0e1c\u0e21 (Hide you)",
+        "url": "https://open.spotify.com/album/29eQN5K2vGOaYyeGxENsEr"
+      },
+      "artists": [
+        {
+          "name": "Stamp",
+          "url": "https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "\u0e20\u0e39\u0e40\u0e02\u0e32\u0e1a\u0e31\u0e07\u0e40\u0e2a\u0e49\u0e19\u0e1c\u0e21 (Hide you) feat. TWOPEE",
+      "url": "https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA"
     },
     {
       "added_at": "2025-05-02 17:11:48",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-05-02 17:11:48",
       "album": {
-        "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
-        "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
-      },
-      "artists": [
-        {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
-      "url": "https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS"
-    },
-    {
-      "added_at": "2025-05-02 17:11:48",
-      "album": {
         "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21 - Single",
         "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 261250,
       "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
+    },
+    {
+      "added_at": "2025-05-02 17:11:48",
+      "album": {
+        "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
+      "url": "https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS"
     },
     {
       "added_at": "2025-05-02 17:11:48",

@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Cazzu.",
-  "num_followers": 245519,
+  "num_followers": 245638,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,30 @@
     {
       "added_at": "2025-05-09 03:00:25",
       "album": {
+        "name": "BORRACHO Y LOCO",
+        "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 232781,
+      "name": "BORRACHO Y LOCO",
+      "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
+    },
+    {
+      "added_at": "2025-05-09 03:00:25",
+      "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 153500,
       "name": "TE AMO \u2661",
       "url": "https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN"
-    },
-    {
-      "added_at": "2025-05-09 03:00:25",
-      "album": {
-        "name": "BORRACHO Y LOCO",
-        "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
-      },
-      "artists": [
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 232781,
-      "name": "BORRACHO Y LOCO",
-      "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
     },
     {
       "added_at": "2025-05-09 03:00:25",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-05-09 03:00:25",
       "album": {
-        "name": "Echar de Menos",
-        "url": "https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 225943,
-      "name": "Echar de Menos",
-      "url": "https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1"
-    },
-    {
-      "added_at": "2025-05-09 03:00:25",
-      "album": {
         "name": "Estaba Aqu\u00ed Pensando",
         "url": "https://open.spotify.com/album/5nTyYQMVF86WvS91opGkUa"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 164794,
       "name": "Estaba Aqu\u00ed Pensando",
       "url": "https://open.spotify.com/track/3KLJ5whtoUtU410ngf5Rzu"
+    },
+    {
+      "added_at": "2025-05-09 03:00:25",
+      "album": {
+        "name": "Echar de Menos",
+        "url": "https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 225943,
+      "name": "Echar de Menos",
+      "url": "https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1"
     },
     {
       "added_at": "2025-05-09 03:00:25",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-05-09 03:00:25",
       "album": {
+        "name": "Que Lloro / Mientes",
+        "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 228494,
+      "name": "Que Lloro / Mientes",
+      "url": "https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh"
+    },
+    {
+      "added_at": "2025-05-09 03:00:25",
+      "album": {
         "name": "10 A\u00f1os",
         "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
       },
@@ -799,6 +815,26 @@
       "duration_ms": 230945,
       "name": "Chica del Este",
       "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
+    },
+    {
+      "added_at": "2025-05-09 03:00:25",
+      "album": {
+        "name": "Pod\u00e9s pedirme perd\u00f3n",
+        "url": "https://open.spotify.com/album/5ZuEM0UUQdwt5PF4C6Bz7S"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 198823,
+      "name": "Pod\u00e9s pedirme perd\u00f3n",
+      "url": "https://open.spotify.com/track/4AVSVpsAUkji9gTQHeSG0r"
     },
     {
       "added_at": "2025-05-09 03:00:25",
@@ -839,42 +875,6 @@
     {
       "added_at": "2025-05-09 03:00:25",
       "album": {
-        "name": "Pod\u00e9s pedirme perd\u00f3n",
-        "url": "https://open.spotify.com/album/5ZuEM0UUQdwt5PF4C6Bz7S"
-      },
-      "artists": [
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 198823,
-      "name": "Pod\u00e9s pedirme perd\u00f3n",
-      "url": "https://open.spotify.com/track/4AVSVpsAUkji9gTQHeSG0r"
-    },
-    {
-      "added_at": "2025-05-09 03:00:25",
-      "album": {
-        "name": "Que Lloro / Mientes",
-        "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 228494,
-      "name": "Que Lloro / Mientes",
-      "url": "https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh"
-    },
-    {
-      "added_at": "2025-05-09 03:00:25",
-      "album": {
         "name": "Montevideo 418",
         "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2025-05-09 03:00:25",
-      "album": {
-        "name": "Volver a Vernos",
-        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        }
-      ],
-      "duration_ms": 171957,
-      "name": "Volver a Vernos",
-      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
     },
     {
       "added_at": "2025-05-09 03:00:25",
@@ -923,6 +907,22 @@
     {
       "added_at": "2025-05-09 03:00:25",
       "album": {
+        "name": "Volver a Vernos",
+        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 171957,
+      "name": "Volver a Vernos",
+      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
+    },
+    {
+      "added_at": "2025-05-09 03:00:25",
+      "album": {
         "name": "El Polaco - Agradeciendo a Dios",
         "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 203026,
       "name": "Porque te fuiste",
       "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "added_at": "2025-05-09 03:00:25",
+      "album": {
+        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 284214,
+      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
     },
     {
       "added_at": "2025-05-09 03:00:25",
@@ -1007,22 +1023,6 @@
       "duration_ms": 168376,
       "name": "Querido Rey",
       "url": "https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS"
-    },
-    {
-      "added_at": "2025-05-09 03:00:25",
-      "album": {
-        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 284214,
-      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
     },
     {
       "added_at": "2025-05-09 03:00:25",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2025-05-09 03:00:25",
       "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Gonzalo Castillo",
+          "url": "https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg"
+        }
+      ],
+      "duration_ms": 155134,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs"
+    },
+    {
+      "added_at": "2025-05-09 03:00:25",
+      "album": {
         "name": "Boquita de Caramelo",
         "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 220618,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
-    },
-    {
-      "added_at": "2025-05-09 03:00:25",
-      "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Gonzalo Castillo",
-          "url": "https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg"
-        }
-      ],
-      "duration_ms": 155134,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs"
     },
     {
       "added_at": "2025-05-09 03:00:25",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-05-09 03:00:25",
       "album": {
-        "name": "En Una de Esas",
-        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 197474,
-      "name": "En Una de Esas",
-      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
-    },
-    {
-      "added_at": "2025-05-09 03:00:25",
-      "album": {
         "name": "Boleto al Amor",
         "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+    },
+    {
+      "added_at": "2025-05-09 03:00:25",
+      "album": {
+        "name": "En Una de Esas",
+        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 197474,
+      "name": "En Una de Esas",
+      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
     },
     {
       "added_at": "2025-05-09 03:00:25",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-05-09 03:00:25",
       "album": {
-        "name": "15 A\u00f1os",
-        "url": "https://open.spotify.com/album/7ednM399J2qf4ZzpQqTq6n"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Llamadas Extra\u00f1as",
-      "url": "https://open.spotify.com/track/6bHoFFcQEzEjhOHZ9Dzfhw"
-    },
-    {
-      "added_at": "2025-05-09 03:00:25",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 205052,
       "name": "Elegante",
       "url": "https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz"
+    },
+    {
+      "added_at": "2025-05-09 03:00:25",
+      "album": {
+        "name": "15 A\u00f1os",
+        "url": "https://open.spotify.com/album/7ednM399J2qf4ZzpQqTq6n"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Llamadas Extra\u00f1as",
+      "url": "https://open.spotify.com/track/6bHoFFcQEzEjhOHZ9Dzfhw"
     },
     {
       "added_at": "2025-05-09 03:00:25",

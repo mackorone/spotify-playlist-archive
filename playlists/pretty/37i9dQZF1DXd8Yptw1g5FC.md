@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Bengü Beker ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,766 likes - 112 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,794 likes - 112 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

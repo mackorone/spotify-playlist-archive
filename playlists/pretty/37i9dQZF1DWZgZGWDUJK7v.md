@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Myst, Might, Mayhem\(괴력난신\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,490 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,496 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 64 | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 |
 | 65 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\) \(Original Soundtrack\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 |
 | 66 | [Hollow Wood](https://open.spotify.com/track/1vJ9O7pcabPA2q6kze1pAH) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4aiCefbVcnbq90DAWD1O3W) | 4:00 |
-| 67 | [As You Know](https://open.spotify.com/track/0i28ygiBZomLVQHG2OgB4F) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Love Revolution \(Original Webtoon Soundtrack\), Pt\. 2](https://open.spotify.com/album/6VlqnZEXPCAqiL1IfEKX6c) | 4:00 |
-| 68 | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey) | 3:59 |
+| 67 | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey) | 3:59 |
+| 68 | [As You Know](https://open.spotify.com/track/0i28ygiBZomLVQHG2OgB4F) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Love Revolution \(Original Webtoon Soundtrack\), Pt\. 2](https://open.spotify.com/album/6VlqnZEXPCAqiL1IfEKX6c) | 4:00 |
 | 69 | [How about you?](https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [How about you? \(No Office Romance! X THE BOYZ\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N) | 3:27 |
 | 70 | [Love no more \(Romance 101 X XIA\)](https://open.spotify.com/track/3lYGiEnZ9FI9q1iqTal147) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Love no more \(Romance 101 X XIA\)](https://open.spotify.com/album/3f6CUnM9OowXKXKTdhImCd) | 4:11 |
 | 71 | [Something I want to tell you only.](https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx) | [Lee Doona](https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n) | [Lee Doona Project Part 2](https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6) | 3:32 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 94 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 |
 | 95 | [Dear You \(She is My Type♡ X Standing Egg\)](https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Dear You \(She is My Type♡ X Standing Egg\)](https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU) | 3:05 |
 | 96 | [Moonlit Nights](https://open.spotify.com/track/0qOCfz4ZOaZcEyLsO9igVm) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [Naver Webtoon Nano Machine OST Part\. 1](https://open.spotify.com/album/5qqWPVuJ70t82SMsADUdW2) | 4:15 |
-| 97 | [To Be Honest](https://open.spotify.com/track/3sDrJj3KZ5Mqvuf4E9qaoa) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [To Be Honest \(This is a Campus Romance Series X YERIN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/78aLFDfPK2uw2rfAeVfvTk) | 2:50 |
-| 98 | [LOVE REVOLUTION \(Original Webcomic Soundtrack\) \- Fairytale](https://open.spotify.com/track/3YIJ3pgIDtt3LPjkmBCuc4) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [LOVE REVOLUTION \(Original Webcomic Soundtrack\) \- Fairytale](https://open.spotify.com/album/0PfgMekJLkMMNacqYMSMF3) | 3:53 |
-| 99 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 |
+| 97 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 |
+| 98 | [To Be Honest](https://open.spotify.com/track/3sDrJj3KZ5Mqvuf4E9qaoa) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [To Be Honest \(This is a Campus Romance Series X YERIN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/78aLFDfPK2uw2rfAeVfvTk) | 2:50 |
+| 99 | [LOVE REVOLUTION \(Original Webcomic Soundtrack\) \- Fairytale](https://open.spotify.com/track/3YIJ3pgIDtt3LPjkmBCuc4) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [LOVE REVOLUTION \(Original Webcomic Soundtrack\) \- Fairytale](https://open.spotify.com/album/0PfgMekJLkMMNacqYMSMF3) | 3:53 |
 | 100 | [The One And Only You \(The Moon during the Day X SANDEUL\)](https://open.spotify.com/track/1AmPwrfNriJEukByD7Qpg5) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [The One And Only You \(The Moon during the Day X SANDEUL\)](https://open.spotify.com/album/1f0Oe09V16PPgKaOksD2zb) | 4:01 |
 
 Snapshot ID: `aBruLgAAAABC645y9jvCK9MzvCFp383p`

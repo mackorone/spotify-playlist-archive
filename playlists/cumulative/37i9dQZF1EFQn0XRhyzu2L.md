@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-561 songs - 1 day 6 hr 42 min
+564 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Hands To Myself](https://open.spotify.com/track/3CJvmtWw2bJsudbAC5uCQk) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:20 | 2024-02-27 |  |
 | [Hands Up](https://open.spotify.com/track/1834BpeEkLr1D4QECkvYvL) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 3:56 | 2024-02-27 |  |
 | [Happy](https://open.spotify.com/track/4j9TBVRJVzEPG6wjALFyMt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 3:11 | 2024-02-27 |  |
+| [Happy Accident](https://open.spotify.com/track/6dE2YgMoNFmSTxYRSO829I) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [In The Key Of Love](https://open.spotify.com/album/60TTe0Bfyv3jy7FgnjgnTM) | 3:24 | 2025-05-11 |  |
 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 | 2024-02-27 |  |
 | [Hate Me Harder](https://open.spotify.com/track/1nv0TQDFYyW40u2odQNt5H) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Gag Order](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 2:48 | 2024-02-27 |  |
 | [He Loves Me, But...](https://open.spotify.com/track/24Yn3IkIQOklbhWvyRgh0A) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:26 | 2024-02-27 |  |
@@ -286,7 +287,8 @@
 | [Look to the Stars](https://open.spotify.com/track/0LemQxffjtsqsq4I9hjW89) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Man of Steel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2rgInD5nZNONheZwqir4Xg) | 2:58 | 2024-02-27 |  |
 | [Lose Myself](https://open.spotify.com/track/4S3PegrmupUnn0WEm8VXHg) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Lose Myself](https://open.spotify.com/album/4Rjiu2lDOta1qjGyF2TjN6) | 3:50 | 2024-02-27 |  |
 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2024-02-27 |  |
-| [Loser](https://open.spotify.com/track/4XUj6f8aO9GIsvQhOEc4eS) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Loser](https://open.spotify.com/album/0JbE9OLwtc9dThd8kcwKeW) | 3:12 | 2024-08-30 |  |
+| [Loser](https://open.spotify.com/track/0ZRqCWo3eifaRKq4Wj5MM8) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [In The Key Of Love](https://open.spotify.com/album/60TTe0Bfyv3jy7FgnjgnTM) | 3:12 | 2025-05-11 |  |
+| [Loser](https://open.spotify.com/track/4XUj6f8aO9GIsvQhOEc4eS) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Loser](https://open.spotify.com/album/0JbE9OLwtc9dThd8kcwKeW) | 3:12 | 2024-08-30 | 2025-05-12 |
 | [LOVE IS HARD](https://open.spotify.com/track/2Nyaks5SHuBDr6ykEEXx6t) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 2:52 | 2024-09-22 |  |
 | [Love Me Enough \(feat\. Monica & Keyshia Cole\)](https://open.spotify.com/track/64VYqDH3xyxIFZjrsgjLCZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Pink Friday 2 \(Gag City Deluxe\)](https://open.spotify.com/album/5eA2VJ0yeiU4kXz1zvuMro) | 3:50 | 2024-02-27 | 2024-03-07 |
 | [Love Me Land](https://open.spotify.com/track/5knSvwiFenQOkDoriHi2Rg) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:40 | 2024-02-27 |  |
@@ -356,6 +358,7 @@
 | [Never Going Home](https://open.spotify.com/track/2Ydmgqru48HvJ6AsFyGACq) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR) | 4:34 | 2024-02-27 |  |
 | [Never Kissed Anyone With Blue Eyes](https://open.spotify.com/track/2bET8TnBhnejWsDTRKZmHR) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:02 | 2024-02-27 |  |
 | [Never Too Young](https://open.spotify.com/track/2ViB8ZYP0Tmbje2eF0f67s) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:39 | 2024-02-27 |  |
+| [Neverland](https://open.spotify.com/track/0F4KRoicBk9v9lrcbHQt67) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Neverland](https://open.spotify.com/album/3HXiOLdmPqItX7vSLvCt0m) | 3:56 | 2025-05-11 |  |
 | [New Cool \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/0vsB8qj0vTND3jDQRC0Pu7) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [New Cool \(From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'\)](https://open.spotify.com/album/2bCXFQWFTcvs4xuRCObKGu) | 2:28 | 2024-02-27 |  |
 | [New Habit](https://open.spotify.com/track/0MgCeAOIKqLKTul51wZWex) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [A Reckoning](https://open.spotify.com/album/2LXTIciAcMZ6wa96d9sLnM) | 3:27 | 2024-02-27 |  |
 | [New Shoes](https://open.spotify.com/track/21Adcn1tBh797XAeqNtkrB) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:05 | 2024-02-27 |  |

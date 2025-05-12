@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 183785,
+  "num_followers": 183849,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAACl2mBbDqgnBuEnx1KgHa0e",
+  "snapshot_id": "aB6XAAAAAACfGtKWPBQa3c4eiItRJOLS",
   "tracks": [
     {
       "added_at": null,
@@ -431,42 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jate Llevar",
-        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        },
-        {
-          "name": "Oscar Iv\u00e1n Trev\u00edno",
-          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "En El \u00daltimo Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Flor De Naranjo",
         "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
       },
@@ -499,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "Coraz\u00f3n De Oro",
-      "url": "https://open.spotify.com/track/3hEDujdXlHpKEv8pW7SxBz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -527,6 +475,42 @@
       "duration_ms": 186173,
       "name": "Distancia Maldita",
       "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e9jate Llevar",
+        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
+        {
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "En El \u00daltimo Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 187466,
+      "name": "Coraz\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/3hEDujdXlHpKEv8pW7SxBz"
     },
     {
       "added_at": null,
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros Volumen 2",
-        "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
       "artists": [
         {
@@ -556,9 +540,25 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 184533,
-      "name": "Para Ti Mi Amor",
-      "url": "https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk"
+      "duration_ms": 181720,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Rancheras",
+        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "Mi Flor De Naranjo",
+      "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Rancheras",
-        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
+        "name": "Boleros Volumen 2",
+        "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 151333,
-      "name": "Mi Flor De Naranjo",
-      "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
+      "duration_ms": 184533,
+      "name": "Para Ti Mi Amor",
+      "url": "https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+        "name": "Ventanas Al Viento",
+        "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 170440,
-      "name": "Puedes Irte",
-      "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
+      "duration_ms": 188960,
+      "name": "Te Quiero Para Mi",
+      "url": "https://open.spotify.com/track/6K36cGSYWq4kRO4lMEKXJf"
     }
   ],
   "unique_name": "This Is Los Invasores De Nuevo Le\u00f3n",

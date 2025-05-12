@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
-  "num_followers": 64405,
+  "num_followers": 64414,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,26 @@
     {
       "added_at": "2025-05-09 06:00:14",
       "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 186116,
+      "name": "FVCK",
+      "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
+    },
+    {
+      "added_at": "2025-05-09 06:00:14",
+      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -431,22 +451,66 @@
     {
       "added_at": "2025-05-09 06:00:14",
       "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+        "name": "Bien Loco",
+        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         }
       ],
-      "duration_ms": 186116,
-      "name": "FVCK",
-      "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
+      "duration_ms": 169062,
+      "name": "Bien Loco",
+      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
+    },
+    {
+      "added_at": "2025-05-09 06:00:14",
+      "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+        }
+      ],
+      "duration_ms": 256086,
+      "name": "Busc\u00e1ndome",
+      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
+    },
+    {
+      "added_at": "2025-05-09 06:00:14",
+      "album": {
+        "name": "me estoy volviendo loca",
+        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "la jefa del triple 4",
+      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
     },
     {
       "added_at": "2025-05-09 06:00:14",
@@ -503,70 +567,6 @@
       "duration_ms": 188706,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
-    },
-    {
-      "added_at": "2025-05-09 06:00:14",
-      "album": {
-        "name": "me estoy volviendo loca",
-        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "la jefa del triple 4",
-      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
-    },
-    {
-      "added_at": "2025-05-09 06:00:14",
-      "album": {
-        "name": "Bien Loco",
-        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 169062,
-      "name": "Bien Loco",
-      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": "2025-05-09 06:00:14",
-      "album": {
-        "name": "Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "xHEIDIx",
-          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
-        }
-      ],
-      "duration_ms": 256086,
-      "name": "Busc\u00e1ndome",
-      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
     },
     {
       "added_at": "2025-05-09 06:00:14",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-05-09 06:00:14",
       "album": {
-        "name": "CONTIGO",
-        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148005,
-      "name": "CONTIGO",
-      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
-    },
-    {
-      "added_at": "2025-05-09 06:00:14",
-      "album": {
         "name": "2 Da Floor",
         "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 232542,
       "name": "Of The Void",
       "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
+    },
+    {
+      "added_at": "2025-05-09 06:00:14",
+      "album": {
+        "name": "CONTIGO",
+        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148005,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
     },
     {
       "added_at": "2025-05-09 06:00:14",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-05-09 06:00:14",
       "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
-      },
-      "artists": [
-        {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
-        },
-        {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
-        }
-      ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
-    },
-    {
-      "added_at": "2025-05-09 06:00:14",
-      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vl9iHGKGA2EMqoOSeezkB"
       },
@@ -1027,18 +1007,22 @@
     {
       "added_at": "2025-05-09 06:00:14",
       "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
       "artists": [
         {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+        },
+        {
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
         }
       ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
     },
     {
       "added_at": "2025-05-09 06:00:14",
@@ -1119,6 +1103,22 @@
       "duration_ms": 107200,
       "name": "LLORAR!",
       "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+    },
+    {
+      "added_at": "2025-05-09 06:00:14",
+      "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
     },
     {
       "added_at": "2025-05-09 06:00:14",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-05-09 06:00:14",
       "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
-    },
-    {
-      "added_at": "2025-05-09 06:00:14",
-      "album": {
         "name": "Que se Joda",
         "url": "https://open.spotify.com/album/7num6L1ZNnss90SnUbDZaz"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 114000,
       "name": "G\u00f3zalo (with Deorro)",
       "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
+    },
+    {
+      "added_at": "2025-05-09 06:00:14",
+      "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
     },
     {
       "added_at": "2025-05-09 06:00:14",

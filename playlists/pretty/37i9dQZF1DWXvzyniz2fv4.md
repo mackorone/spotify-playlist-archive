@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,709 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,701 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 19 | [Comemorar?](https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Comemorar?](https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml) | 3:10 |
 | 20 | [Luz da Lua](https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Oriente Acústico](https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1) | 3:35 |
 | 21 | [Mensagem](https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Mensagem](https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26) | 2:19 |
-| 22 | [4 da Manhã \- Acústico](https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Acústico: Sem Perceber + 4 da Manhã](https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR) | 3:28 |
-| 23 | [Pode falar \- Acústico](https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 2:43 |
+| 22 | [Pode falar \- Acústico](https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 2:43 |
+| 23 | [4 da Manhã \- Acústico](https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Acústico: Sem Perceber + 4 da Manhã](https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR) | 3:28 |
 | 24 | [Dias de Luta Dias de Glória](https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Dias de Luta Dias de Glória](https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8) | 2:17 |
 | 25 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 |
 | 26 | [Copacabana](https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU) | [De Peito Aberto](https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl) | 2:01 |

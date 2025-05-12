@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,225 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,230 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,8 +268,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 258 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 |
 | 259 | [Broken Biscuit](https://open.spotify.com/track/3IWBbQlGtsZgCO16AffdKE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 4:55 |
 | 260 | [Rock and Balloon](https://open.spotify.com/track/6z7xJnTegn9nLPrTANuzvF) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 4:00 |
-| 261 | [Throw Down the Roses](https://open.spotify.com/track/6cBBqi10U9Nxrab5aFtGxJ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:28 |
-| 262 | [The Going Price For Home](https://open.spotify.com/track/55whs00ggfEZHTF7ni3Aak) | [The Prize Fighter Inferno](https://open.spotify.com/artist/7gxpZdWXJWyfAaRU6igwKU) | [My Brother's Blood Machine](https://open.spotify.com/album/2GE64GHiFoz42adL9fPWlP) | 4:04 |
+| 261 | [The Going Price For Home](https://open.spotify.com/track/55whs00ggfEZHTF7ni3Aak) | [The Prize Fighter Inferno](https://open.spotify.com/artist/7gxpZdWXJWyfAaRU6igwKU) | [My Brother's Blood Machine](https://open.spotify.com/album/2GE64GHiFoz42adL9fPWlP) | 4:04 |
+| 262 | [Throw Down the Roses](https://open.spotify.com/track/6cBBqi10U9Nxrab5aFtGxJ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:28 |
 | 263 | [Mister Sister](https://open.spotify.com/track/2j1j7ErJJDpUPiLcL4xv9c) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Sexual Harassment](https://open.spotify.com/album/4fsdLpd40uZXSlOkcAvQqQ) | 3:49 |
 | 264 | [Sober and Unkissed](https://open.spotify.com/track/6ll48HRbmGzB5zFK6LwBnJ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:01 |
 | 265 | [These Hands I Hold \- Sean Tyas Remix](https://open.spotify.com/track/0Q4ba5y1sGtGsCHwoFTmEk) | [Greg Downey](https://open.spotify.com/artist/5g5gfQk7ayB806jZ9FFCjL), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK), [Sean Tyas](https://open.spotify.com/artist/4zqERoiO42cNiA3pPDWnvN) | [These Hands I Hold](https://open.spotify.com/album/2f0h1hYZM448Klq2JkbYrn) | 4:02 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AbxElAAAAAAkci1fOFQtiJSMBdoGWFeb`
+Snapshot ID: `AbxKNAAAAABIj6vRVl09qtEhzi2vRuBo`

@@ -4,7 +4,7 @@
 
 > 
 
-991 songs - 2 day 1 hr 9 min
+992 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Do The Math](https://open.spotify.com/track/4oiZH6jg5NZIs0Wu5iNjE0) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Do The Math](https://open.spotify.com/album/2XBbCMGiy2WtWMzFaZad7m) | 1:49 | 2025-03-06 |  |
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-04-05 | 2023-05-09 |
 | [DOH DOH \(feat\. Young Scooter\)](https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [BEASTMODE 2](https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd) | 3:40 | 2024-12-16 |  |
+| [Doing Nothing Else](https://open.spotify.com/track/3Yd4kZMzyg4F58YWLnMxT8) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Doing Nothing Else](https://open.spotify.com/album/66IRglUbmpjN4qPWYVIQTR) | 3:05 | 2025-05-11 |  |
 | [don't @ me](https://open.spotify.com/track/5RsjKNch572Mcdg5PS78yy) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4W2G](https://open.spotify.com/album/6yP1RHK4nruSXTlQspwRrP) | 2:31 | 2022-07-28 | 2023-05-09 |
 | [Dont Fall Off \(KTM Drip\)](https://open.spotify.com/track/5Wk9x85aF15JW1kVahYLsK) | [Jakub tłumaczenia](https://open.spotify.com/artist/1HFz1PXpCzdOJdyShiTD8y) | [The Party Never Ends](https://open.spotify.com/album/3WXOCQmch01IIR5q6t3mDZ) | 4:12 | 2022-06-30 | 2024-04-24 |
 | [dont wait til it's late](https://open.spotify.com/track/0R2aitHLTmi85Jsswg6b6A) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [dont wait til it's late](https://open.spotify.com/album/1lMC5ZRLsDzF8bMyhwGGCm) | 2:03 | 2022-07-28 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1077578,
+  "num_followers": 1077571,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "Together - The Best Of",
+        "url": "https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq"
+      },
+      "artists": [
+        {
+          "name": "Reef",
+          "url": "https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Place Your Hands",
+      "url": "https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Flowers (feat. Jaykae and MALIKA)",
         "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 197209,
       "name": "Flowers (feat. Jaykae and MALIKA)",
       "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "Together - The Best Of",
-        "url": "https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq"
-      },
-      "artists": [
-        {
-          "name": "Reef",
-          "url": "https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO"
-        }
-      ],
-      "duration_ms": 217413,
-      "name": "Place Your Hands",
-      "url": "https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO"
     },
     {
       "added_at": "2024-03-22 16:40:22",

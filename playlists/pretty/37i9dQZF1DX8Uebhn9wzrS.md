@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,105,989 likes - 675 songs - 1 day 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,106,321 likes - 675 songs - 1 day 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 39 | [Wallflower](https://open.spotify.com/track/55A4cz4xvBtybJAguBzBSJ) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Wallflower](https://open.spotify.com/album/2QROOCX5ImLrU3hpeHXzTG) | 2:28 |
 | 40 | [sunny day dreaming](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [sunny day dreaming](https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm) | 2:54 |
 | 41 | [Up In The Clouds Again](https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Up In The Clouds Again](https://open.spotify.com/album/5LGOpvqw4CDDEHLGlZi5Po) | 2:07 |
-| 42 | [ottos visa](https://open.spotify.com/track/2UIfKmFnpMjSLONtCxZw7B) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [ottos visa](https://open.spotify.com/album/5BZ89t6bxwxcPbQAH1FXcE) | 2:53 |
-| 43 | [Fluffy](https://open.spotify.com/track/5AKh7wnYUVtKgMfHfEK9GW) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Fluffy](https://open.spotify.com/album/5WYFLDHJLdZwfafzp6qHwl) | 2:29 |
+| 42 | [Fluffy](https://open.spotify.com/track/5AKh7wnYUVtKgMfHfEK9GW) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Fluffy](https://open.spotify.com/album/5WYFLDHJLdZwfafzp6qHwl) | 2:29 |
+| 43 | [ottos visa](https://open.spotify.com/track/2UIfKmFnpMjSLONtCxZw7B) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [ottos visa](https://open.spotify.com/album/5BZ89t6bxwxcPbQAH1FXcE) | 2:53 |
 | 44 | [snoozed](https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [snoozed](https://open.spotify.com/album/0wViZvA7s19WrpKIMFxfos) | 2:50 |
 | 45 | [Between Dream](https://open.spotify.com/track/2CjgqDnLImY8hkgn5RqjsE) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Between Dream](https://open.spotify.com/album/6hVnpOlYJwTHbgw41aenqk) | 2:05 |
 | 46 | [Multiply](https://open.spotify.com/track/2hn3t1cwovKmBKdLcTa76c) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Multiply](https://open.spotify.com/album/0TCNPI9uK76IZQ8zCp66SJ) | 2:06 |
@@ -457,9 +457,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 447 | [Nightrider](https://open.spotify.com/track/6vNocabqNxmIsiBzrJTaQ0) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Nightrider](https://open.spotify.com/album/09tfyEXrLwwJOuTo8ta0Kf) | 2:03 |
 | 448 | [Expensive](https://open.spotify.com/track/3IkWkgQIxh3Oe4RKH6SY8r) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Rush Hour](https://open.spotify.com/album/03zUkj89Tq0J7n7MFUWphs) | 2:01 |
 | 449 | [Setsunai](https://open.spotify.com/track/24wAolXLDbi80kKrNh60HI) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Setsunai](https://open.spotify.com/album/2rsfHZjyuVClDvBXWcm4P1) | 2:12 |
-| 450 | [Dilation](https://open.spotify.com/track/3wdoJsRHhusUvk3RfgGE0f) | [Hayde Kole](https://open.spotify.com/artist/7mSzxAVpwd2cUa2llhsdwd) | [Dilation](https://open.spotify.com/album/13UG0mfmoP6l91iOPclopT) | 2:21 |
-| 451 | [Lizards and Lattes](https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Lizards and Lattes](https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb) | 1:59 |
-| 452 | [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 |
+| 450 | [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 |
+| 451 | [Dilation](https://open.spotify.com/track/3wdoJsRHhusUvk3RfgGE0f) | [Hayde Kole](https://open.spotify.com/artist/7mSzxAVpwd2cUa2llhsdwd) | [Dilation](https://open.spotify.com/album/13UG0mfmoP6l91iOPclopT) | 2:21 |
+| 452 | [Lizards and Lattes](https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Lizards and Lattes](https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb) | 1:59 |
 | 453 | [Tear Me Apart](https://open.spotify.com/track/3SulLcEmLS7c45KMeFpnpZ) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Tear Me Apart](https://open.spotify.com/album/6ZWBm80CbzWyskZV5MbECr) | 2:01 |
 | 454 | [Free](https://open.spotify.com/track/2fI7xNA7dEskW6fGjq623B) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Free](https://open.spotify.com/album/5eDB2lujlCVEe0v1wxZQYN) | 2:48 |
 | 455 | [I\-65](https://open.spotify.com/track/3fQfA3LMIx9BEkHIl0iNSd) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [I\-65](https://open.spotify.com/album/2z8x3yAvj3mnvngPn1xVII) | 2:00 |

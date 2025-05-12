@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc09UfBqrKwS.md) - [plain]
 
 > hora d hacer la meme
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,261 likes - 236 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,260 likes - 236 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc09UfBqrKwS.md) - [plain]
 | 156 | [Enigmus](https://open.spotify.com/track/7Cw2C3KEvbcXVEBERuAWzt) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Enigmus](https://open.spotify.com/album/10kWRgddUgZdJ96qITHnYx) | 3:23 |
 | 157 | [Navala](https://open.spotify.com/track/4CCctITmHTWCoZpTK3Qi0I) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Navala](https://open.spotify.com/album/6xPKS6K54lWJM5CFEs8Wvr) | 2:39 |
 | 158 | [Royal Cubit](https://open.spotify.com/track/1PhMMm4HZgwJI97RXAuFg6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Royal Cubit](https://open.spotify.com/album/0iShyFMcuswRzJDvV9ATz8) | 3:22 |
-| 159 | [Lumiére Douce](https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Lumiére Douce](https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4) | 2:40 |
-| 160 | [Me and the Stars](https://open.spotify.com/track/3tQH5jtcy2iXBLv34SJ6WR) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Me and the Stars](https://open.spotify.com/album/10R1HL4Y4cVXE3w5p4BW1X) | 2:08 |
+| 159 | [Me and the Stars](https://open.spotify.com/track/3tQH5jtcy2iXBLv34SJ6WR) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Me and the Stars](https://open.spotify.com/album/10R1HL4Y4cVXE3w5p4BW1X) | 2:08 |
+| 160 | [Lumiére Douce](https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Lumiére Douce](https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4) | 2:40 |
 | 161 | [Stardust Memories](https://open.spotify.com/track/72PXvumKV3t0Eip3D8vkM4) | [Celestelle](https://open.spotify.com/artist/4ddXdxD2ZJ1bgPdoKPsvaX) | [Stardust Memories](https://open.spotify.com/album/5U0l3I3b2h0nOiZrphlNRv) | 2:58 |
 | 162 | [Lost in Midnight Blue](https://open.spotify.com/track/5nirCNBBC16XYO7TRlDupj) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Lost in Midnight Blue](https://open.spotify.com/album/5BY9mwH09wXka7PU1RZV1p) | 2:48 |
 | 163 | [Ad Astra](https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Ad Astra](https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ) | 2:38 |
@@ -194,9 +194,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc09UfBqrKwS.md) - [plain]
 | 184 | [Singularity](https://open.spotify.com/track/7nV2HPhYAWLBtJ2JCUyYfx) | [Everlasting Theta](https://open.spotify.com/artist/0xE2E5AhNCCeAfZj0uVKW9) | [Singularity](https://open.spotify.com/album/648LX1seqqG3MhQPyYjWWK) | 2:50 |
 | 185 | [Lighthouse](https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Lighthouse](https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH) | 2:27 |
 | 186 | [Meditations Pt 4](https://open.spotify.com/track/7KerNojT5v12nQjmk9OGbm) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations Pt 4](https://open.spotify.com/album/0EVBf4Gj6ot7u6LCRUHUeY) | 3:00 |
-| 187 | [Eclipse](https://open.spotify.com/track/7GMKqJAsTVs5EB1mGhGxZz) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Eclipse](https://open.spotify.com/album/4NN6SfzljIm5dqqkCXARPY) | 2:55 |
-| 188 | [Permanence](https://open.spotify.com/track/7pj05Z3J520aOzLdH3sAAz) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Permanence](https://open.spotify.com/album/2OwEKuCKehvTMSyOg4Q7y1) | 3:00 |
-| 189 | [Haven](https://open.spotify.com/track/5DhPUg2oGoQkEbIJcQiSmG) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Haven](https://open.spotify.com/album/0FY3phJDQ9r1uPmy2OMjXL) | 2:22 |
+| 187 | [Permanence](https://open.spotify.com/track/7pj05Z3J520aOzLdH3sAAz) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Permanence](https://open.spotify.com/album/2OwEKuCKehvTMSyOg4Q7y1) | 3:00 |
+| 188 | [Haven](https://open.spotify.com/track/5DhPUg2oGoQkEbIJcQiSmG) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Haven](https://open.spotify.com/album/0FY3phJDQ9r1uPmy2OMjXL) | 2:22 |
+| 189 | [Eclipse](https://open.spotify.com/track/7GMKqJAsTVs5EB1mGhGxZz) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Eclipse](https://open.spotify.com/album/4NN6SfzljIm5dqqkCXARPY) | 2:55 |
 | 190 | [Translucide](https://open.spotify.com/track/4oiNgs95r4lBrC3la1D6XF) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Translucide](https://open.spotify.com/album/2qpO9vQKsdwGP8fcdmxzS1) | 2:33 |
 | 191 | [Placid Echoes](https://open.spotify.com/track/7ybzymL0w0XYyJaBeqFSRy) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Placid Echoes](https://open.spotify.com/album/7qB2UagPGPPr2t7hTZQS58) | 2:36 |
 | 192 | [Recombination](https://open.spotify.com/track/0vTkzpVA6dpjQo5s6l9WOg) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Recombination](https://open.spotify.com/album/0gOoHcaJF4R89QSkjlQVCA) | 2:59 |
@@ -217,11 +217,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc09UfBqrKwS.md) - [plain]
 | 207 | [Hush Now](https://open.spotify.com/track/5wEmyImO7Po53Fb3SMYNgx) | [Martin Grisel](https://open.spotify.com/artist/2xUnAHudUe12LCRMvHHMKF) | [Hush Now](https://open.spotify.com/album/7E5WwupztlgT0CfjmKSLDZ) | 3:16 |
 | 208 | [Fulfilled](https://open.spotify.com/track/6MyMsRVJSk0lplNc2S1ib1) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Fulfilled](https://open.spotify.com/album/6oX4wwwqlA1hi4ELRlkOHV) | 2:59 |
 | 209 | [Resonance](https://open.spotify.com/track/4CnoaUAoFwMgMd493tJmnv) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Resonance](https://open.spotify.com/album/5cFREqcRe3ruyXTHLnM1EA) | 3:08 |
-| 210 | [Cosmic Balance](https://open.spotify.com/track/2OIQ15ivFONa31vze9jIoz) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Cosmic Balance](https://open.spotify.com/album/1qobBVLrSQk3kxBTtb3ysx) | 3:01 |
-| 211 | [Enhance](https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Enhance](https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay) | 2:52 |
-| 212 | [Cosmical Sense](https://open.spotify.com/track/2NfCpcNt3P8VSZ4fHgjSTm) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [Cosmical Sense](https://open.spotify.com/album/5BlSnEJGx2324KFlf1XSpp) | 2:45 |
-| 213 | [Essence](https://open.spotify.com/track/0KXcQySPBhAvDT5c6J1KxH) | [Rufus Ziegler](https://open.spotify.com/artist/3al3f0Fd8OQ3OJj4GfpE2f) | [Essence](https://open.spotify.com/album/3r12O5MUpkRuv3rABTy6zG) | 2:24 |
-| 214 | [Empty Frames](https://open.spotify.com/track/1u0aVsrbpi00ikT1AdW7mM) | [Chasing Gravity](https://open.spotify.com/artist/3fwKy25FHHzP3Rl1s0yRlL) | [Empty Frames](https://open.spotify.com/album/3lurh7ybYx26AewSxOolTr) | 2:38 |
+| 210 | [Enhance](https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Enhance](https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay) | 2:52 |
+| 211 | [Cosmical Sense](https://open.spotify.com/track/2NfCpcNt3P8VSZ4fHgjSTm) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [Cosmical Sense](https://open.spotify.com/album/5BlSnEJGx2324KFlf1XSpp) | 2:45 |
+| 212 | [Essence](https://open.spotify.com/track/0KXcQySPBhAvDT5c6J1KxH) | [Rufus Ziegler](https://open.spotify.com/artist/3al3f0Fd8OQ3OJj4GfpE2f) | [Essence](https://open.spotify.com/album/3r12O5MUpkRuv3rABTy6zG) | 2:24 |
+| 213 | [Empty Frames](https://open.spotify.com/track/1u0aVsrbpi00ikT1AdW7mM) | [Chasing Gravity](https://open.spotify.com/artist/3fwKy25FHHzP3Rl1s0yRlL) | [Empty Frames](https://open.spotify.com/album/3lurh7ybYx26AewSxOolTr) | 2:38 |
+| 214 | [Cosmic Balance](https://open.spotify.com/track/2OIQ15ivFONa31vze9jIoz) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Cosmic Balance](https://open.spotify.com/album/1qobBVLrSQk3kxBTtb3ysx) | 3:01 |
 | 215 | [Erice](https://open.spotify.com/track/4ecPC4L51JVR6WqJZWkeAi) | [Amos Stovall](https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS) | [Erice](https://open.spotify.com/album/5MJ7tUbfRkHSg5lKYqUM8M) | 2:54 |
 | 216 | [Ethereal Waves](https://open.spotify.com/track/1Nct3sYCWShQT1AxaRmIOz) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Ethereal Waves](https://open.spotify.com/album/2QTKxexNGpnwGtfo82Mu6Z) | 2:37 |
 | 217 | [Omegagigia](https://open.spotify.com/track/7bgTGa2DeDTFX8yIbjhl2s) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Omegagigia](https://open.spotify.com/album/64vtZ76endgd7UTXcuOmOU) | 2:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,763 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,759 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 36 | [Mozart: Sonata for Two Pianos in D Major, K\. 448: II\. Andante](https://open.spotify.com/track/1sZPu1TAhwrGSSxThC0ZQF) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Süher Pekinel](https://open.spotify.com/artist/7xtxBbk8W0htAOXceavYlH), [Güher Pekinel](https://open.spotify.com/artist/3rTiRLf29vqw1tGijDHqYB) | [Mozart: 6 Sonatas for Piano Duet & Sonata for 2 Pianos, K\. 488](https://open.spotify.com/album/7EMQ9izwD1Fnf48NdAxerw) | 10:06 |
 | 37 | [Mantra for Piano](https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 3:18 |
 | 38 | [In a Bar in Buenos Aires](https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In a Bar in Buenos Aires](https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ) | 2:46 |
-| 39 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 |
-| 40 | [Adesso](https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Adesso](https://open.spotify.com/album/33kzMmushokneJ49TH7O7K) | 2:27 |
+| 39 | [Adesso](https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Adesso](https://open.spotify.com/album/33kzMmushokneJ49TH7O7K) | 2:27 |
+| 40 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 |
 | 41 | [My Piano Night](https://open.spotify.com/track/31dgOyBLg64GEgdbsBjwXy) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Blue Hour](https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx) | 4:45 |
 | 42 | [La Luce Nel Cuore](https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Selected Works](https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m) | 2:57 |
 | 43 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 |

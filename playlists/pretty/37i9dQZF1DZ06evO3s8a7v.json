@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 43724,
+  "num_followers": 43721,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAANDTjp/KQbm+pvRPldWHqu",
+  "snapshot_id": "aB6XAAAAAACpmY1WUhh8Lxz9D/yzl9hX",
   "tracks": [
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUNAR",
-        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
+        "name": "MYA LIVE P1: Chanel de Coco",
+        "url": "https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ"
       },
       "artists": [
         {
@@ -448,17 +448,13 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        },
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 186787,
-      "name": "LUNAR",
-      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
+      "duration_ms": 209725,
+      "name": "MYA LIVE P1: Chanel de Coco",
+      "url": "https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS"
     },
     {
       "added_at": null,
@@ -479,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MYA LIVE P1: Chanel de Coco",
-        "url": "https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ"
+        "name": "LUNAR",
+        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
       },
       "artists": [
         {
@@ -488,13 +484,17 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 209725,
-      "name": "MYA LIVE P1: Chanel de Coco",
-      "url": "https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS"
+      "duration_ms": 186787,
+      "name": "LUNAR",
+      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
     },
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "250X",
+        "url": "https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        }
+      ],
+      "duration_ms": 137293,
+      "name": "250X",
+      "url": "https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Suelta, Sola y Tranquila REMIX",
         "url": "https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 202282,
       "name": "Suelta, Sola y Tranquila REMIX",
       "url": "https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "250X",
-        "url": "https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        }
-      ],
-      "duration_ms": 137293,
-      "name": "250X",
-      "url": "https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9"
     },
     {
       "added_at": null,
@@ -935,22 +935,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suelta, Sola y Tranquila (feat. MYA)",
-        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
+        "name": "Insta (Remix)",
+        "url": "https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp"
       },
       "artists": [
         {
-          "name": "FABRO",
-          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
         },
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 149929,
-      "name": "Suelta, Sola y Tranquila (feat. MYA)",
-      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
+      "duration_ms": 206772,
+      "name": "Insta - Remix",
+      "url": "https://open.spotify.com/track/1K9b2N8P77GNFnx5Tw6MbA"
     },
     {
       "added_at": null,
@@ -979,26 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Insta (Remix)",
-        "url": "https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp"
+        "name": "Suelta, Sola y Tranquila (feat. MYA)",
+        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
       },
       "artists": [
         {
-          "name": "Lauta",
-          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
         },
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 206772,
-      "name": "Insta - Remix",
-      "url": "https://open.spotify.com/track/1K9b2N8P77GNFnx5Tw6MbA"
+      "duration_ms": 149929,
+      "name": "Suelta, Sola y Tranquila (feat. MYA)",
+      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 62966,
+  "num_followers": 62976,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAD98ze5Yidz7HCoW8s5ZLrL",
+  "snapshot_id": "aB6XAAAAAACxpvwNF8m3ouPmhwD397NF",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesta Arriba",
-        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
+        "name": "Seguimos Firme",
+        "url": "https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 236173,
-      "name": "Capricho Maldito",
-      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
+      "duration_ms": 211962,
+      "name": "Presiento Que Voy a Llorar",
+      "url": "https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Firme",
-        "url": "https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7"
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
       },
       "artists": [
         {
@@ -676,25 +676,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 211962,
-      "name": "Presiento Que Voy a Llorar",
-      "url": "https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Clasicas del Ayer, Vol. 1",
-        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 172120,
-      "name": "Un Enga\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
+      "duration_ms": 236173,
+      "name": "Capricho Maldito",
+      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 184133,
       "name": "Amor Ingrato",
       "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 172120,
+      "name": "Un Enga\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Aunque Mal Paguen Ellas",
-      "url": "https://open.spotify.com/track/5mHjquTjfkoKkFdOiMUWHw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 167306,
       "name": "Como Amigo O Como Amante",
       "url": "https://open.spotify.com/track/6gYmBqCBV47teFHvHxAV4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Aunque Mal Paguen Ellas",
+      "url": "https://open.spotify.com/track/5mHjquTjfkoKkFdOiMUWHw"
     }
   ],
   "unique_name": "This Is Los Rieleros Del Norte",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,087 songs - 18 day 10 hr 45 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,096 songs - 18 day 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7095,5 +7095,14 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7085 | [PHOENIX](https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BURNOUT SYNDROMEZ](https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa) | 4:06 |
 | 7086 | [LIFE](https://open.spotify.com/track/5JaYaJnVZ3ZCB4VLvfs3eR) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [23](https://open.spotify.com/album/2GzNbQgpNvnMaqT9hrCIrt) | 3:02 |
 | 7087 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
+| 7088 | [青い栞](https://open.spotify.com/track/3fCO1n6l7yekcNRDRkoJJ4) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [PORTAL](https://open.spotify.com/album/1WJkB7MN6rgPIEO08aa6vI) | 5:37 |
+| 7089 | [クライマー](https://open.spotify.com/track/0var06tEoXUqS76RScrCCP) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Sea and The Darkness](https://open.spotify.com/album/6vDFCF1YqhE5WKzYNSHOs7) | 3:10 |
+| 7090 | [Kuchizuke Diamond](https://open.spotify.com/track/5fqtDZNe7luPDPYZvfcKWW) | [WEAVER](https://open.spotify.com/artist/0r2CfjmaWc0FMbbmsb4zgD) | [Night Rainbow](https://open.spotify.com/album/0Xw34nfy00050GUPwXsp8A) | 3:56 |
+| 7091 | [SHINY DAYS](https://open.spotify.com/track/5jpxjk10TUJwZPWGsvpanU) | [Asaka](https://open.spotify.com/artist/6salj1HNtQW4jfRxuiaPmK) | [HEART TOUCH](https://open.spotify.com/album/6S4nT8VWMcK9OIiSJ3600T) | 4:24 |
+| 7092 | [瞑目の彼方](https://open.spotify.com/track/0tzKPZAThUPfLKDsD6ka5X) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [やなぎなぎ ベストアルバム \-MUSEUM\-](https://open.spotify.com/album/4yB3C0QFsU5tLuQ0UQNI35) | 4:38 |
+| 7093 | [海を込めて](https://open.spotify.com/track/5CDyJYagNbPJRJYXBO7tGW) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ナッテ](https://open.spotify.com/album/3hGPIkiZfFJCwlKvbpoLCy) | 3:59 |
+| 7094 | [Black Rover](https://open.spotify.com/track/04LCCxG3pbOYeENiyUc7Xb) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [ウララ](https://open.spotify.com/album/3zS9R7KJTSgwfhcmL4ckjl) | 3:28 |
+| 7095 | [悠久のカタルシス \- ベルファスト ver.](https://open.spotify.com/track/5qukFQ1EtenNb28V0pSRUu) | [ベルファスト](https://open.spotify.com/artist/6nYOt353TxvJq9wPUUHtxO) | [TVアニメーション『アズールレーン』キャラクターソングシングル Vol.10 ベルファスト](https://open.spotify.com/album/5eDZUZtyCmcth70mpDkkr8) | 4:17 |
+| 7096 | [インフェルノ](https://open.spotify.com/track/3pQ0zUFOi4e1KZ8yQkeD42) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [インフェルノ](https://open.spotify.com/album/1thARtVFQruymTEXJBOVcP) | 1:34 |
 
-Snapshot ID: `AAAGERsE9/lm7gO2xj81yAXXVzhRecrA`
+Snapshot ID: `AAAGGlnwkncnSfei7jvBfB0eUkt3xQ0O`

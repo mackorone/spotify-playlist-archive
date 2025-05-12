@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : נגה ארז
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,919 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,926 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 41 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
 | 42 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
 | 43 | [הכלים השבורים](https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [הכלים השבורים](https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk) | 3:29 |
-| 44 | [ילדה](https://open.spotify.com/track/6EP4IVc2g2SW1ypyvkkgg6) | [IDIOT!](https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe) | [האמנה החברתית](https://open.spotify.com/album/5QeQGrTNQwH1hToFmA4M7Q) | 3:05 |
-| 45 | [אם זה גדול עלי](https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אם זה גדול עלי](https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy) | 2:33 |
-| 46 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
-| 47 | [שבתות וחגים](https://open.spotify.com/track/2st7mVorFZpOBrZEzeIt7a) | [Eran Tzur](https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY), [Korin Allal](https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7) | [סימנים מקדימים](https://open.spotify.com/album/3mPB7mDLvFypbUpMDX7FEd) | 4:25 |
-| 48 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
-| 49 | [עוד יום](https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Nir Shlomo](https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef) | [עוד יום](https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr) | 3:08 |
-| 50 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 |
+| 44 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
+| 45 | [ילדה](https://open.spotify.com/track/6EP4IVc2g2SW1ypyvkkgg6) | [IDIOT!](https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe) | [האמנה החברתית](https://open.spotify.com/album/5QeQGrTNQwH1hToFmA4M7Q) | 3:05 |
+| 46 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
+| 47 | [אם זה גדול עלי](https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אם זה גדול עלי](https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy) | 2:33 |
+| 48 | [שבתות וחגים](https://open.spotify.com/track/2st7mVorFZpOBrZEzeIt7a) | [Eran Tzur](https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY), [Korin Allal](https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7) | [סימנים מקדימים](https://open.spotify.com/album/3mPB7mDLvFypbUpMDX7FEd) | 4:25 |
+| 49 | [סיבה להמשיך](https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [סיבה להמשיך](https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR) | 2:59 |
+| 50 | [עוד יום](https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Nir Shlomo](https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef) | [עוד יום](https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr) | 3:08 |
 
 Snapshot ID: `aB0bXQAAAAC+VytMgusGe9AMZWH+LBGz`

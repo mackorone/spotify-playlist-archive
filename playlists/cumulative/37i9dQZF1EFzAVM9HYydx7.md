@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-320 songs - 19 hr 49 min
+321 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Born 2 Be Great](https://open.spotify.com/track/3AmqJsyZDFA8EHC461R7bY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:50 | 2023-12-13 |  |
 | [Bring The Fire Out](https://open.spotify.com/track/5uR996t0eJdoOc4FDXoz6m) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 3:06 | 2023-12-13 |  |
 | [Brink of Amazing](https://open.spotify.com/track/0TdTj35uJmZZJWz2caJeP2) | [Daniel De Bourg](https://open.spotify.com/artist/24ykUrPaMcWMlCFCSEtrpK) | [London Bread](https://open.spotify.com/album/1BPO3c60v0cr7suYDURpA4) | 2:37 | 2023-12-13 |  |
-| [Broke](https://open.spotify.com/track/7A2dius6RtCZDWbJmNe6gQ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 2:59 | 2023-12-13 |  |
+| [Broke](https://open.spotify.com/track/7A2dius6RtCZDWbJmNe6gQ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 2:59 | 2023-12-13 | 2025-05-12 |
+| [Broke](https://open.spotify.com/track/2RStoLVPxT2Z1OgXjhpUDf) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [All Things Work Together](https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r) | 2:59 | 2025-05-11 |  |
 | [Burning Rubber](https://open.spotify.com/track/6rBxl8ZgnXCDZVhzLEBTAG) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:43 | 2024-03-22 |  |
 | [Buyou](https://open.spotify.com/track/4d7HyOmNEpi55uv96g4Iyt) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [No Boys Allowed \(Deluxe\)](https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin) | 4:19 | 2023-12-13 |  |
 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 | 2023-12-13 |  |

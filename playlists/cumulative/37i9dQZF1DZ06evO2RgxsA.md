@@ -4,7 +4,7 @@
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-99 songs - 3 hr 57 min
+100 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [I Don't Like Me Anymore](https://open.spotify.com/track/01w1IdzXfNmu033rWe4XrT) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 2:30 | 2022-09-16 |  |
 | [I Gotta Pee](https://open.spotify.com/track/1T2LrvpmZ8q9e9LaHFQICn) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 0:32 | 2023-11-10 | 2024-01-23 |
 | [I Love You More Than I Hate Me](https://open.spotify.com/track/3AqzfDm9ekws7ht3DgHO6Q) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [I Love You More Than I Hate Me](https://open.spotify.com/album/0mbnURuAoEnF4ws1qhhUWb) | 2:38 | 2022-09-22 | 2022-09-26 |
+| [I Wanna Be an Alcoholic](https://open.spotify.com/track/6k4uZukGqY0TyQ2CxkeYGz) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The Longest EP](https://open.spotify.com/album/2PxPjYo7QT9Utmz0seSLjW) | 0:30 | 2025-05-12 |  |
 | [I'm a Rat](https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [I'm a Rat](https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk) | 2:10 | 2024-03-07 | 2024-08-26 |
 | [I'm Telling Tim](https://open.spotify.com/track/2zQX7Sakdph6PcI3oTHuhI) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:17 | 2022-09-20 | 2022-10-12 |
 | [Idiots Are Taking Over](https://open.spotify.com/track/7DtwSlXsEy9mrsxxQW9Mm8) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 3:21 | 2022-09-16 |  |

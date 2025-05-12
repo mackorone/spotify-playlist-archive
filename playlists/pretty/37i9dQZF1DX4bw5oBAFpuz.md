@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,093 likes - 250 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,096 likes - 250 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 54 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 |
 | 55 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 |
 | 56 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
-| 57 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 |
-| 58 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 |
+| 57 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 |
+| 58 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 |
 | 59 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 |
 | 60 | [Nothing To Lose](https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose](https://open.spotify.com/album/54ER6KotifvALmlVHDeyp6) | 3:04 |
 | 61 | [Coming Home](https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Coming Home](https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl) | 3:38 |
@@ -183,10 +183,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 173 | [Tilted](https://open.spotify.com/track/5dwMQwZvaPo9QzPqRF3aaR) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine \(Deluxe Edition\)](https://open.spotify.com/album/3jc4mNSSIjakdzeD63qpQt) | 3:53 |
 | 174 | [Outside In](https://open.spotify.com/track/0DTy6hvkVfKBpGtMzBd4Fw) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Outside In](https://open.spotify.com/album/4fjRR9lgDZ7Xo3V84S25i3) | 2:41 |
 | 175 | [All The Best Moves](https://open.spotify.com/track/7C6ONRhow0K5PqvKmqOiAi) | [Smith & Burrows](https://open.spotify.com/artist/7adu8fQmtoTq8O8BXQIq9L) | [Only Smith & Burrows Is Good Enough](https://open.spotify.com/album/7mueFpE0ElhVLHaxQDtuOB) | 3:23 |
-| 176 | [Lift You Up](https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [Lift You Up](https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX) | 3:01 |
-| 177 | [Miracle](https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Miracle](https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S) | 2:31 |
-| 178 | [Lay Your Weapons Down \- Acoustic](https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Lay Your Weapons Down \(Acoustic\)](https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m) | 3:25 |
-| 179 | [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 |
+| 176 | [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 |
+| 177 | [Lift You Up](https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [Lift You Up](https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX) | 3:01 |
+| 178 | [Miracle](https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Miracle](https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S) | 2:31 |
+| 179 | [Lay Your Weapons Down \- Acoustic](https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Lay Your Weapons Down \(Acoustic\)](https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m) | 3:25 |
 | 180 | [Carry It Well \- Acoustic](https://open.spotify.com/track/5WD2D369riKav4v92rzFjz) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well \(Acoustic\)](https://open.spotify.com/album/2TXE5r0FbzfmOHWYe3xWTX) | 3:46 |
 | 181 | [Talk To Me](https://open.spotify.com/track/2kqAlHqzn3vURg8kOGvXS3) | [Josephien](https://open.spotify.com/artist/43baNkimEScblxgIPkyroW) | [Talk To Me](https://open.spotify.com/album/0sNisQsHNxOQ4P1DL14hCI) | 3:01 |
 | 182 | [Hurricane \- Acoustic Version](https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane \(Acoustic Version\)](https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy) | 2:50 |

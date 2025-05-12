@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Depedro y Xoel L\u00f3pez.",
-  "num_followers": 339505,
+  "num_followers": 339518,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-05-01 22:00:22",
       "album": {
+        "name": "Fisica Y Quimica",
+        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 302933,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
+    },
+    {
+      "added_at": "2025-05-01 22:00:22",
+      "album": {
         "name": "El cantante",
         "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 217973,
       "name": "Estadio Azteca",
       "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
-    },
-    {
-      "added_at": "2025-05-01 22:00:22",
-      "album": {
-        "name": "\u00bfSer\u00e1 Posible El Sur?",
-        "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 284680,
-      "name": "Todo Cambia",
-      "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
     },
     {
       "added_at": "2025-05-01 22:00:22",
@@ -559,18 +559,18 @@
     {
       "added_at": "2025-05-01 22:00:22",
       "album": {
-        "name": "Fisica Y Quimica",
-        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
+        "name": "\u00bfSer\u00e1 Posible El Sur?",
+        "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 302933,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
+      "duration_ms": 284680,
+      "name": "Todo Cambia",
+      "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
     },
     {
       "added_at": "2025-05-01 22:00:22",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-05-01 22:00:22",
       "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 420807,
-      "name": "El Palomo y La Negra",
-      "url": "https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K"
-    },
-    {
-      "added_at": "2025-05-01 22:00:22",
-      "album": {
         "name": "Con Cierto Aire a Ti",
         "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
       },
@@ -619,6 +603,38 @@
       "duration_ms": 178773,
       "name": "Hoy Ten Miedo De Mi",
       "url": "https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir"
+    },
+    {
+      "added_at": "2025-05-01 22:00:22",
+      "album": {
+        "name": "Yo, Mi, Me, Contigo",
+        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
+    },
+    {
+      "added_at": "2025-05-01 22:00:22",
+      "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 420807,
+      "name": "El Palomo y La Negra",
+      "url": "https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K"
     },
     {
       "added_at": "2025-05-01 22:00:22",
@@ -655,22 +671,6 @@
     {
       "added_at": "2025-05-01 22:00:22",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "added_at": "2025-05-01 22:00:22",
-      "album": {
         "name": "Desde Que No Nos Vemos",
         "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 144840,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
-    },
-    {
-      "added_at": "2025-05-01 22:00:22",
-      "album": {
-        "name": "Yo, Mi, Me, Contigo",
-        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
     },
     {
       "added_at": "2025-05-01 22:00:22",
@@ -735,6 +719,22 @@
     {
       "added_at": "2025-05-01 22:00:22",
       "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
+    },
+    {
+      "added_at": "2025-05-01 22:00:22",
+      "album": {
         "name": "Cosas Mias",
         "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
       },
@@ -763,6 +763,70 @@
       "duration_ms": 249573,
       "name": "Querr\u00eda",
       "url": "https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7"
+    },
+    {
+      "added_at": "2025-05-01 22:00:22",
+      "album": {
+        "name": "Para Aute: Pasaba por Aqu\u00ed (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodr\u00edguez, Vanesa Martin & Xoel L\u00f3pez)",
+        "url": "https://open.spotify.com/album/2952fTsJClZUWrkhXYDGRN"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        },
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        },
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        },
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        },
+        {
+          "name": "Xoel L\u00f3pez",
+          "url": "https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx"
+        }
+      ],
+      "duration_ms": 178811,
+      "name": "Para Aute: Pasaba por Aqu\u00ed (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodr\u00edguez, Vanesa Martin & Xoel L\u00f3pez)",
+      "url": "https://open.spotify.com/track/7D9idjcIEbErDKK2vtUM2D"
     },
     {
       "added_at": "2025-05-01 22:00:22",
@@ -855,66 +919,22 @@
     {
       "added_at": "2025-05-01 22:00:22",
       "album": {
-        "name": "Para Aute: Pasaba por Aqu\u00ed (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodr\u00edguez, Vanesa Martin & Xoel L\u00f3pez)",
-        "url": "https://open.spotify.com/album/2952fTsJClZUWrkhXYDGRN"
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        },
-        {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        },
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        },
-        {
-          "name": "Ismael Serrano",
-          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         },
         {
           "name": "Silvio Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        },
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
-        },
-        {
-          "name": "Xoel L\u00f3pez",
-          "url": "https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx"
         }
       ],
-      "duration_ms": 178811,
-      "name": "Para Aute: Pasaba por Aqu\u00ed (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodr\u00edguez, Vanesa Martin & Xoel L\u00f3pez)",
-      "url": "https://open.spotify.com/track/7D9idjcIEbErDKK2vtUM2D"
+      "duration_ms": 192840,
+      "name": "Lucia (with Silvio Rodr\u00edguez)",
+      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
     },
     {
       "added_at": "2025-05-01 22:00:22",
@@ -935,26 +955,6 @@
       "duration_ms": 390861,
       "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
       "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
-    },
-    {
-      "added_at": "2025-05-01 22:00:22",
-      "album": {
-        "name": "Antolog\u00eda Desordenada",
-        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Lucia (with Silvio Rodr\u00edguez)",
-      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
     },
     {
       "added_at": "2025-05-01 22:00:22",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-05-01 22:00:22",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+    },
+    {
+      "added_at": "2025-05-01 22:00:22",
+      "album": {
         "name": "Amigos M\u00edos",
         "url": "https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 278920,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/1fsNhKJoPB4sHd3bVL1bcw"
-    },
-    {
-      "added_at": "2025-05-01 22:00:22",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2025-05-01 22:00:22",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-05-01 22:00:22",
       "album": {
-        "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
-        "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Soy un Coraz\u00f3n Tendido al Sol",
-      "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
-    },
-    {
-      "added_at": "2025-05-01 22:00:22",
-      "album": {
         "name": "Ben poca cosa tens",
         "url": "https://open.spotify.com/album/4eBnmtZBcmN8eGCALV5SdL"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 224293,
       "name": "Verde Selva",
       "url": "https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e"
+    },
+    {
+      "added_at": "2025-05-01 22:00:22",
+      "album": {
+        "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
+        "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 264493,
+      "name": "Soy un Coraz\u00f3n Tendido al Sol",
+      "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
     },
     {
       "added_at": "2025-05-01 22:00:22",
@@ -1723,38 +1723,6 @@
     {
       "added_at": "2025-05-01 22:00:22",
       "album": {
-        "name": "sentimentalmente",
-        "url": "https://open.spotify.com/album/6hf5Dgbd5Ctw8asP3JQJQ4"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198860,
-      "name": "sentimentalmente",
-      "url": "https://open.spotify.com/track/5DvhhvHDnSthUXEbdeWzks"
-    },
-    {
-      "added_at": "2025-05-01 22:00:22",
-      "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
-    },
-    {
-      "added_at": "2025-05-01 22:00:22",
-      "album": {
         "name": "Ajuste de cuentas",
         "url": "https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze"
       },
@@ -1783,6 +1751,38 @@
       "duration_ms": 365986,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
+    },
+    {
+      "added_at": "2025-05-01 22:00:22",
+      "album": {
+        "name": "sentimentalmente",
+        "url": "https://open.spotify.com/album/6hf5Dgbd5Ctw8asP3JQJQ4"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198860,
+      "name": "sentimentalmente",
+      "url": "https://open.spotify.com/track/5DvhhvHDnSthUXEbdeWzks"
+    },
+    {
+      "added_at": "2025-05-01 22:00:22",
+      "album": {
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
     },
     {
       "added_at": "2025-05-01 22:00:22",

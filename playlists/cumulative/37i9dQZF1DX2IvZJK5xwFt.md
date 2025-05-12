@@ -2,7 +2,7 @@
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Linkin Park
+> Only the best rock in the world\. Cover: Sleep Token
 
 761 songs - 1 day 23 hr 15 min
 

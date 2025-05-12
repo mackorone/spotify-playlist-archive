@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 May 18:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 May 22:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -5756,7 +5756,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 338718,
       "name": "Ashes to Ashes - triple j Like A Version",
       "url": "https://open.spotify.com/track/7xwjujhWNV0qamgR3bi7xZ"
@@ -18659,6 +18659,28 @@
     },
     {
       "album": {
+        "name": "Dance!",
+        "url": "https://open.spotify.com/album/4SDP4cjecVJyK4Y7dJSRHL"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Dance!",
+      "url": "https://open.spotify.com/track/70GR0y0UQoWDOzApauQqpN"
+    },
+    {
+      "album": {
         "name": "Dancing At The Edge Of The World",
         "url": "https://open.spotify.com/album/4vZriq52cx6wFPZNaM9xAu"
       },
@@ -20030,7 +20052,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 193869,
       "name": "DELILAH",
       "url": "https://open.spotify.com/track/5g4Bh7TJ8dM8dCfGsD7822"
@@ -30820,7 +30842,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 370111,
       "name": "Gifted Every Strength",
       "url": "https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG"
@@ -58473,6 +58495,24 @@
     },
     {
       "album": {
+        "name": "panopticon",
+        "url": "https://open.spotify.com/album/0QcPoxMh227G4YWq3jdQ8j"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192166,
+      "name": "panopticon",
+      "url": "https://open.spotify.com/track/5MdZPTbHLggf36hH3MC3Jl"
+    },
+    {
+      "album": {
         "name": "Panzerhenker",
         "url": "https://open.spotify.com/album/71HnTttNkzSmCmu9pMXcdA"
       },
@@ -78466,6 +78506,24 @@
       "duration_ms": 173952,
       "name": "The Table",
       "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
+    },
+    {
+      "album": {
+        "name": "The Tales of War",
+        "url": "https://open.spotify.com/album/2j4QjsX5LnrSlSomQDYeRz"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308500,
+      "name": "The Tales of War",
+      "url": "https://open.spotify.com/track/1hOOJBNK0fuRIyEytMkx07"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,026 likes - 47 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,367 likes - 48 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 43 | [Only Be You](https://open.spotify.com/track/6iXHlTPVvInzbn4IvSyODa) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 3:42 |
 | 44 | [1234](https://open.spotify.com/track/15uR6InJEo9zyl9DgVQTz0) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/0N8aFQLSzan3WfsyEnRjQ8) | 2:49 |
 | 45 | [Why Not Me](https://open.spotify.com/track/5KKzX8oO0W8K93M4is7wqO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 3:26 |
-| 46 | [RIDE](https://open.spotify.com/track/1BAR3lqgKTu0S0U90m1pWp) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [RIDE](https://open.spotify.com/album/1tOICJrRkzgJOhtdPiqeU7) | 4:17 |
-| 47 | [Summer Love](https://open.spotify.com/track/3u0EAF4zydCzw5wKFFqJdD) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 3:40 |
+| 46 | [B.I.G.](https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:47 |
+| 47 | [RIDE](https://open.spotify.com/track/1BAR3lqgKTu0S0U90m1pWp) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [RIDE](https://open.spotify.com/album/1tOICJrRkzgJOhtdPiqeU7) | 4:17 |
+| 48 | [Summer Love](https://open.spotify.com/track/3u0EAF4zydCzw5wKFFqJdD) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 3:40 |
 
-Snapshot ID: `aB1FgAAAAADGX1OvmIr1dm8bkORpBMeI`
+Snapshot ID: `aB6XAAAAAADIL2UCe5v5eklpImcOBjB6`

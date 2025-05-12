@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 
 > Adormecer ao som relaxante da chuva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,491 likes - 300 songs - 13 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,579 likes - 300 songs - 13 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 28 | [Get Away Rain](https://open.spotify.com/track/4MRSkeZDLve6VCSTOvKa45) | [Freyr](https://open.spotify.com/artist/0UXi91La4FUOmdfH5X4pIG) | [Misty Rain](https://open.spotify.com/album/2ZTBbqsjjp5b7tvSGcWWQu) | 3:28 |
 | 29 | [rAin](https://open.spotify.com/track/2k0Uey3IUXsazhtmGCd9XJ) | [Rain](https://open.spotify.com/artist/7yS3860cHbWTQetLkezjEi) | [rAin](https://open.spotify.com/album/5Wbqx69NTO4n4enBUttJNf) | 3:22 |
 | 30 | [Garasia Rain Forest](https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6) | [Literrain](https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw) | [Garasia Rain Forest](https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz) | 2:07 |
-| 31 | [rain in stavanger](https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in stavanger](https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m) | 3:28 |
-| 32 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 |
-| 33 | [Blooming In Rain](https://open.spotify.com/track/5kKKlThKApoonAvm7tUFKm) | [Drophic](https://open.spotify.com/artist/3mboCTSEdeqTFJgRg6a9Fj) | [Mostly Just Rain](https://open.spotify.com/album/4O0P4IHgzILfzLay0jsbpY) | 2:21 |
+| 31 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 |
+| 32 | [Blooming In Rain](https://open.spotify.com/track/5kKKlThKApoonAvm7tUFKm) | [Drophic](https://open.spotify.com/artist/3mboCTSEdeqTFJgRg6a9Fj) | [Mostly Just Rain](https://open.spotify.com/album/4O0P4IHgzILfzLay0jsbpY) | 2:21 |
+| 33 | [rain in stavanger](https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in stavanger](https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m) | 3:28 |
 | 34 | [Quality Rain](https://open.spotify.com/track/6wylgOavjiq5DxfwrBWDJp) | [Rain Recordings](https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID) | [Rain Storms](https://open.spotify.com/album/7ipI3unaq9JtibJGg74yCQ) | 2:16 |
 | 35 | [Rain On The Cobblestone](https://open.spotify.com/track/5jCwTeQv8DXJzsMmzv0qYi) | [Royal Rain](https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe) | [Rain On The Cobblestone](https://open.spotify.com/album/4zi0Wh076joFe9HESotzxP) | 3:41 |
 | 36 | [Eye Of The Storm](https://open.spotify.com/track/6pxSZmtSm4GygcOKcxkV5D) | [Thunder In Paradise](https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX) | [Episode One](https://open.spotify.com/album/0LmoB3rBXBGCdEDquHXKmA) | 3:46 |
@@ -259,8 +259,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 249 | [Thunder Flow](https://open.spotify.com/track/1r5Ep4NrQFWD6mrGmW9jzB) | [Skyscration](https://open.spotify.com/artist/2uliIyMyLnG5zT7gV095uG) | [Storm Of The Sea](https://open.spotify.com/album/7DXWehfNqqbfXEYWnzt1z9) | 2:27 |
 | 250 | [The Mystique Sounds Of Nature](https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w) | [Moods & Water sounds](https://open.spotify.com/artist/4S8KHt6NF6LYdzJwba3vMp) | [Moods & Water sounds](https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi) | 2:24 |
 | 251 | [Nearing Thunder](https://open.spotify.com/track/5Heunc5NwiwE5R1xX9Rt3N) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Stormy Mornings](https://open.spotify.com/album/2eQzSgqbEh2uw4smilbRHr) | 3:28 |
-| 252 | [Rain On The Lake](https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain On The Lake](https://open.spotify.com/album/0B1aCViIMUFAUgs5vtlfx1) | 3:02 |
-| 253 | [Breeze, Light Rain, Thunder](https://open.spotify.com/track/7AEqfRTwTJfHqk0OcVTDEj) | [Mother Nature Recordings](https://open.spotify.com/artist/2XVbrQz4APKq6tqZqGb2Gz) | [Bad Day Weather](https://open.spotify.com/album/5xGfczFFUpJ71WmFJvorEI) | 2:18 |
+| 252 | [Breeze, Light Rain, Thunder](https://open.spotify.com/track/7AEqfRTwTJfHqk0OcVTDEj) | [Mother Nature Recordings](https://open.spotify.com/artist/2XVbrQz4APKq6tqZqGb2Gz) | [Bad Day Weather](https://open.spotify.com/album/5xGfczFFUpJ71WmFJvorEI) | 2:18 |
+| 253 | [Rain On The Lake](https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain On The Lake](https://open.spotify.com/album/0B1aCViIMUFAUgs5vtlfx1) | 3:02 |
 | 254 | [Rainy Stoop](https://open.spotify.com/track/4ydNgtF9wusuw2CPFvofnH) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain in Spring](https://open.spotify.com/album/2fe8KZKkPyGCvlH1uthPIh) | 2:24 |
 | 255 | [Rain & Distant Thunder](https://open.spotify.com/track/4LH3hYpqzwfX22Au9ghCPU) | [Essential Nature Sounds](https://open.spotify.com/artist/5VhOnYoFtMQVsuUJMfXk0M) | [Dark Rain & Deep Thunder](https://open.spotify.com/album/57ur6LcL32QEuI2PXgZ0yK) | 4:41 |
 | 256 | [Friskt Regn](https://open.spotify.com/track/1baZVsKUgC1Uisoz0Cq6Ih) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Regn](https://open.spotify.com/album/0mr6zgZL3NGZfJWH0Q9OCr) | 2:59 |

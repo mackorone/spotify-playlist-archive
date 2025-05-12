@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-359 songs - 20 hr 10 min
+360 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Blinded](https://open.spotify.com/track/0E1hEbTq833Aqaq4pBn8yo) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Blinded](https://open.spotify.com/album/4l2DoTsXaoMwZc23jGsp2B) | 3:32 | 2023-02-27 | 2023-04-28 |
 | [Blinded](https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Blinded](https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v) | 3:32 | 2022-06-06 | 2023-01-07 |
 | [Blue](https://open.spotify.com/track/0DeERXbSE5amnnFx5MSycO) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Blue](https://open.spotify.com/album/2V5sPS4x8LB3H7q3Q00Cjn) | 3:29 | 2023-03-06 | 2023-03-14 |
+| [Blue](https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Blue](https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y) | 3:40 | 2025-05-11 |  |
 | [body](https://open.spotify.com/track/6EFlWDyNzOQZjoo8dIuYGb) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0) | [body](https://open.spotify.com/album/2duD8w8XxzQ2NKmeIDe5QN) | 3:17 | 2024-04-22 | 2024-05-26 |
 | [Boyfriend](https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [FITS](https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g) | 2:18 | 2024-11-09 | 2025-02-28 |
 | [Break Me.](https://open.spotify.com/track/3XmIJ09BsBdqeDPxYcu3m3) | [Mood.](https://open.spotify.com/artist/3C6yGCM7b8QAjs1fTrEguw) | [Break Me.](https://open.spotify.com/album/7uuSPVQe5FKPQruNG9sClB) | 3:05 | 2022-07-11 | 2022-07-17 |
@@ -341,7 +342,7 @@
 | [untitled \(what's it gonna be\)](https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4) | [thecolorfractal](https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [untitled \(what's it gonna be\)](https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS) | 4:10 | 2022-06-06 |  |
 | [Use Me](https://open.spotify.com/track/4TF8goaI3qmoRHTq61qmtx) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk) | [Use Me](https://open.spotify.com/album/4AmYRXgAs8RpWppl7s63lk) | 4:00 | 2022-06-06 | 2022-07-29 |
 | [Vertigo](https://open.spotify.com/track/5Hje2TsqtKgPGADigZzpUr) | [Menchaca](https://open.spotify.com/artist/3DyMzyZlwWHxfuY6WJQAgf) | [Vertigo](https://open.spotify.com/album/4htIxETvvVEOUZbgaowI3Q) | 3:27 | 2022-06-06 | 2022-07-28 |
-| [Virtual Lover](https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Virtual Lover](https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr) | 2:54 | 2022-06-06 |  |
+| [Virtual Lover](https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Virtual Lover](https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr) | 2:54 | 2022-06-06 | 2025-05-12 |
 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2023-05-22 | 2025-03-03 |
 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 | 2022-07-25 |  |
 | [Walk Long](https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir) | [Psylo](https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI), [KINIDA](https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB) | [Walk Long](https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ) | 4:08 | 2025-02-17 |  |

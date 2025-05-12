@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 36372,
+  "num_followers": 36376,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAAJt8EFUACeAJkG1R9XmAx9",
+  "snapshot_id": "aB6XAAAAAADFFf3FAfm7H1m50qeWsr4g",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trash Bat",
-        "url": "https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 127625,
-      "name": "Trash Bat",
-      "url": "https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shut Your Mouth And Open Your Eyes",
         "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 93706,
       "name": "Three Reasons",
       "url": "https://open.spotify.com/track/3buW09qkN0WsPWmeStXdDC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trash Bat",
+        "url": "https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 127625,
+      "name": "Trash Bat",
+      "url": "https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz"
     }
   ],
   "unique_name": "This Is AFI",

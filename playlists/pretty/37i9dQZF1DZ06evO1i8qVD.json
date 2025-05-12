@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 35625,
+  "num_followers": 35645,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAAvfadJDBHLSks8MDVf0ynA",
+  "snapshot_id": "aB6XAAAAAADuDgXcN15IKS+6MJVE1VIz",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Don't Lie",
-        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Follow The Money (feat. James Taylor)",
-      "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 197946,
       "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Don't Lie",
+        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Follow The Money (feat. James Taylor)",
+      "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 276293,
+      "name": "All That Makes Me Happy Is the Blues",
+      "url": "https://open.spotify.com/track/7hsbxGPIEBr9G2wP9cTO2L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Man Standing",
         "url": "https://open.spotify.com/album/3DL8TS4vqj6jVeyCnbMdgn"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 212800,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/1ra4PQfZO9AbLTT0V8xu1D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 276293,
-      "name": "All That Makes Me Happy Is the Blues",
-      "url": "https://open.spotify.com/track/7hsbxGPIEBr9G2wP9cTO2L"
     },
     {
       "added_at": null,

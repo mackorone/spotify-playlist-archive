@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 10664,
+  "num_followers": 10701,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "FERXXO 151",
-        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ICON",
-          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "FERXXO 151",
-      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Te Maceto Depois Do Baile",
         "url": "https://open.spotify.com/album/5I53yrG2qfaC9LtZKze0xw"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 181578,
       "name": "BELLA",
       "url": "https://open.spotify.com/track/7flg5peNvW82lmpT6nVtbZ"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "FERXXO 151",
+        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "FERXXO 151",
+      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 202967,
-      "name": "CALENT\u00d3N",
-      "url": "https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Chismofilia",
         "url": "https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 150485,
       "name": "Maradona (Tatara)",
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 202967,
+      "name": "CALENT\u00d3N",
+      "url": "https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1475,30 +1475,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG Tropicana",
-        "url": "https://open.spotify.com/album/7wVMhb43j1AzGLM1Ek8HwX"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Loirin prod",
-          "url": "https://open.spotify.com/artist/0SgHuOMfN5sYzxKYMAHhvJ"
-        },
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 105114,
-      "name": "MTG Tropicana",
-      "url": "https://open.spotify.com/track/5Dki7m3M8mJR1ozN3Mkep4"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Mtg \u00c9 Sempre Assim",
         "url": "https://open.spotify.com/album/3qMozrdsRzEyAgIQpcQNBz"
       },
@@ -1607,6 +1583,30 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MTG Tropicana",
+        "url": "https://open.spotify.com/album/7wVMhb43j1AzGLM1Ek8HwX"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Loirin prod",
+          "url": "https://open.spotify.com/artist/0SgHuOMfN5sYzxKYMAHhvJ"
+        },
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 105114,
+      "name": "MTG Tropicana",
+      "url": "https://open.spotify.com/track/5Dki7m3M8mJR1ozN3Mkep4"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Toco el Cielo",
         "url": "https://open.spotify.com/album/2jWj6KsoXN1R3gRPjcuYzT"
       },
@@ -1643,34 +1643,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG - Base da Maldade",
-        "url": "https://open.spotify.com/album/2hyAD5RsGlkRNrFP5lHU1g"
-      },
-      "artists": [
-        {
-          "name": "Dj Leo Lg",
-          "url": "https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Dj Dg Do Rb",
-          "url": "https://open.spotify.com/artist/7hcLgowsbmmUxHXPmrKHnA"
-        },
-        {
-          "name": "DJ TH DO PRIMEIRO",
-          "url": "https://open.spotify.com/artist/0GdMuH0u9HyAz8cLvmg7gD"
-        }
-      ],
-      "duration_ms": 116538,
-      "name": "MTG - Base da Maldade",
-      "url": "https://open.spotify.com/track/0YgVM20w0W2Xe4hw2vTibU"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "De Volta Ao Game",
         "url": "https://open.spotify.com/album/6IaOp7KexxCF8uyKtr6VxD"
       },
@@ -1699,6 +1671,34 @@
       "duration_ms": 147692,
       "name": "MTG Ela s\u00f3 Quer",
       "url": "https://open.spotify.com/track/2O5G3UQiqzxumbFjLGWVOc"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG - Base da Maldade",
+        "url": "https://open.spotify.com/album/2hyAD5RsGlkRNrFP5lHU1g"
+      },
+      "artists": [
+        {
+          "name": "Dj Leo Lg",
+          "url": "https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Dj Dg Do Rb",
+          "url": "https://open.spotify.com/artist/7hcLgowsbmmUxHXPmrKHnA"
+        },
+        {
+          "name": "DJ TH DO PRIMEIRO",
+          "url": "https://open.spotify.com/artist/0GdMuH0u9HyAz8cLvmg7gD"
+        }
+      ],
+      "duration_ms": 116538,
+      "name": "MTG - Base da Maldade",
+      "url": "https://open.spotify.com/track/0YgVM20w0W2Xe4hw2vTibU"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2851,26 +2851,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG Escrito Nas Estrelas",
-        "url": "https://open.spotify.com/album/38Vv1bMPoktvivP4KOwLk1"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "MTG Escrito Nas Estrelas",
-      "url": "https://open.spotify.com/track/3O4ypwGN1urKFzO9jIoq8Z"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "GOZANDO",
         "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
       },
@@ -2891,6 +2871,26 @@
       "duration_ms": 171692,
       "name": "GOZANDO",
       "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG Escrito Nas Estrelas",
+        "url": "https://open.spotify.com/album/38Vv1bMPoktvivP4KOwLk1"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "MTG Escrito Nas Estrelas",
+      "url": "https://open.spotify.com/track/3O4ypwGN1urKFzO9jIoq8Z"
     },
     {
       "added_at": "2024-09-30 22:44:34",

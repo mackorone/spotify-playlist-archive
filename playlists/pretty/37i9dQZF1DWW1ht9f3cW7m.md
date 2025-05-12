@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > sweet and fresh emerging indie pop, featuring Spacey Jane 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,978 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,981 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 40 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
 | 41 | [Pacemaker](https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Pacemaker](https://open.spotify.com/album/620asHETGznhXwYUUFP3TB) | 3:09 |
 | 42 | [to be free](https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [to be free](https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI) | 3:50 |
-| 43 | [kissing for practice](https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [kissing for practice](https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG) | 3:29 |
-| 44 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
-| 45 | [Popstar of Your Dreams](https://open.spotify.com/track/2EXoykjKLC5A4RjKs9gpYx) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Popstar of Your Dreams](https://open.spotify.com/album/3ipC2tIuK15IhTbTPMuxl5) | 3:11 |
-| 46 | [Snug as a Bug](https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [Snug as a Bug](https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn) | 2:59 |
-| 47 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 |
+| 43 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 |
+| 44 | [kissing for practice](https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [kissing for practice](https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG) | 3:29 |
+| 45 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
+| 46 | [Popstar of Your Dreams](https://open.spotify.com/track/2EXoykjKLC5A4RjKs9gpYx) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Popstar of Your Dreams](https://open.spotify.com/album/3ipC2tIuK15IhTbTPMuxl5) | 3:11 |
+| 47 | [Snug as a Bug](https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [Snug as a Bug](https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn) | 2:59 |
 | 48 | [Weather's Better](https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Weather's Better](https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5) | 2:52 |
 | 49 | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/track/0Onrt3Z8Q1AKS1KbhtyD9I) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/album/41DncHDKfjpnIUmbDMiFWb) | 3:45 |
 | 50 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 |

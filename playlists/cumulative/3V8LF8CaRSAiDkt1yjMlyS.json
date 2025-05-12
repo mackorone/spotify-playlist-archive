@@ -1787,6 +1787,28 @@
     },
     {
       "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/0e6qZL9jz1GrdAiXMJSXIx"
+      },
+      "artists": [
+        {
+          "name": "Ben Dore",
+          "url": "https://open.spotify.com/artist/0luznloPrQXtkA31xoNmwn"
+        },
+        {
+          "name": "Kadr\u00e9",
+          "url": "https://open.spotify.com/artist/4NOtHvikhqWiIWdRlO5XA2"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122357,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/3vmENB7t4tDkFMaEWBnaQX"
+    },
+    {
+      "album": {
         "name": "laleconparticulere.",
         "url": "https://open.spotify.com/album/4koTRhv7vJHays2gNvf31v"
       },

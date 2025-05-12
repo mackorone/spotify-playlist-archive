@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Simiran Kaur Dhadli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,350,513 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350,658 likes - 101 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 33 | [Main Hi Kyon](https://open.spotify.com/track/2Cpjt0KPjtyfp8z96Iz3NS) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7) | [Main Hi Kyon](https://open.spotify.com/album/1MBWAEMYBtEPgLtSZIKDjP) | 2:33 |
 | 34 | [Snake](https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Snake](https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip) | 2:20 |
 | 35 | [LEVEL](https://open.spotify.com/track/3Som8HXULC5zwyCF4w754j) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [LEVEL](https://open.spotify.com/album/2LGsxAFGP9c2BPgP9r2m5M) | 2:35 |
-| 36 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Arjan Virk](https://open.spotify.com/artist/3W4K6YoTzt7G6jc2rtNIbY) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |
+| 36 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Arjan Virk](https://open.spotify.com/artist/3W4K6YoTzt7G6jc2rtNIbY), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |
 | 37 | [Qatal](https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:51 |
 | 38 | [Aaye Haaye \(Feat\. Nora Fatehi\)](https://open.spotify.com/track/6uwfPoH4JwdtD9b4mjZeZz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Aaye Haaye \(Feat\. Nora Fatehi\)](https://open.spotify.com/album/7hBrHnIBbiPhV0mCKZZvdC) | 3:15 |
 | 39 | [Got You](https://open.spotify.com/track/7mJ2BANWY4PnWtfsQWzn6C) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshaan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Got You](https://open.spotify.com/album/6UesXENuAbvKpwjDgkWEaE) | 3:42 |

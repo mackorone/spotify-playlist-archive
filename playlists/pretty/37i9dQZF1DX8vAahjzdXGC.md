@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ziva Magnolya, Miley Cyrus, Tyla, hingga Rafi Sudirman
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,777 likes - 105 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,823 likes - 105 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq?si=CztMo0noQZilaYAlU7c8Xw"> Nami</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,717 likes - 399 songs - 20 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,779 likes - 399 songs - 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

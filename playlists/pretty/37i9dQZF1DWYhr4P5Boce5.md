@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,793 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,816 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 42 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
 | 43 | [God Made You \(feat\. Kieran the Light\)](https://open.spotify.com/track/2j4HLLqfgkeXLK00uAoIKK) | [2 Lane Summer](https://open.spotify.com/artist/1lpP9gqecnWWWZntVDa391), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1) | [God Made You \(feat\. Kieran the Light\)](https://open.spotify.com/album/44xQdFrxHxdJHAFjDznLdi) | 3:22 |
 | 44 | [Meant to Be](https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Meant to Be](https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY) | 3:06 |
-| 45 | [Better Man](https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? +](https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e) | 3:09 |
-| 46 | [My Type](https://open.spotify.com/track/6vX2IUh9nqJuKYxqxAfZYr) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [My Type](https://open.spotify.com/album/7bbkvh7hnBKO3eyXZnD7xb) | 2:25 |
-| 47 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 |
+| 45 | [My Type](https://open.spotify.com/track/6vX2IUh9nqJuKYxqxAfZYr) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [My Type](https://open.spotify.com/album/7bbkvh7hnBKO3eyXZnD7xb) | 2:25 |
+| 46 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 |
+| 47 | [Better Man](https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? +](https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e) | 3:09 |
 | 48 | [I'll Wait For You](https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Brave](https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f) | 3:46 |
 | 49 | [Angel](https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 3:44 |
 | 50 | [Don't Deserve You](https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:11 |

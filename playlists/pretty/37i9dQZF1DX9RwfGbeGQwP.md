@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,062 likes - 300 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,130 likes - 300 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 71 | [It hasn't rained in like this in years](https://open.spotify.com/track/6Cm89dtQ8Is63NmkNcb5ha) | [rollerbladie](https://open.spotify.com/artist/2v1qbZxflMpzbTQSQfmwah) | [It hasn't rained in like this in years](https://open.spotify.com/album/2KFQ1RLysJsdKvG2XBk0Hz) | 2:24 |
 | 72 | [aldo](https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [Aldo](https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1) | 2:11 |
 | 73 | [fogata](https://open.spotify.com/track/3WYeJ4DRymjJ9y2XjVui3C) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [fogata](https://open.spotify.com/album/7uIzkfXliaEnoB3BqLvRih) | 2:09 |
-| 74 | [eggplants & oregano](https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [eggplants & oregano](https://open.spotify.com/album/1xqBqzSAxguUoi25iST312) | 1:37 |
-| 75 | [Oysterz](https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [ramen noodles](https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx) | 2:21 |
-| 76 | [Palette](https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Palette](https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy) | 2:23 |
+| 74 | [Palette](https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Palette](https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy) | 2:23 |
+| 75 | [eggplants & oregano](https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [eggplants & oregano](https://open.spotify.com/album/1xqBqzSAxguUoi25iST312) | 1:37 |
+| 76 | [Oysterz](https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [ramen noodles](https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx) | 2:21 |
 | 77 | [good times](https://open.spotify.com/track/32gMxI1qGmOK0Rfaxqrufn) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [good times](https://open.spotify.com/album/2NXPvtH4gusbeXOPpORfrN) | 2:24 |
 | 78 | [Raindrops on Loops](https://open.spotify.com/track/3ELOos1ox4ZvVM5YOqJcT8) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Raindrops on Loops](https://open.spotify.com/album/28eXQS0MuALkaDVvtM4MVd) | 2:07 |
 | 79 | [Monolo](https://open.spotify.com/track/4TG8tf21DAiKmXWhWNY0eI) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Monolome](https://open.spotify.com/album/4eIHkEFDSzIJNjdCBLHpzI) | 2:07 |
@@ -267,11 +267,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 257 | [caffeine](https://open.spotify.com/track/2bImrY3LXxj72uneLO4pp0) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [caffeine](https://open.spotify.com/album/5yptCJok2t4x94m9wtuRQ3) | 2:11 |
 | 258 | [Petula Thomas](https://open.spotify.com/track/34buaMEM4YjE8xsbX1L7PL) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Angels Below](https://open.spotify.com/album/3nkx7BWx32cqXUVIrKEQwv) | 2:28 |
 | 259 | [Superlative.](https://open.spotify.com/track/47WDjkfyJk8KcJgDKn8kGU) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Superlative.](https://open.spotify.com/album/4wo2VbqVw98Bx6zfcghYn7) | 2:28 |
-| 260 | [Windows Down Please](https://open.spotify.com/track/0PvlcijhpAcsJt0a0sv48p) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Windows Down Please](https://open.spotify.com/album/27NSyKkHjFnOoTyBH7rBKA) | 2:03 |
-| 261 | [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 |
-| 262 | [With Nature & Jazz](https://open.spotify.com/track/2Y3U5hYqX7dzOWqAHAuRG7) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [With Nature & Jazz](https://open.spotify.com/album/27YoqMmwlaOs7bIcrvktbY) | 1:55 |
-| 263 | [wheel2wheel](https://open.spotify.com/track/0TfKydTLI9ZZt0rPjiAZZa) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [wheel2wheel](https://open.spotify.com/album/7jcbLFAhki4ph2lTLB8fgL) | 2:46 |
-| 264 | [Keylime](https://open.spotify.com/track/0s931sIOkTk08MYKR0Emvb) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Keylime](https://open.spotify.com/album/6reKLiAp7QID3jRTbhYLJx) | 2:08 |
+| 260 | [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 |
+| 261 | [With Nature & Jazz](https://open.spotify.com/track/2Y3U5hYqX7dzOWqAHAuRG7) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [With Nature & Jazz](https://open.spotify.com/album/27YoqMmwlaOs7bIcrvktbY) | 1:55 |
+| 262 | [wheel2wheel](https://open.spotify.com/track/0TfKydTLI9ZZt0rPjiAZZa) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [wheel2wheel](https://open.spotify.com/album/7jcbLFAhki4ph2lTLB8fgL) | 2:46 |
+| 263 | [Keylime](https://open.spotify.com/track/0s931sIOkTk08MYKR0Emvb) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Keylime](https://open.spotify.com/album/6reKLiAp7QID3jRTbhYLJx) | 2:08 |
+| 264 | [Windows Down Please](https://open.spotify.com/track/0PvlcijhpAcsJt0a0sv48p) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Windows Down Please](https://open.spotify.com/album/27NSyKkHjFnOoTyBH7rBKA) | 2:03 |
 | 265 | [Pressure](https://open.spotify.com/track/4vAz4u1ThUJULhu7wySGrs) | [PRODA](https://open.spotify.com/artist/2wKsHaG2GNyzDYW3nhDlJZ) | [Pressure](https://open.spotify.com/album/3NOAjaGP9BiEuyN5jUaPSE) | 2:34 |
 | 266 | [Foil](https://open.spotify.com/track/22Ao5rxOyEjgzPlZu21AZa) | [Robot Age](https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H) | [Foil](https://open.spotify.com/album/4oDsFrfSMfYn6rspURihaa) | 2:02 |
 | 267 | [What's For Dessert?](https://open.spotify.com/track/3yGIwZB68iW9gjK0ggNG7S) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [What's For Dessert?](https://open.spotify.com/album/2F7iRgvwoFXOvgpK4tCNNZ) | 2:43 |

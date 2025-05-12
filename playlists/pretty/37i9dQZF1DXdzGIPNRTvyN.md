@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,128 likes - 193 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,589 likes - 193 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 12 | [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 |
 | 13 | [Swells of Peace](https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Swells of Peace](https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF) | 2:23 |
 | 14 | [Inner Universe](https://open.spotify.com/track/0pVsJoZUEO92yJrRmCb6Fe) | [Aurora Season](https://open.spotify.com/artist/6XEW2LnRmQUNPfTajKwImZ) | [Inner Universe](https://open.spotify.com/album/6J0yt0cvJfJxtsEPfe1DFh) | 2:52 |
-| 15 | [Tamber](https://open.spotify.com/track/48d93hJAYO1AXulXARqTYO) | [Hulu Otto](https://open.spotify.com/artist/0b2hSNgC94dVrDmvJBqd84) | [Tamber](https://open.spotify.com/album/6Q582niAm4psDFt9W8Lqyo) | 3:04 |
-| 16 | [Peaceful Waters](https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Peaceful Waters](https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj) | 2:33 |
-| 17 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
+| 15 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
+| 16 | [Tamber](https://open.spotify.com/track/48d93hJAYO1AXulXARqTYO) | [Hulu Otto](https://open.spotify.com/artist/0b2hSNgC94dVrDmvJBqd84) | [Tamber](https://open.spotify.com/album/6Q582niAm4psDFt9W8Lqyo) | 3:04 |
+| 17 | [Peaceful Waters](https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Peaceful Waters](https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj) | 2:33 |
 | 18 | [Grounding Springs](https://open.spotify.com/track/3srrw4VMffkHy5xyVS0xIK) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Grounding Springs](https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil) | 2:54 |
 | 19 | [Casuarina Calm](https://open.spotify.com/track/5syn43yn7MgCy4XMLgiAUl) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Casuarina Calm](https://open.spotify.com/album/067IKmHN7ANBq6tum4tST9) | 2:55 |
 | 20 | [Little Rabbit](https://open.spotify.com/track/4ANwAzJKUZv8n3DmUkOv6b) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Little Rabbit](https://open.spotify.com/album/5bU0ZA8rrJumX16meqGpSV) | 3:07 |
@@ -192,10 +192,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 182 | [Equilibrium \(432 Hz\)](https://open.spotify.com/track/1OEENaIBAy5lcmVM5Qzrkk) | [Astral Yu](https://open.spotify.com/artist/4T5QX9jKXqbgoXxQ1IlecR) | [Equilibrium \(432 Hz\)](https://open.spotify.com/album/7foHel5iyncJ9SwoaQr2fV) | 2:39 |
 | 183 | [Seraphyne](https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Seraphyne](https://open.spotify.com/album/6WTzBM0MQ94K7gQXxZqbFK) | 3:21 |
 | 184 | [Rivulet](https://open.spotify.com/track/5g3Yz3pnKESzTApUUhwV5U) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Rivulet](https://open.spotify.com/album/6VZUTEpAcrttetZxwcDrBa) | 2:41 |
-| 185 | [Aurora Drift](https://open.spotify.com/track/5aXR2QnrHrjQ1xffArqr50) | [Enchanted Blossom](https://open.spotify.com/artist/1SELOJexR8XfdtwAkVP6GI) | [Aurora Drift](https://open.spotify.com/album/3xO488RLRjpxjiwUbZhtA4) | 2:43 |
-| 186 | [Through the Forest](https://open.spotify.com/track/0oTdeagIaeCFi6f5kypFsm) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Through the Forest](https://open.spotify.com/album/4gWWUsdWzGa7ieooBBZKSO) | 3:02 |
-| 187 | [Recursive](https://open.spotify.com/track/70CElW5vR4cUlUbGiVJLky) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Recursive](https://open.spotify.com/album/1LJUcoa1MHNaJuOnuQwVds) | 2:40 |
-| 188 | [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 |
+| 185 | [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 |
+| 186 | [Aurora Drift](https://open.spotify.com/track/5aXR2QnrHrjQ1xffArqr50) | [Enchanted Blossom](https://open.spotify.com/artist/1SELOJexR8XfdtwAkVP6GI) | [Aurora Drift](https://open.spotify.com/album/3xO488RLRjpxjiwUbZhtA4) | 2:43 |
+| 187 | [Through the Forest](https://open.spotify.com/track/0oTdeagIaeCFi6f5kypFsm) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Through the Forest](https://open.spotify.com/album/4gWWUsdWzGa7ieooBBZKSO) | 3:02 |
+| 188 | [Recursive](https://open.spotify.com/track/70CElW5vR4cUlUbGiVJLky) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Recursive](https://open.spotify.com/album/1LJUcoa1MHNaJuOnuQwVds) | 2:40 |
 | 189 | [Silver & Gold](https://open.spotify.com/track/4OrQu62Uv8X5xW5nJ0Hhfr) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Silver & Gold](https://open.spotify.com/album/75MIeBFvynPkb13J6kjDmr) | 3:36 |
 | 190 | [Unfound](https://open.spotify.com/track/4KwXtiXE4aNAjzEoWybjnP) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Unfound](https://open.spotify.com/album/4MpFqknGk8oGkEC1WDapzE) | 3:11 |
 | 191 | [Solar Skies](https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Solar Skies](https://open.spotify.com/album/1cNfEsEpQg6o6Pw9z4EnZc) | 2:40 |

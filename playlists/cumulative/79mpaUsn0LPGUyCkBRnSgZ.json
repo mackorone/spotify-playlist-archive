@@ -8311,6 +8311,24 @@
     },
     {
       "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/3jo1GRqnwVlN23KUgcaCL9"
+      },
+      "artists": [
+        {
+          "name": "Girls",
+          "url": "https://open.spotify.com/artist/6eO95BjZhrWHREMfwC4vVN"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145293,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/2aN0YiOoQwe4Sjcu8Sgijw"
+    },
+    {
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },

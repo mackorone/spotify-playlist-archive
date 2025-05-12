@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: HITGS\(힛지스\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-476 songs - 1 day 2 hr 7 min
+477 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,8 +122,9 @@
 | [Dumhdurum](https://open.spotify.com/track/55kuHkT2CWhWKF6CoRDnJq) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [LOOK](https://open.spotify.com/album/49NKBZDb92AQlMFypkZRTF) | 3:28 | 2022-07-28 | 2023-12-22 |
 | [Dun Dun Dance](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:40 | 2021-11-29 | 2024-05-25 |
 | [dusk twilight \(feat.NATTY \(KISS OF LIFE\)\)](https://open.spotify.com/track/4wzzsbTftX8NPnhIV1kH3A) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [NATTY \(KISS OF LIFE\)](https://open.spotify.com/artist/4s8F1LKiyDPt0NacvMI7rx) | [dusk twilight 2024](https://open.spotify.com/album/1EOmX9zvLs5mF2ei16d2R7) | 3:23 | 2024-03-01 | 2024-03-16 |
+| [Echo](https://open.spotify.com/track/29sFqmK1SNaGhY8RTmMmpz) | [ablume](https://open.spotify.com/artist/4XvBehn5EnOEueirgtfIgj) | [Echo](https://open.spotify.com/album/7zfttfWarwucZwLgB0hkSP) | 3:14 | 2025-05-12 |  |
 | [Echo](https://open.spotify.com/track/4BQrEOiu5dLYNl7kpNRNvS) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [OH MY GIRL 6th Mini Album \[REMEMBER ME\]](https://open.spotify.com/album/5cWzZxmpNNedvZLCXnFE3E) | 3:32 | 2021-11-29 | 2022-05-07 |
-| [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-09-27 |  |
+| [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-09-27 | 2025-05-12 |
 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-03-28 | 2023-10-08 |
 | [EYE EYE EYES](https://open.spotify.com/track/46TqmmVnlsHbKWZUIKdoiI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SIGNAL](https://open.spotify.com/album/4VfP4RWW7MPg5hOCvIgUYE) | 2:55 | 2022-03-29 | 2022-04-13 |
 | [Falling for me](https://open.spotify.com/track/6OmGvc8VetzkeOZMqvNv8p) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Falling for me](https://open.spotify.com/album/4IJMfNU1dSiKjU8GvCrPs2) | 3:02 | 2023-11-06 | 2023-11-18 |

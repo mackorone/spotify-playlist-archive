@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: FRONC\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,825 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,830 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 9 | [อย่าฝากความเหงาไว้ที่ตัวฉัน](https://open.spotify.com/track/76omi5hCxOZmd2F3Y2U0c9) | [LingRom](https://open.spotify.com/artist/0c7t2Do6vXQAK1BT3FUYoq) | [อย่าฝากความเหงาไว้ที่ตัวฉัน](https://open.spotify.com/album/4Eg66CdNPr0thdE7QiiHrp) | 4:14 |
 | 10 | [เป็นตัวเองน่ะดีที่สุดแล้ว](https://open.spotify.com/track/3Urdm3AuiLQy8nTop05HXU) | [Shineboys](https://open.spotify.com/artist/6uwaUeUGXUp0l3oxEoto1K) | [เป็นตัวเองน่ะดีที่สุดแล้ว](https://open.spotify.com/album/3yasuxCn0jnM6TnCYqjX4T) | 2:27 |
 | 11 | [KON LA KON \(คนละคน\)](https://open.spotify.com/track/2dF92JkAbSoTwfgHMKJdqj) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [KON LA KON \(คนละคน\)](https://open.spotify.com/album/16282P8OPLHzPKBC9eKMIh) | 5:08 |
-| 12 | [ร่องรอย](https://open.spotify.com/track/1ToKAcsWBPb1dMGuWj8RUf) | [FRONC](https://open.spotify.com/artist/7ltYNVWO3BW7c1kaGjUOP1) | [ร่องรอย](https://open.spotify.com/album/5xpSD718hoU7uWAcN2aX3n) | 3:29 |
-| 13 | [สุขสันต์วันเกิดที่รัก](https://open.spotify.com/track/3avhz3l1mpnEkwpTJdpquq) | [Ta noppawit](https://open.spotify.com/artist/3ro89xckft4em5lVjaSzSt) | [สุขสันต์วันเกิดที่รัก](https://open.spotify.com/album/4j4oWeUU1knQsyf2McfRsi) | 4:01 |
+| 12 | [สุขสันต์วันเกิดที่รัก](https://open.spotify.com/track/3avhz3l1mpnEkwpTJdpquq) | [Ta noppawit](https://open.spotify.com/artist/3ro89xckft4em5lVjaSzSt) | [สุขสันต์วันเกิดที่รัก](https://open.spotify.com/album/4j4oWeUU1knQsyf2McfRsi) | 4:01 |
+| 13 | [ร่องรอย](https://open.spotify.com/track/1ToKAcsWBPb1dMGuWj8RUf) | [FRONC](https://open.spotify.com/artist/7ltYNVWO3BW7c1kaGjUOP1) | [ร่องรอย](https://open.spotify.com/album/5xpSD718hoU7uWAcN2aX3n) | 3:29 |
 | 14 | [Best Friend](https://open.spotify.com/track/3t0EwFuZj8OcXJCmilfPMo) | [Kmonvish Lawan](https://open.spotify.com/artist/1AuuBHlqk32vXrI5E3KAp9), [Rafiq Ridzwan](https://open.spotify.com/artist/79UiNuRg5UYL08XAHrOsdm) | [Best Friend](https://open.spotify.com/album/7MXQM8X8uJs8UsmAjzMiFy) | 4:04 |
 | 15 | [เมื่อเราถูกรัก \(จากใครสักคนที่ถูกเลี้ยงดูมาอย่างดี\)](https://open.spotify.com/track/3EwfaOLNINnYtkl1LBATjW) | [Alarm9](https://open.spotify.com/artist/1CVUCotEuE0NG4KiRGaYit) | [เมื่อเราถูกรัก \(จากใครสักคนที่ถูกเลี้ยงดูมาอย่างดี\)](https://open.spotify.com/album/47f9gn5eWnyfKPNJZWGT50) | 4:00 |
 | 16 | [Fallin!](https://open.spotify.com/track/1iDPiYbh6Ecjam8BEcmDKG) | [ELEVEN](https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN) | [Fallin!](https://open.spotify.com/album/3ipi1p2Lg7sdfdC3Xso8K1) | 3:36 |

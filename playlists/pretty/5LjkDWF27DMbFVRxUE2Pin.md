@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 
 > 
 
-[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 492 songs - 1 day 8 hr 13 min
+[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 494 songs - 1 day 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -500,5 +500,7 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 | 490 | [Something Is Afoot On Old Man McGrady's River \(Swampwater Version\)](https://open.spotify.com/track/1bZEU6rvGpIcxV4H1yWl0l) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Something Is Afoot On Old Man McGrady's River \(Swampwater Version\)](https://open.spotify.com/album/7lIqir36DIQKwMHfCJ2zy0) | 3:26 |
 | 491 | [If You Have Ghosts \- Live at the Forum / 2023](https://open.spotify.com/track/2bfudvuGIJ76M26uOtwR4w) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Rite Here Rite Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi) | 5:21 |
 | 492 | [Provider](https://open.spotify.com/track/7JVAVLkkhpKOp8g4jX5Z12) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:05 |
+| 493 | [Excelsis](https://open.spotify.com/track/5V66vAiCdcUuJYHuYlXprQ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 6:01 |
+| 494 | [Guiding Lights](https://open.spotify.com/track/314wHzW2tMlNIc4Wvguu8w) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 3:24 |
 
-Snapshot ID: `AAACSI9YXMfrkQmXzvcVtqt/bnGTNiyL`
+Snapshot ID: `AAACSg4GJTyqmtWVw5+BMNsncThwWyy6`

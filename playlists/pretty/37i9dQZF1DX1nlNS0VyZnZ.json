@@ -1,6 +1,6 @@
 {
   "description": "Tremendo vacil\u00f3n. Los \u00e9xitos del merengue de todos los tiempos.",
-  "num_followers": 26963,
+  "num_followers": 27005,
   "original_name": "Radio Merengue",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
+        "name": "La Llave De Mi Corazon",
+        "url": "https://open.spotify.com/album/6wwBmLiZ1qX0FvnABZfNFM"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "La Travesia",
+      "url": "https://open.spotify.com/track/47nD9EtDtUORYiLPDY4DeI"
+    },
+    {
+      "added_at": "2024-09-06 21:04:14",
+      "album": {
         "name": "Con Su Loquera",
         "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 255533,
       "name": "La Vaca",
       "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
-    },
-    {
-      "added_at": "2024-09-06 21:04:14",
-      "album": {
-        "name": "Vuelve el Merengue",
-        "url": "https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj"
-      },
-      "artists": [
-        {
-          "name": "Rubby Perez",
-          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
-        }
-      ],
-      "duration_ms": 296093,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg"
     },
     {
       "added_at": "2024-09-06 21:04:14",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/6wwBmLiZ1qX0FvnABZfNFM"
+        "name": "Vuelve el Merengue",
+        "url": "https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
         }
       ],
-      "duration_ms": 205586,
-      "name": "La Travesia",
-      "url": "https://open.spotify.com/track/47nD9EtDtUORYiLPDY4DeI"
+      "duration_ms": 296093,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg"
     },
     {
       "added_at": "2024-09-06 21:04:14",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286466,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
-    },
-    {
-      "added_at": "2024-09-06 21:04:14",
-      "album": {
         "name": "Pintame",
         "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 259066,
       "name": "P\u00edntame",
       "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2024-09-06 21:04:14",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
     },
     {
       "added_at": "2024-09-06 21:04:14",
@@ -347,38 +347,6 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
-        "name": "Sandy & Papo MC",
-        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
-      },
-      "artists": [
-        {
-          "name": "Sandy & Papo",
-          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "La Hora De Bailar",
-      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
-    },
-    {
-      "added_at": "2024-09-06 21:04:14",
-      "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
-    },
-    {
-      "added_at": "2024-09-06 21:04:14",
-      "album": {
         "name": "Los Reyes Del Ritmo",
         "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
       },
@@ -391,26 +359,6 @@
       "duration_ms": 232133,
       "name": "Nadie Se Muere",
       "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
-    },
-    {
-      "added_at": "2024-09-06 21:04:14",
-      "album": {
-        "name": "Pa' Otro La 'O",
-        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        },
-        {
-          "name": "Jandy Feliz",
-          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "La Ciguapa",
-      "url": "https://open.spotify.com/track/6Fu5E5nuKfVOecwBmWLi7O"
     },
     {
       "added_at": "2024-09-06 21:04:14",
@@ -447,18 +395,70 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+        "name": "Sandy & Papo MC",
+        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "Sandy & Papo",
+          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
         }
       ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
+      "duration_ms": 290226,
+      "name": "La Hora De Bailar",
+      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
+    },
+    {
+      "added_at": "2024-09-06 21:04:14",
+      "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
+    },
+    {
+      "added_at": "2024-09-06 21:04:14",
+      "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2024-09-06 21:04:14",
+      "album": {
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "La Ciguapa",
+      "url": "https://open.spotify.com/track/6Fu5E5nuKfVOecwBmWLi7O"
     },
     {
       "added_at": "2024-09-06 21:04:14",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2024-09-06 21:04:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/7zOqkF9TUdUPREtkIf1v4Q"
-    },
-    {
-      "added_at": "2024-09-06 21:04:14",
-      "album": {
         "name": "In Da House",
         "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 284266,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/7f698P4uIhoNM4E3XkgvL3"
+    },
+    {
+      "added_at": "2024-09-06 21:04:14",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 265666,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/7zOqkF9TUdUPREtkIf1v4Q"
     },
     {
       "added_at": "2024-09-06 21:04:14",

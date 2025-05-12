@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Crushology 101\. \(바니와 오빠들의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-30 songs - 1 hr 30 min
+31 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Curated by Lee Chae min](https://open.spotify.com/track/18PfRHUpFl3oglLVcLtkmB) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Curation Liners](https://open.spotify.com/album/4ryhQXwvNHwTQssLxW6Ct9) | 0:30 | 2025-05-03 |  |
 | [Curated by Roh Jeong eui](https://open.spotify.com/track/161Iv9QnoFMqRUEg0WHRiI) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Curation Liners](https://open.spotify.com/album/4ryhQXwvNHwTQssLxW6Ct9) | 0:38 | 2025-05-03 |  |
 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 | 2025-05-02 |  |
+| [End of a Day](https://open.spotify.com/track/1yjMST306VNC3OfvnMgqTp) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [End of a Day \(Crushology 101 OST Part.8\)](https://open.spotify.com/album/2td9gFveZGCT2v9JzKjWka) | 3:55 | 2025-05-12 |  |
 | [Ep.1 \- Crushology 101](https://open.spotify.com/track/2K83szQ8xLJS83zFK4fzfs) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Audio Liners](https://open.spotify.com/album/7mczFTgs0ABMBwfVSRYcY4) | 0:21 | 2025-05-02 |  |
 | [Ep.2 \- Crushology 101](https://open.spotify.com/track/42cz54hWMPkZAvyw9u60Ix) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Audio Liners](https://open.spotify.com/album/7mczFTgs0ABMBwfVSRYcY4) | 0:14 | 2025-05-02 |  |
 | [Ep.4 \- Crushology 101](https://open.spotify.com/track/6NCsQWk86lVGX1XMthXAqT) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Audio Liners](https://open.spotify.com/album/7mczFTgs0ABMBwfVSRYcY4) | 0:44 | 2025-05-02 |  |

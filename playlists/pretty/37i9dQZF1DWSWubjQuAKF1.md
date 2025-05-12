@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: adaś.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,613 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,637 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 24 | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/track/4Xgy6XFSLcfkfCFjkoykwM) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/album/6uNMTjRSkWvWmynCwwWkcc) | 2:30 |
 | 25 | [Running From Myself](https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Running From Myself](https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe) | 2:36 |
 | 26 | [comeback!](https://open.spotify.com/track/5fCioQ9fV5gDORRTRTC0j7) | [bango balenci](https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [comeback!](https://open.spotify.com/album/5mUXseiDHWqq7GeGte41aq) | 2:16 |
-| 27 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 |
-| 28 | [Only Love](https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Only Love](https://open.spotify.com/album/4WjiBXuiBrFqkRgIG9OCfr) | 4:19 |
-| 29 | [no hard feelings](https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [no hard feelings](https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI) | 2:21 |
-| 30 | [Fuckboy \(Chciałbyś więcej\)](https://open.spotify.com/track/5rKzLUEtVMc3HQXD5AYIfK) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Casting / Fuckboy \(Chciałbyś więcej\)](https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4) | 2:53 |
+| 27 | [no hard feelings](https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [no hard feelings](https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI) | 2:21 |
+| 28 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 |
+| 29 | [Fuckboy \(Chciałbyś więcej\)](https://open.spotify.com/track/5rKzLUEtVMc3HQXD5AYIfK) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Casting / Fuckboy \(Chciałbyś więcej\)](https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4) | 2:53 |
+| 30 | [Only Love](https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Only Love](https://open.spotify.com/album/4WjiBXuiBrFqkRgIG9OCfr) | 4:19 |
 | 31 | [Jest jak jest](https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Jest jak jest](https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7) | 2:48 |
 | 32 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 |
 | 33 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 |

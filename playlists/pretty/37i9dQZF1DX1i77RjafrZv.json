@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 322009,
+  "num_followers": 321989,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "A Fleur De Toi",
+        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "A fleur de toi",
+      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
       },
@@ -179,38 +195,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Samedi soir sur la terre (Remastered)",
-        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "A Fleur De Toi",
-        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "A fleur de toi",
-      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Joe Dassin",
         "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 281213,
       "name": "Savoir aimer",
       "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "La vieille",
+        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "La femme id\u00e9ale",
         "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "La vieille",
-        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
       "artists": [
         {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
         }
       ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
+      "duration_ms": 269320,
+      "name": "L'\u00e9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -583,22 +599,6 @@
       "duration_ms": 319493,
       "name": "Et un jour une femme",
       "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Joe Dassin \u00c9ternel...",
-        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 269320,
-      "name": "L'\u00e9t\u00e9 indien",
-      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Besoin De Rien, Envie De Toi",
-        "url": "https://open.spotify.com/album/6KHWQW2tGc64o6y7YA79nF"
+        "name": "Triple Best Of",
+        "url": "https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18"
       },
       "artists": [
         {
-          "name": "Peter & Sloane",
-          "url": "https://open.spotify.com/artist/6REk440jiYtbGdIyi2BjuV"
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
         }
       ],
-      "duration_ms": 222440,
-      "name": "Besoin de rien, envie de toi",
-      "url": "https://open.spotify.com/track/2xwJmtyYt3tJNl4Ql9DmmW"
+      "duration_ms": 206280,
+      "name": "Hymne \u00e0 l'amour",
+      "url": "https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY"
     }
   ],
   "unique_name": "French Kiss",

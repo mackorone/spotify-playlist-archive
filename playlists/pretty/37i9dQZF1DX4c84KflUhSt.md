@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4c84KflUhSt.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,002 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,025 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4c84KflUhSt.md) - [plain]
 | 40 | [Stormy Weather](https://open.spotify.com/track/5K3hhr79wnCenmQYtZ0aE4) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Playin' With My Friends: Bennett Sings The Blues](https://open.spotify.com/album/3x7M1eG03gHfeH4RjNaJ5a) | 4:32 |
 | 41 | [Body and Soul](https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:20 |
 | 42 | [What The World Needs Now Is Love](https://open.spotify.com/track/4uXygYyLsFUr9P1UzILrHf) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I've Gotta Be Me](https://open.spotify.com/album/6OU8IefCiUm7eWlP5YFSTv) | 2:41 |
-| 43 | [New York State of Mind \(with Billy Joel\)](https://open.spotify.com/track/2k4eIKbrXS2f7AKJpPEk59) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Playin' With My Friends: Bennett Sings The Blues](https://open.spotify.com/album/3x7M1eG03gHfeH4RjNaJ5a) | 4:29 |
+| 43 | [New York State of Mind \(with Billy Joel\)](https://open.spotify.com/track/2k4eIKbrXS2f7AKJpPEk59) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Playin' With My Friends: Bennett Sings The Blues](https://open.spotify.com/album/3x7M1eG03gHfeH4RjNaJ5a) | 4:29 |
 | 44 | [Fly Me To The Moon](https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [If I Ruled The World: Songs For The Jet Set](https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX) | 4:09 |
 | 45 | [Blue Velvet](https://open.spotify.com/track/5sMVujBLwXJH9AjToNoSbH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [60 Years: The Artistry of Tony Bennett](https://open.spotify.com/album/4PEuqYJixNSCMotzbfmWNb) | 3:01 |
 | 46 | [If I Ruled the World \(with Céline Dion\)](https://open.spotify.com/track/57GQHVnq4UIAgxU38lJwUC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 2:54 |

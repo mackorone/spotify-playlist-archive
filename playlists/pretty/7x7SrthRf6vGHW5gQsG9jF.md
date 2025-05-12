@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 874 songs - 2 day 7 hr 55 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 876 songs - 2 day 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -882,5 +882,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 872 | [A Little Happiness \- yuigot Remix](https://open.spotify.com/track/7zKcCqjaJMW2H5Qf37kRs7) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Sour Salty Realism](https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9) | 2:38 |
 | 873 | [寄り酔い](https://open.spotify.com/track/7Hj7PMdrx3bKse1hhL7qv4) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [青二才](https://open.spotify.com/album/2Tv54fqQpFKlykCpAECxI8) | 3:39 |
 | 874 | [Err](https://open.spotify.com/track/4UMR8jH9twpyE7rqMvvQRq) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [Err](https://open.spotify.com/album/2fA95j9dpuoKIs9Heyn32i) | 3:06 |
+| 875 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
+| 876 | [DENNO MIENMIEN MAO \(feat\. namigroove\)](https://open.spotify.com/track/2qXS1nJJpH6EaTvqt9JwXC) | [chinoi momone](https://open.spotify.com/artist/0zdGwa8ihyor4J729eSIGI), [namigroove](https://open.spotify.com/artist/2t7wKLcqZ08LwQXmBS2OOL) | [As Tenshi\-sama says](https://open.spotify.com/album/29ivIRiC7xB0VrWyDfcXor) | 2:34 |
 
-Snapshot ID: `AAAFDrlc8AWqHLIR16C6qA4HqMHktLZB`
+Snapshot ID: `AAAFEM6j7ENKaBP/k2JdleovGy+qKDUi`

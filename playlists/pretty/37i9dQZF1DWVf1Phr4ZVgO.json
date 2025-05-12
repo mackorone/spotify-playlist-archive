@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1153286,
+  "num_followers": 1153440,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -163,38 +163,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 165973,
-      "name": "Let There Be Love",
-      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "The Lady Is A Tramp - Remastered 1998",
-      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "The Genius Of Ray Charles",
         "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
@@ -223,6 +191,38 @@
       "duration_ms": 194573,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 165973,
+      "name": "Let There Be Love",
+      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "The Lady Is A Tramp - Remastered 1998",
+      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 186040,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Harlem On My Mind",
-        "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        }
-      ],
-      "duration_ms": 292288,
-      "name": "Don't Take Your Love From Me",
-      "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Someone To Watch Over Me",
         "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 215520,
       "name": "Let's Do It (Let's Fall In Love)",
       "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Harlem On My Mind",
+        "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        }
+      ],
+      "duration_ms": 292288,
+      "name": "Don't Take Your Love From Me",
+      "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Begin The Beguine",
         "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 181093,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
+        "name": "We Are In Love",
+        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "We Are In Love",
+      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
         "name": "The Very Best Of Andy Williams",
         "url": "https://open.spotify.com/album/3Og0hkf2QsluUfzUJ2PIru"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 185186,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "We Are In Love",
-        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 160933,
-      "name": "We Are In Love",
-      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
+        "name": "We Are In Love",
+        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Recipe For Love",
+      "url": "https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -799,38 +815,6 @@
       "duration_ms": 196320,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "We Are In Love",
-        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Recipe For Love",
-      "url": "https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "Fly Me To The Moon...The Great American Songbook Volume V",
-        "url": "https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -867,6 +851,22 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Fly Me To The Moon...The Great American Songbook Volume V",
+        "url": "https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Manilow Sings Sinatra",
-        "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "You Make Me Feel So Young",
-      "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/1WzKyOIFW45U8ZSuLVHGLq"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 229973,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/1tTOZjvzrkQSSf6XZFS2AY"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Manilow Sings Sinatra",
+        "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "You Make Me Feel So Young",
+      "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "The Best Of... The Great American Songbook (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7sQ8DlLQXzBKX8Z9sZ3tNZ"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Someone To Watch Over Me",
-      "url": "https://open.spotify.com/track/0pi49lNsPqbQJ814gCrxGt"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 354493,
       "name": "Jim",
       "url": "https://open.spotify.com/track/1cxBehMLI8smC0EAx0I0Ut"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "The Best Of... The Great American Songbook (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7sQ8DlLQXzBKX8Z9sZ3tNZ"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/0pi49lNsPqbQJ814gCrxGt"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
         "name": "Things Are Swingin'/Jump For Joy",
         "url": "https://open.spotify.com/album/3TgP9cFfg93qoCR7BO9ZXU"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 281093,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/6ERQqdIkr7Rp4tt52Eep6r"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn"
     },
     {
       "added_at": "2024-06-03 14:41:08",

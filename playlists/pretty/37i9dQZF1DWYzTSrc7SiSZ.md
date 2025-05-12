@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,387 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,453 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 25 | [La Luna](https://open.spotify.com/track/3acgh01QCvLcLaXnIL3vyf) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Renacer Pt\. 1](https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva) | 2:28 |
 | 26 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 |
 | 27 | [Sunlight](https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Sunlight](https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh) | 3:23 |
-| 28 | [Ya](https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT) | [Flavio](https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [Ya](https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA) | 3:17 |
+| 28 | [cuarto pa' las doce](https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [cuarto pa' las doce](https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1) | 2:24 |
 | 29 | [Intenciones](https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Intenciones](https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3) | 2:43 |
-| 30 | [cuarto pa' las doce](https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [cuarto pa' las doce](https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1) | 2:24 |
+| 30 | [Ya](https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT) | [Flavio](https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [Ya](https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA) | 3:17 |
 | 31 | [Qué Bonito Es Lo Bonito](https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 4:16 |
 | 32 | [frío](https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Luisa](https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z) | [frío](https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT) | 4:38 |
 | 33 | [Soy capaz](https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Soy capaz](https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT) | 3:25 |

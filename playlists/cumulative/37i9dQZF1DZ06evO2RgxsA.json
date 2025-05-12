@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "The Longest EP",
+        "url": "https://open.spotify.com/album/2PxPjYo7QT9Utmz0seSLjW"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30880,
+      "name": "I Wanna Be an Alcoholic",
+      "url": "https://open.spotify.com/track/6k4uZukGqY0TyQ2CxkeYGz"
+    },
+    {
+      "album": {
         "name": "I'm a Rat",
         "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
       },

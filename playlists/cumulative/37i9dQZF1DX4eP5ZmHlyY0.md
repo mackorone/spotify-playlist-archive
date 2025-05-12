@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: DAY6
 
-566 songs - 1 day 7 hr 40 min
+567 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [BANANA](https://open.spotify.com/track/0TX8pkIb7yJrMAx5hMacxh) | [KEIGO](https://open.spotify.com/artist/2R3B9TCBBnvAEoCu5KpecB) | [BANANA](https://open.spotify.com/album/5rM3gYVTRkvg4MdSNFu5Hx) | 3:29 | 2025-05-06 |  |
 | [BANG OUT](https://open.spotify.com/track/1j3LL3k27QqSybTw31RSCk) | [RAG POUND](https://open.spotify.com/artist/6L0V9bXK9LPjR1dBtlWTdP) | [BANG OUT](https://open.spotify.com/album/22KdV7IgT63odz3k4ovT4X) | 3:36 | 2024-02-01 | 2024-02-07 |
 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 | 2024-04-02 | 2024-06-05 |
+| [Be brave!](https://open.spotify.com/track/6kFeAaicIz6Z3w3mwuPbu4) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Be brave!](https://open.spotify.com/album/7eMyEWqVqpX6Bjeh9PBP8l) | 3:24 | 2025-05-12 |  |
 | [BE CLASSIC](https://open.spotify.com/track/6qactUdK4Lql5d31ow4669) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC](https://open.spotify.com/album/4hjnuvQELOGNFix32suzo9) | 2:39 | 2025-03-24 |  |
-| [BE CLASSIC \(English ver.\)](https://open.spotify.com/track/4UOwAdn4wjjjX0r62fPTbO) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC \(English ver.\)](https://open.spotify.com/album/7dStltvEbsKi2qjY48nYuu) | 2:39 | 2025-04-29 |  |
+| [BE CLASSIC \(English ver.\)](https://open.spotify.com/track/4UOwAdn4wjjjX0r62fPTbO) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC \(English ver.\)](https://open.spotify.com/album/7dStltvEbsKi2qjY48nYuu) | 2:39 | 2025-04-29 | 2025-05-12 |
 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 | 2024-03-17 | 2025-03-07 |
 | [Beat Loud](https://open.spotify.com/track/0WRnKTDzekbS2w3gSNEmBo) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Beat Loud](https://open.spotify.com/album/4sbCLv9RdWQjdEVoRltRZD) | 2:52 | 2024-05-07 | 2024-05-22 |
 | [Beautiful Life](https://open.spotify.com/track/5qUSdQKKRxmfcEgLQsQINj) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Beautiful Mind](https://open.spotify.com/album/3kj5RMMwVvIvP0D9juqm8j) | 4:25 | 2025-03-24 |  |
@@ -60,7 +61,7 @@
 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 | 2024-05-28 | 2025-03-07 |
 | [Bon Voyage](https://open.spotify.com/track/3uG3PENb4Nc6VQH9LiFF6A) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/5ftyQK0K0vdQQVNmBwclCN) | 4:54 | 2024-01-11 | 2024-01-24 |
 | [Bon Voyage](https://open.spotify.com/track/6E2DnY89XkXIs3rFYyZF8k) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/7eZmGoLIs9KAN0BVDZ10TL) | 4:54 | 2024-01-11 | 2024-01-13 |
-| [Bon Voyage](https://open.spotify.com/track/7BHlLqdDjNlweYXdmAeFzN) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC \(Special Edition\)](https://open.spotify.com/album/6UclrVcaKUfojZfowJggOK) | 3:08 | 2025-04-01 |  |
+| [Bon Voyage](https://open.spotify.com/track/7BHlLqdDjNlweYXdmAeFzN) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC \(Special Edition\)](https://open.spotify.com/album/6UclrVcaKUfojZfowJggOK) | 3:08 | 2025-04-01 | 2025-05-12 |
 | [BOOM BASH](https://open.spotify.com/track/22mbbvEHy4mRNuz4HbfCgo) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [BOOM BASH](https://open.spotify.com/album/2w4RMOw4SPJCuiONScbePk) | 3:38 | 2025-04-17 |  |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-11-23 | 2024-10-02 |
 | [BOW WOW](https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOW WOW](https://open.spotify.com/album/366gA1FOPWIQCVUheX5HiY) | 3:30 | 2025-03-31 | 2025-04-02 |

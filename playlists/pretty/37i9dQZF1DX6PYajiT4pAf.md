@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Karol G, J Balvin & Omega, Lucho RK & Quevedo, Aitana y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,767 likes - 84 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,823 likes - 84 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 45 | [Come Back Down](https://open.spotify.com/track/04H7h3KJAQp9JHCSPGlp9A) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:15 |
 | 46 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 | 47 | [Torremolinos](https://open.spotify.com/track/0t8vWc0HDYaIbocSm5A0I6) | [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15) | [Torremolinos](https://open.spotify.com/album/4vlof5ZWKIzz7NQVeZuspM) | 2:12 |
-| 48 | [CHICA](https://open.spotify.com/track/5oFKv4odUseAUhW1ZCjALB) | [Anthony Ready & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [CHICA](https://open.spotify.com/album/1QauxoH2ju2YT6nKX3iXCc) | 2:53 |
+| 48 | [CHICA](https://open.spotify.com/track/5oFKv4odUseAUhW1ZCjALB) | [Anthony Ready & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [CHICA](https://open.spotify.com/album/1QauxoH2ju2YT6nKX3iXCc) | 2:53 |
 | 49 | [Postalita](https://open.spotify.com/track/338FO6wNbL9zBfvqYk7qfg) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2) | [Postalita](https://open.spotify.com/album/2PjIb7VrWVqCPICsRnnFar) | 3:30 |
 | 50 | [Ahora](https://open.spotify.com/track/3WF9nSaHYylTJDjkmzzIy7) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm), [Vampi](https://open.spotify.com/artist/26Uw7DtQGaoYgGfTdtzKjt) | [Ahora](https://open.spotify.com/album/6631rde6x2SzAErIhPStmO) | 2:00 |
 | 51 | [swag](https://open.spotify.com/track/6mooZMViISkFQjmhHHRBRH) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T), [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj) | [pachamami](https://open.spotify.com/album/4bPx4CSNgDL3bNNcrQ0xvV) | 2:06 |

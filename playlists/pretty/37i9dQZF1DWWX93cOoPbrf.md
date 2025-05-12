@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Virlan Garcia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,849 likes - 106 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,981 likes - 106 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

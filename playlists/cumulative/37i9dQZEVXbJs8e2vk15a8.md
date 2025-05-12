@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,990 songs - 6 day 16 hr 16 min
+2,991 songs - 6 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1483,7 +1483,7 @@
 | [Los Paraguas](https://open.spotify.com/track/4rNyJQTMPrqIuwSnxo1hAg) | [Chorizo Salvaje](https://open.spotify.com/artist/6jhK3YXGWzoFHLAcKqGndK) | [Chorizo Salvaje](https://open.spotify.com/album/7xFiGc22F23K3Q0ziAKizQ) | 4:00 | 2025-01-06 | 2025-01-08 |
 | [Los Perros Viejos Olvidaron Mirarse Al Espejo](https://open.spotify.com/track/2DxiVceS9zIQyh8twSbmTR) | [Mente Sabia Crú](https://open.spotify.com/artist/4BVarZvmLXaXGwBvjt8HEZ) | [Elefante](https://open.spotify.com/album/70SCEuwsSzTtWp5ALJVZuy) | 10:18 | 2022-04-23 | 2022-04-25 |
 | [Los Reyes Magos](https://open.spotify.com/track/2xJM9ksChIZ6aK2WsKo5K6) | [Coros De Amor](https://open.spotify.com/artist/7Dubjwi9vtebzbKfZpBv2Q) | [Los Reyes Magos](https://open.spotify.com/album/3fCvY6ywJA5EV8TYQkfV3w) | 3:46 | 2024-12-19 | 2024-12-21 |
-| [Los Rockstar No Van Al Cielo](https://open.spotify.com/track/5bh8LBXTKPJ8nl9yWuonqo) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Los Rockstar No Van Al Cielo](https://open.spotify.com/album/0KOrCMi72n2oZDsorvS3vn) | 3:50 | 2025-05-07 |  |
+| [Los Rockstar No Van Al Cielo](https://open.spotify.com/track/5bh8LBXTKPJ8nl9yWuonqo) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Los Rockstar No Van Al Cielo](https://open.spotify.com/album/0KOrCMi72n2oZDsorvS3vn) | 3:50 | 2025-05-07 | 2025-05-12 |
 | [Los Rockstars](https://open.spotify.com/track/5zRPfjD3qUsog7tAcAMpWr) | [Gabo El Chamaquito](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Los Rockstars](https://open.spotify.com/album/501hrBlOTdpNqjrOWvPflY) | 3:43 | 2023-02-21 | 2023-04-12 |
 | [Los Viejos Estandartes](https://open.spotify.com/track/0K7k6dYM3E6VbHszkR4Tpo) | [Coro de la Escuela Militar](https://open.spotify.com/artist/4BUuVlmleLskR2XaY9yG6G), [Banda de Conciertos](https://open.spotify.com/artist/4JZs7RwRmCOx3HiLvGw1f2) | [Radetzky y Otras Marchas](https://open.spotify.com/album/0nVVHulneZbNkzt0JexGvh) | 1:45 | 2022-09-20 | 2023-09-27 |
 | [Los Viejos Estandartes](https://open.spotify.com/track/3LhhnpM828NTPHuQIAFqkW) | [Los Cuatro Cuartos](https://open.spotify.com/artist/3lV7wbQLW7J7JKGo1nZwHU) | [Mi Chile Lindo](https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl) | 1:51 | 2022-09-17 | 2024-09-27 |
@@ -2823,6 +2823,7 @@
 | [VIO CON LA POLI](https://open.spotify.com/track/6zDTcJ3LYsF499KJXWGTXI) | [Piromano El Del Flow Gitano](https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0) | [VIO CON LA POLI](https://open.spotify.com/album/0uwZw2WoMUTXnGo4oJyAo6) | 2:31 | 2022-08-30 | 2022-09-09 |
 | [Vista Al Mar](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Vista Al Mar](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2022-10-04 | 2022-12-15 |
 | [Visto](https://open.spotify.com/track/77dnbVCFQJSvQN7RDgtAaw) | [Cvssiel](https://open.spotify.com/artist/6kHKj1YilXYA5am661cwOo), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Visto](https://open.spotify.com/album/39jR0CmgEKsu1S2rjDp6ht) | 3:00 | 2022-09-14 | 2022-09-17 |
+| [Vita Fer](https://open.spotify.com/track/3jS9G4KmuOwuawj3k4Smpc) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 3:04 | 2025-05-11 |  |
 | [Vita Fer](https://open.spotify.com/track/5HZBdV5AwSvKdHFOYbXYD7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Vita Fer](https://open.spotify.com/album/2UyuT1u6vDSwK1WXEkyfr4) | 3:04 | 2025-04-18 | 2025-04-22 |
 | [VITAMINA](https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [VITAMINA](https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP) | 2:37 | 2025-02-12 | 2025-02-16 |
 | [VITAMINA](https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [VITAMINA](https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916) | 3:28 | 2025-03-18 | 2025-04-28 |

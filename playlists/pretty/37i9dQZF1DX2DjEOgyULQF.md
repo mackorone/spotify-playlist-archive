@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,515 likes - 150 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,783 likes - 150 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 | 48 | [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 |
 | 49 | [Morning Yoga](https://open.spotify.com/track/745hKdfWK8QlbkmJVNR2kk) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Morning Yoga](https://open.spotify.com/album/02rCmVAY6NsJXNxFOM1HOa) | 3:19 |
 | 50 | [Peaceful Oasis](https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Peaceful Oasis](https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP) | 2:57 |
-| 51 | [Nightswimming](https://open.spotify.com/track/7i93LXVxC6OnibqUY8DdpT) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Nightswimming](https://open.spotify.com/album/6F7tYoC2zPzi0yt6bzX2ad) | 2:39 |
-| 52 | [Returning](https://open.spotify.com/track/7CIj6Jk5vKNEgxGNRoAWbC) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Returning](https://open.spotify.com/album/7mA9IJQZ7wtRYuaQrJ4Vux) | 3:02 |
-| 53 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 |
-| 54 | [Serenity Flow](https://open.spotify.com/track/25oEmpvht5NM8M0LagktCx) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Serenity Flow](https://open.spotify.com/album/4IS6fz1Jjunk4MSAKNJcak) | 2:31 |
+| 51 | [Returning](https://open.spotify.com/track/7CIj6Jk5vKNEgxGNRoAWbC) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Returning](https://open.spotify.com/album/7mA9IJQZ7wtRYuaQrJ4Vux) | 3:02 |
+| 52 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 |
+| 53 | [Serenity Flow](https://open.spotify.com/track/25oEmpvht5NM8M0LagktCx) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Serenity Flow](https://open.spotify.com/album/4IS6fz1Jjunk4MSAKNJcak) | 2:31 |
+| 54 | [Nightswimming](https://open.spotify.com/track/7i93LXVxC6OnibqUY8DdpT) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Nightswimming](https://open.spotify.com/album/6F7tYoC2zPzi0yt6bzX2ad) | 2:39 |
 | 55 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 |
 | 56 | [Ok Now](https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Ok Now](https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd) | 4:18 |
 | 57 | [Orange forest](https://open.spotify.com/track/1mzIEmytObAhAdQh4kkqsQ) | [Caleb Carter](https://open.spotify.com/artist/7MSWYPvWEDTCTnhA8CU6MN) | [Orange forest](https://open.spotify.com/album/3j8yo62JDzTlPjBplERqjF) | 2:38 |

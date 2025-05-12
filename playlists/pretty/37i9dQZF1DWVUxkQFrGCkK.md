@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ season is officially here!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,866 likes - 434 songs - 1 day 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,902 likes - 434 songs - 1 day 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

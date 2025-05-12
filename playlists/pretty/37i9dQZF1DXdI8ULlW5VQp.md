@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Damaris Bojor en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,243 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,219 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 53 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
 | 54 | [Mantenme pendiente](https://open.spotify.com/track/1i2Rm2W5zoLN4ic5WUQDrn) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Mantenme pendiente](https://open.spotify.com/album/56LYIMOKqLka6eeM2orEEZ) | 4:24 |
 | 55 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 |
-| 56 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
-| 57 | [Donde Debo Estar](https://open.spotify.com/track/4sscXIg64lskHbo0L2fmFq) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Donde Debo Estar](https://open.spotify.com/album/5DQkIKb8Cvb2XGIfHZ4oN4) | 3:41 |
+| 56 | [Ké MaL \- versión tierna](https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL \(versión tierna\)](https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt) | 4:17 |
+| 57 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
 | 58 | [Amor](https://open.spotify.com/track/4IYvNtWQMSmtUopvVfdtUA) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Amor](https://open.spotify.com/album/50dOULM8wbuHH77XdNquwX) | 2:47 |
-| 59 | [Ké MaL \- versión tierna](https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL \(versión tierna\)](https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt) | 4:17 |
+| 59 | [Donde Debo Estar](https://open.spotify.com/track/4sscXIg64lskHbo0L2fmFq) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Donde Debo Estar](https://open.spotify.com/album/5DQkIKb8Cvb2XGIfHZ4oN4) | 3:41 |
 | 60 | [Hola, Me Llamo María](https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [Hola, Me Llamo María](https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1) | 2:36 |
 | 61 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 |
 | 62 | [Necios](https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj) | 2:42 |

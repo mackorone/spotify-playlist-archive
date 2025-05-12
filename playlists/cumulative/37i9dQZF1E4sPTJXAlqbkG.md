@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Bryson Tiller, Brent Faiyaz, Summer Walker and more
+> With Brent Faiyaz, Summer Walker, Sonder and more
 
 669 songs - 1 day 13 hr 53 min
 

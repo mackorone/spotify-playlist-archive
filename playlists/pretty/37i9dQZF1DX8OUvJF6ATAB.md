@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,332 likes - 100 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,346 likes - 100 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 27 | [Nothing Ends 2018](https://open.spotify.com/track/7gKirx9P6EHXNR6mMOSgvP) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Nothing Is Objective](https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu) | 6:26 |
 | 28 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
 | 29 | [Timeless](https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Cycles](https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD) | 4:51 |
-| 30 | [All These Worlds, Pt\. II](https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [All These Worlds, Pt\. II](https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4) | 3:59 |
-| 31 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 |
-| 32 | [Ichneumonidae](https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY) | [Dream Trees](https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY) | [Any Coop Will Do](https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF) | 3:17 |
-| 33 | [Tree](https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 2](https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd) | 5:12 |
-| 34 | [Illusion Of Time](https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/0337WPtUhYFk11ykBc1j6Z) | 4:22 |
+| 30 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 |
+| 31 | [Ichneumonidae](https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY) | [Dream Trees](https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY) | [Any Coop Will Do](https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF) | 3:17 |
+| 32 | [Illusion Of Time](https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/0337WPtUhYFk11ykBc1j6Z) | 4:22 |
+| 33 | [All These Worlds, Pt\. II](https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [All These Worlds, Pt\. II](https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4) | 3:59 |
+| 34 | [Tree](https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 2](https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd) | 5:12 |
 | 35 | [Ocean Dreams](https://open.spotify.com/track/4ugKXZBeBMF3hUZjwhwDbh) | [Aquarian Summer](https://open.spotify.com/artist/5MzxA9B0PIgViurDxRhJh0) | [Ocean Dreams](https://open.spotify.com/album/6yZrvjkD4SOJSwOoXwGK3E) | 1:53 |
 | 36 | [Existing Closer or Deeper in Space](https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [Grass and Trees](https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7) | 3:51 |
 | 37 | [The Theme](https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua) | [Caso 63 \(Banda Sonora Original\)](https://open.spotify.com/album/53QQs5zdZMkrMShR5Qy1Ya) | 2:31 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 57 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 |
 | 58 | [Das Unheimliche](https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Das Unheimliche](https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v) | 6:30 |
 | 59 | [Don't Forget](https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N) | [Sharp Veins](https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2) | [Die of The Waters](https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf) | 3:06 |
-| 60 | [Equivalent 7](https://open.spotify.com/track/2INERy7ISuQM07gKwjEVos) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK), [Secret Pyramid](https://open.spotify.com/artist/1a4TAz1A8cp9SRNhOPXBM0) | [Equivalents](https://open.spotify.com/album/6U30ugActrLoDvKgESHFQs) | 6:50 |
-| 61 | [Bergsbotn I](https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 4:52 |
-| 62 | [Landlocked](https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1) | [Capitol K](https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj) | [Goatherder](https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI) | 3:59 |
+| 60 | [Bergsbotn I](https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 4:52 |
+| 61 | [Landlocked](https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1) | [Capitol K](https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj) | [Goatherder](https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI) | 3:59 |
+| 62 | [Equivalent 7](https://open.spotify.com/track/2INERy7ISuQM07gKwjEVos) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK), [Secret Pyramid](https://open.spotify.com/artist/1a4TAz1A8cp9SRNhOPXBM0) | [Equivalents](https://open.spotify.com/album/6U30ugActrLoDvKgESHFQs) | 6:50 |
 | 63 | [Even Stars Explode](https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [Even Stars Explode](https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu) | 3:31 |
 | 64 | [Mirror of Memories](https://open.spotify.com/track/0RHxI2zH3IIprnjJN5hhTf) | [Volodja Brodsky](https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd) | [Whispering Ln](https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951) | 9:08 |
 | 65 | [Cosmic lake transparency \- Original Mix](https://open.spotify.com/track/4beDadqk2att64FbvO3zvn) | [Saphileaum](https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU) | [Majestic sapphire island](https://open.spotify.com/album/2bHP9WEkHSY0evSUpcXI42) | 4:48 |

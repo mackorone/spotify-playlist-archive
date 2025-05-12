@@ -1,6 +1,6 @@
 {
   "description": "Dulce jazz ideal para estudiar o relajarse.",
-  "num_followers": 101946,
+  "num_followers": 102098,
   "original_name": "Jazz Tranquilo",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,38 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
+        "name": "Young At Heart",
+        "url": "https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "duration_ms": 279557,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/2uO7xE78Jyf8t5jL14Q63F"
+      },
+      "artists": [
+        {
+          "name": "Luke Marantz Trio",
+          "url": "https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo"
+        }
+      ],
+      "duration_ms": 187657,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3gD9Y09QDMmCjGH0R7q9y0"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
         "name": "Graceful Rhapsody",
         "url": "https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm"
       },
@@ -283,54 +315,6 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
-        "name": "Young At Heart",
-        "url": "https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B"
-      },
-      "artists": [
-        {
-          "name": "Most Iverson",
-          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
-        }
-      ],
-      "duration_ms": 279557,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
-        "name": "Gentle Rain",
-        "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
-      },
-      "artists": [
-        {
-          "name": "Tom Francis",
-          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
-        }
-      ],
-      "duration_ms": 192874,
-      "name": "Gentle Rain",
-      "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/2uO7xE78Jyf8t5jL14Q63F"
-      },
-      "artists": [
-        {
-          "name": "Luke Marantz Trio",
-          "url": "https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo"
-        }
-      ],
-      "duration_ms": 187657,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3gD9Y09QDMmCjGH0R7q9y0"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
         "name": "How\u2019s It Going?",
         "url": "https://open.spotify.com/album/6bkFMHlTu3sX5y0oYtm8At"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 178484,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/2iMQAwqqjCEeLlnPppBOYW"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
+        "name": "Gentle Rain",
+        "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "duration_ms": 192874,
+      "name": "Gentle Rain",
+      "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
-        "name": "You Gave Me That Look",
-        "url": "https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa"
-      },
-      "artists": [
-        {
-          "name": "Original Three",
-          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
-        }
-      ],
-      "duration_ms": 304694,
-      "name": "You Gave Me That Look",
-      "url": "https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
         "name": "Shadows of You",
         "url": "https://open.spotify.com/album/2Zk67mWiPQQQiXqhTA95i5"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 202617,
       "name": "Shadows of You",
       "url": "https://open.spotify.com/track/75iWzL2HCo4ckYySYIhkar"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
+        "name": "You Gave Me That Look",
+        "url": "https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa"
+      },
+      "artists": [
+        {
+          "name": "Original Three",
+          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
+        }
+      ],
+      "duration_ms": 304694,
+      "name": "You Gave Me That Look",
+      "url": "https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
-        "name": "You're All I Can Think Of",
-        "url": "https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB"
-      },
-      "artists": [
-        {
-          "name": "Original Three",
-          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
-        }
-      ],
-      "duration_ms": 298111,
-      "name": "You're All I Can Think Of",
-      "url": "https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
         "name": "My Sweetest You",
         "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 146020,
       "name": "Vine Street",
       "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
+        "name": "You're All I Can Think Of",
+        "url": "https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB"
+      },
+      "artists": [
+        {
+          "name": "Original Three",
+          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
+        }
+      ],
+      "duration_ms": 298111,
+      "name": "You're All I Can Think Of",
+      "url": "https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
-        "name": "A Talk About Work",
-        "url": "https://open.spotify.com/album/5ACPWz0vT683B1Vk7suQQC"
-      },
-      "artists": [
-        {
-          "name": "Jaden Berry",
-          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
-        }
-      ],
-      "duration_ms": 148555,
-      "name": "A Talk About Work",
-      "url": "https://open.spotify.com/track/2Ts4SElvopykvf7nSJXZxs"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
         "name": "Stella By Starlight",
         "url": "https://open.spotify.com/album/1xuGElIWx3CqL6TMaWij8U"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 213037,
       "name": "Memories Of Her Music",
       "url": "https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
+        "name": "A Talk About Work",
+        "url": "https://open.spotify.com/album/5ACPWz0vT683B1Vk7suQQC"
+      },
+      "artists": [
+        {
+          "name": "Jaden Berry",
+          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
+        }
+      ],
+      "duration_ms": 148555,
+      "name": "A Talk About Work",
+      "url": "https://open.spotify.com/track/2Ts4SElvopykvf7nSJXZxs"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
-        "name": "Was It Me?",
-        "url": "https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv"
-      },
-      "artists": [
-        {
-          "name": "Al Fowler Trio",
-          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
-        }
-      ],
-      "duration_ms": 261777,
-      "name": "Was It Me?",
-      "url": "https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
         "name": "I Saw The Sun",
         "url": "https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 260540,
       "name": "I Saw The Sun",
       "url": "https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
+        "name": "Was It Me?",
+        "url": "https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv"
+      },
+      "artists": [
+        {
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
+        }
+      ],
+      "duration_ms": 261777,
+      "name": "Was It Me?",
+      "url": "https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -4475,6 +4475,22 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
+        "name": "Jazz Noir",
+        "url": "https://open.spotify.com/album/3C4NdEsW6ibEIqZbXkxNf9"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Bird",
+          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
+        }
+      ],
+      "duration_ms": 227437,
+      "name": "Jazz Noir",
+      "url": "https://open.spotify.com/track/34X5CVjvYwM4yaPY1D8bAd"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
         "name": "February Brings The Rain",
         "url": "https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv"
       },
@@ -4535,22 +4551,6 @@
       "duration_ms": 151162,
       "name": "Equilibrio",
       "url": "https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
-        "name": "Jazz Noir",
-        "url": "https://open.spotify.com/album/3C4NdEsW6ibEIqZbXkxNf9"
-      },
-      "artists": [
-        {
-          "name": "Sparrow & Bird",
-          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
-        }
-      ],
-      "duration_ms": 227437,
-      "name": "Jazz Noir",
-      "url": "https://open.spotify.com/track/34X5CVjvYwM4yaPY1D8bAd"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -4635,22 +4635,6 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
-        "name": "Cliffs",
-        "url": "https://open.spotify.com/album/5BNrTrQr8lcyRso4aXESIP"
-      },
-      "artists": [
-        {
-          "name": "Lennie Weston",
-          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Cliffs",
-      "url": "https://open.spotify.com/track/4LEDxHTo5iTzYgNbzIfaBK"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
         "name": "First Call",
         "url": "https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA"
       },
@@ -4663,6 +4647,22 @@
       "duration_ms": 164616,
       "name": "First Call",
       "url": "https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
+        "name": "Cliffs",
+        "url": "https://open.spotify.com/album/5BNrTrQr8lcyRso4aXESIP"
+      },
+      "artists": [
+        {
+          "name": "Lennie Weston",
+          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Cliffs",
+      "url": "https://open.spotify.com/track/4LEDxHTo5iTzYgNbzIfaBK"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -4923,22 +4923,6 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
-        "name": "Hello, Young Lovers",
-        "url": "https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU"
-      },
-      "artists": [
-        {
-          "name": "Southside Players",
-          "url": "https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh"
-        }
-      ],
-      "duration_ms": 234585,
-      "name": "Hello, Young Lovers",
-      "url": "https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
         "name": "Water Dance",
         "url": "https://open.spotify.com/album/5Ur5MIwmChDIZK2SLu3FGj"
       },
@@ -4967,6 +4951,22 @@
       "duration_ms": 259642,
       "name": "Honey, You Are My Everything",
       "url": "https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
+        "name": "Hello, Young Lovers",
+        "url": "https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU"
+      },
+      "artists": [
+        {
+          "name": "Southside Players",
+          "url": "https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh"
+        }
+      ],
+      "duration_ms": 234585,
+      "name": "Hello, Young Lovers",
+      "url": "https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -6827,22 +6827,6 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
-        "name": "Drifting Apart",
-        "url": "https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU"
-      },
-      "artists": [
-        {
-          "name": "More than Jazz",
-          "url": "https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et"
-        }
-      ],
-      "duration_ms": 212144,
-      "name": "Drifting Apart",
-      "url": "https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
         "name": "This isn\u2019t home",
         "url": "https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un"
       },
@@ -6855,6 +6839,22 @@
       "duration_ms": 166114,
       "name": "This isn\u2019t home",
       "url": "https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
+        "name": "Drifting Apart",
+        "url": "https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU"
+      },
+      "artists": [
+        {
+          "name": "More than Jazz",
+          "url": "https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et"
+        }
+      ],
+      "duration_ms": 212144,
+      "name": "Drifting Apart",
+      "url": "https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -9259,22 +9259,6 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS"
-      },
-      "artists": [
-        {
-          "name": "Eduard Landings",
-          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
-        }
-      ],
-      "duration_ms": 212794,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
         "name": "Neither am I",
         "url": "https://open.spotify.com/album/4VOjaVWr7ggqYvdxliXxhI"
       },
@@ -9287,6 +9271,22 @@
       "duration_ms": 197640,
       "name": "Neither am I",
       "url": "https://open.spotify.com/track/0YPtESitV9bG5IYkW2IUEp"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS"
+      },
+      "artists": [
+        {
+          "name": "Eduard Landings",
+          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
+        }
+      ],
+      "duration_ms": 212794,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -9611,6 +9611,22 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
+        "name": "Here's That Rainy Day",
+        "url": "https://open.spotify.com/album/6pqnv43CbP2jV3A4AySGfG"
+      },
+      "artists": [
+        {
+          "name": "Martin Hoper",
+          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
+        }
+      ],
+      "duration_ms": 227887,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/2qyXVaQWQMa8TvzB71EmWE"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
         "name": "A Promise",
         "url": "https://open.spotify.com/album/1XgXxxdonnIbTNWF4SZ5nz"
       },
@@ -9639,22 +9655,6 @@
       "duration_ms": 194599,
       "name": "Overcome with emotion",
       "url": "https://open.spotify.com/track/5ZhZ2RGjOsFOUC57CyCUiJ"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
-        "name": "Here's That Rainy Day",
-        "url": "https://open.spotify.com/album/6pqnv43CbP2jV3A4AySGfG"
-      },
-      "artists": [
-        {
-          "name": "Martin Hoper",
-          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
-        }
-      ],
-      "duration_ms": 227887,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/2qyXVaQWQMa8TvzB71EmWE"
     },
     {
       "added_at": "2025-02-19 12:58:52",
@@ -10763,6 +10763,22 @@
     {
       "added_at": "2025-02-19 12:58:52",
       "album": {
+        "name": "I Hear You Now",
+        "url": "https://open.spotify.com/album/7KAddonNSAiDuYBlMZIYS3"
+      },
+      "artists": [
+        {
+          "name": "Carla Anderson",
+          "url": "https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o"
+        }
+      ],
+      "duration_ms": 223454,
+      "name": "I Hear You Now",
+      "url": "https://open.spotify.com/track/6SMfs8KCyzSANk33d3cQcN"
+    },
+    {
+      "added_at": "2025-02-19 12:58:52",
+      "album": {
         "name": "Into The Unknown",
         "url": "https://open.spotify.com/album/0Ifmedg8QIdPrxzJm7eekM"
       },
@@ -10839,22 +10855,6 @@
       "duration_ms": 227166,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV"
-    },
-    {
-      "added_at": "2025-02-19 12:58:52",
-      "album": {
-        "name": "I Hear You Now",
-        "url": "https://open.spotify.com/album/7KAddonNSAiDuYBlMZIYS3"
-      },
-      "artists": [
-        {
-          "name": "Carla Anderson",
-          "url": "https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o"
-        }
-      ],
-      "duration_ms": 223454,
-      "name": "I Hear You Now",
-      "url": "https://open.spotify.com/track/6SMfs8KCyzSANk33d3cQcN"
     },
     {
       "added_at": "2025-02-19 12:58:52",

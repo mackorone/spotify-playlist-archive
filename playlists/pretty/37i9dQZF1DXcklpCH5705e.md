@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP你我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,087 likes - 67 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,120 likes - 67 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 66 | [無袂煞](https://open.spotify.com/track/5YbCgnnhO78mSYgDOFNNxS) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [無袂煞](https://open.spotify.com/album/5ELAI7VMzvganf1RnY0b0L) | 3:27 |
 | 67 | [住進你的行李 \(A Plus Ver.\)](https://open.spotify.com/track/0sk1CPmvdzL03FpdMDud57) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [住進你的行李 \(A Plus Ver.\)](https://open.spotify.com/album/24wLyLLvLG8L0f4tvWOwJP) | 3:34 |
 
-Snapshot ID: `aB4yIwAAAACJ9QlV1ysUnJZiGQjIunSf`
+Snapshot ID: `aCCp0QAAAADLzpSIQhLgP2EO+fKdnVWg`

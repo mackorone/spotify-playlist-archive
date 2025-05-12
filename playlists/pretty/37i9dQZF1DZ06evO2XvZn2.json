@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15513,
+  "num_followers": 15512,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAADSJzGhm2WeCS1F+7xCKl2p",
+  "snapshot_id": "aB6XAAAAAAA4U7I2nQG2s2DSFEQcC1YP",
   "tracks": [
     {
       "added_at": null,
@@ -619,18 +619,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
+        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
       },
       "artists": [
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Fefi Oliveira",
+          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
         }
       ],
-      "duration_ms": 254306,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
+      "duration_ms": 191080,
+      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
     },
     {
       "added_at": null,
@@ -655,26 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
       },
       "artists": [
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Fefi Oliveira",
-          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
         }
       ],
-      "duration_ms": 191080,
-      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
+      "duration_ms": 254306,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
     },
     {
       "added_at": null,

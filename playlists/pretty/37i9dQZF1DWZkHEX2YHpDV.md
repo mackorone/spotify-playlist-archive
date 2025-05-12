@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Mayday Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,355 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,338 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 84 | [Since Last Season](https://open.spotify.com/track/2uDLtO5AwTQBPMQQL4D018) | [Stateside](https://open.spotify.com/artist/2WpPJq3Z87oKW6NwADqkBu) | [Since Last Season](https://open.spotify.com/album/2CImGDvEnsit9XOkYVdyHT) | 2:51 |
 | 85 | [Day By Day](https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Liminal](https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk) | 3:44 |
 | 86 | [Light Blue](https://open.spotify.com/track/7jsx6taYSIBP0Oy5mBXPqh) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Light Blue](https://open.spotify.com/album/2aVOJTBuaBYiw6D81TPnQr) | 3:08 |
-| 87 | [only overnight](https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [only overnight](https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R) | 3:02 |
-| 88 | [CRIMINAL](https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [CRIMINAL](https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5) | 3:47 |
+| 87 | [CRIMINAL](https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [CRIMINAL](https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5) | 3:47 |
+| 88 | [only overnight](https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [only overnight](https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R) | 3:02 |
 | 89 | [Dial Tones X \(feat\. Holding Absence\)](https://open.spotify.com/track/7HlHHdXN8RJMdAA2Ujbwju) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Lucas Woodland](https://open.spotify.com/artist/76iTTQpdw0ECsYeXVnKA2t) | [Dial Tones X \(feat\. Holding Absence\)](https://open.spotify.com/album/1phetcHx7smJTwJsuN8hqN) | 3:17 |
 | 90 | [PIN\-EYE](https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [PIN\-EYE](https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp) | 4:32 |
 | 91 | [Acid Rain](https://open.spotify.com/track/0zDh3nGjdZQUw4NVTVJiGe) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Acid Rain](https://open.spotify.com/album/4o5yDiykwO8ItIU0acNVfI) | 3:29 |

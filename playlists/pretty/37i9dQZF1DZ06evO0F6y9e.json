@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1038616,
+  "num_followers": 1038820,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAABht4hTTyRjktXnwvDaCmRc",
+  "snapshot_id": "aB6XAAAAAAAVCLRmyftd7fRKh37XCEBx",
   "tracks": [
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tronando Ligas",
-        "url": "https://open.spotify.com/album/3T1p44pBktaA3TIcjurRkS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Tronando Ligas",
-      "url": "https://open.spotify.com/track/71dRqswBJfMwOmqhBqOIgH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 176000,
       "name": "Coraz\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tronando Ligas",
+        "url": "https://open.spotify.com/album/3T1p44pBktaA3TIcjurRkS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Tronando Ligas",
+      "url": "https://open.spotify.com/track/71dRqswBJfMwOmqhBqOIgH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 36 min
+54 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [ALWAYS](https://open.spotify.com/track/34FjdCbFv7A1R4vjbogjjb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:38 | 2025-04-09 |  |
 | [Amazing Grace](https://open.spotify.com/track/6sfMU3Zx38YzBmv0QTQsH4) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:37 | 2025-04-09 |  |
 | [AMEN](https://open.spotify.com/track/1y4nTXpHuQEkKAge1l6tBU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [AMEN](https://open.spotify.com/album/3a0ZLBqp5E3MDhBCPM9un5) | 2:13 | 2025-04-27 |  |
+| [B.I.G.](https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:47 | 2025-05-12 |  |
 | [back in](https://open.spotify.com/track/59BTpJpB5N2SyaRUX75Lw2) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [back in](https://open.spotify.com/album/2wIU5KsWr2qEXgpRoh66es) | 3:09 | 2025-04-09 |  |
 | [BEAUTIFUL AS EVER](https://open.spotify.com/track/3sJVDXa0efAR4Eykjw75j5) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [nextseasons](https://open.spotify.com/artist/2aXULdbHoLRvVYKRfXodX5) | [BEAUTIFUL AS EVER](https://open.spotify.com/album/1S0dSacfIUmAoJOqRXe1GY) | 3:45 | 2025-04-09 |  |
 | [BEAUTIFUL AS YOU](https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:59 | 2025-04-09 |  |

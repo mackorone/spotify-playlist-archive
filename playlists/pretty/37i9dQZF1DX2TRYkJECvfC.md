@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,282,666 likes - 200 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,283,168 likes - 200 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,9 +128,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 118 | [Blue](https://open.spotify.com/track/3z53lSFTTK6nlB73YkBYHh) | [Datskie](https://open.spotify.com/artist/3CFACRLG0nYcMfGB7wSvTB) | [Blue](https://open.spotify.com/album/470WdnoBjuKycyssip4jtU) | 3:45 |
 | 119 | [Nobody Knows](https://open.spotify.com/track/4hq1oUeJruAfgsEmfdtgLR) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Dolly Rae](https://open.spotify.com/artist/0wB5diKi6MD5CqXoJ3h6lJ) | [Tarazed](https://open.spotify.com/album/03fHzOcSrqgaYKiKjs0Ldn) | 4:30 |
 | 120 | [Far Away](https://open.spotify.com/track/0owkRiLsjtXe3JKYxt9tf5) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso), [ZEMBU](https://open.spotify.com/artist/62VBDaxSQkTLYkKIXVItGr) | [Far Away](https://open.spotify.com/album/1A20CLLIpdw7tsZu25xZ7C) | 2:58 |
-| 121 | [Go](https://open.spotify.com/track/3TjfLlWgtEvsrKAvOeyIHT) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Go](https://open.spotify.com/album/1PxOROyL6nnGbGL0rYrhBM) | 4:34 |
-| 122 | [It's All Love](https://open.spotify.com/track/4KD5P3vY1rZUziFdw2qrKp) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [It's All Love](https://open.spotify.com/album/0bSjpqslnkqZHImdwBIRL0) | 5:15 |
-| 123 | [Silky, Buttery, Smooth](https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Silky, Buttery, Smooth](https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ) | 3:04 |
+| 121 | [It's All Love](https://open.spotify.com/track/4KD5P3vY1rZUziFdw2qrKp) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [It's All Love](https://open.spotify.com/album/0bSjpqslnkqZHImdwBIRL0) | 5:15 |
+| 122 | [Silky, Buttery, Smooth](https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Silky, Buttery, Smooth](https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ) | 3:04 |
+| 123 | [Go](https://open.spotify.com/track/3TjfLlWgtEvsrKAvOeyIHT) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Go](https://open.spotify.com/album/1PxOROyL6nnGbGL0rYrhBM) | 4:34 |
 | 124 | [Pulse Antique](https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Portrait of the Obscure](https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm) | 4:18 |
 | 125 | [Sonthee](https://open.spotify.com/track/7fKAiHWnUcGeZ4BFFItpQy) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Sonthee](https://open.spotify.com/album/71lGWXKrdQAnoyS4KJNJSq) | 4:16 |
 | 126 | [Wairau Bay](https://open.spotify.com/track/3cUUVRG0w6BmUgd4Jvq7MZ) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Wairau Bay](https://open.spotify.com/album/35AOYl5R2XTsif5NyiOi5g) | 3:28 |

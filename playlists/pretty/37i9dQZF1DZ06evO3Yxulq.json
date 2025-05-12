@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 40929,
+  "num_followers": 40933,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAAQ7GHN37T19l5pJ7LK7t80",
+  "snapshot_id": "aB6XAAAAAADuQ4uVscMqeabeJhWpq4fC",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
       "artists": [
         {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "David Reyes",
-          "url": "https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY"
-        },
-        {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
         }
       ],
-      "duration_ms": 450875,
-      "name": "Dios de Lo Imposible",
-      "url": "https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH"
+      "duration_ms": 445906,
+      "name": "Que Se Abra el Cielo",
+      "url": "https://open.spotify.com/track/795ipT8LPC3Zlbro5Umykx"
     },
     {
       "added_at": null,
@@ -143,22 +139,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
       "artists": [
         {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         },
         {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+          "name": "David Reyes",
+          "url": "https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 445906,
-      "name": "Que Se Abra el Cielo",
-      "url": "https://open.spotify.com/track/795ipT8LPC3Zlbro5Umykx"
+      "duration_ms": 450875,
+      "name": "Dios de Lo Imposible",
+      "url": "https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH"
     },
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 287533,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Sal",
         "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 266253,
       "name": "Por la Eternidad",
       "url": "https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 287533,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
     },
     {
       "added_at": null,

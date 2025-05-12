@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,423,535 likes - 150 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,423,796 likes - 150 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 76 | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY) | 3:22 |
 | 77 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 |
 | 78 | [Heaven](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Heaven](https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y) | 2:58 |
-| 79 | [Billie \(loving arms\)](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Billie \(loving arms\)](https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1) | 3:37 |
-| 80 | [Disco Inferno](https://open.spotify.com/track/7qhFWlQpahKJT9LcL6qTH4) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ), [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Disco Inferno](https://open.spotify.com/album/4lVZr7UdF9hRTsnXiVQCRo) | 2:11 |
-| 81 | [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 |
+| 79 | [Disco Inferno](https://open.spotify.com/track/7qhFWlQpahKJT9LcL6qTH4) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ), [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Disco Inferno](https://open.spotify.com/album/4lVZr7UdF9hRTsnXiVQCRo) | 2:11 |
+| 80 | [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 |
+| 81 | [Billie \(loving arms\)](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Billie \(loving arms\)](https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1) | 3:37 |
 | 82 | [Addicted \- Zerb Acid VIP](https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [ADDICTED: REFRESHED](https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio) | 3:09 |
 | 83 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 |
 | 84 | [Sunday Best](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Sunday Best](https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe) | 2:51 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 147 | [shinin'](https://open.spotify.com/track/0F6XxydyksTJT8fa4TcgBQ) | [axxa\*](https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5) | [Happy to be Here](https://open.spotify.com/album/79o35HAPiZ1fti0wKrt0wm) | 5:02 |
 | 148 | [What A Life \(feat\. Stevie Appleton\)](https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [What A Life \(feat\. Stevie Appleton\)](https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw) | 2:51 |
 | 149 | [CHOOSE LOVE](https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [CHOOSE LOVE](https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT) | 2:46 |
-| 150 | [You Know What I Need](https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/1lp2zvRCCMYOAxAgtVLFU2) | 2:50 |
+| 150 | [Dopamine \(feat\. EYLR\)](https://open.spotify.com/track/62102D1yfhWdzW39Vj06FR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [EYLR](https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV) | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/album/6SR1HmLqk3VOfv5E1nlVBa) | 3:36 |
 
 Snapshot ID: `aB193AAAAAAxtI/RrtFZAqbrvN405TKO`

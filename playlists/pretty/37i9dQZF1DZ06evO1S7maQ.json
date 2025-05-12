@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 640594,
+  "num_followers": 640647,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAAwvAsm/t1+MBLIY3uUIa2H",
+  "snapshot_id": "aB6XAAAAAABVBaRMSx8BKzhSRqZsFceR",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 268453,
+      "name": "The Promised Land",
+      "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take the Sadness Out of Saturday Night",
         "url": "https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 244186,
       "name": "Chinatown (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/1AA3ZjLo9tD2iSZAs2svyj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 268453,
-      "name": "The Promised Land",
-      "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
     },
     {
       "added_at": null,

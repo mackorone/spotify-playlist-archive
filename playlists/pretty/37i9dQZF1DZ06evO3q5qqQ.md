@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,594 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,623 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [El Mollete \(En Vivo\)](https://open.spotify.com/track/0rpdG6Pg0AjxHiIzwnvUMq) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mollete \(En Vivo\)](https://open.spotify.com/album/6NHKYhMdtDI52ztF4mkeBA) | 2:05 |
 | 50 | [La Sombra Del Sombrero \- En Vivo](https://open.spotify.com/track/1kyAxI5VF8BQ9rfL07QV75) | [Chuy Lopez](https://open.spotify.com/artist/6VwUtgHcDXb3cLnlIKidVM), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pisteando Entre Amigos \(En Vivo\)](https://open.spotify.com/album/6LX4xXXcu3GuO8mpMCwWKo) | 3:38 |
 
-Snapshot ID: `aB1FgAAAAABxAHZC++JUNJE2gCFAL8b8`
+Snapshot ID: `aB6XAAAAAACQsjpU3KoelbJ1/RG8bn/o`

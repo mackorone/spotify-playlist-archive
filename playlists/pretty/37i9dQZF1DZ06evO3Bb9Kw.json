@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAADmTc3+phRZuQ5dCGKXPq4t",
+  "snapshot_id": "aB6XAAAAAACrBS4AElZLxORClgbKZ2g3",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Famous In a Small Town",
-      "url": "https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
         "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 226753,
       "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
       "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Famous In a Small Town",
+      "url": "https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X"
     },
     {
       "added_at": null,

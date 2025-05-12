@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Dum Chica.",
-  "num_followers": 42107,
+  "num_followers": 42113,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
         "name": "Perro de Playa (2020 Remasterizado)",
         "url": "https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 204469,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
+        "name": "Buenas Noches Terr\u00edcolas",
+        "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        }
+      ],
+      "duration_ms": 247970,
+      "name": "MANIQU\u00cd",
+      "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
         "name": "Cosa M\u00eda",
         "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
       },
@@ -943,6 +959,26 @@
       "duration_ms": 169693,
       "name": "Cosa M\u00eda",
       "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Un Dios Nuevo",
+        "url": "https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll"
+      },
+      "artists": [
+        {
+          "name": "La Piba Berreta",
+          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
+        },
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+        }
+      ],
+      "duration_ms": 244697,
+      "name": "Hay que Creer en Algo",
+      "url": "https://open.spotify.com/track/6rYcyDesF9ZlScEaeGq9QA"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -991,42 +1027,6 @@
       "duration_ms": 190165,
       "name": "Ego",
       "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Un Dios Nuevo",
-        "url": "https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll"
-      },
-      "artists": [
-        {
-          "name": "La Piba Berreta",
-          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
-        },
-        {
-          "name": "Sara Hebe",
-          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
-        }
-      ],
-      "duration_ms": 244697,
-      "name": "Hay que Creer en Algo",
-      "url": "https://open.spotify.com/track/6rYcyDesF9ZlScEaeGq9QA"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Buenas Noches Terr\u00edcolas",
-        "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
-      },
-      "artists": [
-        {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
-        }
-      ],
-      "duration_ms": 247970,
-      "name": "MANIQU\u00cd",
-      "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
+        "name": "Para Olvidarte",
+        "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
+      },
+      "artists": [
+        {
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Para Olvidarte",
+      "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
         "name": "Atasco",
         "url": "https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 192286,
       "name": "Mi Voz",
       "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Para Olvidarte",
-        "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
-      },
-      "artists": [
-        {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Para Olvidarte",
-      "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
+        "name": "Huir",
+        "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
+      },
+      "artists": [
+        {
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Huir",
+      "url": "https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
         "name": "Cronos",
         "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 236081,
       "name": "Una Temporada en el Invierno",
       "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Huir",
-        "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
-      },
-      "artists": [
-        {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Huir",
-      "url": "https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl"
     },
     {
       "added_at": "2024-09-12 21:00:20",

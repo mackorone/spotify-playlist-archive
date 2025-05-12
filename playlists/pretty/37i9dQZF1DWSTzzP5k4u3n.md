@@ -9,9 +9,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paras päivä](https://open.spotify.com/track/1y2o7GzA5GCPrexr4TkuMF) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Mörkö koneistossa](https://open.spotify.com/album/7Bl7ngnIM81THnE2ecFVzg) | 3:55 |
-| 2 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
-| 3 | [Elisa Day](https://open.spotify.com/track/7Grvj1XX1d1W9hUzZKR3Xr) | [JP Leppäluoto](https://open.spotify.com/artist/24Rd4rNLnKZbKmCEl79Fxx) | [Elisa Day](https://open.spotify.com/album/5sbq5DhHfYRa2WiVCkPpwA) | 3:21 |
-| 4 | [Kulkurin iltatähti](https://open.spotify.com/track/1fTg8S7Ql5SOHzDLdm6665) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kunnes aurinko nielaisee maan](https://open.spotify.com/album/2t9jfZYDyLYB9DbzpxGIaS) | 4:25 |
+| 2 | [Kulkurin iltatähti](https://open.spotify.com/track/1fTg8S7Ql5SOHzDLdm6665) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kunnes aurinko nielaisee maan](https://open.spotify.com/album/2t9jfZYDyLYB9DbzpxGIaS) | 4:25 |
+| 3 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
+| 4 | [Elisa Day](https://open.spotify.com/track/7Grvj1XX1d1W9hUzZKR3Xr) | [JP Leppäluoto](https://open.spotify.com/artist/24Rd4rNLnKZbKmCEl79Fxx) | [Elisa Day](https://open.spotify.com/album/5sbq5DhHfYRa2WiVCkPpwA) | 3:21 |
 | 5 | [Katuvalot](https://open.spotify.com/track/3m6zdX1SsKplLsLKIO8DH3) | [CVPRI](https://open.spotify.com/artist/3dsY7ij3CllLbA9KgCB4iz) | [Katuvalot](https://open.spotify.com/album/0VQmiMRuOAQwGNCyggwpLh) | 3:21 |
 | 6 | [Karkki](https://open.spotify.com/track/07NKQiadRksZlcxHSIhRgy) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Karkki](https://open.spotify.com/album/2ujvz6ETOft0VpdbAj35Or) | 3:03 |
 | 7 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 82 | [Yöjuna \(feat\. Marko Haavisto\)](https://open.spotify.com/track/5DjFjPK6QqzouCimLsvQnX) | [Mary Ann Hawkins](https://open.spotify.com/artist/3jfyjffOh8c7nSzKLIa64C), [Marko Haavisto](https://open.spotify.com/artist/4CNocwH4uDHbs8M1NvqARV) | [Helsinki Surf City](https://open.spotify.com/album/6qFpV8LLxpYccQDFVB3Pc4) | 3:52 |
 | 83 | [Tuli palaa siltojen alla](https://open.spotify.com/track/1TNO0iMLRJsdqLh0I8PJjX) | [Pyhät Nuket](https://open.spotify.com/artist/6pIwg2AXb0G7jrSsp25Fp3) | [Tuli palaa siltojen alla](https://open.spotify.com/album/2yZYW7aF8hj5RiHz9XjkUs) | 3:41 |
 
-Snapshot ID: `aB0bqAAAAAARVSdBuQoCHaViheEZPIwW`
+Snapshot ID: `aCCF4gAAAADkcrUJfFY6uZzqAaDXCvGs`

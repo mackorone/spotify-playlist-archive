@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > Jazz house is our love language  🌳  with  Chaos In The CBD
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,420 likes - 95 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,495 likes - 95 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

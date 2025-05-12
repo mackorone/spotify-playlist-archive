@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 8951,
+  "num_followers": 8959,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
@@ -327,42 +327,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "So Help Me God!",
-        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 178993,
-      "name": "Money Maker (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Dance Like No One's Watching",
-        "url": "https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 211396,
-      "name": "Dance Like No One\u2019s Watching",
-      "url": "https://open.spotify.com/track/2kuYZZvjwzYWPA8L7ICFXn"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Pluto x Baby Pluto (Deluxe)",
         "url": "https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR"
       },
@@ -383,26 +347,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Detroit 2",
-        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+        "name": "So Help Me God!",
+        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         },
         {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 207243,
-      "name": "Respect It (with Hit-Boy feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
+      "duration_ms": 178993,
+      "name": "Money Maker (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -427,6 +387,46 @@
       "duration_ms": 179533,
       "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
       "url": "https://open.spotify.com/track/7J2DtwsxdoyrhgNV3Vzmos"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Dance Like No One's Watching",
+        "url": "https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 211396,
+      "name": "Dance Like No One\u2019s Watching",
+      "url": "https://open.spotify.com/track/2kuYZZvjwzYWPA8L7ICFXn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 207243,
+      "name": "Respect It (with Hit-Boy feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
     },
     {
       "added_at": "2022-10-01 16:00:00",

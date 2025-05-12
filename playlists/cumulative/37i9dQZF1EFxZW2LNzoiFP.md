@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-265 songs - 15 hr 14 min
+266 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [White Husk](https://open.spotify.com/track/1pyNU4cwvLphePd6htmGvP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:03 | 2024-12-11 |  |
 | [White Whale](https://open.spotify.com/track/1EnfJ62qpnikJ2EWMfla3a) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Heathen](https://open.spotify.com/album/273GjRsq1JgB5lu7ptz6HQ) | 3:41 | 2024-05-01 |  |
 | [Who Do You Love?!](https://open.spotify.com/track/755IXb7BtCjg75SdrMRor7) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Who Do You Love?! // Insecure](https://open.spotify.com/album/5F61DPyTgH4BYALUawqUVD) | 3:31 | 2024-05-01 |  |
+| [Wildfire](https://open.spotify.com/track/3Q8wPOOfGezQsDOpdlC6Oc) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Wildfire](https://open.spotify.com/album/7lmd4XerMqM2nfCSID3HEb) | 3:40 | 2025-05-11 |  |
 | [Wilinout](https://open.spotify.com/track/07bVfkubeWBRUFLzKcvqMB) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Wilinout](https://open.spotify.com/album/1tUewhkamOHq1hlREvo4kG) | 3:20 | 2024-05-01 |  |
 | [woozy](https://open.spotify.com/track/2OJpoFLYK2ZZdxbZX7t7ul) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw) | [fka kyko EP](https://open.spotify.com/album/08Uz0ACnlwb9o4cdy6ylyN) | 2:51 | 2024-05-01 |  |
 | [Work It Out](https://open.spotify.com/track/3Ib2Zo2ekncLEPolzEvcfy) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 4:33 | 2024-05-01 |  |

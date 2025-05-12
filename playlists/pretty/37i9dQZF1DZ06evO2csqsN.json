@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 35435,
+  "num_followers": 35447,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAADqovHC43+8TJGnNjtXv+M3",
+  "snapshot_id": "aB6XAAAAAAA8RhKD7trn7YgvyHdgPe/D",
   "tracks": [
     {
       "added_at": null,
@@ -355,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "B*tch From Da Souf",
-        "url": "https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw"
+        "name": "Booty (feat. Latto)",
+        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
       },
       "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 144047,
-      "name": "B*tch From Da Souf",
-      "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
+      "duration_ms": 146666,
+      "name": "Booty (feat. Latto)",
+      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
     },
     {
       "added_at": null,
@@ -391,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Booty (feat. Latto)",
-        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
+        "name": "B*tch From Da Souf",
+        "url": "https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw"
       },
       "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 146666,
-      "name": "Booty (feat. Latto)",
-      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
+      "duration_ms": 144047,
+      "name": "B*tch From Da Souf",
+      "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
     },
     {
       "added_at": null,

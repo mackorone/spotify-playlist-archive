@@ -2073,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/7zfttfWarwucZwLgB0hkSP"
+      },
+      "artists": [
+        {
+          "name": "ablume",
+          "url": "https://open.spotify.com/artist/4XvBehn5EnOEueirgtfIgj"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194053,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/29sFqmK1SNaGhY8RTmMmpz"
+    },
+    {
+      "album": {
         "name": "OH MY GIRL 6th Mini Album [REMEMBER ME]",
         "url": "https://open.spotify.com/album/5cWzZxmpNNedvZLCXnFE3E"
       },
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 166946,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"

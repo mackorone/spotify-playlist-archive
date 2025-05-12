@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Un ramo de flores frescas y una playlist con rolitas nuevas para celebrar a mamá 💐✨ Eden Muñoz en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,477 likes - 63 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,772 likes - 63 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

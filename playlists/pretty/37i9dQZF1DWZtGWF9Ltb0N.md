@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes ♣️
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,689 likes - 150 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,789 likes - 150 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 71 | [Bumpy Road](https://open.spotify.com/track/3JAymUPWQlPtuzuhMD7pfh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Bumpy Road](https://open.spotify.com/album/7cVTw8bzXnTza4JxBtI5ak) | 3:26 |
 | 72 | [Wild Flowers](https://open.spotify.com/track/5GvC8Uzo1zIb03zWNHC2V2) | [ring noord](https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A), [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2), [Former](https://open.spotify.com/artist/5JUoiC2oaCGmgVl1Dsw1vN) | [Wild Flowers](https://open.spotify.com/album/3AYsxTbk9MZtVjquj60Isb) | 5:23 |
 | 73 | [Tomb Of The Scorpion](https://open.spotify.com/track/661OQwbwYMIy8WBqBqC9XG) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Tomb Of The Scorpion](https://open.spotify.com/album/0wsigP8YYNdHUtFRZ3Yi3w) | 3:53 |
-| 74 | [Control](https://open.spotify.com/track/4J6ZXhcKEy7Dsg8ERMN17e) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Control](https://open.spotify.com/album/7EE8YvysQ7SzedaQ3Izw5i) | 2:31 |
-| 75 | [Certified](https://open.spotify.com/track/3mYP9Tec1OzcwNKuCEqJzE) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [MontyCler](https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw) | [Certified](https://open.spotify.com/album/70eXJWr1u3t8PF81jx6mLL) | 3:39 |
-| 76 | [Muscaria](https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Muscaria / Everglade March \(VIP\)](https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u) | 2:49 |
+| 74 | [Certified](https://open.spotify.com/track/3mYP9Tec1OzcwNKuCEqJzE) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [MontyCler](https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw) | [Certified](https://open.spotify.com/album/70eXJWr1u3t8PF81jx6mLL) | 3:39 |
+| 75 | [Muscaria](https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Muscaria / Everglade March \(VIP\)](https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u) | 2:49 |
+| 76 | [Control](https://open.spotify.com/track/4J6ZXhcKEy7Dsg8ERMN17e) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Control](https://open.spotify.com/album/7EE8YvysQ7SzedaQ3Izw5i) | 2:31 |
 | 77 | [VERTIGO](https://open.spotify.com/track/7gKY7POH3quFyxdWRXwQI0) | [FLY](https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [VERTIGO](https://open.spotify.com/album/3PnKguPgwwHWzGZcFOJBt3) | 3:32 |
 | 78 | [Tokyo](https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g) | [Klinical](https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB), [Spektiv](https://open.spotify.com/artist/1ILJ2noUbT5iGh3bzHGY3J) | [Tokyo](https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87) | 4:10 |
 | 79 | [Pulse](https://open.spotify.com/track/5g7gJzOgSt8iujy6DORM50) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [FLY](https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda) | [Pulse](https://open.spotify.com/album/78tirUQlTQeqiZpTyXdXkO) | 2:27 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 84 | [Abomination](https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Abomination](https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf) | 2:48 |
 | 85 | [Never Serious](https://open.spotify.com/track/1P2ZpMNVmPW36OvQn0j15S) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6), [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Never Serious](https://open.spotify.com/album/339tdGrtk6EQGba7JAZGxD) | 3:29 |
 | 86 | [Watchin You](https://open.spotify.com/track/384AyogTeYanSZeLzBptzd) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM), [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu) | [DUBS EP](https://open.spotify.com/album/227Am9ZcZbUYeECl4eVrxN) | 3:41 |
-| 87 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
-| 88 | [sticky icky!](https://open.spotify.com/track/1kTJlyZLjjbpoM8Yd5bTOZ) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [sticky icky!](https://open.spotify.com/album/3Zmgegv64kiZd6CMblnL6n) | 3:12 |
-| 89 | [Tomorrow](https://open.spotify.com/track/3agFXIx45gyrD8457JK6wK) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Tomorrow \- EP](https://open.spotify.com/album/7IrrWUxNknlPtmVE1jPRVE) | 5:29 |
+| 87 | [sticky icky!](https://open.spotify.com/track/1kTJlyZLjjbpoM8Yd5bTOZ) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [sticky icky!](https://open.spotify.com/album/3Zmgegv64kiZd6CMblnL6n) | 3:12 |
+| 88 | [Tomorrow](https://open.spotify.com/track/3agFXIx45gyrD8457JK6wK) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Tomorrow \- EP](https://open.spotify.com/album/7IrrWUxNknlPtmVE1jPRVE) | 5:29 |
+| 89 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
 | 90 | [Badman Season](https://open.spotify.com/track/2sOBIuHSmGcdCnfzJJhfvK) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Badman Season](https://open.spotify.com/album/1AYQOqyrJZTkXIC5u3Ly0U) | 4:01 |
 | 91 | [BAD BOY](https://open.spotify.com/track/1CdJUMDI868MDRZXEF0Vzt) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [BAD BOY](https://open.spotify.com/album/6tpAQ0U2U8qblcluGpw83C) | 2:16 |
 | 92 | [Meditate](https://open.spotify.com/track/4ocnWBdTUhEC5CAuIEy43s) | [Mungk](https://open.spotify.com/artist/24UUxM6HmNY61FJryfs7fk) | [Buzuq Riddim / Meditate](https://open.spotify.com/album/1qy4QJlohE2hmMo4uIcwrq) | 5:42 |

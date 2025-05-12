@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,987 likes - 275 songs - 13 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,007 likes - 275 songs - 13 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,9 +273,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 | 263 | [Juicy Rain](https://open.spotify.com/track/6rkkuo0LWpJW0EhkqqbNwI) | [When It Rains In California](https://open.spotify.com/artist/6ttzO188jzpYIyj00pSsyZ) | [Part One](https://open.spotify.com/album/1zoQBG8m0K5z3SrUwprXG0) | 3:00 |
 | 264 | [Morning Rain](https://open.spotify.com/track/5imJcc13Fu59LGcxQKhQtp) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Forest Rain Sounds](https://open.spotify.com/album/5PBnIqFcWwIiRKQcm7XQ1i) | 3:06 |
 | 265 | [Relax, It’s Raining](https://open.spotify.com/track/2xIrVdhiBGroHmUCsskMPG) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Natural Rain](https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh) | 2:30 |
-| 266 | [Regnljud](https://open.spotify.com/track/5mBKVM21lALtJgUz0viYbl) | [Bad Weather Forecast](https://open.spotify.com/artist/4cSSlFZVzDr6U2JbKiaqVs) | [Sleeping Sounds](https://open.spotify.com/album/0I7MgTcuGhEDJ4W80dmcIC) | 2:37 |
-| 267 | [Rain Meditation](https://open.spotify.com/track/57zsjpyXmUl5m1gluaEdBH) | [Sampling XL](https://open.spotify.com/artist/7ECXymmfS4gH66cI7a8dwr) | [Rain Makers](https://open.spotify.com/album/7MjCE3ryCHTX7ojc0DWfyq) | 2:07 |
-| 268 | [Rainy Day](https://open.spotify.com/track/5qKaKWTZ74lAd8IgvSaVld) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Sleep Factory](https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy) | 5:22 |
+| 266 | [Rainy Day](https://open.spotify.com/track/5qKaKWTZ74lAd8IgvSaVld) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Sleep Factory](https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy) | 5:22 |
+| 267 | [Regnljud](https://open.spotify.com/track/5mBKVM21lALtJgUz0viYbl) | [Bad Weather Forecast](https://open.spotify.com/artist/4cSSlFZVzDr6U2JbKiaqVs) | [Sleeping Sounds](https://open.spotify.com/album/0I7MgTcuGhEDJ4W80dmcIC) | 2:37 |
+| 268 | [Rain Meditation](https://open.spotify.com/track/57zsjpyXmUl5m1gluaEdBH) | [Sampling XL](https://open.spotify.com/artist/7ECXymmfS4gH66cI7a8dwr) | [Rain Makers](https://open.spotify.com/album/7MjCE3ryCHTX7ojc0DWfyq) | 2:07 |
 | 269 | [Deep Sleep Rain](https://open.spotify.com/track/5pw1sVck5W8BQ31gCHrips) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:10 |
 | 270 | [Lluvia suave](https://open.spotify.com/track/3A1RBfrXza6FSsIdMiqWx2) | [Señora Trueno](https://open.spotify.com/artist/2ADeN2WKd6aWB3INuk2QRa) | [Lluvia suave](https://open.spotify.com/album/4JOUR92adoXROV55LLwMYn) | 3:02 |
 | 271 | [The Gentle Rains Of Summer](https://open.spotify.com/track/3FVvaFKKyjafGHkwzj73o4) | [Mississippi Nature Recording Society](https://open.spotify.com/artist/3JuC7m69FBuJpCuRLt6HLo) | [Mississippi Rain](https://open.spotify.com/album/3FAYpeYN8lseVewV0dvboL) | 3:24 |

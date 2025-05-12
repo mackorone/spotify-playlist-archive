@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag, og ny musik fra Annika, Gobs, Tobias Rahim og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,036 likes - 107 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,048 likes - 107 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

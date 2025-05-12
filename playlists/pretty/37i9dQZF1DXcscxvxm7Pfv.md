@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from distraction with calming white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,347 likes - 175 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,526 likes - 175 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,18 +66,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 56 | [White Noise Eternity](https://open.spotify.com/track/4Vqw8dAFAVITkiALTRo2HA) | [Reality Sound](https://open.spotify.com/artist/34yGVl5CKVdhqRost8UeJ1) | [Founded Noise](https://open.spotify.com/album/5Kxejh6FtCIuvY674BpXvb) | 2:14 |
 | 57 | [Soothing Field Noise](https://open.spotify.com/track/2EGXrlIaOm4Qd3aEQy60GV) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:33 |
 | 58 | [Tunnel Noise](https://open.spotify.com/track/0KNJrBUU6A93gsBlPo9F7Q) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Tunnel Noise](https://open.spotify.com/album/3yRleiOvW3vcp3gubkr7gk) | 2:58 |
-| 59 | [Ljudet av en skugga](https://open.spotify.com/track/3po8Ur8zo1NZ6mbk0nxUAJ) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Vitt Brus](https://open.spotify.com/album/5pYHh9WVIkmt8thx2nMvlT) | 2:44 |
-| 60 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 59 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 60 | [Ljudet av en skugga](https://open.spotify.com/track/3po8Ur8zo1NZ6mbk0nxUAJ) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Vitt Brus](https://open.spotify.com/album/5pYHh9WVIkmt8thx2nMvlT) | 2:44 |
 | 61 | [White Noise Tiefschlaf](https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [White Noise Tranquility](https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7) | 2:52 |
 | 62 | [Calming White Noise Generator](https://open.spotify.com/track/4aDDlJRc1WbIlFqhc4aMgx) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [White Noise Flakes](https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p) | 4:33 |
 | 63 | [White Noise is for Napping](https://open.spotify.com/track/1auhrJevFfuhjPaIt9b2XH) | [Dreamlux](https://open.spotify.com/artist/608c6CqBFogFms9icxSr2F) | [Sleep, White Noise Sleep](https://open.spotify.com/album/4wuyiKHy5bgqYlvIhW4nuC) | 2:27 |
 | 64 | [Gentle White Noise Generator](https://open.spotify.com/track/7xirU92R68BcxUGYy4MeF1) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [Gentle White Noise Generator](https://open.spotify.com/album/2h6CzSLW1o2XzNZB3B8hAx) | 4:06 |
 | 65 | [Out Cold with White Noise](https://open.spotify.com/track/2qcROjiCc0JSGVUiNsWrtw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:02 |
 | 66 | [White Noise Soul](https://open.spotify.com/track/6rN42ucxz8KE5aTEpfeIOY) | [Indika](https://open.spotify.com/artist/6vl0jfkfF6pKuUQPJhWshU) | [Noisy Element](https://open.spotify.com/album/1CrQyQYY5MXE1A6T0LAu1O) | 2:42 |
-| 67 | [NoiZzz on My Mind](https://open.spotify.com/track/75fyPQxfL7MDpX5BFr9vQ7) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Slumberous White Noise](https://open.spotify.com/album/2Nq6sOud7volwuU5hORbv4) | 4:37 |
-| 68 | [White Noise for Babies](https://open.spotify.com/track/6XnY3gVL4HXpzJV8vEKCvp) | [Noise Chillantro](https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU) | [White Noise Waves](https://open.spotify.com/album/6FOS1WjieC6CQ6nJwL6jln) | 2:56 |
-| 69 | [Smooth & Cozy White Noise](https://open.spotify.com/track/4GmlgTUcOTyRKT1I4NL6ZB) | [Heavenly Fluff](https://open.spotify.com/artist/088h0mIu6ZctknUuvWuqGm) | [Smooth & Cozy White Noise](https://open.spotify.com/album/71x1sgTEau5rFW9zWgVGyy) | 2:51 |
-| 70 | [White Noise Flakes](https://open.spotify.com/track/0wVyUtOvYWJvniPRidlNnQ) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [White Noise Flakes](https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p) | 4:32 |
+| 67 | [White Noise Flakes](https://open.spotify.com/track/0wVyUtOvYWJvniPRidlNnQ) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [White Noise Flakes](https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p) | 4:32 |
+| 68 | [NoiZzz on My Mind](https://open.spotify.com/track/75fyPQxfL7MDpX5BFr9vQ7) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Slumberous White Noise](https://open.spotify.com/album/2Nq6sOud7volwuU5hORbv4) | 4:37 |
+| 69 | [White Noise for Babies](https://open.spotify.com/track/6XnY3gVL4HXpzJV8vEKCvp) | [Noise Chillantro](https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU) | [White Noise Waves](https://open.spotify.com/album/6FOS1WjieC6CQ6nJwL6jln) | 2:56 |
+| 70 | [Smooth & Cozy White Noise](https://open.spotify.com/track/4GmlgTUcOTyRKT1I4NL6ZB) | [Heavenly Fluff](https://open.spotify.com/artist/088h0mIu6ZctknUuvWuqGm) | [Smooth & Cozy White Noise](https://open.spotify.com/album/71x1sgTEau5rFW9zWgVGyy) | 2:51 |
 | 71 | [White Noise for Baby Sleep](https://open.spotify.com/track/16Vewnjl60wKkzZb8bz0Hp) | [Sleep Alphabet](https://open.spotify.com/artist/07zWNtOjC3QzF79jiFKYjm) | [White Noise](https://open.spotify.com/album/5kgvsV5ETpdVf3PTQcTZmm) | 2:44 |
 | 72 | [Scandinavian Air](https://open.spotify.com/track/7c0H5pm4XvkhYyyxk4Ifm3) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [Scandinavian Air](https://open.spotify.com/album/1tIESKGMhbQcXshU8z8rYz) | 2:29 |
 | 73 | [Good Night, White Noise](https://open.spotify.com/track/7wvFYp6DH6wnmssGxljA6Y) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Good Night, White Noise](https://open.spotify.com/album/6JdZfBjzn0tyfuzu0efVYp) | 4:58 |

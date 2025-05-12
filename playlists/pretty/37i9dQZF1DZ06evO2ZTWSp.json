@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 484338,
+  "num_followers": 484321,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAACy2xDBTdsypD5Xg7lkNjkY",
+  "snapshot_id": "aB6XAAAAAAAdyxa16UscnOsM9ZghLdvy",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'em Say",
-        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
+        "name": "3rd Ward Bounce",
+        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
         },
         {
-          "name": "Caroline Smith",
-          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 200578,
-      "name": "Let 'em Say",
-      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
+      "duration_ms": 185890,
+      "name": "Karaoke (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
     },
     {
       "added_at": null,
@@ -523,22 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd Ward Bounce",
-        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
+        "name": "Let 'em Say",
+        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
       },
       "artists": [
         {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Caroline Smith",
+          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
         }
       ],
-      "duration_ms": 185890,
-      "name": "Karaoke (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
+      "duration_ms": 200578,
+      "name": "Let 'em Say",
+      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
     },
     {
       "added_at": null,

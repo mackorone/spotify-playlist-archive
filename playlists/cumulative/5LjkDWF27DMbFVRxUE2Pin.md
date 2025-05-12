@@ -4,7 +4,7 @@
 
 > 
 
-579 songs - 1 day 13 hr 11 min
+581 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Elephant](https://open.spotify.com/track/6HqWcIutC3Bwk6awM1jnGP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/76vY9yohh4kVwSKkyKbyEQ) | 3:31 | 2024-07-19 |  |
 | [Enchanté](https://open.spotify.com/track/784FnVGX6Td1t2hvDlxUI5) | [Dirt Poor Robins](https://open.spotify.com/artist/16lGevDffmuRakKVvdJ983) | [Queen of the Night](https://open.spotify.com/album/0Bw5IcwdkOrW60aSyzGcRw) | 5:35 | 2025-03-24 |  |
 | [Everybody](https://open.spotify.com/track/2PK4GASncyY4yInMaQokCv) | [Ak9](https://open.spotify.com/artist/54TYKK5c6YUmu6FsZnEW5w) | [Everybody](https://open.spotify.com/album/62BIm1WKfrnhkYDRnqW6gL) | 3:07 | 2024-08-23 | 2024-09-09 |
+| [Excelsis](https://open.spotify.com/track/5V66vAiCdcUuJYHuYlXprQ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 6:01 | 2025-05-11 |  |
 | [Face Off](https://open.spotify.com/track/6qi8XaTEXV0NgfWEgrwaLV) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [All In](https://open.spotify.com/album/2my3scIg8dImUFBYcn3DEG) | 2:54 | 2025-01-24 |  |
 | [Faded Black Tattoo](https://open.spotify.com/track/3yutPO9ct6ZUqqEEHFm2qZ) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 4:22 | 2024-10-09 |  |
 | [FAIRY TAIL Main Theme](https://open.spotify.com/track/7JoZiEMrwjpD18krCV8Czo) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | ["Fairy Tail" Original Soundtrack Vol.1](https://open.spotify.com/album/5SZKUWakunPJRuseVjCsv0) | 2:32 | 2024-07-17 |  |
@@ -204,6 +205,7 @@
 | [Good Morning](https://open.spotify.com/track/2a9sbZbWXmRJy0QLHvIu63) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [More Late Night Transmissions With...](https://open.spotify.com/album/6khax1qrW3LNlfAxwgEBq4) | 3:15 | 2024-07-18 |  |
 | [Good Name](https://open.spotify.com/track/4j8RtIg2QvuXbUfscAo5nS) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/2OZuC75dcQ0wO5aWVRQCIR) | 10:05 | 2024-07-19 |  |
 | [Griftwood](https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:16 | 2024-07-25 |  |
+| [Guiding Lights](https://open.spotify.com/track/314wHzW2tMlNIc4Wvguu8w) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 3:24 | 2025-05-11 |  |
 | [Gun In My Hand](https://open.spotify.com/track/52gbcP8Uumg34r2hxv24n1) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:20 | 2024-07-16 |  |
 | [Hangin' On](https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Hangin' On](https://open.spotify.com/album/1QFag1soFAXSOXGoRQHp5G) | 3:15 | 2024-07-31 | 2024-08-15 |
 | [Hanging On Your Hinges](https://open.spotify.com/track/51meroqk0WNLEijUCcoew5) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Oochya!](https://open.spotify.com/album/4LbVuFXMXZaBOdqVnByOVi) | 2:57 | 2024-07-16 |  |

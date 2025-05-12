@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 
 > Where nature and white noise meet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,529 likes - 92 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,481 likes - 92 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 69 | [Rainy White Noise](https://open.spotify.com/track/3afauC1qTFNIjtCRihhpEt) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Thunder & White Noise](https://open.spotify.com/album/45Sp5SWlpyj6CWqiW2LoQm) | 3:25 |
 | 70 | [Fall Asleep In The Rainforest](https://open.spotify.com/track/6laELth2IuDYyBx5hm4epM) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Sleep Rain](https://open.spotify.com/album/3oRN8iIXisYNaL5p9qbgaV) | 3:38 |
 | 71 | [Forestry \- Birds and River](https://open.spotify.com/track/2u2yWTJRuZMTPV4aW5f7NT) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Autumn](https://open.spotify.com/album/185jgdGe8PCY7itko869IC) | 3:16 |
-| 72 | [Morning By The Ocean](https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 2](https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU) | 3:08 |
-| 73 | [Oceanic Samples](https://open.spotify.com/track/7t87vcupUHamRBHfIOh1Rm) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 2:53 |
-| 74 | [Steady Rainfall](https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Suburban Rain Sounds](https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2) | 3:31 |
-| 75 | [Rise \(3 Minute Loopable Tibetan Bowl Timer\)](https://open.spotify.com/track/2CqbAzeol0N9F5NCbTI1d2) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Timed Tibetan Bowl Meditation \(Loopable\)](https://open.spotify.com/album/0YskWkpftquyWyCwvbAWCQ) | 3:00 |
+| 72 | [Rise \(3 Minute Loopable Tibetan Bowl Timer\)](https://open.spotify.com/track/2CqbAzeol0N9F5NCbTI1d2) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Timed Tibetan Bowl Meditation \(Loopable\)](https://open.spotify.com/album/0YskWkpftquyWyCwvbAWCQ) | 3:00 |
+| 73 | [Morning By The Ocean](https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 2](https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU) | 3:08 |
+| 74 | [Oceanic Samples](https://open.spotify.com/track/7t87vcupUHamRBHfIOh1Rm) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 2:53 |
+| 75 | [Steady Rainfall](https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Suburban Rain Sounds](https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2) | 3:31 |
 | 76 | [Soothing Lake Waves](https://open.spotify.com/track/2FFkQBFoPY14EbwDijOOnG) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Nighttime Waves](https://open.spotify.com/album/6Ya4idfkceVw1AmzjXeqeW) | 3:11 |
 | 77 | [Rain Ambience](https://open.spotify.com/track/0CBPKuwcdJpHiF1KtWKkg9) | [Ambature](https://open.spotify.com/artist/75H8JLJECgFwyMddSZSvIM) | [Rain Ambience](https://open.spotify.com/album/1KTaSrFgB6KZfzJTxCWXIV) | 2:13 |
 | 78 | [몇 시간 동안 비](https://open.spotify.com/track/6BX1UYZv1zTi95DINQFBDh) | [기분 비](https://open.spotify.com/artist/6EfMqu94a17ge5ltD86pj6) | [몇 시간 동안 비](https://open.spotify.com/album/0q4Tp0M1AJwEcqOyYVYD9J) | 2:30 |

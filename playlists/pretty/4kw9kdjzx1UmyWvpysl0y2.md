@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 125,330 likes - 62 songs - 3 hr 13 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 125,329 likes - 62 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

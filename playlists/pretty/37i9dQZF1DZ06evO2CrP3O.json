@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 137300,
+  "num_followers": 137308,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAADShm/sYwYZAK/8EeaYoJag",
+  "snapshot_id": "aB6XAAAAAABAxoLjb1cJHJ7XgwCfXz4C",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 127693,
-      "name": "Little Girl Lies - Remastered 2001",
-      "url": "https://open.spotify.com/track/7z1W9g9TXBoqFFqpj7jTvs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 231800,
       "name": "Do The Dark - Remastered 2001",
       "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 127693,
+      "name": "Little Girl Lies - Remastered 2001",
+      "url": "https://open.spotify.com/track/7z1W9g9TXBoqFFqpj7jTvs"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 380480,
-      "name": "Ll\u00e1mame (Call Me)",
-      "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 227666,
       "name": "Angels On The Balcony - Remastered 2001",
       "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 380480,
+      "name": "Ll\u00e1mame (Call Me)",
+      "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
     },
     {
       "added_at": null,
@@ -787,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Loud",
-        "url": "https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG"
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
       "artists": [
-        {
-          "name": "Just Loud",
-          "url": "https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9"
-        },
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Soul Train",
-      "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"
+      "duration_ms": 249666,
+      "name": "Live It Up - Remastered 2001",
+      "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 807405,
+  "num_followers": 807484,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAB010XtZgGOhLufmU0cgom9",
+  "snapshot_id": "aB6XAAAAAADIdKD6/Q4XJ9dwmNY3XdRZ",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drones",
-        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 206106,
       "name": "Thought Contagion",
       "url": "https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 227213,
       "name": "The Dark Side",
       "url": "https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa"
     },
     {
       "added_at": null,

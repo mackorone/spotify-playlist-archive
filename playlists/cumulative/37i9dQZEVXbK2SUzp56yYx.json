@@ -8688,7 +8688,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 129863,
       "name": "laperouse",
       "url": "https://open.spotify.com/track/3F7zcoIHGU5EVpR0ZwNOAE"
@@ -11324,7 +11324,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 68312,
       "name": "NADA DE NADA",
       "url": "https://open.spotify.com/track/397jCX8wRPKsSZTDcAUccg"
@@ -12440,7 +12440,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY"
@@ -16188,7 +16188,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
@@ -17518,7 +17518,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 152822,
       "name": "where's my head at _",
       "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"
@@ -17966,7 +17966,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 103344,
       "name": "WW3",
       "url": "https://open.spotify.com/track/1XMQl1X1rpfqdSAg0UJqTS"
@@ -21153,6 +21153,24 @@
     },
     {
       "album": {
+        "name": "\u0414\u043e\u043b\u044c\u0447\u0435 \u0413\u0430\u0431\u0431\u0430\u043d\u0430",
+        "url": "https://open.spotify.com/album/4Q3nTzfjAifpBnq4MAoDGo"
+      },
+      "artists": [
+        {
+          "name": "Sergey Zverev",
+          "url": "https://open.spotify.com/artist/1fyBGaiq2wXXNxBsvcwXyz"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186282,
+      "name": "\u0414\u043e\u043b\u044c\u0447\u0435 \u0413\u0430\u0431\u0431\u0430\u043d\u0430",
+      "url": "https://open.spotify.com/track/1ZZqucWdlA5rR3DhrU6JCB"
+    },
+    {
+      "album": {
         "name": "ALISHER",
         "url": "https://open.spotify.com/album/4Y8nQDihhjaKefzE3rmoAM"
       },
@@ -22320,6 +22338,24 @@
       "duration_ms": 68035,
       "name": "\u041a\u043e\u0442\u0451\u043d\u043e\u043a 2",
       "url": "https://open.spotify.com/track/2MuZ2kbWs1sDaiGgxJmnof"
+    },
+    {
+      "album": {
+        "name": "\u041a\u041e\u0424\u0415\u0418\u041d",
+        "url": "https://open.spotify.com/album/3sYwUI6eJttLQtfOh0RNUw"
+      },
+      "artists": [
+        {
+          "name": "Karna.val",
+          "url": "https://open.spotify.com/artist/0eliZGdPRZ7tUoWd33maJC"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130153,
+      "name": "\u041a\u041e\u0424\u0415\u0418\u041d",
+      "url": "https://open.spotify.com/track/3kja8YNs04Ultm3SnhhZP9"
     },
     {
       "album": {
@@ -25922,7 +25958,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 144375,
       "name": "\u041f\u043e\u043b\u0435\u0442\u0435\u043b\u0430",
       "url": "https://open.spotify.com/track/2KsZv8VwtHpNU7348v8dN1"
@@ -29330,7 +29366,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 182922,
       "name": "\u0427\u0435\u0442\u0432\u0435\u0440\u0433 4-\u0433\u043e",
       "url": "https://open.spotify.com/track/1lCUPsBvSzcPvNgyrl5qUJ"

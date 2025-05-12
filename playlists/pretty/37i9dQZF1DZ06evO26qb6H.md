@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,195 likes - 36 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,195 likes - 36 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 23 | [Milano Town \(with DJ Drama, Shiva & Murda Beatz\)](https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 3:51 |
 | 24 | [Bigger in Texas](https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:13 |
 | 25 | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4) | 3:12 |
-| 26 | [LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 4:15 |
+| 26 | [No Jewelry](https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:36 |
 | 27 | [420 in London](https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [420 in London](https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh) | 3:39 |
 | 28 | [Beef](https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU) | [9lokknine](https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Beef](https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3) | 3:01 |
 | 29 | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy) | 2:33 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 35 | [Shopping Spree \(feat\. Lil Pump & Sheck Wes\)](https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [Shopping Spree \(feat\. Lil Pump & Sheck Wes\)](https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ) | 2:50 |
 | 36 | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG) | 3:24 |
 
-Snapshot ID: `aB1FgAAAAABBwAPPBZRHsDMM5or3vk9P`
+Snapshot ID: `aB6XAAAAAABapFxL+DMFr6DGN1eN/V0+`

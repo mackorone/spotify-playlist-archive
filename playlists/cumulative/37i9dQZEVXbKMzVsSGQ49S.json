@@ -3376,7 +3376,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -4256,7 +4256,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -20283,6 +20283,24 @@
     },
     {
       "album": {
+        "name": "H\u00e6 (EM 2025)",
+        "url": "https://open.spotify.com/album/0CM3ucphUxyIQx46Deudy0"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "H\u00e6 - EM 2025",
+      "url": "https://open.spotify.com/track/2GAR7xyr2OE07Q1cEabUOZ"
+    },
+    {
+      "album": {
         "name": "S\u00f6ngvakeppnin 2022",
         "url": "https://open.spotify.com/album/1SZxfKraoJgUaqcxT3xdvi"
       },
@@ -25810,7 +25828,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 137218,
       "name": "LOKU\u00d0 AUGU",
       "url": "https://open.spotify.com/track/6aS0Tex633d2JYjjk42yvy"
@@ -42070,7 +42088,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -45784,7 +45802,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"

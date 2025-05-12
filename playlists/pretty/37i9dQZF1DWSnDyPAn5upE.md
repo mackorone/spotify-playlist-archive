@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Laura Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,045 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,082 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 72 | [Waving](https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk) | [Nebno](https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf) | [Waving](https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK) | 4:05 |
 | 73 | [Piccolo Corpo](https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK) | [Fredrika Stahl](https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5), [Celeste Cescutti](https://open.spotify.com/artist/1q0HTQ16CWeX77NydPBZ7e) | [Piccolo Corpo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK) | 4:24 |
 | 74 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
-| 75 | [Bright Girl](https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Ana Stamp](https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH) | [There Up, Behind The Moon](https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m) | 7:24 |
-| 76 | [Bardo Landscape \(Reimagined\)](https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape \(Reimagined\)](https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP) | 3:16 |
+| 75 | [Bardo Landscape \(Reimagined\)](https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape \(Reimagined\)](https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP) | 3:16 |
+| 76 | [Bright Girl](https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Ana Stamp](https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH) | [There Up, Behind The Moon](https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m) | 7:24 |
 | 77 | [Respite](https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf) | [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [Respite](https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI) | 3:47 |
 | 78 | [Shimmer in the Sky \- Yoko Komatsu Rework](https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Shimmer in the Sky \(Yoko Komatsu Rework\)](https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw) | 2:36 |
 | 79 | [Indigo Grit \(feat\. guest\)](https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [Guest](https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 1:52 |

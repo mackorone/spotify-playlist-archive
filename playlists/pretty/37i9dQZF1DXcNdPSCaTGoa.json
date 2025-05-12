@@ -1,6 +1,6 @@
 {
   "description": "South African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli?si=2VnM_9GqSrCkUNwtfpaCPQ\">Pro Kid</a> ",
-  "num_followers": 86409,
+  "num_followers": 86453,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 304140,
-      "name": "Jika",
-      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Sondelani",
         "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 285933,
       "name": "Nkalakatha",
       "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -359,38 +359,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
-        "name": "Levels (Explicit)",
-        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "Congratulate",
-      "url": "https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Ibutho",
         "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
       },
@@ -407,6 +375,22 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 180546,
       "name": "Indigo Girl",
       "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
+        "name": "Levels (Explicit)",
+        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "Congratulate",
+      "url": "https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Family Values",
         "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
@@ -691,22 +675,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 311880,
-      "name": "Doo Be Doo",
-      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Zabalaza",
         "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
       },
@@ -723,18 +691,18 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Khokhovula",
-        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 317760,
-      "name": "Sana Luma (Thats The Way Love Is)",
-      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
+      "duration_ms": 311880,
+      "name": "Doo Be Doo",
+      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -787,6 +755,22 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
         "name": "I'm Burning Up",
         "url": "https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3"
       },
@@ -803,22 +787,18 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Khokhovula",
+        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        },
-        {
-          "name": "S'bu",
-          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
         }
       ],
-      "duration_ms": 315266,
-      "name": "Palafala (feat. S'bu)",
-      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
+      "duration_ms": 317760,
+      "name": "Sana Luma (Thats The Way Love Is)",
+      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -867,6 +847,26 @@
       "duration_ms": 231839,
       "name": "Doc Shebeleza",
       "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        },
+        {
+          "name": "S'bu",
+          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
+        }
+      ],
+      "duration_ms": 315266,
+      "name": "Palafala (feat. S'bu)",
+      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
     },
     {
       "added_at": "2025-04-24 22:10:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,669 likes - 158 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,678 likes - 158 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 69 | [Silk Dreams](https://open.spotify.com/track/3b7oasEPdgnvPiq3JxCvMA) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Silk Dreams](https://open.spotify.com/album/4FlPvNG5wdOTzs0sxUPloK) | 3:08 |
 | 70 | [Heroic](https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Heroic](https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx) | 2:43 |
 | 71 | [Sleep Meridian](https://open.spotify.com/track/6p0QQYKH786hoZYn1Rm9S5) | [Shimmerweave](https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s) | [Sleep Meridian](https://open.spotify.com/album/6RH1z7gdCq0PUyOmtvBWuE) | 3:21 |
-| 72 | [Somnolent Mori](https://open.spotify.com/track/7dl6vG0X75fB9J5l7b494p) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Somnolent Mori](https://open.spotify.com/album/1czqzODAZjH1TClXpW61qz) | 3:39 |
-| 73 | [Systems Ecology](https://open.spotify.com/track/1zkpJ5ZMfZNnen2vgw1T5T) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Systems Ecology](https://open.spotify.com/album/7EE2OQNArrxzRELIloRjyZ) | 2:46 |
-| 74 | [Beyond the Valley](https://open.spotify.com/track/5nAw7zxtQKsWNXcaliIewg) | [Broadleaf Radio](https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON) | [Beyond the Valley](https://open.spotify.com/album/2FnqXYSMOOu9KV5R5MGviq) | 3:21 |
-| 75 | [Placid Meadow](https://open.spotify.com/track/1lASWxoxCu2S2HC7IsKgxJ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Placid Meadow](https://open.spotify.com/album/2NttgSl71sdervU4tsb5sq) | 2:45 |
-| 76 | [Suavidade](https://open.spotify.com/track/4F0muRT2KxqONuS4PwE44V) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Suavidade](https://open.spotify.com/album/7q3Ix7F4HOKYpzCxcCE5qz) | 3:25 |
+| 72 | [Suavidade](https://open.spotify.com/track/4F0muRT2KxqONuS4PwE44V) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Suavidade](https://open.spotify.com/album/7q3Ix7F4HOKYpzCxcCE5qz) | 3:25 |
+| 73 | [Somnolent Mori](https://open.spotify.com/track/7dl6vG0X75fB9J5l7b494p) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Somnolent Mori](https://open.spotify.com/album/1czqzODAZjH1TClXpW61qz) | 3:39 |
+| 74 | [Systems Ecology](https://open.spotify.com/track/1zkpJ5ZMfZNnen2vgw1T5T) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Systems Ecology](https://open.spotify.com/album/7EE2OQNArrxzRELIloRjyZ) | 2:46 |
+| 75 | [Beyond the Valley](https://open.spotify.com/track/5nAw7zxtQKsWNXcaliIewg) | [Broadleaf Radio](https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON) | [Beyond the Valley](https://open.spotify.com/album/2FnqXYSMOOu9KV5R5MGviq) | 3:21 |
+| 76 | [Placid Meadow](https://open.spotify.com/track/1lASWxoxCu2S2HC7IsKgxJ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Placid Meadow](https://open.spotify.com/album/2NttgSl71sdervU4tsb5sq) | 2:45 |
 | 77 | [Nostalgic](https://open.spotify.com/track/4vOnlLWIGRfxBDEWr4vICC) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Nostalgic](https://open.spotify.com/album/5TaRLHhBUoSw8CbrgI9X5a) | 2:59 |
 | 78 | [Moonblossom](https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Moonblossom](https://open.spotify.com/album/56ftpVn8fSpUcUe5VTeXf4) | 2:22 |
 | 79 | [Copenhagen Nights](https://open.spotify.com/track/5q5ztGTMU8b9o8dM5WwfFi) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Copenhagen Nights](https://open.spotify.com/album/1gSyYUOnIrNySrd8JkDrQB) | 3:00 |
@@ -113,10 +113,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 103 | [Enlightened](https://open.spotify.com/track/0xaUgYfJy23wj9ekJHW5Sx) | [Kouyou](https://open.spotify.com/artist/4fzta8hw7U88KPJ5uHKooH) | [Enlightened](https://open.spotify.com/album/3VIuvvyBDxglsVD8X5DJZI) | 2:50 |
 | 104 | [Endless](https://open.spotify.com/track/7H3KPyVO9r5x7jsCT1jo0s) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Endless](https://open.spotify.com/album/646cyDpSRUNXJtbkklRZdz) | 2:52 |
 | 105 | [Sapphire](https://open.spotify.com/track/51Cpam4lnqxkLXtK269TrB) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Sapphire](https://open.spotify.com/album/4l0y18K5CgfM8DlyUU4rCp) | 3:26 |
-| 106 | [Thankful](https://open.spotify.com/track/3lg0FcUIHr382sEe5fWuZw) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Thankful](https://open.spotify.com/album/30JXAmmvqLOTxPSafb9l1V) | 2:41 |
-| 107 | [Quietness](https://open.spotify.com/track/27ZLSp1tyjQQpm4doIhFCY) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Quietness](https://open.spotify.com/album/7qBTeldiyet58KcNxEgbav) | 2:54 |
-| 108 | [Nightfall](https://open.spotify.com/track/06jxKLpRUEKFDrhf7DcqAW) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Nightfall](https://open.spotify.com/album/2bwacRdVqpeopwLiXL8r2X) | 2:59 |
-| 109 | [Quiescence](https://open.spotify.com/track/0rHeQqMBDmxvatRfwKePNl) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Quiescence](https://open.spotify.com/album/7xihxBicgKRqZ9ZGUiSln4) | 3:37 |
+| 106 | [Quiescence](https://open.spotify.com/track/0rHeQqMBDmxvatRfwKePNl) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Quiescence](https://open.spotify.com/album/7xihxBicgKRqZ9ZGUiSln4) | 3:37 |
+| 107 | [Thankful](https://open.spotify.com/track/3lg0FcUIHr382sEe5fWuZw) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Thankful](https://open.spotify.com/album/30JXAmmvqLOTxPSafb9l1V) | 2:41 |
+| 108 | [Quietness](https://open.spotify.com/track/27ZLSp1tyjQQpm4doIhFCY) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Quietness](https://open.spotify.com/album/7qBTeldiyet58KcNxEgbav) | 2:54 |
+| 109 | [Nightfall](https://open.spotify.com/track/06jxKLpRUEKFDrhf7DcqAW) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Nightfall](https://open.spotify.com/album/2bwacRdVqpeopwLiXL8r2X) | 2:59 |
 | 110 | [Fae](https://open.spotify.com/track/7LbtHaHtW5gR53Vhlu6apv) | [ẹmi](https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU) | [Fae](https://open.spotify.com/album/593Ei5vfCwWOdvCiXvUn72) | 2:49 |
 | 111 | [Slumber](https://open.spotify.com/track/79VaizbXk2cpZy3nzUxjN7) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Slumber](https://open.spotify.com/album/4O2LD8nIKfma74ymQ9qDtF) | 2:41 |
 | 112 | [Above](https://open.spotify.com/track/4uoHgmUJsuMVMS7sPUaO4a) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Above](https://open.spotify.com/album/32nAgDpHWd7fan3Q4115SQ) | 2:47 |

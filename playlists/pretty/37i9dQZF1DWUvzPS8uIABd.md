@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa BESS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,026 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,027 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
-| 2 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 |
-| 3 | [Tytöt tietää](https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tytöt tietää](https://open.spotify.com/album/5drhXGx6ojIgQzoLWJXMXc) | 2:34 |
-| 4 | [Sut tahtoisin](https://open.spotify.com/track/4msu53WN1Dr360bdts9AFH) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sut tahtoisin](https://open.spotify.com/album/4d8GgEWheo2LU4N1kzHxdR) | 3:00 |
-| 5 | [Vikaa kertaa \(feat\. Joalin\)](https://open.spotify.com/track/18smYx5xWfZdgHJFSGoOLd) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Vikaa kertaa \(feat\. Joalin\)](https://open.spotify.com/album/06IN12ns5sDGdWZktzJF31) | 2:41 |
-| 6 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 |
-| 7 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
-| 8 | [Räsypokka](https://open.spotify.com/track/6ebDehEKNwVlkxJz8QH0dP) | [Kaija Koo](https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq) | [Räsypokka](https://open.spotify.com/album/6DHUSA8k1sN5cFJsDLYfUe) | 3:09 |
+| 1 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 |
+| 2 | [Räsypokka](https://open.spotify.com/track/6ebDehEKNwVlkxJz8QH0dP) | [Kaija Koo](https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq) | [Räsypokka](https://open.spotify.com/album/6DHUSA8k1sN5cFJsDLYfUe) | 3:09 |
+| 3 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
+| 4 | [Tytöt tietää](https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tytöt tietää](https://open.spotify.com/album/5drhXGx6ojIgQzoLWJXMXc) | 2:34 |
+| 5 | [Sut tahtoisin](https://open.spotify.com/track/4msu53WN1Dr360bdts9AFH) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sut tahtoisin](https://open.spotify.com/album/4d8GgEWheo2LU4N1kzHxdR) | 3:00 |
+| 6 | [Vikaa kertaa \(feat\. Joalin\)](https://open.spotify.com/track/18smYx5xWfZdgHJFSGoOLd) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Vikaa kertaa \(feat\. Joalin\)](https://open.spotify.com/album/06IN12ns5sDGdWZktzJF31) | 2:41 |
+| 7 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 |
+| 8 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
 | 9 | [Vamonos](https://open.spotify.com/track/4VlnaCqpQCs6HNLhIbzKzj) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Vamonos](https://open.spotify.com/album/6BmzHQGLwR7SANGEbYPWen) | 2:20 |
 | 10 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
 | 11 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 79 | [Traumat](https://open.spotify.com/track/1zCkLS4Xhad6sx12Rieebp) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Traumat](https://open.spotify.com/album/56kjQAAtRYNmUOgwWvA3uh) | 2:59 |
 | 80 | [Mä ja sä \(feat\. ABREU\)](https://open.spotify.com/track/5VtxTNVzC0PohY2IwRzTk3) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:18 |
 
-Snapshot ID: `aB20IgAAAABpatbEn7TJ6HeZpdWtPb7O`
+Snapshot ID: `aCB2zgAAAABeLRrLs2KME8wkAXnUqwRd`

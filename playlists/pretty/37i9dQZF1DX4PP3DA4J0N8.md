@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 
 > Sounds of birds, rain, and forest ambience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,235 likes - 130 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,545 likes - 130 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,14 +86,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 76 | [Peaceful Rain Sounds](https://open.spotify.com/track/5SBStfL3Hb5l8ix5NtuUjP) | [High Sampling](https://open.spotify.com/artist/4DtTcZucLzox7VtkpWsVBw) | [Peaceful Rain Sounds](https://open.spotify.com/album/2PChgMddYdUsisFPjW9FGq) | 2:28 |
 | 77 | [Pretty Birds](https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Country Birds](https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA) | 2:22 |
 | 78 | [Rain in The Forest](https://open.spotify.com/track/0wLnaxf8uumoySqw1dW9rR) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Rain Sounds 2](https://open.spotify.com/album/3rgvsuxRWRjTEyIdM9qPXT) | 2:21 |
-| 79 | [Soul Healing Birds](https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Soul Healing Birds](https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo) | 2:25 |
-| 80 | [Spring Shower Bird Songs](https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 2:48 |
+| 79 | [Spring Shower Bird Songs](https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 2:48 |
+| 80 | [Soul Healing Birds](https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Soul Healing Birds](https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo) | 2:25 |
 | 81 | [River Birds \(Green Noise 220Hz HP\)](https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:22 |
 | 82 | [River Shore](https://open.spotify.com/track/1yRUymHNlI4HnyhFXqou8r) | [Earth Science](https://open.spotify.com/artist/6uVNYr50zFJFtp3R1LYaab) | [Marymere Falls](https://open.spotify.com/album/4RD2hBbd6fz0clfEssVrct) | 3:19 |
 | 83 | [Morning Bird Symphony](https://open.spotify.com/track/2DG4GclEMtxZEFbXixAGxq) | [Himalaya Nature](https://open.spotify.com/artist/7IlmN5ipzDWqSbLNsjDMU8) | [Himalaya Bird Sounds](https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x) | 4:36 |
-| 84 | [Birds & Passing Thunder](https://open.spotify.com/track/3ZrnxOOmcv1uHEmSM9b7vw) | [Solis Occasum](https://open.spotify.com/artist/6bKBTQOaODtyaHOJCnXMSd) | [Birds & Passing Thunder](https://open.spotify.com/album/7fZE4tCvRCTrqQHn8fvySj) | 3:38 |
-| 85 | [Pouring Jungles](https://open.spotify.com/track/7MAG8i1TD0G4AxP6z0oQml) | [Nia Butler](https://open.spotify.com/artist/7AYA0yZx3cMpQOORGfjDXv) | [Pouring Jungles](https://open.spotify.com/album/7mFjRRPoAXu8k8DZT9YxZe) | 2:24 |
-| 86 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 |
+| 84 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 |
+| 85 | [Birds & Passing Thunder](https://open.spotify.com/track/3ZrnxOOmcv1uHEmSM9b7vw) | [Solis Occasum](https://open.spotify.com/artist/6bKBTQOaODtyaHOJCnXMSd) | [Birds & Passing Thunder](https://open.spotify.com/album/7fZE4tCvRCTrqQHn8fvySj) | 3:38 |
+| 86 | [Pouring Jungles](https://open.spotify.com/track/7MAG8i1TD0G4AxP6z0oQml) | [Nia Butler](https://open.spotify.com/artist/7AYA0yZx3cMpQOORGfjDXv) | [Pouring Jungles](https://open.spotify.com/album/7mFjRRPoAXu8k8DZT9YxZe) | 2:24 |
 | 87 | [Birds Love Rain](https://open.spotify.com/track/1LIThJzbfd81yH4wLxqAEF) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Natural Rain](https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh) | 2:30 |
 | 88 | [Bird Life](https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Bird Life](https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL) | 2:26 |
 | 89 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Shmiska
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,619 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,618 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 53 | [Мій кіт і я](https://open.spotify.com/track/3v9aS2vn55mwU8i7Eabufr) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y), [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [Мій кіт і я](https://open.spotify.com/album/68b1aUd1DwGRhX7FMYCHMH) | 2:53 |
 | 54 | [One More Time](https://open.spotify.com/track/0ZQDSff4T0oo9Ul8qgYDnu) | [ESELISHA](https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE) | [One More Time](https://open.spotify.com/album/3wD4nqS8OS7VoRdzOLJjrY) | 2:28 |
 | 55 | [ЧТМС](https://open.spotify.com/track/4DIAfmFZWw2ygROPNyqEwj) | [GRABAR](https://open.spotify.com/artist/3oTWXfqg8nmS0nlSkYDiYK), [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [ЧТМС](https://open.spotify.com/album/2X5rrbpYHpy0ab5imfSYPS) | 3:45 |
-| 56 | [Сутінки](https://open.spotify.com/track/5bAsKGr5prU5YdXRCksOfO) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Сутінки](https://open.spotify.com/album/69pKv2BekWnZCLMIRZAGcH) | 3:19 |
-| 57 | [лю біль <3](https://open.spotify.com/track/1eT1M6cYSeEWbMVXZU8QUy) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [sucilna\_nevdacha.exe](https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8) | [лю біль <3](https://open.spotify.com/album/7IB8iIVeptweBwNYLfVuo7) | 4:07 |
-| 58 | [Відпускай](https://open.spotify.com/track/4DFvhRDL7dGjNLJhxd5V7y) | [Slukhay Sashu](https://open.spotify.com/artist/7bovXIoMqWNOibj93PfU7J), [MYTRO](https://open.spotify.com/artist/57wbZfHpHFNfGbKi0MAT8C), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy) | [Відпускай](https://open.spotify.com/album/1zs5Tya7peM4Ck7lyLsYhs) | 3:22 |
-| 59 | [Місто](https://open.spotify.com/track/0qpuExro0xkaUNP2O2M4dv) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0), [Сrybye](https://open.spotify.com/artist/1YG5fefxqEOuV3vICFgzXt), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy) | [Місто](https://open.spotify.com/album/2RlktSZOBN3sKgvCRV1Pw4) | 2:06 |
+| 56 | [лю біль <3](https://open.spotify.com/track/1eT1M6cYSeEWbMVXZU8QUy) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [sucilna\_nevdacha.exe](https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8) | [лю біль <3](https://open.spotify.com/album/7IB8iIVeptweBwNYLfVuo7) | 4:07 |
+| 57 | [Сутінки](https://open.spotify.com/track/5bAsKGr5prU5YdXRCksOfO) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Сутінки](https://open.spotify.com/album/69pKv2BekWnZCLMIRZAGcH) | 3:19 |
+| 58 | [Місто](https://open.spotify.com/track/0qpuExro0xkaUNP2O2M4dv) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0), [Сrybye](https://open.spotify.com/artist/1YG5fefxqEOuV3vICFgzXt), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy) | [Місто](https://open.spotify.com/album/2RlktSZOBN3sKgvCRV1Pw4) | 2:06 |
+| 59 | [Відпускай](https://open.spotify.com/track/4DFvhRDL7dGjNLJhxd5V7y) | [Slukhay Sashu](https://open.spotify.com/artist/7bovXIoMqWNOibj93PfU7J), [MYTRO](https://open.spotify.com/artist/57wbZfHpHFNfGbKi0MAT8C), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy) | [Відпускай](https://open.spotify.com/album/1zs5Tya7peM4Ck7lyLsYhs) | 3:22 |
 | 60 | [тож бувай](https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [тож бувай](https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa) | 2:26 |
 | 61 | [Вибач](https://open.spotify.com/track/2vh6McN6DvD764I7tibUNP) | [Я Тоня](https://open.spotify.com/artist/5XTKx5IOWJHQcAll31CY5a), [ZAKHAR BO](https://open.spotify.com/artist/1Nnqp96D17UJ3CgRGIJwl4) | [Вибач](https://open.spotify.com/album/7hOiPRX9mYcMnL3K4CYwlS) | 3:37 |
 | 62 | [дім на піску](https://open.spotify.com/track/5f1Gb8XoBHKNhP9cZcDTUU) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [дім на піску](https://open.spotify.com/album/7kbJm3Zbvtef7xpvYVd7WL) | 3:46 |

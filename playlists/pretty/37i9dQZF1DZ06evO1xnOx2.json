@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 597671,
+  "num_followers": 597835,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAAYTc7FSNeGEsvYF9/Au2RZ",
+  "snapshot_id": "aB6XAAAAAAAV8wuvWtqDcr4zwUqjprPh",
   "tracks": [
     {
       "added_at": null,
@@ -163,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth: Unending",
-        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
+        "name": "The Bones (with Hozier)",
+        "url": "https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH"
       },
       "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 202937,
-      "name": "Hymn to Virgil",
-      "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
+      "duration_ms": 197298,
+      "name": "The Bones - with Hozier",
+      "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
     },
     {
       "added_at": null,
@@ -227,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bones (with Hozier)",
-        "url": "https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH"
+        "name": "Unreal Unearth: Unending",
+        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
       },
       "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 197298,
-      "name": "The Bones - with Hozier",
-      "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
+      "duration_ms": 202937,
+      "name": "Hymn to Virgil",
+      "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Wasteland, Baby!",
-      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
+      "duration_ms": 206546,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE"
+      "duration_ms": 266466,
+      "name": "Wasteland, Baby!",
+      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,022,716 likes - 400 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,051 likes - 400 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 38 | [The Inner Sun](https://open.spotify.com/track/2u822ndjFVTtYr2Gu5Efln) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [The Inner Sun](https://open.spotify.com/album/1ImwILTcx2BblGeGnqDnbx) | 2:20 |
 | 39 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 |
 | 40 | [bedroom window](https://open.spotify.com/track/6RQAcAioLEYn4skbZtaDz3) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [bedroom window](https://open.spotify.com/album/4bKmTfRyL1OFmGJaMfVNT6) | 2:22 |
-| 41 | [coconut](https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [coconut](https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd) | 2:50 |
-| 42 | [True Sound](https://open.spotify.com/track/3lgPNSkfX3Ri0nfNlkpGEX) | [Dewas](https://open.spotify.com/artist/5vOoLaBLQ3YjZrbbrintS1) | [True Sound](https://open.spotify.com/album/4j1uDP4rRr3XV6UdNS2ZbE) | 1:46 |
-| 43 | [Hokkaido Breeze](https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Hokkaido Breeze](https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x) | 2:20 |
+| 41 | [True Sound](https://open.spotify.com/track/3lgPNSkfX3Ri0nfNlkpGEX) | [Dewas](https://open.spotify.com/artist/5vOoLaBLQ3YjZrbbrintS1) | [True Sound](https://open.spotify.com/album/4j1uDP4rRr3XV6UdNS2ZbE) | 1:46 |
+| 42 | [Hokkaido Breeze](https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Hokkaido Breeze](https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x) | 2:20 |
+| 43 | [coconut](https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [coconut](https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd) | 2:50 |
 | 44 | [Calm Euphoria](https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k) | [Alunni](https://open.spotify.com/artist/5uZQ9focwD7agsnaUA2gBz) | [Calm Euphoria](https://open.spotify.com/album/1klIEGzkf55z5Dwa7cq6tF) | 2:24 |
 | 45 | [moonwatch](https://open.spotify.com/track/2CZEvQKqgtNLwWqkdyc2yy) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [moonwatch](https://open.spotify.com/album/3orK6ZBhRQQAxopaMfZivu) | 3:18 |
 | 46 | [Sthlm Night](https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Sthlm Night](https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS) | 2:50 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 498409,
+  "num_followers": 498498,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAACYGtOflzchEcrnl38YTaE7",
+  "snapshot_id": "aB6XAAAAAAAJWUD3braKzjGjjOogt/Xy",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Es Color De Rosa",
-        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Me Olvidar\u00e1s",
-      "url": "https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carlos Rivera",
         "url": "https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 208800,
       "name": "En el Amor No Se Manda (with Yuridia)",
       "url": "https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Me Olvidar\u00e1s",
+      "url": "https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx"
     },
     {
       "added_at": null,

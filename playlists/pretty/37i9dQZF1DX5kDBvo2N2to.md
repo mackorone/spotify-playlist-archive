@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,409 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,412 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 20 | [Goldfish](https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Goldfish](https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV) | 3:06 |
 | 21 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 |
 | 22 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 |
-| 23 | [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 |
-| 24 | [Stockholm City](https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Stockholm City](https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L) | 2:40 |
-| 25 | [ELOISE](https://open.spotify.com/track/1N90TLVkjG5s85lSYUg3DX) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [ELOISE](https://open.spotify.com/album/0uugVi9973DgE3eF9wfJ2S) | 3:13 |
-| 26 | [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 |
+| 23 | [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 |
+| 24 | [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 |
+| 25 | [Stockholm City](https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Stockholm City](https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L) | 2:40 |
+| 26 | [ELOISE](https://open.spotify.com/track/1N90TLVkjG5s85lSYUg3DX) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [ELOISE](https://open.spotify.com/album/0uugVi9973DgE3eF9wfJ2S) | 3:13 |
 | 27 | [Dancing Around The Truth](https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Dancing Around The Truth](https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe) | 3:50 |
 | 28 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 |
 | 29 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 |

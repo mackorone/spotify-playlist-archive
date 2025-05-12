@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Prateeksha Srivastava,  Anand Bhaskar Collective and other exciting artists.<br/>Cover : Prateeksha Srivastava
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,740 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,767 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 31 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 |
 | 32 | [Ranjheya](https://open.spotify.com/track/3EyFLvf2phMoveVeyHjYtl) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Ranjheya](https://open.spotify.com/album/6GEYYn428QWQmyfFXApn1s) | 2:38 |
 | 33 | [Tu Jaise Dariya](https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Armaan Sharma](https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi) | [Tu Jaise Dariya](https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa) | 3:47 |
-| 34 | [Tera Yaar](https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Tera Yaar](https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr) | 3:45 |
-| 35 | [Channa Ve](https://open.spotify.com/track/3yBrSAxIJz8oaSBiIfsrBQ) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn), [Nitin Rana](https://open.spotify.com/artist/39Q1usUtc8a68pobI6RU5c) | [Channa Ve](https://open.spotify.com/album/3Cygdal0KRaQzXKdr1UZE2) | 3:02 |
-| 36 | [Kya Hi Hai](https://open.spotify.com/track/29SvIDiQWM8qoGaN0TvXRh) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Kya Hi Hai](https://open.spotify.com/album/7c9Q4FXPaX6EAafvJuu0VQ) | 3:19 |
-| 37 | [Aakhri Saans](https://open.spotify.com/track/07pmWp10yqaphv5YTm1dpN) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aakhri Saans](https://open.spotify.com/album/75pbxDNRvnZhsJ7eXX8QI5) | 3:18 |
+| 34 | [Aakhri Saans](https://open.spotify.com/track/07pmWp10yqaphv5YTm1dpN) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aakhri Saans](https://open.spotify.com/album/75pbxDNRvnZhsJ7eXX8QI5) | 3:18 |
+| 35 | [Tera Yaar](https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Tera Yaar](https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr) | 3:45 |
+| 36 | [Channa Ve](https://open.spotify.com/track/3yBrSAxIJz8oaSBiIfsrBQ) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn), [Nitin Rana](https://open.spotify.com/artist/39Q1usUtc8a68pobI6RU5c) | [Channa Ve](https://open.spotify.com/album/3Cygdal0KRaQzXKdr1UZE2) | 3:02 |
+| 37 | [Kya Hi Hai](https://open.spotify.com/track/29SvIDiQWM8qoGaN0TvXRh) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Kya Hi Hai](https://open.spotify.com/album/7c9Q4FXPaX6EAafvJuu0VQ) | 3:19 |
 | 38 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
 | 39 | [Simti](https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Simti](https://open.spotify.com/album/7kBUETqxht63KK8ETCZnP3) | 2:45 |
 | 40 | [Jaane Jaana](https://open.spotify.com/track/19r3RVBCyOUyNoTHZqbEHX) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaane Jaana](https://open.spotify.com/album/1SZ92QLakvszzoWAZ4H6Xh) | 2:48 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 46 | [Nadi](https://open.spotify.com/track/2sIRICa5N0L4UUvf2RHlmQ) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Nadi](https://open.spotify.com/album/1jPFzDb2ednXUtyZEUla0H) | 3:26 |
 | 47 | [Ek Martaba Phir](https://open.spotify.com/track/17xdCJ7oawMWo84d9oxztl) | [Ananya Sharma](https://open.spotify.com/artist/1IsobZFDttKe4y2jQXDyvd), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Ek Martaba Phir](https://open.spotify.com/album/6NUuU4Euu64fPd9nK7MJig) | 3:45 |
 | 48 | [Raza](https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Elahi](https://open.spotify.com/album/0XOq8mfKGD2iggIOu1siqy) | 3:45 |
-| 49 | [Dil Ka Haara](https://open.spotify.com/track/3AhbSEtajGmaOajWM5ydV4) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Dil Ka Haara](https://open.spotify.com/album/2fsl6x6Nq4WP8ApbAZYugq) | 2:59 |
-| 50 | [Har Subah](https://open.spotify.com/track/2oUsJvFbdF9tbm6PKecwuT) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Har Subah](https://open.spotify.com/album/2mImRcaAfhmUtNa0RuY46B) | 3:39 |
+| 49 | [Ghum Sa](https://open.spotify.com/track/5Bx3NJvWDdQtLgiNPcoj6P) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Ghum Sa](https://open.spotify.com/album/5ucmfaNkNRHHDwULn1DdQT) | 2:56 |
+| 50 | [Dil Ka Haara](https://open.spotify.com/track/3AhbSEtajGmaOajWM5ydV4) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Dil Ka Haara](https://open.spotify.com/album/2fsl6x6Nq4WP8ApbAZYugq) | 2:59 |
 
 Snapshot ID: `aB1degAAAAApTCi7WasCC8bNf4NnmWah`

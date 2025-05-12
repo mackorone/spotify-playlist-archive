@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 155685,
+  "num_followers": 155690,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-04-25 06:45:27",
       "album": {
+        "name": "Sorry I'm Here For Someone Else",
+        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 156582,
+      "name": "Sorry I'm Here For Someone Else",
+      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
+    },
+    {
+      "added_at": "2025-04-25 06:45:27",
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
-    },
-    {
-      "added_at": "2025-04-25 06:45:27",
-      "album": {
-        "name": "Sorry I'm Here For Someone Else",
-        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 156582,
-      "name": "Sorry I'm Here For Someone Else",
-      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
     },
     {
       "added_at": "2025-04-25 06:45:27",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-04-25 06:45:27",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
-    },
-    {
-      "added_at": "2025-04-25 06:45:27",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 218946,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
+    },
+    {
+      "added_at": "2025-04-25 06:45:27",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2025-04-25 06:45:27",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-04-25 06:45:27",
       "album": {
-        "name": "Same Old",
-        "url": "https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 175536,
-      "name": "Same Old",
-      "url": "https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3"
-    },
-    {
-      "added_at": "2025-04-25 06:45:27",
-      "album": {
         "name": "Make Me (Cry) [Acoustic]",
         "url": "https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 181821,
       "name": "Make Me (Cry) - Acoustic",
       "url": "https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X"
+    },
+    {
+      "added_at": "2025-04-25 06:45:27",
+      "album": {
+        "name": "Same Old",
+        "url": "https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 175536,
+      "name": "Same Old",
+      "url": "https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3"
     },
     {
       "added_at": "2025-04-25 06:45:27",

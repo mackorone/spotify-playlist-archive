@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,157 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,179 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 11 | [Alone Together](https://open.spotify.com/track/0sjRtGeytCniumI769pDM2) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Alone Together](https://open.spotify.com/album/2oCaZeW86AT8phiRCXNgUM) | 3:56 |
 | 12 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 |
 | 13 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 |
-| 14 | [Doff](https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL) | 3:04 |
-| 15 | [3PM](https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [3PM](https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG) | 2:15 |
-| 16 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
+| 14 | [3PM](https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [3PM](https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG) | 2:15 |
+| 15 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
+| 16 | [Doff](https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL) | 3:04 |
 | 17 | [Maria y la mar](https://open.spotify.com/track/0ThpvYh2VVpvv1U5PC5548) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG) | [Maria y la mar](https://open.spotify.com/album/3iDlWCCITsHZ4suthyOzbQ) | 2:32 |
 | 18 | [image no\. 4](https://open.spotify.com/track/1TbDfkXAw8sbd3oewgAOW4) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8), [Image Tapes](https://open.spotify.com/artist/2gi84HSldDZMD7fwwY4xAz) | [Image Tapes Vol\. 1](https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J) | 2:05 |
 | 19 | [mirage](https://open.spotify.com/track/5Sort7TKBLV8Mf5SiW85bw) | [\[zoethecat\]](https://open.spotify.com/artist/2a0He55lnQxr74EmQv8yyi) | [mirage](https://open.spotify.com/album/3X8ZJ5G96XzV3LBJpe8Qs3) | 2:02 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 72 | [Crescent](https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Crescent](https://open.spotify.com/album/5nIIDBRXFx30wdaoWiklDE) | 2:23 |
 | 73 | [Fine Life](https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4) | [Yoshihiro Sawasaki](https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV) | [Naturally Gushing vol.2](https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x) | 6:01 |
 | 74 | [The Space Within Me](https://open.spotify.com/track/5zOEew2ZPxhodfqZJXEx6Z) | [Juan Pablo Garcia](https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd) | [The Space Within Me](https://open.spotify.com/album/604WCWWdkwFVqBsWYYDZTp) | 2:58 |
-| 75 | [Hounds](https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Hounds](https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m) | 5:01 |
-| 76 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 |
-| 77 | [No Reason](https://open.spotify.com/track/0UpLU5jqHxdTX07vuPkz7w) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [No Reason](https://open.spotify.com/album/3OoHHwGuSGx1ONteqz6rIY) | 2:49 |
-| 78 | [Lost in a Sea of Pillows and Blankets](https://open.spotify.com/track/0DqAh9xAcKRmufrnXMkknI) | [.anxious.](https://open.spotify.com/artist/0kVQBzHzHP111Qt5rU7F0d) | [Inhale/Exhale/Disappear](https://open.spotify.com/album/4xW6CEkFnd2LgkHDZPCAEG) | 3:24 |
+| 75 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 |
+| 76 | [No Reason](https://open.spotify.com/track/0UpLU5jqHxdTX07vuPkz7w) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [No Reason](https://open.spotify.com/album/3OoHHwGuSGx1ONteqz6rIY) | 2:49 |
+| 77 | [Lost in a Sea of Pillows and Blankets](https://open.spotify.com/track/0DqAh9xAcKRmufrnXMkknI) | [.anxious.](https://open.spotify.com/artist/0kVQBzHzHP111Qt5rU7F0d) | [Inhale/Exhale/Disappear](https://open.spotify.com/album/4xW6CEkFnd2LgkHDZPCAEG) | 3:24 |
+| 78 | [Hounds](https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Hounds](https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m) | 5:01 |
 | 79 | [Monospace](https://open.spotify.com/track/01t81v0bqY73qcOoM6WUOC) | [Lawrence Blake](https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv) | [Monospace](https://open.spotify.com/album/10UfKBIklZy668Jcv6pN5S) | 2:26 |
 | 80 | [Spring Siesta](https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Spring Siesta](https://open.spotify.com/album/4oR4Hey6GVUpl6GGtaaaze) | 4:01 |
 | 81 | [Making Gardens Out of Silence](https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 8:21 |

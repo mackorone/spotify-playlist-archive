@@ -4,7 +4,7 @@
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 46 min
+89 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Doubly Good To You \- Remastered](https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:14 | 2023-04-02 |  |
 | [El\-Shaddai](https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:08 | 2023-04-02 |  |
 | [Every Heartbeat](https://open.spotify.com/track/55lX3vm1G35mUpawXHK5Te) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:33 | 2023-04-02 |  |
-| [Every Road \- 2025 Remaster](https://open.spotify.com/track/4GKOMCooGn8dfmqsatgn6n) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 4:35 | 2025-04-09 |  |
+| [Every Road \- 2025 Remaster](https://open.spotify.com/track/4GKOMCooGn8dfmqsatgn6n) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 4:35 | 2025-04-09 | 2025-05-12 |
 | [Everywhere I Go](https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Unguarded](https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp) | 4:35 | 2023-04-02 | 2025-04-10 |
 | [Fairest Lord Jesus](https://open.spotify.com/track/1gGys8A5N7pMOU7ULx616U) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:15 | 2023-04-02 | 2025-04-08 |
 | [Faithful \(feat\. Amy Grant\)](https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [No Matter What](https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V) | 3:50 | 2023-04-02 |  |
@@ -43,6 +43,7 @@
 | [Good For Me](https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:59 | 2023-04-02 |  |
 | [Helping Hand \- 2024 Version](https://open.spotify.com/track/3dEQwRfSA6saQchDTs2suo) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Helping Hand \- 2024 Version](https://open.spotify.com/album/69FJ9ivzP9D1szvpsy1TWC) | 4:23 | 2024-09-01 | 2024-09-29 |
 | [Holy, Holy, Holy](https://open.spotify.com/track/5EYbEcW9oURdvzhpWzSSwb) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 2:26 | 2023-04-02 |  |
+| [Home \(Lyana's Song from Caretaker\)](https://open.spotify.com/track/2K2TlhCodATC2zBV62D75o) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [R.J\. Halbert](https://open.spotify.com/artist/74kavaQT7aReFkvXgf5uX1) | [Home \(Lyana's Song from Caretaker\)](https://open.spotify.com/album/4Uii4mHwQbJWr5GGO1kuHU) | 3:18 | 2025-05-12 |  |
 | [Hope Set High](https://open.spotify.com/track/3YcU6MNFhcWO4QAxnm2vJ8) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 2:50 | 2023-04-10 | 2023-04-12 |
 | [House Of Love](https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:36 | 2023-04-02 |  |
 | [I Belong](https://open.spotify.com/track/4wsWAFT2FNbju838Mip9gJ) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [I Belong](https://open.spotify.com/album/6EhiVZsRCe402TDY6GdnxQ) | 3:25 | 2023-04-02 | 2025-04-04 |

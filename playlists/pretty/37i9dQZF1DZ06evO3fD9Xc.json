@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103833,
+  "num_followers": 103830,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAAD41RKh9bQgpqEtoAryu1h",
+  "snapshot_id": "aB6XAAAAAAC+Xy7JTankmQ9HDGZyhcUu",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Bonito Es Querer",
-        "url": "https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 197238,
-      "name": "Que Bonito Es Querer",
-      "url": "https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 152200,
       "name": "Todav\u00eda Te Amo",
       "url": "https://open.spotify.com/track/06jscxwNwqueJ5NAmBsSwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Bonito Es Querer",
+        "url": "https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 197238,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Como No Adorarla",
+      "url": "https://open.spotify.com/track/1aqJMMLk8toQzNxYucJAxx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Marea",
         "url": "https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 255000,
       "name": "La Marea",
       "url": "https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Como No Adorarla",
-      "url": "https://open.spotify.com/track/1aqJMMLk8toQzNxYucJAxx"
     },
     {
       "added_at": null,

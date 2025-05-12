@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,884 likes - 228 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,877 likes - 228 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 51 | [Endurance](https://open.spotify.com/track/5NTn9Mhu1xOh8jDGzhRNoP) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Endurance](https://open.spotify.com/album/5wRG9WG9KDbZUQksAdD42N) | 2:23 |
 | 52 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 |
 | 53 | [Pourquoi](https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Pourquoi](https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z) | 2:58 |
-| 54 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 |
-| 55 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 |
-| 56 | [Trumpets Of Datura](https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Trumpets Of Datura](https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap) | 2:23 |
+| 54 | [Trumpets Of Datura](https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Trumpets Of Datura](https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap) | 2:23 |
+| 55 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 |
+| 56 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 |
 | 57 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 |
 | 58 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 |
 | 59 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 |
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 147 | [Chrysalis](https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chrysalis](https://open.spotify.com/album/4cohq3GCrl8vtb0yB8N0nR) | 2:31 |
 | 148 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 |
 | 149 | [Everlasting](https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Everlasting](https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu) | 2:44 |
-| 150 | [Walk](https://open.spotify.com/track/1IFzM39Bm7c28HoEhuixIC) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Walk](https://open.spotify.com/album/1BzQsplrvOkk3BicUV17AS) | 2:41 |
-| 151 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 |
+| 150 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 |
+| 151 | [Walk](https://open.spotify.com/track/1IFzM39Bm7c28HoEhuixIC) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Walk](https://open.spotify.com/album/1BzQsplrvOkk3BicUV17AS) | 2:41 |
 | 152 | [Mullaghmore](https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Mullaghmore](https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr) | 2:02 |
 | 153 | [Ciclos de Tiempo](https://open.spotify.com/track/6P0XK7PxB4LnG3dQAmzQIe) | [Gogo Khoi](https://open.spotify.com/artist/5Gz6VMJi61el4scZUa9YYb) | [Ciclos de Tiempo](https://open.spotify.com/album/5yTw2u7HHlEQxGwPiKf1eU) | 2:45 |
 | 154 | [Portraits Of Jane](https://open.spotify.com/track/43roNryaSvhJl44nkaf9IX) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Portraits Of Jane](https://open.spotify.com/album/5NOzttfi0gigAsCfWweEC0) | 2:13 |

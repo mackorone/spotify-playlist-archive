@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Javier B\u00e1tiz por siempre ",
-  "num_followers": 562743,
+  "num_followers": 562794,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -195,6 +211,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Santana's Greatest Hits",
         "url": "https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai"
       },
@@ -227,38 +259,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 225173,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Aqu\u00ed No Es As\u00ed",
+      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -307,22 +323,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Queremos Rock",
-        "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        }
-      ],
-      "duration_ms": 259398,
-      "name": "Mil Demonios",
-      "url": "https://open.spotify.com/track/2LSa3F2AZldoF2jSCxG5re"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 239226,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Aqu\u00ed No Es As\u00ed",
-      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -387,6 +371,38 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 282133,
+      "name": "Los Dioses Ocultos",
+      "url": "https://open.spotify.com/track/3aYLIO4htUZCAygXUbbc3Q"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Queremos Rock",
+        "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        }
+      ],
+      "duration_ms": 259398,
+      "name": "Mil Demonios",
+      "url": "https://open.spotify.com/track/2LSa3F2AZldoF2jSCxG5re"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -435,38 +435,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Aquamosh",
-        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Mr. P-Mosh",
-      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 282133,
-      "name": "Los Dioses Ocultos",
-      "url": "https://open.spotify.com/track/3aYLIO4htUZCAygXUbbc3Q"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -479,6 +447,70 @@
       "duration_ms": 284800,
       "name": "Samba Pa Ti",
       "url": "https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Aquamosh",
+        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Mr. P-Mosh",
+      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -531,18 +563,34 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 304106,
+      "name": "Europa (Earth's Cry Heaven's Smile)",
+      "url": "https://open.spotify.com/track/4VbOIkKqt0gkZpC75oKSxS"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -579,50 +627,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 304106,
-      "name": "Europa (Earth's Cry Heaven's Smile)",
-      "url": "https://open.spotify.com/track/4VbOIkKqt0gkZpC75oKSxS"
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -639,22 +655,6 @@
       "duration_ms": 254160,
       "name": "Nalguita",
       "url": "https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Un Panteon Muy Vivo",
-        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
+        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Los Amantes De Lola",
+          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
         }
       ],
-      "duration_ms": 423360,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
+      "duration_ms": 226560,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
-        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
-      },
-      "artists": [
-        {
-          "name": "Los Amantes De Lola",
-          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Mam\u00e1",
-      "url": "https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Reptilectric",
         "url": "https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 232288,
       "name": "Reptilectric",
       "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Un Panteon Muy Vivo",
+        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 423360,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "D.D. Y Ponle Play",
+        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "Cada Vez Que Me Voy",
+      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "En Esta Ciudad",
         "url": "https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "D.D. Y Ponle Play",
-        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "Cada Vez Que Me Voy",
-      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Adicto al Rock N Roll",
         "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 208866,
       "name": "Chavo de Onda",
       "url": "https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Pop...\u00a1Por La Cara!",
+        "url": "https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 244292,
+      "name": "Pervert Pop Song",
+      "url": "https://open.spotify.com/track/29KgIt2KG31vRKLQBOiA1o"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Lupitolog\u00eda",
-        "url": "https://open.spotify.com/album/7cYGeuZBjKK4Ftvr0DpiGL"
-      },
-      "artists": [
-        {
-          "name": "La Lupita",
-          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Gavil\u00e1n o Paloma - Resmasterizado",
-      "url": "https://open.spotify.com/track/0iOassZEfvSk8Z7nkrRgGI"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Sweet & Sour - Hot & Spicy",
         "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Pop...\u00a1Por La Cara!",
-        "url": "https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO"
+        "name": "Lupitolog\u00eda",
+        "url": "https://open.spotify.com/album/7cYGeuZBjKK4Ftvr0DpiGL"
       },
       "artists": [
         {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+          "name": "La Lupita",
+          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
         }
       ],
-      "duration_ms": 244292,
-      "name": "Pervert Pop Song",
-      "url": "https://open.spotify.com/track/29KgIt2KG31vRKLQBOiA1o"
+      "duration_ms": 236506,
+      "name": "Gavil\u00e1n o Paloma - Resmasterizado",
+      "url": "https://open.spotify.com/track/0iOassZEfvSk8Z7nkrRgGI"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Ely Guerra",
-        "url": "https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "Jurame",
-      "url": "https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Infiernos",
         "url": "https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 293247,
       "name": "Infiernos",
       "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Ely Guerra",
+        "url": "https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 275586,
+      "name": "Jurame",
+      "url": "https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
+        "name": "Mantando Gueros",
+        "url": "https://open.spotify.com/album/6ljMqIyil2pDBcZlsysK76"
+      },
+      "artists": [
+        {
+          "name": "Brujeria",
+          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+        }
+      ],
+      "duration_ms": 143306,
+      "name": "Matando Gueros",
+      "url": "https://open.spotify.com/track/2gjr6Seh7mH5Tsgmo5DqjQ"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
         "name": "Rock en Tu Idioma Sinf\u00f3nico",
         "url": "https://open.spotify.com/album/3ayan86yMHukQACm3V7T6J"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 249506,
       "name": "Nos Tragamos",
       "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
-        "name": "Mantando Gueros",
-        "url": "https://open.spotify.com/album/6ljMqIyil2pDBcZlsysK76"
-      },
-      "artists": [
-        {
-          "name": "Brujeria",
-          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
-        }
-      ],
-      "duration_ms": 143306,
-      "name": "Matando Gueros",
-      "url": "https://open.spotify.com/track/2gjr6Seh7mH5Tsgmo5DqjQ"
     },
     {
       "added_at": "2024-12-16 22:58:03",

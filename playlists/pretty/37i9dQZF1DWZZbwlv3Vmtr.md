@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Instrumental beats to lock\-in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,389 likes - 350 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,533 likes - 350 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 9 | [poseidon](https://open.spotify.com/track/6MpZRAlMbG1PvjuMNtzp9t) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [poseidon](https://open.spotify.com/album/63BcmPVShgWasXts8qMikS) | 2:01 |
 | 10 | [Romance](https://open.spotify.com/track/7Im1vmqr67pYDEVGg5C8JO) | [Jazza Mazza](https://open.spotify.com/artist/2rd4NH7tA06zYwgkRsbjqM) | [Romance](https://open.spotify.com/album/07BnZeGBwpCJ53CwUsKNj6) | 2:06 |
 | 11 | [hjortron](https://open.spotify.com/track/1eGHzlNpyXAsi4qKfm5z27) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [hjortron](https://open.spotify.com/album/5sANFRqIeEJUz1aVPmgEjA) | 2:09 |
-| 12 | [come show me](https://open.spotify.com/track/3zGeEexRezep22ScUrdTyG) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [come show me](https://open.spotify.com/album/3aPBZcPfLAmvpMrc57E9Ka) | 2:01 |
-| 13 | [koko](https://open.spotify.com/track/2M07oWoOgrpaojZ6dulp3Y) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [koko](https://open.spotify.com/album/1MQbP92gnFWG4CSgyEiZXZ) | 2:29 |
-| 14 | [Tough Night](https://open.spotify.com/track/2SIG8r7jJLXc9Q3fAOUrwx) | [Thin Wire](https://open.spotify.com/artist/6XsmusNMQByvF8YoSjokGJ) | [Tough Night](https://open.spotify.com/album/18fZ6VNfyQ0rkBAWHuqZOQ) | 1:47 |
+| 12 | [koko](https://open.spotify.com/track/2M07oWoOgrpaojZ6dulp3Y) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [koko](https://open.spotify.com/album/1MQbP92gnFWG4CSgyEiZXZ) | 2:29 |
+| 13 | [Tough Night](https://open.spotify.com/track/2SIG8r7jJLXc9Q3fAOUrwx) | [Thin Wire](https://open.spotify.com/artist/6XsmusNMQByvF8YoSjokGJ) | [Tough Night](https://open.spotify.com/album/18fZ6VNfyQ0rkBAWHuqZOQ) | 1:47 |
+| 14 | [come show me](https://open.spotify.com/track/3zGeEexRezep22ScUrdTyG) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [come show me](https://open.spotify.com/album/3aPBZcPfLAmvpMrc57E9Ka) | 2:01 |
 | 15 | [machine](https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [machine](https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz) | 2:08 |
 | 16 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 |
 | 17 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 |
@@ -130,9 +130,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 120 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 |
 | 121 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 |
 | 122 | [Honey and Spice](https://open.spotify.com/track/5ENIpwHxPVyKEp1JUGxZt8) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Honey and Spice](https://open.spotify.com/album/3TsuK7dDF9d0Ab7VwMuqsw) | 2:08 |
-| 123 | [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 |
-| 124 | [spacewalk](https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [spacewalk](https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX) | 2:15 |
-| 125 | [Quiet Corner](https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Quiet Corner](https://open.spotify.com/album/29GiHtsG2oENz8dEKsmiyt) | 2:10 |
+| 123 | [spacewalk](https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [spacewalk](https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX) | 2:15 |
+| 124 | [Quiet Corner](https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Quiet Corner](https://open.spotify.com/album/29GiHtsG2oENz8dEKsmiyt) | 2:10 |
+| 125 | [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 |
 | 126 | [Heartbeat](https://open.spotify.com/track/1CcDRIoWnH19cOockC58UT) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Heartbeat](https://open.spotify.com/album/2b4MQwic08GoiWdAoI76Q3) | 2:05 |
 | 127 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 |
 | 128 | [dear](https://open.spotify.com/track/4eMXHSc8jzmc9XdrHc14eO) | [Ree Vozz](https://open.spotify.com/artist/03Kr8XGKfldmQU7bODAzqu) | [chai latay](https://open.spotify.com/album/2LsusJuv6WiMu7VKOLg7Ki) | 2:51 |

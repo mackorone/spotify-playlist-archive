@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39230,
+  "num_followers": 39235,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAAARKMmExlQXZqmO7WLhcDf2",
+  "snapshot_id": "aB6XAAAAAABhmAX+C6cWpCRUSrON5gR9",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradox",
-        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+        "name": "For When It Hurts",
+        "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
       "artists": [
         {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
         },
         {
-          "name": "Avelino",
-          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 233497,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5"
+      "duration_ms": 58080,
+      "name": "D-LOW",
+      "url": "https://open.spotify.com/track/794QsDYCpR1r7hl1UA6hD2"
     },
     {
       "added_at": null,
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For When It Hurts",
-        "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
         }
       ],
-      "duration_ms": 58080,
-      "name": "D-LOW",
-      "url": "https://open.spotify.com/track/794QsDYCpR1r7hl1UA6hD2"
+      "duration_ms": 233497,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like You'll Never See Me Again",
-        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "Like You'll Never See Me Again",
-      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yonder: Book I",
         "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 128364,
       "name": "Silver Tongue",
       "url": "https://open.spotify.com/track/4H9p6vy930al2phntMu19N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like You'll Never See Me Again",
+        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "Like You'll Never See Me Again",
+      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yonder: Book II",
+        "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 107353,
+      "name": "Move Like Me",
+      "url": "https://open.spotify.com/track/3Mm5uaqwKgZmevUVEBiytY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
         "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
       },
@@ -627,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yonder: Book II",
-        "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 107353,
-      "name": "Move Like Me",
-      "url": "https://open.spotify.com/track/3Mm5uaqwKgZmevUVEBiytY"
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
       "duration_ms": 147386,
       "name": "You Might Find Me",
       "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,

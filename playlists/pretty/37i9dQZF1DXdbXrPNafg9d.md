@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,312,338 likes - 175 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,312,449 likes - 175 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

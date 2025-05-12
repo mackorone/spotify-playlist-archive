@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 306 songs - 16 hr 17 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 307 songs - 16 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,5 +314,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 304 | [Tuff](https://open.spotify.com/track/5yoztgebGjM9Xj2M7CEe2n) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Grandson, Vol\. 1](https://open.spotify.com/album/5BAggP8hO7VWDSTKkNGyCi) | 2:28 |
 | 305 | [Movie](https://open.spotify.com/track/56nMxD5Hz0gI2E1lDmC0kk) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [3vil Reflection](https://open.spotify.com/album/17DbwNYaf8YjmLXSwiKG3M) | 2:16 |
 | 306 | [ik what you did last summer](https://open.spotify.com/track/1imJDIpA1lc0pmXEKQDXPV) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [ik what you did last summer](https://open.spotify.com/album/23mu61TZub1lTik1j31nL2) | 1:46 |
+| 307 | [Doing Nothing Else](https://open.spotify.com/track/3Yd4kZMzyg4F58YWLnMxT8) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Doing Nothing Else](https://open.spotify.com/album/66IRglUbmpjN4qPWYVIQTR) | 3:05 |
 
-Snapshot ID: `AAAeU16rKk2Ys15UhWUp4HkHvQEHsZ5w`
+Snapshot ID: `AAAeVPcQlYuf+MqO4/YJD7Yy5SRINV0d`

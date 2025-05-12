@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 242611,
+  "num_followers": 242723,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 283200,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Tiempo pa' Matar",
         "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
       },
@@ -191,18 +207,34 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 283200,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
+      "duration_ms": 331306,
+      "name": "No Podras Escapar De Mi",
+      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 303306,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -227,22 +259,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 303306,
-      "name": "Tu Con El",
-      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "La Universidad de La Salsa",
         "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 301373,
       "name": "Y No Hago Mas Na'",
       "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "No Podras Escapar De Mi",
-      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Tu Me Quemas",
+      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -351,38 +367,6 @@
       "duration_ms": 311800,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Tu Me Quemas",
-      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Nuestro Aniversario",
-        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "Trampol\u00edn",
-      "url": "https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -435,6 +419,38 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 296920,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Nuestro Aniversario",
+        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 261893,
+      "name": "Trampol\u00edn",
+      "url": "https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -451,6 +467,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Voy Pa'Encima",
+        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Salsa Exitos",
         "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
       },
@@ -463,22 +495,6 @@
       "duration_ms": 284240,
       "name": "Me Niegas Tanto Amor",
       "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 296920,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -519,38 +535,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Voy Pa'Encima",
-        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 268106,
-      "name": "No Hay Cama Pa' Tanta Gente",
-      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -587,22 +571,34 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+        "name": "Serie Platino: Eddie Santiago",
+        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 391320,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
+      "duration_ms": 303106,
+      "name": "Me Fallaste",
+      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "No Hay Cama Pa' Tanta Gente",
+      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -623,50 +619,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Mi Mundo",
-      "url": "https://open.spotify.com/track/20U0CM5bMwutODF8KQRj5Y"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Serie Platino: Eddie Santiago",
-        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
-      },
-      "artists": [
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 303106,
-      "name": "Me Fallaste",
-      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Nuestro Aniversario",
-        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "Se Me Fu\u00e9",
-      "url": "https://open.spotify.com/track/7LtdGE1jTyh9mgnmxvkyRO"
+      "duration_ms": 391320,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -683,26 +651,6 @@
       "duration_ms": 389840,
       "name": "Amame en Camara Lenta",
       "url": "https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 327466,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -727,6 +675,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Nuestro Aniversario",
+        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Se Me Fu\u00e9",
+      "url": "https://open.spotify.com/track/7LtdGE1jTyh9mgnmxvkyRO"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -736,9 +700,9 @@
           "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 281773,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
+      "duration_ms": 284000,
+      "name": "Mi Mundo",
+      "url": "https://open.spotify.com/track/20U0CM5bMwutODF8KQRj5Y"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -759,6 +723,42 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 327466,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Back To Work",
         "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
       },
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
+        "name": "Dueno del Soneo",
+        "url": "https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Cano Estremera",
+          "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
         }
       ],
-      "duration_ms": 301960,
-      "name": "Yo Me Quedo",
-      "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
+      "duration_ms": 338840,
+      "name": "A Mi",
+      "url": "https://open.spotify.com/track/3y3A0PQZqg6RiWMHRgqvFU"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Dueno del Soneo",
-        "url": "https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq"
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
       "artists": [
         {
-          "name": "Cano Estremera",
-          "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 338840,
-      "name": "A Mi",
-      "url": "https://open.spotify.com/track/3y3A0PQZqg6RiWMHRgqvFU"
+      "duration_ms": 281773,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -851,22 +851,6 @@
       "duration_ms": 266013,
       "name": "Tu Eres",
       "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 286413,
-      "name": "Date un Chance",
-      "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -975,18 +959,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Dos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/1IoQHzkBq5cea0ragcDyWP"
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 342133,
-      "name": "Amor Mio No Te Vayas",
-      "url": "https://open.spotify.com/track/0WXqR7jF5njKbz7fGEHWNr"
+      "duration_ms": 286413,
+      "name": "Date un Chance",
+      "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1003,6 +987,22 @@
       "duration_ms": 261880,
       "name": "Amantes De Otro Tiempo",
       "url": "https://open.spotify.com/track/2NQsj4HzvWYw5VbDJRrlJY"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Dos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/1IoQHzkBq5cea0ragcDyWP"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 342133,
+      "name": "Amor Mio No Te Vayas",
+      "url": "https://open.spotify.com/track/0WXqR7jF5njKbz7fGEHWNr"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1055,22 +1055,6 @@
       "duration_ms": 275453,
       "name": "No Soy Autom\u00e1tico",
       "url": "https://open.spotify.com/track/0jRXZABgFIsPCI7235h5u2"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 332253,
-      "name": "Dejame Sentirte",
-      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 332253,
+      "name": "Dejame Sentirte",
+      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 313533,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
       },
@@ -1215,22 +1199,6 @@
       "duration_ms": 265480,
       "name": "De Punta a Punta",
       "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
-      },
-      "artists": [
-        {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Y Nos Amamos",
-      "url": "https://open.spotify.com/track/0vAA0c6zf8pCWgmIj4Oggx"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1267,6 +1235,38 @@
       "duration_ms": 351813,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Amaneci Contigo sin Tabu",
+        "url": "https://open.spotify.com/album/5ZnrQ9pCeSBxtwq15WDzpr"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 239397,
+      "name": "Agua Caliente",
+      "url": "https://open.spotify.com/track/4IpLwNEogub3ewrIxf03iy"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Y Nos Amamos",
+      "url": "https://open.spotify.com/track/0vAA0c6zf8pCWgmIj4Oggx"
     }
   ],
   "unique_name": "Salsa: Los '80",

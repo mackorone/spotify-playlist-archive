@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 92875,
+  "num_followers": 93005,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,30 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "True Love (feat. Tay Iwar & Projexx)",
+      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn"
       },
@@ -299,30 +323,6 @@
       "duration_ms": 223520,
       "name": "Emakhaya",
       "url": "https://open.spotify.com/track/4eLFAxZWiV4Mfp8mpzdrdT"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "True Love (feat. Tay Iwar & Projexx)",
-      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
     },
     {
       "added_at": "2025-04-17 07:46:17",

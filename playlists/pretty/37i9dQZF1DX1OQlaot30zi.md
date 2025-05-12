@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Salmo, Tony Boy, Shablo, Tony Effe e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,975 likes - 134 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,978 likes - 134 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 41 | [Old Fashion \(feat\. Promessa e Flaco G\)](https://open.spotify.com/track/5j5L8CShNbWaYrFJWbXZs3) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [Old Fashion \(feat\. Promessa e Flaco G\)](https://open.spotify.com/album/0rywnZls7YOlHPcipdSmAq) | 2:50 |
 | 42 | [Uragano](https://open.spotify.com/track/6i5ALDBA6MeJk4dcyb5fhI) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Uragano](https://open.spotify.com/album/0Nfz4vCPFmDvk9jag8GUDY) | 2:40 |
 | 43 | [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 |
-| 44 | [BUDGET](https://open.spotify.com/track/27ZwL8Y5dVhU1SpI2JMBbb) | [Unknown\_2cc](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [BUDGET](https://open.spotify.com/album/2Yoanm9hB7mmO5hy5SxzWy) | 2:10 |
+| 44 | [BUDGET](https://open.spotify.com/track/27ZwL8Y5dVhU1SpI2JMBbb) | [UNK](https://open.spotify.com/artist/6MuzFhlRIwBwkDu0YnpM7y) | [BUDGET](https://open.spotify.com/album/2Yoanm9hB7mmO5hy5SxzWy) | 2:10 |
 | 45 | [139](https://open.spotify.com/track/3Bb6TJkqfLFoAXInJ8foJR) | [headows](https://open.spotify.com/artist/13LA1PXTvCYn9VT4dqGAfq) | [139](https://open.spotify.com/album/7mRenYePKZtr8Qc9ny1QEz) | 1:17 |
 | 46 | [Ragazzi di diversi quartieri \(feat\. LIUAN\)](https://open.spotify.com/track/2fsX6DFN4J5GcmXHJeHayu) | [Laïoung](https://open.spotify.com/artist/4RrtqH6egYYBfJrnLkhINz), [LIUAN](https://open.spotify.com/artist/4EWwWCzNKwF2hJMjNtldWt) | [Ragazzi di diversi quartieri \(feat\. LIUAN\)](https://open.spotify.com/album/7L0j9Z9oIEtKdihe23C0W8) | 2:38 |
 | 47 | [Mio fra sí](https://open.spotify.com/track/6BKkwqkiw0PbzrlZlQSTQi) | [ESTREMO EAST](https://open.spotify.com/artist/5pLvZE9AWuFuMVFntiOvBq), [Totem](https://open.spotify.com/artist/4S3jg23v1gg17rTKI952fK), [MR Rizzus](https://open.spotify.com/artist/1lbjFxJSZCuCjiOKuMfmiO), [El Moro](https://open.spotify.com/artist/4fxCc0SX5a54YE1zoaaDX6), [Kooma](https://open.spotify.com/artist/10EarkYHtpo6YCGvlrL0i0), [LLEDRI™](https://open.spotify.com/artist/1GZcNesL6zyEwpfdDJJf6O) | [Mio fra sí](https://open.spotify.com/album/3Ecn7wDnrAehGS8OSLN9sI) | 1:52 |

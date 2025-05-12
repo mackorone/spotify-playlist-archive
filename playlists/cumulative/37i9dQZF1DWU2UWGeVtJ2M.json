@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220945,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
+    },
+    {
+      "album": {
         "name": "body",
         "url": "https://open.spotify.com/album/2duD8w8XxzQ2NKmeIDe5QN"
       },
@@ -6398,7 +6416,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 174907,
       "name": "Virtual Lover",
       "url": "https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr"

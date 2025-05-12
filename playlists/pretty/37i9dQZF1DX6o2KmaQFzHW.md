@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Lo mejor del folclore nacional 📸  Sele Vera
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,686 likes - 92 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,835 likes - 92 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 11 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/1dBKW66aAt8LItqKtxqSmf) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Que Sea Con Suerte](https://open.spotify.com/album/3NtQrhAYFIg6An97g6zLIW) | 3:07 |
 | 12 | [Me Tocó Perder](https://open.spotify.com/track/0PVDEaIjTCC7NDeLfnxQi4) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 2:50 |
 | 13 | [Juan de la Calle](https://open.spotify.com/track/0FEY980G19GmeiVBK2AYzA) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/6HRTNRUeBVVntGVR5e6Amf) | 3:12 |
-| 14 | [Desde el Puente Carretero \(with Peteco Carabajal\)](https://open.spotify.com/track/32mWcBr72gtKjrZhbWotbi) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [14 De Colección](https://open.spotify.com/album/4uS0algE0q6RfX07BdZkPi) | 2:26 |
+| 14 | [Desde el Puente Carretero \(with Peteco Carabajal\)](https://open.spotify.com/track/32mWcBr72gtKjrZhbWotbi) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [14 De Colección](https://open.spotify.com/album/4uS0algE0q6RfX07BdZkPi) | 2:26 |
 | 15 | [Un Millón de rosas](https://open.spotify.com/track/58hBuil2mZcMTotNdyYr8m) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Un Millón de rosas](https://open.spotify.com/album/7cissQhE8wLqMq7z8z3aVU) | 3:15 |
 | 16 | [Zamba de Mi Esperanza \- Jorge Cafrune](https://open.spotify.com/track/1zBItSNLpWQrlCrCa51W6l) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw), [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Todos Somos Chalchaleros](https://open.spotify.com/album/6Q8QEjShE35K93YHtvfodn) | 3:54 |
 | 17 | [Déjame Que Me Vaya](https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros](https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n) | 3:32 |

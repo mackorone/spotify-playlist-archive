@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: Holy Gather
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,392 likes - 260 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,395 likes - 260 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

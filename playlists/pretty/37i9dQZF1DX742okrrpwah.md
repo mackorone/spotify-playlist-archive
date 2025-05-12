@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Miley Cyrus, DYSTINCT x Morad et Tyla au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,864 likes - 84 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,833 likes - 84 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

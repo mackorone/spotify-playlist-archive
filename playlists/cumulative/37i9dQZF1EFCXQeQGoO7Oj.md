@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-609 songs - 1 day 12 hr 28 min
+611 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [All That Matters \(The Beautiful Life\)](https://open.spotify.com/track/7949ooAKks9n3EB5CesM4B) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:37 | 2024-01-29 |  |
 | [All You Had To Do Was Stay](https://open.spotify.com/track/4NNolUeL5m2ju7kf8pdg6H) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/5fy0X0JmZRZnVa2UEicIOl) | 3:13 | 2024-01-29 |  |
 | [Alone](https://open.spotify.com/track/7CUPfpfuPwjicclWi4qKH4) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:13 | 2024-01-29 |  |
+| [American Bitch](https://open.spotify.com/track/56GiEKXFVUjgkMdAe1cvGc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [American Bitch](https://open.spotify.com/album/7e9EkDjzlaYiUYQ4lUfFBk) | 2:44 | 2025-05-11 |  |
 | [Analogue \(All I Want\) \- MTV Unplugged](https://open.spotify.com/track/0Qd9Uf3LUsbUObtLK8NSdI) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [MTV Unplugged \- Summer Solstice](https://open.spotify.com/album/55SHqC4ZxSnT0wWQgg9eOY) | 4:43 | 2024-01-29 |  |
 | [Another Lonely Night](https://open.spotify.com/track/4Jy13zZticAaP3XldzKby1) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Another Lonely Night](https://open.spotify.com/album/1PsupjEL5Z5wd4pZMQiTUJ) | 3:44 | 2024-01-30 | 2024-02-02 |
 | [Another Lonely Night](https://open.spotify.com/track/5HBlVvqWjmGTrFDAO0JVdY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High](https://open.spotify.com/album/6hN2y18fg4KVGMaltxfdXZ) | 3:45 | 2024-06-15 |  |
@@ -611,7 +612,8 @@
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-29 | 2024-03-11 |
 | [You Make Me Feel](https://open.spotify.com/track/3oPaEwpXsktYeiydEwOLUv) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:38 | 2024-01-29 |  |
 | [Your Body](https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:59 | 2024-01-29 |  |
-| [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 | 2025-02-20 |  |
+| [¿Es En Serio?](https://open.spotify.com/track/2MJPYIMuIpW2SmdC4QLsNJ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:13 | 2025-05-11 |  |
+| [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 | 2025-02-20 | 2025-05-12 |
 | [♾](https://open.spotify.com/track/2wleRXcIPqltoDPLMH5WDa) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2024-01-29 |  |
 | [✨](https://open.spotify.com/track/1danObd53GynoY83wRz3Ua) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 0:53 | 2024-01-29 |  |
 | [❤️](https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [We Are KING](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:08 | 2024-01-29 |  |

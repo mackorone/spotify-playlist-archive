@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Damaris Bojor en portada.",
-  "num_followers": 192243,
+  "num_followers": 192219,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
+        "name": "K\u00e9 MaL (versi\u00f3n tierna)",
+        "url": "https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "K\u00e9 MaL - versi\u00f3n tierna",
+      "url": "https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
         "name": "Cuanto antes (feat. Lali)",
         "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "Donde Debo Estar",
-        "url": "https://open.spotify.com/album/5DQkIKb8Cvb2XGIfHZ4oN4"
-      },
-      "artists": [
-        {
-          "name": "Tony Mils",
-          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
-        }
-      ],
-      "duration_ms": 221901,
-      "name": "Donde Debo Estar",
-      "url": "https://open.spotify.com/track/4sscXIg64lskHbo0L2fmFq"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/50dOULM8wbuHH77XdNquwX"
       },
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "K\u00e9 MaL (versi\u00f3n tierna)",
-        "url": "https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt"
+        "name": "Donde Debo Estar",
+        "url": "https://open.spotify.com/album/5DQkIKb8Cvb2XGIfHZ4oN4"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
         }
       ],
-      "duration_ms": 257000,
-      "name": "K\u00e9 MaL - versi\u00f3n tierna",
-      "url": "https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3"
+      "duration_ms": 221901,
+      "name": "Donde Debo Estar",
+      "url": "https://open.spotify.com/track/4sscXIg64lskHbo0L2fmFq"
     },
     {
       "added_at": "2025-05-09 06:00:08",

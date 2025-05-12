@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 444190,
+  "num_followers": 444256,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "Lil' Man Soul",
+        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 245226,
+      "name": "I'm Waiting For You",
+      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 210773,
       "name": "18th & M",
       "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Lil' Man Soul",
-        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 245226,
-      "name": "I'm Waiting For You",
-      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -727,6 +727,26 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "SHINE!",
+        "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "SHINE!",
+      "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "Uptown Blues",
         "url": "https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 343213,
       "name": "Keep Holding On",
       "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "SHINE!",
-        "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "SHINE!",
-      "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 311359,
-      "name": "Everyone but You",
-      "url": "https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "All We Have Are Moments",
         "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 213536,
       "name": "What Key?",
       "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 311359,
+      "name": "Everyone but You",
+      "url": "https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Let's Get Serious",
-        "url": "https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "Let's Get Serious",
-      "url": "https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Stronger Now",
         "url": "https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC"
       },
@@ -1963,22 +1947,6 @@
       "duration_ms": 243366,
       "name": "Perfect Sunday",
       "url": "https://open.spotify.com/track/3y9l6PAbOOGYBH1AY4XaTO"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "I'm All Ears",
-        "url": "https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 299583,
-      "name": "I'm All Ears",
-      "url": "https://open.spotify.com/track/14CjlC1OvoUWoKgggP5YNd"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2003,34 +1971,18 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Retrospect",
-        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
+        "name": "Let's Get Serious",
+        "url": "https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj"
       },
       "artists": [
         {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 260886,
-      "name": "Sample That",
-      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Tequila Moon",
-        "url": "https://open.spotify.com/album/5m4EAIIS14jJMOQyhNo3UH"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "Tequila Moon",
-      "url": "https://open.spotify.com/track/6CqToVNuBYHXvlzdQmZHJA"
+      "duration_ms": 246546,
+      "name": "Let's Get Serious",
+      "url": "https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2055,6 +2007,70 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "Tequila Moon",
+        "url": "https://open.spotify.com/album/5m4EAIIS14jJMOQyhNo3UH"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "Tequila Moon",
+      "url": "https://open.spotify.com/track/6CqToVNuBYHXvlzdQmZHJA"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Retrospect",
+        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 260886,
+      "name": "Sample That",
+      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Magic Mirror",
+        "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
+      },
+      "artists": [
+        {
+          "name": "Carol Albert",
+          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
+        }
+      ],
+      "duration_ms": 250790,
+      "name": "Fire & Water",
+      "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "I'm All Ears",
+        "url": "https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 299583,
+      "name": "I'm All Ears",
+      "url": "https://open.spotify.com/track/14CjlC1OvoUWoKgggP5YNd"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "Magic Hour",
         "url": "https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz"
       },
@@ -2075,18 +2091,18 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1"
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/2DkaeGeOgxo1LcrT0VIRFE"
       },
       "artists": [
         {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
         }
       ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"
+      "duration_ms": 284805,
+      "name": "18th & Vine",
+      "url": "https://open.spotify.com/track/3Jy2TEyOVfBUwVytWu52NP"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2107,6 +2123,22 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/142E2CAmo6Cnr5LXmIozky"
       },
@@ -2119,22 +2151,6 @@
       "duration_ms": 228426,
       "name": "Driftin'",
       "url": "https://open.spotify.com/track/1HvNKIGfKzR5I26EuLXDwv"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Magic Mirror",
-        "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
-      },
-      "artists": [
-        {
-          "name": "Carol Albert",
-          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
-        }
-      ],
-      "duration_ms": 250790,
-      "name": "Fire & Water",
-      "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2159,6 +2175,22 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
+      },
+      "artists": [
+        {
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        }
+      ],
+      "duration_ms": 216129,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2DmMf1bOCZniiHjBNPlTyt"
       },
@@ -2175,8 +2207,8 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/2DkaeGeOgxo1LcrT0VIRFE"
+        "name": "Romance the Rain",
+        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
       },
       "artists": [
         {
@@ -2184,25 +2216,29 @@
           "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
         }
       ],
-      "duration_ms": 284805,
-      "name": "18th & Vine",
-      "url": "https://open.spotify.com/track/3Jy2TEyOVfBUwVytWu52NP"
+      "duration_ms": 289356,
+      "name": "Romance The Rain",
+      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
     },
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
+        "name": "Unified",
+        "url": "https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f"
       },
       "artists": [
         {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
         }
       ],
-      "duration_ms": 216129,
-      "name": "Business As Usual",
-      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
+      "duration_ms": 262640,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/3vkk18EK3VoKePPFGUQhcH"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2263,42 +2299,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Romance the Rain",
-        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        }
-      ],
-      "duration_ms": 289356,
-      "name": "Romance The Rain",
-      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Unified",
-        "url": "https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/3vkk18EK3VoKePPFGUQhcH"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Sexy Somethin",
         "url": "https://open.spotify.com/album/3bmCfOCQF2wsR7L7XwvMwa"
       },
@@ -2351,6 +2351,22 @@
       "duration_ms": 249300,
       "name": "It Keeps Coming Back",
       "url": "https://open.spotify.com/track/6n5vmGSzSdv1aRTdZyEbZf"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2415,22 +2431,6 @@
       "duration_ms": 249750,
       "name": "Encantadora (feat. Najee)",
       "url": "https://open.spotify.com/track/5iFDAezQ6Tg4rmTlN8rntx"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V"
     },
     {
       "added_at": "2025-03-03 14:06:45",

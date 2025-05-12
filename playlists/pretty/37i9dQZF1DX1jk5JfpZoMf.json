@@ -1,6 +1,6 @@
 {
   "description": "Nada melhor que aquela barulho de chuva para dormir ou relaxar.",
-  "num_followers": 122987,
+  "num_followers": 123007,
   "original_name": "Barulho de Chuva",
   "owner": {
     "name": "Spotify",
@@ -4279,6 +4279,22 @@
     {
       "added_at": "2024-08-27 13:04:44",
       "album": {
+        "name": "Sleep Factory",
+        "url": "https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy"
+      },
+      "artists": [
+        {
+          "name": "Sleep Factory",
+          "url": "https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8"
+        }
+      ],
+      "duration_ms": 322115,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/5qKaKWTZ74lAd8IgvSaVld"
+    },
+    {
+      "added_at": "2024-08-27 13:04:44",
+      "album": {
         "name": "Sleeping Sounds",
         "url": "https://open.spotify.com/album/0I7MgTcuGhEDJ4W80dmcIC"
       },
@@ -4307,22 +4323,6 @@
       "duration_ms": 127542,
       "name": "Rain Meditation",
       "url": "https://open.spotify.com/track/57zsjpyXmUl5m1gluaEdBH"
-    },
-    {
-      "added_at": "2024-08-27 13:04:44",
-      "album": {
-        "name": "Sleep Factory",
-        "url": "https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy"
-      },
-      "artists": [
-        {
-          "name": "Sleep Factory",
-          "url": "https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8"
-        }
-      ],
-      "duration_ms": 322115,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/5qKaKWTZ74lAd8IgvSaVld"
     },
     {
       "added_at": "2024-08-27 13:04:44",

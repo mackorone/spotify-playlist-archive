@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kekel",
-  "num_followers": 85308,
+  "num_followers": 85325,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
+        "name": "Funk \u00e9 N\u00f3is GR6 3.1, Vol. 1",
+        "url": "https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 157088,
+      "name": "Doutora 3",
+      "url": "https://open.spotify.com/track/4DWKtQVURjepn8uzBgmwuv"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
         "name": "Peda\u00e7o de Mim",
         "url": "https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B"
       },
@@ -263,50 +283,6 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 212018,
-      "name": "Sobre N\u00f3s",
-      "url": "https://open.spotify.com/track/5K1n3LwCVZg2TE9SLgIwem"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
-        "name": "Funk \u00e9 N\u00f3is GR6 3.1, Vol. 1",
-        "url": "https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 157088,
-      "name": "Doutora 3",
-      "url": "https://open.spotify.com/track/4DWKtQVURjepn8uzBgmwuv"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
         "name": "Google da Minha Vida",
         "url": "https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa"
       },
@@ -339,22 +315,6 @@
       "duration_ms": 261333,
       "name": "Amor e Amor",
       "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
-        "name": "Perdi\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6JJrn3h0bgZ886jTetGLfk"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Perdi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS"
     },
     {
       "added_at": "2024-12-13 16:53:30",
@@ -427,6 +387,46 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 212018,
+      "name": "Sobre N\u00f3s",
+      "url": "https://open.spotify.com/track/5K1n3LwCVZg2TE9SLgIwem"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
+        "name": "Perdi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6JJrn3h0bgZ886jTetGLfk"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Perdi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
+        "name": "Hat-Trick do Tubar\u00e3o",
+        "url": "https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Trinta Minutos",
+      "url": "https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
         "name": "Respeitada",
         "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
       },
@@ -507,22 +527,30 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
-        "name": "Hat-Trick do Tubar\u00e3o",
-        "url": "https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu"
+        "name": "Dono das Esquinas",
+        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
       "artists": [
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
         },
         {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Trinta Minutos",
-      "url": "https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE"
+      "duration_ms": 176000,
+      "name": "Todo T\u00edmido",
+      "url": "https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27"
     },
     {
       "added_at": "2024-12-13 16:53:30",
@@ -563,54 +591,6 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
-        "name": "Dono das Esquinas",
-        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Todo T\u00edmido",
-      "url": "https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
-        "name": "Amor de Fim de Noite",
-        "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Amor de Fim de Noite",
-      "url": "https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
         "name": "Ainda",
         "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 154378,
       "name": "Essa Noite",
       "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
+        "name": "Amor de Fim de Noite",
+        "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Amor de Fim de Noite",
+      "url": "https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH"
     },
     {
       "added_at": "2024-12-13 16:53:30",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
-        "name": "Te Escolhi",
-        "url": "https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0"
-      },
-      "artists": [
-        {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
-        }
-      ],
-      "duration_ms": 108460,
-      "name": "Te Escolhi",
-      "url": "https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
         "name": "Mundo Pequeno",
         "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
       },
@@ -1015,22 +999,18 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
-        "name": "Surtada",
-        "url": "https://open.spotify.com/album/3NYNo4VJJXOSpKMh0AAjMN"
+        "name": "Te Escolhi",
+        "url": "https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0"
       },
       "artists": [
         {
-          "name": "CARTE",
-          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
-        },
-        {
-          "name": "Dona Lan\u00f4r",
-          "url": "https://open.spotify.com/artist/78D1YLx2ttGLPXOLCceWMP"
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
         }
       ],
-      "duration_ms": 143061,
-      "name": "Surtada",
-      "url": "https://open.spotify.com/track/3gZXNwLzMQdlpDsfHC9PPz"
+      "duration_ms": 108460,
+      "name": "Te Escolhi",
+      "url": "https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd"
     },
     {
       "added_at": "2024-12-13 16:53:30",
@@ -1047,6 +1027,26 @@
       "duration_ms": 165600,
       "name": "Tom de Pele",
       "url": "https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
+        "name": "Surtada",
+        "url": "https://open.spotify.com/album/3NYNo4VJJXOSpKMh0AAjMN"
+      },
+      "artists": [
+        {
+          "name": "CARTE",
+          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
+        },
+        {
+          "name": "Dona Lan\u00f4r",
+          "url": "https://open.spotify.com/artist/78D1YLx2ttGLPXOLCceWMP"
+        }
+      ],
+      "duration_ms": 143061,
+      "name": "Surtada",
+      "url": "https://open.spotify.com/track/3gZXNwLzMQdlpDsfHC9PPz"
     },
     {
       "added_at": "2024-12-13 16:53:30",

@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 175948,
+  "num_followers": 176017,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAACcUGtNnHj5EbCw2vPzPLSm",
+  "snapshot_id": "aB6XAAAAAACWGtugT6QyClbjc9F319+8",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena",
-        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Buena",
-      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cielo (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 183422,
       "name": "Cielo (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buena",
+        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Buena",
+      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
     },
     {
       "added_at": null,

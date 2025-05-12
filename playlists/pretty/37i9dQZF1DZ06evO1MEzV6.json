@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 113927,
+  "num_followers": 113965,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAACWKvHAH7xRclVKO9KG/rb/",
+  "snapshot_id": "aB6XAAAAAAADCqHIzj8j0QdTMTKRkT5X",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 247584,
+      "name": "Art Class",
+      "url": "https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "fall in love with a girl (feat. Beabadoobee)",
         "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 190853,
       "name": "fall in love with a girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 247584,
-      "name": "Art Class",
-      "url": "https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
       "duration_ms": 90928,
       "name": "Back To Mars",
       "url": "https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lice",
-        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 68293,
-      "name": "Angry Song",
-      "url": "https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4"
     }
   ],
   "unique_name": "This Is beabadoobee",

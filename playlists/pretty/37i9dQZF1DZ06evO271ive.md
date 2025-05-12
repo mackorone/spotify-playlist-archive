@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,091 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,105 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5) | [chriseanrock](https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX) | 1:24 |
 | 50 | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO) | 2:43 |
 
-Snapshot ID: `aB1FgAAAAACzlR+/1Ln0zEJx+2YspJNh`
+Snapshot ID: `aB6XAAAAAADi5FPE21FZ10XYpUZkhGi5`

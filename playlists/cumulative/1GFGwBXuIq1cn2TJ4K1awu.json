@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 300586,
       "name": "Cool Dry Place",
       "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 193533,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/5BlGmys9VqmHZbf7eswxG1"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 158474,
       "name": "Down the Line",
       "url": "https://open.spotify.com/track/1KPDAA9zyJXcEDvFW5inYi"
@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything",
+      "url": "https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -663,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Undressed",
+        "url": "https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF"
+      },
+      "artists": [
+        {
+          "name": "Pansy Division",
+          "url": "https://open.spotify.com/artist/5OyEfwMlXpCWU8dWVENGgm"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124316,
+      "name": "Fem in a Black Leather Jacket",
+      "url": "https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT"
+    },
+    {
+      "album": {
         "name": "Colour It In",
         "url": "https://open.spotify.com/album/3CTry04declmSVBUQ9hTHW"
       },
@@ -678,6 +714,24 @@
       "duration_ms": 183946,
       "name": "First Love",
       "url": "https://open.spotify.com/track/2SS626XrxLokgcGw0sC9zC"
+    },
+    {
+      "album": {
+        "name": "Sailing The Seas Of Cheese",
+        "url": "https://open.spotify.com/album/2sjF68plsvYE7M3FaMf6rD"
+      },
+      "artists": [
+        {
+          "name": "Primus",
+          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460600,
+      "name": "Fish On (Fisherman Chronicles, Chapter II)",
+      "url": "https://open.spotify.com/track/28GNLbCDihx07xoVy8JHqI"
     },
     {
       "album": {
@@ -746,10 +800,28 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 128840,
       "name": "Hate the Police",
       "url": "https://open.spotify.com/track/17lJiJ6NuBY6VHeEUVL2be"
+    },
+    {
+      "album": {
+        "name": "Music For All Occasions",
+        "url": "https://open.spotify.com/album/4gEFOyes5HJJMIzTHlGG76"
+      },
+      "artists": [
+        {
+          "name": "The Mavericks",
+          "url": "https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "Here Comes The Rain",
+      "url": "https://open.spotify.com/track/1XoceRZQoS12hjNVeifdvO"
     },
     {
       "album": {
@@ -969,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "DAYTONA",
+        "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202120,
+      "name": "If You Know You Know",
+      "url": "https://open.spotify.com/track/6bGwKHXHNLmTy6yt147FPh"
+    },
+    {
+      "album": {
         "name": "Rock and Roll Bye Bye",
         "url": "https://open.spotify.com/album/5C0UsTLvcByVL3WLukDJXR"
       },
@@ -980,7 +1070,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 264520,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/7bwyzigs10Y3kn3swbiDiC"
@@ -1016,7 +1106,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 178960,
       "name": "Lithonia",
       "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
@@ -1124,7 +1214,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 237258,
       "name": "mad woman",
       "url": "https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi"
@@ -1286,7 +1376,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 226279,
       "name": "Moviegoer",
       "url": "https://open.spotify.com/track/3LqolQvNaNX5UHpGF5lZwa"
@@ -1394,7 +1484,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 204041,
       "name": "On My Knees",
       "url": "https://open.spotify.com/track/4sI0D6mPtb7Oy9OCTpCU8N"
@@ -1514,7 +1604,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 233226,
       "name": "Photographic Memories (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/3RRjRfsNJ4A5Y3qAgQgAjD"
@@ -1554,6 +1644,24 @@
       "duration_ms": 303626,
       "name": "Please Be Mine",
       "url": "https://open.spotify.com/track/7mfWdGa87PuMmcGoFnZinm"
+    },
+    {
+      "album": {
+        "name": "Playing the Angel (Deluxe)",
+        "url": "https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250160,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/1cBxAm8a0fENn2ix3Dfm3u"
     },
     {
       "album": {
@@ -1701,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "LP",
+        "url": "https://open.spotify.com/album/3qcXtSsTV6L0Zwf3BpcjDZ"
+      },
+      "artists": [
+        {
+          "name": "Discovery",
+          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "Slang Tang",
+      "url": "https://open.spotify.com/track/5DME6hr4iMdVscRv2FrmGG"
+    },
+    {
+      "album": {
         "name": "SLUFF",
         "url": "https://open.spotify.com/album/54YSrqaj3vKH1XeJM3CPUW"
       },
@@ -1770,6 +1896,24 @@
       "duration_ms": 212786,
       "name": "That's Entertainment",
       "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"
+    },
+    {
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228459,
+      "name": "The Bug Collector",
+      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
     },
     {
       "album": {
@@ -1936,7 +2080,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 216960,
       "name": "Wait for Nothing",
       "url": "https://open.spotify.com/track/1KVJTjTnMoKGvKEQHkYO26"
@@ -1958,6 +2102,28 @@
       "duration_ms": 280000,
       "name": "Walkin",
       "url": "https://open.spotify.com/track/1q8DwZtQen5fvyB7cKbShC"
+    },
+    {
+      "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Water Witch",
+      "url": "https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO"
     },
     {
       "album": {
@@ -1994,6 +2160,42 @@
       "duration_ms": 254133,
       "name": "What The World Needs Now Is Love",
       "url": "https://open.spotify.com/track/6JFgBE2seXKTUkHdOVq3N1"
+    },
+    {
+      "album": {
+        "name": "Wreckless Eric",
+        "url": "https://open.spotify.com/album/1i7X9E0WxvC8uI6OcS7HNY"
+      },
+      "artists": [
+        {
+          "name": "Wreckless Eric",
+          "url": "https://open.spotify.com/artist/46mRV6kvhsGvih0dMKktto"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172733,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/4AHU8QRdwCUWxPC53cw4Hh"
+    },
+    {
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224400,
+      "name": "Womanizer",
+      "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"
     },
     {
       "album": {

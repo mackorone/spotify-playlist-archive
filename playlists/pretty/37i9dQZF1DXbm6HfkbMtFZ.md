@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,191 likes - 115 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,595 likes - 115 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 105 | [Born Too Late](https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Warm Blanket](https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS) | 4:41 |
 | 106 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 |
 | 107 | [I'm Late](https://open.spotify.com/track/6KV7F3IPwbTiPQ4mA7maO2) | [KERA](https://open.spotify.com/artist/0ZLjlul3kXdLihVJqJn0PR), [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [I'm Late](https://open.spotify.com/album/2qSWLEtkcSZ5ljd7zxaFR1) | 2:39 |
-| 108 | [run away](https://open.spotify.com/track/5Rhj7fTs9HlJLH9T1iyn2B) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [run away](https://open.spotify.com/album/4BEaDLxgqqoAvE5xFOs9Iz) | 3:25 |
-| 109 | [Madagascar](https://open.spotify.com/track/5S3qQPyFEezyWBFemwm1Yq) | [LAKE](https://open.spotify.com/artist/1KvWSkU2qrxVTpkMgdMqqF) | [Let's Build a Roof \(DELUXE EDITION\)](https://open.spotify.com/album/2yMRwQOsvtRNS29Zr504wU) | 3:13 |
+| 108 | [Madagascar](https://open.spotify.com/track/5S3qQPyFEezyWBFemwm1Yq) | [LAKE](https://open.spotify.com/artist/1KvWSkU2qrxVTpkMgdMqqF) | [Let's Build a Roof \(DELUXE EDITION\)](https://open.spotify.com/album/2yMRwQOsvtRNS29Zr504wU) | 3:13 |
+| 109 | [run away](https://open.spotify.com/track/5Rhj7fTs9HlJLH9T1iyn2B) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [run away](https://open.spotify.com/album/4BEaDLxgqqoAvE5xFOs9Iz) | 3:25 |
 | 110 | [Home](https://open.spotify.com/track/5VN2dZer45WzuaorRa242v) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Uptown \(Digitally Remastered\)](https://open.spotify.com/album/67SleiSz64OZip0649tBp6) | 2:49 |
 | 111 | [Lynchpin](https://open.spotify.com/track/3JqlzKVpYrUFgKuH6VQ9MP) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [More Or Less](https://open.spotify.com/album/6h89MkTciHXow6Jc2lcfVL) | 4:02 |
 | 112 | [High on Your Love](https://open.spotify.com/track/6snSPqco0MOZTibmHLAH7O) | [Kings Go Forth](https://open.spotify.com/artist/2TtCm6pJEbuTVt7dTEaPEB) | [The Outsiders Are Back](https://open.spotify.com/album/1zL1bCnuSQsWuao9g7urmb) | 4:13 |

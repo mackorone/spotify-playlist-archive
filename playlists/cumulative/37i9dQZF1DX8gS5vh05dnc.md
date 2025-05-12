@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-362 songs - 19 hr 21 min
+363 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Momentum](https://open.spotify.com/track/54mctjwCigqU06GdBzjznM) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:08 | 2022-06-06 | 2022-06-11 |
 | [mona lisa](https://open.spotify.com/track/5Nc3vGiiHFyQegUNjsboj9) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 3:10 | 2023-08-21 | 2023-09-30 |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-05 |  |
-| [Money \(with Tom Misch\)](https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Money](https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG) | 4:51 | 2025-04-21 |  |
+| [Money \(with Tom Misch\)](https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Money](https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG) | 4:51 | 2025-04-21 | 2025-05-12 |
 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-19 | 2022-10-04 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-07 |  |
 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-07 | 2024-09-23 |
@@ -357,6 +357,7 @@
 | [Unless We Try](https://open.spotify.com/track/0vXHyEyJDEVGGPssnhmsgn) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [Hyperlnk](https://open.spotify.com/artist/4hCOz7uKIaWamRdtryWXW1) | [Unless We Try](https://open.spotify.com/album/53Ev9gXUcanBW1mFgj7lkZ) | 2:49 | 2024-01-22 | 2024-01-29 |
 | [Vacation](https://open.spotify.com/track/7n99sQC9Y4OyCGMjXPRe0r) | [Aaron Yan](https://open.spotify.com/artist/3rRfC7TqmIAjmSxLcadqe1) | [Vacation](https://open.spotify.com/album/5qgdOjFd9iCObeRtZaKShw) | 3:24 | 2022-06-06 | 2022-07-27 |
 | [Vibin'](https://open.spotify.com/track/1JNyTBzuW5boU3PltBjTzp) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Vibin'](https://open.spotify.com/album/7A3GYpyF6MMplyxgKMo1nL) | 3:02 | 2024-08-19 | 2024-08-26 |
+| [Vulnerable](https://open.spotify.com/track/5G6sPdp9sDuvlJ62o98g12) | [Foon](https://open.spotify.com/artist/5EIOF2u4SZ1l51AOpm2rhg) | [Vulnerable](https://open.spotify.com/album/5DLmQNebQS21OXsSK14ocV) | 3:26 | 2025-05-11 |  |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-10 |  |
 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 | 2022-07-25 |  |
 | [Walk Me Home](https://open.spotify.com/track/6RTTWFv2MUBz2K60eMHGDr) | [Tatlo](https://open.spotify.com/artist/6f3gYhXcG8NXnMCFdB4Nrd) | [Walk Me Home](https://open.spotify.com/album/6q1mivjcnvaXhcECJ2tbAa) | 3:34 | 2022-06-06 | 2022-07-29 |

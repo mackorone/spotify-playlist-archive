@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 39406,
+  "num_followers": 39415,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB1FgAAAAADusGG+7/xHZ4fMIT6P8K6B",
+  "snapshot_id": "aB6XAAAAAAAVcpSeR28hkujMPMGBbN8E",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Black and White",
-      "url": "https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH"
+      "duration_ms": 193746,
+      "name": "Terminator Oscillator",
+      "url": "https://open.spotify.com/track/3dpuDgfz7CDoSmM9pllsqW"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 193746,
-      "name": "Terminator Oscillator",
-      "url": "https://open.spotify.com/track/3dpuDgfz7CDoSmM9pllsqW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine",
         "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
@@ -180,9 +164,25 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Get to the Gone",
-      "url": "https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi"
+      "duration_ms": 231240,
+      "name": "Black and White",
+      "url": "https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Control It",
+      "url": "https://open.spotify.com/track/6PyawKQl2tQGqmitbvB4ov"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Control It",
-      "url": "https://open.spotify.com/track/6PyawKQl2tQGqmitbvB4ov"
+      "duration_ms": 169800,
+      "name": "Get to the Gone",
+      "url": "https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Start a War",
-        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 148560,
-      "name": "The Enemy",
-      "url": "https://open.spotify.com/track/0Y2LxcRzgFFHWzoGBTlius"
+      "duration_ms": 138400,
+      "name": "Destroy All",
+      "url": "https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+        "name": "Start a War",
+        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 138400,
-      "name": "Destroy All",
-      "url": "https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG"
+      "duration_ms": 148560,
+      "name": "The Enemy",
+      "url": "https://open.spotify.com/track/0Y2LxcRzgFFHWzoGBTlius"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 177226,
-      "name": "This Is Not",
-      "url": "https://open.spotify.com/track/4Mu23ztHx0IDwh1QRozITg"
+      "duration_ms": 185160,
+      "name": "Shadow Zone",
+      "url": "https://open.spotify.com/track/3HcUKdqS6M8dEticD9RC4G"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Shadow Zone",
-      "url": "https://open.spotify.com/track/3HcUKdqS6M8dEticD9RC4G"
+      "duration_ms": 177226,
+      "name": "This Is Not",
+      "url": "https://open.spotify.com/track/4Mu23ztHx0IDwh1QRozITg"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
       "duration_ms": 161893,
       "name": "Hollow (Project Regeneration)",
       "url": "https://open.spotify.com/track/3O4xkk0dkAuq21uZHiXhcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Otsegolectric",
+      "url": "https://open.spotify.com/track/5bs9d0qiIvhKqhJs27BZaE"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Otsegolectric",
-      "url": "https://open.spotify.com/track/5bs9d0qiIvhKqhJs27BZaE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Start a War",
         "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 164706,
       "name": "Start a War",
       "url": "https://open.spotify.com/track/7GB8ZyFJsOZ6YXD5Qlr5Cx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "So",
+      "url": "https://open.spotify.com/track/6JUuxEQ47lJH3qfPf5nlil"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
       "duration_ms": 241666,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/63DUo97PJNh69Gg1rXGHEN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "So",
-      "url": "https://open.spotify.com/track/6JUuxEQ47lJH3qfPf5nlil"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Worth Dyin For",
-      "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 164346,
       "name": "Chroma-Matic",
       "url": "https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Worth Dyin For",
+      "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
     },
     {
       "added_at": null,

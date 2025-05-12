@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 545 songs - 1 day 12 hr 11 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 546 songs - 1 day 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -553,5 +553,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 543 | [Sincerely](https://open.spotify.com/track/1Y1iDBe3Q1rPn44DcvCdzH) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY) | 2:06 |
 | 544 | [The Knock](https://open.spotify.com/track/2oqDWu9cEgRcvk5FhIqEDU) | [Hop Along](https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp) | [Painted Shut](https://open.spotify.com/album/7bR9KYRb6jfhlle5Y9U4BD) | 3:33 |
 | 545 | [Where'd You Go?](https://open.spotify.com/track/51nV3C1hpbfKBi4bXiyDkv) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 1:41 |
+| 546 | [Lust For Life](https://open.spotify.com/track/2aN0YiOoQwe4Sjcu8Sgijw) | [Girls](https://open.spotify.com/artist/6eO95BjZhrWHREMfwC4vVN) | [Album](https://open.spotify.com/album/3jo1GRqnwVlN23KUgcaCL9) | 2:25 |
 
-Snapshot ID: `AAAHKDXZ+vRtU+Zu19HgZ+UTUcdaWz0k`
+Snapshot ID: `AAAHKcqd+o/pf+OKdk2SDJ3p+Ik6VdfL`

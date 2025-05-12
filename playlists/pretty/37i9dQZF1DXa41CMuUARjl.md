@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,817 likes - 120 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,981 likes - 120 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

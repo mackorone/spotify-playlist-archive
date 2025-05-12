@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 
 > Concéntrate al máximo, sin distracciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,732 likes - 147 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,748 likes - 147 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 13 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
 | 14 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 |
 | 15 | [Chanson Pour Un Amour Perdu](https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Chanson Pour Un Amour Perdu](https://open.spotify.com/album/4wSJswIZfgIzd3yxGdckFn) | 2:03 |
-| 16 | [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 |
-| 17 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 |
-| 18 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 |
-| 19 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
-| 20 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
+| 16 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
+| 17 | [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 |
+| 18 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 |
+| 19 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 |
+| 20 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
 | 21 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 |
 | 22 | [Just Like the Movies](https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Just Like the Movies](https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl) | 2:07 |
 | 23 | [Nocté](https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7) | [Van Kahloo](https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn) | [Nocté](https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK) | 2:21 |
@@ -145,11 +145,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 135 | [Rendezvous](https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Rendezvous](https://open.spotify.com/album/6UmF6utHyLXJsDpmbnMcaf) | 2:28 |
 | 136 | [The Magic of a Piano](https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [The Magic of a Piano](https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG) | 2:47 |
 | 137 | [Encore une Danse](https://open.spotify.com/track/5o7LUHW8BVTU0NQV8wMgbw) | [Francis Laplanne](https://open.spotify.com/artist/5CKQ9qNvPaV6mZ3eeOcUMY) | [Encore une Danse](https://open.spotify.com/album/6wym62QStSSPaBmDN1kunZ) | 2:01 |
-| 138 | [Fljúga](https://open.spotify.com/track/1rFxXMAIF7GQhBhBNzumT1) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fljúga](https://open.spotify.com/album/5wQ1doSiGa5Onc5SxGpd61) | 2:37 |
-| 139 | [Fanciful](https://open.spotify.com/track/0I3Rxri1PbEnBZVol9NY1B) | [Oscar O'Keefe](https://open.spotify.com/artist/19nC7hEB44GQsl6TaE7fIR) | [Fanciful](https://open.spotify.com/album/4yF3b9tkhhDHLGkpfL6HXV) | 2:19 |
-| 140 | [Fairytale](https://open.spotify.com/track/6aYcNnHc0sFXkLci7WG0wl) | [Tony Austero](https://open.spotify.com/artist/4IcLLdhDhgVZtC1GmZxyzw) | [Fairytale](https://open.spotify.com/album/5RkThHQOqsHovp186WdJ7L) | 2:05 |
-| 141 | [Peaceful Ignorance](https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Peaceful Ignorance](https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16) | 2:38 |
-| 142 | [Ocean Breeze](https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Ocean Breeze](https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3) | 2:11 |
+| 138 | [Ocean Breeze](https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Ocean Breeze](https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3) | 2:11 |
+| 139 | [Fljúga](https://open.spotify.com/track/1rFxXMAIF7GQhBhBNzumT1) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fljúga](https://open.spotify.com/album/5wQ1doSiGa5Onc5SxGpd61) | 2:37 |
+| 140 | [Fanciful](https://open.spotify.com/track/0I3Rxri1PbEnBZVol9NY1B) | [Oscar O'Keefe](https://open.spotify.com/artist/19nC7hEB44GQsl6TaE7fIR) | [Fanciful](https://open.spotify.com/album/4yF3b9tkhhDHLGkpfL6HXV) | 2:19 |
+| 141 | [Fairytale](https://open.spotify.com/track/6aYcNnHc0sFXkLci7WG0wl) | [Tony Austero](https://open.spotify.com/artist/4IcLLdhDhgVZtC1GmZxyzw) | [Fairytale](https://open.spotify.com/album/5RkThHQOqsHovp186WdJ7L) | 2:05 |
+| 142 | [Peaceful Ignorance](https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Peaceful Ignorance](https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16) | 2:38 |
 | 143 | [A Walk by the River](https://open.spotify.com/track/1UK81gd31XvoQmDWVFlmWP) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [A Walk by the River](https://open.spotify.com/album/5Peob5RmIHgQaQ0QvXoYPG) | 2:16 |
 | 144 | [Distances](https://open.spotify.com/track/3MJkEsmJfxO7JiOJjlEm8Z) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Distances](https://open.spotify.com/album/4zNCQM0oFO5KezvbLVlOZC) | 3:46 |
 | 145 | [Sublime](https://open.spotify.com/track/22ifgaP1tUahdVaIn1K4ik) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Valentina](https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW) | 2:17 |

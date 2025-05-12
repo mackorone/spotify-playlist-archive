@@ -1,6 +1,6 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 64758,
+  "num_followers": 64808,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
         "name": "When Sunny Gets Blue",
         "url": "https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 288664,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
         "name": "This Bitter Earth",
         "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 166506,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0AxWzSG8MUj5CMH8XGnwHz"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
-        "name": "Undefined",
-        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Undefined",
-      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 320250,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
         "name": "April Fooled Me",
         "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 231400,
       "name": "April Fooled Me",
       "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "duration_ms": 320250,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -1871,42 +1871,6 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "Makin' Whoopee",
-        "url": "https://open.spotify.com/album/3wyxpaIWVZj6DNOU1qgE3S"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 264751,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/2SlyYuhpJZ6iQiiR08NG00"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Art Hirahara",
-          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
-        }
-      ],
-      "duration_ms": 253026,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2n6S7qcF89GMd1frle6MWG"
-    },
-    {
-      "added_at": "2025-05-02 07:57:08",
-      "album": {
         "name": "Musa",
         "url": "https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0"
       },
@@ -1939,22 +1903,38 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa"
+        "name": "Makin' Whoopee",
+        "url": "https://open.spotify.com/album/3wyxpaIWVZj6DNOU1qgE3S"
       },
       "artists": [
         {
-          "name": "Silva Thordardottir",
-          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
-        },
-        {
-          "name": "Steingr\u00edmur Teague",
-          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
         }
       ],
-      "duration_ms": 187500,
-      "name": "It Might As Well Be Spring",
-      "url": "https://open.spotify.com/track/2ZEkwS2dzMcOlBbl8Twr3h"
+      "duration_ms": 264751,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/2SlyYuhpJZ6iQiiR08NG00"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Art Hirahara",
+          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+        }
+      ],
+      "duration_ms": 253026,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2n6S7qcF89GMd1frle6MWG"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -2015,6 +1995,26 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa"
+      },
+      "artists": [
+        {
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "It Might As Well Be Spring",
+      "url": "https://open.spotify.com/track/2ZEkwS2dzMcOlBbl8Twr3h"
+    },
+    {
+      "added_at": "2025-05-02 07:57:08",
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/7kMzUihLu60fHLRIUCuw60"
       },
@@ -2063,22 +2063,18 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "Songs From Other Places (Special Edition)",
-        "url": "https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1"
+        "name": "Like Song, Like Weather",
+        "url": "https://open.spotify.com/album/7AdnrCG683BZgTuuoJ2dfg"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Art Hirahara",
-          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+          "name": "Norma Winstone",
+          "url": "https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5"
         }
       ],
-      "duration_ms": 260746,
-      "name": "Memories Of You - Special Edition",
-      "url": "https://open.spotify.com/track/5T4yRU7ihxsaSQzpvCW6dU"
+      "duration_ms": 366200,
+      "name": "I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE"
     },
     {
       "added_at": "2025-05-02 07:57:08",
@@ -2103,18 +2099,22 @@
     {
       "added_at": "2025-05-02 07:57:08",
       "album": {
-        "name": "Like Song, Like Weather",
-        "url": "https://open.spotify.com/album/7AdnrCG683BZgTuuoJ2dfg"
+        "name": "Songs From Other Places (Special Edition)",
+        "url": "https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1"
       },
       "artists": [
         {
-          "name": "Norma Winstone",
-          "url": "https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Art Hirahara",
+          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
         }
       ],
-      "duration_ms": 366200,
-      "name": "I Loves You, Porgy",
-      "url": "https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE"
+      "duration_ms": 260746,
+      "name": "Memories Of You - Special Edition",
+      "url": "https://open.spotify.com/track/5T4yRU7ihxsaSQzpvCW6dU"
     },
     {
       "added_at": "2025-05-02 07:57:08",

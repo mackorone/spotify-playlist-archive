@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ\">Ziwe Fumudoh</a>",
-  "num_followers": 1613,
+  "num_followers": 1612,
   "original_name": "Ziwe's Taste ",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "ELEMENT.",
-      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 200080,
       "name": "No Type",
       "url": "https://open.spotify.com/track/4scpF6J5uMBvoh6sFB7EL1"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "ELEMENT.",
+      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 167810,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 231173,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 167810,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Damita Jo",
-        "url": "https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S"
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 206007,
-      "name": "All Nite (Don't Stop)",
-      "url": "https://open.spotify.com/track/6OLiY3DTLdoh7kxYFqZYX1"
+      "duration_ms": 192600,
+      "name": "Rich Sex (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2D1MK9oaxy7axXggy3iVbp"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -859,22 +863,18 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+        "name": "Damita Jo",
+        "url": "https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Rich Sex (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2D1MK9oaxy7axXggy3iVbp"
+      "duration_ms": 206007,
+      "name": "All Nite (Don't Stop)",
+      "url": "https://open.spotify.com/track/6OLiY3DTLdoh7kxYFqZYX1"
     },
     {
       "added_at": "2022-12-01 09:00:00",

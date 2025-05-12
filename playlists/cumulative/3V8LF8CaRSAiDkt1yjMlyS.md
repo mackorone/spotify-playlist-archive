@@ -4,7 +4,7 @@
 
 > 
 
-202 songs - 10 hr 38 min
+203 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [It's True](https://open.spotify.com/track/5UHuWWbJ349SK3TAaUqs8O) | [White Wtch](https://open.spotify.com/artist/6WRxMmR9XlAmcpku81EJwz) | [It's True](https://open.spotify.com/album/6ZBGduNRThCfMpgw7TwYcC) | 2:11 | 2025-05-09 |  |
 | [Ivory Descent](https://open.spotify.com/track/3BODItmW74qn90hULauUym) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB), [Finn Lavo](https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR) | [DUSKWEAVER](https://open.spotify.com/album/2SK2qhrt9TyRB1lEdxibcZ) | 2:24 | 2025-01-18 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2023-09-21 |  |
+| [Kill Me](https://open.spotify.com/track/3vmENB7t4tDkFMaEWBnaQX) | [Ben Dore](https://open.spotify.com/artist/0luznloPrQXtkA31xoNmwn), [Kadré](https://open.spotify.com/artist/4NOtHvikhqWiIWdRlO5XA2) | [Kill Me](https://open.spotify.com/album/0e6qZL9jz1GrdAiXMJSXIx) | 2:02 | 2025-05-11 |  |
 | [laleconparticulere.](https://open.spotify.com/track/3sUo9q67Pl3izLgUgfyHKK) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [laleconparticulere.](https://open.spotify.com/album/4koTRhv7vJHays2gNvf31v) | 1:03 | 2024-01-01 |  |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2023-01-16 |  |
 | [Lay Low](https://open.spotify.com/track/1II87EJtkBXN06a8juVNft) | [Matt\-Felix](https://open.spotify.com/artist/4T052xBzxDNV7ytuTFysnu) | [Lay Low](https://open.spotify.com/album/452GSZhXWYcuQEhSYwKSIl) | 3:30 | 2025-05-09 |  |

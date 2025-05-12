@@ -4104,7 +4104,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 110545,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/7nwjJeHzjp1b5rkRJhS3nt"
@@ -8852,7 +8852,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 150252,
       "name": "Leave Behind",
       "url": "https://open.spotify.com/track/4KhBSPcaMedLbr6XvVnFon"
@@ -11546,7 +11546,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 198545,
       "name": "M\u00f6tley Cr\u00fce",
       "url": "https://open.spotify.com/track/0VJxbuxGApiyMNgE7gQimp"
@@ -13626,7 +13626,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 135104,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/5NcM2opc4PrK3q9V8EDa6c"
@@ -14913,6 +14913,28 @@
     },
     {
       "album": {
+        "name": "Sky High",
+        "url": "https://open.spotify.com/album/0ribVpFkShVLWoxG1dOtoi"
+      },
+      "artists": [
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        },
+        {
+          "name": "Raphael DeLove",
+          "url": "https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142625,
+      "name": "Sky High",
+      "url": "https://open.spotify.com/track/4A1hR6YTzvUj8S7V4msrtI"
+    },
+    {
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/49rPIZxBEwNFxZSdhcjiMr"
       },
@@ -15398,6 +15420,28 @@
       "duration_ms": 188415,
       "name": "Sound of Your Summer - SUPER-Hi Remix",
       "url": "https://open.spotify.com/track/6fUqnrhQGXH7RGbhLgbRyr"
+    },
+    {
+      "album": {
+        "name": "Space + Time",
+        "url": "https://open.spotify.com/album/2LdvbeRRIYjEykM9P1o9t1"
+      },
+      "artists": [
+        {
+          "name": "James Lacey",
+          "url": "https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG"
+        },
+        {
+          "name": "ODBLU",
+          "url": "https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "Space + Time",
+      "url": "https://open.spotify.com/track/4uOIIMZEldmHsFatxB7Qjw"
     },
     {
       "album": {
@@ -17934,6 +17978,24 @@
       "duration_ms": 157201,
       "name": "Waiting For A Better Day",
       "url": "https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY"
+    },
+    {
+      "album": {
+        "name": "Waiting For The Sunshine",
+        "url": "https://open.spotify.com/album/0fvkFKhbHkTMLXiABhAGBN"
+      },
+      "artists": [
+        {
+          "name": "DeejaVu",
+          "url": "https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156578,
+      "name": "Waiting For The Sunshine",
+      "url": "https://open.spotify.com/track/5h2qSYxnAvuks0uSxYwqdO"
     },
     {
       "album": {

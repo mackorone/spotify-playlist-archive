@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5c0f\u5ba4\u97ff",
-  "num_followers": 44397,
+  "num_followers": 44415,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -159,30 +159,6 @@
     {
       "added_at": "2025-04-29 15:00:08",
       "album": {
-        "name": "Headspace",
-        "url": "https://open.spotify.com/album/651f3Bn0AE1eRAQcXhD8Rc"
-      },
-      "artists": [
-        {
-          "name": "Toshiki Soejima",
-          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
-        },
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Nahokimama",
-          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/1XNjLOUPvRPEt7W3nCgToP"
-    },
-    {
-      "added_at": "2025-04-29 15:00:08",
-      "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
       },
@@ -203,6 +179,30 @@
       "duration_ms": 345533,
       "name": "N.E.W.",
       "url": "https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV"
+    },
+    {
+      "added_at": "2025-04-29 15:00:08",
+      "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/651f3Bn0AE1eRAQcXhD8Rc"
+      },
+      "artists": [
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Nahokimama",
+          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/1XNjLOUPvRPEt7W3nCgToP"
     },
     {
       "added_at": "2025-04-29 15:00:08",
@@ -303,18 +303,26 @@
     {
       "added_at": "2025-04-29 15:00:08",
       "album": {
-        "name": "CROSSING",
-        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
+        "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
+        "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
       },
       "artists": [
         {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
         }
       ],
-      "duration_ms": 270806,
-      "name": "Crossing",
-      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
+      "duration_ms": 311693,
+      "name": "WE WILL",
+      "url": "https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0"
     },
     {
       "added_at": "2025-04-29 15:00:08",
@@ -331,6 +339,22 @@
       "duration_ms": 252215,
       "name": "Spring Kiss",
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
+    },
+    {
+      "added_at": "2025-04-29 15:00:08",
+      "album": {
+        "name": "CROSSING",
+        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 270806,
+      "name": "Crossing",
+      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
     },
     {
       "added_at": "2025-04-29 15:00:08",
@@ -371,8 +395,8 @@
     {
       "added_at": "2025-04-29 15:00:08",
       "album": {
-        "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
-        "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
+        "name": "Balloon Pop",
+        "url": "https://open.spotify.com/album/4FzFNTd84JsiPzggATL5Kn"
       },
       "artists": [
         {
@@ -380,17 +404,13 @@
           "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
         },
         {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+          "name": "Sonicwonder",
+          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
         }
       ],
-      "duration_ms": 311693,
-      "name": "WE WILL",
-      "url": "https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0"
+      "duration_ms": 377533,
+      "name": "Balloon Pop",
+      "url": "https://open.spotify.com/track/2mv2NSOOvCWnWw1THcueTu"
     },
     {
       "added_at": "2025-04-29 15:00:08",
@@ -495,6 +515,22 @@
     {
       "added_at": "2025-04-29 15:00:08",
       "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 201842,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+    },
+    {
+      "added_at": "2025-04-29 15:00:08",
+      "album": {
         "name": "Dig Deep (feat. Jairo)",
         "url": "https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85"
       },
@@ -515,18 +551,26 @@
     {
       "added_at": "2025-04-29 15:00:08",
       "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+        "name": "Pendulum [Feat. Sonicwonder & Michelle Willis]",
+        "url": "https://open.spotify.com/album/4xm9hq7Z4NORk6mJZA0grx"
       },
       "artists": [
         {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Sonicwonder",
+          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
+        },
+        {
+          "name": "Michelle Willis",
+          "url": "https://open.spotify.com/artist/2CgQstPV8fb7a4zCFWgPw0"
         }
       ],
-      "duration_ms": 201842,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+      "duration_ms": 357346,
+      "name": "Pendulum [Feat. Sonicwonder & Michelle Willis]",
+      "url": "https://open.spotify.com/track/0JwQJRLM0Kwvs1CFWhufhj"
     },
     {
       "added_at": "2025-04-29 15:00:08",
@@ -547,26 +591,6 @@
       "duration_ms": 228966,
       "name": "New World feat.ELAIZA",
       "url": "https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX"
-    },
-    {
-      "added_at": "2025-04-29 15:00:08",
-      "album": {
-        "name": "Balloon Pop",
-        "url": "https://open.spotify.com/album/4FzFNTd84JsiPzggATL5Kn"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        },
-        {
-          "name": "Sonicwonder",
-          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
-        }
-      ],
-      "duration_ms": 377533,
-      "name": "Balloon Pop",
-      "url": "https://open.spotify.com/track/2mv2NSOOvCWnWw1THcueTu"
     },
     {
       "added_at": "2025-04-29 15:00:08",
@@ -723,30 +747,6 @@
       "duration_ms": 223100,
       "name": "URAH",
       "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"
-    },
-    {
-      "added_at": "2025-04-29 15:00:08",
-      "album": {
-        "name": "Pendulum [Feat. Sonicwonder & Michelle Willis]",
-        "url": "https://open.spotify.com/album/4xm9hq7Z4NORk6mJZA0grx"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        },
-        {
-          "name": "Sonicwonder",
-          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
-        },
-        {
-          "name": "Michelle Willis",
-          "url": "https://open.spotify.com/artist/2CgQstPV8fb7a4zCFWgPw0"
-        }
-      ],
-      "duration_ms": 357346,
-      "name": "Pendulum [Feat. Sonicwonder & Michelle Willis]",
-      "url": "https://open.spotify.com/track/0JwQJRLM0Kwvs1CFWhufhj"
     },
     {
       "added_at": "2025-04-29 15:00:08",

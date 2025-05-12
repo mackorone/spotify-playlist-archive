@@ -4631,6 +4631,24 @@
     },
     {
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/7lmd4XerMqM2nfCSID3HEb"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "date_added": "2025-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220749,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3Q8wPOOfGezQsDOpdlC6Oc"
+    },
+    {
+      "album": {
         "name": "Wilinout",
         "url": "https://open.spotify.com/album/1tUewhkamOHq1hlREvo4kG"
       },

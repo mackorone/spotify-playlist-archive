@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eAsdXwbE4f.md) - [plain]
 
 > Relax to the sound of birds singing in the rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,267 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,297 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eAsdXwbE4f.md) - [plain]
 | 62 | [Night Rain In The Forest](https://open.spotify.com/track/2Q9GSwEbpirv1XQX90f2TL) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Rain On The Mountain](https://open.spotify.com/album/0Elgsm1LJgBvSgQgTmrFfu) | 2:40 |
 | 63 | [Dawn Rain](https://open.spotify.com/track/3gL54FWBTHJdTKyliszxOx) | [Sleep Miracle](https://open.spotify.com/artist/146XkoyeqRg7s8jbFzsXsU) | [Spring Shower](https://open.spotify.com/album/5DKeccfYs8fSrLCcOBMeFK) | 2:48 |
 | 64 | [Windy Forest Rainfall](https://open.spotify.com/track/6W2vwSwZ8q4eqL7muS985d) | [Rainspell](https://open.spotify.com/artist/0b4sTNmnPpWmMXt2164RXx) | [Rain Spell](https://open.spotify.com/album/3xvcpp8kX2YbQqxTAg2Lnn) | 2:40 |
-| 65 | [Pájaros cantando, cascada, lluvia](https://open.spotify.com/track/1ZKyd4nwxTmfTjjrNguDQV) | [Bosque Tropical](https://open.spotify.com/artist/16UkmZvNY9VN80604Imhlx) | [Pájaros cantando, cascada, lluvia](https://open.spotify.com/album/4QAM4YJ4TIWY27JyiZHfI9) | 2:44 |
-| 66 | [Foresta Fresca](https://open.spotify.com/track/4rhd06UzhfqNnclbVuNz3k) | [Pio Ivan](https://open.spotify.com/artist/54YMFslLApsdO56HNDFv0P) | [Foresta Fresca](https://open.spotify.com/album/6l0ZbKfxrIS8DB56GNPv1Q) | 2:30 |
-| 67 | [Dreaming with the Rain](https://open.spotify.com/track/4RKTcZW70g05cXqEN9oNdJ) | [Sonic Relaxer](https://open.spotify.com/artist/4MOsS7tcUoZjZx5S3wHgDm) | [Night Time Rain](https://open.spotify.com/album/4i1sJp94HJgFGOrV3graF0) | 2:39 |
-| 68 | [Aves del bosque y lluvia](https://open.spotify.com/track/1spz2ba2kDuHL6HrPZC6Cn) | [Sonidos Del Bosques](https://open.spotify.com/artist/38vgVJont1qwYekn4nTaRZ) | [Ruido del bosque](https://open.spotify.com/album/5Ov50QwFnpulEHH0M7C8Js) | 2:30 |
+| 65 | [Aves del bosque y lluvia](https://open.spotify.com/track/1spz2ba2kDuHL6HrPZC6Cn) | [Sonidos Del Bosques](https://open.spotify.com/artist/38vgVJont1qwYekn4nTaRZ) | [Ruido del bosque](https://open.spotify.com/album/5Ov50QwFnpulEHH0M7C8Js) | 2:30 |
+| 66 | [Pájaros cantando, cascada, lluvia](https://open.spotify.com/track/1ZKyd4nwxTmfTjjrNguDQV) | [Bosque Tropical](https://open.spotify.com/artist/16UkmZvNY9VN80604Imhlx) | [Pájaros cantando, cascada, lluvia](https://open.spotify.com/album/4QAM4YJ4TIWY27JyiZHfI9) | 2:44 |
+| 67 | [Foresta Fresca](https://open.spotify.com/track/4rhd06UzhfqNnclbVuNz3k) | [Pio Ivan](https://open.spotify.com/artist/54YMFslLApsdO56HNDFv0P) | [Foresta Fresca](https://open.spotify.com/album/6l0ZbKfxrIS8DB56GNPv1Q) | 2:30 |
+| 68 | [Dreaming with the Rain](https://open.spotify.com/track/4RKTcZW70g05cXqEN9oNdJ) | [Sonic Relaxer](https://open.spotify.com/artist/4MOsS7tcUoZjZx5S3wHgDm) | [Night Time Rain](https://open.spotify.com/album/4i1sJp94HJgFGOrV3graF0) | 2:39 |
 | 69 | [Cool Forest Rain](https://open.spotify.com/track/5YI1IOPVG1Q8d3cdQfgyfY) | [Northern Hemisphere](https://open.spotify.com/artist/1ceUACnOKzIqZBR5YFPivT) | [Northern Rain](https://open.spotify.com/album/5OBZOpjIxjsqg9TEFU4X1z) | 3:30 |
 | 70 | [Dense Rain](https://open.spotify.com/track/67JTqSg80eGhbBGCGeHQEQ) | [RAIN\_IFY](https://open.spotify.com/artist/4sagcAk2RONjZzWLxy32u3) | [Volume Two](https://open.spotify.com/album/5YrJa6lal9k4oGuFPXShS8) | 3:05 |
 | 71 | [Jungle Rain & Birds](https://open.spotify.com/track/6f1Xrs3WGd8UE8tGF3Gh20) | [Pure Nature Noises](https://open.spotify.com/artist/0rr1c1cUGaS1C9spij8eUr) | [Rainy Forest & Bird Sounds](https://open.spotify.com/album/0VZMstdc1LIkO6P3VHj1Mg) | 2:13 |
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eAsdXwbE4f.md) - [plain]
 | 90 | [Fåglar i Regn](https://open.spotify.com/track/76DI4bKgwhIFC7lQ5CTr5m) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Fåglar](https://open.spotify.com/album/0UF685ROQzeXZelWiT4nwc) | 3:26 |
 | 91 | [Porch Raindrops](https://open.spotify.com/track/3N529r9bYZx6KJjDa2Dydt) | [Rusty Raindrop](https://open.spotify.com/artist/0J484Zg3IF4aVSCJ0lTIiS) | [Rain On My Porch](https://open.spotify.com/album/0QDGQImXblnJUv52mwv3yg) | 3:50 |
 | 92 | [A Melodic Cityscape](https://open.spotify.com/track/31oMMrmvdxq4B7WYyBIp5T) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [A Melodic Cityscape](https://open.spotify.com/album/3QWXYpilgJTImx4GDfb1cQ) | 2:05 |
-| 93 | [Happy Birds \- Soothing Rain](https://open.spotify.com/track/72S28nw8QKEdn46zsqkk1u) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Paradise Island Birds](https://open.spotify.com/album/7xTDWLF8jCocD8eG11s7QW) | 2:01 |
-| 94 | [Pájaros Del Arco Iris](https://open.spotify.com/track/6xsB2zJ8LLedaUJPPiwAXj) | [Hola Pájaros](https://open.spotify.com/artist/50vXpS8CxYIfp65eisEQWU) | [Pájaros Del Arco Iris](https://open.spotify.com/album/1gb3roeMZc4aBfYAJ5YnZb) | 2:14 |
+| 93 | [Pájaros Del Arco Iris](https://open.spotify.com/track/6xsB2zJ8LLedaUJPPiwAXj) | [Hola Pájaros](https://open.spotify.com/artist/50vXpS8CxYIfp65eisEQWU) | [Pájaros Del Arco Iris](https://open.spotify.com/album/1gb3roeMZc4aBfYAJ5YnZb) | 2:14 |
+| 94 | [Raindrops In My Coffee](https://open.spotify.com/track/6GSvE3bENYprcU2dpKp9ak) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Morning Coffee Rain](https://open.spotify.com/album/2XP9cR9IYl3wuWbbrVW61s) | 2:54 |
 | 95 | [Birds In a Strong Rain](https://open.spotify.com/track/7wzHLPLIFj7VYXbSkRmBgw) | [Amazing Rain](https://open.spotify.com/artist/49mn116HRq75cnUE2Mhs1X) | [Amazing Rain](https://open.spotify.com/album/7542tGxBvmdMJqrMevzmx5) | 3:08 |
-| 96 | [Raindrops In My Coffee](https://open.spotify.com/track/6GSvE3bENYprcU2dpKp9ak) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Morning Coffee Rain](https://open.spotify.com/album/2XP9cR9IYl3wuWbbrVW61s) | 2:54 |
-| 97 | [Bird Calls in the forest](https://open.spotify.com/track/4w0lp9LARJbhI6Axp32izH) | [Outdoor Sound Makers](https://open.spotify.com/artist/1ZvH1asTCMDD0RgCUNOpVM) | [A Song of the Wild](https://open.spotify.com/album/1kuqYcePXJxsmzTZ7ODtkM) | 2:18 |
-| 98 | [Embrace The Nature](https://open.spotify.com/track/7EW5TLrqGjXKYaX0j5mqpe) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Embrace The Nature](https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ) | 2:37 |
+| 96 | [Bird Calls in the forest](https://open.spotify.com/track/4w0lp9LARJbhI6Axp32izH) | [Outdoor Sound Makers](https://open.spotify.com/artist/1ZvH1asTCMDD0RgCUNOpVM) | [A Song of the Wild](https://open.spotify.com/album/1kuqYcePXJxsmzTZ7ODtkM) | 2:18 |
+| 97 | [Embrace The Nature](https://open.spotify.com/track/7EW5TLrqGjXKYaX0j5mqpe) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Embrace The Nature](https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ) | 2:37 |
+| 98 | [Happy Birds \- Soothing Rain](https://open.spotify.com/track/72S28nw8QKEdn46zsqkk1u) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Paradise Island Birds](https://open.spotify.com/album/7xTDWLF8jCocD8eG11s7QW) | 2:01 |
 | 99 | [雨の中のコオロギ](https://open.spotify.com/track/1TpYvLRcvyF7yIMXNKKT1O) | [Shiroma Rin](https://open.spotify.com/artist/6vmqYwwLNH5NtbQzMSKDV9) | [Mori no Tori](https://open.spotify.com/album/382q3YGgFS4MfQ7PPoeODm) | 2:34 |
 | 100 | [After The Storm \(Birds And Rain\)](https://open.spotify.com/track/6rchW2k3MaAFvDXDgX6mbm) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Birds On A Rainy Day](https://open.spotify.com/album/61wbzSmVM3rKMxWI2aUAwY) | 2:13 |
 

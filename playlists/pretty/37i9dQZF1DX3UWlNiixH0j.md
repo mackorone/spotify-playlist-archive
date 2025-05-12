@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Chappo シャッポ
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,950 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,955 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 23 | [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 |
 | 24 | [Apollo \- Single Version](https://open.spotify.com/track/2p8GxDwi4ZH7WrvSOprFqi) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Apollo](https://open.spotify.com/album/7pJkY6zhcFm4jzSeGEUy6k) | 3:48 |
 | 25 | [Yanenonaihoshi](https://open.spotify.com/track/4s7ZGVJU8qJX1XBJmkQRNs) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Yanenonaihoshi](https://open.spotify.com/album/3Z1mgn7AraZ88tXKdCmozW) | 4:57 |
-| 26 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 |
+| 26 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
 | 27 | [COLORATURA](https://open.spotify.com/track/3jIGteplWR9tMpqsH06J83) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:07 |
 | 28 | [桜源郷](https://open.spotify.com/track/3U4xv0PPyGXjOW4J5oe1M9) | [HUGEN](https://open.spotify.com/artist/6bJa33vi3OFcQ75aITBhIw) | [祭](https://open.spotify.com/album/3V333kA2vZBFzHKRBIGxpm) | 4:43 |
-| 29 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
+| 29 | [Passing](https://open.spotify.com/track/44t7cEmazmGE1tvpYI9ubE) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Passing](https://open.spotify.com/album/0rTi7onngxwm1XYUI5bsbu) | 2:53 |
 | 30 | [koi](https://open.spotify.com/track/21Og0stzmuY2nEXlsuHdYQ) | [Marnie](https://open.spotify.com/artist/0fus7lFXtQqg9GussL4eu5) | [koi](https://open.spotify.com/album/0BxfVOINTCVtc2KSZ6M7P6) | 3:16 |
-| 31 | [Passing](https://open.spotify.com/track/44t7cEmazmGE1tvpYI9ubE) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Passing](https://open.spotify.com/album/0rTi7onngxwm1XYUI5bsbu) | 2:53 |
+| 31 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 |
 | 32 | [Sooo NICE!!!!!!](https://open.spotify.com/track/7H9wPcgsRiSe5mUm3WuGn7) | [KLEPTO](https://open.spotify.com/artist/07H9uLG0M04L6lnXuWYa9V) | [Sooo NICE!!!!!!](https://open.spotify.com/album/1PmxnAFzz8c5gl47TfQPoE) | 3:12 |
 | 33 | [ばっどえんど \- Acoustic ver.](https://open.spotify.com/track/6ZQQIzP0VnvkLna8QMOEYi) | [金子駿平](https://open.spotify.com/artist/5DUP4fm6KyjShYp8fqK4q0) | [ばっどえんど \(Acoustic ver.\)](https://open.spotify.com/album/1j57N0bcpXqXGFTxE0GORO) | 3:32 |
 | 34 | [Focus](https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Focus](https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh) | 4:17 |

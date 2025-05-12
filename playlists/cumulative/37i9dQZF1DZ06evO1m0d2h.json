@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304023,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/1Uifdytv882RtTn6Gr4xAA"
+    },
+    {
+      "album": {
         "name": "Damocles",
         "url": "https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw"
       },
@@ -578,7 +596,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-12",
       "duration_ms": 500116,
       "name": "Take Me Back To Eden",
       "url": "https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ"

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Yeboyah.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,844 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,854 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
-| 2 | [Emotional Gangsta](https://open.spotify.com/track/521ae6RwcfeH2iwzUGnqVw) | [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [Emotional Gangsta](https://open.spotify.com/album/3xTnYM1T7d91vQex2luSRW) | 2:32 |
+| 1 | [Ylibuukattu](https://open.spotify.com/track/0tHGD8lfEjbIYgG28aVyDz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Ylibuukattu](https://open.spotify.com/album/738LkmjU8QxUmHtOq6Waoh) | 2:49 |
+| 2 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
 | 3 | [Onneks](https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Onneks](https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e) | 2:40 |
 | 4 | [Valtakunnallinen](https://open.spotify.com/track/46Up6QBRplYT8BTX25jusP) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Valtakunnallinen](https://open.spotify.com/album/11zYJJk0J1xsegVGMvppI2) | 2:25 |
-| 5 | [Tytöt tietää](https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tytöt tietää](https://open.spotify.com/album/5drhXGx6ojIgQzoLWJXMXc) | 2:34 |
+| 5 | [Emotional Gangsta](https://open.spotify.com/track/521ae6RwcfeH2iwzUGnqVw) | [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [Emotional Gangsta](https://open.spotify.com/album/3xTnYM1T7d91vQex2luSRW) | 2:32 |
 | 6 | [Yks mun ongelmist \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/7FsF80Hta5P4bSZ3HL6KRr) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Yks mun ongelmist \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/5PvUchPy7xwCHJGCgSzGKG) | 3:27 |
-| 7 | [Ylibuukattu](https://open.spotify.com/track/0tHGD8lfEjbIYgG28aVyDz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Ylibuukattu](https://open.spotify.com/album/738LkmjU8QxUmHtOq6Waoh) | 2:49 |
-| 8 | [Liike on lääke](https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Liike on lääke](https://open.spotify.com/album/18V9kkoBrUFgOKZiQSeVFe) | 2:52 |
+| 7 | [Liike on lääke](https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Liike on lääke](https://open.spotify.com/album/18V9kkoBrUFgOKZiQSeVFe) | 2:52 |
+| 8 | [Tytöt tietää](https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tytöt tietää](https://open.spotify.com/album/5drhXGx6ojIgQzoLWJXMXc) | 2:34 |
 | 9 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
 | 10 | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp) | 3:05 |
 | 11 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 17 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
 | 18 | [Kukkulan kunkku \(feat\. Turisti\)](https://open.spotify.com/track/2kvDmllGIEDtWdNx6QucGx) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kukkulan kunkku \(feat\. Turisti\)](https://open.spotify.com/album/1cKEoXSMC1ospYr75r7QGE) | 2:46 |
 | 19 | [ROTTA \(feat\. ibe\)](https://open.spotify.com/track/7pj1OcxgO1NqIaBDK3MgyW) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 3:47 |
-| 20 | [Mitä jos?](https://open.spotify.com/track/2c8jKORMUzoB2Gy5Zoc8BF) | [remynotagain](https://open.spotify.com/artist/0EJmMsog45db72sHJI4Ga4), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Mitä jos?](https://open.spotify.com/album/4aZhGEemQewECZbqQrFAkw) | 3:10 |
-| 21 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
+| 20 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
+| 21 | [Mitä jos?](https://open.spotify.com/track/2c8jKORMUzoB2Gy5Zoc8BF) | [remynotagain](https://open.spotify.com/artist/0EJmMsog45db72sHJI4Ga4), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Mitä jos?](https://open.spotify.com/album/4aZhGEemQewECZbqQrFAkw) | 3:10 |
 | 22 | [Mä oon](https://open.spotify.com/track/3q9kjuulj6YIWhi5Ys9s42) | [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Mä oon](https://open.spotify.com/album/5F5Ww70Fnrl2fDKmSg3TuZ) | 2:41 |
 | 23 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
 | 24 | [Ministerinpaikal](https://open.spotify.com/track/0eM9z8LrY9bdKF99D0P98i) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Ministerinpaikal / 1987](https://open.spotify.com/album/0F2xzUyFFvkTIRKHhVsfu7) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Sää](https://open.spotify.com/track/0jnj6osDTF4J4jQybVBBTf) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Sää](https://open.spotify.com/album/4gGnftjWThwuSZ9Imen4CD) | 2:55 |
 | 50 | [Ei Rakkaut](https://open.spotify.com/track/1kWFPp9sMxfKNobdlebdRW) | [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Ei Rakkaut](https://open.spotify.com/album/2ke0tkFzyeuBMpuUenWGLg) | 3:08 |
 
-Snapshot ID: `aB0bpgAAAAB6vN4qHzJiAuNR6RYiicM4`
+Snapshot ID: `aCB4fQAAAABq7dhcPaCc1YT9OCBi9NGo`

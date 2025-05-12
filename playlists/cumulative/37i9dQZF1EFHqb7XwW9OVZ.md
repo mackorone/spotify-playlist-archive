@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3uZkaA66y2JQegYQaCP1Fp">Erika de Casier</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-58 songs - 3 hr 13 min
+69 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,9 @@
 | [Camo](https://open.spotify.com/track/0NYTDaeVpepG9KxxP3ehQ9) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:07 | 2024-01-29 |  |
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2024-01-29 |  |
 | [Crush feat\. Erika de Casier](https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:53 | 2024-01-29 |  |
+| [December](https://open.spotify.com/track/5xiRrfntOYopw0Zoa5MMHY) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:00 | 2025-05-11 |  |
 | [Deeper](https://open.spotify.com/track/7hfgzxvcd8mKImN7Goast8) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Deeper](https://open.spotify.com/album/2NBHJXmeASMfyf8jwKY5Y0) | 3:16 | 2024-01-29 |  |
+| [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-11 |  |
 | [Diamond Cut](https://open.spotify.com/track/6iuVUXwvvDCzSSVMrpMQp4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Diamond Cut / Bby](https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k) | 6:10 | 2024-01-29 |  |
 | [Do My Thing](https://open.spotify.com/track/5XEmou40XzMsoVZHq925kw) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:46 | 2024-01-29 |  |
 | [Drama](https://open.spotify.com/track/2tlAmvmHat6nBY9pKd2Kkg) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:48 | 2024-01-29 |  |
@@ -35,10 +37,13 @@
 | [Insult Me](https://open.spotify.com/track/1mUNzaUyMba5volrY0XfPP) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:18 | 2024-01-29 |  |
 | [Intimate](https://open.spotify.com/track/03x4xRf3m9EuVJoJIabrIQ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:39 | 2024-01-29 |  |
 | [Intimate \- Club Mix](https://open.spotify.com/track/4RkaGrpMqLkMd7nK5mEE4D) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [El Trick](https://open.spotify.com/artist/46W67d6DQ9MkC3M0rtrHI0), [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:38 | 2024-07-06 |  |
+| [Lifetime](https://open.spotify.com/track/2QwJx6QhqqOqwE3mIoJ2td) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:04 | 2025-05-11 |  |
 | [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 | 2024-01-29 |  |
 | [Lucky](https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lucky](https://open.spotify.com/album/58UHfHzT9zqjvSWbC06Bcn) | 3:24 | 2024-01-29 | 2024-02-24 |
 | [Lucky](https://open.spotify.com/track/4UZI5lPk248pK7T41dOiL9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:24 | 2024-02-23 |  |
 | [Make My Day](https://open.spotify.com/track/7eHHF8vP2wV4ukcCsWWSAC) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:29 | 2024-01-29 |  |
+| [Miss](https://open.spotify.com/track/3iewIkYTvvaicW8iysqxuU) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:09 | 2025-05-11 |  |
+| [Moan](https://open.spotify.com/track/5vCSaWRLhoTZ1puTVO4lez) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:39 | 2025-05-11 |  |
 | [My Day Off](https://open.spotify.com/track/5aQqLdmooQs8qIdMHxI2uv) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:34 | 2024-03-15 |  |
 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2024-01-29 |  |
 | [No Butterflies, No Nothing](https://open.spotify.com/track/6OSshPqPWMV1EKjxjf6gdc) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 2:59 | 2024-01-29 |  |
@@ -52,6 +57,7 @@
 | [Ride](https://open.spotify.com/track/6k7yFNyWrK8rfWxsZlFiLW) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:48 | 2024-01-29 |  |
 | [Right This Way](https://open.spotify.com/track/6VvXCIHldeydKUcbWC0vVT) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 1:47 | 2024-03-15 |  |
 | [s.e.x.y.o.m.g\. \(feat\. Debbie Sings\)](https://open.spotify.com/track/7E8lq2tTvGfB8fpR5Ipt9p) | [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB), [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Elements \(Deluxe\)](https://open.spotify.com/album/26sxU2CplXqpmaogJJkb2Y) | 3:17 | 2024-01-29 |  |
+| [Seasons](https://open.spotify.com/track/5RBv4o9OW0v8NWVNrs5krA) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:09 | 2025-05-11 |  |
 | [Secretly](https://open.spotify.com/track/1ksD7cfCpQ31ymQheHSU5q) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:04 | 2024-01-29 |  |
 | [Someone](https://open.spotify.com/track/3jfR63XcKHLVYqEq4p3bKE) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:26 | 2024-03-15 |  |
 | [Someone to Chill With](https://open.spotify.com/track/3sAcsAVnlvrJK4R2PWliot) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:19 | 2024-01-29 |  |
@@ -60,11 +66,16 @@
 | [Story of My Life](https://open.spotify.com/track/5ZBtzPY6gBKwiASk5a4s7j) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:43 | 2024-01-29 |  |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2024-01-29 |  |
 | [Test It](https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 | 2024-03-15 |  |
+| [The Chase](https://open.spotify.com/track/1Eh2xPB0vGv8QThSD2PDA0) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:22 | 2025-05-11 |  |
 | [The Flow](https://open.spotify.com/track/0Jp9blNEt2mOk0FSeDEd11) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:22 | 2024-01-29 |  |
+| [The Garden](https://open.spotify.com/track/7F8PQETOfC1Vw0g2NZ3C6U) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:02 | 2025-05-11 |  |
 | [The Princess](https://open.spotify.com/track/2I7MEYZs32XVWsLWC5jAmF) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:16 | 2024-03-15 |  |
 | [Toxic](https://open.spotify.com/track/0NqydaxZRGM4ZQoYZRZuHS) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:03 | 2024-03-15 |  |
 | [Trick](https://open.spotify.com/track/0jctbEYOwwCldDcIjPh1a9) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:55 | 2024-01-29 |  |
 | [Twice](https://open.spotify.com/track/3U4eW849fjz2U8BF9ghjQb) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:43 | 2024-03-16 |  |
+| [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 | 2025-05-11 |  |
 | [What U Wanna Do?](https://open.spotify.com/track/7EYDjozMXBgvEYBmGm3Zr6) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:46 | 2024-01-29 |  |
+| [You Can't Always Get What You Want](https://open.spotify.com/track/0loAUwPeBd9LvYtnaKpoGG) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:30 | 2025-05-11 |  |
+| [You Got It!](https://open.spotify.com/track/4g3NhWgkT5FCROOHyhy4QT) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 1:54 | 2025-05-11 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

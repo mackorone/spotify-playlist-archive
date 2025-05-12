@@ -6,7 +6,7 @@
     "name": "dio",
     "url": "https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i"
   },
-  "snapshot_id": "AAAFDrlc8AWqHLIR16C6qA4HqMHktLZB",
+  "snapshot_id": "AAAFEM6j7ENKaBP/k2JdleovGy+qKDUi",
   "tracks": [
     {
       "added_at": "2023-10-19 14:38:14",
@@ -14475,6 +14475,42 @@
       "duration_ms": 186896,
       "name": "Err",
       "url": "https://open.spotify.com/track/4UMR8jH9twpyE7rqMvvQRq"
+    },
+    {
+      "added_at": "2025-05-12 02:51:08",
+      "album": {
+        "name": "\u706b\u661f\u4eba",
+        "url": "https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 234929,
+      "name": "\u706b\u661f\u4eba",
+      "url": "https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6"
+    },
+    {
+      "added_at": "2025-05-12 03:00:29",
+      "album": {
+        "name": "As Tenshi-sama says",
+        "url": "https://open.spotify.com/album/29ivIRiC7xB0VrWyDfcXor"
+      },
+      "artists": [
+        {
+          "name": "chinoi momone",
+          "url": "https://open.spotify.com/artist/0zdGwa8ihyor4J729eSIGI"
+        },
+        {
+          "name": "namigroove",
+          "url": "https://open.spotify.com/artist/2t7wKLcqZ08LwQXmBS2OOL"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "DENNO MIENMIEN MAO (feat. namigroove)",
+      "url": "https://open.spotify.com/track/2qXS1nJJpH6EaTvqt9JwXC"
     }
   ],
   "unique_name": "japan",

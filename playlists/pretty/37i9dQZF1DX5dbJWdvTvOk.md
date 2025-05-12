@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,356 likes - 300 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,362 likes - 300 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 19 | [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 |
 | 20 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 |
 | 21 | [Vitral](https://open.spotify.com/track/37PTKBLRzqUSXLW3e05Zuf) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Vitral](https://open.spotify.com/album/04JXDkUvyzG0vSCXf5BK6k) | 2:45 |
-| 22 | [Sunshine avenue](https://open.spotify.com/track/1K53kXlMNqLpdeMh1PqOum) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Sunshine avenue](https://open.spotify.com/album/3nqZymslQr1U9HgNfiYPwL) | 2:29 |
-| 23 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
+| 22 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
+| 23 | [Sunshine avenue](https://open.spotify.com/track/1K53kXlMNqLpdeMh1PqOum) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Sunshine avenue](https://open.spotify.com/album/3nqZymslQr1U9HgNfiYPwL) | 2:29 |
 | 24 | [Smile](https://open.spotify.com/track/2U1vBJccBgHLok37WqNUM4) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Smile](https://open.spotify.com/album/6WgzKrrzhbuZ7cnuCgXb2k) | 2:20 |
 | 25 | [Bloom](https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Bloom](https://open.spotify.com/album/2VsnPobiX8U8SzIuII5hI8) | 2:46 |
 | 26 | [Maine](https://open.spotify.com/track/6HcSIn5EsFz20aillG9Itv) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Maine](https://open.spotify.com/album/3vbEzZqSsm4K9cxkBpw0wa) | 2:44 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 34 | [Lullaby](https://open.spotify.com/track/7goB8XbGH0dOpuOKh33M2V) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lullaby](https://open.spotify.com/album/0gltiSlcJXlCkGICZ5hVx5) | 2:54 |
 | 35 | [Into Motion](https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Into Motion](https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4) | 2:37 |
 | 36 | [When we're together](https://open.spotify.com/track/46CteNPTOkjXz52CIldTjZ) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [When we're together](https://open.spotify.com/album/2o2rYNRj9oQHzORAdeQ6ya) | 2:28 |
-| 37 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 |
-| 38 | [Whispers of Frost](https://open.spotify.com/track/3ge3prXMCXsHRa2SfvwA43) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers of Frost](https://open.spotify.com/album/4hhQxJlnuXEYistyyZpMR6) | 3:12 |
-| 39 | [Solis](https://open.spotify.com/track/1szHxvHkt6Q5AOmhy3waph) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Solis](https://open.spotify.com/album/7nIUMBa5guEzQ3YqZiwG6Q) | 2:14 |
-| 40 | [Tomorrow's Dream](https://open.spotify.com/track/2CCN2biC5thrngQtYUlSOh) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Tomorrow's Dream](https://open.spotify.com/album/375tL35zwCzLsuLSkSpGpG) | 3:00 |
-| 41 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 |
+| 37 | [Whispers of Frost](https://open.spotify.com/track/3ge3prXMCXsHRa2SfvwA43) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers of Frost](https://open.spotify.com/album/4hhQxJlnuXEYistyyZpMR6) | 3:12 |
+| 38 | [Solis](https://open.spotify.com/track/1szHxvHkt6Q5AOmhy3waph) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Solis](https://open.spotify.com/album/7nIUMBa5guEzQ3YqZiwG6Q) | 2:14 |
+| 39 | [Tomorrow's Dream](https://open.spotify.com/track/2CCN2biC5thrngQtYUlSOh) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Tomorrow's Dream](https://open.spotify.com/album/375tL35zwCzLsuLSkSpGpG) | 3:00 |
+| 40 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 |
+| 41 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 |
 | 42 | [Reflected Dreams](https://open.spotify.com/track/4fn4Jx7ZrBn6r4h3vkGrkN) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Reflected Dreams](https://open.spotify.com/album/3ANuuSDn9UeoeTTqaEYGwZ) | 2:09 |
 | 43 | [Gullunge](https://open.spotify.com/track/0IsOaDcVMdsL1EXsN3B1lt) | [Jonas Björk](https://open.spotify.com/artist/6hSqPgf1kehZN3pifbGH62) | [Gullunge](https://open.spotify.com/album/2PIDYHxFHqUAteA9G78kdy) | 2:35 |
 | 44 | [Everwarm](https://open.spotify.com/track/4vVHHh42oRLxw4McSyWED2) | [Yumi Ima](https://open.spotify.com/artist/0TVrvag1CbzyEzo93LPCba) | [Everwarm](https://open.spotify.com/album/41ezKIzkNkok0R3aBcdyLU) | 2:49 |
@@ -170,12 +170,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 160 | [Think Of Me](https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Think Of Me](https://open.spotify.com/album/1wqOvsGdOGypGsgiMnb0HO) | 2:41 |
 | 161 | [Onirique](https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Retrouvailles](https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf) | 2:41 |
 | 162 | [Isle of Skye](https://open.spotify.com/track/3rxo4jNntMRi6KHJkFHjNR) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Isle of Skye](https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6) | 2:13 |
-| 163 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 |
-| 164 | [A beautiful promise](https://open.spotify.com/track/1NVbYXCYqpJmPlHEAsPwmz) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [A beautiful promise](https://open.spotify.com/album/6GfMrTCB1Kcs0qDtiG77k6) | 2:02 |
-| 165 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 |
-| 166 | [I Am Her](https://open.spotify.com/track/0MRRy4aiAg2zWcyMjVKMZE) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [I Am Her](https://open.spotify.com/album/276J4hpk1tF9ug5i0pUfRq) | 2:41 |
-| 167 | [Dearest muse](https://open.spotify.com/track/6i59wmK54zfKwjZ3pxT8rr) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Dearest muse](https://open.spotify.com/album/2dPCMORcxiGIFcIBwdeBEd) | 2:03 |
-| 168 | [Cidade Velha](https://open.spotify.com/track/5tT3uZPRSyEIyBHtJC2LCG) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Cidade Velha](https://open.spotify.com/album/4Rvuafq8Og3xWmpkY9Fewz) | 2:28 |
+| 163 | [Cidade Velha](https://open.spotify.com/track/5tT3uZPRSyEIyBHtJC2LCG) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Cidade Velha](https://open.spotify.com/album/4Rvuafq8Og3xWmpkY9Fewz) | 2:28 |
+| 164 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 |
+| 165 | [A beautiful promise](https://open.spotify.com/track/1NVbYXCYqpJmPlHEAsPwmz) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [A beautiful promise](https://open.spotify.com/album/6GfMrTCB1Kcs0qDtiG77k6) | 2:02 |
+| 166 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 |
+| 167 | [I Am Her](https://open.spotify.com/track/0MRRy4aiAg2zWcyMjVKMZE) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [I Am Her](https://open.spotify.com/album/276J4hpk1tF9ug5i0pUfRq) | 2:41 |
+| 168 | [Dearest muse](https://open.spotify.com/track/6i59wmK54zfKwjZ3pxT8rr) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Dearest muse](https://open.spotify.com/album/2dPCMORcxiGIFcIBwdeBEd) | 2:03 |
 | 169 | [You And I](https://open.spotify.com/track/6Z4Okg1ZdX9K8Ejq7g0bin) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You And I](https://open.spotify.com/album/6PuMsLVs2Slyg2AiPq9KGq) | 2:34 |
 | 170 | [A Short Walk To Open Fields](https://open.spotify.com/track/0AcpMokszr0bPJQ5eoTPvg) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [A Short Walk To Open Fields](https://open.spotify.com/album/4DB1OJk9eG0vSkybSmHSQ0) | 3:12 |
 | 171 | [For Me & You](https://open.spotify.com/track/4dnC5VgcrkUn4INXveBDPo) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [For Me & You](https://open.spotify.com/album/2I0en39qwIl6RW1l37H9gJ) | 2:19 |
@@ -260,9 +260,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 250 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 |
 | 251 | [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 |
 | 252 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 |
-| 253 | [Pampas](https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Pampas](https://open.spotify.com/album/24ZUuBk8JknWaAalkgC2ZO) | 2:43 |
-| 254 | [Okinawa](https://open.spotify.com/track/2gtPInB7GRWpBMClNiU65Z) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Montevideo](https://open.spotify.com/album/0LmadbT5ZbedmXJJF7ynQb) | 2:48 |
-| 255 | [Pacifiquement](https://open.spotify.com/track/5Ge0efczeqLMSLW7PuYezG) | [Antoine Gasquet](https://open.spotify.com/artist/1fXaIo98PufpTCJsXLtRVt) | [Pacifiquement](https://open.spotify.com/album/3zmOaoYfYtYtsZXPYJKmmn) | 2:26 |
+| 253 | [Okinawa](https://open.spotify.com/track/2gtPInB7GRWpBMClNiU65Z) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Montevideo](https://open.spotify.com/album/0LmadbT5ZbedmXJJF7ynQb) | 2:48 |
+| 254 | [Pacifiquement](https://open.spotify.com/track/5Ge0efczeqLMSLW7PuYezG) | [Antoine Gasquet](https://open.spotify.com/artist/1fXaIo98PufpTCJsXLtRVt) | [Pacifiquement](https://open.spotify.com/album/3zmOaoYfYtYtsZXPYJKmmn) | 2:26 |
+| 255 | [Pampas](https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Pampas](https://open.spotify.com/album/24ZUuBk8JknWaAalkgC2ZO) | 2:43 |
 | 256 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 |
 | 257 | [Endless Path](https://open.spotify.com/track/67Q6qfYO7qXJjsIXbzZeJ4) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Endless Path](https://open.spotify.com/album/2kx0113Z17cfo8Vwd6KPmF) | 2:19 |
 | 258 | [warm water in the well](https://open.spotify.com/track/6QgsCarVTD1jp6wFq6sk3E) | [Richard Sapphire](https://open.spotify.com/artist/40Xa6PWV6jW7f8NuS44BzF) | [warm water in the well](https://open.spotify.com/album/1ty4G5zw98T0Wsygo0EGfH) | 2:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Rrag
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,674 likes - 98 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,678 likes - 98 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

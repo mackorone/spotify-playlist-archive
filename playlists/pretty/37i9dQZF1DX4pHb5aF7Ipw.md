@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by BIG KAY SMG, Baggh\-e SMG, Farmaan SMG and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,914 likes - 74 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,922 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,6 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 71 | [West Side Story](https://open.spotify.com/track/427pUS3t1kn404S79KWaiN) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp) | [Not Dead Yet](https://open.spotify.com/album/7oWC5Z4SOOpwTWp2A5p5Lv) | 3:36 |
 | 72 | [Gori Police \(Laal Rang Dian Akhan\) \- From "Kanneda"](https://open.spotify.com/track/1kzxAS1IfMKmC1HHYjBrUs) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Kanneda \(Original Series Soundtrack\)](https://open.spotify.com/album/2HF4aHW9ZSlzbLhidUnDLJ) | 2:12 |
 | 73 | [2SEXY](https://open.spotify.com/track/2KACYxaxmckfViZscwibRS) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [SIDEWALK 2 STARDOM](https://open.spotify.com/album/0620zH84qFZSX8moLhPCuo) | 3:00 |
-| 74 | [That's All I Know](https://open.spotify.com/track/0ZOsrYqlmDHtEHQT3hKBrM) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [4 Real](https://open.spotify.com/album/64lZopqhA6l1tHJIAYQr7a) | 2:30 |
+| 74 | [Street Fame](https://open.spotify.com/track/2lAI80sYra6NhSdRAWF4ks) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Vansh DX](https://open.spotify.com/artist/2sO8oRYnSaKKBRjavZRpE3) | [Street Fame](https://open.spotify.com/album/4yL77lGxXRq3KRXIeETS9J) | 3:32 |
+| 75 | [That's All I Know](https://open.spotify.com/track/0ZOsrYqlmDHtEHQT3hKBrM) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [4 Real](https://open.spotify.com/album/64lZopqhA6l1tHJIAYQr7a) | 2:30 |
 
-Snapshot ID: `aBz78wAAAAB+yQ4lHTB+ptcmN+tCoScz`
+Snapshot ID: `aCB7TgAAAACbXxFuVGCESuCa4Gfv9Wm4`
