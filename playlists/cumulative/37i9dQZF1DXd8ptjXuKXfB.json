@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! Cover: Beton.Hofi",
+  "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon!",
   "name": "Most Men\u0151",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 131000,
       "name": "Akinek \u00e9n sok vagyok",
       "url": "https://open.spotify.com/track/6T90ZdKKsB5yZLywFFMWn7"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-06",
+      "date_removed": null,
       "duration_ms": 157636,
       "name": "bangkok",
       "url": "https://open.spotify.com/track/22BKxxJomFWgMsYn1Y7Fxn"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 150697,
       "name": "Barbi Baba",
       "url": "https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf"
@@ -924,6 +924,24 @@
       "duration_ms": 219310,
       "name": "Cig\u00e1ny-\u00fcgy",
       "url": "https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse"
+    },
+    {
+      "album": {
+        "name": "Cinege",
+        "url": "https://open.spotify.com/album/19KLovh4bUcx0SnxFML27E"
+      },
+      "artists": [
+        {
+          "name": "Horv\u00e1th Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/4I1y8Rd0H2NGXMzmT6JWsz"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206341,
+      "name": "Cinege",
+      "url": "https://open.spotify.com/track/1PawLr9EyCweXrozSAtNbh"
     },
     {
       "album": {
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 180000,
       "name": "ELD\u00daDOLN\u00c1M",
       "url": "https://open.spotify.com/track/5ipmS9Tzo6QCtgce1RUWpl"
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 183928,
       "name": "EVIL J0RDAN",
       "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 101302,
       "name": "FRENCH KISS",
       "url": "https://open.spotify.com/track/2Xr6Y5CgjSTdBv0VEzeEuM"
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "G\u00c1Z",
       "url": "https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc"
@@ -3502,7 +3520,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 143142,
       "name": "MILF",
       "url": "https://open.spotify.com/track/4OzNBJIHhiYKRe5COThmC3"
@@ -3752,6 +3770,32 @@
       "duration_ms": 208000,
       "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k",
       "url": "https://open.spotify.com/track/5cp1amsVOYe2HFbiaezm4B"
+    },
+    {
+      "album": {
+        "name": "M\u00e1shol",
+        "url": "https://open.spotify.com/album/4aCSpE8M1xqlBQMwJMrfOi"
+      },
+      "artists": [
+        {
+          "name": "Halott P\u00e9nz",
+          "url": "https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h"
+        },
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "OHNODY",
+          "url": "https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "M\u00e1shol",
+      "url": "https://open.spotify.com/track/2Cp1VY67OJKjPSEgYP72ij"
     },
     {
       "album": {
@@ -4511,6 +4555,28 @@
     },
     {
       "album": {
+        "name": "Intergalaktikus Drogd\u00edler",
+        "url": "https://open.spotify.com/album/6FmSerZJtJdT3xVKYbKrMp"
+      },
+      "artists": [
+        {
+          "name": "young B!TE",
+          "url": "https://open.spotify.com/artist/6DQ5AVbhAjXb72VPioyuoM"
+        },
+        {
+          "name": "0xy Beat$",
+          "url": "https://open.spotify.com/artist/6xIp9lGULugWNC1yNwrAMO"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143915,
+      "name": "Prol\u00f3gus, az incidens",
+      "url": "https://open.spotify.com/track/3n27DfYcqSpBJ1222wvJeI"
+    },
+    {
+      "album": {
         "name": "NINCS HOLNAP",
         "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
       },
@@ -4660,7 +4726,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 189354,
       "name": "Rampapapam",
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
@@ -4726,7 +4792,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 173760,
       "name": "rizz",
       "url": "https://open.spotify.com/track/6O93HKbpLjykCXApaiAf5f"
@@ -4766,6 +4832,28 @@
       "duration_ms": 210186,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/6W7AQZlX9nvw0r74LSxcop"
+    },
+    {
+      "album": {
+        "name": "ROSSZ L\u00c1NYOK",
+        "url": "https://open.spotify.com/album/03XYQI1MasIAQYJrj5CpTu"
+      },
+      "artists": [
+        {
+          "name": "Kir\u00e1ly Viktor",
+          "url": "https://open.spotify.com/artist/7HWwnMsOuVxLnT5TPfgVoP"
+        },
+        {
+          "name": "Curtis",
+          "url": "https://open.spotify.com/artist/2cFK15y135mg47RIgsS43E"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "ROSSZ L\u00c1NYOK",
+      "url": "https://open.spotify.com/track/6gEZv0hi3VQj0uza9F7go7"
     },
     {
       "album": {
@@ -5468,10 +5556,28 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 144277,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/0KN7gjHni6JHOn97t9O1F1"
+    },
+    {
+      "album": {
+        "name": "Talpra cig\u00e1nyok",
+        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146808,
+      "name": "Talpra cig\u00e1nyok",
+      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
     },
     {
       "album": {
@@ -6187,6 +6293,24 @@
     },
     {
       "album": {
+        "name": "\u00c9jf\u00e9lt\u00e1jt",
+        "url": "https://open.spotify.com/album/6Xntzv7hpYTVVcB4iKmPG2"
+      },
+      "artists": [
+        {
+          "name": "Wellhello",
+          "url": "https://open.spotify.com/artist/4URlJ0EofF5gUvCGDtxr3m"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "\u00c9jf\u00e9lt\u00e1jt",
+      "url": "https://open.spotify.com/track/36tDCUeYqBvl5oIYA0CWDI"
+    },
+    {
+      "album": {
         "name": "\u00cdgy j\u00e1rtam",
         "url": "https://open.spotify.com/album/6gyFjryr8KBPCSiyEuX214"
       },
@@ -6216,7 +6340,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 198433,
       "name": "\u00cdgy vagyok szabad",
       "url": "https://open.spotify.com/track/0bRNRUORSLdQpgbwpmEJWD"

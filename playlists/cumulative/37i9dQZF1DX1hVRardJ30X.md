@@ -4,7 +4,7 @@
 
 > New music by Ela Taubert, KAROL G, Ryan Castro, Beéle and more! Updates every Friday.
 
-9,553 songs - 20 day 19 hr 12 min
+9,554 songs - 20 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4733,7 +4733,7 @@
 | [Loco](https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Loco](https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0) | 2:30 | 2022-08-26 | 2022-09-03 |
 | [Loco](https://open.spotify.com/track/3EgwOavuR2HDxhvAnBsIf7) | [Aron](https://open.spotify.com/artist/0BqeiuRQGNi6ZILvThUJtl), [Laurent](https://open.spotify.com/artist/5kfr0deRJfmMVBmSy46oZM), [Lauro](https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ) | [Loco](https://open.spotify.com/album/3SCUbT5aIbbumSpcifAGm9) | 2:46 | 2022-11-25 | 2022-12-03 |
 | [Loco](https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Loco](https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI) | 3:33 | 2022-10-28 | 2022-11-05 |
-| [LOCO](https://open.spotify.com/track/5vsqatbaCBgLUloeTZ3rN1) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [LOCO](https://open.spotify.com/album/28Y3uYAFjPuBKCH5oD6FDv) | 2:19 | 2025-03-21 |  |
+| [LOCO](https://open.spotify.com/track/5vsqatbaCBgLUloeTZ3rN1) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [LOCO](https://open.spotify.com/album/28Y3uYAFjPuBKCH5oD6FDv) | 2:19 | 2025-03-21 | 2025-05-13 |
 | [Loco](https://open.spotify.com/track/0IXqjQvowN9xWG8TKLiLR3) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Loco](https://open.spotify.com/album/7hIQwYkwVkG0gGfi8g8WvF) | 3:01 | 2023-01-13 | 2023-01-21 |
 | [Loco](https://open.spotify.com/track/63EQbNhgaih4yg5412usWG) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Loco](https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232) | 3:06 | 2024-12-20 | 2025-01-11 |
 | [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 | 2023-09-15 | 2023-09-23 |
@@ -8506,6 +8506,7 @@
 | [To' Los Dias](https://open.spotify.com/track/245z8vpBHuubYEDUvz8gON) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [To' Los Dias](https://open.spotify.com/album/6UB2jNqiQ4ns5zt9XsHdhO) | 3:22 | 2023-02-10 | 2023-02-18 |
 | [To' Los Días](https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [To' Los Días](https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI) | 3:38 | 2022-05-13 | 2022-05-20 |
 | [TOA](https://open.spotify.com/track/7gdDVtwNZfpyymuUuNQBD8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [TOA](https://open.spotify.com/album/339pENtTr43vsQGyGZC0qC) | 3:01 | 2025-04-04 | 2025-04-12 |
+| [TOA' TOA'](https://open.spotify.com/track/19noJExZ8e7ePCjWLhK4uC) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Daylight](https://open.spotify.com/album/5u4olXNnzZs0x8NT4HRfYM) | 2:40 | 2025-05-12 |  |
 | [TOCA MADERA](https://open.spotify.com/track/5rWvIlXByapQ0pLx8IpWLY) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [TOCA MADERA](https://open.spotify.com/album/72TMXfg056YF1DQIulzB57) | 2:20 | 2022-04-22 | 2022-04-29 |
 | [Toca Toca](https://open.spotify.com/track/4GTYUSraYAGDb31NRP9tRS) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [Toca Toca](https://open.spotify.com/album/7iqZCK0dPbJlEc8fJbwM8r) | 2:30 | 2024-12-20 | 2025-01-11 |
 | [toca toca](https://open.spotify.com/track/5DQ2SXXrp6aCRbwa6dyR5P) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [toca toca](https://open.spotify.com/album/6UAYTcm2FZE5PvE8bljMpb) | 2:24 | 2024-12-20 | 2025-01-04 |

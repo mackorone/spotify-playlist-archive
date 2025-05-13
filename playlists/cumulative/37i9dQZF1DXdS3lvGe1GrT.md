@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Emily Hines
 
-1,670 songs - 4 day 3 hr 27 min
+1,671 songs - 4 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Early Days](https://open.spotify.com/track/1pDjppzeG3220uCiGTwz5C) | [Rogue Valley](https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7) | [Shell Game](https://open.spotify.com/album/0DQhxZFCsR5gfZYDq6mhqQ) | 3:40 | 2023-10-18 | 2023-12-11 |
 | [Early Promise](https://open.spotify.com/track/0O39ah7SfbeDcAM5YeBQLl) | [Family Stereo](https://open.spotify.com/artist/4HUyWDdAowsbbtJQQEn5RT) | [Early Promise](https://open.spotify.com/album/3sxMbcOc1l1c1Ua2f5moes) | 3:03 | 2024-04-03 | 2024-06-06 |
 | [Easier to Run](https://open.spotify.com/track/4qgGTNSyVE3kc4G2yIVKom) | [Libby Rodenbough](https://open.spotify.com/artist/3ZDFswjQ5rBdZcqXGRcTJ7) | [Easier to Run](https://open.spotify.com/album/3QHleFmhPztx32chj1TPr9) | 3:17 | 2023-03-08 | 2023-04-13 |
+| [East Coast Summers](https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [East Coast Summers](https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX) | 3:41 | 2025-05-12 |  |
 | [Easter Island](https://open.spotify.com/track/69u13cqyVRR4vlMkcsT81C) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Easter Island](https://open.spotify.com/album/7pkN6MaALNNnR2edSQwzpS) | 2:47 | 2025-04-02 |  |
 | [Easy Kill](https://open.spotify.com/track/2uvLSa0yqELzhyi5QpTvbJ) | [Salt Water Baby](https://open.spotify.com/artist/2MKCNIDwizYWkhSGwKotAj) | [Easy Kill](https://open.spotify.com/album/5Iw9VIeKWeUUNnnDhfL8k1) | 3:14 | 2023-01-11 | 2023-03-09 |
 | [Easy Street](https://open.spotify.com/track/2gru7tFhiQQ2XHYBZlAus2) | [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E) | [Easy Street](https://open.spotify.com/album/6nFylBBNvvWG6UgpzsKkf3) | 3:39 | 2024-03-27 | 2024-06-06 |

@@ -1,6 +1,6 @@
 {
   "description": "Leeds! Leeds! Leeds! Cover: VENUS GRRRLS",
-  "num_followers": 1009,
+  "num_followers": 1011,
   "original_name": "We Are Leeds",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-11-22 12:17:41",
       "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/01WnXszeMvaUaEp3NaQGFt"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/7v9VgPcjy7gPRsHZjKPUhU"
+    },
+    {
+      "added_at": "2024-11-22 12:17:41",
+      "album": {
         "name": "Emotion",
         "url": "https://open.spotify.com/album/0YYPm7yqaeFKtFI2Dp9VMu"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 431293,
       "name": "Rising",
       "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
-    },
-    {
-      "added_at": "2024-11-22 12:17:41",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/01WnXszeMvaUaEp3NaQGFt"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/7v9VgPcjy7gPRsHZjKPUhU"
     },
     {
       "added_at": "2024-11-22 12:17:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>' favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,483 likes - 112 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,492 likes - 111 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,14 +111,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 101 | [Prizma](https://open.spotify.com/track/7vFJII0V0x70pVayBlAl1I) | [Etapp Kyle](https://open.spotify.com/artist/4F4nGwhfwU7cI26FXK9ZlE) | [Klockworks 10](https://open.spotify.com/album/4PZ8pJOqfEbcmWLeQwEnnP) | 5:12 |
 | 102 | [Subzero \- Original Mix](https://open.spotify.com/track/7p6oXzBSPAXXz8Xb8gBPki) | [Ben Klock](https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo) | [Before One EP](https://open.spotify.com/album/6nDabvimKikHWteZsybtEd) | 6:23 |
 | 103 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
-| 104 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
-| 105 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
-| 106 | [Wilkie](https://open.spotify.com/track/5LaFLRPrb7yhc3x46Ktn6B) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Happiness Is Happening](https://open.spotify.com/album/3JR4zVw8ckBE5Wa99BbPQU) | 5:23 |
-| 107 | [Gone](https://open.spotify.com/track/7gD34yrgA8gFLsMtPCNWMm) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Contours](https://open.spotify.com/artist/0DivrXwznd1NcQbRh86cQO) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 5:36 |
-| 108 | [Never Come Back](https://open.spotify.com/track/0QEG3NGmWatNOIAVxudQfd) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 5:05 |
-| 109 | [Clarity](https://open.spotify.com/track/69cIyKwlCoQhgz2qzy279L) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Expectations](https://open.spotify.com/album/5oTMzdANxu24nu2YXJPHDw) | 5:48 |
-| 110 | [Taurus](https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G) | 4:42 |
-| 111 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
-| 112 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/51nxiI2Onk3evp6088fsB3) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/09Ld58uI3F0wLzs0pkgDx4) | 4:07 |
+| 104 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
+| 105 | [Wilkie](https://open.spotify.com/track/5LaFLRPrb7yhc3x46Ktn6B) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Happiness Is Happening](https://open.spotify.com/album/3JR4zVw8ckBE5Wa99BbPQU) | 5:23 |
+| 106 | [Gone](https://open.spotify.com/track/7gD34yrgA8gFLsMtPCNWMm) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Contours](https://open.spotify.com/artist/0DivrXwznd1NcQbRh86cQO) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 5:36 |
+| 107 | [Never Come Back](https://open.spotify.com/track/0QEG3NGmWatNOIAVxudQfd) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 5:05 |
+| 108 | [Clarity](https://open.spotify.com/track/69cIyKwlCoQhgz2qzy279L) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Expectations](https://open.spotify.com/album/5oTMzdANxu24nu2YXJPHDw) | 5:48 |
+| 109 | [Taurus](https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G) | 4:42 |
+| 110 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
+| 111 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/51nxiI2Onk3evp6088fsB3) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/09Ld58uI3F0wLzs0pkgDx4) | 4:07 |
 
-Snapshot ID: `Z240ewAAAADoTa4AFJqUKGPQ2wkhJAd5`
+Snapshot ID: `aCIKfwAAAAAIfxLoZP8JcBWqZQNpqNcb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,618 likes - 40 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,627 likes - 40 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 32 | [Vertigo](https://open.spotify.com/track/6f2zMpXAhTqyhvqh9COyId) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [SPECTRE: Machines of Loving Grace](https://open.spotify.com/album/3b4c3BnVLXu77tGbbPItd3) | 4:32 |
 | 33 | [Mimoun Marhaba](https://open.spotify.com/track/68tS8zt1kpPHxunJ7Xq4PI) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Marhaba](https://open.spotify.com/album/7g5cShRnbgXW9xwQjKNFow) | 8:18 |
 | 34 | [The Chair \(Chapter I\)](https://open.spotify.com/track/25A44qjqVlHwfBBk0xRX7P) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Masrahiya](https://open.spotify.com/album/0Sy0eUUS2mVktSYQMbO1Yj) | 3:51 |
-| 35 | [Changed For The Better](https://open.spotify.com/track/7o9pKdBshFQuhu2oLMedaK) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Dopamine](https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By) | 5:46 |
+| 35 | [Changed For The Better](https://open.spotify.com/track/7o9pKdBshFQuhu2oLMedaK) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [DOPAMINE](https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By) | 5:46 |
 | 36 | [Bell](https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Bell](https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9) | 4:28 |
 | 37 | [Aujourd'hui](https://open.spotify.com/track/4dhE8eXUnkQGRN0sWJ6YCx) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Mindibu](https://open.spotify.com/album/37dEq8GDThnOucEkaAULcL) | 6:25 |
 | 38 | [El Mundo De Nina](https://open.spotify.com/track/1qqBRvECEmcDLePakJF3kE) | [Santor](https://open.spotify.com/artist/4Ao6INsRciBdfNr5WBOYlr) | [Street Breaks, Vol\. 1](https://open.spotify.com/album/3ukRoUPikHsOoYR1aqG6vV) | 4:29 |

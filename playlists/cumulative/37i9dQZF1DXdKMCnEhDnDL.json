@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De beste Nederlandse liedjes. Cover: FLEMMING & Mart Hoogkamer",
+  "description": "De beste Nederlandse liedjes. Cover: Claude",
   "name": "Beste van NL",
   "tracks": [
     {
@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "Bemin Me Later (uit Liefde Voor Muziek)",
+        "url": "https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218906,
+      "name": "Bemin Me Later (uit Liefde Voor Muziek)",
+      "url": "https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM"
+    },
+    {
+      "album": {
         "name": "Bennie",
         "url": "https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve"
       },
@@ -1622,6 +1640,24 @@
       "duration_ms": 173029,
       "name": "Dit Is De Dag",
       "url": "https://open.spotify.com/track/5KzAMpIepQFFNQvj0gkxuU"
+    },
+    {
+      "album": {
+        "name": "Dit Is Zo'n Dag",
+        "url": "https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207905,
+      "name": "Dit Is Zo'n Dag",
+      "url": "https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B"
     },
     {
       "album": {
@@ -2789,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "How Do I Feel",
+        "url": "https://open.spotify.com/album/02xxO3zXFAZezAzyuaLpVQ"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166653,
+      "name": "How Do I Feel",
+      "url": "https://open.spotify.com/track/3EsjWjJBj1uRUHdRdwJc4U"
+    },
+    {
+      "album": {
         "name": "The Indien",
         "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
       },
@@ -2836,7 +2890,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 185476,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv"
@@ -5950,7 +6004,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 160301,
       "name": "Undecided",
       "url": "https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe"
@@ -7044,7 +7098,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 203200,
       "name": "Zonder handen rijden",
       "url": "https://open.spotify.com/track/2lVKoxQgBNqJwCE1SeLFKl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: CRYS & Musiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,052 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,077 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 6 | [Simple \- Piano Version](https://open.spotify.com/track/3byU0lzPiEmhwr0PHEieHG) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [SELAH \(Piano Version\)](https://open.spotify.com/album/2n7PSp4X6WSxteeBbWGhbT) | 2:47 |
 | 7 | [Siempre Serás Mi Niño](https://open.spotify.com/track/6j3oyflIOVyY2TTv80nrWW) | [azarah](https://open.spotify.com/artist/6EBN7TtKRhnrq9UuwCG5Nt) | [Siempre Serás Mi Niño](https://open.spotify.com/album/2ksnbUjD7pSmTWPdxPWi6X) | 3:39 |
 | 8 | [Sediento de Ti \- Version Balada](https://open.spotify.com/track/2PFMiR9WVKhuFR3Wxonsij) | [Cayado](https://open.spotify.com/artist/6Bldu9GkLezYOmMqiTkA8i) | [Sediento de Ti \(Version Balada\)](https://open.spotify.com/album/78yvZCcfo89MYE5WrGDHGm) | 3:32 |
-| 9 | [Habitación](https://open.spotify.com/track/6cAimpblltWnK3bIS5ii4E) | [Liz Mariel](https://open.spotify.com/artist/4Wz6hNzPp4n6GVd8J34kVc), [King David](https://open.spotify.com/artist/51FCG7kqX0cQBElGN7hOA8) | [Habitación](https://open.spotify.com/album/5eBJNtq8fVOarGXPDdFzUp) | 7:00 |
+| 9 | [Habitación](https://open.spotify.com/track/6cAimpblltWnK3bIS5ii4E) | [Liz Mariel](https://open.spotify.com/artist/4Wz6hNzPp4n6GVd8J34kVc), [King David Music](https://open.spotify.com/artist/6WZerC89NageKK8pZb6bj6) | [Habitación](https://open.spotify.com/album/5eBJNtq8fVOarGXPDdFzUp) | 7:00 |
 | 10 | [Él es a quien Alabo](https://open.spotify.com/track/6f9P6kdBAN0X2kw8pOmQs1) | [Samuel Arroyave](https://open.spotify.com/artist/525KpcmXJz3NFfm6tXS7Cp) | [Él es a quien Alabo](https://open.spotify.com/album/5eDcsz60eyBWHjOrBc1GH2) | 3:47 |
 | 11 | [Fiel Hacia Mí](https://open.spotify.com/track/0vcLAxDU3QGMkW0M9P6l0I) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [CORITOS Vol\. 1](https://open.spotify.com/album/4RpmmQce0dfnMpYF7UFbzC) | 5:00 |
 | 12 | [Fiesta en el Cielo](https://open.spotify.com/track/3LosnsL8GyZNKJT0ul0wD0) | [Somos Uno Worship](https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q), [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [Fiesta en el Cielo](https://open.spotify.com/album/4JoxIBIRM8c9age9oGeQE4) | 6:56 |

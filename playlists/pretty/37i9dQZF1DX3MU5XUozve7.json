@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1041269,
+  "num_followers": 1041464,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Left for Dead",
         "url": "https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 175200,
       "name": "Scotty Doesn't Know",
       "url": "https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 205960,
-      "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
-      "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -203,22 +187,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Palm Trees and Power Lines",
         "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
       },
@@ -231,6 +199,38 @@
       "duration_ms": 226080,
       "name": "Memory",
       "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 205960,
+      "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "The Shape Of Punk To Come (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
-      },
-      "artists": [
-        {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "New Noise",
-      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 160866,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "The Shape Of Punk To Come (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
+      },
+      "artists": [
+        {
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "New Noise",
+      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 146622,
-      "name": "Keep This Up",
-      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "We The Kings",
         "url": "https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 220133,
       "name": "Check Yes Juliet",
       "url": "https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 146622,
+      "name": "Keep This Up",
+      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Party Animals",
-        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
-      },
-      "artists": [
-        {
-          "name": "Turbonegro",
-          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "All My Friends Are Dead",
-      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Hard Times And Nursery Rhymes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 213173,
       "name": "Machine Gun Blues",
       "url": "https://open.spotify.com/track/3d5Cnswx1dxmjUbn1Dp3JQ"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Party Animals",
+        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
+      },
+      "artists": [
+        {
+          "name": "Turbonegro",
+          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "All My Friends Are Dead",
+      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "White Light White Heat White Trash",
-        "url": "https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "I Was Wrong",
-      "url": "https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Victory Lap (Deluxe Edition)",
         "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 176893,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "White Light White Heat White Trash",
+        "url": "https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "I Was Wrong",
+      "url": "https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Victory Lap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
-      },
-      "artists": [
-        {
-          "name": "Propagandhi",
-          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
-        }
-      ],
-      "duration_ms": 131160,
-      "name": "Failed Imagineer",
-      "url": "https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Have a Ball",
         "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 195226,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Victory Lap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
+      },
+      "artists": [
+        {
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+        }
+      ],
+      "duration_ms": 131160,
+      "name": "Failed Imagineer",
+      "url": "https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1115,6 +1115,22 @@
       "duration_ms": 239560,
       "name": "The Best I Ever Had",
       "url": "https://open.spotify.com/track/1FTBGFF2CJIEsMdkRMHo6z"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Take a Break",
+        "url": "https://open.spotify.com/album/4cgMkeavjD3BGNfQBVwrU3"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "I Believe I Can Fly",
+      "url": "https://open.spotify.com/track/6C0JXC9vaaoX5aa6A7tWf4"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Take a Break",
-        "url": "https://open.spotify.com/album/4cgMkeavjD3BGNfQBVwrU3"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "I Believe I Can Fly",
-      "url": "https://open.spotify.com/track/6C0JXC9vaaoX5aa6A7tWf4"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Los Angeles",
         "url": "https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 144786,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "The Story So Far",
-        "url": "https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Heavy Gloom",
-      "url": "https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "The Story So Far",
+        "url": "https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "Heavy Gloom",
+      "url": "https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Firme",
         "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Street Dogs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC"
-      },
-      "artists": [
-        {
-          "name": "Street Dogs",
-          "url": "https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Punk Rock And Roll",
-      "url": "https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 136400,
       "name": "Wrong Way",
       "url": "https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Street Dogs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC"
+      },
+      "artists": [
+        {
+          "name": "Street Dogs",
+          "url": "https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Punk Rock And Roll",
+      "url": "https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Death By Television",
-        "url": "https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r"
-      },
-      "artists": [
-        {
-          "name": "The Lillingtons",
-          "url": "https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Black Hole In My Mind",
-      "url": "https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "AC/DC CD",
         "url": "https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 103548,
       "name": "Ac/Dc CD",
       "url": "https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Death By Television",
+        "url": "https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r"
+      },
+      "artists": [
+        {
+          "name": "The Lillingtons",
+          "url": "https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Black Hole In My Mind",
+      "url": "https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "NINE",
-        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 49146,
-      "name": "Generational Divide",
-      "url": "https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Heart Beats Pacific",
-        "url": "https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7"
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
       "artists": [
         {
-          "name": "Banner Pilot",
-          "url": "https://open.spotify.com/artist/2XhpclWPWJPpYnpFGRGIzj"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 134706,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ"
+      "duration_ms": 49146,
+      "name": "Generational Divide",
+      "url": "https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1603,6 +1587,22 @@
       "duration_ms": 244564,
       "name": "Strain Your Memory",
       "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Heart Beats Pacific",
+        "url": "https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7"
+      },
+      "artists": [
+        {
+          "name": "Banner Pilot",
+          "url": "https://open.spotify.com/artist/2XhpclWPWJPpYnpFGRGIzj"
+        }
+      ],
+      "duration_ms": 134706,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ"
     },
     {
       "added_at": "2022-07-26 16:46:12",

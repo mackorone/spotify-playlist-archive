@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra escuela es la calle\. Gera MX en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,931 likes - 101 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,923 likes - 101 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 94 | [No Tengo Cura](https://open.spotify.com/track/6lk6v8pYFjDbMxYZVMpHPR) | [Chikano Jcr](https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC), [Maniako](https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3) | [No Tengo Cura](https://open.spotify.com/album/1Jx62LgAEuVk0PRRwk4g6S) | 3:26 |
 | 95 | [La Pelicula](https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT) | [Anthony Sanchez](https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [La Pelicula](https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK) | 2:49 |
 | 96 | [Humo](https://open.spotify.com/track/2eCPG1bdKAqSYj1LL6upfN) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Carlos Luengo](https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e) | [Humo](https://open.spotify.com/album/0tOj5weTJiOodUMVF1VjGM) | 3:36 |
-| 97 | [La Calle Llora](https://open.spotify.com/track/0YxCHyRniH8traBWNtmgoB) | [Made X La Calle](https://open.spotify.com/artist/65XnSO2UIDvG0zQIjcrFAJ), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Alexis Linares](https://open.spotify.com/artist/0mJWgWivNI3ioDcrlz5jy4), [Nueve Siete](https://open.spotify.com/artist/7fzZKj3Tr03xohWrfinjBI), [Kush](https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh), [Skubby.V](https://open.spotify.com/artist/6oHOsV3QP5gYuCqcPdSO9m) | [La Calle Llora](https://open.spotify.com/album/7ikJ4foUE0oHwoJdASOwlC) | 4:50 |
+| 97 | [La Calle Llora](https://open.spotify.com/track/0YxCHyRniH8traBWNtmgoB) | [Made X La Calle](https://open.spotify.com/artist/65XnSO2UIDvG0zQIjcrFAJ), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Wero Linares](https://open.spotify.com/artist/0mJWgWivNI3ioDcrlz5jy4), [Nueve Siete](https://open.spotify.com/artist/7fzZKj3Tr03xohWrfinjBI), [Kush](https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh), [Skubby.V](https://open.spotify.com/artist/6oHOsV3QP5gYuCqcPdSO9m) | [La Calle Llora](https://open.spotify.com/album/7ikJ4foUE0oHwoJdASOwlC) | 4:50 |
 | 98 | [De Abajo Pa'rriba](https://open.spotify.com/track/6PjZKJvXhZcyBKSX0kNa7R) | [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V), [Farock](https://open.spotify.com/artist/68ozuRzjeeZGbKPU9b1nb2) | [De Abajo Pa'rriba](https://open.spotify.com/album/2xQWLcU7XkscadXAhDmbJl) | 3:20 |
 | 99 | [Camino Firme](https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa) | [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Camino Firme](https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY) | 2:22 |
 | 100 | [Soy Un Malandrin](https://open.spotify.com/track/1T6iGIGjkE6FEmkC9QkCB7) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Soy Un Malandrin](https://open.spotify.com/album/0BsSKppeiHTt3HDGZe68V7) | 4:21 |

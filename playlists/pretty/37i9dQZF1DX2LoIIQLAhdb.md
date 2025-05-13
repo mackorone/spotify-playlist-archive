@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : SenSey'
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,036 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,063 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 29 | [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 |
 | 30 | [Boo](https://open.spotify.com/track/30gq5cFfiTlVFC6OR4pPae) | [Akela](https://open.spotify.com/artist/16tQnVelLYMb0yWHxxXtEt) | [Boo](https://open.spotify.com/album/6MzkznRUHW8L2ZgI2K6Abf) | 2:45 |
 | 31 | [NUMBER$](https://open.spotify.com/track/44bEshnLwiEKGbNS7FTUJQ) | [Jay luv](https://open.spotify.com/artist/0zPKwOI3xzTHyGEsBxVqOs) | [NUMBER$](https://open.spotify.com/album/0j7dchf1n40iM2MTXggRgB) | 3:10 |
-| 32 | [Pas possible](https://open.spotify.com/track/0OgwMkXizRh9pM3lrqEhO0) | [Neybii S](https://open.spotify.com/artist/3IKs9yjfVsdOiozADtMVXG), [Kupala](https://open.spotify.com/artist/5lt7PGyb2518Spg2qySerW) | [NEYLIST \#1](https://open.spotify.com/album/7BKS23JQ7RlFmOwnzVNTEf) | 2:14 |
+| 32 | [Pas possible](https://open.spotify.com/track/0OgwMkXizRh9pM3lrqEhO0) | [Neybii S](https://open.spotify.com/artist/3IKs9yjfVsdOiozADtMVXG), [KUPALA](https://open.spotify.com/artist/6XECvN8hneUtMUAYDaVVny) | [NEYLIST \#1](https://open.spotify.com/album/7BKS23JQ7RlFmOwnzVNTEf) | 2:14 |
 | 33 | [Follow Me](https://open.spotify.com/track/7h3oCfORMboakvSqgn3dmt) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Follow Me](https://open.spotify.com/album/3cVnkUmA5GSSWCrYDpKwoZ) | 3:00 |
 | 34 | [Ying & Yang](https://open.spotify.com/track/1XFJYOadFmIwnkq8sqbMBn) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:44 |
 | 35 | [Soucis plein la tête \- Au pays des Merveilles](https://open.spotify.com/track/2MrVryMTjPtTwRgDsqs6Dh) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Soucis plein la tête \(Au pays des Merveilles\)](https://open.spotify.com/album/18G2r1S1KsFWnT5VytLVke) | 2:48 |

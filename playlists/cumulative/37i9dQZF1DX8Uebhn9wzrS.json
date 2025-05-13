@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "After You",
+        "url": "https://open.spotify.com/album/01oZrzf8n3zyLOgiAcy1nN"
+      },
+      "artists": [
+        {
+          "name": "A Space for Rent",
+          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/14nOPpLDbaOGi4A4RzKEZ7"
+    },
+    {
+      "album": {
         "name": "Afterhours",
         "url": "https://open.spotify.com/album/5agRfm2Mh8Sgt1TQKgO54z"
       },
@@ -19586,7 +19604,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 120750,
       "name": "knox",
       "url": "https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL"
@@ -27425,6 +27443,24 @@
     },
     {
       "album": {
+        "name": "Opportunities",
+        "url": "https://open.spotify.com/album/1f8V9aKTFhKyeomRpxoyuc"
+      },
+      "artists": [
+        {
+          "name": "Shayla Sereno",
+          "url": "https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118536,
+      "name": "Opportunities",
+      "url": "https://open.spotify.com/track/6wRCnTbFzIVyQaKT0r8cG9"
+    },
+    {
+      "album": {
         "name": "Opulence",
         "url": "https://open.spotify.com/album/6aDX3sTyPUTeECzsKDbgt3"
       },
@@ -29944,7 +29980,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 136731,
       "name": "Proud",
       "url": "https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC"

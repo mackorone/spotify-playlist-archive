@@ -2987,13 +2987,21 @@
     },
     {
       "album": {
-        "name": "Pacifica - EP",
+        "name": "Pacifica EP",
         "url": "https://open.spotify.com/album/5709RpNkA5IjA3E9H3sQzu"
       },
       "artists": [
         {
           "name": "Spor",
           "url": "https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Reija",
+          "url": "https://open.spotify.com/artist/6soEpXm4wPsoerFenIGhAE"
         }
       ],
       "date_added": "2016-10-04",

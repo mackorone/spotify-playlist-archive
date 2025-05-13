@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: MOCCA \(Indonesia\)
 
-1,913 songs - 4 day 19 hr 45 min
+1,915 songs - 4 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Ah Ha Ha](https://open.spotify.com/track/7kqu9yQrBp0j6RIsl5pKyM) | [eundohee](https://open.spotify.com/artist/46G6rspSPLRNwppVzk7Fzd) | [Kookaburra](https://open.spotify.com/album/7DMibkAWlLw9jrJ6WFVHsz) | 2:28 | 2023-05-18 | 2023-05-26 |
 | [Air Guitar](https://open.spotify.com/track/2cTcCo0OwGfvIEAAW6y8NK) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs) | 3:03 | 2022-10-06 | 2022-10-30 |
 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-10-28 | 2022-12-16 |
-| [Air Mata Buaya](https://open.spotify.com/track/2Spcvj6Oy86jawtRa0joNX) | [Spooky Wet Dreams](https://open.spotify.com/artist/3tzJ1c1gcg2QIpyqV27y5b) | [Air Mata Buaya](https://open.spotify.com/album/07iP7djTpibqQVKMjTQwa1) | 4:05 | 2025-01-10 |  |
+| [Air Mata Buaya](https://open.spotify.com/track/2Spcvj6Oy86jawtRa0joNX) | [Spooky Wet Dreams](https://open.spotify.com/artist/3tzJ1c1gcg2QIpyqV27y5b) | [Air Mata Buaya](https://open.spotify.com/album/07iP7djTpibqQVKMjTQwa1) | 4:05 | 2025-01-10 | 2025-05-13 |
 | [Akala Ko](https://open.spotify.com/track/2OWyYWZ2Z03bXqaGcOHJ7T) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Akala Ko](https://open.spotify.com/album/2lukVfOU2cJCOVmKt6bumz) | 3:43 | 2025-05-01 |  |
 | [Aking Pagtingin](https://open.spotify.com/track/2UMGTqA4EQBhtWyjVmksGS) | [DaivJstn](https://open.spotify.com/artist/5j1gxsK1zOS8kQNzKTH7as) | [Aking Pagtingin](https://open.spotify.com/album/3oCAdfia7MZyidgLBq5nZi) | 3:03 | 2022-05-06 | 2022-07-01 |
 | [Alexandra](https://open.spotify.com/track/1A0SVbPYh76qzwtnlAkgH5) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8) | 4:48 | 2023-07-20 | 2023-08-18 |
@@ -204,6 +204,7 @@
 | [blossom](https://open.spotify.com/track/4AFXUOOwkZLRHyjmGRucoC) | [May Chi](https://open.spotify.com/artist/5wCRy3ZyknbKCFXhfzqqcH) | [blossom](https://open.spotify.com/album/1UUk9ufndThIh3SI05tb1o) | 1:56 | 2024-06-06 | 2024-06-14 |
 | [BLOW](https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [BLOW](https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC) | 3:33 | 2023-09-21 | 2023-10-20 |
 | [Blue](https://open.spotify.com/track/1p98nMaX0RhzvZtGVKEITv) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Blue](https://open.spotify.com/album/1d6GzjBWh3vRP4P9iqRqvw) | 3:49 | 2022-08-04 | 2022-09-23 |
+| [Blue](https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Blue](https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y) | 3:40 | 2025-05-10 |  |
 | [Blue](https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [Satyr's Satire](https://open.spotify.com/album/4wOvGi8aHdcRcjLJ9HLZY2) | 3:57 | 2022-07-28 | 2022-08-19 |
 | [Blue](https://open.spotify.com/track/4r2cFThW9TF6qn837C8WrA) | [shed](https://open.spotify.com/artist/3NrtcbIz7aWDbsqvlb7mPF) | [Blue](https://open.spotify.com/album/0v9PFZLNH73XBn3Bj6xUhY) | 4:06 | 2024-09-19 | 2024-10-04 |
 | [blue](https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn) | 3:34 | 2024-10-22 | 2025-02-20 |
@@ -405,6 +406,7 @@
 | [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 | 2023-04-20 | 2024-02-02 |
 | [Different Shade of Blue](https://open.spotify.com/track/4TfTHd6vzdJwETRmfKK7pB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2qFwbnJz52vHxJUQCcJdAv) | 2:50 | 2022-03-24 | 2022-06-03 |
 | [Different Socks](https://open.spotify.com/track/7GbD3tRjKaqc2yvkPe23ex) | [Sourmilk](https://open.spotify.com/artist/5KgwG5xqnpr6eerD8F5iKq) | [Different Socks](https://open.spotify.com/album/6RVTdal84K19D7ERNToJTh) | 3:39 | 2023-03-31 | 2023-04-21 |
+| [Dim The Lights](https://open.spotify.com/track/0uHBntA9jiBTKkYwnRpKQQ) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Dim The Lights](https://open.spotify.com/album/2AXhk6GgGxQS1WNjm5Sbnw) | 4:22 | 2025-05-10 |  |
 | [Dimensio](https://open.spotify.com/track/44aFC9Q6JUO8txxJeunsz3) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Dimensio](https://open.spotify.com/album/4xgJN8UO0lrJkUjfgoShBg) | 3:22 | 2022-10-28 | 2023-02-03 |
 | [DINOSAUR](https://open.spotify.com/track/00N1iwLqSbnDPEtgQkEbKt) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [DINOSAUR](https://open.spotify.com/album/5jsQBUbpsOZ0gYJZWthE8g) | 2:50 | 2025-03-13 | 2025-03-28 |
 | [DISEASE](https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [DISEASE](https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp) | 4:23 | 2024-09-19 | 2025-04-28 |
@@ -1117,7 +1119,7 @@
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-05-30 | 2024-08-02 |
 | [One Day](https://open.spotify.com/track/3QtOxdT6TkCOtgW7LWN3ES) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [One Day](https://open.spotify.com/album/5USrjEUj41FZx9GVXzDMjY) | 2:21 | 2023-06-22 | 2023-09-01 |
 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 | 2023-04-27 | 2023-06-16 |
-| [One More Time](https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Zer Nguyễn](https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz) | [One More Time](https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP) | 3:39 | 2025-03-06 |  |
+| [One More Time](https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Zer Nguyễn](https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz) | [One More Time](https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP) | 3:39 | 2025-03-06 | 2025-05-13 |
 | [One Summer Day \(feat\. mei ehara\)](https://open.spotify.com/track/75NDt6YwStctgaU5yotXAx) | [CHS](https://open.spotify.com/artist/3cCaTUacr5zO6U6NK4zafd), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [SWELTERING NIGHT](https://open.spotify.com/album/1qGbg0sy8jpO9FndhNZiGK) | 6:05 | 2024-08-16 | 2024-08-30 |
 | [One Sweet Day in Paris](https://open.spotify.com/track/5Zh8a4hCjwKXnezSyRE04J) | [J.Fla](https://open.spotify.com/artist/2GbvMs4GBhcjd9d4N9sGUV) | [One Sweet Day in Paris](https://open.spotify.com/album/5SFdsGQmR5Z1zojd6EqBcY) | 3:11 | 2025-04-10 | 2025-04-18 |
 | [One True Thing](https://open.spotify.com/track/48vhhTWdLzR7CPdokfg17J) | [Suar Nasution](https://open.spotify.com/artist/3H1MQb9p1vkqnFk8DIuZWh), [Francesca Vincentie](https://open.spotify.com/artist/19qlFmNgxpcegr4a066xPJ) | [One True Thing](https://open.spotify.com/album/2BP7DTTHDQNbvo4tUUFo0E) | 4:50 | 2023-11-12 | 2023-11-24 |

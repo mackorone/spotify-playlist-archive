@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 
 > Soft music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,343 likes - 273 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,346 likes - 273 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 | 38 | [The Working Maid](https://open.spotify.com/track/0CI7cneIkhr9E3qHMAMwS0) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [The Working Maid](https://open.spotify.com/album/2vETz6Dg6fvK3x5fs0uBUR) | 1:41 |
 | 39 | [Glimmering Goodnight](https://open.spotify.com/track/0KrU7hhDbR674VqELEOOUN) | [Patrice Bijon](https://open.spotify.com/artist/3hmpAsI5NAjUWg42KjSXJS) | [Glimmering Goodnight](https://open.spotify.com/album/4WhOFPIboalk9DMOaXjEF8) | 2:02 |
 | 40 | [Under The Stars](https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Under The Stars](https://open.spotify.com/album/0fVdJEnEH3YXxuhUW44FMH) | 2:06 |
-| 41 | [Step by Step](https://open.spotify.com/track/2BABHnDsI8cW3kiM51oYn0) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Step by Step](https://open.spotify.com/album/0QNNCLkIk9YVDKp3jYXmCJ) | 1:40 |
+| 41 | [Step by Step](https://open.spotify.com/track/2BABHnDsI8cW3kiM51oYn0) | [Priam Roy](https://open.spotify.com/artist/0E5cC8pTIy6UO0S4FKwDh5) | [Step by Step](https://open.spotify.com/album/0QNNCLkIk9YVDKp3jYXmCJ) | 1:40 |
 | 42 | [Safe in My Arms](https://open.spotify.com/track/0be6PqCV1SwmrLtVo3VFKQ) | [Chester Goodwin](https://open.spotify.com/artist/1sUlQW5elWkCF2z5jRmn9U) | [Safe in My Arms](https://open.spotify.com/album/4KAkkxGfVTctFjoEM77k2J) | 1:57 |
 | 43 | [Lights Down](https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Lights Down](https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl) | 1:54 |
 | 44 | [My Favorite Place](https://open.spotify.com/track/3MIqpFBBX1hrj9XA426QbG) | [Finn Montgomery](https://open.spotify.com/artist/7eRI0gvdQnmHbga9AflrwP) | [My Favorite Place](https://open.spotify.com/album/7ujwzu6bUK0bCzwHJXswLo) | 1:54 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 | 105 | [Karen The Kangaroo](https://open.spotify.com/track/4uvQn1mLKqkGlrVNmd4Sd8) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [Karen The Kangaroo](https://open.spotify.com/album/29DLEV261Y1nETEOwtiuHb) | 1:21 |
 | 106 | [Blissful Reverie](https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6) | [Alex Dawa](https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV) | [Blissful Reverie](https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H) | 2:41 |
 | 107 | [Precious Dreamer](https://open.spotify.com/track/2SKo6awCXFRPIZD9cdahJr) | [Iris Avory](https://open.spotify.com/artist/20V4zCnXKfYPn2rzNQaRMF) | [Precious Dreamer](https://open.spotify.com/album/0hc26eDSgvRlEAOYmSEzma) | 2:02 |
-| 108 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 |
+| 108 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Priam Roy](https://open.spotify.com/artist/0E5cC8pTIy6UO0S4FKwDh5) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 |
 | 109 | [Head, shoulder, knees and toes](https://open.spotify.com/track/3lz8ku7qwVsnXQutnJr4FQ) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Head, shoulder, knees and toes](https://open.spotify.com/album/6MAsQ3r5fq0rAHjuU6hjMB) | 1:05 |
 | 110 | [Birds Slumbering](https://open.spotify.com/track/3TWNNEYJpKj1cANItHDCKg) | [Iris Nelson](https://open.spotify.com/artist/1Yw2Yu3eo4rr35qqIYKJjU) | [Birds Slumbering](https://open.spotify.com/album/6hJYWMBv9u32xDOsyeTspZ) | 2:37 |
 | 111 | [Nightingales Are Singing](https://open.spotify.com/track/04ZnXL4VAjiDVQLNAS8eUq) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Nightingales Are Singing](https://open.spotify.com/album/6VYSCZo2Q0wOObCsDDmRmc) | 1:31 |
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 | 129 | [Go Tell Aunt Rhody](https://open.spotify.com/track/04E5K4tsp0vtNJUnqVowcA) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Go Tell Aunt Rhody](https://open.spotify.com/album/3dKIK8JNgkAXVSTAxCcyLS) | 1:47 |
 | 130 | [Rat In The Hat](https://open.spotify.com/track/3GZUhpSu3G5zhMRWC4k5ma) | [Stella Maria](https://open.spotify.com/artist/4RdgDdU3tQ2qvzToDFoQ36) | [Rat In The Hat](https://open.spotify.com/album/7p8i5EqvUcTzLKlYZR8QId) | 0:59 |
 | 131 | [My Dream Castle](https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Dream Castle](https://open.spotify.com/album/7tjCZosYj0BoToFKrGxv2h) | 1:44 |
-| 132 | [Mozart's Lullaby](https://open.spotify.com/track/4XHfiySp1vcvnJHx8TDI97) | [Jenn Higgins](https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR) | [Mozart's Lullaby](https://open.spotify.com/album/5h1gmYwV2i7fY5dCaAv1h8) | 2:45 |
+| 132 | [Mozart's Lullaby](https://open.spotify.com/track/4XHfiySp1vcvnJHx8TDI97) | [Jenson Higgins](https://open.spotify.com/artist/3NbWOc3nGwyJLR54J76AbB) | [Mozart's Lullaby](https://open.spotify.com/album/5h1gmYwV2i7fY5dCaAv1h8) | 2:45 |
 | 133 | [Under The Moonlight](https://open.spotify.com/track/58or2ROYGiAu3DVcWcWTJH) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Under The Moonlight](https://open.spotify.com/album/41etAlMIBCquz3dHhKj19f) | 1:51 |
 | 134 | [Meadow](https://open.spotify.com/track/4Jdbwh9Zpxt2NDdtP386ys) | [Selma June](https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91) | [Meadow](https://open.spotify.com/album/261uRNYbDr1XvPJrOdHtVS) | 2:17 |
 | 135 | [The Stars And The Moon](https://open.spotify.com/track/0GEvjBReihzEKvw8kzBuhC) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [The Stars And The Moon](https://open.spotify.com/album/2FEzAa1LontxZoxuHgbCgE) | 1:47 |

@@ -8688,7 +8688,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 129863,
       "name": "laperouse",
       "url": "https://open.spotify.com/track/3F7zcoIHGU5EVpR0ZwNOAE"
@@ -22352,7 +22352,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 130153,
       "name": "\u041a\u041e\u0424\u0415\u0418\u041d",
       "url": "https://open.spotify.com/track/3kja8YNs04Ultm3SnhhZP9"
@@ -26638,7 +26638,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 119575,
       "name": "\u0440\u0430\u0441\u043f\u044f\u0442\u044c",
       "url": "https://open.spotify.com/track/3pUbDaO5cBfRCZHxSCVMh8"
@@ -27778,6 +27778,24 @@
       "duration_ms": 114509,
       "name": "\u0421\u0443\u043f\u0440\u0438\u043c \u0442\u0440\u0443\u0441\u044b",
       "url": "https://open.spotify.com/track/3wd9HiqywIrkV0OOkkmz4g"
+    },
+    {
+      "album": {
+        "name": "\u0441\u0443\u0447\u043a\u0430 \u0441\u043e\u0441\u0451\u0442 \u0434\u043e\u0441\u0442\u0430\u043b\u0430",
+        "url": "https://open.spotify.com/album/2NOpHsXtoITwjK1AYb1GVF"
+      },
+      "artists": [
+        {
+          "name": "lofish",
+          "url": "https://open.spotify.com/artist/2Bdh4VfakVo5g06d9jd5gB"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143522,
+      "name": "\u0441\u0443\u0447\u043a\u0430 \u0441\u043e\u0441\u0451\u0442 \u0434\u043e\u0441\u0442\u0430\u043b\u0430",
+      "url": "https://open.spotify.com/track/71YI810RhXxgQbHNlJanYi"
     },
     {
       "album": {

@@ -6,503 +6,495 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBg3wAAAAADgMd22flXS0TyDIQ6PfiR8",
+  "snapshot_id": "aCFyQAAAAAD2JNNHSeB28E09A6HZpVxJ",
   "tracks": [
     {
-      "added_at": "2025-05-05 04:00:00",
+      "added_at": "2025-05-12 04:00:00",
       "album": {
-        "name": "Trauma Club",
-        "url": "https://open.spotify.com/album/4Eurj8WxaGfp3VRPVizmKG"
+        "name": "Blast Tyrant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
       },
       "artists": [
         {
-          "name": "Male Tears",
-          "url": "https://open.spotify.com/artist/4URGzwxaOCq4ASrH5QlNqa"
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
         }
       ],
-      "duration_ms": 268773,
-      "name": "Hit Me",
-      "url": "https://open.spotify.com/track/3h7kHYAyGJfuRYlExGlFMa"
+      "duration_ms": 325026,
+      "name": "The Regulator",
+      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
     },
     {
-      "added_at": "2025-05-05 04:00:00",
+      "added_at": "2025-05-12 04:00:00",
       "album": {
-        "name": "Only Lovers Left Alive (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4zPFzm54WOUGwZUE3X5BVE"
+        "name": "The Rapture (Remastered / Expanded)",
+        "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
       },
       "artists": [
         {
-          "name": "SQ\u00dcRL",
-          "url": "https://open.spotify.com/artist/1UXCB5V3DpKjiTGkVodQYA"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2kXK4q7xTS7Bn3HqXWShoN"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 306480,
+      "name": "You Take My Breath Away - Remastered 2011",
+      "url": "https://open.spotify.com/track/46Ms1kGRWhOZGtQRQydDio"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Sexplosion!",
+        "url": "https://open.spotify.com/album/61snCb8DqsgurKcyieQwTx"
+      },
+      "artists": [
+        {
+          "name": "My Life With The Thrill Kill Kult",
+          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "Sex on Wheelz",
+      "url": "https://open.spotify.com/track/1YOSsM5XUlEmZcrUBTF7E4"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Carved In Sand",
+        "url": "https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC"
+      },
+      "artists": [
+        {
+          "name": "The Mission",
+          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
+        }
+      ],
+      "duration_ms": 340800,
+      "name": "Butterfly On A Wheel",
+      "url": "https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Replicas (1998 Remaster)",
+        "url": "https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz"
+      },
+      "artists": [
+        {
+          "name": "Tubeway Army",
+          "url": "https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "Me, I Disconnect from You - 1998 Remaster",
+      "url": "https://open.spotify.com/track/4m135IefwsN8Y1uZqd0JR6"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Elizium",
+        "url": "https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB"
+      },
+      "artists": [
+        {
+          "name": "Fields Of The Nephilim",
+          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
+        }
+      ],
+      "duration_ms": 457040,
+      "name": "And There Will Your Heart Be Also",
+      "url": "https://open.spotify.com/track/00Lx2f8NRiFKMGWa0GBGEt"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Marauder",
+        "url": "https://open.spotify.com/album/3h5FWXoJEw2MFmUOMfVke2"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "The Rover",
+      "url": "https://open.spotify.com/track/2VabHofHU2PBXX6fakAgaZ"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Kill Bill Vol. 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm McLaren",
+          "url": "https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ"
+        }
+      ],
+      "duration_ms": 289986,
+      "name": "About Her",
+      "url": "https://open.spotify.com/track/0WN1ICX0u0NenOccX8gRp3"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Mondo cane",
+        "url": "https://open.spotify.com/album/3nwFif277CXx1cQN0nOCZy"
+      },
+      "artists": [
+        {
+          "name": "Mike Patton",
+          "url": "https://open.spotify.com/artist/34Ai24gPz5YJ8NbksiNFef"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Che notte!",
+      "url": "https://open.spotify.com/track/2fgtZtKNPdsNg4uYOSciEc"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Sketches for My Sweetheart The Drunk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Nightmares By The Sea",
+      "url": "https://open.spotify.com/track/1QhiuXEmlddxnrlyJSmann"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 349893,
+      "name": "Exhausted",
+      "url": "https://open.spotify.com/track/5EwyzrFLXlcnPenrPQ9DlO"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Tarantism (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0nsQm5jYdw9YVPl7M8cljs"
+      },
+      "artists": [
+        {
+          "name": "Tito & Tarantula",
+          "url": "https://open.spotify.com/artist/3rI1MlEg2izkoKoKGA3898"
+        }
+      ],
+      "duration_ms": 280253,
+      "name": "Angry Cockroaches - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5cKtlOTlN3xzQFiax2TeLi"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Start With A Strong And Persistent Desire",
+        "url": "https://open.spotify.com/album/04Eyv67o9H3lYV3W1DeB6X"
+      },
+      "artists": [
+        {
+          "name": "Vex Red",
+          "url": "https://open.spotify.com/artist/1gYTsMJpOmS7cL8Kjvuu86"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Can't Smile",
+      "url": "https://open.spotify.com/track/3ivsBS2Sko6udZ7GWarDTu"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Battle for the Sun",
+        "url": "https://open.spotify.com/album/4mrb99X7HPLvB96cd6xnUJ"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Ashtray Heart",
+      "url": "https://open.spotify.com/track/3FqGGjtL4tbZYa7IFd6kYN"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Surfers' Pajama Party (US Release)",
+        "url": "https://open.spotify.com/album/5JKuLMmQiGphE92NWiXTxD"
+      },
+      "artists": [
+        {
+          "name": "The Centurians",
+          "url": "https://open.spotify.com/artist/7CkD6EhsfLIn8UMhw9QsPf"
+        }
+      ],
+      "duration_ms": 136546,
+      "name": "Bullwinkle, Pt. II",
+      "url": "https://open.spotify.com/track/5Hn7uZqDarw5VTNX1XluV3"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Collide With The Sky",
+        "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
         {
-          "name": "Madeline Follin",
-          "url": "https://open.spotify.com/artist/112e5Jq3aZIrvBPAr0rHvD"
+          "name": "Lindsey Stamey",
+          "url": "https://open.spotify.com/artist/7lbX2TQTHawmdlhNuXDzHs"
         }
       ],
-      "duration_ms": 220079,
-      "name": "Funnel Of Love",
-      "url": "https://open.spotify.com/track/4ECNz6fw2rbJl9e7hPrU9V"
+      "duration_ms": 278586,
+      "name": "Hold On Till May",
+      "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J"
     },
     {
-      "added_at": "2025-05-05 04:00:00",
+      "added_at": "2025-05-12 04:00:00",
       "album": {
-        "name": "Armed to the Teeth!!",
-        "url": "https://open.spotify.com/album/6qZXb5nuhEXR9miR1VuY1P"
+        "name": "Lilliput",
+        "url": "https://open.spotify.com/album/2ieUoJ7yR1IeKngrPCtHif"
       },
       "artists": [
         {
-          "name": "Curta'n Wall",
-          "url": "https://open.spotify.com/artist/7G03rJcqNOoJHSMU3655Ve"
+          "name": "The Birthday Party",
+          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
         }
       ],
-      "duration_ms": 167999,
-      "name": "Castle Spire",
-      "url": "https://open.spotify.com/track/1QblW791v9gnIVioyy3VwH"
+      "duration_ms": 232040,
+      "name": "Nick The Stripper",
+      "url": "https://open.spotify.com/track/5o0Kn7vuFw0FgpbI0WdD4I"
     },
     {
-      "added_at": "2025-05-05 04:00:00",
+      "added_at": "2025-05-12 04:00:00",
       "album": {
-        "name": "The Loved One",
-        "url": "https://open.spotify.com/album/3VokfqKpUHvCvkyQMf0evs"
+        "name": "Second Heat",
+        "url": "https://open.spotify.com/album/0iJBnJlT1KuZREib28mpfk"
       },
       "artists": [
         {
-          "name": "Strange Boutique",
-          "url": "https://open.spotify.com/artist/6BkDDb5YvbZoCq7Aw5flsh"
+          "name": "Racer X",
+          "url": "https://open.spotify.com/artist/6C3ixObG7tE7jeO69rehvs"
         }
       ],
-      "duration_ms": 335481,
-      "name": "We Treat the Blindness",
-      "url": "https://open.spotify.com/track/7rC978gDHgbBbFqMweFSnV"
+      "duration_ms": 160493,
+      "name": "Scarified",
+      "url": "https://open.spotify.com/track/6vNdmNxQHacCmZy0k2nuPq"
     },
     {
-      "added_at": "2025-05-05 04:00:00",
+      "added_at": "2025-05-12 04:00:00",
       "album": {
-        "name": "The Phantom Of The Opera (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt"
+        "name": "A+",
+        "url": "https://open.spotify.com/album/6wVaAeh7bUps7nB7k5mxjZ"
       },
       "artists": [
         {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+          "name": "Candy66",
+          "url": "https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ"
+        }
+      ],
+      "duration_ms": 198401,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/3NfBEtFyLahZzaXas7JNhB"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Bloodletting",
+        "url": "https://open.spotify.com/album/0Qny7PmxUlBMrw4xdeiHaU"
+      },
+      "artists": [
+        {
+          "name": "Concrete Blonde",
+          "url": "https://open.spotify.com/artist/2ICSjfBpos9PxMhGhX25N2"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Sky Is A Poisonous Garden",
+      "url": "https://open.spotify.com/track/5aHhrA1OgHff3BTBSArmub"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Voodoo Church",
+        "url": "https://open.spotify.com/album/5Xe0Z9YokphASs9LOKm7pm"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Church",
+          "url": "https://open.spotify.com/artist/2V6J8urZMgLUtMTu7WU2MD"
+        }
+      ],
+      "duration_ms": 305062,
+      "name": "Rest in Peace",
+      "url": "https://open.spotify.com/track/2sruWuXp1Xmq4cOu4pVY2B"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "The Annie Lennox Collection",
+        "url": "https://open.spotify.com/album/6VXTaHgpeG2fZDwyHsn6eJ"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 259278,
+      "name": "Love Song for a Vampire",
+      "url": "https://open.spotify.com/track/3ik79qXV15D3ae33uveasw"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "This Is Forever",
+        "url": "https://open.spotify.com/album/4kcHXYF6JTrME1Ylg9saCT"
+      },
+      "artists": [
+        {
+          "name": "She Wants Revenge",
+          "url": "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "True Romance",
+      "url": "https://open.spotify.com/track/7wRgUPwNIVQ7JdSDq3UthM"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Gentlemen Take Polaroids",
+        "url": "https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW"
+      },
+      "artists": [
+        {
+          "name": "Japan",
+          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+        }
+      ],
+      "duration_ms": 429106,
+      "name": "Gentlemen Take Polaroids - Remastered 2003",
+      "url": "https://open.spotify.com/track/5t2HOfJViZZxp0B7u6lXvV"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+      },
+      "artists": [
+        {
+          "name": "Tim Curry",
+          "url": "https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B"
+        }
+      ],
+      "duration_ms": 204370,
+      "name": "Sweet Transvestite",
+      "url": "https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "How To Destroy Angels",
+        "url": "https://open.spotify.com/album/3FDtcwMuJ6JrBNzbVBSIaK"
+      },
+      "artists": [
+        {
+          "name": "How To Destroy Angels",
+          "url": "https://open.spotify.com/artist/1yDbenrXWhaQij3SCpsXe7"
+        }
+      ],
+      "duration_ms": 214509,
+      "name": "The Space In Between",
+      "url": "https://open.spotify.com/track/1YzbEChYqIWSWp1fnZy9Ez"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Rammstein - Edit",
+      "url": "https://open.spotify.com/track/7Kl8hfSH4uG9nEFTkA5CNG"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Fetisch",
+        "url": "https://open.spotify.com/album/0vzSjacnndlKlUKLFIp5kx"
+      },
+      "artists": [
+        {
+          "name": "Xmal Deutschland",
+          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Qual",
+      "url": "https://open.spotify.com/track/3jVWJwcN7O6JFry4S5rZmg"
+    },
+    {
+      "added_at": "2025-05-12 04:00:00",
+      "album": {
+        "name": "Excess",
+        "url": "https://open.spotify.com/album/1ipeiKck0gVRruIMVDUJIz"
+      },
+      "artists": [
+        {
+          "name": "Perturbator",
+          "url": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
         },
         {
-          "name": "Gerard Butler",
-          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
-        },
-        {
-          "name": "Emmy Rossum",
-          "url": "https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc"
+          "name": "She Past Away",
+          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
         }
       ],
-      "duration_ms": 216133,
-      "name": "The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture",
-      "url": "https://open.spotify.com/track/4EaBMhUIOfnFEbIgqCfKbi"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Lava (Live)",
-        "url": "https://open.spotify.com/album/7rlmhAgiEUb5mw8TNAJOSj"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/5EngBjFEKDwEbdtKNnggLj"
-        }
-      ],
-      "duration_ms": 297186,
-      "name": "Rock Lobster",
-      "url": "https://open.spotify.com/track/67dh2DEmlCuTEfmC3aqDQX"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Spawn of Dysfunction",
-        "url": "https://open.spotify.com/album/2l7iY83CZSKGPvZo8nBOhj"
-      },
-      "artists": [
-        {
-          "name": "Die So Fluid",
-          "url": "https://open.spotify.com/artist/0OE30pXmzCwTxhoAFtCs8u"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "Suck Me Dry",
-      "url": "https://open.spotify.com/track/7e8JEloxzaqJ1sjnEvhUQr"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Fur and Gold",
-        "url": "https://open.spotify.com/album/7Dd4lKHQVLQmxStBuFBUgJ"
-      },
-      "artists": [
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
-        }
-      ],
-      "duration_ms": 178680,
-      "name": "What's a Girl to Do?",
-      "url": "https://open.spotify.com/track/5LIRCoKAH9h2N5ViqjQDIJ"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "The Other Side of the Mirror",
-        "url": "https://open.spotify.com/album/520iW3fXcWW5mbQToP0hs0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 274520,
-      "name": "Rooms on Fire",
-      "url": "https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "The Runner (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/00ascaJUZ2aaXQiivvSxdv"
-      },
-      "artists": [
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "Give Me a Reason",
-      "url": "https://open.spotify.com/track/4s2JGLY3tPJiVM7GCq24Dt"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "De Mysteriis Dom Sathanas",
-        "url": "https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE"
-      },
-      "artists": [
-        {
-          "name": "Mayhem",
-          "url": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
-        }
-      ],
-      "duration_ms": 380853,
-      "name": "Pagan Fears",
-      "url": "https://open.spotify.com/track/1r20gcDzos0cyDgPSDU2bB"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/6QAKD1wqCrmkBYw1AsZfEy"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bungle",
-          "url": "https://open.spotify.com/artist/2zq0uqN9Wq12tqrQQt1ozw"
-        }
-      ],
-      "duration_ms": 234200,
-      "name": "The Air-Conditioned Nightmare",
-      "url": "https://open.spotify.com/track/2tWV930DwLNFh00CSW8vp3"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Touch Myself EP",
-        "url": "https://open.spotify.com/album/5CwHP5MqI260y5v0xK1gpw"
-      },
-      "artists": [
-        {
-          "name": "Genitorturers",
-          "url": "https://open.spotify.com/artist/3hiYKNf8gJkrqjdRPVLnTC"
-        }
-      ],
-      "duration_ms": 217896,
-      "name": "Stitch In Time",
-      "url": "https://open.spotify.com/track/3kZaGE9Frg5wO7HmEnZ5Lw"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/5HLHbDOr6UMx8qAF1AsKb9"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "She's in Parties - Single Edit",
-      "url": "https://open.spotify.com/track/0XEFgAeEITtuQsmvzldNYH"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Swimming Pool",
-        "url": "https://open.spotify.com/album/6zcpj72ynj7qSaSNinEp4C"
-      },
-      "artists": [
-        {
-          "name": "Marie Madeleine",
-          "url": "https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC"
-        }
-      ],
-      "duration_ms": 325852,
-      "name": "Swimming Pool",
-      "url": "https://open.spotify.com/track/0S6wuQshtqm02qc2dSztPh"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "So Far so Noir",
-        "url": "https://open.spotify.com/album/0cT9PtRroYikwLmMDiuQkT"
-      },
-      "artists": [
-        {
-          "name": "Subvision",
-          "url": "https://open.spotify.com/artist/32p4BTeuqA9NLUBmaUW31f"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "Lady Morgue",
-      "url": "https://open.spotify.com/track/5Ol4qfFOddgc4eRdwv3CYf"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "In the Rain",
-        "url": "https://open.spotify.com/album/1WojsJSG1RwVI45PJsJISp"
-      },
-      "artists": [
-        {
-          "name": "Sol Invictus",
-          "url": "https://open.spotify.com/artist/0JCc6x48WkGlDve4f5ZBZj"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "An English Garden - In the Rain Version",
-      "url": "https://open.spotify.com/track/61dkRmERlBzzE70vpo5SdJ"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Exercises in Futility",
-        "url": "https://open.spotify.com/album/453zAaME9iOeCQ5B7SfkDM"
-      },
-      "artists": [
-        {
-          "name": "Mg\u0142a",
-          "url": "https://open.spotify.com/artist/2hbkBlGBgvJkC3tpUn9w4C"
-        }
-      ],
-      "duration_ms": 495626,
-      "name": "Exercises in Futility V",
-      "url": "https://open.spotify.com/track/6rMRUcrL63WNnhMPYew7pA"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Return of the Empire",
-        "url": "https://open.spotify.com/album/6ZSMKZ59aEoP3x93CwLH9X"
-      },
-      "artists": [
-        {
-          "name": "Horror Vacui",
-          "url": "https://open.spotify.com/artist/0YVP1IhnAjOSQYJqJBcOO4"
-        }
-      ],
-      "duration_ms": 252575,
-      "name": "5000",
-      "url": "https://open.spotify.com/track/7qYDTAhynCCeGyfXXL4H0K"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Madera Prohibida",
-        "url": "https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb"
-      },
-      "artists": [
-        {
-          "name": "Los Antiguos",
-          "url": "https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91"
-        }
-      ],
-      "duration_ms": 311222,
-      "name": "La Culpa Al Viento",
-      "url": "https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Thou Shalt Not Fall",
-        "url": "https://open.spotify.com/album/6QoZEn5nlHAiyJdZ3taWOH"
-      },
-      "artists": [
-        {
-          "name": "G Tom Mac",
-          "url": "https://open.spotify.com/artist/0LmQJh7Klaxw546zRVaAMC"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Cry Little Sister - Original Lost Boys Film Version",
-      "url": "https://open.spotify.com/track/62PEgf5TnB9ZoEbnBMdLJI"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "Cu\u00e9ntame Tu Vida",
-      "url": "https://open.spotify.com/track/6P9iLOJ9FwBe6S9xrdp5jK"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Massive Luxury Overdose (Swedish Version)",
-        "url": "https://open.spotify.com/album/1wNga1473i3Ido5WXDk2LB"
-      },
-      "artists": [
-        {
-          "name": "Army Of Lovers",
-          "url": "https://open.spotify.com/artist/3JXnjuv4hBqQKOVzJg74Lt"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Crucified - Radio Edit",
-      "url": "https://open.spotify.com/track/09OKEiKltU6AvvrEtE92OY"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Mirror Moves",
-        "url": "https://open.spotify.com/album/6LwOwReGwTWu0O2ubnFRzq"
-      },
-      "artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4Yxf2dtvl14huY5M12XWf2"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Death Cult",
-        "url": "https://open.spotify.com/album/7qyO8Ty9g7rFDNkZTnuouZ"
-      },
-      "artists": [
-        {
-          "name": "Calabrese",
-          "url": "https://open.spotify.com/artist/6mPxn8ImLflIQ8bYihQMFp"
-        }
-      ],
-      "duration_ms": 181954,
-      "name": "Be My Death Cult",
-      "url": "https://open.spotify.com/track/2xyeWOhbVAHCvFlpsmE0KD"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Lesbian Vampyres From Outer Space",
-        "url": "https://open.spotify.com/album/4LzNXDB14FzfvQ0DzxX0VU"
-      },
-      "artists": [
-        {
-          "name": "Scary Bitches",
-          "url": "https://open.spotify.com/artist/5jKvhXUMiw1OXFEtLNlk1w"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "Werewolfe",
-      "url": "https://open.spotify.com/track/435ykrpRfQYwGhpuJyYTml"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Blue Lines (2012 Mix/Master)",
-        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Shara Nelson",
-          "url": "https://open.spotify.com/artist/54bhVqHnHD8wDPBvk2Danm"
-        }
-      ],
-      "duration_ms": 319000,
-      "name": "Safe From Harm - 2012 Mix/Master",
-      "url": "https://open.spotify.com/track/1vNNfTgHsrpOXeiaXQBlH7"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Sour Switchblade",
-        "url": "https://open.spotify.com/album/6AmDiiRIuWbd4y9LqMcvDY"
-      },
-      "artists": [
-        {
-          "name": "Elita",
-          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
-        }
-      ],
-      "duration_ms": 148955,
-      "name": "Sour Switchblade",
-      "url": "https://open.spotify.com/track/5efTda0aHZNWNB5srlwFmK"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "East Side Militia",
-        "url": "https://open.spotify.com/album/49y9R4XzNY8vjuCzRlb8j5"
-      },
-      "artists": [
-        {
-          "name": "Chemlab",
-          "url": "https://open.spotify.com/artist/6fJTyAeSgv4A1LR9LamLnY"
-        }
-      ],
-      "duration_ms": 162760,
-      "name": "Electric Molecular",
-      "url": "https://open.spotify.com/track/7en9TiFps1puHb0M78trlv"
-    },
-    {
-      "added_at": "2025-05-05 04:00:00",
-      "album": {
-        "name": "Anthology XV",
-        "url": "https://open.spotify.com/album/0mQk86eyVYXHeMhXd9ddy1"
-      },
-      "artists": [
-        {
-          "name": "The Awakening",
-          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Vampyre Girl (2014)",
-      "url": "https://open.spotify.com/track/62qDZVPCa0w6cIbzPN0Izl"
+      "duration_ms": 277375,
+      "name": "Excess",
+      "url": "https://open.spotify.com/track/43krLObbHYPHu1kE8Vlp3D"
     }
   ],
   "unique_name": "Discover Weekly (@pipemanuel10)",

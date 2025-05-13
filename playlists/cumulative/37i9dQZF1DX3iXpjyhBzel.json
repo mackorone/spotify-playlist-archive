@@ -4397,6 +4397,28 @@
     },
     {
       "album": {
+        "name": "Fogo Que Consome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj"
+      },
+      "artists": [
+        {
+          "name": "Carol Braga",
+          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
+        },
+        {
+          "name": "BRASAS",
+          "url": "https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348181,
+      "name": "Paz Sem Fim (Nada Quebrado) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2mXl01XyGFBLmZEv4M1dzf"
+    },
+    {
+      "album": {
         "name": "Peregrino (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
       },
@@ -6334,7 +6356,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 797796,
       "name": "Yahweh - Ao Vivo",
       "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"

@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 159545,
       "name": "Drawings",
       "url": "https://open.spotify.com/track/63pdG5eLOvmCS1kkw3c5bO"
@@ -6125,6 +6125,24 @@
     },
     {
       "album": {
+        "name": "Into Night",
+        "url": "https://open.spotify.com/album/0uuQ6syDHZwccxXRZa7IeO"
+      },
+      "artists": [
+        {
+          "name": "William Thomson",
+          "url": "https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185515,
+      "name": "Into Night",
+      "url": "https://open.spotify.com/track/0Ip6IEDHxoBH3M5MGwlDQE"
+    },
+    {
+      "album": {
         "name": "introspection",
         "url": "https://open.spotify.com/album/3ooMRSRwCMeD9o60O9xW5A"
       },
@@ -8990,7 +9008,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 131862,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/01a2EaCPIDrJx2VCp8kFqs"
@@ -9008,7 +9026,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 131862,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/5HctISe1MUfPVZcRKwODGQ"

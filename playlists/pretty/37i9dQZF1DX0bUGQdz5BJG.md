@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: ERNEST
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,056 likes - 205 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,092 likes - 205 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

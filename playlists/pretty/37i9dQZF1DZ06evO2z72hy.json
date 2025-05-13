@@ -1,12 +1,12 @@
 {
   "description": "This is Gondwana. The essential tracks, all in one playlist.",
-  "num_followers": 87186,
+  "num_followers": 87196,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB6XAAAAAABDjW2yaZ2nfXblj650LRvF",
+  "snapshot_id": "aB/ogAAAAACooeocGdZiwMm+fvO2NBr2",
   "tracks": [
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 194749,
-      "name": "Susurro",
-      "url": "https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR"
+      "duration_ms": 218439,
+      "name": "Si No Fuera",
+      "url": "https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 218439,
-      "name": "Si No Fuera",
-      "url": "https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM"
+      "duration_ms": 194749,
+      "name": "Susurro",
+      "url": "https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR"
     },
     {
       "added_at": null,
@@ -863,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
       },
       "artists": [
         {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "E.N Young",
-          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
         }
       ],
-      "duration_ms": 190660,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
+      "duration_ms": 256013,
+      "name": "Regreso",
+      "url": "https://open.spotify.com/track/4O5rHAUKMGT47CiZCN3wd2"
     }
   ],
   "unique_name": "This Is Gondwana",

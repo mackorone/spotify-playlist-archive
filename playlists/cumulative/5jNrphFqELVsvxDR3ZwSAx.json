@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Lightning Bolt",
+        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262893,
+      "name": "Future Days",
+      "url": "https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP"
+    },
+    {
+      "album": {
         "name": "Get Back (Rooftop Performance)",
         "url": "https://open.spotify.com/album/6emgUTDksZyhhWmtjM9FCs"
       },

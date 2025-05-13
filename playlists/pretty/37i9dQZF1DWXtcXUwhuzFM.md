@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Ettalta, Pikku G:ltä & Joalinilta ja Jami Faltinilta & Costilta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,598 likes - 116 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,602 likes - 116 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

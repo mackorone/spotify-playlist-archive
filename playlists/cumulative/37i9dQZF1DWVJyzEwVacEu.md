@@ -2,7 +2,7 @@
 
 ### [Platinum Hits](https://open.spotify.com/playlist/37i9dQZF1DWVJyzEwVacEu)
 
-> Hits, hits, hits van de afgelopen tijd\. Cover: Myles Smith
+> Hits, hits, hits van de afgelopen tijd\. Cover: Roxy Dekker
 
 245 songs - 12 hr 11 min
 

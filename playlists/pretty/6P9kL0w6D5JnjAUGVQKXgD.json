@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47345,
+  "num_followers": 47342,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAH5It8kDvzfiwk/O4NFzXpfEoGZTE0",
+  "snapshot_id": "AAAH5dUbgjevjJHY/CKcMrjAMovjhVIr",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -525,26 +525,6 @@
       "url": "https://open.spotify.com/track/7c2IApOeLTZfrB5dVScRUP"
     },
     {
-      "added_at": "2025-05-09 00:41:05",
-      "album": {
-        "name": "Comes Down",
-        "url": "https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP"
-      },
-      "artists": [
-        {
-          "name": "Avondzy",
-          "url": "https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u"
-        },
-        {
-          "name": "BAF",
-          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
-        }
-      ],
-      "duration_ms": 141951,
-      "name": "Comes Down",
-      "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
-    },
-    {
       "added_at": "2023-02-10 13:13:03",
       "album": {
         "name": "Pantheon",
@@ -593,22 +573,6 @@
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
     },
     {
-      "added_at": "2025-02-21 00:41:05",
-      "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/4jQ1JiwWfA3LPQoTj4C6LG"
-      },
-      "artists": [
-        {
-          "name": "BAF",
-          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/6e5u5ZJSloCPSqEbTaJU9G"
-    },
-    {
       "added_at": "2023-04-26 09:24:04",
       "album": {
         "name": "Diamonds",
@@ -631,6 +595,42 @@
       "duration_ms": 205560,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR"
+    },
+    {
+      "added_at": "2025-02-21 00:41:05",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/4jQ1JiwWfA3LPQoTj4C6LG"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/6e5u5ZJSloCPSqEbTaJU9G"
+    },
+    {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Don't Hide",
+        "url": "https://open.spotify.com/album/1VZCKNtlvWJSejzfZZs9xB"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Willemijn May",
+          "url": "https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV"
+        }
+      ],
+      "duration_ms": 157338,
+      "name": "Don't Hide",
+      "url": "https://open.spotify.com/track/5Ddp5V1M84fKmXbtDhASu0"
     },
     {
       "added_at": "2024-03-22 11:28:03",
@@ -657,26 +657,6 @@
       "url": "https://open.spotify.com/track/2ZOUfWO1AeHk7f9ocyUvmR"
     },
     {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Don't Hide",
-        "url": "https://open.spotify.com/album/1VZCKNtlvWJSejzfZZs9xB"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Willemijn May",
-          "url": "https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV"
-        }
-      ],
-      "duration_ms": 157338,
-      "name": "Don't Hide",
-      "url": "https://open.spotify.com/track/5Ddp5V1M84fKmXbtDhASu0"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Sugar",
@@ -697,26 +677,6 @@
       "url": "https://open.spotify.com/track/24x3hnr7GvtMo3KXOszHmY"
     },
     {
-      "added_at": "2025-02-07 00:43:06",
-      "album": {
-        "name": "Yebo",
-        "url": "https://open.spotify.com/album/2lM4w1InDDi0cwnq6XaBxS"
-      },
-      "artists": [
-        {
-          "name": "Konstantin Maria",
-          "url": "https://open.spotify.com/artist/0BYDX1VH4XzYbzy9uRFbaQ"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Yebo",
-      "url": "https://open.spotify.com/track/4msB74kX6iJEdkOsR8ZwyG"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Nights Like This",
@@ -735,6 +695,26 @@
       "duration_ms": 173339,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/13J1DIbQaGs1Qb91rF8BEH"
+    },
+    {
+      "added_at": "2025-02-07 00:43:06",
+      "album": {
+        "name": "Yebo",
+        "url": "https://open.spotify.com/album/2lM4w1InDDi0cwnq6XaBxS"
+      },
+      "artists": [
+        {
+          "name": "Konstantin Maria",
+          "url": "https://open.spotify.com/artist/0BYDX1VH4XzYbzy9uRFbaQ"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Yebo",
+      "url": "https://open.spotify.com/track/4msB74kX6iJEdkOsR8ZwyG"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -897,7 +877,27 @@
       "url": "https://open.spotify.com/track/6QD2VjrjttjljqUZPf9R89"
     },
     {
-      "added_at": "2025-05-12 00:41:05",
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/22ns2k6WNp5LLcYXwRhBLo"
+      },
+      "artists": [
+        {
+          "name": "MOUNT",
+          "url": "https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz"
+        },
+        {
+          "name": "Nicolas Haelg",
+          "url": "https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"
+    },
+    {
+      "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
         "url": "https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP"
@@ -917,24 +917,24 @@
       "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
     },
     {
-      "added_at": "2023-06-13 09:44:03",
+      "added_at": "2025-05-12 00:41:05",
       "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/22ns2k6WNp5LLcYXwRhBLo"
+        "name": "Comes Down",
+        "url": "https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP"
       },
       "artists": [
         {
-          "name": "MOUNT",
-          "url": "https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz"
+          "name": "Avondzy",
+          "url": "https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u"
         },
         {
-          "name": "Nicolas Haelg",
-          "url": "https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd"
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
         }
       ],
-      "duration_ms": 178536,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"
+      "duration_ms": 141951,
+      "name": "Comes Down",
+      "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
     },
     {
       "added_at": "2023-06-12 09:23:03",

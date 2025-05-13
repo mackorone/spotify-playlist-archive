@@ -21239,6 +21239,24 @@
     },
     {
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0zRBtTDl0r0FArvXfCgJ9b"
+      },
+      "artists": [
+        {
+          "name": "Natty Blanco",
+          "url": "https://open.spotify.com/artist/2WSIifFaZv3jVuizihSi5n"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238833,
+      "name": "Gracias Mama",
+      "url": "https://open.spotify.com/track/3xVPxvXaiaSuyUsEDOBk9O"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS"
       },
@@ -29282,7 +29300,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 237837,
       "name": "Luma",
       "url": "https://open.spotify.com/track/6fUsEIAyQj6SGdzR3MPPja"
@@ -29348,7 +29366,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 124109,
       "name": "LUNA BALA - Slowed",
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
@@ -33222,7 +33240,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 84901,
       "name": "MONTAGEM TOMADA - Slowed",
       "url": "https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR"
@@ -40446,7 +40464,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 188064,
       "name": "Por Esos Ojos",
       "url": "https://open.spotify.com/track/77pDO4WZPIdkwFve0iHWnb"
@@ -53982,7 +54000,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"

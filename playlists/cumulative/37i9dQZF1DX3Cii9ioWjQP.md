@@ -2,7 +2,7 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: 유발이 \(U.BAR.E\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: Crush\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
 258 songs - 18 hr 12 min
 

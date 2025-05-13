@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,060 songs - 1 day 22 hr 54 min
+1,062 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -799,6 +799,7 @@
 | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/album/6AXjoYZ10gYz5Dax6KwR03) | 2:41 | 2024-05-24 |  |
 | [Safe And Sound](https://open.spotify.com/track/7F9l6v71HdjjVB4rxmNCTg) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Safe And Sound](https://open.spotify.com/album/5BZaTxUNDa0nFHs9pCqQ0V) | 2:39 | 2025-04-22 |  |
 | [Safe House](https://open.spotify.com/track/09fYMdR8lPHQKgyQ2URs7a) | [LOWKEY](https://open.spotify.com/artist/5WUfZ3H9AU2P8CqEsXACKO), [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Safe House](https://open.spotify.com/album/5TGuSctxnazbs6uTJEVPvG) | 2:32 | 2024-11-01 | 2024-12-07 |
+| [Safe House](https://open.spotify.com/track/4olGvpgzOoPhGCfWYdGFx5) | [LOWKEY](https://open.spotify.com/artist/5WUfZ3H9AU2P8CqEsXACKO), [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Safe House](https://open.spotify.com/album/5vmOPSkN9VZIZ2oRKhXDij) | 2:32 | 2025-05-12 |  |
 | [Same Room](https://open.spotify.com/track/4qzcWCDOoSdbD1Kfvy2DSs) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Same Room](https://open.spotify.com/album/3VtREBWUIiBmonKQTJWXnD) | 2:27 | 2025-01-17 |  |
 | [Sandals](https://open.spotify.com/track/47jqBB5W0v7UwskQDwBQZk) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Fijy](https://open.spotify.com/artist/5I3fAtc8jA5rWZdVoxeVfV) | [Sandals](https://open.spotify.com/album/7jOcQJip9Htowh5Jb0oGmy) | 2:41 | 2025-05-09 |  |
 | [Satellite](https://open.spotify.com/track/7Bys1BvPuX7jmhBEwiTgzE) | [Damian Birdsey](https://open.spotify.com/artist/068spQpxM8nHnaPy3tiRWd), [Rachel Birdsey](https://open.spotify.com/artist/2kmGFZuJw6JNT937Wh2nE6) | [Satellite](https://open.spotify.com/album/1pryLE0rUu6l5MMfm5T2S4) | 3:09 | 2025-04-18 |  |
@@ -817,6 +818,7 @@
 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-24 | 2024-06-24 |
 | [See You Again](https://open.spotify.com/track/5igLs9wFOcj61sFuD6WQdq) | [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa) | [See You Again](https://open.spotify.com/album/5NRB1sGoc7sR1Q8VvfJsa8) | 2:17 | 2024-08-30 | 2024-11-18 |
 | [Set Me Free](https://open.spotify.com/track/18yyDYGRRRBX9V9IxwOUNW) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Set Me Free](https://open.spotify.com/album/0bu8p2Muh5APQRuLXF9QBR) | 2:42 | 2025-03-07 |  |
+| [Set Me Free](https://open.spotify.com/track/6vewEb1OJQYWt0c04jGb3D) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Set Me Free](https://open.spotify.com/album/48cggXKQZqqsY5sEGwfYe7) | 2:20 | 2025-05-12 |  |
 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 | 2024-01-10 | 2024-03-16 |
 | [Sex On Fire](https://open.spotify.com/track/7tKP8QY7Y9IJ3yzDEW1uMb) | [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd), [Megggi](https://open.spotify.com/artist/2aJSeysNzFHO6Y5pMrIK3O) | [Sex On Fire](https://open.spotify.com/album/2jAT0bIDGIeRb1n1ibnXMq) | 2:46 | 2025-03-21 | 2025-04-24 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2024-03-26 | 2024-09-10 |

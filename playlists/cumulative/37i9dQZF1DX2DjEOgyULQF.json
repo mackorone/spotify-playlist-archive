@@ -2731,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Peace of Rain",
+        "url": "https://open.spotify.com/album/2UzKVDUabqDDcOVRptDfpe"
+      },
+      "artists": [
+        {
+          "name": "Pouring Voices",
+          "url": "https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF"
+        }
+      ],
+      "date_added": "2025-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Peace of Rain",
+      "url": "https://open.spotify.com/track/6HXjoSKqIGjTGPMXj2oj6I"
+    },
+    {
+      "album": {
         "name": "Peaceful Calmness",
         "url": "https://open.spotify.com/album/6rfgkrOyjd4LoSfSgchwrm"
       },
@@ -4132,7 +4150,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 231423,
       "name": "Wilderness (Sound Bath)",
       "url": "https://open.spotify.com/track/2MHG83f4G7CnoxuRrvDc68"

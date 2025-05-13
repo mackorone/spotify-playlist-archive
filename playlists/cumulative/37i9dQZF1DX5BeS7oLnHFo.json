@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Shampoo",
+        "url": "https://open.spotify.com/album/0BqtNn7UOpSUow10X2uG3I"
+      },
+      "artists": [
+        {
+          "name": "Dr.Slim",
+          "url": "https://open.spotify.com/artist/4Rb8AeljgYsMU3YW6D1asy"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160153,
+      "name": "Shampoo",
+      "url": "https://open.spotify.com/track/4qPsQJxMOREpkJcWz8OggA"
+    },
+    {
+      "album": {
         "name": "SHOOTA",
         "url": "https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy"
       },

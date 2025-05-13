@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: MEOVV\)
 
-607 songs - 1 day 8 hr 9 min
+609 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Dreaming \(by YooYeon, YuBin, DaHyun, ShiOn\)](https://open.spotify.com/track/575TGU52eEm8CaZlPxn6M2) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Dreaming \(Shooting Stars X tripleS\)](https://open.spotify.com/album/3ntmFRkGsPp6l7OmlMaFjL) | 3:06 | 2024-11-27 | 2025-05-08 |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-03 | 2025-03-28 |
 | [DRIP](https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:00 | 2024-12-04 | 2025-01-21 |
+| [DROP TOP](https://open.spotify.com/track/2QmoGPYjajOOCtiv3wQseI) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV) | 3:15 | 2025-05-12 |  |
 | [Drummin′](https://open.spotify.com/track/078ikJBghCOeTJnz8vmr19) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [WHY NOT??](https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G) | 3:20 | 2022-07-28 | 2023-02-01 |
 | [dummy](https://open.spotify.com/track/0sAq8cN9lvt9dkAWa5DtWb) | [ARrC](https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP) | [dummy](https://open.spotify.com/album/0FUVybD9tZfWhKdCkLEC0v) | 3:22 | 2024-08-02 | 2024-08-17 |
 | [EARLY \(feat\. DUT2\)](https://open.spotify.com/track/4WZUZ7izRSUYhocujt9uDh) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:02 | 2023-02-15 | 2024-01-03 |
@@ -219,7 +220,7 @@
 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 | 2023-02-15 | 2024-01-03 |
 | [Heart Emoji \(feat\. BIGONE\)](https://open.spotify.com/track/5BhMBl7sVdjb8SOY7fwZjT) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Heart Emoji](https://open.spotify.com/album/3woPtSI7v4acRdHxKcjUvA) | 2:18 | 2023-01-11 | 2023-05-02 |
 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 | 2023-09-14 | 2024-01-05 |
-| [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 | 2025-02-04 |  |
+| [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 | 2025-02-04 | 2025-05-13 |
 | [Here I Am](https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q) | [BOYS PLANET](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) | [BOYS PLANET \- Here I Am](https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc) | 4:04 | 2023-01-11 | 2024-01-03 |
 | [Hey Boy !](https://open.spotify.com/track/5acMkZJUeNP9NVyvaZEoQ0) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Hey Boy !](https://open.spotify.com/album/3et0pb0CVdufpFGSwzTDf4) | 3:21 | 2024-04-24 | 2024-07-03 |
 | [HEYDAY](https://open.spotify.com/track/4F06nQOQWNVREhOU8iax6Y) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [XOUL DAY](https://open.spotify.com/album/2YZ7DBAGSwldjnLRP6zHSd) | 3:28 | 2024-03-21 | 2025-01-21 |
@@ -280,6 +281,7 @@
 | [LIKE THAT](https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:48 | 2024-10-23 | 2024-11-04 |
 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2022-01-27 | 2023-01-12 |
 | [LIP GLOSS](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.1 Christmas In August](https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY) | 3:32 | 2023-08-23 | 2023-10-30 |
+| [LIT RIGHT NOW](https://open.spotify.com/track/6t0CGD8in1sJ2WUCyN6jM1) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV) | 2:34 | 2025-05-12 |  |
 | [Locked On](https://open.spotify.com/track/1jRru0uo655c4HPGkVihOe) | [VVUP](https://open.spotify.com/artist/2zy0MxCWDb4XOziNuyEHtb) | [Locked On](https://open.spotify.com/album/2KOyXfulQ7w35Ok4KYtxBw) | 3:09 | 2024-04-04 | 2025-01-21 |
 | [Look into eyes say it](https://open.spotify.com/track/47KIdFLacEnfEzVNCxs80H) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Again,Star \#2](https://open.spotify.com/album/4BqNdozu75WCs9C07CjPl0) | 3:56 | 2023-09-14 | 2023-11-16 |
 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-05-30 | 2024-08-02 |
@@ -299,7 +301,7 @@
 | [Love, Maybe](https://open.spotify.com/track/5btJjUxmhPK1cwdw0mnhRD) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Love, Maybe \(A Business Proposal OST Part.5\)](https://open.spotify.com/album/50WHnqFZhIQC88oZr5hlN3) | 3:05 | 2022-04-18 | 2022-06-18 |
 | [LOVE2YOU](https://open.spotify.com/track/0IEDeFF4YXlf6Qw83ogM6N) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [LOVE2YOU](https://open.spotify.com/album/5a9XcjArVCGjEPeH3EeIpj) | 3:09 | 2024-09-11 | 2024-11-28 |
 | [Lovelylove \(feat\. CHOI NAKTA\)](https://open.spotify.com/track/0tyXMBNyUjV5oSuctNXZaw) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w), [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr) | [Lovelylove \(feat\. CHOI NAKTA\)](https://open.spotify.com/album/5r6hXPpgoLzmI9baalPZim) | 3:10 | 2021-12-30 | 2022-01-22 |
-| [Lovers](https://open.spotify.com/track/17IUvxErsnc8RmhkggoMwG) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Lovers](https://open.spotify.com/album/51q780I3cFQH2gTwp3bm8Q) | 4:00 | 2025-02-04 |  |
+| [Lovers](https://open.spotify.com/track/17IUvxErsnc8RmhkggoMwG) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Lovers](https://open.spotify.com/album/51q780I3cFQH2gTwp3bm8Q) | 4:00 | 2025-02-04 | 2025-05-13 |
 | [Lucky Charm](https://open.spotify.com/track/2Al2YIy0UvZOXJBm7xf4Bf) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Miss Night and Day \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3kHpmhoOVHOPE8m3AKlIJ9) | 3:09 | 2024-07-02 | 2024-09-12 |
 | [Lucky Draw](https://open.spotify.com/track/6jW721XvMV5SMNLAqMf4Sl) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE) | [Lucky Draw](https://open.spotify.com/album/33vU457wPoEegve2qevifQ) | 2:34 | 2024-03-21 | 2024-05-11 |
 | [lullaby](https://open.spotify.com/track/5svaQXGGlWWzuJW4eGAN9p) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [lullaby](https://open.spotify.com/album/3xrgoW81mLMRai347DLCW2) | 3:14 | 2023-05-01 | 2024-01-03 |

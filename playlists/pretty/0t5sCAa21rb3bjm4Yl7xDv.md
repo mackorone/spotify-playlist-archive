@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > your favourite playlist's favourite playlist &lt;3\. shop the pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Kali Uchis
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 79,892 likes - 100 songs - 5 hr 23 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 79,887 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

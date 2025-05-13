@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 92834,
       "name": "AL\u00c6CARTE-X",
       "url": "https://open.spotify.com/track/0eThhRe5r2ZZdKIU8yAngk"
@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 184968,
       "name": "A\u011fla",
       "url": "https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 184968,
       "name": "A\u011fla",
       "url": "https://open.spotify.com/track/6UJu0bCXSi91whMUJJOct5"
@@ -10251,6 +10251,24 @@
     },
     {
       "album": {
+        "name": "Ve Ben...",
+        "url": "https://open.spotify.com/album/18qLbH76BnZ1BvwQUejAjP"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcll\u00fc",
+          "url": "https://open.spotify.com/artist/533wb2q2kU814aFEWaIlG2"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253013,
+      "name": "Haylaz\u0131m",
+      "url": "https://open.spotify.com/track/1y0lCAPCC9K9OIaQgaAHPl"
+    },
+    {
+      "album": {
         "name": "HAYRAN KALICAN",
         "url": "https://open.spotify.com/album/2TFRTagsgrcP5FVOoFvhVk"
       },
@@ -10940,7 +10958,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 169134,
       "name": "HUQQA 2.0",
       "url": "https://open.spotify.com/track/02qInTRFOUrN2BUp1pOwnI"
@@ -18312,7 +18330,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"
@@ -20912,7 +20930,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 167370,
       "name": "UYUZ",
       "url": "https://open.spotify.com/track/1O3utGlqPaNnTX1ZeRXLQY"
@@ -22692,7 +22710,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 176833,
       "name": "ZEH\u0130RL\u0130 G\u00dcL",
       "url": "https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW"

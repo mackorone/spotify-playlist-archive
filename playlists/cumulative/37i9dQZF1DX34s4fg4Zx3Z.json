@@ -3753,6 +3753,28 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/5HdqYXbBCvwtDVKlDUKLdQ"
+      },
+      "artists": [
+        {
+          "name": "DYNA V",
+          "url": "https://open.spotify.com/artist/3YFZn7pIAl5G7sIdekbI1E"
+        },
+        {
+          "name": "2pillz",
+          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/5u3wQwBLtNZv6z2M9YIggH"
+    },
+    {
+      "album": {
         "name": "Buy You All Versace",
         "url": "https://open.spotify.com/album/1lN3cjSEW3Y0LIl456zi1P"
       },

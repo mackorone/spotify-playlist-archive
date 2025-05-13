@@ -7173,6 +7173,24 @@
     },
     {
       "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/5u67NxPdoFshAfqbqApE3h"
+      },
+      "artists": [
+        {
+          "name": "Oh, My.",
+          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Radiant",
+      "url": "https://open.spotify.com/track/5IFbLsAWhTGTvcxbDmBc3x"
+    },
+    {
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/5i3VAJjQaAjPoK9HyH0Erp"
       },
@@ -8356,7 +8374,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 131343,
       "name": "Starry Sky",
       "url": "https://open.spotify.com/track/0TWhRkw2Nwessg5cnNSOf4"
@@ -10254,7 +10272,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 117108,
       "name": "warm oceans",
       "url": "https://open.spotify.com/track/49J1knV6TE0yZw3qFh5vdi"
@@ -10338,7 +10356,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 134709,
       "name": "What's Good",
       "url": "https://open.spotify.com/track/3VDfWzstfrPQSnDirjhBsk"

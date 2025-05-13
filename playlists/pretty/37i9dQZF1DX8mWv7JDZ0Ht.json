@@ -319,6 +319,22 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
+        "name": "ANEMOIA",
+        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
+      },
+      "artists": [
+        {
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "ROSA",
+      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
         "name": "Depois do Fim (Deluxe)",
         "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 231352,
       "name": "Voc\u00ea e Eu",
       "url": "https://open.spotify.com/track/7lRn4QgqExbbM1hNjABa8B"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
-        "name": "ANEMOIA",
-        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
-      },
-      "artists": [
-        {
-          "name": "Marina Gold",
-          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
-        }
-      ],
-      "duration_ms": 212234,
-      "name": "ROSA",
-      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -451,18 +451,18 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+        "name": "Som de Alma",
+        "url": "https://open.spotify.com/album/0icq1nKGnjevXRF3DkaC8T"
       },
       "artists": [
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
         }
       ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+      "duration_ms": 139873,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/1jllCeJCsbQwnwHTxKWNEb"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
-        "name": "Som de Alma",
-        "url": "https://open.spotify.com/album/0icq1nKGnjevXRF3DkaC8T"
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
       },
       "artists": [
         {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         }
       ],
-      "duration_ms": 139873,
-      "name": "Florescer",
-      "url": "https://open.spotify.com/track/1jllCeJCsbQwnwHTxKWNEb"
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
-        "name": "Vamos de Viagem",
-        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 238604,
-      "name": "Vamos de Viagem",
-      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
         "name": "MINHA J\u00d3IA",
         "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 221961,
       "name": "MINHA J\u00d3IA",
       "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
+        "name": "Vamos de Viagem",
+        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 238604,
+      "name": "Vamos de Viagem",
+      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
+        "name": "Ombro Amigo",
+        "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 175176,
+      "name": "Ombro Amigo",
+      "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
         "name": "NEM SE O MUNDO ACABAR",
         "url": "https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 206505,
       "name": "Eu Gosto Assim",
       "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
-        "name": "Ombro Amigo",
-        "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 175176,
-      "name": "Ombro Amigo",
-      "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
-        "name": "UMA ESP\u00c9CIE DE AMOR PONTIAGUDA",
-        "url": "https://open.spotify.com/album/2eVCig6pqPdQRQulBNgXay"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 172909,
-      "name": "M\u00c1QUINA DO TEMPO",
-      "url": "https://open.spotify.com/track/5IhvMaUbuThd2dgW8cHthu"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
         "name": "Voltei",
         "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 171581,
       "name": "PROFANO",
       "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
+        "name": "UMA ESP\u00c9CIE DE AMOR PONTIAGUDA",
+        "url": "https://open.spotify.com/album/2eVCig6pqPdQRQulBNgXay"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 172909,
+      "name": "M\u00c1QUINA DO TEMPO",
+      "url": "https://open.spotify.com/track/5IhvMaUbuThd2dgW8cHthu"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-05-02 03:00:41",
       "album": {
-        "name": "Coisa Rara",
-        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 165441,
-      "name": "Coisa Rara",
-      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
         "name": "Apressa",
         "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 155100,
       "name": "Apressa",
       "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
+        "name": "Coisa Rara",
+        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 165441,
+      "name": "Coisa Rara",
+      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -1271,22 +1271,6 @@
       "duration_ms": 124666,
       "name": "Depois do Fim",
       "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
-    },
-    {
-      "added_at": "2025-05-02 03:00:41",
-      "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2025-05-02 03:00:41",
@@ -1367,6 +1351,22 @@
       "duration_ms": 149026,
       "name": "Coisa de Alma",
       "url": "https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1"
+    },
+    {
+      "added_at": "2025-05-02 03:00:41",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2025-05-02 03:00:41",

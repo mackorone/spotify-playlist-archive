@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Salmo,  Annalisa, BLANCO, Miley Cyrus, Alfa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,656 likes - 101 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,693 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 47 | [about time](https://open.spotify.com/track/23n4GSJHqepmystIvoOw6X) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [about time](https://open.spotify.com/album/1tI4DHwaPnfJNrWV4Jo1oh) | 3:18 |
 | 48 | [PANORAMA](https://open.spotify.com/track/1sfqDikcK7qIRSFxfM3JZC) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [PANORAMA](https://open.spotify.com/album/4CptDmC0jfJ3GTlAavc9pQ) | 2:45 |
 | 49 | [ROSA E LACRIME](https://open.spotify.com/track/0W72VnYzcI7p7ZOZ2dKZE7) | [Gigi D'Alessio](https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn) | [ROSA E LACRIME](https://open.spotify.com/album/6VoqDv0yuEBwlP8xejb0bp) | 3:36 |
-| 50 | [ALÈ ALÈ \(feat\. Gente De Zona\)](https://open.spotify.com/track/0dgIgU6ZKY87H1Bxq8js63) | [Cristiano Malgioglio](https://open.spotify.com/artist/5cGyeP8xbP5ENwYBCUFK19), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [ALÈ ALÈ \(feat\. Gente De Zona\)](https://open.spotify.com/album/5CD8KMhF7O1Vjzfvs7hiIn) | 3:10 |
+| 50 | [ALÈ ALÈ \(feat\. Gente De Zona\)](https://open.spotify.com/track/0dgIgU6ZKY87H1Bxq8js63) | [Cristiano Malgioglio](https://open.spotify.com/artist/5cGyeP8xbP5ENwYBCUFK19), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [ALÈ ALÈ \(feat\. Gente De Zona\)](https://open.spotify.com/album/5CD8KMhF7O1Vjzfvs7hiIn) | 3:03 |
 | 51 | [La maglia del Lecce](https://open.spotify.com/track/72LyU7iP8CMuSRs48IqjB4) | [La Municipàl](https://open.spotify.com/artist/1wQ8rxWLB8fPUHx49l3q5L) | [La maglia del Lecce](https://open.spotify.com/album/6HWloKaD8cnAK9eWeAuFHs) | 3:04 |
 | 52 | [Strappami il cuore](https://open.spotify.com/track/2DjIy92NOh2maqFIU23Olu) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [Strappami il cuore](https://open.spotify.com/album/2dN6BRYg6KhHw7EFPb7Wra) | 2:39 |
 | 53 | [Correre](https://open.spotify.com/track/6HWDxSgzZweaS71gyJVi7e) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [Correre](https://open.spotify.com/album/1aNBwbkwr9oDYyG2VtMc52) | 2:55 |

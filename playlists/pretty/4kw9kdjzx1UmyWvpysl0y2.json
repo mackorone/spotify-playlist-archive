@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUEVe8pvW2uWEdEcbcffUJgxVGHSUI",
+  "snapshot_id": "AAAUE2au3F8p0DYroh5ObX5x5eVt5ylO",
   "tracks": [
+    {
+      "added_at": "2025-05-12 15:36:55",
+      "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/4J8zgXZhgXyC8iLGZb3jaN"
+      },
+      "artists": [
+        {
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
+        }
+      ],
+      "duration_ms": 140939,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/4p9c1dudsL928nIhcZn15q"
+    },
     {
       "added_at": "2025-05-09 14:12:46",
       "album": {
@@ -1139,66 +1155,6 @@
       "duration_ms": 161250,
       "name": "Bass Bop",
       "url": "https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo"
-    },
-    {
-      "added_at": "2025-02-18 16:09:58",
-      "album": {
-        "name": "Risk It All",
-        "url": "https://open.spotify.com/album/0bpxJRyDJ22ph6NOhHwpLB"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        },
-        {
-          "name": "Deagon",
-          "url": "https://open.spotify.com/artist/34h3uv9dVLZqv4chYpSXWw"
-        },
-        {
-          "name": "M\u00d8\u00d8NE",
-          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/71TPyvUHZO7tNTWjERvvwv"
-    },
-    {
-      "added_at": "2025-02-18 16:09:46",
-      "album": {
-        "name": "ZERO200",
-        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "ZERO200",
-      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
-    },
-    {
-      "added_at": "2025-02-14 15:56:01",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/2HfbK1ST2rbiFui9X3aJbb"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "Cxssidy",
-          "url": "https://open.spotify.com/artist/3Y3lbzoi0F8wQIiTnIbDXq"
-        }
-      ],
-      "duration_ms": 145856,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/58D2ovS7dHHgLmql6PiAeQ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

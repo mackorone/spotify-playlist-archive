@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 179500,
       "name": "Dil Ka Haara",
       "url": "https://open.spotify.com/track/3AhbSEtajGmaOajWM5ydV4"
@@ -6276,7 +6276,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 176748,
       "name": "Ghum Sa",
       "url": "https://open.spotify.com/track/5Bx3NJvWDdQtLgiNPcoj6P"
@@ -6880,7 +6880,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 219051,
       "name": "Har Subah",
       "url": "https://open.spotify.com/track/2oUsJvFbdF9tbm6PKecwuT"
@@ -19440,6 +19440,24 @@
       "duration_ms": 326180,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/1pDFhiLYmk3VGjTU9Yx3TS"
+    },
+    {
+      "album": {
+        "name": "The Lovey Dovey Song",
+        "url": "https://open.spotify.com/album/30SZowhZ6LpoAl0UyTbWYX"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "date_added": "2025-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170512,
+      "name": "The Lovey Dovey Song",
+      "url": "https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n"
     },
     {
       "album": {

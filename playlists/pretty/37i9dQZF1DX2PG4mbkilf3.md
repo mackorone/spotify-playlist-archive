@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with RealestK from Toronto, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,817 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,861 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 4 | [Morning Sun](https://open.spotify.com/track/4MnlEKWxqOPaD2eL6hGMpZ) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Morning Sun](https://open.spotify.com/album/5V18XvRHl6BYOBJeZnyzTt) | 4:24 |
 | 5 | [VAIN](https://open.spotify.com/track/5qLYOEY8aHWXcjo5CIRtcg) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Suite 96 \(Side B\)](https://open.spotify.com/album/1ma4ZPGmGphf71OsTto5aX) | 1:28 |
 | 6 | [What I Used To Get Into](https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Dark Nights](https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE) | 3:12 |
-| 7 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
+| 7 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
 | 8 | [Poseidon](https://open.spotify.com/track/2Uuuwl5Rno3QgXDB6DE9D7) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Vandalizm](https://open.spotify.com/artist/1sTxSvbJ4mbDDZ77k391gt) | [Poseidon](https://open.spotify.com/album/33L7dHXzfSuX0axAT0cCcC) | 3:42 |
 | 9 | [Times Two](https://open.spotify.com/track/210XcfUCIcPM2NojtekQD0) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Times Two](https://open.spotify.com/album/172KoRUjOGEFU420xNUtWs) | 2:02 |
 | 10 | [\*\*CUDN’T B ME\*\*](https://open.spotify.com/track/2MEwzbnd94ru6DkUR9pxA7) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PAID IN MEMORIES](https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9) | 3:02 |

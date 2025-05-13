@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 307 songs - 16 hr 20 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 309 songs - 16 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -315,5 +315,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 305 | [Movie](https://open.spotify.com/track/56nMxD5Hz0gI2E1lDmC0kk) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [3vil Reflection](https://open.spotify.com/album/17DbwNYaf8YjmLXSwiKG3M) | 2:16 |
 | 306 | [ik what you did last summer](https://open.spotify.com/track/1imJDIpA1lc0pmXEKQDXPV) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [ik what you did last summer](https://open.spotify.com/album/23mu61TZub1lTik1j31nL2) | 1:46 |
 | 307 | [Doing Nothing Else](https://open.spotify.com/track/3Yd4kZMzyg4F58YWLnMxT8) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Doing Nothing Else](https://open.spotify.com/album/66IRglUbmpjN4qPWYVIQTR) | 3:05 |
+| 308 | [Darkness \- 2021 Remaster](https://open.spotify.com/track/3BWEa8rtenICK4a6X4OG3l) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why \(2021 Remaster\)](https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD) | 6:19 |
+| 309 | [Silence \- 2021 Remaster](https://open.spotify.com/track/4S1Ua9Oerrch4cEhjSFMp0) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why \(2021 Remaster\)](https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD) | 1:57 |
 
-Snapshot ID: `AAAeVPcQlYuf+MqO4/YJD7Yy5SRINV0d`
+Snapshot ID: `AAAeVs6mMHQBO5sSRRoSpcItmXh16a2X`

@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 112864,
+  "num_followers": 112879,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
+        "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
+        "url": "https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
+      "url": "https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
         "name": "Sen Istersin",
         "url": "https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 203400,
       "name": "Sen Istersin",
       "url": "https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
-        "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
-        "url": "https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU"
-      },
-      "artists": [
-        {
-          "name": "Sezen Aksu",
-          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
-      "url": "https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -543,26 +543,18 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "POPSTAR",
-        "url": "https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1"
+        "name": "Mirkelam",
+        "url": "https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf"
       },
       "artists": [
         {
-          "name": "K\u00d6FN",
-          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
-        },
-        {
-          "name": "Salman Tin",
-          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
-        },
-        {
-          "name": "BKE",
-          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
+          "name": "Mirkelam",
+          "url": "https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0"
         }
       ],
-      "duration_ms": 215803,
-      "name": "D\u00fcn",
-      "url": "https://open.spotify.com/track/4Cdv5EjQOoWFCEEfTvLexr"
+      "duration_ms": 276733,
+      "name": "Hat\u0131ralar",
+      "url": "https://open.spotify.com/track/6sOTwzUE73fU6OFNRtYDi3"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -587,18 +579,26 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Mirkelam",
-        "url": "https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf"
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1"
       },
       "artists": [
         {
-          "name": "Mirkelam",
-          "url": "https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0"
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        },
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        },
+        {
+          "name": "BKE",
+          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
         }
       ],
-      "duration_ms": 276733,
-      "name": "Hat\u0131ralar",
-      "url": "https://open.spotify.com/track/6sOTwzUE73fU6OFNRtYDi3"
+      "duration_ms": 215803,
+      "name": "D\u00fcn",
+      "url": "https://open.spotify.com/track/4Cdv5EjQOoWFCEEfTvLexr"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
+        "name": "Sarma\u015f\u0131k",
+        "url": "https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY"
+      },
+      "artists": [
+        {
+          "name": "Evdeki Saat",
+          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Sarma\u015f\u0131k",
+      "url": "https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
         "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
         "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 150000,
       "name": "G\u00fcne\u015fe Dokundum - Deep Mix",
       "url": "https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
-        "name": "Sarma\u015f\u0131k",
-        "url": "https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY"
-      },
-      "artists": [
-        {
-          "name": "Evdeki Saat",
-          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Sarma\u015f\u0131k",
-      "url": "https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN"
     },
     {
       "added_at": "2024-07-08 08:26:10",

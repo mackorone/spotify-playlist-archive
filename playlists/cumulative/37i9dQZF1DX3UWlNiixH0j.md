@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Chappo シャッポ
 
-2,382 songs - 6 day 4 hr 41 min
+2,383 songs - 6 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Go Back](https://open.spotify.com/track/7MgEPoGcCSb0OJ2h7rCmAK) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Go Back](https://open.spotify.com/album/28wQA4FxsLAhCUETS986Vn) | 2:51 | 2023-04-25 | 2023-05-31 |
 | [Go Bitter](https://open.spotify.com/track/749CvBBigpIuthbj0L7U3W) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [Go Bitter](https://open.spotify.com/album/2NtZg3dZ1fmjBfAxZ54IY2) | 2:49 | 2024-04-09 | 2024-04-17 |
 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 | 2023-11-09 | 2024-11-06 |
+| [Goes On](https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Blessings of the Sun](https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e) | 4:41 | 2025-05-06 |  |
 | [Golden Age](https://open.spotify.com/track/5hgYYpuK4QMBezu5haPGPo) | [6 mab](https://open.spotify.com/artist/47vriTwdmwy7LzWWcyrlcO) | [Center](https://open.spotify.com/album/2dGIzKvQKLSGG8L2ZOli1A) | 4:12 | 2024-04-02 | 2024-04-10 |
 | [Gone](https://open.spotify.com/track/6M1vXz1vXshANbF1uxpQCG) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [Gone](https://open.spotify.com/album/2fSm1YvQwa77zAQ7PRBUnI) | 2:14 | 2024-06-11 | 2024-08-07 |
 | [good day feat\. Shun Maruno](https://open.spotify.com/track/5Z2pjJr95WOOLY0UjQqNqQ) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Shun Maruno](https://open.spotify.com/artist/40E3Z37xZhTpSoat9qLFs8) | [good day feat\. Shun Maruno](https://open.spotify.com/album/7uKBb0qhqAlvKvnEVKyO31) | 3:29 | 2025-04-15 | 2025-05-02 |
@@ -526,7 +527,7 @@
 | [Here I Stand](https://open.spotify.com/track/1xmcCam3mEi2Tmajwkdt6X) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/1RY9bS3e6w4akVpgedsXNH) | 6:50 | 2023-02-21 | 2023-03-08 |
 | [hey dad you sent me postcards](https://open.spotify.com/track/5ffw9FBlKKv6wqvKkV6SoR) | [Wang\-Wang\(旺旺\)](https://open.spotify.com/artist/3P5cZnDKVRP2tcYJ7GHDuD) | [Arrow](https://open.spotify.com/album/0Rv1EUFlf1xPlejjgOnYod) | 4:27 | 2023-01-12 | 2023-02-08 |
 | [High Hopes](https://open.spotify.com/track/20I4zWMOycRKhrhFtFnT06) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [High Hopes](https://open.spotify.com/album/7EfIYCSnURTRcPI7oUzDcf) | 3:44 | 2024-10-15 | 2024-10-30 |
-| [Higher](https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Higher](https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV) | 3:41 | 2024-08-27 |  |
+| [Higher](https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Higher](https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV) | 3:41 | 2024-08-27 | 2025-05-13 |
 | [Highway](https://open.spotify.com/track/0CKF5Il9laNqfSWNU36qgZ) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Highway](https://open.spotify.com/album/0LRbsy0bndIFllIVDosuQM) | 2:23 | 2023-02-23 | 2023-03-15 |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-04-05 |
 | [HINODE](https://open.spotify.com/track/20CLHhDErrZB8JsFKYZW4t) | [Antiage](https://open.spotify.com/artist/1Ds6NxT56UdoyjaOjOpkH4) | [HINODE](https://open.spotify.com/album/2jM7tztSPBnAhP3Q2LV9Dc) | 4:13 | 2024-06-04 | 2024-06-12 |

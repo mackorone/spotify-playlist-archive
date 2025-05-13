@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Madelynn
 
-2,056 songs - 5 day 0 hr 32 min
+2,057 songs - 5 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Bring Me Back Into My Zone](https://open.spotify.com/track/0riysjEEB9kqxtiuu30HW5) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB) | [Bring Me Back Into My Zone](https://open.spotify.com/album/4TrlAzAIk9BgyBPCPCOcPU) | 3:05 | 2022-05-04 | 2023-01-06 |
 | [BUST A MOVE](https://open.spotify.com/track/3uo4jLXyTZi2AwVoaRFkYR) | [Minhtriet](https://open.spotify.com/artist/1Sa0tIuciBv3CPSIdtSNLB) | [BUST A MOVE](https://open.spotify.com/album/7ggPVDMXHlmsqaGgbZ11E9) | 3:39 | 2023-06-06 | 2023-06-22 |
 | [Butterflies \- I'm Here to Die](https://open.spotify.com/track/6efFsfo1J05vs4w8euk7dV) | [Vũ Thảo My](https://open.spotify.com/artist/42D8BHt57a1V8Mn47afQhj), [Jsdrmns](https://open.spotify.com/artist/5ga5P2bTvSDu4rDRnXI33l) | [4B \(For Baby\)](https://open.spotify.com/album/4HYKMAONojcxuC54p3qOkE) | 4:00 | 2023-08-01 | 2023-09-09 |
+| [Butterfly](https://open.spotify.com/track/5u3wQwBLtNZv6z2M9YIggH) | [DYNA V](https://open.spotify.com/artist/3YFZn7pIAl5G7sIdekbI1E), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Butterfly](https://open.spotify.com/album/5HdqYXbBCvwtDVKlDUKLdQ) | 2:45 | 2025-05-12 |  |
 | [Buy You All Versace](https://open.spotify.com/track/40PcJ2366kzyG9KmuTY1jW) | [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [Kean](https://open.spotify.com/artist/2BFV20BAhrBwA3oEHyNv5P), [Bille](https://open.spotify.com/artist/25u3YQz0KKzPyLVqGfAWOj) | [Buy You All Versace](https://open.spotify.com/album/1lN3cjSEW3Y0LIl456zi1P) | 3:00 | 2023-10-11 | 2023-11-17 |
 | [Buôn Hàng R&B](https://open.spotify.com/track/0ldikgEIGeqQ1I9wMlJhTY) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD) | [Buôn Hàng R&B](https://open.spotify.com/album/6fiotiZanW2ufh6oQM9Wzh) | 1:42 | 2022-09-27 | 2023-01-27 |
 | [buông tay để làm gì](https://open.spotify.com/track/0mPRjwgebzm1k7ocnu1MGp) | [Ell.B](https://open.spotify.com/artist/5kNGTASgbyhUVaGnj0RU4M), [SimonC](https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ) | [buông tay để làm gì](https://open.spotify.com/album/0ftHP8sOQAp8dXC1mDsoZ0) | 4:28 | 2022-08-18 | 2022-10-11 |

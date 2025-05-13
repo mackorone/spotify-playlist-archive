@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 491579,
+  "num_followers": 491636,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB6XAAAAAACn4dOeNsoiLGsaU87VQ4uM",
+  "snapshot_id": "aB/ogAAAAAC1I4RqHxFYG8Ph0msb79ma",
   "tracks": [
     {
       "added_at": null,
@@ -703,30 +703,6 @@
       "duration_ms": 244466,
       "name": "Hold on to What You Believe (Live from Shepherd's Bush Empire, 2010)",
       "url": "https://open.spotify.com/track/1CW58In68DanWsAtiNuu0T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Johannesburg",
-        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "The Very Best",
-          "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
-        },
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "duration_ms": 221099,
-      "name": "Fool You\u2019ve Landed",
-      "url": "https://open.spotify.com/track/0MKQZo1oHR4IOoc63V6Mxg"
     }
   ],
   "unique_name": "This Is Mumford & Sons",

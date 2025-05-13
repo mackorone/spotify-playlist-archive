@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Malandro y Duki en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,431 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,435 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 29 | [Delincuencia](https://open.spotify.com/track/4rc6vrOu9w2yBBPqMpBes6) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [Lp King](https://open.spotify.com/artist/7tfKpLtXZ4s8opLe8fHrsz), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Young Gatillo](https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD) | [Delincuencia](https://open.spotify.com/album/3Nh73sHvweVFNpQRPbyE1w) | 3:21 |
 | 30 | [Lunes](https://open.spotify.com/track/19Xn6FZuLThzLAAHQcJSeR) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Juan 97](https://open.spotify.com/artist/6dfvEpJtap4FECKL7PznSn) | [Chopin 420](https://open.spotify.com/album/2aDTd8ePhgq6zcgT2fZ5Je) | 2:21 |
 | 31 | [Tácticas de Supervivencia](https://open.spotify.com/track/7G0ZP8GJ6fu8SrFU2kYk6R) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Tácticas de Supervivencia](https://open.spotify.com/album/0CmKvgxnwObfNVApYVnrNB) | 3:03 |
-| 32 | [ASTROLABIO](https://open.spotify.com/track/3HjRfoLmuDpZsfpwG4qvzH) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [ASTROLABIO](https://open.spotify.com/album/53eyokP8ftEscw10esDxtG) | 4:34 |
+| 32 | [ASTROLABIO](https://open.spotify.com/track/3HjRfoLmuDpZsfpwG4qvzH) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ASTROLABIO](https://open.spotify.com/album/53eyokP8ftEscw10esDxtG) | 4:34 |
 | 33 | [Don Tan](https://open.spotify.com/track/2B38Yqihpc3i28Uf4WlRf8) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Don Tan](https://open.spotify.com/album/1IJ0pZPxux1IynJDH0pNJP) | 4:12 |
 | 34 | [Amole](https://open.spotify.com/track/6mBVqBGbWoOxoWrv4iMeyW) | [Nitro Goyri](https://open.spotify.com/artist/6GepbWxBVP643J6R0rb9tE), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Amole](https://open.spotify.com/album/3y1OVGGuxTEPldi1tm1lCy) | 2:38 |
 | 35 | [Rubaiyat](https://open.spotify.com/track/2pKna1QpEpKTss92GnhsSn) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3), [Titó](https://open.spotify.com/artist/0sHxrLxSTgcgReYfT3MvYO) | [Rubaiyat](https://open.spotify.com/album/5Q798rmzhAbFNcE5MTsVmH) | 4:00 |

@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-291 songs - 18 hr 42 min
+293 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Brightest Lights \(feat\. POLIÇA\)](https://open.spotify.com/track/49jWS1fz7QZQa4mBIqB0mu) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 6:52 | 2023-12-08 | 2024-02-24 |
 | [Butter Notes](https://open.spotify.com/track/3qZUzzUxVuU96DtYPOjBb8) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Butter Notes](https://open.spotify.com/album/2AuBsO2tbYIpWzotLslVQy) | 5:21 | 2024-01-19 | 2024-05-18 |
 | [Butterfly In A Jar \(I\)](https://open.spotify.com/track/4FUGVoMPnt4ZKEIdvWtDVT) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Everything Changes, Nothing Ends](https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO) | 4:17 | 2024-11-29 | 2025-01-14 |
-| [Butterfly In A Jar \(II\-IV\)](https://open.spotify.com/track/0l8zN8ActPHjTikyG2zZOc) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Butterfly In A Jar \(II\-IV\)](https://open.spotify.com/album/4kNKtfx5tAPS4TBYDnk8vJ) | 6:58 | 2024-10-11 |  |
+| [Butterfly In A Jar \(II\-IV\)](https://open.spotify.com/track/0l8zN8ActPHjTikyG2zZOc) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Butterfly In A Jar \(II\-IV\)](https://open.spotify.com/album/4kNKtfx5tAPS4TBYDnk8vJ) | 6:58 | 2024-10-11 | 2025-05-13 |
 | [Cause I](https://open.spotify.com/track/4DtrA769f2GWn2lOdFIdBY) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [This Is Not Our Universe](https://open.spotify.com/album/6kWIPxtAyRlXsPHPpJdvbw) | 2:12 | 2025-01-13 |  |
 | [Chaos](https://open.spotify.com/track/3w2btrPhG4QXL5XG2pkFFm) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 2:54 | 2023-12-08 | 2024-03-09 |
 | [Chime](https://open.spotify.com/track/7M8rxHUoLI7k10qurZ5GyA) | [Stillhead](https://open.spotify.com/artist/6kAJ3c9QA35wGowhDQeaya) | [Reflections 09](https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5) | 2:53 | 2024-07-19 | 2024-12-14 |
@@ -161,6 +161,8 @@
 | [Longing](https://open.spotify.com/track/2A0fuDHJlRz7NbftxSXmN5) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Longing](https://open.spotify.com/album/63Ab5wSwTgzeKwXZdRBcQb) | 5:26 | 2024-01-26 | 2024-04-17 |
 | [Longing](https://open.spotify.com/track/56AuxPaUfzduI6yAbN0Vuw) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Nostalgia](https://open.spotify.com/album/6SAZFaDeZJs0v7GZEpfDBK) | 5:26 | 2024-10-18 | 2025-01-14 |
 | [Looking Through The Mirror Of The Soul](https://open.spotify.com/track/7s4q0jH90s3NXpA0CZaWoB) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Everything Changes, Nothing Ends](https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO) | 4:12 | 2024-11-29 | 2025-01-14 |
+| [Looking Through The Mirror Of The Soul \- Chihei Hatakeyama Remix](https://open.spotify.com/track/1wBTUjG4n6h9xTxsOGVTYM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Everything Changes, Nothing Ends \(The Remixes\)](https://open.spotify.com/album/6gtYPyG3E3fHASBm4mUaAR) | 3:56 | 2025-05-12 |  |
+| [Looking Through The Mirror Of The Soul \- Nailah Hunter Remix](https://open.spotify.com/track/64lfwa2R79zCXuXYaoe198) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Everything Changes, Nothing Ends \(The Remixes\)](https://open.spotify.com/album/6gtYPyG3E3fHASBm4mUaAR) | 4:24 | 2025-05-12 |  |
 | [Looking Up](https://open.spotify.com/track/4z4sZuWyEtvrVoQYQJXlwX) | [Toutounji](https://open.spotify.com/artist/1QDg1LnUhhUMyU4re9ol0K), [Sydney Bryce](https://open.spotify.com/artist/57wU47pYKEcHOfb97oeSy6) | [Looking Up](https://open.spotify.com/album/2YIUPe9KlTnLbTMblca0o0) | 2:28 | 2025-04-11 |  |
 | [Love In Our Hands](https://open.spotify.com/track/0xses9klMIqg28SK3LXlgi) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 3:48 | 2025-01-13 |  |
 | [Love In Our Hands](https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love In Our Hands](https://open.spotify.com/album/4XSVK3udgsRyaOeBLBUXEv) | 3:48 | 2024-02-23 | 2024-12-14 |
@@ -197,7 +199,7 @@
 | [Mumma Don't Tell](https://open.spotify.com/track/65p97eP4CoW3rG7OIcBgoq) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [A Louder Silence](https://open.spotify.com/album/3tzXRcnAwVNJeIWxxvlGg2) | 5:08 | 2025-05-09 |  |
 | [My Mother Was A Synthesizer](https://open.spotify.com/track/7LI2eU6g40u5C4SnhSnZ1H) | [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [My Mother Was A Synthesizer](https://open.spotify.com/album/6fN16ql9IGuF2mpChQbIYO) | 3:23 | 2023-12-08 | 2024-05-04 |
 | [Night Drums](https://open.spotify.com/track/2ZcJPY7GajuGFRCLjoFULR) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 2:00 | 2025-01-13 | 2025-04-05 |
-| [Nights In Bloom](https://open.spotify.com/track/4sn8VIS90g5ubE4KoGGnH8) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 8:02 | 2025-01-13 |  |
+| [Nights In Bloom](https://open.spotify.com/track/4sn8VIS90g5ubE4KoGGnH8) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 8:02 | 2025-01-13 | 2025-05-13 |
 | [Nightwhisper \- Chill Mix](https://open.spotify.com/track/0fkoqytIal07KgtUQbpShZ) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper \(Chill Mix\)](https://open.spotify.com/album/2QxuAUei2dRmRKmSAUWncE) | 4:00 | 2025-01-13 |  |
 | [Nine Steps](https://open.spotify.com/track/7h0xoNZAofsdOYF1AvxsBu) | [PRAANA SHAKTI](https://open.spotify.com/artist/6a1nIcGSFPECOefOfbKI4V), [Moonfound](https://open.spotify.com/artist/3s1oVIjuSdqQnyal4MCo8B) | [Nine Steps](https://open.spotify.com/album/0husVtwa6m4UuMk63VBjjW) | 5:52 | 2024-10-18 |  |
 | [No One Else](https://open.spotify.com/track/7xRNtmOCuXqkm7eRNQsowl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:26 | 2025-01-13 |  |

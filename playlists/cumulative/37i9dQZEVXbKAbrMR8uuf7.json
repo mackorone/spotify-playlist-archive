@@ -5008,7 +5008,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 145554,
       "name": "Carita Triste",
       "url": "https://open.spotify.com/track/5etADEsDL50apt3Gn8WlYr"
@@ -12154,7 +12154,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 186212,
       "name": "FANTAS\u00cdA",
       "url": "https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb"
@@ -20976,7 +20976,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 138515,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/3oN3f5utpgU6XxKTg4MmDs"
@@ -34650,6 +34650,24 @@
       "duration_ms": 112906,
       "name": "TIRALO PA' TRA",
       "url": "https://open.spotify.com/track/0xY42qwLNOERJfKt1cmCl2"
+    },
+    {
+      "album": {
+        "name": "On Loop",
+        "url": "https://open.spotify.com/album/5XMbVKcoaXV2Nn74qGRPHM"
+      },
+      "artists": [
+        {
+          "name": "Mvriol",
+          "url": "https://open.spotify.com/artist/4tGFRmgAHQ6wRULsgQpizX"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/7HogvDCQNLsXp9OAiwitPv"
     },
     {
       "album": {

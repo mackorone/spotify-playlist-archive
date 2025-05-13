@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-529 songs - 1 day 3 hr 55 min
+530 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 | 2023-11-21 |  |
 | [FEELIN U \(feat\. Jmani\)](https://open.spotify.com/track/7q6HU528yPaRuXEFsCuJ32) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [FEELIN U \(feat\. Jmani\)](https://open.spotify.com/album/5j53DCPuBA7pRGvnk3ZAym) | 2:52 | 2024-10-04 | 2024-10-18 |
 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 | 2021-12-16 | 2023-05-21 |
-| [Find Your Way](https://open.spotify.com/track/6eSyiy2IBds8UThlpxyLhU) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Steve Biko.K](https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx) | [Find Your Way](https://open.spotify.com/album/4Ip7RbsFLF6XKTaoHcb4PZ) | 5:23 | 2024-07-04 |  |
+| [Find Your Way](https://open.spotify.com/track/6eSyiy2IBds8UThlpxyLhU) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Steve Biko.K](https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx) | [Find Your Way](https://open.spotify.com/album/4Ip7RbsFLF6XKTaoHcb4PZ) | 5:23 | 2024-07-04 | 2025-05-13 |
 | [Finders Keepers](https://open.spotify.com/track/06BD7TeUR6mYbF6cWyzvZt) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Finders Keepers](https://open.spotify.com/album/0GHwcubAh10ID1apl4n22z) | 4:31 | 2021-12-16 | 2022-07-26 |
 | [Fine Wine & Hennessy](https://open.spotify.com/track/63yTeYugkFyU8DEsVFamix) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Slim Jxmmi](https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu) | [Afrowave 3](https://open.spotify.com/album/79dXMRWb9dGw08ud6M87GH) | 3:10 | 2021-12-16 | 2023-02-10 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-03-31 |  |
@@ -251,6 +251,7 @@
 | [Kute & Neat](https://open.spotify.com/track/1P01cmmSQIaWnhjDe1fdQF) | [Sasique](https://open.spotify.com/artist/0IfOujGLUo7rVkWGg84Nd1) | [Kute & Neat](https://open.spotify.com/album/0ERXtxLbzljkQaluDv1WOY) | 3:09 | 2022-11-03 | 2022-12-21 |
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2022-03-25 | 2022-04-21 |
 | [La miss](https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 4:01 | 2022-04-14 | 2022-05-16 |
+| [La Vida](https://open.spotify.com/track/5KfzlufnFri1aWcQZY2RY5) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [La Vida](https://open.spotify.com/album/5Dc3GyedlXR6CcBzFXCCa3) | 3:05 | 2025-05-12 |  |
 | [Lag'é Penetrá](https://open.spotify.com/track/1lDo1X8v3ua8gnC35tMECP) | [Da Ridlaz](https://open.spotify.com/artist/6pFfQlFLTkmSMes6mZysCj), [Hnly](https://open.spotify.com/artist/4CwqaspIyu13WLrhYbHLNJ) | [Lag'é Penetrá](https://open.spotify.com/album/4Mhd9TxfbM4uuCCIhpAxE5) | 3:54 | 2022-03-10 | 2022-04-15 |
 | [Lagrimas](https://open.spotify.com/track/6myPV2uNaOOvnMXJhHJqlI) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Lagrimas](https://open.spotify.com/album/5RxpXMJneQXaCAWXZwrxRa) | 2:10 | 2021-12-16 | 2023-04-07 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-13 | 2023-03-23 |

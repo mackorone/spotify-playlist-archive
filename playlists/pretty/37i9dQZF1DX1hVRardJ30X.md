@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ela Taubert, KAROL G, Ryan Castro, Beéle and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,963 likes - 52 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,016 likes - 52 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 15 | [+ DÓLARE$](https://open.spotify.com/track/0JMFBSmFjSs0sJOypPCLal) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [De Vuelta a las Andadas](https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q) | 3:08 |
 | 16 | [X Perro](https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [X Perro](https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3) | 2:24 |
 | 17 | [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 |
-| 18 | [LOCO](https://open.spotify.com/track/5vsqatbaCBgLUloeTZ3rN1) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [LOCO](https://open.spotify.com/album/28Y3uYAFjPuBKCH5oD6FDv) | 2:19 |
+| 18 | [TOA' TOA'](https://open.spotify.com/track/19noJExZ8e7ePCjWLhK4uC) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Daylight](https://open.spotify.com/album/5u4olXNnzZs0x8NT4HRfYM) | 2:40 |
 | 19 | [Luquillo](https://open.spotify.com/track/3G06OfTDhREomvTNDCVzOZ) | [Babywine](https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Luquillo](https://open.spotify.com/album/0qM3TxO18AQrLuAryc4cYn) | 2:31 |
 | 20 | [Mexicano Soy](https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mexicano Soy](https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY) | 2:32 |
 | 21 | [Mírame Feliz](https://open.spotify.com/track/55gq5GBRE7Mlz3BCKZ8taw) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Mírame Feliz](https://open.spotify.com/album/4Esaa3tjzYiVQk3ENa49yg) | 3:11 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [POLO NORTE](https://open.spotify.com/track/6zbqnUh0nV1w0mxxKdHbHV) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX), [Ángel Cano](https://open.spotify.com/artist/3TKCzc6vYc7swzMbgjPicc) | [POLO NORTE](https://open.spotify.com/album/1xY1LVMP0f5AnaCUfbtpHL) | 2:31 |
 | 52 | [Elimina mi número](https://open.spotify.com/track/7xqPZxhLjDVAtPIGbCjTYI) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8), [Fehr Rivas](https://open.spotify.com/artist/37U8NRF583ABrv1mlYcxce) | [Elimina mi número](https://open.spotify.com/album/4YVXXBSvuhyHcrMEtBvCIg) | 3:14 |
 
-Snapshot ID: `aB43ZQAAAABbzFvrGDEfWKvRioc/Nj9r`
+Snapshot ID: `aCIjkgAAAABFi+XI/ZKZEpoMcCGtFz9V`

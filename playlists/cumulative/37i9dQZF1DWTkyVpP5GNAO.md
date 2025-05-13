@@ -2,9 +2,9 @@
 
 ### [Alabanzas y Gloria](https://open.spotify.com/playlist/37i9dQZF1DWTkyVpP5GNAO)
 
-> Dale a Dios toda la gloria y alabanza! Foto: Marco Witt & Montesanto
+> Dale a Dios toda la gloria y alabanza! Foto: Yelitza Cintron
 
-202 songs - 19 hr 52 min
+203 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Desde mi Interior](https://open.spotify.com/track/5NYWdRi7RQ3VwhAVyvbQSU) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Desde mi Interior](https://open.spotify.com/album/3Xcx2kZHvkS3ze3bghVlmc) | 6:01 | 2025-04-30 |  |
 | [Despierta Mi Alma](https://open.spotify.com/track/1otazeWaKgfTnlmBxOyte6) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Despierta](https://open.spotify.com/album/2HB2e7vXLnGGVSZu1AgnlJ) | 4:22 | 2021-07-23 |  |
 | [Despierta Mi Alma](https://open.spotify.com/track/44uiY9mN7UCReHQ79csPtd) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Despierta](https://open.spotify.com/album/25PGrgAo37O5dMSzgAj9BR) | 4:22 | 2021-07-23 | 2024-04-19 |
-| [Digno \(Oh, Mi Fiel Señor\)](https://open.spotify.com/track/4CoQhr7DbXX5j10naSIDsM) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Digno \(Oh, Mi Fiel Señor\)](https://open.spotify.com/album/0sjtIO2ippBTAHkh0Dyzzm) | 5:20 | 2025-04-30 |  |
+| [Digno \(Oh, Mi Fiel Señor\)](https://open.spotify.com/track/4CoQhr7DbXX5j10naSIDsM) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Digno \(Oh, Mi Fiel Señor\)](https://open.spotify.com/album/0sjtIO2ippBTAHkh0Dyzzm) | 5:20 | 2025-04-30 | 2025-05-13 |
 | [Digno de Adorar](https://open.spotify.com/track/0SJjnHs6rZwXBJgERsbJd4) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Digno de Adorar](https://open.spotify.com/album/02PTqHXwlOhC2783iojG7t) | 11:06 | 2025-04-11 |  |
 | [Dios Conmigo Estás](https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Dios Conmigo Estás](https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm) | 5:52 | 2021-07-23 | 2024-06-23 |
 | [Dios de lo Imposible](https://open.spotify.com/track/4k06E8AMRhsUoVcWM6FtLB) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Dios de lo Imposible](https://open.spotify.com/album/4YSYqVKZBSVaX4ygsyqp10) | 5:22 | 2021-07-23 | 2024-06-23 |
@@ -76,6 +76,7 @@
 | [Es Por Tu Gracia](https://open.spotify.com/track/2jSJ1TNnuaifMb1KM61lNn) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Playlist \- Canciones De Semana Santa](https://open.spotify.com/album/7wRKk71lLXvwMvV3G14ZPU) | 3:22 | 2021-07-23 | 2025-05-01 |
 | [Es Su Amor](https://open.spotify.com/track/61B2w9KqtI9xgmax05YvVs) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Es Su Amor](https://open.spotify.com/album/2ZW3vCvECa53KJ3UivKFyw) | 3:35 | 2021-07-23 |  |
 | [Esta Cayendo](https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [El Dios De Lo Imposible](https://open.spotify.com/album/73YrJY6JBx5bBJjDmcJ7WU) | 4:42 | 2024-06-22 |  |
+| [Fiel Hacia Mí](https://open.spotify.com/track/0vcLAxDU3QGMkW0M9P6l0I) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [CORITOS Vol\. 1](https://open.spotify.com/album/4RpmmQce0dfnMpYF7UFbzC) | 5:00 | 2025-05-12 |  |
 | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ) | 5:38 | 2024-06-22 |  |
 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 | 2021-07-23 | 2025-02-15 |
 | [Gracias / Tu Fidelidad](https://open.spotify.com/track/65B9K78J0iL1xfwBD2aSCT) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Gracias / Tu Fidelidad](https://open.spotify.com/album/307RCjvBgxdkGic3GVV2jY) | 5:25 | 2025-03-28 | 2025-04-12 |

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: ROSÉ
 
-1,460 songs - 3 day 5 hr 50 min
+1,462 songs - 3 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Drive](https://open.spotify.com/track/0TNYF3NLy6FgYs8jM10mwi) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/5NvK8EDgRXrTNhYbSDKQ5j) | 3:05 | 2022-08-23 | 2022-10-05 |
 | [Drive](https://open.spotify.com/track/7N2ZqlzoDqXB7xMzUHevJ5) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/5N7p81PrhjsvkICINxnQXf) | 3:05 | 2022-08-23 | 2022-08-25 |
 | [Drop](https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Drop](https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E) | 2:28 | 2025-03-06 | 2025-04-02 |
+| [DROP TOP](https://open.spotify.com/track/2QmoGPYjajOOCtiv3wQseI) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV) | 3:15 | 2025-05-12 |  |
 | [Drummin′](https://open.spotify.com/track/078ikJBghCOeTJnz8vmr19) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [WHY NOT??](https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G) | 3:20 | 2022-07-28 | 2022-10-12 |
 | [DUMB DUMB](https://open.spotify.com/track/6HAbPNraOVHwShFFtRVTik) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/1aFBAMZbMPfzXYGjANINvw) | 2:27 | 2021-12-23 | 2022-01-04 |
 | [Dunk Shot](https://open.spotify.com/track/5FotCNJEeRjXwLGsbtyS9t) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Dunk Shot](https://open.spotify.com/album/4mC1EE9p4dHGws7cxoTZk4) | 2:59 | 2024-09-09 | 2024-09-25 |
@@ -1464,6 +1465,7 @@
 | [겨울, 그리고 벚꽃 \(feat\. Kotaro Oshio\)](https://open.spotify.com/track/16M9FdSosfeRkAYCWTny63) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2) | [겨울, 그리고 벚꽃 \(feat\. Kotaro Oshio\)](https://open.spotify.com/album/18d0OF0vpSgmPSOkpRUZf4) | 2:30 | 2024-02-08 | 2024-02-16 |
 | [결국 \(Love is Pain\)](https://open.spotify.com/track/7aQYTUqgJsy7elLADJr2bo) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [결국 \(Love is Pain\)](https://open.spotify.com/album/09rm6D55oanJigmRYytant) | 3:05 | 2023-09-07 | 2023-10-07 |
 | [기억 속의 멜로디](https://open.spotify.com/track/1KbNnoqia3vnp1KH477gai) | [Izi](https://open.spotify.com/artist/31ZAZu2oXJddl8ZpCQrNUG) | [기억 속의 멜로디](https://open.spotify.com/album/6JVRyUnvHEX3MBUuYh1BZ5) | 4:13 | 2024-04-23 | 2024-05-08 |
+| [깨어 \(Are You Alive\)](https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE25>](https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak) | 3:06 | 2025-05-12 |  |
 | [녹아내려요 Melt Down](https://open.spotify.com/track/5Invv3m92xZvztdCbZrmZ6) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/3i15S6O0DP0uirT7O58yyO) | 2:45 | 2024-09-03 | 2024-10-18 |
 | [별별별 \(See that?\)](https://open.spotify.com/track/2Oc0j4x7HkDRVZq8JsgACT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW) | 3:02 | 2024-08-20 | 2024-08-28 |
 | [어리고 부끄럽고 바보 같은 Little Things](https://open.spotify.com/track/7nTHIcJFqcxEXUQNt3FIoi) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Troubleshooting](https://open.spotify.com/album/12HtnuTB3NL50YdNHJ0BMD) | 3:32 | 2024-05-01 | 2024-06-14 |

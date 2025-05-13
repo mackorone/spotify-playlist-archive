@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 935 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 937 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 6 | [Fokusi](https://open.spotify.com/track/3nppacUxD6iC4iycwtXLFJ) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd) | [Dopamina](https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ) | 2:20 |
 | 7 | [Milkyway](https://open.spotify.com/track/3dZvjnXX0kBOdsiF3lboNJ) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd) | [Dopamina](https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ) | 2:45 |
 | 8 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
-| 9 | [Cypher](https://open.spotify.com/track/2Viuf61ytt4t4dIaIqYQmF) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [Bliznacite](https://open.spotify.com/artist/2oy9qGLJFdgnJGcEYyZGmZ), [BM](https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu) | [Dopamina](https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ) | 2:48 |
+| 9 | [Cypher](https://open.spotify.com/track/2Viuf61ytt4t4dIaIqYQmF) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [Bliznacite](https://open.spotify.com/artist/2oy9qGLJFdgnJGcEYyZGmZ), [BM](https://open.spotify.com/artist/27Uy7A0cZaY0DF2Xu3jffN) | [Dopamina](https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ) | 2:48 |
 | 10 | [Звъня ти, ало](https://open.spotify.com/track/7HunT1JA3wToGQD41HnDXc) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Звъня ти, ало](https://open.spotify.com/album/5aePtyWR4XlUYJqKN8SAjk) | 4:03 |
 | 11 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 |
-| 12 | [Chasat](https://open.spotify.com/track/4Rl34RU1EMpxsuxuHCpo1k) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [BM](https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu) | [Dopamina](https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ) | 3:01 |
+| 12 | [Chasat](https://open.spotify.com/track/4Rl34RU1EMpxsuxuHCpo1k) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [BM](https://open.spotify.com/artist/27Uy7A0cZaY0DF2Xu3jffN) | [Dopamina](https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ) | 3:01 |
 | 13 | [Разкажи ѝ](https://open.spotify.com/track/21z8pee2qYV0SzbqQCb72g) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [Разкажи ѝ](https://open.spotify.com/album/3kXgJjEq9r9ARBUxFr1nO6) | 3:31 |
 | 14 | [Мераклия](https://open.spotify.com/track/0b2D7UMjaaIYJndNYBbdRU) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Мераклия](https://open.spotify.com/album/5VBSe7KYebMlPsrDoETNul) | 3:08 |
 | 15 | [Май полудях](https://open.spotify.com/track/7rpYxeb9bA0qUa4KdeIfS6) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Ivayla](https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt) | [Май полудях](https://open.spotify.com/album/5TjTfDE7PYbHbmbRw7HOI0) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Kato Tebe Vtori Nyama](https://open.spotify.com/track/3LzpgBBMv6aFmUYu7dfdhg) | [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1), [Vanko 1](https://open.spotify.com/artist/19Ts8VmVkszIeHB7Bz0Q90) | [Azis 2014](https://open.spotify.com/album/4eob5WbssPxs5RqRQ61zau) | 4:05 |
 | 50 | [Башмайсторска](https://open.spotify.com/track/1rLpf280OicMHgkl6SfGHG) | [Billy Hlapeto](https://open.spotify.com/artist/0dz4rGLXin0gvKYqFh7iyI), [Lexus](https://open.spotify.com/artist/7L0jOBGO246iJcBr8uWfXs), [Dim4ou](https://open.spotify.com/artist/6URykZzv72st8HDMcJNrsV) | [Башмайсторска](https://open.spotify.com/album/3TSTVv5u0S4wGktlHdQNEO) | 3:07 |
 
-Snapshot ID: `L7QU+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L7VmeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
 
-2,019 songs - 6 day 13 hr 36 min
+2,020 songs - 6 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Escape Cape](https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Escape Cape](https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0) | 4:25 | 2022-01-12 | 2022-03-21 |
 | [Et quart](https://open.spotify.com/track/0qDsMkTla75n5Drd78ERc5) | [Simone Provencher](https://open.spotify.com/artist/1irk8yesuKyeCxWRrhbHxw) | [Et quart](https://open.spotify.com/album/7A2EPBRqLNWRT02uLFj7Hv) | 2:35 | 2021-03-17 | 2021-03-23 |
 | [Eternal Whisper](https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI) | [C O N T X T](https://open.spotify.com/artist/0HCS1dsUZDmjB8lSAMaYjW) | [Lone Memory](https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno) | 4:39 | 2023-05-17 | 2023-08-31 |
+| [Ethos](https://open.spotify.com/track/4olzx0OYnHcaN9wv3OqeYE) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo), [Silvia Olivier](https://open.spotify.com/artist/3v2jSQQAGfj0oiFW7V4Anv) | [Ethos](https://open.spotify.com/album/2KjLTXmmnuc32xO2X0N68y) | 3:00 | 2025-05-07 |  |
 | [Ett visst fängelse](https://open.spotify.com/track/40qQK6EwccUHakM0Cdn2uQ) | [VED](https://open.spotify.com/artist/2gJZDY6Eow1T1T4Cb9cVYm) | [Ett visst fängelse](https://open.spotify.com/album/3mOCn0GyjEJBVfp9MyM1BP) | 4:37 | 2021-04-15 | 2021-06-24 |
 | [Eurybia](https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm) | 6:02 | 2022-05-18 | 2022-08-04 |
 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 | 2022-08-24 | 2022-10-05 |
@@ -1144,7 +1145,7 @@
 | [Muerte a Televisa](https://open.spotify.com/track/02rA2IHdDVFHVeSERPAbTT) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Muerte a Televisa](https://open.spotify.com/album/4FMyQOyT9UY4Y2JojH6LdC) | 1:58 | 2024-08-07 | 2024-09-12 |
 | [Multifolds](https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Everything Squared](https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr) | 5:31 | 2024-09-11 | 2025-04-16 |
 | [Mummon Tarina](https://open.spotify.com/track/4j8jtEHJq3A92q8TpwYXcF) | [Auvinen](https://open.spotify.com/artist/4MiDOWLTXzjLVpuWMG2sBz) | [Akkosaari](https://open.spotify.com/album/3xZKjBTuNJpwBy5K6xsGvz) | 3:05 | 2021-01-21 | 2022-03-10 |
-| [MURiTO](https://open.spotify.com/track/5oZSaNIU19yFAulFgbjeQj) | [kandi](https://open.spotify.com/artist/1hi286sdoYqpOyiq8AGg5c) | [MURiTO](https://open.spotify.com/album/1yeC6D49LeqKFCHO4hobWx) | 2:51 | 2025-04-24 |  |
+| [MURiTO](https://open.spotify.com/track/5oZSaNIU19yFAulFgbjeQj) | [kandi](https://open.spotify.com/artist/1hi286sdoYqpOyiq8AGg5c) | [MURiTO](https://open.spotify.com/album/1yeC6D49LeqKFCHO4hobWx) | 2:51 | 2025-04-24 | 2025-05-13 |
 | [Murmer Double](https://open.spotify.com/track/7kj7ZqCPVeAl103iUrOi11) | [Duncan Marquiss](https://open.spotify.com/artist/0HBHvIQvXpsiwrbyXKRlSE) | [Wires Turned Sideways In Time](https://open.spotify.com/album/1fP3dyBEao39IZeLKC4pzw) | 5:43 | 2022-03-30 | 2022-05-19 |
 | [Murmurs:Fireflies P2](https://open.spotify.com/track/4lKfmCT10PHYjhBt7Gt9Sv) | [NikNak](https://open.spotify.com/artist/108DScSlOQbchNa78euBES) | [Night EP](https://open.spotify.com/album/5wXkTGqbn4bHLNIRRithfk) | 6:02 | 2023-03-22 | 2023-05-18 |
 | [Muscle de sable](https://open.spotify.com/track/3qoY2HMgcyJTDEQVBm9Xx5) | [Roméo Poirier](https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG) | [Living Room](https://open.spotify.com/album/4iZQx2yaJNFhomxb2I64Lw) | 4:01 | 2024-08-21 | 2024-10-16 |

@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Real Lies
 
-307 songs - 19 hr 18 min
+308 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Make It Easy \(with Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/5eWHJ1g1VWtHaGd3vle4me) | [Lovequest](https://open.spotify.com/artist/53aJGeGe9J6suHkjWJZ2aj), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Doorly](https://open.spotify.com/artist/4uUZsrxHK6peebj1rpawBa), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Make It Easy](https://open.spotify.com/album/2VPqWnQAHvxUYRrDvCHpC0) | 2:54 | 2024-11-08 | 2025-02-14 |
 | [MAYBE // YES](https://open.spotify.com/track/0ekKe6Fjv6TjApSyU7Fqw1) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [MAYBE // YES](https://open.spotify.com/album/7zVYSpvaRKJCkq18mQww6Z) | 3:29 | 2024-05-24 | 2025-02-14 |
 | [maybe it's u](https://open.spotify.com/track/2K0onXEr9iCUSYonEf0Bl4) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [maybe it's u](https://open.spotify.com/album/5tDwbRikZ6n4A1EN2fJPHZ) | 3:57 | 2024-07-03 | 2025-02-23 |
-| [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-21 |  |
+| [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-21 | 2025-05-13 |
 | [Mind the gap](https://open.spotify.com/track/0sgjifApyLtCKDyDRAEiUN) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q) | [Mind the gap](https://open.spotify.com/album/3dHA39Jh9zC6GK8EdiuTv8) | 4:06 | 2024-03-01 | 2024-07-19 |
 | [Mirror's Edge](https://open.spotify.com/track/456tPmLLrNb6ZRTeyS2h80) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [POiSON ANNA](https://open.spotify.com/artist/1qC3BErhNjJ0AP7Ddg4YfD) | [Mirror's Edge](https://open.spotify.com/album/7kVHEGvxMaOlnandC0faCR) | 3:57 | 2025-04-17 | 2025-05-09 |
 | [Mister Magic](https://open.spotify.com/track/2EDdM9Cd6gDzGGejBqxpse) | [Babylamb](https://open.spotify.com/artist/2eO9bZ9xHCINHEtl8vJPC8) | [Mister Magic](https://open.spotify.com/album/6rdKSNASXtIfyMcfsc35JD) | 3:33 | 2021-10-28 | 2024-03-02 |
@@ -261,6 +261,7 @@
 | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/track/4EnqqwxwKavuv0mQMMgFE5) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/album/5DObus73yw027Z2SM972b3) | 3:08 | 2024-07-03 | 2025-03-14 |
 | [Stranger \(feat\. Elkka\)](https://open.spotify.com/track/4Ym9kUhwyIgms5DhCH1PAO) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp), [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Stranger \(feat\. Elkka\)](https://open.spotify.com/album/3W0rAY4LLL7rDbGY41I1HE) | 3:29 | 2024-07-18 | 2025-02-14 |
 | [Stranger's Town](https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [ZOE ASKA](https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE) | [Stranger's Town](https://open.spotify.com/album/18TszgLDusxrAqAoQbM75t) | 3:24 | 2024-08-15 | 2025-05-09 |
+| [Sunshine Is Coming](https://open.spotify.com/track/4vW0tD7iei8EGVq98BjZ2T) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Sunshine Is Coming](https://open.spotify.com/album/2ftCxHAs5kEFCzgkLUMpFV) | 4:06 | 2025-05-08 |  |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-31 |  |
 | [Switch It](https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Switch It](https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU) | 3:04 | 2024-06-21 | 2025-02-14 |
 | [Take Me There](https://open.spotify.com/track/3BcMePW9jGSfzYqlNHdtvz) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Service Station At The End Of The Universe](https://open.spotify.com/album/1Lf53XbMfvkF7oDKlZkahO) | 3:32 | 2025-02-28 | 2025-03-28 |

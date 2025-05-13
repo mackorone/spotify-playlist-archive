@@ -9661,6 +9661,24 @@
     },
     {
       "album": {
+        "name": "helium",
+        "url": "https://open.spotify.com/album/5WjiWOcFguju9bZkfXk2DR"
+      },
+      "artists": [
+        {
+          "name": "AVRALIZE",
+          "url": "https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215421,
+      "name": "helium",
+      "url": "https://open.spotify.com/track/2N8djHgfdViWfGSxJpJO0c"
+    },
+    {
+      "album": {
         "name": "Hell is Other People",
         "url": "https://open.spotify.com/album/4RWvDCNII3onIm2bZvjzdy"
       },
@@ -12806,7 +12824,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 326557,
       "name": "Melanchronic",
       "url": "https://open.spotify.com/track/0ZnJwflZTxlQxtQOzRlRBL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,478 likes - 99 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,482 likes - 99 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 2 | [anemoia](https://open.spotify.com/track/5d8mMKyfcwAfveKsdOcX4k) | [Polo](https://open.spotify.com/artist/6vCBysb7G1RD4bv0dtfhKb) | [anemoia](https://open.spotify.com/album/0JbdGmq0U2w5Jm645dwau7) | 7:45 |
 | 3 | [Calling My Name \- Larrosa \(AR\), Nico Sparvieri Remix](https://open.spotify.com/track/23WyK7BdcF8gPXORh6oXnW) | [Bodai](https://open.spotify.com/artist/1xtnGAPG2Rx44JZFP3yrER), [Nico Sparvieri](https://open.spotify.com/artist/3m2ydJ22qXMlYHrNdhmytI), [Larrosa \(AR\)](https://open.spotify.com/artist/0G2WF50v5rh9qDel3vxCCE) | [Calling My Name \(Larrosa \(AR\), Nico Sparvieri Remix\)](https://open.spotify.com/album/4uePyRIPbA3r4qSkyI1cqS) | 6:17 |
 | 4 | [The Range](https://open.spotify.com/track/5LctNQgYEqdfbRdNLvTsyR) | [Tiefstone](https://open.spotify.com/artist/6Nu3bTytPSUQ9Y6k0r2gOO), [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Unicron \| Dominus \| the Range](https://open.spotify.com/album/2nLS9mHCj9SlionGnXPOn6) | 6:34 |
-| 5 | [Ethereal Pulse \- Hernan Cattaneo & Mercurio Remix](https://open.spotify.com/track/3rz57bviUeYsuL8Vv5aEbX) | [Paul Nolan](https://open.spotify.com/artist/7AXsYYdUBYNvskgzf1mM16), [Brent Lawson](https://open.spotify.com/artist/6AWQPmyjjUPEWQrikEWx0h), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB) | [Ethereal Pulse \(Hernan Cattaneo & Mercurio Remix\)](https://open.spotify.com/album/4RY8734UXGkgjtXcvGdZIb) | 8:03 |
+| 5 | [Ethereal Pulse \- Hernan Cattaneo & Mercurio Remix](https://open.spotify.com/track/3rz57bviUeYsuL8Vv5aEbX) | [Paul Nolan](https://open.spotify.com/artist/7AXsYYdUBYNvskgzf1mM16), [Brent Lawson](https://open.spotify.com/artist/6AWQPmyjjUPEWQrikEWx0h), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [Ethereal Pulse \(Hernan Cattaneo & Mercurio Remix\)](https://open.spotify.com/album/4RY8734UXGkgjtXcvGdZIb) | 8:03 |
 | 6 | [Mashamba \- Zetter Remix](https://open.spotify.com/track/0292XlbvymufABxI846hAH) | [Antonio \(AR\)](https://open.spotify.com/artist/719reSpBlQmZqDIRUFGVGv), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Zetter](https://open.spotify.com/artist/3sx8gto6RQhgBiLu3KJLzY) | [Mashamba \(Zetter Remix\)](https://open.spotify.com/album/1IUgpuRmwhPyRZDGFMB5Yp) | 6:12 |
 | 7 | [Oxido \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/2RhTWxwoljIizLKfphbyFD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Desconfiguración, Vol\. 4](https://open.spotify.com/album/5LGIrNz5TLDoV228z8oLeO) | 6:54 |
 | 8 | [By Your Side](https://open.spotify.com/track/4JGTKryQQhMcMKIJUOO4Tq) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo), [Santor](https://open.spotify.com/artist/4Ao6INsRciBdfNr5WBOYlr) | [By Your Side](https://open.spotify.com/album/4mecnJXaCjRfSldm7lu2Pb) | 3:55 |

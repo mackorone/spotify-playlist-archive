@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 502259,
+  "num_followers": 502348,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB6XAAAAAAAs7w+4aUOw1z5atOiiuML1",
+  "snapshot_id": "aB/ogAAAAAD28EPX27qBCSUrMV9pGgSZ",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Misma Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "La Misma Gran Se\u00f1ora",
-      "url": "https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje a las Grandes",
         "url": "https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 160146,
       "name": "Juro Que Nunca Volvere",
       "url": "https://open.spotify.com/track/7zf9VnCyarordJgf4lbDk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "La Misma Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Kawtar
 
-161 songs - 8 hr 31 min
+162 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Kam Molahza](https://open.spotify.com/track/4ZCLvKj9wtAX5HE0TWBihS) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [كام ملاحظة](https://open.spotify.com/album/4N1Lhxoue6GRiMnUtaWrIk) | 3:15 | 2022-10-20 | 2025-01-30 |
 | [Khaleeki](https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h) | [MOLHAM](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khaleeki](https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr) | 2:24 | 2022-07-21 | 2025-01-30 |
 | [Khayali](https://open.spotify.com/track/6r7tAWZJKh1bAcDY49IZyh) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khayali](https://open.spotify.com/album/25dlC7CoMPDwTrcMindR3w) | 2:09 | 2022-06-24 | 2022-11-09 |
+| [LAMA TROU2](https://open.spotify.com/track/1HUvF8RK92osBInwE1epTG) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LAMA TROU2](https://open.spotify.com/album/65scTQsaErZPAsaxKzjd31) | 3:16 | 2025-05-12 |  |
 | [Layli](https://open.spotify.com/track/5GWLrhnqDDGyjbwbweY8FT) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Layli](https://open.spotify.com/album/78wyh3lmhFE1y5tnlFv4p5) | 3:16 | 2025-01-29 |  |
 | [LDAKHEL MIYET](https://open.spotify.com/track/4QmTJOzF7FcVscManv5ktY) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [LDAKHEL MIYET](https://open.spotify.com/album/5Lh6JYukdMCgahLYz0smCK) | 3:14 | 2025-01-29 |  |
 | [Leeh Aashgah](https://open.spotify.com/track/0TBgkcyxayUBByqDt0HhNR) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Leeh Aashgah](https://open.spotify.com/album/3txXZExrTSWJaDgIMS4MOv) | 4:04 | 2022-06-24 | 2022-11-09 |

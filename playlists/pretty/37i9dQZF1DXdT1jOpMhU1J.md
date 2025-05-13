@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,849 likes - 288 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,855 likes - 288 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 | 157 | [Bella the Blue Whale](https://open.spotify.com/track/5K4TmtOxMSmxl3FIPfhnZD) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Bella the Blue Whale](https://open.spotify.com/album/0P78U0tvLiM5wlVl7eAP2I) | 1:35 |
 | 158 | [Eden's Grass](https://open.spotify.com/track/0DBFljDvAjeIStakv8HASX) | [The Piano Hive](https://open.spotify.com/artist/0Mo0e0qwgpS4x9Il9FU3T7) | [Eden's Grass](https://open.spotify.com/album/2ZRy5reecRQg9hfQCFJNmJ) | 1:32 |
 | 159 | [Colorful Cradle](https://open.spotify.com/track/3mxfB0w2Yvy47YczoYjczW) | [Loyd Niles](https://open.spotify.com/artist/1ra6sPkU3EB25Ad5RKBtBx) | [Colorful Cradle](https://open.spotify.com/album/5hUrWZiRNULGZ4W8tXKSNg) | 1:33 |
-| 160 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 |
+| 160 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Priam Roy](https://open.spotify.com/artist/0E5cC8pTIy6UO0S4FKwDh5) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 |
 | 161 | [Quiet Night](https://open.spotify.com/track/5LYbJfH5SvlAxAgQKrv2wu) | [Zuriñe Ilaria](https://open.spotify.com/artist/3nuIaWShg2iLdwSq2cSqGx) | [Baby Lullabies](https://open.spotify.com/album/0h1oogrKRSjdKbigLoQFwj) | 1:52 |
 | 162 | [Warm Breeze](https://open.spotify.com/track/2By5z0SpEoqzQ6sslvZWfp) | [Lily Lullaby](https://open.spotify.com/artist/59q70buEf9vwjspG2sNLET) | [Warm Breeze](https://open.spotify.com/album/31SAPV5z9PJ8SZqru2yGFf) | 1:33 |
 | 163 | [Always Here](https://open.spotify.com/track/0yQX1sHS7ku9DmpSgTZF5T) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Always Here](https://open.spotify.com/album/2Wmq2hnmU4Ku2hCHXO51W1) | 1:48 |

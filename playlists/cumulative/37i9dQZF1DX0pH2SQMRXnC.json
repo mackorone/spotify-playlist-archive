@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 165660,
       "name": "BEUK D\u2019R IN",
       "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 211764,
       "name": "Big City Life - BassWar & CaoX Remix",
       "url": "https://open.spotify.com/track/0gkSAe8SBP4ufXgIMfB5VK"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 238455,
       "name": "Died In Your Arms (Reloaded)",
       "url": "https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M"
@@ -4532,7 +4532,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 216774,
       "name": "Embrace The Dark",
       "url": "https://open.spotify.com/track/4DIfkWuuB3dUgjs5s8Q6YD"
@@ -8891,6 +8891,24 @@
     },
     {
       "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S"
+    },
+    {
+      "album": {
         "name": "Keep It Up",
         "url": "https://open.spotify.com/album/0brzA3lWqdb7UuTY7YxNYx"
       },
@@ -9810,6 +9828,24 @@
       "duration_ms": 198290,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/3yfalzV1vMd3dm7jzpCjii"
+    },
+    {
+      "album": {
+        "name": "Lose Control (CTRL)",
+        "url": "https://open.spotify.com/album/0XyDiE29muAoeFK8le4REp"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156580,
+      "name": "Lose Control (CTRL)",
+      "url": "https://open.spotify.com/track/2kiClNOTehkH5oA9Ivhk6q"
     },
     {
       "album": {
@@ -12523,6 +12559,28 @@
     },
     {
       "album": {
+        "name": "Party Till Midnight",
+        "url": "https://open.spotify.com/album/7k8jG1JAjmd88lHk5kBpbz"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188129,
+      "name": "Party Till Midnight",
+      "url": "https://open.spotify.com/track/0yIpkAQNsMfkROSqSJG6Jx"
+    },
+    {
+      "album": {
         "name": "Partyfreak",
         "url": "https://open.spotify.com/album/3PM5YOCPMrgGHgl8bzN7dx"
       },
@@ -12762,7 +12820,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 325494,
       "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
       "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
@@ -13389,6 +13447,32 @@
     },
     {
       "album": {
+        "name": "Rebel or Redeem",
+        "url": "https://open.spotify.com/album/3Fp0HIEF4G5BjbPnPAbWup"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162187,
+      "name": "Rebel or Redeem",
+      "url": "https://open.spotify.com/track/0AJFoiDPSkGPleUAljfqm1"
+    },
+    {
+      "album": {
         "name": "Redemption & Rage",
         "url": "https://open.spotify.com/album/6BLiwYm4QL6Ke6s4y3S15T"
       },
@@ -13664,7 +13748,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 264221,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/57uOEl0RYTSpWbd6GZH6Xe"
@@ -14899,6 +14983,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/494YGoOA14ie9mM7RnDgR6"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203391,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/5k0I0O8eom23uHoVCNB2eG"
+    },
+    {
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/7sTJS0wrHRrA4S79NSAJOT"
       },
@@ -16108,7 +16210,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 175500,
       "name": "The Edge (of the End)",
       "url": "https://open.spotify.com/track/0DlHcmxGyzgXKiiLrb2Lhu"
@@ -16423,6 +16525,32 @@
     },
     {
       "album": {
+        "name": "The One That Got Away",
+        "url": "https://open.spotify.com/album/2tGS5SLRKjaJc24grSdPQE"
+      },
+      "artists": [
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "Level One",
+          "url": "https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh"
+        },
+        {
+          "name": "\u00c6LINN",
+          "url": "https://open.spotify.com/artist/6NsKMikdjKAce0fFJ7xvkw"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/5LFDL81snndfAJSnyIzilb"
+    },
+    {
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/11ec2CoUTF2AO3KXAWo4oQ"
       },
@@ -16526,7 +16654,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 207483,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO"
@@ -17464,7 +17592,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 198193,
       "name": "U Are The High",
       "url": "https://open.spotify.com/track/2ssPLm5u7KiGXAwpTIBvEl"
@@ -17640,6 +17768,24 @@
       "duration_ms": 191455,
       "name": "Until the Day I Die",
       "url": "https://open.spotify.com/track/3fuk0gZ8I1n2CYA2gsCtzH"
+    },
+    {
+      "album": {
+        "name": "Until We Fall Down",
+        "url": "https://open.spotify.com/album/2lBi7ul7vvh5Q6sK8IJ2sS"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Until We Fall Down",
+      "url": "https://open.spotify.com/track/4itFVbnJD3D5WC8TCIIoIk"
     },
     {
       "album": {
@@ -18126,7 +18272,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 207483,
       "name": "Warrior Cry",
       "url": "https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj"
@@ -18642,7 +18788,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 212500,
       "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
       "url": "https://open.spotify.com/track/3Mia9gtcznpH1Sh2ZQdwD5"

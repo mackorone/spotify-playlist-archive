@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van Naomi Sharon, néomí \(RADAR\-artiest\), Tyla, Miley Cyrus en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,903 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,906 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 65 | [2 Good](https://open.spotify.com/track/6onTSGUlM6RTH6wfePrDPd) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Before You Go](https://open.spotify.com/album/5w1CiB6umzBpiB6FjYWxVX) | 3:26 |
 | 66 | [The Spirit](https://open.spotify.com/track/4WnsGUynB9D65tenA7U5gI) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 4:55 |
 | 67 | [Bloodline](https://open.spotify.com/track/4j4rbZs658sxsDefOzq5Gu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [MIXED EMOTIONS](https://open.spotify.com/album/2fbZbR42v9wRJ8aojApy5Z) | 3:11 |
-| 68 | [I'll Be Fire](https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [I'll Be Fire](https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7) | 3:10 |
+| 68 | [I'll Be Fire](https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He) | [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [I'll Be Fire](https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7) | 3:10 |
 | 69 | [Man on The Moon](https://open.spotify.com/track/5axqHofGz7te1YRAVJiXPA) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Man on The Moon](https://open.spotify.com/album/6vTJpzK34hbmKzrftG34G8) | 2:30 |
 | 70 | [Taking It Back](https://open.spotify.com/track/2ur4RonS97S9mlJMlxcEry) | [Jennie Lena](https://open.spotify.com/artist/69YjsiBzjT9ZPbngJlO0Rm), [The Free Souls](https://open.spotify.com/artist/7yuNyvCjBse3VyJPIzO5Wl) | [Sweet Trouble](https://open.spotify.com/album/2GbPn858ycaEeUOapYSYAY) | 3:42 |
 | 71 | [Morning, Morning, See Me Fly](https://open.spotify.com/track/3t0lkSef3dnTnrgJC0zjti) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [The Seasons: Spring](https://open.spotify.com/album/5jtF8I2FQNaZnwJkJcviai) | 3:27 |

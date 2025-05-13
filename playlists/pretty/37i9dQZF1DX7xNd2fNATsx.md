@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un\. Photo : Bob Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 141 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 22 | [Modern Life](https://open.spotify.com/track/2bicTvHQXudRYQQSQcYRsS) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Modern Life](https://open.spotify.com/album/5sejrpX8MyaFzQCox0cni0) | 2:49 |
 | 23 | [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [The Less I Know The Better](https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk) | 2:56 |
 | 24 | [Lost It To Trying](https://open.spotify.com/track/7frqaCMi7gVCD7JBuDrmEd) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Lanterns](https://open.spotify.com/album/0DXzTaMzhm1ojc6b5H3PaJ) | 4:42 |
-| 25 | [Dopamine](https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Dopamine](https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By) | 2:49 |
+| 25 | [DOPAMINE](https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [DOPAMINE](https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By) | 2:49 |
 | 26 | [Higher Than Love](https://open.spotify.com/track/7x1cAOXOsKAFC2wFVGxDIn) | [The Ninety2](https://open.spotify.com/artist/29RM8HCj3b2p9RVqS4zT2A), [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Higher Than Love](https://open.spotify.com/album/6Gtk9bJdmQS5lxn1CEot4z) | 3:51 |
 | 27 | [Furia Electronica](https://open.spotify.com/track/5cHjMM0sX3nOME4JHIJfJq) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Furia Electronica](https://open.spotify.com/album/29AEcGabeudmQqN03ReQcs) | 4:50 |
 | 28 | [Future Is Your Love](https://open.spotify.com/track/1mAv52KN5MrTlLwzhd0cOG) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [David Carretta](https://open.spotify.com/artist/4z8hp2djLQN4FGiB596ZDB), [Gigi Succès](https://open.spotify.com/artist/6cw4eZjH6GRUans9yeFHCH) | [Future Is Your Love](https://open.spotify.com/album/1hd7PXRj0RF679DfpHwZ8Z) | 4:39 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sleep Token. The essential tracks, all in one playlist.",
-  "num_followers": 348958,
+  "num_followers": 349285,
   "original_name": "This Is Sleep Token",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB6XAAAAAAB0Yitnjho9xiqEGiy1BWdc",
+  "snapshot_id": "aB/ogAAAAABoZZEoHyKWiwz2LKejclN0",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Me Back To Eden",
         "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
       },
@@ -107,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even In Arcadia",
-        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 214648,
-      "name": "Past Self",
-      "url": "https://open.spotify.com/track/0Uvf2v96tJ5CuyK0LtyAgd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jaws",
         "url": "https://open.spotify.com/album/2DiX65iiou5VYicpiCnJet"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 355300,
       "name": "Jaws",
       "url": "https://open.spotify.com/track/2GPdGwBnFfruzFbJPd7uQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 214648,
+      "name": "Past Self",
+      "url": "https://open.spotify.com/track/0Uvf2v96tJ5CuyK0LtyAgd"
     },
     {
       "added_at": null,
@@ -171,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even In Arcadia",
-        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sundowning",
         "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 349653,
       "name": "The Offering",
       "url": "https://open.spotify.com/track/1lXAzSbRH4VXrqgFuPQSFp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 466463,
+      "name": "Look To Windward",
+      "url": "https://open.spotify.com/track/4Lojbtk7XNMdSKRHSFbdkm"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even In Arcadia",
-        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 466463,
-      "name": "Look To Windward",
-      "url": "https://open.spotify.com/track/4Lojbtk7XNMdSKRHSFbdkm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sundowning",
         "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 236306,
       "name": "Give",
       "url": "https://open.spotify.com/track/1LzRiE4LCTF80qZectiltH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO"
     },
     {
       "added_at": null,
@@ -299,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even In Arcadia",
-        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 383400,
-      "name": "Gethsemane",
-      "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sundowning",
         "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 268400,
       "name": "Dark Signs",
       "url": "https://open.spotify.com/track/39I8byKcHBzTQbtbxTBSM7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 365904,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/7JVAVLkkhpKOp8g4jX5Z12"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even In Arcadia",
-        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 365904,
-      "name": "Provider",
-      "url": "https://open.spotify.com/track/7JVAVLkkhpKOp8g4jX5Z12"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sundowning",
         "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 292000,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6kxSspYgCP6DmpLwqmrZ3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 503258,
+      "name": "Infinite Baths",
+      "url": "https://open.spotify.com/track/3lGs8BwNj35qaBx3uSOQdR"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Place Will Become Your Tomb",
-        "url": "https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 146213,
-      "name": "Fall For Me",
-      "url": "https://open.spotify.com/track/3UwtS13MeMT2Nu2rRwa50I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 336840,
       "name": "Nazareth",
       "url": "https://open.spotify.com/track/2S53xe3CB5RgDELKeU97g0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Place Will Become Your Tomb",
+        "url": "https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 146213,
+      "name": "Fall For Me",
+      "url": "https://open.spotify.com/track/3UwtS13MeMT2Nu2rRwa50I"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even In Arcadia",
-        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 503258,
-      "name": "Infinite Baths",
-      "url": "https://open.spotify.com/track/3lGs8BwNj35qaBx3uSOQdR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sundowning",
-        "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 321706,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2S4q08im3SvocGZulxj2cP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/6NJfEwMs0sdtxoDQyAo3jv"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 271250,
       "name": "Fields of Elation",
       "url": "https://open.spotify.com/track/7G1ebsHrn3uDY5F5XY9YK9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sundowning",
+        "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 321706,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2S4q08im3SvocGZulxj2cP"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Ya",
-        "url": "https://open.spotify.com/album/1UcJBnDdk4djRCrh1Rvaaq"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Hey Ya",
-      "url": "https://open.spotify.com/track/3DxDNZNMA2H9hnWeblvRgL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/6NJfEwMs0sdtxoDQyAo3jv"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 396000,
       "name": "Thread the Needle",
       "url": "https://open.spotify.com/track/27ykoata0UDHwDCkfNNmOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Ya",
+        "url": "https://open.spotify.com/album/1UcJBnDdk4djRCrh1Rvaaq"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Hey Ya",
+      "url": "https://open.spotify.com/track/3DxDNZNMA2H9hnWeblvRgL"
     },
     {
       "added_at": null,

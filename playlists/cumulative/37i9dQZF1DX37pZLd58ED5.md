@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-202 songs - 10 hr 50 min
+203 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Immortale \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3UZkuJS1tn3jNYHcxJcNzH) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:20 | 2023-03-17 | 2024-04-19 |
 | [Indelebili](https://open.spotify.com/track/75Yzvfpj7uGrT9c39u4pvq) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:18 | 2024-01-12 | 2024-01-26 |
 | [IQOS \- feat\. Ernia](https://open.spotify.com/track/07gdXx27doa2tNadvelcpS) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 2:40 | 2022-04-28 | 2022-06-01 |
+| [Isolato](https://open.spotify.com/track/05vRH5YbsadNUv5XKj9uvI) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Isolato](https://open.spotify.com/album/0lKxCCxW6PqTJWocq47qdD) | 2:40 | 2025-05-12 |  |
 | [KUMITE](https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 2:50 | 2022-04-28 | 2024-06-28 |
 | [L'ultima volta \- feat\. Massimo Pericolo](https://open.spotify.com/track/3rOw9WmYFCRLHTRcbOjhUl) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [17](https://open.spotify.com/album/11T8pkk7VAT7LeoReyY7B7) | 3:30 | 2022-04-28 |  |
 | [Lacrime \(feat\. Tedua\)](https://open.spotify.com/track/6jrUqaOpeD8OJAxqEtaSxa) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 3:02 | 2022-04-28 | 2022-07-15 |

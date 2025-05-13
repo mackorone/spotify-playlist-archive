@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,895 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,902 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 37 | [Dirty K](https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:49 |
 | 38 | [It Ain't My Fault](https://open.spotify.com/track/5cX92psZ1aSHr6rTmGQMps) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [It Ain't My Fault](https://open.spotify.com/album/5aTCwMHvG9VSoeX1ZpYQY0) | 3:26 |
 | 39 | [Movie](https://open.spotify.com/track/3hEr1HhvLm6sq52CdgGk72) | [Bundog](https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO), [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [Why G](https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB) | [Movie](https://open.spotify.com/album/13Gw4ZOeVGHSuNdWgf8Fh2) | 2:45 |
-| 40 | [Demons \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/5QdnavjDzGRNHfQn23PlG8) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Demons \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/0Lwd1Jj6yJxpbDT1vHzC9m) | 2:58 |
-| 41 | [Toxic Punk](https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Ain't Scared](https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ) | 2:03 |
+| 40 | [Toxic Punk](https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Ain't Scared](https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ) | 2:03 |
+| 41 | [Demons \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/5QdnavjDzGRNHfQn23PlG8) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Demons \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/0Lwd1Jj6yJxpbDT1vHzC9m) | 2:58 |
 | 42 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 3:48 |
 | 43 | [My Shit](https://open.spotify.com/track/1HmhJrabjvTHZlkKDUzZfX) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [My Shit](https://open.spotify.com/album/7C6YsJ2PYab0ydSTP7BQB2) | 2:00 |
 | 44 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 |

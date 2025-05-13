@@ -4,7 +4,7 @@
 
 > A curated space for the avant\-garde\. Cover: model / actriz
 
-1,578 songs - 3 day 14 hr 40 min
+1,579 songs - 3 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,6 +794,7 @@
 | [Last Night](https://open.spotify.com/track/4dFQjuEsCVlA59LB3diItC) | [Miss McLeod](https://open.spotify.com/artist/0JeXxvHfbLkoMHmS8WJymy) | [Last Night](https://open.spotify.com/album/0rV022QmTwdl476CVM68TS) | 2:36 | 2022-04-29 | 2022-06-11 |
 | [Last Night I Dreamt I Was Alone \- Loukeman Remix](https://open.spotify.com/track/3RcnrSLr8adMwaoAjirO5d) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Last Night I Dreamt I Was Alone \(Loukeman Remix\)](https://open.spotify.com/album/7KuyLUWqXzLvxWYxzXYuh9) | 2:45 | 2025-04-04 |  |
 | [Latency](https://open.spotify.com/track/24bcu7IGNipuid5nU7oqgU) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Latency](https://open.spotify.com/album/4cOomZu7ZP0IZdcuSy15sh) | 2:52 | 2022-06-03 | 2022-07-09 |
+| [laundry day](https://open.spotify.com/track/1dtINGPPyYYVhtwpSAjodV) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [laundry day](https://open.spotify.com/album/3osKZabjMYt3IESd67l0Zr) | 2:48 | 2025-05-12 |  |
 | [LAWD](https://open.spotify.com/track/0G7FTrrupbGvXYPFfAPr7M) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [Tibe](https://open.spotify.com/artist/4AIBWTy1SuwnrbO2LhIZU2) | [LAWD](https://open.spotify.com/album/2C80TjyKrG3GFKnyYfEZHs) | 2:45 | 2022-06-17 | 2022-10-22 |
 | [Lay Up](https://open.spotify.com/track/1VbKfeVxGwG32Ijr7pLNWV) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [CHATEAU SUPERSTAR](https://open.spotify.com/album/0kQO94cKX1NBVT2lpc1mPY) | 2:33 | 2022-10-14 | 2022-12-03 |
 | [Laylo](https://open.spotify.com/track/6VbC42nxXJIQQoRXu743ie) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Laylo](https://open.spotify.com/album/7Gi6fUYFXvE5VRqxecdl30) | 3:04 | 2022-02-18 | 2022-03-05 |
@@ -1487,7 +1488,7 @@
 | [Waiting Outside](https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:40 | 2022-09-09 | 2023-04-01 |
 | [WAKE UP](https://open.spotify.com/track/2QAz9MrzAwLltC4Byk8AMV) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg) | [WAKE UP](https://open.spotify.com/album/64w4PHbffwBJvLkVdSfm9E) | 7:07 | 2024-04-19 | 2024-08-24 |
 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-03 | 2022-07-30 |
-| [WANDERER](https://open.spotify.com/track/44tPUwjtdkisODujAAp6hs) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [WANDERER](https://open.spotify.com/album/0t7A5PFJ9BEkMTjUWsqLVm) | 4:20 | 2025-02-14 |  |
+| [WANDERER](https://open.spotify.com/track/44tPUwjtdkisODujAAp6hs) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [WANDERER](https://open.spotify.com/album/0t7A5PFJ9BEkMTjUWsqLVm) | 4:20 | 2025-02-14 | 2025-05-13 |
 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 | 2023-06-30 | 2023-12-02 |
 | [Want It Bad \(with Nigo\)](https://open.spotify.com/track/6PzDwzYlw2gH6pYFQqNnFA) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Want It Bad](https://open.spotify.com/album/3MuAhnruoa9XOopdaIL3JT) | 3:20 | 2022-02-18 | 2022-05-28 |
 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 | 2023-12-15 | 2024-05-18 |

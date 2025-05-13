@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-185 songs - 9 hr 14 min
+186 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [larissa](https://open.spotify.com/track/3CgVFbz5OQDGuRURKKTvmE) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [larissa](https://open.spotify.com/album/22pTsHQr1PEdldt3nqp0Ig) | 3:07 | 2023-09-15 | 2023-10-07 |
 | [Lembra?](https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Lembra?](https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU) | 2:07 | 2024-03-22 |  |
 | [Lembra?](https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC) | [D'Castelo](https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR), [BRUNNOASH](https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd) | [Lembra?](https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD) | 3:40 | 2023-09-15 | 2024-06-22 |
+| [Leva Tudo](https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Leva Tudo](https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN) | 3:11 | 2025-05-12 |  |
 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2023-09-15 | 2023-10-28 |
 | [Levante](https://open.spotify.com/track/09tODjIWVm1d08ZstMQs7d) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:39 | 2024-08-09 | 2025-04-02 |
 | [Lingerie Azul](https://open.spotify.com/track/04l6YnwfUE1c3M4Ukzrf58) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Garotas Amam Namorar](https://open.spotify.com/album/4wgbXSLUAfX5DwflkH3YYD) | 2:07 | 2024-06-07 | 2025-01-18 |
@@ -191,7 +192,7 @@
 | [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 | 2023-10-06 | 2024-01-20 |
 | [Água](https://open.spotify.com/track/1lOvdRWVCQT2zWRfW96gBx) | [Thalia Abdon](https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05) | [Água](https://open.spotify.com/album/6SZuXWJLZE15nwQsee2xhy) | 2:36 | 2024-01-19 | 2024-01-27 |
 | [ÁGUA DE COCO](https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS) | [ÁGUA DE COCO](https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE) | 2:14 | 2025-02-21 |  |
-| [Água de Coco](https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:21 | 2025-01-31 |  |
+| [Água de Coco](https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:21 | 2025-01-31 | 2025-05-13 |
 | [Águas Passadas](https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Águas Passadas](https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc) | 2:38 | 2024-02-23 |  |
 
 \*This playlist was first scraped on 2023-09-18. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Weekly update for Indie releases. Cover: The Haunted Youth",
-  "num_followers": 103108,
+  "num_followers": 103096,
   "original_name": "Indie Update",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB3NMQAAAAAqz3EjMF5IMWJtH26/nGCZ",
+  "snapshot_id": "aCG/ngAAAACTs2QqXfh/z46/2906kfFz",
   "tracks": [
     {
       "added_at": "2025-05-09 09:38:57",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-05-09 09:38:57",
       "album": {
+        "name": "Down to be wrong",
+        "url": "https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Down to be wrong",
+      "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
+    },
+    {
+      "added_at": "2025-05-09 09:38:57",
+      "album": {
         "name": "It's Never Easy (Leaving Someone Behind)",
         "url": "https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY"
       },
@@ -39,6 +55,22 @@
       "duration_ms": 220843,
       "name": "It's Never Easy (Leaving Someone Behind)",
       "url": "https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw"
+    },
+    {
+      "added_at": "2025-05-09 09:38:57",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/41szOjmEi3125Wi3hCxNpE"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Peters",
+          "url": "https://open.spotify.com/artist/5JoVIfGdIhSfBo5c90znNF"
+        }
+      ],
+      "duration_ms": 222713,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5ztvZfYagBBRxkFCbVvDSG"
     },
     {
       "added_at": "2025-05-09 09:38:57",
@@ -87,22 +119,6 @@
       "duration_ms": 198273,
       "name": "Use A Friend",
       "url": "https://open.spotify.com/track/7fGzH1N3Hv3TZOuscdSLvn"
-    },
-    {
-      "added_at": "2025-05-09 09:38:57",
-      "album": {
-        "name": "Down to be wrong",
-        "url": "https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Down to be wrong",
-      "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
     },
     {
       "added_at": "2025-05-09 09:38:57",
@@ -187,22 +203,6 @@
       "duration_ms": 183670,
       "name": "Glide",
       "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
-    },
-    {
-      "added_at": "2025-05-09 09:38:57",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/41szOjmEi3125Wi3hCxNpE"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Peters",
-          "url": "https://open.spotify.com/artist/5JoVIfGdIhSfBo5c90znNF"
-        }
-      ],
-      "duration_ms": 222713,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/5ztvZfYagBBRxkFCbVvDSG"
     },
     {
       "added_at": "2025-05-09 09:38:57",

@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: Bresh
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,032 likes - 120 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,049 likes - 120 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Umore marea](https://open.spotify.com/track/2PhXWpXhWg61SdUO44FIUk) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Umore marea](https://open.spotify.com/album/5XExZ9o16FjbQ9kgp3Muvh) | 2:38 |
 | 2 | [Piangere a 90](https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Piangere a 90](https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3) | 2:35 |
-| 3 | [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 |
-| 4 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 |
-| 5 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
-| 6 | [Batticuore](https://open.spotify.com/track/7JkwDSroJk0cw9p1Q3VlDe) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Batticuore](https://open.spotify.com/album/0MwE0hjww0qCzjNy23IdGD) | 2:40 |
-| 7 | [AUTODISTRUZIONE](https://open.spotify.com/track/0vKVVWPt2gq8YHnFsOvuhj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [AUTODISTRUZIONE](https://open.spotify.com/album/2SpbiNy06VmEH0RUKTiMhb) | 3:54 |
-| 8 | [CITTÀ BRUCIATA](https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [CITTÀ BRUCIATA](https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa) | 2:31 |
-| 9 | [Luce](https://open.spotify.com/track/0mZBQzifh9ST6r6dh4bf6k) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Luce](https://open.spotify.com/album/34AXcqy0NG1YIKCakYx732) | 2:44 |
-| 10 | [Briciole](https://open.spotify.com/track/16Q0PRfYWUokXZe3zZaDRv) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [Briciole](https://open.spotify.com/album/0tFbrC0a4sGq00hBJN2jwQ) | 2:53 |
-| 11 | [empatia](https://open.spotify.com/track/0sWiecm525PD2vpkNOHeCf) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [empatia](https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6) | 2:40 |
-| 12 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 |
+| 3 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 |
+| 4 | [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 |
+| 5 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 |
+| 6 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
+| 7 | [Batticuore](https://open.spotify.com/track/7JkwDSroJk0cw9p1Q3VlDe) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Batticuore](https://open.spotify.com/album/0MwE0hjww0qCzjNy23IdGD) | 2:40 |
+| 8 | [AUTODISTRUZIONE](https://open.spotify.com/track/0vKVVWPt2gq8YHnFsOvuhj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [AUTODISTRUZIONE](https://open.spotify.com/album/2SpbiNy06VmEH0RUKTiMhb) | 3:54 |
+| 9 | [CITTÀ BRUCIATA](https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [CITTÀ BRUCIATA](https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa) | 2:31 |
+| 10 | [Luce](https://open.spotify.com/track/0mZBQzifh9ST6r6dh4bf6k) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Luce](https://open.spotify.com/album/34AXcqy0NG1YIKCakYx732) | 2:44 |
+| 11 | [Briciole](https://open.spotify.com/track/16Q0PRfYWUokXZe3zZaDRv) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [Briciole](https://open.spotify.com/album/0tFbrC0a4sGq00hBJN2jwQ) | 2:53 |
+| 12 | [empatia](https://open.spotify.com/track/0sWiecm525PD2vpkNOHeCf) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [empatia](https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6) | 2:40 |
 | 13 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
 | 14 | [ROMANTICA](https://open.spotify.com/track/0P69lzMez4EK81zNq2zx6b) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [ROMANTICA](https://open.spotify.com/album/1515R9PDJhpiwKSuO8cnrK) | 2:21 |
 | 15 | [Pari o Dispari](https://open.spotify.com/track/5XpWQOMGtzj182L7qbePrD) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Pari o Dispari](https://open.spotify.com/album/10Kjjz2O6Nzj5ciQ9KylKN) | 2:54 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 119 | [BIANCO E NERO](https://open.spotify.com/track/4tkqku6p04KXf7ymoL7Q06) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2), [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [BIANCO E NERO](https://open.spotify.com/album/1BXUBdFESMkB8cVJXv9IEh) | 3:09 |
 | 120 | [NOSTALGIA & KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA & KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 |
 
-Snapshot ID: `aB0psAAAAAA9Ca2eOnR+2Cc4XtWDa+ZL`
+Snapshot ID: `aCGv2gAAAACqZYHMsd/W5t3qvZtYp4fS`

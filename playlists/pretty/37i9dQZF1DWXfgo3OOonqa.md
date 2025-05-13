@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,117 likes - 110 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,130 likes - 110 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PIRANHA](https://open.spotify.com/track/6FyruFwg9WTt2yBcABwPHU) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [PIRANHA](https://open.spotify.com/album/2kUQnYp9fnHILpVXWmFj6r) | 2:22 |
-| 2 | [Med oss](https://open.spotify.com/track/3t0TkJynelNUERIUw2X9qt) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Med oss](https://open.spotify.com/album/5wkrS2tvFNMCTbPVkUE6YY) | 2:04 |
-| 3 | [OBAMA](https://open.spotify.com/track/31ozexiE5T5lWeEly3XWzG) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [OBAMA](https://open.spotify.com/album/0rXPLDNVlxhpW3rBLQiysp) | 2:10 |
-| 4 | [Real Life](https://open.spotify.com/track/3rnU46eWn3eXkKNzVz5Jzq) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Real Life](https://open.spotify.com/album/6IhbtsWYjwBQ9YwM5ouDeS) | 2:40 |
-| 5 | [Don't You Cry](https://open.spotify.com/track/4BZ2Gjl3ZDRMRVqF2pUAQa) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 1:55 |
+| 1 | [Med oss](https://open.spotify.com/track/3t0TkJynelNUERIUw2X9qt) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Med oss](https://open.spotify.com/album/5wkrS2tvFNMCTbPVkUE6YY) | 2:04 |
+| 2 | [OBAMA](https://open.spotify.com/track/31ozexiE5T5lWeEly3XWzG) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [OBAMA](https://open.spotify.com/album/0rXPLDNVlxhpW3rBLQiysp) | 2:10 |
+| 3 | [Real Life](https://open.spotify.com/track/3rnU46eWn3eXkKNzVz5Jzq) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Real Life](https://open.spotify.com/album/6IhbtsWYjwBQ9YwM5ouDeS) | 2:40 |
+| 4 | [Don't You Cry](https://open.spotify.com/track/4BZ2Gjl3ZDRMRVqF2pUAQa) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 1:55 |
+| 5 | [PIRANHA](https://open.spotify.com/track/6FyruFwg9WTt2yBcABwPHU) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [PIRANHA](https://open.spotify.com/album/2kUQnYp9fnHILpVXWmFj6r) | 2:22 |
 | 6 | [Blonda Brudar](https://open.spotify.com/track/10IJjXrc0I18fz8mYTO5r4) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [Blonda Brudar](https://open.spotify.com/album/65mj2HckFL4LcKkqJZP0Nu) | 2:27 |
 | 7 | [CASA BLANCA](https://open.spotify.com/track/4yCL4xeejHkMecCmeTZWdA) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [CASA BLANCA](https://open.spotify.com/album/11lvoq3KeomSfqooFTCifq) | 1:58 |
-| 8 | [Starstruck](https://open.spotify.com/track/2KHoqKv7oqCa18EqDcOQmd) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Starstruck](https://open.spotify.com/album/2o8WMXyL47AQcEirBdoql0) | 2:28 |
-| 9 | [Håller Mig Själv](https://open.spotify.com/track/48zbg3rmtLckXVdKracwzq) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Håller Mig Själv](https://open.spotify.com/album/5ZhHuLXnFFM7jOTZ73lvez) | 1:49 |
+| 8 | [Håller Mig Själv](https://open.spotify.com/track/48zbg3rmtLckXVdKracwzq) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Håller Mig Själv](https://open.spotify.com/album/5ZhHuLXnFFM7jOTZ73lvez) | 1:49 |
+| 9 | [Starstruck](https://open.spotify.com/track/2KHoqKv7oqCa18EqDcOQmd) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Starstruck](https://open.spotify.com/album/2o8WMXyL47AQcEirBdoql0) | 2:28 |
 | 10 | [Aldrig sett förut](https://open.spotify.com/track/061G4BWNLuJkAJWedFpoZm) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Aldrig sett förut](https://open.spotify.com/album/3beriMigFWONLo2lP3eyyQ) | 1:55 |
 | 11 | [Det Går Snabbt](https://open.spotify.com/track/0FMOF5JuOaVLOsjzTQIGYE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 2:55 |
 | 12 | [Sosa](https://open.spotify.com/track/6ppQVHfe8V4Me8vobj6k9Y) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Sosa](https://open.spotify.com/album/09pyQZKB5kLBvSE5EOv8Z3) | 1:54 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 109 | [ZAZA](https://open.spotify.com/track/5i0nuW6QAbTJXLmEszuP1t) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [ZAZA](https://open.spotify.com/album/0vFnShVVKtNQRQpLBMHTKy) | 2:18 |
 | 110 | [Daydate](https://open.spotify.com/track/4ODaUbbHmLOg2Q5T4JMa7G) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Daydate](https://open.spotify.com/album/1kjsVcNsaOStdTO3WYBiie) | 2:29 |
 
-Snapshot ID: `aB0piQAAAADqI3VPx/4KsRfoUFJbOb6E`
+Snapshot ID: `aCGdHQAAAAC6Xbs79LZDsWadL20rCH3Z`

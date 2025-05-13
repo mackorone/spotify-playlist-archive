@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: 유발이 \(U.BAR.E\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: Crush\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,824 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,834 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/track/0JT4sHcL4tlrxsJBXGVwEv) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8), [Bonnie](https://open.spotify.com/artist/0ffPMxFfQk7veBXApIWZWu), [Sunny](https://open.spotify.com/artist/3zzUbb5VsVgF07lb7gpLwo) | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/album/11WOPtjOyIPfvxnyhFr62s) | 1:56 |
-| 2 | [Everything Happens To Me](https://open.spotify.com/track/0qfzJgrFePDWekyVSbFnxl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Everything Happens To Me](https://open.spotify.com/album/2pMlrQthaDJoB2UqhJAgqQ) | 4:02 |
+| 1 | [Everything Happens To Me](https://open.spotify.com/track/0qfzJgrFePDWekyVSbFnxl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Everything Happens To Me](https://open.spotify.com/album/2pMlrQthaDJoB2UqhJAgqQ) | 4:02 |
+| 2 | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/track/0JT4sHcL4tlrxsJBXGVwEv) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8), [Bonnie](https://open.spotify.com/artist/0ffPMxFfQk7veBXApIWZWu), [Sunny](https://open.spotify.com/artist/3zzUbb5VsVgF07lb7gpLwo) | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/album/11WOPtjOyIPfvxnyhFr62s) | 1:56 |
 | 3 | [Soft Serenade](https://open.spotify.com/track/2kakhlsfdppnzXRGgZuRGf) | [Green Pulse](https://open.spotify.com/artist/4GdPbBDa4FCCyWWVxeoO0P) | [Soft Serenade](https://open.spotify.com/album/5QWLLTpUyVUjXqJV19wicG) | 3:11 |
 | 4 | [Espresso Rush](https://open.spotify.com/track/2x6idBqv6fVq4bPNO8l9QZ) | [Relax Ann](https://open.spotify.com/artist/2esrpoyixMx83vSV2UzV65) | [Espresso Rush](https://open.spotify.com/album/3zG5QTErCjGc5Tcr5SQAtx) | 2:13 |
 | 5 | [The moon is mooning](https://open.spotify.com/track/2KTHo0Y3FSmC4winA0xs9b) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [The Divorce Insurance, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1Sosc6QfPb6YQoWPN1EzVo) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 49 | [visitor](https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM) | [Jeon Jisun](https://open.spotify.com/artist/4BBsRnLUkOI7p3G85BW76R) | [visitor](https://open.spotify.com/album/6ezOqgX9tk3y7VD1s8gjva) | 3:40 |
 | 50 | [Puddle](https://open.spotify.com/track/1MWzNijjV5YR1TbFMfINhf) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Puddle](https://open.spotify.com/album/0a58Zw9w1uLXAEdiEi68yU) | 6:57 |
 
-Snapshot ID: `aB2TpgAAAACrV3JwSS4HFHiTH93qum5y`
+Snapshot ID: `aCKsKQAAAADhoe/r6fZ7fE1MpASTwv54`

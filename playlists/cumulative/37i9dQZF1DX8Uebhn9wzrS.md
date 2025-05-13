@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,312 songs - 3 day 16 hr 5 min
+2,314 songs - 3 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [After Prom](https://open.spotify.com/track/0mhVER3CT8gugVu2TDnWpf) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [After Prom](https://open.spotify.com/album/3k3Mc2XsfCt5qrFMC5pFmV) | 1:51 | 2022-08-19 | 2023-03-09 |
 | [after school](https://open.spotify.com/track/3TyjuHEE7JVQZWGurwxe61) | [Erin Bee](https://open.spotify.com/artist/5FX1lx52oWCDgiap5Q1QAu) | [after school](https://open.spotify.com/album/3wYUUZ0DZfAr6XmfKrg3bO) | 2:12 | 2022-04-15 | 2022-11-12 |
 | [After School Sunset](https://open.spotify.com/track/6WVt9GeG7x4VktA9rOlFg7) | [rjoseph](https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl) | [After School Sunset](https://open.spotify.com/album/7m5Q3hBMxbvoTupx4IoHyR) | 2:59 | 2023-04-11 | 2024-11-21 |
+| [After You](https://open.spotify.com/track/14nOPpLDbaOGi4A4RzKEZ7) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [After You](https://open.spotify.com/album/01oZrzf8n3zyLOgiAcy1nN) | 3:18 | 2025-05-09 |  |
 | [Afterhours](https://open.spotify.com/track/1xBkC38ApG8XRhLCDOtVId) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Afterhours](https://open.spotify.com/album/5agRfm2Mh8Sgt1TQKgO54z) | 2:32 | 2024-11-15 | 2024-12-21 |
 | [Afternoon](https://open.spotify.com/track/1A61ICIq0m9cMA9ZpOPqGP) | [RC Jay](https://open.spotify.com/artist/7a8SlbNNbqQW2kXkoGlkr2) | [Afternoon](https://open.spotify.com/album/7MAMhnY0V9bcQpbCQsPrlg) | 2:26 | 2022-12-09 |  |
 | [Afternoon Groove](https://open.spotify.com/track/1r5f1SEp5XusPUqrF378XN) | [Loungerous](https://open.spotify.com/artist/1auK1XLp1trryrcJYuclbe) | [Afternoon Groove](https://open.spotify.com/album/6mHON4M3t8APvWkp0Ob3jh) | 2:07 | 2022-04-15 | 2022-07-01 |
@@ -1045,7 +1046,7 @@
 | [Kite](https://open.spotify.com/track/2YFpUFkSTOqCDy9hzMi1FY) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/0Ek36hK7QpAGGcNBwV17y5) | 2:23 | 2022-09-16 | 2022-11-20 |
 | [Kite](https://open.spotify.com/track/0Uyq0exEznwuyPHtUoItQG) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Kite](https://open.spotify.com/album/5S40ObOUh50xGjbuOCsilS) | 3:08 | 2023-03-08 |  |
 | [knowing](https://open.spotify.com/track/62zfzTVCAvK7iceTH7eXBF) | [yvwn.](https://open.spotify.com/artist/4nKqGQ0oFqlfBmXxiMPEO1) | [Knowing](https://open.spotify.com/album/2UhoZRmJfvg9EFInZUZUhD) | 1:43 | 2025-02-21 | 2025-03-22 |
-| [knox](https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [knox](https://open.spotify.com/album/4OdQCF3d6u2pjwMcWIlEtv) | 2:00 | 2023-03-08 |  |
+| [knox](https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [knox](https://open.spotify.com/album/4OdQCF3d6u2pjwMcWIlEtv) | 2:00 | 2023-03-08 | 2025-05-13 |
 | [kodak](https://open.spotify.com/track/7q8NJyn5JHHzfTwa1auiPH) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [kodak](https://open.spotify.com/album/0ggeJPPUAeDt8oCadobrvM) | 1:51 | 2023-11-17 |  |
 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 | 2022-08-05 | 2022-10-01 |
 | [Kreate](https://open.spotify.com/track/6gFVo9UQuTbLgpyhzI3OO8) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Kreate](https://open.spotify.com/album/6gZ0xOaVXVJt4K2c5C70Nv) | 2:30 | 2024-01-19 |  |
@@ -1462,6 +1463,7 @@
 | [Oonga Boonga](https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Oonga Boonga](https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk) | 2:05 | 2023-10-13 |  |
 | [Open All Night](https://open.spotify.com/track/6Dt6AytHdXimlTCONkV95z) | [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF) | [Open All Night](https://open.spotify.com/album/1QcHc5DY3LS2MZNMhlgjCz) | 2:50 | 2022-09-16 | 2023-01-07 |
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2022-04-15 | 2022-05-27 |
+| [Opportunities](https://open.spotify.com/track/6wRCnTbFzIVyQaKT0r8cG9) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Opportunities](https://open.spotify.com/album/1f8V9aKTFhKyeomRpxoyuc) | 1:58 | 2025-05-09 |  |
 | [Opulence](https://open.spotify.com/track/5Lau1jCQPlGK5lS2gSW0cu) | [Leonard Hudgens](https://open.spotify.com/artist/6WpmWIpXTW0N63IGUFqIlT) | [Opulence](https://open.spotify.com/album/6aDX3sTyPUTeECzsKDbgt3) | 2:15 | 2024-03-22 | 2024-04-30 |
 | [Opus II](https://open.spotify.com/track/47U6UBCMwwXkf7saw2VAW3) | [Terrence Woods](https://open.spotify.com/artist/68OTfPEEVauMj9rWCFSz1k) | [Opus II](https://open.spotify.com/album/11uGd9Tqjc2tfZJXY8UCx1) | 2:15 | 2022-04-15 | 2022-09-09 |
 | [Orb](https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Orb](https://open.spotify.com/album/0YfkN8XLus9Sj1PKnRvIq6) | 2:15 | 2022-09-02 | 2025-04-23 |
@@ -1596,7 +1598,7 @@
 | [Procrastinate](https://open.spotify.com/track/3hZu4Bh5tYDu1gaZC5MWMA) | [ᴄᴀᴍᴏᴍɪʟʟᴀ](https://open.spotify.com/artist/5HmJsQ6KlfdCz5mJxDOnwj) | [Procrastinate](https://open.spotify.com/album/5RjVitaqDZD6EMb9pB7vXN) | 1:54 | 2023-04-20 | 2024-02-02 |
 | [projection](https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [projection](https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8) | 2:38 | 2022-08-19 |  |
 | [Proletarian](https://open.spotify.com/track/6eFrj1ET7RnXJ1yoijLtmy) | [Mr Clyde](https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby) | [Proletarian](https://open.spotify.com/album/1tRUkbUU72JPWg5eDes1ne) | 1:06 | 2024-03-01 | 2024-06-08 |
-| [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 | 2022-12-02 |  |
+| [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 | 2022-12-02 | 2025-05-13 |
 | [prpl rain](https://open.spotify.com/track/2W5wmuEdzrYMNmQDWfKDWQ) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh), [Paul Claypool](https://open.spotify.com/artist/6zsLzT78IZnCNC0qzgxo9c) | [prpl rain](https://open.spotify.com/album/2zSyInCYQdZbakgd0VIF83) | 2:44 | 2023-03-20 | 2023-10-06 |
 | [Puddles in Space](https://open.spotify.com/track/3ea0vKpsVdSastrJIMEXpq) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Puddles in Space](https://open.spotify.com/album/1Q2651xcc76V9IqxvUrNi4) | 2:04 | 2024-07-26 | 2024-08-24 |
 | [puppy hotel](https://open.spotify.com/track/2MZhYQCGhF4Fo2KpyHzFYL) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [puppy hotel](https://open.spotify.com/album/51SCqLyDV7DSr68sEzhDA1) | 1:43 | 2023-12-22 | 2024-07-27 |

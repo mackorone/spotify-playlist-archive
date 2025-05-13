@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 125913,
+  "num_followers": 125956,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 309373,
-      "name": "The Hammer",
-      "url": "https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY"
+      "duration_ms": 433266,
+      "name": "Calypso Music",
+      "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 433266,
-      "name": "Calypso Music",
-      "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
+      "duration_ms": 309373,
+      "name": "The Hammer",
+      "url": "https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Caribbean Road March 2001 and More",
-        "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Tay Lay Lay",
-      "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold",
         "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 395866,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Caribbean Road March 2001 and More",
+        "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
+      },
+      "artists": [
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Tay Lay Lay",
+      "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Full Extreme",
+        "url": "https://open.spotify.com/album/1l18YSF3VvABWpP7A2qsUj"
+      },
+      "artists": [
+        {
+          "name": "Ultimate Rejects",
+          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Full Extreme",
+      "url": "https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Crazy",
-          "url": "https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5"
-        }
-      ],
-      "duration_ms": 432666,
-      "name": "Nani Wine",
-      "url": "https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Savannah Grass",
         "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 179520,
       "name": "Savannah Grass",
       "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Crazy",
+          "url": "https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5"
+        }
+      ],
+      "duration_ms": 432666,
+      "name": "Nani Wine",
+      "url": "https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -887,6 +903,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 239967,
+      "name": "Ministry of Road (M.O.R.)",
+      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -899,26 +931,6 @@
       "duration_ms": 410573,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Any Minute Now",
-        "url": "https://open.spotify.com/album/7hlfoUiPoxYbecW5SirJOU"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Soca",
-      "url": "https://open.spotify.com/track/0xr6Ne2mFyNAb0HpRExl9V"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1019,6 +1031,26 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Any Minute Now",
+        "url": "https://open.spotify.com/album/7hlfoUiPoxYbecW5SirJOU"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Soca",
+      "url": "https://open.spotify.com/track/0xr6Ne2mFyNAb0HpRExl9V"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -1031,22 +1063,6 @@
       "duration_ms": 423506,
       "name": "Wine On A Bumsee",
       "url": "https://open.spotify.com/track/26ckSFjnh3OX3IJleVocyC"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 239967,
-      "name": "Ministry of Road (M.O.R.)",
-      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Get Soca 2017",
-        "url": "https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG"
-      },
-      "artists": [
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        }
-      ],
-      "duration_ms": 231832,
-      "name": "Far from Finished",
-      "url": "https://open.spotify.com/track/7b2eOI6RKPPcqqdMnCOcQR"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Happiest Man Alive",
         "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
       },
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Full Extreme",
-        "url": "https://open.spotify.com/album/1l18YSF3VvABWpP7A2qsUj"
+        "name": "Get Soca 2017",
+        "url": "https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG"
       },
       "artists": [
         {
-          "name": "Ultimate Rejects",
-          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Full Extreme",
-      "url": "https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e"
+      "duration_ms": 231832,
+      "name": "Far from Finished",
+      "url": "https://open.spotify.com/track/7b2eOI6RKPPcqqdMnCOcQR"
     },
     {
       "added_at": "2024-08-06 01:00:53",

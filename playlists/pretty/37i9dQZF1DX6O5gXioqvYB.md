@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: PLASTICA
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,451 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,453 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aiuto](https://open.spotify.com/track/0Mu6W8dVtwdXdQf1UIbBGh) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Aiuto](https://open.spotify.com/album/0KB9RktfD3H7la1lnVEhCT) | 4:07 |
-| 2 | [disperata gioventù](https://open.spotify.com/track/3WGRsbvjeO27iqJPMGeuIq) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [disperata gioventù](https://open.spotify.com/album/01TWoRyZKm4cQxJ8g1RDmC) | 3:01 |
-| 3 | [Latte e biscotti](https://open.spotify.com/track/6lJKkAzxQvKr8DHWUVLbst) | [Rasmo](https://open.spotify.com/artist/2yxmCxJo1Fy1RKAdQYfauo), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [Latte e biscotti](https://open.spotify.com/album/0oHaJJUojVH4JgPSTkU0Li) | 3:07 |
-| 4 | [due lune](https://open.spotify.com/track/3zq17xnIvCZWv8l167tzdP) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [due lune](https://open.spotify.com/album/39ByFKSGWOPTa7USlargt4) | 3:20 |
-| 5 | [Luce](https://open.spotify.com/track/0mZBQzifh9ST6r6dh4bf6k) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Luce](https://open.spotify.com/album/34AXcqy0NG1YIKCakYx732) | 2:44 |
-| 6 | [In mio fratello è tutto a posto](https://open.spotify.com/track/4IBYpO3ilZXMZuTMYs5OvM) | [≈ Belize ≈](https://open.spotify.com/artist/3b8bBMsmGoBd8gYn1pngNc) | [Phantom Favola](https://open.spotify.com/album/5TK0y1cSPZAWzITX2DD25J) | 3:29 |
-| 7 | [COLPO DI PISTOLA](https://open.spotify.com/track/7tZ5a5T9NToUr220mNjOld) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [ROCK & ROLL](https://open.spotify.com/album/2ykZYAOl8q2Yn1mBT4qnLw) | 4:44 |
+| 2 | [In mio fratello è tutto a posto](https://open.spotify.com/track/4IBYpO3ilZXMZuTMYs5OvM) | [≈ Belize ≈](https://open.spotify.com/artist/3b8bBMsmGoBd8gYn1pngNc) | [Phantom Favola](https://open.spotify.com/album/5TK0y1cSPZAWzITX2DD25J) | 3:29 |
+| 3 | [Luce](https://open.spotify.com/track/0mZBQzifh9ST6r6dh4bf6k) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Luce](https://open.spotify.com/album/34AXcqy0NG1YIKCakYx732) | 2:44 |
+| 4 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
+| 5 | [Correre](https://open.spotify.com/track/6HWDxSgzZweaS71gyJVi7e) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [Correre](https://open.spotify.com/album/1aNBwbkwr9oDYyG2VtMc52) | 2:55 |
+| 6 | [disperata gioventù](https://open.spotify.com/track/3WGRsbvjeO27iqJPMGeuIq) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [disperata gioventù](https://open.spotify.com/album/01TWoRyZKm4cQxJ8g1RDmC) | 3:01 |
+| 7 | [Ospiti](https://open.spotify.com/track/69RVljpUxLQpd17e9MblDy) | [Nularse](https://open.spotify.com/artist/2ZqgNoyBc3pgPQwq3Np6iH) | [Ospiti](https://open.spotify.com/album/2wubC8QDGARw1GA22PJlCw) | 3:41 |
 | 8 | [Il lungoriva di Genova](https://open.spotify.com/track/6QZsLOzlZfGqpGqXKOw2Bb) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [La Maccaia](https://open.spotify.com/album/4atG7yAO3KzgNissARQQM4) | 3:29 |
-| 9 | [Disco Gioia](https://open.spotify.com/track/5tXsWLGLOt7mPqHli0aT9K) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Forse un giorno](https://open.spotify.com/album/4Rrt6cBvclbkiKTa2HwEIk) | 3:09 |
-| 10 | [Correre](https://open.spotify.com/track/6HWDxSgzZweaS71gyJVi7e) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [Correre](https://open.spotify.com/album/1aNBwbkwr9oDYyG2VtMc52) | 2:55 |
-| 11 | [basta](https://open.spotify.com/track/17FgnoBGoQmILprNqmkcOU) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [basta](https://open.spotify.com/album/6jCo6KF5MCPOH4g1j7U8QW) | 2:09 |
+| 9 | [Latte e biscotti](https://open.spotify.com/track/6lJKkAzxQvKr8DHWUVLbst) | [Rasmo](https://open.spotify.com/artist/2yxmCxJo1Fy1RKAdQYfauo), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [Latte e biscotti](https://open.spotify.com/album/0oHaJJUojVH4JgPSTkU0Li) | 3:07 |
+| 10 | [COLPO DI PISTOLA](https://open.spotify.com/track/7tZ5a5T9NToUr220mNjOld) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [ROCK & ROLL](https://open.spotify.com/album/2ykZYAOl8q2Yn1mBT4qnLw) | 4:44 |
+| 11 | [due lune](https://open.spotify.com/track/3zq17xnIvCZWv8l167tzdP) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [due lune](https://open.spotify.com/album/39ByFKSGWOPTa7USlargt4) | 3:20 |
 | 12 | [Dirigibile](https://open.spotify.com/track/5OGVgeJOkTBaBUxXZK9hV9) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Futuro Dirigibile](https://open.spotify.com/album/3KrlHusx87ZaCkNYuyK6Ay) | 4:23 |
-| 13 | [Ospiti](https://open.spotify.com/track/69RVljpUxLQpd17e9MblDy) | [Nularse](https://open.spotify.com/artist/2ZqgNoyBc3pgPQwq3Np6iH) | [Ospiti](https://open.spotify.com/album/2wubC8QDGARw1GA22PJlCw) | 3:41 |
+| 13 | [Disco Gioia](https://open.spotify.com/track/5tXsWLGLOt7mPqHli0aT9K) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Forse un giorno](https://open.spotify.com/album/4Rrt6cBvclbkiKTa2HwEIk) | 3:09 |
 | 14 | [fertili](https://open.spotify.com/track/5wPCnXL3XyAxR0ct815E9U) | [CALLIOPE](https://open.spotify.com/artist/4gUnnJ8JMuSQjd0oyDmbDt) | [fertili](https://open.spotify.com/album/6oS7DPA0UgKsl9tOUjB4n8) | 3:06 |
 | 15 | [dove sei?](https://open.spotify.com/track/2MqjNlfYZQcR5kf2jkPh4m) | [Diego Stray](https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM) | [dove sei?](https://open.spotify.com/album/4X248CxumS9wGej2da24JP) | 2:47 |
 | 16 | [Carducci](https://open.spotify.com/track/3UC8tXZrst4Tfcpezbj4iG) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [Carducci](https://open.spotify.com/album/3IzTykj8Eh1jZJdmOaH3uC) | 2:44 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 104 | [Cliché](https://open.spotify.com/track/7tAR40suzgyYpyxWDttiyf) | [cylvia](https://open.spotify.com/artist/6wC8L7yn5ntwmI1at12Vou) | [Lato](https://open.spotify.com/album/4xxeqQmZ8J3lmVgA49YdGT) | 2:57 |
 | 105 | [Spacciami il cuore](https://open.spotify.com/track/3cNeABgJoqLVgwAOm7FL6e) | [Atipica](https://open.spotify.com/artist/4TUQ6BQXu82Qm219nYRqyh) | [Spacciami il cuore](https://open.spotify.com/album/65uBueLXy6TrQ3dkKSwhLG) | 3:13 |
 
-Snapshot ID: `aB0prwAAAADZEupQNDOha5YmY++tZj4Y`
+Snapshot ID: `aCG02gAAAABh+yKUVORJeXPz8p1KSMmW`

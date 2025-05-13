@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18743,
+  "num_followers": 18748,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-05-07 09:39:07",
       "album": {
-        "name": "Could It Be",
-        "url": "https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI"
-      },
-      "artists": [
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "Could It Be",
-      "url": "https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8"
-    },
-    {
-      "added_at": "2025-05-07 09:39:07",
-      "album": {
         "name": "Are you in there",
         "url": "https://open.spotify.com/album/3He9aN5L7rSUjACZlrGI4J"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 171000,
       "name": "Like Nothing (Feat. YOUHA, Kim Seungmin)",
       "url": "https://open.spotify.com/track/0rSra7zqW05TvIVnJMSVo7"
+    },
+    {
+      "added_at": "2025-05-07 09:39:07",
+      "album": {
+        "name": "Could It Be",
+        "url": "https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Could It Be",
+      "url": "https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8"
     },
     {
       "added_at": "2025-05-07 09:39:07",
@@ -967,6 +967,30 @@
     {
       "added_at": "2025-05-07 09:39:07",
       "album": {
+        "name": "to the star",
+        "url": "https://open.spotify.com/album/0VmJGq4B3FYPWTsOWkmdI3"
+      },
+      "artists": [
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        },
+        {
+          "name": "YongYong",
+          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
+        }
+      ],
+      "duration_ms": 157685,
+      "name": "to the star",
+      "url": "https://open.spotify.com/track/38JciloenJBLfqFx5y0GOx"
+    },
+    {
+      "added_at": "2025-05-07 09:39:07",
+      "album": {
         "name": "GOOD",
         "url": "https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT"
       },
@@ -1003,30 +1027,6 @@
       "duration_ms": 173960,
       "name": "Freaky (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
-    },
-    {
-      "added_at": "2025-05-07 09:39:07",
-      "album": {
-        "name": "to the star",
-        "url": "https://open.spotify.com/album/0VmJGq4B3FYPWTsOWkmdI3"
-      },
-      "artists": [
-        {
-          "name": "Minit",
-          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
-        },
-        {
-          "name": "OLNL",
-          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
-        },
-        {
-          "name": "YongYong",
-          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
-        }
-      ],
-      "duration_ms": 157685,
-      "name": "to the star",
-      "url": "https://open.spotify.com/track/38JciloenJBLfqFx5y0GOx"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

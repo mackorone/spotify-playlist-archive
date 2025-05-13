@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: gani)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jang Soo Bin(\uc7a5\uc218\ube48))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 155760,
       "name": "A Bitter Letter To Myself",
       "url": "https://open.spotify.com/track/0djIuIFCPgHVHzjTk7OcuB"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 152307,
       "name": "Different Days (feat. ICE PUFF)",
       "url": "https://open.spotify.com/track/4AxW25aaFMdPkwM11qsMwQ"
@@ -5228,7 +5228,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 187573,
       "name": "Life is Tricky",
       "url": "https://open.spotify.com/track/6tO6hzQ3sjkwGsF8MWD0hi"
@@ -6015,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/6oUWprZ8FqceLL4TuS4LTW"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233040,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h"
+    },
+    {
+      "album": {
         "name": "Moon Walk",
         "url": "https://open.spotify.com/album/67TLxjG6p3SpZZ90AMnsg7"
       },
@@ -6102,6 +6120,24 @@
       "duration_ms": 176280,
       "name": "Mother",
       "url": "https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh"
+    },
+    {
+      "album": {
+        "name": "My Home",
+        "url": "https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216315,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT"
     },
     {
       "album": {
@@ -9509,6 +9545,24 @@
     },
     {
       "album": {
+        "name": "Windy",
+        "url": "https://open.spotify.com/album/4Kz6jdO3mHtVTIIe7jxgDE"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Windy",
+      "url": "https://open.spotify.com/track/5UzaQDCpji2QduDow3HINS"
+    },
+    {
+      "album": {
         "name": "Lucid Dream",
         "url": "https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU"
       },
@@ -9542,7 +9596,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 186209,
       "name": "Winter Poem (feat. Sam Ock)",
       "url": "https://open.spotify.com/track/3JiP0pMRuaRjhjBqAwYFTh"

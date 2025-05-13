@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Joshua Redman
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,250 likes - 105 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,283 likes - 105 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

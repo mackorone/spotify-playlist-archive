@@ -4,7 +4,7 @@
 
 > Kali\-B: قلي قلي كييييييف\. الغلاف
 
-51 songs - 2 hr 26 min
+52 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Oss](https://open.spotify.com/track/2n3TIdIXujwIEsyaOVHshS) | [Mar1](https://open.spotify.com/artist/66flQtRHiDvvBSQHq3LHDp), [Queen G](https://open.spotify.com/artist/6rrCiJnPcTKkALHfG8bpAi), [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Oss](https://open.spotify.com/album/3QGmyRGSJl9i4NpGuSs7Kj) | 3:05 | 2024-06-24 |  |
 | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/track/6Ng41Z45QiJ88KmEuFpS0N) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2) | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/album/009Fnoj0mfiihyzxg1ZjyZ) | 2:47 | 2025-04-29 |  |
 | [Rawq Elmanga](https://open.spotify.com/track/2hB2WISY87CjgjY3YNaJpt) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Rawq Elmanga](https://open.spotify.com/album/24i5mi7wRZIZATTQCWipGC) | 3:15 | 2024-06-24 |  |
+| [Shampoo](https://open.spotify.com/track/4qPsQJxMOREpkJcWz8OggA) | [Dr.Slim](https://open.spotify.com/artist/4Rb8AeljgYsMU3YW6D1asy) | [Shampoo](https://open.spotify.com/album/0BqtNn7UOpSUow10X2uG3I) | 2:40 | 2025-05-12 |  |
 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 | 2024-06-24 |  |
 | [SRT](https://open.spotify.com/track/6heHtvgHYZ4VgmRXYwcjtQ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Rissi Tempo](https://open.spotify.com/artist/43xRhVBpsVIj6XqUcpEmA2) | [SRT](https://open.spotify.com/album/2QJOXagj621ALebtT8BKN0) | 3:20 | 2024-06-24 |  |
 | [Theeb](https://open.spotify.com/track/1LiiKjHg9vlk3592zUThYM) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Theeb](https://open.spotify.com/album/4G7QlmmtmBm8MZSZ0FgNbQ) | 2:06 | 2024-06-24 |  |

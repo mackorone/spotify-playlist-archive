@@ -10441,6 +10441,28 @@
     },
     {
       "album": {
+        "name": "Ethos",
+        "url": "https://open.spotify.com/album/2KjLTXmmnuc32xO2X0N68y"
+      },
+      "artists": [
+        {
+          "name": "Anna Bielli",
+          "url": "https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo"
+        },
+        {
+          "name": "Silvia Olivier",
+          "url": "https://open.spotify.com/artist/3v2jSQQAGfj0oiFW7V4Anv"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ethos",
+      "url": "https://open.spotify.com/track/4olzx0OYnHcaN9wv3OqeYE"
+    },
+    {
+      "album": {
         "name": "Ett visst fa\u0308ngelse",
         "url": "https://open.spotify.com/album/3mOCn0GyjEJBVfp9MyM1BP"
       },
@@ -21612,7 +21634,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 171028,
       "name": "MURiTO",
       "url": "https://open.spotify.com/track/5oZSaNIU19yFAulFgbjeQj"

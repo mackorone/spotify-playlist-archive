@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "A\u015fkperest",
+        "url": "https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280560,
+      "name": "A\u015fk Yok Olmakt\u0131r",
+      "url": "https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7"
+    },
+    {
+      "album": {
         "name": "G\u00fcliz Ayla",
         "url": "https://open.spotify.com/album/4j6JrIJFSDO85NMTRXfzKm"
       },
@@ -298,7 +316,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 264228,
       "name": "Ben Bilmem",
       "url": "https://open.spotify.com/track/5YbygGKXlC5HP55xGtSkx8"
@@ -316,7 +334,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 192475,
       "name": "Ben Sana Gelemem",
       "url": "https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 246494,
       "name": "Merhametsiz",
       "url": "https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4"
@@ -2418,10 +2436,28 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 247733,
       "name": "Silinmez",
       "url": "https://open.spotify.com/track/4sVIEO6DXqoGakHuixuPad"
+    },
+    {
+      "album": {
+        "name": "G\u00f6n\u00fcl Oyunu",
+        "url": "https://open.spotify.com/album/1JBUhH4nLI6VAPSWkOELGQ"
+      },
+      "artists": [
+        {
+          "name": "Zeynep Dizdar",
+          "url": "https://open.spotify.com/artist/1XZNZT3xecy9Wt5LtMOJVk"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236888,
+      "name": "Son Bir Rica",
+      "url": "https://open.spotify.com/track/5mJPC56kBRnB9rLGLs85rr"
     },
     {
       "album": {
@@ -2648,7 +2684,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 186393,
       "name": "Yara",
       "url": "https://open.spotify.com/track/15GIJTUYhVUO9zLJ2t8qcg"
@@ -2796,7 +2832,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 258931,
       "name": "Y\u00fcz\u00fck",
       "url": "https://open.spotify.com/track/657FCK2qs1P6DV8caSlWWY"
@@ -2926,7 +2962,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 183896,
       "name": "\u00d6l\u00fcyorum Anla",
       "url": "https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1"
@@ -2948,6 +2984,32 @@
       "duration_ms": 181518,
       "name": "\u00d6n\u00fcm\u00fcz Yaz",
       "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
+    },
+    {
+      "album": {
+        "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
+        "url": "https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ"
+      },
+      "artists": [
+        {
+          "name": "SNOW",
+          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
+        },
+        {
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
+        },
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
+      "url": "https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI"
     },
     {
       "album": {

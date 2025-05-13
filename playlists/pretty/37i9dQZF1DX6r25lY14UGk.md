@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Sumo's World
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,657 likes - 127 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,703 likes - 127 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

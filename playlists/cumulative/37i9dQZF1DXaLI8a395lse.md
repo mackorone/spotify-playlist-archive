@@ -2,7 +2,7 @@
 
 ### [Alternative 90s](https://open.spotify.com/playlist/37i9dQZF1DXaLI8a395lse)
 
-> Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: The Cranberries
+> Britpop, trip\-hop, grunge and more from the other side of the 90s.
 
 269 songs - 18 hr 27 min
 

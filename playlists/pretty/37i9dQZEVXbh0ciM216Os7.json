@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB59r02LW/HE4bE9y9HP4Xa",
+  "snapshot_id": "AAAAAAAAAAA4UkJi+v1iUm6fHmqIkHg3",
   "tracks": [
     {
       "added_at": "2025-05-09 04:00:00",
@@ -27,6 +27,42 @@
     {
       "added_at": "2025-05-09 04:00:00",
       "album": {
+        "name": "Baby Mad At Me (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/7JtNrU7zVsy7P4fovWll3p"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Baby Mad At Me (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7hP4fV6LerorRdZGmZsNjI"
+    },
+    {
+      "added_at": "2025-05-09 04:00:00",
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180015,
+      "name": "It's Just Us",
+      "url": "https://open.spotify.com/track/78oIDxTChs1EJrQwUc931r"
+    },
+    {
+      "added_at": "2025-05-09 04:00:00",
+      "album": {
         "name": "Tomorrow Can't Be Borrowed",
         "url": "https://open.spotify.com/album/6EsDvhBMFl7dCz4ROwRmLM"
       },
@@ -43,18 +79,46 @@
     {
       "added_at": "2025-05-09 04:00:00",
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/6eY3iWkORpXneyqVGuZfCl"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Kevin Church Johnson",
+          "url": "https://open.spotify.com/artist/5S1hbwEjtW25T5i0yBrPB7"
         }
       ],
-      "duration_ms": 187455,
-      "name": "All I Can Say",
-      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
+      "duration_ms": 243832,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/3eEMjHON9ygeQlaaTU9J51"
+    },
+    {
+      "added_at": "2025-05-09 04:00:00",
+      "album": {
+        "name": "Pinball II",
+        "url": "https://open.spotify.com/album/7H4y33iaBpDJ5QqlCULlMR"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Tony Seltzer",
+          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 166105,
+      "name": "Jumanji - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/0gHXr4WqGY8VK1sNApTbpH"
     },
     {
       "added_at": "2025-05-09 04:00:00",
@@ -147,46 +211,6 @@
     {
       "added_at": "2025-05-09 04:00:00",
       "album": {
-        "name": "Baby Mad At Me (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/7JtNrU7zVsy7P4fovWll3p"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Baby Mad At Me (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7hP4fV6LerorRdZGmZsNjI"
-    },
-    {
-      "added_at": "2025-05-09 04:00:00",
-      "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/6eY3iWkORpXneyqVGuZfCl"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Kevin Church Johnson",
-          "url": "https://open.spotify.com/artist/5S1hbwEjtW25T5i0yBrPB7"
-        }
-      ],
-      "duration_ms": 243832,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/3eEMjHON9ygeQlaaTU9J51"
-    },
-    {
-      "added_at": "2025-05-09 04:00:00",
-      "album": {
         "name": "TECH:Vol.2",
         "url": "https://open.spotify.com/album/2RSdQrtjXATd3iM8Mhha1M"
       },
@@ -203,46 +227,6 @@
       "duration_ms": 171824,
       "name": "FLY NAMES",
       "url": "https://open.spotify.com/track/3Y5x75vaSqGCZkZorDZwnu"
-    },
-    {
-      "added_at": "2025-05-09 04:00:00",
-      "album": {
-        "name": "Pinball II",
-        "url": "https://open.spotify.com/album/7H4y33iaBpDJ5QqlCULlMR"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Tony Seltzer",
-          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 166105,
-      "name": "Jumanji - feat. Earl Sweatshirt",
-      "url": "https://open.spotify.com/track/0gHXr4WqGY8VK1sNApTbpH"
-    },
-    {
-      "added_at": "2025-05-09 04:00:00",
-      "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Another Miracle",
-      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
     },
     {
       "added_at": "2025-05-09 04:00:00",
@@ -311,6 +295,26 @@
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+    },
+    {
+      "added_at": "2025-05-09 04:00:00",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/213uaappJODsexwkR9rxhS"
     },
     {
       "added_at": "2025-05-09 04:00:00",

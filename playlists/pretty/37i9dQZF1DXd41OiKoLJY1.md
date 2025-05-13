@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Eunice Rain Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,851 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,857 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 3 | [Waiting Shed](https://open.spotify.com/track/1nzZywndghV2nzQRe3zZQZ) | [Zach x Zeph](https://open.spotify.com/artist/4CYeHT9n7RrHjp3SGS455I) | [Waiting Shed](https://open.spotify.com/album/3qcBSmmyqggB5N9frixemL) | 4:28 |
 | 4 | [LOVING, HURTING](https://open.spotify.com/track/6yHOprmOYKyIyOGXBL8Vd5) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [LOVING, HURTING](https://open.spotify.com/album/2qhVZtiNB1knGqGaJHA00Z) | 3:45 |
 | 5 | [D'yan ka na lang](https://open.spotify.com/track/2a2OzBC2bkOl9NZ3VXJxfq) | [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [D'yan ka na lang](https://open.spotify.com/album/50kfIjjq0Oq0GbotRtMVzI) | 3:05 |
-| 6 | [Burnin' Up](https://open.spotify.com/track/4p3K9en3Tbhm21aoWzYdHC) | [Johannes Rissler](https://open.spotify.com/artist/1iIzyojfZ86BC00HW7WVFy) | [Burnin' Up](https://open.spotify.com/album/30ATI6eNIL9D48eEjfx2fD) | 2:39 |
+| 6 | [Burnin' Up](https://open.spotify.com/track/4p3K9en3Tbhm21aoWzYdHC) | [Empire.PH Music](https://open.spotify.com/artist/6PxT7i16WRXo8GIKvNYvXw), [Johannes Rissler](https://open.spotify.com/artist/1iIzyojfZ86BC00HW7WVFy) | [Burnin' Up](https://open.spotify.com/album/30ATI6eNIL9D48eEjfx2fD) | 2:39 |
 | 7 | [Reputation](https://open.spotify.com/track/29jlNYi6lWk1cNV4RK9d4e) | [Jean Alejandro](https://open.spotify.com/artist/7hibTW3hMAc5bWpk5VlaCf) | [Reputation](https://open.spotify.com/album/4QfFxRSh0sSFyOe6lnPGMe) | 3:37 |
 | 8 | [Wasak Na Puso](https://open.spotify.com/track/6GnkPjNBFz0YU93BE6caYY) | [Aljon Prowler](https://open.spotify.com/artist/4788oAxLqaqX4c9xY52ShK) | [Wasak Na Puso](https://open.spotify.com/album/3HpvGV5p3qQal3oWthCuIl) | 3:21 |
 | 9 | [Dahlia](https://open.spotify.com/track/1CGAsC6flV1mYjLhrob26x) | [Six70](https://open.spotify.com/artist/4AAnbo7FfF5JpwHAYAj7jY) | [Dahlia](https://open.spotify.com/album/5tG8LVkqg5plHo259CkYUK) | 4:13 |

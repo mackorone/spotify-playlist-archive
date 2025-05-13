@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: YOOK SUNGJAE\(육성재\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,462 songs - 3 day 22 hr 40 min
+1,464 songs - 3 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Dream](https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3) | 3:58 | 2024-08-10 | 2024-12-07 |
 | [Dreamer](https://open.spotify.com/track/0TSHgdcpZdMFicNd3gsbTS) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [Dreamer](https://open.spotify.com/album/07A0rd1XgK6o9pCDpMbXNa) | 3:35 | 2023-04-08 | 2023-08-25 |
 | [Dreamin'](https://open.spotify.com/track/4F9IH5h9NkhJ9H4e1zWw10) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Let Me Be Your Knight \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1t4uYvNMGHu5wIGlXrY0O8) | 3:19 | 2022-03-24 | 2022-04-20 |
-| [Dreaming](https://open.spotify.com/track/0KAe8Hh67OXolVlcsZDCIy) | [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE) | [Dreaming : WEBTOON 'The Great X ANYUJIN \(IVE\)](https://open.spotify.com/album/58QAs8YSamH7yhU1VrHn3L) | 3:23 | 2024-11-12 |  |
+| [Dreaming](https://open.spotify.com/track/0KAe8Hh67OXolVlcsZDCIy) | [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE) | [Dreaming : WEBTOON 'The Great X ANYUJIN \(IVE\)](https://open.spotify.com/album/58QAs8YSamH7yhU1VrHn3L) | 3:23 | 2024-11-12 | 2025-05-13 |
 | [DrunKen Confession](https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [DrunKen Confession](https://open.spotify.com/album/0IwBuSyXreDfgarE0TaAix) | 3:47 | 2022-01-17 | 2025-01-02 |
 | [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 | 2022-07-07 | 2022-08-19 |
 | [dryflower](https://open.spotify.com/track/7i4uzUhWACcz0t7JdUOkwk) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [dryflower](https://open.spotify.com/album/4Lg7rEzONhZBizCBLYJEPI) | 3:24 | 2022-01-03 | 2022-01-21 |
@@ -589,7 +589,7 @@
 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 | 2024-10-16 |  |
 | [If you change your mind](https://open.spotify.com/track/3j0gucP19lYwU0sSFezYFp) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [If you change your mind](https://open.spotify.com/album/3weNRiyxsmegdxmYnH458o) | 3:39 | 2024-01-05 | 2024-06-12 |
 | [If you lovingly call my name](https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9), [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX) | [If you lovingly call my name \(GyeongseoYeji x Jeon Gunho\)](https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d) | 3:51 | 2023-09-14 | 2025-01-12 |
-| [If you see me](https://open.spotify.com/track/1kJSVgmiirpy69GZYealwW) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [If you see me](https://open.spotify.com/album/3Ib1E0Oc3d6OzEAMZoSYXy) | 4:03 | 2024-12-05 |  |
+| [If you see me](https://open.spotify.com/track/1kJSVgmiirpy69GZYealwW) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [If you see me](https://open.spotify.com/album/3Ib1E0Oc3d6OzEAMZoSYXy) | 4:03 | 2024-12-05 | 2025-05-13 |
 | [If You See Me](https://open.spotify.com/track/6klI77nVgqRzC70S3xQy1i) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [BY CHANCE PROJECT](https://open.spotify.com/album/0zSuVBhpSoJJZOJpT0f8Zb) | 3:25 | 2023-05-03 | 2023-09-19 |
 | [If you're with me](https://open.spotify.com/track/30aVEUz4NgkGuegz32gjl8) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 | 2021-12-23 | 2021-12-27 |
 | [If You're With Me](https://open.spotify.com/track/1zzWNjnQTR61dar4ESaYuE) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 3:58 | 2022-03-31 | 2022-04-17 |
@@ -659,6 +659,7 @@
 | [Korean Ballad](https://open.spotify.com/track/6dXt2gwVdumUj1pFEyGg6w) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:43 | 2023-02-28 | 2023-06-23 |
 | [La Vie Rosée](https://open.spotify.com/track/77EJqUi8w6kstvE53TFxnw) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 5:14 | 2024-04-26 | 2024-08-11 |
 | [Last Love](https://open.spotify.com/track/3IIpNE0OGmMThMQO4uK3Fd) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Last Love](https://open.spotify.com/album/5YqWy3QakMPwKDt5ntfDN6) | 4:04 | 2023-01-20 | 2023-02-25 |
+| [last night](https://open.spotify.com/track/3WVBb9WuUsHlfPSewks6oo) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [last night](https://open.spotify.com/album/19WqNz0etWx0WvHDD6zYRR) | 3:41 | 2025-05-12 |  |
 | [Last Scene](https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Last Scene \- The 3rd Mini Album](https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7) | 4:22 | 2022-11-16 | 2023-01-21 |
 | [Last Story](https://open.spotify.com/track/7nxZFKs0CEzQrPj97P6B4W) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/5KHAL2dWTEWhhcUNSvgUKG) | 4:05 | 2025-04-08 |  |
 | [Lasting Scent](https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 4th EP Album 'Untitled'](https://open.spotify.com/album/3dt51zaMmRSBrH5Wky5HrC) | 4:24 | 2023-10-16 | 2024-03-09 |
@@ -1076,6 +1077,7 @@
 | [Spring will come after this winter](https://open.spotify.com/track/2YODsJYj7If4Ae68nAHfSk) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [Leetneer Project](https://open.spotify.com/artist/1akMU7C7YstvDu6jEXYrQM) | [Spring will come after this winter](https://open.spotify.com/album/7cTn623yQVSRgFc77oqZyO) | 4:25 | 2023-02-24 | 2023-04-27 |
 | [Stairs](https://open.spotify.com/track/7pVU6ihIDWfIfpCTQvQMvZ) | [Ouf Of Campus](https://open.spotify.com/artist/7tcw7xCLN8uPjOjYE1RWhn) | [Stairs](https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx) | 3:03 | 2022-12-16 | 2023-01-21 |
 | [Stand By Your Side](https://open.spotify.com/track/1h2EjiRBZu1geZrxV5dWhz) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Stand By Your Side \(CURTAIN CALL OST Part.7\)](https://open.spotify.com/album/7c0jTAaxnlZgPAhvYsdr0a) | 4:30 | 2022-12-16 | 2023-02-09 |
+| [Star](https://open.spotify.com/track/3j0JMgCEyR45tBCVUo1CMb) | [2BIC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [Star](https://open.spotify.com/album/2tXyYTNcykXOERkFNvrJpA) | 3:58 | 2025-05-12 |  |
 | [Star](https://open.spotify.com/track/0UcaDVU5jKXZXv2BfgMO56) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Star](https://open.spotify.com/album/61haIPm5s5cfRCgqkbGKJ2) | 4:05 | 2022-03-31 | 2022-05-29 |
 | [STAR DUST](https://open.spotify.com/track/2zayCOuQcW0iNPsu02jFa7) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [STAR DUST](https://open.spotify.com/album/0ltZ0m8qh833WDHfAvwai8) | 3:48 | 2021-12-20 | 2022-06-05 |
 | [Stardust](https://open.spotify.com/track/10xEWyLu80xSy17g9jptlD) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album 'END THEORY'](https://open.spotify.com/album/7nzPuFSw98m1si3pqARggs) | 3:50 | 2021-12-23 | 2022-07-03 |

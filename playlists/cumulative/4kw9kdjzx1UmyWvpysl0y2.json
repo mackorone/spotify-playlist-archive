@@ -5038,7 +5038,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 145856,
       "name": "Empty",
       "url": "https://open.spotify.com/track/58D2ovS7dHHgLmql6PiAeQ"
@@ -10435,6 +10435,24 @@
     },
     {
       "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/4J8zgXZhgXyC8iLGZb3jaN"
+      },
+      "artists": [
+        {
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140939,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/4p9c1dudsL928nIhcZn15q"
+    },
+    {
+      "album": {
         "name": "love & hardcore",
         "url": "https://open.spotify.com/album/2bHtt9XVu8blZVdY34acmI"
       },
@@ -14576,7 +14594,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 224000,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/71TPyvUHZO7tNTWjERvvwv"
@@ -20420,7 +20438,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 186240,
       "name": "ZERO200",
       "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"

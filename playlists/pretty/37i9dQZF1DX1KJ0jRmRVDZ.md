@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,886 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,891 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 23 | [Melon Soda](https://open.spotify.com/track/5MHYzEQSaraNGAww5BOHdQ) | [Tsuki ga kirei janakutatte.](https://open.spotify.com/artist/1pNNcMKSJoq0WzKheYNZD0) | [Melon Soda](https://open.spotify.com/album/4KmmRlniSqJCf0CYfrDhRA) | 3:38 |
 | 24 | [正しさのゆくえ \(feat\. 水槽\)](https://open.spotify.com/track/7G2j2r4EPBzTefpetumnx3) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [Another Seraph](https://open.spotify.com/album/4H4esMUCNWpT4NybewLav9) | 4:17 |
 | 25 | [I Love Internet](https://open.spotify.com/track/4i7KXfgk5ZFBUpKdb3QQps) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [I Love Internet](https://open.spotify.com/album/2cBZJziZgmKiMRzyeLCwTS) | 2:30 |
-| 26 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
+| 26 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
 | 27 | [ナイトメア](https://open.spotify.com/track/4fw9f1JYnXp7QLoolC0xzN) | [ゆきむら。](https://open.spotify.com/artist/0Ht6PLvOu2GVDSV5SvdCda) | [ナイトメア](https://open.spotify.com/album/0PfGdO3d82zEcNqJIxS135) | 4:08 |
-| 28 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
+| 28 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
 | 29 | [死花](https://open.spotify.com/track/7e0ggzvLzKtHfit8DUrwDI) | [AKAGIMI](https://open.spotify.com/artist/1bbyffSHtDK3yVtTbVhPCX) | [死花](https://open.spotify.com/album/6Mz6kSeSmv7jGsY7Tm5w9K) | 2:49 |
 | 30 | [亜東京 \(feat\. キタニタツヤ\)](https://open.spotify.com/track/3RUXMUcuFnfMgI20Tx5LeT) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:55 |
 | 31 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |

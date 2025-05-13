@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Hala Niye Burday\u0131m",
       "url": "https://open.spotify.com/track/4nEb2EscWMff2wh3l0yK6e"
@@ -1991,6 +1991,28 @@
     },
     {
       "album": {
+        "name": "Ke\u015fke",
+        "url": "https://open.spotify.com/album/0AR8NqHIqblQXnedF3sOaD"
+      },
+      "artists": [
+        {
+          "name": "Alba",
+          "url": "https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71"
+        },
+        {
+          "name": "Eytan",
+          "url": "https://open.spotify.com/artist/3rtgZpxBTGp6NWtLMDvvEO"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202111,
+      "name": "Ke\u015fke",
+      "url": "https://open.spotify.com/track/77H6MdwOXiDFNZHSgQgRZD"
+    },
+    {
+      "album": {
         "name": "Konstantinopolis",
         "url": "https://open.spotify.com/album/74TJrtvcCD4EFJfXJSje2f"
       },
@@ -2128,7 +2150,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 180800,
       "name": "Mazide",
       "url": "https://open.spotify.com/track/78Ph3Ffyp3vV0BqaBLJRXN"
@@ -2388,7 +2410,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 255700,
       "name": "r\u00fcyet",
       "url": "https://open.spotify.com/track/7thtv8TVmmxx5edxwk9r1o"
@@ -2846,7 +2868,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 209423,
       "name": "Sonumu Bile Bile",
       "url": "https://open.spotify.com/track/3ZGgkyCgxd0UqSIgrQqlVS"
@@ -4014,7 +4036,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 174916,
       "name": "\u00c7ok Sevdim",
       "url": "https://open.spotify.com/track/13n0yHb4lidng6qEkLASaP"

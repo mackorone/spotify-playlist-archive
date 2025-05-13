@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Caskets
 
-1,214 songs - 3 day 2 hr 37 min
+1,215 songs - 3 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [Heaven Shall Burn](https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven Shall Burn](https://open.spotify.com/album/7nJzHteWK38ha0G1J8i57V) | 4:07 | 2023-11-27 | 2024-02-24 |
 | [HEAVY RAIN](https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HEAVY RAIN](https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih) | 3:54 | 2023-09-29 | 2024-10-26 |
 | [Heir to the Serpent](https://open.spotify.com/track/2kBVTplPtDRx0sqXWtTYOh) | [The Guild](https://open.spotify.com/artist/5BVgUzoX3ui5r5bBWMNGLX) | [Heir to the Serpent](https://open.spotify.com/album/1KkGP91FL5N5zxc9Jb8Fpd) | 4:23 | 2022-07-13 | 2022-07-23 |
+| [helium](https://open.spotify.com/track/2N8djHgfdViWfGSxJpJO0c) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [helium](https://open.spotify.com/album/5WjiWOcFguju9bZkfXk2DR) | 3:35 | 2025-05-09 |  |
 | [Hell is Other People](https://open.spotify.com/track/7q7ZgeTsfhCDewBSb5tIim) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Hell is Other People](https://open.spotify.com/album/4RWvDCNII3onIm2bZvjzdy) | 3:39 | 2022-07-13 | 2022-07-19 |
 | [Hell Is Where The Heart Is](https://open.spotify.com/track/4jZFmBhYpwwiWjuEYmlEYq) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. III: Clarity](https://open.spotify.com/album/7lt5GA2p1R951h7cg6IycG) | 3:53 | 2022-11-25 | 2023-08-28 |
 | [Hellmouth](https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Hellmouth](https://open.spotify.com/album/42xWOp9Wymj0Wh21YKLkqD) | 3:41 | 2022-07-13 | 2022-07-22 |
@@ -689,7 +690,7 @@
 | [Mass Produced](https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Mass Produced](https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w) | 3:01 | 2022-08-19 | 2022-11-05 |
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-04-15 | 2022-05-14 |
 | [Meat & Greet](https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Meat & Greet](https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp) | 3:30 | 2023-10-27 | 2024-08-26 |
-| [Melanchronic](https://open.spotify.com/track/0ZnJwflZTxlQxtQOzRlRBL) | [vianova](https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n) | [Melanchronic](https://open.spotify.com/album/0eYpyV6zS75rKwRFWAYRet) | 5:26 | 2025-03-31 |  |
+| [Melanchronic](https://open.spotify.com/track/0ZnJwflZTxlQxtQOzRlRBL) | [vianova](https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n) | [Melanchronic](https://open.spotify.com/album/0eYpyV6zS75rKwRFWAYRet) | 5:26 | 2025-03-31 | 2025-05-13 |
 | [Mercy](https://open.spotify.com/track/05pFSOQXBF9xEydmyBRU2R) | [Our Sorrows](https://open.spotify.com/artist/3WPkmecpxS1kHEWSiHgex2) | [Mercy](https://open.spotify.com/album/1ohjKFnDzXTdow3BX4JAIp) | 3:56 | 2022-04-01 | 2022-06-18 |
 | [Mindframe](https://open.spotify.com/track/5RSZLtJ4AzbggHqYLywVW7) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Mindframe](https://open.spotify.com/album/1tng5yz3AyNEX5nHLqycex) | 3:06 | 2024-12-18 |  |
 | [Mirrors](https://open.spotify.com/track/3a5xdf1nPYi8l0FsWBUtKz) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Mirrors](https://open.spotify.com/album/4h6GP84d0vn4JHFn9Dwb6V) | 4:22 | 2022-07-13 | 2022-07-21 |

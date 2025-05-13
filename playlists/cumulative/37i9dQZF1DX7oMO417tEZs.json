@@ -15401,6 +15401,24 @@
     },
     {
       "album": {
+        "name": "laundry day",
+        "url": "https://open.spotify.com/album/3osKZabjMYt3IESd67l0Zr"
+      },
+      "artists": [
+        {
+          "name": "Chris LaRocca",
+          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168207,
+      "name": "laundry day",
+      "url": "https://open.spotify.com/track/1dtINGPPyYYVhtwpSAjodV"
+    },
+    {
+      "album": {
         "name": "LAWD",
         "url": "https://open.spotify.com/album/2C80TjyKrG3GFKnyYfEZHs"
       },
@@ -29138,7 +29156,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 260488,
       "name": "WANDERER",
       "url": "https://open.spotify.com/track/44tPUwjtdkisODujAAp6hs"

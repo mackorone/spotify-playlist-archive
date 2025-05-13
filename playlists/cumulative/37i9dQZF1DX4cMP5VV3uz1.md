@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-423 songs - 1 day 0 hr 34 min
+424 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Cancelled](https://open.spotify.com/track/7mxDzIP1U1Yss9orJpM0KS) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Cancelled](https://open.spotify.com/album/38uvsLnhGvWVV0p02GZyQT) | 3:33 | 2022-10-28 | 2023-03-15 |
 | [Careless Whisper \- Radio Edit](https://open.spotify.com/track/7lrUAbgP9LyrtZ7RFkbRNf) | [The Sax Brothers](https://open.spotify.com/artist/0Mw3c0uiOzgY2DgLCWHmWI) | [Careless Whisper](https://open.spotify.com/album/5lx53WmOLPBD3EE6VU95Zj) | 3:11 | 2023-12-27 | 2024-01-12 |
 | [Cats](https://open.spotify.com/track/42qHJJdav0B4gMNbpX8hUO) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Cats](https://open.spotify.com/album/1ysdltE5CSbo81nGOIRoA4) | 3:44 | 2023-09-22 | 2023-10-07 |
-| [Champion Sound](https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Champion Sound](https://open.spotify.com/album/0O0gusOWe8wZ9MrNtzGWm0) | 3:47 | 2024-10-18 |  |
+| [Champion Sound](https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Champion Sound](https://open.spotify.com/album/0O0gusOWe8wZ9MrNtzGWm0) | 3:47 | 2024-10-18 | 2025-05-13 |
 | [CHARGIE](https://open.spotify.com/track/3pd6N5QcmjBenZA5BiU9Se) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Jamakabi](https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC) | [CHARGIE](https://open.spotify.com/album/6tMEfHFJfpGBpIIbbu7fFo) | 2:19 | 2025-01-31 |  |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-19 | 2024-07-27 |
 | [Cluster](https://open.spotify.com/track/47sojOFHCWJuDCDj3MFGnc) | [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Cluster](https://open.spotify.com/album/5X9rtUQlk7f04F9dsra2el) | 4:09 | 2024-03-01 | 2024-09-20 |
@@ -373,6 +373,7 @@
 | [Summer ID](https://open.spotify.com/track/16wZMeWZ5GPRFmw9CPvkMx) | [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [Summer ID](https://open.spotify.com/album/3rCZBG91JaLmtngLtEU7we) | 2:24 | 2023-12-27 | 2024-01-12 |
 | [Supersonic \- Basstripper Remix](https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Supersonic \(Basstripper Remix\)](https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG) | 3:44 | 2024-02-23 | 2024-09-06 |
 | [SWAZZ](https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O) | [The Manor](https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ) | [SWAZZ](https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ) | 3:32 | 2022-09-30 | 2023-05-20 |
+| [System Culture](https://open.spotify.com/track/5a5w0ZhEknY125PLciCtmO) | [Micky Finn](https://open.spotify.com/artist/56L8IWLGA2CN4K09ZCt4Fx), [Vital Elements](https://open.spotify.com/artist/0zsycKbnc6W0SzFeLAWIHb), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl) | [System Culture](https://open.spotify.com/album/6L6g6u1IrivxWWFpt1iMII) | 4:29 | 2025-05-08 |  |
 | [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 | 2025-02-28 |  |
 | [Take Me As I Am](https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [None Of Us Are Getting Out Of This Life Alive](https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB) | 3:06 | 2022-09-30 | 2024-02-23 |
 | [Take Me Under](https://open.spotify.com/track/4K7AskjKIv38Cbe3ZxZWP1) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Take Me Under](https://open.spotify.com/album/607QBQkIfthxHIInOEeZO3) | 3:57 | 2024-10-03 | 2024-10-06 |

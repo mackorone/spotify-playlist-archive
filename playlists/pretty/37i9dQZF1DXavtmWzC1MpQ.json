@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 150319,
+  "num_followers": 150373,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "Terapheutic Thunder",
-        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f9h\u00e9 \u6108\u5408",
-          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
-        }
-      ],
-      "duration_ms": 134313,
-      "name": "Presence of Thor",
-      "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
-    },
-    {
-      "added_at": "2025-02-18 15:28:48",
-      "album": {
         "name": "Rain Awakening",
         "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 198000,
       "name": "Bird Chatter In Rainforest",
       "url": "https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF"
+    },
+    {
+      "added_at": "2025-02-18 15:28:48",
+      "album": {
+        "name": "Terapheutic Thunder",
+        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f9h\u00e9 \u6108\u5408",
+          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
+        }
+      ],
+      "duration_ms": 134313,
+      "name": "Presence of Thor",
+      "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
     },
     {
       "added_at": "2025-02-18 15:28:48",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "Birds",
-        "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
+        "name": "Lost in the Rainforest",
+        "url": "https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8"
       },
       "artists": [
         {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+          "name": "Nature Field Recordings",
+          "url": "https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD"
         }
       ],
-      "duration_ms": 154338,
-      "name": "Birds in Village Park",
-      "url": "https://open.spotify.com/track/0QzUxmfNfouNor0fUpslhn"
+      "duration_ms": 210000,
+      "name": "Storm in the Distance",
+      "url": "https://open.spotify.com/track/0SlsmPh8FGXhfdR3fCb14g"
     }
   ],
   "unique_name": "Sons da Natureza",

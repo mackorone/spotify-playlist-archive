@@ -4,7 +4,7 @@
 
 > 
 
-992 songs - 2 day 1 hr 12 min
+994 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Dark Star](https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:45 | 2025-05-06 |  |
 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-03-18 |  |
 | [Darkest Before Dawn](https://open.spotify.com/track/4RIdKsqdglJ5JqTG8kTvw7) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Me, Myself & I](https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok) | 3:56 | 2022-07-02 | 2023-04-12 |
+| [Darkness \- 2021 Remaster](https://open.spotify.com/track/3BWEa8rtenICK4a6X4OG3l) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why \(2021 Remaster\)](https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD) | 6:19 | 2025-05-12 |  |
 | [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-11-05 |  |
 | [David's Song \- Tom Misch Remix](https://open.spotify.com/track/4nl1sTJewkAySvB63v7k5g) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [David's Song](https://open.spotify.com/album/7pi3VTkRkV4Hm6jTWEhrpK) | 4:12 | 2024-02-14 | 2024-04-24 |
 | [DayCare](https://open.spotify.com/track/4pfKtIZ72ue8kCRaA1YN64) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [DayCare](https://open.spotify.com/album/2SOWsVk19fmFxBeRQJ55Et) | 2:03 | 2022-07-23 | 2023-12-14 |
@@ -780,6 +781,7 @@
 | [Sic' em](https://open.spotify.com/track/5X5P92Bj4GOxnbBYpiBjcz) | [Squish](https://open.spotify.com/artist/7KuC3LimM4OgSpZa72PF51) | [Sic&\#039; em](https://open.spotify.com/album/0NzAJbElXRr0qRofnkOllO) | 2:08 | 2023-04-05 | 2023-05-09 |
 | [Sick of Slime](https://open.spotify.com/track/4BWqc7XhJPFkbCvfDcAdYl) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:19 | 2023-02-05 | 2023-05-09 |
 | [Signs](https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 3:56 | 2025-04-26 |  |
+| [Silence \- 2021 Remaster](https://open.spotify.com/track/4S1Ua9Oerrch4cEhjSFMp0) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why \(2021 Remaster\)](https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD) | 1:57 | 2025-05-12 |  |
 | [Since When](https://open.spotify.com/track/7otyA9osfGfIjMdrTWOstT) | [Cunninlynguists](https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa) | [A Piece Of Strange](https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA) | 4:01 | 2023-10-03 | 2024-04-24 |
 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 | 2025-04-14 |  |
 | [Skidoo](https://open.spotify.com/track/5AZMFwVqoTIcx1mMSUZLXl) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Skidoo](https://open.spotify.com/album/2TFJlX6hLheRvmO1u4LW7R) | 3:09 | 2024-03-16 | 2024-04-24 |

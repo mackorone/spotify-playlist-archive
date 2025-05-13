@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Chaos in The CBD
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,154 likes - 99 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,152 likes - 99 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 55 | [KORABU \(feat\. Varg2™, Whitearmor, Eurohead, jamesjamesjames\)](https://open.spotify.com/track/0egyLpAMPO5nvzjCN6zxGx) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [bgirl](https://open.spotify.com/artist/3reftshVlP4U38NNol55iO), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Eurohead](https://open.spotify.com/artist/5MSILmANslIYw4gMOmnxe0), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Whitearmor](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:01 |
 | 56 | [BILLS](https://open.spotify.com/track/5xMyX7XBB17b43bUI62x89) | [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE) | [Fellsius Rhythm Lab Vol.2](https://open.spotify.com/album/25dgncA5JpOngnQQBL3UgS) | 2:57 |
 | 57 | [say you'll never leave](https://open.spotify.com/track/4IOkjtrAntwo5TticxEIr9) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [say you'll never leave](https://open.spotify.com/album/4xJwTmqkzGXCfS0RhFhq19) | 2:47 |
-| 58 | [Dopamine](https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Dopamine](https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By) | 2:49 |
+| 58 | [DOPAMINE](https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [DOPAMINE](https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By) | 2:49 |
 | 59 | [HERZSCHLAG](https://open.spotify.com/track/1qJH8giBk7OawPg5RF5j9A) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [KLUBPARTEI](https://open.spotify.com/album/1uISv19ZmoOXpsqqm48iik) | 3:53 |
 | 60 | [Last Night I Dreamt I Was Alone \- Loukeman Remix](https://open.spotify.com/track/3RcnrSLr8adMwaoAjirO5d) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Last Night I Dreamt I Was Alone \(Loukeman Remix\)](https://open.spotify.com/album/7KuyLUWqXzLvxWYxzXYuh9) | 2:45 |
 | 61 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 |

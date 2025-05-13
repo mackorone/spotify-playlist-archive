@@ -1277,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "LAMA TROU2",
+        "url": "https://open.spotify.com/album/65scTQsaErZPAsaxKzjd31"
+      },
+      "artists": [
+        {
+          "name": "Nasser",
+          "url": "https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "LAMA TROU2",
+      "url": "https://open.spotify.com/track/1HUvF8RK92osBInwE1epTG"
+    },
+    {
+      "album": {
         "name": "Layli",
         "url": "https://open.spotify.com/album/78wyh3lmhFE1y5tnlFv4p5"
       },

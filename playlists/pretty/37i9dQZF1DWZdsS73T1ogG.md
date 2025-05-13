@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Jhay P
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,420 likes - 164 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,407 likes - 164 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

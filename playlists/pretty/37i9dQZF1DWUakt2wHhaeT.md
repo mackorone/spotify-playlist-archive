@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Idina Menzel in Redwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,466 likes - 54 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,473 likes - 54 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 18 | [Man Of The House](https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [Man Of The House](https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu) | 2:53 |
 | 19 | [I Do](https://open.spotify.com/track/4hkPIQY5aulr2uH19cyVJl) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Jeevan Braich](https://open.spotify.com/artist/6LopWizUGU7UICdQ7MEkGr), [Kayna Montecillo](https://open.spotify.com/artist/2IHsK4JgDj7rDVHQkLQ4Kx) | [Starlight Express](https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9) | 4:17 |
 | 20 | [How Do You Sleep](https://open.spotify.com/track/5O1KUF2pfaDvWG42z8927P) | [JC Chasez](https://open.spotify.com/artist/3p3U04w2DaiBzuYMZnYr00), [Jimmy Harry](https://open.spotify.com/artist/6mj5tiQROS79JXR9cfODHv), [Cardamon Rozzi](https://open.spotify.com/artist/3CWOdAXmL8NQGG6eC4nPbu) | [Playing With Fire \(World Premiere Recording\)](https://open.spotify.com/album/2BSWztobDwPRNdoICigWNY) | 3:55 |
-| 21 | [Today I Am Here](https://open.spotify.com/track/7lBQi6V12cxLBz6XMmCOLb) | [King of Pangea Musical](https://open.spotify.com/artist/4kMLTbB3MuxU5da73oBvu2), [Martin Storrow](https://open.spotify.com/artist/2ZK6Ew8k5DDO43kloeaorE), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Today I Am Here](https://open.spotify.com/album/073BmFGgktQCF2vrXcRtKA) | 3:19 |
+| 21 | [Today I Am Here](https://open.spotify.com/track/7lBQi6V12cxLBz6XMmCOLb) | [King of Pangea Musical](https://open.spotify.com/artist/0H5jxkf65ZTj5VQc4Wh8bm), [Martin Storrow](https://open.spotify.com/artist/2ZK6Ew8k5DDO43kloeaorE), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Today I Am Here](https://open.spotify.com/album/073BmFGgktQCF2vrXcRtKA) | 3:19 |
 | 22 | [Satisfied](https://open.spotify.com/track/79BwTTvO0aWe5yfMM04QM2) | [Robby Good](https://open.spotify.com/artist/3BKT12By8oCU73WxjFxKwT), [Matthew Deegan](https://open.spotify.com/artist/6s8wlCe58nG03AgjZjESRn), [Abigail Torrence](https://open.spotify.com/artist/3JKlcuQXl7WnwjM7hmpVqE), [Mia Ruhman](https://open.spotify.com/artist/7lhFpWt6W1tHo6YNcOJ2gP), [Jordan Hadley](https://open.spotify.com/artist/0HNbGPoOpo3vkUnwRRlvk5) | [Dis\-topia \(Original Cast Recording\)](https://open.spotify.com/album/5BMIwzTHM37ae8O1b1TSzq) | 2:22 |
 | 23 | [Let Them Eat Cake](https://open.spotify.com/track/0tfWuZZS3MA4UdMryLeApR) | [Cake The Musical](https://open.spotify.com/artist/60uKAnsWM88nOiQ8cMnLha) | [CAKE: The Marie Antoinette Playlist \(Studio Cast Recording\)](https://open.spotify.com/album/0wIkG3HcEubSxNueheYcSW) | 3:35 |
 | 24 | [If You Can Count](https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Warriors](https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl) | 3:24 |

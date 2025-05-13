@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Weeknd ft\. Playboi Carti & Doechii, Avril Lavigne, Arcade Fire, Men I Trust, Naomi Sharon and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,750 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,745 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 78 | [6REASONSWHY](https://open.spotify.com/track/6Rf629uGsGjW6klZIbrAjM) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh) | [6REASONSWHY](https://open.spotify.com/album/5FjklDGEIGqLyblS5l1Su5) | 2:28 |
 | 79 | [Thorn](https://open.spotify.com/track/0rsPE4pZ2Yz7U1IDn3E9T5) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Thorn](https://open.spotify.com/album/6z6dWtrShomH3DKzbqA8Yn) | 3:21 |
 | 80 | [Andromeda](https://open.spotify.com/track/0wevdjeAS4m5tdCYdlY52C) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Ill at ease](https://open.spotify.com/album/2RcSMpNoSniwFWtM1aRaIY) | 4:48 |
-| 81 | [I'll Be Fire](https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [I'll Be Fire](https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7) | 3:10 |
+| 81 | [I'll Be Fire](https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He) | [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [I'll Be Fire](https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7) | 3:10 |
 | 82 | [Gotta Be Country](https://open.spotify.com/track/556NgrV6yBcJ7jLkqUwj4P) | [The Martin Boys](https://open.spotify.com/artist/0Jjl71AwTHhQlvhSeugY8k) | [Gotta Be Country](https://open.spotify.com/album/2etCBGd1lP6hjRyFTiLZQj) | 3:14 |
 | 83 | [Homewrecker](https://open.spotify.com/track/1cdsHSmfs7o3jow5JsV9Af) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Homewrecker](https://open.spotify.com/album/4ghm6IDAg6hSFat6uQSoqt) | 3:03 |
 | 84 | [THE BADDEST \(with Illest Morena\)](https://open.spotify.com/track/22waNdIbBAhzes4D2CTQX0) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [THE BADDEST \(with Illest Morena\)](https://open.spotify.com/album/3N6AEFJ8tVjRIghPf1GPK6) | 3:12 |

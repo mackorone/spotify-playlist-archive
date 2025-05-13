@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Tzanca Uraganu
+> Cele mai de succes 50 de hituri în România\. Cover: Sami G
 
-166 songs - 8 hr 1 min
+169 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,10 +25,12 @@
 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 | 2025-01-27 |  |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-10 |  |
 | [Aoleu](https://open.spotify.com/track/0RgvTGup9GpTFJq897mdYo) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Aoleu](https://open.spotify.com/album/3LW9pVdA5tHHpZg4s2OPfP) | 1:59 | 2024-07-01 | 2024-10-22 |
-| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 |  |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-05-13 |
 | [AROMA EI](https://open.spotify.com/track/3Qg3SxpBpWNMMeSNaadWu2) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 2:43 | 2024-07-01 | 2025-02-04 |
+| [Arunca\-ma La Lei](https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Arunca\-ma La Lei](https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7) | 2:32 | 2025-05-12 |  |
 | [Au!](https://open.spotify.com/track/3JnQ9tk30e7xI9uAvSnXtF) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Moza Kaliza](https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk) | [Au!](https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8) | 3:26 | 2024-07-08 | 2024-08-27 |
 | [Baba](https://open.spotify.com/track/2LwLdMMTnZgDggYoUxXn8d) | [Gheboasă](https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ), [Alberto Guta](https://open.spotify.com/artist/5GvO1pU9enFaGlqtEbqV2P) | [Baba](https://open.spotify.com/album/6Kmrcahv6aAPYTlkADWt7p) | 2:18 | 2024-07-01 | 2024-10-22 |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-05-12 |  |
 | [Baklava](https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Baklava](https://open.spotify.com/album/7FCxU7klbvof984RWinLZh) | 2:24 | 2024-07-01 |  |
 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:29 | 2024-12-02 | 2025-05-06 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-07-01 | 2024-08-20 |
@@ -62,7 +64,8 @@
 | [Decibeli](https://open.spotify.com/track/0ogZ6EecrYbNQhKIQCCXyz) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [Decibeli](https://open.spotify.com/album/5jylDMNyLWXD1Jcgt4GKgA) | 3:54 | 2024-07-01 | 2024-07-16 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-15 | 2024-08-08 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-26 |  |
-| [Dragoste nouă](https://open.spotify.com/track/4mffuuMam2bBlx1c4PtfjJ) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Dragoste nouă](https://open.spotify.com/album/5vNFpcjvfKiRrGph2sfUwt) | 2:45 | 2025-04-03 |  |
+| [Don't Be Shy](https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [millforlife](https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Don't Be Shy](https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF) | 2:39 | 2025-05-12 |  |
+| [Dragoste nouă](https://open.spotify.com/track/4mffuuMam2bBlx1c4PtfjJ) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Dragoste nouă](https://open.spotify.com/album/5vNFpcjvfKiRrGph2sfUwt) | 2:45 | 2025-04-03 | 2025-05-13 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 | 2025-03-18 |
 | [E Adevărat](https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [E Adevărat](https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa) | 2:47 | 2024-09-23 |  |
 | [Echo](https://open.spotify.com/track/61qMlEw96KJJluJx1ANYbH) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Echo](https://open.spotify.com/album/7mYcHs6sJgYiVmAOBTgemf) | 2:58 | 2025-04-14 |  |
@@ -140,7 +143,7 @@
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-03-24 |  |
 | [Sistem Otoman](https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa) | [Tony One](https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT), [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Sistem Otoman](https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e) | 2:43 | 2024-07-01 | 2024-12-03 |
 | [Spania](https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Spania](https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc) | 2:39 | 2024-10-21 |  |
-| [Sper Ca Esti Bine](https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E) | 2:53 | 2024-07-01 |  |
+| [Sper Ca Esti Bine](https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E) | 2:53 | 2024-07-01 | 2025-05-13 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-27 | 2025-02-18 |
 | [SPUNE\-MI](https://open.spotify.com/track/7L7fhdO5F0tPnt6ILSgj58) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [SPUNE\-MI](https://open.spotify.com/album/0OW11VdduqMjqdSrhxTnF0) | 2:20 | 2024-07-01 | 2024-07-09 |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-25 | 2024-12-10 |

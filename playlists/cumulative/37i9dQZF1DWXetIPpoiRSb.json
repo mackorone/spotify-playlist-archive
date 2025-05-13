@@ -11635,6 +11635,24 @@
     },
     {
       "album": {
+        "name": "Haiku",
+        "url": "https://open.spotify.com/album/4cWC2yy4u4a1gYjyU2IL5i"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212618,
+      "name": "Haiku",
+      "url": "https://open.spotify.com/track/52uaVOICJKsGh3jBM1EW6m"
+    },
+    {
+      "album": {
         "name": "Hair Tie",
         "url": "https://open.spotify.com/album/0LJtm57k5uVtcGRkPU6hLm"
       },
@@ -27454,7 +27472,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 103520,
       "name": "Super",
       "url": "https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy"

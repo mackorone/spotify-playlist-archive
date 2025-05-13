@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Salmo, Tony Boy, Shablo, Tony Effe e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,978 likes - 134 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,987 likes - 134 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

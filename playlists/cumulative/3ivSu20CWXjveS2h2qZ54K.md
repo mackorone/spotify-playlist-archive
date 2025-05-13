@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,012 songs - 9 day 6 hr 17 min
+4,013 songs - 9 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2636,6 +2636,7 @@
 | [Pa Ti](https://open.spotify.com/track/2RI6t2wnifhfIyeSKXupio) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Pa ti](https://open.spotify.com/album/3uoCt9ywjzKWfwMP4qNeTn) | 2:11 | 2024-07-26 | 2024-08-10 |
 | [PACMAN](https://open.spotify.com/track/2rDWy96Bn32g9BcSmbLdxq) | [JayCandy](https://open.spotify.com/artist/47bMMoWR7A36BNr0SH10Rq), [Yassir](https://open.spotify.com/artist/0gO4impF9bswjUblyD7bRF), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [PACMAN](https://open.spotify.com/album/7p9ZmeYNLi6Cx7968yDyix) | 3:07 | 2024-06-21 | 2024-06-29 |
 | [pacto\_bonus\_track](https://open.spotify.com/track/1brzr0qgELat2wblkMjYKV) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [sistema de entretenimiento](https://open.spotify.com/artist/4Fps5rcLi7YIfOcmTKHpHv) | [pacto\_bonus\_track](https://open.spotify.com/album/6Zok5UUSaBUufeKpc1EsjL) | 2:08 | 2024-04-26 | 2024-05-10 |
+| [Padiante](https://open.spotify.com/track/0RdRTdsqK9BVJnmbQPWLOX) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Padiante](https://open.spotify.com/album/2KxHh90sAc9vmtWID0mRoE) | 2:49 | 2025-05-12 |  |
 | [Pain Is Cold Water \- Live From Fenway Park](https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Live From Fenway Park](https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6) | 2:20 | 2024-08-30 | 2024-09-07 |
 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 | 2024-09-06 | 2024-09-14 |
 | [Palacio de Hielo](https://open.spotify.com/track/20DMsLFnKXFsextWglDMiL) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Inmersión](https://open.spotify.com/album/7GzlsTZ6h5tURFxCZ2DFc0) | 3:05 | 2025-04-25 | 2025-05-10 |

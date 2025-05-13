@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,933 likes - 360 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,010 likes - 360 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,7 +184,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 174 | [Tinkle tinkle](https://open.spotify.com/track/4WjVvRNZ53UIZQ4bO1qSJW) | [James Wilson](https://open.spotify.com/artist/3ga6yp9X6U92WEuBdIGMem) | [Tinkle tinkle](https://open.spotify.com/album/4ZOX8aBf4o4C2LUCARTi24) | 1:32 |
 | 175 | [A\-tisket, A\-tasket](https://open.spotify.com/track/2bgQs7UTnoOgdHlPjjHG6m) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [A\-tisket, A\-tasket](https://open.spotify.com/album/7buCqlY8XcXvL3NPz5wVIm) | 1:29 |
 | 176 | [Dolphine Blue](https://open.spotify.com/track/5KM7frQeHZgSvHLu5io6oI) | [Freddie Leland](https://open.spotify.com/artist/1ZcNkiNnCczkWXc5C6Ukxx) | [Dolphine Blue](https://open.spotify.com/album/191xbSLp9QGMFlu81cQwrJ) | 2:09 |
-| 177 | [Step by Step](https://open.spotify.com/track/2BABHnDsI8cW3kiM51oYn0) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Step by Step](https://open.spotify.com/album/0QNNCLkIk9YVDKp3jYXmCJ) | 1:40 |
+| 177 | [Step by Step](https://open.spotify.com/track/2BABHnDsI8cW3kiM51oYn0) | [Priam Roy](https://open.spotify.com/artist/0E5cC8pTIy6UO0S4FKwDh5) | [Step by Step](https://open.spotify.com/album/0QNNCLkIk9YVDKp3jYXmCJ) | 1:40 |
 | 178 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/5dgHVQChKN990KBnMeSKo3) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/13z6pz63qQVqQXflynPRg0) | 1:25 |
 | 179 | [The stars above](https://open.spotify.com/track/3KM4QDmp7zz2AnlFkbRwxT) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [The stars above](https://open.spotify.com/album/0BXJjzmGuVfajzwnM4uw0i) | 1:32 |
 | 180 | [Baby Bear](https://open.spotify.com/track/524hkBEPBBTRkNOykE1hti) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [Baby Bear](https://open.spotify.com/album/1AZO1KDhtV8y3CX1DjToPj) | 1:46 |
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 215 | [A Miracle Under The Stars](https://open.spotify.com/track/6ZdTPcYHN0qxQfvKKNMPLG) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [A Miracle Under The Stars](https://open.spotify.com/album/3EHWjNYtw8C3AFD5vXVuwL) | 2:05 |
 | 216 | [Isolde’s dream](https://open.spotify.com/track/3EbKqMFaqKVt1pSgper4xm) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [Isolde’s dream](https://open.spotify.com/album/7fybKYONWHdx5KLUViY3oQ) | 1:29 |
 | 217 | [Hickory Dickory Dock](https://open.spotify.com/track/2ZwifmQVFVThqtcRxqmS4f) | [Cats meow](https://open.spotify.com/artist/2ItMNwIn1iI3oqnSZfnbpy) | [Hickory Dickory Dock](https://open.spotify.com/album/3CkZBhmHUmwITwD2hlMsUu) | 1:36 |
-| 218 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 |
+| 218 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Priam Roy](https://open.spotify.com/artist/0E5cC8pTIy6UO0S4FKwDh5) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 |
 | 219 | [If You´re Happy and You Know it](https://open.spotify.com/track/6ByGlcJpT4G6FlDgQvKhKp) | [Bella Wilkinsson](https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp) | [If You´re Happy and You Know it](https://open.spotify.com/album/7MIC5ZCyu3Pf2B61Q7n48T) | 1:31 |
 | 220 | [Dalmatian](https://open.spotify.com/track/0sw8cZnGkmKtOEgzZW6iYo) | [Holy Day](https://open.spotify.com/artist/12LJaMYFHXueUiln6R32eD) | [Dalmatian](https://open.spotify.com/album/15EuOiLD2wZsinODuLbJnG) | 1:48 |
 | 221 | [Cotton Candy Clouds](https://open.spotify.com/track/1OiXCLEAoTMxJeaaoUXos3) | [Robin Thames](https://open.spotify.com/artist/6TMNfZRg48kWC72NJErGJH) | [Cotton Candy Clouds](https://open.spotify.com/album/30JT86TJIjf9rWa8MWIoAl) | 1:54 |

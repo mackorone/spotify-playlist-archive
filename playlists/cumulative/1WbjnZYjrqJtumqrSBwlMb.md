@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,084 songs - 2 day 18 hr 28 min
+1,085 songs - 2 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Angels & Queens](https://open.spotify.com/track/3C0kO7Bc51DEcJMep1deQg) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 3:19 | 2022-12-16 |  |
 | [Anti Social Anxiety](https://open.spotify.com/track/0NkfZ5TDBK61I7CI0bAZO5) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Sadder, Happier \- The Box Room Recordings](https://open.spotify.com/album/566lk3CKhQpUcMLugqZfjB) | 3:44 | 2024-06-17 |  |
 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 | 2023-12-22 |  |
-| [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2023-06-08 |  |
+| [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2023-06-08 | 2025-05-13 |
 | [Anyways](https://open.spotify.com/track/4PGWramunj3Bsz5UXCu4ex) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/6gx8diiCmRQn9wkINjd0BJ) | 3:41 | 2022-07-07 |  |
 | [Apocalypse Dreams](https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:56 | 2020-03-12 |  |
 | [Apocalypse Dreams \- Live](https://open.spotify.com/track/6mn0sw5UCR6DHZtuB82ft7) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Live Versions](https://open.spotify.com/album/44RrnCW7pMIEiiAR3LIAVL) | 7:51 | 2021-06-19 |  |
@@ -193,6 +193,7 @@
 | [Cross My Heart](https://open.spotify.com/track/3DSngt5zB8tX1DTsD2kzPK) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Bon Voyage](https://open.spotify.com/album/2ejxvsjo229Jnsnluek1zZ) | 6:55 | 2022-12-21 |  |
 | [Crying All the Time](https://open.spotify.com/track/6UHdBTFBYwKErZmqDRLGbD) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/6LbyR5pthd2ao8QwxzLtV8) | 3:30 | 2022-07-16 |  |
 | [Crying Lightning](https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:44 | 2020-10-20 |  |
+| [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/6P3vusStV43K0SOHyLeYjY) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:35 | 2025-05-12 |  |
 | [Cudi Montage](https://open.spotify.com/track/4kUZvXB3LC3an3HX6h0s17) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 3:17 | 2021-10-22 |  |
 | [Cupid](https://open.spotify.com/track/6yu9LcfTlFwc16D3xtJ8AI) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Belladonna of Sadness](https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU) | 2:57 | 2022-01-07 |  |
 | [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 | 2024-06-13 |  |

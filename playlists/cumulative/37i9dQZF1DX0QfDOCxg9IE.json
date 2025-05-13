@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
@@ -296,7 +314,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 249960,
       "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
       "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
@@ -956,7 +974,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -2086,7 +2104,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 150000,
       "name": "DOLLA DOLLA",
       "url": "https://open.spotify.com/track/1Q4fXnDsfRVN1KTH3TEaN3"
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 219370,
       "name": "Esi Ta Les - Live",
       "url": "https://open.spotify.com/track/08WNBQAJYz6UGZldgplrUf"
@@ -2874,6 +2892,28 @@
       "duration_ms": 177567,
       "name": "Gia Sena",
       "url": "https://open.spotify.com/track/5DfPEPrd3BoWL0NnwPlpTw"
+    },
+    {
+      "album": {
+        "name": "Haimalina",
+        "url": "https://open.spotify.com/album/4BMQ6nxHZhktFB5PaG7xqB"
+      },
+      "artists": [
+        {
+          "name": "Aeon",
+          "url": "https://open.spotify.com/artist/5zWF4nQXb3UtlFtG7bHwRu"
+        },
+        {
+          "name": "Marina Kastrinou",
+          "url": "https://open.spotify.com/artist/1qkzoOODToakNQwzfTH0Oz"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ginatia",
+      "url": "https://open.spotify.com/track/4F6M9yu2m0XdX76bVGqXBD"
     },
     {
       "album": {
@@ -3529,6 +3569,28 @@
     },
     {
       "album": {
+        "name": "Inhale / Exhale Remixed",
+        "url": "https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250577,
+      "name": "In the Moment - Adriatique Remix",
+      "url": "https://open.spotify.com/track/3JGvqlIZr8pvabWHmZwPsU"
+    },
+    {
+      "album": {
         "name": "In the Moment (Adriatique Remix)",
         "url": "https://open.spotify.com/album/4f7J80jlBhnA3TSWdjc5KF"
       },
@@ -3544,7 +3606,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 250577,
       "name": "In the Moment - Adriatique Remix",
       "url": "https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y"
@@ -3980,7 +4042,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 467586,
       "name": "Let It Happen",
       "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
@@ -4242,6 +4304,28 @@
       "duration_ms": 176564,
       "name": "Lubel",
       "url": "https://open.spotify.com/track/11OzTLFm6S1ew5D5nsRvGd"
+    },
+    {
+      "album": {
+        "name": "LUNA BALA",
+        "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
+      },
+      "artists": [
+        {
+          "name": "Yb Wasg'ood",
+          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124109,
+      "name": "LUNA BALA - Slowed",
+      "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
     },
     {
       "album": {
@@ -4796,6 +4880,28 @@
       "duration_ms": 152000,
       "name": "Monaxiki Kardia",
       "url": "https://open.spotify.com/track/46aH7ZYbc2P5qQno3G49OH"
+    },
+    {
+      "album": {
+        "name": "THE HEROINE",
+        "url": "https://open.spotify.com/album/5AQDDV0a6VrIRsuDdRz3UY"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        },
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173778,
+      "name": "MONOTONIA",
+      "url": "https://open.spotify.com/track/19ADuEN97q85XJ5Ngsjm3m"
     },
     {
       "album": {
@@ -6132,7 +6238,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 228011,
       "name": "S' Agapao Giati",
       "url": "https://open.spotify.com/track/7Geun1wRSkuwyYF4mknenV"
@@ -6562,7 +6668,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 75186,
       "name": "Steve's Lava Chicken - Extended Version",
       "url": "https://open.spotify.com/track/26c8pvUxWO1FhxbGM1k8fJ"
@@ -6730,6 +6836,24 @@
       "duration_ms": 280973,
       "name": "Ta 'Ho Vri Me Ton Eafto Mou",
       "url": "https://open.spotify.com/track/2xUPGwKIJvPyIDctCONpQN"
+    },
+    {
+      "album": {
+        "name": "To Diko Mou DNA",
+        "url": "https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Ta Filia Mou",
+      "url": "https://open.spotify.com/track/5UiDrTbFxLH3at0i6Scun5"
     },
     {
       "album": {
@@ -6956,6 +7080,24 @@
       "duration_ms": 252428,
       "name": "Thalasses",
       "url": "https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR"
+    },
+    {
+      "album": {
+        "name": "Thana",
+        "url": "https://open.spotify.com/album/54C2tUthOt6cscJIPVulM8"
+      },
+      "artists": [
+        {
+          "name": "Tayna",
+          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205247,
+      "name": "Thana",
+      "url": "https://open.spotify.com/track/28CpRqheGRBVpu6IDqMoR2"
     },
     {
       "album": {
@@ -7582,7 +7724,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 180186,
       "name": "V\u00e1le",
       "url": "https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E"
@@ -7669,6 +7811,24 @@
     },
     {
       "album": {
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+    },
+    {
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -7728,7 +7888,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 193075,
       "name": "Winners (Conference League Edition)",
       "url": "https://open.spotify.com/track/6RXVrYEyfqdDEMFNuVUkG6"

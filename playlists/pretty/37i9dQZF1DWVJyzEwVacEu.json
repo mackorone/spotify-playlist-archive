@@ -1,13 +1,29 @@
 {
-  "description": "Hits, hits, hits van de afgelopen tijd. Cover: Myles Smith",
-  "num_followers": 63695,
+  "description": "Hits, hits, hits van de afgelopen tijd. Cover: Roxy Dekker",
+  "num_followers": 63703,
   "original_name": "Platinum Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z++gfwAAAAA16QPGIYTFfyA/Y1hpVc9A",
+  "snapshot_id": "aCHvMQAAAACaL4mJKpHuQjP/Vtw1S2td",
   "tracks": [
+    {
+      "added_at": "2025-04-04 09:03:59",
+      "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
     {
       "added_at": "2025-04-04 09:03:59",
       "album": {
@@ -415,22 +431,6 @@
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2025-04-04 09:03:59",
-      "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
     },
     {
       "added_at": "2025-04-04 09:03:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Katteyes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,624 likes - 30 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,623 likes - 30 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 22 | [Bellakita](https://open.spotify.com/track/1tT99w1XFJlJknlm6FttUX) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Nyruz](https://open.spotify.com/artist/6E4isOyUjuu3DeCsEYKwSi), [Magicenelbeat](https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43) | [Bellakita](https://open.spotify.com/album/0T9Uvf8QusjsTncxnWQlbC) | 2:22 |
 | 23 | [XULA](https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saito ape](https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1) | [XULA](https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L) | 2:17 |
 | 24 | [LA JEFA](https://open.spotify.com/track/31tYK58uxznuO2KYltOJQQ) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [LA CLASSE DELUXE](https://open.spotify.com/album/49r75OH4osyX18regUrHDy) | 3:00 |
-| 25 | [MI ULTIMO DESEO](https://open.spotify.com/track/3eG7VpFX2UjkSFCpWP4Zu9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MI ULTIMO DESEO](https://open.spotify.com/album/6VCLRqpks5Uh7t2inj2hx5) | 2:38 |
-| 26 | [Bad Girl](https://open.spotify.com/track/6VGKiViDS17F5EgjOUyh9M) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2) | [Bad Girl](https://open.spotify.com/album/1IrgrmAm6yJfDT57EYs7lC) | 2:47 |
+| 25 | [Bad Girl](https://open.spotify.com/track/6VGKiViDS17F5EgjOUyh9M) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2) | [Bad Girl](https://open.spotify.com/album/1IrgrmAm6yJfDT57EYs7lC) | 2:47 |
+| 26 | [MI ULTIMO DESEO](https://open.spotify.com/track/3eG7VpFX2UjkSFCpWP4Zu9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MI ULTIMO DESEO](https://open.spotify.com/album/6VCLRqpks5Uh7t2inj2hx5) | 2:38 |
 | 27 | [Víbora](https://open.spotify.com/track/4Hp7tnvW7AuxrM3EZosWit) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X) | [Víbora](https://open.spotify.com/album/5DXD7N3CDHWuh7Wb20U6gN) | 2:22 |
 | 28 | [Tus Mentiras](https://open.spotify.com/track/0ysopZtFhKe8DOfKEz4TE8) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Tus Mentiras](https://open.spotify.com/album/0KlPSEZoVeRN37yRBYiJcr) | 3:31 |
 | 29 | [FAMOSA](https://open.spotify.com/track/7cZZvIsvAY6MVmhKR4qWqt) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [LA CLASSE DELUXE](https://open.spotify.com/album/49r75OH4osyX18regUrHDy) | 3:20 |

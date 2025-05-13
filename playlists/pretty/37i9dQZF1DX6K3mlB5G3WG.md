@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: BLANCO
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,229 likes - 154 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,239 likes - 154 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 18 | [RED FLAG](https://open.spotify.com/track/48QCFkRfJ9z46uk5RmD3xB) | [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E), [Paola Iezzi](https://open.spotify.com/artist/29IpqxHCIFMvvGOPHIFRWv), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [RED FLAG](https://open.spotify.com/album/4d9WKuKWEY6zJ0hscXA2oy) | 2:20 |
 | 19 | [PANORAMA](https://open.spotify.com/track/1sfqDikcK7qIRSFxfM3JZC) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [PANORAMA](https://open.spotify.com/album/4CptDmC0jfJ3GTlAavc9pQ) | 2:45 |
 | 20 | [ROSA E LACRIME](https://open.spotify.com/track/0W72VnYzcI7p7ZOZ2dKZE7) | [Gigi D'Alessio](https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn) | [ROSA E LACRIME](https://open.spotify.com/album/6VoqDv0yuEBwlP8xejb0bp) | 3:36 |
-| 21 | [ALÈ ALÈ \(feat\. Gente De Zona\)](https://open.spotify.com/track/0dgIgU6ZKY87H1Bxq8js63) | [Cristiano Malgioglio](https://open.spotify.com/artist/5cGyeP8xbP5ENwYBCUFK19), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [ALÈ ALÈ \(feat\. Gente De Zona\)](https://open.spotify.com/album/5CD8KMhF7O1Vjzfvs7hiIn) | 3:10 |
+| 21 | [ALÈ ALÈ \(feat\. Gente De Zona\)](https://open.spotify.com/track/0dgIgU6ZKY87H1Bxq8js63) | [Cristiano Malgioglio](https://open.spotify.com/artist/5cGyeP8xbP5ENwYBCUFK19), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [ALÈ ALÈ \(feat\. Gente De Zona\)](https://open.spotify.com/album/5CD8KMhF7O1Vjzfvs7hiIn) | 3:03 |
 | 22 | [S.W.M.F.](https://open.spotify.com/track/4NzzYQ0sWySF8pZd0qsVet) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [S.W.M.F.](https://open.spotify.com/album/2VGWPhXYmbO1bnIBEDAr0v) | 3:08 |
 | 23 | [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
 | 24 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |

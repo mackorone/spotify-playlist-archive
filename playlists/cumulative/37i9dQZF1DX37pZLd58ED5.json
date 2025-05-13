@@ -2065,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "Isolato",
+        "url": "https://open.spotify.com/album/0lKxCCxW6PqTJWocq47qdD"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Isolato",
+      "url": "https://open.spotify.com/track/05vRH5YbsadNUv5XKj9uvI"
+    },
+    {
+      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },

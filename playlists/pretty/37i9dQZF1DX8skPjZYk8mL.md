@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,176 likes - 360 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,310 likes - 360 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brahms Lullaby](https://open.spotify.com/track/7ikUx1ac0iqOSvjvROKX8L) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [My Guitar Lullabies](https://open.spotify.com/album/2SY1QZEXNnESmB8KeRgvN8) | 2:04 |
 | 2 | [Rock\-a\-bye Baby](https://open.spotify.com/track/5lGbPQlAf985dbQwKs3SeU) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [Rock\-a\-bye Baby](https://open.spotify.com/album/4rXiFqL4A7D2N49RvYeJnb) | 1:50 |
 | 3 | [Itsy Bitsy Spider](https://open.spotify.com/track/2Tp0gVMGxB3s23g8dScJes) | [Kai Francis](https://open.spotify.com/artist/7AMBpuyTV9bPqWhFVFE5e0) | [Itsy Bitsy Spider](https://open.spotify.com/album/0TCJggJbNemEyLDEEYxygm) | 1:16 |
-| 4 | [Mozart's Lullaby](https://open.spotify.com/track/4XHfiySp1vcvnJHx8TDI97) | [Jenn Higgins](https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR) | [Mozart's Lullaby](https://open.spotify.com/album/5h1gmYwV2i7fY5dCaAv1h8) | 2:45 |
+| 4 | [Mozart's Lullaby](https://open.spotify.com/track/4XHfiySp1vcvnJHx8TDI97) | [Jenson Higgins](https://open.spotify.com/artist/3NbWOc3nGwyJLR54J76AbB) | [Mozart's Lullaby](https://open.spotify.com/album/5h1gmYwV2i7fY5dCaAv1h8) | 2:45 |
 | 5 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/2xommCoPThPqwJU5N6XYsE) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/6ISpvvDYcoojaaJ35jEQpE) | 3:13 |
 | 6 | [Beyond the Rainbow](https://open.spotify.com/track/0noFmZfFeRPc2NaYYSoa6k) | [Erik Fernholm](https://open.spotify.com/artist/4vDSR2tAbwnkWK93cwvfhr) | [Beyond the Rainbow](https://open.spotify.com/album/4vkQn55nfuN8r9NNaDj8bn) | 2:54 |
 | 7 | [Slumber](https://open.spotify.com/track/7KSdAV8YRyTe0n4iILMAYb) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Slumber](https://open.spotify.com/album/16bIw6IgHLqIgNrBntAgGI) | 1:50 |
@@ -310,7 +310,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 300 | [Fuzzy Blanket](https://open.spotify.com/track/2OfEkQFc3cpm3t3a4ztUrj) | [Victoria Kane](https://open.spotify.com/artist/5PiuZN8Y36VoBqEvLuqiuQ) | [Fuzzy Blanket](https://open.spotify.com/album/7bCYGWUWkA1BT8C1m2UH7F) | 1:32 |
 | 301 | [Three Little Foxes](https://open.spotify.com/track/7B3obFgv2Rw688A1nusXik) | [Laurel Hoh](https://open.spotify.com/artist/08SzjkwPk23BWqKL6LMHMj) | [Three Little Foxes](https://open.spotify.com/album/6p67dI1tgVy6xAGpvvkxfb) | 1:53 |
 | 302 | [Mrs Frog's Daydream](https://open.spotify.com/track/3QnjauHkZ71ZupNKuSGcxC) | [Francine Reveur](https://open.spotify.com/artist/2Cy1U663G5b7w3j3CUNgiQ) | [Mrs Frog's Daydream](https://open.spotify.com/album/2iZtihUu4yn7SvXotNqxHr) | 1:42 |
-| 303 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 |
+| 303 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Priam Roy](https://open.spotify.com/artist/0E5cC8pTIy6UO0S4FKwDh5) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 |
 | 304 | [Sweet Dreams My Love](https://open.spotify.com/track/15IOu7G2o8JKpCHSxguErZ) | [Sleepy Eli](https://open.spotify.com/artist/1FOsCc0H90QSkDzUhIX7sD) | [Sweet Dreams My Love](https://open.spotify.com/album/0f0pbyBFyD6uieQZaIFVY2) | 2:21 |
 | 305 | [Blissful Reverie](https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6) | [Alex Dawa](https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV) | [Blissful Reverie](https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H) | 2:41 |
 | 306 | [Sea Lions](https://open.spotify.com/track/4NwEQsgZbGVhhjHKEBzEEa) | [Little Mishka](https://open.spotify.com/artist/5aWytEfJwLbprQOpAtGQ3n) | [Sea Lions](https://open.spotify.com/album/2d81vXY5IRWoAGFoOjZuON) | 1:48 |

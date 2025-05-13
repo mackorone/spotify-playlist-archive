@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,340 songs - 2 day 22 hr 28 min
+1,341 songs - 2 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Cuarteto mix](https://open.spotify.com/track/6rctq6dmGh4mkntQj8Z2kR) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Cuarteto mix](https://open.spotify.com/album/0dLtvEcALluR51AZ9HcdWC) | 6:25 | 2024-09-03 | 2024-09-11 |
 | [Cuarteto Sessions \#3](https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Cuarteto Sessions \#3](https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA) | 8:20 | 2024-01-29 | 2024-04-15 |
 | [Cuentale \(Guaracha\)](https://open.spotify.com/track/4BlNATALL3ZiHGSKY1QrqV) | [MAXIRMX](https://open.spotify.com/artist/19KZqkYETxKdCG5oqCmZVT), [LESCANO DEEJAY](https://open.spotify.com/artist/75mVxH0TLQZ8RouH4DsCip) | [Cuentale \(Guaracha\)](https://open.spotify.com/album/4eaaVaGIy5mxTW4vkIk9LW) | 3:01 | 2024-07-30 | 2024-08-28 |
-| [Cuidado Que Te Supero](https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Cuidado Que Te Supero](https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY) | 3:45 | 2024-10-12 |  |
+| [Cuidado Que Te Supero](https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Cuidado Que Te Supero](https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY) | 3:45 | 2024-10-12 | 2025-05-13 |
 | [Culo Con Caca](https://open.spotify.com/track/1k5NwGaQQBPnfZ9BejSQnz) | [Sad Goldo](https://open.spotify.com/artist/2TyFrOyBNnRWhdsqLvJsOJ) | [Culo Con Caca](https://open.spotify.com/album/1wiD0yCgDuYHwFhNBTZx5q) | 2:30 | 2025-03-15 | 2025-03-19 |
 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 | 2024-03-23 | 2024-04-10 |
 | [Cómo Te Atreves](https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 4:00 | 2024-03-01 | 2024-03-10 |
@@ -1141,6 +1141,7 @@
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-25 | 2024-06-30 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-10-01 | 2024-10-03 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/7CwWhMGWICOl2ICwbk3QTE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:53 | 2024-10-13 | 2024-10-20 |
+| [tan sensible](https://open.spotify.com/track/3Ud1JGnnw0uk2zbumKtwpX) | [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Fede Guelmos](https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8) | [tan sensible](https://open.spotify.com/album/6ugTetB8aRlWNR3AtVBxh1) | 1:20 | 2025-05-12 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-09-10 | 2024-09-25 |
 | [TATTOO](https://open.spotify.com/track/4kGGnJmqYqn6RQ9LMfvPcv) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Coco Palmer](https://open.spotify.com/artist/133e2UQ9uCSvJaN1awjZFY) | [TATTOO](https://open.spotify.com/album/2pT9dWP5sqm4FipajPLVpw) | 2:16 | 2024-05-22 | 2024-06-26 |
 | [Tattoo](https://open.spotify.com/track/6KuS9WnV0GqXzVRUMIJ9aa) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Tattoo](https://open.spotify.com/album/1FSy24xMn9AUf2JFk3Axyb) | 2:22 | 2024-12-10 | 2025-01-08 |

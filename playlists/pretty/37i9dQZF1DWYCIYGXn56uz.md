@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Jacopo Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,007 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,026 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
 | 2 | [Piangere a 90](https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Piangere a 90](https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3) | 2:35 |
-| 3 | [CITTÀ BRUCIATA](https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [CITTÀ BRUCIATA](https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa) | 2:31 |
-| 4 | [Un’ora di follia](https://open.spotify.com/track/5hojWT0xph2Xi1TkRQQWSv) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Un’ora di follia](https://open.spotify.com/album/7Kgc8z9VisZxj3hUxQMk6F) | 2:57 |
-| 5 | [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 |
-| 6 | [D'amore non si muore](https://open.spotify.com/track/2KxLV7rbtwgjaSFvCcNiBj) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [D'amore non si muore](https://open.spotify.com/album/1nhEBKzC3gg5K230u21Bae) | 2:45 |
-| 7 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 |
-| 8 | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 |
+| 3 | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 |
+| 4 | [CITTÀ BRUCIATA](https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [CITTÀ BRUCIATA](https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa) | 2:31 |
+| 5 | [Un’ora di follia](https://open.spotify.com/track/5hojWT0xph2Xi1TkRQQWSv) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Un’ora di follia](https://open.spotify.com/album/7Kgc8z9VisZxj3hUxQMk6F) | 2:57 |
+| 6 | [apnea da un po'.](https://open.spotify.com/track/4MIsP32vMgPXV7pS1G4hh2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [apnea da un po'.](https://open.spotify.com/album/45Nn0l9BIRMPkXYkpgIGhF) | 2:44 |
+| 7 | [D'amore non si muore](https://open.spotify.com/track/2KxLV7rbtwgjaSFvCcNiBj) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [D'amore non si muore](https://open.spotify.com/album/1nhEBKzC3gg5K230u21Bae) | 2:45 |
+| 8 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 |
 | 9 | [RAGAZZI LÌ](https://open.spotify.com/track/4Os4hlQpSHdOvbCetxNjaT) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa) | [RAGAZZI LÌ](https://open.spotify.com/album/6QUpoeYKXmxjgbuEbNTbX2) | 3:17 |
 | 10 | [100 Sigarette](https://open.spotify.com/track/2OOitJLWO975yrhBRC29dM) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [100 Sigarette](https://open.spotify.com/album/0n8xLvt6AOl4SDppXjgBXC) | 3:01 |
 | 11 | [Correre](https://open.spotify.com/track/6HWDxSgzZweaS71gyJVi7e) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [Correre](https://open.spotify.com/album/1aNBwbkwr9oDYyG2VtMc52) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 99 | [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 |
 | 100 | [MEZZANOTTE](https://open.spotify.com/track/6jkimv6uOyQoMYJyjR9xUc) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MEZZANOTTE](https://open.spotify.com/album/7crRZ8PZ1yTQMJlpFxY8Ek) | 2:54 |
 
-Snapshot ID: `aB2/vQAAAADToLCu0zgTxAHCjyFV2fv1`
+Snapshot ID: `aCGvwwAAAACwFipzfSxwgeFC86huFsjz`

@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-13",
       "duration_ms": 236493,
       "name": "Anything You Want",
       "url": "https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi"
@@ -3480,6 +3480,24 @@
       "duration_ms": 224826,
       "name": "Crying Lightning",
       "url": "https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20"
+    },
+    {
+      "album": {
+        "name": "Magpie (Expansion Pack)",
+        "url": "https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "date_added": "2025-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "Crying, Laughing, Loving, Lying",
+      "url": "https://open.spotify.com/track/6P3vusStV43K0SOHyLeYjY"
     },
     {
       "album": {

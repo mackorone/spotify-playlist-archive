@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,765 songs - 5 day 0 hr 19 min
+1,766 songs - 5 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [Daffodils](https://open.spotify.com/track/6Wx7Zbi9bgT0qqqmWndWW5) | [Jacaszek](https://open.spotify.com/artist/46xbeTrtjYfCObCHTlGOPW) | [Daffodils](https://open.spotify.com/album/0wc6Yze5PRKUGdMPayCTGq) | 5:01 | 2020-05-18 | 2021-01-11 |
 | [Dance In The Sunlight](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 | 2025-03-28 |  |
 | [Dapple](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Dapple](https://open.spotify.com/album/1P2cw0QNAaWCdPF7H5fxvJ) | 3:28 | 2020-03-20 | 2022-04-21 |
-| [Dark In This Room](https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Dark In This Room](https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z) | 4:12 | 2024-06-21 |  |
+| [Dark In This Room](https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Dark In This Room](https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z) | 4:12 | 2024-06-21 | 2025-05-13 |
 | [Dawn \(feat\. ROBB\)](https://open.spotify.com/track/6u34bB6XweoIFTtBOEvoZr) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [ROBB](https://open.spotify.com/artist/4fCOnFAkJPYFgK847YsUXv) | [Dawn EP](https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM) | 4:33 | 2020-05-18 | 2020-07-03 |
 | [Day Dream](https://open.spotify.com/track/35anp3GjvtlMY0869WNQpY) | [Eleven Fly](https://open.spotify.com/artist/34qu9X2o3eh1ly1VgbGbuK), [March 13](https://open.spotify.com/artist/1HFMq4FxAkAIGOedJoCBDO) | [Run / Day Dream EP](https://open.spotify.com/album/1LTOux9nnTVZe1pDRPzOLT) | 3:38 | 2020-05-18 | 2020-07-18 |
 | [Daybreak](https://open.spotify.com/track/1laVJxoALXrvIeVesYSkzW) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Daybreak](https://open.spotify.com/album/4j5869Gvx7MsgWmtCzmKt7) | 3:34 | 2023-01-06 | 2023-06-17 |
@@ -669,6 +669,7 @@
 | [High On Life](https://open.spotify.com/track/7sPTC8zYAKiKAHUkJtq9YC) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [High On Life](https://open.spotify.com/album/1OfW4pkj3JPFUFbe2cH6Du) | 3:52 | 2020-05-22 | 2020-07-03 |
 | [High On You](https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [High On You](https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt) | 3:06 | 2023-02-17 | 2024-03-02 |
 | [High Tide](https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [High Tide](https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO) | 3:17 | 2021-10-22 | 2023-08-21 |
+| [Higher \- Rinzen Remix](https://open.spotify.com/track/33zxsZ9LzcTMspBVI5i3vY) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Childish Remixes II](https://open.spotify.com/album/5kpUhgI9Ry6t29cwdvrTk5) | 5:55 | 2025-05-09 |  |
 | [Higher Than Nirvana](https://open.spotify.com/track/06IzQHbqze5gZNkpZdndg9) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Higher Than Nirvana](https://open.spotify.com/album/7wjc6spzbsEeF5VRQKuB25) | 3:19 | 2022-12-16 | 2022-12-29 |
 | [Highest Love](https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Highest Love](https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u) | 4:57 | 2024-02-16 | 2025-03-22 |
 | [Hildegard](https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Hildegard](https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG) | 4:41 | 2022-01-21 | 2022-02-12 |

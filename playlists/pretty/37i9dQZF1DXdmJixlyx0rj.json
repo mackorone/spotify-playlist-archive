@@ -1,13 +1,33 @@
 {
-  "description": "New & best K-Electronic music is here. (Cover: SHINDRUM)",
-  "num_followers": 29090,
+  "description": "New & best K-Electronic music is here. (Cover: DPR CREAM & DPR ARTIC)",
+  "num_followers": 29099,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBr2oQAAAADyyt7AJn8Rt25ZjWShYwuk",
+  "snapshot_id": "aCKtsAAAAADpVSuEPaUuZkG1bmLInwkk",
   "tracks": [
+    {
+      "added_at": "2025-05-13 02:25:52",
+      "album": {
+        "name": "NO DRUGS",
+        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        },
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "DRIFT",
+      "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
+    },
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
@@ -27,26 +47,6 @@
       "duration_ms": 378500,
       "name": "am i shaking like a human ?",
       "url": "https://open.spotify.com/track/7sRlZYIot5OWDWlPdb9qIa"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
-        "name": "Mirror ball (feat. Moon Sujin)",
-        "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
-      },
-      "artists": [
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Mirror ball (feat. Moon Sujin)",
-      "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -87,34 +87,38 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
       "artists": [
         {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 112965,
-      "name": "maybe baby",
-      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+        "name": "Mirror ball (feat. Moon Sujin)",
+        "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
         }
       ],
-      "duration_ms": 237231,
-      "name": "Raingurl",
-      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
+      "duration_ms": 193493,
+      "name": "Mirror ball (feat. Moon Sujin)",
+      "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -139,18 +143,18 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+      "duration_ms": 237231,
+      "name": "Raingurl",
+      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -343,6 +347,22 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
+        "name": "Super (Workout Remix)",
+        "url": "https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 193586,
+      "name": "Super (Workout Remix)",
+      "url": "https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
         "name": "Pondeggi",
         "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
       },
@@ -363,22 +383,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "Super (Workout Remix)",
-        "url": "https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 193586,
-      "name": "Super (Workout Remix)",
-      "url": "https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "4444",
         "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
       },
@@ -391,6 +395,38 @@
       "duration_ms": 313866,
       "name": "44 (Forget Forever)",
       "url": "https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 112965,
+      "name": "maybe baby",
+      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -415,22 +451,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "SAINT",
-        "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "LIMBO",
-      "url": "https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "IF U WANT IT",
         "url": "https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr"
       },
@@ -443,22 +463,6 @@
       "duration_ms": 340660,
       "name": "I DON'T CARE",
       "url": "https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 198939,
-      "name": "Dynamite (EDM Remix)",
-      "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -491,6 +495,22 @@
       "duration_ms": 367613,
       "name": "(It Goes Like) Nanana",
       "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 198939,
+      "name": "Dynamite (EDM Remix)",
+      "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -623,22 +643,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/2ceC2lixSUBa1IH7xbEr43"
-      },
-      "artists": [
-        {
-          "name": "GENRE",
-          "url": "https://open.spotify.com/artist/7xngEjHguzjoE5TNIaz7fi"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "RIZZ (Feat. Shiming)",
-      "url": "https://open.spotify.com/track/7cWC1q8f426vmtro2koJEW"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "3D (feat. Jack Harlow) (MK Remix)",
         "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
       },
@@ -719,6 +723,22 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/2ceC2lixSUBa1IH7xbEr43"
+      },
+      "artists": [
+        {
+          "name": "GENRE",
+          "url": "https://open.spotify.com/artist/7xngEjHguzjoE5TNIaz7fi"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "RIZZ (Feat. Shiming)",
+      "url": "https://open.spotify.com/track/7cWC1q8f426vmtro2koJEW"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
       },
@@ -791,6 +811,26 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
+        "name": "TREASURE EP. Map To Answer",
+        "url": "https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        },
+        {
+          "name": "SEAN OH",
+          "url": "https://open.spotify.com/artist/7lCMxLzay3subrSfwEcZxc"
+        }
+      ],
+      "duration_ms": 198386,
+      "name": "WONDERLAND - SEAN OH's Skrt Mix",
+      "url": "https://open.spotify.com/track/74R92FEHV8CNMLJapNelbM"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
         "name": "Back for More (More Edition)",
         "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
       },
@@ -811,22 +851,22 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "TREASURE EP. Map To Answer",
-        "url": "https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i"
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         },
         {
-          "name": "SEAN OH",
-          "url": "https://open.spotify.com/artist/7lCMxLzay3subrSfwEcZxc"
+          "name": "2Spade",
+          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
         }
       ],
-      "duration_ms": 198386,
-      "name": "WONDERLAND - SEAN OH's Skrt Mix",
-      "url": "https://open.spotify.com/track/74R92FEHV8CNMLJapNelbM"
+      "duration_ms": 188000,
+      "name": "Armageddon (2Spade Remix)",
+      "url": "https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -867,26 +907,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "2Spade",
-          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Armageddon (2Spade Remix)",
-      "url": "https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "Love Crime",
         "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
       },
@@ -919,6 +939,26 @@
       "duration_ms": 199453,
       "name": "Peaches - SUMIN Remix",
       "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 247641,
+      "name": "Armageddon (Flava D Remix)",
+      "url": "https://open.spotify.com/track/79YRHM4e97AF4s4xo60p4y"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -1043,26 +1083,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 247641,
-      "name": "Armageddon (Flava D Remix)",
-      "url": "https://open.spotify.com/track/79YRHM4e97AF4s4xo60p4y"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -1123,22 +1143,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
-      },
-      "artists": [
-        {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
-        }
-      ],
-      "duration_ms": 255628,
-      "name": "Energetic (Prequel Remix)",
-      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "The Feels",
         "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
       },
@@ -1155,6 +1159,22 @@
       "duration_ms": 185218,
       "name": "The Feels (Benny Benassi Remix)",
       "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "duration_ms": 255628,
+      "name": "Energetic (Prequel Remix)",
+      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -1215,26 +1235,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "There For You (Club Mix)",
-        "url": "https://open.spotify.com/album/7meNcaWJISNWfOJv4gLv3Q"
-      },
-      "artists": [
-        {
-          "name": "Raiden",
-          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
-        },
-        {
-          "name": "Rob Adans",
-          "url": "https://open.spotify.com/artist/17ofLR1AMLtSrxZO8Ew8Eu"
-        }
-      ],
-      "duration_ms": 190238,
-      "name": "There For You - Club Mix",
-      "url": "https://open.spotify.com/track/4gObgFsFGdKd1qgNEYfNLt"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
@@ -1255,46 +1255,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "Falling In Love (feat. Natalie Major)",
-        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        },
-        {
-          "name": "Natalie Major",
-          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
-        }
-      ],
-      "duration_ms": 214758,
-      "name": "Falling In Love (feat. Natalie Major)",
-      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
-        "name": "iScreaM Vol.14 : Peaches Remixes",
-        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        },
-        {
-          "name": "No2zcat",
-          "url": "https://open.spotify.com/artist/0pYXIFLHuxPH7RCFIBX96H"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Peaches - No2zcat Remix",
-      "url": "https://open.spotify.com/track/5qfPgGDyAQlM48pQM7KO4t"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "Love Tune: Rewired",
         "url": "https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B"
       },
@@ -1311,22 +1271,42 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "Useless",
-        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
+        "name": "There For You (Club Mix)",
+        "url": "https://open.spotify.com/album/7meNcaWJISNWfOJv4gLv3Q"
       },
       "artists": [
         {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
         },
         {
-          "name": "Noisy Choice",
-          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+          "name": "Rob Adans",
+          "url": "https://open.spotify.com/artist/17ofLR1AMLtSrxZO8Ew8Eu"
         }
       ],
-      "duration_ms": 161904,
-      "name": "Useless",
-      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
+      "duration_ms": 190238,
+      "name": "There For You - Club Mix",
+      "url": "https://open.spotify.com/track/4gObgFsFGdKd1qgNEYfNLt"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "Falling In Love (feat. Natalie Major)",
+        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        },
+        {
+          "name": "Natalie Major",
+          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
+        }
+      ],
+      "duration_ms": 214758,
+      "name": "Falling In Love (feat. Natalie Major)",
+      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -1383,6 +1363,46 @@
       "duration_ms": 179506,
       "name": "\uac00\uc2dc\uad8c (Heart Raider) (Inst.)",
       "url": "https://open.spotify.com/track/5biUKJ4FpDlaFaUBffcX5T"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "Useless",
+        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Noisy Choice",
+          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Useless",
+      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "iScreaM Vol.14 : Peaches Remixes",
+        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        },
+        {
+          "name": "No2zcat",
+          "url": "https://open.spotify.com/artist/0pYXIFLHuxPH7RCFIBX96H"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Peaches - No2zcat Remix",
+      "url": "https://open.spotify.com/track/5qfPgGDyAQlM48pQM7KO4t"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -1487,26 +1507,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
-        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        },
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Make A Wish (Birthday Song) - Wuki Remix",
-      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "iScreaM Vol.8 : Bambi Remixes",
         "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
       },
@@ -1523,6 +1523,26 @@
       "duration_ms": 171940,
       "name": "Bambi - BRLLNT Remix",
       "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Make A Wish (Birthday Song) - Wuki Remix",
+      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -1567,26 +1587,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "MOONLIGHT (MOTi Remix)",
-        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
-      },
-      "artists": [
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "MOONLIGHT - MOTi Remix",
-      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "iScreaM Vol.2 : Ridin' Remixes",
         "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
       },
@@ -1607,22 +1607,22 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+        "name": "MOONLIGHT (MOTi Remix)",
+        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
       },
       "artists": [
         {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
         },
         {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 179016,
-      "name": "Los Angeles - Moksi Remix",
-      "url": "https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT"
+      "duration_ms": 163500,
+      "name": "MOONLIGHT - MOTi Remix",
+      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -1639,6 +1639,26 @@
       "duration_ms": 227493,
       "name": "Chi Mat Ba Ram+Rollin\u2019 - Remix",
       "url": "https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        },
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Los Angeles - Moksi Remix",
+      "url": "https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -1763,22 +1783,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "SEROTONIN",
-        "url": "https://open.spotify.com/album/5RNFZGKdcv3CWhUKMNs7AG"
-      },
-      "artists": [
-        {
-          "name": "NECTA",
-          "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "SEROTONIN",
-      "url": "https://open.spotify.com/track/1HRJkKOY3sDx6ELjasWIxE"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "iScreaM Vol.16 : Glitch Mode Remix",
         "url": "https://open.spotify.com/album/1qCGvCguJOKwfJbfBH8q8O"
       },
@@ -1799,22 +1803,6 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
         "name": "KARD 6th Mini Album 'ICKY'",
         "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
       },
@@ -1827,6 +1815,38 @@
       "duration_ms": 153520,
       "name": "Without You (Alok Remix) (Radio Edit)",
       "url": "https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "SEROTONIN",
+        "url": "https://open.spotify.com/album/5RNFZGKdcv3CWhUKMNs7AG"
+      },
+      "artists": [
+        {
+          "name": "NECTA",
+          "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "SEROTONIN",
+      "url": "https://open.spotify.com/track/1HRJkKOY3sDx6ELjasWIxE"
+    },
+    {
+      "added_at": "2025-05-07 05:58:57",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5"
     },
     {
       "added_at": "2025-05-07 05:58:57",
@@ -1871,42 +1891,22 @@
     {
       "added_at": "2025-05-07 05:58:57",
       "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+        "name": "Bop Bop! (Yves V Remix)",
+        "url": "https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX"
       },
       "artists": [
         {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
         },
         {
-          "name": "CIFIKA",
-          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
         }
       ],
-      "duration_ms": 234026,
-      "name": "28 Reasons - CIFIKA Remix",
-      "url": "https://open.spotify.com/track/6SyuUFYpTJmUqKoJBz5rEF"
-    },
-    {
-      "added_at": "2025-05-07 05:58:57",
-      "album": {
-        "name": "Naro",
-        "url": "https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU"
-      },
-      "artists": [
-        {
-          "name": "H93",
-          "url": "https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw"
-        },
-        {
-          "name": "Arkins",
-          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "Naro",
-      "url": "https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK"
+      "duration_ms": 192380,
+      "name": "BOP BOP! (Yves V Remix)",
+      "url": "https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl"
     }
   ],
   "unique_name": "Electronii[K]",
