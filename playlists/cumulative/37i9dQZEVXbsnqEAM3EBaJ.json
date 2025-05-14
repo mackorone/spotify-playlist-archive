@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 186906,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
@@ -6190,6 +6190,24 @@
       "duration_ms": 402750,
       "name": "Blue Train",
       "url": "https://open.spotify.com/track/5WKQO6v5H1MjYTC2UroX7r"
+    },
+    {
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242584,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
     },
     {
       "album": {
@@ -16194,7 +16212,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 276501,
       "name": "Get Out My Face AKA Bad Kitty",
       "url": "https://open.spotify.com/track/1MWtB95XxXM3rlhH058YsD"
@@ -29442,7 +29460,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 198880,
       "name": "Negative Space",
       "url": "https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf"
@@ -47736,7 +47754,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 196112,
       "name": "Unshatter",
       "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"

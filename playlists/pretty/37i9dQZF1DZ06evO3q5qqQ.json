@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 113630,
+  "num_followers": 113656,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAAA2Nyxatb4qXNALANt4xOhR",
+  "snapshot_id": "aCE6AAAAAAB3aEVWK+lvwgI1WbHQHVqQ",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 273920,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 162047,
       "name": "El Mochomo (En vivo)",
       "url": "https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 273920,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6"
     },
     {
       "added_at": null,

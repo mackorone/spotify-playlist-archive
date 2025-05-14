@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Balti en t\u00eate de la playlist num\u00e9ro un en Tunisie.",
+  "description": "A.L.A en t\u00eate de la playlist num\u00e9ro un en Tunisie.",
   "name": "Hot Hits Tunisia",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 150325,
       "name": "9adech Men Mara",
       "url": "https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V"
@@ -1783,6 +1783,28 @@
     },
     {
       "album": {
+        "name": "Love Letters / \u0631\u0633\u0627\u0626\u0644 \u062d\u0628",
+        "url": "https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206872,
+      "name": "KALAMANTINA / \u0643\u0644\u0645\u0646\u062a\u064a\u0646\u0627",
+      "url": "https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD"
+    },
+    {
+      "album": {
         "name": "Grow Up",
         "url": "https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR"
       },
@@ -1962,7 +1984,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 178714,
       "name": "Khousara",
       "url": "https://open.spotify.com/track/1a3fUDZpgUYRatLdKAnCh0"
@@ -2598,6 +2620,28 @@
       "duration_ms": 176204,
       "name": "Mani Wlidek",
       "url": "https://open.spotify.com/track/3sWOuPS3srcCShuoYjd6hG"
+    },
+    {
+      "album": {
+        "name": "Mansalam Fik",
+        "url": "https://open.spotify.com/album/5kNZYCijmiZhpjD1A3h0JC"
+      },
+      "artists": [
+        {
+          "name": "Artmasta",
+          "url": "https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui"
+        },
+        {
+          "name": "Ghada Yaakoub",
+          "url": "https://open.spotify.com/artist/2rSFIkuNNNoLD19VZnOvSL"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Mansalam Fik",
+      "url": "https://open.spotify.com/track/5pJaEBrJyLmfG8Fn7YsUyT"
     },
     {
       "album": {
@@ -3444,7 +3488,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 211387,
       "name": "Sada9tha",
       "url": "https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD"

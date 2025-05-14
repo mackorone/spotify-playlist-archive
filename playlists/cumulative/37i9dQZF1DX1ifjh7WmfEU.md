@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-282 songs - 12 hr 24 min
+285 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 | 2022-05-27 |  |
 | [Across The Fields](https://open.spotify.com/track/2UWdKLbBqqjWjqE7NPLBKH) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Across The Fields](https://open.spotify.com/album/68c3h4zAoaRybQloxoXHOk) | 2:23 | 2023-08-07 |  |
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-01-26 |  |
+| [adieu](https://open.spotify.com/track/6nDr6kqqRDetH1G6kDooNJ) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [adieu](https://open.spotify.com/album/2t489joRBePXntcIrDs3Gf) | 2:32 | 2025-05-13 |  |
 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-10 |  |
 | [Aging](https://open.spotify.com/track/1Z3GPvWMC2jDt73HTHGsjD) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Aging](https://open.spotify.com/album/0TyG2axjCVAsK2UXCHA6xg) | 2:19 | 2025-03-11 |  |
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2022-05-27 | 2025-01-23 |
@@ -53,7 +54,7 @@
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-05-27 | 2025-04-10 |
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2022-05-27 | 2024-04-04 |
 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/6AdGVwkv68xlsPwV2KvEF8) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 | 2023-04-05 |  |
-| [Conversus Caelum](https://open.spotify.com/track/1gmOOlVYyexhtuPqMvdZVH) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Conversus Caelum](https://open.spotify.com/album/4dg0Gjf5S33NuhGOR9xBkY) | 2:33 | 2025-05-02 |  |
+| [Conversus Caelum](https://open.spotify.com/track/1gmOOlVYyexhtuPqMvdZVH) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Conversus Caelum](https://open.spotify.com/album/4dg0Gjf5S33NuhGOR9xBkY) | 2:33 | 2025-05-02 | 2025-05-14 |
 | [Coolidge](https://open.spotify.com/track/7GOh8ao0Eiagy8av0dj8AF) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Coolidge](https://open.spotify.com/album/0kPJUFSeRLG1eVr1mdtHtl) | 2:16 | 2024-11-19 |  |
 | [Cosmos](https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Cosmos](https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd) | 2:39 | 2022-05-27 |  |
 | [cradled with warmth](https://open.spotify.com/track/5weARSGzrpQrVOtfnhaX0z) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [cradled with warmth](https://open.spotify.com/album/7IDFgOhb9GlnIUWO4pv29A) | 2:36 | 2024-10-22 |  |
@@ -205,7 +206,7 @@
 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2022-05-27 | 2022-07-28 |
 | [Sage](https://open.spotify.com/track/1sCQoXgqRoLpOxyEJm33CF) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Sage](https://open.spotify.com/album/4Acn8dG40Z2vNpXBtQ3El5) | 1:58 | 2024-08-16 | 2025-04-05 |
 | [sahdana](https://open.spotify.com/track/7rTV5NBxyhcHbFdzbyLiJf) | [ildio](https://open.spotify.com/artist/0M7lk3XgbBRdb5EzeRlGIq) | [sahdana](https://open.spotify.com/album/7pn4A1Cyta0u8c3K55JBHr) | 2:55 | 2022-05-27 | 2024-07-30 |
-| [Salida](https://open.spotify.com/track/12CYjiY4YOP2M6Em8hCCk3) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Salida](https://open.spotify.com/album/7y608qiaLs8Pt5qUayE7s3) | 2:38 | 2025-02-21 |  |
+| [Salida](https://open.spotify.com/track/12CYjiY4YOP2M6Em8hCCk3) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Salida](https://open.spotify.com/album/7y608qiaLs8Pt5qUayE7s3) | 2:38 | 2025-02-21 | 2025-05-14 |
 | [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 | 2023-06-28 |  |
 | [Sans Toi](https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi](https://open.spotify.com/album/0avKp2QPHyrlKayO32H0Qa) | 2:07 | 2022-05-27 | 2024-04-04 |
 | [Santa Cruz](https://open.spotify.com/track/75b0f1695j8tRmXL6cvtmb) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Santa Cruz](https://open.spotify.com/album/49uampA9yQFlptFHMpghab) | 3:57 | 2022-05-27 | 2024-04-10 |
@@ -221,6 +222,7 @@
 | [Shuǐ](https://open.spotify.com/track/0JkStI9AnkeDIniaKn2akO) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Shuǐ](https://open.spotify.com/album/0KlHKpgm9zU0UMAShB1VPG) | 2:21 | 2022-11-14 |  |
 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 | 2022-05-27 | 2024-03-26 |
 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 | 2022-05-27 |  |
+| [Sincere](https://open.spotify.com/track/4asD2twwtZWdwYoYlZtOkg) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Sincere](https://open.spotify.com/album/0C1OyOoHKnzex4Km4J0W8K) | 2:57 | 2025-05-13 |  |
 | [Sincerely](https://open.spotify.com/track/0ZcOyuTyRRZ6c7ZH1kPyXr) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Sincerely](https://open.spotify.com/album/5kmRHZ0leaOMvS9RHCQmJG) | 2:09 | 2022-05-27 | 2025-04-24 |
 | [Sincerely](https://open.spotify.com/track/37118DI0c687jeVzVJ7PpU) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Sincerely](https://open.spotify.com/album/514tfPgBudvUqz3bM5AgYt) | 2:09 | 2022-07-27 | 2024-04-19 |
 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 | 2022-05-27 |  |
@@ -255,6 +257,7 @@
 | [Time Will Tell](https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Time Will Tell](https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S) | 2:07 | 2022-05-27 | 2024-04-04 |
 | [to be better again](https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [to be better again](https://open.spotify.com/album/7uHoxKaEL3Gq28RYRCpIZs) | 2:30 | 2024-07-23 |  |
 | [To The Mountain](https://open.spotify.com/track/4NsXmzeH7XZQx01TOF99zN) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [To The Mountain](https://open.spotify.com/album/3oeXa4YitPTXSnMTRRbpOF) | 2:52 | 2023-07-12 |  |
+| [Tonal Relief](https://open.spotify.com/track/6uLMjc0bf5qxLyMcCAch1D) | [Hidden Natúr](https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3) | [Tonal Relief](https://open.spotify.com/album/3COiejf6PeBjaSSHrZ3kZK) | 2:41 | 2025-05-13 |  |
 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2022-05-27 | 2024-04-04 |
 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 | 2022-05-27 | 2024-03-26 |
 | [Trail of the Ants](https://open.spotify.com/track/0AJoJx7R6E1IAx0no0C5wt) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Trail of the Ants](https://open.spotify.com/album/3JaSdZJaMkCEc5gw6AgYBU) | 2:52 | 2024-12-10 |  |

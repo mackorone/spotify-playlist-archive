@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449 likes - 265 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 450 likes - 265 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 77 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 |
 | 78 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
 | 79 | [Boom Boom](https://open.spotify.com/track/1HVpe3XPrCNpk2rVJT602s) | [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Boom Boom](https://open.spotify.com/album/3bAzsdgJZ7O0Ksg1H8Y9xP) | 4:08 |
-| 80 | [This is How We Roll](https://open.spotify.com/track/4n61GqkEhOHlU1vOfIMxLT) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 4:32 |
-| 81 | [Bad Habits](https://open.spotify.com/track/7beY8mXJuC4l0J2WgVoCfm) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Bad Habits](https://open.spotify.com/album/2sD4s8plx7sdr7Qn580kK6) | 4:17 |
+| 80 | [Bad Habits](https://open.spotify.com/track/7beY8mXJuC4l0J2WgVoCfm) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Bad Habits](https://open.spotify.com/album/2sD4s8plx7sdr7Qn580kK6) | 4:17 |
+| 81 | [This is How We Roll](https://open.spotify.com/track/4n61GqkEhOHlU1vOfIMxLT) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 4:32 |
 | 82 | [Music For Love](https://open.spotify.com/track/5gikplVdSoYfG0YKCRuicp) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:49 |
 | 83 | [Bikini Body](https://open.spotify.com/track/0mM39ptTtRKkeSfwsFKFxt) | [Dawin](https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Sunday](https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd) | 3:47 |
 | 84 | [Do Me](https://open.spotify.com/track/3wrFwkYDq5PgXNAFuHHhsT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:32 |
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 213 | [All Good](https://open.spotify.com/track/579ctiuYd1ZLAfM3X1UWyz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:39 |
 | 214 | [TRAPPIN 4 A LIVIN](https://open.spotify.com/track/7IJaFyGv5V9FWsI8HBSzfH) | [Baby E](https://open.spotify.com/artist/3AhRH2q3GOnk8r1ZPHBnRM) | [TRAPPIN 4 A LIVIN](https://open.spotify.com/album/3DkRrvR3gqK3Ntq04aMcnI) | 2:55 |
 | 215 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 |
-| 216 | [King](https://open.spotify.com/track/7iezOg5ENMqIpq0HVVZqgz) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Rock City](https://open.spotify.com/artist/4JLxuWOMYM50zRMCjYaHvH) | [0.9](https://open.spotify.com/album/4kvVqavqTyVWqXURC0fRqF) | 4:07 |
-| 217 | [Anticipated](https://open.spotify.com/track/0iYjS6VpD8NcfG6MV8DRWn) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Closer to Mars](https://open.spotify.com/album/0GNt35HfNV0XbFXPbYNZbu) | 2:38 |
+| 216 | [Anticipated](https://open.spotify.com/track/0iYjS6VpD8NcfG6MV8DRWn) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Closer to Mars](https://open.spotify.com/album/0GNt35HfNV0XbFXPbYNZbu) | 2:38 |
+| 217 | [King](https://open.spotify.com/track/7iezOg5ENMqIpq0HVVZqgz) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Rock City](https://open.spotify.com/artist/4JLxuWOMYM50zRMCjYaHvH) | [0.9](https://open.spotify.com/album/4kvVqavqTyVWqXURC0fRqF) | 4:07 |
 | 218 | [Exit Wounds](https://open.spotify.com/track/1CTadyC9JCazf75DtdY97p) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [Luke James \(Deluxe\)](https://open.spotify.com/album/55Oye0FffojvyoADZteEFT) | 4:26 |
 | 219 | [New Nu](https://open.spotify.com/track/4TPUO4r8jEkWmCSQ5nzNs9) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Point Of No Return \(Deluxe\)](https://open.spotify.com/album/2OlVVFS8QZfQLmAKkfIwmz) | 2:56 |
 | 220 | [U Know U Want To](https://open.spotify.com/track/2u7YARIkovzhLheDX8RB04) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [M.O.](https://open.spotify.com/album/5JY8LOSVlqydub7b7W7MlE) | 3:50 |
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 264 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 265 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AbxPygAAAAC4kQoyissSGedQt82sBb41`
+Snapshot ID: `AbxVdQAAAACTkw5AC/zf9Vh3G7TPZYLc`

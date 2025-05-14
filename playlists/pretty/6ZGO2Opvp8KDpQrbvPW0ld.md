@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,826 likes - 350 songs - 12 hr 12 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,825 likes - 350 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 89 | [Interlinked](https://open.spotify.com/track/1XFY0DeuGiYRFszfRDQgo5) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Interlinked](https://open.spotify.com/album/4R9S4Mu5TtRXPSzIotoNh4) | 2:24 |
 | 90 | [Freeway](https://open.spotify.com/track/1vIV2OKV3mpVlmfu9ejspQ) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Freeway](https://open.spotify.com/album/23sYTH0qi5rdHWjbWWu5UG) | 2:00 |
 | 91 | [Ennui](https://open.spotify.com/track/2vZtkmVG8lkVy9aMT66AYH) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC) | [Ennui](https://open.spotify.com/album/1Xtt2PxEo6iyErOmlWweru) | 1:18 |
-| 92 | [Sombra](https://open.spotify.com/track/6LUGusnyf00P4VkQvU8vIJ) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y), [jazzluv](https://open.spotify.com/artist/2mXxZcLz0r7WZeYa9o0ztS) | [Sombra](https://open.spotify.com/album/2MfYFPMmMPsj6vBI6gSNn7) | 2:06 |
+| 92 | [Sombra](https://open.spotify.com/track/6LUGusnyf00P4VkQvU8vIJ) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Sombra](https://open.spotify.com/album/2MfYFPMmMPsj6vBI6gSNn7) | 2:06 |
 | 93 | [Zenith](https://open.spotify.com/track/2OzGBQPXCTbuTHJiktX11j) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L), [Rockwell Shapiro](https://open.spotify.com/artist/741pChqvOSgeN8gmWcFRqr), [Jack Nelson](https://open.spotify.com/artist/2jTK9SuzWzjatDmLGn0vvI) | [Zenith](https://open.spotify.com/album/5dydC3Ir5PQZeafSuvo46Z) | 1:44 |
 | 94 | [off days.](https://open.spotify.com/track/1twHSM7POPz8fyK6m0qf1w) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [off days.](https://open.spotify.com/album/5fvfFegy3ZYhhFPgL0dBGE) | 2:16 |
 | 95 | [No Worries](https://open.spotify.com/track/2nKovnIndmGoOScKoBvZmA) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [No Worries](https://open.spotify.com/album/6tYjDFkQGKIeSsEphJOGJn) | 1:56 |

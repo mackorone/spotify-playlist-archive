@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-114 songs - 7 hr 20 min
+115 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [The Endless Dance](https://open.spotify.com/track/1Kpydr7RXuFVFWbUDJp3sB) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/1b89KybJIh8S51U48wdUjl) | 9:02 | 2023-09-01 | 2024-04-19 |
 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 | 2024-04-05 |  |
 | [The Last Matador](https://open.spotify.com/track/3mQkFymDjaD18JmPt72odo) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Last Matador](https://open.spotify.com/album/2uGA86CeB6Z41yqdYOV9Bz) | 2:12 | 2025-03-18 |  |
+| [the perfect pair](https://open.spotify.com/track/6S6GaeO6bvkTDnS1Ko12Sq) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [the perfect pair](https://open.spotify.com/album/2HSor7tKfJt2ECLTi4PeeK) | 2:45 | 2025-05-13 |  |
 | [Torero](https://open.spotify.com/track/28wsuYdlvWeUDQCxJDbo5r) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4pVKGwZmlCJAj87KgN48KW) | 5:06 | 2024-02-01 | 2024-04-19 |
 | [Torero](https://open.spotify.com/track/24gx0KrSELx32x4rurTbEu) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/1I7Vcy2FecSv04Tb2dlAPr) | 5:07 | 2024-04-05 |  |
 | [Torero](https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4l6MESQt1Y9UVmF0ugDOOI) | 5:07 | 2023-09-01 | 2024-02-03 |

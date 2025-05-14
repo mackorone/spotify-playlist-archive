@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Sleep Token on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,250 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,255 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 69 | [Good Shit](https://open.spotify.com/track/3bGZFJeoFhM4jxqNtz4dnH) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Good Shit](https://open.spotify.com/album/5mhmFB2CSeF2QvBBFU9yNM) | 3:43 |
 | 70 | [Sugar Free Venom feat\. Kesha](https://open.spotify.com/track/5f89Fv9EdAoSeH0BH6oC7q) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [SEQUENCE 01](https://open.spotify.com/album/2dsk3MlHRNOqWqrUZoqI0K) | 2:48 |
 | 71 | [No Scrub](https://open.spotify.com/track/0IU9lwYKv4RplARs7C2cH8) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [No Scrub](https://open.spotify.com/album/2HWzGwis2xbgCO26UezLq7) | 2:25 |
-| 72 | [One More \- Bonus](https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:08 |
+| 72 | [One More](https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:08 |
 | 73 | [That Girl \(feat\. Saweetie\)](https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [That Girl \(feat\. Saweetie\)](https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk) | 2:27 |
 | 74 | [Inland Ocean](https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Inland Ocean](https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC) | 4:54 |
 | 75 | [Amiss](https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Amiss](https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz) | 3:49 |

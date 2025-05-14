@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 9366,
+  "num_followers": 9370,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAABadEppiT/Hv+nFsqqLdnf+",
+  "snapshot_id": "aCE6AAAAAACiovatPjm7BByL7N+ov6i+",
   "tracks": [
     {
       "added_at": null,
@@ -908,13 +908,17 @@
       },
       "artists": [
         {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 46367,
-      "name": "The Wizard And I - Commentary",
-      "url": "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz"
+      "duration_ms": 55463,
+      "name": "What Is This Feeling? - Commentary",
+      "url": "https://open.spotify.com/track/1PI2oZgPiJoyPsTKED1YVD"
     },
     {
       "added_at": null,
@@ -1012,17 +1016,13 @@
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 55463,
-      "name": "What Is This Feeling? - Commentary",
-      "url": "https://open.spotify.com/track/1PI2oZgPiJoyPsTKED1YVD"
+      "duration_ms": 46367,
+      "name": "The Wizard And I - Commentary",
+      "url": "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz"
     },
     {
       "added_at": null,

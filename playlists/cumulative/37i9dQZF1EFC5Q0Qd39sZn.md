@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-643 songs - 1 day 20 hr 32 min
+644 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Couldn't We](https://open.spotify.com/track/6WHzVPpUITX9rh6SgoI9uV) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:32 | 2023-12-30 |  |
 | [Counterfeit](https://open.spotify.com/track/5PYoVbt8FHP2RF54we98q2) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [The Female Boss](https://open.spotify.com/album/0zXYx82zuw2TWYR96aaFNH) | 4:07 | 2023-12-30 |  |
 | [Cover Up](https://open.spotify.com/track/67PeTDuHzkzlt2DfTQTzKv) | [La'Porsha Renae](https://open.spotify.com/artist/24C4CBrPP5KOOIl31D68kd) | [Already All Ready](https://open.spotify.com/album/5812DKXEzLlj0RrGNJShaH) | 3:40 | 2023-12-30 |  |
+| [Criminal](https://open.spotify.com/track/36vQKh4VpaEqz6ODUVSmR8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Nobody Really Knows](https://open.spotify.com/album/0H8xToIay5IeC3CXh60qHF) | 2:45 | 2025-05-13 |  |
 | [Cruel Nights](https://open.spotify.com/track/7oUxPHvb894AdTQTxIUGZm) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:04 | 2023-12-30 |  |
 | [Cry Over Me](https://open.spotify.com/track/1XUcDN732D3YOYtZjAEq02) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell 3](https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ) | 4:38 | 2023-12-30 |  |
 | [Cuando Seas Mia \- Balada Version](https://open.spotify.com/track/0YOnVfmFFSQ1jcIMD0Oszw) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Purest of Pain](https://open.spotify.com/album/27K2So5UHlOBnCPzrPDN2j) | 3:35 | 2023-12-30 |  |

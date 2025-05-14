@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Yeboyah.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,852 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,851 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 5 | [Emotional Gangsta](https://open.spotify.com/track/521ae6RwcfeH2iwzUGnqVw) | [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [Emotional Gangsta](https://open.spotify.com/album/3xTnYM1T7d91vQex2luSRW) | 2:32 |
 | 6 | [Yks mun ongelmist \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/7FsF80Hta5P4bSZ3HL6KRr) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Yks mun ongelmist \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/5PvUchPy7xwCHJGCgSzGKG) | 3:27 |
 | 7 | [Liike on lääke](https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Liike on lääke](https://open.spotify.com/album/18V9kkoBrUFgOKZiQSeVFe) | 2:52 |
-| 8 | [Tytöt tietää](https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tytöt tietää](https://open.spotify.com/album/5drhXGx6ojIgQzoLWJXMXc) | 2:34 |
-| 9 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
+| 8 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 |
+| 9 | [Tytöt tietää](https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tytöt tietää](https://open.spotify.com/album/5drhXGx6ojIgQzoLWJXMXc) | 2:34 |
 | 10 | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp) | 3:05 |
 | 11 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 |
 | 12 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Sää](https://open.spotify.com/track/0jnj6osDTF4J4jQybVBBTf) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Sää](https://open.spotify.com/album/4gGnftjWThwuSZ9Imen4CD) | 2:55 |
 | 50 | [Ei Rakkaut](https://open.spotify.com/track/1kWFPp9sMxfKNobdlebdRW) | [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Ei Rakkaut](https://open.spotify.com/album/2ke0tkFzyeuBMpuUenWGLg) | 3:08 |
 
-Snapshot ID: `aCB4fQAAAABq7dhcPaCc1YT9OCBi9NGo`
+Snapshot ID: `aCL+LAAAAAANjvJwjwUdzlM7d9fNQa4x`

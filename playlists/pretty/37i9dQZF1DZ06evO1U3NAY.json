@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 165562,
+  "num_followers": 165576,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAACmA14yJOjkF7rsbTcwllsy",
+  "snapshot_id": "aCE6AAAAAADWZOqw/7SAKx8g2UwkMFfj",
   "tracks": [
     {
       "added_at": null,
@@ -56,13 +56,13 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         },
         {
-          "name": "Tarja",
-          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
         }
       ],
-      "duration_ms": 319693,
-      "name": "Paradise (What About Us?) (feat. Tarja)",
-      "url": "https://open.spotify.com/track/1PkOm35a0G1r33rVrrK6b0"
+      "duration_ms": 230066,
+      "name": "And We Run (feat. Xzibit)",
+      "url": "https://open.spotify.com/track/4AJGaPCvod4mWjBLWPfH3b"
     },
     {
       "added_at": null,
@@ -124,13 +124,13 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         },
         {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
         }
       ],
-      "duration_ms": 230066,
-      "name": "And We Run (feat. Xzibit)",
-      "url": "https://open.spotify.com/track/4AJGaPCvod4mWjBLWPfH3b"
+      "duration_ms": 319693,
+      "name": "Paradise (What About Us?) (feat. Tarja)",
+      "url": "https://open.spotify.com/track/1PkOm35a0G1r33rVrrK6b0"
     },
     {
       "added_at": null,
@@ -258,11 +258,15 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
         }
       ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+      "duration_ms": 270479,
+      "name": "Shed My Skin",
+      "url": "https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz"
     },
     {
       "added_at": null,
@@ -326,15 +330,11 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
         }
       ],
-      "duration_ms": 270479,
-      "name": "Shed My Skin",
-      "url": "https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz"
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hydra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Covered by Roses",
+      "url": "https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Heart Of Everything",
         "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 333866,
       "name": "The Howling",
       "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Bleed Out",
-      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hydra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 287773,
-      "name": "Covered by Roses",
-      "url": "https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N"
+      "duration_ms": 270066,
+      "name": "Bleed Out",
+      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
     },
     {
       "added_at": null,

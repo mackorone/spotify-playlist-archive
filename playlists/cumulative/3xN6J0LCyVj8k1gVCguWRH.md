@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,892 songs - 11 day 10 hr 9 min
+4,894 songs - 11 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3520,6 +3520,7 @@
 | [Roads](https://open.spotify.com/track/3WdvTrn7b7acuHMhvBETzn) | [Harry McInroy](https://open.spotify.com/artist/1SrlIeqR6FOC00CWd6pwue) | [Time](https://open.spotify.com/album/56BaU89XTvPLiHr0jDPem4) | 4:15 | 2022-04-07 | 2022-04-24 |
 | [Roads and railways](https://open.spotify.com/track/1bCe2GK7aMyKpF7tVY9NuW) | [Matilda Schyborger](https://open.spotify.com/artist/66d1qcpRRIIlHCWk3Ry8Mk) | [Roads and railways](https://open.spotify.com/album/1ClLGmmc8B5xyBdZ0h0GUb) | 3:21 | 2024-09-06 | 2024-09-18 |
 | [Robbing Me Blind](https://open.spotify.com/track/2smqVR9iBOtkT7KPsP32Xv) | [Codey Lee James](https://open.spotify.com/artist/6GT8SLhWdvEDgmGAhV763E), [Slim da Wit](https://open.spotify.com/artist/7LGcfgNZTT3t3TZU2FLlCD) | [Robbing Me Blind](https://open.spotify.com/album/1CIA6xkvCU9s28kZFBepJV) | 3:16 | 2024-06-14 | 2024-06-26 |
+| [Rock Music, Girl Secrets](https://open.spotify.com/track/6G9hlctnYLDcZr5OjmZlMu) | [Emilia Vaughn](https://open.spotify.com/artist/4VgJ0UD0zECXTaxPsEpbwk) | [Rock Music, Girl Secrets](https://open.spotify.com/album/3ZHC75MKSPfWDur0jLmMwW) | 2:40 | 2025-05-13 |  |
 | [Rocket To The Moon](https://open.spotify.com/track/7FYhyTCv11KrZ5UrLBm0Bl) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Rocket To The Moon](https://open.spotify.com/album/1aDUQkoOD9LguvZpfPm8H6) | 3:53 | 2021-10-02 | 2021-10-20 |
 | [Rocketship](https://open.spotify.com/track/2JG6t9AQr3KLvYFKw5Mh13) | [SVNDRA](https://open.spotify.com/artist/7sVVrUrf7Lxlw70RZ0hD60) | [Rocketship](https://open.spotify.com/album/3PmwV99T5HxAMZfRusU0pP) | 3:10 | 2021-08-13 | 2021-08-28 |
 | [Rockin Around the Christmas Tree](https://open.spotify.com/track/07CFwgzYmmh2NwcpsDndzn) | [Lucille Two](https://open.spotify.com/artist/0fHke0FX5RQOe0E5nPpeRI), [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Rockin Around the Christmas Tree](https://open.spotify.com/album/0OPSJj3yMSCaCGSVqG1hUN) | 2:23 | 2024-12-04 | 2025-01-01 |
@@ -4737,6 +4738,7 @@
 | [WHU DAH?](https://open.spotify.com/track/2ZpQ6VXWDbwOuFO95ghjaL) | [Jhaysings](https://open.spotify.com/artist/5hIVkHpxmW87MrcpvjCKjv) | [WHU DAH?](https://open.spotify.com/album/3ZVhu1IMtvViZqd3WU7L5D) | 3:13 | 2025-04-20 | 2025-05-01 |
 | [Why California](https://open.spotify.com/track/2ePIrsvT5QdVgyPuoaSdfG) | [Steady Owl](https://open.spotify.com/artist/2clDwSMG0PYhQFEZdSpAyh) | [They Are All Bastards Except Us](https://open.spotify.com/album/7fRGfj91fIkbSQvQC0PbE4) | 3:36 | 2024-08-05 | 2024-08-17 |
 | [Why Can't We](https://open.spotify.com/track/7zls0Rqi4SdC8Dy4tdVvjZ) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Why Can't We](https://open.spotify.com/album/1RXG8PzUjTQuMZFrfHkbLw) | 3:16 | 2021-02-10 | 2021-02-24 |
+| [why do i ask for flowers?](https://open.spotify.com/track/1DFtnsF1eOF1atMkhVBswE) | [Lizzy Donzis](https://open.spotify.com/artist/4wnOUKXbPUzKexcafAVvw6) | [Obsessed](https://open.spotify.com/album/1jQl6S99BJ3DhTcYCXXVi0) | 3:09 | 2025-05-13 |  |
 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 | 2024-08-12 |  |
 | [Why Try](https://open.spotify.com/track/4pWmqre0qCQ6K2eS0L0yfQ) | [Ashleyy Christina](https://open.spotify.com/artist/0Sd7AmhEpAQbTzRHyes29l) | [Why Try](https://open.spotify.com/album/35LIc23QOgxNroTasbj45p) | 2:37 | 2024-08-07 | 2024-08-19 |
 | [Why Wait](https://open.spotify.com/track/4pdzDOdu7f2DyVOztk5b4b) | [Man.You?](https://open.spotify.com/artist/26yxMLQtqaJ2DIHY7Gn929), [Rasneek](https://open.spotify.com/artist/1sN37BHcFAxk5O7r7vLqo4) | [Why Wait](https://open.spotify.com/album/59gQbC6zsACvkdl76SneoZ) | 2:07 | 2024-09-03 | 2024-09-12 |

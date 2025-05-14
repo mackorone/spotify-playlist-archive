@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-827 songs - 1 day 11 hr 56 min
+829 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 | 2023-03-24 | 2023-08-25 |
 | [A symptom of love](https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [A symptom of love](https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3) | 2:30 | 2023-02-24 | 2024-09-26 |
 | [A Telegraph Smile](https://open.spotify.com/track/3xPDUGGusnXo4BzYOuuuVZ) | [Glen Beasley](https://open.spotify.com/artist/1tE58bEflq4eNizffO3Au1) | [A Telegraph Smile](https://open.spotify.com/album/5EPw5sn3QLPMLSUYgFPqg8) | 2:45 | 2024-07-19 |  |
+| [Abilene](https://open.spotify.com/track/2zW7bKgWk9WRrTYvRys0rR) | [Luiz de Luna](https://open.spotify.com/artist/0FZzM3FVTZdoefPWS9Edhb) | [Abilene](https://open.spotify.com/album/0rv3TQYYHCDQPyW7Bc20Kv) | 2:32 | 2025-05-13 |  |
 | [Absolutely Nothing](https://open.spotify.com/track/3tK6DPMKK0sOFzjtIYO31C) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Absolutely Nothing](https://open.spotify.com/album/2doFeD2JvERQd22iG6AzfF) | 2:01 | 2024-01-12 |  |
 | [Acamchula Creeks](https://open.spotify.com/track/0nlYGpYrgVvtxy00ShqZ04) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Acamchula Creeks](https://open.spotify.com/album/3VjF1M6fwo4rYHScvsT1Md) | 2:31 | 2022-10-07 | 2024-06-28 |
 | [Across the Divide](https://open.spotify.com/track/5rTd1AF8EiGKXjKXES3qJA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Across the Divide](https://open.spotify.com/album/0rpdwEoKUFcOBLg3bibZqJ) | 2:28 | 2025-02-19 |  |
@@ -659,7 +660,7 @@
 | [Sphinx](https://open.spotify.com/track/740LzA4Z4ArwYZGSU61X6S) | [Benito Novelli](https://open.spotify.com/artist/3V3Cv0iaImcAuGxsaESGyC) | [La Massana](https://open.spotify.com/album/5sFOpgxafc8hRzyzADz0q3) | 2:40 | 2021-12-08 | 2023-02-25 |
 | [Spirited Away](https://open.spotify.com/track/4lE04Ccceo6nUADycSJZ4y) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Spirited Away](https://open.spotify.com/album/0IeQHK1faB5zkb1NbmCa3c) | 2:03 | 2021-12-08 | 2022-07-08 |
 | [Spring Awakening](https://open.spotify.com/track/0bYa0O1LHWVaPRKfdyO2yQ) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:43 | 2021-12-08 | 2022-06-17 |
-| [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-04-21 |  |
+| [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-04-21 | 2025-05-14 |
 | [Sprössling](https://open.spotify.com/track/1g6ezK2BBrM9R97O8SlJsW) | [Clio Rene](https://open.spotify.com/artist/5VgxvrFuxQwGnqyqxGIFjo) | [Sprössling](https://open.spotify.com/album/3s2rTpIa7ZXdX2d4VrvzYy) | 2:31 | 2021-12-08 | 2024-04-05 |
 | [Spur of The Moment](https://open.spotify.com/track/3cMRR2kJDgid4lsNhfKGmg) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Spur of The Moment](https://open.spotify.com/album/6FTSLJ4Bhn49LP745m0oTl) | 2:32 | 2025-02-19 |  |
 | [Squares](https://open.spotify.com/track/2S7tKTNzlT6uNDOMQwXTTb) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Squares](https://open.spotify.com/album/7CdcOB80Mr91dRp6tsv9B4) | 3:06 | 2024-12-10 |  |
@@ -732,6 +733,7 @@
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-21 | 2024-05-24 |
 | [Together Again](https://open.spotify.com/track/163pGELrVriFgvYwdiOHlW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Together Again](https://open.spotify.com/album/14Iv2IpxEhAsdqehdpbHfc) | 2:31 | 2024-06-28 | 2024-09-26 |
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-23 | 2023-03-10 |
+| [Topics](https://open.spotify.com/track/2PU57NQKyVL3rj7aukAF4x) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Topics](https://open.spotify.com/album/4Zli7lW3EBBe6FiSfddjHD) | 2:39 | 2025-05-13 |  |
 | [Toque Suave](https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Toque Suave](https://open.spotify.com/album/76YZGj9oQn2KWzRdcuS4Y9) | 2:34 | 2022-08-05 | 2024-04-19 |
 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 |  |
 | [Tranquil Meadows](https://open.spotify.com/track/7dTpIquru8lsVAWllrWcDx) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Tranquil Meadows](https://open.spotify.com/album/4qPQaIIy186DJ1Z0mz84nY) | 2:08 | 2024-01-12 |  |

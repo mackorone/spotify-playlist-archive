@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 
 > Early Noise 2020選出アーティストVaundyの楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Vaundy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,034 likes - 66 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,118 likes - 63 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 | 61 | [Audio 003](https://open.spotify.com/track/3bOCsb2U3BgkKbPeIofmkU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 1:48 |
 | 62 | [宮](https://open.spotify.com/track/2EOOd0UJfRZzzlok8IZ6iZ) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:15 |
 | 63 | [黒子](https://open.spotify.com/track/3YOzU8IiYNHphHhVrgvuV9) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:08 |
-| 64 | [Vaundy \- 走馬灯 \(Soumatou\) \- Go Stream Live ver.](https://open.spotify.com/episode/7xMa6KCbC4kmtIhjfHgRdM) | [Vaundy \- 走馬灯 \(Soumatou\) \- Go Stream Live ver.](https://open.spotify.com/show/3xOsQaxRBllEfBNcUUwd42) | [Vaundy \- 走馬灯 \(Soumatou\) \- Go Stream Live ver.](https://open.spotify.com/album/3xOsQaxRBllEfBNcUUwd42) | 4:58 |
-| 65 | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/episode/03yf6TTvBy8kCWPag62ri6) | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/show/1sDdqqD0Jmj1OHNs6gzjmd) | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/album/1sDdqqD0Jmj1OHNs6gzjmd) | 2:31 |
-| 66 | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/episode/2iuqnb0rniyc3s6esNvt8I) | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/show/0zJicfToSO1vQvsr0n5mmI) | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/album/0zJicfToSO1vQvsr0n5mmI) | 3:20 |
 
-Snapshot ID: `aApSAgAAAAATo3vbpqUTQFwmRBhCEm8x`
+Snapshot ID: `aCNCfAAAAADEFK3aZ3wv+yOZCADuE3wY`

@@ -370,7 +370,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 178266,
       "name": "3108",
       "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 255053,
       "name": "A Dream Unfinished",
       "url": "https://open.spotify.com/track/76djVhINm9xcBShGwHw9Wm"
@@ -1168,6 +1168,28 @@
       "duration_ms": 224500,
       "name": "Answer",
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
+    },
+    {
+      "album": {
+        "name": "apocalyptic serenade",
+        "url": "https://open.spotify.com/album/0LozFO673nlo2eaRgSrr9B"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        },
+        {
+          "name": "deadpaints",
+          "url": "https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268500,
+      "name": "apocalyptic serenade",
+      "url": "https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar"
     },
     {
       "album": {
@@ -5625,6 +5647,24 @@
     },
     {
       "album": {
+        "name": "Green we shared",
+        "url": "https://open.spotify.com/album/22NNNFWoomy7QanPqnkKwr"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219194,
+      "name": "Green we shared",
+      "url": "https://open.spotify.com/track/4Qqd4mzQzVGpvPrzq3Dtn8"
+    },
+    {
+      "album": {
         "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
         "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
       },
@@ -5672,7 +5712,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "H O M E",
       "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
@@ -7296,7 +7336,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 265058,
       "name": "In the Bed",
       "url": "https://open.spotify.com/track/5naUy3DInK9w6phVgZKoKk"
@@ -7496,7 +7536,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 150094,
       "name": "Ironic",
       "url": "https://open.spotify.com/track/0CpJtbDzgqFjfcckyJvyc5"
@@ -15526,7 +15566,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 209000,
       "name": "Untitled Youth",
       "url": "https://open.spotify.com/track/2seJWl70G8rJa4eNI2bef6"
@@ -15566,7 +15606,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 257053,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/0M5yxK9rMHXxVPm80ls4XJ"
@@ -15790,7 +15830,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 252524,
       "name": "WALKMAN",
       "url": "https://open.spotify.com/track/6Y8iqKIk4LckcPQV5lohVU"

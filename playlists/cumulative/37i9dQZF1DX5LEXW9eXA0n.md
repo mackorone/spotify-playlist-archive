@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: YOOK SUNGJAE\(육성재\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 정승환\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,464 songs - 3 day 22 hr 48 min
+1,466 songs - 3 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [A season of us](https://open.spotify.com/track/5GfQle9Jd24WI694vlyv42) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/1bWCEocci2kyEpWLdOjVRW) | 3:54 | 2022-07-07 | 2022-08-19 |
 | [A Shining Day](https://open.spotify.com/track/7K5uJR4gWSUuC6fjiuQfCr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Shining Day](https://open.spotify.com/album/3KXP1SNW4ZHn9LNy4hyBBF) | 2:58 | 2023-05-29 | 2023-10-20 |
 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 | 2023-01-27 | 2023-03-28 |
-| [A Song For You](https://open.spotify.com/track/3jAap8woUqJhIFbzedFRd7) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [A Song For You](https://open.spotify.com/album/7JA7N27T4oTQpFbaHCmZow) | 4:55 | 2024-12-09 |  |
+| [A Song For You](https://open.spotify.com/track/3jAap8woUqJhIFbzedFRd7) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [A Song For You](https://open.spotify.com/album/7JA7N27T4oTQpFbaHCmZow) | 4:55 | 2024-12-09 | 2025-05-14 |
 | [A very personal story](https://open.spotify.com/track/3PWyWdzpWOfBmH7R5moC8O) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [A very personal story](https://open.spotify.com/album/3oO0sPdkc17C9QsrvsUrxR) | 3:23 | 2023-11-15 | 2024-05-18 |
 | [A Way To Forget](https://open.spotify.com/track/19DyfJxGbf8iFTHnx4RtfW) | [Giryeon](https://open.spotify.com/artist/019xuaJPwSE0VLLJzcO8K6) | [Our Last Day](https://open.spotify.com/album/0NXk8DUNdmuF1AiEgQAV4X) | 3:38 | 2023-10-20 | 2023-11-16 |
 | [About all love](https://open.spotify.com/track/0x6X6hV1taDYGOhkBLuoqS) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [About all love](https://open.spotify.com/album/1IV3TxNNJgcnE6nlZycxx6) | 3:45 | 2023-10-20 | 2023-12-14 |
@@ -540,6 +540,7 @@
 | [I Will](https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [I Will](https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt) | 3:53 | 2024-06-25 | 2024-11-07 |
 | [I will](https://open.spotify.com/track/1cwCsOMKxYrVmvTFT4Q7mY) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [The Project](https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn) | 3:39 | 2021-12-20 | 2022-07-05 |
 | [I will be alright](https://open.spotify.com/track/1iURdIbRZv2t643LDwLbl2) | [Lee Eun Mi](https://open.spotify.com/artist/57Rbh9mF8Peu1jOPRawGHW) | [I will be alright](https://open.spotify.com/album/7MPJaPGqkTXM3ej4PXklwV) | 5:35 | 2023-11-02 | 2024-02-02 |
+| [I will be your flower](https://open.spotify.com/track/0RE0Y7Rv9t3ngylTdKiWLZ) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [I will be your flower](https://open.spotify.com/album/39OFidEKg7M3yOm9rsTmrJ) | 3:47 | 2025-05-13 |  |
 | [I will bear my grief\. Thank you.](https://open.spotify.com/track/5QAynerkLzjgFNPFT0RTts) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [I will bear my grief\. Thank you.](https://open.spotify.com/album/3d5sQWZYfybvm2AF0ejVL2) | 4:30 | 2022-11-16 | 2023-01-21 |
 | [I Will Shine On You](https://open.spotify.com/track/4VnZhQatrHFXySz467yURC) | [Odett](https://open.spotify.com/artist/1jYtDU2z8vLKUWGKe9UhHu) | [May I Help You? \(Original Television Soundtrack\) Part.5](https://open.spotify.com/album/1vOYGpf02GZzCfPyZVvWPf) | 3:57 | 2023-01-10 | 2023-02-25 |
 | [I wish you'd listened \(feat\. Lee Ru DA\)](https://open.spotify.com/track/3RL5PDEDxBxIGG9AKOc9Jy) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [E\-RUDA](https://open.spotify.com/artist/7FkKA3VUA7OwgZFMF4G8Cz) | [I wish you'd listened](https://open.spotify.com/album/5ndgTVQxyMTz1P1uFmBsP2) | 3:27 | 2022-08-18 | 2022-11-23 |
@@ -900,6 +901,7 @@
 | [One Day More](https://open.spotify.com/track/4qWFcJD1YKqNXDSP2BdeLp) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 4:08 | 2023-05-05 | 2023-05-16 |
 | [One Late Night In 1994](https://open.spotify.com/track/1bHEMyPGu9H0NGlS9Vxpsf) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [One Late Night In 1994](https://open.spotify.com/album/0MLfjnIKcI9hY4UhLI1e85) | 3:50 | 2023-07-20 | 2023-11-03 |
 | [One Man](https://open.spotify.com/track/1hFTr9dmT578FKelJDCVFc) | [Park Je Up](https://open.spotify.com/artist/0eAiU3cVCE1QcQyjPuCHSq) | [One Man](https://open.spotify.com/album/3gKxXpP1y1GnAyFMJyLCJ6) | 4:08 | 2023-11-13 | 2024-05-01 |
+| [One More Day](https://open.spotify.com/track/260qGZnKIKC41u6LH2L9pq) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [In The Spring](https://open.spotify.com/album/0SDjas70ExEIhpRm24UCUz) | 3:25 | 2025-05-13 |  |
 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 | 2022-06-15 | 2022-08-19 |
 | [One ring](https://open.spotify.com/track/6Q7GVML4uhQ9H5AF3FY6ng) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [One ring](https://open.spotify.com/album/6xDMTpS9q62JOiFI1aKFvu) | 3:55 | 2023-12-13 | 2024-05-18 |
 | [ONE ROOM](https://open.spotify.com/track/6TeiNdpV8PMX4TAlf5fY4b) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [ONE ROOM](https://open.spotify.com/album/04EzWMvT1s3D2Q26JbDiKz) | 5:05 | 2021-12-23 | 2022-01-01 |
@@ -1248,7 +1250,7 @@
 | [Turn](https://open.spotify.com/track/2YJvif30ElLKoi5ccJ9ZEE) | [simaron](https://open.spotify.com/artist/6h24lCuHJ3kk71eeCMxFpB) | [TURN](https://open.spotify.com/album/2LpsHc7oFPbPndYw89bRW5) | 3:50 | 2024-11-06 | 2025-04-16 |
 | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/track/36ua7Cbt724p1RFlOVy9up) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/album/6go9sISRH2r8yCT5UDUDKh) | 3:41 | 2022-03-29 | 2022-06-09 |
 | [Two Letters](https://open.spotify.com/track/1WWHM83WMlkceHY1XqnaNs) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be My Reason](https://open.spotify.com/album/20rBBVeawY0f6do5SXQnWn) | 3:33 | 2021-12-23 | 2022-06-19 |
-| [Two of us](https://open.spotify.com/track/6iEN1jW4u0QjcBsg3AV6R1) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [BREWING LOVE, Pt\. 10 \(Original Soundtrack\)](https://open.spotify.com/album/1S1DUzgYYBUBXlprX2pKYQ) | 4:22 | 2024-12-06 |  |
+| [Two of us](https://open.spotify.com/track/6iEN1jW4u0QjcBsg3AV6R1) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [BREWING LOVE, Pt\. 10 \(Original Soundtrack\)](https://open.spotify.com/album/1S1DUzgYYBUBXlprX2pKYQ) | 4:22 | 2024-12-06 | 2025-05-14 |
 | [Two people](https://open.spotify.com/track/3t7q2RhPmsGeZ1XbYkPBJP) | [Gemstone](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V) | [Two people](https://open.spotify.com/album/2AMdl8gdA5yUFVzHU01t7l) | 4:29 | 2023-02-14 | 2023-03-28 |
 | [Two People](https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1tV7ZIyAJDZkis4RjXWQ91) | 4:27 | 2021-12-20 | 2022-07-07 |
 | [U](https://open.spotify.com/track/5GpjDEuBecJskwBdyti6KU) | [David Oh](https://open.spotify.com/artist/7LfjAtFXL1fwMB23GNf8Mu) | [Songs I'll Never Sing For You Volume.1](https://open.spotify.com/album/69PXgnmyr9q4isx0cKcWBj) | 3:19 | 2022-12-27 | 2023-02-25 |

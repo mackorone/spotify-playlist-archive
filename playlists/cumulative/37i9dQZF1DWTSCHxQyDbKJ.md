@@ -2,9 +2,9 @@
 
 ### [GLOW UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DWTSCHxQyDbKJ)
 
-> Necessities from LGBTQIA+ artists\. Cover: Kae Tempest
+> Necessities from LGBTQIA+ artists\. Cover: Elton John
 
-226 songs - 12 hr 18 min
+228 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Claire](https://open.spotify.com/track/3hrwNjDxSbXdJGcAEO1nvn) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Claire](https://open.spotify.com/album/7ewajiwNi8wLetuZvnWbS8) | 3:02 | 2025-04-07 |  |
 | [Close To You](https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 5:41 | 2024-06-10 | 2025-01-14 |
 | [Closing The Doors](https://open.spotify.com/track/5KUyfDw6u3sf5eJLIMXgTS) | [Kelly Maxwell](https://open.spotify.com/artist/3rQFEyc1F8XXRLNg66wBWz) | [Closing The Doors](https://open.spotify.com/album/3VNK4aXIHIRfZ7gIeJOprB) | 3:02 | 2024-08-12 | 2024-09-19 |
+| [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:22 | 2025-05-13 |  |
 | [Come Undone](https://open.spotify.com/track/2QQP5JWmFGiI6qINAQ2rGC) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [The Warping](https://open.spotify.com/album/4sdNDQaXa1x15gsFUbUMXd) | 3:39 | 2024-12-04 | 2025-01-14 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-10 | 2025-02-01 |
 | [Control](https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Control](https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn) | 2:15 | 2024-12-04 | 2025-01-14 |
@@ -64,7 +65,7 @@
 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 | 2024-06-10 |  |
 | [Dizzy](https://open.spotify.com/track/2IxMYlNIuCdG93ZWQ0hLQ3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Odyssey](https://open.spotify.com/album/60tqwty63qejmNXYSHmRX6) | 2:52 | 2024-12-04 | 2025-01-14 |
 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-06-10 |  |
-| [DONT MAKE THIS WEIRD](https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS) | [DONT MAKE THIS WEIRD](https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p) | [DONT MAKE THIS WEIRD](https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs) | 2:50 | 2025-04-07 |  |
+| [DONT MAKE THIS WEIRD](https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS) | [DONT MAKE THIS WEIRD](https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p) | [DONT MAKE THIS WEIRD](https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs) | 2:50 | 2025-04-07 | 2025-05-14 |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-06-10 |  |
 | [Dream Girl](https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dream Girl](https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv) | 3:42 | 2024-06-10 | 2024-09-10 |
 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 | 2024-06-10 |  |
@@ -109,7 +110,7 @@
 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 | 2025-02-14 |  |
 | [Humanity](https://open.spotify.com/track/582wDszLo3ASfJVxMRQr93) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [STARFACE](https://open.spotify.com/album/2ygz2yoIAR5S9WWIxnvkAL) | 3:20 | 2024-12-04 | 2025-01-14 |
 | [Humanity](https://open.spotify.com/track/7IjLwKOvFCNxy59yZ5sVRb) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Humanity](https://open.spotify.com/album/46K0JxHJHa6jRwd0tZGwCo) | 3:20 | 2024-06-10 | 2024-08-20 |
-| [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 | 2024-06-10 |  |
+| [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 | 2024-06-10 | 2025-05-14 |
 | [I Don't Miss You \(I Just Miss Your Mum\)](https://open.spotify.com/track/1y4PXL5npR2o7mC6XzMW5Y) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Don't Miss You \(I Just Miss Your Mum\)](https://open.spotify.com/album/7hANRh9kW0YFQ3GWTI0ER5) | 2:55 | 2024-07-08 | 2024-08-13 |
 | [I Know It Happened But I Can't Explain](https://open.spotify.com/track/1PRY3whxLdyRwOWROuakG8) | [Zoe Konez](https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu) | [I Know It Happened But I Can't Explain](https://open.spotify.com/album/0Qxnmt9laQJu48svYZQ6Xt) | 3:08 | 2024-06-10 | 2025-01-18 |
 | [I Want What I Don't Need](https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey) | 3:35 | 2024-12-04 | 2025-01-14 |
@@ -117,6 +118,7 @@
 | [I Would Die 4 U](https://open.spotify.com/track/3K1XfGFwe8lGdlr0TRze5N) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL), [Wendy & Lisa](https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:21 | 2024-12-04 | 2025-01-14 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2024-06-10 |  |
 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [My Soft Machine \(Deluxe\)](https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt) | 3:07 | 2024-06-10 |  |
+| [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2025-05-13 |  |
 | [idc](https://open.spotify.com/track/3kx5C5gy96hofwSNdHttmu) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [idc](https://open.spotify.com/album/1JfqJMtr7hhtWZ56o2Amdd) | 2:30 | 2024-06-10 | 2024-11-12 |
 | [If I Don't Laugh I'll Cry](https://open.spotify.com/track/4K3CoRfaby61VVNoDS6xjJ) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Digital Heartifacts](https://open.spotify.com/album/1DzhKoFw6wH2f0SUQXy4Gz) | 2:52 | 2024-12-04 | 2025-01-14 |
 | [If I Don't Laugh I'll Cry](https://open.spotify.com/track/6HnAjUUMPLyvOFFBxV58Hv) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [If I Don't Laugh I'll Cry](https://open.spotify.com/album/1dP4KmXsWmKYOE1Hpc7ECd) | 2:52 | 2024-06-10 | 2024-09-10 |

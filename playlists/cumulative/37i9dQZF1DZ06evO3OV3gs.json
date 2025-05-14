@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW"
+    },
+    {
+      "album": {
         "name": "Madame X (Deluxe)",
         "url": "https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8"
       },
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 229280,
       "name": "Open Your Heart",
       "url": "https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79"

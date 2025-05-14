@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 90801,
+  "num_followers": 90821,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -507,18 +507,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Extra",
-        "url": "https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD"
+        "name": "Brazilian Compilation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Fatnotronic",
+          "url": "https://open.spotify.com/artist/5evxKull73cP7iadarMC99"
         }
       ],
-      "duration_ms": 354813,
-      "name": "Extra",
-      "url": "https://open.spotify.com/track/3GS0CICQvKGCQcI7lNalcT"
+      "duration_ms": 300000,
+      "name": "Esperar Pra Ver",
+      "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -539,22 +543,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Brazilian Compilation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
+        "name": "Extra",
+        "url": "https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Fatnotronic",
-          "url": "https://open.spotify.com/artist/5evxKull73cP7iadarMC99"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Esperar Pra Ver",
-      "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
+      "duration_ms": 354813,
+      "name": "Extra",
+      "url": "https://open.spotify.com/track/3GS0CICQvKGCQcI7lNalcT"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Realce",
-        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Realce",
-      "url": "https://open.spotify.com/track/6991iMrfqqHjYSPzsobNeW"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Por Pouco (Bit Box)",
         "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
@@ -703,6 +687,38 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Tete a Tete Margareth",
+        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
+      },
+      "artists": [
+        {
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+        }
+      ],
+      "duration_ms": 334133,
+      "name": "Fara\u00f3",
+      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Realce",
+        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Realce",
+      "url": "https://open.spotify.com/track/6991iMrfqqHjYSPzsobNeW"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Gal Canta Caetano",
         "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Tete a Tete Margareth",
-        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
       "artists": [
         {
-          "name": "Margareth Menezes",
-          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 334133,
-      "name": "Fara\u00f3",
-      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
+      "duration_ms": 397493,
+      "name": "Preta Pretinha",
+      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -807,22 +823,6 @@
       "duration_ms": 238040,
       "name": "Playsom",
       "url": "https://open.spotify.com/track/3xeqZUMpHsLO1UEoTIwHBO"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 397493,
-      "name": "Preta Pretinha",
-      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Besta \u00e9 Tu",
+      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "20 Grandes \u00caxitos",
         "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 226000,
       "name": "Meu Nome \u00c9 Gal",
       "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Besta \u00e9 Tu",
-      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
     },
     {
       "added_at": "2022-09-22 18:13:04",

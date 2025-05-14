@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Shenlong, SV, Orochi
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,660 likes - 74 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,661 likes - 74 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 62 | [ADMITE](https://open.spotify.com/track/05X57peZvM18BOly3zW5Nh) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Trap Select](https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91) | [ADMITE](https://open.spotify.com/album/1jpYvrTd4gbHa1GG3gOJqy) | 2:28 |
 | 63 | [Ratos](https://open.spotify.com/track/5VVLXmNckkYhRdM0iN5Phj) | [Cinquenta](https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb) | [Ratos](https://open.spotify.com/album/1sKNUmYdg7njXd3laBtAQn) | 3:43 |
 | 64 | [Tão Diferente](https://open.spotify.com/track/7DlGrDlvWgCo57Krgi0PW7) | [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [LV](https://open.spotify.com/artist/3f6CmIIWksZbvLr5Of18BY) | [Tão Diferente](https://open.spotify.com/album/5nRkCwlT8hoDnB9ZzxqAJD) | 3:04 |
-| 65 | [CPA](https://open.spotify.com/track/5gZ9SZooFD7y5YuaAoYVsB) | [Yung Kurz](https://open.spotify.com/artist/6WIurCdF9P7hTYBQFjqsj7), [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Morceguin 2z](https://open.spotify.com/artist/35zu51RwC07LWwR54kyneb) | [CPA](https://open.spotify.com/album/3t7Vbyvkgz3LPOSvEW28my) | 3:29 |
+| 65 | [CPA](https://open.spotify.com/track/5gZ9SZooFD7y5YuaAoYVsB) | [Yung Kurz](https://open.spotify.com/artist/6WIurCdF9P7hTYBQFjqsj7), [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [hashi tzz](https://open.spotify.com/artist/5MxfUqsyj9YXeY07EKrouq) | [CPA](https://open.spotify.com/album/3t7Vbyvkgz3LPOSvEW28my) | 3:29 |
 | 66 | [Seda de Alfafa](https://open.spotify.com/track/5JsgZ3ok2fyJiigFDEJ8LH) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Trap Select](https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91) | [Seda de Alfafa](https://open.spotify.com/album/27cBwe6sNwdutdnsORrw4m) | 2:55 |
 | 67 | [Sururu Com Cachaça](https://open.spotify.com/track/3vjgVDFU2y1E1IzXh1drGg) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Prodbythb](https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae) | [O Som do Litoral](https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL) | 2:48 |
 | 68 | [Toma](https://open.spotify.com/track/73IPytoDsTmpNS6L7KHDEZ) | [Spark Trap](https://open.spotify.com/artist/0QY3FktU1SwpEqPRf4w1YX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Toma](https://open.spotify.com/album/0nxOQfGs2MqrLKayVBtPzW) | 2:44 |

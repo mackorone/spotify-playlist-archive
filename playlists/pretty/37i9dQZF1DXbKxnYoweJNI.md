@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 守夜人 \(Night Keepers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,786 likes - 122 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,783 likes - 122 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 18 | [08出門了](https://open.spotify.com/track/0Cmh7FZHYEbJiWNLshzTnh) | [Alan Kuo](https://open.spotify.com/artist/3LyN3dzJjv35T1XcDysnZG), [楊琳](https://open.spotify.com/artist/702laE9OYObQIju47SY7E4), [宇洋鐘](https://open.spotify.com/artist/230fc6ivfV9DflZhxUc3Qd) | [08出門了](https://open.spotify.com/album/1NNyeRtR6HNhfArj6Qm8Ox) | 3:05 |
 | 19 | [危險](https://open.spotify.com/track/3s8wpIAhxHVVLlmj3VZJn2) | [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD) | [危險](https://open.spotify.com/album/0Pvu7X3gIhFhHf01bkj1gV) | 3:03 |
 | 20 | [腰束奶凸尻川硬邦邦\(feat\. DJ 2\-CHI\)](https://open.spotify.com/track/3cxDToznXyxI2yf9tTyHzj) | [阿跨面](https://open.spotify.com/artist/26QeJhwzQ5vwSNX8wH1t0D), [DJ 2\-CHI](https://open.spotify.com/artist/0zsX58DhCsnkUKPhmRoL9y) | [聲名寒吉先生](https://open.spotify.com/album/3v5KV2Et1eZ0brXcdZABf7) | 2:11 |
-| 21 | [因為錢 Feat\. 王以太](https://open.spotify.com/track/0zXgVJWWIS4HYJqsJOOsSo) | [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR), [Yitai Wang](https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j) | [因為錢 Feat\. 王以太](https://open.spotify.com/album/5CUU7Avdyvn2gVQ7iLQFKM) | 4:36 |
+| 21 | [因為錢](https://open.spotify.com/track/0zXgVJWWIS4HYJqsJOOsSo) | [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR), [Yitai Wang](https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j) | [因為錢](https://open.spotify.com/album/5CUU7Avdyvn2gVQ7iLQFKM) | 4:36 |
 | 22 | [alone?](https://open.spotify.com/track/2l1p9B9mekeoNtbphfPt17) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [alone?](https://open.spotify.com/album/6PcjLO8yGnBhOv0NFFa6cH) | 2:50 |
 | 23 | [就让过去都过去\(电影《一雪前耻》片尾曲\)](https://open.spotify.com/track/5RNj0hgDF2up0FUsJ3SSQu) | [摩登兄弟劉宇寧](https://open.spotify.com/artist/5k5iMDK1nWLbb0eqMnpuKl) | [就让过去都过去（电影《一雪前耻》片尾曲）](https://open.spotify.com/album/148LDtxqNuk9FmW5elj1bV) | 3:54 |
 | 24 | [Toxic feat\. Quanzo \(Quanzo Remix\)](https://open.spotify.com/track/4aU4UIKs5i2roAWUKVwqpi) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro), [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [Toxic](https://open.spotify.com/album/6z9LHgZejziGWk7xnAPEO3) | 2:31 |

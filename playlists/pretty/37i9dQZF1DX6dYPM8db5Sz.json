@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/6Sz0lDNxowJIPkn0JgfKuw?si=Co-lA96TQAOaAagNehlLTg\">ANVR</a>",
-  "num_followers": 12772,
+  "num_followers": 12773,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-05-02 05:32:59",
       "album": {
-        "name": "Too Pretty For Buffalo",
-        "url": "https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 236525,
-      "name": "Too Pretty For Buffalo",
-      "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
-    },
-    {
-      "added_at": "2025-05-02 05:32:59",
-      "album": {
         "name": "Weight",
         "url": "https://open.spotify.com/album/378aYaLsxI1Dk1bb4RhbH6"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 191768,
       "name": "Weight",
       "url": "https://open.spotify.com/track/3li8bYr29vc2Md6QvKrmra"
+    },
+    {
+      "added_at": "2025-05-02 05:32:59",
+      "album": {
+        "name": "Too Pretty For Buffalo",
+        "url": "https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 236525,
+      "name": "Too Pretty For Buffalo",
+      "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
     },
     {
       "added_at": "2025-05-02 05:32:59",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-05-02 05:32:59",
       "album": {
-        "name": "Ankles",
-        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "Ankles",
-      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
-    },
-    {
-      "added_at": "2025-05-02 05:32:59",
-      "album": {
         "name": "Caterpillar",
         "url": "https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 217724,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN"
+    },
+    {
+      "added_at": "2025-05-02 05:32:59",
+      "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
     },
     {
       "added_at": "2025-05-02 05:32:59",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-05-02 05:32:59",
       "album": {
-        "name": "Bovine Excision",
-        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS"
       },
       "artists": [
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
         }
       ],
-      "duration_ms": 173177,
-      "name": "Bovine Excision",
-      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
+      "duration_ms": 175082,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE"
     }
   ],
   "unique_name": "Indie GO",

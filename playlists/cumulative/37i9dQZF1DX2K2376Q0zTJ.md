@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Elle Teresa
 
-1,328 songs - 3 day 6 hr 9 min
+1,329 songs - 3 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Diary](https://open.spotify.com/track/7M7y82GSc9eqXfXypSVwRi) | [MIRI](https://open.spotify.com/artist/1xfPSDV9Xxi4Yyuru7e6Ln) | [Diary](https://open.spotify.com/album/0FgyjTZP7bYMUgCW6HTfEs) | 3:36 | 2023-05-02 | 2023-06-07 |
 | [Dirty](https://open.spotify.com/track/3WOp4WNo8VclmCPW6frFx1) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Bossman JP](https://open.spotify.com/artist/6CTp0KD5YKBa7rx4nrCxDM) | [Youngin Season 2](https://open.spotify.com/album/6iHakq1HeVPDTvvPInxYOg) | 2:35 | 2023-05-02 | 2023-06-07 |
 | [Disco \(Bad dance doesn't matter\)](https://open.spotify.com/track/17JZ5WJ1XZfAMmI1s1OGB0) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [maze](https://open.spotify.com/album/6t1kYddCW5E9StZEf0UxMd) | 3:43 | 2022-02-01 | 2023-01-04 |
+| [DIVE](https://open.spotify.com/track/1ttCejZkkNIclvWMeDD16U) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D) | [DIVE](https://open.spotify.com/album/4Mt1W81dg53B3sv7sbQAHd) | 3:55 | 2025-05-13 |  |
 | [Do you want Tequila?](https://open.spotify.com/track/4YHGRPEkvgbXppwU9vZQ84) | [AYA A.K.A PANDA](https://open.spotify.com/artist/6H3niqx3EU1Cg14nMe0PhN) | [Disaster I](https://open.spotify.com/album/6KA7XSmW0ckDmZXgqTn6tz) | 2:45 | 2023-09-05 | 2023-11-08 |
 | [Dodonpa](https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 4:37 | 2023-04-04 | 2023-05-03 |
 | [Dog in Lost](https://open.spotify.com/track/0FtkD6YrVGC9sk5awsEwO7) | [Melt\-Banana](https://open.spotify.com/artist/1aDpQ3bo57IlYWmsG5sdlp) | [Return of 13 Hedgehogs \(Mxbx Singles 2000\-2009\)](https://open.spotify.com/album/5HOq417LBZ77SUNTxxOIwz) | 1:27 | 2022-05-04 | 2022-06-01 |
@@ -422,7 +423,7 @@
 | [kiss kiss kiss](https://open.spotify.com/track/5YuMfgIUruGMa338rWO1U3) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [kiss kiss kiss](https://open.spotify.com/album/3vRCmWS5UVLAk2icJaWe8l) | 2:35 | 2024-02-06 | 2024-03-06 |
 | [Kiss Me Like It's The Last Time](https://open.spotify.com/track/4ZHM6LoG0NZEQpCVUDQDxg) | [Sarah Hemi](https://open.spotify.com/artist/4BQlN5DBVwm72Q6foAEzly) | [FLOATING](https://open.spotify.com/album/4Z38focsTAlvuWyZ2rSzOR) | 2:49 | 2021-11-30 | 2022-01-05 |
 | [Kitchen](https://open.spotify.com/track/6f7MxljsSIGMMP8CJzaQvf) | [ACO](https://open.spotify.com/artist/1G29J8b3UnUFUilGCbUlXf) | [irony](https://open.spotify.com/album/7aj70c5LgYY9AxAHs7zLxN) | 2:13 | 2023-07-04 | 2023-08-02 |
-| [KITERU](https://open.spotify.com/track/2CassFuANXkFy27iNpRxxK) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [KITERU](https://open.spotify.com/album/6bmjYh9k2kpYXDIgSKqE5t) | 1:45 | 2025-04-15 |  |
+| [KITERU](https://open.spotify.com/track/2CassFuANXkFy27iNpRxxK) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [KITERU](https://open.spotify.com/album/6bmjYh9k2kpYXDIgSKqE5t) | 1:45 | 2025-04-15 | 2025-05-14 |
 | [kokoro no sekai](https://open.spotify.com/track/1Lu6XoAbnngrTMhO4PXLU0) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Kamisori Otome](https://open.spotify.com/album/2GatVW3cnHi3riWYrr6rQh) | 3:02 | 2023-01-03 | 2024-04-19 |
 | [Kono Hibiyo Utani Nare](https://open.spotify.com/track/6gb7puHCoEEvpFyTgnx3kN) | [NON](https://open.spotify.com/artist/4YRx01IyUq6BreGGtNHQQk) | [PURSUE](https://open.spotify.com/album/44cJ4SsGRaW12ot1e4itvL) | 3:08 | 2023-11-07 | 2023-11-30 |
 | [Kono Taikutsu na Hibi o](https://open.spotify.com/track/3GNd0apzgMQkbAMfNLyWlM) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 5:26 | 2024-02-06 | 2024-03-06 |

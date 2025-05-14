@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 362600,
+  "num_followers": 362682,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAABZBy+TAoYNi2f7rsTeNsnI",
+  "snapshot_id": "aCE6AAAAAAA1xAV+mwLw0+1eB0f9pneD",
   "tracks": [
     {
       "added_at": null,
@@ -326,11 +326,19 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
         }
       ],
-      "duration_ms": 157138,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD"
+      "duration_ms": 178581,
+      "name": "Mamita Rica",
+      "url": "https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE"
     },
     {
       "added_at": null,
@@ -394,19 +402,11 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
         }
       ],
-      "duration_ms": 178581,
-      "name": "Mamita Rica",
-      "url": "https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE"
+      "duration_ms": 157138,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD"
     },
     {
       "added_at": null,

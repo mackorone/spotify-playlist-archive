@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 47511,
+  "num_followers": 47596,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAABSJ5+AHNwaGPxhB7KIVF30",
+  "snapshot_id": "aCE6AAAAAADULzDFjWNTeuozzVPEoEpS",
   "tracks": [
     {
       "added_at": null,
@@ -318,15 +318,11 @@
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 164616,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/3dbSXSqBQJFuQVgJ5pRIfL"
+      "duration_ms": 145321,
+      "name": "Chrome - Bonus",
+      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
     },
     {
       "added_at": null,
@@ -390,11 +386,15 @@
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 145321,
-      "name": "Chrome - Bonus",
-      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
+      "duration_ms": 164616,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/3dbSXSqBQJFuQVgJ5pRIfL"
     },
     {
       "added_at": null,

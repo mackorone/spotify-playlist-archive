@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n svensk & internationell pop.",
-  "num_followers": 174496,
+  "num_followers": 174517,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCGcsAAAAABfUSTBzFSEtPP3oSukz1rD",
+  "snapshot_id": "aCMH2gAAAAChRuRXwsqfdmyBe1iElX87",
   "tracks": [
     {
       "added_at": "2025-05-12 07:01:04",
@@ -95,26 +95,6 @@
       "duration_ms": 114000,
       "name": "OJOJOJ",
       "url": "https://open.spotify.com/track/1tm4w2K1EpRguWS0PuhnQh"
-    },
-    {
-      "added_at": "2025-05-12 07:01:04",
-      "album": {
-        "name": "Ekko",
-        "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
-      },
-      "artists": [
-        {
-          "name": "Golfklubb",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        },
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 156035,
-      "name": "Ekko",
-      "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
     },
     {
       "added_at": "2025-05-12 07:01:04",
@@ -223,6 +203,62 @@
       "duration_ms": 275780,
       "name": "More to Lose",
       "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
+    },
+    {
+      "added_at": "2025-05-12 07:01:04",
+      "album": {
+        "name": "Ekko",
+        "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        },
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "Ekko",
+      "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
+    },
+    {
+      "added_at": "2025-05-13 08:50:34",
+      "album": {
+        "name": "AW",
+        "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        },
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        }
+      ],
+      "duration_ms": 162981,
+      "name": "Bliv her lidt endnu (feat. JOSVA)",
+      "url": "https://open.spotify.com/track/7b2TKqfooo8peK9WTE5JeG"
+    },
+    {
+      "added_at": "2025-05-13 08:50:34",
+      "album": {
+        "name": "Smelter Under M\u00e5nen",
+        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 198388,
+      "name": "Smelter Under M\u00e5nen",
+      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
     },
     {
       "added_at": "2025-05-12 07:01:04",

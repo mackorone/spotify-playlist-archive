@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq?si=CztMo0noQZilaYAlU7c8Xw"> Nami</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,823 likes - 399 songs - 20 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,848 likes - 399 songs - 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 145 | [I THINK I'M BEING MYSELF](https://open.spotify.com/track/78UklkoxTvIwWRbuwj0jnN) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n) | [I THINK I'M BEING MYSELF](https://open.spotify.com/album/3uHmDRy79frLpHodS2wX58) | 2:46 |
 | 146 | [Is It Wrong](https://open.spotify.com/track/0AGJnD35npWIfuuJMWfkbZ) | [ZYA](https://open.spotify.com/artist/47jxHbc1ZT6mCQ2c5N7DYm) | [Is It Wrong](https://open.spotify.com/album/5O1fUbnrg4bjebeckiY9Bo) | 2:24 |
 | 147 | [FEEL 4 U](https://open.spotify.com/track/6AuwjTMV5MGYsJRYksr4VR) | [d4mon.](https://open.spotify.com/artist/5gyQjaEaGCOMlJYFJdTvUX) | [FEEL 4 U](https://open.spotify.com/album/1zCyLBEuvFSlHV3Ww8n2Eb) | 2:51 |
-| 148 | [max out \(bleed\)](https://open.spotify.com/track/4fIrDXLUdPqLF0I8Abz6Bg) | [Isaiah kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [max out \(bleed\)](https://open.spotify.com/album/70bksDH0BAyRxh3Z7FeZx0) | 2:28 |
+| 148 | [max out \(bleed\)](https://open.spotify.com/track/4fIrDXLUdPqLF0I8Abz6Bg) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [max out \(bleed\)](https://open.spotify.com/album/70bksDH0BAyRxh3Z7FeZx0) | 2:28 |
 | 149 | [R U OK?](https://open.spotify.com/track/0pED9mzDgBVAh2POBVK7JS) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [R U OK?](https://open.spotify.com/album/31dKlfjZRRARlYnjHKS8fH) | 1:57 |
 | 150 | [Love Like This](https://open.spotify.com/track/17dfAG2gJ7uUInYV2scPqx) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Love Like This](https://open.spotify.com/album/30CXSVzwIiMDBdVNewXMWo) | 3:22 |
 | 151 | [Truth Is](https://open.spotify.com/track/4hMPMAWTAdDWxkJXDkxSPb) | [SHERIE](https://open.spotify.com/artist/22QPHxxyb3RvIFvct9EAbu) | [YOURS DEEPLY](https://open.spotify.com/album/4j34gBMO5lwIkJ3e17mduZ) | 3:06 |
@@ -308,7 +308,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 298 | [CANDLES](https://open.spotify.com/track/2ULIn7S1bkFvKB822rpzpb) | [Nueve Lio](https://open.spotify.com/artist/7cKm260VTIxmFu0I202kFI), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [CANDLES](https://open.spotify.com/album/3wsWFjKAAL3HzwnoX80nPf) | 2:55 |
 | 299 | [I Hope You Understand](https://open.spotify.com/track/6W1hYGszX4dZVOaLOW1F2K) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [I Hope You Understand](https://open.spotify.com/album/3JnlkjekuPJHSObCcXbwmj) | 3:06 |
 | 300 | [Let Me See Your Phone](https://open.spotify.com/track/0iF5S08ein95FZdwMkX6nG) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Let Me See Your Phone](https://open.spotify.com/album/4lH5pZQXOPh5fNS9IIIt2o) | 4:58 |
-| 301 | [0 to 100](https://open.spotify.com/track/6E16Jm5hzgZ3P8f8t3jUPv) | [Isaiah kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [0 to 100](https://open.spotify.com/album/6ceVmdaa9VfbjdOgyjUQj4) | 2:36 |
+| 301 | [0 to 100](https://open.spotify.com/track/6E16Jm5hzgZ3P8f8t3jUPv) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [0 to 100](https://open.spotify.com/album/6ceVmdaa9VfbjdOgyjUQj4) | 2:36 |
 | 302 | [Control](https://open.spotify.com/track/6czZfg7WqAHuzNDhGkcvwr) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Control](https://open.spotify.com/album/4LtgBIoZXPzm42lDIUei7m) | 2:27 |
 | 303 | [One Time](https://open.spotify.com/track/2u3ucpknV0GldgmPnuRFwu) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [One Time](https://open.spotify.com/album/23NdVXLSH8akFXVnxdIXmU) | 2:54 |
 | 304 | [My Bad, It’s On Me](https://open.spotify.com/track/6sLrwJXquBcc1przj8fZpG) | [IX WULF](https://open.spotify.com/artist/4YJ3Jfbf78CW0WCNPVNNa2), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [My Bad, It’s On Me](https://open.spotify.com/album/26PCQMKdBL106H9wwqint3) | 2:54 |
@@ -364,7 +364,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 354 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/2Fr2iWzC3YSBUnkNKB7SZo) | [Josh Berkeley](https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl) | [Do I Ever Cross Your Mind](https://open.spotify.com/album/2ZAejFshJcfP7R0ZDy9282) | 2:23 |
 | 355 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/7nLd7fJANdOTlg7A2XpfmS) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 |
 | 356 | [prototype](https://open.spotify.com/track/0qaPhQRCflRC2On7ftM1zy) | [Easton Fitz](https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ) | [Prolog](https://open.spotify.com/album/0kmHKLIbstqWTHjSdinvkZ) | 2:34 |
-| 357 | [take time](https://open.spotify.com/track/7tIwXH6CgVGohwljvPt4Qp) | [Isaiah kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [take time](https://open.spotify.com/album/7hAwRSXYOMmZeXZTr4S75i) | 2:16 |
+| 357 | [take time](https://open.spotify.com/track/7tIwXH6CgVGohwljvPt4Qp) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [take time](https://open.spotify.com/album/7hAwRSXYOMmZeXZTr4S75i) | 2:16 |
 | 358 | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/track/2T3vPMrMaugMh1Xu1nwmdP) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [how did we end up here?](https://open.spotify.com/album/7tn5OONBRFmZGwBbEEf2nl) | 2:47 |
 | 359 | [Cliché](https://open.spotify.com/track/3ff4ohi1t7RmhVBTJXtFY5) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [Cliché](https://open.spotify.com/album/194XIHe7ezygLaOIcPi9HM) | 2:20 |
 | 360 | [Substance](https://open.spotify.com/track/6MQegtd5jbmpbAFAz9TmOl) | [Bobby Earth](https://open.spotify.com/artist/2oFkvZLEnTdEeGlkwT4aC8) | [Evolution Stoned](https://open.spotify.com/album/07dQ9LAwEt4btQG5XR952e) | 3:38 |

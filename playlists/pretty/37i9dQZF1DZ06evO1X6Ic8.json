@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 804964,
+  "num_followers": 805020,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAABTc5GEaDuxvkKX2OfApxhL",
+  "snapshot_id": "aCE6AAAAAABl0M3UChfkNPrSfvSacGSz",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/1N1Z9qu4rXWg76BsnczKpB"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 352865,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/48xNw8YZxvrc3qB5IKaJ8w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 250603,
       "name": "I might say something stupid featuring the 1975 & jon hopkins",
       "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/1N1Z9qu4rXWg76BsnczKpB"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 352865,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/48xNw8YZxvrc3qB5IKaJ8w"
     },
     {
       "added_at": null,

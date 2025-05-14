@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 79574,
+  "num_followers": 79579,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAAASnPx1BoW0pYrYOV2DsJOT",
+  "snapshot_id": "aCE6AAAAAAC8ReJZQZZ0H7HbaKhfaE/a",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Vestida De Color De Rosa",
-      "url": "https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
         "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 144426,
       "name": "El Disgusto",
       "url": "https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Vestida De Color De Rosa",
+      "url": "https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Dos Monedas",
-      "url": "https://open.spotify.com/track/4epespdttWqUpIk35qEoMY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
         "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 167133,
       "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
       "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Dos Monedas",
+      "url": "https://open.spotify.com/track/4epespdttWqUpIk35qEoMY"
     },
     {
       "added_at": null,

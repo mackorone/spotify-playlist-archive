@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,129 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,151 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 44 | [By the Grace of God](https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:17 |
 | 45 | [Pieces \(Live\)](https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 5:39 |
 | 46 | [Let My Life Be Worship](https://open.spotify.com/track/034fIAJwYJB2ED3ZxV6qWR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Michaela Gentile](https://open.spotify.com/artist/1YxxxADeTdoTeS633H5lCQ) | [Simple](https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys) | 5:19 |
-| 47 | [The Light in You](https://open.spotify.com/track/7v7O7fDoWx0M6MpyQNjOMT) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 4:23 |
+| 47 | [Graves into Gardens](https://open.spotify.com/track/6mYn13stuc74Bd5EHbeqKj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 7:33 |
 | 48 | [Gravity \(Instrumental\)](https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years](https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft) | 5:14 |
 | 49 | [Glory to Glory \(Live\)](https://open.spotify.com/track/4ITWue8Tu2ihipYvhoOo8g) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [William Matthews](https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 5:24 |
 | 50 | [Surrounded By Holy](https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 4:54 |
 
-Snapshot ID: `aB/ogAAAAAAf55tZONPaS3iGU/dP1+/8`
+Snapshot ID: `aCE6AAAAAABQq1Rtk8QEujOsm7Dti0kH`

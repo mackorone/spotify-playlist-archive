@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 14 likes - 243 songs - 15 hr 17 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 14 likes - 252 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,5 +251,14 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 241 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 |
 | 242 | [Call Ya Back](https://open.spotify.com/track/4eHwvC61LSVrl9PYqfRt52) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Something for Everybody](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 2:11 |
 | 243 | [Denim Jacket](https://open.spotify.com/track/0YMeOermYNkQRit6AvxZhX) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Denim Jacket](https://open.spotify.com/album/7ifMITCjYzKVcimkxmUoOY) | 4:07 |
+| 244 | [Loved by You](https://open.spotify.com/track/5bYOsPMgWyQc94vtLz92ZH) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Loved by You](https://open.spotify.com/album/3igoyhwEfFPEIqdvU3eXlU) | 4:16 |
+| 245 | [Vain](https://open.spotify.com/track/2QxaldTuGuCLxLcJ7l17EG) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Vain](https://open.spotify.com/album/2leTpBmh8uqSeWTmsQkmEh) | 4:05 |
+| 246 | [Call Me](https://open.spotify.com/track/1RmJJPvyMSszOQHJ4s03A2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/4C4NIZAWsm3DYkjXY0zkAQ) | 2:51 |
+| 247 | [Tell Me Why](https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [On The Inside](https://open.spotify.com/album/0PW6NRnAfrWlngoemmoa8K) | 3:51 |
+| 248 | [Cry Like a River](https://open.spotify.com/track/17kbjKIW2uvmfTJjQJcnKS) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Saratoga](https://open.spotify.com/album/3Ykdc1QeWQ4pjQt7DgPZZA) | 3:20 |
+| 249 | [Up Top](https://open.spotify.com/track/1AgKm1bLfkByxpONHlaLLk) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Uncommon Good](https://open.spotify.com/album/29r3Vl3AHVHiYIQB3mwkW7) | 4:37 |
+| 250 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 |
+| 251 | [Better now](https://open.spotify.com/track/6mSmAPAyT54iHlstQIZXLA) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [1975](https://open.spotify.com/album/4cWYafhNSEtvHnJC5DuKmJ) | 3:48 |
+| 252 | [High](https://open.spotify.com/track/3RhRqPGSukDMyVeXrghpnF) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow \(Deluxe Edition\)](https://open.spotify.com/album/1WQVKrzi1f3YlqTwf3QahU) | 3:07 |
 
-Snapshot ID: `AAAGIGZXG/Ps5DEBAjFP8w/leuP3T5Py`
+Snapshot ID: `AAAGKWpembcTZQex4TiFmDr9LVkLlGNs`

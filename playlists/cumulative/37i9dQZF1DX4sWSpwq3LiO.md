@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,789 songs - 3 day 7 hr 25 min
+1,790 songs - 3 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Connected Colors \- Solo Piano Version](https://open.spotify.com/track/73Q5VDA6CXofjBtGGWEZEQ) | [Piano Novel](https://open.spotify.com/artist/1xeLCRvHTbkkV3mrSyEZsN) | [Connected Colors](https://open.spotify.com/album/2Ji5u0JxZe57vGvHCe2KKW) | 2:48 | 2019-08-31 | 2020-09-30 |
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2020-10-13 | 2022-05-21 |
 | [Connotations](https://open.spotify.com/track/7BohLbjDypEKLJ9CGQbyXT) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Connotations](https://open.spotify.com/album/0aUFSGKClWb4CVfqj7utGs) | 2:51 | 2020-11-17 | 2022-05-13 |
+| [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 | 2025-05-13 |  |
 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 | 2021-11-24 | 2022-10-04 |
 | [Contemplazione del Mare](https://open.spotify.com/track/5KX4Iw959UusWyNmqqAYMb) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Contemplazione del Mare](https://open.spotify.com/album/5ovjWBufizlB1cZWztGYm7) | 2:34 | 2024-08-07 |  |
 | [Continuo](https://open.spotify.com/track/3AogJjKJYSIEiXx8Xfq9Z9) | [Mauro Cangemi](https://open.spotify.com/artist/7M8vWWoWXUuH6qcoOpO2PN) | [Continuo](https://open.spotify.com/album/6ytCXPOIhToAXlhYEbbya7) | 2:14 | 2020-04-14 | 2021-04-14 |
@@ -598,7 +599,7 @@
 | [Hana, My Love](https://open.spotify.com/track/4OI6jrwpj1xkejfp6R5uj2) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Pale Horizon](https://open.spotify.com/album/4GbaledvjJ39zGpUtwB3pT) | 2:24 | 2022-05-20 | 2023-09-23 |
 | [Hand in Hand](https://open.spotify.com/track/3nRbOaWAsIEIUFkFRlYVAM) | [Kozue Ojima](https://open.spotify.com/artist/4lEdNSWMfOOBZ9X8eO3AXf) | [Hand in Hand](https://open.spotify.com/album/2zNG7lLL2AVQ5mZCczi81E) | 1:46 | 2019-11-26 | 2020-06-09 |
 | [Hand in Hand](https://open.spotify.com/track/23yqVbpiJoMHTs0RX4aPE7) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Hand in Hand](https://open.spotify.com/album/7fccaa63EUMUZtrhXENmbT) | 1:48 | 2023-02-10 | 2023-07-19 |
-| [Handmade](https://open.spotify.com/track/5TQcYO4moNRTTrtM5Frj30) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Handmade](https://open.spotify.com/album/5ijcw0HbORqBNtZX354WBu) | 2:17 | 2023-01-17 |  |
+| [Handmade](https://open.spotify.com/track/5TQcYO4moNRTTrtM5Frj30) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Handmade](https://open.spotify.com/album/5ijcw0HbORqBNtZX354WBu) | 2:17 | 2023-01-17 | 2025-05-14 |
 | [Hands](https://open.spotify.com/track/6QuQB04KAsdnhdSfxuoXJh) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Hands](https://open.spotify.com/album/04HCT3IvhkzXrfhGdjX1M7) | 2:12 | 2020-01-22 | 2020-09-01 |
 | [Haze](https://open.spotify.com/track/0g9CEKCL4XJfBzpsus7dOg) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Luster](https://open.spotify.com/album/5uYs6cNyWYkvjwuCGEqHZh) | 2:40 | 2019-05-26\* | 2020-09-22 |
 | [Heart Questions](https://open.spotify.com/track/1rIlWy93o6je85WpMpxg6Y) | [Julian Ellwood](https://open.spotify.com/artist/4MDVendmY7CecWKdkoPjNc) | [Heart Questions](https://open.spotify.com/album/0GnPTwihfPQFLYeIP2wGNV) | 2:21 | 2020-09-28 | 2021-08-05 |
@@ -635,7 +636,7 @@
 | [Hope](https://open.spotify.com/track/6hB8cRpNQzIj7k6MCYh89H) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Hope](https://open.spotify.com/album/6jY0TmYZKcSky12q7YoAKD) | 2:53 | 2022-07-06 | 2022-12-21 |
 | [Hopedale](https://open.spotify.com/track/4VZBnGVLY4HNJqcWfVMsd4) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Hopedale](https://open.spotify.com/album/3vInqvBRChPgZDE0Rz9AEH) | 2:37 | 2019-09-05 | 2020-05-06 |
 | [Horizon](https://open.spotify.com/track/1nQ2WCJTn89CnirpfDHV60) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Horizon](https://open.spotify.com/album/76wQZPok3Inlxf5aSPp9gF) | 2:22 | 2022-05-26 | 2023-02-11 |
-| [Horizon 地平线](https://open.spotify.com/track/1gddViaTU80ixrHiW7U0mp) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Horizon 地平线](https://open.spotify.com/album/3AVeaRoFla1jqpNQIcrs1U) | 2:37 | 2024-11-18 |  |
+| [Horizon 地平线](https://open.spotify.com/track/1gddViaTU80ixrHiW7U0mp) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Horizon 地平线](https://open.spotify.com/album/3AVeaRoFla1jqpNQIcrs1U) | 2:37 | 2024-11-18 | 2025-05-14 |
 | [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2021-10-13 | 2023-09-23 |
 | [Hourglass](https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Hourglass](https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P) | 2:02 | 2022-07-28 | 2024-08-13 |
 | [How Soon](https://open.spotify.com/track/3MScOhpysH4pW5PVziEpxS) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [How Soon](https://open.spotify.com/album/2ZaihQBGWPP9tOy1dprbks) | 2:50 | 2021-04-22 | 2022-08-27 |
@@ -1599,9 +1600,9 @@
 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 | 2023-10-02 |  |
 | [To the Rain](https://open.spotify.com/track/025aQi6Ffw676y8m4zLPk7) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [To the Rain](https://open.spotify.com/album/30HSC1ogeWpwBZXroMTTDW) | 2:25 | 2022-05-26 | 2024-05-01 |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2021-11-17 | 2022-12-06 |
-| [Together Again](https://open.spotify.com/track/5Nx2GkAaDfh18aZ99OyctW) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Together Again](https://open.spotify.com/album/0qofCh2DmusIXaW9m7Fo6X) | 2:01 | 2022-12-05 |  |
+| [Together Again](https://open.spotify.com/track/5Nx2GkAaDfh18aZ99OyctW) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Together Again](https://open.spotify.com/album/0qofCh2DmusIXaW9m7Fo6X) | 2:01 | 2022-12-05 | 2025-05-14 |
 | [Tokka](https://open.spotify.com/track/22bk8cz4FrIpxR166zmXFk) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine \(Deluxe\)](https://open.spotify.com/album/4YRVYUznqfl3xjodAZA4tt) | 1:29 | 2019-05-26\* | 2019-06-27 |
-| [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 | 2023-02-03 |  |
+| [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 | 2023-02-03 | 2025-05-14 |
 | [Torrero](https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Torrero](https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q) | 2:22 | 2024-12-12 |  |
 | [Toujours](https://open.spotify.com/track/1GGPUkn7gZtsxoMdLqwHms) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Toujours](https://open.spotify.com/album/3RRJibUMp8rm9ypwvnPYMs) | 2:14 | 2021-12-15 | 2022-07-07 |
 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 | 2019-06-27 | 2021-01-05 |

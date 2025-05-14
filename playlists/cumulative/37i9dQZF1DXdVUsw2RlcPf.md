@@ -2,7 +2,7 @@
 
 ### [This Is Jung Kook](https://open.spotify.com/playlist/37i9dQZF1DXdVUsw2RlcPf)
 
-> Are you ready to listen JK's songs for 7 DAYS? 💜 'JUNG KOOK: I AM STILL' is coming.
+> Are you ready to listen JK's songs for 7 DAYS? 💜
 
 69 songs - 3 hr 17 min
 

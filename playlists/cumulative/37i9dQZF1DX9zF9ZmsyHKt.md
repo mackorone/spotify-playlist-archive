@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-296 songs - 17 hr 27 min
+297 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Empoderada](https://open.spotify.com/track/3VUVVKwHljrks6y6oNVpE4) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Empoderada](https://open.spotify.com/album/2R2kp1iansPl2JUa4Gal01) | 1:59 | 2021-10-15 | 2022-06-16 |
 | [Encantos de Sereia](https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob) | [Ceumar](https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu) | [Silencia](https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF) | 4:10 | 2021-10-15 | 2024-10-23 |
 | [Encosta na Parede](https://open.spotify.com/track/7DrHxbU4ILRGyyDqDM10qJ) | [Tamara Franklin](https://open.spotify.com/artist/5Y9dtVLdhTkabuDGfFgerX), [Berêta](https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq) | [Fugio \- Rotas de Fuga Pro Aquilombamento](https://open.spotify.com/album/0iuNUkTeaYvpOquMn6WhaY) | 4:03 | 2021-10-15 | 2022-07-29 |
-| [Endoida na Balada](https://open.spotify.com/track/6XK4UeuDLOVis8YP4TQHJC) | [Gang Do Eletro](https://open.spotify.com/artist/4KBEMlSRtexYKdbLcYeFUi) | [No Embalo do Tecnobrega](https://open.spotify.com/album/5GqzG7ATT6b34B4OgiyLyq) | 2:53 | 2025-04-11 |  |
+| [Endoida na Balada](https://open.spotify.com/track/6XK4UeuDLOVis8YP4TQHJC) | [Gang Do Eletro](https://open.spotify.com/artist/4KBEMlSRtexYKdbLcYeFUi) | [No Embalo do Tecnobrega](https://open.spotify.com/album/5GqzG7ATT6b34B4OgiyLyq) | 2:53 | 2025-04-11 | 2025-05-14 |
 | [Entre as Arvores](https://open.spotify.com/track/0GIBD1ORJ9AVmB17zqbPwe) | [Iara Rennó](https://open.spotify.com/artist/2feEGmwdkpKsC798UP17tX), [M\. Takara](https://open.spotify.com/artist/7q5WNXMCIqlce5fgijxDtB) | [AfrodisíacA](https://open.spotify.com/album/6CFRtIVPJT7NnkIt6iDAlw) | 3:55 | 2021-10-15 | 2022-07-29 |
 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 | 2021-10-15 | 2024-04-19 |
 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 | 2021-10-15 | 2024-10-23 |
@@ -192,6 +192,7 @@
 | [Não Teve Amor](https://open.spotify.com/track/7snWZdqdQAVX61XEOTE5vw) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 3:12 | 2024-10-22 |  |
 | [Não Tô Nada Bem](https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ), [Marlon Branco](https://open.spotify.com/artist/5AfYpeoQZbqFmbs83tJRCp) | [Não Tô Nada Bem](https://open.spotify.com/album/1niDgt1eDHXt3nFsU2WM2Y) | 3:44 | 2025-01-31 |  |
 | [Não Vou Te Deixar](https://open.spotify.com/track/5xe90Er7lM8ztWTTZQSoYR) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:38 | 2024-10-22 |  |
+| [Não É o Fim](https://open.spotify.com/track/458Y6atmFGMAdqfmDyQfsf) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Não É o Fim](https://open.spotify.com/album/1hVlgDTKBXXVqRsOre2v79) | 4:22 | 2025-05-13 |  |
 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 | 2021-10-15 | 2024-10-23 |
 | [O Cego](https://open.spotify.com/track/6mKaNYuUImjvll3Wo1ZWBl) | [Ana de Oliveira](https://open.spotify.com/artist/45Wjw8c4PUTkSrgRe2k0dP) | [Ana pra Você](https://open.spotify.com/album/7daUfMO9pGu70hZWustNvv) | 2:38 | 2024-10-22 | 2025-02-14 |
 | [O Sangue Não Nega](https://open.spotify.com/track/0ZO4z16mEUHjDOSP2xbcva) | [Zezé Motta](https://open.spotify.com/artist/0fUaGtg6Wji6KS6KVtT6qG) | [Negra Melodia](https://open.spotify.com/album/5IxcCElQLNbhQHuOJms6YN) | 2:27 | 2021-10-15 | 2022-07-29 |

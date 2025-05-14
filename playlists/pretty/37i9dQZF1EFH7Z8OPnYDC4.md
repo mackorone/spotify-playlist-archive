@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537 likes - 330 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 536 likes - 330 songs - 19 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,8 +173,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 163 | [Theme of the Fast Carriers \- 1992 Remastered](https://open.spotify.com/track/6pJNcwPhFhVqjCSZcImHdu) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 6:44 |
 | 164 | [Down By The River \- Single Version](https://open.spotify.com/track/61y4b9KVuaqc347er7vZzs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 2:53 |
 | 165 | [イーガー・ビーバー](https://open.spotify.com/track/2wTsNc77FA13OLbvZNbScV) | [BBCビッグバンド](https://open.spotify.com/artist/4j3UsaMzU4Ut0drw6zrKA8) | [栄光のビッグバンド・ジャズ ３](https://open.spotify.com/album/1iRQzVNkXjkQjKvvRRO8U9) | 3:22 |
-| 166 | [Zip](https://open.spotify.com/track/0mX8IFooUYgQqNq4sPCuks) | [Original Broadway Cast of 'Pal Joey'](https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR) | [Pal Joey \(1952 Broadway Cast\)](https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5) | 3:13 |
-| 167 | [Hard Work and Horseplay \- 1992 Remastered](https://open.spotify.com/track/7zeZZvIuXqpmgushCpkxhA) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 3:45 |
+| 166 | [Hard Work and Horseplay \- 1992 Remastered](https://open.spotify.com/track/7zeZZvIuXqpmgushCpkxhA) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 3:45 |
+| 167 | [Zip](https://open.spotify.com/track/0mX8IFooUYgQqNq4sPCuks) | [Original Broadway Cast of 'Pal Joey'](https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR) | [Pal Joey \(1952 Broadway Cast\)](https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5) | 3:13 |
 | 168 | [D\-Day \- 1992 Remastered](https://open.spotify.com/track/2kXZlLw4Epouxuo92RgWRq) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 5:54 |
 | 169 | [Someone Like You](https://open.spotify.com/track/5nVMC2NBCyVnW5OIjG7lpD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Decca Singles Vol\. 3: 1942\-1949](https://open.spotify.com/album/5Ci7FT8FBuEgoQ38wbx575) | 3:04 |
 | 170 | [Quiet Night](https://open.spotify.com/track/5IvP20Y1S5lh3dIi3nnY6I) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [My Name Is Barbra, Two...](https://open.spotify.com/album/3d0a3RAyrLLdkOEpChw7uh) | 2:24 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AbxP1AAAAABZe1sCLfhdQZNMIaR9r8Ed`
+Snapshot ID: `AbxVdQAAAAAKIjTfrvRiZaDT4+S2D65W`

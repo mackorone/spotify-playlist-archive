@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,857 songs - 4 day 0 hr 20 min
+1,858 songs - 4 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [44](https://open.spotify.com/track/3EgGUHciOMVlUZAjH6VfDC) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [44](https://open.spotify.com/album/5U0g3N6dXf5AmedbMuRT3e) | 3:08 | 2024-01-25 | 2024-03-15 |
 | [5656](https://open.spotify.com/track/15I1otvOIaCUPpE40sik1B) | [Knut€](https://open.spotify.com/artist/7n3qgKSD6IGnbzODQWnGTa) | [5656](https://open.spotify.com/album/5pcRjUDq57OcWVKf52OGyI) | 2:38 | 2025-01-30 | 2025-02-07 |
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-07-28 | 2023-05-21 |
-| [60 L.E.S.](https://open.spotify.com/track/35sbxt8GYiBwwtcB5JZgpR) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Esta Kirabo](https://open.spotify.com/artist/52oDOwHuuZWVrZIGW6ww8v) | [60 L.E.S.](https://open.spotify.com/album/7zIWxOx3yqlCqMCfxbLNOP) | 3:01 | 2025-04-10 |  |
+| [60 L.E.S.](https://open.spotify.com/track/35sbxt8GYiBwwtcB5JZgpR) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Esta Kirabo](https://open.spotify.com/artist/52oDOwHuuZWVrZIGW6ww8v) | [60 L.E.S.](https://open.spotify.com/album/7zIWxOx3yqlCqMCfxbLNOP) | 3:01 | 2025-04-10 | 2025-05-14 |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-05-04 | 2023-10-20 |
 | [91:an](https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [TUTTI FRUTTI \- från lokalen under sushin](https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ) | 3:12 | 2021-12-16 | 2022-03-10 |
 | [94an](https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [94an](https://open.spotify.com/album/4A44yJWTj9f7ADwJolvoUX) | 2:57 | 2022-04-01 | 2022-09-26 |
@@ -1030,6 +1030,7 @@
 | [Maria Magdalena](https://open.spotify.com/track/3SzkjtUKRbFwtCW6Hv1IWH) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [David Björkén](https://open.spotify.com/artist/29ORyt6ysJYet2hev2Hb7s), [Värmlands Fria Kör](https://open.spotify.com/artist/4zi70YxOB3MHfSj4unlNOT) | [Maria Magdalena](https://open.spotify.com/album/0oipNzN6TMnk2JLydkSw3e) | 5:33 | 2023-12-08 | 2024-02-23 |
 | [Masken av](https://open.spotify.com/track/58ATiWksUkCYPVqgFCX6TX) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Masken Av](https://open.spotify.com/album/5zxtkIde8OHqOfBmlqEQoH) | 2:49 | 2024-08-29 | 2024-09-20 |
 | [Maskinen är tillbaka](https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Maskinen är tillbaka](https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm) | 2:19 | 2024-06-27 | 2024-12-31 |
+| [Matchboll nr.10](https://open.spotify.com/track/3e9dPOUYJVifMYPBpNULy7) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [har berg har vatten \(一零一\)](https://open.spotify.com/album/2l2xyAydLYMrdUh2qyuOAH) | 3:19 | 2025-05-08 |  |
 | [MATTER](https://open.spotify.com/track/47QalI5Og1vXqbBblXjnir) | [NAVII](https://open.spotify.com/artist/4WzIyUXg4knXtXjuFxwW9l) | [MATTER](https://open.spotify.com/album/0BkB3Hwmw0aQ7VgVC3mI9V) | 2:45 | 2024-08-15 | 2024-09-06 |
 | [maybe](https://open.spotify.com/track/4ShOcNoqu7krh5pIZ3ndhu) | [Daniel Norberg](https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy) | [maybe](https://open.spotify.com/album/1bTSHZcHV7clIxfgsHEVip) | 3:33 | 2024-10-17 | 2024-10-25 |
 | [MAYDAY \(fjällräddningspatrullen\)](https://open.spotify.com/track/7xlZNVvREW1Fy0RBaJ5tc1) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [MAYDAY \(fjällräddningspatrullen\)](https://open.spotify.com/album/4WYrYlSAoNz925YqGjajd9) | 2:26 | 2024-02-15 | 2024-04-05 |

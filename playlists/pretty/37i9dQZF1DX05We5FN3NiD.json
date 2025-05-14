@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 47220,
+  "num_followers": 47245,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 367093,
+      "name": "Not",
+      "url": "https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Everything Not Saved Will Be Lost Pt. 1",
         "url": "https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc"
       },
@@ -1187,26 +1203,6 @@
       "duration_ms": 192695,
       "name": "On the Luna",
       "url": "https://open.spotify.com/track/0Sfj5fPqZzCq9o3f1NNphz"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Lux Prima",
-        "url": "https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur"
-      },
-      "artists": [
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        },
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Turn The Light",
-      "url": "https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1243,6 +1239,26 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Lux Prima",
+        "url": "https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur"
+      },
+      "artists": [
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Turn The Light",
+      "url": "https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/0H3WQSbJ7SgZtB35BEOP9P"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 236819,
       "name": "Time",
       "url": "https://open.spotify.com/track/4oU6HYNtuW2DzjgyYrOy8J"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 367093,
-      "name": "Not",
-      "url": "https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh"
     },
     {
       "added_at": "2022-09-16 04:53:36",

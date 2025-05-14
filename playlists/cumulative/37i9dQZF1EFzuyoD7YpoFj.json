@@ -2523,40 +2523,6 @@
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 154933,
-      "name": "Hitchy-Koo: Bring me back my Butterfly (orch. Frank Saddler)",
-      "url": "https://open.spotify.com/track/6YAUMcMYBZ1kPiyDoCzEXO"
-    },
-    {
-      "album": {
-        "name": "Cole Porter Night and Day: Thomas Hampson",
-        "url": "https://open.spotify.com/album/37eRtgxiUCq3qZN1WmxodR"
-      },
-      "artists": [
-        {
-          "name": "Cole Porter",
-          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
-        },
-        {
-          "name": "Frank Saddler",
-          "url": "https://open.spotify.com/artist/0eYfjTQgCssFOhftSnR9Dv"
-        },
-        {
-          "name": "Thomas Hampson/London Symphony Orchestra/John McGlinn",
-          "url": "https://open.spotify.com/artist/2icPd5FHYWJ3TIszCPOVPb"
-        },
-        {
-          "name": "John McGlinn",
-          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "date_added": "2024-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
       "duration_ms": 150640,
       "name": "Hitchy-Koo: My cozy little corner in the Ritz",
       "url": "https://open.spotify.com/track/4awcli4SRCRtBLjZiTwfL7"
@@ -5448,6 +5414,36 @@
       "duration_ms": 192440,
       "name": "Porter: Carlotta",
       "url": "https://open.spotify.com/track/6pz1522Ki83GO4knHRHMFD"
+    },
+    {
+      "album": {
+        "name": "Cole Porter Night and Day: Thomas Hampson",
+        "url": "https://open.spotify.com/album/37eRtgxiUCq3qZN1WmxodR"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "Thomas Hampson/London Symphony Orchestra/John McGlinn",
+          "url": "https://open.spotify.com/artist/2icPd5FHYWJ3TIszCPOVPb"
+        },
+        {
+          "name": "John McGlinn",
+          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154933,
+      "name": "Porter: Hitchy-Koo: Bring Me Back My Butterfly",
+      "url": "https://open.spotify.com/track/6YAUMcMYBZ1kPiyDoCzEXO"
     },
     {
       "album": {

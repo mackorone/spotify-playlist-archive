@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Terserah",
+        "url": "https://open.spotify.com/album/7cclWVYR07f5NzewlRdfkd"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240473,
+      "name": "Terserah",
+      "url": "https://open.spotify.com/track/1OSg4uyjhjb5SMFeXAGC2i"
+    },
+    {
+      "album": {
         "name": "The Girl That I Used To Be",
         "url": "https://open.spotify.com/album/4tNsUBJJ9sI3BW24tKS332"
       },

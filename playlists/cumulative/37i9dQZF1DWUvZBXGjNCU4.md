@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-391 songs - 17 hr 38 min
+393 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Fall into Comfort](https://open.spotify.com/track/1qxD4Jw9pprF9hLTA01Pp7) | [Michael Mucklow](https://open.spotify.com/artist/7mobALd60kwSNrm2cFfzXI) | [Fall into Comfort](https://open.spotify.com/album/3z9zqed83nqwy6mk80i1u2) | 3:31 | 2022-05-13 | 2022-06-10 |
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 |  |
 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 | 2022-05-13 | 2024-04-06 |
+| [Familiar Faces](https://open.spotify.com/track/1qN4gbb7DorRbfjlH1k3VR) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Familiar Faces](https://open.spotify.com/album/1ggIMZPIpojoCEyldZASBu) | 2:05 | 2025-05-13 |  |
 | [Favor from the Wind](https://open.spotify.com/track/6jhxoEzxae8CW2ScL7ehsT) | [Janet Noguera](https://open.spotify.com/artist/7BX5I0rBq9BLKCyJHQr2GD) | [Favor from the Wind](https://open.spotify.com/album/6EQJJ0BLotBsUpafBhjfR1) | 4:43 | 2024-02-02 | 2024-04-06 |
 | [Featherlight](https://open.spotify.com/track/2TVL6DZBZh2kqTalIKspbn) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [Featherlight](https://open.spotify.com/album/4hUgipvuMuSRfOFfeNTDi4) | 2:17 | 2022-05-13 | 2024-04-06 |
 | [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 | 2023-03-10 | 2023-06-23 |
@@ -211,7 +212,7 @@
 | [Love Again](https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:23 | 2022-05-13 | 2024-04-20 |
 | [Low Valleys](https://open.spotify.com/track/7dYhKDt0CuvY007Ftb1YLx) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Low Valleys](https://open.spotify.com/album/52XySoOJ3cX9Pyb8oYYOXO) | 2:43 | 2022-05-13 |  |
 | [Lucent](https://open.spotify.com/track/7HvBZicMq8Vb4NGPMaEYnd) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Lucent](https://open.spotify.com/album/1ND7mdeP1jyfPC3bswQIdn) | 2:04 | 2023-02-24 |  |
-| [Lullaby](https://open.spotify.com/track/7goB8XbGH0dOpuOKh33M2V) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lullaby](https://open.spotify.com/album/0gltiSlcJXlCkGICZ5hVx5) | 2:54 | 2025-03-25 |  |
+| [Lullaby](https://open.spotify.com/track/7goB8XbGH0dOpuOKh33M2V) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lullaby](https://open.spotify.com/album/0gltiSlcJXlCkGICZ5hVx5) | 2:54 | 2025-03-25 | 2025-05-14 |
 | [Lute](https://open.spotify.com/track/2NdSxdafeYHyE0UT2tu2CR) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Odoacer](https://open.spotify.com/album/6Zgfn2b9hQTXgN4tOVuau3) | 2:57 | 2022-05-13 | 2024-04-06 |
 | [Make It Work](https://open.spotify.com/track/17Az6X46sOMM3VftW91VFE) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Make It Work](https://open.spotify.com/album/3sFtgLbCMHcBvQCboBM32I) | 3:04 | 2022-05-13 | 2022-06-10 |
 | [Malgré le néant](https://open.spotify.com/track/5V03ziQJGHaoAJcfPIYWWZ) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Malgré le néant](https://open.spotify.com/album/325mLRmxCCHqycSkCCvOL5) | 2:46 | 2022-05-13 |  |
@@ -244,7 +245,7 @@
 | [Old friends not forgotten](https://open.spotify.com/track/6iB4Hb9KrgjoS2ZATwdXW2) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Old friends not forgotten](https://open.spotify.com/album/1dU4wnsmAgWL5bg4Vd2t3T) | 2:02 | 2024-05-10 |  |
 | [Old Harbor Road](https://open.spotify.com/track/194ujg6jw02wiPs6GLqPl5) | [Lexi Silver](https://open.spotify.com/artist/1xs4hNvOlaVhbnA6OeCp9B) | [Andorra](https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2022-05-13 | 2023-06-23 |
-| [Once Upon a Summer](https://open.spotify.com/track/6rb2wUYGbRAtz6gG0kMU97) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Once Upon a Summer](https://open.spotify.com/album/0N1rtLe8DE7INB2oth9jlk) | 2:57 | 2025-04-02 |  |
+| [Once Upon a Summer](https://open.spotify.com/track/6rb2wUYGbRAtz6gG0kMU97) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Once Upon a Summer](https://open.spotify.com/album/0N1rtLe8DE7INB2oth9jlk) | 2:57 | 2025-04-02 | 2025-05-14 |
 | [One Step Forward](https://open.spotify.com/track/40UcSAp9GZFzUnczV5tlJc) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [One Step Forward](https://open.spotify.com/album/67dpIE3fJV0poBoxzHAF8e) | 2:19 | 2024-11-11 |  |
 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 | 2022-05-13 | 2022-05-27 |
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-05-13 | 2024-05-10 |
@@ -276,7 +277,7 @@
 | [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 | 2023-09-29 |
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2022-05-13 | 2023-09-16 |
 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-05-13 | 2024-04-06 |
-| [Rocamadour](https://open.spotify.com/track/5ySoljDtQbpDegDHAW7AQk) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Rocamadour](https://open.spotify.com/album/3oWB3pMma6aMlIMOgFqGnU) | 3:22 | 2025-02-24 |  |
+| [Rocamadour](https://open.spotify.com/track/5ySoljDtQbpDegDHAW7AQk) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Rocamadour](https://open.spotify.com/album/3oWB3pMma6aMlIMOgFqGnU) | 3:22 | 2025-02-24 | 2025-05-14 |
 | [Royan](https://open.spotify.com/track/5fIJtYm39OtXMAh4geauC9) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Royan](https://open.spotify.com/album/6E7enXaW0kX3sil3Uq6r6g) | 3:22 | 2024-10-15 |  |
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-05-13 | 2024-04-20 |
 | [Santa Madre](https://open.spotify.com/track/3WKEKL2OfzvYgkbd8MEk3o) | [Jannike Gillis](https://open.spotify.com/artist/1Vpf3M1HKpHTlvisJiYbNC) | [Santa Madre](https://open.spotify.com/album/7CDWbIKXx6pv0fPHWRZMxN) | 2:42 | 2022-05-13 | 2023-06-23 |
@@ -337,6 +338,7 @@
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 |  |
 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 |  |
 | [The House on the Hill](https://open.spotify.com/track/4xJU5iTln7c6i4GkX33yRm) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [The House on the Hill](https://open.spotify.com/album/6fM8Bwsk1I19TujeBYRFWI) | 2:31 | 2025-04-29 |  |
+| [The Lightkeeper](https://open.spotify.com/track/38XWOlV96eIYhww3A1f7I8) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Lightkeeper](https://open.spotify.com/album/3DZemnOhS2gzVyogZmGD15) | 2:17 | 2025-05-13 |  |
 | [The little road to Elling Bay](https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [The little road to Elling Bay](https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96) | 2:20 | 2022-10-28 |  |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-05-13 | 2024-05-25 |
 | [The Pine Scent](https://open.spotify.com/track/1mrXKtCqNEV9DskdVP4gHv) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [The Pine Scent](https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU) | 2:19 | 2024-01-12 |  |
@@ -350,7 +352,7 @@
 | [The Winding Roads](https://open.spotify.com/track/3iOUS5sk9qaMVK8oH3WK4D) | [John Parker Stones](https://open.spotify.com/artist/1sLvTJ8ABBKHmPQr2PDoU9) | [The Winding Roads](https://open.spotify.com/album/2zjuzlgf264Qm2Sul8Nzw3) | 1:45 | 2022-10-07 | 2023-09-16 |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-31 |  |
 | [Thoughts](https://open.spotify.com/track/7HfFKtI0a6u8l4XE9QetHy) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Thoughts](https://open.spotify.com/album/58Tn036XqbSSbwRkgPfzoO) | 3:16 | 2022-05-13 | 2024-04-06 |
-| [Threads of Yesterday](https://open.spotify.com/track/0tg6xUhbmn5UE4LcUzDvW2) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [Threads of Yesterday](https://open.spotify.com/album/6dBx1IrX3UUYzykyIkhGGH) | 2:38 | 2025-04-29 |  |
+| [Threads of Yesterday](https://open.spotify.com/track/0tg6xUhbmn5UE4LcUzDvW2) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [Threads of Yesterday](https://open.spotify.com/album/6dBx1IrX3UUYzykyIkhGGH) | 2:38 | 2025-04-29 | 2025-05-14 |
 | [Three Ravens](https://open.spotify.com/track/3bJrXNQwtHaQe2NtRDm1bj) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Oh Captain / Three Ravens](https://open.spotify.com/album/0H49T3o4RcStclBK5jJBD1) | 2:42 | 2022-05-13 | 2022-06-10 |
 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2022-05-13 | 2024-04-06 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-28 |  |

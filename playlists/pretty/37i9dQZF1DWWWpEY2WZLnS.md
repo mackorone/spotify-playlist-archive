@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,628 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,136 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS) | 2:05 |
 | 2 | [Bing Bong](https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Bing Bong](https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu) | 2:03 |
-| 3 | [Una Chica Good](https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs) | [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Una Chica Good](https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3) | 2:11 |
-| 4 | [Me Gusta](https://open.spotify.com/track/3oN3f5utpgU6XxKTg4MmDs) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Me Gusta](https://open.spotify.com/album/13SsnfFMRGxrPeOQkUeRqP) | 2:18 |
-| 5 | [PIKY](https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [PIKY](https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li) | 1:58 |
-| 6 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
-| 7 | [Bailalo Rocky](https://open.spotify.com/track/2nKdvC22Nbra2MZVKY1Srf) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [Ariadne Arana](https://open.spotify.com/artist/5k5RJzP8MAKLrPgvpYTKKd), [GMBeats Degranalo](https://open.spotify.com/artist/3mz31fCuwqJDQoKGN3sbnT) | [Bailalo Rocky](https://open.spotify.com/album/2VHCyzqBeo6vy0ubdT60vg) | 2:23 |
+| 3 | [Bailalo Rocky](https://open.spotify.com/track/2nKdvC22Nbra2MZVKY1Srf) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [Ariadne Arana](https://open.spotify.com/artist/5k5RJzP8MAKLrPgvpYTKKd), [GMBeats Degranalo](https://open.spotify.com/artist/3mz31fCuwqJDQoKGN3sbnT) | [Bailalo Rocky](https://open.spotify.com/album/2VHCyzqBeo6vy0ubdT60vg) | 2:23 |
+| 4 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
+| 5 | [Me Gusta](https://open.spotify.com/track/3oN3f5utpgU6XxKTg4MmDs) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Me Gusta](https://open.spotify.com/album/13SsnfFMRGxrPeOQkUeRqP) | 2:18 |
+| 6 | [PIKY](https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [PIKY](https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li) | 1:58 |
+| 7 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 8 | [Silla](https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Silla](https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7) | 2:21 |
-| 9 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
+| 9 | [Una Chica Good](https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs) | [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Una Chica Good](https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3) | 2:11 |
 | 10 | [A 30](https://open.spotify.com/track/2h2Kllyx5wpXvrYN3M8CG1) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [A 30](https://open.spotify.com/album/5axWGwuaUWpgDWbHMRVLXk) | 1:55 |
 | 11 | [Suave](https://open.spotify.com/track/3D9d0PEHfC9PqQAwKKljDv) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Suave](https://open.spotify.com/album/6TCL50P86nu90beJunHMdV) | 2:30 |
 | 12 | [Vivo Por Palomo](https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [Vivo Por Palomo](https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 49 | [EN BLUSA](https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [EN BLUSA](https://open.spotify.com/album/1mUItA6EXfOuuj6a6iR8A9) | 2:38 |
 | 50 | [Me Arregle \- El loco](https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Me Arregle \(El loco\)](https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW) | 2:49 |
 
-Snapshot ID: `aCH7XgAAAADUDCksHbKLUCftd0NH216F`
+Snapshot ID: `aCNc8AAAAADjLrz8uZdgQYSzN7LoOWDQ`

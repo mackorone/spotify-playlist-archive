@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "Adada",
+        "url": "https://open.spotify.com/album/3dmuN6G2os1B5fZSGdBK6m"
+      },
+      "artists": [
+        {
+          "name": "Pragathi Guruprasad",
+          "url": "https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199714,
+      "name": "Adada",
+      "url": "https://open.spotify.com/track/57EcEfTJRQ2efmThNJ0l67"
+    },
+    {
+      "album": {
         "name": "Adi Penne (Duet) [From Naam Series]",
         "url": "https://open.spotify.com/album/41DFtugomlAL2wB8SgjIyw"
       },
@@ -548,7 +566,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 184789,
       "name": "Kaadhal Alaipayuthey",
       "url": "https://open.spotify.com/track/0gn50It1wJxkhAn7IQe5XS"

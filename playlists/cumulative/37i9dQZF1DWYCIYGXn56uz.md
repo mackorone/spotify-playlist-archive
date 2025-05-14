@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Jacopo Sol
 
-712 songs - 1 day 9 hr 4 min
+713 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [BELLU GUAGLIONE](https://open.spotify.com/track/5rtsLnalGnYd4iNYmm8qmI) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [BELLU GUAGLIONE](https://open.spotify.com/album/0YN7JhcGmsUfQGHL8SNDEb) | 2:54 | 2023-05-18 | 2023-06-23 |
 | [Bere E Fumare](https://open.spotify.com/track/3u8dx8Ueu2UwydiIa19r2G) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Bere E Fumare](https://open.spotify.com/album/3GWtyIssh5nStJm7tPA11a) | 2:32 | 2024-04-18 | 2024-05-17 |
 | [Berlino](https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Berlino](https://open.spotify.com/album/2Q2W3fSrwseo3WGxgzKEYV) | 3:13 | 2024-05-09 | 2024-05-24 |
+| [BIANCA\-PRADA](https://open.spotify.com/track/0j5S4DxU8aMbjo1b0ZemsF) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [BIANCA\-PRADA](https://open.spotify.com/album/0PIy4f1aG1Ap9ltu6OVJDV) | 2:29 | 2025-05-13 |  |
 | [Bianco luna](https://open.spotify.com/track/2e50IuXTFJQNupiDZSD8Ge) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Universale](https://open.spotify.com/album/7jg6xJn7nWX7ewwruRG8sj) | 3:31 | 2023-06-01 | 2023-06-16 |
 | [BLACKOUT](https://open.spotify.com/track/4HKQTz6RoJkFwlFLBAsJqm) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:06 | 2023-09-14 | 2023-10-20 |
 | [Blue Sky](https://open.spotify.com/track/3J90t7XbwIsoa43WHbIKEK) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll) | [Blue Sky](https://open.spotify.com/album/04YyyVB1w2l98HJ91R44k3) | 2:52 | 2025-04-24 |  |
@@ -133,7 +134,7 @@
 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 | 2023-03-23 | 2024-03-15 |
 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 | 2025-02-12 |  |
 | [Chiedere aiuto](https://open.spotify.com/track/4PK4SCFehrXbUuWghu2lFg) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Chiedere aiuto](https://open.spotify.com/album/0nRe4bSFsSEnFwJBbslGe8) | 2:33 | 2025-03-27 | 2025-05-09 |
-| [chiudi quella porta](https://open.spotify.com/track/3n3aCp8myjjE0O205k4vLn) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [chiudi quella porta](https://open.spotify.com/album/1aSntg6DtE83Bwqg3Kb4KU) | 2:55 | 2025-02-27 |  |
+| [chiudi quella porta](https://open.spotify.com/track/3n3aCp8myjjE0O205k4vLn) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [chiudi quella porta](https://open.spotify.com/album/1aSntg6DtE83Bwqg3Kb4KU) | 2:55 | 2025-02-27 | 2025-05-14 |
 | [chiunque](https://open.spotify.com/track/6Z7OfetiuRQJm7bG9eqWMS) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY) | [chiunque](https://open.spotify.com/album/77yOdgHvUDJ9egxixD4BUy) | 3:00 | 2024-12-19 | 2025-03-14 |
 | [Chiuso a chiave](https://open.spotify.com/track/6pb1BaU0sq7uNItXKLlDRH) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Chiuso a chiave](https://open.spotify.com/album/3mhEPFKqz11vRzge21yKEj) | 3:16 | 2024-12-12 | 2025-01-17 |
 | [Ci penserò domani](https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Ci penserò domani](https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw) | 2:17 | 2023-06-15 | 2023-07-07 |

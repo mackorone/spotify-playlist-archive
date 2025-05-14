@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Caskets
 
-1,215 songs - 3 day 2 hr 40 min
+1,216 songs - 3 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Apathy](https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Apathy / 31.10](https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0) | 3:31 | 2024-12-18 | 2025-01-18 |
 | [Apollo](https://open.spotify.com/track/7fFb8tJU5thmLGP1ZKqLxw) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/5XlKRhFaEPZl0NEoLbMsRo) | 5:12 | 2022-07-13 | 2022-07-23 |
 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 | 2024-09-20 | 2024-10-19 |
-| [Arcane](https://open.spotify.com/track/0bDXKUQvhUYVhR1sRpLlIV) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Arcane](https://open.spotify.com/album/7flZpeGykp1XXbK82FfGs2) | 3:36 | 2025-01-17 |  |
+| [Arcane](https://open.spotify.com/track/0bDXKUQvhUYVhR1sRpLlIV) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Arcane](https://open.spotify.com/album/7flZpeGykp1XXbK82FfGs2) | 3:36 | 2025-01-17 | 2025-05-14 |
 | [Architect \(feat\. Currents\)](https://open.spotify.com/track/7HBBiUgHGMQPsMw1SNwuCr) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237), [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Architect \(feat\. Currents\)](https://open.spotify.com/album/5WuZVUS6PaMWD6qveUZd6q) | 4:06 | 2024-08-12 | 2025-05-04 |
 | [Arkangel](https://open.spotify.com/track/07dXbgUPrylumB0XpFTULY) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Arkangel](https://open.spotify.com/album/3S8mn8c5yKRKAdE9eaD3pW) | 4:10 | 2022-01-28 | 2022-05-06 |
 | [Armageddon Eyes](https://open.spotify.com/track/7uzHcVdVNeUpNDdo56yMN2) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt), [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Bloom In Heaven](https://open.spotify.com/album/3f895XnoWWhMeM31qE3qS0) | 4:03 | 2025-03-31 |  |
@@ -367,6 +367,7 @@
 | [Dying To Let You Go](https://open.spotify.com/track/6f1IhEc4JMoy6uQASbqTg2) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g) | [Second Shadow](https://open.spotify.com/album/1cdRg39GmeTgmrVZJphhKP) | 3:00 | 2024-11-22 | 2024-12-19 |
 | [Dystopia](https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Dystopia](https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH) | 4:37 | 2024-11-08 |  |
 | [Earn It](https://open.spotify.com/track/1dEDi8paa8WJCnt42Rkb8W) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Earn It](https://open.spotify.com/album/5iPPJrnEto3sGfm7pyws7s) | 3:06 | 2023-07-21 | 2024-02-10 |
+| [EARN YOUR FLOWERS](https://open.spotify.com/track/7phSReNlStY9XckxYd7ZnB) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [CYNICAL SAVIOR](https://open.spotify.com/album/3HT9dHaFwzou0WDz0dn98m) | 3:04 | 2025-05-09 |  |
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 | 2022-09-03 |
 | [Earthless](https://open.spotify.com/track/6wfsGSh10ij43EgcEXjpZK) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Earthless](https://open.spotify.com/album/3AfOJfWXUeMc9QUl1vtPpQ) | 4:57 | 2022-07-13 | 2022-07-20 |
 | [Earthquake](https://open.spotify.com/track/0LrweVkIjYuXjtJYS8vaL4) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Earthquake](https://open.spotify.com/album/7ipDIQx6f6t0cuyoCFYDr1) | 3:49 | 2021-12-17 | 2022-01-08 |

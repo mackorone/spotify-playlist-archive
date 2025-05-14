@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87918,
+  "num_followers": 87922,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 213990,
-      "name": "P\u00e9rdida Total",
-      "url": "https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Delirio",
         "url": "https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 210378,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 213990,
+      "name": "P\u00e9rdida Total",
+      "url": "https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "No Hay Tiempo Que Perder",
+        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
+      },
+      "artists": [
+        {
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "\u00bfQu\u00e9 se yo?",
+      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "El Pasado Fue Mejor (feat. Don Tetto)",
         "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "No Hay Tiempo Que Perder",
-        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
-      },
-      "artists": [
-        {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "\u00bfQu\u00e9 se yo?",
-      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 231121,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "LVRBOY",
+        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "LVRBOY",
+      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -683,18 +699,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "LVRBOY",
-        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
+        "name": "En Paz",
+        "url": "https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Ciegossordomudos",
+          "url": "https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk"
         }
       ],
-      "duration_ms": 249917,
-      "name": "LVRBOY",
-      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
+      "duration_ms": 202960,
+      "name": "El Beat de Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -731,22 +747,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "En Paz",
-        "url": "https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw"
-      },
-      "artists": [
-        {
-          "name": "Ciegossordomudos",
-          "url": "https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "El Beat de Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 299116,
       "name": "Sed",
       "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 159781,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -831,18 +811,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Rocal",
-        "url": "https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC"
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
       },
       "artists": [
         {
-          "name": "Los Ni\u00f1os Telepaticos",
-          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
         }
       ],
-      "duration_ms": 230237,
-      "name": "Rocal",
-      "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
+      "duration_ms": 159781,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -859,6 +843,22 @@
       "duration_ms": 197886,
       "name": "Prende",
       "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Rocal",
+        "url": "https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC"
+      },
+      "artists": [
+        {
+          "name": "Los Ni\u00f1os Telepaticos",
+          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
+        }
+      ],
+      "duration_ms": 230237,
+      "name": "Rocal",
+      "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Estallados",
-        "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
-      },
-      "artists": [
-        {
-          "name": "Los Ni\u00f1os Telepaticos",
-          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Estallados",
-      "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "INFECTOS",
         "url": "https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 174000,
       "name": "INFECTOS",
       "url": "https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Estallados",
+        "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
+      },
+      "artists": [
+        {
+          "name": "Los Ni\u00f1os Telepaticos",
+          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Estallados",
+      "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
     },
     {
       "added_at": "2024-09-20 08:27:00",

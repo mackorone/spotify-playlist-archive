@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 
 > Your essential Max Richter, all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,259 likes - 98 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,291 likes - 98 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 | 7 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
 | 8 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 2](https://open.spotify.com/track/4lyY06kGvzvmG6ErToOVLe) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:22 |
 | 9 | [A Catalogue of Afternoons](https://open.spotify.com/track/42c1ppLBsSbUjFNDzYLY10) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Catalogue Of Afternoons](https://open.spotify.com/album/3EmrqoUaH8b96oBjtbwfl5) | 1:50 |
-| 10 | [Spring 1 \- 2022](https://open.spotify.com/track/2B3o5ddgGObs1M0CGkdTr9) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Elena Urioste](https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls) | [Spring 1 \(2022\)](https://open.spotify.com/album/4TW6r5GP0V1Ji1ZMnrlgDl) | 2:32 |
-| 11 | [Love Song \(After JE\) \- Edit](https://open.spotify.com/track/2mwb7n6JGuk8PTkhoVgUhN) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [In A Landscape](https://open.spotify.com/album/2so1waMMbnpnxmycHyvw24) | 4:41 |
-| 12 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 8](https://open.spotify.com/track/1A8qD0Ygjzsby5OmXh1PTa) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 1:58 |
+| 10 | [Love Song \(After JE\) \- Edit](https://open.spotify.com/track/2mwb7n6JGuk8PTkhoVgUhN) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [In A Landscape](https://open.spotify.com/album/2so1waMMbnpnxmycHyvw24) | 4:41 |
+| 11 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 8](https://open.spotify.com/track/1A8qD0Ygjzsby5OmXh1PTa) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 1:58 |
+| 12 | [Spring 1 \- 2022](https://open.spotify.com/track/2B3o5ddgGObs1M0CGkdTr9) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Elena Urioste](https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls) | [Spring 1 \(2022\)](https://open.spotify.com/album/4TW6r5GP0V1Ji1ZMnrlgDl) | 2:32 |
 | 13 | [The Departure](https://open.spotify.com/track/7oTKvLjCe7db1UxsImGBwr) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers \(Music from the HBO® Series\) Season 1](https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994) | 1:15 |
 | 14 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 3](https://open.spotify.com/track/73acjJgRohsq2yCD2FbkUX) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:18 |
 | 15 | [Late and Soon \- Edit](https://open.spotify.com/track/0Ah7xBR9mpFOdjHrXT65rH) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [In A Landscape](https://open.spotify.com/album/2so1waMMbnpnxmycHyvw24) | 3:19 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 | 97 | [These I Send to You \- From "Testament of Youth"](https://open.spotify.com/track/4b7ECMonM4nTpxqWqF1yjN) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Out of the Dark Room](https://open.spotify.com/album/2fJnSsRsg4FjUvq5g2lp8V) | 2:33 |
 | 98 | [Three Worlds: Music from Woolf Works / The Waves: Tuesday](https://open.spotify.com/track/7ISIqewgqoRByGPWOsWUF1) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Hila Karni](https://open.spotify.com/artist/1wOBL5ZQMz6SF4Rf7uabxS), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5), [Gillian Anderson](https://open.spotify.com/artist/1MANROYUAqKF9H6kRezrHi) | [Three Worlds: Music From Woolf Works](https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D) | 21:37 |
 
-Snapshot ID: `ZuAm6AAAAAByzU1Qq3afjgnIYHukwleF`
+Snapshot ID: `aCNCbwAAAAA6/L4L3C5N1kLEn+yufUYl`

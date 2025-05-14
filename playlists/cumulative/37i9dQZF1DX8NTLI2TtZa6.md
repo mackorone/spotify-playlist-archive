@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-565 songs - 1 day 0 hr 12 min
+568 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Patricia](https://open.spotify.com/track/1lDjAQOvZqzZhGND13qcev) | [Guillaume Poncelet](https://open.spotify.com/artist/1tchnux34dr1K8VevCDxPn) | [Patricia](https://open.spotify.com/album/5KFhOJ8UUxHrF5eVtGZaLN) | 2:56 | 2023-04-03 |  |
 | [Patterns](https://open.spotify.com/track/6ssrsr0MumEjM2CeYioYcU) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [Patterns](https://open.spotify.com/album/6Bmr6r1RUZrMJKbZuRE8Gz) | 2:05 | 2022-05-06 | 2023-10-05 |
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-03-01 | 2025-01-07 |
-| [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-02-01 |  |
+| [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-02-01 | 2025-05-14 |
 | [Peninsula](https://open.spotify.com/track/4Mdh699pUIURrBHokfrmmE) | [Pio Roque](https://open.spotify.com/artist/4E4gkQpb8xu95BYH9j9hWW) | [Peninsula](https://open.spotify.com/album/5Z02PzorLGCAxWQF157nWa) | 2:08 | 2021-12-07 | 2022-04-15 |
 | [Penumbra](https://open.spotify.com/track/4gLQLTrX35MDaVlFSLPUrg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Penumbra](https://open.spotify.com/album/2ORmDGwBuXes6QBLKF7EAf) | 2:22 | 2023-06-20 |  |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2021-12-07 | 2022-12-24 |
@@ -403,7 +403,7 @@
 | [Prelude to a Dream](https://open.spotify.com/track/0uMmijzW30VDvVLSCewVHR) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Prelude to a Dream](https://open.spotify.com/album/6mQ8rE39dPEjGVk2QvCIuA) | 3:24 | 2021-12-07 | 2022-05-21 |
 | [Previous](https://open.spotify.com/track/059ryoQJ8Nt3xndqMJWDHk) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Previous](https://open.spotify.com/album/1aARVlUxqmMjPW1SZzLhW3) | 2:03 | 2023-02-21 |  |
 | [primeiro verão](https://open.spotify.com/track/2V1y8aiJS9HMFqh51dNVs4) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [primeiro verão](https://open.spotify.com/album/5R6voZl0tGls3ews6juX0L) | 3:28 | 2021-12-07 | 2025-04-10 |
-| [Private Villa](https://open.spotify.com/track/20ZeuK5VoqXL6QTLXmrDDp) | [Swedelo](https://open.spotify.com/artist/4GaGfgZnYaU8OEP5p96AQT) | [Private Villa](https://open.spotify.com/album/72P4BjS14BUKr3XWVoOrwx) | 3:04 | 2022-07-19 |  |
+| [Private Villa](https://open.spotify.com/track/20ZeuK5VoqXL6QTLXmrDDp) | [Swedelo](https://open.spotify.com/artist/4GaGfgZnYaU8OEP5p96AQT) | [Private Villa](https://open.spotify.com/album/72P4BjS14BUKr3XWVoOrwx) | 3:04 | 2022-07-19 | 2025-05-14 |
 | [Profondeur](https://open.spotify.com/track/4c6CZzNkSB8TGdej0Vdj8r) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Profondeur](https://open.spotify.com/album/2avm7Eiash9dQXQYtXrE8x) | 2:20 | 2024-02-13 |  |
 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 | 2025-02-19 |  |
 | [Qui n’avance pas, recule](https://open.spotify.com/track/1YaEv0xPN2bAKWKZiNuDb8) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Qui n’avance pas, recule](https://open.spotify.com/album/5vpl1HMLV5c5bYhy4sbIhU) | 2:20 | 2021-12-07 | 2022-04-15 |
@@ -481,6 +481,7 @@
 | [Stones in my pocket](https://open.spotify.com/track/54Citz4ic3Ox2Q2fBPXdgk) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Stones in my pocket](https://open.spotify.com/album/27OEJqAF2BbRD2w9fAMsGA) | 2:13 | 2024-03-04 |  |
 | [Stories of Hope](https://open.spotify.com/track/2pPaKO126yniarJuGFKj0j) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Stories of Hope](https://open.spotify.com/album/3OiHdkTm7zlyGZxlFrFiGd) | 3:11 | 2022-07-19 |  |
 | [Storytelling](https://open.spotify.com/track/4rhOJ6KXbzenI63eYKjdrw) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Storytelling](https://open.spotify.com/album/0msgHgZpWhe5InxDJIauQ8) | 2:21 | 2021-12-07 | 2023-04-19 |
+| [Strangely Familiar](https://open.spotify.com/track/2nsOZMaNxxtd79bJ7dbxLb) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Strangely Familiar](https://open.spotify.com/album/0690iOy21OddNlV3HRLEgD) | 3:22 | 2025-05-13 |  |
 | [Stratus](https://open.spotify.com/track/4alvTD1Zcf8beHgVaVzaL5) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Stratus](https://open.spotify.com/album/1mZs0ztiX0WaYTVeq2FsTv) | 2:14 | 2023-06-20 |  |
 | [Strejfer](https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Strejfer](https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3) | 2:08 | 2021-12-07 | 2023-04-19 |
 | [Summertime](https://open.spotify.com/track/4WguFQwPxlxTZ9QEWI88qL) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Summertime](https://open.spotify.com/album/05iN5FPzB6OwsNbISjQScb) | 2:03 | 2022-11-18 |  |
@@ -492,6 +493,7 @@
 | [Sweet Cherie](https://open.spotify.com/track/1ElNuIHucvUavBEg4IFtSx) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Sweet Cherie](https://open.spotify.com/album/3djxMnVkD678tgExMCQqpD) | 3:07 | 2021-12-07 | 2022-05-21 |
 | [Sweet Redolence](https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Sweet Redolence](https://open.spotify.com/album/2BkNgqpxRpu2lMH2yi0FJC) | 1:54 | 2021-12-07 | 2023-01-27 |
 | [Symposium](https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Symposium](https://open.spotify.com/album/7HvhDxhYGGmKftOxbLDcum) | 2:22 | 2022-02-15 | 2025-01-30 |
+| [Tagliamento](https://open.spotify.com/track/6WjNhHHsG4i2n4dpk8ANrm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Tagliamento](https://open.spotify.com/album/3UvMj1JE5OP9VhMxwEbf5I) | 2:19 | 2025-05-13 |  |
 | [Tagtraum](https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl) | [Lev Monticelli](https://open.spotify.com/artist/2PzaZCyLzfSqZN0Zy01Ys0) | [Im Lärchenwald](https://open.spotify.com/album/6gzewSzvAZpe24mTDvmiNy) | 2:47 | 2022-01-18 | 2025-01-30 |
 | [Technicolor Dreamscape](https://open.spotify.com/track/3FCvuX0Q89RnHmGsSkZQ5U) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Petit Voyage](https://open.spotify.com/album/3hjU7EeqyluWQwZZgpsi2V) | 3:17 | 2023-01-26 | 2025-01-30 |
 | [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 | 2021-12-07 | 2022-12-24 |
@@ -516,6 +518,7 @@
 | [The Weaver](https://open.spotify.com/track/2LxVm0nL8MOuJd6CtWpaKM) | [Brooklyn Meir](https://open.spotify.com/artist/7oRlC8DQY3Xj6KAj8KVWft) | [The Weaver](https://open.spotify.com/album/23zWzkzL1LknfgpcwYbTH8) | 3:39 | 2024-11-06 |  |
 | [The wind](https://open.spotify.com/track/7FKB0MIXYg8Umwa1UWt2ur) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [The wind](https://open.spotify.com/album/4veQnMsuik4JKs5msFYX94) | 2:06 | 2023-10-23 |  |
 | [The Woods](https://open.spotify.com/track/6BwJD1phxzTu9Fg3U87whB) | [Andre Aubertin](https://open.spotify.com/artist/2LfIzuLWCzDYMYUeRwBtMu) | [The Woods](https://open.spotify.com/album/0tZIHoDNVMl1HiB2nbuyci) | 2:03 | 2022-06-07 | 2023-10-05 |
+| [Time Flies](https://open.spotify.com/track/2mzjMrdrxlOpUatw2HT7Me) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Time Flies](https://open.spotify.com/album/6li4NlfLqtrRB8ietKYaTL) | 2:06 | 2025-05-13 |  |
 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 | 2024-10-15 |  |
 | [Timid Scripts](https://open.spotify.com/track/3zahvGDaE79KRUr447Jrzw) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Timid Scripts](https://open.spotify.com/album/0kmd10LA2U5C6jnXE8WcBn) | 2:24 | 2022-10-14 |  |
 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2022-12-22 | 2024-05-24 |

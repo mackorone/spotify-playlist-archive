@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 2,040 likes - 37 songs - 2 hr 14 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 2,044 likes - 37 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 9 | [Maintaining My Peace](https://open.spotify.com/track/1kxmpA4XOaSRo56y1E75rg) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Stephanie Cooke](https://open.spotify.com/artist/0tQ6E3EZuU6HCF9SaClbI2) | [Maintaining My Peace](https://open.spotify.com/album/34CYKQJRdmqfHZSVD99Rz0) | 2:58 |
 | 10 | [Big Shot](https://open.spotify.com/track/6gejX7sSAmB7pdgMfMpqo7) | [Chitra](https://open.spotify.com/artist/1zjwHxjhMPXp4nrWwL9hwM) | [Big Shot](https://open.spotify.com/album/6RJOYW8RJLyvYeEknd8dBR) | 2:48 |
 | 11 | [Digital Gravestone](https://open.spotify.com/track/7o4lCWFytaQQGYXTo57j6n) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Ready for Heaven](https://open.spotify.com/album/0kjdW909CPU9zSysq1qy4E) | 4:30 |
-| 12 | [Não Podermos O Amar Para](https://open.spotify.com/track/3E57NeDHSMiJsDUTDZsZi5) | [Dom Salvador](https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Não Podermos O Amar Para](https://open.spotify.com/album/09FH25pLvBEIQ4ZKPIR3kM) | 4:21 |
+| 12 | [Não Podermos O Amor Parar](https://open.spotify.com/track/3E57NeDHSMiJsDUTDZsZi5) | [Dom Salvador](https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Não Podermos O Amor Parar](https://open.spotify.com/album/09FH25pLvBEIQ4ZKPIR3kM) | 4:21 |
 | 13 | [Miss](https://open.spotify.com/track/3iewIkYTvvaicW8iysqxuU) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:09 |
 | 14 | [Mirror Pursuit \(feat\. Zongamin, Valentina Magaletti & Miriam Adefris\)](https://open.spotify.com/track/6DzlWoBteomWfsLBm9To4z) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz), [Miriam Adefris](https://open.spotify.com/artist/6BgP6cMSLzjiRKwT098mev) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/6FxiYTl0Ht63ZdtgtjLIGg) | 8:45 |
 | 15 | [Psychosis Is Just a Number](https://open.spotify.com/track/4tp82F1ovK0ethVESk2DUs) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Psychosis Is Just a Number](https://open.spotify.com/album/2PZce0l2g4r2oOpKVJM30f) | 3:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 3,648 likes - 190 songs - 12 hr 30 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 3,649 likes - 190 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 10 | [Bullseye \(with Hozier\)](https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:23 |
 | 11 | [What You're Doing / Working Man / Garden Road \- Live At The Forum, Los Angeles, California \- 8/1/2015](https://open.spotify.com/track/7iYtqU4O5yD1VHHdWqJVtu) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Rush 50 \(Anniversary Super Deluxe\)](https://open.spotify.com/album/1vETgUa3FMCGjqTtOzOsWn) | 10:56 |
 | 12 | [Swing For The Fences](https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Swing For The Fences](https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3) | 3:22 |
-| 13 | [I Ain't Goin' Out Like That](https://open.spotify.com/track/7GInRHp54ruQsiJM4pXAhJ) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [I Ain't Goin' Out Like That \(Live\)](https://open.spotify.com/album/1IsROFm3kuV58k9vtFFOB0) | 6:07 |
+| 13 | [I Ain't Goin' Out Like That \- Live](https://open.spotify.com/track/7GInRHp54ruQsiJM4pXAhJ) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [I Ain't Goin' Out Like That \(Live\)](https://open.spotify.com/album/1IsROFm3kuV58k9vtFFOB0) | 6:07 |
 | 14 | [Walk Of Life \- San Antonio Live In 85](https://open.spotify.com/track/67hpjt930NejpQNeTSMGN4) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Walk Of Life \(San Antonio Live In 85\)](https://open.spotify.com/album/2W6oPnhmoJJWXjG44nmCOr) | 4:23 |
 | 15 | [TOMBSTONE TOWN \(feat\. Slash\)](https://open.spotify.com/track/5tAiaUVkYL86ZOaWwv0zLO) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [THE WAY](https://open.spotify.com/album/358tJVvVgfUhwcjpLDnZPk) | 3:14 |
 | 16 | [You Know You're Right](https://open.spotify.com/track/5O8L4I2S4izFGDjvP7xAKv) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 3:37 |

@@ -2,9 +2,9 @@
 
 ### [Hot New UK](https://open.spotify.com/playlist/1jelEUwXFe9YeEjdAR3aC8)
 
-> Listen here for the best emerging British Acts, across pop, alternative and more
+> Listen here for the best emerging British Acts across pop, alternative and more
 
-801 songs - 1 day 20 hr 44 min
+806 songs - 1 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Beach House](https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Beach House](https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB) | 2:30 | 2022-10-03 | 2022-10-25 |
 | [Bed Rest](https://open.spotify.com/track/7fnrjy0Sd6Lj1IBalr424v) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow, Decomposed \(5 Year Anniversary\)](https://open.spotify.com/album/0NIuyJBQRvPaIjnyvTMBIe) | 4:08 | 2025-03-21 | 2025-04-25 |
 | [Before You Go](https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go](https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY) | 3:35 | 2023-11-08 | 2025-04-25 |
+| [Benz](https://open.spotify.com/track/5Fs6Vjs2h8HlQWKgOENWes) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Benz](https://open.spotify.com/album/52fbcfvgainVZDsJbDwjzb) | 3:05 | 2025-05-13 |  |
 | [Better Off Alone](https://open.spotify.com/track/2jwsv7yOKwI4nd0UmrAnVq) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Better Off Alone](https://open.spotify.com/album/4ItBkJk85xH97hBZdlycIh) | 3:20 | 2022-10-03 | 2022-10-11 |
 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 | 2022-09-12 | 2022-09-19 |
 | [Bicycle](https://open.spotify.com/track/6je24EioclOnquVFZzQa81) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Bicycle](https://open.spotify.com/album/60QH27LQtqQ11jZaDYodg7) | 2:27 | 2023-02-07 | 2023-02-21 |
@@ -261,6 +262,7 @@
 | [Gone](https://open.spotify.com/track/5y3x7FvPWvwqBVZh2y0cnt) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [When You're Feeling Blue](https://open.spotify.com/album/6DjofmCIg60gyGPJe3lWVk) | 2:44 | 2023-05-15 | 2023-05-23 |
 | [good cry](https://open.spotify.com/track/3tuuvlzu72PRKCb9IxFXst) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 2:39 | 2023-09-25 | 2023-10-03 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2025-02-05 | 2025-04-25 |
+| [Good Shit](https://open.spotify.com/track/3bGZFJeoFhM4jxqNtz4dnH) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Good Shit](https://open.spotify.com/album/5mhmFB2CSeF2QvBBFU9yNM) | 3:43 | 2025-05-13 |  |
 | [Good, but not together](https://open.spotify.com/track/6YiR17DGpJa5r4X7RjwCwW) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/5CG9626TPlTSDlOlsVXafP) | 3:03 | 2023-03-06 | 2023-06-26 |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-08-19 | 2023-01-01 |
 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-12-01 | 2023-02-23 |
@@ -661,9 +663,11 @@
 | [Sweet Symphony \(feat\. Chris Stapleton\) \- Living Proof Version](https://open.spotify.com/track/1KNre6pPRHOLQyjiBLgGmX) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony \(Living Proof Version\)](https://open.spotify.com/album/6Hn7kX63d5uEm7mn0ZSCGH) | 3:45 | 2023-10-02 | 2023-10-31 |
 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 | 2022-09-27 | 2023-02-21 |
 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 | 2025-04-24 |  |
+| [Take More Chances](https://open.spotify.com/track/40ABQIYtFBnZynIbdg9RIv) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE), [Bacavi](https://open.spotify.com/artist/7mRPKukfheKbpoHKRS7kkd) | [Take More Chances](https://open.spotify.com/album/4BvW9yJRncNFyTOmJ8O0j4) | 3:01 | 2025-05-13 |  |
 | [Talk](https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:17 | 2025-03-14 | 2025-04-25 |
 | [Talk Talk Talk](https://open.spotify.com/track/7DvPYtPVRp6L1iJ7offFJf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop \(Deluxe\)](https://open.spotify.com/album/2UDNXRSWgMZovFmw14u5Z9) | 3:56 | 2025-04-24 |  |
 | [Talking With Your Ghost](https://open.spotify.com/track/2R5ZVyIXEomgtodwbMteov) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Talking With Your Ghost](https://open.spotify.com/album/0bNv45oXZssbthq2RqFW07) | 3:00 | 2022-09-12 | 2022-09-19 |
+| [Taste](https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Taste](https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA) | 2:50 | 2025-05-13 |  |
 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 | 2022-06-06 | 2022-07-26 |
 | [Team](https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:13 | 2023-11-08 | 2025-04-25 |
 | [Teeth](https://open.spotify.com/track/6b5p4KfEO2DEfa8Wu46qJY) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/0NSSmu9dVU5TGt5B1euw7U) | 2:52 | 2023-03-27 | 2023-04-02 |
@@ -807,6 +811,7 @@
 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-21 | 2025-04-25 |
 | [Younger Me](https://open.spotify.com/track/79wa7WvKqnPZq8f4ssxvJt) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Everwood](https://open.spotify.com/album/4YI8iB9csSyJOEjgaNO0GL) | 2:37 | 2023-08-13 | 2023-11-09 |
 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 | 2023-09-04 | 2023-11-09 |
+| [Your Fantasy](https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Your Fantasy](https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB) | 2:19 | 2025-05-13 |  |
 | [Your Reality](https://open.spotify.com/track/093iaeNtS3Jentp3USb67H) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Your Reality](https://open.spotify.com/album/3RP1mc5yIIwGCrdST276Lg) | 2:51 | 2022-06-26 | 2022-07-05 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-06-06 | 2022-07-05 |
 

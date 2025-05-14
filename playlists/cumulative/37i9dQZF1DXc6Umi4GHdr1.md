@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-427 songs - 18 hr 57 min
+428 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Cadaqués](https://open.spotify.com/track/4It0oWesPCt0G0h7HtaUca) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Cadaqués](https://open.spotify.com/album/6fdgn796SWB1DhUvDHU9wq) | 1:58 | 2022-05-27 | 2022-07-22 |
 | [Calma](https://open.spotify.com/track/4qWbRktWWHXHGJb1uhWq8m) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Calma](https://open.spotify.com/album/5US6Ejo1xkfRpR3YSnKEQr) | 2:01 | 2024-03-29 |  |
 | [Canopy](https://open.spotify.com/track/0jHu8QbSuwABUWnf1nQxFd) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Moriah Wolfe](https://open.spotify.com/artist/0CYYj8G2owqzuC8Ysa8u2t), [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [A Place To Call Home](https://open.spotify.com/album/1cMd7URSyipZLbHSxiXM5G) | 1:12 | 2022-10-14 | 2023-03-10 |
-| [Cape May](https://open.spotify.com/track/77e7g7IzJHpk5hnwUguZIv) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cape May](https://open.spotify.com/album/0R1tZfJSsUmM0LOYppmziV) | 2:42 | 2023-12-15 |  |
+| [Cape May](https://open.spotify.com/track/77e7g7IzJHpk5hnwUguZIv) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cape May](https://open.spotify.com/album/0R1tZfJSsUmM0LOYppmziV) | 2:42 | 2023-12-15 | 2025-05-14 |
 | [Carroll Gardens](https://open.spotify.com/track/3dgAbsq1H5NqLJscYPxurR) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Carroll Gardens](https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq) | 2:44 | 2023-08-11 |  |
 | [Cascading Gracefully](https://open.spotify.com/track/61rbHseoHJJ7xjcpA7hCoH) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Cascading Gracefully](https://open.spotify.com/album/41B8fiOkOnqSipjAzGlhqM) | 2:12 | 2023-05-26 | 2023-06-16 |
 | [Catamaran](https://open.spotify.com/track/5tyDBqmANuy4wFG40G4oQY) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Catamaran](https://open.spotify.com/album/0y3bSiAqFS3XaEDQUKbt8u) | 2:50 | 2025-03-05 |  |
@@ -102,6 +102,7 @@
 | [Doors](https://open.spotify.com/track/0p8hGanIeSRCOcDZ1nayUb) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Doors](https://open.spotify.com/album/25383NCmsUte9zszpeKzr2) | 2:31 | 2024-03-08 |  |
 | [Dorival](https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Dorival](https://open.spotify.com/album/460T3DYQguwcbXb5M97nr6) | 2:46 | 2022-12-09 | 2024-07-30 |
 | [Dreaming of You](https://open.spotify.com/track/2Kc5cRMOGRwUHmUWCK6dtp) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Dreaming of You](https://open.spotify.com/album/7jCgSYBykgShmN0fqPq5K6) | 3:45 | 2024-05-10 |  |
+| [Drifting Into Dusk](https://open.spotify.com/track/22fbNUersaC8uZBUaHSwv8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Drifting Into Dusk](https://open.spotify.com/album/6mfgd9Sehm6Xm2WWAx1lIv) | 2:54 | 2025-05-13 |  |
 | [Driving Alongside](https://open.spotify.com/track/3OAPa9BnaZoHYbDvaa952w) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Driving Alongside](https://open.spotify.com/album/5i4GPhiFsiEmNxgrFITm5D) | 2:29 | 2023-12-15 |  |
 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2022-11-25 |  |
 | [Dulces Sueños](https://open.spotify.com/track/0sNwS8yvAm4qiDt5wxMQqJ) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Dulces Sueños](https://open.spotify.com/album/0Z0MbM8YTWu2BzoqZymHff) | 2:36 | 2022-05-27 | 2022-07-22 |
@@ -162,7 +163,7 @@
 | [I Found The Right Bottle Of Wine](https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [I Found The Right Bottle Of Wine](https://open.spotify.com/album/3s9PCTNI5xhZ5zgkcU7nOB) | 3:20 | 2022-03-03 | 2024-06-28 |
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2022-03-03 | 2023-08-25 |
 | [If I Hold Her Tight](https://open.spotify.com/track/7DyqszQV23g2raAm9hYskl) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:41 | 2021-12-10 | 2022-07-22 |
-| [If it wasn’t for you](https://open.spotify.com/track/16BFqMe9kc6tpkTifDpK2z) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [If it wasn’t for you](https://open.spotify.com/album/43nk5Fya4Uv0kDpR6AiCr9) | 2:10 | 2024-02-02 |  |
+| [If it wasn’t for you](https://open.spotify.com/track/16BFqMe9kc6tpkTifDpK2z) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [If it wasn’t for you](https://open.spotify.com/album/43nk5Fya4Uv0kDpR6AiCr9) | 2:10 | 2024-02-02 | 2025-05-14 |
 | [If Only](https://open.spotify.com/track/0TzHkdetO52vNoFkf1bqyP) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [If Only](https://open.spotify.com/album/4SkSg2UW1Tvw3sbbBniySM) | 2:44 | 2023-09-29 |  |
 | [Imagined Narrative](https://open.spotify.com/track/0tZ2tSsFkABoh2pUSAiJmq) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Imagined Narrative](https://open.spotify.com/album/3RjnFeFcUqTj6I0afE0aQ9) | 2:33 | 2024-05-10 |  |
 | [Imperfect surface](https://open.spotify.com/track/1IwZ0a1rx9WhSRw2fsxVBy) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Imperfect surface](https://open.spotify.com/album/4jzA8qFhsy53HbwTziuZFg) | 2:34 | 2024-11-20 |  |

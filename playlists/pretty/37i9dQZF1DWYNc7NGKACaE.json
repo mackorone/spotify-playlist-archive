@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84603,
+  "num_followers": 84616,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -719,34 +719,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Levante",
-        "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "DJ Gui",
-          "url": "https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK"
-        }
-      ],
-      "duration_ms": 115714,
-      "name": "SUV - Remix",
-      "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -775,6 +747,34 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Levante",
+        "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "DJ Gui",
+          "url": "https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK"
+        }
+      ],
+      "duration_ms": 115714,
+      "name": "SUV - Remix",
+      "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
     },
     {
       "added_at": "2024-07-08 19:10:57",

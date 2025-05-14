@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-873 songs - 1 day 20 hr 25 min
+877 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [a million oceans](https://open.spotify.com/track/6IwiV73LesH8azaGFVDVyv) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [a million oceans](https://open.spotify.com/album/6jzVLccbqo1TxYBgnyOvGH) | 2:48 | 2024-07-14 | 2025-02-08 |
 | [A Secret Spot](https://open.spotify.com/track/6HgcrhhE8h1NWz6iON5cuC) | [Portal Plan](https://open.spotify.com/artist/01yE7EbTF9j8IQAN0VA1Wi) | [A Secret Spot](https://open.spotify.com/album/3ZmAOJdDscZeVtthloHuiZ) | 2:17 | 2024-07-14 |  |
 | [A Silver Lining](https://open.spotify.com/track/1f5neDqYLk7K0ocvlbbbWF) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:15 | 2019-05-26\* | 2020-08-07 |
+| [A Thousand Tears](https://open.spotify.com/track/1FPrhnCkYTvWmsp7gUJsRA) | [Damien Kaplan](https://open.spotify.com/artist/3nV2EICXzRrGVq2gkS2nqe) | [A Thousand Tears](https://open.spotify.com/album/22M29uR01MgDwA0dnDc6jP) | 2:14 | 2025-05-13 |  |
 | [A Timeless Moment](https://open.spotify.com/track/24BgHz19CZcbSkDzHRwWER) | [Snow in April](https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv) | [A Timeless Moment](https://open.spotify.com/album/4jLbk2NEnD0eSi52a2URVq) | 2:35 | 2024-07-14 | 2025-03-15 |
 | [Above the Fray](https://open.spotify.com/track/4k6MxETZHE14ZuuVRl1Diu) | [Kirala Heights](https://open.spotify.com/artist/4Q9spaJvvcoT4KLXUNmsS3) | [Above the Fray](https://open.spotify.com/album/6GoU17B9e7zkNncF0hUYW3) | 2:59 | 2024-06-11 | 2024-11-22 |
 | [Abroad and Overseas](https://open.spotify.com/track/23sRVWvfwWdagkqC95eS6n) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Abroad and Overseas](https://open.spotify.com/album/6Uss56kCc3voa6CLeOQ2Dh) | 2:48 | 2022-12-19 | 2024-05-12 |
@@ -156,6 +157,7 @@
 | [Colgando](https://open.spotify.com/track/2dVvMXDWBY0U7VjCjOjVH9) | [Barulinho](https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH) | [Siesta](https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf) | 4:28 | 2020-08-07 | 2020-10-27 |
 | [collage](https://open.spotify.com/track/4h3THOUz7DguxlQwBPGGVH) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [collage](https://open.spotify.com/album/3icCZhLMvsoowzOi4rKAh3) | 2:49 | 2025-01-08 | 2025-04-02 |
 | [Collapse Into Light](https://open.spotify.com/track/3jP962JoLAn9p4wCDdx4My) | [Evin Iris](https://open.spotify.com/artist/0H11IrXWhpptE27M8Xll9w) | [Collapse Into Light](https://open.spotify.com/album/0rUgWKzUwGMo0XAHN6R2eY) | 2:59 | 2020-01-03 | 2024-03-27 |
+| [colors](https://open.spotify.com/track/6C1BEMSDPxikRhkiUO4K47) | [Lemon Grove](https://open.spotify.com/artist/0d6hM5RBMperEhHuY21f9n) | [colors](https://open.spotify.com/album/38UoxL37iTK4PmpuxvDdpx) | 2:14 | 2025-05-13 |  |
 | [Colourway](https://open.spotify.com/track/1T3dQ6KpCIZaKQX2wH6BWR) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Colourway](https://open.spotify.com/album/6fzEg5IjAVpKAA5EUKdmla) | 2:25 | 2025-01-08 |  |
 | [Come Away With Me](https://open.spotify.com/track/4ayNQDCIwS3rftHwqFaTYN) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Third Place](https://open.spotify.com/album/5ch7UKRAKaXctfrbyYGVDD) | 7:08 | 2019-05-26\* | 2019-06-19 |
 | [Coming Home](https://open.spotify.com/track/3UlntDXrcpR1Gy5d31OQTX) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Coming Home](https://open.spotify.com/album/56kgCelm19rPXYFDRwh5gx) | 2:28 | 2025-02-07 |  |
@@ -390,6 +392,7 @@
 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 | 2021-08-26 | 2024-05-12 |
 | [Juneau](https://open.spotify.com/track/0mWbY7Dev7yg5ZRfaUMoK1) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [Juneau](https://open.spotify.com/album/5ZMPRlBendagy0WbmPjCLs) | 2:36 | 2024-07-14 | 2025-02-15 |
 | [Junifer](https://open.spotify.com/track/2O6ok8mA213SiKlHD3yOPt) | [The Aiko](https://open.spotify.com/artist/2qI0IMelpQDuqwVCmluMQ3) | [Junifer](https://open.spotify.com/album/7p1Aod0Uxw4Mc1lJQ47ixQ) | 2:16 | 2023-02-25 | 2024-11-07 |
+| [Just In Case](https://open.spotify.com/track/6TTSutY5h2bwLzlY8revUF) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Just In Case](https://open.spotify.com/album/03W57lnIatZLNxVvdx5pvS) | 2:38 | 2025-05-13 |  |
 | [Just Look at You](https://open.spotify.com/track/62X7ld1sa8RHl4zRtSvfHf) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [432 Water Crystals](https://open.spotify.com/album/6jSQXGouXgIfiwa9icJO68) | 3:07 | 2020-04-13 | 2023-07-14 |
 | [Kaolnite](https://open.spotify.com/track/4fItBSHKBcgKWixN1Idie5) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Kaolnite](https://open.spotify.com/album/4ZPUoevTs8TL3qSTYoiV5N) | 3:00 | 2019-09-11 | 2023-07-14 |
 | [Keep It Together](https://open.spotify.com/track/5IYnFJVBmhQGGluaHAHZaf) | [Naómi Sun](https://open.spotify.com/artist/4KWsYCRBojWuRg9TWP7Vqu) | [Keep It Together](https://open.spotify.com/album/6UBjXJGSkp2eFCWmJc6GLN) | 2:15 | 2023-04-28 | 2025-01-22 |
@@ -687,6 +690,7 @@
 | [Spirit Animals](https://open.spotify.com/track/0EkTaSImnF8DPAfUa4uMeC) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Spirit Animals](https://open.spotify.com/album/3X5sRcsqfmHBNmJuM2lb6n) | 2:49 | 2025-02-07 | 2025-04-24 |
 | [Squaric](https://open.spotify.com/track/5vUaPsEVEsmv5J11CTgjBA) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Squaric](https://open.spotify.com/album/3weidR9AlIh3zsaHcR5tzH) | 2:33 | 2020-09-17 | 2022-07-09 |
 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 | 2019-05-26\* | 2019-06-27 |
+| [Starbloom](https://open.spotify.com/track/5nioi5Jwzu1ErjdrOLl8r9) | [August Sands](https://open.spotify.com/artist/1eQxk3uFftcKvRvxc6KvbR) | [Starbloom](https://open.spotify.com/album/7c3VY9aB29VLsdl70V0hKd) | 2:21 | 2025-05-13 |  |
 | [Staring into Infinity](https://open.spotify.com/track/0Mjbx4mfOH02A9xmUE3F40) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Staring into Infinity](https://open.spotify.com/album/7JI8IswyhqL70KbpdLRn6X) | 2:35 | 2022-12-02 | 2023-09-26 |
 | [Starlight](https://open.spotify.com/track/4DuUvPIgaJRTJ2xPZa0Owy) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Starlight](https://open.spotify.com/album/2WwnE898LNpHWvXV0jJwqv) | 2:48 | 2024-05-11 | 2025-04-24 |
 | [Starlights](https://open.spotify.com/track/2tSlohCLetwQRpA71jbnrB) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 5:13 | 2019-05-26\* | 2019-06-19 |

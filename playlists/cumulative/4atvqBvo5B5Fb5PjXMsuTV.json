@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 May 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 14 May 03:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -3046,6 +3046,24 @@
       "duration_ms": 280997,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/1WfDfbqh7WUIknOdZPO5XP"
+    },
+    {
+      "album": {
+        "name": "Aired out",
+        "url": "https://open.spotify.com/album/06R6LROCs7sicD9RmUzHAv"
+      },
+      "artists": [
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188962,
+      "name": "Aired out",
+      "url": "https://open.spotify.com/track/4Up5MhH38mjJmfQOsT7lMN"
     },
     {
       "album": {
@@ -6342,6 +6360,24 @@
       "duration_ms": 106500,
       "name": "BABASONICO",
       "url": "https://open.spotify.com/track/45JcbGAWOaqL8X7DFAMeP3"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/15t5pAZbc5EAnu3Uc2BKHX"
+      },
+      "artists": [
+        {
+          "name": "Standing On The Corner",
+          "url": "https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393000,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/37bY677poQAFeSdBNTN7Ik"
     },
     {
       "album": {
@@ -29224,7 +29260,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 172166,
       "name": "French Girls",
       "url": "https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j"
@@ -32747,6 +32783,24 @@
     },
     {
       "album": {
+        "name": "Grow Wings and Fly",
+        "url": "https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308424,
+      "name": "Grow Wings and Fly",
+      "url": "https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd"
+    },
+    {
+      "album": {
         "name": "Growing Story",
         "url": "https://open.spotify.com/album/79MStnsQdeiY2YQ6YwWlC7"
       },
@@ -34050,7 +34104,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 298127,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/5nsTZrGlDYRJR5hkKXwYOM"
@@ -49473,6 +49527,24 @@
     },
     {
       "album": {
+        "name": "Maschio",
+        "url": "https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204738,
+      "name": "Maschio",
+      "url": "https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc"
+    },
+    {
+      "album": {
         "name": "Massachusetts",
         "url": "https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb"
       },
@@ -50686,7 +50758,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 262335,
       "name": "Mine or Yours",
       "url": "https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo"
@@ -83156,7 +83228,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 142962,
       "name": "Vacay",
       "url": "https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S"

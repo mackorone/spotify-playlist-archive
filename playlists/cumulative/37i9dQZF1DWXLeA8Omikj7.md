@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,069 songs - 3 day 5 hr 7 min
+1,070 songs - 3 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [20202020202020](https://open.spotify.com/track/03tHPbK1Fewb9noTtubDKR) | [Griffin Brown](https://open.spotify.com/artist/0DKVWFdswFm0k74hkw9wBB) | [20202020202020](https://open.spotify.com/album/4vs9KIbPxJh1j9W6X3HHHL) | 3:16 | 2020-05-22 | 2020-10-22 |
 | [20211130](https://open.spotify.com/track/47LxyN0FVTAxSemYRpGFYr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 5:22 | 2023-04-14 | 2024-10-08 |
 | [2089](https://open.spotify.com/track/1GRCByxCunaOyOVJhvaZZ6) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [2089](https://open.spotify.com/album/5tPSYbr95QufQfHA28E2gF) | 2:34 | 2020-08-26 | 2020-10-22 |
-| [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 | 2021-11-12 |  |
+| [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 | 2021-11-12 | 2025-05-14 |
 | [222](https://open.spotify.com/track/5lISsyJA9NvFiLLxybX41C) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [222](https://open.spotify.com/album/7aPp4vsVjxDOjMzGR1gizf) | 2:22 | 2024-08-23 | 2025-04-18 |
 | [2:16](https://open.spotify.com/track/3OCqCbQUhcol3nYAbVhAfV) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [2:16](https://open.spotify.com/album/1xwLDnmx4ABFLT9tv2LucN) | 7:54 | 2022-01-14 | 2024-05-10 |
 | [3.15](https://open.spotify.com/track/2LeFDM4wihSc81SgkwwIdQ) | [Yushh](https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew) | [Shouts 2021](https://open.spotify.com/album/2diCd6qJq3O0u29AWfPeJW) | 5:07 | 2021-10-01 | 2022-04-19 |
@@ -740,6 +740,7 @@
 | [Release](https://open.spotify.com/track/3158gk3gslAHlPrapSLKrA) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Midoca](https://open.spotify.com/artist/3k4i4K7PicHqnodnYhXsJy) | [Visceral](https://open.spotify.com/album/3qwS31WiLq73r7FsUtfwAx) | 3:52 | 2019-06-19\* | 2020-10-19 |
 | [Remember Rainbow Bridge](https://open.spotify.com/track/7bstdaL6jxS4qHoA2C8Iov) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Alto Aria](https://open.spotify.com/artist/2fKzX6tkABWKK5MnXizpSR) | [Remember Rainbow Bridge](https://open.spotify.com/album/0wP9qvozGpv6ZjX7IaaomX) | 6:16 | 2022-02-11 | 2022-04-20 |
 | [Requiem for Vega](https://open.spotify.com/track/2ipxQSBcvB28gbFThM3zI5) | [Lawrence Lui](https://open.spotify.com/artist/2msiavkyenRtKMxCDlRzEm) | [Retroism EP](https://open.spotify.com/album/7ITmnLWTyD8qKvTnb6VXgr) | 3:30 | 2019-06-19\* | 2020-10-21 |
+| [Resonances From The D \- Bonus Track](https://open.spotify.com/track/2qza3GP3Bp4dowRBd6lk1Y) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [fabric presents Laurent Garnier: Rhythmic Resonance \(Mixed\)](https://open.spotify.com/album/4GR1hk1LnQ7Qq4ZWonzfiw) | 8:20 | 2025-05-09 |  |
 | [Respect The Source](https://open.spotify.com/track/2guCov9kckEzAQdpxOKZWc) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Barclay Crenshaw](https://open.spotify.com/album/7BY6KOUaHgakDbnS1DZspp) | 3:01 | 2023-12-06 | 2024-04-19 |
 | [Respect The Source](https://open.spotify.com/track/7chpNfkxBfsGpUzj9btqLe) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Barclay Crenshaw](https://open.spotify.com/album/2p85APvTZpNNrpASUlCCsh) | 3:01 | 2019-05-26\* | 2022-04-21 |
 | [Rest in Peace](https://open.spotify.com/track/1qxdgsiWSmO6l4Ds1EZBj9) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [VHS](https://open.spotify.com/album/5dpCCx6F2ECsqnrdmwNGCH) | 3:31 | 2019-06-19\* | 2020-10-21 |

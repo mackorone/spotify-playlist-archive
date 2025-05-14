@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Yawar Abdal
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,068 likes - 83 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,142 likes - 83 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 82 | [Hua Asar Tera](https://open.spotify.com/track/2pfxlloUY1qL5zPCgI6r5N) | [Abhishek Dubey](https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE), [SubhoBeatz](https://open.spotify.com/artist/4SGq5oF0H0cp6ec91JMn8T), [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni) | [Hua Asar Tera](https://open.spotify.com/album/1eQl2ZWPmTHquboYllLZ6L) | 3:07 |
 | 83 | [cm](https://open.spotify.com/track/5TnCRObz7zCIH9S1OrPyu0) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [MALIK.](https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO) | [cm](https://open.spotify.com/album/46ijx52m90OoSlDmEox85X) | 3:12 |
 
-Snapshot ID: `aBR4ZwAAAAARFeQtg9ii351sK9Xpi1ru`
+Snapshot ID: `aCLuCwAAAACXgiELxY57w+3bJ2RtFH4t`

@@ -1217,6 +1217,40 @@
     },
     {
       "album": {
+        "name": "Braba No Ch\u00e1",
+        "url": "https://open.spotify.com/album/7mkkF6IiN5qJ1jNdMjJrwJ"
+      },
+      "artists": [
+        {
+          "name": "DJ CZ",
+          "url": "https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        },
+        {
+          "name": "DJ TS",
+          "url": "https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON"
+        },
+        {
+          "name": "DJ DUARTE",
+          "url": "https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi"
+        },
+        {
+          "name": "Prime Funk",
+          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Braba No Ch\u00e1",
+      "url": "https://open.spotify.com/track/0zjFoEgApePlXu5vHP8Lcn"
+    },
+    {
+      "album": {
         "name": "Brota no meu Setor",
         "url": "https://open.spotify.com/album/1TAj3VWxeKgoxBbVvj34Rx"
       },
@@ -8162,7 +8196,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 125538,
       "name": "Vem Sentar Pra Mim",
       "url": "https://open.spotify.com/track/08AY2hKfyjm14FaD8UUyD7"

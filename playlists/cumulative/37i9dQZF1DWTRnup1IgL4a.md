@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-301 songs - 12 hr 52 min
+304 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 | 2023-04-28 | 2023-12-15 |
 | [A symptom of love](https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [A symptom of love](https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3) | 2:30 | 2023-02-24 |  |
 | [A Waltz with Jena Lynn \(Solo Guitar\)](https://open.spotify.com/track/34UvnbEnip6vYcw5cFBL1b) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [A Waltz with Jena Lynn \(Solo Guitar\)](https://open.spotify.com/album/3flhd8RWYlUoPWE6w7pPg3) | 2:38 | 2022-09-23 |  |
+| [Abilene](https://open.spotify.com/track/2zW7bKgWk9WRrTYvRys0rR) | [Luiz de Luna](https://open.spotify.com/artist/0FZzM3FVTZdoefPWS9Edhb) | [Abilene](https://open.spotify.com/album/0rv3TQYYHCDQPyW7Bc20Kv) | 2:32 | 2025-05-13 |  |
 | [Achernar](https://open.spotify.com/track/4DQ6sxGcPuxSK8OXHj9XGG) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Achernar](https://open.spotify.com/album/3gOzubq8SyEtBXXwv92594) | 2:22 | 2021-12-09 | 2024-04-20 |
 | [Adrift](https://open.spotify.com/track/0jaIrzvr3sQUPflXMmAVgn) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Adrift](https://open.spotify.com/album/5cxm4HGBQ6OfooUvqskGsL) | 2:14 | 2025-04-22 |  |
 | [Aime\-moi](https://open.spotify.com/track/5iI350s8GGBvluinhZoxgK) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Langue d'amour](https://open.spotify.com/album/5eGWf5z5kCZ8LL6KHEoer0) | 2:26 | 2022-12-16 |  |
@@ -195,7 +196,7 @@
 | [Once Upon a Time](https://open.spotify.com/track/7J1jJSay3pm0pxQzhS6Ska) | [Claudie Mackula](https://open.spotify.com/artist/0LgBUNYaoW69hco9l7m9mX) | [Once Upon a Time](https://open.spotify.com/album/30SBQYbqd5XPdEjA90yrhA) | 6:14 | 2022-09-23 | 2023-02-25 |
 | [One And Only](https://open.spotify.com/track/3K61YrrGJmcfiOmDSvrRhw) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [One And Only](https://open.spotify.com/album/20XXrFzgc3zoD3iqQzJa45) | 1:48 | 2022-09-09 | 2023-08-26 |
 | [Over the hill is Leighan](https://open.spotify.com/track/21dL4Fi5yOXGm3PBgZI1yk) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Over the hill is Leighan](https://open.spotify.com/album/62YlNkM4p58NlHPjyUuexA) | 1:59 | 2021-12-09 | 2023-08-26 |
-| [Parallel](https://open.spotify.com/track/0hz1P3cEakXbQzaNjpoOwK) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Parallel](https://open.spotify.com/album/7zpkVAGBnaU0yBNrVipsxH) | 2:37 | 2025-01-07 |  |
+| [Parallel](https://open.spotify.com/track/0hz1P3cEakXbQzaNjpoOwK) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Parallel](https://open.spotify.com/album/7zpkVAGBnaU0yBNrVipsxH) | 2:37 | 2025-01-07 | 2025-05-14 |
 | [Passing Rain](https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Passing Rain](https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM) | 3:02 | 2022-06-10 | 2023-04-29 |
 | [Passing Through](https://open.spotify.com/track/1y4XIS1dYvAfxjVjYeO7Jt) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Passing Through](https://open.spotify.com/album/2ByVknXLBoYoXVP8hzGQ5s) | 2:06 | 2023-04-28 |  |
 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 | 2021-12-09 | 2022-09-03 |
@@ -252,6 +253,7 @@
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-24 | 2024-01-12 |
 | [Star Light, Star Bright](https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Star Light, Star Bright](https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes) | 1:57 | 2023-06-02 | 2023-08-26 |
 | [Star light, Star Bright](https://open.spotify.com/track/3KNTLFza8pBNlWGrJ8UhrW) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Star light, Star Bright](https://open.spotify.com/album/6HKVpUdjXbjEA86lsiYHgG) | 1:38 | 2022-10-07 | 2023-08-26 |
+| [Stay a Little Longer](https://open.spotify.com/track/2HA7JNfGdwljcMvHDQNc9c) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stay a Little Longer](https://open.spotify.com/album/3GNRZg9Kjaz4nlyS4gM6yF) | 2:12 | 2025-05-13 |  |
 | [Stillness](https://open.spotify.com/track/6LjrczTRiY4ZWG85vdD3W5) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stillness](https://open.spotify.com/album/7g1FCiurDarlhgX1EhSnMx) | 2:40 | 2025-01-28 |  |
 | [Strawberry Dreams](https://open.spotify.com/track/6VmmaKQk2QRX4Fz3k7RQIy) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Strawberry Dreams](https://open.spotify.com/album/6halbltGTQuauVqk6ZVxr8) | 2:59 | 2024-05-03 | 2024-11-27 |
 | [Struck By Clouds](https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Struck By Clouds](https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm) | 1:57 | 2021-12-09 | 2023-04-29 |
@@ -297,6 +299,7 @@
 | [Villa Serrana](https://open.spotify.com/track/6NX6CR98Ms0fObJgizfaYK) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Villa Serrana](https://open.spotify.com/album/1bsWzYeC8YekzSXPHmSpz7) | 1:41 | 2022-10-07 | 2023-08-26 |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2021-12-09 | 2024-04-05 |
 | [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 | 2021-12-09 |  |
+| [Waiting Depths](https://open.spotify.com/track/1yLVHyuohiMwMonGN4CwmA) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Waiting Depths](https://open.spotify.com/album/2egvprKnSn8OpCbDq7OUNp) | 2:36 | 2025-05-13 |  |
 | [Walz for Marion](https://open.spotify.com/track/4TU6HO0q8qHMkItZwP9pom) | [Ruben Wagner](https://open.spotify.com/artist/5nlrY0oxCjsGrwJECLQEMq) | [Walz for Marion](https://open.spotify.com/album/4ZIpalRJnVdcSzMOUwz299) | 3:13 | 2021-12-09 | 2022-04-06 |
 | [Warm Winds](https://open.spotify.com/track/6FLTmuEnGxh5MGAApUsN1x) | [Morgan Fleich](https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1) | [Warm Winds](https://open.spotify.com/album/1KlFEgMtktwFRxgN3SpgkP) | 2:56 | 2024-08-08 |  |
 | [Water Lilies](https://open.spotify.com/track/0kucK0lpWsGQpi8xuRybNc) | [Jules Navarro](https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP) | [Water Lilies](https://open.spotify.com/album/4lq4NLx40nPEF4Mp2fVuEX) | 2:34 | 2024-10-01 |  |

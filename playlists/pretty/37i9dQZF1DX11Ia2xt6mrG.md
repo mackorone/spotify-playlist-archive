@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. RØZ en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,434 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,453 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 32 | [Bella](https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Los Miranda](https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f) | [Bella](https://open.spotify.com/album/6govxhovGzVddUXNOlA74I) | 3:08 |
 | 33 | [Derecha la Flecha](https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Derecha la Flecha](https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp) | 3:20 |
 | 34 | [NO ESTABA MAL](https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS), [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI) | [NO ESTABA MAL](https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1) | 2:45 |
-| 35 | [999 \(Goer\)](https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa) | [999 \(Goer\)](https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb) | 2:40 |
-| 36 | [ZENDAYA](https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [ZENDAYA](https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy) | 3:03 |
-| 37 | [Alucina2](https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB) | [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Alucina2](https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm) | 2:13 |
+| 35 | [ZENDAYA](https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [ZENDAYA](https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy) | 3:03 |
+| 36 | [Alucina2](https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB) | [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Alucina2](https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm) | 2:13 |
+| 37 | [999 \(Goer\)](https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa) | [999 \(Goer\)](https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb) | 2:40 |
 | 38 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 |
 | 39 | [flashes](https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [flashes](https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk) | 3:05 |
 | 40 | [Santa María](https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Santa María](https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm) | 4:20 |

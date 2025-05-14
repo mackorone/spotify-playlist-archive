@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Rael
 
-279 songs - 14 hr 17 min
+280 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Dias Melhores](https://open.spotify.com/track/1LCSQQmH7VK2Orq5eBDPcL) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Dias Melhores](https://open.spotify.com/album/35R7EwBfYJ4wpsnrbwlQrJ) | 3:00 | 2024-09-20 | 2024-11-16 |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-18 | 2023-08-12 |
 | [Dispara](https://open.spotify.com/track/73U0LScJh4nV901IJqbVDS) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Jade.](https://open.spotify.com/artist/4gwfGCGuOO6FEbIKMDg3mV), [Karen Fialho](https://open.spotify.com/artist/24cnkMLmyXSRmdPKkGTYVq) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 2:56 | 2025-01-31 | 2025-05-03 |
+| [Distant Lover Pt\. II](https://open.spotify.com/track/5ez2IWCbto4lXgpzo7FSIy) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Distant Lover Pt\. II](https://open.spotify.com/album/0IZh3n1VUArI0yJ2afCCWl) | 2:58 | 2025-05-13 |  |
 | [Distante](https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV) | [Milly](https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Distante](https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8) | 2:09 | 2023-09-29 | 2023-12-16 |
 | [DOCE VENENO](https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO) | [Nando Prada](https://open.spotify.com/artist/1i9oD8Yn0tTEKrDlguIVBQ) | [DOCE VENENO](https://open.spotify.com/album/51ZDiYnAQWEjMcBVtxJu3C) | 2:20 | 2024-03-22 | 2024-05-18 |
 | [Dói Tanto](https://open.spotify.com/track/3q4BjZzm4VeYTjrfTrqR7j) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Dói Tanto](https://open.spotify.com/album/7FqoofEcHv9SsCLay8uF9s) | 2:38 | 2024-03-15 | 2024-03-30 |
@@ -139,7 +140,7 @@
 | [mais que isso](https://open.spotify.com/track/0d5NlGvOFGrr66MDGX3W00) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [jovemCARLOS](https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC) | 3:34 | 2022-11-18 | 2023-04-09 |
 | [Mais Um Pouco](https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Mais Um Pouco](https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs) | 3:05 | 2022-11-18 |  |
 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 | 2025-04-05 |  |
-| [Mania de Você](https://open.spotify.com/track/5vSKbC3AYHMfAxT82WKAPQ) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e) | [Mania de Você](https://open.spotify.com/album/1P3yi6mXwdmNpF5KKWscnY) | 2:17 | 2025-03-01 |  |
+| [Mania de Você](https://open.spotify.com/track/5vSKbC3AYHMfAxT82WKAPQ) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e) | [Mania de Você](https://open.spotify.com/album/1P3yi6mXwdmNpF5KKWscnY) | 2:17 | 2025-03-01 | 2025-05-14 |
 | [Marcas](https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Marcas](https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh) | 3:46 | 2022-11-18 | 2023-07-29 |
 | [Mas Que Porra](https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Mas Que Porra](https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv) | 2:01 | 2025-05-02 |  |
 | [Me Diz](https://open.spotify.com/track/5pWI8jyJ0eaQ1EuShX6eOo) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Diz](https://open.spotify.com/album/1BnN8Y7gxuohSEaanKASYt) | 2:56 | 2023-05-19 | 2023-06-24 |

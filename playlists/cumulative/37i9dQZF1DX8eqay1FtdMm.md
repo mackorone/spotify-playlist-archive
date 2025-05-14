@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: 이창섭\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-603 songs - 1 day 15 hr 26 min
+604 songs - 1 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2024-02-20 | 2024-04-24 |
 | [ELEVATOR](https://open.spotify.com/track/1TyJ03k31YUBobtQo5g6ji) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [ELEVATOR](https://open.spotify.com/album/54iEiUHiYVeNdKDRZqDsag) | 3:15 | 2022-03-29 | 2022-05-12 |
 | [Emergency Room \- 2021](https://open.spotify.com/track/3USmrwVK08XzzrIQdYtY1m) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Emergency Room \(2021\)](https://open.spotify.com/album/2ysDz3rcISkxRnuLjM8gaW) | 4:03 | 2021-12-20 | 2022-07-09 |
+| [Empty](https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Empty](https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO) | 3:38 | 2025-05-12 |  |
 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 | 2021-12-20 | 2022-07-29 |
 | [Ending](https://open.spotify.com/track/43fbEuz1jtCnKji8WYxoeR) | [Kyul Lee](https://open.spotify.com/artist/17rkotwytk0G8HGA8TSWGH) | [Beginning With Ending](https://open.spotify.com/album/0JWEemsZd5M14XnU5YFq6E) | 3:20 | 2021-12-27 | 2022-07-29 |
 | [Eternal Sunshine](https://open.spotify.com/track/6x54eQF63AZ6deVSsaL5a2) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:28 | 2024-02-01 | 2024-03-11 |
@@ -527,7 +528,7 @@
 | [What If](https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [What If](https://open.spotify.com/album/0IXJjQbwEaAx1asY1fWiVR) | 4:32 | 2023-05-03 | 2023-07-12 |
 | [What's Not To Love](https://open.spotify.com/track/45HfDac3XJkRZMqgS103Ih) | [L \(INFINITE\)](https://open.spotify.com/artist/2Vm2JJpUJzLoBEYQEVrmdV) | [24/7](https://open.spotify.com/album/6MuCnZXw3dRrXfUvUjsPn6) | 3:26 | 2024-08-09 | 2024-10-13 |
 | [When flowering spring comes](https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [SOUL FOOD](https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q) | 4:44 | 2023-12-01 |  |
-| [When I Close My Eyes](https://open.spotify.com/track/177RNC6mpCBnry2nF66rYT) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [When I Close My Eyes](https://open.spotify.com/album/4qCeoxwrJVyacT8irO3n4W) | 4:42 | 2025-04-30 |  |
+| [When I Close My Eyes](https://open.spotify.com/track/177RNC6mpCBnry2nF66rYT) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [When I Close My Eyes](https://open.spotify.com/album/4qCeoxwrJVyacT8irO3n4W) | 4:42 | 2025-04-30 | 2025-05-14 |
 | [When I look at you](https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [When I look at you](https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys) | 3:09 | 2022-08-18 | 2022-10-20 |
 | [When I was Into You](https://open.spotify.com/track/4hLFSM2k7gX7pBZuIM3CHW) | [ZISU](https://open.spotify.com/artist/3zNBTnNYtztKwdB5uYApom) | [When I was Into You](https://open.spotify.com/album/0AdlXPc0vo43GEMz9i4QIE) | 2:59 | 2022-07-04 | 2022-07-14 |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2021-12-20 |  |

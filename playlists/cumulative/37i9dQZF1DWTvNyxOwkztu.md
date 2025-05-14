@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-317 songs - 17 hr 31 min
+318 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [By My Side](https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [By My Side](https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK) | 2:19 | 2023-05-26 |  |
 | [Cactus](https://open.spotify.com/track/5O1L8o8fmUdVaf88z5dfWB) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Sycamore](https://open.spotify.com/album/0vhhS4tteJrfvlBIJRdQid) | 4:58 | 2021-12-09 | 2022-05-22 |
 | [Calm](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Calm](https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg) | 3:18 | 2024-07-19 |  |
-| [Calmy](https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Calmy / Slowly](https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0) | 3:28 | 2025-02-07 |  |
+| [Calmy](https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Calmy / Slowly](https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0) | 3:28 | 2025-02-07 | 2025-05-14 |
 | [Can't Stop Loving You](https://open.spotify.com/track/6cukWPxlzVl7zhXUU75rkq) | [Sadion](https://open.spotify.com/artist/3z8F7Kdw0p4P0zGaushTMR) | [Can't Stop Loving You](https://open.spotify.com/album/159aFoIEDa6yd3iLaRoGgk) | 2:32 | 2021-12-09 | 2022-07-28 |
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2021-12-09 | 2023-05-23 |
 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 | 2022-09-12 |  |
@@ -188,6 +188,7 @@
 | [Morning Workout](https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Morning Workout](https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L) | 2:42 | 2022-01-21 |  |
 | [Motion](https://open.spotify.com/track/5eJ9Y5N3Lgedolcw6g1zJd) | [Ambyion](https://open.spotify.com/artist/1OX2MZhepUtYnq7FCGMVj5) | [Motion](https://open.spotify.com/album/2P9fBxIqlvZmTztyhPaNTD) | 3:41 | 2021-12-09 | 2022-07-29 |
 | [Mount Fuji](https://open.spotify.com/track/3xV6mTlSsIinmU8Xi77qUo) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Mount Fuji](https://open.spotify.com/album/6Ctl2NttXC4T9Ty4EVpg5k) | 2:41 | 2021-12-09 | 2023-01-14 |
+| [Mui](https://open.spotify.com/track/6iAZMSMZsHhDlAbVFW5cy5) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7), [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Takeshi Furukawa](https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5), [Siobhan Wilson](https://open.spotify.com/artist/4EDH5c8x5E958c3AUwqvlp) | [Mui](https://open.spotify.com/album/79aRKxxsfi9Od9Wan4qEZV) | 4:03 | 2025-04-25 |  |
 | [Mukiwa](https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mukiwa](https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo) | 4:18 | 2021-12-09 | 2025-04-02 |
 | [Must Have Forgotten](https://open.spotify.com/track/5D7P5pFRBubnuKzAQkBz6c) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Zebrawood](https://open.spotify.com/album/4dWOHUf6hyWQRa9S7WZwk7) | 3:23 | 2021-12-09 | 2022-05-21 |
 | [Need You](https://open.spotify.com/track/1FofRLPW08PcSxX9EEXFrI) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Need You](https://open.spotify.com/album/4qmolHjMNllhUkem8Pnakj) | 4:24 | 2021-12-09 | 2022-05-18 |

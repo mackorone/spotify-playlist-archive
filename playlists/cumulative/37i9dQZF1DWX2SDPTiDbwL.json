@@ -1991,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "the perfect pair",
+        "url": "https://open.spotify.com/album/2HSor7tKfJt2ECLTi4PeeK"
+      },
+      "artists": [
+        {
+          "name": "Luis Diseminado",
+          "url": "https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165812,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/6S6GaeO6bvkTDnS1Ko12Sq"
+    },
+    {
+      "album": {
         "name": "Cuchama",
         "url": "https://open.spotify.com/album/4pVKGwZmlCJAj87KgN48KW"
       },

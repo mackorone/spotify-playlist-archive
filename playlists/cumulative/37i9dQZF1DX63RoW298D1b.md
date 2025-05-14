@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-216 songs - 9 hr 7 min
+217 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-05-09 |  |
 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 | 2023-05-09 | 2025-02-27 |
 | [Al fín](https://open.spotify.com/track/3F1jev8GAdSB1jyKHuAqhZ) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Al fín](https://open.spotify.com/album/0FjpiJwqP0wFPTdi0tbTs7) | 2:28 | 2023-05-09 | 2024-11-07 |
+| [Alder](https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ) | [Finn Dubois](https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE) | [Alder](https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl) | 2:59 | 2025-05-13 |  |
 | [Amable](https://open.spotify.com/track/16VZ9OzusJbud7xZsPnq1V) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Amable](https://open.spotify.com/album/0fXfiMKFMlS4dQWBRkguej) | 2:12 | 2024-01-04 |  |
 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 | 2024-04-03 |  |
 | [Andvari](https://open.spotify.com/track/3TTuARfIoM2AHIXIfKYPyD) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Andvari](https://open.spotify.com/album/0zitCxZ7AmK7mqcGAykN7P) | 2:29 | 2024-08-20 | 2025-04-24 |
@@ -72,7 +73,7 @@
 | [Fatsia](https://open.spotify.com/track/3dYZA2Zu4jPASbKbZgqC3L) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Fatsia](https://open.spotify.com/album/5AhD8WFtcvufsebhRyCEjl) | 2:25 | 2025-02-19 |  |
 | [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 | 2024-01-04 |  |
 | [First Espresso](https://open.spotify.com/track/0a36Dei2NUET7Bxc0d9q7e) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [First Espresso](https://open.spotify.com/album/0HXafUnDAJ9zXyKGMcCF78) | 2:41 | 2025-01-07 |  |
-| [Floating down the river](https://open.spotify.com/track/5MNItTInmQ6ouf1Ap6kJbi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Floating down the river](https://open.spotify.com/album/3Y12xyD08LirinmcqLC4gX) | 2:13 | 2025-05-02 |  |
+| [Floating down the river](https://open.spotify.com/track/5MNItTInmQ6ouf1Ap6kJbi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Floating down the river](https://open.spotify.com/album/3Y12xyD08LirinmcqLC4gX) | 2:13 | 2025-05-02 | 2025-05-14 |
 | [flor](https://open.spotify.com/track/1ftHK8HKEueKLkKY61TJFr) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [flor](https://open.spotify.com/album/1944QlJu9F7lesW1b3X7Hw) | 3:04 | 2023-05-09 | 2023-11-10 |
 | [flor](https://open.spotify.com/track/5VvIqPCeFRYLFlD9XSJrzs) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [flor](https://open.spotify.com/album/1Lro5VHOUr0lg0PBqE8dD7) | 3:04 | 2023-11-07 | 2024-02-14 |
 | [Follow the Light](https://open.spotify.com/track/5ZBKGYQu4Z0U69UE2MNNMN) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Follow the Light](https://open.spotify.com/album/2v87Aa7L3NsKjr3G0OpPx9) | 1:53 | 2023-05-09 | 2024-02-03 |

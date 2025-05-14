@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Halsey x Amy Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,264 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,295 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 49 | [Show Must Go On](https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Show Must Go On](https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC) | 2:46 |
 | 50 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 |
 
-Snapshot ID: `aCIbHgAAAABg7612qSpiZiYZUovsooGK`
+Snapshot ID: `aCLtYwAAAAB/kYA/Qxrm/gzPPdy1tfPX`

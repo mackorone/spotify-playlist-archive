@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-530 songs - 1 day 20 hr 47 min
+531 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Flex My Ice](https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Flex My Ice](https://open.spotify.com/album/2Qiq217xFjj7ppUSI5rdvS) | 3:29 | 2025-03-14 | 2025-04-29 |
 | [Fly With Me](https://open.spotify.com/track/6ZbczOUKEUWZLxchgKbk9p) | [Habitatt](https://open.spotify.com/artist/2eebQnmFuv5ZUaDd1OyUKF) | [Fly With Me](https://open.spotify.com/album/1TxwnfjFKHbkL0eq4lva87) | 3:46 | 2024-03-07 | 2024-05-19 |
 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 | 2022-08-12 | 2024-06-07 |
+| [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 | 2025-05-13 |  |
 | [Freak](https://open.spotify.com/track/3OlywDkPJRPQY1L4wy6mcF) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [Freak EP](https://open.spotify.com/album/1mxfzLdy5o6BTGpBImmRmx) | 3:00 | 2025-03-03 |  |
 | [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 | 2024-10-10 | 2024-11-12 |
 | [Free Ya Mind](https://open.spotify.com/track/0a9eOaiuQ0J1hB9rlxhEQo) | [Viktor Talking Machine](https://open.spotify.com/artist/0yVYxAypmpc6a7K8pjJX2t) | [Free Ya Mind](https://open.spotify.com/album/2tuQDwRFtMqw8izavWbQyM) | 6:49 | 2022-11-15 | 2022-11-26 |
@@ -488,7 +489,7 @@
 | [To The Ground](https://open.spotify.com/track/6xBMbyHrFN7HwiSBR8wrjX) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb), [Jeny Vega](https://open.spotify.com/artist/03WlvWw6dYc2zs91bjy9Rx) | [Conviction](https://open.spotify.com/album/6d4BJa6BxOjoUsGR15S6FV) | 6:00 | 2022-04-15 | 2022-07-28 |
 | [To the Sea \- Einmusik Remix](https://open.spotify.com/track/6RCT4geaXTmDmtiwFLJv8j) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [To the Sea](https://open.spotify.com/album/5mIRtNHm2HMi6vsxIS1QGl) | 7:32 | 2022-04-15 | 2022-10-01 |
 | [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 | 2024-08-21 |  |
-| [Touch](https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Touch](https://open.spotify.com/album/6B882clcxY7DVqLyM2C1qA) | 2:45 | 2024-10-24 |  |
+| [Touch](https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Touch](https://open.spotify.com/album/6B882clcxY7DVqLyM2C1qA) | 2:45 | 2024-10-24 | 2025-05-14 |
 | [Touch Me](https://open.spotify.com/track/1rBhIXBniWaeGINWQORMTH) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Touch Me](https://open.spotify.com/album/7bCY023tjPbvwGcAfkq0Fe) | 3:42 | 2025-01-21 |  |
 | [Toxic Romance](https://open.spotify.com/track/4gkdmBV68a59NBnLiuPwWV) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Toxic Romance](https://open.spotify.com/album/5iLqP2S6uge7BABvzyaBjV) | 6:55 | 2022-04-15 | 2022-07-28 |
 | [Toxic Temptation \- Undercatt Remix](https://open.spotify.com/track/0VKIilt1Z8oJQ7isTytBDc) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Lenny](https://open.spotify.com/artist/2g2RH7Hcjsn7fnK2sXdlfz), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Toxic Temptation](https://open.spotify.com/album/2bTmTP8aBsiwY9ibFFtq6e) | 7:00 | 2022-04-15 | 2022-05-20 |

@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-498 songs - 21 hr 43 min
+499 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 | 2023-03-10 | 2024-03-26 |
 | [Finito](https://open.spotify.com/track/6iWBMo4Cc2yAqwqkAUzLSN) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Finito](https://open.spotify.com/album/1zrmFxQTfjPUoEZepbJaSS) | 2:42 | 2023-03-10 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2023-03-10 |  |
+| [Fjardsdal](https://open.spotify.com/track/1ccLHt0aEkckZKgysxn134) | [Gabriel Haag](https://open.spotify.com/artist/1DCDW9vq8CKwTDSh6TcXn2) | [Fjardsdal](https://open.spotify.com/album/0HF9eRcIWArUYPBXJ1FJVk) | 2:03 | 2025-05-13 |  |
 | [Fleeting Glance](https://open.spotify.com/track/6mGpPGoeT3WnR6od1vAw0H) | [R Eugene](https://open.spotify.com/artist/5INtIOjjy8zDoOraEPyhVn) | [Fleeting Glance](https://open.spotify.com/album/1vjY2YeQaqshe98GinMtH5) | 2:39 | 2023-03-10 |  |
 | [Flirting Youths](https://open.spotify.com/track/0Y859fXJjBPZgUQPGOAgGQ) | [Clara Adeline](https://open.spotify.com/artist/1yBw3FBvTR2JeGmA2l556m) | [Flirting Youths](https://open.spotify.com/album/4VDhnrTYAHprxM9tnnUrCG) | 3:34 | 2023-03-10 | 2024-04-04 |
 | [Foliage](https://open.spotify.com/track/4uDV95QK5kIHC23bfcDpu1) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Foliage](https://open.spotify.com/album/00jEcc2hJ6c6ebgbAH7hCY) | 2:53 | 2023-10-10 |  |

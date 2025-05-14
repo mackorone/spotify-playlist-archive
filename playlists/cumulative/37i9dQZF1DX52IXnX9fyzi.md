@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-526 songs - 22 hr 43 min
+527 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [A passing season](https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG) | [A passing season](https://open.spotify.com/album/7uFAhV4JjbE5B7xgvxYTx7) | 2:55 | 2024-03-04 |  |
 | [A Quiet Journey](https://open.spotify.com/track/0Tzt1xoXzSEsQF3alItEV3) | [Jonas Kolberg](https://open.spotify.com/artist/6s0rUzmBKNenjVjkQ6BGf7) | [A Quiet Journey](https://open.spotify.com/album/0PQWXqyD9MPQWuhr1hz1mj) | 2:37 | 2022-08-03 | 2023-04-19 |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2022-04-14 | 2024-04-04 |
-| [A Thousand Miles](https://open.spotify.com/track/7y7zmK91BV5A4NagPCtuWt) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [A Thousand Miles](https://open.spotify.com/album/7eo39n32RoBLx2Z2yFfsnG) | 3:17 | 2025-03-25 |  |
+| [A Thousand Miles](https://open.spotify.com/track/7y7zmK91BV5A4NagPCtuWt) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [A Thousand Miles](https://open.spotify.com/album/7eo39n32RoBLx2Z2yFfsnG) | 3:17 | 2025-03-25 | 2025-05-14 |
 | [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-04-14 | 2024-04-04 |
 | [above the world](https://open.spotify.com/track/6rgvIxOgJNNaQrIDPt0C1n) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [above the world](https://open.spotify.com/album/0NFfAEcHOvTRfrciO3WGqT) | 2:26 | 2023-09-05 | 2025-04-24 |
 | [Aether](https://open.spotify.com/track/4e25SPifKDmXdg6brXqyRH) | [Giuliano Poles](https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4) | [Aether](https://open.spotify.com/album/45e9OQ4Dzt7VUMnZXia6at) | 2:10 | 2022-04-14 | 2024-02-15 |
@@ -428,7 +428,7 @@
 | [Tension Begins To Slip Away](https://open.spotify.com/track/4uKlYSgXaA9g8nHSl0Zh7G) | [Douglas Simmons](https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS) | [Tension Begins To Slip Away](https://open.spotify.com/album/4alLo0CkPQLq4TNmwmmrMl) | 3:03 | 2024-02-14 |  |
 | [Textures](https://open.spotify.com/track/6nECGyZZTPXxi38Epefgpi) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Textures](https://open.spotify.com/album/2lID0uhvL3FyrwaYxRZWiw) | 2:09 | 2022-04-14 | 2024-04-04 |
 | [The Act of Contemplation](https://open.spotify.com/track/6866Lw5Sxcmjg6OxO5IUmj) | [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [The Act of Contemplation](https://open.spotify.com/album/4YZT7FiMRnLTLGF28jcgWi) | 1:42 | 2025-03-14 |  |
-| [The Brave Wind](https://open.spotify.com/track/2JORX3wf4DlvcO269jPLKd) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Brave Wind](https://open.spotify.com/album/35ai3f8NbCkolGXiJlJRgz) | 2:54 | 2025-03-21 |  |
+| [The Brave Wind](https://open.spotify.com/track/2JORX3wf4DlvcO269jPLKd) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Brave Wind](https://open.spotify.com/album/35ai3f8NbCkolGXiJlJRgz) | 2:54 | 2025-03-21 | 2025-05-14 |
 | [The Core Of You And Me](https://open.spotify.com/track/5IsRo9BBiKznH7DtTQiOTv) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Stoa](https://open.spotify.com/album/0CQUjvhGk0QX52BNYL5zlP) | 2:00 | 2024-01-05 | 2024-04-19 |
 | [The Core Of You And Me](https://open.spotify.com/track/5eOQ1qFCkULQE7wW6yQRmN) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Shadows Of Us](https://open.spotify.com/album/1TFEStNtrTBCmdXn714380) | 2:00 | 2023-11-21 | 2024-01-05 |
 | [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf), [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 | 2023-11-21 |  |
@@ -531,6 +531,7 @@
 | [You are the Dawn](https://open.spotify.com/track/4m6BNOOeufJeAElDXDzTrC) | [Nils Holst](https://open.spotify.com/artist/27z0XKKaGHO2Td9eF2lSw2) | [You are the Dawn](https://open.spotify.com/album/08qNZ9PVd4nQZ8zNWudeTA) | 2:01 | 2024-03-04 |  |
 | [You Name It](https://open.spotify.com/track/4eFAsz4mMrJiFRGqgghYPj) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Day](https://open.spotify.com/album/5BmyU03YgggujG5J2gEfLM) | 7:43 | 2024-04-03 |  |
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2022-04-14 | 2024-02-15 |
+| [Your Light](https://open.spotify.com/track/5auhyJ35k72qOdy0ETbHEL) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Light](https://open.spotify.com/album/2WTS9IvvLY8JmI8ffkq4e5) | 2:59 | 2025-05-13 |  |
 | [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 | 2024-11-12 |  |
 | [à Gauche](https://open.spotify.com/track/5HEdhvXyFdSy1IxlX6c6nM) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [à Gauche](https://open.spotify.com/album/66F48yfYfHtqgtlKXRS88V) | 2:06 | 2022-10-26 | 2025-01-08 |
 | [Élysées](https://open.spotify.com/track/4qryC4q42GfAwWcC11HQHl) | [Ella Stark](https://open.spotify.com/artist/1MCorvkVV2ldv9FraZpH5u) | [Élysées](https://open.spotify.com/album/4eAfqgEw2nTCEd9dixZ2wG) | 2:13 | 2022-04-14 | 2024-03-05 |

@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 18947,
+  "num_followers": 18953,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-05-12 02:56:18",
       "album": {
+        "name": "The day was beautiful",
+        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 235392,
+      "name": "The day was beautiful",
+      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "added_at": "2025-05-12 02:56:18",
+      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
@@ -255,18 +271,22 @@
     {
       "added_at": "2025-05-12 02:56:18",
       "album": {
-        "name": "The day was beautiful",
-        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
+        "name": "No Longer Human",
+        "url": "https://open.spotify.com/album/3a0LsOTERa9WRzHUD8KVhv"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
         }
       ],
-      "duration_ms": 235392,
-      "name": "The day was beautiful",
-      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+      "duration_ms": 200428,
+      "name": "No Longer Human (feat. Sonny Zero)",
+      "url": "https://open.spotify.com/track/5Gez0iCghDCzBApeyicHaN"
     },
     {
       "added_at": "2025-05-12 02:56:18",
@@ -287,22 +307,6 @@
     {
       "added_at": "2025-05-12 02:56:18",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2025-05-12 02:56:18",
-      "album": {
         "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
       },
@@ -315,6 +319,22 @@
       "duration_ms": 233317,
       "name": "About loneliness",
       "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
+    },
+    {
+      "added_at": "2025-05-12 02:56:18",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
     },
     {
       "added_at": "2025-05-12 02:56:18",
@@ -347,26 +367,6 @@
       "duration_ms": 219133,
       "name": "Dear you (Romance 101 X LeeHi)",
       "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
-    },
-    {
-      "added_at": "2025-05-12 02:56:18",
-      "album": {
-        "name": "No Longer Human",
-        "url": "https://open.spotify.com/album/3a0LsOTERa9WRzHUD8KVhv"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Sonny Zero",
-          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
-        }
-      ],
-      "duration_ms": 200428,
-      "name": "No Longer Human (feat. Sonny Zero)",
-      "url": "https://open.spotify.com/track/5Gez0iCghDCzBApeyicHaN"
     },
     {
       "added_at": "2025-05-12 02:56:18",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-05-12 02:56:18",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr"
+    },
+    {
+      "added_at": "2025-05-12 02:56:18",
+      "album": {
         "name": "When I Close My Eyes",
         "url": "https://open.spotify.com/album/4qCeoxwrJVyacT8irO3n4W"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 160370,
       "name": "Meaningless",
       "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
-    },
-    {
-      "added_at": "2025-05-12 02:56:18",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO"
-      },
-      "artists": [
-        {
-          "name": "Lee Seung Gi",
-          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr"
     },
     {
       "added_at": "2025-05-12 02:56:18",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-05-12 02:56:18",
       "album": {
+        "name": "Letter",
+        "url": "https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "duration_ms": 213813,
+      "name": "Letter",
+      "url": "https://open.spotify.com/track/1JFymIwM3Hc9cKHxP2BCBl"
+    },
+    {
+      "added_at": "2025-05-12 02:56:18",
+      "album": {
         "name": "Unreachable",
         "url": "https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 186114,
       "name": "Unreachable (Feat. Milena)",
       "url": "https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu"
-    },
-    {
-      "added_at": "2025-05-12 02:56:18",
-      "album": {
-        "name": "Letter",
-        "url": "https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb"
-      },
-      "artists": [
-        {
-          "name": "Baek A",
-          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "Letter",
-      "url": "https://open.spotify.com/track/1JFymIwM3Hc9cKHxP2BCBl"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

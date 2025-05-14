@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 198908,
       "name": "Born a King - Reimagined",
       "url": "https://open.spotify.com/track/34qhtucHZ0VKASva6lFJD8"
@@ -4803,6 +4803,28 @@
     },
     {
       "album": {
+        "name": "Let's Celebrate",
+        "url": "https://open.spotify.com/album/3ZuaoKmKmIl4H7tyu0d7kD"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        },
+        {
+          "name": "Roxanne Grace",
+          "url": "https://open.spotify.com/artist/3ycWwbPl4Au2CisRN00fQD"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202271,
+      "name": "Light Of The World",
+      "url": "https://open.spotify.com/track/0zd5bjYTHZwG2SSfH9KuQA"
+    },
+    {
+      "album": {
         "name": "Christmas Music Vol. 1",
         "url": "https://open.spotify.com/album/3xtWS5nLHWhLmkqC9NTKKb"
       },
@@ -6246,7 +6268,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 265002,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/7rvfGtutRIldXUdgjxLQ9D"
@@ -7462,7 +7484,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 264149,
       "name": "The Son Came Down",
       "url": "https://open.spotify.com/track/6U40zLYZHLJkwpSSOXwbVb"

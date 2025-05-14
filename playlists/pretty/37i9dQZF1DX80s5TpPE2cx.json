@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Cruel Santino",
-  "num_followers": 16212,
+  "num_followers": 16237,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 186401,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 191179,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
         "name": "MASTA",
         "url": "https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 160879,
       "name": "Confess",
       "url": "https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
-        "name": "Skedaddle",
-        "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 150858,
-      "name": "Skedaddle",
-      "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
+        "name": "Skedaddle",
+        "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         }
       ],
-      "duration_ms": 191179,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
+      "duration_ms": 150858,
+      "name": "Skedaddle",
+      "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
     },
     {
       "added_at": "2025-03-14 05:42:32",

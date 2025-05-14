@@ -1323,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Contemplating the Horizon",
+        "url": "https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD"
+      },
+      "artists": [
+        {
+          "name": "Saverio Lobeone",
+          "url": "https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161017,
+      "name": "Contemplating the Horizon",
+      "url": "https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3"
+    },
+    {
+      "album": {
         "name": "Continuation",
         "url": "https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj"
       },

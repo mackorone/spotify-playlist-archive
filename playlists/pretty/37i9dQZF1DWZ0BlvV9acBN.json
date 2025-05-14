@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG, Fernandinho",
-  "num_followers": 145030,
+  "num_followers": 145078,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-05-09 18:46:57",
       "album": {
+        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 304556,
+      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
+    },
+    {
+      "added_at": "2025-05-09 18:46:57",
+      "album": {
         "name": "Tudo Fica Bem",
         "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 304240,
       "name": "Tudo Fica Bem",
       "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
-    },
-    {
-      "added_at": "2025-05-09 18:46:57",
-      "album": {
-        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 304556,
-      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
     },
     {
       "added_at": "2025-05-09 18:46:57",
@@ -543,26 +543,6 @@
     {
       "added_at": "2025-05-09 18:46:57",
       "album": {
-        "name": "Louco (feat. PG)",
-        "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 309383,
-      "name": "Louco (feat. PG)",
-      "url": "https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV"
-    },
-    {
-      "added_at": "2025-05-09 18:46:57",
-      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 262480,
       "name": "Dia De Milagres",
       "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
+    },
+    {
+      "added_at": "2025-05-09 18:46:57",
+      "album": {
+        "name": "Louco (feat. PG)",
+        "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 309383,
+      "name": "Louco (feat. PG)",
+      "url": "https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV"
     },
     {
       "added_at": "2025-05-09 18:46:57",

@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: AA=
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: Doona
 
-391 songs - 22 hr 27 min
+392 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2023-07-20 |  |
 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2023-07-20 |  |
 | [MUSIC](https://open.spotify.com/track/1nEqHv1JzL3d8f9Kh7IJNE) | [SHIFT\_CONTROL](https://open.spotify.com/artist/3YJMtowBKCM8vhFWYNVWI9) | [MUSIC](https://open.spotify.com/album/0mo1q8CqwCzEIarbF64a6L) | 2:45 | 2024-06-11 | 2024-07-10 |
-| [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/track/0odBL83MoM37MynrPRbSgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/album/158mQFq64E1JBkbiU1tTyp) | 1:11 | 2025-04-15 |  |
+| [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/track/0odBL83MoM37MynrPRbSgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/album/158mQFq64E1JBkbiU1tTyp) | 1:11 | 2025-04-15 | 2025-05-14 |
 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 | 2023-10-17 | 2024-03-04 |
 | [My Own Salvation](https://open.spotify.com/track/4LkzQ531jFA5ZHXxy5SxO2) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [AЯK](https://open.spotify.com/album/07WF2SJH4HTKCMCUElTVAW) | 3:20 | 2024-06-25 | 2025-03-26 |
 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 | 2023-07-20 | 2024-06-17 |
@@ -246,12 +246,13 @@
 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 | 2023-10-03 | 2024-02-28 |
 | [Run](https://open.spotify.com/track/0qGMiFAWCcYHLqH8pXO2bh) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Run](https://open.spotify.com/album/2xZsO0ZevuTrehe87zAdS3) | 3:17 | 2023-12-19 | 2024-02-21 |
 | [Run](https://open.spotify.com/track/6sPC05thY2Yw0PCX9pOQKH) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Run](https://open.spotify.com/album/6VyKCu5YNdH5DjQ0OmHwRo) | 3:17 | 2023-12-19 | 2023-12-21 |
+| [RUN](https://open.spotify.com/track/2oeWrzaLuMg7sYEdFxqZ1c) | [Doona](https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp) | [RUN](https://open.spotify.com/album/7Hddb9WtN6df9DFD7DgQjL) | 3:51 | 2025-05-13 |  |
 | [R★STAR](https://open.spotify.com/track/786JuYz9Shz9pYpn0B8bdn) | [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [MOON](https://open.spotify.com/artist/6r5W7XKP7KNzxUby9XNzQd) | [R★STAR](https://open.spotify.com/album/25TmtkdwNibjDI9RcnFzCQ) | 3:07 | 2023-07-20 | 2023-08-25 |
 | [Sad Dream](https://open.spotify.com/track/1tBmgjH2QLQEAZOCNlizgH) | [UNDEAD CORPORATION](https://open.spotify.com/artist/6fKT4n1tGdjiH5RwNRQuTf) | [Flash Back](https://open.spotify.com/album/2KcAV6KysLCrNb2zyakHv2) | 4:26 | 2023-07-20 | 2023-11-22 |
 | [Sad Song](https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Sad Song](https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF) | 3:23 | 2023-08-22 | 2023-09-27 |
 | [Sad Song](https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:23 | 2023-11-21 | 2024-04-19 |
 | [Sad Song](https://open.spotify.com/track/7A6FL46PS9sa4xLKmUYvFP) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/0KINjwUwxK2iRQIqVwQSmv) | 3:23 | 2023-08-22 | 2023-08-24 |
-| [SAKURA](https://open.spotify.com/track/12zVwXRvKeOZObLSltDTt2) | [Some Life](https://open.spotify.com/artist/3cO9bp3Hqyrk2Icc9ONk0J) | [SAKURA](https://open.spotify.com/album/0xPShWmaMgWUmp8YejiJnv) | 4:22 | 2025-02-18 |  |
+| [SAKURA](https://open.spotify.com/track/12zVwXRvKeOZObLSltDTt2) | [Some Life](https://open.spotify.com/artist/3cO9bp3Hqyrk2Icc9ONk0J) | [SAKURA](https://open.spotify.com/album/0xPShWmaMgWUmp8YejiJnv) | 4:22 | 2025-02-18 | 2025-05-14 |
 | [Salamander](https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELEVEN FIRE CRACKERS](https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB) | 3:46 | 2023-07-20 |  |
 | [Sapient Creature](https://open.spotify.com/track/0EpvrHIm3434StMFhzrfmh) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Sapient Creature](https://open.spotify.com/album/08leow67n0cloZA0lgygt8) | 4:31 | 2023-10-24 | 2023-11-01 |
 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2024-04-18 | 2025-02-26 |
@@ -272,7 +273,7 @@
 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2023-07-20 |  |
 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 | 2023-07-20 |  |
 | [smileY:\)](https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [smileY:\)](https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn) | 1:55 | 2024-06-11 |  |
-| [Something New](https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RED APHELION](https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU) | 3:57 | 2023-12-19 | 2025-05-09 |
+| [Something New](https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RED APHELION](https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU) | 3:57 | 2023-12-19 |  |
 | [Song For The Weak.](https://open.spotify.com/track/12wm3tZxnlvGBy3ccrjqYr) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Song For The Weak.](https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6) | 5:14 | 2024-01-09 | 2024-01-24 |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-20 |  |
 | [St.ROSALIA](https://open.spotify.com/track/4FoMGVrUBRZh7D4JDirfyE) | [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki) | [St.ROSALIA](https://open.spotify.com/album/0YxhoTCRy9YPRHVMCFSrXv) | 4:55 | 2023-08-01 | 2023-08-09 |

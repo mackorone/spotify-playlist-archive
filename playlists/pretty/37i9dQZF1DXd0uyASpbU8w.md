@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Kwesta, Tyla, Mas Musiq, Miley Cyrus and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,548 likes - 90 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,668 likes - 90 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=6j4C8WSDTUy9023842Y1Sg>Abbey Ojomu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,410 likes - 110 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,440 likes - 110 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 33 | [God Of Covenant](https://open.spotify.com/track/6RLEQsoU5D28rClqbjUVEw) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [God Of Covenant](https://open.spotify.com/album/0FJsgIZrzZVd0cyXpC1m7K) | 5:43 |
 | 34 | [Gologota](https://open.spotify.com/track/5IAh8o4CPMRq93gCRtjFoI) | [Christine Nkole](https://open.spotify.com/artist/2coJ6dDm1YoltAWYmax9tZ), [Chileshe Bwalya](https://open.spotify.com/artist/3rij1hjdCM40Ct3tqQ393h) | [Gologota](https://open.spotify.com/album/4rQZLqNXid5h3v2ZNzo2Q7) | 7:22 |
 | 35 | [EYES ON ME](https://open.spotify.com/track/14eCENuoIfxb8Mk9Gnfzew) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [EYES ON ME](https://open.spotify.com/album/4PvPsJ9IPbtOYnhyXTL8Vn) | 2:29 |
-| 36 | [Speechless \- Spanglish](https://open.spotify.com/track/1IBXkMbEaSIFSOE6HVmqCW) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Wa'ti](https://open.spotify.com/artist/3WyUPzwuGu4toJZTDC9quX), [Ugo Sax](https://open.spotify.com/artist/7CbD4rdhyw6dmLA4Vn6O4N) | [Revisited: The Beginning](https://open.spotify.com/album/26xVfO9gaT9q1lz9Osyqos) | 11:07 |
+| 36 | [Speechless \- Spanglish](https://open.spotify.com/track/1IBXkMbEaSIFSOE6HVmqCW) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Wa'ti](https://open.spotify.com/artist/3WyUPzwuGu4toJZTDC9quX), [Ugo J](https://open.spotify.com/artist/34s9KNQeSEtwgxbDoUhfdO) | [Revisited: The Beginning](https://open.spotify.com/album/26xVfO9gaT9q1lz9Osyqos) | 11:04 |
 | 37 | [Egan D’ogo](https://open.spotify.com/track/0MQR8YVzgfME7dOBwlk92Y) | [Magdalene Whowha](https://open.spotify.com/artist/2t0gHmJnDX2gD9NbOm0YBb) | [Egan D’ogo](https://open.spotify.com/album/11RIZZgtMEVgCHkA4bFQDE) | 4:45 |
 | 38 | [DUTSEN CETO](https://open.spotify.com/track/5xvWfzNAIzD1StFS1fSJOX) | [Amasah](https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1), [Solomon Lange](https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN) | [DUTSEN CETO](https://open.spotify.com/album/31EoDaDEuTHpKBxzZOgejd) | 4:29 |
 | 39 | [Lifter of Men](https://open.spotify.com/track/1IxhyLPPM14RiMzlZEUEk4) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Lifter of Men](https://open.spotify.com/album/5C76LCJUbI1vhNh8ghUBVQ) | 5:34 |

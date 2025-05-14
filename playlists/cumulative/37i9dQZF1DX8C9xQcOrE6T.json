@@ -759,6 +759,28 @@
     },
     {
       "album": {
+        "name": "Music from Disneyland Resort 70th Celebration",
+        "url": "https://open.spotify.com/album/3hS2ggCXq6Yi0kOZyyKMn9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116440,
+      "name": "Celebrate Happy",
+      "url": "https://open.spotify.com/track/0quevQnKJ8QaJwOJ7ZRHCR"
+    },
+    {
+      "album": {
         "name": "Descendants 2 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
       },

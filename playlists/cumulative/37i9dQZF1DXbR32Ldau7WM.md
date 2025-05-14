@@ -2,9 +2,9 @@
 
 ### [Big in Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> The biggest rock artists in Japan right now!  Cover: kanekoayano
+> The biggest rock artists in Japan right now!  Cover: SUPER BEAVER
 
-1,286 songs - 3 day 12 hr 32 min
+1,287 songs - 3 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,6 +852,7 @@
 | [ぶっちぎり東京](https://open.spotify.com/track/6VDXr0B4vE7QpcfJTfAv2K) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [ぶっちぎり東京](https://open.spotify.com/album/0g7BacE5bE3ScvHzmQqbFq) | 2:41 | 2024-12-03 | 2025-01-15 |
 | [まどろまない？](https://open.spotify.com/track/3RxZR3s4n4bnqJIlYtAuD3) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(上\)](https://open.spotify.com/album/0HwI44aaeZf4RXcCuvL3oW) | 3:19 | 2024-01-30 | 2024-02-07 |
 | [まどろむ](https://open.spotify.com/track/43eTjVZLUS7Kf8oTPodiqM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(上\)](https://open.spotify.com/album/0HwI44aaeZf4RXcCuvL3oW) | 0:52 | 2024-01-30 | 2024-02-07 |
+| [まなざし](https://open.spotify.com/track/34rgAQrt4DPNWsqPmlbp4X) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [まなざし](https://open.spotify.com/album/7DRWQF6oyTznbAQHZbz4gQ) | 4:18 | 2025-05-13 |  |
 | [みらいのうた \- 2023 Master](https://open.spotify.com/track/51UlfCizQkKyESnzcJjOn4) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [20](https://open.spotify.com/album/4HfadgK8td5R4tcqNr017d) | 5:07 | 2023-09-12 | 2023-09-14 |
 | [もう一度 歩いていこう](https://open.spotify.com/track/5xRYNMDGPzjclwpb0k38U6) | [JUN SKY WALKER\(S\)](https://open.spotify.com/artist/0dJJhSKpO4ixCTCsCkJxgr) | [もう一度 歩いていこう](https://open.spotify.com/album/6mslJfVFvtnLsfFySAToTO) | 3:41 | 2023-05-16 | 2023-05-31 |
 | [やさしくなりたい \(ROCK'N ROLL Recording Session 2023\)](https://open.spotify.com/track/52w8YoUPGmDGmKuxwMx6Ea) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [ROCK'N ROLL Recording Session at Victor Studio 301](https://open.spotify.com/album/0FLQU9ycu88AVRO6PNGDVF) | 5:26 | 2023-07-25 | 2023-07-27 |
@@ -994,7 +995,7 @@
 | [ボクだけのもの](https://open.spotify.com/track/1aCb1rBREFcEg2AxohiDT5) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ボクだけのもの](https://open.spotify.com/album/5CbGQF3FSum5qLoyhzncSX) | 6:28 | 2022-05-12 | 2022-06-17 |
 | [ポケットの中](https://open.spotify.com/track/4ujFJVwK2M8c8SblmNlpv0) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [リラックマと遊園地 オリジナル・サウンドトラック \(NETFLIXシリーズ\)](https://open.spotify.com/album/5HvNkX9xldX0mO6ioV5LPN) | 5:39 | 2022-08-23 | 2022-08-25 |
 | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/track/4WhjnX6kLVNQb7MwnZcdfJ) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [にゃん北朝時代](https://open.spotify.com/artist/42ANsGZCydh06cNyDJTZHf) | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/album/1BXP1xh1EFU9sMJRsHY9on) | 4:36 | 2022-05-10 | 2022-07-29 |
-| [マジで世界変えちゃう5秒前](https://open.spotify.com/track/3lfpvn67RNEPBOjZeEuHSS) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [マジで世界変えちゃう5秒前](https://open.spotify.com/album/0SDQriPw3CkAu3nvQs2mY9) | 2:36 | 2025-04-22 |  |
+| [マジで世界変えちゃう5秒前](https://open.spotify.com/track/3lfpvn67RNEPBOjZeEuHSS) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [マジで世界変えちゃう5秒前](https://open.spotify.com/album/0SDQriPw3CkAu3nvQs2mY9) | 2:36 | 2025-04-22 | 2025-05-14 |
 | [マスターベイション](https://open.spotify.com/track/4opu9YaEtGCyicQwoJrTP1) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 4:12 | 2023-03-21 | 2023-03-29 |
 | [マスターベイション](https://open.spotify.com/track/5dMhRQ9kDKU7ITjQHtEvuI) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [The LEGEND](https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR) | 4:03 | 2023-03-21 | 2023-03-23 |
 | [マスターベイション](https://open.spotify.com/track/5MJtt3uj7RpZFicwXiF6by) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:04 | 2023-03-21 | 2023-03-29 |

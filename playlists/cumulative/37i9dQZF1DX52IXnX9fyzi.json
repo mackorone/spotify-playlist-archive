@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 197575,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/7y7zmK91BV5A4NagPCtuWt"
@@ -7616,7 +7616,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 174857,
       "name": "The Brave Wind",
       "url": "https://open.spotify.com/track/2JORX3wf4DlvcO269jPLKd"
@@ -9460,6 +9460,24 @@
       "duration_ms": 146000,
       "name": "Your Heart Will Mend",
       "url": "https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK"
+    },
+    {
+      "album": {
+        "name": "Your Light",
+        "url": "https://open.spotify.com/album/2WTS9IvvLY8JmI8ffkq4e5"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179537,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/5auhyJ35k72qOdy0ETbHEL"
     },
     {
       "album": {

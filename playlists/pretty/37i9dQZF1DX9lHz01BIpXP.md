@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa\_9WSXQAGcMj9SpxUMJQ">Ziggy4x</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,598 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,600 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 47 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
 | 48 | [Praat meer bollie](https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4) | [Brasse Vannie Kaap](https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un), [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF) | [Praat meer bollie](https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN) | 4:09 |
 | 49 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
-| 50 | [Ladies From The Cape](https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1), [Charly X2C](https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX) | [Ladies From The Cape](https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN) | 2:57 |
+| 50 | [SYS N BADDIE](https://open.spotify.com/track/2YN1BTHUYk7c21PkZ63Mba) | [BARZX](https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK) | [SYS N BADDIE](https://open.spotify.com/album/7AimRndL52aehc62FKMAft) | 2:07 |
 
 Snapshot ID: `aBR+vQAAAACyu3jd6jPRPR633al3Mqjd`

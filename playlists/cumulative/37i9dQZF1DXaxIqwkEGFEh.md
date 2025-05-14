@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Key Glock
 
-1,829 songs - 3 day 11 hr 51 min
+1,830 songs - 3 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,6 +815,7 @@
 | [Jump Out \(feat\. Hotboy Wes\)](https://open.spotify.com/track/3W4YwvwzqDqcnUrfF2sDfO) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Hotboy Wes](https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO) | [Jump Out \(feat\. Hotboy Wes\)](https://open.spotify.com/album/1YtxPcwSI5vt4uBFfRbsiu) | 2:58 | 2021-12-10 | 2022-04-16 |
 | [Jumper Cables](https://open.spotify.com/track/6712zGjkkzGVuLzuUU1SCP) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Kenny World](https://open.spotify.com/album/2m6SZ6zZKGGk2nfmvChy28) | 3:58 | 2024-01-19 | 2024-02-17 |
 | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42) | 3:01 | 2021-11-05 | 2022-04-05 |
+| [Jungle Juice \(feat\. LUCKI & Lil Crix\)](https://open.spotify.com/track/41p3hm5FlXD5PcQjCKwype) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Freebirdz](https://open.spotify.com/album/1PzXaCAN0mcQx9DHtQhWWS) | 2:58 | 2025-05-13 |  |
 | [Just Getting By](https://open.spotify.com/track/1PoBUMid74DdWs6CzlM2oL) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Never On Time](https://open.spotify.com/album/7ahn5M0aOm7w6vrgK8IIJq) | 2:44 | 2023-03-17 | 2023-05-13 |
 | [Just Getting By, Pt\. 2](https://open.spotify.com/track/1UgGL75FJDEWMowAzILMOx) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Just Getting By, Pt\. 2](https://open.spotify.com/album/0d8HioxkuWiYfF2Fma9JoA) | 2:13 | 2024-07-12 | 2024-07-27 |
 | [Just Relax](https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Just Relax](https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc) | 2:32 | 2023-04-28 | 2023-06-17 |

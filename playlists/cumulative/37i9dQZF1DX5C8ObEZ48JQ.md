@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5RkgtRF8H76YcZoWInG9Z4?si=I2V7dxgHSVaDpT0eiynOhw">HEVI</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP?si=CErSKGvTR\_mgnktBgLJAWA">Babble Hume</a>\. Artwork: Isu Kim.
 
 1,306 songs - 2 day 17 hr 22 min
 

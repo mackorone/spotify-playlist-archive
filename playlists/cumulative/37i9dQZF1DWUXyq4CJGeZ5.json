@@ -2201,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Fjardsdal",
+        "url": "https://open.spotify.com/album/0HF9eRcIWArUYPBXJ1FJVk"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Haag",
+          "url": "https://open.spotify.com/artist/1DCDW9vq8CKwTDSh6TcXn2"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123892,
+      "name": "Fjardsdal",
+      "url": "https://open.spotify.com/track/1ccLHt0aEkckZKgysxn134"
+    },
+    {
+      "album": {
         "name": "Fleeting Glance",
         "url": "https://open.spotify.com/album/1vjY2YeQaqshe98GinMtH5"
       },

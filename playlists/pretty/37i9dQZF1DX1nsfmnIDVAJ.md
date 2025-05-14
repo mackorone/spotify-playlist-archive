@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain]
 
 > Where all Hamilton music coexists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,364 likes - 72 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,578 likes - 72 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain]
 | 44 | [Best of Wives and Best of Women](https://open.spotify.com/track/1dZutYKh4BtPlxbC81wV34) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 0:47 |
 | 45 | [The World Was Wide Enough](https://open.spotify.com/track/0P09TBGSKiQwfUsEh1UafT) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 5:02 |
 | 46 | [Who Lives, Who Dies, Who Tells Your Story](https://open.spotify.com/track/7EsSVPxaYoAZjQwhspJBs2) | [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:37 |
-| 47 | [One Last Time \- 44 Remix](https://open.spotify.com/track/3BtgDbJ5V3YiCCrhVvKNXA) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Barack Obama](https://open.spotify.com/artist/4FySKEW0F2fAmS8Jc5ClRv), [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [One Last Time \(44 Remix\)](https://open.spotify.com/album/0ZIYMLPHgfVMqY0o8xV8PO) | 4:16 |
+| 47 | [One Last Time \- 44 Remix](https://open.spotify.com/track/3BtgDbJ5V3YiCCrhVvKNXA) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Barack Obama](https://open.spotify.com/artist/5UKGU3hKbntZ9gRA5mTTFF), [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [One Last Time \(44 Remix\)](https://open.spotify.com/album/0ZIYMLPHgfVMqY0o8xV8PO) | 4:16 |
 | 48 | [Cheering For Me Now](https://open.spotify.com/track/20nSyFWd7HBzwBlXr4swD8) | [John Kander](https://open.spotify.com/artist/7xSEQmlssbeoIUdQ0HFjUT), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) | [Cheering For Me Now](https://open.spotify.com/album/66O5qRU06eOSB8U5HJ9BhE) | 2:53 |
 | 49 | [Wrote My Way Out](https://open.spotify.com/track/0Cowgp3aB6IQSNJ8pNJYUN) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 4:21 |
 | 50 | [Ben Franklin's Song](https://open.spotify.com/track/7aD6Q1DO3rlUFT6s7y4fGx) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Ben Franklin's Song](https://open.spotify.com/album/54BSWfXrnag2Dy2SZsiqN9) | 3:43 |

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,963 songs - 5 day 2 hr 11 min
+1,966 songs - 5 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Alive](https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive](https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF) | 4:18 | 2022-11-08 | 2023-01-13 |
 | [ALIVE \- LycoReco Version](https://open.spotify.com/track/6d1bY43yAlhHwxJAuUYsll) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE \(LycoReco Version\)](https://open.spotify.com/album/2wfi1Oar57Qp9wAm4pwSY4) | 2:46 | 2022-10-11 | 2022-11-25 |
 | [ALIVE \-season 03\-](https://open.spotify.com/track/7jXP5zbMmeiIJ6JTkA1dff) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE \-season 03\-](https://open.spotify.com/album/3dgLQWzjYuMUnCZplwXMir) | 3:37 | 2025-04-15 |  |
+| [All I Want \(T\_001\)](https://open.spotify.com/track/3kvDdcw3onrlVgCmHtZwKf) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Orika Okachi](https://open.spotify.com/artist/64MR9WRpiytWnGv4fWfryX) | [All I Want \(T\_001\)](https://open.spotify.com/album/3dvsu8OIVbNZYt7ztkQMcw) | 2:55 | 2025-05-13 |  |
 | [ALL MY PARTS](https://open.spotify.com/track/2HF1AgI2r4asyj938aL02q) | [GYROAXIA](https://open.spotify.com/artist/28PDBS1Y9qIwKlne2T8hm0) | [ALL MY PARTS](https://open.spotify.com/album/7ky0Wlz0NAtVqwS2KOJM7A) | 4:18 | 2023-09-07 | 2023-10-04 |
 | [Alright!!!](https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Alright!!!](https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs) | 3:39 | 2025-04-05 |  |
 | [Alter Echo](https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1u2So6XMuU1DAKnNZvevQF) | 3:31 | 2023-05-16 | 2023-07-27 |
@@ -605,6 +606,7 @@
 | [Melissa \- From CrosSing](https://open.spotify.com/track/3cPP2NYhfUYLibpFqqQB8x) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Melissa \- From CrosSing](https://open.spotify.com/album/5nCxbhDwEp0YiHEDV6COPe) | 4:17 | 2023-03-14 | 2023-04-09 |
 | [Metamorphosis](https://open.spotify.com/track/0WCaAzbaVnTDQlP8LFYDHv) | [iScream](https://open.spotify.com/artist/0e5pQ7WhkRfa6kEhzjQ9Bx) | [Metamorphosis](https://open.spotify.com/album/1CccefxgoTbtcoAiaNeMIV) | 2:55 | 2025-01-14 | 2025-04-06 |
 | [Mic rewrites the ending](https://open.spotify.com/track/7dfRUVyHacoJHBAemZ4j6v) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(東方天乙統女\)](https://open.spotify.com/artist/06T6xGOE6y3vciqX3sHb08) | [.言の葉党](https://open.spotify.com/album/0ZaEcylWEgTEa6QPUTq9Ki) | 3:42 | 2024-12-10 | 2025-01-10 |
+| [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 | 2025-05-13 |  |
 | [MILKY WAY](https://open.spotify.com/track/6nGpFQPOoWeKhqnsm5TpNc) | [Argonavis](https://open.spotify.com/artist/6Kf7Pa6m8q3x53NVZgWJFU) | [星の行方](https://open.spotify.com/album/79xdlBfV7umoNLmiUthK4G) | 3:43 | 2025-02-25 | 2025-03-26 |
 | [milky way](https://open.spotify.com/track/3lKpFtBHX0Q17ABO380mhv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 3:32 | 2024-09-06 | 2024-10-09 |
 | [Million Bucks](https://open.spotify.com/track/6nQwOESrnZ8LV4JVUaQa6Y) | [OKINI☆PARTY'S](https://open.spotify.com/artist/1QZLCJM6LGBnGBtWMfa22V), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [虎丸笑万 \(CV : Lico\)](https://open.spotify.com/artist/48rr9y5rlO6DnLvzyOkWvQ), [飴村音凛 \(CV : Noa\)](https://open.spotify.com/artist/0wqrTb8gBzUqWPbkvxrZQa), [東海林桃々子 \(CV : Mone\)](https://open.spotify.com/artist/67sMK5uAKERhKyq788OrlY) | [Million Bucks](https://open.spotify.com/album/0IPIgTLmx1nOhG0N9pb6fx) | 4:20 | 2024-12-03 | 2024-12-18 |
@@ -1628,6 +1630,7 @@
 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2022-07-07 | 2022-10-19 |
 | [声のカケラ](https://open.spotify.com/track/2EECO3bJL0t5ebyKPD6ydV) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [声のカケラ](https://open.spotify.com/album/6tsAkt96h0jDxzvczCriw1) | 4:27 | 2024-01-09 | 2024-01-31 |
 | [壱雫空](https://open.spotify.com/track/4Ov105HP2yCcWhgP6DsaDO) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [壱雫空](https://open.spotify.com/album/4QuwzcnydyFVs20IoD8ttf) | 3:09 | 2023-06-29 | 2023-08-02 |
+| [夏の現在地 \(I\_047\)](https://open.spotify.com/track/48MX9kzb7xMatXAgyDzAph) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [岡地織花](https://open.spotify.com/artist/0jZoRfTbH7qvQAyUN2E7XW) | [夏の現在地 \(I\_047\)](https://open.spotify.com/album/4NX0Ho7kSBqCcIEejaJ0Hp) | 1:40 | 2025-05-13 |  |
 | [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 | 2022-10-11 | 2023-01-11 |
 | [夏休み](https://open.spotify.com/track/0xjlX9f4wQRk0yR9Qr1uGj) | [Lyrical Lily](https://open.spotify.com/artist/5REb2r1aINeEXDGYlkazXf) | [Lyrical Recollection](https://open.spotify.com/album/5vNhzkYUm2wNFfu2uby6im) | 4:43 | 2025-01-21 | 2025-02-05 |
 | [夏夢ノイジー\(TVSize\)](https://open.spotify.com/track/6jcncY7ZCJnPkJmzXgpl6s) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [夏夢ノイジー\(TVSize\)](https://open.spotify.com/album/2H365zwPM4W0fVbvUCEnWx) | 1:36 | 2022-07-07 | 2022-07-29 |

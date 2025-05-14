@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Nippa
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,099 likes - 199 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,116 likes - 199 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [One More \- Bonus](https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:08 |
+| 1 | [One More](https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:08 |
 | 2 | [What I Gotta Do](https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [What I Gotta Do](https://open.spotify.com/album/2fl9ez05isjoG6IdqOXUzI) | 1:36 |
 | 3 | [Sympathy](https://open.spotify.com/track/7AGwFQn8ETG3cE8MVSjXBT) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ), [Domani](https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq) | [Sympathy](https://open.spotify.com/album/4tU6JQsRx6NRmGPDLduQ8l) | 2:59 |
 | 4 | [Take Her Love](https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [HunnyMoon Mountain](https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26) | 3:35 |
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 118 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 |
 | 119 | [NOSEBLEED](https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [NOSEBLEED](https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F) | 2:21 |
 | 120 | [brother and sister](https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [brother and sister](https://open.spotify.com/album/0iBv5FEHsExXe7L47h3MEf) | 2:55 |
-| 121 | [take time](https://open.spotify.com/track/7tIwXH6CgVGohwljvPt4Qp) | [Isaiah kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [take time](https://open.spotify.com/album/7hAwRSXYOMmZeXZTr4S75i) | 2:16 |
+| 121 | [take time](https://open.spotify.com/track/7tIwXH6CgVGohwljvPt4Qp) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [take time](https://open.spotify.com/album/7hAwRSXYOMmZeXZTr4S75i) | 2:16 |
 | 122 | [HERO](https://open.spotify.com/track/1RBWmBWsQFuOSyJSTFvwUj) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [OCTOBER/HERO](https://open.spotify.com/album/3QnzXOGnAsquHrRjnkfOBk) | 2:57 |
 | 123 | [In Your Absence](https://open.spotify.com/track/3HketnIKQG9qvE4YN8dKzp) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Patience & Heart / In your absence](https://open.spotify.com/album/09fe9REmQVxJNGIRBgpgfw) | 2:25 |
 | 124 | [Upperhand](https://open.spotify.com/track/6YHLJnzjbH5b5x3THQ41yq) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music \- EP](https://open.spotify.com/album/3K7e3rKAB194KQbes13kgW) | 1:58 |

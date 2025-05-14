@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1278078,
+  "num_followers": 1278130,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -651,18 +651,22 @@
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
-        "name": "With a Twist",
-        "url": "https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk"
+        "name": "Wild Is Love",
+        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
       },
       "artists": [
         {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
         }
       ],
-      "duration_ms": 336373,
-      "name": "Dance Me to the End of Love",
-      "url": "https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2"
+      "duration_ms": 222533,
+      "name": "Wild Is Love",
+      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
     },
     {
       "added_at": "2025-05-09 04:00:26",
@@ -683,22 +687,18 @@
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
-        "name": "Wild Is Love",
-        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
+        "name": "With a Twist",
+        "url": "https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk"
       },
       "artists": [
         {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Wild Is Love",
-      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
+      "duration_ms": 336373,
+      "name": "Dance Me to the End of Love",
+      "url": "https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2"
     },
     {
       "added_at": "2025-05-09 04:00:26",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
-        "name": "L O V E",
-        "url": "https://open.spotify.com/album/0lOFOmKhB58H1PfnoCD41E"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        },
-        {
-          "name": "Dennis van Aarssen",
-          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
-        }
-      ],
-      "duration_ms": 153487,
-      "name": "L O V E",
-      "url": "https://open.spotify.com/track/2Djp8QDGUST92TqTtpYEKC"
-    },
-    {
-      "added_at": "2025-05-09 04:00:26",
-      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 423013,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "L O V E",
+        "url": "https://open.spotify.com/album/0lOFOmKhB58H1PfnoCD41E"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        },
+        {
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+        }
+      ],
+      "duration_ms": 153487,
+      "name": "L O V E",
+      "url": "https://open.spotify.com/track/2Djp8QDGUST92TqTtpYEKC"
     },
     {
       "added_at": "2025-05-09 04:00:26",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
+        "name": "Here's To You - Songs For Shirley Horn",
+        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
         "name": "The Way You Look Tonight",
         "url": "https://open.spotify.com/album/47dOChRxiDb1MCaJRo6Kl4"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 187509,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8"
-    },
-    {
-      "added_at": "2025-05-09 04:00:26",
-      "album": {
-        "name": "Here's To You - Songs For Shirley Horn",
-        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
     },
     {
       "added_at": "2025-05-09 04:00:26",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
-        "name": "Never Say Yes",
-        "url": "https://open.spotify.com/album/670e77IHq9uXEBiaPh4fQZ"
-      },
-      "artists": [
-        {
-          "name": "Maria Kim",
-          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Never Say Yes",
-      "url": "https://open.spotify.com/track/2Ka8P81G57GuTFg6dP22qN"
-    },
-    {
-      "added_at": "2025-05-09 04:00:26",
-      "album": {
         "name": "Come Closer",
         "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 178426,
       "name": "People Will Say We're In Love",
       "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "Never Say Yes",
+        "url": "https://open.spotify.com/album/670e77IHq9uXEBiaPh4fQZ"
+      },
+      "artists": [
+        {
+          "name": "Maria Kim",
+          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Never Say Yes",
+      "url": "https://open.spotify.com/track/2Ka8P81G57GuTFg6dP22qN"
     },
     {
       "added_at": "2025-05-09 04:00:26",
@@ -1171,6 +1171,34 @@
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
+        "name": "Live Sings Sassy",
+        "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
+      },
+      "artists": [
+        {
+          "name": "Live Foyn Friis",
+          "url": "https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af"
+        },
+        {
+          "name": "B\u00e5rd Helgerud",
+          "url": "https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh"
+        },
+        {
+          "name": "Rodrigo Villagra",
+          "url": "https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv"
+        },
+        {
+          "name": "Magnus Sefaniassen Eide",
+          "url": "https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw"
+        }
+      ],
+      "duration_ms": 376085,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
         "name": "As We Are",
         "url": "https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx"
       },
@@ -1199,34 +1227,6 @@
       "duration_ms": 330893,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI"
-    },
-    {
-      "added_at": "2025-05-09 04:00:26",
-      "album": {
-        "name": "Live Sings Sassy",
-        "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
-      },
-      "artists": [
-        {
-          "name": "Live Foyn Friis",
-          "url": "https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af"
-        },
-        {
-          "name": "B\u00e5rd Helgerud",
-          "url": "https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh"
-        },
-        {
-          "name": "Rodrigo Villagra",
-          "url": "https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv"
-        },
-        {
-          "name": "Magnus Sefaniassen Eide",
-          "url": "https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw"
-        }
-      ],
-      "duration_ms": 376085,
-      "name": "You Go to My Head",
-      "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
     },
     {
       "added_at": "2025-05-09 04:00:26",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 272085,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm"
-    },
-    {
-      "added_at": "2025-05-09 04:00:26",
-      "album": {
         "name": "Stella Cole (Extended Version)",
         "url": "https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 160000,
       "name": "I Could Have Danced All Night",
       "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 272085,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm"
     },
     {
       "added_at": "2025-05-09 04:00:26",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/33zMJxjE9NOKnTG0Vpa48D"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 128520,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/0pbEgA27VE15Y7uKOQzzfF"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
         "name": "Flirting With Twilight",
         "url": "https://open.spotify.com/album/0eMgf6ydxMDMjoSQXDyQwn"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/74jc00Z1FUzeVzXzu6CvUa"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 310826,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/3azuowB4mADwvYCumctRrs"
-    },
-    {
-      "added_at": "2025-05-09 04:00:26",
-      "album": {
         "name": "Memories of You: A Tribute to Benny Goodman",
         "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 290653,
       "name": "Memories of You",
       "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/74jc00Z1FUzeVzXzu6CvUa"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 310826,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/3azuowB4mADwvYCumctRrs"
     },
     {
       "added_at": "2025-05-09 04:00:26",
@@ -1539,22 +1555,6 @@
       "duration_ms": 367213,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp"
-    },
-    {
-      "added_at": "2025-05-09 04:00:26",
-      "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/33zMJxjE9NOKnTG0Vpa48D"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 128520,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/0pbEgA27VE15Y7uKOQzzfF"
     },
     {
       "added_at": "2025-05-09 04:00:26",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-05-09 04:00:26",
       "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn"
-    },
-    {
-      "added_at": "2025-05-09 04:00:26",
-      "album": {
         "name": "I Only Have Eyes For You",
         "url": "https://open.spotify.com/album/0RD4tTRG9JWmkhq4rpiRXk"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 192000,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/3ThCPINLVGtNGFhxLC4slT"
+    },
+    {
+      "added_at": "2025-05-09 04:00:26",
+      "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn"
     },
     {
       "added_at": "2025-05-09 04:00:26",

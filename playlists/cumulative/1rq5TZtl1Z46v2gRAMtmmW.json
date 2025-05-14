@@ -7305,6 +7305,32 @@
     },
     {
       "album": {
+        "name": "Tom\u00e1s",
+        "url": "https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Tom\u00e1s",
+      "url": "https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa"
+    },
+    {
+      "album": {
         "name": "Infinite Health",
         "url": "https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW"
       },

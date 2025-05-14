@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Tyla, The Haunted Youth, Miley Cyrus and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,282 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,292 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 29 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 30 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 |
 | 31 | ['97 \( don't act like you know me \)](https://open.spotify.com/track/2VguErGSsljWdUUO8FYgyw) | [Maude](https://open.spotify.com/artist/3V0aYZvJGDE2SZwNNv80Xa) | ['97 \( don't act like you know me \)](https://open.spotify.com/album/4OUGkQ1KhCUIvZhu9XFvir) | 3:04 |
-| 32 | [Better Days](https://open.spotify.com/track/4l0QdmOrQhPxFcT78B2IsA) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [Better Days](https://open.spotify.com/album/7Hyky9PcYlzgdkDbJMPsHW) | 4:04 |
+| 32 | [Better Days \- Radio Edit](https://open.spotify.com/track/4l0QdmOrQhPxFcT78B2IsA) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [Better Days](https://open.spotify.com/album/7Hyky9PcYlzgdkDbJMPsHW) | 4:04 |
 | 33 | [Gold](https://open.spotify.com/track/1Gygba8Ion9njMsLsJ5YaQ) | [Frantzis](https://open.spotify.com/artist/0wqTur6cFfTcLbnrBUV9dg) | [Gold](https://open.spotify.com/album/4N7qGO6K1vtBDOiHs2VaMf) | 2:53 |
 | 34 | [Kaartenhuis](https://open.spotify.com/track/1xrvttihsSQmU1qpUY48XJ) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Kaartenhuis](https://open.spotify.com/album/34TIrIc7Hxk0nkK5qEMesa) | 3:55 |
 | 35 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 |

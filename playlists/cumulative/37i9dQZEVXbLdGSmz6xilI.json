@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -3130,6 +3130,24 @@
       "duration_ms": 227492,
       "name": "Bu\u00f4ng \u0110\u00f4i Tay Nhau Ra",
       "url": "https://open.spotify.com/track/2vYaldhZyuRk6me6yowg8e"
+    },
+    {
+      "album": {
+        "name": "m-tp M-TP",
+        "url": "https://open.spotify.com/album/1AaxmI2e1HRhbwe9XJGPnT"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227492,
+      "name": "Bu\u00f4ng \u0110\u00f4i Tay Nhau Ra",
+      "url": "https://open.spotify.com/track/3P3rcI48wwVEgxF5vPM6pG"
     },
     {
       "album": {
@@ -10088,7 +10106,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 271704,
       "name": "id 072019",
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
@@ -11436,6 +11454,24 @@
       "duration_ms": 164266,
       "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
       "url": "https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY"
+    },
+    {
+      "album": {
+        "name": "THEATER OF DREAMS (Volume 4)",
+        "url": "https://open.spotify.com/album/3E21KthaeTgJgTWrqkME9t"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u00f4ng Nhi",
+          "url": "https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206709,
+      "name": "K\u1ef5 S\u0129 V\u00e0 \u00c1nh Sao",
+      "url": "https://open.spotify.com/track/62oJI8qLl1kFx77NQiCFo7"
     },
     {
       "album": {
@@ -15376,7 +15412,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 206139,
       "name": "N\u00f3i D\u1ed1i",
       "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
@@ -15474,7 +15510,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 206111,
       "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
       "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
@@ -21262,7 +21298,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 165161,
       "name": "Track 06",
       "url": "https://open.spotify.com/track/72NMPuJCRsOUoXQJdzVfdo"
@@ -22218,7 +22254,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 252500,
       "name": "T\u1eebng L\u00e0",
       "url": "https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE"

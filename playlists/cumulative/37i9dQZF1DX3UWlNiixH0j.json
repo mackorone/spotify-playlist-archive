@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Chappo \u30b7\u30e3\u30c3\u30dd",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Billyrrom",
   "name": "Edge!",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 182000,
       "name": "(Da Da Da) Day Ones - feat. Sagiri S\u00f3l",
       "url": "https://open.spotify.com/track/0LA15b3Bs8tuTnIA8KeNJn"
+    },
+    {
+      "album": {
+        "name": "(Every Moment Needs Your) Choice and Sweat (feat. \u5317\u6751\u8557)",
+        "url": "https://open.spotify.com/album/6Qj8x64pbfM9tVnpDYmsZV"
+      },
+      "artists": [
+        {
+          "name": "yuma yamaguchi",
+          "url": "https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8"
+        },
+        {
+          "name": "\u5317\u6751\u8557",
+          "url": "https://open.spotify.com/artist/0LsvrZNDpK85Tk5g67w01G"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164674,
+      "name": "(Every Moment Needs Your) Choice and Sweat (feat. \u5317\u6751\u8557)",
+      "url": "https://open.spotify.com/track/3xAHEo2Sa0fezECilv4gKx"
     },
     {
       "album": {
@@ -258,6 +280,28 @@
       "duration_ms": 221530,
       "name": "18\u624d\u306e\u590f\u4f11\u307f",
       "url": "https://open.spotify.com/track/4SKUc66FMz0BXpqaF2G94u"
+    },
+    {
+      "album": {
+        "name": "Gen",
+        "url": "https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "2 (feat. Lee Youngji)",
+      "url": "https://open.spotify.com/track/2G2xaShzWWd7lhtaRSmwPO"
     },
     {
       "album": {
@@ -1734,7 +1778,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 228400,
       "name": "Apollo - Single Version",
       "url": "https://open.spotify.com/track/2p8GxDwi4ZH7WrvSOprFqi"
@@ -3376,7 +3420,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 169208,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
@@ -8816,7 +8860,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 327066,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2b2ck4wCQhwIlr6m7mCY7N"
@@ -12352,7 +12396,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 195520,
       "name": "Kaze",
       "url": "https://open.spotify.com/track/4xpFyoaOkH5UK9BPv3nWBZ"
@@ -18282,6 +18326,24 @@
       "duration_ms": 198289,
       "name": "Pacific",
       "url": "https://open.spotify.com/track/4J3lBZe7wVtWh9g5JOY5Wh"
+    },
+    {
+      "album": {
+        "name": "panopticon",
+        "url": "https://open.spotify.com/album/0SvE6R47pYJwHGiQfHnjDN"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192166,
+      "name": "panopticon",
+      "url": "https://open.spotify.com/track/4eardTeytBp5aoXoNzdBGv"
     },
     {
       "album": {
@@ -25941,6 +26003,24 @@
     },
     {
       "album": {
+        "name": "Torie",
+        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234380,
+      "name": "Torie",
+      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
+    },
+    {
+      "album": {
         "name": "FIELDS",
         "url": "https://open.spotify.com/album/6csud901rv0tlVffyKpOy5"
       },
@@ -26184,7 +26264,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 246503,
       "name": "Trial",
       "url": "https://open.spotify.com/track/6F4dJc6g4o9bunMkhciBzN"
@@ -31592,6 +31672,24 @@
       "duration_ms": 118133,
       "name": "\u3082\u3046\u3051\u3082\u3093",
       "url": "https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn"
+    },
+    {
+      "album": {
+        "name": "\u3082\u3057\u3082\u307e\u305f\u96c6\u307e\u308c\u308c\u3070",
+        "url": "https://open.spotify.com/album/7c7wk14lYjZJRVnd3NXB4r"
+      },
+      "artists": [
+        {
+          "name": "Pome Shih Tzu",
+          "url": "https://open.spotify.com/artist/2h0gmNMVi41YZ0P0TFg9my"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216977,
+      "name": "\u3082\u3057\u3082\u307e\u305f\u96c6\u307e\u308c\u308c\u3070",
+      "url": "https://open.spotify.com/track/046AC9qQPulAogS72hGCNj"
     },
     {
       "album": {

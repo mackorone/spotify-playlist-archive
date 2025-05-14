@@ -4,7 +4,7 @@
 
 > Best of Haryanvi Hip\-Hop! Cover: D Naveen
 
-419 songs - 21 hr 36 min
+420 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Balak Gaama Ke](https://open.spotify.com/track/1ze9e3pkjdU9z6R7jPKuvN) | [Hallu Mandiaala](https://open.spotify.com/artist/5hXwj2AU0GkQlBvj6rLPLE), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy) | [Balak Gaama Ke](https://open.spotify.com/album/4fPKkFkpNkPo7752kqqfbk) | 2:36 | 2023-09-08 | 2024-02-24 |
 | [BANDEKHANI](https://open.spotify.com/track/0Yly2vTZ58vOK2pbRbTAhx) | [Ricky Singh](https://open.spotify.com/artist/7dC0vBjsZRfnAbl5MDjWjm), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [BANDEKHANI](https://open.spotify.com/album/7jfDVnMgbgUXhiqa9PvU64) | 3:09 | 2023-12-14 | 2024-02-08 |
 | [Banger](https://open.spotify.com/track/0WSsU9xfo2zGol8MYqO9q4) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Banger](https://open.spotify.com/album/4SpOQqLYAKJg1woQLczbjm) | 3:28 | 2024-03-29 | 2025-01-11 |
-| [Barmer To Hongkong](https://open.spotify.com/track/4e7OUJxaMFpN2mb5msncZY) | [Dishank Sharma](https://open.spotify.com/artist/3UO14Y2A84WsxyqnXLRv85), [Smokey](https://open.spotify.com/artist/0pjOlblZPSB8G5SC0kduPW) | [Barmer To Hongkong](https://open.spotify.com/album/1a76HZ1gdIgyCKAFEkrVfF) | 2:39 | 2025-03-28 |  |
+| [Barmer To Hongkong](https://open.spotify.com/track/4e7OUJxaMFpN2mb5msncZY) | [Dishank Sharma](https://open.spotify.com/artist/3UO14Y2A84WsxyqnXLRv85), [Smokey](https://open.spotify.com/artist/0pjOlblZPSB8G5SC0kduPW) | [Barmer To Hongkong](https://open.spotify.com/album/1a76HZ1gdIgyCKAFEkrVfF) | 2:39 | 2025-03-28 | 2025-05-14 |
 | [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-13 |  |
 | [Beat Pe Haley](https://open.spotify.com/track/1zKCjvOntyHye2uo9yStm7) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [SPOILER](https://open.spotify.com/artist/0sUr4Ao1sdL4xjebJJHQoY) | [Beat Pe Haley](https://open.spotify.com/album/0rYNzF3IEoaJZpsmWIDwUW) | 2:34 | 2023-12-22 | 2025-01-25 |
 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 | 2023-04-28 | 2025-01-11 |
@@ -95,6 +95,7 @@
 | [Chunni Re](https://open.spotify.com/track/10UovAa1vY1LMGMuoP75aK) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq) | [Chunni Re](https://open.spotify.com/album/501Xyp289koskmOatyc0Sk) | 2:35 | 2023-12-14 | 2024-03-14 |
 | [Cigarette](https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Cigarette](https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F) | 2:40 | 2023-12-14 | 2025-01-11 |
 | [Circle](https://open.spotify.com/track/5d3cpUagWngKLiIwtHSLKV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Circle](https://open.spotify.com/album/6cEaAwxDU0JPzApMzVFcEZ) | 3:14 | 2023-08-30 | 2023-09-28 |
+| [City Seized](https://open.spotify.com/track/1iIZKR036e1FtffuSydKHO) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [City Seized](https://open.spotify.com/album/459mJj5wBl29EAQqSq5J7q) | 2:48 | 2025-05-13 |  |
 | [Commercial](https://open.spotify.com/track/22NIX7ocBNnIMH0WCrTqpY) | [Dev Lohia](https://open.spotify.com/artist/6e5BITKRuXj4Xu4Jmfwtnp) | [Commercial](https://open.spotify.com/album/0jL3NoyEZCuNz8Mj7620Rq) | 1:59 | 2024-11-29 | 2025-01-19 |
 | [Concentrate Drill](https://open.spotify.com/track/7BRxPnK4rwOf01MMCUljSI) | [Chota Puthar Aala](https://open.spotify.com/artist/4UU6mpKAEYiMTEf7J5Zgp7), [Sumit Seedpuriya](https://open.spotify.com/artist/2Ts3AzZrjd3LNIQhjYQxQS) | [Concentrate Drill](https://open.spotify.com/album/4odgsg6ibpmkxaQNbLUov1) | 4:17 | 2024-07-03 | 2024-07-09 |
 | [Confuse](https://open.spotify.com/track/5nXadOAptwlFI7desJ3P1e) | [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Confuse](https://open.spotify.com/album/4oLOKpv3T6F7GoE6Q8rRGQ) | 2:39 | 2024-09-16 | 2024-10-25 |

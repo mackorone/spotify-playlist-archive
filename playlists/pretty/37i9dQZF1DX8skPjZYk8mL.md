@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,310 likes - 360 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,420 likes - 360 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 39 | [Polly Wolly Doodle](https://open.spotify.com/track/6k3zfD44SLtPDPqysgTYd9) | [Vera Oppenheim](https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT) | [Polly Wolly Doodle](https://open.spotify.com/album/6qYgS9txCqExvzBCsZsJRh) | 1:34 |
 | 40 | [Summer Rain Lullaby](https://open.spotify.com/track/1tqpXIIpSt37fwvTnd0eaD) | [Moa Schooner](https://open.spotify.com/artist/0bVphTIhvj7rQlDw7z6v2R) | [Summer Rain Lullaby](https://open.spotify.com/album/5kr9AhpIeh3IThdTKwRzXR) | 1:52 |
 | 41 | [Happy Thoughts](https://open.spotify.com/track/5sVXeMDbBvCBYP9Ff22MUp) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [Happy Thoughts](https://open.spotify.com/album/0tdtCvjgOZ2H894bsA3V3K) | 1:47 |
-| 42 | [The Little Snoring Owl](https://open.spotify.com/track/5Q5gTO1LRNR0HY8czjdcIG) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [The Little Snoring Owl](https://open.spotify.com/album/6WHLVi1LmayxXqjxNVl22V) | 2:28 |
+| 42 | [The Little Snoring Owl](https://open.spotify.com/track/5Q5gTO1LRNR0HY8czjdcIG) | [Dean Demir](https://open.spotify.com/artist/2qij1FezCSL4pjcwoYKWhC) | [The Little Snoring Owl](https://open.spotify.com/album/6WHLVi1LmayxXqjxNVl22V) | 2:28 |
 | 43 | [Take Me Out to the Ball Game](https://open.spotify.com/track/26i7uHjympKu1M9rOhOu4N) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Take Me Out to the Ball Game](https://open.spotify.com/album/2dsoYvsV0m83I2f2aI6w2G) | 1:33 |
 | 44 | [Counting Stars](https://open.spotify.com/track/0wbVhmhAHc7c5eBcK1GuuZ) | [Maverick Selby](https://open.spotify.com/artist/70qivo8pTGpQqrjHgWYvqO) | [Counting Stars](https://open.spotify.com/album/5lMNM5gf0la5CSas7LuSBY) | 1:36 |
 | 45 | [Gentle Summer Whisper](https://open.spotify.com/track/5tVlmRlcwpDtE5VN9cumxF) | [Serenna Rose](https://open.spotify.com/artist/2xf55c70Tg8MFm1ZB6uXfY) | [Gentle Summer Whisper](https://open.spotify.com/album/0sSYuvTwd0x7vgjZIgU1XN) | 2:23 |

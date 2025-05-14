@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: AMORE.
 
-433 songs - 22 hr 30 min
+434 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [El verano de Elia y Elizabeth](https://open.spotify.com/track/3wlU3uK3OyFOaRuCahFvhI) | [Wild Honey](https://open.spotify.com/artist/1RLwfTeuQPUkU6z1JQiE4P) | [El verano de Elia y Elizabeth](https://open.spotify.com/album/5WHIyPeWNJEmEeUxS2RhsA) | 2:50 | 2024-06-27 | 2024-08-02 |
 | [El Árbol \[2007\]](https://open.spotify.com/track/15tf0pP4EbDeAEkFUlvUVg) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [El Árbol \[2007\]](https://open.spotify.com/album/2phzFk3T28u6PPq7oIONNe) | 3:34 | 2025-02-27 |  |
 | [El último rumor](https://open.spotify.com/track/0IEoSXu72fqQGM932uNXXQ) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [El último rumor](https://open.spotify.com/album/3Qf1nutq0p7tAfOYDLnjcG) | 2:39 | 2024-07-04 | 2024-08-02 |
-| [Elizabeth](https://open.spotify.com/track/1RZcXkyB8Ex8RAGJWX4K7g) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Elizabeth](https://open.spotify.com/album/0wO9kY8dteHnjYaTwT8wRP) | 3:00 | 2025-01-23 |  |
+| [Elizabeth](https://open.spotify.com/track/1RZcXkyB8Ex8RAGJWX4K7g) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Elizabeth](https://open.spotify.com/album/0wO9kY8dteHnjYaTwT8wRP) | 3:00 | 2025-01-23 | 2025-05-14 |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-08-29 | 2024-09-13 |
 | [En memoria de las cicatrices](https://open.spotify.com/track/5lP1pNkWObsnmBsRY7qT1W) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [En memoria de las cicatrices](https://open.spotify.com/album/6yELhK7UiNQWI4oKrCclva) | 2:48 | 2024-07-25 | 2024-08-23 |
 | [Enamorado de tu reverb](https://open.spotify.com/track/5vL5TRZdmuP7OGY93zaFRs) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Enamorado de tu reverb](https://open.spotify.com/album/273Bae4idLgIuVnJFuLYQz) | 4:02 | 2024-10-31 | 2024-11-15 |
@@ -241,6 +241,7 @@
 | [Mar Menor](https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Mar Menor](https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW) | 3:13 | 2024-12-19 | 2025-04-11 |
 | [MARIA](https://open.spotify.com/track/1nRvl1ztx7pwPxnQQQv7B1) | [Galician Army](https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [MARIA](https://open.spotify.com/album/2gf6opx4lkbSyHstkTCBXO) | 3:40 | 2025-04-10 | 2025-04-24 |
 | [MARICARMEN](https://open.spotify.com/track/43IK9P5MlkuDsnvfCo7IDb) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [MARICARMEN](https://open.spotify.com/album/3EVKwSXBWb5im9V4EJqwB3) | 3:13 | 2024-09-12 | 2024-12-27 |
+| [Marte](https://open.spotify.com/track/4nfalsBWmNR6M2RqbhfVwH) | [Begut](https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u) | [Marte](https://open.spotify.com/album/21E5JHDu28c4fI9b6NvBWq) | 3:31 | 2025-05-08 |  |
 | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX) | 1:54 | 2024-07-04 | 2024-09-02 |
 | [MATCHPOINT!](https://open.spotify.com/track/080505yqCmNc5Lqjx0uqCu) | [Desmelenao](https://open.spotify.com/artist/5e3AeuzcPHLKIimvkRlK5m), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [MATCHPOINT!](https://open.spotify.com/album/5AKCt1BVoVVdXAHWSWAzZh) | 2:37 | 2024-08-08 | 2024-08-30 |
 | [Mañana](https://open.spotify.com/track/6aWI0hMdwOtrIFh6NfMxEs) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Mañana](https://open.spotify.com/album/2HoHOGVL9uVCZ3K7v91Wfr) | 4:01 | 2024-07-11 | 2024-07-20 |

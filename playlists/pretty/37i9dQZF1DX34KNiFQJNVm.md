@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela com Alok, Mano Walter, L7NNON, MC Marlon PH e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,078,312 likes - 89 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,078,405 likes - 89 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 79 | [Hand That Feeds \- From the Film Ballerina](https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Hand That Feeds \(From the Film Ballerina\)](https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg) | 3:06 |
 | 80 | [Bloodline](https://open.spotify.com/track/4j4rbZs658sxsDefOzq5Gu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [MIXED EMOTIONS](https://open.spotify.com/album/2fbZbR42v9wRJ8aojApy5Z) | 3:11 |
 | 81 | [Melhor Assim](https://open.spotify.com/track/6LasRNS5VpIoGLx8LmCXxM) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [Y](https://open.spotify.com/album/7MLJDclnjQfoTzmAYzsebI) | 3:21 |
-| 82 | [Não Podermos O Amar Para](https://open.spotify.com/track/3E57NeDHSMiJsDUTDZsZi5) | [Dom Salvador](https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Não Podermos O Amar Para](https://open.spotify.com/album/09FH25pLvBEIQ4ZKPIR3kM) | 4:21 |
+| 82 | [Não Podermos O Amor Parar](https://open.spotify.com/track/3E57NeDHSMiJsDUTDZsZi5) | [Dom Salvador](https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Não Podermos O Amor Parar](https://open.spotify.com/album/09FH25pLvBEIQ4ZKPIR3kM) | 4:21 |
 | 83 | [High On The Internet](https://open.spotify.com/track/06FGo1WHf20zKD7eF7veM6) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [High On The Internet](https://open.spotify.com/album/3GARsxwPT6bbyik0yn6NGu) | 3:22 |
 | 84 | [Derrubar o Cistema](https://open.spotify.com/track/5pUsSD53zoMK6lJOo4WStY) | [Raissa Fayet](https://open.spotify.com/artist/0OFLnfEgSm9aDxz43P9e1x), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rita Von Hunty](https://open.spotify.com/artist/0wR484XdCI8bitvDjuhZU6) | [Derrubar o Cistema](https://open.spotify.com/album/3QAblib1kKKtGuPb1DAQYr) | 4:19 |
 | 85 | [Inverno Sem Verão](https://open.spotify.com/track/6M5FpmdT1YWh3Nu16azdL9) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Inverno Sem Verão](https://open.spotify.com/album/0ZAIm8VlJw8IqQ3UmYMEnf) | 3:50 |

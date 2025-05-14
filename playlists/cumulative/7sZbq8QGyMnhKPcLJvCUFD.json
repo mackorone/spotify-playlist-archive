@@ -286,6 +286,24 @@
     {
       "album": {
         "name": "Alive",
+        "url": "https://open.spotify.com/album/2lhmR04Crc9MfIgbJXiPI7"
+      },
+      "artists": [
+        {
+          "name": "Tamlin",
+          "url": "https://open.spotify.com/artist/6SxLJrAEcNokqcw5vBF0zS"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223680,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1vnUM8WoxD53ZDt46J4u1d"
+    },
+    {
+      "album": {
+        "name": "Alive",
         "url": "https://open.spotify.com/album/0apwIZ3lquYGdDgCLntSmG"
       },
       "artists": [

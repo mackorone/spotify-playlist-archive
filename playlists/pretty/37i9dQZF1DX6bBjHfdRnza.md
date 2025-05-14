@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Fish56Octagon\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,582 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,648 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Like That](https://open.spotify.com/track/2BuV5iXq2xn04ze6c4T533) | [Fish56Octagon](https://open.spotify.com/artist/46Ro78dkP2X0XUKmiovwL3) | [Like That](https://open.spotify.com/album/3UNsAUmWIpLdPycnCiBK6u) | 3:01 |
 | 2 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
-| 3 | [Deep In My Soul](https://open.spotify.com/track/67P8gf3dsZ9pK72GPcxXno) | [ALEXA PERL](https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd) | [Deep In My Soul](https://open.spotify.com/album/6aEztid0k8M1whcWZvBRYF) | 3:10 |
-| 4 | [I am not who I was](https://open.spotify.com/track/5nkrAIIfFFQ1PyV69TSzpl) | [Natheless](https://open.spotify.com/artist/3yQIGt95ew1No5knvYr5iA), [Jan Skuba](https://open.spotify.com/artist/4VT4cVNwpWAyVXZuuSwA4C) | [I am not who I was](https://open.spotify.com/album/79Zf3bNg4NBb8mMieYji3X) | 2:46 |
-| 5 | [Feel Free](https://open.spotify.com/track/14i8SXMWkko9mMvtXVsOch) | [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [Feel Free](https://open.spotify.com/album/69M7vsJEP13XMGPEHauGhW) | 4:12 |
-| 6 | [ON MY MIND](https://open.spotify.com/track/2OqZZYaBBprhRor4wqKXa8) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp) | [ON MY MIND](https://open.spotify.com/album/5SKTcJXX90jtoBy0FD78oQ) | 4:32 |
-| 7 | [MISSILE](https://open.spotify.com/track/3lcBSOCXxwv73BTsqJAthH) | [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [MISSILE](https://open.spotify.com/album/64ao6VKyVrXKlExMqEABOl) | 2:23 |
-| 8 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
-| 9 | [Feel The Same](https://open.spotify.com/track/2IuWL6gGz4Xch9STYdFxm2) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Feel The Same](https://open.spotify.com/album/33PKFeLmCxfXZcRaLPKfs1) | 1:55 |
-| 10 | [Be With You](https://open.spotify.com/track/5LRJ0Rv5qCZSXPu98SBEN1) | [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0) | [Be With You](https://open.spotify.com/album/3NrjPRb96WbJS1fcJFreml) | 3:03 |
-| 11 | [Back to You](https://open.spotify.com/track/0Faw8f2myhjtZrE3MUYfu5) | [Evenity](https://open.spotify.com/artist/2xvIl9tkJtch2KY7rbRsjv) | [Back to You](https://open.spotify.com/album/17FWRvyqViodC7t5q4lZHR) | 2:42 |
-| 12 | [Bring The Funk Back](https://open.spotify.com/track/2GWrlPQcDAwmNWfRQ3p4my) | [Nigel Hey](https://open.spotify.com/artist/1cPQM2gu0JiwizeLoo9Edt) | [Bring The Funk Back EP](https://open.spotify.com/album/4uuvhkwgrUOsV5zAVHN7jM) | 2:46 |
+| 3 | [Bring The Funk Back](https://open.spotify.com/track/2GWrlPQcDAwmNWfRQ3p4my) | [Nigel Hey](https://open.spotify.com/artist/1cPQM2gu0JiwizeLoo9Edt) | [Bring The Funk Back EP](https://open.spotify.com/album/4uuvhkwgrUOsV5zAVHN7jM) | 2:46 |
+| 4 | [Deep In My Soul](https://open.spotify.com/track/67P8gf3dsZ9pK72GPcxXno) | [ALEXA PERL](https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd) | [Deep In My Soul](https://open.spotify.com/album/6aEztid0k8M1whcWZvBRYF) | 3:10 |
+| 5 | [I am not who I was](https://open.spotify.com/track/5nkrAIIfFFQ1PyV69TSzpl) | [Natheless](https://open.spotify.com/artist/3yQIGt95ew1No5knvYr5iA), [Jan Skuba](https://open.spotify.com/artist/4VT4cVNwpWAyVXZuuSwA4C) | [I am not who I was](https://open.spotify.com/album/79Zf3bNg4NBb8mMieYji3X) | 2:46 |
+| 6 | [Feel Free](https://open.spotify.com/track/14i8SXMWkko9mMvtXVsOch) | [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [Feel Free](https://open.spotify.com/album/69M7vsJEP13XMGPEHauGhW) | 4:12 |
+| 7 | [ON MY MIND](https://open.spotify.com/track/2OqZZYaBBprhRor4wqKXa8) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp) | [ON MY MIND](https://open.spotify.com/album/5SKTcJXX90jtoBy0FD78oQ) | 4:32 |
+| 8 | [MISSILE](https://open.spotify.com/track/3lcBSOCXxwv73BTsqJAthH) | [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [MISSILE](https://open.spotify.com/album/64ao6VKyVrXKlExMqEABOl) | 2:23 |
+| 9 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
+| 10 | [Feel The Same](https://open.spotify.com/track/2IuWL6gGz4Xch9STYdFxm2) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Feel The Same](https://open.spotify.com/album/33PKFeLmCxfXZcRaLPKfs1) | 1:55 |
+| 11 | [Be With You](https://open.spotify.com/track/5LRJ0Rv5qCZSXPu98SBEN1) | [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0) | [Be With You](https://open.spotify.com/album/3NrjPRb96WbJS1fcJFreml) | 3:03 |
+| 12 | [Back to You](https://open.spotify.com/track/0Faw8f2myhjtZrE3MUYfu5) | [Evenity](https://open.spotify.com/artist/2xvIl9tkJtch2KY7rbRsjv) | [Back to You](https://open.spotify.com/album/17FWRvyqViodC7t5q4lZHR) | 2:42 |
 | 13 | [All The Ladies](https://open.spotify.com/track/2QF5OiI1KWDl3etuKnj69m) | [ALEXA PERL](https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd), [Katie Holmes\-Smith](https://open.spotify.com/artist/3cjrth6or1jSY1WDPb4Max) | [All The Ladies](https://open.spotify.com/album/0vpYDxBfCV5KtC0neF0YMD) | 3:35 |
 | 14 | [ineedu](https://open.spotify.com/track/5v35hxyNPToBxF5vx737U8) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [ineedu](https://open.spotify.com/album/4CSGs0uGFhhmXsXOa4s2ms) | 2:25 |
 | 15 | [SIDE2SIDE](https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [RED RAVE](https://open.spotify.com/album/0PZtxlib1VInBCoz4TVijP) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Pesadão](https://open.spotify.com/track/5e43krT4xSgcaFvnxNC00J) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4), [Shuga](https://open.spotify.com/artist/7DyQpeiuHFiQ8vR0p9zGdE) | [Pesadão](https://open.spotify.com/album/54aqaVNIfHMguULs5Cdt4i) | 3:16 |
 | 100 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 |
 
-Snapshot ID: `aB4UWQAAAABdo0+ZccM+Aq2ZQpbVHYhi`
+Snapshot ID: `aCNahgAAAAA54IA48x4KZgNL7vetV0OP`

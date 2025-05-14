@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 
 > It's a good day to be a My Day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,203 likes - 87 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,240 likes - 87 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 |
 | 2 | [끝났지 game over](https://open.spotify.com/track/39zH0b5b1tJfXUCW0hPE8P) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 2:49 |
 | 3 | [MAPLELATTE](https://open.spotify.com/track/5kESieK998xFJjigvYreWJ) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Dear.M \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1P4dQAVfrGGWHrJpBb8SSu) | 3:53 |
-| 4 | [Check Pattern](https://open.spotify.com/track/3bbuy0sL7miaccIfh6s86b) | [SUNGJIN](https://open.spotify.com/artist/5ZQ96t8nPfBXYdZaXZwDHC) | [30](https://open.spotify.com/album/3JySXkeZCG1WiMNlBB3n9p) | 3:17 |
-| 5 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 |
-| 6 | [Monster](https://open.spotify.com/track/3nSyllwWNp9XuLKqCWswVv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:36 |
-| 7 | [She Smiled](https://open.spotify.com/track/6e5L42GYpMs0jHODC9VEes) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:22 |
-| 8 | [Shxtty Game](https://open.spotify.com/track/4UToDzb0OxKTPQNZt1aL4x) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:09 |
-| 9 | [Help Me Rock&Roll](https://open.spotify.com/track/61Jmp8gGCF2pZDlGZ3d9D2) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:36 |
-| 10 | [COUNTER](https://open.spotify.com/track/0oDDoTLcHPMnHJNmB2Ts40) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:58 |
-| 11 | [I'm Fine](https://open.spotify.com/track/0HEeafoIUSw9baWulU9WYC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:15 |
-| 12 | [Still There](https://open.spotify.com/track/5royC4vK6AQGfkRwbnL0Qa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:19 |
-| 13 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 |
-| 14 | [HAPPY](https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:09 |
-| 15 | [The Power of Love](https://open.spotify.com/track/0LdpgzRupg6P511GEACdm2) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:22 |
-| 16 | [Get The Hell Out](https://open.spotify.com/track/54Nmnszi5JHkDad4HJ5Cul) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 2:46 |
-| 17 | [Sad Ending](https://open.spotify.com/track/68Jm50sJpUdqu3IyMdFaXp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:24 |
-| 18 | [Let Me Love You](https://open.spotify.com/track/3A5urMlHvbqkxMaz5AtXGN) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 4:03 |
-| 19 | [didn't know](https://open.spotify.com/track/5w7gTLyEWG3zXlawkP4Kf7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:59 |
+| 4 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 |
+| 5 | [Monster](https://open.spotify.com/track/3nSyllwWNp9XuLKqCWswVv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:36 |
+| 6 | [She Smiled](https://open.spotify.com/track/6e5L42GYpMs0jHODC9VEes) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:22 |
+| 7 | [Shxtty Game](https://open.spotify.com/track/4UToDzb0OxKTPQNZt1aL4x) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:09 |
+| 8 | [Help Me Rock&Roll](https://open.spotify.com/track/61Jmp8gGCF2pZDlGZ3d9D2) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:36 |
+| 9 | [COUNTER](https://open.spotify.com/track/0oDDoTLcHPMnHJNmB2Ts40) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:58 |
+| 10 | [I'm Fine](https://open.spotify.com/track/0HEeafoIUSw9baWulU9WYC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:15 |
+| 11 | [Still There](https://open.spotify.com/track/5royC4vK6AQGfkRwbnL0Qa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:19 |
+| 12 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 |
+| 13 | [HAPPY](https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:09 |
+| 14 | [The Power of Love](https://open.spotify.com/track/0LdpgzRupg6P511GEACdm2) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:22 |
+| 15 | [Get The Hell Out](https://open.spotify.com/track/54Nmnszi5JHkDad4HJ5Cul) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 2:46 |
+| 16 | [Sad Ending](https://open.spotify.com/track/68Jm50sJpUdqu3IyMdFaXp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:24 |
+| 17 | [Let Me Love You](https://open.spotify.com/track/3A5urMlHvbqkxMaz5AtXGN) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 4:03 |
+| 18 | [didn't know](https://open.spotify.com/track/5w7gTLyEWG3zXlawkP4Kf7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:59 |
+| 19 | [Check Pattern](https://open.spotify.com/track/3bbuy0sL7miaccIfh6s86b) | [SUNGJIN](https://open.spotify.com/artist/5ZQ96t8nPfBXYdZaXZwDHC) | [30](https://open.spotify.com/album/3JySXkeZCG1WiMNlBB3n9p) | 3:17 |
 | 20 | [Voiceless](https://open.spotify.com/track/4LK6Kbz62qTjzhA9MbXuRB) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Pilmography](https://open.spotify.com/album/6ycojlJlzjC6T9IlWYI0PK) | 3:47 |
 | 21 | [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 |
 | 22 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 | 86 | [WARNING!](https://open.spotify.com/track/6P3opmvaRieLo5vLKRPbjy) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth, Part\. 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 3:25 |
 | 87 | [OUCH](https://open.spotify.com/track/3YftGIMRfazVINtT3mcM3k) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:17 |
 
-Snapshot ID: `aBwP4AAAAAD5TaG56+d63yZnLCC72x72`
+Snapshot ID: `aCNCewAAAABSX9ocsXFC7RHNDo1h+gY+`

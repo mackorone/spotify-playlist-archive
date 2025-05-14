@@ -2,9 +2,9 @@
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy en met karakter\. cover: Winne
+> edgy en met karakter\. cover: Zwangere Guy
 
-200 songs - 10 hr 31 min
+202 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [KROKODILLENTRANEN](https://open.spotify.com/track/1MfB3nj3mpBs0kIknCa5Jq) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [KROKODILLENTRANEN](https://open.spotify.com/album/3kotYFrp56wZNHMruY4lxh) | 2:48 | 2024-02-15 | 2024-06-26 |
 | [laat me niet los](https://open.spotify.com/track/0ITnIwJPzu6GDXgPnM3gFk) | [Sandor Dayala](https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69) | [OPEN](https://open.spotify.com/album/6ofyMWnnOfhJ7KiCQxtqvx) | 2:22 | 2024-05-17 | 2025-03-13 |
 | [Laatste Dans](https://open.spotify.com/track/4fNLoZ0PmHqO0dY5xorh2L) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Twintig \(Deluxe\)](https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci) | 3:01 | 2023-11-07 | 2024-11-29 |
+| [Leven Beter](https://open.spotify.com/track/7MldMN7hHGF7gLgbvfepSG) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0) | [Leven Beter](https://open.spotify.com/album/5Kk1rJl971vTHiMh5I7ore) | 3:55 | 2025-05-13 |  |
 | [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 | 2023-02-23 | 2023-08-18 |
 | [Liar](https://open.spotify.com/track/4bBqtW6tslUJbzmEIKhjhq) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/4szdNUevCiLlpj5BKdZrFd) | 3:54 | 2023-06-23 | 2023-09-01 |
 | [Lila](https://open.spotify.com/track/7KEYsxeFYN0ruMY6sGNdtf) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4), [VAAGUE](https://open.spotify.com/artist/4P0mtkvvIWdZn9mNsKXTDs) | [Mirrors](https://open.spotify.com/album/7L161NHfeg5E3dHOvr5GZ0) | 4:17 | 2023-05-11 | 2024-07-27 |
@@ -106,6 +107,7 @@
 | [Longing](https://open.spotify.com/track/2U7WtnPe5yrL8Om5Ml6P3v) | [Wynnm](https://open.spotify.com/artist/5OKbhPqXR4Xve2CSXW4T5K) | [Longing](https://open.spotify.com/album/5sqMOHMgo59ybNc2XXuoM8) | 3:14 | 2023-02-23 | 2024-05-10 |
 | [Lost in a Dream](https://open.spotify.com/track/1BMKskvvqRdE6HfGcj8XbG) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D), [Fabrik](https://open.spotify.com/artist/0Tf7on9sUYYHevISgz3phb) | [Lost in a Dream](https://open.spotify.com/album/7JAvvJn4k4F9eD2czSDQUp) | 3:19 | 2023-02-23 | 2023-05-27 |
 | [M.I.A.](https://open.spotify.com/track/2k72CgD12K29xCHQrA9ToC) | [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [M.I.A.](https://open.spotify.com/album/50E2n5rDpO1uALeezN5M2W) | 2:07 | 2023-02-23 | 2023-04-01 |
+| [Macho In De Club](https://open.spotify.com/track/12VGNJBNsFLNFlT5wFreY0) | [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE), [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [P.A.V.](https://open.spotify.com/artist/7n3P3G2oAd64LrIFnRBaqU) | [Macho In De Club](https://open.spotify.com/album/6N9sCZRnLPDSnVel9Wwcnp) | 1:48 | 2025-05-13 |  |
 | [MAJU TERUS \(IK DROOMDE FF\)](https://open.spotify.com/track/7BddI6rIKFjh57IUnFpAer) | [Jooz](https://open.spotify.com/artist/7hUtuXiN0XSFOjQO5OFEvY) | [MAJU TERUS \(IK DROOMDE FF\)](https://open.spotify.com/album/339df51xkU172jBFeMUfaE) | 2:24 | 2025-03-21 |  |
 | [Marathon I](https://open.spotify.com/track/5VBT9JcgyoBvM7Uau4X57d) | [Jacht](https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO) | [Marathon I](https://open.spotify.com/album/4bvQPPSsD0iGIjqf1OYEu5) | 2:11 | 2023-05-25 | 2024-11-15 |
 | [MASQUERADE](https://open.spotify.com/track/4lItc3a4LKpKeTlpKvlj4r) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [MASQUERADE](https://open.spotify.com/album/0VFnIiRSSQgULtV8kZPEcr) | 2:48 | 2024-10-24 | 2025-03-13 |

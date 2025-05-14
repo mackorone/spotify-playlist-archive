@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 454618,
+  "num_followers": 454857,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAACQBKDtZYEJZvU/rQw853U+",
+  "snapshot_id": "aCE6AAAAAACwAXt4mtPDAoaWWAAjFf32",
   "tracks": [
     {
       "added_at": null,
@@ -52,25 +52,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Marks Of The Evil One",
-      "url": "https://open.spotify.com/track/4v7LlPFQvjgZKP3bBnfFjR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lachryma",
-        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
       "duration_ms": 276400,
       "name": "Lachryma",
-      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
+      "url": "https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y"
     },
     {
       "added_at": null,
@@ -107,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skelet\u00e1",
-        "url": "https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Guiding Lights",
-      "url": "https://open.spotify.com/track/314wHzW2tMlNIc4Wvguu8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meliora (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
       },
@@ -135,6 +103,22 @@
       "duration_ms": 239293,
       "name": "Square Hammer",
       "url": "https://open.spotify.com/track/5TNhjanmvwvmjCz2WYwSAv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skelet\u00e1",
+        "url": "https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Marks Of The Evil One",
+      "url": "https://open.spotify.com/track/4v7LlPFQvjgZKP3bBnfFjR"
     },
     {
       "added_at": null,
@@ -171,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skelet\u00e1",
-        "url": "https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Umbra",
-      "url": "https://open.spotify.com/track/0tnJnhssxtg6CpMysvbkX4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Inches of Satanic Panic",
         "url": "https://open.spotify.com/album/0dfSsZm64lSVeIcbcS2cYi"
       },
@@ -203,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Future Is A Foreign Land",
-        "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
+        "name": "Skelet\u00e1",
+        "url": "https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX"
       },
       "artists": [
         {
@@ -212,9 +180,25 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 225224,
-      "name": "The Future Is A Foreign Land",
-      "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
+      "duration_ms": 331800,
+      "name": "Umbra",
+      "url": "https://open.spotify.com/track/0tnJnhssxtg6CpMysvbkX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp"
     },
     {
       "added_at": null,
@@ -235,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Future Is A Foreign Land",
+        "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 225224,
+      "name": "The Future Is A Foreign Land",
+      "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skelet\u00e1",
         "url": "https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX"
       },
@@ -244,25 +244,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 257640,
-      "name": "Cenotaph",
-      "url": "https://open.spotify.com/track/63hsnTb7re0R8Q0ZsmuLei"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp"
+      "duration_ms": 204200,
+      "name": "Guiding Lights",
+      "url": "https://open.spotify.com/track/314wHzW2tMlNIc4Wvguu8w"
     },
     {
       "added_at": null,
@@ -299,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skelet\u00e1",
-        "url": "https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "Missilia Amori",
-      "url": "https://open.spotify.com/track/7K0STtjZ6j4ovD5K9Fqmlr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 207120,
       "name": "Life Eternal",
       "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skelet\u00e1",
+        "url": "https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Cenotaph",
+      "url": "https://open.spotify.com/track/63hsnTb7re0R8Q0ZsmuLei"
     },
     {
       "added_at": null,
@@ -363,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skelet\u00e1",
-        "url": "https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 272560,
-      "name": "De Profundis Borealis",
-      "url": "https://open.spotify.com/track/3u0nxWz9UMzDZQaB1j1FWP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 268746,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skelet\u00e1",
+        "url": "https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "Missilia Amori",
+      "url": "https://open.spotify.com/track/7K0STtjZ6j4ovD5K9Fqmlr"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4RmigACdwE02FV3yP5xXlP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "13 Commandments",
         "url": "https://open.spotify.com/album/1jIpMY1agd8Uvd9cc9woTH"
       },
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 269706,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4RmigACdwE02FV3yP5xXlP"
+      "duration_ms": 324373,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/3Q53KFHVdDhSE4XGA3xmH8"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
       "duration_ms": 234220,
       "name": "Stay [Feat. Patrick Wilson]",
       "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 324373,
-      "name": "Majesty",
-      "url": "https://open.spotify.com/track/3Q53KFHVdDhSE4XGA3xmH8"
     },
     {
       "added_at": null,
@@ -607,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "See The Light",
-      "url": "https://open.spotify.com/track/7HbyELpx9fepfB4Flz20CG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
       },
@@ -635,6 +603,22 @@
       "duration_ms": 247373,
       "name": "Mummy Dust",
       "url": "https://open.spotify.com/track/4tcin0H3ANvVUc6YjfcviJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/7HbyELpx9fepfB4Flz20CG"
     },
     {
       "added_at": null,
@@ -671,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/5aFBJJDEPNFrZVCPUqeDe9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 315360,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/3R3c84u88FEEMpiaBnAPLR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/5aFBJJDEPNFrZVCPUqeDe9"
     },
     {
       "added_at": null,
@@ -735,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Con Clavi Con Dio",
-      "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phantomime",
         "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 249626,
       "name": "Hanging Around",
       "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Con Clavi Con Dio",
+      "url": "https://open.spotify.com/track/5XdFVvTBhr1JvtZfazo3fE"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 337720,
       "name": "Waiting For The Night",
       "url": "https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 449240,
+      "name": "Ghuleh / Zombie Queen",
+      "url": "https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH"
     },
     {
       "added_at": null,

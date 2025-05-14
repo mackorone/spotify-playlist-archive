@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205962,
+      "name": "If God Is a Woman",
+      "url": "https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC"
+    },
+    {
+      "album": {
         "name": "If God Is A Woman",
         "url": "https://open.spotify.com/album/42Dy2REVSOkDuFzuaF0b9s"
       },
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 205962,
       "name": "If God Is A Woman",
       "url": "https://open.spotify.com/track/7llKKAoifoYvmnOuHEC9kg"
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 200858,
       "name": "Strike Gold",
       "url": "https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO"
@@ -2840,7 +2858,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 200858,
       "name": "Strike Gold",
       "url": "https://open.spotify.com/track/7AZTHka2MiNr13j68b0Qun"

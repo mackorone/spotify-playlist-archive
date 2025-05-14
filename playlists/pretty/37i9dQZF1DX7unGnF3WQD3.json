@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 10736,
+  "num_followers": 10764,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MTG DIAMANTE ROSA 2",
+        "url": "https://open.spotify.com/album/7GXD0LPww0BJoGPe1cS9vb"
+      },
+      "artists": [
+        {
+          "name": "vtze archive",
+          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
+        },
+        {
+          "name": "Mc Ster",
+          "url": "https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0"
+        }
+      ],
+      "duration_ms": 107651,
+      "name": "MTG DIAMANTE ROSA 2",
+      "url": "https://open.spotify.com/track/5iUJjY4MvOXTBXB9vUvG5e"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Te Maceto Depois Do Baile",
         "url": "https://open.spotify.com/album/5I53yrG2qfaC9LtZKze0xw"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 229153,
       "name": "Te Maceto Depois Do Baile",
       "url": "https://open.spotify.com/track/448158cOtdLyR59DJnzpON"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG DIAMANTE ROSA 2",
-        "url": "https://open.spotify.com/album/7GXD0LPww0BJoGPe1cS9vb"
-      },
-      "artists": [
-        {
-          "name": "vtze archive",
-          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
-        },
-        {
-          "name": "Mc Ster",
-          "url": "https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0"
-        }
-      ],
-      "duration_ms": 107651,
-      "name": "MTG DIAMANTE ROSA 2",
-      "url": "https://open.spotify.com/track/5iUJjY4MvOXTBXB9vUvG5e"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Torai",
-      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 232498,
       "name": "Qu\u00e9date - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Torai",
+      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2891,6 +2891,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/2FBhUA36t0zThJdCrX1Qis"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "El Mariachi",
         "url": "https://open.spotify.com/album/1IDoRaTAdiGxOGQvPxhUdG"
       },
@@ -2907,22 +2923,6 @@
       "duration_ms": 195802,
       "name": "El Mariachi",
       "url": "https://open.spotify.com/track/4lvgZsyJZIYn6QRMZvlt3O"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/2FBhUA36t0zThJdCrX1Qis"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3031,30 +3031,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG Manda Um Oi",
-        "url": "https://open.spotify.com/album/08YvYAIuFvs7Z5AXEtZ0Jk"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        },
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        },
-        {
-          "name": "Hyago Gomes",
-          "url": "https://open.spotify.com/artist/4RxoNU65Os6pHkmuEzSlTg"
-        }
-      ],
-      "duration_ms": 133138,
-      "name": "MTG Manda Um Oi",
-      "url": "https://open.spotify.com/track/1tXdYQEmJ141Qt4uwHOsqQ"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
       },
@@ -3075,6 +3051,30 @@
       "duration_ms": 188225,
       "name": "PPP",
       "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG Manda Um Oi",
+        "url": "https://open.spotify.com/album/08YvYAIuFvs7Z5AXEtZ0Jk"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        },
+        {
+          "name": "Hyago Gomes",
+          "url": "https://open.spotify.com/artist/4RxoNU65Os6pHkmuEzSlTg"
+        }
+      ],
+      "duration_ms": 133138,
+      "name": "MTG Manda Um Oi",
+      "url": "https://open.spotify.com/track/1tXdYQEmJ141Qt4uwHOsqQ"
     },
     {
       "added_at": "2024-09-30 22:44:34",

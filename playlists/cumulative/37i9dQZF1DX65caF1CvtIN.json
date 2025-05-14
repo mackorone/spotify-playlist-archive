@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 250453,
       "name": "11Pm. Brilla",
       "url": "https://open.spotify.com/track/04040bSQ8gNzSmxuY8fU11"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 130123,
       "name": "A Different Story",
       "url": "https://open.spotify.com/track/2kk5IhP7CETo9dlG9yMaa5"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 157000,
       "name": "Eyes Wide Open",
       "url": "https://open.spotify.com/track/3o0nYjICwbD7jKROK5JEge"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 212073,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG"
@@ -3492,7 +3492,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 127238,
       "name": "Slowness Within",
       "url": "https://open.spotify.com/track/37yMja7S79WxV3EmvEKR5F"
@@ -3752,7 +3752,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 162921,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC"
@@ -3939,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "The light is there",
+        "url": "https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2"
+      },
+      "artists": [
+        {
+          "name": "Eve St. Claire",
+          "url": "https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123724,
+      "name": "The light is there",
+      "url": "https://open.spotify.com/track/1aHkqLrb44WJtIxXxz93qp"
+    },
+    {
+      "album": {
         "name": "The Opening",
         "url": "https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb"
       },
@@ -4026,6 +4044,24 @@
       "duration_ms": 187788,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/2PWiufRrW02EtmSYIokhHr"
+    },
+    {
+      "album": {
+        "name": "The Sound of Light",
+        "url": "https://open.spotify.com/album/3IdvazfYUOel4zSdILAHcF"
+      },
+      "artists": [
+        {
+          "name": "Antoine Faur\u00e9",
+          "url": "https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153900,
+      "name": "The Sound of Light",
+      "url": "https://open.spotify.com/track/23BuLC49RZuPbIGZriYDNI"
     },
     {
       "album": {

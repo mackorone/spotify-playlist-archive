@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,207 likes - 190 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,237 likes - 188 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,31 +13,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 3 | [Humanity](https://open.spotify.com/track/53XdJTeVZtu0nePZdbjNGp) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [Humanity](https://open.spotify.com/album/2VN90aP103rpfa4k5604hH) | 2:15 |
 | 4 | [Dalmine](https://open.spotify.com/track/57udUUmrolC21iP6xtgNBU) | [Lakes of Lagan](https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW) | [Dalmine](https://open.spotify.com/album/3w9eG1VgFL5YM6GLJvTsoC) | 3:27 |
 | 5 | [Stillness](https://open.spotify.com/track/0SGBSwX49QWTGiXMu39mUz) | [Fraser Jaspal](https://open.spotify.com/artist/3P2GZ3OyREqVPn8YISLrGH) | [Stillness](https://open.spotify.com/album/5PuL3CmcLn6ltqcMLsAahN) | 2:22 |
-| 6 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
-| 7 | [Desire paths](https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Desire paths](https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV) | 2:43 |
-| 8 | [Like an Open Book](https://open.spotify.com/track/7FhgcPqNKXfzCkyiR2Tq4O) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Like an Open Book](https://open.spotify.com/album/2uqm3Wad4JnBQ5XVuWrUzO) | 2:11 |
-| 9 | [Arabesco](https://open.spotify.com/track/3KCoT5LkFQKWoHV1rTCjkP) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Arabesco](https://open.spotify.com/album/20UIGNg9E4ABmFNNT4w2yp) | 2:35 |
-| 10 | [Elv Tana](https://open.spotify.com/track/0wpB114om6UBkI1NTR3Dcq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Elv Tana](https://open.spotify.com/album/4kCGevA5K7sbLh6nFWa7gO) | 2:36 |
-| 11 | [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 |
+| 6 | [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 |
+| 7 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
+| 8 | [Desire paths](https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Desire paths](https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV) | 2:43 |
+| 9 | [Like an Open Book](https://open.spotify.com/track/7FhgcPqNKXfzCkyiR2Tq4O) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Like an Open Book](https://open.spotify.com/album/2uqm3Wad4JnBQ5XVuWrUzO) | 2:11 |
+| 10 | [Arabesco](https://open.spotify.com/track/3KCoT5LkFQKWoHV1rTCjkP) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Arabesco](https://open.spotify.com/album/20UIGNg9E4ABmFNNT4w2yp) | 2:35 |
+| 11 | [Elv Tana](https://open.spotify.com/track/0wpB114om6UBkI1NTR3Dcq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Elv Tana](https://open.spotify.com/album/4kCGevA5K7sbLh6nFWa7gO) | 2:36 |
 | 12 | [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 |
 | 13 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 |
-| 14 | [Cavaria](https://open.spotify.com/track/6AKvBuBdVSf7uDYJYWtWxC) | [Shea Ada](https://open.spotify.com/artist/4RrALCcSGLAsv2VXK2gbp2) | [Cavaria](https://open.spotify.com/album/0ts4SAXbN5D0Di2AQVVXo0) | 2:18 |
-| 15 | [Etereo](https://open.spotify.com/track/1tFwl5ZvWeiI2QjPV6tQhJ) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Etereo](https://open.spotify.com/album/3WgkQ0yOKa38yJ5Gk8aiTi) | 2:38 |
-| 16 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 |
+| 14 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 |
+| 15 | [Cavaria](https://open.spotify.com/track/6AKvBuBdVSf7uDYJYWtWxC) | [Shea Ada](https://open.spotify.com/artist/4RrALCcSGLAsv2VXK2gbp2) | [Cavaria](https://open.spotify.com/album/0ts4SAXbN5D0Di2AQVVXo0) | 2:18 |
+| 16 | [Cycles](https://open.spotify.com/track/1S2ObwwQukup4WAsXYw2tB) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Cycles](https://open.spotify.com/album/6FdgR2ulFNIedtlYNiqg9N) | 2:08 |
 | 17 | [Fresco](https://open.spotify.com/track/2OorG34buj8MbIGs3sdQSR) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Fresco](https://open.spotify.com/album/1NrU39m5nOXs6YVjJaQ40v) | 3:00 |
 | 18 | [Clairvoyant](https://open.spotify.com/track/5Rs9YwzmyOSuwwWZAmgS4B) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Clairvoyant](https://open.spotify.com/album/6EK6OV6MInIWpaAF6RUO1w) | 2:13 |
 | 19 | [Fractional](https://open.spotify.com/track/7Ey5cgV9rKbYosutZW5n1d) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Fractional](https://open.spotify.com/album/70hvjsmDjISM7Jrzv3sVK5) | 3:04 |
-| 20 | [Cycles](https://open.spotify.com/track/1S2ObwwQukup4WAsXYw2tB) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Cycles](https://open.spotify.com/album/6FdgR2ulFNIedtlYNiqg9N) | 2:08 |
-| 21 | [Believe in Me](https://open.spotify.com/track/0L4WkLNkDvcvW2vBN2ZcGz) | [Thiméo Louis](https://open.spotify.com/artist/7HSPeHQoksIVtyoUioUGC8) | [Believe in Me](https://open.spotify.com/album/6M8PjIl3H0oFOsHy5pJJTe) | 2:03 |
-| 22 | [Stranger](https://open.spotify.com/track/1tMAuiizUoQqnh6lcdFO0i) | [Adelisé](https://open.spotify.com/artist/4zcNEIub6cCZlkS6mzy63N) | [Stranger](https://open.spotify.com/album/1siHseOf2zRKJRd9cGjzsR) | 2:44 |
-| 23 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
-| 24 | [Abide](https://open.spotify.com/track/1X65tg35Snmo1r5iZMvOVf) | [Sven Derler](https://open.spotify.com/artist/036A3W6TFwg70pEuEQsgNb) | [Abide](https://open.spotify.com/album/4f8C1sTS6a29b6YBdiuB8b) | 2:01 |
-| 25 | [Morning Write](https://open.spotify.com/track/3wQ4jhM4hH3a9SKqGStvkl) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Morning Write](https://open.spotify.com/album/3TECXzv0JenFb76sIXaCCY) | 2:44 |
-| 26 | [Orchard Moon](https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Orchard Moon](https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y) | 2:57 |
-| 27 | [Roots 根](https://open.spotify.com/track/3ngWP0Oqn7ohTDArbaWdIW) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Roots 根](https://open.spotify.com/album/49ms3ysWcHbTAnRYvoZfMW) | 2:28 |
-| 28 | [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 |
-| 29 | [Letting you Go](https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Letting you Go](https://open.spotify.com/album/2FxQXh44dk0Y3MdV5EhlAI) | 2:58 |
-| 30 | [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 |
+| 20 | [Letting you Go](https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Letting you Go](https://open.spotify.com/album/2FxQXh44dk0Y3MdV5EhlAI) | 2:58 |
+| 21 | [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 |
+| 22 | [Believe in Me](https://open.spotify.com/track/0L4WkLNkDvcvW2vBN2ZcGz) | [Thiméo Louis](https://open.spotify.com/artist/7HSPeHQoksIVtyoUioUGC8) | [Believe in Me](https://open.spotify.com/album/6M8PjIl3H0oFOsHy5pJJTe) | 2:03 |
+| 23 | [Stranger](https://open.spotify.com/track/1tMAuiizUoQqnh6lcdFO0i) | [Adelisé](https://open.spotify.com/artist/4zcNEIub6cCZlkS6mzy63N) | [Stranger](https://open.spotify.com/album/1siHseOf2zRKJRd9cGjzsR) | 2:44 |
+| 24 | [Tonal Relief](https://open.spotify.com/track/6uLMjc0bf5qxLyMcCAch1D) | [Hidden Natúr](https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3) | [Tonal Relief](https://open.spotify.com/album/3COiejf6PeBjaSSHrZ3kZK) | 2:41 |
+| 25 | [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 |
+| 26 | [Sincere](https://open.spotify.com/track/4asD2twwtZWdwYoYlZtOkg) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Sincere](https://open.spotify.com/album/0C1OyOoHKnzex4Km4J0W8K) | 2:57 |
+| 27 | [Etereo](https://open.spotify.com/track/1tFwl5ZvWeiI2QjPV6tQhJ) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Etereo](https://open.spotify.com/album/3WgkQ0yOKa38yJ5Gk8aiTi) | 2:38 |
+| 28 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
+| 29 | [Orchard Moon](https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Orchard Moon](https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y) | 2:57 |
+| 30 | [Roots 根](https://open.spotify.com/track/3ngWP0Oqn7ohTDArbaWdIW) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Roots 根](https://open.spotify.com/album/49ms3ysWcHbTAnRYvoZfMW) | 2:28 |
 | 31 | [Tenderness](https://open.spotify.com/track/4bIpvx1sHj3yIFRpPQ4XAu) | [Stone Mirland](https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o) | [Tenderness](https://open.spotify.com/album/5eYAFoTBGNJAaxoFnK45ZZ) | 1:59 |
 | 32 | [At Night](https://open.spotify.com/track/1QX2SYLb1nATOdaS2eer1U) | [C.M.H](https://open.spotify.com/artist/7eMrolcvKtdRpB6OrG3tIx) | [At Night](https://open.spotify.com/album/59Dy1DGXPMfcFmzWQUVsu8) | 2:54 |
 | 33 | [Budsofspring](https://open.spotify.com/track/1aQzaAkL8VuVPxXQQojT4w) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Budsofspring](https://open.spotify.com/album/3rBAssDSdBPvcfuuZVl6RU) | 2:14 |
@@ -195,8 +195,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 185 | [Tes yeux d'un bleu profond](https://open.spotify.com/track/64HEaiLP9VcrJpElxywgRr) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Tes yeux d'un bleu profond](https://open.spotify.com/album/3lYX0nUaQZwgg1sszxMpWv) | 2:26 |
 | 186 | [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 |
 | 187 | [Stay](https://open.spotify.com/track/7lZYzGYEEIFEIZef12LwOp) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Stay](https://open.spotify.com/album/6AJX7VLAe7oPNCJnjHGuih) | 2:31 |
-| 188 | [In the shell of night](https://open.spotify.com/track/2ssG2QnW8tai39jGqJxbW1) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [In the shell of night](https://open.spotify.com/album/4DMOVnHIoUeXRleTBnC4sK) | 2:47 |
-| 189 | [Lebensecht](https://open.spotify.com/track/2TZetlpje1UuPbMU2heuMR) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Lebensecht](https://open.spotify.com/album/1fG6rd3TUUUkCzYKJiAORx) | 2:23 |
-| 190 | [January Sky](https://open.spotify.com/track/4Xj97H1nAC77849DA1Psle) | [Oscar Legrand](https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN) | [January Sky](https://open.spotify.com/album/6Liarx0KPE7AR4YEs018WO) | 2:09 |
+| 188 | [January Sky](https://open.spotify.com/track/4Xj97H1nAC77849DA1Psle) | [Oscar Legrand](https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN) | [January Sky](https://open.spotify.com/album/6Liarx0KPE7AR4YEs018WO) | 2:09 |
 
-Snapshot ID: `aA+QigAAAAB+SJ3ULISFtGe2BpfG68lc`
+Snapshot ID: `aCL+jAAAAABODifnBgHUZ1ZO78UnU7lK`

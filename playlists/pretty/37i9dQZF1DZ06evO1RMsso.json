@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 223639,
+  "num_followers": 223662,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAAC2CLR/iLTQwiSg2sG6UUuP",
+  "snapshot_id": "aCE6AAAAAAA8CHzyRIgwztcL17tgWvWN",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jurassic Park",
-        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 474933,
-      "name": "Welcome To Jurassic Park",
-      "url": "https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 334426,
       "name": "The Throne Room and End Title",
       "url": "https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jurassic Park",
+        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 474933,
+      "name": "Welcome To Jurassic Park",
+      "url": "https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Princess Leia's Theme",
+      "url": "https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cinema Serenade",
         "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 231160,
       "name": "Scent of a Woman: Tango (Por Una Cabeza)",
       "url": "https://open.spotify.com/track/3mGkPsZbHEBf8ZT1ExZnww"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Princess Leia's Theme",
-      "url": "https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j"
     },
     {
       "added_at": null,

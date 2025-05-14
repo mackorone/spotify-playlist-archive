@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 319842,
+  "num_followers": 319890,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAAA8+f7bpZhSxSYIHoj8UPm+",
+  "snapshot_id": "aCE6AAAAAABM/8aiDdVI2kIF/WCcF17J",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Akon's Beautiful Day",
+        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 157278,
+      "name": "Akon's Beautiful Day",
+      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kush",
         "url": "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 235120,
       "name": "Kush - Main",
       "url": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Akon's Beautiful Day",
-        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 157278,
-      "name": "Akon's Beautiful Day",
-      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
     },
     {
       "added_at": null,
@@ -967,6 +967,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Right Now (Na Na Na)",
+        "url": "https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "Clap Again",
+      "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chop My Money",
         "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 272297,
       "name": "Chop My Money - Remix",
       "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Right Now (Na Na Na)",
-        "url": "https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "Clap Again",
-      "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
     },
     {
       "added_at": null,

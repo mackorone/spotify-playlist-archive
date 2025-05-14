@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 Ado WORLD TOUR  \[Hibana\]  5월 15일 @ 일산 킨텍스 제2전시장 9홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,491 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,697 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

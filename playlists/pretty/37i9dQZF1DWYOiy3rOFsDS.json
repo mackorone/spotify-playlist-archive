@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Susana Zabaleta en portada.",
-  "num_followers": 546505,
+  "num_followers": 546498,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
+        "name": "Noche no te vayas",
+        "url": "https://open.spotify.com/album/30ptyLQeDVcUk1pwrcViIs"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Pajarito",
+          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
+        },
+        {
+          "name": "Catalina y Las Bordonas de Oro",
+          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Noche no te vayas",
+      "url": "https://open.spotify.com/track/6PE19vBoiE1kMd1thjrEYD"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 259146,
       "name": "Contigo aprend\u00ed",
       "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
-        "name": "Noche no te vayas",
-        "url": "https://open.spotify.com/album/30ptyLQeDVcUk1pwrcViIs"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Pajarito",
-          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
-        },
-        {
-          "name": "Catalina y Las Bordonas de Oro",
-          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Noche no te vayas",
-      "url": "https://open.spotify.com/track/6PE19vBoiE1kMd1thjrEYD"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
-        "name": "\u00bfDime Por Qu\u00e9?",
-        "url": "https://open.spotify.com/album/3vPbH3GdSlx4rWYjGROpHU"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Dani Labb\u00e9",
-          "url": "https://open.spotify.com/artist/6IrVQYWf9tt8rqkpPHw4at"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "\u00bfDime Por Qu\u00e9?",
-      "url": "https://open.spotify.com/track/0oFZrc1s8CxgPSEd4w4Re6"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
         "name": "Or\u00edgenes: El Bolero Vol.3",
         "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 171413,
       "name": "Para No Romperme",
       "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
+        "name": "\u00bfDime Por Qu\u00e9?",
+        "url": "https://open.spotify.com/album/3vPbH3GdSlx4rWYjGROpHU"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Dani Labb\u00e9",
+          "url": "https://open.spotify.com/artist/6IrVQYWf9tt8rqkpPHw4at"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "\u00bfDime Por Qu\u00e9?",
+      "url": "https://open.spotify.com/track/0oFZrc1s8CxgPSEd4w4Re6"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
+        "name": "Tu Segundo Nombre (Karma)",
+        "url": "https://open.spotify.com/album/2z3VZ4Ip0z4wILXe5xurUB"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 169609,
+      "name": "Tu Segundo Nombre (Karma)",
+      "url": "https://open.spotify.com/track/3Orlfid5vxAYaz37tMHDOC"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
         "name": "Enclave de Bolero",
         "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
-        "name": "Tu Segundo Nombre (Karma)",
-        "url": "https://open.spotify.com/album/2z3VZ4Ip0z4wILXe5xurUB"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 169609,
-      "name": "Tu Segundo Nombre (Karma)",
-      "url": "https://open.spotify.com/track/3Orlfid5vxAYaz37tMHDOC"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
+        "name": "Celebrando Al Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
         "name": "Compa\u00f1era",
         "url": "https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 193208,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
-        "name": "Celebrando Al Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1775,22 +1775,18 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
-        "name": "M\u00e1s Que Ella",
-        "url": "https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e"
+        "name": "Maria Bonita",
+        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
       },
       "artists": [
         {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Santiago En La Guitarra",
-          "url": "https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 195789,
-      "name": "M\u00e1s Que Ella",
-      "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
+      "duration_ms": 232373,
+      "name": "Mar\u00eda Bonita",
+      "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
     }
   ],
   "unique_name": "Boleros Pop",

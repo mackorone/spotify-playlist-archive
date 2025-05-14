@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,504 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,492 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 41 | [Skeletone](https://open.spotify.com/track/3oag5OqiSruFgmz5mft1B0) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [I FOUND YOU!](https://open.spotify.com/album/5cgca90mQ014PmAoEOkxbF) | 2:35 |
 | 42 | [Jill the Witch](https://open.spotify.com/track/2l58hQ0SVmdP0nu6J8WC0x) | [Little Angel](https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn) | [Little Angel Halloween](https://open.spotify.com/album/6tn0VGiyGcraJxBK16snAK) | 3:01 |
 | 43 | [The Monsters In The House](https://open.spotify.com/track/152Kq3c7NK2JUbvTkmtND4) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:04 |
-| 44 | [Peek\-A\-Boo Ghost](https://open.spotify.com/track/3syXrV5Sbep8PW4WIwhtvC) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [A Laurie Berkner Halloween](https://open.spotify.com/album/0oadKOgulzZqBgcmQgYJMu) | 1:17 |
-| 45 | [Spooky Wooky](https://open.spotify.com/track/6NZNAE8vyg7lvFzCupKJ2N) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Spooky Wooky](https://open.spotify.com/album/4uMNaufB5pd3R0VZkgDJQr) | 2:19 |
-| 46 | [5 Little Monsters](https://open.spotify.com/track/0IUYwvWRUmr7zP3ltjISWH) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn to Count with LitttleBabyBum! Counting & Number Songs for Children, Vol\. 1](https://open.spotify.com/album/2RzdkdQwLO5gHsNLrtN2Au) | 1:37 |
+| 44 | [5 Little Monsters](https://open.spotify.com/track/0IUYwvWRUmr7zP3ltjISWH) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn to Count with LitttleBabyBum! Counting & Number Songs for Children, Vol\. 1](https://open.spotify.com/album/2RzdkdQwLO5gHsNLrtN2Au) | 1:37 |
+| 45 | [Peek\-A\-Boo Ghost](https://open.spotify.com/track/3syXrV5Sbep8PW4WIwhtvC) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [A Laurie Berkner Halloween](https://open.spotify.com/album/0oadKOgulzZqBgcmQgYJMu) | 1:17 |
+| 46 | [Spooky Wooky](https://open.spotify.com/track/6NZNAE8vyg7lvFzCupKJ2N) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Spooky Wooky](https://open.spotify.com/album/4uMNaufB5pd3R0VZkgDJQr) | 2:19 |
 | 47 | [Halloween Costume Party](https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 2](https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS) | 1:50 |
 | 48 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w), [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 |
 | 49 | [Goosebumps](https://open.spotify.com/track/5XZz9OwrEQJVpgkntifwzk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:21 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 68 | [Bump in the Night](https://open.spotify.com/track/7ax40vh2zp5UIwDzGf1cop) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [The Best Halloween Stories for Kids](https://open.spotify.com/album/1ksHEut4cKxzLXLBJemmrO) | 2:30 |
 | 69 | [Shake Your Bones](https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:41 |
 | 70 | [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 |
-| 71 | [I Put A Spell On You](https://open.spotify.com/track/4TKPFdNi9Lm8TM5LVJJ6cR) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [57 Kids Greatest Halloween Songs, Stories, And Sounds](https://open.spotify.com/album/4OcOuar3UJlTx2GWPrgyF6) | 3:21 |
-| 72 | [Skeleton Shake](https://open.spotify.com/track/3dAqvO0MKcWsOYK6K6kShH) | [Bari Koral](https://open.spotify.com/artist/40GTTHyDAFn0HJ1vsk7CYZ) | [Skeleton Shake](https://open.spotify.com/album/2XSPmhwlCOWP77RNQHPomh) | 3:19 |
+| 71 | [Skeleton Shake](https://open.spotify.com/track/3dAqvO0MKcWsOYK6K6kShH) | [Bari Koral](https://open.spotify.com/artist/40GTTHyDAFn0HJ1vsk7CYZ) | [Skeleton Shake](https://open.spotify.com/album/2XSPmhwlCOWP77RNQHPomh) | 3:19 |
+| 72 | [I Put A Spell On You](https://open.spotify.com/track/4TKPFdNi9Lm8TM5LVJJ6cR) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [57 Kids Greatest Halloween Songs, Stories, And Sounds](https://open.spotify.com/album/4OcOuar3UJlTx2GWPrgyF6) | 3:21 |
 | 73 | [Day\-O \(The Banana Boat Song\)](https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 3:04 |
 | 74 | [Stirring The Brew](https://open.spotify.com/track/4B1rz3ylnsQrrsalWIKlOU) | [Jennielea](https://open.spotify.com/artist/6P6UPaX07Ha288fcXwWRKZ) | [It's Me Jennielea And My Very First CD](https://open.spotify.com/album/16pLEdHtvubzyrhy8AOzeq) | 0:58 |
 | 75 | [Trick Or Treat 2](https://open.spotify.com/track/0bWXTLZqfTwHOjCdKWduJn) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [Trick Or Treat 2](https://open.spotify.com/album/2kFL7J6yhmYXod4j1tRdqt) | 3:15 |

@@ -2,9 +2,9 @@
 
 ### [青春と一瞬](https://open.spotify.com/playlist/37i9dQZF1DX889DuwlJCDK)
 
-> 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: ブランデー戦記
+> 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: CLAN QUEEN
 
-1,140 songs - 2 day 20 hr 54 min
+1,142 songs - 2 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,7 +470,7 @@
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 |  |
 | [Tsuioku](https://open.spotify.com/track/4HJ7Oi4JpWaogfg62Yeydc) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Tsuioku](https://open.spotify.com/album/4m6522rLs6PXLdxJvAA0xQ) | 4:40 | 2024-09-24 | 2024-10-02 |
 | [Tsuki ga Kireida](https://open.spotify.com/track/3mpcR1sbZ7xV26Zi0wZqbH) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [Tsuki ga Kireida](https://open.spotify.com/album/0r6O79YBEt0roeQEFhLeiE) | 4:14 | 2024-02-13 | 2024-04-19 |
-| [Twin Ray](https://open.spotify.com/track/3xk9S6sFdLr2rbdjVaiTfD) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:09 | 2025-01-09 |  |
+| [Twin Ray](https://open.spotify.com/track/3xk9S6sFdLr2rbdjVaiTfD) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:09 | 2025-01-09 | 2025-05-14 |
 | [Ubu na feeling](https://open.spotify.com/track/6Nr77MtMKNq4TlRtj1YBaC) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Ubu na feeling](https://open.spotify.com/album/72SGFZC2fUn17q40h6OfuJ) | 4:38 | 2024-12-17 | 2025-02-05 |
 | [Ultramen](https://open.spotify.com/track/50q4PXTkVIEjyXvpVmRrCA) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Ultramen](https://open.spotify.com/album/5tsX9bR6DrODS5T6wRSExH) | 1:00 | 2025-03-25 | 2025-04-02 |
 | [Ulysses](https://open.spotify.com/track/1RGe4zbtmmZrHfT5frRTze) | [kurage](https://open.spotify.com/artist/1B5hRzldl5G94SRgod8DeT) | [Ulysses](https://open.spotify.com/album/2Ti9Q6fU6D2UcnXnWgiUac) | 3:44 | 2025-04-08 | 2025-04-16 |
@@ -693,6 +693,7 @@
 | [ダメ宣言](https://open.spotify.com/track/2bvN47RRkwDDYIWcpwLtPR) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [ダメ宣言](https://open.spotify.com/album/6GTtevdTzjXH4dpc5HthaP) | 2:40 | 2024-01-16 | 2024-01-18 |
 | [ダレカ](https://open.spotify.com/track/6lp7sXjH7jj8Hy9aIYSwVC) | [Thinking Dogs](https://open.spotify.com/artist/09bKUD807BdDQb21HLz0Lq) | [FAQ](https://open.spotify.com/album/7GtgP4pcUclzhG8BgFOszR) | 3:35 | 2023-12-12 | 2024-01-03 |
 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 | 2024-01-23 | 2024-12-18 |
+| [チェックメイト](https://open.spotify.com/track/7Gv8VegeRCVgH6i2VA8rdk) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [チェックメイト](https://open.spotify.com/album/1YBEjvrmh3aGvrB2nzjpS2) | 4:09 | 2025-05-13 |  |
 | [チャーミー](https://open.spotify.com/track/2uYVZuH5I0V7ttt6K1joAY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [チャーミー](https://open.spotify.com/album/4be8Zrc2bh0nwNx8ylHlp5) | 3:57 | 2024-12-17 | 2025-01-22 |
 | [チョウチンカップル](https://open.spotify.com/track/1lRCsiGtAXyObJlXkK26lL) | [pachae](https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI) | [チョウチンカップル](https://open.spotify.com/album/2KxkAdYBQwGX46NolkFzVE) | 3:18 | 2024-04-23 | 2024-05-01 |
 | [チルチルクラブ](https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [チルチルクラブ](https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7) | 3:49 | 2023-07-27 | 2023-09-03 |
@@ -988,6 +989,7 @@
 | [明るい葬式](https://open.spotify.com/track/6BBKSAhUwEyPc3M4IlcKBv) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [明るい葬式](https://open.spotify.com/album/0lyQYuoZecfVrVx9SRYYqi) | 4:07 | 2024-12-17 | 2025-01-08 |
 | [明日の一面](https://open.spotify.com/track/7FlwHtsMlFxZ395aA5EMPw) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [ファースト・クライ・ベイビー](https://open.spotify.com/album/4HTraxk1MzXlTPWYSCIBN3) | 4:04 | 2024-04-02 | 2024-05-01 |
 | [星に願いを](https://open.spotify.com/track/0k7KoX5n7gTNQM1cBU07nx) | [アルコサイト](https://open.spotify.com/artist/7hk5b4YhnFsoCX8OFZQ58s) | [星に願いを / 好きじゃない](https://open.spotify.com/album/4ShahhhLaUhLsbkG87LSbv) | 4:08 | 2023-11-23 | 2023-11-29 |
+| [春](https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 3:16 | 2025-05-13 |  |
 | [春が嫌い](https://open.spotify.com/track/4EP22LrlRJItyhWwTT6Knk) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [春が嫌い](https://open.spotify.com/album/6YKqQR7LtDiBlBEpcIkfHH) | 3:18 | 2024-03-05 | 2024-04-07 |
 | [春が過ぎたら](https://open.spotify.com/track/1OHKc7YxPvlnXtqpM8qi8R) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [デイズ オブ ユース](https://open.spotify.com/album/3gZlKfJOoQDjMvbUR9w5rE) | 3:53 | 2024-04-02 | 2024-04-04 |
 | [春が過ぎたら](https://open.spotify.com/track/4bDSl7SY5qGo7KNbNY5mfM) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [20](https://open.spotify.com/album/2E6evRJYZ8yknwWA65ICDO) | 3:55 | 2024-04-02 | 2024-05-01 |
@@ -1034,7 +1036,7 @@
 | [泳いでゆけたら](https://open.spotify.com/track/5rhbxoPNJdhcFm2YU5xeta) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [泳いでゆけたら](https://open.spotify.com/album/1GYSFSs014OCLTMlFtLQJX) | 3:40 | 2023-09-20 | 2023-10-26 |
 | [涙を隠して\(Boys Don't Cry\)](https://open.spotify.com/track/1cMqlaNP7zoTbp8Xerp8em) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [涙を隠して\(Boys Don't Cry\)](https://open.spotify.com/album/4JeWP56kr9EVljgX76I0sw) | 4:36 | 2023-11-21 | 2024-01-11 |
 | [渦の中](https://open.spotify.com/track/28L7aLnaMAjb3KyKM3H5Rd) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [渦の中](https://open.spotify.com/album/1vdjJgX54GPitnj5X06jUk) | 3:47 | 2025-02-18 | 2025-03-05 |
-| [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 | 2025-03-25 |  |
+| [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 | 2025-03-25 | 2025-05-14 |
 | [港へ](https://open.spotify.com/track/22Cpussw46M6H1LPAVJ2xC) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [港へ](https://open.spotify.com/album/4NovGmGh8ZdcaEDg7FyekO) | 3:11 | 2025-03-25 | 2025-04-02 |
 | [溺愛](https://open.spotify.com/track/69tLAHiqUdzoMWaRYUGALQ) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [溺愛](https://open.spotify.com/album/5E8bkbhKnoN4qqIJi9YzZq) | 3:55 | 2024-05-30 | 2024-09-18 |
 | [火の玉ロック](https://open.spotify.com/track/1AzY5yGJKWLZ2clnrmOErF) | [台風クラブ](https://open.spotify.com/artist/2eufkILpUJWF4hIHLgkFfX) | [火の玉ロック](https://open.spotify.com/album/0FkVCgciNBHpV7L67LCQq3) | 3:31 | 2023-07-27 | 2023-08-02 |

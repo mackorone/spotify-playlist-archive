@@ -399,8 +399,8 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Il giorno in cui ho smesso di pensare",
-        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
+        "name": "La genesi del tuo colore",
+        "url": "https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
         }
       ],
-      "duration_ms": 200428,
-      "name": "Ovunque Sarai",
-      "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
+      "duration_ms": 228984,
+      "name": "La genesi del tuo colore",
+      "url": "https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -495,8 +495,8 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "La genesi del tuo colore",
-        "url": "https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu"
+        "name": "Il giorno in cui ho smesso di pensare",
+        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
         }
       ],
-      "duration_ms": 228984,
-      "name": "La genesi del tuo colore",
-      "url": "https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG"
+      "duration_ms": 200428,
+      "name": "Ovunque Sarai",
+      "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
+        "name": "Microchip Emozionale",
+        "url": "https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg"
+      },
+      "artists": [
+        {
+          "name": "Subsonica",
+          "url": "https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK"
+        }
+      ],
+      "duration_ms": 243320,
+      "name": "Tutti I Miei Sbagli",
+      "url": "https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
         "name": "Pazza",
         "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
       },
@@ -639,26 +655,6 @@
       "duration_ms": 168166,
       "name": "Pazza",
       "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
-        "name": "Vorrei incontrarti fra cent'anni",
-        "url": "https://open.spotify.com/album/1WOdMrMh0SxUThs0XM6WP5"
-      },
-      "artists": [
-        {
-          "name": "Ron",
-          "url": "https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6"
-        },
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
-        }
-      ],
-      "duration_ms": 236560,
-      "name": "Vorrei incontrarti fra cent'anni (feat. Tosca)",
-      "url": "https://open.spotify.com/track/6Y2tQcPJaknHKY0RLH3jaf"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -699,18 +695,22 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Microchip Emozionale",
-        "url": "https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg"
+        "name": "Vorrei incontrarti fra cent'anni",
+        "url": "https://open.spotify.com/album/1WOdMrMh0SxUThs0XM6WP5"
       },
       "artists": [
         {
-          "name": "Subsonica",
-          "url": "https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK"
+          "name": "Ron",
+          "url": "https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6"
+        },
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
         }
       ],
-      "duration_ms": 243320,
-      "name": "Tutti I Miei Sbagli",
-      "url": "https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ"
+      "duration_ms": 236560,
+      "name": "Vorrei incontrarti fra cent'anni (feat. Tosca)",
+      "url": "https://open.spotify.com/track/6Y2tQcPJaknHKY0RLH3jaf"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Dall'altra parte del cancello",
-        "url": "https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw"
-      },
-      "artists": [
-        {
-          "name": "Simone Cristicchi",
-          "url": "https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Ti regaler\u00f2 una rosa",
-      "url": "https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 223520,
       "name": "Terra promessa",
       "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Dall'altra parte del cancello",
+        "url": "https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw"
+      },
+      "artists": [
+        {
+          "name": "Simone Cristicchi",
+          "url": "https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Ti regaler\u00f2 una rosa",
+      "url": "https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Dieci",
-        "url": "https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 198870,
-      "name": "Dieci",
-      "url": "https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "Non mi avete fatto niente",
         "url": "https://open.spotify.com/album/3Qs5bBmUVXpZBcEkw4uxJ8"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 208080,
       "name": "Non mi avete fatto niente",
       "url": "https://open.spotify.com/track/1oMYET9xQB8XpxwTt2c5Dz"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Dieci",
+        "url": "https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 198870,
+      "name": "Dieci",
+      "url": "https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Greatest Hits (Le Cose Non Vanno Mai come Credi)",
-        "url": "https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 267026,
-      "name": "E poi",
-      "url": "https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "Tutti I Miei Sogni",
         "url": "https://open.spotify.com/album/0tkQys6CWErjTUroTILFsA"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 279973,
       "name": "Se stiamo insieme",
       "url": "https://open.spotify.com/track/3V2TMVsl5LlDvEVff9hw31"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Greatest Hits (Le Cose Non Vanno Mai come Credi)",
+        "url": "https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 267026,
+      "name": "E poi",
+      "url": "https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR"
     },
     {
       "added_at": "2025-02-25 22:08:25",

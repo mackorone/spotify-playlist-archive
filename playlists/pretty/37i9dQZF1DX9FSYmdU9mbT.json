@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Tim Maia",
-  "num_followers": 1407612,
+  "num_followers": 1407891,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Racional (Vol 1)",
-        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 305693,
-      "name": "Bom-Senso",
-      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
+      "duration_ms": 212933,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -423,22 +427,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Racional (Vol 1)",
+        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+      "duration_ms": 305693,
+      "name": "Bom-Senso",
+      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Andar Com F\u00e9",
-        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 194175,
-      "name": "Andar Com F\u00e9",
-      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "A Festa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 330252,
       "name": "A Festa - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Andar Com F\u00e9",
+        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 194175,
+      "name": "Andar Com F\u00e9",
+      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Se Eu Quiser Falar Com Deus",
-        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 275882,
-      "name": "Se Eu Quiser Falar Com Deus",
-      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 254795,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Se Eu Quiser Falar Com Deus",
+        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 275882,
+      "name": "Se Eu Quiser Falar Com Deus",
+      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
+        "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
+        "url": "https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm"
       },
       "artists": [
         {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 236970,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
+      "duration_ms": 253973,
+      "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
+      "url": "https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
-        "url": "https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm"
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
         }
       ],
-      "duration_ms": 253973,
-      "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
-      "url": "https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW"
+      "duration_ms": 236970,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
     },
     {
       "added_at": "2025-03-07 03:00:30",

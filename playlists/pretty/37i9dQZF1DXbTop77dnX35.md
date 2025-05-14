@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN, Tyla, Mr Eazi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,603 likes - 77 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,668 likes - 77 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-980 songs - 2 day 7 hr 15 min
+981 songs - 2 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Afraid of the Dark \- hayve Remix](https://open.spotify.com/track/6TGxVTSPgXV65MCYcaFf3P) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Afraid of the Dark \(hayve Remix\)](https://open.spotify.com/album/5FSRhgzGRiuilD0okKKDct) | 4:04 | 2022-12-12 | 2023-03-15 |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-20 | 2022-03-30 |
 | [Afterlife](https://open.spotify.com/track/6WBUjjJfJfCuAw2QKrduFv) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Afterlife](https://open.spotify.com/album/7I7CPbDYjhgk6wuecUzxwJ) | 3:41 | 2025-03-13 |  |
+| [Again](https://open.spotify.com/track/3eam4YNpR4GHxBGqLNzZ4U) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Again](https://open.spotify.com/album/0sPXhRIkT8X3866JIiN1Rq) | 3:48 | 2025-05-13 |  |
 | [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |
 | [Aklana](https://open.spotify.com/track/796NUAXeDAd9n8Ng1xJGus) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Aklana](https://open.spotify.com/album/15LjTU9nmCPpMQbPMH8TDc) | 3:24 | 2024-08-27 | 2024-11-20 |
@@ -90,7 +91,7 @@
 | [Ballistic](https://open.spotify.com/track/4K35vDV1gIguKsU9E5Fj5x) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Ballistic](https://open.spotify.com/album/1W0kBLIEmlXcqkTXcFBgBW) | 3:15 | 2024-05-31 | 2024-08-22 |
 | [BANG YOUR HEAD](https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BANG YOUR HEAD](https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk) | 3:24 | 2023-06-07 | 2023-09-26 |
 | [Barcelona Nights](https://open.spotify.com/track/17vXZTcVsCJF1NBoaBQjm7) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Barcelona Nights](https://open.spotify.com/album/08tb3v7S80nm19wRGvhoDi) | 3:00 | 2022-06-17 | 2022-09-01 |
-| [Bass Bop](https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Bass Bop](https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO) | 2:41 | 2025-02-19 |  |
+| [Bass Bop](https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Bass Bop](https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO) | 2:41 | 2025-02-19 | 2025-05-14 |
 | [Be Alright](https://open.spotify.com/track/4UFIbMph43OWFu3A7fC4TI) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Be Alright](https://open.spotify.com/album/3hTztCPVLq2pPqQvQaAwSM) | 2:58 | 2023-07-10 | 2023-12-14 |
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-09 | 2023-04-29 |
 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 | 2022-10-27 | 2023-01-19 |

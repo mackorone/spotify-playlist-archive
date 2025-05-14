@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: MEOVV.
 
-1,997 songs - 4 day 11 hr 59 min
+1,998 songs - 4 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -812,7 +812,7 @@
 | [Itu Aku \- Spotify Singles](https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Itu Aku \- Spotify Singles](https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j) | 4:14 | 2023-12-07 | 2024-05-04 |
 | [Itu Kamu](https://open.spotify.com/track/3qGkwkxr7N2VfFf3fImq0x) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Itu Kamu](https://open.spotify.com/album/6Xl8CANrPQXIALJB1W2aNG) | 4:07 | 2022-03-24 | 2023-04-18 |
 | [it’s okay](https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [it’s okay](https://open.spotify.com/album/6I7sRd2M125ktiuoisAhai) | 2:26 | 2024-11-15 |  |
-| [İlkler Kalır](https://open.spotify.com/track/1hSat4DFZmIFb9arXE7riQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [İlkler Kalır](https://open.spotify.com/album/3LzUVmUwJGWOrsRc5u04qC) | 2:48 | 2024-12-13 |  |
+| [İlkler Kalır](https://open.spotify.com/track/1hSat4DFZmIFb9arXE7riQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [İlkler Kalır](https://open.spotify.com/album/3LzUVmUwJGWOrsRc5u04qC) | 2:48 | 2024-12-13 | 2025-05-14 |
 | [I’m okay, i’m just a little depressed](https://open.spotify.com/track/1O8LgRxgkJ8LUXyYohTcyZ) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SUPERBLOOM](https://open.spotify.com/album/3w8Ki3we6v5ClhTZwvXcqD) | 3:38 | 2022-02-03 | 2022-03-15 |
 | [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 | 2024-08-16 | 2024-11-11 |
 | [Jab Tum Miley](https://open.spotify.com/track/1JelKGBph8gon106Wqjwu2) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Jab Tum Miley](https://open.spotify.com/album/5cp5qCU35snnBanBl5khvN) | 4:06 | 2022-02-10 | 2022-05-21 |
@@ -1234,6 +1234,7 @@
 | [Pan ten](https://open.spotify.com/track/1LdeDUCyrxAIoSzfbqyElX) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Pętla](https://open.spotify.com/album/5XUJwC1TtVT7xm3Qjtev4I) | 3:48 | 2022-03-24 | 2022-04-20 |
 | [Panahon](https://open.spotify.com/track/0NRIRgFZyTWboMYsrM6lNQ) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [Panahon](https://open.spotify.com/album/37PxRUU4rQknvmsktxL3d3) | 4:31 | 2022-03-24 | 2022-12-15 |
 | [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 | 2024-10-11 | 2025-01-26 |
+| [Panjang Umur Selalu](https://open.spotify.com/track/7E6aFTopl1t7PyL93AkgJL) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Panjang Umur Selalu](https://open.spotify.com/album/0nec55WX1gNUbTnC1Xh6Vy) | 3:33 | 2025-05-09 |  |
 | [pantera](https://open.spotify.com/track/3tMdgJnbbLcFBi0vEDkSxs) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 3:10 | 2022-03-24 | 2022-04-11 |
 | [Pantropiko](https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pantropiko](https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8) | 3:45 | 2024-04-19 | 2024-08-24 |
 | [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 | 2024-04-19 | 2024-08-24 |

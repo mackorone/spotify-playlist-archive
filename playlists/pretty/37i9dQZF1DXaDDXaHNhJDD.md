@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Finest collection of Malayalam Music from the past 10 years Cover : Aavesham
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,562 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,828 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Illuminati \- From "Aavesham"](https://open.spotify.com/track/1kFNFsAZ4iZy4vjBEtT12I) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Illuminati \(From "Aavesham"\)](https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE) | 3:32 |
-| 2 | [Killer On The Loose \- From "Rifle Club"](https://open.spotify.com/track/1zENh0Y83ZWiXXsKIFCvky) | [Rex Vijayan](https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Killer On The Loose \(From "Rifle Club"\)](https://open.spotify.com/album/5kAtRB0bvyEJIqTzSokqsw) | 3:02 |
-| 3 | [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 |
+| 2 | [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 |
+| 3 | [Killer On The Loose \- From "Rifle Club"](https://open.spotify.com/track/1zENh0Y83ZWiXXsKIFCvky) | [Rex Vijayan](https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Killer On The Loose \(From "Rifle Club"\)](https://open.spotify.com/album/5kAtRB0bvyEJIqTzSokqsw) | 3:02 |
 | 4 | [Neela Nilave \(From "RDX"\)](https://open.spotify.com/track/1HNig28114roVWfkCHk5oJ) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Neela Nilave \(From "RDX"\)](https://open.spotify.com/album/0StmeakxNJCLQw2YLRBt9g) | 4:13 |
 | 5 | [Nebulakal \- Travel Song \- From "Manjummel Boys"](https://open.spotify.com/track/1jxFfazgOVIJeYbhBm2ENV) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Anwar Ali](https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2) | [Nebulakal \- Travel Song \(From "Manjummel Boys"\)](https://open.spotify.com/album/6bgSQcUj1JzVmDMuF2Vr87) | 4:42 |
 | 6 | [Vatteppam \(From "Mandakini"\)](https://open.spotify.com/track/2mFXx4D49RdesixfLSsoU0) | [Bibin Ashok](https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vaisakh Sugunan](https://open.spotify.com/artist/3MEt4mrI4ZktNe7YxaQMVx) | [Vatteppam \(From "Mandakini"\)](https://open.spotify.com/album/37fD3iPdRh7XvwHbrjXV2d) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 49 | [Onakka Munthiri \- From "Hridayam"](https://open.spotify.com/track/456k6sqokXjOgnxzC71UQG) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Divya Vineeth](https://open.spotify.com/artist/6Tbn00OQg5ZSjtvHOez29z) | [Onakka Munthiri \(From "Hridayam"\)](https://open.spotify.com/album/5oaae3jvP4INbR9G3OwnTN) | 1:58 |
 | 50 | [Darshana \- From "Hridayam"](https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Darshana Rajendran](https://open.spotify.com/artist/5nfZOPYU4aFJii2PCGALu2), [Arun Alat](https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW) | [Darshana \(From "Hridayam"\)](https://open.spotify.com/album/6yvdx4kNq4Ui9gmD6guGfe) | 3:46 |
 
-Snapshot ID: `Z9qqHgAAAAB9ZIr/QmxpaM6av6pwYDnG`
+Snapshot ID: `aCMMzwAAAABjPwDpz2B+7/EArEMXzRiH`

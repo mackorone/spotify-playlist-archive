@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover: AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,477 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,589 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 36 | [Bexley .Road](https://open.spotify.com/track/53OSu8BTjuc61B6V9Go2nK) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [Bexley .Road](https://open.spotify.com/album/1AeMtYxe6KGqhivHtThFzC) | 2:50 |
 | 37 | [Boo Thang](https://open.spotify.com/track/0cEvip6wJqYsKFbVa0DsZX) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Boo Thang](https://open.spotify.com/album/3qKcozXbPJeQC7ekUdLuG4) | 2:41 |
 | 38 | [Snake](https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Snake](https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip) | 2:20 |
-| 39 | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 |
+| 39 | [Maniac \- Bonus Track \[From "Glory"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Ragini Vishwakarma](https://open.spotify.com/artist/3UCFb7SJuft3iuboHfslzj), [Arjun Ajnabee](https://open.spotify.com/artist/2cu64IeD1D7wFS1ZD9wqBO) | [Maniac \- Bonus Track \[From "Glory"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 |
 | 40 | [Puff Puff Pass](https://open.spotify.com/track/6AOTmtEz1ktmOB4ggmCprD) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Gavy Dhaliwal](https://open.spotify.com/artist/0Fz8lO3JBWoZRprqgNos8e), [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG), [Swapan Sekhon](https://open.spotify.com/artist/2HZgOqMzG7sVC6VYqUzaQv), [GUR CHAHAL](https://open.spotify.com/artist/5Z67IfNyTj3ChPO6hSJM0n) | [Puff Puff Pass](https://open.spotify.com/album/538pcEW6VPHWzO3Jdb0O3B) | 4:51 |
 | 41 | [315 \(feat\. Shinda Kahlon & Jazzy B\)](https://open.spotify.com/track/46byBJVhgLiL7e9uedasdg) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:11 |
 | 42 | [No Break](https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:44 |

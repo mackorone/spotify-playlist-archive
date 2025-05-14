@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Ona Mafalda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,750 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,759 likes - 69 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,23 +60,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 50 | [Señales de humo](https://open.spotify.com/track/7Mm708Q7fj5RxWKi527w3F) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Señales de humo](https://open.spotify.com/album/4tHpVT48bbufJnDCGSTdIN) | 3:38 |
 | 51 | [Antes de que marches](https://open.spotify.com/track/39qV6k1j6O6zPPibNbKXqF) | [Marta Soto](https://open.spotify.com/artist/6rRY793jdSneQ9aSy0RtMN) | [Antes de que marches](https://open.spotify.com/album/0VxAEuloDAq0bYKo9kGYCQ) | 3:00 |
 | 52 | [PPA](https://open.spotify.com/track/3nRsBosgVvdLLGBGVADgQH) | [Paranoid 1966](https://open.spotify.com/artist/6GP540ZTiOPTz8uI76k43u) | [PPA](https://open.spotify.com/album/015lzPv1uzNDk6X1XM5iYE) | 2:11 |
-| 53 | [Amiga de la Noche](https://open.spotify.com/track/0QNoG13LgJfYacLgvFYx5W) | [Ciara Lauve](https://open.spotify.com/artist/7FALoGR77ugeHCoigCGGNl) | [Amiga de la Noche](https://open.spotify.com/album/5ubfKKUxF0fIVi8XYqnOL1) | 2:19 |
-| 54 | [GAY](https://open.spotify.com/track/3kJmidn2PLeqAYR5zErFR0) | [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe) | [GAY](https://open.spotify.com/album/4QzcmcOr8jdi6RjvFVSybX) | 2:47 |
-| 55 | [ENTRE CIGARRO Y CIGARRO](https://open.spotify.com/track/3KY3WNTaFwbKdCDO90Lya0) | [Marta Berlín](https://open.spotify.com/artist/6pHlNGKW4LocYmaU9DFVTX) | [ENTRE CIGARRO Y CIGARRO](https://open.spotify.com/album/3EGzCKm20bVQSSeqmzkw3J) | 2:30 |
-| 56 | [Trámite](https://open.spotify.com/track/4AnbZ70nxY05G30ZRqdXLZ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Trámite](https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR) | 3:08 |
-| 57 | [DON \- Bill$](https://open.spotify.com/track/7LSVnbAzYATVF3gy5nw2fk) | [LHARA](https://open.spotify.com/artist/1tfDbWD5eJkqUl8RfH9JOC) | [MANOS EN LA MESA](https://open.spotify.com/album/3by64IjymxL04h2iLhN71Z) | 2:02 |
-| 58 | [El mayo florido de Karmento](https://open.spotify.com/track/6F3FIj2H1JFXRTB9BoqeAL) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [El mayo florido de Karmento](https://open.spotify.com/album/30kcQLcdbo3hwlX7MA9B49) | 3:22 |
-| 59 | [No nos va tan mal](https://open.spotify.com/track/5i0e0IcwE8FyLpouwFWa6x) | [Angy](https://open.spotify.com/artist/0CmNFJWXb5LNYTf3Tnd3jZ) | [No nos va tan mal](https://open.spotify.com/album/17ZEY7bEXwNuNoSxy4V5A6) | 3:21 |
-| 60 | [Lejos De Todo](https://open.spotify.com/track/72RGFAdoYyjQS0UEcBFlHC) | [Rebeca Jimenez](https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3) | [Lejos De Todo](https://open.spotify.com/album/3vM7kEopq3VdBLeHuJ002b) | 4:31 |
-| 61 | [Cómo Te Va?](https://open.spotify.com/track/7q6NA7hKuWkDGTqPSZzgiY) | [Nya de la Rubia](https://open.spotify.com/artist/3rE5nDLmkOn4tmdvnCj8py) | [Cómo Te Va?](https://open.spotify.com/album/0LqDDEkQTWpUYWbOj24yS3) | 3:22 |
-| 62 | [Curiosa](https://open.spotify.com/track/01yxIzjoTsUsXgebyHPg6O) | [Rosa López](https://open.spotify.com/artist/0qNxyg3R90E71P2zC2kLCl) | [Curiosa](https://open.spotify.com/album/6MYfzaRIFiTv0RoTBCL9h3) | 2:46 |
-| 63 | [Hace Un Rato](https://open.spotify.com/track/2Ia984qMN06NoBHtK6XYlj) | [Chlöe's Clue](https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE) | [Hace Un Rato](https://open.spotify.com/album/0tmt4u5ezIcUAmQ4syJXvN) | 1:47 |
-| 64 | [Dolor y Vida](https://open.spotify.com/track/5D4V0TSNrVdO6EQNzJHUg6) | [Hoonine](https://open.spotify.com/artist/7JLaKdKaR60XFtyXkwDICp) | [Una Foto al Sol](https://open.spotify.com/album/5HQHAqPejx4bGl4r4FX5Ct) | 2:57 |
-| 65 | [no puedo evitar](https://open.spotify.com/track/63hcrCHXL4Rs6o8Fzo4I7b) | [Hebe](https://open.spotify.com/artist/5IAbHdlZ1RfltWFYdNaWAO) | [no puedo evitar](https://open.spotify.com/album/4XyF4D588hBzluzLZgM1v8) | 2:39 |
-| 66 | [Desencantada](https://open.spotify.com/track/1C9zWuj9iiiWqNrfsdxso1) | [Sita Rizzi](https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3) | [Desencantada](https://open.spotify.com/album/4Wd4JfLIhzGMO2ElwqC6iI) | 2:53 |
-| 67 | [VUDÚ](https://open.spotify.com/track/1XrPwxrdhr9PjWNJqCHAGb) | [Nina Emocional](https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz) | [VUDÚ](https://open.spotify.com/album/5qTKjxgEmzsn4uf04uVRPw) | 1:58 |
-| 68 | [besaste a otra](https://open.spotify.com/track/1i1msDPrP5qWnjnhvJN1ES) | [Mónica Mara](https://open.spotify.com/artist/0LQWluGCXsXoi1EkXX6d9z) | [besaste a otra](https://open.spotify.com/album/1d0NE5oANRNFg1XmYEJIaA) | 2:33 |
-| 69 | [Leído](https://open.spotify.com/track/6EXPvW5XYx6OkCFAQ8U53K) | [María Guadaña](https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p) | [Hermana Bruja](https://open.spotify.com/album/0Xv3jmdoNddDr5wcm7KX9x) | 3:21 |
-| 70 | [Llena de Pecados](https://open.spotify.com/track/1uGdsIcuhheKB8F0NAt048) | [Carla Lourdes](https://open.spotify.com/artist/7BHD2FWvVoIZJP7b4Kai7j) | [El Día Que Descubrí el Lunar de Tu Oreja](https://open.spotify.com/album/2FaFzVBC3ADDPvz6JWB7zH) | 2:43 |
+| 53 | [GAY](https://open.spotify.com/track/3kJmidn2PLeqAYR5zErFR0) | [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe) | [GAY](https://open.spotify.com/album/4QzcmcOr8jdi6RjvFVSybX) | 2:47 |
+| 54 | [ENTRE CIGARRO Y CIGARRO](https://open.spotify.com/track/3KY3WNTaFwbKdCDO90Lya0) | [Marta Berlín](https://open.spotify.com/artist/6pHlNGKW4LocYmaU9DFVTX) | [ENTRE CIGARRO Y CIGARRO](https://open.spotify.com/album/3EGzCKm20bVQSSeqmzkw3J) | 2:30 |
+| 55 | [Trámite](https://open.spotify.com/track/4AnbZ70nxY05G30ZRqdXLZ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Trámite](https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR) | 3:08 |
+| 56 | [DON \- Bill$](https://open.spotify.com/track/7LSVnbAzYATVF3gy5nw2fk) | [LHARA](https://open.spotify.com/artist/1tfDbWD5eJkqUl8RfH9JOC) | [MANOS EN LA MESA](https://open.spotify.com/album/3by64IjymxL04h2iLhN71Z) | 2:02 |
+| 57 | [El mayo florido de Karmento](https://open.spotify.com/track/6F3FIj2H1JFXRTB9BoqeAL) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [El mayo florido de Karmento](https://open.spotify.com/album/30kcQLcdbo3hwlX7MA9B49) | 3:22 |
+| 58 | [No nos va tan mal](https://open.spotify.com/track/5i0e0IcwE8FyLpouwFWa6x) | [Angy](https://open.spotify.com/artist/0CmNFJWXb5LNYTf3Tnd3jZ) | [No nos va tan mal](https://open.spotify.com/album/17ZEY7bEXwNuNoSxy4V5A6) | 3:21 |
+| 59 | [Lejos De Todo](https://open.spotify.com/track/72RGFAdoYyjQS0UEcBFlHC) | [Rebeca Jimenez](https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3) | [Lejos De Todo](https://open.spotify.com/album/3vM7kEopq3VdBLeHuJ002b) | 4:31 |
+| 60 | [Cómo Te Va?](https://open.spotify.com/track/7q6NA7hKuWkDGTqPSZzgiY) | [Nya de la Rubia](https://open.spotify.com/artist/3rE5nDLmkOn4tmdvnCj8py) | [Cómo Te Va?](https://open.spotify.com/album/0LqDDEkQTWpUYWbOj24yS3) | 3:22 |
+| 61 | [Curiosa](https://open.spotify.com/track/01yxIzjoTsUsXgebyHPg6O) | [Rosa López](https://open.spotify.com/artist/0qNxyg3R90E71P2zC2kLCl) | [Curiosa](https://open.spotify.com/album/6MYfzaRIFiTv0RoTBCL9h3) | 2:46 |
+| 62 | [Hace Un Rato](https://open.spotify.com/track/2Ia984qMN06NoBHtK6XYlj) | [Chlöe's Clue](https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE) | [Hace Un Rato](https://open.spotify.com/album/0tmt4u5ezIcUAmQ4syJXvN) | 1:47 |
+| 63 | [Dolor y Vida](https://open.spotify.com/track/5D4V0TSNrVdO6EQNzJHUg6) | [Hoonine](https://open.spotify.com/artist/7JLaKdKaR60XFtyXkwDICp) | [Una Foto al Sol](https://open.spotify.com/album/5HQHAqPejx4bGl4r4FX5Ct) | 2:57 |
+| 64 | [no puedo evitar](https://open.spotify.com/track/63hcrCHXL4Rs6o8Fzo4I7b) | [Hebe](https://open.spotify.com/artist/5IAbHdlZ1RfltWFYdNaWAO) | [no puedo evitar](https://open.spotify.com/album/4XyF4D588hBzluzLZgM1v8) | 2:39 |
+| 65 | [Desencantada](https://open.spotify.com/track/1C9zWuj9iiiWqNrfsdxso1) | [Sita Rizzi](https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3) | [Desencantada](https://open.spotify.com/album/4Wd4JfLIhzGMO2ElwqC6iI) | 2:53 |
+| 66 | [VUDÚ](https://open.spotify.com/track/1XrPwxrdhr9PjWNJqCHAGb) | [Nina Emocional](https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz) | [VUDÚ](https://open.spotify.com/album/5qTKjxgEmzsn4uf04uVRPw) | 1:58 |
+| 67 | [besaste a otra](https://open.spotify.com/track/1i1msDPrP5qWnjnhvJN1ES) | [Mónica Mara](https://open.spotify.com/artist/0LQWluGCXsXoi1EkXX6d9z) | [besaste a otra](https://open.spotify.com/album/1d0NE5oANRNFg1XmYEJIaA) | 2:33 |
+| 68 | [Leído](https://open.spotify.com/track/6EXPvW5XYx6OkCFAQ8U53K) | [María Guadaña](https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p) | [Hermana Bruja](https://open.spotify.com/album/0Xv3jmdoNddDr5wcm7KX9x) | 3:21 |
+| 69 | [Llena de Pecados](https://open.spotify.com/track/1uGdsIcuhheKB8F0NAt048) | [Carla Lourdes](https://open.spotify.com/artist/7BHD2FWvVoIZJP7b4Kai7j) | [El Día Que Descubrí el Lunar de Tu Oreja](https://open.spotify.com/album/2FaFzVBC3ADDPvz6JWB7zH) | 2:43 |
 
-Snapshot ID: `aBx9fQAAAADh8FKVee7+ByJhC1LCfWTV`
+Snapshot ID: `aCMiqgAAAADN+hTjPHr8cWct4D3IVa9M`

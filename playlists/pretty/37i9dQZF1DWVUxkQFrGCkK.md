@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ season is officially here!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,935 likes - 434 songs - 1 day 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,995 likes - 434 songs - 1 day 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 182 | [Innocent](https://open.spotify.com/track/6OQsyB9GiCflqxFRY2RBQs) | [Re.You](https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Innocent](https://open.spotify.com/album/4LywYeuBUjMzFS1vfXSeFC) | 3:18 |
 | 183 | [Dear Miami \- Bedouin Remix](https://open.spotify.com/track/7kfnbvdDrAvYaxPmOFeP5Y) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Dear Miami \(Bedouin Remix\)](https://open.spotify.com/album/1mzwZuiUFLxqiGlv7IUywF) | 3:38 |
 | 184 | [Shout It Out](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Shout It Out](https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms) | 3:08 |
-| 185 | [Cintura](https://open.spotify.com/track/2xr183W9FHWSZLrJyMp1t9) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd) | [Cintura](https://open.spotify.com/album/5NZgWBhaGdbgaNAKujtB0a) | 3:14 |
+| 185 | [Cintura](https://open.spotify.com/track/2xr183W9FHWSZLrJyMp1t9) | [JOHN ELLE](https://open.spotify.com/artist/4u0YDq4f0MnWxp4oXsxCyL), [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd) | [Cintura](https://open.spotify.com/album/5NZgWBhaGdbgaNAKujtB0a) | 3:14 |
 | 186 | [W4U \(feat\. Jen\)](https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [JEN](https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE) | [W4U \(feat\. Jen\)](https://open.spotify.com/album/39syP387YYwH46TnrvcpbP) | 3:59 |
 | 187 | [Wéna](https://open.spotify.com/track/390Cv0hEOKkYo7O94r2c7g) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [All One](https://open.spotify.com/artist/1YFqP7Bw1SBL1xjFCQM940), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH) | [Wéna](https://open.spotify.com/album/6eDTGTzgJDPLidk5Lt1Rx5) | 2:59 |
 | 188 | [You Belong To No\-One \- Tripolism Remix](https://open.spotify.com/track/4CyCAxTyrTDtzzrBZdjveC) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Kiss & Forget Remixes](https://open.spotify.com/album/6EEn6shLUPyB81mp89ZTwQ) | 6:33 |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbADqT0j1Cxt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbADqT0j1Cxt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbADqT0j1Cxt)
 
-### [Baby Lullabies 2025](https://open.spotify.com/playlist/37i9dQZF1DXbADqT0j1Cxt)
+### [Lullaby Baby](https://open.spotify.com/playlist/37i9dQZF1DXbADqT0j1Cxt)
 
 > Lull your little ones to sleep with piano music.
 
@@ -618,7 +618,7 @@
 | [The Ghost That Couldn't Scare](https://open.spotify.com/track/2nqc38C56IGXpkzc0yqbpv) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [The Ghost That Couldn't Scare](https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8) | 1:33 | 2023-02-10 | 2025-03-05 |
 | [The Grand Old Duke Of York](https://open.spotify.com/track/5haTOyj3fd2iVNwDpidiIi) | [Luana Dias Araujo](https://open.spotify.com/artist/7s8KvVp5I0zZ48PSCxjwVF) | [Polly Wolly Doodle](https://open.spotify.com/album/5hufQfj3W5nMwpmmQjG8t6) | 1:35 | 2021-10-07 | 2022-10-29 |
 | [The Little Snail](https://open.spotify.com/track/5lIDPMCRksnW2Ht5pgVapD) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [The Little Snail](https://open.spotify.com/album/7fuqQ0bpw4CBtUfx13Tw6p) | 2:39 | 2023-12-08 |  |
-| [The Little Snoring Owl](https://open.spotify.com/track/5Q5gTO1LRNR0HY8czjdcIG) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [The Little Snoring Owl](https://open.spotify.com/album/6WHLVi1LmayxXqjxNVl22V) | 2:28 | 2025-04-04 |  |
+| [The Little Snoring Owl](https://open.spotify.com/track/5Q5gTO1LRNR0HY8czjdcIG) | [Dean Demir](https://open.spotify.com/artist/2qij1FezCSL4pjcwoYKWhC) | [The Little Snoring Owl](https://open.spotify.com/album/6WHLVi1LmayxXqjxNVl22V) | 2:28 | 2025-04-04 |  |
 | [The Magic Boat Ride](https://open.spotify.com/track/4rPGjWNP1zmUlBWdi86CK1) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Peaceful Nights](https://open.spotify.com/album/6WWTVD1vO6Zk22iqVKmOAR) | 1:59 | 2023-06-02 |  |
 | [The Moon and Me](https://open.spotify.com/track/28PZHFYICfuG2LvyfTH3NB) | [Naéli Gosally](https://open.spotify.com/artist/3USC0JkWo1du1xVV3AuVyh) | [The Moon and Me](https://open.spotify.com/album/1yi1eGXZv5lVIfSoq6a5lu) | 1:34 | 2023-08-10 |  |
 | [The Moon And The Stars](https://open.spotify.com/track/1OTGgmMvL0VXOLL1dcVTpB) | [Marlene Soeren](https://open.spotify.com/artist/7lhwZYEpTqsoU0I1mFg1iv) | [The Moon And The Stars](https://open.spotify.com/album/0ddGfC2I7XpPLpCimirktG) | 1:55 | 2024-06-28 |  |

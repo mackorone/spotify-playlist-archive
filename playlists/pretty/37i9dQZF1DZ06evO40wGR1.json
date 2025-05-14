@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 36576,
+  "num_followers": 36601,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAABf8y+ps9vZGcDq7uL7qwCX",
+  "snapshot_id": "aCE6AAAAAAC3/b07nyk+txDVhjE1hY0s",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 A\u00f1os De Resistencia (En Vivo)",
-        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 219271,
-      "name": "As\u00ed Es Mi Vida (En Vivo)",
-      "url": "https://open.spotify.com/track/5N5r3huZlmt9wBgBN5YUMR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va por Ti",
         "url": "https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 258973,
       "name": "Kisiera",
       "url": "https://open.spotify.com/track/5DY35CHTE6FV8v2odkxV4W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 A\u00f1os De Resistencia (En Vivo)",
+        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 219271,
+      "name": "As\u00ed Es Mi Vida (En Vivo)",
+      "url": "https://open.spotify.com/track/5N5r3huZlmt9wBgBN5YUMR"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 265404,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH"
+      "duration_ms": 221843,
+      "name": "El Alcohol",
+      "url": "https://open.spotify.com/track/7q707LG7vCu4IEqFF2vzqf"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 221843,
-      "name": "El Alcohol",
-      "url": "https://open.spotify.com/track/7q707LG7vCu4IEqFF2vzqf"
+      "duration_ms": 265404,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH"
     },
     {
       "added_at": null,

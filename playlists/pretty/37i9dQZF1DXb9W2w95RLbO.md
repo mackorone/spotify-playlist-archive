@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9W2w95RLbO.md) - [plain]
 
 > It's time for curtain up! Cover: & Juliet
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,477 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,494 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9W2w95RLbO.md) - [plain]
 | 56 | [Beautiful](https://open.spotify.com/track/5s5RWM20nO50Ixe2et4uNu) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Katie Ladner](https://open.spotify.com/artist/6u0kZHLrtCxD7vEqIO5Knt), [Alice Lee](https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5), [Jessica Keenan Wynn](https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ), [Elle McLemore](https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 8:19 |
 | 57 | [Overture / Food, Glorious Food](https://open.spotify.com/track/79My7Xn0jYxVPpLyhiWU0r) | [Oliver! Ensemble](https://open.spotify.com/artist/1TFymeKvlzrcZfRFHNGJ9h), [Oliver! Orchestra](https://open.spotify.com/artist/4yIgnBBzSM0c6L3C84a2ov), [Donald Pippin](https://open.spotify.com/artist/5pEkdccqPR5hRfHupCs6Kz) | [Oliver! \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4BLZb6ScUYaYypLO25cZsG) | 4:29 |
 | 58 | [I Whistle A Happy Tune](https://open.spotify.com/track/0oEHpVya12qMI1vg6EGBRV) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Jake Lucas](https://open.spotify.com/artist/2hSOFaZO0polYIuLpbAtAx), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/4MCsklkiBP9KTADPWmrhWB) | 2:44 |
-| 59 | [The 25th Annual Putnam County Spelling Bee](https://open.spotify.com/track/4x4iVJeMf8YRryor4lKflE) | [25th Annual Putnam County Spelling Bee Original Cast](https://open.spotify.com/artist/65iw8qDkk91Pzd3h8jtunI) | [25th Annual Putnam County Spelling Bee \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5SXDpZh8lHqquvkcbheIYa) | 4:44 |
+| 59 | [The 25th Annual Putnam County Spelling Bee](https://open.spotify.com/track/4x4iVJeMf8YRryor4lKflE) | [25th Annual Putnam County Spelling Bee Original Cast](https://open.spotify.com/artist/66tdbpspqaHM1cPkBTC0WU) | [25th Annual Putnam County Spelling Bee \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5SXDpZh8lHqquvkcbheIYa) | 4:44 |
 | 60 | [Move \(You're Steppin' On My Heart\) \- Dreamgirls/Broadway/Original Cast Version](https://open.spotify.com/track/1uxWtPsQHalGdWnI5VyT1k) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t), [Loretta Devine](https://open.spotify.com/artist/5KLD26mHpJBYyAr9pKTwl7), [Sheryl Lee Ralph](https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y) | [Dreamgirls: Original Broadway Cast Album \(25th Anniversary Special Edition\)](https://open.spotify.com/album/6XurFIcLRBy0OKPSVQ0ifa) | 1:55 |
 
 Snapshot ID: `Z+rBywAAAABph9MAKhS7R/V3vK+U7US4`

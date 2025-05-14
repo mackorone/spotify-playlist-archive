@@ -4,7 +4,7 @@
 
 > An eclectic collection of brilliantly produced and recorded tracks.
 
-383 songs - 1 day 7 hr 16 min
+384 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Enjoy the Silence](https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Violator \| The 12" Singles](https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT) | 4:17 | 2022-07-20 | 2024-04-02 |
 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/12Gbz1qkaCAFPGlYVVw6xZ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 4:13 | 2022-10-14 | 2022-11-13 |
 | [Existe Uma Voz](https://open.spotify.com/track/5bGMMNxjvlledmzq9dItvf) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Curyman](https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8) | 3:45 | 2023-04-24 |  |
+| [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2025-05-14 |  |
 | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/track/2CwUy8aMNWAislPr58fDvI) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 3:20 | 2023-01-19 |  |
 | [Feel Like Going Home](https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:57 | 2022-10-14 | 2024-04-19 |
 | [Feel Like Going Home](https://open.spotify.com/track/5WkPT3FGqyfWKh7lcqzlXD) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Folk Singer](https://open.spotify.com/album/5cLWh6nwcLUX2H4oGfW9Rx) | 3:57 | 2021-10-15 | 2022-07-29 |
@@ -148,7 +149,7 @@
 | [Islands](https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 2:40 | 2021-10-15 |  |
 | [Islands](https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:40 | 2022-07-20 | 2024-04-19 |
 | [Jeenge](https://open.spotify.com/track/1s5AUFJf1UseEDvmN9JbZ5) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Converting Vegetarians](https://open.spotify.com/album/3LbcBylGvC80f5OTeQaVuM) | 7:02 | 2021-10-15 |  |
-| [Jumbo](https://open.spotify.com/track/56A2b7HaPMzTsIOicdnet1) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Beaucoup Fish](https://open.spotify.com/album/2WQi7I2Nc8pMLgsXnwJp0b) | 6:57 | 2021-10-15 |  |
+| [Jumbo](https://open.spotify.com/track/56A2b7HaPMzTsIOicdnet1) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Beaucoup Fish](https://open.spotify.com/album/2WQi7I2Nc8pMLgsXnwJp0b) | 6:57 | 2021-10-15 | 2025-05-14 |
 | [Jumbo](https://open.spotify.com/track/3VIMS1p3sNifH0RQnmDf7s) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Beaucoup Fish \(Remastered / Super Deluxe\)](https://open.spotify.com/album/4aDQW29Xvaa7jhyMGDS1Yj) | 6:57 | 2022-07-20 | 2024-04-19 |
 | [Justify My Love](https://open.spotify.com/track/6BWRvw630R8z2vNMok6quI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:54 | 2022-07-20 |  |
 | [Kattorna](https://open.spotify.com/track/1ADj39oPKmDPh7jyXHexc5) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Lontano](https://open.spotify.com/album/0CHweAfQAdYekbPt7RxO1z) | 6:29 | 2023-01-19 | 2023-02-10 |

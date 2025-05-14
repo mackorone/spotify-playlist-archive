@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,314 songs - 3 day 16 hr 10 min
+2,315 songs - 3 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,7 +734,7 @@
 | [Fly With Me](https://open.spotify.com/track/0utlMloUqhPm1sHdRbRX0d) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Fly With Me](https://open.spotify.com/album/4Yg9AcZjDJvg7UbhebX2vY) | 1:44 | 2023-06-06 | 2023-10-13 |
 | [Flying](https://open.spotify.com/track/6wm9hYs3yKMUmlKEQS6t7Z) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Flying](https://open.spotify.com/album/0QZqNu6wlgnLCLqGEkXZQ4) | 2:13 | 2023-01-13 | 2025-04-06 |
 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 | 2022-04-15 | 2022-12-17 |
-| [Follow the maze](https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Printers' Alley](https://open.spotify.com/album/2PpIz8xsJOjiFTO4REzthj) | 2:40 | 2023-01-20 |  |
+| [Follow the maze](https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Printers' Alley](https://open.spotify.com/album/2PpIz8xsJOjiFTO4REzthj) | 2:40 | 2023-01-20 | 2025-05-14 |
 | [Food For Thought](https://open.spotify.com/track/6nzxcUtxye4HMz8v8iYnlg) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Food For Thought](https://open.spotify.com/album/2Wp5mKY2BUDd7g5MsdLxYR) | 2:22 | 2022-10-28 |  |
 | [for hire](https://open.spotify.com/track/6IoHBjBeOLB88llhgOX6Za) | [Pellets Brew](https://open.spotify.com/artist/0Hxef8gwqqPVy0rbAvpEAz) | [for hire](https://open.spotify.com/album/1tLwiMmTBCC3l20I7hXOvq) | 2:02 | 2022-04-15 | 2022-09-17 |
 | [For Ilion \(Chefen\)](https://open.spotify.com/track/4S3ctgPAQ0A1tbs7r0m21i) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Scatterbrained](https://open.spotify.com/album/1zWKv8EE8DgGJQvNJAdraZ) | 3:10 | 2022-04-15 | 2022-09-17 |
@@ -1598,7 +1598,7 @@
 | [Procrastinate](https://open.spotify.com/track/3hZu4Bh5tYDu1gaZC5MWMA) | [ᴄᴀᴍᴏᴍɪʟʟᴀ](https://open.spotify.com/artist/5HmJsQ6KlfdCz5mJxDOnwj) | [Procrastinate](https://open.spotify.com/album/5RjVitaqDZD6EMb9pB7vXN) | 1:54 | 2023-04-20 | 2024-02-02 |
 | [projection](https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [projection](https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8) | 2:38 | 2022-08-19 |  |
 | [Proletarian](https://open.spotify.com/track/6eFrj1ET7RnXJ1yoijLtmy) | [Mr Clyde](https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby) | [Proletarian](https://open.spotify.com/album/1tRUkbUU72JPWg5eDes1ne) | 1:06 | 2024-03-01 | 2024-06-08 |
-| [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 | 2022-12-02 | 2025-05-13 |
+| [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 | 2022-12-02 |  |
 | [prpl rain](https://open.spotify.com/track/2W5wmuEdzrYMNmQDWfKDWQ) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh), [Paul Claypool](https://open.spotify.com/artist/6zsLzT78IZnCNC0qzgxo9c) | [prpl rain](https://open.spotify.com/album/2zSyInCYQdZbakgd0VIF83) | 2:44 | 2023-03-20 | 2023-10-06 |
 | [Puddles in Space](https://open.spotify.com/track/3ea0vKpsVdSastrJIMEXpq) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Puddles in Space](https://open.spotify.com/album/1Q2651xcc76V9IqxvUrNi4) | 2:04 | 2024-07-26 | 2024-08-24 |
 | [puppy hotel](https://open.spotify.com/track/2MZhYQCGhF4Fo2KpyHzFYL) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [puppy hotel](https://open.spotify.com/album/51SCqLyDV7DSr68sEzhDA1) | 1:43 | 2023-12-22 | 2024-07-27 |
@@ -1700,6 +1700,7 @@
 | [Rubangura](https://open.spotify.com/track/6QLJmuzbLwPChIK7nNFQKs) | [mellan.](https://open.spotify.com/artist/7kLB19gMrkKiS5OOPRiRLt) | [Rubangura](https://open.spotify.com/album/4mPOaCCL6NPrm2Br2KGWDW) | 1:15 | 2022-07-15 | 2023-03-09 |
 | [Rush Home](https://open.spotify.com/track/1zTjVfbM1WMmbhdO8fwj0D) | [X56.aif](https://open.spotify.com/artist/0sslEoFr85krxkxnGR8HnB) | [Rush Home](https://open.spotify.com/album/3nxHMoidEAyC6DDR9UNBD1) | 2:23 | 2023-12-08 |  |
 | [Rutine](https://open.spotify.com/track/1rfz8agfjrpNkMYbtLPvoU) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Rutine](https://open.spotify.com/album/1FEtSRDR2Gm5Jw0dqgCBab) | 1:33 | 2022-12-02 | 2023-09-16 |
+| [Sacred Place](https://open.spotify.com/track/7BhogB2BhTpFQUXYocCPO5) | [Mount Fuji](https://open.spotify.com/artist/0w54NjZYCeMKkMxKwZJUAs) | [Sacred Place](https://open.spotify.com/album/3XRNNL380LYJoDxakODQnB) | 2:02 | 2025-05-09 |  |
 | [Sad Resentment](https://open.spotify.com/track/4azrL9oyS2uhiLXkP6nC6R) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Sad Resentment](https://open.spotify.com/album/6oqyQ9hEFtNK7QOxOL2FyR) | 2:36 | 2022-04-15 | 2022-10-01 |
 | [Safe In This Place](https://open.spotify.com/track/11yf3OWkbIm6YoTI64jSgg) | [relax bass hunter](https://open.spotify.com/artist/3lMMb0zp3LvloWspXX1DCQ) | [Wave Story](https://open.spotify.com/album/11tKeLS5ezVCCp9ibNtkf8) | 1:38 | 2022-04-15 | 2023-08-18 |
 | [Safety](https://open.spotify.com/track/2sH1SgochD5ojGRiKeXVR1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Safety](https://open.spotify.com/album/6KFiLNXIzRmIF8qOwkAyqa) | 1:54 | 2024-04-26 | 2024-08-12 |
@@ -2315,7 +2316,7 @@
 | [Zen A.M.](https://open.spotify.com/track/2Hv9wGHbkfIBScQg4Tti11) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Zen A.M.](https://open.spotify.com/album/2j59lkIwIxqO2VcqNQXb3l) | 2:00 | 2023-02-06 | 2023-09-29 |
 | [Zen Garden](https://open.spotify.com/track/1n67UFilzbUI9i8wsbyCYi) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Zen Garden](https://open.spotify.com/album/0kPvB9y4kz1T6LlUnxD3uE) | 2:08 | 2024-05-13 | 2024-06-18 |
 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 | 2023-11-17 |  |
-| [Zephyr](https://open.spotify.com/track/70jg1afuHgAUYGEnqsh2n9) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Zephyr](https://open.spotify.com/album/6NGoFqVVUw45s8vNrL5GDc) | 1:56 | 2024-06-15 |  |
+| [Zephyr](https://open.spotify.com/track/70jg1afuHgAUYGEnqsh2n9) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Zephyr](https://open.spotify.com/album/6NGoFqVVUw45s8vNrL5GDc) | 1:56 | 2024-06-15 | 2025-05-14 |
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-08-23 |  |
 | [Zeros](https://open.spotify.com/track/6ik7asMfpomN31lExYVYfz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Zeros](https://open.spotify.com/album/0g4xA0ZpkgM7SrEyvz6aZY) | 2:03 | 2024-03-08 |  |
 | [Zlatan](https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Zlatan](https://open.spotify.com/album/56xbsZljmmaVTlTNAwtr5v) | 1:45 | 2023-08-31 | 2024-10-28 |

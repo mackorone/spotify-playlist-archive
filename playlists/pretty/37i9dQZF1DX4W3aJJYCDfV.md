@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from PinkPantheress, Calvin Harris, Sleep Token and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,571 likes - 126 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,622 likes - 126 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 24 | [Your Loving](https://open.spotify.com/track/1HuDcH1KECyj1aCHub4D4G) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Your Loving](https://open.spotify.com/album/3D2oyrCFxJyoKpBhlyueHK) | 3:24 |
 | 25 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 |
 | 26 | [If They Could Only Know](https://open.spotify.com/track/1vwFYz45Yw2MVhFLL1k62w) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Never/Know](https://open.spotify.com/album/4ifWQZN7li3ij532LR1l0q) | 3:12 |
-| 27 | [One More \- Bonus](https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:08 |
+| 27 | [One More](https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:08 |
 | 28 | [Get Happy](https://open.spotify.com/track/1ldykTue3ZAv6GxW8shJjN) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary \(Deluxe\)](https://open.spotify.com/album/7n5z9K5f4UMNfZ7Qajwvvj) | 3:22 |
 | 29 | [The Spirit](https://open.spotify.com/track/4WnsGUynB9D65tenA7U5gI) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 4:55 |
 | 30 | [Only Happen](https://open.spotify.com/track/2zQt3vKJafeBV6JjZD7oSn) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Only Happen](https://open.spotify.com/album/4MEMDFaYFsHgCrTzwbufQR) | 3:28 |
 | 31 | [Hijack](https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Hijack](https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h) | 2:35 |
 | 32 | [Silver Ford](https://open.spotify.com/track/1tpgA9lmb1m3qZm1qTnJtD) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Devotion](https://open.spotify.com/album/27vmolsE6YhpGbZoMfdjcv) | 3:56 |
-| 33 | [Ugly](https://open.spotify.com/track/16Nhlh4ZAU6MpCwNuSEF7M) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Ugly](https://open.spotify.com/album/0m9SMYIjWo9NpwUWTO5Ubk) | 2:54 |
+| 33 | [Ugly](https://open.spotify.com/track/16Nhlh4ZAU6MpCwNuSEF7M) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Ugly](https://open.spotify.com/album/0m9SMYIjWo9NpwUWTO5Ubk) | 2:51 |
 | 34 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 |
 | 35 | [Walk On Air](https://open.spotify.com/track/3D0c1zeclp4KAoeM7HZZ0r) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Walk On Air](https://open.spotify.com/album/67Pwh19FsAwlmTCXU99mJ8) | 3:48 |
 | 36 | [no reason to cry](https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [no reason to cry](https://open.spotify.com/album/39t4Ap861N3r7OaJaZJ2CM) | 3:03 |

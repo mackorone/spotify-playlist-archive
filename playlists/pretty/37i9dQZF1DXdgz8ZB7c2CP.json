@@ -1,6 +1,6 @@
 {
   "description": "ZULAN with the debut of the year??",
-  "num_followers": 842598,
+  "num_followers": 842592,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -892,6 +892,10 @@
           "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
         },
         {
+          "name": "Fade Black",
+          "url": "https://open.spotify.com/artist/6lczpQaXIogAbhZfhVOiEe"
+        },
+        {
           "name": "Bastion",
           "url": "https://open.spotify.com/artist/52tJU1YfTeD1uCQjq8yooZ"
         }
@@ -1335,22 +1339,22 @@
     {
       "added_at": "2025-05-08 22:00:36",
       "album": {
-        "name": "Yapa Yapa (Shut It Pls)",
-        "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
+        "name": "make the move",
+        "url": "https://open.spotify.com/album/5wtbTNM1IhfvlQSgP9MRsn"
       },
       "artists": [
         {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+          "name": "Conrad",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
         },
         {
-          "name": "Big Shaq",
-          "url": "https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO"
+          "name": "Fi Sullivan",
+          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
         }
       ],
-      "duration_ms": 114158,
-      "name": "Yapa Yapa (Shut It Pls)",
-      "url": "https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj"
+      "duration_ms": 171706,
+      "name": "make the move",
+      "url": "https://open.spotify.com/track/7A7ZlcNlwyBQEWLAyNdd5X"
     },
     {
       "added_at": "2025-05-08 22:00:36",
@@ -1379,38 +1383,26 @@
     {
       "added_at": "2025-05-08 22:00:36",
       "album": {
-        "name": "make the move",
-        "url": "https://open.spotify.com/album/5wtbTNM1IhfvlQSgP9MRsn"
+        "name": "Yapa Yapa (Shut It Pls)",
+        "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
       },
       "artists": [
         {
-          "name": "Conrad",
-          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
         },
         {
-          "name": "Fi Sullivan",
-          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "make the move",
-      "url": "https://open.spotify.com/track/7A7ZlcNlwyBQEWLAyNdd5X"
-    },
-    {
-      "added_at": "2025-05-08 22:00:36",
-      "album": {
-        "name": "llamando",
-        "url": "https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb"
-      },
-      "artists": [
+          "name": "Big Shaq",
+          "url": "https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO"
+        },
         {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+          "name": "Dr Ofori",
+          "url": "https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp"
         }
       ],
-      "duration_ms": 156184,
-      "name": "llamando",
-      "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
+      "duration_ms": 114158,
+      "name": "Yapa Yapa (Shut It Pls)",
+      "url": "https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj"
     },
     {
       "added_at": "2025-05-08 22:00:36",
@@ -1435,6 +1427,22 @@
       "duration_ms": 249894,
       "name": "CHROMA 002 L.A.V.A",
       "url": "https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx"
+    },
+    {
+      "added_at": "2025-05-08 22:00:36",
+      "album": {
+        "name": "llamando",
+        "url": "https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 156184,
+      "name": "llamando",
+      "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
     },
     {
       "added_at": "2025-05-08 22:00:36",
@@ -1475,6 +1483,22 @@
     {
       "added_at": "2025-05-08 22:00:36",
       "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
+    },
+    {
+      "added_at": "2025-05-08 22:00:36",
+      "album": {
         "name": "It Doesn't Matter",
         "url": "https://open.spotify.com/album/6xqZLy9Gwo1sBXvnhUNxhc"
       },
@@ -1491,22 +1515,6 @@
       "duration_ms": 176000,
       "name": "It Doesn't Matter",
       "url": "https://open.spotify.com/track/0y9TOTfCp3N5tW4cv6uzbe"
-    },
-    {
-      "added_at": "2025-05-08 22:00:36",
-      "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
     },
     {
       "added_at": "2025-05-08 22:00:36",
@@ -1567,26 +1575,22 @@
     {
       "added_at": "2025-05-08 22:00:36",
       "album": {
-        "name": "Motions",
-        "url": "https://open.spotify.com/album/74llMjtisXlfWXgtW6pfGQ"
+        "name": "A Little Closer (Oppidan Remix)",
+        "url": "https://open.spotify.com/album/39uwE626Jtfpte7ss1nk7o"
       },
       "artists": [
         {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
         },
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Maiah Manser",
-          "url": "https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV"
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Realise",
-      "url": "https://open.spotify.com/track/6gJfyZxbUH5xBYBgPRpbCi"
+      "duration_ms": 182070,
+      "name": "A Little Closer - Oppidan Remix",
+      "url": "https://open.spotify.com/track/2B700PMxvSrrzlSTURPzag"
     },
     {
       "added_at": "2025-05-08 22:00:36",
@@ -1627,22 +1631,26 @@
     {
       "added_at": "2025-05-08 22:00:36",
       "album": {
-        "name": "A Little Closer (Oppidan Remix)",
-        "url": "https://open.spotify.com/album/39uwE626Jtfpte7ss1nk7o"
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/74llMjtisXlfWXgtW6pfGQ"
       },
       "artists": [
         {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         },
         {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Maiah Manser",
+          "url": "https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV"
         }
       ],
-      "duration_ms": 182070,
-      "name": "A Little Closer - Oppidan Remix",
-      "url": "https://open.spotify.com/track/2B700PMxvSrrzlSTURPzag"
+      "duration_ms": 193333,
+      "name": "Realise",
+      "url": "https://open.spotify.com/track/6gJfyZxbUH5xBYBgPRpbCi"
     },
     {
       "added_at": "2025-05-08 22:00:36",
@@ -1663,6 +1671,30 @@
       "duration_ms": 136157,
       "name": "bastard",
       "url": "https://open.spotify.com/track/7wezQzF31IztdsWRiyV0gJ"
+    },
+    {
+      "added_at": "2025-05-08 22:00:36",
+      "album": {
+        "name": "saving flowers (Hudson Mohawke Remix)",
+        "url": "https://open.spotify.com/album/0xYEK2yJx7FVznbmI9EM7H"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "duration_ms": 261750,
+      "name": "saving flowers - Hudson Mohawke Remix",
+      "url": "https://open.spotify.com/track/61YP88kosdBsJXcbfkN0Nn"
     },
     {
       "added_at": "2025-05-08 22:00:36",
@@ -1699,30 +1731,6 @@
       "duration_ms": 265500,
       "name": "Velour",
       "url": "https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar"
-    },
-    {
-      "added_at": "2025-05-08 22:00:36",
-      "album": {
-        "name": "saving flowers (Hudson Mohawke Remix)",
-        "url": "https://open.spotify.com/album/0xYEK2yJx7FVznbmI9EM7H"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        }
-      ],
-      "duration_ms": 261750,
-      "name": "saving flowers - Hudson Mohawke Remix",
-      "url": "https://open.spotify.com/track/61YP88kosdBsJXcbfkN0Nn"
     },
     {
       "added_at": "2025-05-08 22:00:36",
@@ -1823,6 +1831,22 @@
     {
       "added_at": "2025-05-08 22:00:36",
       "album": {
+        "name": "YA BODY",
+        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 183165,
+      "name": "YA BODY",
+      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
+    },
+    {
+      "added_at": "2025-05-08 22:00:36",
+      "album": {
         "name": "Nothing Gets Better Than This",
         "url": "https://open.spotify.com/album/0JyqcPBNy1pbCf8SZNKTW0"
       },
@@ -1839,22 +1863,6 @@
       "duration_ms": 204444,
       "name": "Nothing Gets Better Than This",
       "url": "https://open.spotify.com/track/7ys3QUPW0v0v2TSUFjLEwQ"
-    },
-    {
-      "added_at": "2025-05-08 22:00:36",
-      "album": {
-        "name": "YA BODY",
-        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 183165,
-      "name": "YA BODY",
-      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
     },
     {
       "added_at": "2025-05-08 22:00:36",
@@ -1883,22 +1891,6 @@
     {
       "added_at": "2025-05-08 22:00:36",
       "album": {
-        "name": "HIGHERTHANUUU",
-        "url": "https://open.spotify.com/album/2GuToJrRpgRKgzGnKcCtVw"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 166718,
-      "name": "HIGHERTHANUUU",
-      "url": "https://open.spotify.com/track/3vF53yUs2rYnTcXf6jNtD1"
-    },
-    {
-      "added_at": "2025-05-08 22:00:36",
-      "album": {
         "name": "leavemealone (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ"
       },
@@ -1919,6 +1911,22 @@
       "duration_ms": 179441,
       "name": "leavemealone - Nia Archives Remix",
       "url": "https://open.spotify.com/track/5tJGW8Wbfyb1TrRjMc8mCc"
+    },
+    {
+      "added_at": "2025-05-08 22:00:36",
+      "album": {
+        "name": "HIGHERTHANUUU",
+        "url": "https://open.spotify.com/album/2GuToJrRpgRKgzGnKcCtVw"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 166718,
+      "name": "HIGHERTHANUUU",
+      "url": "https://open.spotify.com/track/3vF53yUs2rYnTcXf6jNtD1"
     },
     {
       "added_at": "2025-05-08 22:00:36",
@@ -1987,22 +1995,6 @@
     {
       "added_at": "2025-05-08 22:00:36",
       "album": {
-        "name": "I Don't Want Anyone",
-        "url": "https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "I Don't Want Anyone",
-      "url": "https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57"
-    },
-    {
-      "added_at": "2025-05-08 22:00:36",
-      "album": {
         "name": "iluv (vip)",
         "url": "https://open.spotify.com/album/2MKrr0RMsAUuDfMkHK2ZL2"
       },
@@ -2019,6 +2011,22 @@
       "duration_ms": 226829,
       "name": "iluv - vip",
       "url": "https://open.spotify.com/track/5EK0NIxl44MbInwNNOZCNP"
+    },
+    {
+      "added_at": "2025-05-08 22:00:36",
+      "album": {
+        "name": "I Don't Want Anyone",
+        "url": "https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "I Don't Want Anyone",
+      "url": "https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57"
     },
     {
       "added_at": "2025-05-08 22:00:36",

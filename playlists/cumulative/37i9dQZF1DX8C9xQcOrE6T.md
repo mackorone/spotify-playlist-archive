@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Moana 2.
 
-229 songs - 11 hr 44 min
+230 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Can You Feel the Love Tonight \- End Title/ From "The Lion King"/Soundtrack Version](https://open.spotify.com/track/6TL9gJE5JibG8QR6n26eCS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King: Special Edition](https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl) | 4:01 | 2023-03-11 |  |
 | [Can You Feel the Love Tonight \- From "A Whole New Sound"](https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Can You Feel the Love Tonight \(From "A Whole New Sound"\)](https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9) | 2:53 | 2024-08-30 |  |
 | [Carried Me With You](https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 3:33 | 2022-04-01 | 2024-07-11 |
+| [Celebrate Happy](https://open.spotify.com/track/0quevQnKJ8QaJwOJ7ZRHCR) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Music from Disneyland Resort 70th Celebration](https://open.spotify.com/album/3hS2ggCXq6Yi0kOZyyKMn9) | 1:56 | 2025-05-13 |  |
 | [Chillin' Like a Villain](https://open.spotify.com/track/1rM0CnyUiiw6A9CHJRXjZA) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Cameron Boyce](https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH), [Booboo Stewart](https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ), [Mitchell Hope](https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:13 | 2024-02-06 |  |
 | [Chim Chim Cher\-ee \- From "Mary Poppins"/Soundtrack Version](https://open.spotify.com/track/2hKYhft1VITPST4iiAHLGC) | [Dick Van Dyke](https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6), [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Karen Dotrice](https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz), [Matthew Garber](https://open.spotify.com/artist/3YDM76Dml4Pyo8H7JSfafZ) | [The Sherman Brothers Songbook](https://open.spotify.com/album/3PlbEOxE8rE8xf7mDWdpgb) | 2:46 | 2022-04-01 | 2022-07-29 |
 | [Chim Chim Cher\-ee \- From "Mary Poppins"/Soundtrack Version](https://open.spotify.com/track/2Bl4ZuWiMoffCXzj11s0oR) | [Dick Van Dyke](https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6), [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Karen Dotrice](https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz), [Matthew Garber](https://open.spotify.com/artist/3YDM76Dml4Pyo8H7JSfafZ) | [Saving Mr\. Banks \(Original Motion Picture Soundtrack \[Deluxe Edition\]\)](https://open.spotify.com/album/1cuE3waPR1CDFUpYd6fX12) | 2:46 | 2022-07-22 |  |

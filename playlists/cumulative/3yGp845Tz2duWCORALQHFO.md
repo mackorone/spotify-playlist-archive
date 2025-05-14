@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,839 songs - 6 day 9 hr 58 min
+2,840 songs - 6 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1485,6 +1485,7 @@
 | [Looking Away](https://open.spotify.com/track/18h9JpSrV3GHo8xVLnZFRx) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Looking Away](https://open.spotify.com/album/1BaLVDm5kQlJEgir3bvFlk) | 2:47 | 2024-10-13 | 2024-10-22 |
 | [Looking For](https://open.spotify.com/track/6TYHPwQgbh5eIpyiLPVJTY) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Hypercycle](https://open.spotify.com/album/4IRPWekl0EQsvqIZjWugfw) | 4:10 | 2024-10-31 | 2024-11-09 |
 | [Looking For Love](https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Looking For Love](https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1) | 2:53 | 2024-11-15 | 2024-11-23 |
+| [Looking Up](https://open.spotify.com/track/5ehE3Sw8BX9vXHEa8VSsOP) | [Hidden Axis](https://open.spotify.com/artist/2yccyWCH3p3R8ZZXMGBq30), [Memory Thorn](https://open.spotify.com/artist/1lVlgg2kJKbjqzTlaIv72R), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Looking Up](https://open.spotify.com/album/4rbZyMj312os7paLfJ7sCx) | 3:18 | 2025-05-13 |  |
 | [Loops & Tings](https://open.spotify.com/track/50mXU62jCPxphRlt4zqHEt) | [Jeckyll & Hyde](https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1) | [Loops & Tings](https://open.spotify.com/album/1BpJlqgF1id6vAJ2hN630B) | 2:28 | 2025-01-20 | 2025-01-24 |
 | [LOSE CONTROL](https://open.spotify.com/track/15gBrrouXXYK1nczQ54wVZ) | [TARISH](https://open.spotify.com/artist/14xzHAH8M0tHnfKDD2clV0) | [LOSE CONTROL](https://open.spotify.com/album/4Nvzg2QMciRBT2JhPnTGGO) | 3:06 | 2024-06-21 | 2024-06-29 |
 | [Lose It All](https://open.spotify.com/track/72MxuPaKKJodN2LyjornGc) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968) | [Lose It All](https://open.spotify.com/album/4OKUqMTwMxwh18IDjls9fx) | 4:11 | 2025-01-10 | 2025-01-18 |

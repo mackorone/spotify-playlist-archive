@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-421 songs - 18 hr 6 min
+426 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2022-03-04 | 2022-07-22 |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-03-04 | 2022-04-06 |
 | [Endlessly](https://open.spotify.com/track/2tVlSbzameLECtSMMfCslf) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Endlessly](https://open.spotify.com/album/6SR2y0cQ60pCES83O4oIAN) | 2:37 | 2024-09-25 |  |
+| [Entwined](https://open.spotify.com/track/2dD2vlba9615NY1XUOip8o) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Entwined](https://open.spotify.com/album/4duiYenGDX8tQdoAKlRpho) | 2:39 | 2025-05-13 |  |
 | [Epica](https://open.spotify.com/track/0atiY3LbkLweNVGenk79sx) | [Calden](https://open.spotify.com/artist/7Mk4LgnGiyEQldfCtHMXVe) | [Calden](https://open.spotify.com/album/5UbnVjw0edng6BBFivmGhs) | 1:21 | 2022-03-04 | 2022-07-01 |
 | [Esteve](https://open.spotify.com/track/0z79KRpafDe5MduzUC5YhX) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Esteve](https://open.spotify.com/album/6P9fb1BvI1ZrwONnddqgEC) | 2:46 | 2025-03-05 |  |
 | [Eternity](https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6) | [Anshul Karn](https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR) | [Eternity](https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1) | 2:16 | 2022-03-04 | 2022-07-01 |
@@ -135,6 +136,7 @@
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 |  |
 | [Falling whisper](https://open.spotify.com/track/6iRoDo2n1mEzQxJ8dyapzI) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Falling whisper](https://open.spotify.com/album/2fnkNpDjfaIlGgep0jsdPj) | 2:45 | 2025-03-25 | 2025-04-08 |
 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 | 2022-03-04 | 2024-05-10 |
+| [Familiar Faces](https://open.spotify.com/track/1qN4gbb7DorRbfjlH1k3VR) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Familiar Faces](https://open.spotify.com/album/1ggIMZPIpojoCEyldZASBu) | 2:05 | 2025-05-13 |  |
 | [Fantasia in Bb Major](https://open.spotify.com/track/6eExSQ2BD9wBt1P05zKmHv) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Fantasia in Bb Major](https://open.spotify.com/album/7HHccRDjuN27tMFgHG6jpj) | 2:05 | 2023-02-24 |  |
 | [Favor from the Wind](https://open.spotify.com/track/6jhxoEzxae8CW2ScL7ehsT) | [Janet Noguera](https://open.spotify.com/artist/7BX5I0rBq9BLKCyJHQr2GD) | [Favor from the Wind](https://open.spotify.com/album/6EQJJ0BLotBsUpafBhjfR1) | 4:43 | 2024-02-02 | 2024-04-20 |
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2022-03-04 | 2023-05-10 |
@@ -144,8 +146,9 @@
 | [First Day of Spring](https://open.spotify.com/track/1vEiPkYPGvGC6b9H62R55H) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [First Day of Spring](https://open.spotify.com/album/6ARTpCGoPf9lxTw4LXo8uO) | 2:30 | 2024-10-01 |  |
 | [First Impressions](https://open.spotify.com/track/7tNi9AcmTfAKGrGQ3xxD5n) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [First Impressions](https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb) | 2:15 | 2025-01-20 |  |
 | [First Love](https://open.spotify.com/track/4REsGOqIOvzi9PygRFVEru) | [Sly Hickman](https://open.spotify.com/artist/3uoTGpQb6iBXRqVa6O04FQ) | [First Love](https://open.spotify.com/album/63lrHdmNgIAqjo14jy82qh) | 2:12 | 2024-09-25 |  |
-| [First Summer](https://open.spotify.com/track/4vtxTtXKzCX07aYik2gBjA) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [First Summer](https://open.spotify.com/album/3k9CdFJXdfgQhsbbzw6SK7) | 2:58 | 2024-06-28 |  |
+| [First Summer](https://open.spotify.com/track/4vtxTtXKzCX07aYik2gBjA) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [First Summer](https://open.spotify.com/album/3k9CdFJXdfgQhsbbzw6SK7) | 2:58 | 2024-06-28 | 2025-05-14 |
 | [Floating Away](https://open.spotify.com/track/5VuYhcVrtRuD32izXcqG0B) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Floating Away & Gentle Landing](https://open.spotify.com/album/4WEYbH3YCawWUeDFdqnkSp) | 3:53 | 2022-07-29 | 2022-10-07 |
+| [Fluorescent](https://open.spotify.com/track/4yw2HIw0XrEmUkgVwG4WUP) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Fluorescent](https://open.spotify.com/album/2p4AOmWu7NBg7asSk4OorW) | 2:33 | 2025-05-13 |  |
 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 | 2024-05-10 |  |
 | [Follow Me](https://open.spotify.com/track/5qlWPpcBFypfcxJB0HvngM) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:05 | 2022-03-04 | 2022-07-08 |
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2022-03-04 | 2022-04-22 |
@@ -179,6 +182,7 @@
 | [Headed to the Hillside](https://open.spotify.com/track/0SRfTC8lmnaVrmzrGxkmMN) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Brave New Promises](https://open.spotify.com/album/5wgqxwzeY7WL0BbAdMliHj) | 2:47 | 2022-10-14 | 2023-02-25 |
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2025-03-12 |
 | [Heart and Hope](https://open.spotify.com/track/4Nylyd2DTfsIl7blLQasEl) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Heart and Hope](https://open.spotify.com/album/45A7m4PmaQLy25YbeEscno) | 2:12 | 2025-02-24 |  |
+| [Heartstrings](https://open.spotify.com/track/1jStafk4WRINiwpWl27GTk) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Heartstrings](https://open.spotify.com/album/3dzTMbFLumpgoyk8mcIqn0) | 2:45 | 2025-05-13 |  |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-03-04 | 2024-04-06 |
 | [Hidden Hymns](https://open.spotify.com/track/7fo54L8KW69K5nuVrp0kwJ) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Hidden Hymns](https://open.spotify.com/album/0kjMhSbHbFZTgOboHGP35l) | 2:19 | 2024-03-08 |  |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-03-04 |  |
@@ -330,7 +334,7 @@
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-04 |  |
 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 | 2025-04-22 |  |
 | [Spinning](https://open.spotify.com/track/4tFdMgQKqe72jfD6W4t2bO) | [Esbjörn Öhrwall](https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz) | [Spinning](https://open.spotify.com/album/2xMh235QkHAAwy0mrKQLHY) | 1:39 | 2022-06-24 | 2022-07-22 |
-| [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-04-21 |  |
+| [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-04-21 | 2025-05-14 |
 | [Square One](https://open.spotify.com/track/0sI1V9eHnuebwAxmGqZ31d) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:16 | 2022-03-04 | 2022-10-29 |
 | [Stairs](https://open.spotify.com/track/6ufsRNZjLydBXfncTkZ9ut) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Stairs](https://open.spotify.com/album/2mQcf2bqjYpNPbEfZw1ql5) | 2:40 | 2022-12-23 | 2023-05-10 |
 | [Still So Beautiful](https://open.spotify.com/track/1Oqj6onkV4tLjPSwd06Xg7) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Still So Beautiful](https://open.spotify.com/album/11r4IMk5xSdUYchjpIo2Bb) | 2:31 | 2022-03-04 | 2024-07-19 |
@@ -378,6 +382,7 @@
 | [To The Fullest](https://open.spotify.com/track/3N3cO8C6pdGLlZOIM2m0gY) | [Werner Ellis](https://open.spotify.com/artist/6ipIg3Lr5yMA3BhgN8D6ai) | [To The Fullest](https://open.spotify.com/album/068joD3o3RhbfVGnraePDB) | 2:42 | 2022-03-04 | 2022-04-06 |
 | [Togetherness](https://open.spotify.com/track/40qwRulvebVhIKE8s68shj) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Togetherness](https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv) | 2:28 | 2024-04-19 | 2025-03-06 |
 | [Tomorrow's Dream](https://open.spotify.com/track/2CCN2biC5thrngQtYUlSOh) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Tomorrow's Dream](https://open.spotify.com/album/375tL35zwCzLsuLSkSpGpG) | 3:00 | 2025-03-05 |  |
+| [Topics](https://open.spotify.com/track/2PU57NQKyVL3rj7aukAF4x) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Topics](https://open.spotify.com/album/4Zli7lW3EBBe6FiSfddjHD) | 2:39 | 2025-05-13 |  |
 | [train](https://open.spotify.com/track/4GK2DBwEnwd1P52jzVPzM0) | [Flaudicia](https://open.spotify.com/artist/1JEhjxH1R2Jvu17PzmphGl) | [train](https://open.spotify.com/album/7FyE3r44ajkiHt971NQkYE) | 3:01 | 2022-03-04 | 2022-04-06 |
 | [Tranquil Trails](https://open.spotify.com/track/0bKyIpZMx0azvdVYngl84E) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [Tranquil Trails](https://open.spotify.com/album/00Wkk9ftq8UtVykdUhNWaL) | 2:53 | 2024-05-24 |  |
 | [Traveling Through](https://open.spotify.com/track/1UygGXclx9iMNWArEXmQZf) | [Timber Row](https://open.spotify.com/artist/64ICK2JUkKFcevsUA8N8Ll) | [Lone Rider](https://open.spotify.com/album/2KhCe7d9REnKhzfiR3BDFp) | 2:14 | 2022-03-04 | 2023-04-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Ana Bacalhau e explora as músicas escolhidas pelos nossos editores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,920 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,921 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 29 | [No Calendário](https://open.spotify.com/track/0WDjB5792qZzMqd01QuCxh) | [Ana Mariano](https://open.spotify.com/artist/7MUZ4F7lryA5Hf2d2aTafU) | [No Calendário](https://open.spotify.com/album/47niQpvStwE2HUHqaF51Um) | 3:13 |
 | 30 | [PURITY](https://open.spotify.com/track/2tlDVD72DCHz9mxB5clcW2) | [Libra](https://open.spotify.com/artist/58oCcA2IXrVg5ZEN3Hywpq) | [EVERYONE'S FIRST BREATH](https://open.spotify.com/album/6mUPoOjJqugty6eONQJHC1) | 4:58 |
 | 31 | [Brinde](https://open.spotify.com/track/1sKPvloSehjDeB2660RuRx) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [Brinde](https://open.spotify.com/album/2DfwqhVlIxxSMjYKuO0hnU) | 4:05 |
-| 32 | [engana\-me hoje, eu deixo \- Acústico](https://open.spotify.com/track/4Cu6tOzvJaVACjpCOzSqxR) | [Mariana Reis](https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV) | [mariana reis \(Acústico\)](https://open.spotify.com/album/3G0cSdDFXmZOu4jTRCQqX8) | 3:33 |
+| 32 | [engana\-me hoje, eu deixo \(Acústico\)](https://open.spotify.com/track/4Cu6tOzvJaVACjpCOzSqxR) | [Mariana Reis](https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV) | [mariana reis \(Acústico\)](https://open.spotify.com/album/3G0cSdDFXmZOu4jTRCQqX8) | 3:33 |
 | 33 | [Nada Demais \(feat\. Rita Onofre\)](https://open.spotify.com/track/0H9nEqO1DybOjbFUE5Oay2) | [Beatriz Caixinha](https://open.spotify.com/artist/6Ji4dWE4lgaPMko8PLJV5n), [Rita Onofre](https://open.spotify.com/artist/7vVA69an2aWJ4q8lY5KC9Z) | [Nada Demais \(feat\. Rita Onofre\)](https://open.spotify.com/album/1GcjJY1RDYWsSJXnifdXrQ) | 2:34 |
 | 34 | [A Pique C'est Chique](https://open.spotify.com/track/5K1HI8ARPq8xhHS3WsZrKh) | [Beatriz Pessoa](https://open.spotify.com/artist/1AjFyEQi181yA1Cgh9uWSe) | [A Pique C'est Chique](https://open.spotify.com/album/6VANEQ6x1TMDvUyvbO2gA1) | 3:59 |
 | 35 | [Cravos Prá Festa](https://open.spotify.com/track/4IZ6pFJVDqJLy9H7WmftOR) | [Filipa Biscaia](https://open.spotify.com/artist/2KVLlB9tftCprOALNbQ5Wk) | [Cravos Prá Festa](https://open.spotify.com/album/5lhQQWsKkieKlKFYNyukrE) | 2:56 |

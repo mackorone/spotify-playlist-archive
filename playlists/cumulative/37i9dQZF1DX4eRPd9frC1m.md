@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-414 songs - 22 hr 25 min
+415 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Flourish](https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Flourish](https://open.spotify.com/album/1cfItDeK7Zq8DptVmokzN2) | 4:03 | 2021-11-19 | 2022-01-08 |
 | [Follow Me \- Blanke Remix](https://open.spotify.com/track/4vyuKMu7g0QviiOCYzhhjW) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Follow Me \(Blanke Remix\)](https://open.spotify.com/album/7wHmCiBY8g7oFQQuIuwyZe) | 4:25 | 2021-11-19 | 2022-01-08 |
 | [FOOTWORK](https://open.spotify.com/track/1LDAyB24s26kvMt6hXFBks) | [Dropwizz](https://open.spotify.com/artist/3t4Po0hp4Vi8XqKipK3WJQ) | [FOOTWORK](https://open.spotify.com/album/0oi8NQS13uy43aHcy3xSFi) | 3:53 | 2021-11-19 | 2022-01-08 |
+| [Forcefield](https://open.spotify.com/track/6KxayQc9tOaUAQQyThB5Tl) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [Darkstar](https://open.spotify.com/album/1BFdYawImsAcojUrL3I9Km) | 3:52 | 2025-05-09 |  |
 | [Forever](https://open.spotify.com/track/0gWQBwxwQRum86Rx4DaDHL) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Forever](https://open.spotify.com/album/3NkRNGqhU0WONr1ob77DKD) | 3:25 | 2021-11-19 | 2022-01-08 |
 | [Forgive Forget](https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Forgive Forget](https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs) | 3:18 | 2024-01-12 | 2024-02-13 |
 | [Fuck It Up](https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [Fuck It Up](https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3) | 2:12 | 2025-01-07 |  |
@@ -197,7 +198,7 @@
 | [Lasers](https://open.spotify.com/track/5wEq97Dc7x5k2tJz3DlJFO) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Ruvlo](https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW) | [Lasers](https://open.spotify.com/album/4wx2Az0dfbr23XFjOXQgsg) | 3:31 | 2022-01-07 | 2022-07-29 |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2024-01-05 |  |
 | [Legendary](https://open.spotify.com/track/3yFb3JWYOaKdgwViCGPnM2) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK), [Vkay](https://open.spotify.com/artist/26Na9AsGDehQcRBgPMewIy), [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Legendary](https://open.spotify.com/album/2xWaI7sAZVyz6axpQUizZ5) | 4:57 | 2021-11-19 | 2023-09-24 |
-| [Let's Go Back](https://open.spotify.com/track/4Lm5hfdEAxyzbTzaEejcx5) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Let's Go Back](https://open.spotify.com/album/5h2vu9JpN9xvbFll2f6KZi) | 3:31 | 2025-04-25 |  |
+| [Let's Go Back](https://open.spotify.com/track/4Lm5hfdEAxyzbTzaEejcx5) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Let's Go Back](https://open.spotify.com/album/5h2vu9JpN9xvbFll2f6KZi) | 3:31 | 2025-04-25 | 2025-05-14 |
 | [Level](https://open.spotify.com/track/2EaQrkCOe5Esv3NWSnk4sX) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Level](https://open.spotify.com/album/60Td5Qx0Cs0ua9sAqePcPX) | 2:40 | 2022-04-15 | 2022-06-20 |
 | [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 | 2023-04-28 | 2025-02-08 |
 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 | 2025-03-07 |  |

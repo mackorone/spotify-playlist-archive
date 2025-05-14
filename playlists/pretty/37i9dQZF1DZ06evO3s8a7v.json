@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAADeJMYRaKEQI0JCKwywb71s",
+  "snapshot_id": "aCE6AAAAAABb/iPqgPn9Cf3JYq58dtXW",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Dvicio",
+          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "4 Meses",
+      "url": "https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LUNAR",
         "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 186787,
       "name": "LUNAR",
       "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Dvicio",
-          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "4 Meses",
-      "url": "https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe"
     },
     {
       "added_at": null,
@@ -539,6 +539,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIKINI",
+        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 182380,
+      "name": "BIKINI",
+      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una y Mil Veces",
         "url": "https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa"
       },
@@ -555,26 +579,6 @@
       "duration_ms": 182608,
       "name": "Una y Mil Veces",
       "url": "https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "250X",
-        "url": "https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        }
-      ],
-      "duration_ms": 137293,
-      "name": "250X",
-      "url": "https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9"
     },
     {
       "added_at": null,
@@ -603,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIKINI",
-        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
+        "name": "250X",
+        "url": "https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS"
       },
       "artists": [
         {
@@ -612,17 +616,13 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        },
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
         }
       ],
-      "duration_ms": 182380,
-      "name": "BIKINI",
-      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
+      "duration_ms": 137293,
+      "name": "250X",
+      "url": "https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9"
     },
     {
       "added_at": null,
@@ -803,30 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Bailo Pa Ti",
-        "url": "https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 171816,
-      "name": "No Bailo Pa Ti",
-      "url": "https://open.spotify.com/track/5tCWZXTFstxYy1BoF7q6J6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como + Nadie",
         "url": "https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 183956,
       "name": "Como + Nadie",
       "url": "https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Bailo Pa Ti",
+        "url": "https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 171816,
+      "name": "No Bailo Pa Ti",
+      "url": "https://open.spotify.com/track/5tCWZXTFstxYy1BoF7q6J6"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suelta, Sola y Tranquila (feat. MYA)",
-        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
-      },
-      "artists": [
-        {
-          "name": "FABRO",
-          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 149929,
-      "name": "Suelta, Sola y Tranquila (feat. MYA)",
-      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desbloqueo",
         "url": "https://open.spotify.com/album/7HbweJj6G9SCy6oQQy314d"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 192732,
       "name": "Desbloqueo",
       "url": "https://open.spotify.com/track/0Rr3a98X7aP1sADDsfm16w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suelta, Sola y Tranquila (feat. MYA)",
+        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
+      },
+      "artists": [
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 149929,
+      "name": "Suelta, Sola y Tranquila (feat. MYA)",
+      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
     },
     {
       "added_at": null,

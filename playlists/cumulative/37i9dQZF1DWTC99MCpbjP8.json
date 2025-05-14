@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "adieu",
+        "url": "https://open.spotify.com/album/2t489joRBePXntcIrDs3Gf"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152903,
+      "name": "adieu",
+      "url": "https://open.spotify.com/track/6nDr6kqqRDetH1G6kDooNJ"
+    },
+    {
+      "album": {
         "name": "Aegean Fantaisie",
         "url": "https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7"
       },
@@ -6737,6 +6755,24 @@
     },
     {
       "album": {
+        "name": "Oceans Between Us",
+        "url": "https://open.spotify.com/album/4ha1Xqb5sGAuc9PzPmQEQ3"
+      },
+      "artists": [
+        {
+          "name": "AuraLoom",
+          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141518,
+      "name": "Oceans Between Us",
+      "url": "https://open.spotify.com/track/7uU6gogq2d2IaktE5gSeV2"
+    },
+    {
+      "album": {
         "name": "Oh Endless Day",
         "url": "https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb"
       },
@@ -10274,7 +10310,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 149705,
       "name": "To The Shore",
       "url": "https://open.spotify.com/track/1C6agiPtzxgsPH2tKtMg4s"

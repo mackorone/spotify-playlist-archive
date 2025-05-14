@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 366141,
+  "num_followers": 366197,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "dear dialE",
-        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
       },
       "artists": [
         {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
         }
       ],
-      "duration_ms": 115041,
-      "name": "AOT",
-      "url": "https://open.spotify.com/track/2BAcbnk7JMYspiJip31953"
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
+        "name": "dear dialE",
+        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "duration_ms": 115041,
+      "name": "AOT",
+      "url": "https://open.spotify.com/track/2BAcbnk7JMYspiJip31953"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 125084,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Skin to Skin",
-        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        },
-        {
-          "name": "Kaisha",
-          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Skin to Skin",
-      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "ILLUSIONS Pt. II",
         "url": "https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 183053,
       "name": "ILLUSIONS Pt. II",
       "url": "https://open.spotify.com/track/6ro3scqAcujWPUd13k590j"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Skin to Skin",
+      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 218308,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
         "name": "The Water",
         "url": "https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 180000,
       "name": "The Water",
       "url": "https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 218308,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
     },
     {
       "added_at": "2025-05-08 23:00:18",

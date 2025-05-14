@@ -4,7 +4,7 @@
 
 > we fancy the new PinkPantheress mixtape 🩷 🐈‍⬛  all  the best indie dance tracks of the moment
 
-1,817 songs - 4 day 15 hr 16 min
+1,818 songs - 4 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -956,7 +956,7 @@
 | [Live Or Die By Love](https://open.spotify.com/track/10h8uNxxeHZMvwHi2Qiqky) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY) | [Live Or Die By Love](https://open.spotify.com/album/6dBjWRMMfFXc5Zomv2oR9D) | 3:48 | 2025-01-31 | 2025-04-05 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-09-24 | 2022-01-17 |
 | [Living It Up](https://open.spotify.com/track/05HfcpAJ4PBRp15enPGv0P) | [NEMO](https://open.spotify.com/artist/2naji4kbOcOdFil7HLc1HP) | [Living It Up](https://open.spotify.com/album/0RhI0nc4YJfyO8pGCcqK15) | 3:20 | 2024-08-30 | 2024-11-09 |
-| [Liza M1](https://open.spotify.com/track/37VVNfgGTkOTSV1Lgw5WVH) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Liza Flume](https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ) | [Liza M1](https://open.spotify.com/album/7J9BOI5vYSPAyWFn8fi47s) | 4:35 | 2025-03-21 |  |
+| [Liza M1](https://open.spotify.com/track/37VVNfgGTkOTSV1Lgw5WVH) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Liza Flume](https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ) | [Liza M1](https://open.spotify.com/album/7J9BOI5vYSPAyWFn8fi47s) | 4:35 | 2025-03-21 | 2025-05-14 |
 | [llamando](https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [llamando](https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb) | 2:36 | 2025-01-24 |  |
 | [LLTB](https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Jam City Presents EFM](https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR) | 3:40 | 2023-08-25 | 2024-01-20 |
 | [Locked](https://open.spotify.com/track/1vBxzMZGCneeEemHVMw6Q3) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Pink](https://open.spotify.com/album/4AQJGcPp7SpT1xNLWrfYuz) | 8:29 | 2022-09-17 | 2022-10-06 |
@@ -1353,6 +1353,7 @@
 | [Rêve](https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Rêve](https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G) | 3:09 | 2023-04-07 | 2023-07-11 |
 | [S e x](https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [S e x](https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO) | 3:01 | 2023-10-20 | 2023-11-25 |
 | [Said & Done](https://open.spotify.com/track/6f4VtVnlQm7XT6KrP52r1N) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Said & Done](https://open.spotify.com/album/31RNAbkYLWo8QV2beoQbKJ) | 3:19 | 2024-10-25 | 2025-04-12 |
+| [Sailing Away](https://open.spotify.com/track/6LkwvXgYfM5qoW198vlIn8) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Sailing Away](https://open.spotify.com/album/0l13ZlBmEjGIGRjzToTiSn) | 4:41 | 2025-05-13 |  |
 | [Same Damn Luck \- Little Dragon Remix](https://open.spotify.com/track/4XWRxBsuNfGale2mkB2Vkq) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Feeling Lucky?](https://open.spotify.com/album/03pjOrBIZRXTl0svkvKldT) | 4:03 | 2021-08-27 | 2022-02-08 |
 | [Same Thing Every Day](https://open.spotify.com/track/4TonuDFhZeY5rrmkMFiiT5) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Same Thing Every Day](https://open.spotify.com/album/02H0yfRYPaeAJcnH4pklQl) | 3:14 | 2024-04-26 | 2024-05-11 |
 | [Satisfy You](https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Satisfy You](https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg) | 3:27 | 2023-10-27 | 2024-01-13 |

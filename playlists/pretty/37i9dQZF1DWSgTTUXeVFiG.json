@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 25152,
+  "num_followers": 25187,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Live At The Cheetah, Vol. 1",
-        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+        "name": "Live At The Cheetah, Vol. 2",
+        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
       },
       "artists": [
         {
           "name": "Fania All Stars",
           "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 435640,
-      "name": "Anacaona - Live",
-      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
+      "duration_ms": 444960,
+      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
+      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -483,18 +479,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Live At The Cheetah, Vol. 2",
-        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
       "artists": [
         {
           "name": "Fania All Stars",
           "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 444960,
-      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
-      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
+      "duration_ms": 435640,
+      "name": "Anacaona - Live",
+      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Un Sonido Bestial El Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg"
-      },
-      "artists": [
-        {
-          "name": "Richie Ray",
-          "url": "https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        }
-      ],
-      "duration_ms": 371813,
-      "name": "Sonido Bestial - En Vivo",
-      "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "30 A\u00f1os de Power",
         "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 349493,
       "name": "Disc\u00falpeme Se\u00f1ora - Live Version",
       "url": "https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Un Sonido Bestial El Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg"
+      },
+      "artists": [
+        {
+          "name": "Richie Ray",
+          "url": "https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        }
+      ],
+      "duration_ms": 371813,
+      "name": "Sonido Bestial - En Vivo",
+      "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
     },
     {
       "added_at": "2024-09-24 20:35:55",

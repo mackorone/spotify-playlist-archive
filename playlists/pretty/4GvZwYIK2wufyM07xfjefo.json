@@ -1,13 +1,113 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u304a\u5bb6\u3067\u306e\u3093\u3073\u308a\u8074\u304d\u305f\u3044\u7652\u3057\u7cfb\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 124,
+  "num_followers": 125,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAE6Qt5m5TryGf1WNrHHkGgYOWT5Hxc",
+  "snapshot_id": "AAAE+dlFaUZr3AkQo/5ogT8pCQFhOYSY",
   "tracks": [
+    {
+      "added_at": "2025-05-13 07:58:55",
+      "album": {
+        "name": "First Ever ArCade",
+        "url": "https://open.spotify.com/album/7sfaT2jQALJXgfoiZTrIU5"
+      },
+      "artists": [
+        {
+          "name": "Glue",
+          "url": "https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85"
+        }
+      ],
+      "duration_ms": 222089,
+      "name": "\u6b7b\u795e",
+      "url": "https://open.spotify.com/track/2cpRsXJgSPklIdf9kD186U"
+    },
+    {
+      "added_at": "2025-05-13 07:59:33",
+      "album": {
+        "name": "Cradle",
+        "url": "https://open.spotify.com/album/0p4mhb5pDWZsHk0pkmV1Az"
+      },
+      "artists": [
+        {
+          "name": "Mushi-P",
+          "url": "https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "Alien Probe (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/6f2wZ4c5rjZ9TEk1ExMTNf"
+    },
+    {
+      "added_at": "2025-05-13 07:59:47",
+      "album": {
+        "name": "\u8f2a\u9023\u87ba\u65cb\u7406\u8ad6",
+        "url": "https://open.spotify.com/album/2bI4rcByaTxijguwhuyTHx"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30e1\u30eb\u30c4P",
+          "url": "https://open.spotify.com/artist/69PSxkMSs4XP1kRezRs5EY"
+        },
+        {
+          "name": "\u3088\u307f\u3043",
+          "url": "https://open.spotify.com/artist/0Hcp1DNbF9TUAyemgvXDYr"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 239856,
+      "name": "\u8f2a\u9023\u87ba\u65cb\u7406\u8ad6 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/3vkldLY19rjx8GFaDjjomF"
+    },
+    {
+      "added_at": "2025-05-13 08:00:13",
+      "album": {
+        "name": "\u6625\u306b\u3075\u308c\u305f\u65e5",
+        "url": "https://open.spotify.com/album/3BEXjnqI7xcRe0eb1q36CE"
+      },
+      "artists": [
+        {
+          "name": "yamichrome",
+          "url": "https://open.spotify.com/artist/56btWLEbaEfENYnHHcXN4m"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 229367,
+      "name": "\u6625\u306b\u3075\u308c\u305f\u65e5 (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/3mIYj2Jv5kQTICi3mcIqeJ"
+    },
+    {
+      "added_at": "2025-05-13 07:59:18",
+      "album": {
+        "name": "A Fantastic Go-Cart",
+        "url": "https://open.spotify.com/album/0m88T79xsVye8LNw1rNXYN"
+      },
+      "artists": [
+        {
+          "name": "\u7531\u672b\u30a4\u30ea",
+          "url": "https://open.spotify.com/artist/1rHy3uxDsp5pvrLQooiJJ9"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "\u30ce\u30b9\u30d5\u30a7\u30e9\u30c8\u30a5",
+      "url": "https://open.spotify.com/track/7LkFHxuNPjDLHpSDo5Eyu1"
+    },
     {
       "added_at": "2025-04-15 08:40:59",
       "album": {
@@ -655,106 +755,6 @@
       "duration_ms": 235354,
       "name": "HELLO, NEW WORLD! (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/68xlf7qu8lMlKdUzGt3Git"
-    },
-    {
-      "added_at": "2025-02-18 08:39:39",
-      "album": {
-        "name": "\u30a2\u30f3\u30b5\u30fc",
-        "url": "https://open.spotify.com/album/7tAR3LWIWrmgux6EmwZ9cz"
-      },
-      "artists": [
-        {
-          "name": "\u3050\u3061\u308a",
-          "url": "https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "\u30a2\u30f3\u30b5\u30fc (feat. KAITO)",
-      "url": "https://open.spotify.com/track/3xlIfUURHZfzNLG7uHtPMJ"
-    },
-    {
-      "added_at": "2025-02-18 08:39:53",
-      "album": {
-        "name": "\u5730\u7344\u306f\u7f8e\u3057\u3044",
-        "url": "https://open.spotify.com/album/0bwlk8nwcUd6k0Hhm9IHSw"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u3057\u304b\u304b\u3082\u3057\u304b\u3002",
-          "url": "https://open.spotify.com/artist/0YdOi2vvnPxYFGYTVCZvLT"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 191448,
-      "name": "\u5730\u7344\u306f\u7f8e\u3057\u3044 (feat. KAITO)",
-      "url": "https://open.spotify.com/track/7j3E2hrIZBqoa8WCH4IkMS"
-    },
-    {
-      "added_at": "2025-02-18 08:40:05",
-      "album": {
-        "name": "technical difficulty",
-        "url": "https://open.spotify.com/album/5TjYsbgUcmc9GpltfPkSoa"
-      },
-      "artists": [
-        {
-          "name": "kijima",
-          "url": "https://open.spotify.com/artist/1SgONA50hAdrYYYtBnxC4n"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "\u30d7\u30ec\u30b9\u30d3\u30aa\u30d4\u30a2 (feat. KAITO)",
-      "url": "https://open.spotify.com/track/63yPUQIe8diUfxqiVoPgNn"
-    },
-    {
-      "added_at": "2025-02-18 08:40:32",
-      "album": {
-        "name": "\u51ac\u304c\u7d42\u308f\u308a\u3092\u544a\u3052\u305f",
-        "url": "https://open.spotify.com/album/48UG8tacbXLcyJ9aryFNFj"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3053\u3084\u304b\u5927\u8056\u5802",
-          "url": "https://open.spotify.com/artist/6yq2Hzrg9vEBuebVFVMozB"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 180005,
-      "name": "\u51ac\u304c\u7d42\u308f\u308a\u3092\u544a\u3052\u305f (feat. KAITO)",
-      "url": "https://open.spotify.com/track/4UpBU3WZERsfxxTlMmPgYy"
-    },
-    {
-      "added_at": "2025-02-18 08:43:41",
-      "album": {
-        "name": "Sweet Valentine",
-        "url": "https://open.spotify.com/album/5ijZXjgLVpkoDlH2NK1NVI"
-      },
-      "artists": [
-        {
-          "name": "EO",
-          "url": "https://open.spotify.com/artist/4jcGNX43ioTG1HGfJSDISU"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 185816,
-      "name": "Sweet Valentine (feat. KAITO)",
-      "url": "https://open.spotify.com/track/2nlorkIAGtKVzwzm0YDGhE"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

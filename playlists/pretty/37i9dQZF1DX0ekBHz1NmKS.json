@@ -347,22 +347,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236794,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "Somna om",
         "url": "https://open.spotify.com/album/2rOd0yYNFEh06vjjMFmBd6"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 235230,
       "name": "Kaprifol",
       "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236794,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
+        "name": "Mimosa",
+        "url": "https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 192575,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
         "name": "I\u2019m Not a Boy",
         "url": "https://open.spotify.com/album/1SHRLt3g7yrOZT9TG7Ffep"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 173133,
       "name": "What My Heart Needs",
       "url": "https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "Mimosa",
-        "url": "https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 192575,
-      "name": "Mimosa",
-      "url": "https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Innan kronan blir f\u00f6r tung",
-        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
-      },
-      "artists": [
-        {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
-        }
-      ],
-      "duration_ms": 233726,
-      "name": "Djungeltelegrafen",
-      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "Goldfish",
         "url": "https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Jag \u00c4r",
-        "url": "https://open.spotify.com/album/1dWqLkECIKnh0LiL1rV9vq"
+        "name": "Innan kronan blir f\u00f6r tung",
+        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Jag \u00c4r",
-      "url": "https://open.spotify.com/track/4sAUGUun3R9KZYQlZ6YCBj"
+      "duration_ms": 233726,
+      "name": "Djungeltelegrafen",
+      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -843,6 +827,38 @@
       "duration_ms": 236842,
       "name": "Trappa till himlen",
       "url": "https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "Jag \u00c4r",
+        "url": "https://open.spotify.com/album/1dWqLkECIKnh0LiL1rV9vq"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Jag \u00c4r",
+      "url": "https://open.spotify.com/track/4sAUGUun3R9KZYQlZ6YCBj"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "kanske lika bra att vi l\u00e4gger av n\u00e4r vi ligger bra",
+        "url": "https://open.spotify.com/album/3SNoO3phfgMtYdnWCzR7OF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 185115,
+      "name": "kanske lika bra att vi l\u00e4gger av n\u00e4r vi ligger bra",
+      "url": "https://open.spotify.com/track/3VtnMvL2Tpq56AmitlTFYh"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -891,22 +907,6 @@
       "duration_ms": 179748,
       "name": "Fortare",
       "url": "https://open.spotify.com/track/0LYN3OvXOZ7rTUOWKj72Pc"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "kanske lika bra att vi l\u00e4gger av n\u00e4r vi ligger bra",
-        "url": "https://open.spotify.com/album/3SNoO3phfgMtYdnWCzR7OF"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 185115,
-      "name": "kanske lika bra att vi l\u00e4gger av n\u00e4r vi ligger bra",
-      "url": "https://open.spotify.com/track/3VtnMvL2Tpq56AmitlTFYh"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "han e done",
-        "url": "https://open.spotify.com/album/0otIfMs1Ie7jSBOvqnecDy"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 159024,
-      "name": "han e done",
-      "url": "https://open.spotify.com/track/4X7OxzooUwGd8wQTYtLWKk"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "i miss you",
         "url": "https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 205000,
       "name": "i miss you",
       "url": "https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "T\u00e4nker p\u00e5 dig (men bara ibland)",
+        "url": "https://open.spotify.com/album/4A7L8E2alIz01G780Kt2kC"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 176052,
+      "name": "T\u00e4nker p\u00e5 dig (men bara ibland)",
+      "url": "https://open.spotify.com/track/0iVXGPDVUsurN9OpzKBHCD"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "T\u00e4nker p\u00e5 dig (men bara ibland)",
-        "url": "https://open.spotify.com/album/4A7L8E2alIz01G780Kt2kC"
+        "name": "han e done",
+        "url": "https://open.spotify.com/album/0otIfMs1Ie7jSBOvqnecDy"
       },
       "artists": [
         {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
         }
       ],
-      "duration_ms": 176052,
-      "name": "T\u00e4nker p\u00e5 dig (men bara ibland)",
-      "url": "https://open.spotify.com/track/0iVXGPDVUsurN9OpzKBHCD"
+      "duration_ms": 159024,
+      "name": "han e done",
+      "url": "https://open.spotify.com/track/4X7OxzooUwGd8wQTYtLWKk"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Murphy",
-        "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 153618,
-      "name": "Vem fan \u00e4r Murphy?",
-      "url": "https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "Beautiful Woman",
         "url": "https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 189034,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0nrBYMziJMKR7u3ylc1iSE"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "Murphy",
+        "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 153618,
+      "name": "Vem fan \u00e4r Murphy?",
+      "url": "https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Bastard",
-        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Lilla livet",
-      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "N\u00e4rmare d\u00e5",
         "url": "https://open.spotify.com/album/2oiwnIWZCXGX7b3NwwJwJY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 171369,
       "name": "N\u00e4rmare d\u00e5",
       "url": "https://open.spotify.com/track/49Qy5M3x7tpPPeHKJ4O6TU"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "Bastard",
+        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Lilla livet",
+      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1283,42 +1283,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Peace Reign",
-        "url": "https://open.spotify.com/album/0pTNyJZT9TsdWpw1x7cdg7"
-      },
-      "artists": [
-        {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 155512,
-      "name": "Peace Reign",
-      "url": "https://open.spotify.com/track/37AnElQAdOqGpCwahotyce"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 196321,
-      "name": "112",
-      "url": "https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "tagesanbruch",
         "url": "https://open.spotify.com/album/6nyOnLizny7SotOf76OwpB"
       },
@@ -1343,6 +1307,22 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 196321,
+      "name": "112",
+      "url": "https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
         "name": "Ja visst g\u00f6r det ont",
         "url": "https://open.spotify.com/album/1vPi8ZtpnKZyoyv2qDZuOK"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 197092,
       "name": "Ja visst g\u00f6r det ont",
       "url": "https://open.spotify.com/track/4Iz9mYKm1If0cX5WdKGlCz"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "Peace Reign",
+        "url": "https://open.spotify.com/album/0pTNyJZT9TsdWpw1x7cdg7"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 155512,
+      "name": "Peace Reign",
+      "url": "https://open.spotify.com/track/37AnElQAdOqGpCwahotyce"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Solens alla \u00e4nglar",
-        "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
+        "name": "I'm So Sick",
+        "url": "https://open.spotify.com/album/7IUw02WezIcITzhD8Mv8rU"
       },
       "artists": [
         {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+          "name": "Buster Moe",
+          "url": "https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf"
         }
       ],
-      "duration_ms": 257359,
-      "name": "Solens alla \u00e4nglar",
-      "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
+      "duration_ms": 204000,
+      "name": "I'm So Sick",
+      "url": "https://open.spotify.com/track/5qCVolVLPIb57Jhqhzurfk"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1607,6 +1607,38 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
+        "name": "Solens alla \u00e4nglar",
+        "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "Solens alla \u00e4nglar",
+      "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "har berg har vatten (\u4e00\u96f6\u4e00)",
+        "url": "https://open.spotify.com/album/2l2xyAydLYMrdUh2qyuOAH"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Matchboll nr.10",
+      "url": "https://open.spotify.com/track/3e9dPOUYJVifMYPBpNULy7"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
         "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
         "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
       },
@@ -1619,22 +1651,6 @@
       "duration_ms": 219642,
       "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
       "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "100 m",
-        "url": "https://open.spotify.com/album/4Hmb99zrLMh6mWw9W7Ojv6"
-      },
-      "artists": [
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "100 m",
-      "url": "https://open.spotify.com/track/7ypXhGlc3KvaghLisybEz9"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1675,6 +1691,22 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
+        "name": "Macintosh",
+        "url": "https://open.spotify.com/album/5GDxSA8HKymF5oKUxyu2yY"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 211640,
+      "name": "Macintosh",
+      "url": "https://open.spotify.com/track/0ISzoYdlIi5fcRmKLfdl0Q"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
         "name": "Fyllda Av Sommar",
         "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
       },
@@ -1691,18 +1723,34 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "Macintosh",
-        "url": "https://open.spotify.com/album/5GDxSA8HKymF5oKUxyu2yY"
+        "name": "100 m",
+        "url": "https://open.spotify.com/album/4Hmb99zrLMh6mWw9W7Ojv6"
       },
       "artists": [
         {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
         }
       ],
-      "duration_ms": 211640,
-      "name": "Macintosh",
-      "url": "https://open.spotify.com/track/0ISzoYdlIi5fcRmKLfdl0Q"
+      "duration_ms": 172933,
+      "name": "100 m",
+      "url": "https://open.spotify.com/track/7ypXhGlc3KvaghLisybEz9"
+    },
+    {
+      "added_at": "2025-05-08 22:00:41",
+      "album": {
+        "name": "Tills idag",
+        "url": "https://open.spotify.com/album/1zstzUYTyLI9VMLMmZL0Ki"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 181042,
+      "name": "Tills idag",
+      "url": "https://open.spotify.com/track/6VS8Y3icddJzgUPHgM35Ds"
     },
     {
       "added_at": "2025-05-08 22:00:41",
@@ -1723,26 +1771,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "60 L.E.S.",
-        "url": "https://open.spotify.com/album/7zIWxOx3yqlCqMCfxbLNOP"
-      },
-      "artists": [
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        },
-        {
-          "name": "Esta Kirabo",
-          "url": "https://open.spotify.com/artist/52oDOwHuuZWVrZIGW6ww8v"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "60 L.E.S.",
-      "url": "https://open.spotify.com/track/35sbxt8GYiBwwtcB5JZgpR"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "Kamikaze Life EP",
         "url": "https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz"
       },
@@ -1759,22 +1787,6 @@
     {
       "added_at": "2025-05-08 22:00:41",
       "album": {
-        "name": "I'm So Sick",
-        "url": "https://open.spotify.com/album/7IUw02WezIcITzhD8Mv8rU"
-      },
-      "artists": [
-        {
-          "name": "Buster Moe",
-          "url": "https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "I'm So Sick",
-      "url": "https://open.spotify.com/track/5qCVolVLPIb57Jhqhzurfk"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
         "name": "It's a love cult!",
         "url": "https://open.spotify.com/album/0mAz5bcUPnLs7gL9liXUyi"
       },
@@ -1787,22 +1799,6 @@
       "duration_ms": 174400,
       "name": "It's a love cult!",
       "url": "https://open.spotify.com/track/0Dd8kzlLm9vYXCsWb0esp6"
-    },
-    {
-      "added_at": "2025-05-08 22:00:41",
-      "album": {
-        "name": "Tills idag",
-        "url": "https://open.spotify.com/album/1zstzUYTyLI9VMLMmZL0Ki"
-      },
-      "artists": [
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
-        }
-      ],
-      "duration_ms": 181042,
-      "name": "Tills idag",
-      "url": "https://open.spotify.com/track/6VS8Y3icddJzgUPHgM35Ds"
     },
     {
       "added_at": "2025-05-08 22:00:41",

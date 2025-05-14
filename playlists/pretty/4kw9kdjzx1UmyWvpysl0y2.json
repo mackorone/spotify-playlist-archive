@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125329,
+  "num_followers": 125330,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUE2au3F8p0DYroh5ObX5x5eVt5ylO",
+  "snapshot_id": "AAAUFdD8ez9ymxN1Qtm9PPst0kM/66IW",
   "tracks": [
+    {
+      "added_at": "2025-05-13 14:13:04",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0sPXhRIkT8X3866JIiN1Rq"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "M\u00d8\u00d8NE",
+          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
+        }
+      ],
+      "duration_ms": 228062,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3eam4YNpR4GHxBGqLNzZ4U"
+    },
     {
       "added_at": "2025-05-12 15:36:55",
       "album": {
@@ -1139,22 +1159,6 @@
       "duration_ms": 152413,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0QHo2C0zCM4paxa04PsJhU"
-    },
-    {
-      "added_at": "2025-02-19 15:43:01",
-      "album": {
-        "name": "Bass Bop",
-        "url": "https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Bass Bop",
-      "url": "https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

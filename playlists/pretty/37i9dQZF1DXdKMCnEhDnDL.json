@@ -1,12 +1,12 @@
 {
   "description": "De beste Nederlandse liedjes. Cover: Claude",
-  "num_followers": 510640,
+  "num_followers": 510687,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCH05gAAAAB+IhfPkLYuUTe+12D6S1bS",
+  "snapshot_id": "aCMH5QAAAACOCzQqkfhHskg5dtiUx53B",
   "tracks": [
     {
       "added_at": "2025-05-12 13:17:26",
@@ -95,6 +95,22 @@
     {
       "added_at": "2025-05-12 13:17:26",
       "album": {
+        "name": "Niet Voor Lief",
+        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 147367,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
+    },
+    {
+      "added_at": "2025-05-12 13:17:26",
+      "album": {
         "name": "Ga Dan!",
         "url": "https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv"
       },
@@ -151,26 +167,6 @@
       "duration_ms": 191404,
       "name": "Alles Wordt Beter",
       "url": "https://open.spotify.com/track/5d0KtdnoPpniNFngV5ehcP"
-    },
-    {
-      "added_at": "2025-05-12 13:17:26",
-      "album": {
-        "name": "Je T'aime",
-        "url": "https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        },
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 179005,
-      "name": "Je T'aime",
-      "url": "https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA"
     },
     {
       "added_at": "2025-05-12 13:17:26",
@@ -251,6 +247,26 @@
     {
       "added_at": "2025-05-12 13:17:26",
       "album": {
+        "name": "Je T'aime",
+        "url": "https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "duration_ms": 179005,
+      "name": "Je T'aime",
+      "url": "https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA"
+    },
+    {
+      "added_at": "2025-05-12 13:17:26",
+      "album": {
         "name": "Hart In Brand",
         "url": "https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 146400,
       "name": "Hart In Brand",
       "url": "https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx"
-    },
-    {
-      "added_at": "2025-05-12 13:17:26",
-      "album": {
-        "name": "Niet Voor Lief",
-        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
     },
     {
       "added_at": "2025-05-12 13:17:26",

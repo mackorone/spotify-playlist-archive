@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0aA475GObe8VCZvHRRloxK"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182104,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/37qlRGMmN1tStZS0elymXg"
+    },
+    {
+      "album": {
         "name": "Glitter Illusion",
         "url": "https://open.spotify.com/album/2E1r3H1Kfx5hXqkeFsseu0"
       },
@@ -3841,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "UNITY",
+        "url": "https://open.spotify.com/album/6bnf6dgi1gDKHwg4YeCpbf"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278678,
+      "name": "UNITY",
+      "url": "https://open.spotify.com/track/1ii9uwB3yTRDAyIpWauE5v"
+    },
+    {
+      "album": {
         "name": "Unlucky!!",
         "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
       },
@@ -4916,7 +4952,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 227360,
       "name": "\u30ab\u30c6\u30b4\u30e9\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk"
@@ -5552,6 +5588,24 @@
       "duration_ms": 248551,
       "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
       "url": "https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ec\u30c7\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/1BxSDCPFXkAGtq45RC72vI"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "\u30d7\u30ec\u30c7\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/3RHlC1GYvsgr5Z0wiRznEP"
     },
     {
       "album": {
@@ -7264,7 +7318,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 152871,
       "name": "\u7206\u901f\u8ad6\u7406ness",
       "url": "https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR"
@@ -7840,7 +7894,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 260893,
       "name": "\u98db\u884c\u8247",
       "url": "https://open.spotify.com/track/5vsM9UppL2iTgOfenMB6Gz"

@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-297 songs - 16 hr 24 min
+300 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Blinding Lights](https://open.spotify.com/track/4qAeCVBiLVpG56P4KOL5sE) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/1gLQuDNomgHQQlW2oFJAfj) | 2:53 | 2022-09-09 | 2024-04-19 |
 | [Blinding Lights](https://open.spotify.com/track/3a0n83lQLdxJYedOJMcaS1) | [Jaque Dylan](https://open.spotify.com/artist/1C4O2dXmCudFHkn9Zw8Kml) | [Blinding Lights](https://open.spotify.com/album/7Mbwvp7Txu3Nq5q6bgEGB2) | 2:01 | 2024-10-08 |  |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-03-07 |  |
+| [Breath of Life](https://open.spotify.com/track/2vDKz4mCQAzl6IlAiIRxFs) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [Breath of Life](https://open.spotify.com/album/0eISzBR2Y1RqoTQGbPdL5k) | 2:23 | 2025-05-13 |  |
 | [Can You Feel the Love Tonight](https://open.spotify.com/track/3osEK0HswvG6A84LqrCBjf) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Can You Feel the Love Tonight](https://open.spotify.com/album/53DAURj2Zj5igvfViNepDL) | 3:43 | 2024-09-03 |  |
 | [cardigan \- Bonus Track](https://open.spotify.com/track/2zxv5woj8aMPkAhGsHDxI5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw) | 3:52 | 2022-11-18 | 2022-11-26 |
 | [Careless Whisper](https://open.spotify.com/track/1U4V0xoTU4F5N9PqTNhtL6) | [Mio Camara](https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq) | [Careless Whisper](https://open.spotify.com/album/2Epp9yR6uvyq2bQsZSbqPk) | 2:35 | 2024-11-12 | 2025-04-26 |
@@ -133,6 +134,7 @@
 | [Hey, Soul Sister](https://open.spotify.com/track/2nfWIbOe5SIOsT5MMrl7de) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Hey, Soul Sister](https://open.spotify.com/album/2UrWk2e6Kw9DWWU8LFMxqs) | 3:01 | 2024-08-13 |  |
 | [Hoppípolla](https://open.spotify.com/track/2CuDFSFwIy2pwpXNHPLwZ3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Sigur Rós](https://open.spotify.com/album/38e7K18t8g1sSeYbBdG08o) | 4:11 | 2022-11-18 | 2022-11-26 |
 | [How Deep Is Your Love](https://open.spotify.com/track/7qLttxOo1BLZ1IYpTWabX2) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [How Deep Is Your Love](https://open.spotify.com/album/2RgZqmVkkeOQNlpxz7nA6q) | 2:43 | 2024-10-01 | 2025-04-26 |
+| [How Deep Is Your Love](https://open.spotify.com/track/0QaJ3nnioyQkMRUb1lfDdt) | [Mateo Varela](https://open.spotify.com/artist/69xxT258WnlYNSEt01Dh5w) | [How Deep Is Your Love](https://open.spotify.com/album/3VLvY8wg6Zc25ZsggJSbK9) | 2:38 | 2025-05-13 |  |
 | [How Far Will I Go](https://open.spotify.com/track/5DbaHzbL6yNvDweTMwDsjE) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [How Far Will I Go](https://open.spotify.com/album/01dPukYevifXCAoCg1iLP3) | 4:10 | 2021-11-25 | 2025-03-08 |
 | [How Will I Know \(arr\. piano\)](https://open.spotify.com/track/5pT81cp8OK5FuACexrkgC1) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [How Will I Know \(arr\. piano\)](https://open.spotify.com/album/0C9p3l8YDqEC8G5UYilo8F) | 3:38 | 2021-11-25 | 2023-06-24 |
 | [Human Nature \(Arr\. R\. Boyd & L\. Metcalf for Cello & Guitar\)](https://open.spotify.com/track/3aMagwbjbBUakRbCCt542s) | [Steve Porcaro](https://open.spotify.com/artist/6uJ8A4c1Z4FbHUTdhHm5dn), [Boyd Meets Girl](https://open.spotify.com/artist/5jRlTeRHOKRs7a9vPwMEPR) | [Boyd Meets Girl](https://open.spotify.com/album/1M2ZlMDGp4yjl9hzPX4Eyk) | 2:42 | 2021-11-25 | 2024-10-22 |
@@ -276,6 +278,7 @@
 | [Unholy](https://open.spotify.com/track/0Ug2sprcGoWHbQYzvTA1ry) | [Davide Ambrosia](https://open.spotify.com/artist/7Jd8IfE12z0jbepgMaVpXl) | [Unholy](https://open.spotify.com/album/0Tvoo673A3bqsAnXkcPRma) | 2:36 | 2024-11-26 |  |
 | [Until I Found You](https://open.spotify.com/track/5SAK6BC92F7POlKKO5gDLA) | [Davide Ambrosia](https://open.spotify.com/artist/7Jd8IfE12z0jbepgMaVpXl) | [Until I Found You](https://open.spotify.com/album/4eaBzs8PLXM6xde6VnnHwr) | 2:35 | 2024-12-10 |  |
 | [Untitled 4 \(aka Njósnavélin\)](https://open.spotify.com/track/3ds1kgDCu5z8223fX1FWIN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Sigur Rós](https://open.spotify.com/album/38e7K18t8g1sSeYbBdG08o) | 7:02 | 2022-11-18 | 2022-11-26 |
+| [Unwritten](https://open.spotify.com/track/0cLsU7UExVFnMepQrn6oei) | [Emma Lorents](https://open.spotify.com/artist/2Oa3OJROOoFrIZCPV8Tegc) | [Unwritten](https://open.spotify.com/album/4ExuBLJrAew1vdUa9AI1w7) | 2:39 | 2025-05-13 |  |
 | [Venus As a Boy](https://open.spotify.com/track/5Ccu4rB501CNiuZYI1sJAW) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Bjork](https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB) | 2:53 | 2022-11-18 | 2022-11-26 |
 | [Video Games \- 2020 Version](https://open.spotify.com/track/0RXFGoIYK7w64zkYZ3IR4w) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Lana Del Rey](https://open.spotify.com/album/3HuXseIKWFC5Pwg0oMuNFT) | 4:39 | 2022-11-18 | 2022-11-26 |
 | [Vincent](https://open.spotify.com/track/3MgyhHXu6wfQxW41mixIcj) | [Ralph Garner](https://open.spotify.com/artist/6Oq63eCF0Vr9KPNgaGPkHU) | [Vincent](https://open.spotify.com/album/3KUdmGh5uXzyMs1ojtGmFx) | 4:27 | 2025-04-04 |  |

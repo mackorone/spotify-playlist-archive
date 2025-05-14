@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Spacey Jane
 
-1,883 songs - 4 day 9 hr 52 min
+1,884 songs - 4 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1612,6 +1612,7 @@
 | [Teenage Dream](https://open.spotify.com/track/4rssWNMsh5veaSUEydTAls) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Teenage Dream](https://open.spotify.com/album/7KGsbhfYrdhjLO7XPk04zs) | 3:51 | 2022-10-07 | 2022-10-29 |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-05-20 | 2022-06-08 |
 | [Television Promises](https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Television Promises](https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT) | 3:39 | 2023-03-24 | 2023-06-03 |
+| [Tell Me You Love Me](https://open.spotify.com/track/12TuGHYMlodnW9X2NaL37v) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:34 | 2025-05-13 |  |
 | [TEMPLE OF THE DRAGON](https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [TEMPLE OF THE DRAGON](https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW) | 2:48 | 2021-06-07 | 2022-04-18 |
 | [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 | 2022-04-08 | 2022-04-15 |
 | [Terrify](https://open.spotify.com/track/6cLnBdjkUmxt5TYJssSSTu) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Terrify](https://open.spotify.com/album/6oP8VAZA3zOn40lyLxBEtG) | 2:48 | 2023-05-05 | 2023-07-15 |

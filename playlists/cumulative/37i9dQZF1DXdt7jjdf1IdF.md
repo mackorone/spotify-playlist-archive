@@ -4,7 +4,7 @@
 
 > Dengar lagu\-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia
 
-52 songs - 3 hr 27 min
+53 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Teka Teki](https://open.spotify.com/track/613C0IwjG3e0qBZ8bUe9wh) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heart to Heart](https://open.spotify.com/album/4OaVx6l378wjkKkWEfSuj9) | 3:30 | 2024-03-26 |  |
 | [Terjebak Nostalgia](https://open.spotify.com/track/5i29InIyuEG5121x1onevN) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 3:26 | 2023-02-23 | 2024-04-19 |
 | [Terjebak Nostalgia](https://open.spotify.com/track/5peHKo1SGvTfGxInpFPng9) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/4BZl8mzxQXW0CeOWEV4vek) | 3:26 | 2024-03-26 |  |
+| [Terserah](https://open.spotify.com/track/1OSg4uyjhjb5SMFeXAGC2i) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Terserah](https://open.spotify.com/album/7cclWVYR07f5NzewlRdfkd) | 4:00 | 2025-05-13 |  |
 | [The Girl That I Used To Be](https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [The Girl That I Used To Be](https://open.spotify.com/album/4tNsUBJJ9sI3BW24tKS332) | 3:11 | 2024-03-26 |  |
 | [Usai Di Sini](https://open.spotify.com/track/0CcIhzC8gq1GNzYgvPsBvQ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/4qjxXBBkd1WGW1lz6ibLMy) | 4:43 | 2024-03-26 |  |
 | [Usai Di Sini](https://open.spotify.com/track/6i5sIqE4lglanzlXXl8gCj) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 4:43 | 2023-02-23 | 2024-04-19 |

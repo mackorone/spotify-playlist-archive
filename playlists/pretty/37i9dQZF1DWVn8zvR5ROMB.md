@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Morgan Wallen, Blake Shelton, Megan Moroney with Kenny Chesney and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,440 likes - 93 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,676 likes - 93 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 82 | [Half Past Three](https://open.spotify.com/track/2Vtj6JYTdkYz4RZIaWqPJh) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Half Past Three](https://open.spotify.com/album/76AFENaDnChChgElnK5XsW) | 3:27 |
 | 83 | [Busted Heart](https://open.spotify.com/track/1DsGTvinqytzTnmLRBiwPt) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Busted Heart](https://open.spotify.com/album/2INTMxvdkwZEpPg5mjq4Zt) | 3:45 |
 | 84 | [Out of My Control](https://open.spotify.com/track/3hGtHIpHD05XsRhlUOzNIE) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Out of My Control](https://open.spotify.com/album/6PiM0no5U9o5H6fn1JTupc) | 2:44 |
-| 85 | [The Touch \(feat\. Marty Stuart\)](https://open.spotify.com/track/4AAB3oiubwh23HUIDkgXiN) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [The Touch \(feat\. Marty Stuart\)](https://open.spotify.com/album/2IxYb3WZLxx9PuleqbfeMB) | 4:51 |
+| 85 | [The Touch](https://open.spotify.com/track/4AAB3oiubwh23HUIDkgXiN) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [The Touch](https://open.spotify.com/album/2IxYb3WZLxx9PuleqbfeMB) | 4:51 |
 | 86 | [Undressed](https://open.spotify.com/track/5Qn1ff6DIS8Q2Kwl06NUyo) | [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Undressed](https://open.spotify.com/album/0KODmJ2102Ffjj4SPLZdd8) | 3:20 |
 | 87 | [This Side Of The Dirt \(Midnight\)](https://open.spotify.com/track/49RtVv3qzpzFyWNbO3wvCa) | [BOOMTOWN SAINTS](https://open.spotify.com/artist/53s00dAQvGIkjY33v4d4xZ) | [This Side Of The Dirt \(Midnight\)](https://open.spotify.com/album/0ra6EAOvTDd8499i1Lw2zg) | 2:54 |
 | 88 | [Down In History](https://open.spotify.com/track/6pgyp6riH4e5mz8RqvFL0t) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Down In History](https://open.spotify.com/album/1VODPaB5SRadcnRK39xHrr) | 3:11 |

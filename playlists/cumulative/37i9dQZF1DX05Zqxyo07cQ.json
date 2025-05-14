@@ -6849,6 +6849,24 @@
     },
     {
       "album": {
+        "name": "Lost in Midnight Blue",
+        "url": "https://open.spotify.com/album/5BY9mwH09wXka7PU1RZV1p"
+      },
+      "artists": [
+        {
+          "name": "Emberlace",
+          "url": "https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168287,
+      "name": "Lost in Midnight Blue",
+      "url": "https://open.spotify.com/track/5nirCNBBC16XYO7TRlDupj"
+    },
+    {
+      "album": {
         "name": "Lost In Time",
         "url": "https://open.spotify.com/album/2MzV9uwSht1BGWKAWZWUQb"
       },
@@ -12560,7 +12578,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 197749,
       "name": "Unwinding",
       "url": "https://open.spotify.com/track/6WKdeX144tnQNxDCDB1zlJ"

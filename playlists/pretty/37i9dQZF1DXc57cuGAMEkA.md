@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Kali Uchis, ヨルシカ, Miley Cyrus, Tyla, PinkPantheress and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,083 likes - 88 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,087 likes - 88 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

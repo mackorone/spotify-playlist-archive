@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Machine Head
 
-1,056 songs - 3 day 5 hr 6 min
+1,057 songs - 3 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,7 +679,7 @@
 | [Pray](https://open.spotify.com/track/51vgMochoqsIX5SZEhhXDi) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Pray](https://open.spotify.com/album/3YCi2v3qZOVD8Ni6JlnPVu) | 4:07 | 2024-11-04 |  |
 | [Prepackaged](https://open.spotify.com/track/5SaEsMhNB9f6wI2dbZ4xJ2) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Prepackaged](https://open.spotify.com/album/0V2vrD3pKBj5R58x0z8Hfo) | 5:03 | 2024-07-12 | 2024-11-05 |
 | [Prescribing Horror](https://open.spotify.com/track/3Ikpm8FSxVV5ho2nUjRK4o) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Persona Non Grata](https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4) | 5:09 | 2021-12-29 | 2022-07-29 |
-| [Presence of Mind](https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Presence of Mind](https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd) | 4:15 | 2021-12-17 |  |
+| [Presence of Mind](https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Presence of Mind](https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd) | 4:15 | 2021-12-17 | 2025-05-14 |
 | [Primal](https://open.spotify.com/track/69WXO4IQ9C7zSvOmbjT76W) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Primal](https://open.spotify.com/album/340oejTjksML4uDHGVW9iM) | 3:53 | 2024-05-31 | 2024-07-05 |
 | [Princess of the Night](https://open.spotify.com/track/2Quz6deYulrojpI9Bi3lXl) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather](https://open.spotify.com/album/4ZeBGn0FbyUHL4Xf6Qn2lh) | 4:02 | 2023-10-27 | 2024-04-19 |
 | [Princess of the Night \- 2009 Remaster](https://open.spotify.com/track/2QpP8SyXrumYR5BlcdJgTV) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather \(2009 Remastered Version\)](https://open.spotify.com/album/0KtDv1SIDSdJWDpjHBLJad) | 4:02 | 2022-08-19 | 2023-11-05 |
@@ -739,6 +739,7 @@
 | [Run for Your Life \- Single Edit](https://open.spotify.com/track/7rFxovpoAxdix75YVSP557) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Run for Your Life](https://open.spotify.com/album/50yKTmZl6QvCkZfUivX0fA) | 5:02 | 2021-12-29 | 2022-04-20 |
 | [Russian Grizzly In America](https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Russian Grizzly In America](https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj) | 4:14 | 2025-04-25 |  |
 | [Rust](https://open.spotify.com/track/4elropktXruOm2D4GtVYFG) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Rust](https://open.spotify.com/album/2huanipy21QuL0Ty1VjykW) | 3:17 | 2021-12-17 | 2022-04-21 |
+| [Sabbath Bloody Sabbath](https://open.spotify.com/track/2h83jesbTVgBcTTceFvak1) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [Black Star](https://open.spotify.com/album/2J5yxmxhg0HKTyk607s2JE) | 6:06 | 2025-05-12 |  |
 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 | 2025-05-09 |  |
 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 | 2021-12-17 | 2022-07-29 |
 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2022-07-08 | 2024-01-27 |

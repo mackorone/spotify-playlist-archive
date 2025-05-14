@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-471 songs - 20 hr 36 min
+474 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Hvile](https://open.spotify.com/track/1kahBtroEDGLOvzu1PeM64) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Hvile](https://open.spotify.com/album/5M9hyQ6AucPX7XGP9Y13fV) | 2:31 | 2022-08-03 | 2024-04-04 |
 | [I Tried](https://open.spotify.com/track/4ZEjWfdhgbV5M90h8XMn8N) | [Rory Campbell](https://open.spotify.com/artist/065g9oYYpGh7AOf7UR2Jr2) | [The Past Hasn't Happened Yet](https://open.spotify.com/album/7LtLQkFRQVMm06t6C9XUZO) | 4:03 | 2022-05-04 |  |
 | [Idyll](https://open.spotify.com/track/6yueQma3A7eYM4LDyR7JtI) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Idyll](https://open.spotify.com/album/6wp4tJuDKRoHq9f78RwYK3) | 2:29 | 2023-01-19 |  |
+| [Idyllwild](https://open.spotify.com/track/2RKTXZKlTWEKYgAwA0D8dM) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Idyllwild](https://open.spotify.com/album/36EtKQcr9CYVdkcGFymr9Z) | 2:21 | 2025-05-13 |  |
 | [If Only I Could Stop the Clock](https://open.spotify.com/track/2Ey5klJpXYZj8Ci9thENWA) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [If Only I Could Stop the Clock](https://open.spotify.com/album/5MPk2CIBjpHTo4VKeLCfEE) | 2:31 | 2023-01-19 | 2023-11-16 |
 | [If We Ever Meet](https://open.spotify.com/track/2QVXJu9tVTz8lsQ2Ht3m0s) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [If We Ever Meet](https://open.spotify.com/album/45HfYhWidhCh79nKsklHQL) | 2:20 | 2024-02-02 |  |
 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 | 2022-02-02 | 2025-01-22 |
@@ -251,9 +252,10 @@
 | [Morpho](https://open.spotify.com/track/090GAAwLiSybtUpvq50r6T) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Morpho](https://open.spotify.com/album/73BOlPGDgMu2sw8XvmiO9V) | 2:00 | 2021-12-14 | 2023-10-11 |
 | [Mursejler](https://open.spotify.com/track/1mGkSBPN3SN2o2YTVbmr3C) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:58 | 2022-07-28 | 2023-10-11 |
 | [Mursejler](https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa) | 2:58 | 2021-12-14 | 2022-07-29 |
+| [Musing](https://open.spotify.com/track/6xvOQhCh8vlfRZwR6IUQAO) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [Musing](https://open.spotify.com/album/3BwV9f0cfCDqj42CzHhaUn) | 2:18 | 2025-05-13 |  |
 | [My](https://open.spotify.com/track/0sTrOSCppal1A15Pv3SmBY) | [Agnieszka Hajduk\-Wiese](https://open.spotify.com/artist/7g7nufHvsNpDFcU3qC3DUI), [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [My](https://open.spotify.com/album/7agm6WUUUVumFV4u7Q7v9u) | 2:24 | 2023-02-28 | 2023-11-08 |
 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2021-12-14 | 2023-07-05 |
-| [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 | 2023-01-27 |  |
+| [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 | 2023-01-27 | 2025-05-14 |
 | [Nature Shift](https://open.spotify.com/track/7a27uUbJdvi6R0n0Z3LF56) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Nature Shift](https://open.spotify.com/album/0zRlQwqGcLq31cyTExBHpl) | 2:13 | 2023-01-09 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2021-12-14 | 2022-02-17 |
 | [Night](https://open.spotify.com/track/4eovAKOoQDLp09q27z4BgY) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Night](https://open.spotify.com/album/50VZwbhhLytlDCx4XjqtG1) | 2:49 | 2021-12-14 | 2022-07-29 |
@@ -303,7 +305,7 @@
 | [Problématique](https://open.spotify.com/track/5DuNs8KmyX0Rhpa5cwujXT) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Problématique](https://open.spotify.com/album/0hBgJgCI8ENtYGjj1csyEh) | 1:43 | 2021-12-14 | 2022-05-21 |
 | [Pure](https://open.spotify.com/track/4PqCs6E0im3Qnit7GCE970) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Pure](https://open.spotify.com/album/2uVBdjAQIwOX41GExCQ7j7) | 2:02 | 2021-12-14 | 2023-10-11 |
 | [Que seas tu](https://open.spotify.com/track/6tfuROHlOJqwzwzWxDcOnc) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Que seas tu](https://open.spotify.com/album/2Jt95hQSOPXCSYigpwQXdX) | 2:34 | 2024-09-10 |  |
-| [Queequeg](https://open.spotify.com/track/7K9brdkcBy95CVTFW9DYMB) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Queequeg](https://open.spotify.com/album/20KRmHdgOj8p6NVDJrgdtV) | 3:00 | 2025-02-19 |  |
+| [Queequeg](https://open.spotify.com/track/7K9brdkcBy95CVTFW9DYMB) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Queequeg](https://open.spotify.com/album/20KRmHdgOj8p6NVDJrgdtV) | 3:00 | 2025-02-19 | 2025-05-14 |
 | [Quiet Hours](https://open.spotify.com/track/7x5xqxL4y72ThLMiRzDOVt) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Quiet Hours](https://open.spotify.com/album/5kLeCvaSvowAn1pcfzQu4i) | 2:37 | 2022-04-22 |  |
 | [Quiet Refract](https://open.spotify.com/track/5bnkOhFsDovjtIrtVQRd7t) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Quiet Refract](https://open.spotify.com/album/387xYEos0HSG3qinsCS6QQ) | 2:15 | 2025-04-29 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-12-14 | 2023-11-16 |
@@ -368,6 +370,7 @@
 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 | 2021-12-14 | 2023-06-21 |
 | [Stele Cazatoare](https://open.spotify.com/track/5LFakQ9K0IdZMRrBUYNBgz) | [Alexandru Andrei Popescu](https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp) | [Stele Cazatoare](https://open.spotify.com/album/0qh07muc5Iq2IomJcsbwUJ) | 2:48 | 2025-04-04 |  |
 | [Stintless Stars](https://open.spotify.com/track/1gnHfFnLPaJvatJ9NuQDLH) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Stintless Stars](https://open.spotify.com/album/1lGHE19pGZ6LvWi2cmn4As) | 2:33 | 2023-11-14 |  |
+| [Strangely Familiar](https://open.spotify.com/track/2nsOZMaNxxtd79bJ7dbxLb) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Strangely Familiar](https://open.spotify.com/album/0690iOy21OddNlV3HRLEgD) | 3:22 | 2025-05-13 |  |
 | [Stretch](https://open.spotify.com/track/4KQlV2TCwuN2GwHQ8fsFrB) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Stretch](https://open.spotify.com/album/4iXA4CDdh5Z4jiXRdGU3fd) | 3:30 | 2023-07-25 |  |
 | [Subitum](https://open.spotify.com/track/4MiTIkXSAqWTkZlUvA5QJ2) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Subitum](https://open.spotify.com/album/1DErexZVlUw9bBneZGEJUO) | 2:47 | 2021-12-14 |  |
 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 | 2023-05-09 |  |

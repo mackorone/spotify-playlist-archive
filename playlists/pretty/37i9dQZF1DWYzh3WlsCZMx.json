@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 40568,
+  "num_followers": 40592,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Bad Bitch",
+        "url": "https://open.spotify.com/album/2l8eQxgr9G7Eioo54WbJg3"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        }
+      ],
+      "duration_ms": 135263,
+      "name": "Bad Bitch",
+      "url": "https://open.spotify.com/track/0yjysU3MF1nQTomE08AzIk"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The Bastard Tape, Vol. 1",
         "url": "https://open.spotify.com/album/2N2geXZotNXw4nqi2bk00J"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 229090,
       "name": "Sleeping With the Enemy",
       "url": "https://open.spotify.com/track/0ISoKjo9JVUB97JMgygRZP"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Bad Bitch",
-        "url": "https://open.spotify.com/album/2l8eQxgr9G7Eioo54WbJg3"
-      },
-      "artists": [
-        {
-          "name": "Yungeen Ace",
-          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
-        }
-      ],
-      "duration_ms": 135263,
-      "name": "Bad Bitch",
-      "url": "https://open.spotify.com/track/0yjysU3MF1nQTomE08AzIk"
     },
     {
       "added_at": "2022-10-01 16:00:00",

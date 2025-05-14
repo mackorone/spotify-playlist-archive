@@ -2713,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Idyllwild",
+        "url": "https://open.spotify.com/album/36EtKQcr9CYVdkcGFymr9Z"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141750,
+      "name": "Idyllwild",
+      "url": "https://open.spotify.com/track/2RKTXZKlTWEKYgAwA0D8dM"
+    },
+    {
+      "album": {
         "name": "Pianissimo",
         "url": "https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2"
       },
@@ -5551,6 +5569,24 @@
     },
     {
       "album": {
+        "name": "Skylight",
+        "url": "https://open.spotify.com/album/27Lf5zIyUMM8WR6LXWkC6A"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157474,
+      "name": "Skylight",
+      "url": "https://open.spotify.com/track/03Rhfj6DZLmkvfa4dHcvzt"
+    },
+    {
+      "album": {
         "name": "Insides",
         "url": "https://open.spotify.com/album/2t8hYss2U3w8cJqs9ZzeqW"
       },
@@ -5814,7 +5850,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 168250,
       "name": "Spiraling Nature",
       "url": "https://open.spotify.com/track/5W3McsWhwFJlt8IXb2XLTZ"

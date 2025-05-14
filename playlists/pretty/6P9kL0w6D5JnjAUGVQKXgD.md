@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,342 likes - 100 songs - 5 hr 4 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,339 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 41 | [Ring The Alarm \- Habstrakt Remix](https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Ring The Alarm \(Remixes\)](https://open.spotify.com/album/6161quyAWtf6v1f0kIUd4w) | 2:56 |
 | 42 | [Momma Always Told Me \(feat\. Stanaj & Yung Bae\) \- Matoma Remix](https://open.spotify.com/track/6QD2VjrjttjljqUZPf9R89) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Momma Always Told Me \(feat\. Stanaj & Yung Bae\) \[Matoma Remixes\]](https://open.spotify.com/album/6YdrjkUXEFaQwmsPn5fxCD) | 3:22 |
 | 43 | [Something Good](https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN) | [MOUNT](https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz), [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Something Good](https://open.spotify.com/album/22ns2k6WNp5LLcYXwRhBLo) | 2:58 |
-| 44 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
+| 44 | [Désolée \(Paris/Paname\)](https://open.spotify.com/track/00KCwnrvIXX8GRU3ZMOIBW) | [SHANGUY](https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs) | [Désolée \(Paris/Paname\)](https://open.spotify.com/album/380jows5YkchH1mDjAHdk4) | 3:27 |
 | 45 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
-| 46 | [Désolée \(Paris/Paname\)](https://open.spotify.com/track/00KCwnrvIXX8GRU3ZMOIBW) | [SHANGUY](https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs) | [Désolée \(Paris/Paname\)](https://open.spotify.com/album/380jows5YkchH1mDjAHdk4) | 3:27 |
+| 46 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
 | 47 | [By My Side \(feat\. Anthony Valadez\)](https://open.spotify.com/track/6eSWdCAvzD4danVK3OlqYU) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Anthony Valadez](https://open.spotify.com/artist/1q6CJpl89vkfPuYnRqKl5H) | [By My Side \(feat\. Anthony Valadez\)](https://open.spotify.com/album/5SaunZEkzpXuY7R8GKpFkV) | 2:37 |
 | 48 | [Another Day In Paradise](https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer) | [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp) | [Another Day In Paradise](https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8) | 2:07 |
 | 49 | [By My Side \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [By My Side \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/3EHRX0NI8Nr9pjA9NLXw3Y) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [All My Friends \- Eden Prince Remix](https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [All My Friends \(Eden Prince Remix\)](https://open.spotify.com/album/4lXBBbiEgwTzcfAkqdXJV1) | 2:53 |
 | 100 | [Hands Up](https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Hands Up](https://open.spotify.com/album/70wX919JuPiZprpB6qZYOs) | 2:50 |
 
-Snapshot ID: `AAAH5dUbgjevjJHY/CKcMrjAMovjhVIr`
+Snapshot ID: `AAAH5htiQ5be8ctJUhlSSH3V+XhE9mT1`

@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Lydia Vaughan
 
-476 songs - 1 day 1 hr 44 min
+477 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 | 2024-01-22 | 2024-03-01 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2025-02-07 | 2025-04-05 |
 | [Juicy Fruit](https://open.spotify.com/track/1pHN7g9eGQYWTpLQLGDIDf) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Juicy Fruit](https://open.spotify.com/album/0n3GFuNvAtic4L7cETyIBZ) | 2:52 | 2024-12-07 | 2025-02-08 |
+| [june](https://open.spotify.com/track/6PBJfoq40a8gsUULbn0oyG) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [june](https://open.spotify.com/album/3cJDOznDVbYVwk8XwzYPfn) | 2:48 | 2025-05-01 |  |
 | [Just A Bird](https://open.spotify.com/track/23QM23a6g6KEzguHQbgxgg) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [In the Shadow of the Holy Mountain](https://open.spotify.com/album/6tOJnr4iithYzoOLec7g0p) | 3:53 | 2024-08-28 | 2024-12-07 |
 | [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 | 2024-06-07 | 2024-07-06 |
 | [Just A Dream](https://open.spotify.com/track/1JDFkA3lfDzoeVz2H6Mljy) | [Rachel Ana Dobken](https://open.spotify.com/artist/0yjMY9pIL4rmCOLrNtvSlP) | [Just A Dream](https://open.spotify.com/album/1FmLJMi5DZ9ytnnBA9yGpL) | 5:41 | 2024-01-22 | 2024-03-01 |

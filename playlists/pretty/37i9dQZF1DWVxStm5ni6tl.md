@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Bells Larsen, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,333 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,336 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 44 | [Keep Me in Mind](https://open.spotify.com/track/4keV1jVo5arAWlQ3wE7V0D) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [Keep Me in Mind](https://open.spotify.com/album/384Mpvx7dU7697LOpcyNcc) | 2:36 |
 | 45 | [Mélodie](https://open.spotify.com/track/1Pz44oOFoJ5zIGuaH2gmgK) | [pol](https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae) | [Cabinet de curiosités](https://open.spotify.com/album/3hYKz5N8AqRpTRSW2ngnJG) | 4:01 |
 | 46 | [Lost In Time](https://open.spotify.com/track/5bcttbbSEVPrDZE7Z11xMZ) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/2HywdkQAKc7OzWUr90ZT5h) | 2:52 |
-| 47 | [Stay](https://open.spotify.com/track/6Z1iS1HDGYuhVbntY3ldOD) | [DCR MILDA](https://open.spotify.com/artist/5AS0k6J1K3MrVUtKKahv64) | [Stay](https://open.spotify.com/album/3xf2IccomgUEQCbnSmPR4p) | 4:53 |
+| 47 | [Stay \- Extended Version](https://open.spotify.com/track/6Z1iS1HDGYuhVbntY3ldOD) | [DCR MILDA](https://open.spotify.com/artist/5AS0k6J1K3MrVUtKKahv64) | [Stay \(Extended Version\)](https://open.spotify.com/album/3xf2IccomgUEQCbnSmPR4p) | 4:53 |
 | 48 | [Mon chapeau](https://open.spotify.com/track/2aaVZSxGWzPM0KepFybVIB) | [Guillaume Lafond](https://open.spotify.com/artist/0EgXmvNo92tl6qSXPehQWG) | [Sous mon chapeau](https://open.spotify.com/album/7LqXJSZCu1PtSAvENSmrvi) | 2:58 |
 | 49 | [Day N' Night](https://open.spotify.com/track/4mzORLfFFmQjIqPGLmLoFu) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Day N' Night](https://open.spotify.com/album/5Kcq71QCWLlk2PqKg9bzVW) | 3:11 |
 | 50 | [Skin Of Mine](https://open.spotify.com/track/53pm1iKDszi06sUol9wpOZ) | [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [Internet Bard](https://open.spotify.com/artist/6fnaTx9tvyhHikcgv7ei6C) | [Skin Of Mine](https://open.spotify.com/album/64hlX9rlZ1hyIELlqKr797) | 2:26 |

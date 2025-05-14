@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,355 songs - 11 day 14 hr 30 min
+7,357 songs - 11 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4965,6 +4965,7 @@
 | [Plswaveback](https://open.spotify.com/track/3Wb496o1hojhSrd1RRLI2h) | [Slacker](https://open.spotify.com/artist/4lijqstwpJpyBaYgMeEMrD) | [OP\-1](https://open.spotify.com/album/2TWVsHwbOnxdDsxVGrB7tH) | 3:06 | 2019-11-20 | 2020-06-18 |
 | [PMA](https://open.spotify.com/track/6XpsLtaW35rrpeOyJN7O5b) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [PMA](https://open.spotify.com/album/41AtCfNn8gpQlgZ6OqO9ZX) | 2:13 | 2022-12-23 | 2023-06-08 |
 | [Pocket Change](https://open.spotify.com/track/5H2SON5N5TKNYZF0OaXNMr) | [Corduroy Egg](https://open.spotify.com/artist/5E21RC40PseknqTaydpYNS), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Pocket Change](https://open.spotify.com/album/1HTxo16GbVHcXipy4O6dV9) | 2:40 | 2021-10-02 | 2022-04-08 |
+| [pocket lint](https://open.spotify.com/track/7bb5LFBOfDC7fPbWVCQppA) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [pocket lint](https://open.spotify.com/album/3HkNnzH1uT9rI6cCIAUKGQ) | 2:24 | 2025-05-09 |  |
 | [Pockets](https://open.spotify.com/track/4gDukPUqOBqCbLxmcXLJxT) | [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V), [Merlin Szy](https://open.spotify.com/artist/57hLwzyiBKkX3LVNrmpiON) | [Pockets](https://open.spotify.com/album/31H6EMUxfZxIJ6CbqSvzbH) | 2:52 | 2022-02-25 | 2022-08-05 |
 | [Pocky](https://open.spotify.com/track/4WxxKESg7ymI3dqFID9zw7) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Pocky](https://open.spotify.com/album/4sGvy0dOSGBIEVxWoTGSTC) | 1:35 | 2023-02-07 | 2023-04-28 |
 | [Pode Ser](https://open.spotify.com/track/6L0f3YrwiDYbSVtnvA2tWQ) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Pode Ser](https://open.spotify.com/album/6pArxPCTieR59rP9JssBju) | 2:30 | 2022-03-11 | 2022-08-05 |
@@ -6580,7 +6581,7 @@
 | [Tobari](https://open.spotify.com/track/26TtYAJOsNblgUe5auw9xU) | [Su\-Zuum](https://open.spotify.com/artist/1jgIcbT7B7K8JJIXtrpzLb) | [Tobari](https://open.spotify.com/album/5C8IwaqBdwM9EHZl7DNGFp) | 2:33 | 2023-09-15 | 2025-03-29 |
 | [Today Is a Gift](https://open.spotify.com/track/0sMImBteCIVUKNhcyx3Cyx) | [Beowülf](https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg) | [Today Is a Gift](https://open.spotify.com/album/7y6bgIinMh4JhhSMEPgNvj) | 2:34 | 2019-05-26\* | 2020-01-31 |
 | [Todo Tranqui](https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Todo Tranqui](https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP) | 1:40 | 2023-01-13 | 2023-12-15 |
-| [Together](https://open.spotify.com/track/4s7pz4pBdOHCNGUXikgcpc) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Together](https://open.spotify.com/album/79MnEQIWgtLSnrTc0TwVhu) | 1:30 | 2024-05-24 |  |
+| [Together](https://open.spotify.com/track/4s7pz4pBdOHCNGUXikgcpc) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Together](https://open.spotify.com/album/79MnEQIWgtLSnrTc0TwVhu) | 1:30 | 2024-05-24 | 2025-05-14 |
 | [Together](https://open.spotify.com/track/553aIceOihS2BuPTSGpdQ7) | [Gaya Police](https://open.spotify.com/artist/3rWsJ32qEIEONVLc6nimRY), [ommood](https://open.spotify.com/artist/7mNKnRt1aoVswbRjEUP1WZ) | [Together](https://open.spotify.com/album/2vNc334FebmbhE6pCVMW9P) | 2:16 | 2023-02-07 | 2023-09-30 |
 | [Together Again](https://open.spotify.com/track/4iipDDatlvHBCneL6VFg3W) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Together Again](https://open.spotify.com/album/2y6Wgz62TVKgwNqUZYdFDx) | 2:28 | 2024-04-26 |  |
 | [Together Alone](https://open.spotify.com/track/1oqcDgKs6iuuj2KX05gt6w) | [Radiocosmo](https://open.spotify.com/artist/3HvDYPOZuI4QsWFCE6exMf) | [Together Alone](https://open.spotify.com/album/5JJusV5nEN4sGCDKAuaSd7) | 1:54 | 2021-11-20 | 2022-06-10 |
@@ -6806,6 +6807,7 @@
 | [Untold](https://open.spotify.com/track/42fYmhc26wpNg3RqE2OAyJ) | [jeppa.](https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69) | [Untold](https://open.spotify.com/album/52sdSXJDTAn9MndTL4lb2x) | 2:06 | 2025-02-14 | 2025-03-22 |
 | [Unwind](https://open.spotify.com/track/4eEQtXiSOPUJfaP3kA47yk) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Unwind](https://open.spotify.com/album/63VYJxlq89Dx1BtCA91Wvr) | 4:12 | 2022-09-16 | 2022-11-20 |
 | [Unwind](https://open.spotify.com/track/67p1eyYdwqs3d9CVZdSlzC) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Unwind](https://open.spotify.com/album/42R8dikH5xTKY4dUpqbAaW) | 4:12 | 2022-11-18 | 2022-12-24 |
+| [unwinding](https://open.spotify.com/track/4Ya8V46537FZVR6QBIjs50) | [sumwut](https://open.spotify.com/artist/6rDyCgfBm5atHVVNFxLFn0) | [unwinding](https://open.spotify.com/album/0tO2zPgJAgTFlPY4zHNO1J) | 2:25 | 2025-05-09 |  |
 | [Up](https://open.spotify.com/track/0vMZrX9RZ8yEqaNIjUmV7y) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 1: Up Down Left Right](https://open.spotify.com/album/3rF38iEMLEfEGQcS1Bb2Y5) | 2:00 | 2021-03-06 | 2022-01-14 |
 | [up and upper](https://open.spotify.com/track/5fFgCGDi9eP2A0yUM6LG7k) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [up and upper](https://open.spotify.com/album/03B0KT5nLYh9uSf33frzYk) | 2:24 | 2024-06-14 | 2025-01-17 |
 | [Up For Debate](https://open.spotify.com/track/0RTZzUgu0MQ3h8vTGOBKVP) | [Diego Masa](https://open.spotify.com/artist/5RX5BLkadTIqJeXRBWKOSy) | [Up For Debate](https://open.spotify.com/album/5hVmYZDBbQSB4XJSG24SE1) | 2:36 | 2022-04-08 | 2022-10-07 |
@@ -7053,7 +7055,7 @@
 | [Well Known Place](https://open.spotify.com/track/0l1leu6PWbkNW2lnpHH8bH) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Well Known Place](https://open.spotify.com/album/71x3t4jEAegoTc5T4o2urD) | 2:20 | 2020-06-17 | 2021-10-02 |
 | [well said](https://open.spotify.com/track/66WxEFScbVACG2ciEePjQX) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [well said](https://open.spotify.com/album/7h9TC9slG6dufjjG5QbKuo) | 1:45 | 2025-04-18 |  |
 | [West Lake](https://open.spotify.com/track/22D3kIP0ckACcHEPoZosVU) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chillhop Essentials Fall 2017](https://open.spotify.com/album/6zpmMAgK1Gt8yu5uP9EUAh) | 4:18 | 2021-10-26 | 2022-05-27 |
-| [west of dew](https://open.spotify.com/track/7encaPzHJXQilEcPGHwU3H) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [social detox](https://open.spotify.com/album/0ThHVogZYaijgfzrq7LYxM) | 2:59 | 2024-09-27 |  |
+| [west of dew](https://open.spotify.com/track/7encaPzHJXQilEcPGHwU3H) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [social detox](https://open.spotify.com/album/0ThHVogZYaijgfzrq7LYxM) | 2:59 | 2024-09-27 | 2025-05-14 |
 | [What a Great Feeling](https://open.spotify.com/track/1pARzITSVbpP5VoHX1DUUd) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [What a Great Feeling](https://open.spotify.com/album/7p2k89cPMXrxSWQ3fvw8wO) | 2:12 | 2022-07-22 | 2022-11-11 |
 | [What About Spring](https://open.spotify.com/track/2ofECfr1kTGRmWJddyUmvC) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [What About Spring](https://open.spotify.com/album/18UrvFSMSOg1UUOBKLGiEb) | 2:08 | 2022-05-27 | 2022-09-16 |
 | [What About You](https://open.spotify.com/track/7GZUUkLsU3OLhiMUOIcF60) | [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ), [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5), [Greco Murillo](https://open.spotify.com/artist/1matEXRuPsWuSWx1Ksjn5h) | [Please Overcome This](https://open.spotify.com/album/3rNI5xQgaxJ4uDyHFb9imQ) | 2:01 | 2021-01-11 | 2021-10-20 |

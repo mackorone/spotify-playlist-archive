@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 238216,
+  "num_followers": 238255,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB/ogAAAAACv8GlCHpFeurFgrEkSlGkt",
+  "snapshot_id": "aCE6AAAAAAB8/7zPAFieHgIc5zVwOIpW",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 251893,
-      "name": "Una storia importante - Remastered 2021",
-      "url": "https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ"
+      "duration_ms": 225600,
+      "name": "Terra promessa - Remastered 2021",
+      "url": "https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noi",
-        "url": "https://open.spotify.com/album/59ux7JS19lMvN9XemDztc1"
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 203320,
-      "name": "Un Angelo Disteso Al Sole",
-      "url": "https://open.spotify.com/track/52NToQozANCOhe2uVeJPIE"
+      "duration_ms": 305400,
+      "name": "Nada Sin Ti",
+      "url": "https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L"
     },
     {
       "added_at": null,
@@ -332,15 +332,15 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Terra promessa - Remastered 2021",
-      "url": "https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF"
+      "duration_ms": 251893,
+      "name": "Una storia importante - Remastered 2021",
+      "url": "https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Musica Es",
-        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+        "name": "Noi",
+        "url": "https://open.spotify.com/album/59ux7JS19lMvN9XemDztc1"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 305400,
-      "name": "Nada Sin Ti",
-      "url": "https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L"
+      "duration_ms": 203320,
+      "name": "Un Angelo Disteso Al Sole",
+      "url": "https://open.spotify.com/track/52NToQozANCOhe2uVeJPIE"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros",
-        "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 258480,
-      "name": "Quanto amore sei",
-      "url": "https://open.spotify.com/track/4uZODT0zynKg5TFTLC8fLd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alas Y Raices",
         "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 238640,
       "name": "Dimelo a Mi",
       "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 258480,
+      "name": "Quanto amore sei",
+      "url": "https://open.spotify.com/track/4uZODT0zynKg5TFTLC8fLd"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Ahora Tu - Remastered 2021",
+      "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "e2",
         "url": "https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Ahora Tu - Remastered 2021",
-      "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 (Remastered 192 khz)",
         "url": "https://open.spotify.com/album/17ZTVTpJqUfCsk8DdCevD0"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love Disney (Latino)",
-        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "En Mi Coraz\u00f3n Vivir\u00e1s",
-      "url": "https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Battito Infinito",
         "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 203213,
       "name": "Ama",
       "url": "https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "En Mi Coraz\u00f3n Vivir\u00e1s",
+      "url": "https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ"
     },
     {
       "added_at": null,

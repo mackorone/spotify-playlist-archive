@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-739 songs - 1 day 13 hr 15 min
+740 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Blue Lagoon](https://open.spotify.com/track/6aQtasf3Q6JZIBHCWXsyej) | [LVSN](https://open.spotify.com/artist/6FU8aRDlZ8zAMjmi5PvT35), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Finn Kleffmann](https://open.spotify.com/artist/6FnTIb3jf0VUbOIFgxO3he) | [Blue Lagoon](https://open.spotify.com/album/57nS0f2WiZk3m0RwLQxtWi) | 3:08 | 2022-01-14 | 2023-05-13 |
 | [Blue Moon](https://open.spotify.com/track/72p4bX3wUsqySOtUBvVIXp) | [Tippy Ro](https://open.spotify.com/artist/7sgxEpfnodusFKzUSTSFIY) | [Blue Moon](https://open.spotify.com/album/48TAtMtx4aogZtbU9w9svQ) | 4:12 | 2022-04-01 | 2022-07-23 |
 | [Body to Body](https://open.spotify.com/track/3qyeNnFY67zX6VmmIbzPsL) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [Body to Body](https://open.spotify.com/album/4nCftrm5v7amR0TGNVrB2F) | 2:58 | 2022-02-18 | 2022-04-02 |
+| [Born To Live](https://open.spotify.com/track/3oG69Y9bPTQJp4M3U5KKNg) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT) | [Born To Live](https://open.spotify.com/album/54GJRvqh75FJ2qFOwkzeUP) | 2:11 | 2025-05-13 |  |
 | [Bottles & Bay](https://open.spotify.com/track/14c0GxZ4lot2bHSx9lZ0I6) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Bottles & Bay](https://open.spotify.com/album/3RuRijKeDZcfgKvBpbhaT5) | 5:36 | 2022-04-01 | 2022-10-15 |
 | [Boy Oh Boy](https://open.spotify.com/track/59bem62WIxhdH76jIWEm6S) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Jerry Williams](https://open.spotify.com/artist/6XGj8QCc5uKv4dt6pkdCKS) | [Back In The Summer](https://open.spotify.com/album/0pzV29xzjX1lcwKpooT1Is) | 2:57 | 2022-02-18 | 2022-04-21 |
 | [Break Through](https://open.spotify.com/track/7fA8lHiXjHyeMks8jTC48S) | [Sorvats Nivek](https://open.spotify.com/artist/6oI4m51P3UAbjIAgNmtSwW), [DERWA](https://open.spotify.com/artist/4N1XdIRXks3iNWTqpdgaua) | [Break Through](https://open.spotify.com/album/6xkBCx3CkyHPoBBjBzoGS2) | 2:26 | 2022-04-15 | 2022-07-29 |
@@ -675,7 +676,7 @@
 | [Too Good To Lose \- Sunset Edition](https://open.spotify.com/track/7qJ0fplEhE9Hjjrexg2QPS) | [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Too Good To Lose \- Sunset Edition](https://open.spotify.com/album/6QK9eQNS6LQb24a8CCHJZe) | 2:56 | 2022-04-08 | 2022-07-29 |
 | [Tranquillity](https://open.spotify.com/track/6FRPp1RZx4bXvAP95Qmodx) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Tranquillity](https://open.spotify.com/album/2Lnj7ff21zvRM5PcYHkDTq) | 4:48 | 2022-04-01 | 2022-07-29 |
 | [Tripping Off](https://open.spotify.com/track/5JdhojQ6h2Cy2t6uH5jPAa) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 2:56 | 2022-02-18 | 2022-04-16 |
-| [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/track/1hKF9IaowfjDsy7tmkSBDf) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/album/6j3fx2vu92EnJiCtY2LDnm) | 3:59 | 2024-05-10 |  |
+| [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/track/1hKF9IaowfjDsy7tmkSBDf) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/album/6j3fx2vu92EnJiCtY2LDnm) | 3:59 | 2024-05-10 | 2025-05-14 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-09 |  |
 | [Twilight](https://open.spotify.com/track/2fvhV6sto6aEblNbnZmttv) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [NVRT](https://open.spotify.com/artist/6qxvo887cuQQjfMEtyE0v7) | [Twilight](https://open.spotify.com/album/7mtiizlT8Gub2HvVSU0NHZ) | 3:22 | 2022-01-14 | 2022-11-12 |
 | [U Do](https://open.spotify.com/track/3CGlZwGvFo4X0J7lGozEww) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo), [Sages](https://open.spotify.com/artist/1yw0aRXCpoHMfvRDMuEU5N) | [U Do](https://open.spotify.com/album/5KSCOuUk5JwsTmK9bPmv81) | 2:18 | 2022-04-01 | 2022-07-29 |

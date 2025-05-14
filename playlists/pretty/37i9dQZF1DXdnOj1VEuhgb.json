@@ -1,29 +1,13 @@
 {
   "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Wegh x Reynmen",
-  "num_followers": 1394197,
+  "num_followers": 1394229,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB8mGwAAAAC/DBq4zvOQTSIHAZdS9jdK",
+  "snapshot_id": "aCMA8gAAAAAU+G8pGA/Spe/GVt/pwMAy",
   "tracks": [
-    {
-      "added_at": "2025-05-10 10:10:35",
-      "album": {
-        "name": "A\u011fla",
-        "url": "https://open.spotify.com/album/72KQmVzxSz2V9JfHcpWV0X"
-      },
-      "artists": [
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        }
-      ],
-      "duration_ms": 184968,
-      "name": "A\u011fla",
-      "url": "https://open.spotify.com/track/6UJu0bCXSi91whMUJJOct5"
-    },
     {
       "added_at": "2025-05-10 10:10:35",
       "album": {
@@ -47,6 +31,22 @@
     {
       "added_at": "2025-05-10 10:10:35",
       "album": {
+        "name": "A\u011fla",
+        "url": "https://open.spotify.com/album/72KQmVzxSz2V9JfHcpWV0X"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 184968,
+      "name": "A\u011fla",
+      "url": "https://open.spotify.com/track/6UJu0bCXSi91whMUJJOct5"
+    },
+    {
+      "added_at": "2025-05-10 10:10:35",
+      "album": {
         "name": "YALAN D\u00dcNYA",
         "url": "https://open.spotify.com/album/6cPnVqIqosdmNV08FzGoVM"
       },
@@ -59,6 +59,50 @@
       "duration_ms": 130285,
       "name": "YALAN D\u00dcNYA",
       "url": "https://open.spotify.com/track/64929UpSVDlOYFlXiZJKgu"
+    },
+    {
+      "added_at": "2025-05-10 10:10:35",
+      "album": {
+        "name": "BALMAIN",
+        "url": "https://open.spotify.com/album/64jjF2rwGJs9ptn6HXHhwM"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        }
+      ],
+      "duration_ms": 123287,
+      "name": "BALMAIN",
+      "url": "https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b"
+    },
+    {
+      "added_at": "2025-05-10 10:10:35",
+      "album": {
+        "name": "55-53",
+        "url": "https://open.spotify.com/album/5zZ36nu81XoL3vA4VeZhn7"
+      },
+      "artists": [
+        {
+          "name": "Keskin",
+          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
+        },
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "duration_ms": 118506,
+      "name": "55-53",
+      "url": "https://open.spotify.com/track/1X2dVSqwG22eENVjazeAB2"
     },
     {
       "added_at": "2025-05-10 10:10:35",
@@ -115,26 +159,6 @@
     {
       "added_at": "2025-05-10 10:10:35",
       "album": {
-        "name": "55-53",
-        "url": "https://open.spotify.com/album/5zZ36nu81XoL3vA4VeZhn7"
-      },
-      "artists": [
-        {
-          "name": "Keskin",
-          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
-        },
-        {
-          "name": "Wegh",
-          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
-        }
-      ],
-      "duration_ms": 118506,
-      "name": "55-53",
-      "url": "https://open.spotify.com/track/1X2dVSqwG22eENVjazeAB2"
-    },
-    {
-      "added_at": "2025-05-10 10:10:35",
-      "album": {
         "name": "NEREYE",
         "url": "https://open.spotify.com/album/2WqK2QjsbDKWfWVbrXJ4Jj"
       },
@@ -151,30 +175,6 @@
       "duration_ms": 204031,
       "name": "NEREYE",
       "url": "https://open.spotify.com/track/4jbWnovKzaLmHHMKXZI0MJ"
-    },
-    {
-      "added_at": "2025-05-10 10:10:35",
-      "album": {
-        "name": "BALMAIN",
-        "url": "https://open.spotify.com/album/64jjF2rwGJs9ptn6HXHhwM"
-      },
-      "artists": [
-        {
-          "name": "Organize",
-          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
-        },
-        {
-          "name": "ERAY067",
-          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
-        },
-        {
-          "name": "Mansur",
-          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
-        }
-      ],
-      "duration_ms": 123287,
-      "name": "BALMAIN",
-      "url": "https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b"
     },
     {
       "added_at": "2025-05-10 10:10:35",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-05-10 10:10:35",
       "album": {
-        "name": "Uranyum ve Roket",
-        "url": "https://open.spotify.com/album/39XWlUIEXTjpd2xQX93uyK"
-      },
-      "artists": [
-        {
-          "name": "Hidra",
-          "url": "https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m"
-        }
-      ],
-      "duration_ms": 154102,
-      "name": "Uranyum ve Roket",
-      "url": "https://open.spotify.com/track/3arSc5LaI2JVXGba5uOFTg"
-    },
-    {
-      "added_at": "2025-05-10 10:10:35",
-      "album": {
         "name": "\u00c7IKAR B\u0130R\u0130 KAR\u015eIMA",
         "url": "https://open.spotify.com/album/2IcwSsMjpDTD30sjGzAS4X"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 141351,
       "name": "kAHpE",
       "url": "https://open.spotify.com/track/1oOkZEqPrAQLpwBsiYKRl8"
+    },
+    {
+      "added_at": "2025-05-10 10:10:35",
+      "album": {
+        "name": "Uranyum ve Roket",
+        "url": "https://open.spotify.com/album/39XWlUIEXTjpd2xQX93uyK"
+      },
+      "artists": [
+        {
+          "name": "Hidra",
+          "url": "https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m"
+        }
+      ],
+      "duration_ms": 154102,
+      "name": "Uranyum ve Roket",
+      "url": "https://open.spotify.com/track/3arSc5LaI2JVXGba5uOFTg"
     },
     {
       "added_at": "2025-05-10 10:10:35",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-05-10 10:10:35",
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "S\u00f6nen Sigaralar",
+      "url": "https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93"
+    },
+    {
+      "added_at": "2025-05-10 10:10:35",
+      "album": {
         "name": "AM2TERDAM",
         "url": "https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C"
       },
@@ -759,62 +775,6 @@
       "duration_ms": 206464,
       "name": "AM2TERDAM",
       "url": "https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j"
-    },
-    {
-      "added_at": "2025-05-10 10:10:35",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "S\u00f6nen Sigaralar",
-      "url": "https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93"
-    },
-    {
-      "added_at": "2025-05-10 10:10:35",
-      "album": {
-        "name": "Kapak Olsun Cypher",
-        "url": "https://open.spotify.com/album/3yz5nKLE3enjT0O2W56cz0"
-      },
-      "artists": [
-        {
-          "name": "NELLIE",
-          "url": "https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3"
-        },
-        {
-          "name": "Erdem Eskimez",
-          "url": "https://open.spotify.com/artist/0xCQ10AFLg1n5qXoGH8Rs7"
-        },
-        {
-          "name": "Konfezar",
-          "url": "https://open.spotify.com/artist/67Lp3xvEAJZ4UJ0tRtl20u"
-        }
-      ],
-      "duration_ms": 168478,
-      "name": "Kapak Olsun Cypher",
-      "url": "https://open.spotify.com/track/3UJ3JSjqkwOmYgKGskpf24"
-    },
-    {
-      "added_at": "2025-05-10 10:10:35",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Italy Forma",
-      "url": "https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY"
     },
     {
       "added_at": "2025-05-10 10:10:35",
@@ -855,8 +815,32 @@
     {
       "added_at": "2025-05-10 10:10:35",
       "album": {
-        "name": "De\u011fi\u015fmene Ra\u011fmen",
-        "url": "https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz"
+        "name": "Kapak Olsun Cypher",
+        "url": "https://open.spotify.com/album/3yz5nKLE3enjT0O2W56cz0"
+      },
+      "artists": [
+        {
+          "name": "NELLIE",
+          "url": "https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3"
+        },
+        {
+          "name": "Erdem Eskimez",
+          "url": "https://open.spotify.com/artist/0xCQ10AFLg1n5qXoGH8Rs7"
+        },
+        {
+          "name": "Konfezar",
+          "url": "https://open.spotify.com/artist/67Lp3xvEAJZ4UJ0tRtl20u"
+        }
+      ],
+      "duration_ms": 168478,
+      "name": "Kapak Olsun Cypher",
+      "url": "https://open.spotify.com/track/3UJ3JSjqkwOmYgKGskpf24"
+    },
+    {
+      "added_at": "2025-05-10 10:10:35",
+      "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
       },
       "artists": [
         {
@@ -864,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
-      "duration_ms": 185786,
-      "name": "De\u011fi\u015fmene Ra\u011fmen",
-      "url": "https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp"
+      "duration_ms": 181346,
+      "name": "Italy Forma",
+      "url": "https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY"
     },
     {
       "added_at": "2025-05-10 10:10:35",
@@ -935,22 +919,18 @@
     {
       "added_at": "2025-05-10 10:10:35",
       "album": {
-        "name": "Kan\u0131tland\u0131k",
-        "url": "https://open.spotify.com/album/17lncZtNv43ABznkL46Eia"
+        "name": "De\u011fi\u015fmene Ra\u011fmen",
+        "url": "https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz"
       },
       "artists": [
         {
-          "name": "Aksan",
-          "url": "https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK"
-        },
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Kan\u0131tland\u0131k",
-      "url": "https://open.spotify.com/track/5VjH7PZSH1CH0YtDSAkDk1"
+      "duration_ms": 185786,
+      "name": "De\u011fi\u015fmene Ra\u011fmen",
+      "url": "https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp"
     },
     {
       "added_at": "2025-05-10 10:10:35",
@@ -999,6 +979,26 @@
       "duration_ms": 136039,
       "name": "ESC*BAR",
       "url": "https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ"
+    },
+    {
+      "added_at": "2025-05-10 10:10:35",
+      "album": {
+        "name": "Kan\u0131tland\u0131k",
+        "url": "https://open.spotify.com/album/17lncZtNv43ABznkL46Eia"
+      },
+      "artists": [
+        {
+          "name": "Aksan",
+          "url": "https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Kan\u0131tland\u0131k",
+      "url": "https://open.spotify.com/track/5VjH7PZSH1CH0YtDSAkDk1"
     },
     {
       "added_at": "2025-05-10 10:10:35",

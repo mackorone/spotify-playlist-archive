@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-562 songs - 23 hr 46 min
+565 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Desencontros](https://open.spotify.com/track/6vbpxDK5U8xRv73qgGOnj4) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Desencontros](https://open.spotify.com/album/5Ysc8jx2jpcgbuB5U5Azp9) | 2:41 | 2024-02-23 |  |
 | [Despegue](https://open.spotify.com/track/2AC6EchHotWs5LgJKZgH5B) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Despegue](https://open.spotify.com/album/6HmMiJUll7sgw4L40sWZEA) | 2:16 | 2024-08-08 |  |
 | [Dois Mundos](https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [Clinton Hill](https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI) | 2:46 | 2022-06-17 | 2024-06-28 |
-| [Donegal](https://open.spotify.com/track/51760UCr1H0wFGIeNlZg2F) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Donegal](https://open.spotify.com/album/4aPfvkL9aJn4yozAV8Hift) | 2:36 | 2023-10-13 |  |
+| [Donegal](https://open.spotify.com/track/51760UCr1H0wFGIeNlZg2F) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Donegal](https://open.spotify.com/album/4aPfvkL9aJn4yozAV8Hift) | 2:36 | 2023-10-13 | 2025-05-14 |
 | [Douro River](https://open.spotify.com/track/37TGZZSvrKbQ0iH1Xo53Gm) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [No Words Can Say](https://open.spotify.com/album/03pQM7svs024WrROfEi4j3) | 3:18 | 2022-06-17 | 2022-09-09 |
 | [Drawing Closer](https://open.spotify.com/track/3myvIlG3aFRqcSVHAxaBit) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Drawing Closer](https://open.spotify.com/album/6PrqEz12w00yuRwGBFMjJ7) | 2:37 | 2024-11-06 |  |
 | [Dream Sweet Dreams](https://open.spotify.com/track/4NgP1eBz1VPVKWDDIgsDvW) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Dream Sweet Dreams](https://open.spotify.com/album/4gWqNj16uzmwC4VglSdtFt) | 1:40 | 2023-02-24 | 2023-06-23 |
@@ -215,6 +215,7 @@
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2023-06-23 |
 | [Heart and Hope](https://open.spotify.com/track/4Nylyd2DTfsIl7blLQasEl) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Heart and Hope](https://open.spotify.com/album/45A7m4PmaQLy25YbeEscno) | 2:12 | 2025-02-24 |  |
 | [Here On My Own Again](https://open.spotify.com/track/7N051dt6qiLMLbQ7GLsxKz) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Here On My Own Again](https://open.spotify.com/album/65N8jIGVxUBU88fAIiJQzn) | 2:14 | 2022-06-17 | 2023-04-29 |
+| [Heritage](https://open.spotify.com/track/5QxS9v4y4RueqedgmkBEuT) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Heritage](https://open.spotify.com/album/3ODJMXsZ6UHftFXAVPL0qn) | 2:05 | 2025-05-13 |  |
 | [Hommage a JT](https://open.spotify.com/track/4sPj6HtAEj7j2W302sUmgz) | [Luth](https://open.spotify.com/artist/4gLCaEykpiJdImDlT5O3am) | [Tierra del Fuego](https://open.spotify.com/album/0WV6eh9KvKbrFiNSRHgbS1) | 3:03 | 2022-06-17 | 2023-03-10 |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-28 | 2023-06-23 |
 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 | 2022-06-17 | 2024-07-18 |
@@ -246,6 +247,7 @@
 | [Ischia](https://open.spotify.com/track/5WjsMDJyaYen96JYl5dCM4) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Ischia](https://open.spotify.com/album/2F5K4I3EnX9qOBqp4VqvO6) | 2:34 | 2023-06-22 |  |
 | [Isle of Skye](https://open.spotify.com/track/3rxo4jNntMRi6KHJkFHjNR) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Isle of Skye](https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6) | 2:13 | 2023-04-28 | 2023-06-23 |
 | [Jardim do Sanhos](https://open.spotify.com/track/5nG1fgUDpAhD6vHkMzvMYj) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Jardim do Sanhos](https://open.spotify.com/album/1JOtzNZElA13WhFttvVm5h) | 2:51 | 2024-03-29 | 2024-05-25 |
+| [Jardin Echoes](https://open.spotify.com/track/7DUHNgICKEoHX8AovfPjSR) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Jardin Echoes](https://open.spotify.com/album/7D2xhg9paf59ZToqcg7mNj) | 2:23 | 2025-05-13 |  |
 | [Keep a light](https://open.spotify.com/track/2HiOk8q1M0bbRr5RNrXeR0) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Hummingbird](https://open.spotify.com/album/66irZ4PKxClHMK8K2lmGHV) | 2:21 | 2023-05-19 |  |
 | [Kijkduin](https://open.spotify.com/track/63FOGV0xczvau1Ke14CnBw) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Havana Vieja](https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf) | 2:39 | 2022-06-17 | 2023-02-25 |
 | [King's Cross](https://open.spotify.com/track/3CSM7adhRTYXlZFMVFcgjI) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [King's Cross](https://open.spotify.com/album/1MnC5vpGHMLa08YijzVp6K) | 2:32 | 2024-03-08 | 2024-05-25 |
@@ -524,6 +526,7 @@
 | [Tuscany](https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Tuscany](https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw) | 2:04 | 2022-11-25 | 2024-05-25 |
 | [Two Years of Solitude](https://open.spotify.com/track/5xjHdFsOlRgdnu6RJTqpwV) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:25 | 2022-06-17 | 2023-09-08 |
 | [Una Nueva Frontera](https://open.spotify.com/track/6pMVwNAVEW1zABrAAKY5sD) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Una Nueva Frontera](https://open.spotify.com/album/7BXWsrOKF9NG5HNerJ8MpB) | 1:57 | 2022-07-01 | 2023-09-14 |
+| [Under the Moon’s Shadow](https://open.spotify.com/track/0cgQ0VpEcGY1iUijg0LKm5) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Under the Moon’s Shadow](https://open.spotify.com/album/4hsdYu6wi7VxKhvIMratxW) | 2:43 | 2025-05-13 |  |
 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 | 2023-06-23 |
 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 | 2022-06-17 | 2022-09-09 |
 | [Une Nuit](https://open.spotify.com/track/09T323x1FlNP0pgJd9Ryxd) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Une Nuit](https://open.spotify.com/album/0a8HzDay7HoUoQ4TCCIis2) | 2:15 | 2022-06-17 | 2023-09-08 |

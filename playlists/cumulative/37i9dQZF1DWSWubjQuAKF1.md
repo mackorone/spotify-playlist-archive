@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: adaś.
 
-454 songs - 22 hr 1 min
+455 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Berlin](https://open.spotify.com/track/5mLaWguaVU2VrtVsqd2hQi) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [spędzam dni sam](https://open.spotify.com/album/25JZmZuK6jEsRG5df0Zgsd) | 2:28 | 2024-06-28 | 2024-07-19 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2024-10-12 |
 | [Bestie, Move On](https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 3:31 | 2025-01-23 |  |
-| [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-05-01 |  |
+| [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-05-01 | 2025-05-14 |
 | [Bez Ciebie](https://open.spotify.com/track/3HdQwGJ9gbYCH2YwqatNoR) | [Berie](https://open.spotify.com/artist/2hUbI0ebOh5Aq8QS1XB54r) | [Bez Ciebie](https://open.spotify.com/album/46XHKQ8GBkUoHoTugf8pjo) | 3:18 | 2025-03-06 | 2025-03-14 |
 | [Bez szans](https://open.spotify.com/track/56OpBZfaegA6brrWpTb6Rk) | [Wojtek Stefanowski](https://open.spotify.com/artist/54TNNqTljkBCh8TkJt6DIu) | [Bez szans](https://open.spotify.com/album/5IYt2n6hbMk5fVwiFA66df) | 2:40 | 2024-06-28 | 2024-08-23 |
 | [Bez urazy](https://open.spotify.com/track/3wdIdpCKVTV28KlMUr8ujE) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Bez urazy](https://open.spotify.com/album/4VdAaDojISpUrmCVhIYO4Z) | 2:30 | 2024-08-01 | 2024-08-23 |
@@ -270,6 +270,7 @@
 | [Niedosyt](https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 2:47 | 2024-06-28 | 2024-07-05 |
 | [nieoczywiste](https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [nieoczywiste](https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1) | 2:34 | 2024-12-13 | 2025-01-31 |
 | [niepoprawny numer](https://open.spotify.com/track/1qQBmFKklewJcXs2RKDiyJ) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [niepoprawny numer](https://open.spotify.com/album/6tXyS48SrYdVv5IALccmMM) | 3:08 | 2024-06-28 | 2024-08-31 |
+| [Niewidzialna](https://open.spotify.com/track/3dDEMGZ8aVjym11Z0kNPm6) | [Zosia Wójcik](https://open.spotify.com/artist/6cfLNhvfa7katU5mLVu1Ye) | [Niewidzialna](https://open.spotify.com/album/13pzluNjYhNK0zPscDrRey) | 2:25 | 2025-05-08 |  |
 | [Nigdy więcej nie tańcz ze mną](https://open.spotify.com/track/42MCChf8AwjmBFOzrwGK0l) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [KAPEWU](https://open.spotify.com/album/3UEy7yK76QNnWHh39NlqaB) | 2:57 | 2024-06-28 | 2024-11-08 |
 | [NIKT NIE KOCHAŁ MNIE \(tak jak ja\)](https://open.spotify.com/track/1bYBqT5E4ryPuJOND0T8tg) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [NIKT NIE KOCHAŁ MNIE \(tak jak ja\)](https://open.spotify.com/album/4Acsz9wsCjiNjexIh91u1p) | 2:15 | 2024-11-21 | 2025-01-24 |
 | [NINA](https://open.spotify.com/track/2P1QcxwtZlOa75rEG0v15I) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [DEMOLKA](https://open.spotify.com/album/4OTDkkILQUW0uQrfrOKvNK) | 2:47 | 2025-02-13 | 2025-03-08 |

@@ -4,7 +4,7 @@
 
 > la nuova scena pop italiana 🇮🇹 cover: Bresh
 
-601 songs - 1 day 4 hr 26 min
+602 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [bella musica x belle ragazze](https://open.spotify.com/track/0Kou4dC9CIVVY0xXQ2NW1m) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [bella musica x belle ragazze](https://open.spotify.com/album/5W0kxTxjrfi3XZeE8IK1hX) | 2:37 | 2025-02-13 | 2025-04-11 |
 | [BELLADAMORIRE \(feat\. Lil Busso\)](https://open.spotify.com/track/6RMofhEUami5oM976lMlcb) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [BELLADAMORIRE \(feat\. Lil Busso\)](https://open.spotify.com/album/2sN3wMiBdeSrmk1zWmJrFO) | 2:33 | 2025-01-16 | 2025-03-14 |
 | [Berlino](https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Berlino](https://open.spotify.com/album/2Q2W3fSrwseo3WGxgzKEYV) | 3:13 | 2024-06-27 | 2024-08-02 |
+| [BIANCA\-PRADA](https://open.spotify.com/track/0j5S4DxU8aMbjo1b0ZemsF) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [BIANCA\-PRADA](https://open.spotify.com/album/0PIy4f1aG1Ap9ltu6OVJDV) | 2:29 | 2025-05-13 |  |
 | [BIANCO E NERO](https://open.spotify.com/track/4tkqku6p04KXf7ymoL7Q06) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2), [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [BIANCO E NERO](https://open.spotify.com/album/1BXUBdFESMkB8cVJXv9IEh) | 3:09 | 2025-04-17 |  |
 | [Bilico](https://open.spotify.com/track/3LZKyb5d0kulP7Envw2gUV) | [Tess](https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM), [nlyfive](https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX) | [Bilico](https://open.spotify.com/album/19r79Fj3p0L9T9kGROEnxf) | 2:44 | 2025-02-06 | 2025-04-04 |
 | [BLACKOUT](https://open.spotify.com/track/3gHakKB1dlRhtdcXKSMjpo) | [Arianna Rozzo](https://open.spotify.com/artist/3ZGslR0ecEgW8SA62gtfqS) | [BLACKOUT](https://open.spotify.com/album/0swN3H0YoUr6KgFC6RsUlf) | 2:04 | 2025-03-27 | 2025-05-02 |
@@ -243,7 +244,7 @@
 | [HIT ME](https://open.spotify.com/track/2Pe0agFffixMOE12UAxrnk) | [MATILDE](https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ) | [VOCI](https://open.spotify.com/album/1eTILPjRI57gqN48aKDRVq) | 2:18 | 2024-09-12 | 2024-11-15 |
 | [HO SMESSO DI PIANGERE](https://open.spotify.com/track/5hqWKyWU0J5DGhAgvNMMTp) | [PARIDE](https://open.spotify.com/artist/738jSDDsbX4Ge4Xa1lSN9F), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [HO SMESSO DI PIANGERE](https://open.spotify.com/album/3BCIfL4HaWt6NwuYce1RSb) | 3:12 | 2024-09-05 | 2024-11-15 |
 | [Ho Una Ex A Cui Un Giorno Ho Spezzato Il Cuore](https://open.spotify.com/track/1qrPFWU0pHA9MBtc9PGxov) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [Ho Una Ex A Cui Un Giorno Ho Spezzato Il Cuore](https://open.spotify.com/album/43uhONk34r5sfSbQ6DRLvr) | 2:20 | 2025-05-08 |  |
-| [Hooligan](https://open.spotify.com/track/5kO1g6CFydbOI1zFF53pVh) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Hooligan](https://open.spotify.com/album/7Lg8H7GHJyldgRnARRKBIR) | 3:00 | 2025-03-27 |  |
+| [Hooligan](https://open.spotify.com/track/5kO1g6CFydbOI1zFF53pVh) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Hooligan](https://open.spotify.com/album/7Lg8H7GHJyldgRnARRKBIR) | 3:00 | 2025-03-27 | 2025-05-14 |
 | [Hooligans](https://open.spotify.com/track/31v4wB0mU8e2D2sijFXTfM) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Hooligans](https://open.spotify.com/album/1PyF7HnieKGg8HtJHdYl0J) | 3:02 | 2025-02-27 | 2025-04-11 |
 | [Humana](https://open.spotify.com/track/5cbsSeC0ZNty97V00Lzy9e) | [Luzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Humana](https://open.spotify.com/album/5c1GPqS3Aw1mJjHM2aubn9) | 3:24 | 2025-03-13 | 2025-04-04 |
 | [hyperlacrime](https://open.spotify.com/track/29dpmriqXCKgoHRjRSFXHA) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [hyperlacrime](https://open.spotify.com/album/05IIkXQiGK32Ja1MQGTU6S) | 3:08 | 2024-08-29 | 2024-11-15 |

@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 731798,
+  "num_followers": 731816,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
+        "name": "Giving It All (To You)",
+        "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
+      },
+      "artists": [
+        {
+          "name": "Haley & Michaels",
+          "url": "https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Giving It All (To You)",
+      "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
         "name": "Live from Layman",
         "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 260000,
       "name": "Waves (Live)",
       "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Foucault",
-          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
-        }
-      ],
-      "duration_ms": 158960,
-      "name": "Cheap Suit",
-      "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Foucault",
+          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
+        }
+      ],
+      "duration_ms": 158960,
+      "name": "Cheap Suit",
+      "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
         "name": "It Don't Work Like That",
         "url": "https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 181524,
       "name": "It Don't Work Like That",
       "url": "https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
-        "name": "Giving It All (To You)",
-        "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
-      },
-      "artists": [
-        {
-          "name": "Haley & Michaels",
-          "url": "https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Giving It All (To You)",
-      "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Homeland Insecurity",
-        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 230826,
-      "name": "Sleeping Alone",
-      "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
     },
     {
       "added_at": "2025-02-07 05:00:39",

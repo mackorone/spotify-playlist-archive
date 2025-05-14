@@ -1,13 +1,33 @@
 {
-  "description": "Balti en t\u00eate de la playlist num\u00e9ro un en Tunisie.",
-  "num_followers": 101357,
+  "description": "A.L.A en t\u00eate de la playlist num\u00e9ro un en Tunisie.",
+  "num_followers": 101358,
   "original_name": "Hot Hits Tunisia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBho4QAAAABE5cXsWJNhLwYxCjgd6JDl",
+  "snapshot_id": "aCLmRgAAAABXbJioeD1GUN9Hf/fmJCqT",
   "tracks": [
+    {
+      "added_at": "2025-05-05 07:28:26",
+      "album": {
+        "name": "Makina",
+        "url": "https://open.spotify.com/album/3FGfO500bnSkqX0r1bvqeZ"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        },
+        {
+          "name": "MOOTJEYEK",
+          "url": "https://open.spotify.com/artist/4VxyE4jGlkGfceluWCWZvH"
+        }
+      ],
+      "duration_ms": 227215,
+      "name": "Makina",
+      "url": "https://open.spotify.com/track/32j2p5cS0LKbQNigM6boyy"
+    },
     {
       "added_at": "2025-04-26 19:51:18",
       "album": {
@@ -23,6 +43,26 @@
       "duration_ms": 197777,
       "name": "Sahbek Rajel (\u0635\u0627\u062d\u0628\u0643 \u0631\u0627\u062c\u0644)",
       "url": "https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA"
+    },
+    {
+      "added_at": "2025-05-13 06:27:18",
+      "album": {
+        "name": "Love Letters / \u0631\u0633\u0627\u0626\u0644 \u062d\u0628",
+        "url": "https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "duration_ms": 206872,
+      "name": "KALAMANTINA / \u0643\u0644\u0645\u0646\u062a\u064a\u0646\u0627",
+      "url": "https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD"
     },
     {
       "added_at": "2025-04-26 19:51:18",
@@ -57,6 +97,26 @@
       "url": "https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI"
     },
     {
+      "added_at": "2025-05-13 06:27:18",
+      "album": {
+        "name": "Mansalam Fik",
+        "url": "https://open.spotify.com/album/5kNZYCijmiZhpjD1A3h0JC"
+      },
+      "artists": [
+        {
+          "name": "Artmasta",
+          "url": "https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui"
+        },
+        {
+          "name": "Ghada Yaakoub",
+          "url": "https://open.spotify.com/artist/2rSFIkuNNNoLD19VZnOvSL"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Mansalam Fik",
+      "url": "https://open.spotify.com/track/5pJaEBrJyLmfG8Fn7YsUyT"
+    },
+    {
       "added_at": "2025-04-26 19:51:18",
       "album": {
         "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
@@ -87,26 +147,6 @@
       "duration_ms": 226631,
       "name": "Wasa3",
       "url": "https://open.spotify.com/track/6hUElQZZP5c72sjFh8RTov"
-    },
-    {
-      "added_at": "2025-05-05 07:28:26",
-      "album": {
-        "name": "Makina",
-        "url": "https://open.spotify.com/album/3FGfO500bnSkqX0r1bvqeZ"
-      },
-      "artists": [
-        {
-          "name": "A.L.A",
-          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
-        },
-        {
-          "name": "MOOTJEYEK",
-          "url": "https://open.spotify.com/artist/4VxyE4jGlkGfceluWCWZvH"
-        }
-      ],
-      "duration_ms": 227215,
-      "name": "Makina",
-      "url": "https://open.spotify.com/track/32j2p5cS0LKbQNigM6boyy"
     },
     {
       "added_at": "2025-04-26 19:51:18",
@@ -815,22 +855,6 @@
     {
       "added_at": "2025-04-26 19:51:18",
       "album": {
-        "name": "9adech Men Mara",
-        "url": "https://open.spotify.com/album/14LPhzMvyamhLXzaGjltuR"
-      },
-      "artists": [
-        {
-          "name": "Stou",
-          "url": "https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt"
-        }
-      ],
-      "duration_ms": 150325,
-      "name": "9adech Men Mara",
-      "url": "https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V"
-    },
-    {
-      "added_at": "2025-04-26 19:51:18",
-      "album": {
         "name": "Ya Ghayeb",
         "url": "https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH"
       },
@@ -871,22 +895,6 @@
     {
       "added_at": "2025-04-26 19:51:18",
       "album": {
-        "name": "Sada9tha",
-        "url": "https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq"
-      },
-      "artists": [
-        {
-          "name": "Kaso",
-          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
-        }
-      ],
-      "duration_ms": 211387,
-      "name": "Sada9tha",
-      "url": "https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD"
-    },
-    {
-      "added_at": "2025-04-26 19:51:18",
-      "album": {
         "name": "Hakayet",
         "url": "https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO"
       },
@@ -899,22 +907,6 @@
       "duration_ms": 158208,
       "name": "Hakayet",
       "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
-    },
-    {
-      "added_at": "2025-04-26 19:51:18",
-      "album": {
-        "name": "Khousara",
-        "url": "https://open.spotify.com/album/3e9XSqi3iGtvBPCxEQPm0N"
-      },
-      "artists": [
-        {
-          "name": "Mouka",
-          "url": "https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "Khousara",
-      "url": "https://open.spotify.com/track/1a3fUDZpgUYRatLdKAnCh0"
     }
   ],
   "unique_name": "Hot Hits Tunisia",

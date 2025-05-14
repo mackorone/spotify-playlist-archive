@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 137017,
+  "num_followers": 137064,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "Happier (Ti\u00ebsto\u2019s AFTR:HRS Remix)",
-        "url": "https://open.spotify.com/album/5GpwroXObdnETiIpVb1l23"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Happier - Ti\u00ebsto\u2019s AFTR:HRS Remix",
-      "url": "https://open.spotify.com/track/1uuUnsWpJwqBh5GRQ8uxla"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/3NAnf9IjYQYxLXEPxMdnuC"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 181428,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5vbFDDuHmTqHR8tGxiipf2"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "Happier (Ti\u00ebsto\u2019s AFTR:HRS Remix)",
+        "url": "https://open.spotify.com/album/5GpwroXObdnETiIpVb1l23"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Happier - Ti\u00ebsto\u2019s AFTR:HRS Remix",
+      "url": "https://open.spotify.com/track/1uuUnsWpJwqBh5GRQ8uxla"
     }
   ],
   "unique_name": "Gym Beats",

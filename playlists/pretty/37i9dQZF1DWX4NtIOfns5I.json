@@ -1,12 +1,12 @@
 {
-  "description": "Jack Van Cleaf's debut is here \ud83c\udf1f",
-  "num_followers": 139429,
+  "description": "Jack Van Cleaf's album is here \ud83c\udf1f",
+  "num_followers": 139419,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB19yQAAAACN83k7Bx2xi5l71mh7+Gk0",
+  "snapshot_id": "aCONZwAAAADp8lnE56bsjKGk0do58vt5",
   "tracks": [
     {
       "added_at": "2025-05-09 04:00:09",
@@ -39,6 +39,22 @@
       "duration_ms": 218151,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
+    },
+    {
+      "added_at": "2025-05-13 18:20:23",
+      "album": {
+        "name": "Cathode Ray",
+        "url": "https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 249609,
+      "name": "Cathode Ray",
+      "url": "https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ"
     },
     {
       "added_at": "2025-05-07 04:00:36",
@@ -135,22 +151,6 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
-    },
-    {
-      "added_at": "2025-04-18 04:00:49",
-      "album": {
-        "name": "The Actor",
-        "url": "https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 170256,
-      "name": "The Actor",
-      "url": "https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX"
     },
     {
       "added_at": "2025-05-09 04:00:09",
@@ -263,6 +263,22 @@
       "duration_ms": 183212,
       "name": "mirage",
       "url": "https://open.spotify.com/track/4ATeJw3PCPQxw6KDMjZ9Bs"
+    },
+    {
+      "added_at": "2025-04-18 04:00:49",
+      "album": {
+        "name": "The Actor",
+        "url": "https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 170256,
+      "name": "The Actor",
+      "url": "https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX"
     },
     {
       "added_at": "2025-05-09 04:00:09",
@@ -1683,54 +1699,6 @@
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "do you?",
-        "url": "https://open.spotify.com/album/1PmL65BWonMcjHPQTuAbGY"
-      },
-      "artists": [
-        {
-          "name": "chrysalis",
-          "url": "https://open.spotify.com/artist/26lpJv38Pa4crAQGNsTTsS"
-        }
-      ],
-      "duration_ms": 280771,
-      "name": "do you?",
-      "url": "https://open.spotify.com/track/7kbTmNiLl8p50Nx6e4gPhK"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Why Are You So Uptight?",
-        "url": "https://open.spotify.com/album/2VcKtGcz6o6xWz299XLIf9"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Why Are You So Uptight?",
-      "url": "https://open.spotify.com/track/4wtHmhdPXF2klIR87Xb6ZO"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Act 4: Atonement",
-        "url": "https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "Dead Man Walking.",
-      "url": "https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
         "name": "Good Guy (feat. Faye Webster)",
         "url": "https://open.spotify.com/album/6Ouzph5Hu9vK5cBP84ZaTW"
       },
@@ -1803,22 +1771,6 @@
       "duration_ms": 207551,
       "name": "Aaron",
       "url": "https://open.spotify.com/track/3eWUGMJtaAjA7nj8JDmbsT"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "How It Was It Will Never Be Again",
-        "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 136980,
-      "name": "How It Was It Will Never Be Again",
-      "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
     },
     {
       "added_at": "2025-02-13 23:22:28",
@@ -1999,22 +1951,6 @@
     {
       "added_at": "2025-02-13 23:22:28",
       "album": {
-        "name": "Over Your Head",
-        "url": "https://open.spotify.com/album/4iOmd8wfRPNALHQS8VSjEI"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 196438,
-      "name": "Over Your Head",
-      "url": "https://open.spotify.com/track/6HD34sKAz0z31qdqmhy6RQ"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
         "name": "Yoke (with Julien Baker)",
         "url": "https://open.spotify.com/album/3jC9qVXOLE53cU2eTm4RZW"
       },
@@ -2031,106 +1967,6 @@
       "duration_ms": 233345,
       "name": "Yoke (with Julien Baker)",
       "url": "https://open.spotify.com/track/58VHR19NNpBFrrL2PP06Wv"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Only Time (demo)",
-        "url": "https://open.spotify.com/album/1Ns1T7giNpwEmGpqI7ZrAu"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 274921,
-      "name": "Only Time (demo)",
-      "url": "https://open.spotify.com/track/3uloBBhAqJ8nG38MRxhEcc"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "With a Lightning Strike",
-        "url": "https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 209163,
-      "name": "Mean Guy",
-      "url": "https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "pretty out",
-        "url": "https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG"
-      },
-      "artists": [
-        {
-          "name": "frans asthma",
-          "url": "https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL"
-        },
-        {
-          "name": "Qozy",
-          "url": "https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "pretty out",
-      "url": "https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Bonus",
-        "url": "https://open.spotify.com/album/1cnXfI7iFgPj3qn2P2WaRz"
-      },
-      "artists": [
-        {
-          "name": "Cece Coakley",
-          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
-        }
-      ],
-      "duration_ms": 236107,
-      "name": "Bonus",
-      "url": "https://open.spotify.com/track/1D6nBTLIdy8SejLOjDTY6R"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "soften my eyes after sleepless nights",
-        "url": "https://open.spotify.com/album/3a1FVVJTSYrkxCp89OQyVr"
-      },
-      "artists": [
-        {
-          "name": "Okay Alright",
-          "url": "https://open.spotify.com/artist/6G9kPlmHYzGrFUYndWG6dh"
-        }
-      ],
-      "duration_ms": 196854,
-      "name": "u always saw the best in me",
-      "url": "https://open.spotify.com/track/2ctpZao8P1Xh1Sq52uu4jF"
-    },
-    {
-      "added_at": "2025-02-13 23:22:28",
-      "album": {
-        "name": "Triple Marathon",
-        "url": "https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 157223,
-      "name": "Triple Marathon",
-      "url": "https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO"
     }
   ],
   "unique_name": "juniper",

@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Ryouji, CK YG
 
-254 songs - 14 hr 25 min
+255 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [MY THANG \(GO GETTA 2\)](https://open.spotify.com/track/1fRLcqxVwpzpua8E6Se2sN) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [MY THANG \(GO GETTA 2\)](https://open.spotify.com/album/2iLm8scmBP9VcNixtMIf4G) | 3:10 | 2023-11-01 | 2024-08-29 |
 | [Naglaho](https://open.spotify.com/track/7dztgD8RDOSmPJGIHFlwnm) | [GHR](https://open.spotify.com/artist/2CiqTtIxC5APYM10TLosCs), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Matteyo](https://open.spotify.com/artist/6AOsrmODyI5Bt3jGhMOZqS), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N) | [Naglaho](https://open.spotify.com/album/79Csoc5khpXUFB5zsEtypi) | 3:09 | 2024-07-11 | 2024-08-15 |
 | [Need Ya](https://open.spotify.com/track/73ggahUs8CQs2wmJlu7Cx9) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Need Ya](https://open.spotify.com/album/4EcvomRZ4pQyAn241iWBQV) | 4:11 | 2025-04-23 |  |
+| [Nicotine](https://open.spotify.com/track/62etNFfOoyyiFcMRUjFMiI) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Weed&Melodies](https://open.spotify.com/album/2IrxgetYn3rrxtQWrNOpRI) | 2:00 | 2025-05-14 |  |
 | [No Info](https://open.spotify.com/track/0CIcL4xXLR72hf1awf7S9y) | [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2) | [No Info](https://open.spotify.com/album/5Ol4icbXjBlR1FsC1GeMLi) | 3:04 | 2025-04-30 |  |
 | [No Snitches](https://open.spotify.com/track/1wYjp1056yxvsgrjJ3G7L8) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [No Snitches](https://open.spotify.com/album/5DcgRKuAgYIHCCPxgeZ2CX) | 3:42 | 2025-02-19 |  |
 | [Oh Yeah](https://open.spotify.com/track/61MHqRAgaKsh69Nm6vgAyX) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Oh Yeah](https://open.spotify.com/album/1HAXe1xCvQUNvRJ3vcVPdT) | 3:44 | 2024-04-17 | 2024-07-04 |
@@ -258,7 +259,7 @@
 | [WholeLotta$$$](https://open.spotify.com/track/62RvyiPNzwqUfUlaalPRf3) | [NOHESI](https://open.spotify.com/artist/0GFan310xKLCUaxx8hcthQ), [CA$HMAN](https://open.spotify.com/artist/0jgCDXXOUZvjVFnziFCUGA) | [WholeLotta$$$](https://open.spotify.com/album/1ksoDWPm2BA0KccgYKpvrY) | 2:45 | 2023-09-20 | 2023-11-18 |
 | [Yellow](https://open.spotify.com/track/3pgtS9BeUre18KRaFDa5BM) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Yellow](https://open.spotify.com/album/3M38KwnfVpCSVNayx9Evou) | 4:02 | 2025-02-06 |  |
 | [Yes Hello](https://open.spotify.com/track/77M3LJt3ldz27LwszuuDfH) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Training Day](https://open.spotify.com/album/1vm29cEdbgKVxwFHFztmKB) | 3:05 | 2024-07-01 | 2024-10-18 |
-| [YG Gang](https://open.spotify.com/track/4WMoQFFvkK16nBH3PWFSXu) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT), [Trapp](https://open.spotify.com/artist/3avVr0OAf0chmCUFAPZBsM) | [YG Gang](https://open.spotify.com/album/4W2BjJnvqOtvyUmioI06e3) | 3:17 | 2025-01-22 |  |
+| [YG Gang](https://open.spotify.com/track/4WMoQFFvkK16nBH3PWFSXu) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT), [Trapp](https://open.spotify.com/artist/3avVr0OAf0chmCUFAPZBsM) | [YG Gang](https://open.spotify.com/album/4W2BjJnvqOtvyUmioI06e3) | 3:17 | 2025-01-22 | 2025-05-14 |
 | [Yorokobi feesu](https://open.spotify.com/track/5JGFp7RISGWJnvapcoyqFQ) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Yorokobi feesu](https://open.spotify.com/album/3Ug4ULajBTwSZlBVWEMpXd) | 3:48 | 2024-04-10 | 2024-07-12 |
 | [Young Gaddy](https://open.spotify.com/track/2zUknMznHhaw5cDfMpFWvg) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Young Gaddy](https://open.spotify.com/album/7I5q9GXoYDRfM0UudEbYxz) | 2:55 | 2023-09-20 | 2023-11-18 |
 | [Zero F\*cks](https://open.spotify.com/track/0hMTCu0bJhqbVcpNsfMP2Y) | [Kris Delano](https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Yours Truly](https://open.spotify.com/album/0eLwyUTGyj0nvAsEMWSc7c) | 4:04 | 2024-09-11 | 2025-01-02 |

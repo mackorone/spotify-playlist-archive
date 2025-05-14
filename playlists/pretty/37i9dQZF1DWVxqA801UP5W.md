@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,774 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,820 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 46 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 |
 | 47 | [Good Love \- Tiësto Remix](https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Good Love \(Tiësto Remix\)](https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ) | 3:02 |
 | 48 | [Memories \- Dillon Francis Remix](https://open.spotify.com/track/0r7CVbZTWZgbTCYdfa2P31) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Memories \(Dillon Francis Remix\)](https://open.spotify.com/album/63rPSO264uRjW1X5E6cWv6) | 2:42 |
-| 49 | [Secrets \- MOTi Remix](https://open.spotify.com/track/2vX1vE1jwuqq29xonWIzvE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Secrets \(MOTi Remix\)](https://open.spotify.com/album/00eqA510pHpyFlPy4dn5ZY) | 2:35 |
-| 50 | [Life Goes On \- Alok Remix](https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Life Goes On \(Alok Remix\)](https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8) | 2:37 |
+| 49 | [Life Goes On \- Alok Remix](https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Life Goes On \(Alok Remix\)](https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8) | 2:37 |
+| 50 | [Secrets \- MOTi Remix](https://open.spotify.com/track/2vX1vE1jwuqq29xonWIzvE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Secrets \(MOTi Remix\)](https://open.spotify.com/album/00eqA510pHpyFlPy4dn5ZY) | 2:35 |
 
 Snapshot ID: `Z4qLkgAAAADc5A5HCKQtk2FDsSEnb5Jy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: AA=",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Doona ",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -3420,7 +3420,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 71325,
       "name": "My girlfriend is PIZZA OF DEATH",
       "url": "https://open.spotify.com/track/0odBL83MoM37MynrPRbSgS"
@@ -4449,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/7Hddb9WtN6df9DFD7DgQjL"
+      },
+      "artists": [
+        {
+          "name": "Doona",
+          "url": "https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231809,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/2oeWrzaLuMg7sYEdFxqZ1c"
+    },
+    {
+      "album": {
         "name": "R\u2605STAR",
         "url": "https://open.spotify.com/album/25TmtkdwNibjDI9RcnFzCQ"
       },
@@ -4554,7 +4572,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 262053,
       "name": "SAKURA",
       "url": "https://open.spotify.com/track/12zVwXRvKeOZObLSltDTt2"
@@ -4948,7 +4966,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 237813,
       "name": "Something New",
       "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"

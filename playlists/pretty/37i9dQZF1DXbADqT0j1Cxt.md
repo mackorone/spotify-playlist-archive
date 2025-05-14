@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain](/playlists/plain/37i9dQZF1DXbADqT0j1Cxt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbADqT0j1Cxt)
 
-### [Baby Lullabies 2025](https://open.spotify.com/playlist/37i9dQZF1DXbADqT0j1Cxt)
+### [Lullaby Baby](https://open.spotify.com/playlist/37i9dQZF1DXbADqT0j1Cxt)
 
 > Lull your little ones to sleep with piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,459 likes - 228 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,440 likes - 228 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 | 57 | [Blessed Assurance](https://open.spotify.com/track/3teu4DGIFRkjK2bSNTaXdf) | [Chester Goodwin](https://open.spotify.com/artist/1sUlQW5elWkCF2z5jRmn9U) | [Blessed Assurance](https://open.spotify.com/album/0AOKQEjQn5AV2HzDaQT6ob) | 3:04 |
 | 58 | [Twinklepaws](https://open.spotify.com/track/7DxNaPj5FZrMrScOmYAdvp) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Twinklepaws](https://open.spotify.com/album/4uTa5ZDSS1xBzDNcyodg2C) | 1:42 |
 | 59 | [Little Spring Song](https://open.spotify.com/track/2AtS0OYVTIBxRRgWGioJrl) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Little Spring Song](https://open.spotify.com/album/6QrQoAvanfAf6HRGxjT7xA) | 2:09 |
-| 60 | [The Little Snoring Owl](https://open.spotify.com/track/5Q5gTO1LRNR0HY8czjdcIG) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [The Little Snoring Owl](https://open.spotify.com/album/6WHLVi1LmayxXqjxNVl22V) | 2:28 |
+| 60 | [The Little Snoring Owl](https://open.spotify.com/track/5Q5gTO1LRNR0HY8czjdcIG) | [Dean Demir](https://open.spotify.com/artist/2qij1FezCSL4pjcwoYKWhC) | [The Little Snoring Owl](https://open.spotify.com/album/6WHLVi1LmayxXqjxNVl22V) | 2:28 |
 | 61 | [A Song About You](https://open.spotify.com/track/6dPk8lslYD8QMoAQ4rvW1u) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [A Song About You](https://open.spotify.com/album/1MyXPyXkYdLVQ0H6TvhETc) | 1:51 |
 | 62 | [Yankee Doodle](https://open.spotify.com/track/2T7N8qmL56DFtgZxqnMi2A) | [Anna Moen](https://open.spotify.com/artist/0hVrDDe8JyOHhFLvO3iPuI) | [Yankee Doodle](https://open.spotify.com/album/3RWPKKlmz1budJpmnVMWZ9) | 1:39 |
 | 63 | [My Grandfather's Clock](https://open.spotify.com/track/3mfbqsYUdIqGIPzKjmOEQC) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [My Grandfather's Clock](https://open.spotify.com/album/0blYuyqsulapquVkfpheqi) | 1:49 |
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 | 227 | [Chanson De Berceau](https://open.spotify.com/track/5ZedeEHldpqdi4sJrQsGQ2) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Chanson De Berceau](https://open.spotify.com/album/3ksCDiVFTXCwVKxTRV6qh7) | 1:41 |
 | 228 | [When You Wish Upon a Star](https://open.spotify.com/track/2jgqPeRJrWyu1FXxBGifO4) | [Sophie Turnberry](https://open.spotify.com/artist/3MN0u1ZzvzfVsRuTa1smgf) | [When You Wish Upon a Star](https://open.spotify.com/album/5xKiC8TCmet0xTaPhXqPqe) | 1:52 |
 
-Snapshot ID: `aBTHXgAAAADzYzWInJ5Ks1dKNWFF+4mM`
+Snapshot ID: `aCL94wAAAACUUqsOscyCk4zhwAEQiQjt`

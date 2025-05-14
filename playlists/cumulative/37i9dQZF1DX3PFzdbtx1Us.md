@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-386 songs - 15 hr 30 min
+388 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Hoarfrost](https://open.spotify.com/track/035cErPCPOVn4L3USUtBc9) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [20023](https://open.spotify.com/album/32zg3pyWlp7g2lvJ2CN68Z) | 2:31 | 2023-06-19 | 2024-04-19 |
 | [Hoarfrost](https://open.spotify.com/track/7raJ9hPFYeCf8o43g176zS) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Hoarfrost](https://open.spotify.com/album/6DaDlbh2nSPJoD3Qj3pjXS) | 2:31 | 2023-05-15 |  |
 | [I'll Be Around](https://open.spotify.com/track/4UJ8IkZl3qhcRLFdZ9XyY5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [I'll Be Around](https://open.spotify.com/album/2A01x4zvltCBhOa8cpl9mf) | 3:10 | 2023-09-26 |  |
+| [Idyllwild](https://open.spotify.com/track/2RKTXZKlTWEKYgAwA0D8dM) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Idyllwild](https://open.spotify.com/album/36EtKQcr9CYVdkcGFymr9Z) | 2:21 | 2025-05-13 |  |
 | [If The Wind Stops \- Calm Version](https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo](https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2) | 4:04 | 2023-09-11 | 2024-02-06 |
 | [in the midst of it all](https://open.spotify.com/track/1oKYmWpoSYAbQ9U957SWug) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [in the midst of it all](https://open.spotify.com/album/1c7a6NCXbJ0z1IyJwVrKR1) | 2:25 | 2024-02-05 |  |
 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 | 2023-05-15 |  |
@@ -315,6 +316,7 @@
 | [Sinsonte](https://open.spotify.com/track/4mKFWJLMUWBN7m24TVCPqH) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Ischia](https://open.spotify.com/album/5SZ3jzYbl4SZt0fhs32sw7) | 2:45 | 2023-05-15 |  |
 | [Sketches](https://open.spotify.com/track/4g7wXitUwsMOjZMA9m1vy6) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Sketches](https://open.spotify.com/album/11g6l4agw2isqnalKB9bbS) | 2:37 | 2023-05-15 |  |
 | [Skies Seducing The Clouds](https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Skies Seducing The Clouds](https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU) | 2:14 | 2024-01-09 |  |
+| [Skylight](https://open.spotify.com/track/03Rhfj6DZLmkvfa4dHcvzt) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Skylight](https://open.spotify.com/album/27Lf5zIyUMM8WR6LXWkC6A) | 2:37 | 2025-05-13 |  |
 | [Small Memory](https://open.spotify.com/track/5sWFhWNyWU55TDmGSXQMpM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2t8hYss2U3w8cJqs9ZzeqW) | 1:40 | 2021-06-27 | 2022-07-29 |
 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 | 2022-07-05 | 2023-05-16 |
 | [Smukke SmåTing](https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Smukke Små Ting](https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv) | 2:00 | 2023-05-15 |  |
@@ -329,7 +331,7 @@
 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-09-11 |  |
 | [Sparkles](https://open.spotify.com/track/49iaI2NVe2c0iz4YzpzeB3) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Sparkles](https://open.spotify.com/album/1XQuLySsbrFuKnGjsdpI8r) | 3:20 | 2021-06-27 | 2023-05-16 |
 | [Sparks](https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Sparks](https://open.spotify.com/album/3LlH5Vg6mPeNTHFHDqhB2p) | 3:14 | 2024-08-20 |  |
-| [Spiraling Nature](https://open.spotify.com/track/5W3McsWhwFJlt8IXb2XLTZ) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Nature Spirals](https://open.spotify.com/album/5YatqGtD20czHMYisddo9l) | 2:48 | 2023-05-15 |  |
+| [Spiraling Nature](https://open.spotify.com/track/5W3McsWhwFJlt8IXb2XLTZ) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Nature Spirals](https://open.spotify.com/album/5YatqGtD20czHMYisddo9l) | 2:48 | 2023-05-15 | 2025-05-14 |
 | [spirit of the wind](https://open.spotify.com/track/0549bpR4RTWXJXkAecXx7C) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [spirit of the wind](https://open.spotify.com/album/6dBOiti1FbGEQHDVQ2r1Ro) | 2:12 | 2024-12-11 |  |
 | [Star Canopy](https://open.spotify.com/track/0Zmkl2ZG4yyLiPpoDpHILy) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Star Canopy](https://open.spotify.com/album/7ESxVY33u8rpG3jj7QZrtk) | 1:55 | 2023-05-15 | 2023-08-16 |
 | [Stardust](https://open.spotify.com/track/4o1iW5KY6ZPFC3ebxdVgKz) | [Remy Rêve](https://open.spotify.com/artist/3I3CLq5F3vgjm0f0XmQgsL) | [Stardust](https://open.spotify.com/album/2Ajngx1iJWxYSt79nqU3Sg) | 2:20 | 2024-05-29 |  |

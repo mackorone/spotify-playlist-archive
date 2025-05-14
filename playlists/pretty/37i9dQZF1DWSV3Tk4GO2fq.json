@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1840161,
+  "num_followers": 1840320,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Who Wrote The Book Of Love? [Digital Version]",
         "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 138440,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 126680,
-      "name": "Ready Teddy",
-      "url": "https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Essential Johnny Mathis 3.0",
         "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 181400,
       "name": "Chances Are - Single Version",
       "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 126680,
+      "name": "Ready Teddy",
+      "url": "https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Bill Haley's Greatest Hits",
-        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
+        "name": "Rock 'N' Roll Legends",
+        "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
       },
       "artists": [
         {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 165360,
-      "name": "See You Later, Alligator",
-      "url": "https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA"
+      "duration_ms": 128639,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Bill Haley's Greatest Hits",
+        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "See You Later, Alligator",
+      "url": "https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "The Best Of Duane Eddy",
         "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 153533,
       "name": "Rebel Rouser",
       "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Rock 'N' Roll Legends",
-        "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 128639,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Rock N' Roll Collection",
-        "url": "https://open.spotify.com/album/6NtLwlr1uXEOWDLjZzI4qu"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent",
-          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
-        },
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 157206,
-      "name": "Be-Bop-A-Lula",
-      "url": "https://open.spotify.com/track/0TMrV95mP7sDlvbE4iVfKP"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Mr Sandman - All the Hits",
         "url": "https://open.spotify.com/album/0LjbqtDb2lMpfux4TgSsff"
       },
@@ -2099,6 +2079,26 @@
       "duration_ms": 174133,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2xMAFTxwZ0w1twuyMZcYb7"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Rock N' Roll Collection",
+        "url": "https://open.spotify.com/album/6NtLwlr1uXEOWDLjZzI4qu"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent",
+          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+        },
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 157206,
+      "name": "Be-Bop-A-Lula",
+      "url": "https://open.spotify.com/track/0TMrV95mP7sDlvbE4iVfKP"
     },
     {
       "added_at": "2024-09-06 14:23:51",

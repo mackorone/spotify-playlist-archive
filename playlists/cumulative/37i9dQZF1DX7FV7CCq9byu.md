@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-810 songs - 1 day 17 hr 19 min
+812 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-27 | 2024-07-27 |
 | [Blekgrå](https://open.spotify.com/track/6Fq36MpKdZHSdcBtP98nTX) | [Eden Alm](https://open.spotify.com/artist/4IsTqAm3Q0LnbSwSimAcnw) | [Blekgrå](https://open.spotify.com/album/0iOOkO4HXesEStWpgVqITU) | 3:15 | 2025-03-13 | 2025-04-11 |
 | [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-08 |  |
+| [Bliv her lidt endnu \(feat\. JOSVA\)](https://open.spotify.com/track/7b2TKqfooo8peK9WTE5JeG) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [AW](https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU) | 2:42 | 2025-05-13 |  |
 | [BLOD & VODKA](https://open.spotify.com/track/73zSeH1CdAudlGqSTTXke4) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [BLOD & VODKA](https://open.spotify.com/album/00B5qQXF9CXXUFbtt0cESq) | 2:00 | 2025-03-27 | 2025-05-02 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-22 | 2024-09-27 |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-27 | 2024-08-09 |
@@ -624,6 +625,7 @@
 | [Slutet av sommarn](https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Slutet av sommarn](https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I) | 2:17 | 2024-06-27 | 2024-07-27 |
 | [Slå mig en signal](https://open.spotify.com/track/6gcUauPKL3onITNKZYHZxU) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kärleksrum](https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo) | 2:19 | 2025-03-20 | 2025-05-02 |
 | [small](https://open.spotify.com/track/0zmhbBZjEEMxZLac83gLRQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [small](https://open.spotify.com/album/3h7ozNB6Vvbw2sTWTtxQCk) | 3:33 | 2024-10-31 | 2025-01-10 |
+| [Smelter Under Månen](https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Smelter Under Månen](https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE) | 3:18 | 2025-05-13 |  |
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-02 | 2025-02-28 |
 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-03-13 | 2025-04-18 |
 | [Småstadsdrömmar](https://open.spotify.com/track/4sK5CMrCaN3BpAq1cojtA0) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Småstadsdrömmar](https://open.spotify.com/album/49gFYMZfHnBMVWEeSwqYmI) | 2:56 | 2024-09-13 | 2024-11-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 34353,
+  "num_followers": 34363,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-04-22 12:14:26",
       "album": {
+        "name": "F\u00e8'l Vini Avan",
+        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
+      },
+      "artists": [
+        {
+          "name": "Klass",
+          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
+        }
+      ],
+      "duration_ms": 360200,
+      "name": "Pitit deyo",
+      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
+    },
+    {
+      "added_at": "2025-04-22 12:14:26",
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/7BJ2XJcYzTUoiw7EQtZw7Z"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 309907,
       "name": "Ralanti",
       "url": "https://open.spotify.com/track/6HIJ13H03bmXvezAonGZbu"
-    },
-    {
-      "added_at": "2025-04-22 12:14:26",
-      "album": {
-        "name": "F\u00e8'l Vini Avan",
-        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
-      },
-      "artists": [
-        {
-          "name": "Klass",
-          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
-        }
-      ],
-      "duration_ms": 360200,
-      "name": "Pitit deyo",
-      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
     },
     {
       "added_at": "2025-04-22 12:14:26",

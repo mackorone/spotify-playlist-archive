@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Born To Live",
+        "url": "https://open.spotify.com/album/54GJRvqh75FJ2qFOwkzeUP"
+      },
+      "artists": [
+        {
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131124,
+      "name": "Born To Live",
+      "url": "https://open.spotify.com/track/3oG69Y9bPTQJp4M3U5KKNg"
+    },
+    {
+      "album": {
         "name": "Bottles & Bay",
         "url": "https://open.spotify.com/album/3RuRijKeDZcfgKvBpbhaT5"
       },
@@ -14414,7 +14432,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 239466,
       "name": "Triste Serenata (feat. French Braids)",
       "url": "https://open.spotify.com/track/1hKF9IaowfjDsy7tmkSBDf"

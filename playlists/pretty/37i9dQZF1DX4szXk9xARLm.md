@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,787 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,795 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 40 | [Al Atawla](https://open.spotify.com/track/23z3Oekq7ye9TAaTldpc5q) | [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Al Atawla \(Music from the Original TV Series\)](https://open.spotify.com/album/1heYsl3CCuRWB1x58eu8CF) | 2:46 |
 | 41 | [Al Eshrin](https://open.spotify.com/track/2lsACaA6SJEaZfsJQgNqkq) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Al Eshrin](https://open.spotify.com/album/663sqKvRzDmNsSMqICmCU6) | 3:03 |
 | 42 | [سيد الناس \(تتر مسلسل سيد الناس\)](https://open.spotify.com/track/5oxvpXB7P9a5Rjnd6VLixu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [سيد الناس \(تتر مسلسل سيد الناس\)](https://open.spotify.com/album/7BATwGP1wSNSHld20Aj0jQ) | 4:02 |
-| 43 | [سواد على الكل \- تتر نهاية مسلسل العتاولة 2](https://open.spotify.com/track/6jm0hFRYUmkVzwhWzD1PFo) | [Showkey](https://open.spotify.com/artist/3xQ3WqraSnv3qd9Ni7vlQx), [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [سواد على الكل \(تتر نهاية مسلسل العتاولة 2\)](https://open.spotify.com/album/4IKjxF1G9I5cU8NEmi3pFu) | 2:37 |
-| 44 | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/track/2oPXoV8VKvmVzo8llGvVwI) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/album/7b8JBtKCcynWudQpFSVB1Y) | 3:27 |
+| 43 | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/track/2oPXoV8VKvmVzo8llGvVwI) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/album/7b8JBtKCcynWudQpFSVB1Y) | 3:27 |
+| 44 | [سواد على الكل \- تتر نهاية مسلسل العتاولة 2](https://open.spotify.com/track/6jm0hFRYUmkVzwhWzD1PFo) | [Showkey](https://open.spotify.com/artist/3xQ3WqraSnv3qd9Ni7vlQx), [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [سواد على الكل \(تتر نهاية مسلسل العتاولة 2\)](https://open.spotify.com/album/4IKjxF1G9I5cU8NEmi3pFu) | 2:37 |
 | 45 | [La Tan7any](https://open.spotify.com/track/393392okucnMl3eU4B8vFq) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [La Tan7any](https://open.spotify.com/album/6qa6WEhxG9m1DjGBQFBNuM) | 4:04 |
 | 46 | [Ya Tera \(Layali Roxy\)](https://open.spotify.com/track/5ozjNHwkgoOIiG5A8DnSjr) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [Ya Tera \(Layali Roxy\)](https://open.spotify.com/album/1bGIK1NPbWjuU8IRxJHMVP) | 3:10 |
 | 47 | [Safen Ala Al Ayam](https://open.spotify.com/track/2u5spfhhfyWf5VeDuse0nP) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Safen Ala Al Ayam \(Mosalsal Dar Almansyeen\)](https://open.spotify.com/album/3is6HtqKma80wLKHSY4GKS) | 3:27 |

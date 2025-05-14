@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: DAY6\) \(핫한 국내 록 음악을 만나보세요!\)
 
-947 songs - 2 day 9 hr 50 min
+948 songs - 2 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [I Will Fly](https://open.spotify.com/track/11BkRBYgserEx7OGMTq8fh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Will Fly](https://open.spotify.com/album/0PYUc9urpMM3Om507HDmvV) | 5:09 | 2022-06-18 | 2022-07-14 |
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2022-04-12 | 2022-07-17 |
 | [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 | 2023-01-10 | 2023-01-26 |
-| [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 |  |
+| [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 | 2025-05-14 |
 | [I'll Find You](https://open.spotify.com/track/3GHSrN23rQc5qntnr6PtZO) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snap and Spark \(Original Soundtrack\) Part.1](https://open.spotify.com/album/4xle0IjB9CUNbG9NW8xnWz) | 3:22 | 2024-03-21 | 2024-05-10 |
 | [I'll Love You All The Time](https://open.spotify.com/track/1BOYINiqYpWhrKSbMFen5Q) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [I'll Love You All The Time \(Art by Tae Hyunyoung\)](https://open.spotify.com/album/3mp2QXg2VvlNSflsQbULAQ) | 2:48 | 2024-04-09 | 2024-05-10 |
 | [i'm broken](https://open.spotify.com/track/02XrPzjCjFSY7JHcr0CYfz) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [i'm broken](https://open.spotify.com/album/4utd1b21BTalR8eHvsfBPL) | 2:34 | 2024-07-30 | 2024-08-13 |
@@ -549,6 +549,7 @@
 | [NOIZY](https://open.spotify.com/track/7Achen2ErZs7RQxd32oP20) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:23 | 2022-05-11 | 2022-05-17 |
 | [Normal Love](https://open.spotify.com/track/5S3kJyqUmYgF0sbD00Ao8K) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Normal Love](https://open.spotify.com/album/1Y2OnLgXy5Pa7m0YHY5PGQ) | 3:24 | 2024-05-02 | 2024-05-10 |
 | [Nostalgia](https://open.spotify.com/track/2dneZ2MsPvw8NH1XOFX5gF) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Earth](https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr) | 3:30 | 2024-12-18 | 2025-03-07 |
+| [Not But Disco](https://open.spotify.com/track/0zYh96PnOBI8zFCHedpSzc) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Not But Disco](https://open.spotify.com/album/0maHyVb700DeV5b76MdpeG) | 3:44 | 2025-05-13 |  |
 | [not even close](https://open.spotify.com/track/1jITrOKQdU6LbaosTXCt0i) | [isnotequalto](https://open.spotify.com/artist/2wDEeSb27uMLqlT8Bx9TuF) | [not even close](https://open.spotify.com/album/6udZp5kz6Qs86hCjjRy1zN) | 2:53 | 2022-06-18 | 2022-06-21 |
 | [not gonna love](https://open.spotify.com/track/0scY0FycWIn2ut429xuMja) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:12 | 2022-06-23 | 2022-06-26 |
 | [not me not mine](https://open.spotify.com/track/0q7lWRi07OMLWSwm0vHIwJ) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [not me not mine](https://open.spotify.com/album/09VUrzSER2CE0geP6odR1y) | 5:16 | 2024-01-31 | 2024-05-10 |

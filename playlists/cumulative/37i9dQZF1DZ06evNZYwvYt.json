@@ -630,6 +630,24 @@
     {
       "album": {
         "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "El espacio",
+      "url": "https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ"
+    },
+    {
+      "album": {
+        "name": "Mar de nubes",
         "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
       },
       "artists": [
@@ -658,7 +676,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 278000,
       "name": "El espacio",
       "url": "https://open.spotify.com/track/7DYIAxAtdvvDQSlrQnlYRN"

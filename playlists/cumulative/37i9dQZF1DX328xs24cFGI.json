@@ -900,7 +900,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 273693,
       "name": "Ever Song",
       "url": "https://open.spotify.com/track/6e0mije7XkHP82jEyQTADM"
@@ -3151,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "Gen",
+        "url": "https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248666,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1v8JIAvZLQXgqhVer4ira5"
+    },
+    {
+      "album": {
         "name": "With",
         "url": "https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE"
       },
@@ -3166,6 +3184,24 @@
       "duration_ms": 227906,
       "name": "With",
       "url": "https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0gbSiA7hYk7tATT0QQylMe"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146785,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4XAJ8tB30T2BPqzAMOuxLK"
     },
     {
       "album": {
@@ -4082,7 +4118,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 214666,
       "name": "\u30a2\u30a4\u30e9\u30f4",
       "url": "https://open.spotify.com/track/5yx8EZA8L9CCWGYj4haNvU"
@@ -5708,7 +5744,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 131666,
       "name": "\u5922\u706f\u7c60",
       "url": "https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T"
@@ -6486,6 +6522,24 @@
       "duration_ms": 232476,
       "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
       "url": "https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306b\u604b\u3088",
+        "url": "https://open.spotify.com/album/1Q4sstUQZ2Uq9fhJX2TRuI"
+      },
+      "artists": [
+        {
+          "name": "Yujin Aramaki",
+          "url": "https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "\u611b\u306b\u604b\u3088",
+      "url": "https://open.spotify.com/track/24AG8p0Yz6eUXVmiACOyw8"
     },
     {
       "album": {

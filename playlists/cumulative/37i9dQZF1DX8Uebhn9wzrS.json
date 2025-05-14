@@ -13744,7 +13744,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 160109,
       "name": "Follow the maze",
       "url": "https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko"
@@ -29980,7 +29980,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 136731,
       "name": "Proud",
       "url": "https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC"
@@ -31870,6 +31870,24 @@
       "duration_ms": 93920,
       "name": "Rutine",
       "url": "https://open.spotify.com/track/1rfz8agfjrpNkMYbtLPvoU"
+    },
+    {
+      "album": {
+        "name": "Sacred Place",
+        "url": "https://open.spotify.com/album/3XRNNL380LYJoDxakODQnB"
+      },
+      "artists": [
+        {
+          "name": "Mount Fuji",
+          "url": "https://open.spotify.com/artist/0w54NjZYCeMKkMxKwZJUAs"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122750,
+      "name": "Sacred Place",
+      "url": "https://open.spotify.com/track/7BhogB2BhTpFQUXYocCPO5"
     },
     {
       "album": {
@@ -43490,7 +43508,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 116883,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/70jg1afuHgAUYGEnqsh2n9"

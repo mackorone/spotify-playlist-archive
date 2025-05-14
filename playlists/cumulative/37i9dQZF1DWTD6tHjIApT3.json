@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u3044\u304d\u3082\u306e\u304c\u304b\u308a",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u5409\u6fa4\u5609\u4ee3\u5b50",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -27400,7 +27400,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 158896,
       "name": "SugarAlliance",
       "url": "https://open.spotify.com/track/4h1s7MKA6MhzdnQQmMhOEk"
@@ -35692,7 +35692,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 282464,
       "name": "\u3056\u3089\u3081",
       "url": "https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e"
@@ -35804,7 +35804,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 205733,
       "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
       "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
@@ -44496,7 +44496,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 179117,
       "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
       "url": "https://open.spotify.com/track/06fMKL5WAQtTOgGW2CD90H"
@@ -48890,7 +48890,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 267186,
       "name": "\u5f69\u308a",
       "url": "https://open.spotify.com/track/15YqE6OBmWInCLGVdtb7O5"
@@ -50730,7 +50730,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-16",
+      "date_removed": null,
       "duration_ms": 201764,
       "name": "\u661f\u3081\u3050\u308b\u8a69",
       "url": "https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4"
@@ -51708,7 +51708,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 248130,
       "name": "\u6708\u5149\u6d74",
       "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
@@ -52858,6 +52858,24 @@
       "duration_ms": 245000,
       "name": "\u706b\u3092\u3064\u3051\u308d",
       "url": "https://open.spotify.com/track/4HkYOprD8jhVK12Mp1CYyH"
+    },
+    {
+      "album": {
+        "name": "\u706b\u661f\u4eba",
+        "url": "https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234929,
+      "name": "\u706b\u661f\u4eba",
+      "url": "https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6"
     },
     {
       "album": {

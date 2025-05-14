@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: dori\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-570 songs - 1 day 9 hr 44 min
+571 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 | 2024-01-04 | 2024-01-16 |
 | [a colored pencil](https://open.spotify.com/track/1NjI04swvcr8FoRG4zUMEO) | [soyo Jeong](https://open.spotify.com/artist/7dLpL1oQcGgZzQdhbJIpwR) | [a colored pencil](https://open.spotify.com/album/2C6ViIZSGgYQRnCrK3nDel) | 5:01 | 2024-08-12 | 2024-09-04 |
 | [A Common Word](https://open.spotify.com/track/4InyptNd98tGVH9QCP71eB) | [Youth Like A Dream](https://open.spotify.com/artist/0O07UU1GecVRKrnl2tviPy) | [A Common Word](https://open.spotify.com/album/1HUu5oC18wuBxXP94AoYSk) | 4:38 | 2023-01-11 | 2023-01-26 |
-| [A Dream Unfinished](https://open.spotify.com/track/76djVhINm9xcBShGwHw9Wm) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [A Dream Unfinished](https://open.spotify.com/album/5cwM2xeIfTCrpzINKNnpmf) | 4:15 | 2025-04-28 |  |
+| [A Dream Unfinished](https://open.spotify.com/track/76djVhINm9xcBShGwHw9Wm) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [A Dream Unfinished](https://open.spotify.com/album/5cwM2xeIfTCrpzINKNnpmf) | 4:15 | 2025-04-28 | 2025-05-14 |
 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 | 2021-12-10 | 2024-09-03 |
 | [A Love Song](https://open.spotify.com/track/66is2tFkaji7lYMWt7KS1z) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:25 | 2022-03-21 | 2022-04-20 |
 | [A Nuptial Song 친구가 축가를 부탁했다](https://open.spotify.com/track/7MX5ZWyu1Ecx6dqMAS3Mhw) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Inside Wants](https://open.spotify.com/album/0cDik2Nwe51IZJQ632gDmP) | 4:38 | 2022-04-12 | 2022-04-19 |
@@ -40,6 +40,7 @@
 | [Another Day](https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:46 | 2021-12-10 | 2022-07-24 |
 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-08 | 2024-04-19 |
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-04-21 | 2024-05-06 |
+| [apocalyptic serenade](https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [apocalyptic serenade](https://open.spotify.com/album/0LozFO673nlo2eaRgSrr9B) | 4:28 | 2025-05-13 |  |
 | [Apricot](https://open.spotify.com/track/7aNOH4B73XDeLOL1yGhwU5) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:15 | 2022-01-13 | 2022-02-07 |
 | [At the end of the day](https://open.spotify.com/track/0nJLLHH6Y3iOe5uGou2m6s) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [At the end of the day](https://open.spotify.com/album/6arlyz7d91rjANtfyPQ1t6) | 3:55 | 2022-03-31 | 2022-04-15 |
 | [Autumn breeze](https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI) | 2:54 | 2021-12-10 | 2022-07-29 |

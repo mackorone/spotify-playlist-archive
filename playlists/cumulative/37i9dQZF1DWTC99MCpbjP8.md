@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-641 songs - 1 day 3 hr 46 min
+643 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Abbellimenti](https://open.spotify.com/track/6CJRpyYTWrVqVGFbu9rc8r) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Abbellimenti](https://open.spotify.com/album/3vzFG9NkHWpizfwNBIqMx8) | 2:32 | 2022-04-22 | 2022-07-28 |
 | [Absence](https://open.spotify.com/track/605vPvBlmE54bJUiT8BKm0) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [Absence](https://open.spotify.com/album/3PLBke5XtxhEDQ57DpP8uC) | 3:00 | 2022-11-14 |  |
 | [Across the Mountains](https://open.spotify.com/track/1Xvo4lzjbpwIWAtV70x92u) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Across the Mountains](https://open.spotify.com/album/31Io1kPLesjWgGSSMgUn17) | 2:17 | 2025-01-07 |  |
+| [adieu](https://open.spotify.com/track/6nDr6kqqRDetH1G6kDooNJ) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [adieu](https://open.spotify.com/album/2t489joRBePXntcIrDs3Gf) | 2:32 | 2025-05-13 |  |
 | [Aegean Fantaisie](https://open.spotify.com/track/2Thxya1kxFfK0o5NUe8rEM) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7) | 2:51 | 2022-07-27 | 2023-02-08 |
 | [Aegean Fantaisie](https://open.spotify.com/track/3U7ITXsh5lsZXbYheMBpdY) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/2fYGZxBGC5TghSIzo8iIzY) | 2:51 | 2022-04-22 | 2022-07-29 |
 | [Aeternum](https://open.spotify.com/track/2NUEiYBZDBrY5oidzrmYgv) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [Aeternum](https://open.spotify.com/album/4CBsyXYvh2iy9VihnMn5zE) | 2:15 | 2022-04-22 | 2023-01-27 |
@@ -380,6 +381,7 @@
 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 | 2022-04-22 | 2023-08-15 |
 | [Ocean](https://open.spotify.com/track/5Sr5Tz8xszf0Wpk12w4117) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Ocean](https://open.spotify.com/album/23bNIKhaP1ggWvYroajgWk) | 2:16 | 2022-04-22 | 2023-05-04 |
 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2022-04-22 | 2023-08-08 |
+| [Oceans Between Us](https://open.spotify.com/track/7uU6gogq2d2IaktE5gSeV2) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Oceans Between Us](https://open.spotify.com/album/4ha1Xqb5sGAuc9PzPmQEQ3) | 2:21 | 2025-05-13 |  |
 | [Oh Endless Day](https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Oh Endless Day](https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb) | 4:47 | 2022-04-22 | 2022-07-28 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2022-04-22 | 2024-03-20 |
 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 | 2022-09-15 | 2023-08-15 |
@@ -575,7 +577,7 @@
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-09-15 |  |
 | [To the Morning Light](https://open.spotify.com/track/6FYOf0yudOyYiLS7t8cNel) | [James Here](https://open.spotify.com/artist/1iGSzD89Ci6EvzlGQeziR4) | [To the Morning Light](https://open.spotify.com/album/2i6eUXMuCvUazHgZaV6NIs) | 2:35 | 2025-01-15 |  |
 | [to the sea](https://open.spotify.com/track/6I9pSKGbuygkebmyt1ZuIL) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [to the sea](https://open.spotify.com/album/2RayBw83k7G2KMzRy4Ecmw) | 2:44 | 2022-07-27 | 2023-02-01 |
-| [To The Shore](https://open.spotify.com/track/1C6agiPtzxgsPH2tKtMg4s) | [Mac Paleblom](https://open.spotify.com/artist/6SlV6zCpTuBMGfNtN5bzWp) | [To The Shore](https://open.spotify.com/album/6He8b2xrFacLbfk0xkIz44) | 2:29 | 2025-01-28 |  |
+| [To The Shore](https://open.spotify.com/track/1C6agiPtzxgsPH2tKtMg4s) | [Mac Paleblom](https://open.spotify.com/artist/6SlV6zCpTuBMGfNtN5bzWp) | [To The Shore](https://open.spotify.com/album/6He8b2xrFacLbfk0xkIz44) | 2:29 | 2025-01-28 | 2025-05-14 |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-04-22 | 2023-08-08 |
 | [Toujours](https://open.spotify.com/track/53XnZJJNw7VwbmRXJE4wP2) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Toujours](https://open.spotify.com/album/5dtVQd67tUTLyVFszSzbwh) | 2:26 | 2024-04-15 |  |
 | [Trail of the Ants](https://open.spotify.com/track/0AJoJx7R6E1IAx0no0C5wt) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Trail of the Ants](https://open.spotify.com/album/3JaSdZJaMkCEc5gw6AgYBU) | 2:52 | 2024-12-10 |  |

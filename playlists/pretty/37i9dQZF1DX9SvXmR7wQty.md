@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: FouKi
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,714 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,715 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 7 | [C'est mieux comme ça](https://open.spotify.com/track/3cfAinfalq4ZSURKY2ZvcD) | [The Damn Truth](https://open.spotify.com/artist/3aEHKmYKru5l6OkG9IOIPb) | [C'est mieux comme ça](https://open.spotify.com/album/09epU1a5bPaVlaySIa41ig) | 4:34 |
 | 8 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 |
 | 9 | [MASTERCLASS](https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [MASTERCLASS](https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF) | 2:50 |
-| 10 | [Phénoménal](https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Phénoménal](https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT) | 3:24 |
+| 10 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
 | 11 | [Le roseau](https://open.spotify.com/track/20ya14O7Y7oyVhJ8tBpA9R) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Le roseau](https://open.spotify.com/album/1NciUKsAsZvBMf2qCjiSP3) | 3:14 |
-| 12 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
+| 12 | [Phénoménal](https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Phénoménal](https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT) | 3:24 |
 | 13 | [Ta peau](https://open.spotify.com/track/3tw5Y0FhPJ19R0JB29BC57) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi), [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Ta peau](https://open.spotify.com/album/65aOxSBxZCbF5QiUghOUaP) | 3:17 |
 | 14 | [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 |
 | 15 | [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 |
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 34 | [Feel Good \- Version Acoustique](https://open.spotify.com/track/2lmYsDvV8grxCcZ2FNi7Wt) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good \(Version Acoustique\)](https://open.spotify.com/album/5t1ClJpWR3OqXO3hxG7oBz) | 2:29 |
 | 35 | [HERMES](https://open.spotify.com/track/7DZSBDz3YMRWehPTLE1xOs) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [HERMES](https://open.spotify.com/album/1StXBGTd2q23LGN6rQdXlE) | 1:47 |
 | 36 | [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 |
-| 37 | [Bêtise](https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Bêtise](https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y) | 2:45 |
-| 38 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 |
+| 37 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 |
+| 38 | [Bêtise](https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Bêtise](https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y) | 2:45 |
 | 39 | [Try Try Try \- A COLORS SHOW](https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Try Try Try \- A COLORS SHOW](https://open.spotify.com/album/5h0jmRk4qlXohRlFiFXjxO) | 2:58 |
 | 40 | [Girl \(2025\)](https://open.spotify.com/track/7DuXqTgphrMZUA0cRU92TL) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 3:31 |
 | 41 | [Piments](https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Piments](https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX) | 2:38 |
 | 42 | [Sains et saufs](https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sains et saufs](https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ) | 3:41 |
-| 43 | [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 |
-| 44 | [PERFORMANTE](https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [KINTSUGI](https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf) | 3:26 |
-| 45 | [maman](https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo](https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f) | 3:00 |
-| 46 | [Sans surprise](https://open.spotify.com/track/1t03IiwKs5YVAkwNStY9Jc) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Sans surprise](https://open.spotify.com/album/3yWUYiNyDnOuEQp0rvNvNE) | 2:49 |
-| 47 | [One Time](https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 2:53 |
+| 43 | [One Time](https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 2:53 |
+| 44 | [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 |
+| 45 | [PERFORMANTE](https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [KINTSUGI](https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf) | 3:26 |
+| 46 | [maman](https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo](https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f) | 3:00 |
+| 47 | [Sans surprise](https://open.spotify.com/track/1t03IiwKs5YVAkwNStY9Jc) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Sans surprise](https://open.spotify.com/album/3yWUYiNyDnOuEQp0rvNvNE) | 2:49 |
 | 48 | [Honnêtement](https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Honnêtement](https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn) | 1:55 |
 | 49 | [Fumée Blanche](https://open.spotify.com/track/72Wv7tnQhlVyvc4VaBDBDe) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Fumée Blanche](https://open.spotify.com/album/4LzlgK3TJqL8ivGKIsdUfN) | 3:04 |
 | 50 | [Bollywood](https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Bollywood](https://open.spotify.com/album/6stKRosdbqJWhxg0GFxP34) | 2:52 |

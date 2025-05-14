@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=LmW0P8w0Q2SgcWZudbZ24w>Anendlessocean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,052 likes - 99 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,067 likes - 99 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 24 | [Power In The Blood](https://open.spotify.com/track/3sFAyRkCgGFSGUYyTMIgtH) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Power In The Blood](https://open.spotify.com/album/4rmnC25owAvgwPlNc4UV6y) | 2:48 |
 | 25 | [Home](https://open.spotify.com/track/3rKKtRTL4MaQRkEb74GLP0) | [Jordan Praise](https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr) | [Home](https://open.spotify.com/album/766dgkiseXkzBGcGvZicLu) | 3:07 |
 | 26 | [Higher oh \- Live](https://open.spotify.com/track/6vOiTgozU5X0lWRoasn35p) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Glitch Gospel](https://open.spotify.com/artist/7g9iFNrR0eMrFq2gXkw57Q) | [Higher oh \(Live\)](https://open.spotify.com/album/6ty3mbgv5Y6Bc2yp294hRN) | 3:46 |
-| 27 | [Speechless \- Spanglish](https://open.spotify.com/track/1IBXkMbEaSIFSOE6HVmqCW) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Wa'ti](https://open.spotify.com/artist/3WyUPzwuGu4toJZTDC9quX), [Ugo Sax](https://open.spotify.com/artist/7CbD4rdhyw6dmLA4Vn6O4N) | [Revisited: The Beginning](https://open.spotify.com/album/26xVfO9gaT9q1lz9Osyqos) | 11:07 |
+| 27 | [Speechless \- Spanglish](https://open.spotify.com/track/1IBXkMbEaSIFSOE6HVmqCW) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Wa'ti](https://open.spotify.com/artist/3WyUPzwuGu4toJZTDC9quX), [Ugo J](https://open.spotify.com/artist/34s9KNQeSEtwgxbDoUhfdO) | [Revisited: The Beginning](https://open.spotify.com/album/26xVfO9gaT9q1lz9Osyqos) | 11:04 |
 | 28 | [Send Your River Chant](https://open.spotify.com/track/7Mt8aqd0SY4aWL4Om79gNk) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Send Your River Chant](https://open.spotify.com/album/595QMxGef8W9VAq7uLM5td) | 3:00 |
 | 29 | [EBEFA](https://open.spotify.com/track/50PY45xUvLxhTqukcNaDON) | [Ewura Abena](https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ) | [EBEFA](https://open.spotify.com/album/2kONxKOSWVrni6iBM4UTVh) | 4:04 |
 | 30 | [Fan my fire \(Wura Wuta\)](https://open.spotify.com/track/2KyYyTT11V7PkmdIjHS9L9) | [Mr Yels](https://open.spotify.com/artist/6NpdLK2Iz3GsyZiz9Ur0Pr) | [Fan my fire \(Wura Wuta\)](https://open.spotify.com/album/1ybNcL48TSJIXn2OPLS9ab) | 4:39 |

@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 919528,
+  "num_followers": 919757,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-03-28 00:00:48",
       "album": {
+        "name": "BOUNCE FUNK (Slowed)",
+        "url": "https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD"
+      },
+      "artists": [
+        {
+          "name": "SAPFIR",
+          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
+        }
+      ],
+      "duration_ms": 97368,
+      "name": "BOUNCE FUNK - Slowed",
+      "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
         "name": "TRALALERO TRALALA FUNK",
         "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 117901,
       "name": "TRALALERO TRALALA FUNK",
       "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
-        "name": "BOUNCE FUNK (Slowed)",
-        "url": "https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD"
-      },
-      "artists": [
-        {
-          "name": "SAPFIR",
-          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
-        }
-      ],
-      "duration_ms": 97368,
-      "name": "BOUNCE FUNK - Slowed",
-      "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
     },
     {
       "added_at": "2025-03-28 00:00:48",
@@ -603,26 +603,6 @@
     {
       "added_at": "2025-03-28 00:00:48",
       "album": {
-        "name": "z-beta 2",
-        "url": "https://open.spotify.com/album/6dRJ8zaG9oTGrwpfu0Itld"
-      },
-      "artists": [
-        {
-          "name": "qaraqshy",
-          "url": "https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9"
-        },
-        {
-          "name": "MC LONE",
-          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
-        }
-      ],
-      "duration_ms": 94040,
-      "name": "z-beta 2 - Super Slowed",
-      "url": "https://open.spotify.com/track/5WMrHMfkarliApsXvwUTrh"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
         "name": "Mortals Funk Remix",
         "url": "https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 146364,
       "name": "Mortals Funk Remix",
       "url": "https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
+        "name": "z-beta 2",
+        "url": "https://open.spotify.com/album/6dRJ8zaG9oTGrwpfu0Itld"
+      },
+      "artists": [
+        {
+          "name": "qaraqshy",
+          "url": "https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9"
+        },
+        {
+          "name": "MC LONE",
+          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
+        }
+      ],
+      "duration_ms": 94040,
+      "name": "z-beta 2 - Super Slowed",
+      "url": "https://open.spotify.com/track/5WMrHMfkarliApsXvwUTrh"
     },
     {
       "added_at": "2025-03-27 14:52:17",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-03-27 14:52:17",
       "album": {
-        "name": "AUTOMOTIVO EMPURRA",
-        "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        }
-      ],
-      "duration_ms": 72014,
-      "name": "AUTOMOTIVO EMPURRA",
-      "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
-    },
-    {
-      "added_at": "2025-03-27 14:52:17",
-      "album": {
         "name": "Phonkageddon",
         "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 133565,
       "name": "Live Another Day",
       "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
+    },
+    {
+      "added_at": "2025-03-27 14:52:17",
+      "album": {
+        "name": "AUTOMOTIVO EMPURRA",
+        "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        }
+      ],
+      "duration_ms": 72014,
+      "name": "AUTOMOTIVO EMPURRA",
+      "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
     },
     {
       "added_at": "2025-03-27 14:52:17",

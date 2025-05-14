@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Manaka",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Charlu",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -2235,6 +2235,32 @@
     },
     {
       "album": {
+        "name": "BLiNK WALK",
+        "url": "https://open.spotify.com/album/2lG9s9CfDdpx3VwChOP5ci"
+      },
+      "artists": [
+        {
+          "name": "AMY McFLY",
+          "url": "https://open.spotify.com/artist/1Op0Eo5nrQPh7uMedJUiEG"
+        },
+        {
+          "name": "Tepa Roucci",
+          "url": "https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz"
+        },
+        {
+          "name": "Y2 BEBE",
+          "url": "https://open.spotify.com/artist/66N7lKzJqSC5Ari35gc7EL"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206952,
+      "name": "BLiNK WALK",
+      "url": "https://open.spotify.com/track/2faPtZ5XipC3XsjiPMTv84"
+    },
+    {
+      "album": {
         "name": "Block Party (feat. BARCO, Flight-A, Swag-A, Crazy-K & ACHA)",
         "url": "https://open.spotify.com/album/0XCPFYUvWedIENA9s1Eub7"
       },
@@ -3154,6 +3180,28 @@
       "duration_ms": 169600,
       "name": "Cheddar cheese - Remix-",
       "url": "https://open.spotify.com/track/61P2ej4ecrMhNjO8t241gE"
+    },
+    {
+      "album": {
+        "name": "Cheese (feat. Manaka)",
+        "url": "https://open.spotify.com/album/1kmXaI6erGYphtNxdGkmGI"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Cheese (feat. Manaka)",
+      "url": "https://open.spotify.com/track/5EGjNgoJxZakg7oLhrnKGE"
     },
     {
       "album": {
@@ -4118,6 +4166,24 @@
       "duration_ms": 152912,
       "name": "Do It For Ya (feat. INMAN)",
       "url": "https://open.spotify.com/track/1L1N2tmWJ3hsWeKjuan7zv"
+    },
+    {
+      "album": {
+        "name": "Do or Do",
+        "url": "https://open.spotify.com/album/073ghhE0kRjVJH6c5bRBx9"
+      },
+      "artists": [
+        {
+          "name": "YTG",
+          "url": "https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Do or Do",
+      "url": "https://open.spotify.com/track/2GxgER6kedxENXkr0XYWIS"
     },
     {
       "album": {
@@ -5436,7 +5502,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 124724,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/7aEAiYoJW4QySVB260xtTa"
@@ -6080,7 +6146,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 153230,
       "name": "forever (feat. Manaka)",
       "url": "https://open.spotify.com/track/5HbF4jFAK9YPMlqNjyoWym"
@@ -6310,7 +6376,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 176667,
       "name": "GAGA GA GOTCHA",
       "url": "https://open.spotify.com/track/58Vwf6Yd9DuCjPIpDPUzj7"
@@ -9468,7 +9534,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 209294,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/495KMn84VgvD8HGx7nnxIa"
@@ -9498,6 +9564,24 @@
       "duration_ms": 134400,
       "name": "Like That",
       "url": "https://open.spotify.com/track/1gOJUstp6RPiPolVNj1k4x"
+    },
+    {
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/640pfzaBkMRKVbyVCpzACu"
+      },
+      "artists": [
+        {
+          "name": "B.I.G. JOHN",
+          "url": "https://open.spotify.com/artist/4SVn9Ac8FQ52jXaxWK9cEX"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152535,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/6C5MgJJc3wcytaBHCyYW59"
     },
     {
       "album": {
@@ -10300,7 +10384,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 215369,
       "name": "Mind",
       "url": "https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm"
@@ -10595,6 +10679,24 @@
     },
     {
       "album": {
+        "name": "My Basket",
+        "url": "https://open.spotify.com/album/7rNNEUMEZ849EsnVUb1ewj"
+      },
+      "artists": [
+        {
+          "name": "Charlu",
+          "url": "https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178841,
+      "name": "My Basket",
+      "url": "https://open.spotify.com/track/1Ke5YFxyRPVtOdRX6fIa99"
+    },
+    {
+      "album": {
         "name": "My Life Is Don't Care",
         "url": "https://open.spotify.com/album/7DgJKtcLuEEifQL3dj0m9R"
       },
@@ -10759,6 +10861,24 @@
     },
     {
       "album": {
+        "name": "NAKII MUSII",
+        "url": "https://open.spotify.com/album/2e409sjKfaykRyYIsuCmWC"
+      },
+      "artists": [
+        {
+          "name": "Yatt",
+          "url": "https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232888,
+      "name": "NAKII MUSII",
+      "url": "https://open.spotify.com/track/5zvuwo0AbFoOBfiq4be60q"
+    },
+    {
+      "album": {
         "name": "Namae",
         "url": "https://open.spotify.com/album/4SOCuBCkRAX8T19XCJEtub"
       },
@@ -10888,7 +11008,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 194620,
       "name": "Nazz",
       "url": "https://open.spotify.com/track/0RY7u74AaRYSynkMF1opGG"
@@ -13088,7 +13208,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 174756,
       "name": "Rainy Friday",
       "url": "https://open.spotify.com/track/50raV1eejZuleMtO8V8Ldf"
@@ -14252,7 +14372,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-14",
       "duration_ms": 143478,
       "name": "Self marionette",
       "url": "https://open.spotify.com/track/3pp0j9KsiVaNiMoupgdDR5"
@@ -16941,6 +17061,24 @@
     },
     {
       "album": {
+        "name": "WASABI",
+        "url": "https://open.spotify.com/album/5Pe3H9Aqz1Tqfx3dBrwwTF"
+      },
+      "artists": [
+        {
+          "name": "TOKINE",
+          "url": "https://open.spotify.com/artist/3Tg1uV8PDqrVWiPHOBZumU"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123673,
+      "name": "WASABI",
+      "url": "https://open.spotify.com/track/7mZzkZf5iGWUgoKIqE3oSU"
+    },
+    {
+      "album": {
         "name": "V.L.C. Tomorrow",
         "url": "https://open.spotify.com/album/6cW1fYITwKu5RoPuq2KDIU"
       },
@@ -17590,6 +17728,24 @@
       "duration_ms": 223410,
       "name": "Yaminouchi",
       "url": "https://open.spotify.com/track/5lJocOmXtCH53DYMzNG8NH"
+    },
+    {
+      "album": {
+        "name": "Yankees Cap",
+        "url": "https://open.spotify.com/album/4rXyArM1yyXT7W62DDyBCL"
+      },
+      "artists": [
+        {
+          "name": "18scott",
+          "url": "https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Yankees Cap",
+      "url": "https://open.spotify.com/track/7sXbPLba2gLqxV1vkk3yyC"
     },
     {
       "album": {

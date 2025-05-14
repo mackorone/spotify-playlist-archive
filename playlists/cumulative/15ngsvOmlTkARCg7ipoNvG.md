@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,972 songs - 1 day 15 hr 59 min
+1,974 songs - 1 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1157,6 +1157,8 @@
 | [New Again \- Strings Version](https://open.spotify.com/track/40VW8cKaj9rOyNzESdBAmW) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [New Again](https://open.spotify.com/album/1SntDBEMCCmITgSzub9DCJ) | 1:29 | 2022-01-12 | 2024-01-30 |
 | [New Chapter Arr\. For Felt Piano](https://open.spotify.com/track/19D3SCnhpkfrqUudIhaafv) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [New Chapter Arr\. For Felt Piano](https://open.spotify.com/album/3ytWf7V4HTg2gMXpkzIzvY) | 1:00 | 2025-03-29 |  |
 | [New Chapters](https://open.spotify.com/track/6kQAlFwqfEb670VpTrwDcB) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [New Chapters](https://open.spotify.com/album/0WOIfYxibvXWeJja7sQVVk) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [New Day \- Cello Version](https://open.spotify.com/track/7spkbYPPhCJs7z9pETALHH) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [New Day](https://open.spotify.com/album/3z8dvbQttLwsMm7WcE924J) | 1:00 | 2025-05-13 |  |
+| [New Day \- Piano Version](https://open.spotify.com/track/4lxKdEg03jerHBdmMGLxrD) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [New Day](https://open.spotify.com/album/3z8dvbQttLwsMm7WcE924J) | 1:00 | 2025-05-13 |  |
 | [New Days](https://open.spotify.com/track/6svVNxgB5E7SNJkZWPxWZd) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Seaside Reflections](https://open.spotify.com/album/7I6S9pNbPW8BJcHC4JbID0) | 1:11 | 2024-01-29 |  |
 | [New Home Arr\. For Cello](https://open.spotify.com/track/7iGNftKeiJgo0cKyyIIcZ0) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [New Home](https://open.spotify.com/album/7szInb0sN0sOwtdik393un) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [New Home Arr\. For Solo Piano](https://open.spotify.com/track/0xRuZbwdhs5wtM5GDAbr4e) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [New Home](https://open.spotify.com/album/7szInb0sN0sOwtdik393un) | 1:00 | 2023-07-27 |  |

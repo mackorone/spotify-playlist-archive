@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SAILORR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086,514 likes - 219 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,086,594 likes - 219 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 7 | [FEEL THE BA$S \(Extendo\) \[feat\. BEAM\]](https://open.spotify.com/track/7D376hckBJfa3yDWdgn3MN) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FEEL THE BA$S \(Extendo\) \[feat\. BEAM\]](https://open.spotify.com/album/1iHWp6CEKFhaIQ29AorMQ5) | 2:47 |
 | 8 | [What I Gotta Do](https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [What I Gotta Do](https://open.spotify.com/album/2fl9ez05isjoG6IdqOXUzI) | 1:36 |
 | 9 | [Can't Stay Mad](https://open.spotify.com/track/3N0Gepa8QoYX39WJmsz6MQ) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Can't Stay Mad](https://open.spotify.com/album/0eB1N3Fd9jy79f2Ub94x07) | 5:03 |
-| 10 | [One More \- Bonus](https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:08 |
+| 10 | [One More](https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:08 |
 | 11 | [Distant Lover Pt\. II](https://open.spotify.com/track/5ez2IWCbto4lXgpzo7FSIy) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Distant Lover Pt\. II](https://open.spotify.com/album/0IZh3n1VUArI0yJ2afCCWl) | 2:58 |
 | 12 | [Devotion](https://open.spotify.com/track/24QQcdy9UpOvBTiDV94KHW) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Southern Soul](https://open.spotify.com/album/5MVebc75SBfscLBim87bhR) | 2:36 |
 | 13 | [My Way](https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [My Way](https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO) | 3:33 |

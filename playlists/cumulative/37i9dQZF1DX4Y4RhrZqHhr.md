@@ -4,7 +4,7 @@
 
 > The ocean, the sun, your friends, the music.
 
-624 songs - 1 day 9 hr 35 min
+625 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2023-08-07 | 2024-05-26 |
 | [Black & Gold \- Radio Edit](https://open.spotify.com/track/4pkZNPC6yeMnQABwkTmsR6) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Fame \- OST](https://open.spotify.com/album/6dJIhG190Enkw8ukkEupG7) | 3:30 | 2021-04-09 | 2022-03-24 |
 | [Blah Blah Blah](https://open.spotify.com/track/7JoVRy6b5AqggrBcSQ27wV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [A State Of Trance Top 20 \- June 2018 \(Selected by Armin van Buuren\)](https://open.spotify.com/album/6NkuIBhMPuDsskoAPG4w8y) | 3:03 | 2021-04-09 | 2022-01-11 |
+| [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-05-13 |  |
 | [Blue Jeans \- RAC Mix](https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Blue Jeans Remixes](https://open.spotify.com/album/6IQC6W4qrTWIQmUmNGFyKo) | 3:38 | 2024-05-25 |  |
 | [Body](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Body](https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp) | 2:43 | 2022-01-10 | 2022-03-30 |
 | [Body \(feat\. brando\)](https://open.spotify.com/track/7K7MUBCnzgBAvMVW2RTWNs) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Body \(feat\. brando\)](https://open.spotify.com/album/7fesgWyA3ehM0OFK14B9xR) | 2:43 | 2021-04-09 | 2022-03-24 |

@@ -4,7 +4,7 @@
 
 > Only the BIGGEST Hardstyle bangers 💥
 
-887 songs - 2 day 2 hr 9 min
+888 songs - 2 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 | 2022-09-08 | 2025-05-13 |
 | [Different](https://open.spotify.com/track/5V36Ex7BD1FIidVCKVSKdm) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [Different](https://open.spotify.com/album/4b8STLNNgp6prFuru4NnZF) | 3:50 | 2021-12-16 | 2022-07-27 |
 | [DIGITAL DAMAGE](https://open.spotify.com/track/0zw8otx8OWYoLCUnIjaOXn) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [DIGITAL DAMAGE](https://open.spotify.com/album/2WytoRDeMeh1HdqN0Ia4Gq) | 2:58 | 2025-02-27 |  |
-| [Digital Domination](https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Digital Domination](https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI) | 2:07 | 2024-10-10 |  |
+| [Digital Domination](https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Digital Domination](https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI) | 2:07 | 2024-10-10 | 2025-05-14 |
 | [Dirty Money](https://open.spotify.com/track/1I4jKdWVIbCGJKtJBva2fe) | [Dany Bpm](https://open.spotify.com/artist/3E6p5In4n4lbmS6oVipW8R), [Haaradak](https://open.spotify.com/artist/1xG49yuBUoOuJfuTOROGfr) | [Dirty Money](https://open.spotify.com/album/1zmpt4KQ7ePMwy1CQrX6Qq) | 3:52 | 2021-12-16 | 2022-07-29 |
 | [Disco Dip](https://open.spotify.com/track/5T2g57jUjKawm47vvt5rYV) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Disco Dip](https://open.spotify.com/album/6bFGe96hFPacBlUAbFEbAR) | 2:46 | 2024-09-20 | 2024-10-19 |
 | [Discover](https://open.spotify.com/track/6kAkda1mvbIr1J6gE5YMMy) | [Averion](https://open.spotify.com/artist/4VTEnHIcc06TeHoqeKvQEK), [Luxtreme](https://open.spotify.com/artist/7Gs7ELP6TZK3IxiQunEtYf) | [Discover](https://open.spotify.com/album/5rFBMI5yQKf2LawlXBoZYt) | 3:35 | 2021-12-16 | 2022-07-22 |
@@ -553,6 +553,7 @@
 | [Now We Are Free](https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blademasterz](https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv) | [Now We Are Free](https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB) | 3:10 | 2024-10-04 |  |
 | [NRG](https://open.spotify.com/track/7pla1KbEojTBfSBAfO8QqG) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [NRG](https://open.spotify.com/album/373ndAg7ONIo6b9h0620rU) | 3:43 | 2022-12-27 | 2023-01-03 |
 | [NRG OVERLOAD](https://open.spotify.com/track/6e4iELsEdqiRDKZX9EJJ2F) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [NRG OVERLOAD](https://open.spotify.com/album/4xzs97Rgelf8TAec8xvoz5) | 3:24 | 2023-02-14 | 2024-03-22 |
+| [Nuclear Bomb](https://open.spotify.com/track/3yIXUW0vm0vSeGFRjXUJkS) | [MJU](https://open.spotify.com/artist/67mfEI3l2eiyhmTPHf4YcY), [RAMØN](https://open.spotify.com/artist/3wGq6ADKJWJOBfHw0kzytT) | [Nuclear Bomb](https://open.spotify.com/album/4KynLnM8OzYMd5hFIEkNvD) | 3:09 | 2025-05-12 |  |
 | [Numb](https://open.spotify.com/track/5v5rbWpEf9toQLUmMo1JdW) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Numb](https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta) | 3:41 | 2023-06-22 |  |
 | [Ode To My Body](https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Ode To My Body](https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7) | 3:37 | 2024-03-21 | 2024-09-14 |
 | [Off My Face](https://open.spotify.com/track/5QlIuFcyEU52OGWpSjVfdv) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF), [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [3Blokes](https://open.spotify.com/artist/6ZwMox7xjnCiXvMYEDCiHb) | [Off My Face](https://open.spotify.com/album/4MXVV2AhvqxKEuyLpDwSBg) | 2:47 | 2024-11-22 | 2025-02-11 |

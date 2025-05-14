@@ -4,7 +4,7 @@
 
 > The hottest out the south: BAK Jay
 
-1,971 songs - 3 day 20 hr 19 min
+1,972 songs - 3 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1701,7 +1701,8 @@
 | [TESLA](https://open.spotify.com/track/4NQfLaqLd1Fms4UTkkTj7J) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [TESLA](https://open.spotify.com/album/5mLthYPpxVlV9E6QPlVVZt) | 2:44 | 2023-08-25 | 2023-10-21 |
 | [Testimony](https://open.spotify.com/track/6YJzVBCeKH0sarQEi5rSDk) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Testimony](https://open.spotify.com/album/0CNkxTOBTuVNRc3VeO1hl1) | 2:57 | 2023-09-29 | 2023-10-21 |
 | [Texas](https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Texas](https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ) | 2:26 | 2022-11-25 | 2023-02-04 |
-| [Texas](https://open.spotify.com/track/6eKNwVDSwoZlVNYBlqxWiC) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3) | [Texas](https://open.spotify.com/album/4VDg88gvR9aF0sLLK2cZUf) | 2:24 | 2025-04-16 |  |
+| [Texas](https://open.spotify.com/track/6eKNwVDSwoZlVNYBlqxWiC) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3) | [Texas](https://open.spotify.com/album/4VDg88gvR9aF0sLLK2cZUf) | 2:24 | 2025-04-16 | 2025-05-14 |
+| [Texas \(Remix\) \[feat\. Lil’ Keke & Paul Wall\]](https://open.spotify.com/track/7qi60HP2NgPXXfpmBDx9oT) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Texas \(Remix\) \[feat\. Lil’ Keke & Paul Wall\]](https://open.spotify.com/album/0qaNSPiDxR0Pi5vILnK4Q5) | 3:12 | 2025-05-13 |  |
 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 | 2024-06-21 | 2024-09-21 |
 | [Tha Kitchen](https://open.spotify.com/track/4lPOPlq3BF6I62qt54WheJ) | [Cartel Bo](https://open.spotify.com/artist/2gHDPVwwW2YrL4rLGlAj87), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Tha Kitchen](https://open.spotify.com/album/4g04uTFPO9Qg8FtPz0WH77) | 2:57 | 2025-01-17 | 2025-01-25 |
 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 | 2023-06-23 | 2023-11-18 |

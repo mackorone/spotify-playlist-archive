@@ -2,7 +2,7 @@
 
 ### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: Resident Playbook\(언젠가는 슬기로울 전공의생활\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: 귀궁 \(The Haunted Palace\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
 1,045 songs - 2 day 15 hr 26 min
 

@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-287 songs - 17 hr 3 min
+289 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dear.](https://open.spotify.com/track/5Hwo3p2oT7RaHXlY0Ks1ZV) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Dear.](https://open.spotify.com/album/6k8MPTcvl25jtS2GKu6GpA) | 3:53 | 2022-05-11 | 2022-07-24 |
 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 | 2022-05-11 | 2023-07-08 |
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-11 | 2024-06-21 |
-| [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-08 |  |
+| [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-08 | 2025-05-14 |
 | [Don't be mad](https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Don't be mad](https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46) | 3:04 | 2023-11-03 | 2024-06-30 |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-06-09 |  |
 | [Down \(with george\)](https://open.spotify.com/track/0Gt3PSw9P0WCs1Pj93Fr4D) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Sick of Love](https://open.spotify.com/album/3G1eFv8dHnjuXXTT1sMqIs) | 2:59 | 2025-03-26 |  |
@@ -83,6 +83,7 @@
 | [Fateful Love 운명처럼](https://open.spotify.com/track/1Sk4nG0ao54jfaU6ASVzTr) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [The Package 더 패키지 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/16W5lDfcQgrvqqeMsoRvcc) | 3:50 | 2022-05-11 | 2025-03-27 |
 | [Festival 축제](https://open.spotify.com/track/0BTfcdQ402OBWD3Tx8ans5) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Festival 축제](https://open.spotify.com/album/4lXOHA3pP937FCeGwtjpEA) | 4:33 | 2022-05-11 | 2022-07-24 |
 | [Film \(Feat\. Woshi\)](https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Film \(Feat\. Woshi\)](https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU) | 3:20 | 2023-01-25 | 2023-03-11 |
+| [Finale.](https://open.spotify.com/track/2oX7ureEPLFBaPtbdJQqpM) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Finale.](https://open.spotify.com/album/5KPkiln3JOJEXwGq1YTSm0) | 4:11 | 2025-05-13 |  |
 | [First Confession](https://open.spotify.com/track/3vacBI1W3Ws6xX2KLsRfQi) | [Moonbit](https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx) | [First Confession](https://open.spotify.com/album/42QP2KPf2IeWSJqDQ02BqD) | 3:00 | 2022-05-11 | 2022-06-17 |
 | [First Love](https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [First Love](https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE) | 3:02 | 2022-07-04 | 2023-04-28 |
 | [FLAVONO](https://open.spotify.com/track/1KeXQ2tuWBgEkF1sAKQ3sA) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [FLAVONO](https://open.spotify.com/album/0YLOzSD8x1vqN3UahvhJRn) | 4:00 | 2022-06-09 | 2022-07-28 |
@@ -184,7 +185,7 @@
 | [PUZZLE](https://open.spotify.com/track/1l3qnaenScIWpAyJRbjLmP) | [Sugarbowl](https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH) | [PUZZLE](https://open.spotify.com/album/3E8XbM9gn0N2V5bkRaDDHA) | 3:31 | 2022-05-11 | 2022-07-27 |
 | [Quiz](https://open.spotify.com/track/2WvHcLvA1JVVljJH9wT5RF) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Quiz](https://open.spotify.com/album/13gI4MN1K937wF0aqKJ1vd) | 3:08 | 2024-03-08 | 2024-05-01 |
 | [Real LOVE](https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:16 | 2022-07-04 | 2022-10-30 |
-| [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 | 2022-10-08 |  |
+| [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 | 2022-10-08 | 2025-05-14 |
 | [Right](https://open.spotify.com/track/4rqkl7cIZMZL6kBWox0D6B) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Right](https://open.spotify.com/album/3MmSYZityjpYQXOfCYiJrS) | 4:08 | 2022-05-11 | 2022-07-29 |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 |  |
 | [romeo n juliet \(feat\. youra\)](https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [gimbap](https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp) | 3:21 | 2025-03-26 |  |
@@ -202,6 +203,7 @@
 | [Some](https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn) | 3:01 | 2022-05-11 | 2022-07-29 |
 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 | 2022-10-13 | 2024-08-11 |
 | [Something Special](https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:05 | 2022-06-20 | 2022-07-27 |
+| [Soulmate](https://open.spotify.com/track/6oFE8nslEP2E7oEqqkCFJm) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [Soulmate](https://open.spotify.com/album/4d84IwBDlJx7oY3IL8jaiA) | 3:16 | 2025-05-13 |  |
 | [Speechless](https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Speechless](https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8) | 3:27 | 2022-05-11 | 2022-07-29 |
 | [Stand by you](https://open.spotify.com/track/3D7PTQ1lXl2Ni7dophG4of) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Stand By You](https://open.spotify.com/album/1fd8EG7lwkqjs3bRMwyHrx) | 4:21 | 2024-03-08 | 2024-04-03 |
 | [Stand by you](https://open.spotify.com/track/10U69KqbjO3IuQ375CoYZ8) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 4:21 | 2022-05-11 | 2022-07-28 |
