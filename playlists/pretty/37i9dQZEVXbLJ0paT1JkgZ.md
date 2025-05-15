@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,872 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,878 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [DUCATI \(feat\. Hades66\)](https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [DUCATI \(feat\. Hades66\)](https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt) | 4:06 |
 | 50 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
 
-Snapshot ID: `L7a3+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L7gJeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

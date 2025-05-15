@@ -3244,6 +3244,24 @@
     {
       "album": {
         "name": "Alle Risse heilen",
+        "url": "https://open.spotify.com/album/6R9KVt9WZlG4GogbmYShTk"
+      },
+      "artists": [
+        {
+          "name": "Olson",
+          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150640,
+      "name": "Alle Risse heilen",
+      "url": "https://open.spotify.com/track/3Q3Infgim4rgSUslJojSED"
+    },
+    {
+      "album": {
+        "name": "Alle Risse heilen",
         "url": "https://open.spotify.com/album/61VuzXvrt2dp7fuQmWgSVK"
       },
       "artists": [
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 150640,
       "name": "Alle Risse heilen",
       "url": "https://open.spotify.com/track/4oz4Bkp56L9sWcSQciZRQ3"
@@ -7936,7 +7954,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 157013,
       "name": "Bei Nacht",
       "url": "https://open.spotify.com/track/3Q9A8e3KSuv3MBkezViczI"
@@ -17534,7 +17552,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -23082,7 +23100,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 130612,
       "name": "FUNKEL",
       "url": "https://open.spotify.com/track/1xhFrd6PF8jLwP9D2yqT2r"
@@ -36916,7 +36934,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"

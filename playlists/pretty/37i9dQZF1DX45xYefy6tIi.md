@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Samara Cyn & ESPN's Top Plays gets you hyped for hoops final four to the NBA Playoffs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,037 likes - 30 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,059 likes - 30 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 17 | [Right Side](https://open.spotify.com/track/0YwibcdL7dk6FywQ47xc86) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Right Side](https://open.spotify.com/album/6Y0i2tKHXk1Ke6GYJfVHvF) | 2:01 |
 | 18 | [gahdamn](https://open.spotify.com/track/3PYwOjPK7aiW9wfSHWU69E) | [Kairee Doty](https://open.spotify.com/artist/6uhSBel32NyV2HIwDN4JKy) | [gahdamn](https://open.spotify.com/album/1w7fpDf6Wri4n1EE0LYPB6) | 2:13 |
 | 19 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 |
-| 20 | [BE YOUR GIRL \- KAYTRANADA REMIX](https://open.spotify.com/track/3zp3Mq8krAb1067UL94zJq) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/7oUY9jIWAyximHCUpXGS99) | [BE YOUR GIRL \(KAYTRANADA REMIX\)](https://open.spotify.com/album/1TDOE0Bglplp7Z77cg4JrM) | 4:28 |
+| 20 | [BE YOUR GIRL \- KAYTRANADA REMIX](https://open.spotify.com/track/3zp3Mq8krAb1067UL94zJq) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BE YOUR GIRL \(KAYTRANADA REMIX\)](https://open.spotify.com/album/1TDOE0Bglplp7Z77cg4JrM) | 4:28 |
 | 21 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 |
 | 22 | [97](https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:57 |
 | 23 | [Can't Leave 'Em Alone \(feat\. 50 Cent\)](https://open.spotify.com/track/78CTv7ypHvXQlEjXYst2n9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:04 |

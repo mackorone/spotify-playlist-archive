@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-876 songs - 1 day 18 hr 33 min
+882 songs - 1 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 |  |
 | [Across The Purple Expanse](https://open.spotify.com/track/1nh7NOJDfy3oewkGM6u08b) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Across The Purple Expanse](https://open.spotify.com/album/4Qc09SX2XC8YlP1Hggb3Jd) | 2:14 | 2023-04-06 | 2024-02-09 |
 | [Adagioria](https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Adagioria](https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5) | 3:09 | 2024-05-20 | 2024-07-10 |
+| [Admirable](https://open.spotify.com/track/5TpH1Ec1Sjb5s3yxfbIHKH) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [Admirable](https://open.spotify.com/album/6kkrP4eCISq4bdlp9oltFM) | 2:37 | 2025-05-14 |  |
 | [Adrift](https://open.spotify.com/track/6BubwSHIXvMPQhFaDW6gXf) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Adrift](https://open.spotify.com/album/3nrhZs2qqfp7DtuofUjGfN) | 2:36 | 2024-02-08 | 2024-07-16 |
 | [Aere Perrenius](https://open.spotify.com/track/2jLDBIoRpdRRp5ZQcfUrlR) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Aere Perrenius](https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y) | 3:22 | 2024-02-08 | 2025-01-15 |
 | [Aestate Nocte](https://open.spotify.com/track/33kX0nz5uT0zqq3EYWvUjf) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Aestate Nocte](https://open.spotify.com/album/586nVYFWjCLPKqroTU1dVq) | 3:24 | 2023-04-06 | 2024-01-18 |
@@ -178,6 +179,7 @@
 | [Contemplation](https://open.spotify.com/track/0TCfCt0mpEBjwc5QPu1NJD) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Contemplation](https://open.spotify.com/album/1OXWerQvvKN5ZqmKlpCPXN) | 2:52 | 2024-12-12 |  |
 | [Contemplation](https://open.spotify.com/track/7J9wquS6KYMs8xStcEYoGr) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Contemplation](https://open.spotify.com/album/2kk849IDiM7iBiDv3KVF35) | 2:56 | 2023-04-06 | 2024-01-18 |
 | [Continental Calm](https://open.spotify.com/track/7xHYQazatawqRHxUBrZ0Hq) | [Hypnosis Nun](https://open.spotify.com/artist/7bVvQ7jUGFqBaMZYXN3MvG) | [Continental Calm](https://open.spotify.com/album/4TaOrY5HZ9LcRc0D76oHbD) | 3:36 | 2024-02-08 | 2025-02-15 |
+| [Cordial](https://open.spotify.com/track/53RnPU209GNEeiC2dqhXea) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Cordial](https://open.spotify.com/album/4dOeoGCieEu8lOsS9oOSQ7) | 2:31 | 2025-05-14 |  |
 | [Cosmic Float](https://open.spotify.com/track/50VMjeHYwhxF159woVcN3s) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Cosmic Float](https://open.spotify.com/album/07hQfxSeHzAoqp0BWnGGmP) | 3:25 | 2025-03-19 |  |
 | [Cosmic Vibe](https://open.spotify.com/track/16YWHIxMQbvfShxpS1eKiR) | [Modular 53](https://open.spotify.com/artist/3UklgXTg7a5xLCLywOH60t) | [Cosmic Vibe](https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY) | 3:04 | 2024-02-08 | 2024-07-16 |
 | [Cosmos](https://open.spotify.com/track/5AxbUuK57wy8VVjiygWR2M) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Cosmos](https://open.spotify.com/album/1Fb0CcCxt9DloWAlxgJWtc) | 3:16 | 2024-11-06 |  |
@@ -378,6 +380,7 @@
 | [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2023-04-06 | 2024-01-18 |
 | [Hydrogen](https://open.spotify.com/track/06aTU7D4kaQd5rdSsfe5Ck) | [Cosmici](https://open.spotify.com/artist/2VFRGU5S4j9HvxvK3obrQq) | [Hydrogen](https://open.spotify.com/album/3b5irCfyJEDQhrsKsqWPd4) | 3:05 | 2024-05-20 |  |
 | [Hygga](https://open.spotify.com/track/5wkoZ9boDE4xt4wtam3a4e) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Hygga](https://open.spotify.com/album/3yYGBU1AIq9TgkzMG1R1ID) | 2:25 | 2024-04-05 | 2024-07-16 |
+| [Hypnos](https://open.spotify.com/track/1SxUWVO00afAlDxOm49fsN) | [XYROS](https://open.spotify.com/artist/2cXeNr7EjrnlwnWWfxFV2y) | [Hypnos](https://open.spotify.com/album/6WSMun0cHfujKnOvs0Rg8P) | 2:38 | 2025-05-14 |  |
 | [Hypnotic Distance](https://open.spotify.com/track/3XCLJE6SZ9wQ9r1CE7GcqY) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [Hypnotic Distance](https://open.spotify.com/album/2uHqhY7Z8R1VlLwTAZJBAo) | 2:15 | 2024-11-06 |  |
 | [I Believe I Can Fly](https://open.spotify.com/track/6BLpFHyW0XELB7qh45o6cI) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Floating On Clouds](https://open.spotify.com/album/5blLnf493gd6RQGPreukch) | 3:14 | 2023-04-13 | 2024-05-05 |
 | [I Dreamed A Dream](https://open.spotify.com/track/46CSa8TKr9seUuHIfVP2lA) | [Roofies Dragon](https://open.spotify.com/artist/3ETUioJojNZNqdjqmpQsAz) | [I Dreamed A Dream](https://open.spotify.com/album/0WWpj4IXlxAJpfOTqDLVdO) | 2:58 | 2023-11-10 | 2024-05-05 |
@@ -433,6 +436,7 @@
 | [Lacquer](https://open.spotify.com/track/3GZGRv578sQ6ekJvZJV3V5) | [Holzer](https://open.spotify.com/artist/546jtwCtpev5TPsZBz3oJy) | [Lacquer](https://open.spotify.com/album/7CmalDEdbq4rmzSh5Zvf3f) | 3:05 | 2025-02-04 |  |
 | [Lacuna](https://open.spotify.com/track/76lHBIG3K5vt577MbxTWfl) | [Vinyardo](https://open.spotify.com/artist/2wQMVtkA9XenZkYUbyoE1Y) | [Lacuna](https://open.spotify.com/album/5TlSRgRhwzjtinTTiXvRFG) | 2:57 | 2024-07-09 |  |
 | [Lage](https://open.spotify.com/track/3CqiVCGBvST27IugG68rRc) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Lage](https://open.spotify.com/album/32nYyoyqI2idlGFfmqzxo4) | 2:53 | 2024-02-27 | 2024-03-07 |
+| [Laomedeia](https://open.spotify.com/track/5VBAXRSw6VWYHs3omom0za) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Laomedeia](https://open.spotify.com/album/0zvxor9ZfHJsPBGMKuYg2B) | 2:51 | 2025-05-14 |  |
 | [Leisure](https://open.spotify.com/track/37miKtLQZKUNQksw2XnE1w) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Leisure](https://open.spotify.com/album/6X1zZSUqkd10JC0u670BWF) | 2:47 | 2024-03-06 | 2024-10-16 |
 | [Leontopodium](https://open.spotify.com/track/27mYRqQbA13UomGHQkpsTt) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Leontopodium](https://open.spotify.com/album/6m0863uAuoweadPHYEmDze) | 2:57 | 2024-02-08 |  |
 | [Let go](https://open.spotify.com/track/1NRLFIhFm333fvUE46FSC2) | [Nessa Wright](https://open.spotify.com/artist/1gHeUPUU5lLzMfodqksLEl) | [Let go](https://open.spotify.com/album/6PWKLG87gXfzghgqzQWJKb) | 2:21 | 2024-02-27 | 2024-03-07 |
@@ -711,6 +715,7 @@
 | [Slowly Floating](https://open.spotify.com/track/7CbuXgOo5AvLuvC8NxbV5j) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Sleepy Sky](https://open.spotify.com/album/1V17UxQbIXE09DTAhMBIJM) | 2:59 | 2023-04-06 | 2023-06-24 |
 | [Sluimeren](https://open.spotify.com/track/66pwfPIsgHrqmpq30wUTjE) | [Chaima Bergevoet](https://open.spotify.com/artist/5fjdDidIgzZ6pFIXk3q5Bj) | [Sluimeren](https://open.spotify.com/album/42yS37sBL5qc7cjkaowUsC) | 2:59 | 2023-04-06 | 2024-01-18 |
 | [Slumber heights](https://open.spotify.com/track/3WlWfmGgH93mGuQ136gM8n) | [The Attic Pianist](https://open.spotify.com/artist/49IpYdDnvNLUjhMYJwJBeS) | [Slumber heights](https://open.spotify.com/album/74F1TiZSlLfmrtMc7xadnn) | 3:03 | 2024-02-08 | 2024-03-21 |
+| [Soaring](https://open.spotify.com/track/08gcizw5faN8UapAxoJRXo) | [Perducci](https://open.spotify.com/artist/0VEXjsf3JyYFipCgZ2P8Fp) | [Soaring](https://open.spotify.com/album/7FN3g7BhHriUXjdqcMRskL) | 2:48 | 2025-05-14 |  |
 | [Soft Answers](https://open.spotify.com/track/5cNxtUwvAsml2dxp4zpoVa) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Soft Answers](https://open.spotify.com/album/4n5WkZT1FkBtYkTXtlbEaE) | 3:23 | 2023-04-06 | 2024-04-06 |
 | [Soft Corals](https://open.spotify.com/track/7DqRtx3iWhTVEfPL4feQNs) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Soft Corals](https://open.spotify.com/album/5PStymsZrftcSxP5rO2hgF) | 3:12 | 2024-05-20 | 2024-06-14 |
 | [Soft Feather](https://open.spotify.com/track/6AwNPeCte9bFMEmIC0ZbNT) | [Siljann](https://open.spotify.com/artist/0AvPkMDg6bdQlUQ3Nn07cF) | [Soft Feather](https://open.spotify.com/album/0xC25BRAXPZWyqm5DI1p5H) | 3:25 | 2024-03-20 |  |
@@ -760,6 +765,7 @@
 | [Stories](https://open.spotify.com/track/0ETgVH10Y5yiljMWO5kNtV) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Stories](https://open.spotify.com/album/6rxRh7wYIckgED89wMQwE5) | 2:52 | 2023-04-06 | 2024-01-18 |
 | [Storm](https://open.spotify.com/track/1VRfy2xysk0ekJQboMPGEr) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Storm](https://open.spotify.com/album/2bbVxJefZu3V3zsJdnA2FU) | 2:36 | 2024-02-08 | 2024-07-16 |
 | [Strands](https://open.spotify.com/track/4wy9zHLsUrAjKxDuHJXC3g) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Strands](https://open.spotify.com/album/35yrajalPiDCu4MVS2B3px) | 2:52 | 2024-12-17 |  |
+| [Strangers](https://open.spotify.com/track/2Fejv69vgRRdOIQy1B1UUP) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Strangers](https://open.spotify.com/album/2iCrbQtLaTyeLW1DKokYPq) | 2:44 | 2025-05-14 |  |
 | [Stress Reliever](https://open.spotify.com/track/5y6Cy93KwBgAuL2Il5YXN7) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Stress Reliever](https://open.spotify.com/album/2hezA7VkyAiKBzUrXGpB3k) | 3:10 | 2024-06-13 |  |
 | [Stundom](https://open.spotify.com/track/3zNKCknYLviNa5BAbjNHjI) | [Agnes Vidsjö](https://open.spotify.com/artist/41tdmj2pTCBWS8wXZfPZb5) | [Stundom](https://open.spotify.com/album/0Zo02Llji2KrVgbSqVnxbC) | 2:31 | 2025-03-19 |  |
 | [Sub Doze](https://open.spotify.com/track/1CpE5EAusisR4Lq6qUIpF0) | [Fort Sleep Sara](https://open.spotify.com/artist/0C9tWVAp9eusBbjWpfbmgg) | [Sub Doze](https://open.spotify.com/album/7yoPc6RtWlKfiDHXhxgvSG) | 3:10 | 2025-04-29 |  |

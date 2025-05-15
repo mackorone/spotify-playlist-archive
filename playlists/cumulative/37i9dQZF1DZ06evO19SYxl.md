@@ -4,7 +4,7 @@
 
 > This is Tex Tex\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 51 min
+65 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Adolorido](https://open.spotify.com/track/15Piouu29zcmBKPE7rMGwY) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Súbete al Tren](https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC) | 4:23 | 2023-01-14 |  |
 | [Ahora Que No Vives Conmigo](https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:08 | 2023-01-14 |  |
 | [Ahora Que Vives Conmigo](https://open.spotify.com/track/6qge5eo4FexKVvYVQVqMbL) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Espíritu del Rock \(30 Aniversario\)](https://open.spotify.com/album/4LK54gmmwCo3XczNXE3eTV) | 3:16 | 2023-01-14 |  |
-| [Ahora Ya No Te Quiero](https://open.spotify.com/track/6XkOwRqgaa2sitZUEAc28d) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 2:49 | 2023-01-14 |  |
+| [Ahora Ya No Te Quiero](https://open.spotify.com/track/6XkOwRqgaa2sitZUEAc28d) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 2:49 | 2023-01-14 | 2025-05-15 |
 | [Algo Tiene Este Café](https://open.spotify.com/track/0gDIjC1PsO7NhiHeIM1lZM) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 4:03 | 2023-01-14 |  |
 | [Amigo](https://open.spotify.com/track/1E6XDLIKqxAyO6qpNbFlSZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 3:27 | 2023-01-14 |  |
 | [Artesano de la Construccion](https://open.spotify.com/track/6IUlLJuUiCvqzuR3WWIKfS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:56 | 2023-01-14 |  |
@@ -22,7 +22,7 @@
 | [Barrio Pobre](https://open.spotify.com/track/2on3XmXTtMA1dguAkhCzr2) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:21 | 2023-01-14 |  |
 | [Blues del Borracho](https://open.spotify.com/track/1rA5JzukQ5DVicpwZ5JxIS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:08 | 2023-01-14 |  |
 | [Castillos \- En Vivo](https://open.spotify.com/track/6qtBaM4AznwA5blaTnNp0v) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:11 | 2023-01-14 |  |
-| [Corrido](https://open.spotify.com/track/4Zlnswq4DjPzbY1mJWZoOD) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 3:01 | 2023-01-14 |  |
+| [Corrido](https://open.spotify.com/track/4Zlnswq4DjPzbY1mJWZoOD) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 3:01 | 2023-01-14 | 2025-05-15 |
 | [Cosas de Hotel](https://open.spotify.com/track/6U2RdHVvy4OD81Wns7uB60) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi) | 3:05 | 2023-04-27 | 2023-04-29 |
 | [Cristina](https://open.spotify.com/track/4HGvjkFxUsx5Hl0czvXbME) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:39 | 2023-01-14 |  |
 | [Cuando el Amor Acaba](https://open.spotify.com/track/51EJd3jBO8g5Iz5FYWcEIu) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 3:57 | 2023-01-14 |  |
@@ -30,7 +30,7 @@
 | [Despedazado](https://open.spotify.com/track/0KyMslVGDKRMxTcE3ntrjh) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi) | 4:12 | 2023-01-14 |  |
 | [Devuelvelo](https://open.spotify.com/track/5ReKWdDtrjJpNVTNbscQJB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 2:29 | 2023-04-21 |  |
 | [Dinero \- En Vivo](https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:24 | 2023-01-14 |  |
-| [Déjame](https://open.spotify.com/track/5yn1a4D1KPqg2htJdpvQMV) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 5:38 | 2024-09-18 | 2024-09-30 |
+| [Déjame](https://open.spotify.com/track/5yn1a4D1KPqg2htJdpvQMV) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 5:38 | 2024-09-18 |  |
 | [El Bailable](https://open.spotify.com/track/1w8DzpklmbRnIhWEiRbLOI) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 0:58 | 2023-03-20 | 2024-02-01 |
 | [El Gato Con Botas](https://open.spotify.com/track/2auwC34hJtOYDV8qs0LXNW) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:47 | 2023-01-17 | 2025-05-11 |
 | [El Hijo Desobediente](https://open.spotify.com/track/4EtEnahAm6WGKdHRL19RvK) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 5:14 | 2023-01-14 |  |
@@ -55,6 +55,7 @@
 | [Perdido](https://open.spotify.com/track/25zVsjcK15lfJLyII4Tl1S) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:00 | 2023-01-14 |  |
 | [Pienso en Ti \- 2022 Remasterizado](https://open.spotify.com/track/2R6U2IsnJOKoPL7k0FotuA) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Pienso en Ti \(2022 Remasterizado\)](https://open.spotify.com/album/2aYTPJH1knXa3TLh7LIXNz) | 3:28 | 2023-01-14 | 2024-03-20 |
 | [Pobre Rocanrolero](https://open.spotify.com/track/6PO1FpMte6nYYtpgKIa466) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:53 | 2023-01-14 |  |
+| [Preso](https://open.spotify.com/track/6bCe3hk84GOK0FirHIKKwl) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 2:38 | 2025-05-15 |  |
 | [Regresa](https://open.spotify.com/track/29Le9m70dptbuVYgm45mCZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 2:52 | 2024-12-20 | 2024-12-22 |
 | [Salón](https://open.spotify.com/track/792lAOhCxwFi8AdaWRkgW6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Forajido \(Deluxe Edition\)](https://open.spotify.com/album/1BnFqEcCY568k6wDfWbPYR) | 3:17 | 2024-07-24 | 2024-08-24 |
 | [San Francisco](https://open.spotify.com/track/5W485vHAISIu1378PMn3pv) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 1:46 | 2024-08-24 | 2025-04-16 |
@@ -66,7 +67,8 @@
 | [Teoría de Caos](https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 | 2024-06-07 |  |
 | [Tex Tex Boogie](https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Hombre Afortunado](https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW) | 4:37 | 2023-01-14 |  |
 | [Un Tipo Guapo](https://open.spotify.com/track/0V7UQCv8krGwIXcSjjWiUM) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 4:04 | 2023-01-14 | 2025-03-22 |
-| [Un Toque Mágico](https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 4:14 | 2023-01-14 |  |
+| [Un Toque Magico](https://open.spotify.com/track/1okdJxpu4K6pWnTN5b3VKg) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 4:17 | 2025-05-15 |  |
+| [Un Toque Mágico](https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 4:14 | 2023-01-14 | 2025-05-15 |
 | [Vacas](https://open.spotify.com/track/2yhXukrwoHoT2HAFAVFllc) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 1:42 | 2024-01-04 |  |
 | [Vengador Anónimo](https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 | 2023-01-14 |  |
 | [Vestido Blanco](https://open.spotify.com/track/3WVRoIs8UO1OV89G3ezp6O) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP) | 3:59 | 2023-01-14 |  |

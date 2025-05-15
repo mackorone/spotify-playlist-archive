@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,019 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,147 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 37 | [The Girl from Ipanema](https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:33 |
 | 38 | [Caballo Negro](https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Manolo Sanlucar](https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn) | 3:25 |
 | 39 | [Somewhere In Time \- Main Theme](https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Somewhere In Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j) | 3:24 |
-| 40 | [Music to Watch Girls By](https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Music To Watch Girls By](https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI) | 1:51 |
-| 41 | [Limelight](https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT) | [Charlie Chaplin](https://open.spotify.com/artist/1qqZKSFPWKwT4Rtcu5zc8h), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 2:46 |
+| 40 | [Limelight](https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT) | [Charlie Chaplin](https://open.spotify.com/artist/1qqZKSFPWKwT4Rtcu5zc8h), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 2:46 |
+| 41 | [Music to Watch Girls By](https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Music To Watch Girls By](https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI) | 1:51 |
 | 42 | [Corazón de Niño](https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 3:39 |
 | 43 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
 | 44 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 79 | [Beer Barrel Polka](https://open.spotify.com/track/0TfEddOVb6s6qhzb6GVdTn) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [The Big Bands Collection, Vol\. 18/23: André Popp \- Delirium in Hi\-Fi](https://open.spotify.com/album/1AlBfGcQSHZMAGvVo42l0X) | 2:40 |
 | 80 | [Capullito de Aleli](https://open.spotify.com/track/6WlYy1nXmehizsvKs1EZV8) | [Pepe Jaramillo](https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0) | [Al Sur de la Frontera](https://open.spotify.com/album/5lVxK9CLDOrkS8vDtGpnc4) | 1:51 |
 | 81 | [Woodpecker Song](https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D) | [Tony Mottola y Su Orquesta](https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy) | [Tony Mottola y Su Orquesta](https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl) | 1:53 |
-| 82 | [Petite Fleur](https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x) | [Chris Barber](https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU), [Monty Sunshine](https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d) | [60 Timeless Classics from the Giants of Traditional Jazz](https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR) | 2:44 |
-| 83 | [Love's Theme](https://open.spotify.com/track/6wjY4ksLjCWU5D3lnNBAhy) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [The Best Of Love Unlimited Orchestra](https://open.spotify.com/album/7rUZRoEDIcsRXSB86xFMBk) | 4:08 |
+| 82 | [Love's Theme](https://open.spotify.com/track/6wjY4ksLjCWU5D3lnNBAhy) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [The Best Of Love Unlimited Orchestra](https://open.spotify.com/album/7rUZRoEDIcsRXSB86xFMBk) | 4:08 |
+| 83 | [Petite Fleur](https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x) | [Chris Barber](https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU), [Monty Sunshine](https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d) | [60 Timeless Classics from the Giants of Traditional Jazz](https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR) | 2:44 |
 | 84 | [Joy](https://open.spotify.com/track/595cpLYdeN3s7C4CqJbZus) | [Apollo 100](https://open.spotify.com/artist/6v0kvTi9pOI2ZFrWGQhdsc) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 2:43 |
 | 85 | [Sail Along Silv'ry Moon](https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:06 |
 | 86 | [Latin\-Esque](https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Latin\-Esque](https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq) | 3:06 |

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33827,
+  "num_followers": 33831,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABcRBqiOyaw9KbsDCJueJqQ",
+  "snapshot_id": "aCKLgAAAAAC1ms6yPafNs+doBZ1u3Jj0",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "idk that bitch (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shiesty Season - Spring Deluxe",
         "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 168648,
       "name": "Switch it Up (feat. G Herbo, No More Heroes)",
       "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "idk that bitch (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
     },
     {
       "added_at": null,
@@ -587,22 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDERWORLD",
-        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
       "artists": [
         {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        },
-        {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Swerve (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
+      "duration_ms": 200490,
+      "name": "Never Scared (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
     },
     {
       "added_at": null,
@@ -623,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+        "name": "UNDERWORLD",
+        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
       },
       "artists": [
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
         },
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 200490,
-      "name": "Never Scared (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+      "duration_ms": 181080,
+      "name": "Swerve (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
     },
     {
       "added_at": null,
@@ -819,22 +819,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
-        "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
+        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
       },
       "artists": [
         {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
         }
       ],
-      "duration_ms": 190511,
-      "name": "U Know Dat (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
+      "duration_ms": 244853,
+      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
     },
     {
       "added_at": null,
@@ -859,26 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+        "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
+        "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
         }
       ],
-      "duration_ms": 244853,
-      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+      "duration_ms": 190511,
+      "name": "U Know Dat (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
     },
     {
       "added_at": null,

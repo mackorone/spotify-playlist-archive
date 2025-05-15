@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "when angels cry",
+        "url": "https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "FAMOUS.",
+      "url": "https://open.spotify.com/track/21prC6Di5O8rqycidi5IDv"
+    },
+    {
+      "album": {
         "name": "I Think You've Gone Mad (Or the Sins of the Father)",
         "url": "https://open.spotify.com/album/4Yy43Ul14PbtMOBMDhjLgV"
       },

@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-474 songs - 1 day 6 hr 0 min
+475 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD) | 2:11 | 2024-02-02 | 2024-08-13 |
 | [Eye Contact](https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [Eye Contact](https://open.spotify.com/album/2jujhyMf8jsIzhgEuVBzE0) | 3:50 | 2024-07-25 | 2025-01-07 |
 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 | 2023-10-26 | 2023-11-03 |
-| [Fade Away](https://open.spotify.com/track/3gG1APb47C9I1nIgcLFMEh) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Fade Away](https://open.spotify.com/album/1gCaL4MQetFtRh6wZNH9UT) | 2:37 | 2025-01-27 |  |
+| [Fade Away](https://open.spotify.com/track/3gG1APb47C9I1nIgcLFMEh) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Fade Away](https://open.spotify.com/album/1gCaL4MQetFtRh6wZNH9UT) | 2:37 | 2025-01-27 | 2025-05-15 |
 | [Fade To Black](https://open.spotify.com/track/0eVRRA5XgykBqjIwhYzxQ2) | [KARVA](https://open.spotify.com/artist/01IuZ5qGBbM7vc6IglCSLM) | [Fade To Black](https://open.spotify.com/album/6s1r8ihM8cjm5HNAZ6DNTx) | 5:01 | 2024-04-11 | 2024-04-26 |
 | [FAF](https://open.spotify.com/track/5HO6Ktb8VhUlRAz8NXsScT) | [Surf 2 Glory](https://open.spotify.com/artist/1GQzSnBwaUlIdqFDiuktN3) | [FAF](https://open.spotify.com/album/5fJBS7Ous2WYOQjrBP77qa) | 2:47 | 2024-08-22 | 2025-01-07 |
 | [Fall In My Arms](https://open.spotify.com/track/44qgj5FoNRHgfTUn6Sm4Ls) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [Fall In My Arms](https://open.spotify.com/album/7nEmMz8VCJBBGpLVq3wtqs) | 3:18 | 2023-11-24 | 2023-12-01 |
@@ -380,6 +380,7 @@
 | [Shake It](https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Shake It](https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ) | 2:24 | 2024-11-25 |  |
 | [Shimmy Shake \(That Booty\)](https://open.spotify.com/track/2h113cdbuGT8CLmwppMVES) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [740 Boyz](https://open.spotify.com/artist/1gxehupXVKw95i03TQKppC) | [Shimmy Shake \(That Booty\)](https://open.spotify.com/album/0L3BHBCF1zCpgKY91PLtRK) | 1:57 | 2024-11-11 | 2024-12-10 |
 | [Show Me The Sky](https://open.spotify.com/track/11XXS0DhIQJp2wlgoFiBIM) | [Tommy Holohan](https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy), [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Show Me The Sky](https://open.spotify.com/album/2EnEIl36mvSSz0iMNtPawb) | 5:04 | 2024-06-27 | 2024-07-05 |
+| [Siente \(el Ritmo\)](https://open.spotify.com/track/34rWIUp98ZARnIgAba42fa) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/5gdkl33Qd9RL6ZMPQWUFEH) | 4:54 | 2025-05-13 |  |
 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 | 2024-12-28 | 2025-04-12 |
 | [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-10 | 2024-06-28 |
 | [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [&NUFF](https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 | 2024-11-14 | 2024-12-10 |

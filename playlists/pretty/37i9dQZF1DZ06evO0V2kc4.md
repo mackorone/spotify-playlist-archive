@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,168 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,186 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 15 | [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 |
 | 16 | [Sweet Sir Galahad](https://open.spotify.com/track/0wVsSz391qR4eORwDy3Xvg) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:43 |
 | 17 | [The Water Is Wide \- Live](https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:51 |
-| 18 | [Blowin' In The Wind \- Live](https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [From Every Stage](https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd) | 2:35 |
-| 19 | [Let It Be](https://open.spotify.com/track/4nzuujPepvK9gaUyxulAPT) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 3:36 |
+| 18 | [Let It Be](https://open.spotify.com/track/4nzuujPepvK9gaUyxulAPT) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 3:36 |
+| 19 | [Blowin' In The Wind \- Live](https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [From Every Stage](https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd) | 2:35 |
 | 20 | [Jesse](https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:28 |
 | 21 | [Last Night I Had The Strangest Dream \- Live](https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:29 |
 | 22 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [Wildwood Flower](https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:37 |
 | 50 | [De Colores](https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:29 |
 
-Snapshot ID: `aCE6AAAAAACRloE60akSJXxnLoNDM4nf`
+Snapshot ID: `aCKLgAAAAACOuAVLWL4P5dpRnJOgDxee`

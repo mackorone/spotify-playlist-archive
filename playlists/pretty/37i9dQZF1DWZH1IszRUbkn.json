@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 1544,
+  "num_followers": 1547,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Un Mundo De Canciones",
-        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
+        "name": "La Casita de Patylu",
+        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
       },
       "artists": [
         {
-          "name": "CantaJuego",
-          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 103613,
-      "name": "El Zapatero",
-      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
+      "duration_ms": 234880,
+      "name": "La Bruja de Nueva York",
+      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -735,18 +735,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "La Casita de Patylu",
-        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
+        "name": "Un Mundo De Canciones",
+        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
       "artists": [
         {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
         }
       ],
-      "duration_ms": 234880,
-      "name": "La Bruja de Nueva York",
-      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
+      "duration_ms": 103613,
+      "name": "El Zapatero",
+      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "\u00a1Fantastico!",
-        "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
-      },
-      "artists": [
-        {
-          "name": "Lucky Diaz and the Family Jam Band",
-          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Los Numeros",
-      "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Miss Patylu Vol. 2",
         "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 152198,
       "name": "Sana Sana",
       "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "\u00a1Fantastico!",
+        "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Los Numeros",
+      "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
     },
     {
       "added_at": "2020-04-27 15:43:16",

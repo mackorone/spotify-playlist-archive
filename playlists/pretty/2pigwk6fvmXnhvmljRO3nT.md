@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,105 songs - 18 day 11 hr 58 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,107 songs - 18 day 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7113,5 +7113,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7103 | [Symphony](https://open.spotify.com/track/2FCcxkGUbzexSBv1mcySm9) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Yume](https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78) | 6:45 |
 | 7104 | [Dusk](https://open.spotify.com/track/721kgCWILQ0NBG9eil1nvZ) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 1:54 |
 | 7105 | [The Cruel Angel's Thesis](https://open.spotify.com/track/1QFPI3slA71XOdiBV5qti1) | [高橋　洋子](https://open.spotify.com/artist/0wqT31jdZlxs4FRztdxaE9) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 4:06 |
+| 7106 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
+| 7107 | [We Are One \(Ole Ola\) \[The Official 2014 FIFA World Cup Song\] \(feat\. Jennifer Lopez & Claudia Leitte\)](https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:42 |
 
-Snapshot ID: `AAAGKWCmlCM4qXoIuf7moBB7UGUJrpBl`
+Snapshot ID: `AAAGKwT0ekpM+GsahfyHZvqOQ+yvZRXs`

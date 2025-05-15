@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Fonseca y Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,340 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,353 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 35 | [Tu Sonrisa](https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:33 |
 | 36 | [Cartagena](https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Cartagena](https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM) | 2:54 |
 | 37 | [Abusadora](https://open.spotify.com/track/2aDFka2ORQkraeJXkYkGxl) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:09 |
-| 38 | [Parranda en el Cafetal](https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:12 |
-| 39 | [DÉJALO EN VISTO](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DÉJALO EN VISTO](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 |
+| 38 | [DÉJALO EN VISTO](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DÉJALO EN VISTO](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 |
+| 39 | [Parranda en el Cafetal](https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:12 |
 | 40 | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8) | 3:59 |
 | 41 | [No Te Vayas](https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Te Vayas](https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9) | 3:46 |
 | 42 | [Por Ella](https://open.spotify.com/track/61BoBnTname2M5evtYyU6k) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Mis Favoritas](https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh) | 4:39 |

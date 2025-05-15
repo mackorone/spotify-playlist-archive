@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/3Bls23TVqJgAtC5abgUlBR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233541,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/2xLrA5F9V2KqTzr0X0ZgeW"
+    },
+    {
+      "album": {
         "name": "Brightest Lights",
         "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
       },

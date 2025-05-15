@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela com Alok, Mano Walter, L7NNON, MC Marlon PH e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,078,405 likes - 89 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,078,534 likes - 89 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

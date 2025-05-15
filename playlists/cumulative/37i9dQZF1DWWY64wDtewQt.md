@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-813 songs - 1 day 5 hr 47 min
+814 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Louca Encubada](https://open.spotify.com/track/5pvVt1ak0vsGRE0Hl4kudu) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Rodricci](https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Louca Encubada](https://open.spotify.com/album/4Qmw0mV9qMba2FQVUh0BYz) | 1:59 | 2023-12-01 | 2024-04-19 |
 | [Love Bound](https://open.spotify.com/track/6SBvZsLtZY8oRwAvPfSRcc) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [Love Bound](https://open.spotify.com/album/5OxjqpaOnjbVZlNi07ZJoD) | 3:11 | 2022-02-04 | 2022-05-14 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-09-08 |  |
+| [LUNA BALA \- Slowed](https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj) | [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LUNA BALA](https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz) | 2:04 | 2025-05-14 |  |
 | [Lya Funk](https://open.spotify.com/track/2FYlmspnovRvPOP0a5d53A) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [TRVNSPORTER](https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq) | [Lya Funk](https://open.spotify.com/album/3kJEka5x8yw9xg02X0mwBH) | 2:09 | 2025-01-24 | 2025-03-22 |
 | [Machiavelli](https://open.spotify.com/track/70U2jTJb22sGH2qVYLZJQ0) | [DAZI](https://open.spotify.com/artist/2bUeVsRE7j8IL8NqTpGPRf) | [Machiavelli](https://open.spotify.com/album/52B9z7TUl4OI2ACFBGoY0C) | 2:01 | 2022-08-05 | 2022-09-10 |
 | [MAD!](https://open.spotify.com/track/6kYAPKJjFEbKNze2uz11js) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [FXRR](https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i) | [MAD!](https://open.spotify.com/album/4ANbJ89NmCeIMbBr5sVZe6) | 1:58 | 2023-03-31 | 2023-05-06 |
@@ -717,7 +718,7 @@
 | [Tell me what \- Alternative](https://open.spotify.com/track/3ZAVDqWDatGhJEbgTJrSpE) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [CRESTA LA CULTURA, Vol.1](https://open.spotify.com/album/17yH3m2wuD17DaOEzorZHr) | 3:45 | 2022-08-26 | 2022-10-15 |
 | [Texas Phonk](https://open.spotify.com/track/5xDoqEQEPfkRAhKCvMRzRm) | [Ya$h](https://open.spotify.com/artist/6dvtf0mSE1nAC2vbStrrVG), [Mexelio](https://open.spotify.com/artist/5yR8KXW7sRjSHOp0XnFT0U) | [Texas Phonk](https://open.spotify.com/album/5vGUGFuqqo88MCHorIJ3aK) | 2:36 | 2021-09-03 | 2022-02-05 |
 | [The Alchemist](https://open.spotify.com/track/7CrRiJJd6UNRWyYdQTBI1U) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [The Alchemist](https://open.spotify.com/album/104RBeN1SIxvWZJiccCzX1) | 1:56 | 2021-05-12 | 2022-05-14 |
-| [The Automotivo Infernal 1.0 \- Purple](https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw) | [MRL](https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk) | [The Automotivo Infernal 1.0](https://open.spotify.com/album/5qC8iY9FTnvTZFFKc5SFTi) | 1:54 | 2023-08-11 |  |
+| [The Automotivo Infernal 1.0 \- Purple](https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw) | [MRL](https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk) | [The Automotivo Infernal 1.0](https://open.spotify.com/album/5qC8iY9FTnvTZFFKc5SFTi) | 1:54 | 2023-08-11 | 2025-05-15 |
 | [The Automotivo Infernal 1.0 \- Purple](https://open.spotify.com/track/684yJVwS41anCimZla5jk9) | [MRL](https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [The Automotivo Infernal 1.0](https://open.spotify.com/album/0F4VNLWhlhnOz4JzEt6xZ8) | 1:54 | 2023-08-11 | 2024-04-19 |
 | [THE AUTOTREM 1.0](https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ) | [DJ RICK 013](https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [THE AUTOTREM 1.0](https://open.spotify.com/album/3B6zpOLO07POn5FKcNwTKB) | 2:29 | 2023-07-07 | 2024-09-07 |
 | [The Magick \- Demo](https://open.spotify.com/track/4ArlVePy5gArJ2BNO81rWQ) | [Witchz](https://open.spotify.com/artist/13sKsnhhn9nyyYVbOl7dLD) | [The Magick](https://open.spotify.com/album/2sZwGbAvAcqUvA1CCNlLJa) | 1:59 | 2023-06-23 | 2023-07-01 |

@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,525 songs - 7 day 4 hr 5 min
+2,526 songs - 7 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -848,7 +848,7 @@
 | [GUERRERO INTELECTUAL](https://open.spotify.com/track/3SBFITfLQuTKNlJ7igGRuM) | [Mago Rey](https://open.spotify.com/artist/34W0qoIabeEniJH7rLVXHv), [Olinca Hidalgo](https://open.spotify.com/artist/2XA0XXw7Oe3AkLJks9irXp) | [GUERRERO INTELECTUAL](https://open.spotify.com/album/1oqgXGwSnr8beCSnRMdcXS) | 3:38 | 2023-09-08 | 2023-09-16 |
 | [Guitar Solo \(Neal Schon\) \- Live](https://open.spotify.com/track/2NWbOuarPwAo7G3erN0xjI) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Catch The Sun \(Live Tokyo '80\)](https://open.spotify.com/album/1WPM8sZgB28yaJHqg34FbP) | 2:24 | 2023-12-08 | 2023-12-16 |
 | [Guitar Solo / Jam \- Live](https://open.spotify.com/track/038YTyXDatDtKksEHRB5pG) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Boston Tea Party, Boston 1970](https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575) | 14:59 | 2024-06-07 | 2024-07-02 |
-| [Ha Lempotsa](https://open.spotify.com/track/6tYbCxdQLFJnHjphiQBFwi) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Ha Lempotsa](https://open.spotify.com/album/71ZT1Py3Ky4Lip821iiYl6) | 4:39 | 2025-05-09 |  |
+| [Ha Lempotsa](https://open.spotify.com/track/6tYbCxdQLFJnHjphiQBFwi) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Ha Lempotsa](https://open.spotify.com/album/71ZT1Py3Ky4Lip821iiYl6) | 4:39 | 2025-05-09 | 2025-05-15 |
 | [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 | 2024-02-16 | 2024-02-25 |
 | [Hace Mal](https://open.spotify.com/track/0Q4TCNDF4kDZrZWqQixBnN) | [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [Bufalo Dit](https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK), [Terrible](https://open.spotify.com/artist/1b8mm6QmyRah9dIxduf1Z9), [DerRalle](https://open.spotify.com/artist/0GG87fZi7iaF8278pfP0Ad), [Jota Valderrama](https://open.spotify.com/artist/39TmzYqfweYjjBRFvEE4EI) | [La Dieta del Murciélago \(Instrumentales\)](https://open.spotify.com/album/2ZGVSITaf9Jmne4WH1lhOC) | 3:16 | 2024-06-21 | 2024-07-01 |
 | [Halah \- Live](https://open.spotify.com/track/11qijVy2Icc8eQ23Nfz56j) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Waitin' For A Sign \(Live\)](https://open.spotify.com/album/3HIalClHJ08ptn4aHPH6Cr) | 3:17 | 2024-07-19 | 2024-07-20 |
@@ -1586,6 +1586,7 @@
 | [Past Midnight Freestyle](https://open.spotify.com/track/5CmwDsgCMFVLQ3x8lvpHj0) | [MOTL](https://open.spotify.com/artist/5S6mzoCeyeWeFl9GLYYyCD), [HIM](https://open.spotify.com/artist/65XTHhuGaEf9x7EFilcwSQ), [AK](https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Past Midnight Freestyle](https://open.spotify.com/album/6sU6EZo8EqelqmVUs903K5) | 3:17 | 2023-06-23 | 2023-06-30 |
 | [Peace & Abundance](https://open.spotify.com/track/7o4CCMMBngZ6e6EvPrR2HV) | [Nico.X3](https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2) | [Peace & Abundance](https://open.spotify.com/album/6e1AxhsPcfPYhAkYeOpb24) | 2:22 | 2023-09-22 | 2023-10-15 |
 | [Peace \- Justus Köhncke Extended Disco Club Vocal](https://open.spotify.com/track/15jMustVSA7BeMY5stIadi) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Sounds Of The Universe \| The 12" Singles](https://open.spotify.com/album/5f75ihytzLQhJNqurE6NlF) | 6:23 | 2023-08-04 | 2023-08-12 |
+| [Pela Hao](https://open.spotify.com/track/7o8qGYW9QYQXZaPpKNL0gm) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Pela Hao](https://open.spotify.com/album/7GZ1nADYMVs587sGMWxV5S) | 4:41 | 2025-05-09 |  |
 | [Pena Feliz](https://open.spotify.com/track/0UrKSEW63OgB0b5CHfddvC) | [Estudios Cordillera](https://open.spotify.com/artist/6Mx9gBFNVvNCLJas5K6aVb), [PelySayon](https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T) | [Pena Feliz](https://open.spotify.com/album/0pFQlvwcK2l8JD4vjaGydQ) | 4:53 | 2024-03-01 | 2024-03-09 |
 | [Pennies from Heaven](https://open.spotify.com/track/57tzaQqnUsQMqZGwNkeOKH) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Pennies from Heaven](https://open.spotify.com/album/1i6vhg06WXON1YfBE9gOHj) | 2:58 | 2024-02-16 | 2024-02-24 |
 | [Pennyroyal Tea \- Live In Los Angeles, Great Western Forum \- December 30, 1993](https://open.spotify.com/track/7g8wYvj1XPFu7CRNFH7zsa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero 30th Live](https://open.spotify.com/album/251D5futdABXD1SHrd47lb) | 3:58 | 2023-09-29 | 2023-10-21 |

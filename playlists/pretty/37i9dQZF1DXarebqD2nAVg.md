@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > raw feels,  emotional beats to cry out to ☁️❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,870 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,879 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 24 | [superabundance](https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [superabundance](https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC) | 2:19 |
 | 25 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 |
 | 26 | [curled up](https://open.spotify.com/track/1eb0KT4XSTq2Gt9C1MCqHm) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [curled up](https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8) | 2:12 |
-| 27 | [Dawn](https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Dawn](https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU) | 2:40 |
-| 28 | [Heavy Rain](https://open.spotify.com/track/75wOVGAOukrsLhijV42LBE) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP) | [Heavy Rain](https://open.spotify.com/album/2ljzEnLdslGV8BjW3KBsQm) | 2:00 |
+| 27 | [Heavy Rain](https://open.spotify.com/track/75wOVGAOukrsLhijV42LBE) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP) | [Heavy Rain](https://open.spotify.com/album/2ljzEnLdslGV8BjW3KBsQm) | 2:00 |
+| 28 | [Dawn](https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Dawn](https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU) | 2:40 |
 | 29 | [polaris](https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [polaris](https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm) | 2:00 |
 | 30 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 |
 | 31 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 46 | [Moss](https://open.spotify.com/track/2juhNawrmbYjLxXdWqv600) | [imagiro](https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Threads](https://open.spotify.com/album/7yRNHKt3gW9JosgeOj04FC) | 2:44 |
 | 47 | [falling behind](https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [falling behind](https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK) | 2:17 |
 | 48 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |
-| 49 | [soft plushies](https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [soft plushies](https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu) | 2:24 |
-| 50 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 |
+| 49 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 |
+| 50 | [soft plushies](https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [soft plushies](https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu) | 2:24 |
 | 51 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |
 | 52 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
 | 53 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 64 | [time to float](https://open.spotify.com/track/7mfmhIDEKJTYTJ0cbKDYrq) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [time to float](https://open.spotify.com/album/4WkiWXk2E03LJwAoWt24pR) | 3:21 |
 | 65 | [another time](https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [another time](https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7) | 2:34 |
 | 66 | [woodland](https://open.spotify.com/track/1kbULV3OCGJqQMPp88ZFjY) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk) | [woodland](https://open.spotify.com/album/0N7rMutkrZgsu0UAPFgjyk) | 2:02 |
-| 67 | [Fresh Air](https://open.spotify.com/track/4LOyXdINtMw2gCoVdXWJ4y) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Fresh Air](https://open.spotify.com/album/3jlc6xabhwLfEXXKI2CBo2) | 2:29 |
-| 68 | [Plant Convo](https://open.spotify.com/track/1X069IL4sAaspIfbsONlXq) | [Farmor](https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63) | [Plant Convo](https://open.spotify.com/album/6yp2zl7CR7xzfjgtylwUnI) | 2:15 |
+| 67 | [Plant Convo](https://open.spotify.com/track/1X069IL4sAaspIfbsONlXq) | [Farmor](https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63) | [Plant Convo](https://open.spotify.com/album/6yp2zl7CR7xzfjgtylwUnI) | 2:15 |
+| 68 | [Fresh Air](https://open.spotify.com/track/4LOyXdINtMw2gCoVdXWJ4y) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Fresh Air](https://open.spotify.com/album/3jlc6xabhwLfEXXKI2CBo2) | 2:29 |
 | 69 | [amethyst](https://open.spotify.com/track/0sAOhw3tv1rzpfi1tiRKQL) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [amethyst](https://open.spotify.com/album/4cxQp2Q5D5nRvl2wH3q7X0) | 2:12 |
 | 70 | [truth](https://open.spotify.com/track/2v61JbHklrRRSyADCJh5Hn) | [marigold](https://open.spotify.com/artist/4UPrESsUKf7K2iGxO1mSwc) | [truth](https://open.spotify.com/album/44wtfuJv5UJeyEmNZkpM2e) | 2:03 |
 | 71 | [slowFi](https://open.spotify.com/track/4aWrBVm1mzziG5g003EkEd) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [slowFi](https://open.spotify.com/album/52itzxK5WbmBO1RcOcxU9g) | 2:12 |

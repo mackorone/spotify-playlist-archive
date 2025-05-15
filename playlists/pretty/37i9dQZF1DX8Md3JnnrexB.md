@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,544 likes - 91 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,548 likes - 91 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 79 | [Can't Afford Therapy](https://open.spotify.com/track/6urArILLJCAMySnR4RA92s) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Can't Afford Therapy](https://open.spotify.com/album/0ZSD6U53FhsMV2N7tUyITc) | 4:09 |
 | 80 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 |
 | 81 | [Blood Is Thicker Than Water](https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:21 |
-| 82 | [Groovin' \- Remastered](https://open.spotify.com/track/5tIbsf9661vfjKOJD9IsCb) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Still Groovin \(Remastered\)](https://open.spotify.com/album/5DNuGx7kB0GRgT8TOeppeC) | 2:43 |
-| 83 | [Holding On](https://open.spotify.com/track/7hrUma6oSEaVwnlwkQa7XB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Holding On](https://open.spotify.com/album/4ZlV13oHyTpo3S3LjZRvRU) | 4:14 |
+| 82 | [Holding On](https://open.spotify.com/track/7hrUma6oSEaVwnlwkQa7XB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Holding On](https://open.spotify.com/album/4ZlV13oHyTpo3S3LjZRvRU) | 4:14 |
+| 83 | [Groovin' \- Remastered](https://open.spotify.com/track/5tIbsf9661vfjKOJD9IsCb) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Still Groovin \(Remastered\)](https://open.spotify.com/album/5DNuGx7kB0GRgT8TOeppeC) | 2:43 |
 | 84 | [This Close To You](https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/1hW1NkW73cDr29Ef2XDLb4) | 3:31 |
 | 85 | [Show and Tell \- Rerecorded](https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Al Wilson](https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR) | 3:31 |
 | 86 | [Tell Me Something](https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Tell Me Something](https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9) | 4:17 |

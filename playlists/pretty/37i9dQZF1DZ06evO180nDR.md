@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,089 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,158 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 40 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 |
 | 41 | [Booty Booty](https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Booty Booty](https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E) | 2:30 |
 | 42 | [ANEXO](https://open.spotify.com/track/3uSRqevFma8cECz5qqfQw5) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [ANEXO](https://open.spotify.com/album/2QoRQRy3LTD90q769JdoKA) | 2:35 |
-| 43 | [70 Calaveras \- En Vivo](https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [70 Calaveras \(En Vivo\)](https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe) | 2:49 |
+| 43 | [La Avioneta](https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [El Wiko](https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs) | [La Avioneta](https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx) | 2:46 |
 | 44 | [Que Te Entregues Hoy](https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:09 |
-| 45 | [De 8 A 5](https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [DE 8 A 5](https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c) | 3:14 |
-| 46 | [La Avioneta](https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [El Wiko](https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs) | [La Avioneta](https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx) | 2:46 |
-| 47 | [30 Blindadas](https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [30 Blindadas](https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG) | 2:06 |
-| 48 | [La Voladora](https://open.spotify.com/track/7FRGDHMVFd3r8dxFzu2xed) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Voladora](https://open.spotify.com/album/4SnkVoszi7UkF2KhTG6aLM) | 2:33 |
+| 45 | [70 Calaveras \- En Vivo](https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [70 Calaveras \(En Vivo\)](https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe) | 2:49 |
+| 46 | [De 8 A 5](https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [DE 8 A 5](https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c) | 3:14 |
+| 47 | [La Voladora](https://open.spotify.com/track/7FRGDHMVFd3r8dxFzu2xed) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Voladora](https://open.spotify.com/album/4SnkVoszi7UkF2KhTG6aLM) | 2:33 |
+| 48 | [30 Blindadas](https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [30 Blindadas](https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG) | 2:06 |
 | 49 | [Fácil Criticar \- En Vivo](https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Fácil Criticar \(En Vivo\)](https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn) | 3:14 |
 | 50 | [Arrincónamela](https://open.spotify.com/track/2ndTyIF8jtCcwFzRhdxvaw) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:54 |
 
-Snapshot ID: `aCE6AAAAAABQhBWCPCOCCa9a/ZtFzt4n`
+Snapshot ID: `aCKLgAAAAACgO/wLkbzQyqoO6wJ/88Yc`

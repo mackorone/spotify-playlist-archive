@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Sistek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,191 likes - 98 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,923,779 likes - 98 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 14 | [LA BUENA VIDA 2](https://open.spotify.com/track/5HQ4Eiin7jJeVIlU1NP4hS) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6) | [LA BUENA VIDA 2](https://open.spotify.com/album/1jIw3owsvzaPOuEuf7UGXw) | 2:45 |
 | 15 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 |
 | 16 | [Actitud](https://open.spotify.com/track/1Z8Nxa2iAw7nxNYKXMPCQQ) | [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Gabriela Bandy](https://open.spotify.com/artist/0COrCaAvBa2JlNk9mrs52a) | [Actitud](https://open.spotify.com/album/3FpqCMWBNOKB3JUcDzPpsa) | 2:35 |
-| 17 | [LUCES DE NEON](https://open.spotify.com/track/1QcohnRucqYNSu9wkq0M2x) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [LUCES DE NEON](https://open.spotify.com/album/43WWaLc0pYy8KwzCY4O2RE) | 2:14 |
+| 17 | [LUCES DE NEON](https://open.spotify.com/track/1QcohnRucqYNSu9wkq0M2x) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [LUCES DE NEON](https://open.spotify.com/album/43WWaLc0pYy8KwzCY4O2RE) | 2:14 |
 | 18 | [NOS DESCONOXIMOS](https://open.spotify.com/track/27CpmKxBYrVMveaWeClewo) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [NOS DESCONOXIMOS](https://open.spotify.com/album/3it9L6RJ2kxLUYfirPAB5Z) | 2:48 |
 | 19 | [Coge El Paso](https://open.spotify.com/track/7IUGkB1cmE78vv9wlYtfER) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [DERON](https://open.spotify.com/artist/7F8pPpfBuhZJF1F622KD5J), [La Payara](https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8) | [Coge El Paso](https://open.spotify.com/album/4okzussR5U0O0WqBM50BIH) | 2:28 |
 | 20 | [LA NIÑA KIERE TEKNO](https://open.spotify.com/track/5cXdcA6j4bX4c5hpqGoLQg) | [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [LA NIÑA KIERE TEKNO](https://open.spotify.com/album/4WffFmTNsaEMhQ4yvdVVSc) | 2:45 |

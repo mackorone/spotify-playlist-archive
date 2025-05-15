@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > Turn on the movement with the latest and greatest in K\-Pop! \(Cover: DAY6\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,662,582 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,662,409 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 |
+| 1 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 |
 | 2 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
-| 3 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 |
+| 3 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 |
 | 4 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 |
 | 5 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
-| 6 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
-| 7 | [Wait On Me](https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 3:13 |
-| 8 | [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 |
+| 6 | [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 |
+| 7 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
+| 8 | [Wait On Me](https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 3:13 |
 | 9 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 |
 | 10 | [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 |
 | 11 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 |
 | 12 | [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 |
-| 13 | [poppop](https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:02 |
-| 14 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 |
-| 15 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 |
-| 16 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 |
-| 17 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
-| 18 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 |
-| 19 | [Countdown!](https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 3rd Mini Album 'TRY WITH US'](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:30 |
-| 20 | [Air](https://open.spotify.com/track/2HhIndg75YiKjuUgGiMjSA) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Air](https://open.spotify.com/album/4ILxYaUCwfA9EJ36wPwTWz) | 3:14 |
-| 21 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 |
+| 13 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 |
+| 14 | [poppop](https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:02 |
+| 15 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 |
+| 16 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 |
+| 17 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 |
+| 18 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
+| 19 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 |
+| 20 | [Countdown!](https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 3rd Mini Album 'TRY WITH US'](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:30 |
+| 21 | [Air](https://open.spotify.com/track/2HhIndg75YiKjuUgGiMjSA) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Air](https://open.spotify.com/album/4ILxYaUCwfA9EJ36wPwTWz) | 3:14 |
 | 22 | [GIANT \(Korean Ver.\)](https://open.spotify.com/track/7EnXcPK6xBxQr7hOFRLQIi) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 2:53 |
 | 23 | [BEBE](https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:59 |
 | 24 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 |
 | 50 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 
-Snapshot ID: `aCPyZAAAAAC9Mhy+FBsgA4HMN81ubqn4`
+Snapshot ID: `aCVAEQAAAACeJ8Dhbek28UtinLpzEaxi`

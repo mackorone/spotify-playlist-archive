@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van Naomi Sharon, néomí \(RADAR\-artiest\), Tyla, Miley Cyrus en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,903 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,901 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 53 | [I'll Be Watching You](https://open.spotify.com/track/1RsiETDd4wNIu1CuXFsiBf) | [Claw Boys Claw](https://open.spotify.com/artist/5t378xBMytAymycG84zIPv) | [I'll Be Watching You](https://open.spotify.com/album/4XQCEb73foJpTjeRqmKxBI) | 2:22 |
 | 54 | [DON JULIO](https://open.spotify.com/track/3qgiHGD4ktr5dKroQQOTLq) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [DON JULIO](https://open.spotify.com/album/0vVYgFZjDC9CYvA2ddCozS) | 2:56 |
 | 55 | [Peter](https://open.spotify.com/track/4FD2BCcJRzaWrDAtrr6sbQ) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Peter](https://open.spotify.com/album/2Tvw6sEI6oLXYYj2IABBR1) | 2:28 |
-| 56 | [Ntiya](https://open.spotify.com/track/2yquGIoOULtRdd22zbbMtl) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu) | [Ntiya](https://open.spotify.com/album/2EkAgAK5EoJ2VduFeWA3tM) | 3:43 |
+| 56 | [Ntiya](https://open.spotify.com/track/2yquGIoOULtRdd22zbbMtl) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu) | [Ntiya](https://open.spotify.com/album/2EkAgAK5EoJ2VduFeWA3tM) | 3:35 |
 | 57 | [Learn To Fly](https://open.spotify.com/track/4UhsCz4QRCGUV5ljZOF0TJ) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Learn To Fly \(feat Eirik Næss\)](https://open.spotify.com/album/4JxbMQmeUn5HJTaQHmYupN) | 2:32 |
 | 58 | [Moonlight](https://open.spotify.com/track/0VFAxYv9PZYvVnuP6MVP8Q) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [TRIP](https://open.spotify.com/album/30OXFZPqZpqRKxpPgF0G3C) | 3:25 |
 | 59 | [Dedicated](https://open.spotify.com/track/1kNWSvIga1qevlp2mL0wdP) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Dedicated](https://open.spotify.com/album/6WZM6Solm3MalO98c7N99o) | 4:34 |

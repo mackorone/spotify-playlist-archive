@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,201 likes - 110 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,153 likes - 110 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 18 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:32 |
 | 19 | [Closer To Fine \(From Barbie The Album\)](https://open.spotify.com/track/1v9iJFBaJCxBCdBNdvXeMd) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Catherine Carlile](https://open.spotify.com/artist/6AYTFdGwtMZiuHhmTMO4Ig) | [Closer To Fine \(From Barbie The Album\)](https://open.spotify.com/album/0xmn6GY7CCPi7qYV0sZJ7p) | 5:52 |
 | 20 | [Ordinary World](https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Ordinary World](https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl) | 4:40 |
-| 21 | [Billie Jean](https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between The Bars \(EP\)](https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5) | 4:19 |
-| 22 | [Let It Be](https://open.spotify.com/track/1nuInrrZzg1joRPjIk8oyS) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:38 |
+| 21 | [Let It Be](https://open.spotify.com/track/1nuInrrZzg1joRPjIk8oyS) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:38 |
+| 22 | [Billie Jean](https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between The Bars \(EP\)](https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5) | 4:19 |
 | 23 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
 | 24 | [Enjoy The Silence](https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 |
 | 25 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 34 | [Dance Me to the End of Love \- Bonus](https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi) | 3:05 |
 | 35 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 |
 | 36 | [Hotel California \(Cover\)](https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:44 |
-| 37 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 |
-| 38 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
+| 37 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
+| 38 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 |
 | 39 | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs) | [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Southern Family](https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x) | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH) | 6:13 |
 | 40 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 |
 | 41 | [Wouldn't It Be Nice](https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't It Be Nice](https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy) | 2:47 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 105 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 |
 | 106 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 |
 | 107 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
-| 108 | [Mr\. Sandman](https://open.spotify.com/track/1ibQiWl2i50MGt3SpRuE0D) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mr\. Sandman](https://open.spotify.com/album/2fdSGlrhEbkEC9an1uPg9b) | 3:26 |
-| 109 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
+| 108 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
+| 109 | [Mr\. Sandman](https://open.spotify.com/track/1ibQiWl2i50MGt3SpRuE0D) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mr\. Sandman](https://open.spotify.com/album/2fdSGlrhEbkEC9an1uPg9b) | 3:26 |
 | 110 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV) | 4:50 |
 
 Snapshot ID: `ZxHdQAAAAABKnnFrYWY5K+EyWhdcd0R+`

@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 48605,
+  "num_followers": 48601,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADtQXTF3ZsgemsfRrnWzXWZ",
+  "snapshot_id": "aCKLgAAAAAA3V8JFrIS+aBxTbZ/pOZio",
   "tracks": [
     {
       "added_at": null,
@@ -299,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+        "name": "Roberta Flack Featuring Donny Hathaway",
+        "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 249946,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf"
+      "duration_ms": 254453,
+      "name": "You Are My Heaven (feat. Donny Hathaway)",
+      "url": "https://open.spotify.com/track/5nM4eEn2NYvJFTvoIahTLn"
     },
     {
       "added_at": null,
@@ -351,22 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta Flack Featuring Donny Hathaway",
-        "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 254453,
-      "name": "You Are My Heaven (feat. Donny Hathaway)",
-      "url": "https://open.spotify.com/track/5nM4eEn2NYvJFTvoIahTLn"
+      "duration_ms": 249946,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 238693,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0"
+      "duration_ms": 156933,
+      "name": "Some Gospel According to Matthew",
+      "url": "https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 156933,
-      "name": "Some Gospel According to Matthew",
-      "url": "https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE"
+      "duration_ms": 238693,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 436453,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
+      "duration_ms": 299693,
+      "name": "Let It Be Me",
+      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
       "artists": [
         {
@@ -544,25 +544,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 299693,
-      "name": "Let It Be Me",
-      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "When You Smile",
-      "url": "https://open.spotify.com/track/460ysTfMygkMjaes74RdU3"
+      "duration_ms": 436453,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 271640,
       "name": "Can We Find Love Again",
       "url": "https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "When You Smile",
+      "url": "https://open.spotify.com/track/460ysTfMygkMjaes74RdU3"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best of Roberta Flack",
+        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 369466,
+      "name": "Oasis - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3pgbd3xNbVNV3wExHVCIy7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 203733,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/3zlLG1ZplOevRjsoUxChrs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Very Best of Roberta Flack",
-        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 369466,
-      "name": "Oasis - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3pgbd3xNbVNV3wExHVCIy7"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm the One",
-        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm the One",
+        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 369506,
       "name": "I Told Jesus",
       "url": "https://open.spotify.com/track/7bmtqJ0psGM3x27hkyAC8E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm the One",
-        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 245706,
-      "name": "I'm the One",
-      "url": "https://open.spotify.com/track/7pYNO8ICFBgPwqRQ7hSo2Q"
     },
     {
       "added_at": null,
@@ -923,6 +907,22 @@
       "duration_ms": 266160,
       "name": "IF I'M STILL AROUND TOMORROW (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/3VjGHCdwCJGCYXuRRnQZI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 222906,
+      "name": "Conversation Love",
+      "url": "https://open.spotify.com/track/162efqDKV58JMKQgKVsGE2"
     }
   ],
   "unique_name": "This Is Roberta Flack",

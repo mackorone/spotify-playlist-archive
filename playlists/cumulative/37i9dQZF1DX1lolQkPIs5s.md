@@ -4,7 +4,7 @@
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-237 songs - 13 hr 11 min
+238 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Hakuna Matata](https://open.spotify.com/track/0B1movspGuzySM8kWSzRFJ) | [Asei \(Miki\)](https://open.spotify.com/artist/46oAndFDb4vcSrOjQQ0wp4), [Jiro Sato](https://open.spotify.com/artist/0rFx9LyQzucBrFwAfmRktc), [Toshiki Kumagai](https://open.spotify.com/artist/3hnPwFy5CROr6XAZgqm7El), [Kento Kaku](https://open.spotify.com/artist/6fciuViWGy7j9fRifmbkAE) | [The Lion King \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/3pkboIyEctoZm4KkfJUbKG) | 4:11 | 2022-12-28 | 2024-04-19 |
 | [Hakuna Matata](https://open.spotify.com/track/3MdZPVLXTCihz6fJlxzM9a) | [Asei \(Miki\)](https://open.spotify.com/artist/46oAndFDb4vcSrOjQQ0wp4), [Jiro Sato](https://open.spotify.com/artist/0rFx9LyQzucBrFwAfmRktc), [Toshiki Kumagai](https://open.spotify.com/artist/3hnPwFy5CROr6XAZgqm7El), [Kento Kaku](https://open.spotify.com/artist/6fciuViWGy7j9fRifmbkAE) | [The Lion King \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/32x9w2bUVLDS6myP2PQvI0) | 4:11 | 2024-04-18 |  |
 | [Happy Song](https://open.spotify.com/track/3CTvENkGrXC47vyQNti7J4) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [Tokyo Disneyland The Happy Ride with Baymax](https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k) | 1:35 | 2022-12-28 | 2024-08-31 |
+| [Hawaiian Roller Coaster Ride \- From "Lilo & Stitch"](https://open.spotify.com/track/4SMyFD1nz2HFIlARsP8jyK) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hawaiian Roller Coaster Ride \(From "Lilo & Stitch"\)](https://open.spotify.com/album/39qk7h3gj7wtNHSzWIDd33) | 3:29 | 2025-05-14 |  |
 | [Hawaiian Roller Coaster Ride \- From "Lilo & Stitch"](https://open.spotify.com/track/15cB9UbSZphJUSp6c8HlzY) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Stitch Best](https://open.spotify.com/album/6EDAwPF3FYiTEuy7rc7ox8) | 3:27 | 2024-04-18 |  |
 | [Hawaiian Roller Coaster Ride \- From "Lilo & Stitch"/Soundtrack Version](https://open.spotify.com/track/6lFJxmeD3Vak3nnoB9bDAi) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Disney Summer Songs , Vol\. 2](https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8) | 3:27 | 2023-07-14 | 2024-04-19 |
 | [Hawaiian Roller Coaster Ride \- From "Lilo & Stitch"/Soundtrack Version](https://open.spotify.com/track/7J2SpEpsLlEZDxi8WhS4ET) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 3:27 | 2022-12-28 | 2023-09-28 |

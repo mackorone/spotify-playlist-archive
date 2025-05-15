@@ -4,7 +4,7 @@
 
 > Wenn die Tage länger werden und die Luft wärmer \- diese Tracks begleiten dich in den Frühling.
 
-244 songs - 13 hr 45 min
+245 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 | 2024-02-09 | 2024-10-19 |
 | [Let Me Love You Like A Woman](https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:20 | 2023-07-26 | 2024-04-19 |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2024-03-01 | 2024-07-02 |
-| [letmego](https://open.spotify.com/track/5GPDuSp1iJUhzHKaLiW0Cp) | [Gina Livia](https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh), [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [letmego](https://open.spotify.com/album/3GrBUgaBa8NkC5mqdXBY1A) | 3:20 | 2025-01-10 |  |
+| [letmego](https://open.spotify.com/track/5GPDuSp1iJUhzHKaLiW0Cp) | [Gina Livia](https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh), [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [letmego](https://open.spotify.com/album/3GrBUgaBa8NkC5mqdXBY1A) | 3:20 | 2025-01-10 | 2025-05-15 |
 | [Like a Song](https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Like a Song](https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0) | 3:27 | 2024-11-14 |  |
 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 | 2024-01-19 |  |
 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 | 2024-03-15 | 2025-03-29 |
@@ -251,6 +251,7 @@
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2024-03-15 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-08-16 |  |
 | [wo bin ich](https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [wo bin ich](https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc) | 2:03 | 2024-10-07 |  |
+| [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 | 2025-04-25 |  |
 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 | 2024-07-11 |  |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

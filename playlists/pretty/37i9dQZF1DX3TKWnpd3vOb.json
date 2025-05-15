@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres.",
-  "num_followers": 191283,
+  "num_followers": 191264,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
+        "name": "Dignidad",
+        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+      },
+      "artists": [
+        {
+          "name": "La M\u00f3rbida",
+          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+        }
+      ],
+      "duration_ms": 248747,
+      "name": "Dignidad",
+      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
         "name": "Si es de morir",
         "url": "https://open.spotify.com/album/6Xgkr4wbv16obSlh6t5ne9"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 224419,
       "name": "Si es de morir",
       "url": "https://open.spotify.com/track/59SPOFYzAR2U2t0nRAkl9X"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
-        "name": "Fuiste Bueno (Remaster 2022)",
-        "url": "https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy"
-      },
-      "artists": [
-        {
-          "name": "Fother Muckers",
-          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
-        }
-      ],
-      "duration_ms": 161672,
-      "name": "Nunca Se Apaga - Remaster 2022",
-      "url": "https://open.spotify.com/track/3mAtB7B6rokuz6SGs5OXEB"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+        "name": "Fuiste Bueno (Remaster 2022)",
+        "url": "https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy"
       },
       "artists": [
         {
-          "name": "La M\u00f3rbida",
-          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+          "name": "Fother Muckers",
+          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
         }
       ],
-      "duration_ms": 248747,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+      "duration_ms": 161672,
+      "name": "Nunca Se Apaga - Remaster 2022",
+      "url": "https://open.spotify.com/track/3mAtB7B6rokuz6SGs5OXEB"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Lo Que Dicen",
-        "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
-      },
-      "artists": [
-        {
-          "name": "Los Necesarios",
-          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
-        }
-      ],
-      "duration_ms": 243566,
-      "name": "Lo Que Dicen",
-      "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
         "name": "Un D\u00eda por Concepci\u00f3n",
         "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 183484,
       "name": "Un D\u00eda por Concepci\u00f3n",
       "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Lo Que Dicen",
+        "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
+      },
+      "artists": [
+        {
+          "name": "Los Necesarios",
+          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
+        }
+      ],
+      "duration_ms": 243566,
+      "name": "Lo Que Dicen",
+      "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
+        "name": "Shawarma Love",
+        "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Shawarma Love",
+      "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
         "name": "Mujer Primavera",
         "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
       },
@@ -1191,34 +1207,18 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Shawarma Love",
-        "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
+        "name": "Hipertenso",
+        "url": "https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o"
       },
       "artists": [
         {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
         }
       ],
-      "duration_ms": 231750,
-      "name": "Shawarma Love",
-      "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
-        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
-        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 174683,
-      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
-      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
+      "duration_ms": 164256,
+      "name": "Son Puros Caballos",
+      "url": "https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1239,66 +1239,18 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Hipertenso",
-        "url": "https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o"
+        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
+        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
         }
       ],
-      "duration_ms": 164256,
-      "name": "Son Puros Caballos",
-      "url": "https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
-        "name": "Punk Para Gatitos",
-        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
-      },
-      "artists": [
-        {
-          "name": "VerDor",
-          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Mech\u00f3n",
-      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
-        "name": "Sangre y Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
-      },
-      "artists": [
-        {
-          "name": "Kutral Kai Paz",
-          "url": "https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB"
-        }
-      ],
-      "duration_ms": 228530,
-      "name": "Sangre y Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
-        "name": "Fresco y Desubicado",
-        "url": "https://open.spotify.com/album/00fGnqtt8JkQ8gVfS1LGmt"
-      },
-      "artists": [
-        {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Fresco y Desubicado",
-      "url": "https://open.spotify.com/track/1KOt3ftZDzUOzu1q9aNrfR"
+      "duration_ms": 174683,
+      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
+      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1319,6 +1271,38 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
+        "name": "Sangre y Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
+      },
+      "artists": [
+        {
+          "name": "Kutral Kai Paz",
+          "url": "https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB"
+        }
+      ],
+      "duration_ms": 228530,
+      "name": "Sangre y Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Punk Para Gatitos",
+        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
+      },
+      "artists": [
+        {
+          "name": "VerDor",
+          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Mech\u00f3n",
+      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
         "name": "Santos",
         "url": "https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 225478,
       "name": "Soldados",
       "url": "https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Fresco y Desubicado",
+        "url": "https://open.spotify.com/album/00fGnqtt8JkQ8gVfS1LGmt"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Fresco y Desubicado",
+      "url": "https://open.spotify.com/track/1KOt3ftZDzUOzu1q9aNrfR"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "PORTAL",
-        "url": "https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H"
-      },
-      "artists": [
-        {
-          "name": "Alectrofobia",
-          "url": "https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ"
-        },
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 293252,
-      "name": "Fiesta En El Barrio",
-      "url": "https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
         "name": "No Me Esperes M\u00e1s",
         "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
       },
@@ -1399,22 +1379,6 @@
       "duration_ms": 191658,
       "name": "No Me Esperes M\u00e1s",
       "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
-        "name": "Ases Falsos En El Coliseo",
-        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
-      },
-      "artists": [
-        {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
-        }
-      ],
-      "duration_ms": 243270,
-      "name": "Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1435,22 +1399,6 @@
     {
       "added_at": "2025-05-09 03:00:24",
       "album": {
-        "name": "Explorador (Remaster 2022)",
-        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
-      },
-      "artists": [
-        {
-          "name": "Fother Muckers",
-          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
-        }
-      ],
-      "duration_ms": 170536,
-      "name": "Explorador - Remaster 2022",
-      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
-    },
-    {
-      "added_at": "2025-05-09 03:00:24",
-      "album": {
         "name": "Lo Que Es Real",
         "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
       },
@@ -1463,6 +1411,42 @@
       "duration_ms": 223593,
       "name": "Lo Que Es Real",
       "url": "https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "PORTAL",
+        "url": "https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H"
+      },
+      "artists": [
+        {
+          "name": "Alectrofobia",
+          "url": "https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ"
+        },
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 293252,
+      "name": "Fiesta En El Barrio",
+      "url": "https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Explorador (Remaster 2022)",
+        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
+      },
+      "artists": [
+        {
+          "name": "Fother Muckers",
+          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
+        }
+      ],
+      "duration_ms": 170536,
+      "name": "Explorador - Remaster 2022",
+      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
     },
     {
       "added_at": "2025-05-09 03:00:24",
@@ -1495,6 +1479,22 @@
       "duration_ms": 249508,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG"
+    },
+    {
+      "added_at": "2025-05-09 03:00:24",
+      "album": {
+        "name": "Ases Falsos En El Coliseo",
+        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 243270,
+      "name": "Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
     },
     {
       "added_at": "2025-05-09 03:00:24",

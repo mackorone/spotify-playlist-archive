@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Linkin Park",
-  "num_followers": 72040,
+  "num_followers": 72049,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "How Will You Know If You Never Try",
-        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "How Will You Know If You Never Try",
+        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Lightning Bolt",
-        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 340320,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "The Suburbs (Deluxe)",
         "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 315026,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Lightning Bolt",
+        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 340320,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
         "name": "Young Chasers (Deluxe)",
         "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
       },
@@ -1383,34 +1399,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "Wonderful Wonderful",
+        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 145147,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
+      "duration_ms": 222146,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Wonderful Wonderful",
-        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 222146,
-      "name": "Run For Cover",
-      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+      "duration_ms": 145147,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "For Crying Out Loud (Deluxe)",
-        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "You're in Love with a Psycho",
-      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Battle Born",
         "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 243786,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "For Crying Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "You're in Love with a Psycho",
+      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
     },
     {
       "added_at": "2025-05-01 22:00:00",

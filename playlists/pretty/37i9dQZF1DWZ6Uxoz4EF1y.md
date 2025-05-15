@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,036 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,115 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 32 | [Merecedor de Alabanza](https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:27 |
 | 33 | [Aquella Cruz](https://open.spotify.com/track/2azhse6GOi0eFATf9uQw9g) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 5:27 |
 | 34 | [Muerte Por Vida](https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH) | [Belen Losa](https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw) | [Muerte Por Vida](https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg) | 6:08 |
-| 35 | [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 |
-| 36 | [No Temas](https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC) | [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [No Temas](https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM) | 4:03 |
+| 35 | [No Temas](https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC) | [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [No Temas](https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM) | 4:03 |
+| 36 | [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 |
 | 37 | [Mi Jesús](https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Mi Jesús](https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx) | 4:20 |
 | 38 | [Creemos](https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:48 |
 | 39 | [Mateo 17](https://open.spotify.com/track/6phOeAec12tnILyQPwNmej) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:25 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 47 | [Porque Él Vive](https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6) | [Rudy Pérez](https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv) | [Porque Él Vive](https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn) | 4:19 |
 | 48 | [Amor Imparable](https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 3:45 |
 | 49 | [El Dios Que Cambia Nombre](https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b) | [Héctor Delgado](https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [El Dios Que Cambia Nombre](https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO) | 3:39 |
-| 50 | [Vamos Pa' Arriba](https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Con el Mundo de Cabeza](https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96) | 3:19 |
+| 50 | [Su Vida Me Dio](https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth) | [Samuel Adrián](https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu) | [De Vuelta En Casa](https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S) | 4:55 |
 | 51 | [Calvario](https://open.spotify.com/track/3KyYP6N1HqfR00s9Locjzm) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [En Esto Creo](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 4:12 |
-| 52 | [Su Vida Me Dio](https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth) | [Samuel Adrián](https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu) | [De Vuelta En Casa](https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S) | 4:55 |
+| 52 | [Vamos Pa' Arriba](https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Con el Mundo de Cabeza](https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96) | 3:19 |
 | 53 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
 | 54 | [Cristo Vive En Mi](https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD) | [Neil Velez](https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO) | [Dios Es Capaz](https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP) | 5:12 |
 | 55 | [Santa Cruz](https://open.spotify.com/track/0BI34frslrnpV9sMiCXY7z) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Triduo](https://open.spotify.com/album/5waVLhuqTWfMtWJU46lmZv) | 2:39 |

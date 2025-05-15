@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(Jolin Tsai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,150 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,225 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 26 | [至少還有你](https://open.spotify.com/track/0fGM6yMJ1swPXt5NI0GCdl) | [Sandy Lam](https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro) | [林憶蓮](https://open.spotify.com/album/0ALo1FwFjm2eUm7yEYp81j) | 4:34 |
 | 27 | [晴天](https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v) | 4:29 |
 | 28 | [如果你也聽說](https://open.spotify.com/track/3mWZefa0yfuRz0KjeeVIBU) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [Star](https://open.spotify.com/album/4eMAjsUbDOkARR5MVOLwQ8) | 5:13 |
-| 29 | [為妳寫的歌](https://open.spotify.com/track/5qmtIGToI36Z9sNE7bvghH) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:17 |
-| 30 | [二十二](https://open.spotify.com/track/2X8dqN4Jd4A7vnh1GHzPk0) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [黑色柳丁](https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY) | 4:21 |
+| 29 | [二十二](https://open.spotify.com/track/2X8dqN4Jd4A7vnh1GHzPk0) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [黑色柳丁](https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY) | 4:21 |
+| 30 | [為妳寫的歌](https://open.spotify.com/track/5qmtIGToI36Z9sNE7bvghH) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:17 |
 | 31 | [情歌](https://open.spotify.com/track/5oL7vOxCz2eJKAX6G4Yluh) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [別再為他流淚](https://open.spotify.com/album/46aInqxgXj0syC9RlTghlj) | 4:20 |
 | 32 | [痴心絕對](https://open.spotify.com/track/0D0n4q2o54VTOmDJdL6ikY) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [痴心絕對](https://open.spotify.com/album/4QujlUn9OTLG4qFxMja90M) | 4:22 |
 | 33 | [心跳](https://open.spotify.com/track/740KtWw1r4f5Gd6UXzhYNp) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心跳](https://open.spotify.com/album/4q3Dp4JkTVThfMe2OiZfUx) | 4:23 |

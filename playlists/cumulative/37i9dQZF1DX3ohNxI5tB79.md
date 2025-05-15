@@ -4,12 +4,13 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-291 songs - 18 hr 44 min
+293 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 AM in Bali](https://open.spotify.com/track/5fVDAO6wDRWdC9xGSYxx3Q) | [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [12 AM in Bali](https://open.spotify.com/album/0CR6gZNeIMt8OBrD7In5AH) | 5:36 | 2021-12-13 | 2022-12-03 |
 | [A Moment](https://open.spotify.com/track/0XTt9kpYyjgYtBfeqOFea6) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [A Moment](https://open.spotify.com/album/2ZFQN6NQUWJdr2GbffQUmy) | 3:46 | 2024-12-20 |  |
+| [A Moment](https://open.spotify.com/track/1v6UuMrgMISMcmLGg3IG7m) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Golden Retrieve Her](https://open.spotify.com/album/5gHgxycuCf1hG5sUXRTMxd) | 3:46 | 2025-05-14 |  |
 | [A Place I Don't Know](https://open.spotify.com/track/5jvlfSy4d1B6hBpuanSOKb) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [True Love's Flame](https://open.spotify.com/album/5CjuwbmkjrsQDeSebUMJVT) | 2:32 | 2024-04-11 | 2025-02-11 |
 | [A Place I Don’t Know](https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [True Love's Flame](https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI) | 2:32 | 2022-12-02 | 2024-04-19 |
 | [A Storm On A Summers Day](https://open.spotify.com/track/37jMCyGpHpwvv8ePVReFGl) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Still Growing](https://open.spotify.com/album/4yNBRf4JRiowAEoyhrxSQ0) | 2:58 | 2021-12-13 | 2024-02-24 |
@@ -137,7 +138,7 @@
 | [LIA](https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/0Om8IQImnBm0g7SGKMfn3m) | 3:38 | 2021-12-13 | 2024-09-21 |
 | [LIA](https://open.spotify.com/track/76F5aEqRgxaUE34JX3g78g) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/34cWIUEnueKa9rQcXsXF4Q) | 3:38 | 2022-07-05 | 2022-12-09 |
 | [LIA](https://open.spotify.com/track/79yUKmyrDvi1QFVaqo9DIL) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/21Dh5zHvadr9S2b31QR2ok) | 3:38 | 2022-12-05 | 2024-04-19 |
-| [Light Blue for the Common Good](https://open.spotify.com/track/6mSixe8RKZ3rKOvYMxlMxz) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Light Blue for the Common Good](https://open.spotify.com/album/3OqbmJ15UcOpFoq9eU70nD) | 7:00 | 2023-10-03 |  |
+| [Light Blue for the Common Good](https://open.spotify.com/track/6mSixe8RKZ3rKOvYMxlMxz) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Light Blue for the Common Good](https://open.spotify.com/album/3OqbmJ15UcOpFoq9eU70nD) | 7:00 | 2023-10-03 | 2025-05-15 |
 | [Lights Out](https://open.spotify.com/track/4wRaWtogW3IXgNBrL2jqZ8) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Find Your Flame](https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL) | 4:01 | 2025-02-10 |  |
 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 | 2021-12-13 | 2024-02-24 |
 | [Lorelei](https://open.spotify.com/track/0ZmzyGzZwofhjqNRPr9bLj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Lorelei](https://open.spotify.com/album/2Xs0Q5Wg7g2zidwzo9Q2Ez) | 4:24 | 2025-01-10 |  |
@@ -164,7 +165,7 @@
 | [Moonlight](https://open.spotify.com/track/3vuAHs82oPXgDYdQIDEciw) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Anthology](https://open.spotify.com/album/1Mxrx2PfSMBxZ8X5MakZCO) | 3:46 | 2022-09-30 | 2025-03-08 |
 | [Moonlove](https://open.spotify.com/track/4tEOo7B5elipkDbdQ59JOp) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Moonlove](https://open.spotify.com/album/3R5O4b6IHNBHfmz4QW2pN3) | 3:55 | 2021-12-13 | 2022-12-06 |
 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 | 2022-07-05 | 2024-04-19 |
-| [Morning Matters](https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk) | 4:06 | 2022-07-05 |  |
+| [Morning Matters](https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk) | 4:06 | 2022-07-05 | 2025-05-15 |
 | [Most Frail](https://open.spotify.com/track/7BFQCo02VhtA6XsGlBt4xF) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Most Frail](https://open.spotify.com/album/0Ie3jkL5fph5PNjnhl1UR4) | 3:31 | 2022-09-30 | 2024-11-15 |
 | [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 | 2023-03-21 | 2025-03-08 |
 | [My Home](https://open.spotify.com/track/5IBOIoEsmORmCHhHUJa5qr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [coin collection](https://open.spotify.com/album/0x5PxA5MaxH53b2eK8wGVp) | 3:50 | 2023-03-21 | 2025-03-08 |
@@ -193,6 +194,7 @@
 | [Pure Gold](https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Pure Gold](https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS) | 2:49 | 2022-04-28 | 2025-01-11 |
 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-09-20 |  |
 | [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 | 2024-06-28 |  |
+| [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-05-14 |  |
 | [Ringing With Love](https://open.spotify.com/track/2CcosXxDkanGpGMCjX3UeZ) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Maddy Moreah](https://open.spotify.com/artist/0ITnYfCgaZPWFXJ2Yir6gY), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Ringing With Love](https://open.spotify.com/album/3yAEUE3qdYhA2qqoA1GULk) | 3:10 | 2025-02-10 |  |
 | [Rise](https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Rise](https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf) | 3:03 | 2024-08-02 |  |
 | [Rita Is Gone](https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Marcus King Band](https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO) | 4:25 | 2022-12-05 | 2024-04-19 |

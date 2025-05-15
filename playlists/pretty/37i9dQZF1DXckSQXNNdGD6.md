@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: María Peláe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,323 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,338 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 46 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
 | 47 | [Me Quedaré](https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Spawnpoint](https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit) | 3:20 |
 | 48 | [Reset](https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Reset](https://open.spotify.com/album/0Nsp1WVHr59vBYZvns3l8s) | 2:57 |
-| 49 | [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 |
+| 49 | [ARTIFICIAL REMIX](https://open.spotify.com/track/3jsN5AUIThFnZ6V30i8SAz) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO), [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92) | [ARTIFICIAL REMIX](https://open.spotify.com/album/3dA76HYyggLlh71ASxDhbW) | 2:49 |
 | 50 | [Nublado](https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Nublado](https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF) | 2:48 |
 
 Snapshot ID: `aBqGhgAAAABhGF/tKBudaZWzwc6UzQou`

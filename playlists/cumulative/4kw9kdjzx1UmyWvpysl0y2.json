@@ -2649,6 +2649,32 @@
     },
     {
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/4HMiG31eRc9Tj8iNYOG1A0"
+      },
+      "artists": [
+        {
+          "name": "Paper Skies",
+          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        },
+        {
+          "name": "Janet Tung",
+          "url": "https://open.spotify.com/artist/5GlnTa5AGHo9hhKuon69KB"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219633,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/0OyH2wwpCKZRKkSdxqCAef"
+    },
+    {
+      "album": {
         "name": "by myself",
         "url": "https://open.spotify.com/album/0PvhONM5R6IeP0dPf7ocBV"
       },

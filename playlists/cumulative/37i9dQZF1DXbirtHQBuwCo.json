@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Mitty)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: BIBI(\ube44\ube44))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -1116,6 +1116,24 @@
       "duration_ms": 156560,
       "name": "ANYWHERE ANYTIME",
       "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "album": {
+        "name": "EVE: ROMANCE",
+        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176735,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/53bnkcyDpei0ZlC30au1t7"
     },
     {
       "album": {
@@ -5660,7 +5678,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
@@ -7076,7 +7094,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 170645,
       "name": "i'm too lazy to care.",
       "url": "https://open.spotify.com/track/6l5gWtbwxkXkPOD5TVtZnp"
@@ -7138,7 +7156,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 215471,
       "name": "If You Were The Rain",
       "url": "https://open.spotify.com/track/3pOis9ELzIrpgNsU11fBwf"
@@ -11718,7 +11736,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 165589,
       "name": "POV",
       "url": "https://open.spotify.com/track/6FWq2bYylayWao7hUzT4zc"
@@ -12448,7 +12466,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
@@ -12470,6 +12488,24 @@
       "duration_ms": 128750,
       "name": "Scent",
       "url": "https://open.spotify.com/track/1neROuQxafANebAEXLRFWf"
+    },
+    {
+      "album": {
+        "name": "EVE: ROMANCE",
+        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Scott and Zelda",
+      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
     },
     {
       "album": {
@@ -13662,7 +13698,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 182320,
       "name": "Stuffy Driver",
       "url": "https://open.spotify.com/track/3ecSR7l6y3cl3ZqQF5HcnC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,508 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,549 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 6 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 |
 | 7 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 |
 | 8 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 |
-| 9 | [Hipsippy Blues](https://open.spotify.com/track/3iFlfQ0CXc9URaAvai8VUe) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Just Coolin'](https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK) | 6:40 |
-| 10 | [Nice And Easy \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 4:19 |
+| 9 | [Nice And Easy \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 4:19 |
+| 10 | [Hipsippy Blues](https://open.spotify.com/track/3iFlfQ0CXc9URaAvai8VUe) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Just Coolin'](https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK) | 6:40 |
 | 11 | [True Blue](https://open.spotify.com/track/1s1UN3QMJGyhXQAuMqNcbK) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [True Blue](https://open.spotify.com/album/2E4Zyg78Slt7IyJhIbYbtW) | 4:57 |
 | 12 | [My Groove Your Move \- Rudy Van Gelder Edition](https://open.spotify.com/track/5wcAcShxT5qvLJvuM6jkZt) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:07 |
 | 13 | [Blue Friday \- Rudy Van Gelder Remaster](https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn) | 8:44 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 59 | [Blues Blue](https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 7:18 |
 | 60 | [East Of The Village \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 6:44 |
 | 61 | [Midtown Blues](https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 12:09 |
-| 62 | [Blues March](https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Benny Golson And The Philadelphians](https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h) | 4:05 |
-| 63 | [Main Spring \- 2006 Digital Remaster](https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:31 |
+| 62 | [Main Spring \- 2006 Digital Remaster](https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:31 |
+| 63 | [Blues March](https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Benny Golson And The Philadelphians](https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h) | 4:05 |
 | 64 | [Dippin' In The Bag](https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 3:59 |
 | 65 | [Back Road \- Rudy Van Gelder, 2000 Remaster](https://open.spotify.com/track/6ZjpsZ5mmMmM7rMqK4nOLz) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Our Thing](https://open.spotify.com/album/6NMyU9AYokycLD4cY2BzGd) | 6:19 |
 | 66 | [Blues For Skeeter \- Remastered 2000](https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Introducing Kenny Burrell: The First Blue Note Sessions](https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ) | 8:08 |

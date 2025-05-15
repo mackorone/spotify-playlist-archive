@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Karly B en portada.",
-  "num_followers": 118783,
+  "num_followers": 118800,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
-        "name": "Antes de Ti",
-        "url": "https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 214552,
-      "name": "Antes de Ti",
-      "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
-    },
-    {
-      "added_at": "2025-04-04 06:00:23",
-      "album": {
         "name": "Gente Gacha",
         "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
       },
@@ -919,22 +903,34 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
-        "name": "Las Morras",
-        "url": "https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw"
+        "name": "Antes de Ti",
+        "url": "https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5"
       },
       "artists": [
         {
-          "name": "Domenica",
-          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
-        },
-        {
-          "name": "Angelina Victoria",
-          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
         }
       ],
-      "duration_ms": 197245,
-      "name": "Las Morras",
-      "url": "https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa"
+      "duration_ms": 214552,
+      "name": "Antes de Ti",
+      "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
+    },
+    {
+      "added_at": "2025-04-04 06:00:23",
+      "album": {
+        "name": "Si Dej\u00f3 de Quererte",
+        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 200864,
+      "name": "Si Dej\u00f3 de Quererte",
+      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
     },
     {
       "added_at": "2025-04-04 06:00:23",
@@ -971,6 +967,26 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw"
+      },
+      "artists": [
+        {
+          "name": "Domenica",
+          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
+        },
+        {
+          "name": "Angelina Victoria",
+          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
+        }
+      ],
+      "duration_ms": 197245,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa"
+    },
+    {
+      "added_at": "2025-04-04 06:00:23",
+      "album": {
         "name": "La Loca",
         "url": "https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 227160,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD"
-    },
-    {
-      "added_at": "2025-04-04 06:00:23",
-      "album": {
-        "name": "Si Dej\u00f3 de Quererte",
-        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 200864,
-      "name": "Si Dej\u00f3 de Quererte",
-      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
     },
     {
       "added_at": "2025-04-04 06:00:23",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
-        "name": "Pa\u2019Delante",
-        "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "J\u00f3dete",
-      "url": "https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2"
-    },
-    {
-      "added_at": "2025-04-04 06:00:23",
-      "album": {
         "name": "Donde Todo Comenzo",
         "url": "https://open.spotify.com/album/3AvSFdVFojl9hmt7xxC7LH"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 163989,
       "name": "PLH (Pa' los Haters)",
       "url": "https://open.spotify.com/track/0ehk27kRaKKfbYqJSq21rG"
+    },
+    {
+      "added_at": "2025-04-04 06:00:23",
+      "album": {
+        "name": "Pa\u2019Delante",
+        "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "J\u00f3dete",
+      "url": "https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2"
     },
     {
       "added_at": "2025-04-04 06:00:23",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
-        "name": "Graciela Beltran 14 Super Exitos",
-        "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
-      },
-      "artists": [
-        {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
-        }
-      ],
-      "duration_ms": 186245,
-      "name": "Estan Lloviendo Lagrimas",
-      "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
-    },
-    {
-      "added_at": "2025-04-04 06:00:23",
-      "album": {
         "name": "Donde Todo Comenzo",
         "url": "https://open.spotify.com/album/3AvSFdVFojl9hmt7xxC7LH"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 201034,
       "name": "Que Te Perdone Dios",
       "url": "https://open.spotify.com/track/5XR8Sg8xX269DA3yhmPXqB"
+    },
+    {
+      "added_at": "2025-04-04 06:00:23",
+      "album": {
+        "name": "Graciela Beltran 14 Super Exitos",
+        "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
+      },
+      "artists": [
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "duration_ms": 186245,
+      "name": "Estan Lloviendo Lagrimas",
+      "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
     },
     {
       "added_at": "2025-04-04 06:00:23",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
-        "name": "No que no",
-        "url": "https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 189964,
-      "name": "No que no",
-      "url": "https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP"
-    },
-    {
-      "added_at": "2025-04-04 06:00:23",
-      "album": {
         "name": "La Fama de una Dama",
         "url": "https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 168317,
       "name": "La Fama de una Dama",
       "url": "https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8"
+    },
+    {
+      "added_at": "2025-04-04 06:00:23",
+      "album": {
+        "name": "No que no",
+        "url": "https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 189964,
+      "name": "No que no",
+      "url": "https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP"
     },
     {
       "added_at": "2025-04-04 06:00:23",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
-        "name": "NAC\u00cd PA CORONAR",
-        "url": "https://open.spotify.com/album/4nxAttMtUUuAcdmipG544Q"
-      },
-      "artists": [
-        {
-          "name": "Sofi Pi\u00f1an",
-          "url": "https://open.spotify.com/artist/1EsfYkUgGUHynHwA6j4dMH"
-        }
-      ],
-      "duration_ms": 184006,
-      "name": "NAC\u00cd PA CORONAR",
-      "url": "https://open.spotify.com/track/04KdeYUniYsBPDibppKl3Q"
-    },
-    {
-      "added_at": "2025-04-04 06:00:23",
-      "album": {
         "name": "Volver\u00e9 A Amar",
         "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 240680,
       "name": "Volver\u00e9 A Amar",
       "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
+    },
+    {
+      "added_at": "2025-04-04 06:00:23",
+      "album": {
+        "name": "NAC\u00cd PA CORONAR",
+        "url": "https://open.spotify.com/album/4nxAttMtUUuAcdmipG544Q"
+      },
+      "artists": [
+        {
+          "name": "Sofi Pi\u00f1an",
+          "url": "https://open.spotify.com/artist/1EsfYkUgGUHynHwA6j4dMH"
+        }
+      ],
+      "duration_ms": 184006,
+      "name": "NAC\u00cd PA CORONAR",
+      "url": "https://open.spotify.com/track/04KdeYUniYsBPDibppKl3Q"
     },
     {
       "added_at": "2025-04-04 06:00:23",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
-        "name": "Gallo Drito",
-        "url": "https://open.spotify.com/album/39Zd2MlG6kknHO8zlCr5B4"
-      },
-      "artists": [
-        {
-          "name": "Majo Cornejo",
-          "url": "https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn"
-        }
-      ],
-      "duration_ms": 137255,
-      "name": "Gallo Drito",
-      "url": "https://open.spotify.com/track/5WmESBP1N8vn0cYHnEpU3i"
-    },
-    {
-      "added_at": "2025-04-04 06:00:23",
-      "album": {
         "name": "Me Llamaron Asesina",
         "url": "https://open.spotify.com/album/728sapsjppB98wPX2yckAC"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 185653,
       "name": "Me Llamaron Asesina",
       "url": "https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi"
+    },
+    {
+      "added_at": "2025-04-04 06:00:23",
+      "album": {
+        "name": "Gallo Drito",
+        "url": "https://open.spotify.com/album/39Zd2MlG6kknHO8zlCr5B4"
+      },
+      "artists": [
+        {
+          "name": "Majo Cornejo",
+          "url": "https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn"
+        }
+      ],
+      "duration_ms": 137255,
+      "name": "Gallo Drito",
+      "url": "https://open.spotify.com/track/5WmESBP1N8vn0cYHnEpU3i"
     },
     {
       "added_at": "2025-04-04 06:00:23",

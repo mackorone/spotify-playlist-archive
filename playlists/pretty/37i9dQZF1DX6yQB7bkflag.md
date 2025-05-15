@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Rossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,234 likes - 148 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,233 likes - 148 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

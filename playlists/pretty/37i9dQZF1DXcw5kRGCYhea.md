@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,231 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,241 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Triple V](https://open.spotify.com/track/6e1T28Wkr7r8xciTXcwhKJ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:13 |
 | 2 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
 | 3 | [ALBATROS](https://open.spotify.com/track/3nrzylrxjpRueVGBBpXhZT) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 3:18 |
-| 4 | [Lover Boy \(feat\. Tayc & Dadju\)](https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:08 |
-| 5 | [WALLAHI](https://open.spotify.com/track/7roF6lN1KH6tLq0AelG74t) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/2l7QacmzidqEGvYq0lu4v9) | 2:32 |
-| 6 | [2, 3 shots](https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [2, 3 shots](https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh) | 2:33 |
-| 7 | [Story](https://open.spotify.com/track/4GlUBqfPOLCPirtduhOkwz) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Story](https://open.spotify.com/album/2IgwHozPjSJEPYzqs2vTS8) | 3:06 |
-| 8 | [À tes côtés](https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [À tes côtés](https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1) | 2:37 |
+| 4 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
+| 5 | [Lover Boy \(feat\. Tayc & Dadju\)](https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:08 |
+| 6 | [WALLAHI](https://open.spotify.com/track/7roF6lN1KH6tLq0AelG74t) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/2l7QacmzidqEGvYq0lu4v9) | 2:32 |
+| 7 | [2, 3 shots](https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [2, 3 shots](https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh) | 2:33 |
+| 8 | [Story](https://open.spotify.com/track/4GlUBqfPOLCPirtduhOkwz) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Story](https://open.spotify.com/album/2IgwHozPjSJEPYzqs2vTS8) | 3:06 |
 | 9 | [CARRÉ OK](https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CARRÉ OK](https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw) | 2:40 |
 | 10 | [ETAT](https://open.spotify.com/track/6wMXaJAZQMv9PUKyn62cWe) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [BALA W FAS](https://open.spotify.com/album/2QIh9VO7NiTo2BCqFnl9qa) | 3:35 |
 | 11 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 39 | [Oh qu'elle est belle](https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:40 |
 | 40 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 |
 
-Snapshot ID: `aAqhBgAAAACqqb30rJQP2s6EjPo3Jbsv`
+Snapshot ID: `aCQ+HQAAAAATgyEUUSF6f35pLyLI5tQ5`

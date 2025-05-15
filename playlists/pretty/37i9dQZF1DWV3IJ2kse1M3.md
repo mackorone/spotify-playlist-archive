@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。我還是放不下你 真的可惜 我在也無能為力 繼續愛你。
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,372 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,374 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 29 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
 | 30 | [最後一堂課 \- 《媽，別鬧了！》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽，別鬧了！》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 |
 | 31 | [像魚](https://open.spotify.com/track/1MRRjWwqBUyoD9dC11sZ4S) | [王貳浪](https://open.spotify.com/artist/6jNRSV0cd0kL5Tfz6JPxZA) | [像魚](https://open.spotify.com/album/6Bnxko0NpYp7NOUt3YIk6v) | 4:45 |
-| 32 | [愛存在](https://open.spotify.com/track/20eQ3szxVA3Ulq9Mgvu3yM) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [終極X宿舍 \(電視原聲帶\)](https://open.spotify.com/album/2a5CoKCwgX3PStnMOnyJle) | 4:19 |
-| 33 | [記得](https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp), [Jerry Lin](https://open.spotify.com/artist/1XmumGa6Cu6YPXpPFkLNMm) | [真實](https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw) | 4:46 |
+| 32 | [記得](https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp), [Jerry Lin](https://open.spotify.com/artist/1XmumGa6Cu6YPXpPFkLNMm) | [真實](https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw) | 4:46 |
+| 33 | [愛存在](https://open.spotify.com/track/20eQ3szxVA3Ulq9Mgvu3yM) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [終極X宿舍 \(電視原聲帶\)](https://open.spotify.com/album/2a5CoKCwgX3PStnMOnyJle) | 4:19 |
 | 34 | [拿走了什麼](https://open.spotify.com/track/7gXiPiffMrqPe3Q1vzD6uM) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [罪惡感](https://open.spotify.com/album/7MRgaADR9IFjG9NgdEkarv) | 4:56 |
 | 35 | [地球上最浪漫的一首歌](https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO) | [Alien Huang](https://open.spotify.com/artist/4kVy1sDTGmCWzxmzY6soNZ) | [愛&英雄 LOVE HERO](https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U) | 4:41 |
 | 36 | [我愛的人](https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [抱一抱](https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg) | 4:26 |

@@ -4,7 +4,7 @@
 
 > The Hottest Arabic Music.<br/>Cover: Saint Levant
 
-419 songs - 1 day 1 hr 18 min
+421 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [ARABI](https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [ARABI](https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P) | 2:47 | 2024-05-01 | 2024-05-08 |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-10-04 | 2023-06-02 |
 | [Asheq Majnoon](https://open.spotify.com/track/5orvt7dTDRMeAnP0xw5GEV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Asheq Majnoon](https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc) | 3:41 | 2023-05-24 | 2024-08-08 |
+| [Asli Ana](https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [7arrir 3aqlak / Asli Ana](https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME) | 2:51 | 2025-05-14 |  |
 | [Awl Mara](https://open.spotify.com/track/2EGX48NpiPOYswzI7srylN) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Awl Mara](https://open.spotify.com/album/4c4nUlrFDII4QZMq8Qw0vl) | 4:04 | 2024-11-29 |  |
 | [Ba'ad Gheyabo](https://open.spotify.com/track/2pO1mQeV6Sd9Y20HYVJYYr) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ba'ad Gheyabo](https://open.spotify.com/album/0OpsjTdA2truxxmYDDWR24) | 4:02 | 2022-01-24 | 2022-12-27 |
 | [Ba3tzrlek](https://open.spotify.com/track/4pnApCJBljUP7YQdCxGEbI) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ba3tzrlek](https://open.spotify.com/album/4JDSRQMIQdhad4iatxB5bU) | 4:09 | 2024-01-27 | 2024-02-23 |
@@ -311,6 +312,7 @@
 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 | 2023-01-05 | 2024-01-05 |
 | [Ya Aasal](https://open.spotify.com/track/2qIYndgPCXthIaBjnVv7Dr) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Aasal](https://open.spotify.com/album/1Gq60ipemX1b0qAe69Jed3) | 3:30 | 2021-12-12 | 2022-07-28 |
 | [Ya Ana Ya La](https://open.spotify.com/track/4eL7MpDmxh1TKqmsOFG7zE) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ya Ana Ya La](https://open.spotify.com/album/2Q4vOLpl50g6eIC4sZ9cId) | 3:51 | 2024-11-29 |  |
+| [YA BABA](https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [YA BABA](https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK) | 2:48 | 2025-05-14 |  |
 | [Ya Denya](https://open.spotify.com/track/16whsA6oQEJDzjKWa4hept) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ya Denya](https://open.spotify.com/album/2gS3rvgJD2djvs01xHCVAQ) | 4:12 | 2021-12-12 | 2022-09-19 |
 | [Ya Hasra](https://open.spotify.com/track/46w0RuHSg4LYbMh1JjJU8j) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Hasra](https://open.spotify.com/album/0lHDyY2aMHz4WQrjFSpb20) | 5:40 | 2021-12-12 | 2023-02-10 |
 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2022-02-07 | 2022-11-02 |

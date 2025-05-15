@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 星街すいせい Hoshimachi Suisei
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,823 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,844 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 26 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
 | 27 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
 | 28 | [幸せな約束。](https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [軌跡](https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt) | 3:49 |
-| 29 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
+| 29 | [夜に咲く](https://open.spotify.com/track/3D6nPXAtujzuhqDIE9B9Jo) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [夜に咲く](https://open.spotify.com/album/4pEOUdsqzor9LDUWcoq5N8) | 3:00 |
 | 30 | [大大大好き](https://open.spotify.com/track/2eq0kwPODclmLGD1T5bFXm) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [TIME](https://open.spotify.com/album/4eBYJ8QITLHFJVVjgvDIeN) | 3:01 |
 | 31 | [Versailles \- ベルサイユ \-](https://open.spotify.com/track/4AiuIRUfYBZNc1TBMsZ6pz) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Versailles \- ベルサイユ \-](https://open.spotify.com/album/7FnCOyGrE9Oe8hfWuRPi2U) | 4:05 |
 | 32 | [Explosive Heart](https://open.spotify.com/track/1HwvFg9Jd8rToi9q16jG9o) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Explosive Heart](https://open.spotify.com/album/3cE1YEVscxHhIap042HAI2) | 3:30 |
-| 33 | [夜に咲く](https://open.spotify.com/track/3D6nPXAtujzuhqDIE9B9Jo) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [夜に咲く](https://open.spotify.com/album/4pEOUdsqzor9LDUWcoq5N8) | 3:00 |
+| 33 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
 | 34 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 |
 | 35 | [サマータイムゴースト](https://open.spotify.com/track/13RKaJCGLEPNoAcWn4j42R) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [サマータイムゴースト](https://open.spotify.com/album/7jEn46nEzzuVcfbiJ2Kd4h) | 3:09 |
 | 36 | [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 |

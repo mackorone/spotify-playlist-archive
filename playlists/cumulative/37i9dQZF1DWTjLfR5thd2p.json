@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Carried Away",
+        "url": "https://open.spotify.com/album/2CbSr0PzBU4Yps8XWb8hGB"
+      },
+      "artists": [
+        {
+          "name": "Nadav Kohen",
+          "url": "https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/6osYVNKzPnVM3k7y2SasZT"
+    },
+    {
+      "album": {
         "name": "Ce jour l\u00e0",
         "url": "https://open.spotify.com/album/2XPO10I96fugOchMhRpqxW"
       },
@@ -4218,7 +4236,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 123124,
       "name": "On a summer midnight",
       "url": "https://open.spotify.com/track/68jz5jlpsxs5cL48wGIgqC"
@@ -6052,7 +6070,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 147750,
       "name": "Sunup",
       "url": "https://open.spotify.com/track/7feFO6uitFmAopVYwhNnK1"
@@ -6398,6 +6416,24 @@
       "duration_ms": 108750,
       "name": "The Kimberley",
       "url": "https://open.spotify.com/track/3cZPbtGWtcv4DnsCwgTuUD"
+    },
+    {
+      "album": {
+        "name": "The light is there",
+        "url": "https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2"
+      },
+      "artists": [
+        {
+          "name": "Eve St. Claire",
+          "url": "https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123724,
+      "name": "The light is there",
+      "url": "https://open.spotify.com/track/1aHkqLrb44WJtIxXxz93qp"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 423788,
+  "num_followers": 423828,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Forest Floor",
-        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
-      },
-      "artists": [
-        {
-          "name": "Fergus McCreadie",
-          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Glade",
-      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "Pure Imagination",
         "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
+        "name": "Forest Floor",
+        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Glade",
+      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
         "name": "These Foolish Things",
         "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
       },
@@ -491,6 +491,34 @@
       "duration_ms": 341695,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "Massimo Fara\u00f2 Plays the Great Jazz American Composers - George Gershwin, Vol. 3",
+        "url": "https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Davide Palladin",
+          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
+        },
+        {
+          "name": "Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        }
+      ],
+      "duration_ms": 268081,
+      "name": "Bess Is My Woman Now",
+      "url": "https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -523,34 +551,6 @@
       "duration_ms": 274802,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "Massimo Fara\u00f2 Plays the Great Jazz American Composers - George Gershwin, Vol. 3",
-        "url": "https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Davide Palladin",
-          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
-        },
-        {
-          "name": "Bobo Facchinetti",
-          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
-        },
-        {
-          "name": "Nicola Barbon",
-          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
-        }
-      ],
-      "duration_ms": 268081,
-      "name": "Bess Is My Woman Now",
-      "url": "https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "Where We Belong",
         "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 171397,
       "name": "Solace",
       "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "Came and Went",
-        "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
-      },
-      "artists": [
-        {
-          "name": "Geoffrey Dean",
-          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
-        }
-      ],
-      "duration_ms": 335196,
-      "name": "Came and Went",
-      "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -891,6 +875,22 @@
       "duration_ms": 353280,
       "name": "Will You Still Be Mine?",
       "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "Came and Went",
+        "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey Dean",
+          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
+        }
+      ],
+      "duration_ms": 335196,
+      "name": "Came and Went",
+      "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -992,7 +992,7 @@
       "added_at": "2025-03-21 13:49:22",
       "album": {
         "name": "Going Up",
-        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
       },
       "artists": [
         {
@@ -1004,25 +1004,9 @@
           "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
         }
       ],
-      "duration_ms": 275200,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
-      },
-      "artists": [
-        {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+      "duration_ms": 280011,
+      "name": "Blues Arabesque",
+      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -1043,34 +1027,18 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Lonely Nights",
-        "url": "https://open.spotify.com/album/6ISlh3JpauVe5p08WbUqvB"
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
       },
       "artists": [
         {
-          "name": "Jumaane Smith",
-          "url": "https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8"
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
         }
       ],
-      "duration_ms": 279520,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/4m7MH411WVmBWq0bagAuTC"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "In the Wee Small Hours of the Morning",
-        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -1103,6 +1071,38 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
+        "name": "In the Wee Small Hours of the Morning",
+        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "Lonely Nights",
+        "url": "https://open.spotify.com/album/6ISlh3JpauVe5p08WbUqvB"
+      },
+      "artists": [
+        {
+          "name": "Jumaane Smith",
+          "url": "https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8"
+        }
+      ],
+      "duration_ms": 279520,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/4m7MH411WVmBWq0bagAuTC"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
       },
@@ -1120,7 +1120,7 @@
       "added_at": "2025-03-21 13:49:22",
       "album": {
         "name": "Going Up",
-        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
+        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
       "artists": [
         {
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
         }
       ],
-      "duration_ms": 280011,
-      "name": "Blues Arabesque",
-      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
+      "duration_ms": 275200,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
         "name": "The Rumor",
         "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
       },
@@ -1367,6 +1367,26 @@
       "duration_ms": 270613,
       "name": "The Rumor",
       "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
+        "name": "Voor Jou Yvonne",
+        "url": "https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt"
+      },
+      "artists": [
+        {
+          "name": "Bill Weeds",
+          "url": "https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 461190,
+      "name": "Voor Jou Yvonne",
+      "url": "https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -1391,26 +1411,6 @@
       "duration_ms": 359982,
       "name": "Theo",
       "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "Voor Jou Yvonne",
-        "url": "https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt"
-      },
-      "artists": [
-        {
-          "name": "Bill Weeds",
-          "url": "https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h"
-        },
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 461190,
-      "name": "Voor Jou Yvonne",
-      "url": "https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
+        "name": "Emberlights",
+        "url": "https://open.spotify.com/album/0quelIpXHaSLQ86IMJ0WOi"
+      },
+      "artists": [
+        {
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+        }
+      ],
+      "duration_ms": 288059,
+      "name": "Dreamsville",
+      "url": "https://open.spotify.com/track/6h0XWn2JOHv0FDSgKQhUXk"
+    },
+    {
+      "added_at": "2025-03-21 13:49:22",
+      "album": {
         "name": "Diane / Estemporaneo",
         "url": "https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA"
       },
@@ -1539,18 +1555,26 @@
     {
       "added_at": "2025-03-21 13:49:22",
       "album": {
-        "name": "Emberlights",
-        "url": "https://open.spotify.com/album/0quelIpXHaSLQ86IMJ0WOi"
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
       },
       "artists": [
         {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
         }
       ],
-      "duration_ms": 288059,
-      "name": "Dreamsville",
-      "url": "https://open.spotify.com/track/6h0XWn2JOHv0FDSgKQhUXk"
+      "duration_ms": 301783,
+      "name": "June 2nd",
+      "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
     },
     {
       "added_at": "2025-03-21 13:49:22",
@@ -1579,30 +1603,6 @@
       "duration_ms": 270339,
       "name": "Smoke Rings",
       "url": "https://open.spotify.com/track/68Bi9EUUa5jNvpD5sEwGOT"
-    },
-    {
-      "added_at": "2025-03-21 13:49:22",
-      "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 301783,
-      "name": "June 2nd",
-      "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
     },
     {
       "added_at": "2025-03-21 13:49:22",

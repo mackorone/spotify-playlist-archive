@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Juan Baro.",
-  "num_followers": 20086,
+  "num_followers": 20085,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,26 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
+        "name": "Romance Con la Luna (Remix)",
+        "url": "https://open.spotify.com/album/5h7e39sPEoBLYwE6lsD1Of"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 230646,
+      "name": "Romance Con la Luna - Remix",
+      "url": "https://open.spotify.com/track/5eBMtd2aLti1fdIHhn7EOp"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
         "name": "Sol (Barretso Remix)",
         "url": "https://open.spotify.com/album/1RBrkPxbhTkJZzd68r2bv8"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 237142,
       "name": "Sol - Barretso Remix",
       "url": "https://open.spotify.com/track/6jdR9NTwm96XtZa3apPB63"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "Romance Con la Luna (Remix)",
-        "url": "https://open.spotify.com/album/5h7e39sPEoBLYwE6lsD1Of"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        },
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 230646,
-      "name": "Romance Con la Luna - Remix",
-      "url": "https://open.spotify.com/track/5eBMtd2aLti1fdIHhn7EOp"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "fotos\u00edntesis",
-        "url": "https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB"
-      },
-      "artists": [
-        {
-          "name": "los romances",
-          "url": "https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J"
-        },
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "fotos\u00edntesis",
-      "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
         "name": "Bocado a Bocado",
         "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
       },
@@ -1807,6 +1787,22 @@
       "duration_ms": 190577,
       "name": "Bocado a Bocado",
       "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/2Z7yV50aIX5Le0GkIIgG1p"
+      },
+      "artists": [
+        {
+          "name": "BADS",
+          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
+        }
+      ],
+      "duration_ms": 164513,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/4ZiVOGjyELTx3DaUl4wvb2"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1835,6 +1831,26 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
+        "name": "fotos\u00edntesis",
+        "url": "https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB"
+      },
+      "artists": [
+        {
+          "name": "los romances",
+          "url": "https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J"
+        },
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "fotos\u00edntesis",
+      "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
         "name": "El Brillo de la Despedida",
         "url": "https://open.spotify.com/album/35SfNlc9iaT1peK9G5n6TY"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 135000,
       "name": "Isla",
       "url": "https://open.spotify.com/track/0X5dDpPKkh8DfUUkKlWnfa"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/2Z7yV50aIX5Le0GkIIgG1p"
-      },
-      "artists": [
-        {
-          "name": "BADS",
-          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
-        }
-      ],
-      "duration_ms": 164513,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/4ZiVOGjyELTx3DaUl4wvb2"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Amor (Remix)",
-        "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
+        "name": "Vitamina",
+        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
       },
       "artists": [
         {
-          "name": "Kush Mama",
-          "url": "https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ"
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
         }
       ],
-      "duration_ms": 306500,
-      "name": "Amor - Remix",
-      "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
+      "duration_ms": 249000,
+      "name": "Vitamina",
+      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1915,34 +1915,18 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Vitamina",
-        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
+        "name": "Amor (Remix)",
+        "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
       },
       "artists": [
         {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+          "name": "Kush Mama",
+          "url": "https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Vitamina",
-      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "Shima",
-        "url": "https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl"
-      },
-      "artists": [
-        {
-          "name": "Gimena Alvarez Cela",
-          "url": "https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5"
-        }
-      ],
-      "duration_ms": 188775,
-      "name": "La madrina",
-      "url": "https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2"
+      "duration_ms": 306500,
+      "name": "Amor - Remix",
+      "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -1959,6 +1943,22 @@
       "duration_ms": 190742,
       "name": "dionysian",
       "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "Shima",
+        "url": "https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl"
+      },
+      "artists": [
+        {
+          "name": "Gimena Alvarez Cela",
+          "url": "https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5"
+        }
+      ],
+      "duration_ms": 188775,
+      "name": "La madrina",
+      "url": "https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
+        "name": "Luz de Ne\u00f3n",
+        "url": "https://open.spotify.com/album/3ZsC3hvGZ6rZXITlg0gSve"
+      },
+      "artists": [
+        {
+          "name": "Media Hermana",
+          "url": "https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE"
+        }
+      ],
+      "duration_ms": 252314,
+      "name": "Luz de Ne\u00f3n",
+      "url": "https://open.spotify.com/track/5nM0vxe0p6kagJshWPKSN9"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
         "name": "Panor\u00e1mica",
         "url": "https://open.spotify.com/album/49mPgkDTzC1piJbODEk8Gq"
       },
@@ -2035,6 +2051,26 @@
       "duration_ms": 298279,
       "name": "T.V. OFF",
       "url": "https://open.spotify.com/track/5DEn3QQ4zxFjsZKJsP8uKB"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "ENVOLTORIO",
+        "url": "https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        },
+        {
+          "name": "MissLupe",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 198010,
+      "name": "envoltorio",
+      "url": "https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2063,34 +2099,18 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Luz de Ne\u00f3n",
-        "url": "https://open.spotify.com/album/3ZsC3hvGZ6rZXITlg0gSve"
+        "name": "Isla Queer",
+        "url": "https://open.spotify.com/album/7iolsNkag4a3VAbmZTRSh8"
       },
       "artists": [
         {
-          "name": "Media Hermana",
-          "url": "https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE"
+          "name": "Se\u00f1orita Novio",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Luz de Ne\u00f3n",
-      "url": "https://open.spotify.com/track/5nM0vxe0p6kagJshWPKSN9"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "No Llores",
-        "url": "https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN"
-      },
-      "artists": [
-        {
-          "name": "La Maurette",
-          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
-        }
-      ],
-      "duration_ms": 178091,
-      "name": "No Llores",
-      "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
+      "duration_ms": 238675,
+      "name": "C\u00f3mo puedes vivir contigo mismo?",
+      "url": "https://open.spotify.com/track/4J1flvoVx0WRyPmy7d7y6W"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2115,22 +2135,18 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "ENVOLTORIO",
-        "url": "https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3"
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN"
       },
       "artists": [
         {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        },
-        {
-          "name": "MissLupe",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
         }
       ],
-      "duration_ms": 198010,
-      "name": "envoltorio",
-      "url": "https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86"
+      "duration_ms": 178091,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2151,22 +2167,6 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "Isla Queer",
-        "url": "https://open.spotify.com/album/7iolsNkag4a3VAbmZTRSh8"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1orita Novio",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        }
-      ],
-      "duration_ms": 238675,
-      "name": "C\u00f3mo puedes vivir contigo mismo?",
-      "url": "https://open.spotify.com/track/4J1flvoVx0WRyPmy7d7y6W"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
         "name": "Nueva en el Amor",
         "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
       },
@@ -2179,22 +2179,6 @@
       "duration_ms": 234930,
       "name": "Venus en Latex",
       "url": "https://open.spotify.com/track/1rUe433Mcf7dVG9b3YOuLM"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
-        "name": "No Tengo Salida",
-        "url": "https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf"
-      },
-      "artists": [
-        {
-          "name": "LISA SCHA",
-          "url": "https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw"
-        }
-      ],
-      "duration_ms": 204115,
-      "name": "No Tengo Salida",
-      "url": "https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2231,6 +2215,22 @@
       "duration_ms": 185897,
       "name": "No Est\u00e1 Tan Mal",
       "url": "https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "No Tengo Salida",
+        "url": "https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf"
+      },
+      "artists": [
+        {
+          "name": "LISA SCHA",
+          "url": "https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw"
+        }
+      ],
+      "duration_ms": 204115,
+      "name": "No Tengo Salida",
+      "url": "https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760"
     },
     {
       "added_at": "2025-02-20 19:07:26",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2025-02-20 19:07:26",
       "album": {
-        "name": "El Funeral de Cenicienta",
-        "url": "https://open.spotify.com/album/7xl2lWOxJKev9gMrorA0G0"
-      },
-      "artists": [
-        {
-          "name": "Las Escuchas",
-          "url": "https://open.spotify.com/artist/49bMB0KOadNFqCyEooRjkq"
-        }
-      ],
-      "duration_ms": 212395,
-      "name": "\u00bfQu\u00e9 Hago Con la Noche?",
-      "url": "https://open.spotify.com/track/0ivaqokRgfWOiJL4wlybnb"
-    },
-    {
-      "added_at": "2025-02-20 19:07:26",
-      "album": {
         "name": "Remaches (DJ TOI Remix)",
         "url": "https://open.spotify.com/album/40sYFAMLosFPZpKVNA7IdK"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 225640,
       "name": "Remaches - DJ TOI Remix",
       "url": "https://open.spotify.com/track/5Hq67AkX4vi16riQhN2kgX"
+    },
+    {
+      "added_at": "2025-02-20 19:07:26",
+      "album": {
+        "name": "El Funeral de Cenicienta",
+        "url": "https://open.spotify.com/album/7xl2lWOxJKev9gMrorA0G0"
+      },
+      "artists": [
+        {
+          "name": "Las Escuchas",
+          "url": "https://open.spotify.com/artist/49bMB0KOadNFqCyEooRjkq"
+        }
+      ],
+      "duration_ms": 212395,
+      "name": "\u00bfQu\u00e9 Hago Con la Noche?",
+      "url": "https://open.spotify.com/track/0ivaqokRgfWOiJL4wlybnb"
     },
     {
       "added_at": "2025-02-20 19:07:26",

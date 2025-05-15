@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,259 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,260 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 22 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 |
 | 23 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
 | 24 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
-| 25 | [Be Somebody \(feat\. Tkay Maidza\)](https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 2:21 |
-| 26 | [Bounce](https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:46 |
+| 25 | [Bounce](https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:46 |
+| 26 | [Be Somebody \(feat\. Tkay Maidza\)](https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 2:21 |
 | 27 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 |
 | 28 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 |
 | 29 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 |

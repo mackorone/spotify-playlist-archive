@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Naomi Sharon
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,385,952 likes - 181 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,385,795 likes - 181 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 28 | [UR MOTHER'S SON](https://open.spotify.com/track/3OvJS1ZX0QKlUZGwLUZVmz) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:46 |
 | 29 | [HARD TRUTHS](https://open.spotify.com/track/2kkRW9QXMQ6shaneQWqCgB) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [HARD TRUTHS](https://open.spotify.com/album/0fuIOqcLppUGvtS9sVssCF) | 2:26 |
 | 30 | [TAKE A HIT](https://open.spotify.com/track/2f3PSGIMDgL0NmFZ2l31c0) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:34 |
-| 31 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
+| 31 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
 | 32 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 |
 | 33 | [Distance](https://open.spotify.com/track/4vvjCuR7vAXkE4XUrOgVjm) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 2:33 |
 | 34 | [OUT OF MY HANDS](https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Heavy Deluxe: THE LIGHT](https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC) | 3:03 |

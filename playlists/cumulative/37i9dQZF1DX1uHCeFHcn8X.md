@@ -2,7 +2,7 @@
 
 ### [Soft 10s](https://open.spotify.com/playlist/37i9dQZF1DX1uHCeFHcn8X)
 
-> Mellow songs from the 2010s\. Cover: Adele
+> Mellow songs from the 2010s.
 
 446 songs - 1 day 3 hr 36 min
 

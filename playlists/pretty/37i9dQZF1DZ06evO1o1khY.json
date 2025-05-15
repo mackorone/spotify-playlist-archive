@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 37312,
+  "num_followers": 37368,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAA15uZTh+vjDCeuUHvh/cK3",
+  "snapshot_id": "aCKLgAAAAACfh/mR/pHMTFdcbU+D8buX",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOOD POET",
-        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 156303,
-      "name": "Bad Kids (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Said I Love You First... And You Said It Back",
         "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 163631,
       "name": "Cowboy (with GloRilla) - GloRilla Remix",
       "url": "https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 156303,
+      "name": "Bad Kids (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Finesse (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 192567,
       "name": "Finesse (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di"
     },
     {
       "added_at": null,

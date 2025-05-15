@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover: Hanumankind
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,556 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,641 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 74 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 |
 | 75 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 |
 | 76 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 |
-| 77 | [F\*CK WHAT THEY SAY](https://open.spotify.com/track/5FO0ye7LMqJPr4bjroUZ8i) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 4:52 |
+| 77 | [F\*CK WHAT THEY SAY](https://open.spotify.com/track/5FO0ye7LMqJPr4bjroUZ8i) | [KING](https://open.spotify.com/artist/2D6VatUrBCa9y4vmZNm3BI), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 4:52 |
 | 78 | [RAUSI LAYO](https://open.spotify.com/track/2Pv4SzIwfCEKMTUHZQsWn2) | [Jamesy](https://open.spotify.com/artist/3Z3yPo3SbczpDs4FpY9ixA) | [RISKTAPE](https://open.spotify.com/album/58tPbamRoUkTyNFWLb9N7Q) | 2:57 |
 | 79 | [12 Bande](https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [12 Bande](https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u) | 3:24 |
 | 80 | [No Peace In Love](https://open.spotify.com/track/7q35Cd6mgVfZfeTfzki0ij) | [SACAR aka Lil Buddha](https://open.spotify.com/artist/2KDTINgANslhPVBfLpNlz0) | [Ecstasy In The Palace](https://open.spotify.com/album/3YkvKqJyYAiFaBbpQPDyiw) | 2:24 |

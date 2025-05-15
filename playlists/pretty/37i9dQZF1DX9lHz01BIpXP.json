@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa_9WSXQAGcMj9SpxUMJQ\">Ziggy4x</a> ",
-  "num_followers": 2600,
+  "num_followers": 2603,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
-        "name": "Op Fok",
-        "url": "https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL"
-      },
-      "artists": [
-        {
-          "name": "KerwieG",
-          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
-        }
-      ],
-      "duration_ms": 128419,
-      "name": "Op Fok",
-      "url": "https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca"
-    },
-    {
-      "added_at": "2025-05-02 08:13:49",
-      "album": {
         "name": "Tyd Saam",
         "url": "https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 167500,
       "name": "Tyd Saam",
       "url": "https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z"
+    },
+    {
+      "added_at": "2025-05-02 08:13:49",
+      "album": {
+        "name": "Op Fok",
+        "url": "https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL"
+      },
+      "artists": [
+        {
+          "name": "KerwieG",
+          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
+        }
+      ],
+      "duration_ms": 128419,
+      "name": "Op Fok",
+      "url": "https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca"
     },
     {
       "added_at": "2025-05-02 08:13:49",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
-        "name": "Praat meer bollie",
-        "url": "https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN"
-      },
-      "artists": [
-        {
-          "name": "Brasse Vannie Kaap",
-          "url": "https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un"
-        },
-        {
-          "name": "DJ Azuhl",
-          "url": "https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF"
-        }
-      ],
-      "duration_ms": 249945,
-      "name": "Praat meer bollie",
-      "url": "https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4"
-    },
-    {
-      "added_at": "2025-05-02 08:13:49",
-      "album": {
         "name": "Sundphazamisa",
         "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
       },
@@ -1007,18 +987,42 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
-        "name": "SYS N BADDIE",
-        "url": "https://open.spotify.com/album/7AimRndL52aehc62FKMAft"
+        "name": "Praat meer bollie",
+        "url": "https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN"
       },
       "artists": [
         {
-          "name": "BARZX",
-          "url": "https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK"
+          "name": "Brasse Vannie Kaap",
+          "url": "https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un"
+        },
+        {
+          "name": "DJ Azuhl",
+          "url": "https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF"
         }
       ],
-      "duration_ms": 127777,
-      "name": "SYS N BADDIE",
-      "url": "https://open.spotify.com/track/2YN1BTHUYk7c21PkZ63Mba"
+      "duration_ms": 249945,
+      "name": "Praat meer bollie",
+      "url": "https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4"
+    },
+    {
+      "added_at": "2025-05-02 08:13:49",
+      "album": {
+        "name": "Ladies From The Cape",
+        "url": "https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN"
+      },
+      "artists": [
+        {
+          "name": "illRow",
+          "url": "https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1"
+        },
+        {
+          "name": "Charly X2C",
+          "url": "https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX"
+        }
+      ],
+      "duration_ms": 177812,
+      "name": "Ladies From The Cape",
+      "url": "https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

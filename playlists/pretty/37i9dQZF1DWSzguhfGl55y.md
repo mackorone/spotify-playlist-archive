@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > In Gedenken an XATAR 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,702 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,769 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 14 | [Ahnma](https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Advanced Chemistry](https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI) | 4:13 |
 | 15 | [Ein Affe und ein Pferd](https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Ganz Oben \(Mixtape\)](https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk) | 3:45 |
 | 16 | [Ich will alles](https://open.spotify.com/track/3GsD3Dzap9dZrGGU9I3h0S) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8), [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [ALLES ODER NIX](https://open.spotify.com/album/5bhD7Kl3zfhdbnJiVVUXgx) | 3:40 |
-| 17 | [Dickes B \(feat\. Black Kappa\)](https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV), [Black Kappa](https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6) | [New Dubby Conquerors](https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le) | 4:44 |
-| 18 | [Weck mich auf](https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 5:43 |
-| 19 | [Ich zahle gar nix](https://open.spotify.com/track/3Nfxt6g4hVMsuCuJsLEjgS) | [Coup](https://open.spotify.com/artist/3DoYGi5spOR9sIqjdkf2R4), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Der Holland Job](https://open.spotify.com/album/6H16l0aclr4Ck2t8xGGX5x) | 2:52 |
+| 17 | [Ich zahle gar nix](https://open.spotify.com/track/3Nfxt6g4hVMsuCuJsLEjgS) | [Coup](https://open.spotify.com/artist/3DoYGi5spOR9sIqjdkf2R4), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Der Holland Job](https://open.spotify.com/album/6H16l0aclr4Ck2t8xGGX5x) | 2:52 |
+| 18 | [Dickes B \(feat\. Black Kappa\)](https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV), [Black Kappa](https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6) | [New Dubby Conquerors](https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le) | 4:44 |
+| 19 | [Weck mich auf](https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 5:43 |
 | 20 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 |
 | 21 | [Ich rolle mit meim Besten \- Babos Remix](https://open.spotify.com/track/2AXOg2WMjJt8Os7M3b589T) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Russisch Roulette \(Deluxe\)](https://open.spotify.com/album/3K6MF35dS8vhxKvkcocAHc) | 3:09 |
 | 22 | [Im Ascheregen](https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 4:59 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 44 | [Reimemonster \(feat\. Ferris MC\)](https://open.spotify.com/track/0pgx8fWphTTM9Kv5KjWpXy) | [Afrob](https://open.spotify.com/artist/0XTiLzJ1VpU4HygM7uKA8c), [Ferris MC](https://open.spotify.com/artist/7Jfwqfcttij8KlrvaIZRBk) | [Rolle mit Hip Hop](https://open.spotify.com/album/6bGk9TnHYMTKsQBpASDu3q) | 3:36 |
 | 45 | [...Hab' gehört...](https://open.spotify.com/track/4hAGWRdmxSyi1NEfhgSO61) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 3:45 |
 | 46 | [Grüne Brille](https://open.spotify.com/track/3TGXkgak9QCwa631dSKwT7) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:50 |
-| 47 | [Chartbreaker \(Einmal Star und zurück\)](https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [Überfall](https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP) | 3:48 |
+| 47 | [Ich bin jung und brauche das Geld \(feat\. G\-Style\)](https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [G\-Style](https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs) | [Ich bin jung und brauche das Geld](https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV) | 4:26 |
 | 48 | [Susanne Zur Freiheit](https://open.spotify.com/track/20QcNlK3hAXszEYL324DPw) | [Fischmob](https://open.spotify.com/artist/6OqgIRmdNbYzWX1r3KeiB1) | [Power](https://open.spotify.com/album/5VmfxdCco6Rv8craZ7fOgu) | 4:12 |
 | 49 | [Gustav Gans](https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Blast Action Heroes](https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo) | 3:32 |
-| 50 | [Ich bin jung und brauche das Geld \(feat\. G\-Style\)](https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [G\-Style](https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs) | [Ich bin jung und brauche das Geld](https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV) | 4:26 |
+| 50 | [Chartbreaker \(Einmal Star und zurück\)](https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [Überfall](https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP) | 3:48 |
 
 Snapshot ID: `aCHXwwAAAAA7jS02UEu3GAdiy8yl9Et6`

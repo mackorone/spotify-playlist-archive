@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. \(Cover: tripleS \(트리플에스\)\)
 
-540 songs - 1 day 4 hr 13 min
+541 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,9 +74,9 @@
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:51 | 2025-03-04 |  |
 | [BOSS](https://open.spotify.com/track/03UHveMYHRWVx6gmgXnPsx) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [BOSS](https://open.spotify.com/album/5MXIdlIMjHvSZP5Puj9CMA) | 3:01 | 2021-02-26 | 2022-04-21 |
 | [Breaking the rules](https://open.spotify.com/track/1u0RhUf3sCx5mir8uQVCgB) | [Ferry Blue](https://open.spotify.com/artist/5hoabnM5gbywbrTEKiHilf) | [Breaking the rules](https://open.spotify.com/album/6YpNxm9tIA0eRVrXGb2REG) | 3:23 | 2023-12-04 | 2024-01-09 |
-| [BTG](https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [UNCUT GEM](https://open.spotify.com/album/08goLajOh9geJzsBalNa2n) | 3:10 | 2025-03-24 |  |
+| [BTG](https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [UNCUT GEM](https://open.spotify.com/album/08goLajOh9geJzsBalNa2n) | 3:10 | 2025-03-24 | 2025-05-15 |
 | [bugAboo](https://open.spotify.com/track/2gXkUjX4hiBb1TYyrIx0Ny) | [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [bugAboo](https://open.spotify.com/album/4eXw2D722tMVage8wwtsOR) | 3:50 | 2021-10-27 | 2022-04-20 |
-| [BURN](https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<BURN>](https://open.spotify.com/album/4benP09DGGgfu79UY9zvaU) | 3:19 | 2025-04-07 |  |
+| [BURN](https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<BURN>](https://open.spotify.com/album/4benP09DGGgfu79UY9zvaU) | 3:19 | 2025-04-07 | 2025-05-15 |
 | [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 | 2024-04-30 | 2024-05-14 |
 | [Butterfly](https://open.spotify.com/track/5LRhz7ACO25w0sa1BXF6Av) | [ChoA](https://open.spotify.com/artist/4Nw7hgyeIEP5w5ehrMNKpq), [Juncoco](https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td) | [Butterfly](https://open.spotify.com/album/31mGG6ijRDvh5CccbgO8wT) | 2:53 | 2023-09-26 | 2023-10-05 |
 | [C'mon \(feat\. Aminé\)](https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK) | [JINI](https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [An Iron Hand In A Velvet Glove](https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL) | 3:13 | 2023-10-12 | 2023-11-18 |
@@ -92,7 +92,7 @@
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-02-28 | 2022-04-18 |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-11 | 2023-01-14 |
 | [CLASSY](https://open.spotify.com/track/7LEupZwTQBhbvvHmxttUeP) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LIVES ACROSS](https://open.spotify.com/album/13wsV6lqeOiPzIRwCv7Ugw) | 2:48 | 2022-06-09 | 2022-06-11 |
-| [CLIK CLAK](https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:49 | 2024-11-01 |  |
+| [CLIK CLAK](https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:49 | 2024-11-01 | 2025-05-15 |
 | [Close to Me](https://open.spotify.com/track/1wzP4k1w8nprsfb6n8wpoz) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [Close to Me](https://open.spotify.com/album/1N2bEyzPBd9CwU7BTXaoEt) | 3:17 | 2021-12-20 | 2022-06-09 |
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2021-11-14 | 2022-08-13 |
 | [Come See Me](https://open.spotify.com/track/5KrvZAR95aP5Otmsiwp9pC) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [NEW MOON](https://open.spotify.com/album/61mlBNUkU8QKvYOfTiwFR5) | 3:22 | 2021-01-19 | 2021-03-16 |
@@ -152,7 +152,7 @@
 | [ESPER](https://open.spotify.com/track/1zJRBZUlkdfvSP1071YkZF) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [ESPER](https://open.spotify.com/album/6A2dUUgMfNcqklkYq7ehTo) | 3:12 | 2022-03-10 | 2022-05-28 |
 | [ESPRESSO](https://open.spotify.com/track/61iEzLnJzBnMwumWtn0nFp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2021-11-19 | 2022-04-17 |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-25 | 2025-03-17 |
-| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-07-05 | 2025-05-10 |
+| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-07-05 |  |
 | [Fade Away 늘어진 우리의 연애](https://open.spotify.com/track/6NSIIaRoDgXEIwCFqyoJGw) | [SOYA](https://open.spotify.com/artist/37tYw03HDBaE0o4JtP2ZVc) | [Fade Away 늘어진 우리의 연애](https://open.spotify.com/album/4IN5uH5pjVSlZhbevpuu5T) | 3:06 | 2021-02-16 | 2022-04-19 |
 | [Fantasy](https://open.spotify.com/track/3p6tX23sAlkq2yAQ3Btq2B) | [PinkFantasy](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) | [Fantasy](https://open.spotify.com/album/5Z9TjiRFMhU5pbUvZJIXTB) | 3:24 | 2021-03-11 | 2022-04-13 |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-10 | 2023-11-11 |
@@ -311,7 +311,8 @@
 | [Memories](https://open.spotify.com/track/2JpFYEPqR04QNVkKjQMnv9) | [Girl Crush](https://open.spotify.com/artist/1KJKSM6Z1NTqcEHgNoUSbe) | [Memories](https://open.spotify.com/album/1DivatN2VQcEnKAsQzV8fh) | 3:01 | 2021-01-31 | 2022-05-07 |
 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 | 2024-09-06 |  |
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 | 2025-05-09 |  |
-| [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-03 | 2025-05-12 |
+| [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-03 |  |
+| [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-14 |  |
 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 | 2020-10-20 | 2025-04-21 |
 | [Mirror Mirror](https://open.spotify.com/track/2J8DmAA6QON4rhKS12sdvf) | [GIANT PINK](https://open.spotify.com/artist/4yvE3ttbP5uRwBQ0ZrhOPi) | [Mirror Mirror](https://open.spotify.com/album/0FgtVXXDn2Y9qfwsrWfhZl) | 2:39 | 2021-02-28 | 2022-04-20 |
 | [MONA LISA](https://open.spotify.com/track/6Y4Nd3eqBtpR5t0w45OF6g) | [SOOJIN](https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8) | [RIZZ](https://open.spotify.com/album/7GvvvIC6U744OedOjuEIc2) | 2:40 | 2024-05-24 | 2024-06-11 |

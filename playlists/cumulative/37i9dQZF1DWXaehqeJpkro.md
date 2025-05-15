@@ -2,7 +2,7 @@
 
 ### [노래방 인기가요 \(Karaoke K\-Pop Bests\)](https://open.spotify.com/playlist/37i9dQZF1DWXaehqeJpkro)
 
-> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: ZO ZAZZ\(조째즈\)\)
+> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 10CM\)
 
 327 songs - 21 hr 20 min
 

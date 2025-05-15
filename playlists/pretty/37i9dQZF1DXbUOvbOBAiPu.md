@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Tyla, The Haunted Youth, Miley Cyrus and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,292 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,308 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 14 | [Colours of your mind](https://open.spotify.com/track/5LtVSYldRFWtonNP5p762G) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Island](https://open.spotify.com/album/3ydsTgHJHmwiOAhdyoUgyt) | 4:04 |
 | 15 | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY) | 3:40 |
 | 16 | [Insular](https://open.spotify.com/track/126ZlwrjTCZJlUqr9f65Bd) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Insular](https://open.spotify.com/album/1JafBWcHAurcWqEKi2UVRN) | 3:35 |
-| 17 | [Ntiya](https://open.spotify.com/track/2yquGIoOULtRdd22zbbMtl) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu) | [Ntiya](https://open.spotify.com/album/2EkAgAK5EoJ2VduFeWA3tM) | 3:43 |
+| 17 | [Ntiya](https://open.spotify.com/track/2yquGIoOULtRdd22zbbMtl) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu) | [Ntiya](https://open.spotify.com/album/2EkAgAK5EoJ2VduFeWA3tM) | 3:35 |
 | 18 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
 | 19 | [NEVER GONNA LIE](https://open.spotify.com/track/4r3v1qs0AY4jAMkyUkUJSx) | [SHY](https://open.spotify.com/artist/2uQC5G5FpIwZZr0aPQuXzX) | [NEVER GONNA LIE](https://open.spotify.com/album/66i9kVpvHMq4fgIA1rCK0N) | 2:27 |
 | 20 | [Stubborn Mind \- Uit Liefde Voor Muziek](https://open.spotify.com/track/35Vcq4xLf2PTYS908FLTnf) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Stubborn Mind \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/1CuubM7FfGMW9s4IBqPNYX) | 2:47 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 51 | [La Gari](https://open.spotify.com/track/7rWowXGCllkppAfRHIxQ3y) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [La Gari](https://open.spotify.com/album/48jcPxxCxoPV34klG8S2YI) | 2:23 |
 | 52 | [MÉNAGE](https://open.spotify.com/track/6xaHC3BJr8tZYybFO30pXB) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [MÉNAGE](https://open.spotify.com/album/6doHrLRldnOlPjiRJE0Qs1) | 1:47 |
 | 53 | [Mozart Capitaine Jackson \(Épisode 4\)](https://open.spotify.com/track/3OxX0oBMXtFzDsLoeuWgXj) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mozart Capitaine Jackson \(Épisode 4\)](https://open.spotify.com/album/55UgvEanITC40ogi4G9ovu) | 3:03 |
-| 54 | [Business Man](https://open.spotify.com/track/0lsTAaJDMe45X5hna0LwYg) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Business Man](https://open.spotify.com/album/2TRO0EH6oX6a4ffGjUllN6) | 2:59 |
+| 54 | [BUSINESSMAN](https://open.spotify.com/track/0lsTAaJDMe45X5hna0LwYg) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [BUSINESSMAN](https://open.spotify.com/album/2TRO0EH6oX6a4ffGjUllN6) | 2:59 |
 | 55 | [LE SEUM](https://open.spotify.com/track/5w3ycCH48Q5r77Ry8MjPS2) | [Japhet](https://open.spotify.com/artist/1wmhwlkdBE7d9CxUE4VgKc), [Cameliro](https://open.spotify.com/artist/0WWK3FpouvFU4sevt0B43Z) | [LE SEUM](https://open.spotify.com/album/2LILdBqQooIeXtsKbzlVhA) | 2:58 |
 | 56 | [Hinterland](https://open.spotify.com/track/04Sl7DfWGY0yNET29DUNv8) | [Yves Paquet](https://open.spotify.com/artist/7rIXWoVhS7nzMxupPhKmum) | [Hinterland](https://open.spotify.com/album/729TKImI47ukVBbW0Joshl) | 3:06 |
 | 57 | [Jolie tragédie \(Wachicha\)](https://open.spotify.com/track/6PEvf1CQT1B2O8h1XBRfBs) | [Adam La Nuit](https://open.spotify.com/artist/4TSYeCNR8e14mDqpSYN8L7) | [Jolie tragédie \(Wachicha\)](https://open.spotify.com/album/5lfHpkN4DLSwpYQRp0FhaW) | 2:02 |

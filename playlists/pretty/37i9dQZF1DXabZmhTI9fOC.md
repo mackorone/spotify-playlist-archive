@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,844 likes - 252 songs - 13 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,854 likes - 252 songs - 13 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 76 | [Falling Apart](https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:15 |
 | 77 | [Lose Control](https://open.spotify.com/track/2N388woTuXizZdtvc3WYBV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [i'm doing better, i made it to september](https://open.spotify.com/album/6V6GoUROLjcP5EvnNZiqqR) | 3:30 |
 | 78 | [Miss You](https://open.spotify.com/track/0CbTEWUZ8UzvDHeFMvmYBX) | [Lloren](https://open.spotify.com/artist/6BXnCNvWCmFRvlMazWAomB) | [Miss You](https://open.spotify.com/album/4D3fxIcXZxwnfEo3ABNgbF) | 3:13 |
-| 79 | [Don't Mess Around Honey](https://open.spotify.com/track/53odbpBmwVCcFTvubJz0rp) | [Isla Rose](https://open.spotify.com/artist/7id0KhxSicAZjV9e0aDTie) | [Don't Mess Around Honey](https://open.spotify.com/album/4dNkFv5jH92Yht0pUOCOjd) | 2:42 |
+| 79 | [Don't Mess Around Honey](https://open.spotify.com/track/53odbpBmwVCcFTvubJz0rp) | [Isla Rose](https://open.spotify.com/artist/7id0KhxSicAZjV9e0aDTie) | [Don't Mess Around Honey](https://open.spotify.com/album/4dNkFv5jH92Yht0pUOCOjd) | 2:43 |
 | 80 | [True Romance](https://open.spotify.com/track/3DSIQ2SCR25VwYqkpImpmb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 4:05 |
 | 81 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 82 | [Let You Down](https://open.spotify.com/track/54aWi8Afw2HYtKfPHxuGSW) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:35 |

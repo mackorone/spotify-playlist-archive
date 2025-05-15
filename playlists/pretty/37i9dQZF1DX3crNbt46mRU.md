@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Tyla, Miley Cyrus and Dhurata Dora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,401 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,404 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 18 | [ADAC](https://open.spotify.com/track/1N9SGRAf3N9phdOWak2A1p) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [ADAC](https://open.spotify.com/album/3QShjGUIkc21ggMzfrC2TP) | 2:53 |
 | 19 | [The Chase](https://open.spotify.com/track/4Y8PGabkHNMDRmlKSYh8qK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The Chase](https://open.spotify.com/album/5koPzfr85wkv99rVjVKTXX) | 2:27 |
 | 20 | [KLK](https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [KLK](https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23) | 3:19 |
-| 21 | [Business Man](https://open.spotify.com/track/0lsTAaJDMe45X5hna0LwYg) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Business Man](https://open.spotify.com/album/2TRO0EH6oX6a4ffGjUllN6) | 2:59 |
+| 21 | [BUSINESSMAN](https://open.spotify.com/track/0lsTAaJDMe45X5hna0LwYg) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [BUSINESSMAN](https://open.spotify.com/album/2TRO0EH6oX6a4ffGjUllN6) | 2:59 |
 | 22 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
 | 23 | [Irresistible](https://open.spotify.com/track/69SDj2szMkDCMiBVmw9WnW) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Irresistible](https://open.spotify.com/album/3XEjdiYVM4qAWqm2pOYcb6) | 2:38 |
 | 24 | [Heroina](https://open.spotify.com/track/4YQPwIuHm3OAQrNbLF5Qrq) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Heroina](https://open.spotify.com/album/3EF4FDNvaA9bW5fp9YdGHQ) | 2:23 |

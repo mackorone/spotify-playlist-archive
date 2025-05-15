@@ -1,6 +1,6 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60259,
+  "num_followers": 60260,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 166582,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "STILL EMO",
         "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 141780,
       "name": "Be Somebody (feat. Tkay Maidza)",
       "url": "https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 166582,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l"
     },
     {
       "added_at": "2023-12-19 09:07:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,481 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,482 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 22 | [Pasado Mañana](https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 2:17 |
 | 23 | [Hijos Contigo](https://open.spotify.com/track/3m4nEtqr8vaHJCfc6yjasu) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cocoterapia](https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1) | 2:40 |
 | 24 | [Bilingües](https://open.spotify.com/track/6MUUIuJAgulhbQRmYGlVWH) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:54 |
-| 25 | [Sigo Buscandote](https://open.spotify.com/track/4z2c6wyTY9xgiPYUvznwUE) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Sigo Buscandote](https://open.spotify.com/album/791xP0ZKGxYQtZo5CbUOXM) | 3:05 |
+| 25 | [spoiler: sale mal](https://open.spotify.com/track/3gLJbBmpvQAIQV6Dh8Ft9W) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [spoiler: sale mal](https://open.spotify.com/album/4Tap86SbHBVNZoxnOpzmtW) | 2:44 |
 | 26 | [Vas a Destrozarme](https://open.spotify.com/track/3pGXsSv5CM4Xl4GATNfB9v) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 2:54 |
-| 27 | [spoiler: sale mal](https://open.spotify.com/track/3gLJbBmpvQAIQV6Dh8Ft9W) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [spoiler: sale mal](https://open.spotify.com/album/4Tap86SbHBVNZoxnOpzmtW) | 2:44 |
+| 27 | [Sigo Buscandote](https://open.spotify.com/track/4z2c6wyTY9xgiPYUvznwUE) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Sigo Buscandote](https://open.spotify.com/album/791xP0ZKGxYQtZo5CbUOXM) | 3:05 |
 | 28 | [3 de La Mañana \- con Sebastián Yatra & Mora](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana \(con Sebastián Yatra & Mora\)](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 |
 | 29 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 |
 | 30 | [Qué Dirías?](https://open.spotify.com/track/3HPvXWekjDqIppRxhpHkDT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Qué Dirías?](https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 49 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
 | 50 | [Wow](https://open.spotify.com/track/60Y5s3JmVhfORq1ATJpfSS) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 2:47 |
 
-Snapshot ID: `aCE6AAAAAAB/6ySWjVNZsLSLvpWXGlSK`
+Snapshot ID: `aCKLgAAAAADUYH8wuV7Wr7w6QfbZVJBe`

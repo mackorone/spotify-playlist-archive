@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,274 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,299 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 18 | [Enough For You](https://open.spotify.com/track/37G1Mx1vZHxKia3aDPMQxd) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 0:49 |
 | 19 | [Pretend Lovers](https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:13 |
 | 20 | [2 seater](https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [2 seater](https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4) | 1:05 |
-| 21 | [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 |
+| 21 | [DISTRACTION](https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 3:00 |
 | 22 | [Fallin Out of Love With You](https://open.spotify.com/track/3Eq9N7ymMN0GNG7vSKjTrF) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 1:50 |
 | 23 | [Every Night](https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 2:28 |
-| 24 | [DISTRACTION](https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 3:00 |
+| 24 | [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 |
 | 25 | [Better Off](https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9) | 1:50 |
 | 26 | [You Changed on Me.](https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:04 |
 | 27 | [Wonderful God \(feat\. Jonathan Ogden\)](https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Stay With Me](https://open.spotify.com/track/2rNn1oM0VdMHIGN5YmPDmf) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 4:36 |
 | 50 | [A Piece Called Butterflies.](https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 1:07 |
 
-Snapshot ID: `aCE6AAAAAAAcJEVdVUtWFwD7TKZJ2s9G`
+Snapshot ID: `aCKLgAAAAADfAgkTuaXmkYntTCn/KQzS`

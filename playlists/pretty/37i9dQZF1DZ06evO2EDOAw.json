@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4857,
+  "num_followers": 4860,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAAC/pHi1DqYn+wEXJ1/X9zB",
+  "snapshot_id": "aCKLgAAAAACzAUKS6PMJDSlVjUlEUETd",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dependable",
-        "url": "https://open.spotify.com/album/2aWYCoqfzCRIpRizerkBW4"
-      },
-      "artists": [
-        {
-          "name": "Enkay Ogboruche",
-          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 262211,
-      "name": "Dependable",
-      "url": "https://open.spotify.com/track/1IkzykEzwPkDovrZAcCCFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 228148,
       "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
       "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dependable",
+        "url": "https://open.spotify.com/album/2aWYCoqfzCRIpRizerkBW4"
+      },
+      "artists": [
+        {
+          "name": "Enkay Ogboruche",
+          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 262211,
+      "name": "Dependable",
+      "url": "https://open.spotify.com/track/1IkzykEzwPkDovrZAcCCFP"
     },
     {
       "added_at": null,
@@ -507,30 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things Work Together",
-        "url": "https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Jawan Harris",
-          "url": "https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA"
-        }
-      ],
-      "duration_ms": 294893,
-      "name": "Worth It (feat. Kierra Sheard & Jawan Harris)",
-      "url": "https://open.spotify.com/track/3qa9CI4W8SQf85VZzi7GIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 226693,
       "name": "Eagle - Live",
       "url": "https://open.spotify.com/track/0ud4zQVgIUszHUOpq8ZwOu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things Work Together",
+        "url": "https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Jawan Harris",
+          "url": "https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Worth It (feat. Kierra Sheard & Jawan Harris)",
+      "url": "https://open.spotify.com/track/3qa9CI4W8SQf85VZzi7GIQ"
     },
     {
       "added_at": null,
@@ -975,22 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory Song",
-        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
+        "name": "The Heavens Are Telling",
+        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 307960,
-      "name": "All Glory",
-      "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
+      "duration_ms": 403906,
+      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
+      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
     },
     {
       "added_at": null,
@@ -1011,22 +1011,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heavens Are Telling",
-        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
+        "name": "SORRY, I CHANGED (AGAIN)",
+        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
       },
       "artists": [
         {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 403906,
-      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
-      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
+      "duration_ms": 196988,
+      "name": "Paid It All",
+      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
     },
     {
       "added_at": null,
@@ -1051,22 +1051,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SORRY, I CHANGED (AGAIN)",
-        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
+        "name": "Glory Song",
+        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 196988,
-      "name": "Paid It All",
-      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
+      "duration_ms": 307960,
+      "name": "All Glory",
+      "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
     },
     {
       "added_at": null,

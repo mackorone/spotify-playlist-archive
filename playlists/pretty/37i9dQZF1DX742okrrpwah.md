@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Miley Cyrus, DYSTINCT x Morad et Tyla au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,794 likes - 84 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,759 likes - 84 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 7 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
 | 8 | [Hand That Feeds \- From the Film Ballerina](https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Hand That Feeds \(From the Film Ballerina\)](https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg) | 3:06 |
 | 9 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
-| 10 | [Business Man](https://open.spotify.com/track/0lsTAaJDMe45X5hna0LwYg) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Business Man](https://open.spotify.com/album/2TRO0EH6oX6a4ffGjUllN6) | 2:59 |
+| 10 | [BUSINESSMAN](https://open.spotify.com/track/0lsTAaJDMe45X5hna0LwYg) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [BUSINESSMAN](https://open.spotify.com/album/2TRO0EH6oX6a4ffGjUllN6) | 2:59 |
 | 11 | [The Final Countdown 2025](https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown 2025](https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC) | 3:02 |
 | 12 | [If They Could Only Know](https://open.spotify.com/track/1vwFYz45Yw2MVhFLL1k62w) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Never/Know](https://open.spotify.com/album/4ifWQZN7li3ij532LR1l0q) | 3:12 |
 | 13 | [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 |

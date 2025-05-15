@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3159328,
+  "num_followers": 3159610,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADbCnhjkNgsTiWKCu2ma5sj",
+  "snapshot_id": "aCKLgAAAAADo0jJtEGTzdEt7tU//BOCV",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/5UDXzVwWnn3mDy3mTpQPYb"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
@@ -247,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Take A Bow",
-      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 246960,
       "name": "Pon de Replay",
       "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/5UDXzVwWnn3mDy3mTpQPYb"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN"
     },
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 267000,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z"
     },
     {
       "added_at": null,

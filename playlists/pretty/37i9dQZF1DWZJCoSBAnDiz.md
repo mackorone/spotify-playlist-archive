@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain]
 
 > Love & longing from Broadway's best & brightest\. Cover: Joy Woods in The Notebook on Broadway
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,812 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,824 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain]
 | 41 | [If I Can't Love Her](https://open.spotify.com/track/2NXDiOkPqRtXNsnFqyVmyM) | [Terrence Mann](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) | [Beauty And The Beast: The Broadway Musical](https://open.spotify.com/album/3Pzoe4ffuNsxdgTHGaFJmo) | 4:06 |
 | 42 | [Someone Like You](https://open.spotify.com/track/2WNPG9HRibvtymAp7f9jIW) | [Lucy](https://open.spotify.com/artist/0sV6QzECLIDKuGvscO13V5) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:46 |
 | 43 | [Still Hurting](https://open.spotify.com/track/6VQwdr2tX48Tl1xfLxGhSI) | [Sherie Rene Scott](https://open.spotify.com/artist/2I5SzHTskqEe8LJl4IvwnT) | [The Last Five Years \(Original Cast Recording\)](https://open.spotify.com/album/2OPt51ttGul9Qn8T1oPVvk) | 5:01 |
-| 44 | [Sorry\-Grateful](https://open.spotify.com/track/6xG3G8rOcFZBOLn73ZgczJ) | [Gavin Spokes](https://open.spotify.com/artist/0NRFNKMCI2quQfBxv9oBqo), [Richard Henders](https://open.spotify.com/artist/1k6ftwfsKXSQMbjCXPWfq5), [Ben Lewis](https://open.spotify.com/artist/2lsOdhi9ZCs3hdHyXcchqW) | [Company \(2018 London Cast Recording\)](https://open.spotify.com/album/6cVS8HE0DLAHwcT1e4qixE) | 3:41 |
+| 44 | [Sorry\-Grateful](https://open.spotify.com/track/6xG3G8rOcFZBOLn73ZgczJ) | [Gavin Spokes](https://open.spotify.com/artist/5AqY7d9q8tj0K9NdjxYP2f), [Richard Henders](https://open.spotify.com/artist/5mN9VERMD5SPPCHaFif3tS), [Ben Lewis](https://open.spotify.com/artist/2lsOdhi9ZCs3hdHyXcchqW) | [Company \(2018 London Cast Recording\)](https://open.spotify.com/album/6cVS8HE0DLAHwcT1e4qixE) | 3:41 |
 | 45 | [Who I'd Be](https://open.spotify.com/track/05vReyxhvuE564kb2Jnmux) | [Daniel Breaker](https://open.spotify.com/artist/6gWnjLkwQfuzdQsOP6ZJMM), [Brian D'Arcy James](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) | [Shrek The Musical](https://open.spotify.com/album/5VeD79fcAGrvxWTwiWSVfh) | 4:00 |
 | 46 | [Agony](https://open.spotify.com/track/0r1VEzAB1Uy6Yl4nRa2J6k) | [Robert Westenberg](https://open.spotify.com/artist/7GNllfQvWaMDqOfxL6Bdd2), [Chuck Wagner](https://open.spotify.com/artist/0Zw3OqqJEqB8WZYm2X0X7p), [Original Broadway Cast of Into the Woods](https://open.spotify.com/artist/0mhipi6hB5gPpMW9vDGtyn) | [Into the Woods \(Original Broadway Cast Recording\)](https://open.spotify.com/album/728ZIip1mzws5PJrxbQo4T) | 2:27 |
 | 47 | [Dear Theodosia](https://open.spotify.com/track/2sEq2rC3ynYsT49x7utWnd) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:04 |

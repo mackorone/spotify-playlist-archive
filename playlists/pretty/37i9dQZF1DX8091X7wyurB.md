@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,599 likes - 80 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,790 likes - 80 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 63 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
 | 64 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
 | 65 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
-| 66 | [You're the Only One](https://open.spotify.com/track/01ZpFt0Zd1liPJUDqEJPib) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 5:37 |
-| 67 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 |
-| 68 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
-| 69 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 |
-| 70 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 |
-| 71 | [NO TURNING BACK](https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [NO TURNING BACK](https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID) | 2:07 |
+| 66 | [NO TURNING BACK](https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [NO TURNING BACK](https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID) | 2:07 |
+| 67 | [You're the Only One](https://open.spotify.com/track/01ZpFt0Zd1liPJUDqEJPib) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 5:37 |
+| 68 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 |
+| 69 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
+| 70 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 |
+| 71 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 |
 | 72 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 |
 | 73 | [Judah \- Live](https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Judah \(Live\)](https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd) | 8:54 |
 | 74 | [Jordans](https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Jordans](https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI) | 4:06 |

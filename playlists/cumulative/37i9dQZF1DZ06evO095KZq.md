@@ -4,7 +4,7 @@
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-83 songs - 3 hr 57 min
+84 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [El Falsete del Potrero](https://open.spotify.com/track/4KzLrPyBU5o2ptSRjAHYtp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Entre Hierba, Polvo y Plomo](https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q) | 2:46 | 2025-02-12 |  |
 | [El Gato](https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Gato](https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9) | 3:19 | 2023-08-08 |  |
 | [El Mes de Mayo](https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:47 | 2023-08-08 |  |
-| [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 | 2023-09-18 |  |
+| [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 | 2023-09-18 | 2025-05-15 |
 | [El Nano \- Versión Estudio](https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:18 | 2023-08-08 |  |
 | [El Perseverante](https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [10 Kilates \(Con Norteño\)](https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt) | 2:47 | 2023-08-08 |  |
 | [El Regreso de Chico](https://open.spotify.com/track/2i5Xvxnmb2WLK9m9kaHota) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Regreso de Chico](https://open.spotify.com/album/1Ra2BPrNy06eSGnZ3VBoYG) | 4:21 | 2023-08-08 |  |
@@ -91,5 +91,6 @@
 | [Una Enorme Distancia](https://open.spotify.com/track/0lOCeRlDcp66rN0chuRIoU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 1:50 | 2023-08-08 | 2023-10-11 |
 | [Vengo a Aclarar](https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Vengo a Aclarar](https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR) | 2:30 | 2023-08-08 |  |
 | [Ya Me Vale Madre](https://open.spotify.com/track/3Ytm1qyCVZm69f2rOWo0Rd) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Ya Me Vale Madre](https://open.spotify.com/album/1YOskBDF79sYzGT1ZsgCJS) | 2:28 | 2025-04-19 |  |
+| [Yo Nací Pa' Ser Jefe](https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Yo Nací Pa' Ser Jefe](https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa) | 2:48 | 2025-05-15 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

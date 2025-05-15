@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 924409,
+  "num_followers": 924356,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L7a3+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L7gJeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "ANNO ONS",
         "url": "https://open.spotify.com/album/5iIkKAfIrIqcUNxQWS8mLf"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/289NOT3DzIaOL5usnMEU4V"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "SINGLE",
         "url": "https://open.spotify.com/album/4iywKALSrsrGpZZrRug2G5"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/3qQhi8uyeiCZnpkqh2VMNR"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Echte Liefde Is Te Koop",
         "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/7vTA5iDvkhVHkRLYvVXWad"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/6zdmJ79GtRfpJJdaDPECYm"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Hart In Brand",
         "url": "https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V"
@@ -121,7 +121,23 @@
       "url": "https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "duration_ms": 160281,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Beneden",
         "url": "https://open.spotify.com/album/5Krch4sKh7GtD6gXdz4edE"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/7ubZ97TycJ5fWKKgbFQlue"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Ik Zing (feat. Snelle)",
         "url": "https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Beetje Van Mij",
         "url": "https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw"
@@ -181,23 +197,7 @@
       "url": "https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 160281,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
@@ -217,7 +217,23 @@
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "Mama I Made It",
+        "url": "https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 200463,
+      "name": "Jouw Idee",
+      "url": "https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "100%",
         "url": "https://open.spotify.com/album/77lwOPIULad3xw9beebzJj"
@@ -237,23 +253,7 @@
       "url": "https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "Mama I Made It",
-        "url": "https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 200463,
-      "name": "Jouw Idee",
-      "url": "https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Matcha Coco",
         "url": "https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Azizam",
         "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Alles Wordt Beter",
         "url": "https://open.spotify.com/album/7CgvY0HQwJiDPh9ENB59DB"
@@ -321,23 +321,7 @@
       "url": "https://open.spotify.com/track/5d0KtdnoPpniNFngV5ehcP"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "Terug In De Tijd",
-        "url": "https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 187357,
-      "name": "Terug In De Tijd",
-      "url": "https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Mama I Made It",
         "url": "https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj"
@@ -353,7 +337,23 @@
       "url": "https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "Terug In De Tijd",
+        "url": "https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 187357,
+      "name": "Terug In De Tijd",
+      "url": "https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "undressed",
         "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
@@ -369,43 +369,7 @@
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "Lil Freakje",
-        "url": "https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A"
-      },
-      "artists": [
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        },
-        {
-          "name": "ADF Samski",
-          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
-        }
-      ],
-      "duration_ms": 214446,
-      "name": "Lil Freakje",
-      "url": "https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "Niet Voor Lief",
-        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
@@ -425,7 +389,7 @@
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
@@ -445,27 +409,43 @@
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
-        "name": "Blikkendag",
-        "url": "https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB"
+        "name": "Niet Voor Lief",
+        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
       },
       "artists": [
         {
-          "name": "Sven Versteeg",
-          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
-        },
-        {
-          "name": "Likke P\u00eahp",
-          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
         }
       ],
-      "duration_ms": 209090,
-      "name": "Blikkendag",
-      "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
+      "duration_ms": 147367,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "Lil Freakje",
+        "url": "https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "duration_ms": 214446,
+      "name": "Lil Freakje",
+      "url": "https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Wereldwonder",
         "url": "https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7"
@@ -493,7 +473,27 @@
       "url": "https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "Blikkendag",
+        "url": "https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Blikkendag",
+      "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Iconisch",
         "url": "https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Mama I Made It",
         "url": "https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/62iG1lk8qtd26ldgzCdRh5"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
@@ -573,23 +573,7 @@
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -605,7 +589,39 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "KiLELE",
+        "url": "https://open.spotify.com/album/402gAvYew9C7igBTsZgPSz"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 158944,
+      "name": "KiLELE",
+      "url": "https://open.spotify.com/track/404Il8wdrtHc2Wgcl0rfjT"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Say My Name (Remix)",
         "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
@@ -641,39 +657,7 @@
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "KiLELE",
-        "url": "https://open.spotify.com/album/402gAvYew9C7igBTsZgPSz"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 158944,
-      "name": "KiLELE",
-      "url": "https://open.spotify.com/track/404Il8wdrtHc2Wgcl0rfjT"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "8 Minuten",
-        "url": "https://open.spotify.com/album/0yhXIoKS0qfkUMy33GGbm5"
-      },
-      "artists": [
-        {
-          "name": "Lijpe",
-          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
-        }
-      ],
-      "duration_ms": 480497,
-      "name": "8 Minuten",
-      "url": "https://open.spotify.com/track/4zrPhDPG4J7twaA09v1vht"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Sorry I'm Here For Someone Else",
         "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
@@ -689,7 +673,31 @@
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "Show Me Love (with Tyla)",
+        "url": "https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 176957,
+      "name": "Show Me Love (with Tyla)",
+      "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Wolken",
         "url": "https://open.spotify.com/album/436JddM1AQ7Owp2IIAxiFv"
@@ -713,7 +721,7 @@
       "url": "https://open.spotify.com/track/3PSIMMmMWMHrQUzY46hVC4"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -745,31 +753,119 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
-        "name": "Show Me Love (with Tyla)",
-        "url": "https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti"
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
       "artists": [
         {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 176957,
-      "name": "Show Me Love (with Tyla)",
-      "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "8 Minuten",
+        "url": "https://open.spotify.com/album/0yhXIoKS0qfkUMy33GGbm5"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "duration_ms": 480497,
+      "name": "8 Minuten",
+      "url": "https://open.spotify.com/track/4zrPhDPG4J7twaA09v1vht"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "Nice To Meet You (Mistletoe Version)",
+        "url": "https://open.spotify.com/album/0fUqJBQwJTr5whQMexIcic"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Alleen Met Jou",
         "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
@@ -789,119 +885,7 @@
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "Nice To Meet You (Mistletoe Version)",
-        "url": "https://open.spotify.com/album/0fUqJBQwJTr5whQMexIcic"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "Zoet, Zout, Zuur",
-        "url": "https://open.spotify.com/album/6FrJb3MtWlu4EQNbXZsN1P"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 180778,
-      "name": "Zoet, Zout, Zuur",
-      "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
         "name": "Peter",
         "url": "https://open.spotify.com/album/2Tvw6sEI6oLXYYj2IABBR1"
@@ -917,24 +901,52 @@
       "url": "https://open.spotify.com/track/4FD2BCcJRzaWrDAtrr6sbQ"
     },
     {
-      "added_at": "2025-05-13 13:12:29",
+      "added_at": "2025-05-14 13:12:11",
       "album": {
-        "name": "Ushuaia",
-        "url": "https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6"
+        "name": "RS6",
+        "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
       },
       "artists": [
         {
-          "name": "Turfy Gang",
-          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         },
         {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 157261,
-      "name": "Ushuaia",
-      "url": "https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP"
+      "duration_ms": 228017,
+      "name": "RS6",
+      "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
+    },
+    {
+      "added_at": "2025-05-14 13:12:11",
+      "album": {
+        "name": "Shake It To The Max (FLY) (Remix)",
+        "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Silent Addy",
+          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Shake It To The Max (FLY) - Remix",
+      "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

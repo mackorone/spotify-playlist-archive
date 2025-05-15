@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,616 likes - 38 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,622 likes - 37 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,6 +45,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 35 | [The Dead Heart](https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Aussie Tour 7inch](https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB) | 4:40 |
 | 36 | [Burial](https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Death Letter](https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW) | 3:34 |
 | 37 | [Dark Night of the Soul](https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 6:02 |
-| 38 | [Complicit](https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Complicit](https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn) | 3:58 |
 
-Snapshot ID: `aCE6AAAAAAC6hOiIAbtsGu8ypnUCe3Bg`
+Snapshot ID: `aCKLgAAAAAD1O49ZOSF1GlVo8pKPyYLq`

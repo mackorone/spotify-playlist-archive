@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee",
-  "num_followers": 2082166,
+  "num_followers": 2082288,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-12-17 17:19:22",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
-    },
-    {
-      "added_at": "2024-12-17 17:19:22",
-      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 202866,
       "name": "Na De Na",
       "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
+    },
+    {
+      "added_at": "2024-12-17 17:19:22",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
     },
     {
       "added_at": "2024-12-17 17:19:22",

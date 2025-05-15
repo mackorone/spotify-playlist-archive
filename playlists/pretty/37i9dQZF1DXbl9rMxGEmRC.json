@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Behemoth",
-  "num_followers": 467855,
+  "num_followers": 467842,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Cruelty & The Beast",
-        "url": "https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7"
-      },
-      "artists": [
-        {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
-        }
-      ],
-      "duration_ms": 438733,
-      "name": "Cruelty Brought Thee Orchids",
-      "url": "https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "Exul",
         "url": "https://open.spotify.com/album/29p0sILcBTXJmhzqJPzcxB"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 749067,
       "name": "Equus",
       "url": "https://open.spotify.com/track/6zWR2V06SgBaywPrni5mB7"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "Cruelty & The Beast",
+        "url": "https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "duration_ms": 438733,
+      "name": "Cruelty Brought Thee Orchids",
+      "url": "https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Reinkaos",
-        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
-      },
-      "artists": [
-        {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
-        }
-      ],
-      "duration_ms": 366333,
-      "name": "Maha-Kali",
-      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "Hellbirds",
         "url": "https://open.spotify.com/album/3EXJcYYzCFx3m4ankVY5OY"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 274560,
       "name": "Hellbirds",
       "url": "https://open.spotify.com/track/2U72WcsoIurnXk2dPBMqKX"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "duration_ms": 366333,
+      "name": "Maha-Kali",
+      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "We Are The Apocalypse",
-        "url": "https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs"
-      },
-      "artists": [
-        {
-          "name": "Dark Funeral",
-          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
-        }
-      ],
-      "duration_ms": 281443,
-      "name": "Nosferatu",
-      "url": "https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "Scourge of the Offspring",
         "url": "https://open.spotify.com/album/0EOXYZmf3RXHG8ERn4iElN"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 268699,
       "name": "Scourge of the Offspring",
       "url": "https://open.spotify.com/track/68xQkT5Ww6SZBzbQzreOju"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "We Are The Apocalypse",
+        "url": "https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs"
+      },
+      "artists": [
+        {
+          "name": "Dark Funeral",
+          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
+        }
+      ],
+      "duration_ms": 281443,
+      "name": "Nosferatu",
+      "url": "https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Stained In Rot",
-        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "Stained In Rot",
-      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "The Tide of Death and Fractured Dreams",
         "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 217849,
       "name": "Endless Machine",
       "url": "https://open.spotify.com/track/4IcMbsouvdrvIirllmC7ar"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "Stained In Rot",
+        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "Stained In Rot",
+      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Hanged by My Hand",
-        "url": "https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy"
-      },
-      "artists": [
-        {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Hanged by My Hand",
-      "url": "https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "Saoirse",
         "url": "https://open.spotify.com/album/6zhT0ZNSRJWVCyWiyyeCLz"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 377453,
       "name": "Saoirse",
       "url": "https://open.spotify.com/track/1YtnZi7QgKE3rcgg91mDKn"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "Hanged by My Hand",
+        "url": "https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy"
+      },
+      "artists": [
+        {
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Hanged by My Hand",
+      "url": "https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Lord of Ruins",
-        "url": "https://open.spotify.com/album/02gKvANAOKzUvhicE1nP1p"
-      },
-      "artists": [
-        {
-          "name": "Crypta",
-          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "Lord of Ruins",
-      "url": "https://open.spotify.com/track/4lfftoC6dY7tba01rNx6hO"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "Turbulence",
         "url": "https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 200023,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "Lord of Ruins",
+        "url": "https://open.spotify.com/album/02gKvANAOKzUvhicE1nP1p"
+      },
+      "artists": [
+        {
+          "name": "Crypta",
+          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "Lord of Ruins",
+      "url": "https://open.spotify.com/track/4lfftoC6dY7tba01rNx6hO"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Between the Worlds Of Life And Death",
-        "url": "https://open.spotify.com/album/5Z8BLgcS7m6vycYBJzjhzo"
-      },
-      "artists": [
-        {
-          "name": "Vale Of Pnath",
-          "url": "https://open.spotify.com/artist/31i0H73pagGhaNZ9YLgUYY"
-        }
-      ],
-      "duration_ms": 267274,
-      "name": "Silent Prayers",
-      "url": "https://open.spotify.com/track/1f1CfdRtLuYPo7FBdclY5e"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "Virtus Asinaria - Prayer",
         "url": "https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 318546,
       "name": "Virtus Asinaria - Prayer",
       "url": "https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "Between the Worlds Of Life And Death",
+        "url": "https://open.spotify.com/album/5Z8BLgcS7m6vycYBJzjhzo"
+      },
+      "artists": [
+        {
+          "name": "Vale Of Pnath",
+          "url": "https://open.spotify.com/artist/31i0H73pagGhaNZ9YLgUYY"
+        }
+      ],
+      "duration_ms": 267274,
+      "name": "Silent Prayers",
+      "url": "https://open.spotify.com/track/1f1CfdRtLuYPo7FBdclY5e"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Under The Reviled Throne",
-        "url": "https://open.spotify.com/album/5tSuVWooK3ZtbWRBz7pJ0p"
-      },
-      "artists": [
-        {
-          "name": "Summoning the Lich",
-          "url": "https://open.spotify.com/artist/50hQBBOvJ0XIyUmFEnCy2W"
-        }
-      ],
-      "duration_ms": 239755,
-      "name": "The Carrion Fleet",
-      "url": "https://open.spotify.com/track/5tTvAAEyf75xdoyjU5uamJ"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "The Age Of The Offended",
         "url": "https://open.spotify.com/album/41XSSyvJe1IyHeFB1QHrPq"
       },
@@ -1771,6 +1755,22 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
+        "name": "Under The Reviled Throne",
+        "url": "https://open.spotify.com/album/5tSuVWooK3ZtbWRBz7pJ0p"
+      },
+      "artists": [
+        {
+          "name": "Summoning the Lich",
+          "url": "https://open.spotify.com/artist/50hQBBOvJ0XIyUmFEnCy2W"
+        }
+      ],
+      "duration_ms": 239755,
+      "name": "The Carrion Fleet",
+      "url": "https://open.spotify.com/track/5tTvAAEyf75xdoyjU5uamJ"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
         "name": "Arsenal of War",
         "url": "https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07"
       },
@@ -1783,6 +1783,22 @@
       "duration_ms": 245400,
       "name": "Arsenal of War",
       "url": "https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "Galactic Order",
+        "url": "https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt"
+      },
+      "artists": [
+        {
+          "name": "Assemble the Chariots",
+          "url": "https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ"
+        }
+      ],
+      "duration_ms": 322109,
+      "name": "Galactic Order",
+      "url": "https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -1819,18 +1835,18 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Galactic Order",
-        "url": "https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt"
+        "name": "Killing Innocence",
+        "url": "https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss"
       },
       "artists": [
         {
-          "name": "Assemble the Chariots",
-          "url": "https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ"
+          "name": "Graveworm",
+          "url": "https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX"
         }
       ],
-      "duration_ms": 322109,
-      "name": "Galactic Order",
-      "url": "https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F"
+      "duration_ms": 350000,
+      "name": "In Honour of the Fallen",
+      "url": "https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -1851,18 +1867,18 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Killing Innocence",
-        "url": "https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss"
+        "name": "Insides Out",
+        "url": "https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK"
       },
       "artists": [
         {
-          "name": "Graveworm",
-          "url": "https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX"
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
         }
       ],
-      "duration_ms": 350000,
-      "name": "In Honour of the Fallen",
-      "url": "https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK"
+      "duration_ms": 212183,
+      "name": "Insides Out",
+      "url": "https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -1879,22 +1895,6 @@
       "duration_ms": 263733,
       "name": "The Other Side of Anger",
       "url": "https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
-        "name": "Insides Out",
-        "url": "https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK"
-      },
-      "artists": [
-        {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "Insides Out",
-      "url": "https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Havukruunu ja Talvenvarjo",
-        "url": "https://open.spotify.com/album/0xjLUdixgkPBTNC5GiRSvy"
-      },
-      "artists": [
-        {
-          "name": "Havukruunu",
-          "url": "https://open.spotify.com/artist/2ccokPZoXdXaj4yiZqMxIJ"
-        }
-      ],
-      "duration_ms": 354800,
-      "name": "Havukruunu ja Talvenvarjo",
-      "url": "https://open.spotify.com/track/0xL8EgDgc7RWoSn4PRpa4h"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "The Lust Called Knowledge (Re-Recorded 2022)",
         "url": "https://open.spotify.com/album/1oltdhcpRRjJN8Elcrbn0v"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 271146,
       "name": "The Lust Called Knowledge - Re-Recorded 2022",
       "url": "https://open.spotify.com/track/4B692KoX3G3KXXIrJhxeZr"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "Havukruunu ja Talvenvarjo",
+        "url": "https://open.spotify.com/album/0xjLUdixgkPBTNC5GiRSvy"
+      },
+      "artists": [
+        {
+          "name": "Havukruunu",
+          "url": "https://open.spotify.com/artist/2ccokPZoXdXaj4yiZqMxIJ"
+        }
+      ],
+      "duration_ms": 354800,
+      "name": "Havukruunu ja Talvenvarjo",
+      "url": "https://open.spotify.com/track/0xL8EgDgc7RWoSn4PRpa4h"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Chapter III: Nest",
-        "url": "https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj"
-      },
-      "artists": [
-        {
-          "name": "Where's My Bible",
-          "url": "https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7"
-        }
-      ],
-      "duration_ms": 223604,
-      "name": "Chapter III: Nest",
-      "url": "https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "Death from Above",
         "url": "https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 212355,
       "name": "Death from Above",
       "url": "https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "Chapter III: Nest",
+        "url": "https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj"
+      },
+      "artists": [
+        {
+          "name": "Where's My Bible",
+          "url": "https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7"
+        }
+      ],
+      "duration_ms": 223604,
+      "name": "Chapter III: Nest",
+      "url": "https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Unextinct",
-        "url": "https://open.spotify.com/album/7GrP4nNcnXffSlqOAMkadH"
-      },
-      "artists": [
-        {
-          "name": "Hideous Divinity",
-          "url": "https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH"
-        }
-      ],
-      "duration_ms": 422000,
-      "name": "The Numinous One",
-      "url": "https://open.spotify.com/track/30a8YSOFPocPuru2uYe7hY"
-    },
-    {
-      "added_at": "2025-01-30 23:01:00",
-      "album": {
         "name": "Know-Nothing Ingrate",
         "url": "https://open.spotify.com/album/3egY0jVJXAwceGEr30GY4Y"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 142675,
       "name": "Know-Nothing Ingrate",
       "url": "https://open.spotify.com/track/4cjhlFdjALnp8QZ4DnSlC5"
+    },
+    {
+      "added_at": "2025-01-30 23:01:00",
+      "album": {
+        "name": "Unextinct",
+        "url": "https://open.spotify.com/album/7GrP4nNcnXffSlqOAMkadH"
+      },
+      "artists": [
+        {
+          "name": "Hideous Divinity",
+          "url": "https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH"
+        }
+      ],
+      "duration_ms": 422000,
+      "name": "The Numinous One",
+      "url": "https://open.spotify.com/track/30a8YSOFPocPuru2uYe7hY"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -2411,18 +2411,18 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Jailbreak",
-        "url": "https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY"
+        "name": "Call Of The Wind",
+        "url": "https://open.spotify.com/album/3PRkLeUz0coWZoTRRq7mL7"
       },
       "artists": [
         {
-          "name": "Nervosa",
-          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
+          "name": "Furor Gallico",
+          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
         }
       ],
-      "duration_ms": 205712,
-      "name": "Jailbreak",
-      "url": "https://open.spotify.com/track/0zAMnEOY4hrzwThQuRbRiI"
+      "duration_ms": 330226,
+      "name": "Call of the Wind",
+      "url": "https://open.spotify.com/track/2veVzMJRTNjB59NgQM1Jrn"
     },
     {
       "added_at": "2025-01-30 23:01:00",
@@ -2443,18 +2443,18 @@
     {
       "added_at": "2025-01-30 23:01:00",
       "album": {
-        "name": "Call Of The Wind",
-        "url": "https://open.spotify.com/album/3PRkLeUz0coWZoTRRq7mL7"
+        "name": "Jailbreak",
+        "url": "https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY"
       },
       "artists": [
         {
-          "name": "Furor Gallico",
-          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
         }
       ],
-      "duration_ms": 330226,
-      "name": "Call of the Wind",
-      "url": "https://open.spotify.com/track/2veVzMJRTNjB59NgQM1Jrn"
+      "duration_ms": 205712,
+      "name": "Jailbreak",
+      "url": "https://open.spotify.com/track/0zAMnEOY4hrzwThQuRbRiI"
     }
   ],
   "unique_name": "Extreme Metal",

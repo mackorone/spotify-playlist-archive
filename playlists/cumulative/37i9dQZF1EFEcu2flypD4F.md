@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-381 songs - 1 day 0 hr 3 min
+382 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Big Girls Cry](https://open.spotify.com/track/4mxPbSobznm8b07Qy3YHQG) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Big Girls Cry \(Official Video\)](https://open.spotify.com/album/0d1ycc3XUJBGNcX17NZIAG) | 3:36 | 2023-12-30 | 2024-02-02 |
 | [Bird Set Free](https://open.spotify.com/track/44p0C72gL2FbjWbzkUFfTf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 4:12 | 2023-12-30 |  |
 | [Biting Tongue](https://open.spotify.com/track/5rU6aPN2OfTopFSpTog5Sv) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Turn It Around](https://open.spotify.com/album/3ycQqRwQMmGRxftasUhY5w) | 1:07 | 2023-12-30 |  |
-| [Blame \- Acoustic Version](https://open.spotify.com/track/3KM8Z6TdBUEzYTzOic47JL) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs \- Vol.5](https://open.spotify.com/album/6u5gO8wt9C1HC9ONvbnk20) | 3:24 | 2023-12-30 |  |
+| [Blame \(Workout Mix\)](https://open.spotify.com/track/2bBqnSxwAW06xXnoY3cWfn) | [Workout Buddy](https://open.spotify.com/artist/7JfutRemdlJGyQsIZ7wWQ9) | [100 Ultimate Workout Hits! 2016](https://open.spotify.com/album/4RVETsLJtXPDPuqGWUqHCW) | 4:23 | 2025-05-14 |  |
+| [Blame \- Acoustic Version](https://open.spotify.com/track/3KM8Z6TdBUEzYTzOic47JL) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs \- Vol.5](https://open.spotify.com/album/6u5gO8wt9C1HC9ONvbnk20) | 3:24 | 2023-12-30 | 2025-05-15 |
 | [Blame It On the Radio](https://open.spotify.com/track/0FS4cFiS05fzihSTZy4Xej) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost](https://open.spotify.com/album/1cOQ4Jc5MCUMvycbFCl5Si) | 2:30 | 2023-12-30 |  |
 | [Blank Page](https://open.spotify.com/track/1n8rXiAQYmZ5D45WmqGTpM) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 4:04 | 2023-12-30 |  |
 | [Blinded By Love](https://open.spotify.com/track/44UyKnqSL7aNRxOCBWduzW) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:41 | 2023-12-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1206571,
+  "num_followers": 1206698,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADGhUopG/1k2RMsKbOnaSDg",
+  "snapshot_id": "aCKLgAAAAABRfT9D1ybUg7qSOSTjeu+8",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/7rSjuY09uCzvMY4TlFsBD8"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 246410,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Witness (Deluxe)",
         "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 227813,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/4rHmKlFRiFzabiVO6e9w2e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/7rSjuY09uCzvMY4TlFsBD8"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 246410,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6"
     },
     {
       "added_at": null,

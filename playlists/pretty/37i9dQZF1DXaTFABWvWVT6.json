@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 73247,
+  "num_followers": 73255,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2024-10-25 00:00:00",
       "album": {
+        "name": "Mind Still (feat. blythe)",
+        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        }
+      ],
+      "duration_ms": 156498,
+      "name": "Mind Still (feat. blythe)",
+      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
+    },
+    {
+      "added_at": "2024-10-25 00:00:00",
+      "album": {
         "name": "Summertime Blues (feat. Nathan Nicholson)",
         "url": "https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 251201,
       "name": "Summertime Blues (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp"
-    },
-    {
-      "added_at": "2024-10-25 00:00:00",
-      "album": {
-        "name": "Mind Still (feat. blythe)",
-        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "blythe",
-          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
-        }
-      ],
-      "duration_ms": 156498,
-      "name": "Mind Still (feat. blythe)",
-      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
     },
     {
       "added_at": "2024-10-25 00:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-10-25 00:00:00",
       "album": {
-        "name": "La Musa (with Miluhska)",
-        "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Miluhska",
-          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
-        }
-      ],
-      "duration_ms": 183830,
-      "name": "La Musa (with Miluhska)",
-      "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
-    },
-    {
-      "added_at": "2024-10-25 00:00:00",
-      "album": {
         "name": "shine",
         "url": "https://open.spotify.com/album/1oblVh0UrovPi0BT5Mje3E"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 144304,
       "name": "shine",
       "url": "https://open.spotify.com/track/002mQ6kXOWDP2i5IZcwDVc"
+    },
+    {
+      "added_at": "2024-10-25 00:00:00",
+      "album": {
+        "name": "La Musa (with Miluhska)",
+        "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+        }
+      ],
+      "duration_ms": 183830,
+      "name": "La Musa (with Miluhska)",
+      "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
     },
     {
       "added_at": "2024-10-25 00:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-10-25 00:00:00",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 344593,
-      "name": "Pressure Makes Diamonds",
-      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
-    },
-    {
-      "added_at": "2024-10-25 00:00:00",
-      "album": {
         "name": "ENERGY",
         "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 140621,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+    },
+    {
+      "added_at": "2024-10-25 00:00:00",
+      "album": {
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 344593,
+      "name": "Pressure Makes Diamonds",
+      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
     },
     {
       "added_at": "2024-10-25 00:00:00",

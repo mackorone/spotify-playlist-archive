@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,811 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,814 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 44 | [Foreign \(feat\. Nav\)](https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:13 |
 | 45 | [Codeine \(feat\. Gunna\)](https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 3:08 |
 | 46 | [RED EYE](https://open.spotify.com/track/28gdR75bXpqkJ5K9lGE0BJ) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE \(DELUXE\)](https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9) | 2:22 |
-| 47 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
-| 48 | [TRUE COLORS](https://open.spotify.com/track/4GmMqPlVor1JhDHgs2IpEX) | [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [MONEY MILITIA](https://open.spotify.com/album/3c8BHyoambtuGYHiuATs00) | 1:52 |
+| 47 | [TRUE COLORS](https://open.spotify.com/track/4GmMqPlVor1JhDHgs2IpEX) | [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [MONEY MILITIA](https://open.spotify.com/album/3c8BHyoambtuGYHiuATs00) | 1:52 |
+| 48 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
 | 49 | [Vetement Socks](https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:35 |
 | 50 | [Habits](https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:24 |
 
-Snapshot ID: `aCE6AAAAAABgn2akiaooBZoUUm5+GaIs`
+Snapshot ID: `aCKLgAAAAADt+RXcOmDEjmcvUBSvvimC`

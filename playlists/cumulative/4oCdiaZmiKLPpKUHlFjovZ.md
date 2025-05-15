@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Money Man, Rio Da Yung Og,  Peezy &amp; Tyga.
 
-145 songs - 6 hr 15 min
+147 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Boy Oh Boy](https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [Boy Oh Boy](https://open.spotify.com/album/3AKtlxNCe8MHDRKvlJF6M1) | 1:57 | 2023-08-18 | 2024-05-21 |
 | [Brand New](https://open.spotify.com/track/1VdYuaX09Fl8wJbGKloAfA) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/6PXO9lWb0jxlBYtYvTk6Uc) | 3:02 | 2023-09-28 |  |
 | [BUSINESS IS BUSINESS](https://open.spotify.com/track/3oMNeqnhaXx96vip9Udsw7) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Trauma Tone](https://open.spotify.com/artist/5hbmx6kYC3b7lHWkbvs455) | [TMZ](https://open.spotify.com/album/6Z8BUrS5QTkofkDvhh4zGN) | 2:08 | 2024-10-15 | 2024-11-19 |
+| [CAN'T GET RIGHT](https://open.spotify.com/track/7prcfanTLk3DCeER51hqd3) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [CAN'T GET RIGHT](https://open.spotify.com/album/0FdhSn9vahw0oyHSqsYDwE) | 2:17 | 2025-05-14 |  |
 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 | 2024-01-19 |  |
 | [Cardio](https://open.spotify.com/track/2P98r1n9zWywNmA8TrDzKc) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Insomnia](https://open.spotify.com/album/4VDFKsron5xLCkREXXmFjD) | 2:43 | 2025-03-21 |  |
 | [Celebrity Status](https://open.spotify.com/track/6qTVt8nIu3UzFe6qXmtEao) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI) | [Celebrity Status](https://open.spotify.com/album/6M1H4iaKsUYjEPoTMwqVlF) | 1:26 | 2023-09-08 | 2024-06-19 |
@@ -137,6 +138,7 @@
 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 | 2023-09-05 | 2024-05-21 |
 | [The Greatest](https://open.spotify.com/track/0yiP9YTs4J4eQVU5Zc42QL) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [The Greatest](https://open.spotify.com/album/4Zle90yBm3NjONDtmuutCX) | 2:14 | 2024-05-15 | 2025-02-01 |
 | [The Warm Up](https://open.spotify.com/track/6bLLiQAShrb742zp2sdoai) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [The Warm Up](https://open.spotify.com/album/3k8we0dTMGtINphGLPNNQe) | 2:35 | 2024-05-20 | 2025-03-05 |
+| [THUGGIN NOT CLUBBIN](https://open.spotify.com/track/5XKykbx4PClLewzOvlb2JX) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [THUGGIN NOT CLUBBIN](https://open.spotify.com/album/6XKQ5hbDwFImvujXhPwpKZ) | 2:29 | 2025-05-14 |  |
 | [Tidal Wave](https://open.spotify.com/track/0yquoP4Aa49aT2n460pbYU) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Tidal Wave](https://open.spotify.com/album/2ltqTkAvRX2n5xfbC6s7ct) | 3:18 | 2024-05-15 | 2025-03-05 |
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-03-04 |  |
 | [Took Her To The O](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 3:16 | 2024-01-19 |  |

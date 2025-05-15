@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,707 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,735 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 36 | [Cuando Alguien Me Amaba](https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cuando Alguien Me Amaba](https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj) | 2:24 |
 | 37 | [Amigo 09](https://open.spotify.com/track/6u2zEs6QmaVYbuQFzh8JVQ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:49 |
 | 38 | [No Vengas A Buscarme](https://open.spotify.com/track/7JS9AEJmz4Cpriz73u3tmB) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [No Vengas A Buscarme](https://open.spotify.com/album/5horTevZCjGFpqPGXKalaX) | 3:56 |
-| 39 | [Las Facetas de Arturo \(En Vivo\)](https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:11 |
-| 40 | [Lo que hay x aquí](https://open.spotify.com/track/7zrsSimdPZxyPZ0D3nHIWz) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [La Receta, Jambao, G Sony \| Sin Miedo al Éxito \#2](https://open.spotify.com/album/7L1MfLpHzxgCAGUi0hgu6P) | 3:03 |
+| 39 | [Lo que hay x aquí](https://open.spotify.com/track/7zrsSimdPZxyPZ0D3nHIWz) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [La Receta, Jambao, G Sony \| Sin Miedo al Éxito \#2](https://open.spotify.com/album/7L1MfLpHzxgCAGUi0hgu6P) | 3:03 |
+| 40 | [Las Facetas de Arturo \(En Vivo\)](https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:11 |
 | 41 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 |
 | 42 | [Somos Mayiza](https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX) | 3:12 |
-| 43 | [CHV FLX](https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Estilo Sencillo](https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5) | [CHV FLX](https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM) | 2:24 |
-| 44 | [El Gerente](https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:57 |
+| 43 | [El Gerente](https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:57 |
+| 44 | [CHV FLX](https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Estilo Sencillo](https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5) | [CHV FLX](https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM) | 2:24 |
 | 45 | [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 |
 | 46 | [Arturon Beltran](https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 2:08 |
-| 47 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 |
-| 48 | [Casi Se Les Hizo](https://open.spotify.com/track/4zdbK07qXLkj1T07ezVAVH) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:30 |
+| 47 | [Casi Se Les Hizo](https://open.spotify.com/track/4zdbK07qXLkj1T07ezVAVH) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:30 |
+| 48 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 |
 | 49 | [El Niño De La Tuna](https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:47 |
 | 50 | [El Nieto Del Mayo](https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:11 |
 
-Snapshot ID: `aCE6AAAAAABAhqwpk/xWRR/CUPThefKg`
+Snapshot ID: `aCKLgAAAAADf/s//RNumwg6y9XrqLPZ+`

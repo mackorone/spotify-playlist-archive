@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 546 songs - 1 day 12 hr 14 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 547 songs - 1 day 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -554,5 +554,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 544 | [The Knock](https://open.spotify.com/track/2oqDWu9cEgRcvk5FhIqEDU) | [Hop Along](https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp) | [Painted Shut](https://open.spotify.com/album/7bR9KYRb6jfhlle5Y9U4BD) | 3:33 |
 | 545 | [Where'd You Go?](https://open.spotify.com/track/51nV3C1hpbfKBi4bXiyDkv) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 1:41 |
 | 546 | [Lust For Life](https://open.spotify.com/track/2aN0YiOoQwe4Sjcu8Sgijw) | [Girls](https://open.spotify.com/artist/6eO95BjZhrWHREMfwC4vVN) | [Album](https://open.spotify.com/album/3jo1GRqnwVlN23KUgcaCL9) | 2:25 |
+| 547 | [Jumpscare](https://open.spotify.com/track/0zOmLh7zxmMIgJKU6Cfdlx) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Steel Tipped Dove](https://open.spotify.com/artist/6b74rHzWIZlgLH7U5ybjUE) | [GOLLIWOG](https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo) | 3:16 |
 
-Snapshot ID: `AAAHKcqd+o/pf+OKdk2SDJ3p+Ik6VdfL`
+Snapshot ID: `AAAHKvktVAK/DBM8kdP0bYy0RwBMh9+b`

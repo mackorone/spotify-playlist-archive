@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,855 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,857 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 49 | [Peace](https://open.spotify.com/track/6r149zapbSHwCxJUoh0aLD) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:22 |
 | 50 | [Heartbeats](https://open.spotify.com/track/6MlSaMQB3H6xDU903HfUF0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Rob Derbyshire](https://open.spotify.com/artist/3cH6jwySd6wMM0OxMTh5CP) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:57 |
 
-Snapshot ID: `aCE6AAAAAACET/ZN5ebXGGGFyOUqmb0Q`
+Snapshot ID: `aCKLgAAAAAAsHlue9G/x2X/dlPHZ2Xig`

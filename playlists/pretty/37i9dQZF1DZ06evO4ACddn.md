@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162 likes - 31 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163 likes - 31 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 30 | [Wait in the Car](https://open.spotify.com/track/0fm9CqVDMAFiVBvCcBBJo0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:40 |
 | 31 | [Eventide](https://open.spotify.com/track/5mmlzxAJaVTlE0qwMzlRd0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:17 |
 
-Snapshot ID: `aCE6AAAAAADx81rmkViqMwCVz/XjvojQ`
+Snapshot ID: `aCKLgAAAAAD6iFfeItX/CZw+HEi3XecL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🏔️ Tech house technicians, featuring HILLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,367 likes - 125 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,465 likes - 125 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

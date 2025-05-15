@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,015 songs - 2 day 12 hr 4 min
+1,016 songs - 2 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Dear Fren](https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 3:02 | 2024-12-03 | 2024-12-18 |
 | [DEEP](https://open.spotify.com/track/0EVdzF6jNEL5fKH1FeONbb) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DEEP](https://open.spotify.com/album/6plK6Io4aV3wSY53pZjSW9) | 3:36 | 2022-10-25 | 2022-12-07 |
 | [Deeper](https://open.spotify.com/track/3ShUS9A5HC0ZaO21Cnl3v8) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Deeper](https://open.spotify.com/album/1gtc4Ft1JspHCCd9dozX8a) | 5:12 | 2023-10-12 | 2023-10-18 |
+| [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-13 |  |
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-25 | 2023-06-23 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-23 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-14 |  |
@@ -880,7 +881,7 @@
 | [white dress](https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [white dress](https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS) | 2:52 | 2023-06-01 | 2023-06-21 |
 | [WHITNEY](https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WHITNEY](https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw) | 2:44 | 2024-09-25 | 2024-11-07 |
 | [why dont we go](https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [why dont we go](https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q) | 2:46 | 2023-11-09 | 2024-05-09 |
-| [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 | 2023-10-05 |  |
+| [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 | 2023-10-05 | 2025-05-15 |
 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 | 2023-06-08 | 2023-06-23 |
 | [Witchy \(feat\. Childish Gambino\)](https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:47 | 2024-06-12 |  |
 | [Without You \(Blxst Interlude\)](https://open.spotify.com/track/4o37I9GMKgu8bTvt4Zd4Ny) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Without You \(Blxst Interlude\)](https://open.spotify.com/album/7tYruPXBGvlRyeY6ShHX1C) | 2:44 | 2023-10-26 | 2023-11-16 |

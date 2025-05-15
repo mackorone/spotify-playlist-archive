@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Salmo, Tony Boy, Shablo, Tony Effe e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,987 likes - 134 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,001 likes - 134 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 45 | [139](https://open.spotify.com/track/3Bb6TJkqfLFoAXInJ8foJR) | [headows](https://open.spotify.com/artist/13LA1PXTvCYn9VT4dqGAfq) | [139](https://open.spotify.com/album/7mRenYePKZtr8Qc9ny1QEz) | 1:17 |
 | 46 | [Ragazzi di diversi quartieri \(feat\. LIUAN\)](https://open.spotify.com/track/2fsX6DFN4J5GcmXHJeHayu) | [Laïoung](https://open.spotify.com/artist/4RrtqH6egYYBfJrnLkhINz), [LIUAN](https://open.spotify.com/artist/4EWwWCzNKwF2hJMjNtldWt) | [Ragazzi di diversi quartieri \(feat\. LIUAN\)](https://open.spotify.com/album/7L0j9Z9oIEtKdihe23C0W8) | 2:38 |
 | 47 | [Mio fra sí](https://open.spotify.com/track/6BKkwqkiw0PbzrlZlQSTQi) | [ESTREMO EAST](https://open.spotify.com/artist/5pLvZE9AWuFuMVFntiOvBq), [Totem](https://open.spotify.com/artist/4S3jg23v1gg17rTKI952fK), [MR Rizzus](https://open.spotify.com/artist/1lbjFxJSZCuCjiOKuMfmiO), [El Moro](https://open.spotify.com/artist/4fxCc0SX5a54YE1zoaaDX6), [Kooma](https://open.spotify.com/artist/10EarkYHtpo6YCGvlrL0i0), [LLEDRI™](https://open.spotify.com/artist/1GZcNesL6zyEwpfdDJJf6O) | [Mio fra sí](https://open.spotify.com/album/3Ecn7wDnrAehGS8OSLN9sI) | 1:52 |
-| 48 | [NINO](https://open.spotify.com/track/0li5GpbhT8R3hsmFc6TYgc) | [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ), [Funkyman](https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb) | [NINO](https://open.spotify.com/album/0E6GOgTr8yyykOolrBiufC) | 1:45 |
+| 48 | [Nino](https://open.spotify.com/track/0li5GpbhT8R3hsmFc6TYgc) | [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ), [Funkyman](https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb) | [Nino](https://open.spotify.com/album/0E6GOgTr8yyykOolrBiufC) | 1:45 |
 | 49 | [overthinking](https://open.spotify.com/track/4lhECOlx67CTylxIg968CW) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [overthinking](https://open.spotify.com/album/0USgnNzrratBfUh9BqwoOe) | 2:40 |
 | 50 | [Pali Su Pali](https://open.spotify.com/track/78uJ2psOQcnZgOzdn4hl5v) | [Dayv](https://open.spotify.com/artist/0TTBL9D4ZfIZA71tpLMCro) | [Pali Su Pali](https://open.spotify.com/album/2odz3gsIZlmtSC6pgcRF96) | 2:48 |
 | 51 | [SANGUE VERSATO](https://open.spotify.com/track/6JTKdCVTDJP5dG2KyuBJqt) | [PANDEMONIO](https://open.spotify.com/artist/1JxpvwGeDfHnhit6LRSe1c) | [SANGUE VERSATO](https://open.spotify.com/album/4cCPDwyvCpzr7XOhNfSkfS) | 1:28 |

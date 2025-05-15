@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,252 likes - 249 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,256 likes - 249 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 33 | [Like Mariah \(feat\. Tyga\)](https://open.spotify.com/track/3KvfY1YNtTsTR6Eu69800S) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:28 |
 | 34 | [Through The Rain](https://open.spotify.com/track/0mvtBgpiAg6fPg7ec7lxE9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:48 |
 | 35 | [Butterfly](https://open.spotify.com/track/3hp4ojt7tHLWwz6SaR7vkw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:33 |
-| 36 | [Say Something](https://open.spotify.com/track/1TztkUc1qFYl61tT85MHU4) | [Kadiatou](https://open.spotify.com/artist/4MvZ0qFh21x4rJ8lqMh5qZ) | [Say Something](https://open.spotify.com/album/3YHusqbp3AQbQK4hpo5I6D) | 3:43 |
-| 37 | [Angels Cry Remix \- Remix](https://open.spotify.com/track/0TJRfA2MIIRd3tTDK9tPPf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Angels Cry Remix feat\. Ne\-Yo](https://open.spotify.com/album/3SxgnytOcu80ARVznoU6P0) | 3:53 |
+| 36 | [Angels Cry Remix \- Remix](https://open.spotify.com/track/0TJRfA2MIIRd3tTDK9tPPf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Angels Cry Remix feat\. Ne\-Yo](https://open.spotify.com/album/3SxgnytOcu80ARVznoU6P0) | 3:53 |
+| 37 | [Say Something](https://open.spotify.com/track/1TztkUc1qFYl61tT85MHU4) | [Kadiatou](https://open.spotify.com/artist/4MvZ0qFh21x4rJ8lqMh5qZ) | [Say Something](https://open.spotify.com/album/3YHusqbp3AQbQK4hpo5I6D) | 3:43 |
 | 38 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 |
 | 39 | [Anytime You Need a Friend](https://open.spotify.com/track/6tsBYvprVAntHx8rQLedqn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:25 |
 | 40 | [Hark! The Herald Angels Sing / Gloria \(In Excelsis Deo\)](https://open.spotify.com/track/74VQqRHWXDUyErPqwdeG5D) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:59 |
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 202 | [You Had Your Chance](https://open.spotify.com/track/0WChkFaGvwabGtZc8WhIeC) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:22 |
 | 203 | [So Lonely \(One & Only Pt\. II\)](https://open.spotify.com/track/1XCUkosTXbgAx0kdt4TYN7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 3:53 |
 | 204 | [All I Live For \- 1993](https://open.spotify.com/track/7zgEjKKBdV4SEX6X6n891W) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:22 |
-| 205 | [Cool On You \- 2007](https://open.spotify.com/track/0IIxSGyM0A14v1a9eccmKi) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:11 |
-| 206 | [Don't Stop \(Funkin' 4 Jamaica\)](https://open.spotify.com/track/7e5PmxlrXcTODQoW1W6B6D) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:37 |
+| 205 | [Don't Stop \(Funkin' 4 Jamaica\)](https://open.spotify.com/track/7e5PmxlrXcTODQoW1W6B6D) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:37 |
+| 206 | [Cool On You \- 2007](https://open.spotify.com/track/0IIxSGyM0A14v1a9eccmKi) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:11 |
 | 207 | [Can You Hear Me \- 1991](https://open.spotify.com/track/4y7X5M3kB8GJjWmngmGYY4) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 4:06 |
 | 208 | [Honey \(feat\. Da Brat & JD\) \- So So Def Mix](https://open.spotify.com/track/1GomH41h9rykoKiuxnf2TW) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [JD](https://open.spotify.com/artist/3z7yKqJJRHP9hoCvCuFO4X) | [Honey EP](https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH) | 5:13 |
 | 209 | [I Pray \- 2005](https://open.spotify.com/track/3MLyjm2WqxyOfLhufSzY3Z) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 2:53 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbxVdQAAAAAyQTgMOoopQFUTd/shzBgq`
+Snapshot ID: `AbxbCgAAAADKBDm2EiEoSVqw5EP/X6LU`

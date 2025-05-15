@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Jhay P
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,419 likes - 164 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,406 likes - 164 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 11 | [OF \(Only Fans\)](https://open.spotify.com/track/4JUkTbDOAK6xR0Ne3TTdr7) | [SAI](https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x) | [OF \(Only Fans\)](https://open.spotify.com/album/0chstKYem6rywr5Qm0y6ka) | 2:58 |
 | 12 | [Gen 2000](https://open.spotify.com/track/4yHxk9N0MIcQNjRICcsRV1) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Gen 2000](https://open.spotify.com/album/4a4L71JveDgiduthe0JM6s) | 2:15 |
 | 13 | [HAKiA](https://open.spotify.com/track/2R7tJQlT37TxQ1jzu9ez7K) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [HAKiA](https://open.spotify.com/album/0KqrVcGMXFMESOIj071ZIi) | 2:13 |
-| 14 | [Movie de Artista](https://open.spotify.com/track/54k17mxDTeRBdMrKBVezmG) | [Machine](https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA) | [MOVIE \(VOL 1\)](https://open.spotify.com/album/74e8buhRbE5xXEAxKIDpVB) | 2:36 |
+| 14 | [MOVIE DE ARTISTA](https://open.spotify.com/track/54k17mxDTeRBdMrKBVezmG) | [Machine](https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA) | [MOVIE \(VOL 1\)](https://open.spotify.com/album/74e8buhRbE5xXEAxKIDpVB) | 2:36 |
 | 15 | [MARTINI+](https://open.spotify.com/track/6LNeAcM7VY0715oliFJ8dd) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Hassi](https://open.spotify.com/artist/1Ng2SjGvxtzr7tFRBi2c5j), [Kyoshi Reyes](https://open.spotify.com/artist/0892v5aJKxs8tcXf9BCe8E) | [SENSACIONES+](https://open.spotify.com/album/4T4RB4clLd86DhlSoAT5Jt) | 3:03 |
 | 16 | [Mickey](https://open.spotify.com/track/4tRIJ57ePYLTFqMZupSM0z) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [Mickey](https://open.spotify.com/album/1V8EX2DkUUJCLOf24KGUml) | 2:58 |
 | 17 | [Pa las girlas](https://open.spotify.com/track/7dCGkDZgWIDSZyxInMkdIv) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw) | [Pa las girlas](https://open.spotify.com/album/5yGeyYQfUhdQUvk0yVTVkY) | 2:30 |

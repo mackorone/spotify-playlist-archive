@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 69621,
+  "num_followers": 69665,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Cartography",
-        "url": "https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        }
-      ],
-      "duration_ms": 341613,
-      "name": "Migration",
-      "url": "https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Work Song",
         "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 255720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Cartography",
+        "url": "https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        }
+      ],
+      "duration_ms": 341613,
+      "name": "Migration",
+      "url": "https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Introducing Nat Adderley",
         "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 267560,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Buoyancy",
-        "url": "https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "Gilimanuk",
-      "url": "https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Goin' Up",
         "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Buoyancy",
+        "url": "https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Gilimanuk",
+      "url": "https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Approaching Standards",
         "url": "https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 369933,
       "name": "Easy To Remember",
       "url": "https://open.spotify.com/track/0QKbUoVUNbmxpOaURXiday"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "The Great Pretender",
+        "url": "https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q"
+      },
+      "artists": [
+        {
+          "name": "Lester Bowie",
+          "url": "https://open.spotify.com/artist/3r0t2sPG17gaUgXDJyJmHf"
+        }
+      ],
+      "duration_ms": 435066,
+      "name": "Rios Negroes",
+      "url": "https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -875,22 +891,6 @@
       "duration_ms": 227773,
       "name": "What Reason Could I Give",
       "url": "https://open.spotify.com/track/0JRq65dblAmI3REEchAfF8"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "The Great Pretender",
-        "url": "https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q"
-      },
-      "artists": [
-        {
-          "name": "Lester Bowie",
-          "url": "https://open.spotify.com/artist/3r0t2sPG17gaUgXDJyJmHf"
-        }
-      ],
-      "duration_ms": 435066,
-      "name": "Rios Negroes",
-      "url": "https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Why Not",
-        "url": "https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh"
-      },
-      "artists": [
-        {
-          "name": "Kenny Ball",
-          "url": "https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/195426YTXn9COJncZ3b94u"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Little Johnny C",
         "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 311000,
       "name": "Little Johnny C",
       "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Why Not",
+        "url": "https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh"
+      },
+      "artists": [
+        {
+          "name": "Kenny Ball",
+          "url": "https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/195426YTXn9COJncZ3b94u"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
-        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
-      },
-      "artists": [
-        {
-          "name": "Bubber Miley",
-          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "I Lost My Gal from Memphis",
-      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Moving Picture",
         "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
+        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
       },
       "artists": [
         {
-          "name": "Jon Faddis",
-          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+          "name": "Bubber Miley",
+          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
         }
       ],
-      "duration_ms": 285800,
-      "name": "Instigator",
-      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
+      "duration_ms": 179840,
+      "name": "I Lost My Gal from Memphis",
+      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1315,6 +1299,22 @@
       "duration_ms": 479266,
       "name": "Jacob's Ladder",
       "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+      },
+      "artists": [
+        {
+          "name": "Jon Faddis",
+          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Instigator",
+      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Lotus Flower",
-        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 484000,
-      "name": "Rahsan's Run",
-      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "A Rift In Decorum: Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 337893,
       "name": "Response - Live",
       "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Lotus Flower",
+        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 484000,
+      "name": "Rahsan's Run",
+      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
+      },
+      "artists": [
+        {
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+        }
+      ],
+      "duration_ms": 418642,
+      "name": "Sweet Peach Tree",
+      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 298493,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
-      },
-      "artists": [
-        {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
-        }
-      ],
-      "duration_ms": 418642,
-      "name": "Sweet Peach Tree",
-      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Mugsy Spanier Sentimental Journey, Vol. 3",
-        "url": "https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL"
-      },
-      "artists": [
-        {
-          "name": "Mugsy Spanier",
-          "url": "https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx"
-        }
-      ],
-      "duration_ms": 176613,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Where or When",
         "url": "https://open.spotify.com/album/6jNlEB9M8Dfmtd2pyCbhfN"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 211693,
       "name": "Just in Time",
       "url": "https://open.spotify.com/track/3aHJmaeRrBhoNlXL079nc2"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Mugsy Spanier Sentimental Journey, Vol. 3",
+        "url": "https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL"
+      },
+      "artists": [
+        {
+          "name": "Mugsy Spanier",
+          "url": "https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx"
+        }
+      ],
+      "duration_ms": 176613,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Mr After Hours",
-        "url": "https://open.spotify.com/album/5FQV4leqcgCPXfbesBn420"
-      },
-      "artists": [
-        {
-          "name": "Hot Lips Page",
-          "url": "https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Blowin up Breeze",
-      "url": "https://open.spotify.com/track/4t0O1w9kJ0ihfwxfkTcti0"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Hubsongs",
         "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 265200,
       "name": "Hub Cap",
       "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Mr After Hours",
+        "url": "https://open.spotify.com/album/5FQV4leqcgCPXfbesBn420"
+      },
+      "artists": [
+        {
+          "name": "Hot Lips Page",
+          "url": "https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Blowin up Breeze",
+      "url": "https://open.spotify.com/track/4t0O1w9kJ0ihfwxfkTcti0"
     },
     {
       "added_at": "2024-11-08 10:26:51",

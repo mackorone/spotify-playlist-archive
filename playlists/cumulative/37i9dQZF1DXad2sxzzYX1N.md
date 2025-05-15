@@ -2,7 +2,7 @@
 
 ### [Indie that hits different ](https://open.spotify.com/playlist/37i9dQZF1DXad2sxzzYX1N)
 
-> The indie viral hits you can't escape\. Cover: ROLE MODEL
+> The indie viral hits you can't escape\. Cover: Gigi Perez
 
 150 songs - 8 hr 28 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,741 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,745 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 16 | [Nada Se Compara a Ti \- Ao Vivo](https://open.spotify.com/track/7uzJJ3v91TG26zothutvV2) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Baú da Taty 2, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr) | 2:48 |
 | 17 | [Rubi](https://open.spotify.com/track/6dIkrUW18wrp0402u2It44) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:13 |
 | 18 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
-| 19 | [Triste com T](https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:12 |
-| 20 | [Derretida \- Brunoso Remix](https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:53 |
+| 19 | [Derretida \- Brunoso Remix](https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:53 |
+| 20 | [Triste com T](https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:12 |
 | 21 | [Amor de Que](https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 |
 | 22 | [Falta Coragem](https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:37 |
 | 23 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 44 | [10/10](https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [PRISCILLA](https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik) | 2:16 |
 | 45 | [Rajadão](https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 |
 | 46 | [Eu Vou](https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:25 |
-| 47 | [CUBA Remix](https://open.spotify.com/track/0a3IsWmHYDYXCqIsCVx4TF) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [CUBA Remix](https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY) | 2:42 |
-| 48 | [Trago seu Amor de Volta \(feat\. Dilsinho\)](https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:38 |
+| 47 | [Trago seu Amor de Volta \(feat\. Dilsinho\)](https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:38 |
+| 48 | [CUBA Remix](https://open.spotify.com/track/0a3IsWmHYDYXCqIsCVx4TF) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [CUBA Remix](https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY) | 2:42 |
 | 49 | [Paraíso](https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Paraíso](https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt) | 2:43 |
 | 50 | [Eu Te Amo / Eu Te Odeio \(IÔ\-IÔ\)](https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Eu Nunca Fui Embora](https://open.spotify.com/album/518eTaR0LiBmCtyjepuLaB) | 3:19 |
 
-Snapshot ID: `aCE6AAAAAADxxltC6MMdBqUWdRokKrdl`
+Snapshot ID: `aCKLgAAAAACEns+pcLFfkRq+9MmZvBfw`

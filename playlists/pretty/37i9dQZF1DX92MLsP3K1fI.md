@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! ARIA BELA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,211 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,237 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 23 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 |
 | 24 | [Guaro con Ron](https://open.spotify.com/track/09Hf0Ef5ViOn3o6BIrmNwM) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Guaro con Ron](https://open.spotify.com/album/77QMET8x0AvIlMarJmLZU2) | 2:28 |
 | 25 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
-| 26 | [Corazón Puro](https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Corazón Puro](https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp) | 3:46 |
-| 27 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
+| 26 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
+| 27 | [Corazón Puro](https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Corazón Puro](https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp) | 3:46 |
 | 28 | [El Vuelo](https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:11 |
 | 29 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 |
 | 30 | [Lienzo](https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lienzo](https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv) | 3:00 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 43 | [EL DIABLO](https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [EL DIABLO](https://open.spotify.com/album/5iF9vS6KQNnJjDXJPQI5CN) | 3:13 |
 | 44 | [Al Mali \(TQM, BB\)](https://open.spotify.com/track/58PPaCuX97R4Pl4ChqPlrV) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Al Mali \(TQM, BB\)](https://open.spotify.com/album/4FtmQji5oLnFktbXNO87Yp) | 2:35 |
 | 45 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 |
-| 46 | [Fetiche](https://open.spotify.com/track/09hUwQCau24tHaTVKgLiFn) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Fetiche](https://open.spotify.com/album/1YJQFqXUo8shoHKP4ksfu2) | 3:15 |
+| 46 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
 | 47 | [Noche de Luna](https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Noche de Luna](https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R) | 3:04 |
-| 48 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
+| 48 | [Fetiche](https://open.spotify.com/track/09hUwQCau24tHaTVKgLiFn) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Fetiche](https://open.spotify.com/album/1YJQFqXUo8shoHKP4ksfu2) | 3:15 |
 | 49 | [24/7](https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [24/7](https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI) | 2:52 |
 | 50 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
 

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: MOCCA \(Indonesia\)
 
-1,915 songs - 4 day 19 hr 53 min
+1,916 songs - 4 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -907,6 +907,7 @@
 | [lost love](https://open.spotify.com/track/5uXAZfUUgjk0x5a9WoMYnE) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [lost love](https://open.spotify.com/album/63Glu1UhzrFEHa4Y5qTCpE) | 3:22 | 2025-03-27 | 2025-05-02 |
 | [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-23 |  |
 | [Louder](https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Louder](https://open.spotify.com/album/0yx4JsRKHVe7JLgKIyebOp) | 3:00 | 2024-05-16 | 2024-07-12 |
+| [Love Again](https://open.spotify.com/track/0A3omwhvYCn1Hg27VliWen) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say](https://open.spotify.com/album/6ZPOaniWpQLMPp6YTmi8Td) | 2:06 | 2025-05-10 |  |
 | [Love As](https://open.spotify.com/track/4qZWumAOPURXXo1n2DDbRN) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Love As](https://open.spotify.com/album/1u1tWZF8haQZYoMB51NRYj) | 3:18 | 2023-02-23 | 2023-04-14 |
 | [Love Epiphany](https://open.spotify.com/track/3HEfLSVUo9rxdD0JxbLAUU) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Reality Club Presents…](https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK) | 5:38 | 2023-05-25 | 2023-11-24 |
 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-02-02 | 2023-03-10 |
@@ -1273,7 +1274,7 @@
 | [Sad Love Song](https://open.spotify.com/track/15qWHBkl93PoaHpGWrQnbG) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [Sad Love Song](https://open.spotify.com/album/4OxlcjQEvYpuz135kKMhiZ) | 4:26 | 2023-08-17 | 2023-10-27 |
 | [saekdallian](https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [saekdallian](https://open.spotify.com/album/74kaiVuHhGXXLEOxAieZMR) | 3:24 | 2022-05-26 | 2022-07-08 |
 | [Safe Flight](https://open.spotify.com/track/1UVOyw9vzAZ3f6Z9CAm5Vz) | [Will Mara](https://open.spotify.com/artist/5NxczTw9yZIX62WvzQ24mF) | [Safe Flight](https://open.spotify.com/album/3oZDDfuIuDzRDC12mnVrDF) | 2:51 | 2022-08-04 | 2022-09-23 |
-| [Sakura Abadi](https://open.spotify.com/track/6q8rtXPPOTqTHbdDm5y2El) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW) | [Sakura Abadi](https://open.spotify.com/album/1CI0a2vCr0ecCMRWFFUOMB) | 6:45 | 2024-11-29 |  |
+| [Sakura Abadi](https://open.spotify.com/track/6q8rtXPPOTqTHbdDm5y2El) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW) | [Sakura Abadi](https://open.spotify.com/album/1CI0a2vCr0ecCMRWFFUOMB) | 6:45 | 2024-11-29 | 2025-05-15 |
 | [Salleh Wakeup!](https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 5:05 | 2024-08-08 | 2024-09-18 |
 | [Samba Love](https://open.spotify.com/track/1hcEue7ZkwNYa7FohZQ8uC) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Pacific](https://open.spotify.com/album/0aXxE3f2pCjvN1A6vEXMqT) | 3:44 | 2025-03-20 | 2025-04-11 |
 | [Same For Me](https://open.spotify.com/track/37WRCo2FUb3N1eZpGLnfpG) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Same For Me](https://open.spotify.com/album/7vY41987SfQE1HXH9COaf2) | 2:57 | 2025-02-20 | 2025-03-07 |

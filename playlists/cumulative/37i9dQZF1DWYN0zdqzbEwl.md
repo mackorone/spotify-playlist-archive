@@ -2,7 +2,7 @@
 
 ### [Rock en Español](https://open.spotify.com/playlist/37i9dQZF1DWYN0zdqzbEwl)
 
-> Legendarios del rock en español\. Cover: Maná
+> Legendarios del rock en español.
 
 164 songs - 11 hr 8 min
 

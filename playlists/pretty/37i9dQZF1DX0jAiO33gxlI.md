@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: DJ Caique, Rashid, Matheusiddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,791 likes - 74 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,798 likes - 74 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 28 | [Dinheiro](https://open.spotify.com/track/7FhMgQ2mv6erkIgpqWX6ty) | [partedoalto](https://open.spotify.com/artist/0xgIOKNGucBXxvuqdZndRE) | [Dinheiro](https://open.spotify.com/album/1k0B8nS5WxBNKgLlIiUcwd) | 2:55 |
 | 29 | [VND On The Radar Freestyle](https://open.spotify.com/track/1tHDYlIDLAQxcesC2aqhHK) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Rafinha No Beat](https://open.spotify.com/artist/6zM44V7R04R6uVZFvUkWWG) | [VND On The Radar Freestyle](https://open.spotify.com/album/0FUei9X4Go5XPGoAF9Jzbd) | 1:38 |
 | 30 | [Aumenta o Volume](https://open.spotify.com/track/3jNYS8AD0JTOgZ5PRrjNvc) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Dread Session, Vol\. 1](https://open.spotify.com/album/3ePjCfFLJzF8u12Fu6btbY) | 3:49 |
-| 31 | [Eu Só Tenho Isso \- Bonus Track](https://open.spotify.com/track/7JgtxgLdHHycAv4xvgEmrE) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 3:16 |
+| 31 | [Eu Só Tenho Isso](https://open.spotify.com/track/7JgtxgLdHHycAv4xvgEmrE) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 3:16 |
 | 32 | [Plantão](https://open.spotify.com/track/0hr41UG20qNMVoPykpBPjV) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd) | [Plantão](https://open.spotify.com/album/0mbUHxPP3ZaaegfBMWYLK9) | 2:18 |
 | 33 | [vivo ou morto, um problema](https://open.spotify.com/track/34YInRrO9FD164VPFP3lb2) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [nabru](https://open.spotify.com/artist/3vL4zu2elGxz6DPPlOz2s3) | [vivo ou morto, um problema](https://open.spotify.com/album/25aHEO79rmhh7s99zceShL) | 3:43 |
 | 34 | [Senndy On The Radar Freestyle](https://open.spotify.com/track/300Dr4KYvHwK67yoIMEUPc) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Senndy On The Radar Freestyle](https://open.spotify.com/album/1YZw1294gZYgV2sAKwjR7C) | 1:30 |

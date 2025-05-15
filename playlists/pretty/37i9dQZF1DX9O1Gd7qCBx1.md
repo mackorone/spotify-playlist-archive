@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,509 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,499 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 36 | [La muerte chiquita](https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Tiempo transcurrido](https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz) | 2:51 |
 | 37 | [Que te vaya bonito](https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas\. Sus 40 Grandes Canciones](https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP) | 3:22 |
 | 38 | [Paloma negra](https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:15 |
-| 39 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 |
-| 40 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:46 |
+| 39 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:46 |
+| 40 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 |
 | 41 | [La vida es un sueño](https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Pedro Infante interpreta a José Alfredo Jiménez Vol\. 2](https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe) | 3:10 |
 | 42 | [Cartas \(Primera carta: La Calavera\)](https://open.spotify.com/track/5wEmK84AIP35bb3TNWTLqu) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Cartas \(Primera carta: La Calavera\)](https://open.spotify.com/album/0CGDKXhlm6ACcfn1qgadc2) | 3:39 |
 | 43 | [Recuérdame](https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 4:24 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 54 | [Viene la Muerte Echando Rasero](https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:00 |
 | 55 | [Calaverita de Azúcar](https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun) | [CARLOS AZCUAGA](https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g) | [Canciones de Día de Muertos](https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ) | 3:13 |
 | 56 | [Amor eterno](https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 6:00 |
-| 57 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
-| 58 | [Piensa en Mí](https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Día de Muertos](https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh) | 3:12 |
+| 57 | [Piensa en Mí](https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Día de Muertos](https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh) | 3:12 |
+| 58 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
 | 59 | [Silencio \- Spotify Session](https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:32 |
 | 60 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
 | 61 | [La Llorona](https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [La Llorona](https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks) | 5:48 |

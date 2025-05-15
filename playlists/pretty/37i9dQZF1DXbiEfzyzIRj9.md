@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Chaos in The CBD
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,154 likes - 99 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,150 likes - 99 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 52 | [King Steps \(DESIREE Remix\)](https://open.spotify.com/track/0DOYGfGpp5wD4qJ7akSrcx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [King Steps \(DESIREE Remix\)](https://open.spotify.com/album/6EiDNyltt1WdYjNJ70LWCK) | 4:15 |
 | 53 | [Fucking Mega](https://open.spotify.com/track/6tqvEXCweWY131rD6EeD4D) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Come In Out Of The Rain](https://open.spotify.com/album/6jZhhKMNsN5C6LpypG7SdO) | 4:51 |
 | 54 | [Jungle人](https://open.spotify.com/track/38tEwTu96K63Fouaf4mjur) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Jungle人](https://open.spotify.com/album/1oWBotDTyijxDHbSl8Diee) | 2:21 |
-| 55 | [KORABU \(feat\. Varg2™, Whitearmor, Eurohead, jamesjamesjames\)](https://open.spotify.com/track/0egyLpAMPO5nvzjCN6zxGx) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [bgirl](https://open.spotify.com/artist/3reftshVlP4U38NNol55iO), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Eurohead](https://open.spotify.com/artist/5MSILmANslIYw4gMOmnxe0), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Whitearmor](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:01 |
+| 55 | [KORABU \(feat\. Varg2™, Whitearmor, Eurohead, jamesjamesjames\)](https://open.spotify.com/track/0egyLpAMPO5nvzjCN6zxGx) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [bgirl](https://open.spotify.com/artist/3reftshVlP4U38NNol55iO), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Whitearmor](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:01 |
 | 56 | [BILLS](https://open.spotify.com/track/5xMyX7XBB17b43bUI62x89) | [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE) | [Fellsius Rhythm Lab Vol.2](https://open.spotify.com/album/25dgncA5JpOngnQQBL3UgS) | 2:57 |
 | 57 | [say you'll never leave](https://open.spotify.com/track/4IOkjtrAntwo5TticxEIr9) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [say you'll never leave](https://open.spotify.com/album/4xJwTmqkzGXCfS0RhFhq19) | 2:47 |
 | 58 | [DOPAMINE](https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [DOPAMINE](https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By) | 2:49 |

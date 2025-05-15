@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > hand\-picked and hot right now 📈 cover: Remember Monday
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,314 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,384 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 37 | [PUT IT DOWN](https://open.spotify.com/track/2kqKsdnfgTraa9v4adnadN) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [PUT IT DOWN](https://open.spotify.com/album/3JRrnfWD4LmLXUDbeNLsyu) | 2:10 |
 | 38 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
 | 39 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 |
-| 40 | [Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:40 |
+| 40 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
 | 41 | [Party Girl](https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [It's Not You, It's Me](https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4) | 2:19 |
 | 42 | [Crazy Love](https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Crazy Love](https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo) | 2:00 |
-| 43 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 |
+| 43 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/4hLAoNv1hzhT4yLcYU12do), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 |
 | 44 | [CUNTISSIMO](https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUNTISSIMO](https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq) | 4:00 |
 | 45 | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg) | 3:02 |
 | 46 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 49 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
 | 50 | [It Gets Better \- Forever Mix](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 
-Snapshot ID: `aCOD+AAAAAAp7wVcXz9Nk4txybQUCItk`
+Snapshot ID: `aCSpcwAAAACVb3OOfcmB/rbYBdQTsj/g`

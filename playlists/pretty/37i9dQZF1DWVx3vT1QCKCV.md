@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 
 > The jazz giant's classic recordings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,718 likes - 80 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,774 likes - 80 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 79 | [Milestones \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 5:42 |
 | 80 | [Love Thy Neighbor](https://open.spotify.com/track/5yl8SpFhiDv85NkORH0AHj) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust \[Rudy Van Gelder edition\]](https://open.spotify.com/album/1wL2hJoek6UmeP0GLx9VnZ) | 9:19 |
 
-Snapshot ID: `Zfr1NwAAAACG8QHpvIq1hSFbAoE2r9mo`
+Snapshot ID: `aCRnnwAAAADhmnr9YafSSfJ1jrp3eQ1/`

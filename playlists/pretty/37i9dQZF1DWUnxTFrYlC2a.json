@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd0as\u00fabele sin miedo, s\u00fabele hasta que reviente \ud83d\udd0a",
-  "num_followers": 186481,
+  "num_followers": 186583,
   "original_name": "q truene la bocina",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 202560,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
-        "name": "un x100to",
-        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "un x100to",
-      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
-        "name": "BELLAKEO",
-        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "BELLAKEO",
-      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -803,22 +783,22 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "BELLAKEO",
+        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "COSME TADEO",
-          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 175532,
-      "name": "La Nena",
-      "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -835,6 +815,26 @@
       "duration_ms": 291440,
       "name": "Morena m\u00eda",
       "url": "https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "COSME TADEO",
+          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
+        }
+      ],
+      "duration_ms": 175532,
+      "name": "La Nena",
+      "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 156520,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 228426,
       "name": "Amargo Adi\u00f3s",
       "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 216106,
       "name": "El List\u00f3n De Tu Pelo",
       "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/3c4X405pSWuBiJBN3xzPjd"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 207528,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2YAQa5dl4GWo0GuVliWvdR"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
         "name": "TQM",
         "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 230112,
       "name": "Manos de Tijera",
       "url": "https://open.spotify.com/track/5ds1Hh3lo4JUF2vflqyayK"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/3c4X405pSWuBiJBN3xzPjd"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 207528,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2YAQa5dl4GWo0GuVliWvdR"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 220941,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
-        "name": "Men in Salsa",
-        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Tu Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 253857,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
+        "name": "Men in Salsa",
+        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "Tu Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
     },
     {
       "added_at": "2025-01-05 16:08:32",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2025-01-05 16:08:32",
       "album": {
-        "name": "La Noche Que Murio Chicago",
-        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "La Noche Que Murio Chicago",
-      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
-    },
-    {
-      "added_at": "2025-01-05 16:08:32",
-      "album": {
         "name": "EL HECHIZO",
         "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
+    },
+    {
+      "added_at": "2025-01-05 16:08:32",
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "La Noche Que Murio Chicago",
+      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
     {
       "added_at": "2025-01-05 16:08:32",

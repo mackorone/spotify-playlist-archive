@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-794 songs - 1 day 9 hr 51 min
+798 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Dream Sweet Dreams](https://open.spotify.com/track/4NgP1eBz1VPVKWDDIgsDvW) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Dream Sweet Dreams](https://open.spotify.com/album/4gWqNj16uzmwC4VglSdtFt) | 1:40 | 2023-04-21 | 2023-08-26 |
 | [Dreams Forever](https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Dreams Forever](https://open.spotify.com/album/5yfv3WJqhIjuYo0HxGpxVZ) | 2:18 | 2023-04-21 |  |
 | [Dreamy Meadows](https://open.spotify.com/track/1rUJumpgrhAbL0PfhbTX7z) | [Timothy Hall](https://open.spotify.com/artist/5WQIOA7Nu5yv3EVY7a6ot2) | [Dreamy Meadows](https://open.spotify.com/album/0xefdrtyuO0gIAPhzePx5c) | 2:31 | 2024-05-24 |  |
+| [Drifting Into Dusk](https://open.spotify.com/track/22fbNUersaC8uZBUaHSwv8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Drifting Into Dusk](https://open.spotify.com/album/6mfgd9Sehm6Xm2WWAx1lIv) | 2:54 | 2025-05-13 |  |
 | [Dripping Ink](https://open.spotify.com/track/7oSRJwhRI80F6aMV33dZ9t) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Dripping Ink](https://open.spotify.com/album/7rxlruoX81Q26EZoVK7sr1) | 1:42 | 2025-01-27 | 2025-04-08 |
 | [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 | 2025-02-19 |  |
 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2023-04-21 |  |
@@ -288,6 +289,7 @@
 | [Grandpa's Old Guitar](https://open.spotify.com/track/2i2V6nxUsl9zDWrwDdwbEX) | [Mateo Morel](https://open.spotify.com/artist/6pzAMEBXNqLJF2lhG4lwgk) | [Grandpa's Old Guitar](https://open.spotify.com/album/471jyzEOUJypMMkcqpOIqo) | 2:22 | 2025-04-29 |  |
 | [Grateful](https://open.spotify.com/track/6wtMB4RZeLMECJJEa17Mms) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Grateful](https://open.spotify.com/album/7qYmbiSAHL28rE64WOXY5l) | 2:05 | 2023-04-21 | 2024-11-02 |
 | [Green Meadow](https://open.spotify.com/track/0z2dmmunpl2LB0iozr4yYv) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Green Meadow](https://open.spotify.com/album/5w03krSmnpaXsVoF56X1Kc) | 2:04 | 2022-07-15 | 2022-09-17 |
+| [Grounded Feeling](https://open.spotify.com/track/5qJQQ68wNZLzDWn0KRlj1h) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Grounded Feeling](https://open.spotify.com/album/6aEY6C94T0yoroxVPMHe4k) | 2:14 | 2025-05-13 |  |
 | [Guarisci il mio Cuore](https://open.spotify.com/track/7EaZOfcQgKj53K2FPKWpIk) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Savoca](https://open.spotify.com/album/2slTVldYU5nAHltkYsEyS0) | 3:09 | 2022-07-15 | 2024-04-06 |
 | [Guitar Serenade](https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB) | [Samuel T\. Wesley](https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h) | [Guitar Serenade](https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ) | 1:28 | 2023-04-21 | 2023-08-26 |
 | [Gullunge](https://open.spotify.com/track/0IsOaDcVMdsL1EXsN3B1lt) | [Jonas Björk](https://open.spotify.com/artist/6hSqPgf1kehZN3pifbGH62) | [Gullunge](https://open.spotify.com/album/2PIDYHxFHqUAteA9G78kdy) | 2:35 | 2024-11-20 |  |
@@ -302,7 +304,7 @@
 | [Heimweh](https://open.spotify.com/track/3cAAUD4tggStdAti1TDQNE) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Heimweh](https://open.spotify.com/album/0NwnK3pUidy0E7dGTmnvR9) | 2:16 | 2023-04-21 | 2023-06-03 |
 | [Helix](https://open.spotify.com/track/1gzalRgd6177ItWli3V6fI) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Helix](https://open.spotify.com/album/36IKErRzj6twXIiIPDh4TN) | 2:12 | 2023-10-13 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2023-04-21 | 2023-05-13 |
-| [Hendaye](https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [It's All For You](https://open.spotify.com/album/2hipNS989MOYmWd3Hga8GB) | 2:47 | 2023-04-21 |  |
+| [Hendaye](https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [It's All For You](https://open.spotify.com/album/2hipNS989MOYmWd3Hga8GB) | 2:47 | 2023-04-21 | 2025-05-15 |
 | [Hidden](https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp) | 2:24 | 2023-04-21 | 2023-04-28 |
 | [Hidden](https://open.spotify.com/track/6xXgL3PxqD9B3jxDwaQotd) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/0aceUd7djbL48tUHNTEZq2) | 2:24 | 2023-04-21 | 2024-04-19 |
 | [História De Vida](https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [História De Vida](https://open.spotify.com/album/1sDwjitrRLeu4jTK3Wl5RI) | 2:25 | 2023-04-21 |  |
@@ -355,7 +357,7 @@
 | [Just One Step At A Time](https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:08 | 2022-07-15 | 2023-03-11 |
 | [Kaelyn](https://open.spotify.com/track/09Q3JqzvLtzR0uXOCoMeDn) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/3Ip0IFlSeCG0Ys3Ii7LU7T) | 2:09 | 2023-04-21 | 2023-05-05 |
 | [Kaelyn](https://open.spotify.com/track/1gjaqScZGsobRdXQv4WzUq) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/5lTjGbTDkbn0eD0Ai94i5l) | 2:09 | 2023-04-21 | 2023-11-10 |
-| [Kalon](https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Kalon](https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss) | 2:22 | 2023-04-21 |  |
+| [Kalon](https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Kalon](https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss) | 2:22 | 2023-04-21 | 2025-05-15 |
 | [Keep a light](https://open.spotify.com/track/2HiOk8q1M0bbRr5RNrXeR0) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Hummingbird](https://open.spotify.com/album/66irZ4PKxClHMK8K2lmGHV) | 2:21 | 2023-06-02 | 2025-02-25 |
 | [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 | 2023-03-31 | 2023-04-22 |
 | [Kenmore](https://open.spotify.com/track/4XA5ebDvEQWnJjx8FADGvv) | [Dax Warner](https://open.spotify.com/artist/4IsX7IbImt8clMeZtsIEQ9) | [Kenmore](https://open.spotify.com/album/1mMxcoGF5nnH8dsecanu0B) | 3:12 | 2023-08-10 |  |
@@ -442,7 +444,7 @@
 | [Meliora](https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Meliora](https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR) | 2:21 | 2023-10-13 |  |
 | [Memories Of The Future](https://open.spotify.com/track/6JIOxiOgdh1xWJEOYRcpm7) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Memories Of The Future](https://open.spotify.com/album/7ylbAOT4YTqIPkkE7ggxeg) | 2:44 | 2024-04-19 |  |
 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 | 2022-07-15 | 2023-04-22 |
-| [Mi Devoción](https://open.spotify.com/track/0gyJzrKzWOAaPEP5d9AXIG) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Mi Devoción](https://open.spotify.com/album/3IaiUw3zC4BKXJ5NUkiEyI) | 2:44 | 2025-01-27 |  |
+| [Mi Devoción](https://open.spotify.com/track/0gyJzrKzWOAaPEP5d9AXIG) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Mi Devoción](https://open.spotify.com/album/3IaiUw3zC4BKXJ5NUkiEyI) | 2:44 | 2025-01-27 | 2025-05-15 |
 | [Midnight Sun](https://open.spotify.com/track/2W1Wmp3VaJxOXVoE9ZZN6J) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Midnight Sun](https://open.spotify.com/album/3HsjYM8Niy1SbE4H7w7HtG) | 3:01 | 2023-11-24 | 2024-11-07 |
 | [Milano](https://open.spotify.com/track/09Z0fc2bC2g5X5fhOklDbF) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Milano](https://open.spotify.com/album/4da1Z9ZRNMf4SIiYegd94g) | 1:52 | 2022-07-15 | 2023-08-26 |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-03-31 | 2023-04-22 |
@@ -534,6 +536,7 @@
 | [Picturesque Dreams](https://open.spotify.com/track/079RvHezHwxo9DC7FIBzf5) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Strange Trails](https://open.spotify.com/album/2vhSHo4z27kq67g7MUfDau) | 2:10 | 2023-04-21 |  |
 | [Pink Skies](https://open.spotify.com/track/0gN7FcU3a5CUzzqEcgHDx1) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Tomorrow's A New Day](https://open.spotify.com/album/2VMFaIN01U7xmdVHhZIbkU) | 3:18 | 2022-07-15 | 2023-04-22 |
 | [Pink Sky](https://open.spotify.com/track/4Pd0UQizG3Nw8RzMTWKwgc) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt) | [Pink Sky](https://open.spotify.com/album/558L60uVIk9oe3UPYbX9PF) | 2:21 | 2023-04-21 | 2023-05-13 |
+| [Placidity](https://open.spotify.com/track/7BQS03IxtWr9DRdGTQGrvZ) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Placidity](https://open.spotify.com/album/2UnsGuhrPRblC00M3kEiPH) | 2:46 | 2025-05-13 |  |
 | [Pluto](https://open.spotify.com/track/1TsvBJoYAYrQbLDFnNE1MB) | [Jules Scott](https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s) | [Pluto](https://open.spotify.com/album/1PAkHoLZyHQYJdnco9Ugpr) | 1:53 | 2023-04-21 | 2023-06-15 |
 | [Poesia](https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Poesia](https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs) | 2:20 | 2023-09-07 |  |
 | [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 | 2023-04-21 |  |
@@ -607,7 +610,7 @@
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2023-04-21 |  |
 | [Settignano](https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Settignano](https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh) | 1:58 | 2023-04-21 | 2023-06-09 |
 | [Severance](https://open.spotify.com/track/3SvIZwX1Stka524urG0qsN) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Severance](https://open.spotify.com/album/08L90myPC5HtYTr6RvSMlC) | 2:26 | 2023-04-21 | 2024-11-21 |
-| [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 |  |
+| [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 | 2025-05-15 |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-07-15 | 2023-04-22 |
 | [Share her stories](https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Share her stories](https://open.spotify.com/album/18tauEkO61p1X265CtryAz) | 2:08 | 2024-09-10 | 2024-10-03 |
@@ -766,6 +769,7 @@
 | [Vorfreude](https://open.spotify.com/track/098EOJ4n3mTwtlNNbxP2BL) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Vorfreude](https://open.spotify.com/album/4NrIq79Bai7tVLP7ccEToG) | 2:33 | 2022-07-15 | 2023-04-22 |
 | [Vøringfossen](https://open.spotify.com/track/3pkttYHK5xWJQVqZ8MpTZ7) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Vøringfossen](https://open.spotify.com/album/5feSa7mTYzFpHcM1QlNxaP) | 2:09 | 2023-05-12 | 2025-02-25 |
 | [Waimea Falls](https://open.spotify.com/track/6OI4lw9ZxbrEoY5SRJgG0y) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Waimea Falls](https://open.spotify.com/album/6kDc5lTyqj3ZGm0Wpdjwut) | 3:52 | 2023-04-21 |  |
+| [Waiting Depths](https://open.spotify.com/track/1yLVHyuohiMwMonGN4CwmA) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Waiting Depths](https://open.spotify.com/album/2egvprKnSn8OpCbDq7OUNp) | 2:36 | 2025-05-13 |  |
 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 | 2022-07-15 | 2022-09-17 |
 | [Walden](https://open.spotify.com/track/2jea87kvmbKxK87RJbG2BS) | [Di Bosco](https://open.spotify.com/artist/1j7HrpUlI55EmAx4PVtFgf) | [Walden](https://open.spotify.com/album/2wuBgVuayoe5Sm3GwZJwgH) | 2:07 | 2023-04-21 | 2025-02-08 |
 | [warm water in the well](https://open.spotify.com/track/6QgsCarVTD1jp6wFq6sk3E) | [Richard Sapphire](https://open.spotify.com/artist/40Xa6PWV6jW7f8NuS44BzF) | [warm water in the well](https://open.spotify.com/album/1ty4G5zw98T0Wsygo0EGfH) | 2:14 | 2023-04-21 |  |

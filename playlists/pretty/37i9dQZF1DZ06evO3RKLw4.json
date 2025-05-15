@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 48850,
+  "num_followers": 48855,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAAzde6QSj//YWQkclhbC92j",
+  "snapshot_id": "aCKLgAAAAABkKnki0TFbLykke7k7zPq/",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 129400,
-      "name": "St. Mary",
-      "url": "https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
       },
@@ -447,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
       },
       "artists": [
         {
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 160360,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
+      "duration_ms": 129400,
+      "name": "St. Mary",
+      "url": "https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc"
     },
     {
       "added_at": null,
@@ -479,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
       "artists": [
         {
@@ -488,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 89666,
-      "name": "It's Quite Alright",
-      "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
+      "duration_ms": 160360,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
     },
     {
       "added_at": null,
@@ -511,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
       "artists": [
         {
@@ -520,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 118618,
-      "name": "Devil In Disguise",
-      "url": "https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP"
+      "duration_ms": 89666,
+      "name": "It's Quite Alright",
+      "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
     },
     {
       "added_at": null,
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
       "artists": [
         {
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 78733,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
+      "duration_ms": 118618,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 129973,
       "name": "Evil's My Friend",
       "url": "https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 78733,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 193437,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...Honor Is All We Know (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 193437,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let The Dominoes Fall (Expanded Version)",
         "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 120480,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
+      "duration_ms": 96680,
+      "name": "You Want It, You Got It",
+      "url": "https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 70933,
-      "name": "Antennas",
-      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 70933,
+      "name": "Antennas",
+      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let The Dominoes Fall (Expanded Version)",
         "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 96680,
-      "name": "You Want It, You Got It",
-      "url": "https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj"
+      "duration_ms": 120480,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
     },
     {
       "added_at": null,

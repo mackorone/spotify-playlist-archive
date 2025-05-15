@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: FouKi
 
-3,275 songs - 7 day 5 hr 44 min
+3,276 songs - 7 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Boire un coup](https://open.spotify.com/track/7Jl9wKc0k5aeQp7FEMGZ4n) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [Boire un coup](https://open.spotify.com/album/6b1mz1YY8VZ8y4dDRilk3c) | 2:34 | 2022-01-14 | 2022-01-22 |
 | [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-01-21 | 2022-01-29 |
 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 | 2024-08-23 | 2024-10-12 |
-| [Bollywood](https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Bollywood](https://open.spotify.com/album/6stKRosdbqJWhxg0GFxP34) | 2:52 | 2025-05-02 |  |
+| [Bollywood](https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Bollywood](https://open.spotify.com/album/6stKRosdbqJWhxg0GFxP34) | 2:52 | 2025-05-02 | 2025-05-15 |
 | [Bombarder](https://open.spotify.com/track/696HK1BwQnRo0VkGEW0F0X) | [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [Bombarder](https://open.spotify.com/album/19Qf7KmiwfjGG0VqvoMqOU) | 3:21 | 2022-12-16 | 2023-01-14 |
 | [Bon Appétit](https://open.spotify.com/track/6WDFHawIT5KH6iBsE48CLQ) | [EL GARRA](https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA), [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh) | [Bon Appétit](https://open.spotify.com/album/3GcZO8Xxo6KGM1YwDt9fmp) | 2:54 | 2022-09-09 | 2022-09-24 |
 | [Bon voyage](https://open.spotify.com/track/6934xZ6P9VOCybFXgnx7nk) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Bon voyage](https://open.spotify.com/album/6Hy11BQnSBxrsBRekvMiib) | 4:05 | 2022-02-18 | 2022-03-05 |
@@ -897,6 +897,7 @@
 | [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 | 2023-08-25 | 2023-10-08 |
 | [Engraisser](https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Engraisser](https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII) | 3:03 | 2023-03-31 | 2023-04-09 |
 | [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 | 2025-02-28 |  |
+| [Ensay](https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ensay](https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx) | 3:01 | 2025-05-09 |  |
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 | 2023-09-02 |
 | [Ensemble](https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:52 | 2024-11-08 | 2024-12-14 |
 | [Ensemble](https://open.spotify.com/track/5OMUo67LDz7JxLmMLZc2c3) | [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1), [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Sacrifices](https://open.spotify.com/album/3vvxyLnpm3jmgFGQegkrP9) | 2:47 | 2022-02-04 | 2022-02-12 |

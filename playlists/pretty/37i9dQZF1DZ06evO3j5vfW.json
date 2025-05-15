@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72107,
+  "num_followers": 72109,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAD7AdFujUEkOJsvr9RclSJB",
+  "snapshot_id": "aCKLgAAAAAAD1mOGoFh53bGicCokblMy",
   "tracks": [
     {
       "added_at": null,
@@ -567,30 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toolroom Radio EP787: ESSEL",
-        "url": "https://open.spotify.com/album/3q86wdosFMVf1eCuKwfMjE"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "John Christian",
-          "url": "https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h"
-        },
-        {
-          "name": "Nilson",
-          "url": "https://open.spotify.com/artist/2EfkVcWLwt2bESRjdBhr9K"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "Still The Same Man - TR787",
-      "url": "https://open.spotify.com/track/4TEbCp2gZvSHpdJldwE38j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 180000,
       "name": "I Need You To Know",
       "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toolroom Radio EP787: ESSEL",
+        "url": "https://open.spotify.com/album/3q86wdosFMVf1eCuKwfMjE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "John Christian",
+          "url": "https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h"
+        },
+        {
+          "name": "Nilson",
+          "url": "https://open.spotify.com/artist/2EfkVcWLwt2bESRjdBhr9K"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "Still The Same Man - TR787",
+      "url": "https://open.spotify.com/track/4TEbCp2gZvSHpdJldwE38j"
     },
     {
       "added_at": null,
@@ -1087,26 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Chelcee Grimes",
-          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
-        }
-      ],
-      "duration_ms": 174665,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here We Go (Hey Boy, Hey Girl)",
         "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 158095,
       "name": "Here We Go (Hey Boy, Hey Girl)",
       "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        }
+      ],
+      "duration_ms": 174665,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
     },
     {
       "added_at": null,

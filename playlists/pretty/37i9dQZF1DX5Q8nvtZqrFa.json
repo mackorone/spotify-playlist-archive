@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 21492,
+  "num_followers": 21502,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-05-13 15:16:03",
       "album": {
-        "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
-        "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
-      "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
-    },
-    {
-      "added_at": "2025-05-13 15:16:03",
-      "album": {
         "name": "\u30c6\u30a4\u30af\u30df\u30fc",
         "url": "https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 249600,
       "name": "\u4eca\u66f4\u3060\u3063\u3066\u50d5\u306f\u8a00\u3046\u304b\u306a",
       "url": "https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v"
+    },
+    {
+      "added_at": "2025-05-13 15:16:03",
+      "album": {
+        "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+        "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+      "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
     },
     {
       "added_at": "2025-05-13 15:16:03",

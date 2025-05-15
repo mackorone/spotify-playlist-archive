@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 545147,
+  "num_followers": 545285,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Roses (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Roses - Imanbek Remix",
-      "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 234506,
       "name": "I Need Your Love (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Roses (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -1343,54 +1343,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
-        "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "WATT",
-          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
-      "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1415,6 +1367,54 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+        "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "WATT",
+          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+      "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -2943,26 +2943,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Shivers (Dillon Francis Remix)",
-        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 127766,
-      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
-      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Conversations in the Dark",
         "url": "https://open.spotify.com/album/23c9fzxlE27spU05ATg1b2"
       },
@@ -2979,6 +2959,26 @@
       "duration_ms": 210236,
       "name": "Conversations in the Dark - John Legend vs. David Guetta",
       "url": "https://open.spotify.com/track/20d27F17AZOxTJOEHAVK2Y"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Shivers (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 127766,
+      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
+      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
     },
     {
       "added_at": "2024-12-12 21:46:01",

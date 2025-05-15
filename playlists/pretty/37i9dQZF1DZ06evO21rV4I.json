@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 152898,
+  "num_followers": 152944,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAC4vd8PXagpBVc578IyJDR5",
+  "snapshot_id": "aCKLgAAAAAAEQRxCNSk5weG1lK5qQKwV",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 149170,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
@@ -559,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
       "artists": [
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+      "duration_ms": 149170,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z"
     },
     {
       "added_at": null,
@@ -607,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+        "name": "KANA",
+        "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 261545,
-      "name": "Slow Down (feat. Wiz Kid)",
-      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+      "duration_ms": 207378,
+      "name": "KANA",
+      "url": "https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KANA",
-        "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 207378,
-      "name": "KANA",
-      "url": "https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ"
+      "duration_ms": 261545,
+      "name": "Slow Down (feat. Wiz Kid)",
+      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
     },
     {
       "added_at": null,

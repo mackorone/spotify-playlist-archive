@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Ishaan Nigam, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Priyanka Kher, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 221527,
       "name": "Amaar",
       "url": "https://open.spotify.com/track/4PKMq5u5p5eQZ7jjLS7l38"
@@ -3504,7 +3504,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 174750,
       "name": "Bhool Gaye",
       "url": "https://open.spotify.com/track/1aqAjFHeeefMy9A57gzCJK"
@@ -7003,6 +7003,24 @@
     },
     {
       "album": {
+        "name": "Dooriyan",
+        "url": "https://open.spotify.com/album/06r5mVl8e9Db1GVI3d7uIm"
+      },
+      "artists": [
+        {
+          "name": "Shubham Joshi",
+          "url": "https://open.spotify.com/artist/3igvLmUseI5Z1xAMS3YlI5"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183680,
+      "name": "Dooriyan",
+      "url": "https://open.spotify.com/track/5dJuKZcuBR32E2Tizq0CqM"
+    },
+    {
+      "album": {
         "name": "Dooron Dooron",
         "url": "https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6"
       },
@@ -9446,6 +9464,24 @@
       "duration_ms": 67322,
       "name": "Har Jagah Mujhe",
       "url": "https://open.spotify.com/track/5KC8av8kKwDPUgZONmUBnZ"
+    },
+    {
+      "album": {
+        "name": "Har Woh Shaam",
+        "url": "https://open.spotify.com/album/2SQKdxwMz7sHldyinLTxap"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Kher",
+          "url": "https://open.spotify.com/artist/5UpLqPRU9ZHDbo7ntxSD6z"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199047,
+      "name": "Har Woh Shaam",
+      "url": "https://open.spotify.com/track/3G6rJO4pmdppHByo5GCMjn"
     },
     {
       "album": {
@@ -12333,6 +12369,24 @@
     },
     {
       "album": {
+        "name": "Jamoora",
+        "url": "https://open.spotify.com/album/4k7oVI59C76If1QQNobWIo"
+      },
+      "artists": [
+        {
+          "name": "Ek Pahadi Ladka",
+          "url": "https://open.spotify.com/artist/7H6rYQyrvKLILhwsh2KHSH"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189827,
+      "name": "Jamoora",
+      "url": "https://open.spotify.com/track/3uiwQNJKrSn4tqwXynfpKm"
+    },
+    {
+      "album": {
         "name": "Jannat",
         "url": "https://open.spotify.com/album/5Y7QWdTulBzSLiiCsUvcgG"
       },
@@ -13646,7 +13700,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 240000,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/0reThkQLyTrb5yU0ZkKUxc"
@@ -17080,7 +17134,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 194741,
       "name": "Love's Wild Ride",
       "url": "https://open.spotify.com/track/3riTNgptLotHEg9w3sOhgS"
@@ -17368,6 +17422,32 @@
       "duration_ms": 186368,
       "name": "Mahiya",
       "url": "https://open.spotify.com/track/79z3n6OP94YKvGHxp7i214"
+    },
+    {
+      "album": {
+        "name": "Mai Aur Tum",
+        "url": "https://open.spotify.com/album/6Po2hqzxh9pGAuWCDvOlCX"
+      },
+      "artists": [
+        {
+          "name": "Raghava",
+          "url": "https://open.spotify.com/artist/3sx8cZqJAhOlOHr2Q2ETn3"
+        },
+        {
+          "name": "ADDIE",
+          "url": "https://open.spotify.com/artist/6HVhgXoUppzthvI6kFoJwl"
+        },
+        {
+          "name": "Yaani Karnawat",
+          "url": "https://open.spotify.com/artist/2DQRnUEWF0YPw4vXHgJzq8"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Mai Aur Tum",
+      "url": "https://open.spotify.com/track/0P1miPAHr7nn8b4Bjz5Tnz"
     },
     {
       "album": {
@@ -27700,7 +27780,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 200625,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/1NZcWNXk2ZsMSiiFen25nN"
@@ -30692,6 +30772,24 @@
       "duration_ms": 311060,
       "name": "Who I Love",
       "url": "https://open.spotify.com/track/4ZFaIxmQFHkpF5CPeF2Ddk"
+    },
+    {
+      "album": {
+        "name": "Who will stand beside you",
+        "url": "https://open.spotify.com/album/43spYj0cRAgyOF92VeAMKV"
+      },
+      "artists": [
+        {
+          "name": "Squarez Attached",
+          "url": "https://open.spotify.com/artist/6hVxUHGpDp6z78mutDBdAa"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218671,
+      "name": "Who will stand beside you",
+      "url": "https://open.spotify.com/track/5A8VzW4rAvy3DZ9WPsFKhl"
     },
     {
       "album": {

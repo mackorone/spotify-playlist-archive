@@ -4,7 +4,7 @@
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-78 songs - 3 hr 54 min
+80 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [963 Hz Deep Breathing](https://open.spotify.com/track/0pY9RfLWbqMKguhWXrCCQ3) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Deep Breathing](https://open.spotify.com/album/4gVsivQcSQfT3oEkMGtNJ5) | 2:38 | 2023-11-30 |  |
 | [963 Hz El Futuro](https://open.spotify.com/track/1gZLAuULPzhxNgbNXSAqfG) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [963 Hz El Futuro](https://open.spotify.com/album/0Z0bvs4In2QVbuhu2MnjGh) | 2:50 | 2023-07-13 |  |
 | [963 Hz Intuition](https://open.spotify.com/track/5G1cDOqdUzaVatIG1M0Bqf) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [963 Hz Intuition](https://open.spotify.com/album/6ZSSObWQiCdayfLPyMZmIp) | 3:26 | 2024-03-13 |  |
+| [963 Hz One Rejuvenation](https://open.spotify.com/track/40VO0IZClFoOLaAjDmi6SH) | [Solflorescence](https://open.spotify.com/artist/3Lpl331u3pFn4uzd3sx6my) | [963 Hz One Rejuvenation](https://open.spotify.com/album/4D3aBGCcBLkRi7Hl2pC8k4) | 2:42 | 2025-05-14 |  |
 | [963 Hz Relajamiento](https://open.spotify.com/track/3m3y1qCitcEB5bvheuYPqS) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [963 Hz El Futuro](https://open.spotify.com/album/0Z0bvs4In2QVbuhu2MnjGh) | 2:45 | 2023-07-13 |  |
 | [963 Hz Spiritual Growth](https://open.spotify.com/track/0m0vgCC28nsUCZz2eB9gD3) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [963 Hz Spiritual Growth](https://open.spotify.com/album/15WK6PtEvHes95kOdpGmDI) | 3:29 | 2023-11-30 |  |
 | [963 Solfeggio](https://open.spotify.com/track/0hPWHn1kIybTZxvFmbzl5e) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [963 Solfeggio](https://open.spotify.com/album/2YstxV6QC98pBes6mqP8lY) | 2:34 | 2023-07-13 |  |
@@ -37,6 +38,7 @@
 | [Awakenings 963 Hz](https://open.spotify.com/track/5P6uUeAbSHo0R9bK70EkTF) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [Awakenings 936 & 432 Hz](https://open.spotify.com/album/3YhHDGqFGh26adfwhwmjTT) | 3:26 | 2023-07-13 |  |
 | [B \(Crown Chakra\)](https://open.spotify.com/track/02ileubP6RE16EKbkS4Lxk) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Singing Bowls \(Zen Tones for Meditation, Acupuncture, Reiki, Qi\-Gong, Sound Therapy and Metaphysical Healers\)](https://open.spotify.com/album/3nUjK5dYNgtQxol98A9HMU) | 1:00 | 2023-07-13 | 2023-12-01 |
 | [Blue Sky \- 963 Hz](https://open.spotify.com/track/4CwkaRpzuBA0Vdq9x3cU6r) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Blue Sky \- 963 Hz](https://open.spotify.com/album/1TVerLmogv9w6kM1VhwaeE) | 2:06 | 2024-11-07 | 2025-03-15 |
+| [Celestial Bliss 963 Hz](https://open.spotify.com/track/5tK3g3RTji0MkaSO9elK9H) | [Hugo Falkman](https://open.spotify.com/artist/6nLo9HoDwesK6BJRG4vSV6) | [Celestial Bliss 963 Hz](https://open.spotify.com/album/28UQoO3St05ozzbpEGpn4y) | 3:15 | 2025-05-14 |  |
 | [Centering exercise \- 963Hz](https://open.spotify.com/track/7hm1Ke9BbUipfI2pYuGzm3) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Centering exercise \- 963Hz](https://open.spotify.com/album/1nnNbTYiyDrz5PZ9upXiTV) | 2:32 | 2025-03-14 |  |
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2023-07-13 |  |
 | [Chakra Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG) | [EXOPIRS](https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE) | [Meditation Sounds](https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20) | 3:04 | 2023-07-13 | 2023-12-01 |

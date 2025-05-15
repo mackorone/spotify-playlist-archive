@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 247920,
+  "num_followers": 248003,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,22 @@
     {
       "added_at": "2025-05-02 03:00:44",
       "album": {
-        "name": "Bahia Com H",
-        "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
+        "name": "Afro Choro",
+        "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
       },
       "artists": [
         {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
         }
       ],
-      "duration_ms": 264729,
-      "name": "Bahia Com H",
-      "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
+      "duration_ms": 298014,
+      "name": "Afro Choro",
+      "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
     },
     {
       "added_at": "2025-05-02 03:00:44",
@@ -395,22 +399,18 @@
     {
       "added_at": "2025-05-02 03:00:44",
       "album": {
-        "name": "Afro Choro",
-        "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
+        "name": "Bahia Com H",
+        "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
       },
       "artists": [
         {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 298014,
-      "name": "Afro Choro",
-      "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
+      "duration_ms": 264729,
+      "name": "Bahia Com H",
+      "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
     },
     {
       "added_at": "2025-05-02 03:00:44",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-05-02 03:00:44",
       "album": {
+        "name": "Voc\u00ea E Eu",
+        "url": "https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe"
+      },
+      "artists": [
+        {
+          "name": "Bossa Avenida",
+          "url": "https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ"
+        }
+      ],
+      "duration_ms": 179299,
+      "name": "Voc\u00ea E Eu",
+      "url": "https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo"
+    },
+    {
+      "added_at": "2025-05-02 03:00:44",
+      "album": {
         "name": "Terra Papagali Coffee Shop",
         "url": "https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 263013,
       "name": "Tanto Tempo",
       "url": "https://open.spotify.com/track/40FEe9WzIJDRurSnen9Vxc"
-    },
-    {
-      "added_at": "2025-05-02 03:00:44",
-      "album": {
-        "name": "Voc\u00ea E Eu",
-        "url": "https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe"
-      },
-      "artists": [
-        {
-          "name": "Bossa Avenida",
-          "url": "https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ"
-        }
-      ],
-      "duration_ms": 179299,
-      "name": "Voc\u00ea E Eu",
-      "url": "https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo"
     },
     {
       "added_at": "2025-05-02 03:00:44",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-05-02 03:00:44",
       "album": {
+        "name": "D\u00e1jazz",
+        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
+      },
+      "artists": [
+        {
+          "name": "Lili Araujo",
+          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "A Voz do Brasil",
+      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
+    },
+    {
+      "added_at": "2025-05-02 03:00:44",
+      "album": {
         "name": "Rabiscos",
         "url": "https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 196363,
       "name": "Rabiscos",
       "url": "https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5"
-    },
-    {
-      "added_at": "2025-05-02 03:00:44",
-      "album": {
-        "name": "D\u00e1jazz",
-        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
-      },
-      "artists": [
-        {
-          "name": "Lili Araujo",
-          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "A Voz do Brasil",
-      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
     },
     {
       "added_at": "2025-05-02 03:00:44",
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2025-05-02 03:00:44",
       "album": {
-        "name": "Liberta\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
-      },
-      "artists": [
-        {
-          "name": "Vidal Assis",
-          "url": "https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L"
-        }
-      ],
-      "duration_ms": 176065,
-      "name": "Liberta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY"
-    },
-    {
-      "added_at": "2025-05-02 03:00:44",
-      "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Chuvas De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
-    },
-    {
-      "added_at": "2025-05-02 03:00:44",
-      "album": {
         "name": "Salom\u00e9",
         "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
       },
@@ -1395,6 +1363,22 @@
     {
       "added_at": "2025-05-02 03:00:44",
       "album": {
+        "name": "Liberta\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
+      },
+      "artists": [
+        {
+          "name": "Vidal Assis",
+          "url": "https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "Liberta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY"
+    },
+    {
+      "added_at": "2025-05-02 03:00:44",
+      "album": {
         "name": "O Samba, a Roseira e o Vento",
         "url": "https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 173178,
       "name": "Compro o Vento",
       "url": "https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq"
+    },
+    {
+      "added_at": "2025-05-02 03:00:44",
+      "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Chuvas De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
     },
     {
       "added_at": "2025-05-02 03:00:44",

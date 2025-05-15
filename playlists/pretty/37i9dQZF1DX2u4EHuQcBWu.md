@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,540 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,594 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 30 | [Aquí No Pasa Nada](https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 4:40 |
 | 31 | [Baja a la Tierra \(feat\. Lila Downs\)](https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Bi](https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483) | 3:22 |
 | 32 | [Fijate Bien](https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Fijate Bien](https://open.spotify.com/album/7IOugW3LC5qxTyceggg00d) | 4:54 |
-| 33 | [El Pueblo Unido Jamás Será Vencido](https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 4:52 |
-| 34 | [Plata Ta Tá](https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Plata Ta Tá](https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS) | 4:15 |
+| 33 | [Plata Ta Tá](https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Plata Ta Tá](https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS) | 4:15 |
+| 34 | [El Pueblo Unido Jamás Será Vencido](https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 4:52 |
 | 35 | [Por Qué Los Ricos](https://open.spotify.com/track/0GvT2AUiVLteoFm11XgdjL) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Pateando Piedras](https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo) | 4:56 |
 | 36 | [La Tierra](https://open.spotify.com/track/5R5BUvAO23Z83xvL5wXVOj) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Ekhymosis](https://open.spotify.com/album/4EhPQamyGb7l1PnpkBHpjB) | 3:45 |
 | 37 | [Shock](https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [La Bala](https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF) | 3:30 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 72 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
 | 73 | [Cinco Siglos Igual](https://open.spotify.com/track/6CIjy70IxwaCi1uEx07TyY) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [15 Años De Mi](https://open.spotify.com/album/2724ObvOvyi3CjgkBVIxlY) | 4:14 |
 | 74 | [Matar al Presidente](https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 1:50 |
-| 75 | [Empresaurio](https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [La Dieta del Lagarto](https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw) | 3:14 |
-| 76 | [Politicos Paraliticos](https://open.spotify.com/track/68NE76Trr1bo28gDuqUL5h) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Desorden Publico](https://open.spotify.com/album/2yvlTPqKqzq1lDDTBpf1tz) | 3:58 |
+| 75 | [Politicos Paraliticos](https://open.spotify.com/track/68NE76Trr1bo28gDuqUL5h) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Desorden Publico](https://open.spotify.com/album/2yvlTPqKqzq1lDDTBpf1tz) | 3:58 |
+| 76 | [Empresaurio](https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [La Dieta del Lagarto](https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw) | 3:14 |
 | 77 | [2 de Octubre](https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 3:11 |
 | 78 | [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 |
 | 79 | [Cumbia Valiente](https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:01 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 94 | [5 Malparidos](https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:44 |
 | 95 | [Bella Ciao](https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Bella Ciao](https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e) | 2:02 |
 | 96 | [Poder Elegir](https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Cultura De La Basura](https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF) | 8:02 |
-| 97 | [Nada Es Verdad \(Finale\) / Spoken Words](https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Un Canto por México \- El Musical](https://open.spotify.com/album/5KgUgn1TWwmPjAqX69XaFD) | 1:54 |
-| 98 | [Bandera](https://open.spotify.com/track/1ux8AW7eyqjbSNEZHLjz8d) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Rio](https://open.spotify.com/album/1il55HVMuXthlY1MYH1r7e) | 2:37 |
+| 97 | [Bandera](https://open.spotify.com/track/1ux8AW7eyqjbSNEZHLjz8d) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Rio](https://open.spotify.com/album/1il55HVMuXthlY1MYH1r7e) | 2:37 |
+| 98 | [Nada Es Verdad \(Finale\) / Spoken Words](https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Un Canto por México \- El Musical](https://open.spotify.com/album/5KgUgn1TWwmPjAqX69XaFD) | 1:54 |
 | 99 | [Rico el País](https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q) | [Claudio Narea](https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV) | [El Largo Camino al Éxito](https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B) | 3:43 |
 | 100 | [La Marcha de la Bronca](https://open.spotify.com/track/0ZoDjWUyhpbmN6bAk9xkvs) | [Gervasio](https://open.spotify.com/artist/2Tvx0xTgN6ok9PXCNKbPBW) | [Gervasio](https://open.spotify.com/album/1G3CuCMsNpR6eMxJ7WXE4O) | 4:01 |
 

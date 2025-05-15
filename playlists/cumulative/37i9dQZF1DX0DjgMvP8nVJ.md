@@ -4,7 +4,7 @@
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-105 songs - 6 hr 10 min
+106 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Laura Palmer](https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:06 | 2025-02-04 |  |
 | [Let's Get It Started](https://open.spotify.com/track/37LEkmNdegFwoS55DdL6Ov) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Sport](https://open.spotify.com/album/5zoMTFng02JOaUaa5BldKT) | 3:38 | 2025-02-04 |  |
 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 | 2025-02-04 |  |
+| [Long Way Down](https://open.spotify.com/track/0kSNLEad9o1LsjIN1afTn1) | [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [In the Cards](https://open.spotify.com/album/12hUU1Gu9puMArtyW1hqoA) | 3:53 | 2025-02-04 |  |
 | [Love Is Wicked](https://open.spotify.com/track/5kEfk2sb4xoEvk2zWbTGpt) | [Brick & Lace](https://open.spotify.com/artist/42zM1Af1Wgt8ftcda1sJxW) | [Love Is Wicked](https://open.spotify.com/album/5QrzQczc1WR25yn4u1PX5x) | 3:42 | 2025-02-04 |  |
 | [Love Me Dead](https://open.spotify.com/track/3IlYkyctlcTqXAZOA4ZPzz) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [You're Awful, I Love You](https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA) | 4:20 | 2025-02-04 |  |
 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 | 2025-02-04 |  |
@@ -109,7 +110,7 @@
 | [Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:33 | 2025-02-04 |  |
 | [Welcome to Your Life](https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E) | 3:47 | 2025-02-04 |  |
 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 | 2025-02-04 |  |
-| [Whistle \(While You Work It\)](https://open.spotify.com/track/5zwwXMjE6OrqfVpYGnA9RW) | [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [Whistle \(While You Work It\)](https://open.spotify.com/album/1C0txQpTvo2z5N6Rrm6Y9D) | 3:35 | 2025-02-04 |  |
+| [Whistle \(While You Work It\)](https://open.spotify.com/track/5zwwXMjE6OrqfVpYGnA9RW) | [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [Whistle \(While You Work It\)](https://open.spotify.com/album/1C0txQpTvo2z5N6Rrm6Y9D) | 3:35 | 2025-02-04 | 2025-05-15 |
 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2025-02-05 |  |
 | [young dumb](https://open.spotify.com/track/70Zo6N1w5N2dYaFHOy2xb2) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [young dumb](https://open.spotify.com/album/2EF3xSuFYlY1fKopxlYxYw) | 2:02 | 2025-02-04 | 2025-02-15 |
 | [ハルジオン](https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ハルジオン](https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q) | 3:18 | 2025-02-04 |  |

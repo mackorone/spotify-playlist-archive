@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-456 songs - 1 day 0 hr 22 min
+457 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [OFF MY MIND REWORK \(ALIVE SESSION\)](https://open.spotify.com/track/28azhH8rcRQvoJn4btylPF) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Lina Guessoussi](https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd) | [DIARY OF A DEAD MAN \(ALIVE SESSION\)](https://open.spotify.com/album/4mQeK8UfZQgMkxtynqJXli) | 4:25 | 2025-02-08 | 2025-04-02 |
 | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/track/0XnvKbl68rDvXAI4uOU8rk) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/album/48OejE1iLW3oJeoA1g8xDI) | 2:52 | 2021-12-25 | 2022-01-08 |
 | [Oh qu'elle est belle](https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh qu'elle est belle](https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5) | 3:40 | 2024-06-06 | 2024-08-29 |
-| [Oh qu'elle est belle](https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:40 | 2024-08-28 |  |
+| [Oh qu'elle est belle](https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:40 | 2024-08-28 | 2025-05-15 |
 | [Ojos Sin Ver](https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:11 | 2023-05-15 | 2023-12-08 |
 | [Omri](https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Omri](https://open.spotify.com/album/6uPeVzOEUmO69h6gsNt2rn) | 3:20 | 2022-09-01 | 2023-05-26 |
 | [Omri](https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Omri](https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp) | 3:45 | 2023-10-16 | 2023-12-09 |
@@ -359,6 +359,7 @@
 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 | 2023-07-09 | 2025-02-13 |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 | 2023-02-22 |
 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 | 2024-02-03 | 2025-01-16 |
+| [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 | 2025-05-14 |  |
 | [RWINI](https://open.spotify.com/track/4KtR6eHxOOQ3cE8ZwVeYS9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [RWINI](https://open.spotify.com/album/3G0HZxflIGREjKgKHGcOh3) | 4:01 | 2025-05-13 |  |
 | [S7aba](https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [S7aba](https://open.spotify.com/album/3G7A0LhiXySh8bmjm0xSF7) | 2:56 | 2022-06-09 | 2022-07-17 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-01-18 | 2022-05-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,692 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,719 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 54 | [It's All Right With Me](https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 6:09 |
 | 55 | [Rap Tap on Wood](https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:39 |
 | 56 | [Why Don't We Try Staying Home?](https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 4:26 |
-| 57 | [Get Out Of Town \(Med Andra Ord...\)](https://open.spotify.com/track/1CDWZYK3qVTuzjq6kFuI6m) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Vocal Collection](https://open.spotify.com/album/1uju5fPXQCF7PcnKUpQcoM) | 2:34 |
-| 58 | [In the Still of the Night](https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Definitive Collection](https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7) | 2:45 |
+| 57 | [In the Still of the Night](https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Definitive Collection](https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7) | 2:45 |
+| 58 | [Get Out Of Town \(Med Andra Ord...\)](https://open.spotify.com/track/1CDWZYK3qVTuzjq6kFuI6m) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Vocal Collection](https://open.spotify.com/album/1uju5fPXQCF7PcnKUpQcoM) | 2:34 |
 | 59 | [Looking at You](https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:53 |
 | 60 | [Blue Swing](https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ) | [Behia Jazz Band](https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1), [Jérôme Achat](https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg), [Manu Carré](https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll), [Philippe Brassoud](https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w), [Philippe Cocogne](https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L) | [Night and Day With Cole Porter](https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE) | 4:41 |
 | 61 | [I Happen To Like New York](https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm) | [John Barrowman](https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ) | [John Barrowman Swings Cole Porter](https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k) | 2:07 |

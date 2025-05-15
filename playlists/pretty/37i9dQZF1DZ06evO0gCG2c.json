@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 319890,
+  "num_followers": 319953,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABM/8aiDdVI2kIF/WCcF17J",
+  "snapshot_id": "aCKLgAAAAAAB9EKiXF4X1/pGeT2GCl0m",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akon's Beautiful Day",
-        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 157278,
-      "name": "Akon's Beautiful Day",
-      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kush",
         "url": "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 235120,
       "name": "Kush - Main",
       "url": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Akon's Beautiful Day",
+        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 157278,
+      "name": "Akon's Beautiful Day",
+      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turtleneck & Chain (Explicit Version)",
-        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
-      },
-      "artists": [
-        {
-          "name": "The Lonely Island",
-          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "I Just Had Sex",
-      "url": "https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Konvicted (Complete Edition)",
         "url": "https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 276026,
       "name": "I Wanna Love You - Remix",
       "url": "https://open.spotify.com/track/7p5mNdJbsKUx0iwuIPCfEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turtleneck & Chain (Explicit Version)",
+        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "I Just Had Sex",
+      "url": "https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt"
     },
     {
       "added_at": null,

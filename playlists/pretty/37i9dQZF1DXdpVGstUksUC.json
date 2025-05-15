@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 544600,
+  "num_followers": 544612,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Busse Woods",
-        "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
-      },
-      "artists": [
-        {
-          "name": "Acid King",
-          "url": "https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct"
-        }
-      ],
-      "duration_ms": 384866,
-      "name": "Electric Machine",
-      "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Nola",
         "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 424000,
       "name": "Bury Me in Smoke",
       "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Busse Woods",
+        "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
+      },
+      "artists": [
+        {
+          "name": "Acid King",
+          "url": "https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct"
+        }
+      ],
+      "duration_ms": 384866,
+      "name": "Electric Machine",
+      "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "In the tail of a comet",
-        "url": "https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA"
-      },
-      "artists": [
-        {
-          "name": "Dozer",
-          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "Supersoul",
-      "url": "https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "No Comfort",
         "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 314656,
       "name": "The Last Leaf",
       "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "In the tail of a comet",
+        "url": "https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA"
+      },
+      "artists": [
+        {
+          "name": "Dozer",
+          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "Supersoul",
+      "url": "https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Macho Libre",
-        "url": "https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z"
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
       },
       "artists": [
         {
-          "name": "Planet of Zeus",
-          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
         }
       ],
-      "duration_ms": 230653,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9"
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+        "name": "Macho Libre",
+        "url": "https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "Planet of Zeus",
+          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
         }
       ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
+      "duration_ms": 230653,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9"
     },
     {
       "added_at": "2024-07-19 04:00:00",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "album": {
         "name": "Love Songs (A Compilation Old and New)",
         "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 210733,
       "name": "A Groovy Kind of Love",
       "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 235826,
       "name": "Addicted To Love - Edit",
       "url": "https://open.spotify.com/track/1xBZEEpCBic1hVpRiIEL5Q"
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "album": {
         "name": "Learning to Crawl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
       },
@@ -200,6 +236,24 @@
       "duration_ms": 231120,
       "name": "Back on the Chain Gang - 2007 Remaster",
       "url": "https://open.spotify.com/track/4cMHCRLPNoEbpnl2rz6GS9"
+    },
+    {
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
       "album": {
@@ -430,7 +484,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 256972,
       "name": "China Girl - Single Version; 2014 Remaster",
       "url": "https://open.spotify.com/track/3PydlGP8zsoacmusRJM48t"
@@ -473,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/5iRDO2cnFmb95rjzpiVJrT"
       },
@@ -491,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Crowded House (Deluxe)",
+        "url": "https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A"
+    },
+    {
+      "album": {
         "name": "Get Close (2007 Remaster)",
         "url": "https://open.spotify.com/album/2xXTqs2uDgtid7J4hnfzQL"
       },
@@ -506,6 +596,24 @@
       "duration_ms": 227626,
       "name": "Don't Get Me Wrong - 2007 Remaster",
       "url": "https://open.spotify.com/track/7dyzZ1pOznrXBXwzunv2si"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits (2024 Remaster)",
+        "url": "https://open.spotify.com/album/1Gtf2hZQlOGVER16uemmzR"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250835,
+      "name": "Don't Stop Believin' (2024 Remaster)",
+      "url": "https://open.spotify.com/track/5ehcf6UL1TkwozB386cRAp"
     },
     {
       "album": {
@@ -592,7 +700,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 273773,
       "name": "Each Time You Break My Heart",
       "url": "https://open.spotify.com/track/4a0uOr9Z3fI2lZSiYsrAXF"
@@ -650,10 +758,28 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 239786,
       "name": "Especially for You",
       "url": "https://open.spotify.com/track/6L971nwvNk11aic9gnDgQt"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "album": {
@@ -704,10 +830,28 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 279133,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/3szW87j0gVLQmpulz4P8Rf"
+    },
+    {
+      "album": {
+        "name": "Eye Of The Tiger",
+        "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243773,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
     },
     {
       "album": {
@@ -794,7 +938,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 207226,
       "name": "Geno - 2000 Remaster",
       "url": "https://open.spotify.com/track/7gb626DDDHoiuVAGZEnlJk"
@@ -956,7 +1100,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 231053,
       "name": "Hand on Your Heart",
       "url": "https://open.spotify.com/track/5OWN7uNoXLIOr36YAbxCo7"
@@ -1014,6 +1158,24 @@
       "duration_ms": 201693,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/0cs671lxX2eoDzr2KMuo3N"
+    },
+    {
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269696,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
       "album": {
@@ -1100,10 +1262,28 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 204440,
       "name": "I Should Be So Lucky",
       "url": "https://open.spotify.com/track/3hlABEsQTXXsmD6G35sjNb"
+    },
+    {
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "album": {
@@ -1161,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0YYZRB8PApk5UShT6TrFhg"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252013,
+      "name": "If I Could Turn Back Time - 2024 Remaster",
+      "url": "https://open.spotify.com/track/63s9XfHkTTF3EDQN1NSIoq"
+    },
+    {
+      "album": {
         "name": "Sports",
         "url": "https://open.spotify.com/album/0jwepuC4xIjFoFl4LCTElC"
       },
@@ -1212,6 +1410,24 @@
       "duration_ms": 335973,
       "name": "In the Air Tonight - 2015 Remaster",
       "url": "https://open.spotify.com/track/0lLTc1wmgU3dE2xDZCkWVU"
+    },
+    {
+      "album": {
+        "name": "Face Value (Deluxe Editon)",
+        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336453,
+      "name": "In The Air Tonight - 2015 Remastered",
+      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
       "album": {
@@ -1302,7 +1518,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 233453,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/4WN8TLWVCzuLcOeoLSiFUw"
@@ -1360,6 +1576,24 @@
       "duration_ms": 333360,
       "name": "Jungle Love",
       "url": "https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1"
+    },
+    {
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Just like Heaven",
+      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
     },
     {
       "album": {
@@ -1583,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "album": {
         "name": "The Dream Academy",
         "url": "https://open.spotify.com/album/3T77PrRnq17gBhcctDtDC1"
       },
@@ -1594,7 +1846,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 259293,
       "name": "Life in a Northern Town",
       "url": "https://open.spotify.com/track/4m3OS54KWywYhP7WD7z1cg"
@@ -1612,7 +1864,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 342680,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
@@ -1670,6 +1922,24 @@
       "duration_ms": 221053,
       "name": "Little Lies - 2017 Remaster",
       "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
+    },
+    {
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249293,
+      "name": "Livin' On A Prayer",
+      "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
     },
     {
       "album": {
@@ -1774,10 +2044,28 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "album": {
+        "name": "Material Girl (2024 Remaster)",
+        "url": "https://open.spotify.com/album/0NPwuC9sXsG6FEw7Ml0xWZ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242337,
+      "name": "Material Girl - 2024 Remaster",
+      "url": "https://open.spotify.com/track/4tcauy2xyIv1q0ckvQmc4H"
     },
     {
       "album": {
@@ -1846,7 +2134,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 252960,
       "name": "Money's Too Tight (To Mention) - 2008 Remaster",
       "url": "https://open.spotify.com/track/2u9MJ3AMjrKeVGEAntelyM"
@@ -1918,7 +2206,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 302653,
       "name": "One Day I'll Fly Away",
       "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
@@ -1972,7 +2260,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 266226,
       "name": "Orinoco Flow",
       "url": "https://open.spotify.com/track/0Fyj9w0HVfjoxm9S8nGClt"
@@ -2285,6 +2573,42 @@
     },
     {
       "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "album": {
         "name": "The Next Voice You Hear - The Best Of Jackson Browne",
         "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
       },
@@ -2332,7 +2656,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 241920,
       "name": "Somewhere in My Heart",
       "url": "https://open.spotify.com/track/7kJXjcl5lk7g7fNQAVVpkl"
@@ -2386,7 +2710,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
@@ -2538,7 +2862,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 209160,
       "name": "The Look Of Love, Pt.1",
       "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
@@ -2556,7 +2880,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 266933,
       "name": "The Reflex",
       "url": "https://open.spotify.com/track/0OsWMTxDjtpmJjX43113oq"
@@ -2646,7 +2970,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 221520,
       "name": "Too Shy",
       "url": "https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ"
@@ -2736,10 +3060,50 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 252680,
       "name": "True Faith - 2011 Total Version",
       "url": "https://open.spotify.com/track/0E8IiKUfS98p3cUbQgh3yO"
+    },
+    {
+      "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "album": {
@@ -2833,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "Storm Front",
+        "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287733,
+      "name": "We Didn't Start the Fire",
+      "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
+    },
+    {
+      "album": {
         "name": "Simply the Best",
         "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
       },
@@ -2880,7 +3262,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 245360,
       "name": "West End Girls - 2001 Remaster",
       "url": "https://open.spotify.com/track/6rQWdv8COXEGHZLdLXUJ9p"
@@ -2920,7 +3302,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 263360,
       "name": "What Have I Done to Deserve This? (with Dusty Springfield) - 2001 Remaster",
       "url": "https://open.spotify.com/track/6SoXgLYqIDiR7Q4Npijwnp"
@@ -3014,6 +3396,42 @@
       "duration_ms": 175746,
       "name": "You Can't Hurry Love - 2016 Remaster",
       "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "album": {
+        "name": "Evolution: The Hits",
+        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
     },
     {
       "album": {

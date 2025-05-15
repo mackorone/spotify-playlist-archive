@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-605 songs - 1 day 5 hr 28 min
+606 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 | 2024-10-05 |
 | [Despasito](https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 3:10 | 2025-03-07 |  |
 | [Diamonds](https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 2:29 | 2024-01-15 | 2024-11-22 |
-| [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 | 2024-06-28 |  |
+| [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 | 2024-06-28 | 2025-05-15 |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 | 2023-12-08 |
 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 | 2024-02-08 |
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2023-09-29 |
@@ -591,6 +591,7 @@
 | [Witness](https://open.spotify.com/track/4pfCZ6PVVAQKlMyViDsQ5O) | [Sean Tizzle](https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a) | [Dues](https://open.spotify.com/album/0in26luSRywY7oDHnR53Cr) | 3:16 | 2023-06-16 | 2023-08-04 |
 | [Wo Wo Wo \(Ebony\)](https://open.spotify.com/track/6nKbSBnTJ0V4h5g34h4MY7) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [Wo Wo Wo \(Ebony\)](https://open.spotify.com/album/5ipXzmZcEzsbcimRU65LUS) | 3:55 | 2023-10-27 | 2023-11-03 |
 | [Woman](https://open.spotify.com/track/6ir2ShLPrZxXgYTtlMxeCN) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Woman](https://open.spotify.com/album/4Vdh0ZV9tCh1YKJcy7lnfA) | 2:00 | 2023-03-17 | 2023-03-31 |
+| [Woman](https://open.spotify.com/track/68Aabutp5ZczYCmi51dPAG) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd), [Drexbeats](https://open.spotify.com/artist/5Kw6tU4czzjX7sz2QYQBEu) | [Woman](https://open.spotify.com/album/6DeUguXIRHGGUZYjCsq1b6) | 2:25 | 2025-05-09 |  |
 | [World In My Hands](https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ) | [LAVI$H](https://open.spotify.com/artist/0bW7J4hzno0eMC5TFZfDou) | [World In My Hands](https://open.spotify.com/album/7mQHiL0qIDYoHqUiBQ5ImB) | 3:18 | 2022-08-18 | 2022-09-21 |
 | [Wow>?](https://open.spotify.com/track/4E7GjtYCo6JX1eye0eWnzY) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw) | [Not A Project](https://open.spotify.com/album/4OxET58i2SHiaQcsSHgbzV) | 2:56 | 2022-11-18 | 2023-03-18 |
 | [Wrist On Freeze](https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4) | [Stay Flee Get Lizzy](https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Wrist On Freeze](https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK) | 3:07 | 2024-01-26 | 2024-04-12 |

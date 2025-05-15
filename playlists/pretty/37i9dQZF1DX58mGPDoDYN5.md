@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58mGPDoDYN5.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,855 likes - 45 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,899 likes - 45 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58mGPDoDYN5.md) - [plain]
 | 2 | [Heroes](https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [D'You Know What I Mean?](https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk) | 4:09 |
 | 3 | [Lazarus](https://open.spotify.com/track/0xZEF8qJoZg1WZzCs07TrE) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Everything's Strange Here](https://open.spotify.com/album/555CY37YtgVd2d102DxQqM) | 3:37 |
 | 4 | [Under Pressure](https://open.spotify.com/track/7rtNxSatiqmLKb4G71k1yn) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Under Pressure](https://open.spotify.com/album/7GhS7SesozkzNAu4KUCOmX) | 4:55 |
-| 5 | [Life On Mars?](https://open.spotify.com/track/3HjQMFAubbvErTi1kCq6ZX) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Vinyl on HBO](https://open.spotify.com/artist/1KEWbCN3njtUdf0zWvzEm3) | [VINYL: THE ESSENTIALS: BEST OF SEASON 1](https://open.spotify.com/album/77era7gZSj4bR9olUpIcJu) | 3:55 |
+| 5 | [Life On Mars?](https://open.spotify.com/track/3HjQMFAubbvErTi1kCq6ZX) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [VINYL: THE ESSENTIALS: BEST OF SEASON 1](https://open.spotify.com/album/77era7gZSj4bR9olUpIcJu) | 3:55 |
 | 6 | [Suffragette City](https://open.spotify.com/track/4vS26SNRpWzbYxr8pNt5P5) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Eudora](https://open.spotify.com/album/4VzFXlEdn1HaynezaXxBe9) | 3:21 |
 | 7 | [Fame \- 2010 Remaster](https://open.spotify.com/track/2vZslxmYO9b8fyh08A3kqd) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:18 |
 | 8 | [Golden Years](https://open.spotify.com/track/34PRFgMjpf1mTiIDIve6Sz) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [MADLO: Influences](https://open.spotify.com/album/4iIgfgwD4rgVNpGhOkAwyd) | 4:34 |

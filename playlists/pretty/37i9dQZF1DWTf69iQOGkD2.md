@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Hungria
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,919 likes - 75 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,133 likes - 75 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 55 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 |
 | 56 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 |
 | 57 | [Penelope](https://open.spotify.com/track/66qOxO7krWQpQWZPi1IzQo) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Penelope](https://open.spotify.com/album/71htdEQmQqPoSQwdTR0auD) | 2:51 |
-| 58 | [Geribá \(Papasessions \#8\) \[feat\. OIK\]](https://open.spotify.com/track/5b8A3MH3e2gD8RFEcNggAs) | [Papasessions](https://open.spotify.com/artist/1bzpK4GDoDGGXX9eqIkwFs), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Geribá \(Papasessions \#8\) \[feat\. OIK\]](https://open.spotify.com/album/7AqekLGMeEV8MnMmpeq7h1) | 3:42 |
+| 58 | [Geribá \(Papasessions \#8\) \[feat\. OIK\]](https://open.spotify.com/track/5b8A3MH3e2gD8RFEcNggAs) | [Papasessions](https://open.spotify.com/artist/31Il5RuNKeEjFb8Nj3wJ6H), [CALIFFA](https://open.spotify.com/artist/4vOClqV33X2lCsWLNqfwwf), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Geribá \(Papasessions \#8\) \[feat\. OIK\]](https://open.spotify.com/album/7AqekLGMeEV8MnMmpeq7h1) | 3:42 |
 | 59 | [Flores Que Eu Nunca Dei](https://open.spotify.com/track/1tSRitSlttJ9PGtUz40ZSQ) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Flores Que Eu Nunca Dei](https://open.spotify.com/album/1mM2in7kTBpSLurd8HIjvD) | 3:21 |
 | 60 | [Lugar Reservado](https://open.spotify.com/track/1DQFUdYBwVlXfGOn29DOxQ) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T), [Luc Freestyle](https://open.spotify.com/artist/3z6K4frZB1cl0e0A2VbPPk) | [Lugar Reservado](https://open.spotify.com/album/7dPMnEueULw63cvxdK0TqI) | 1:40 |
 | 61 | [Bem Que Eu Te Avisei](https://open.spotify.com/track/01IPPUDKgtlTn8fbeji3Hn) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Tio Thulio](https://open.spotify.com/artist/0wfEDi6nZuTA8TfickSlym) | [Café Acústico](https://open.spotify.com/album/6RtA8ArfE1jCUAY5cTNrkN) | 1:41 |

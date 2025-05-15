@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 153915,
+  "num_followers": 153951,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAA8wRiSMHBw+9EfXTb2V9Ll",
+  "snapshot_id": "aCKLgAAAAADxCA3bz+w/omRQGc12sfjW",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00c9 SEGREDO",
+        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Bairro 13",
+          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
+        }
+      ],
+      "duration_ms": 155771,
+      "name": "N\u00c9 SEGREDO",
+      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -91,30 +115,6 @@
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00c9 SEGREDO",
-        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Bairro 13",
-          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
-        }
-      ],
-      "duration_ms": 155771,
-      "name": "N\u00c9 SEGREDO",
-      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
     },
     {
       "added_at": null,
@@ -427,30 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 202955,
-      "name": "NOSSA M\u00daSICA",
-      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 190000,
       "name": "7 Meiota",
       "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 202955,
+      "name": "NOSSA M\u00daSICA",
+      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
     },
     {
       "added_at": null,
@@ -547,30 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 154694,
-      "name": "MINHA CURA",
-      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 154694,
+      "name": "MINHA CURA",
+      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 234420,
-      "name": "garrafa vazia",
-      "url": "https://open.spotify.com/track/4VNAAEN2euoyl7N8E3QSph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE LOVE (DELUXE)",
         "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 317340,
       "name": "BEM MELHOR",
       "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 234420,
+      "name": "garrafa vazia",
+      "url": "https://open.spotify.com/track/4VNAAEN2euoyl7N8E3QSph"
     },
     {
       "added_at": null,
@@ -1051,22 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "quem me dera",
-      "url": "https://open.spotify.com/track/3KtyJBBNlfs5R0H9dgZDWK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dono das Esquinas",
         "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 240000,
       "name": "Carro Forte",
       "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "quem me dera",
+      "url": "https://open.spotify.com/track/3KtyJBBNlfs5R0H9dgZDWK"
     },
     {
       "added_at": null,
@@ -1151,26 +1151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mc Safira",
-          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
-        }
-      ],
-      "duration_ms": 211544,
-      "name": "ngm \u00e9 perfeito",
-      "url": "https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -1199,18 +1179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confia: Sonho de Cria - Trilha Sonora",
-        "url": "https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf"
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
       },
       "artists": [
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Safira",
+          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
         }
       ],
-      "duration_ms": 206309,
-      "name": "Blindado por Deus",
-      "url": "https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n"
+      "duration_ms": 211544,
+      "name": "ngm \u00e9 perfeito",
+      "url": "https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1"
     },
     {
       "added_at": null,
@@ -1239,6 +1223,42 @@
       "duration_ms": 210000,
       "name": "Filho do Dono",
       "url": "https://open.spotify.com/track/0EuRZKWzNptC1ZuIMFKLxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confia: Sonho de Cria - Trilha Sonora",
+        "url": "https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 206309,
+      "name": "Blindado por Deus",
+      "url": "https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "GOTHAM",
+      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
     },
     {
       "added_at": null,
@@ -1275,26 +1295,6 @@
       "duration_ms": 265411,
       "name": "A Cara do Crime 2 (Cansou de Playboy)",
       "url": "https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "GOTHAM",
-      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
     },
     {
       "added_at": null,
@@ -1347,26 +1347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 170432,
-      "name": "depois da meia noite",
-      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 211875,
       "name": "OUTRA DIMENS\u00c3O",
       "url": "https://open.spotify.com/track/6dLkUsssDfk54mmJ3FZdA1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 170432,
+      "name": "depois da meia noite",
+      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
     },
     {
       "added_at": null,

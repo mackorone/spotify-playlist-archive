@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 
 > Songs to enjoy while cooking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,246 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,245 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 8 | [Aam Betaala' Feek](https://open.spotify.com/track/3vVEtCxtdwSSC1qz2rSHLW) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 3:39 |
 | 9 | [Khodni](https://open.spotify.com/track/4wZwR380rCHpIjS4x4w1J7) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Khodni](https://open.spotify.com/album/1quFJr0a9hUSJE9VESrmm4) | 3:16 |
 | 10 | [Ana Negm](https://open.spotify.com/track/6CU68VwcV10VfulVQMfj3X) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:01 |
-| 11 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 |
-| 12 | [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 |
-| 13 | [بحبك من زمان](https://open.spotify.com/track/3ZSch1osGSHoo0QnVFOqhg) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 5:01 |
+| 11 | [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 |
+| 12 | [بحبك من زمان](https://open.spotify.com/track/3ZSch1osGSHoo0QnVFOqhg) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 5:01 |
+| 13 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 |
 | 14 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |
 | 15 | [Fady Shewaya](https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:51 |
 | 16 | [ليلى \- كايروكي من الاستوديو](https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [كايروكي من الاستوديو](https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp) | 3:32 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 24 | [Fi 7eta Tanya](https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [Fi 7eta Tanya](https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n) | 3:15 |
 | 25 | [Ghir Enta](https://open.spotify.com/track/738Ku4hI0ezRMNheUcW8Eh) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Deb](https://open.spotify.com/album/1xAPktZ9m3kt6TpgxAlukd) | 5:05 |
 | 26 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
-| 27 | [Asmrani Eyounoh Samrah](https://open.spotify.com/track/6M8EcLbklscFeUPav8fIGu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Asmrani Eyounoh Samrah](https://open.spotify.com/album/7lB8Cor4rlvXJ9o8d0HshY) | 3:12 |
-| 28 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 |
+| 27 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 |
+| 28 | [Asmrani Eyounoh Samrah](https://open.spotify.com/track/6M8EcLbklscFeUPav8fIGu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Asmrani Eyounoh Samrah](https://open.spotify.com/album/7lB8Cor4rlvXJ9o8d0HshY) | 3:12 |
 | 29 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 |
 | 30 | [Mabidichay](https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom) | [Lina Guessoussi](https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd) | [Mabidichay](https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w) | 2:52 |
 | 31 | [El Kalam Leek](https://open.spotify.com/track/4K8jZW83LrLkEY9lYLkvm3) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Makanak](https://open.spotify.com/album/28JsnP1Tne8lvFXMxPB7Pg) | 3:26 |

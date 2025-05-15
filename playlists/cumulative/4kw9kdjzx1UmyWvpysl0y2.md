@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-981 songs - 2 day 7 hr 19 min
+982 songs - 2 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 | 2023-09-14 | 2024-01-11 |
 | [Bunny Hop](https://open.spotify.com/track/4I1hvzQ39B3ol9OYfdckhG) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Bunny Hop](https://open.spotify.com/album/0ecWxnAULTqsFsBuEcmrY4) | 3:09 | 2024-10-07 | 2025-01-15 |
 | [Burbank Nights](https://open.spotify.com/track/6cOxE8TUiPe4iYi4kvDoJu) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Burbank Nights](https://open.spotify.com/album/1equ0DwRZaGqjzWi588Oum) | 4:15 | 2023-09-05 | 2024-01-11 |
+| [By My Side](https://open.spotify.com/track/0OyH2wwpCKZRKkSdxqCAef) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3), [Janet Tung](https://open.spotify.com/artist/5GlnTa5AGHo9hhKuon69KB) | [By My Side](https://open.spotify.com/album/4HMiG31eRc9Tj8iNYOG1A0) | 3:39 | 2025-05-14 |  |
 | [by myself](https://open.spotify.com/track/6GnEtewHDS2VS3GZj4lYgb) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [by myself](https://open.spotify.com/album/0PvhONM5R6IeP0dPf7ocBV) | 3:05 | 2025-02-25 |  |
 | [Cage](https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:45 | 2022-04-11 | 2022-06-22 |
 | [California Dreamin'](https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [California Dreamin'](https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C) | 2:50 | 2025-04-02 |  |

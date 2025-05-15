@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,037 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,074 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 18 | [24/7](https://open.spotify.com/track/4c1n3sgF8KcQXi6pF45X9o) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Up Front](https://open.spotify.com/album/12qKRGcqgSwQXZbP5MFb0y) | 4:27 |
 | 19 | [Kaleidoscope](https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:42 |
 | 20 | [Who's That Lady](https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Glow](https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif) | 4:30 |
-| 21 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
-| 22 | [Chopsticks](https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Kickin' It](https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1) | 3:58 |
+| 21 | [Chopsticks](https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Kickin' It](https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1) | 3:58 |
+| 22 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
 | 23 | [Feeling Good](https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Radiant](https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ) | 4:59 |
 | 24 | [In the Moment](https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [In the Moment](https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk) | 4:11 |
 | 25 | [11:58](https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Store](https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp) | 4:02 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 30 | [Say Something](https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs) | [Shilts](https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2) | [HeadBoppin \(with bonus track\)](https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE) | 4:08 |
 | 31 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
 | 32 | [Mildred's Attraction](https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:45 |
-| 33 | [To Be Like Him](https://open.spotify.com/track/4dZmmXWPVZBOiQ9Sszqe78) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Lay It Back](https://open.spotify.com/album/5g00ZHexA6LNzsvtdJ7dJQ) | 5:35 |
-| 34 | [People Make the World Go Round](https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Metro Blue](https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR) | 4:25 |
+| 33 | [People Make the World Go Round](https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Metro Blue](https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR) | 4:25 |
+| 34 | [To Be Like Him](https://open.spotify.com/track/4dZmmXWPVZBOiQ9Sszqe78) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Lay It Back](https://open.spotify.com/album/5g00ZHexA6LNzsvtdJ7dJQ) | 5:35 |
 | 35 | [Honey\-Dipped](https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Saxophonic](https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l) | 4:23 |
 | 36 | [4 On The Floor](https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Kickin' It Up](https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB) | 4:27 |
 | 37 | [Floor & More](https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 5:04 |

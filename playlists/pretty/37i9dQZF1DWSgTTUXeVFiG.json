@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 25187,
+  "num_followers": 25228,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "40 Anniversary (Live Hits)",
+        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Hector Tricoche",
+          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Lobo Domesticado \"En Vivo\"",
+      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 371813,
       "name": "Sonido Bestial - En Vivo",
       "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "40 Anniversary (Live Hits)",
-        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Hector Tricoche",
-          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Lobo Domesticado \"En Vivo\"",
-      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
     },
     {
       "added_at": "2024-09-24 20:35:55",

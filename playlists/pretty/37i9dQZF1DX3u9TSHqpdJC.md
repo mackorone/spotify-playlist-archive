@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music from new, independent artists\.  Cover: Disco Shrine\. Artwork by Paola Saliby
+> The best new pop music from new, independent artists\.  Cover: Kaleb Cohen\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,783 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,846 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [u+me](https://open.spotify.com/track/4iGyFHws2ol6owstTPNe0x) | [Disco Shrine](https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA) | [u+me](https://open.spotify.com/album/3mnASupEG1eVQyVQRF3EY4) | 2:15 |
-| 2 | [You Used To Be So Sexy](https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I'm Not Your Punchbag](https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV) | 3:24 |
-| 3 | [Boys](https://open.spotify.com/track/2PODSkB110NvZg50k2pj8a) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Boys](https://open.spotify.com/album/3aUoM464DNR5Z6bjweulfC) | 2:10 |
-| 4 | [Pacemaker](https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Pacemaker](https://open.spotify.com/album/620asHETGznhXwYUUFP3TB) | 3:09 |
-| 5 | [East Coast Summers](https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [East Coast Summers](https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX) | 3:41 |
+| 1 | [East Coast Summers](https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [East Coast Summers](https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX) | 3:41 |
+| 2 | [u+me](https://open.spotify.com/track/4iGyFHws2ol6owstTPNe0x) | [Disco Shrine](https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA) | [u+me](https://open.spotify.com/album/3mnASupEG1eVQyVQRF3EY4) | 2:15 |
+| 3 | [You Used To Be So Sexy](https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I'm Not Your Punchbag](https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV) | 3:24 |
+| 4 | [Boys](https://open.spotify.com/track/2PODSkB110NvZg50k2pj8a) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Boys](https://open.spotify.com/album/3aUoM464DNR5Z6bjweulfC) | 2:10 |
+| 5 | [Pacemaker](https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Pacemaker](https://open.spotify.com/album/620asHETGznhXwYUUFP3TB) | 3:09 |
 | 6 | [Wednesday's Child](https://open.spotify.com/track/0LAly6VAyxOtoVAj34oYFp) | [EMMMA](https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd) | [Wednesday's Child](https://open.spotify.com/album/3S7MP5Msk1fyjsJoiH3RdX) | 3:16 |
 | 7 | [Harder To Reach Than God](https://open.spotify.com/track/0qwXn6abuWsTT3lSqDkEaq) | [Avalon](https://open.spotify.com/artist/5qLjCUKw1qrmVyeVAqKOub) | [Harder To Reach Than God](https://open.spotify.com/album/6M7FmoochZnpEhbwJ0ruaG) | 2:53 |
 | 8 | [a green light](https://open.spotify.com/track/2QlTtHM87EDM5E1H8RqiYQ) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [a green light](https://open.spotify.com/album/0aFdRy0kEmY8rOKrU5pzbI) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
 | 100 | [Who are you?](https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn) | 2:31 |
 
-Snapshot ID: `aBra5AAAAABRCtz7JZSumkPfsrs77t5n`
+Snapshot ID: `aCTTLwAAAACDkUDObO9co67MKJfU1bB2`

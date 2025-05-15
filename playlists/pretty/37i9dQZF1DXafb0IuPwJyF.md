@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,975 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,044 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 |
+| 1 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
 | 2 | [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 |
 | 3 | [ブルーアンバー](https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ブルーアンバー](https://open.spotify.com/album/3PHKqNh7HXpmblwGJpcNC0) | 3:27 |
 | 4 | [PUZZLE](https://open.spotify.com/track/09O5p1IP5i2xldBScLpXX7) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PUZZLE](https://open.spotify.com/album/7L8b9ERkqqs8F0rtjYrofV) | 4:36 |
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 28 | [50%](https://open.spotify.com/track/4ghCcQcictNxObRdRmmk6S) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [50%](https://open.spotify.com/album/03VDTiSvAajPkP9NuMg2Nx) | 5:03 |
 | 29 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
 | 30 | [スケッチ](https://open.spotify.com/track/1qyMHya2R2k57MApk6kBzI) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [スケッチ](https://open.spotify.com/album/1Dbxuuvd9UGmd6JGZCq9Qb) | 4:26 |
-| 31 | [PAGE ONE](https://open.spotify.com/track/2mR3BwYuoITAxCQYk3GlBL) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [PAGE ONE](https://open.spotify.com/album/3mBYSlWDJ9tZtqTOjD15eJ) | 3:19 |
-| 32 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 |
-| 33 | [SPEED](https://open.spotify.com/track/2NQ1VzxLmTEJvnTNds37gX) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [SPEED](https://open.spotify.com/album/2lE5tqsTkGlvdLxkw1ESnS) | 2:02 |
-| 34 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
-| 35 | [I JUST](https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [I JUST](https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v) | 2:50 |
+| 31 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 |
+| 32 | [PAGE ONE](https://open.spotify.com/track/2mR3BwYuoITAxCQYk3GlBL) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [PAGE ONE](https://open.spotify.com/album/3mBYSlWDJ9tZtqTOjD15eJ) | 3:19 |
+| 33 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 |
+| 34 | [SPEED](https://open.spotify.com/track/2NQ1VzxLmTEJvnTNds37gX) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [SPEED](https://open.spotify.com/album/2lE5tqsTkGlvdLxkw1ESnS) | 2:02 |
+| 35 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
 | 36 | [ROCKSTAR](https://open.spotify.com/track/22wzqoECjwKEZEw37WbAXX) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Best Adobum](https://open.spotify.com/album/4G1L7sZheq5RAFNbqSbp3O) | 3:43 |
 | 37 | [doppelgänger](https://open.spotify.com/track/7FgkqIH50E6masvuz4EOPy) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [doppelgänger](https://open.spotify.com/album/7CMTY6yUZDGVoc4GIi7qRZ) | 2:47 |
 | 38 | [カノープス](https://open.spotify.com/track/7Ai1pvWlZhefnnn7zt5yxA) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [カノープス](https://open.spotify.com/album/4NtyZmtkTcgejBosHTQ5Pl) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Tiger](https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk) | 3:10 |
 | 50 | [GBAD \(Number\_i Remix\)](https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GBAD \(Number\_i Remix\)](https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak) | 3:07 |
 
-Snapshot ID: `aCNefAAAAADWItfccK2Nc6ELSkszI4Su`
+Snapshot ID: `aCU/8AAAAADemSXxejKwsRk7PAyhzkW9`

@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 163146,
       "name": "All the Time in the World",
       "url": "https://open.spotify.com/track/71fcNlXfJu1aWQmABFyZ2j"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 122706,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0fsEFHhPQ2mwnAk5Mdteg8"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
@@ -3414,7 +3414,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 219053,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
@@ -4586,7 +4586,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 160453,
       "name": "Colors",
       "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
@@ -8784,7 +8784,7 @@
       ],
       "date_added": "2020-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
@@ -10056,7 +10056,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 269720,
       "name": "Heartbreak Warfare",
       "url": "https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue"
@@ -11218,7 +11218,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 184444,
       "name": "I Do - Bonus Track",
       "url": "https://open.spotify.com/track/7KDt8lUrhiYDx42AN1RwZj"
@@ -13306,7 +13306,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
@@ -16760,7 +16760,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
@@ -18976,7 +18976,7 @@
       ],
       "date_added": "2020-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
@@ -19478,7 +19478,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 255021,
       "name": "Ran Away",
       "url": "https://open.spotify.com/track/0tyYmCVxlpcfX5NoYs6m8N"
@@ -20318,6 +20318,24 @@
       "duration_ms": 234365,
       "name": "See You Through My Eyes",
       "url": "https://open.spotify.com/track/2XBAkFYQyVNnwhGQVNxQKZ"
+    },
+    {
+      "album": {
+        "name": "Without People",
+        "url": "https://open.spotify.com/album/4r9vIyMQT7a5iPBcHN9RNU"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186143,
+      "name": "Seeing Other People",
+      "url": "https://open.spotify.com/track/1chf3Gz1Ko6RxXvx8aTyDr"
     },
     {
       "album": {
@@ -21646,7 +21664,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 173604,
       "name": "Speak Too Soon",
       "url": "https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy"
@@ -23656,7 +23674,7 @@
       ],
       "date_added": "2019-12-06",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 197298,
       "name": "The Bones - with Hozier",
       "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
@@ -28076,7 +28094,7 @@
       ],
       "date_added": "2019-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"

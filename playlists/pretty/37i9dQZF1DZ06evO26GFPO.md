@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,962 likes - 45 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,963 likes - 45 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 44 | [Faz uma Loucura por mim / Você me vira a cabeça \- Ao Vivo](https://open.spotify.com/track/2hy9PyCleGC4HRe5MsPwfF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 5:01 |
 | 45 | [Brigas Demais](https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 4:08 |
 
-Snapshot ID: `aCE6AAAAAADoOZaqvmJEOsw/KOy/XBWu`
+Snapshot ID: `aCKLgAAAAACnqwz4hqeiTUtl74ju7lNb`

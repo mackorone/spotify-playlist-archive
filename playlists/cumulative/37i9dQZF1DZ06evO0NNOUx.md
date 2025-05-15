@@ -4,11 +4,11 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 48 min
+59 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1234](https://open.spotify.com/track/15uR6InJEo9zyl9DgVQTz0) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/0N8aFQLSzan3WfsyEnRjQ8) | 2:49 | 2025-04-09 |  |
+| [1234](https://open.spotify.com/track/15uR6InJEo9zyl9DgVQTz0) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/0N8aFQLSzan3WfsyEnRjQ8) | 2:49 | 2025-04-09 | 2025-05-15 |
 | [ALIVE](https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:01 | 2025-04-09 |  |
 | [ALL THE TIME](https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [ALL THE TIME](https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2) | 2:48 | 2025-04-09 |  |
 | [Altar](https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:34 | 2025-04-18 |  |
@@ -41,6 +41,7 @@
 | [Jesus Paid It All \(Worthy of The Price\)](https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Jesus Paid It All](https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7) | 3:56 | 2025-04-09 |  |
 | [Lately](https://open.spotify.com/track/58ijtNiLXPW6d24WmoMCAP) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 3:27 | 2025-04-09 |  |
 | [LIFT MY HANDS](https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:39 | 2025-04-09 |  |
+| [LIVE YOUR LIFE](https://open.spotify.com/track/0ee793vMCGz624rQFx90Yz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:41 | 2025-05-15 |  |
 | [LOW KEY](https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LOW KEY](https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8) | 2:30 | 2025-04-09 |  |
 | [NEVER GET USED TO THIS](https://open.spotify.com/track/25f7KnoDqO7nBbPahi15UE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:25 | 2025-04-09 |  |
 | [NO L's](https://open.spotify.com/track/17bCx9UXmnmts0ly7dO1y7) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [NO L's](https://open.spotify.com/album/56Vm1PikcYB6eZwgdDq6Ty) | 2:27 | 2025-04-20 |  |
@@ -62,7 +63,7 @@
 | [UP!](https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:16 | 2025-04-09 |  |
 | [UPS & DOWNS](https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:41 | 2025-04-09 |  |
 | [what's the use?](https://open.spotify.com/track/0A2NUKgbIM6usESeRTk9Z4) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [what's the use?](https://open.spotify.com/album/1U1MhjyeQmkdR7zR5xppYq) | 2:21 | 2025-04-09 | 2025-04-22 |
-| [Why Not Me](https://open.spotify.com/track/5KKzX8oO0W8K93M4is7wqO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 3:26 | 2025-04-09 |  |
+| [Why Not Me](https://open.spotify.com/track/5KKzX8oO0W8K93M4is7wqO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 3:26 | 2025-04-09 | 2025-05-15 |
 | [WOKE UP THIS MORNING](https://open.spotify.com/track/5bbnUbsfEDJMPaBikdQ0eC) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [WOKE UP THIS MORNING](https://open.spotify.com/album/1DryWDxvfCpNw12WhdVSwQ) | 2:13 | 2025-05-07 |  |
 | [Your Soul](https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 2:58 | 2025-04-09 |  |
 | [YOUR WAY'S BETTER](https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:18 | 2025-04-09 |  |

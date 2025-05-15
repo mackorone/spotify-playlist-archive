@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,011 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,026 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 19 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 |
 | 20 | [Rimini](https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:43 |
 | 21 | [La sentinelle](https://open.spotify.com/track/5k3NhWuNprfszujFV7OsbV) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:26 |
-| 22 | [Matador](https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Matador](https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7) | 3:06 |
-| 23 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
+| 22 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
+| 23 | [Matador](https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Matador](https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7) | 3:06 |
 | 24 | [Comme elle vient](https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [666.667 Club](https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT) | 2:25 |
 | 25 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
 | 26 | [Jalouse](https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:46 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 32 | [Jouer dehors](https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Jouer dehors](https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs) | 3:33 |
 | 33 | [Stand As One](https://open.spotify.com/track/1RgcWiVrG3QwkqftEvrfBV) | [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB) | [LOOV](https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8) | 3:18 |
 | 34 | [Soledad](https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:08 |
-| 35 | [Let Me Alone](https://open.spotify.com/track/5R8TGuZ8WSbH2ASGlLDpKg) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Izia](https://open.spotify.com/album/6qZt3k8Y9XXtrAS1Vp6LKm) | 3:51 |
-| 36 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
+| 35 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
+| 36 | [Let Me Alone](https://open.spotify.com/track/5R8TGuZ8WSbH2ASGlLDpKg) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Izia](https://open.spotify.com/album/6qZt3k8Y9XXtrAS1Vp6LKm) | 3:51 |
 | 37 | [L'Amour à la française](https://open.spotify.com/track/6XGmPf0kuUwakHNnLB30mH) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Pamplemousse Mécanique \(Edition Eurovision + 1 titre bonus\)](https://open.spotify.com/album/58SdE4Iofh5Y1jZi5HRDBu) | 2:42 |
 | 38 | [Notre Epoque](https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6) | [Tarmac](https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J) | [Notre Epoque](https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo) | 3:34 |
 | 39 | [Révolution.com](https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Revolution.com](https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo) | 3:27 |

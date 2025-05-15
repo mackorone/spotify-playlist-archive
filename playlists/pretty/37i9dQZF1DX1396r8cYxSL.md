@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2024 yazına damga vuran şarkılar\. Kapak: Era7Capone x Batuflex x Narco
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,644 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,635 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 24 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 |
 | 25 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 |
 | 26 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 |
-| 27 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
-| 28 | [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 |
+| 27 | [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 |
+| 28 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
 | 29 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 |
 | 30 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 |
 | 31 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 41 | [KAPALI KAPILAR](https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [KAPALI KAPILAR](https://open.spotify.com/album/4LQUHqj3yzAz5zQXR1w296) | 2:36 |
 | 42 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 |
 | 43 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 |
-| 44 | [NERESİ?](https://open.spotify.com/track/69j3pb1B6timV7SEEcfsQ0) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [NERESİ?](https://open.spotify.com/album/3b9rPCIjMeLjOmz4zKuhV7) | 2:50 |
-| 45 | [Yolun Sonu](https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Yolun Sonu](https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR) | 2:41 |
+| 44 | [Yolun Sonu](https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Yolun Sonu](https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR) | 2:41 |
+| 45 | [NERESİ?](https://open.spotify.com/track/69j3pb1B6timV7SEEcfsQ0) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [NERESİ?](https://open.spotify.com/album/3b9rPCIjMeLjOmz4zKuhV7) | 2:50 |
 | 46 | [Eyvah](https://open.spotify.com/track/4dJHOcTO4jWVTrNYiNtJmf) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Eyvah](https://open.spotify.com/album/10JevKnjSx3Oc2TAbut0MF) | 2:27 |
 | 47 | [MAD](https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [MAD](https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq) | 3:27 |
 | 48 | [24/7](https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [24/7](https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY) | 3:06 |

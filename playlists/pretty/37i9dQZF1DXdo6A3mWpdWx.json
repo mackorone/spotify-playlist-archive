@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1099476,
+  "num_followers": 1100205,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 203440,
       "name": "Doctor Jones",
       "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Born Slippy (Nuxx) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 264187,
-      "name": "Born Slippy (Nuxx) - Radio Edit",
-      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 285106,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Born Slippy (Nuxx) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 264187,
+      "name": "Born Slippy (Nuxx) - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Feel the heat of the night",
-        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
-      },
-      "artists": [
-        {
-          "name": "Masterboy",
-          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Feel the heat of the night - Radio Edit",
-      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Like The Deserts Miss The Rain",
         "url": "https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 235026,
       "name": "Missing - Todd Terry Remix / Radio Edit",
       "url": "https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Feel the heat of the night",
+        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
+      },
+      "artists": [
+        {
+          "name": "Masterboy",
+          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "Feel the heat of the night - Radio Edit",
+      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Lollipop (Candyman)",
-      "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Backstreet Boys",
         "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 219466,
       "name": "We've Got It Goin' On - Radio Edit",
       "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Lollipop (Candyman)",
+      "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Roses Are Red - Original Version",
+      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Step One",
         "url": "https://open.spotify.com/album/0LLP9HeDd489SxAGAaRYIq"
       },
@@ -2407,38 +2423,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Toonage",
-        "url": "https://open.spotify.com/album/0lKry7c7VLzsx4dD0DXSiI"
-      },
-      "artists": [
-        {
-          "name": "Cartoons",
-          "url": "https://open.spotify.com/artist/6eKJWEzLZq8jZix8hdYsv4"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Witch Doctor - Radio Mix",
-      "url": "https://open.spotify.com/track/1li2UA33w6LQcVXt4Di5UA"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Roses Are Red - Original Version",
-      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 351026,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Toonage",
+        "url": "https://open.spotify.com/album/0lKry7c7VLzsx4dD0DXSiI"
+      },
+      "artists": [
+        {
+          "name": "Cartoons",
+          "url": "https://open.spotify.com/artist/6eKJWEzLZq8jZix8hdYsv4"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Witch Doctor - Radio Mix",
+      "url": "https://open.spotify.com/track/1li2UA33w6LQcVXt4Di5UA"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2503,22 +2503,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG"
+        "name": "Seven Days and One Week",
+        "url": "https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5"
       },
       "artists": [
         {
-          "name": "Five",
-          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
-        },
-        {
-          "name": "Steve Mac",
-          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
+          "name": "BBE",
+          "url": "https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Keep On Movin'",
-      "url": "https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz"
+      "duration_ms": 271568,
+      "name": "Seven Days and One Week - Radio Edit",
+      "url": "https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg"
     }
   ],
   "unique_name": "90s Party",

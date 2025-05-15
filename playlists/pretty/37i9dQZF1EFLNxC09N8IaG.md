@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,665 likes - 188 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,664 likes - 188 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 60 | [5:15](https://open.spotify.com/track/2HMbaTPwyou6Uw3ZqqhEPO) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:56 |
 | 61 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
 | 62 | [Midnight Snack](https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Midnight Snack](https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc) | 3:47 |
-| 63 | [Cartier](https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:16 |
-| 64 | [Black & White \(feat\. Muni Long\)](https://open.spotify.com/track/2tH9DTuje2kxAKIT85vLnY) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:00 |
+| 63 | [Black & White \(feat\. Muni Long\)](https://open.spotify.com/track/2tH9DTuje2kxAKIT85vLnY) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:00 |
+| 64 | [Cartier](https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:16 |
 | 65 | [Bandera](https://open.spotify.com/track/4mJSGwBPMlqQ8NbkT42laK) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Bandera Move](https://open.spotify.com/album/1PIn3KqFgK4UOexNEjHXqP) | 2:48 |
 | 66 | [Insecure](https://open.spotify.com/track/4dL40OAYdBas4TeDwSldp6) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:11 |
 | 67 | [All I See Is Gold](https://open.spotify.com/track/4LPLeiZJLYNGPdI3oo4PFz) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 2:53 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 187 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 188 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `AbxVagAAAACfqLYOeYLj0zfWwJ4T5Ngh`
+Snapshot ID: `AbxbCgAAAAD6N/dbWzTxyJcOq/XYqI3r`

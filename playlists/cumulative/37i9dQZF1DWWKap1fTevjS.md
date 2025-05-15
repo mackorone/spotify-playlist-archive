@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-791 songs - 1 day 14 hr 31 min
+794 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Droplets](https://open.spotify.com/track/1LUljKZFZcHctU5OBMqFmG) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Droplets](https://open.spotify.com/album/4jztVXUzJmvVITmF509pPu) | 2:50 | 2025-01-22 |  |
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2023-10-20 | 2024-02-28 |
 | [Dusk's Embrace](https://open.spotify.com/track/0GRGJ6N5wWFpDTDqYJCzWU) | [Celestial Whisperer](https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac) | [Dusk's Embrace](https://open.spotify.com/album/6FhmpveNERkdoEs6zRmVaR) | 2:46 | 2024-03-06 |  |
+| [Duskveil](https://open.spotify.com/track/5PHG6zIU3TVPkrhjxfIndk) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Duskveil](https://open.spotify.com/album/3arZlYaEzG23SpaWDM9kwO) | 3:04 | 2025-05-14 |  |
 | [Earthy Vibes](https://open.spotify.com/track/1InWzGbLaqF6HVmAzDTrKJ) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Earthy Vibes](https://open.spotify.com/album/75yfdMKQEm7b0PKat1lC0e) | 3:45 | 2024-07-09 |  |
 | [Eclipsar](https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT) | [Adrian Stenhammar](https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr) | [Eclipsar](https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l) | 3:21 | 2024-02-08 | 2025-03-20 |
 | [Eclipse](https://open.spotify.com/track/7GMKqJAsTVs5EB1mGhGxZz) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Eclipse](https://open.spotify.com/album/4NN6SfzljIm5dqqkCXARPY) | 2:55 | 2025-01-08 |  |
@@ -249,7 +250,7 @@
 | [Enter the Dormancy](https://open.spotify.com/track/4G3L22OyCT4E9cfoyNi3eE) | [terje jaakonen](https://open.spotify.com/artist/7KHBvqZmZsQsu1Hg9eXcGh) | [Enter the Dormancy](https://open.spotify.com/album/2BhVeN2ETcSGQoRlGURaXs) | 3:23 | 2024-02-08 | 2025-01-23 |
 | [Eon](https://open.spotify.com/track/1lEmgReLHaCJHJwG4OCo13) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Eon](https://open.spotify.com/album/4immjEnSICjAhdzMp48B0H) | 2:52 | 2024-02-08 | 2024-03-21 |
 | [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-27 | 2024-08-31 |
-| [Erice](https://open.spotify.com/track/4ecPC4L51JVR6WqJZWkeAi) | [Amos Stovall](https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS) | [Erice](https://open.spotify.com/album/5MJ7tUbfRkHSg5lKYqUM8M) | 2:54 | 2025-05-07 |  |
+| [Erice](https://open.spotify.com/track/4ecPC4L51JVR6WqJZWkeAi) | [Amos Stovall](https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS) | [Erice](https://open.spotify.com/album/5MJ7tUbfRkHSg5lKYqUM8M) | 2:54 | 2025-05-07 | 2025-05-15 |
 | [Erinnerungen](https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Erinnerungen](https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl) | 3:12 | 2024-02-08 | 2024-07-16 |
 | [Erlaxatu](https://open.spotify.com/track/3ROErV7ENsyuiM8CYd4uNP) | [Aingeni](https://open.spotify.com/artist/0cUxB8x7iRbqVCgZmdBtk8) | [Erlaxatu](https://open.spotify.com/album/7CfQJT2XMbcy52URkSYap1) | 2:38 | 2023-10-20 | 2024-03-21 |
 | [Escapism](https://open.spotify.com/track/6aEP08m5WYICO4WofcP0pn) | [Vista Hierro](https://open.spotify.com/artist/0CALPbZtkitbpbqDjU6Ddp) | [Escapism](https://open.spotify.com/album/7i4BCH82oZU3vWcTTXnOVH) | 3:44 | 2024-02-27 | 2024-07-16 |
@@ -389,6 +390,7 @@
 | [Ladybugs](https://open.spotify.com/track/0bPOqdsUdPCOayNdh0ERNW) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Ladybugs](https://open.spotify.com/album/1EgGcnjTXA2Ci9Bt882r6C) | 3:09 | 2023-10-20 | 2024-02-09 |
 | [Lage](https://open.spotify.com/track/3CqiVCGBvST27IugG68rRc) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Lage](https://open.spotify.com/album/32nYyoyqI2idlGFfmqzxo4) | 2:53 | 2024-02-27 | 2024-03-21 |
 | [Langeland](https://open.spotify.com/track/6vZRJSlkmxAEDb51WeqZFC) | [Felix Langgard](https://open.spotify.com/artist/4TGwoikKqGTkf6yt1DVSSL) | [Langeland](https://open.spotify.com/album/4uWdAqHiYju8w7gW1Yilqf) | 3:02 | 2023-10-20 | 2023-11-25 |
+| [Laomedeia](https://open.spotify.com/track/5VBAXRSw6VWYHs3omom0za) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Laomedeia](https://open.spotify.com/album/0zvxor9ZfHJsPBGMKuYg2B) | 2:51 | 2025-05-14 |  |
 | [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 | 2023-10-20 | 2024-03-21 |
 | [Latitude](https://open.spotify.com/track/7IJdncR0sFTfunKdmQqTlt) | [Niranja](https://open.spotify.com/artist/05na68HA7aLe286zVkDg7B) | [Latitude](https://open.spotify.com/album/3FrqjMioXMdod4NEdio5cA) | 2:28 | 2025-01-08 |  |
 | [Leisure](https://open.spotify.com/track/37miKtLQZKUNQksw2XnE1w) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Leisure](https://open.spotify.com/album/6X1zZSUqkd10JC0u670BWF) | 2:47 | 2024-03-06 |  |
@@ -663,6 +665,7 @@
 | [Solsten](https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Solsten](https://open.spotify.com/album/49GVq2UFbm0PK962WsRcxB) | 3:32 | 2024-07-09 |  |
 | [Solstice Waves](https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Solstice Waves](https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk) | 2:48 | 2024-07-22 | 2025-02-15 |
 | [Somehow](https://open.spotify.com/track/1duFJu4fsHT5qrtGGRbxhg) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Somehow](https://open.spotify.com/album/1zAHjeiIhu46tI4gSnhslp) | 2:50 | 2025-01-22 |  |
+| [Somna](https://open.spotify.com/track/2pxZlxVk1PWbI2tw7j0QnD) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Somna](https://open.spotify.com/album/0F5ugqecVnynFMBMd7gBgs) | 3:02 | 2025-05-14 |  |
 | [Somniantes](https://open.spotify.com/track/2oRPG3rScsUtAwJ5W0Ij6m) | [Enma](https://open.spotify.com/artist/65t1qirLuVn4JyCfkiPUIc) | [Somniantes](https://open.spotify.com/album/6oXKW8Jaida4M5Y0A9rQRI) | 2:41 | 2024-07-09 |  |
 | [somniferous](https://open.spotify.com/track/0d6wnnh8fXYjI9GQL6yg0m) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [somniferous](https://open.spotify.com/album/142QcXlQvCfgkotp1fxEyw) | 3:40 | 2023-10-20 | 2024-02-09 |
 | [Somnisonic](https://open.spotify.com/track/5AQQYMkVL7216ZVuPytjwL) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Somnisonic](https://open.spotify.com/album/09sd9ZHGWdZn4fgFOTta4D) | 2:22 | 2024-01-17 | 2024-03-21 |

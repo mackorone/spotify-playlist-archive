@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2424248,
+  "num_followers": 2424524,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -123,30 +123,6 @@
     {
       "added_at": "2025-05-09 04:00:28",
       "album": {
-        "name": "Never Going Home Tonight (feat. Madison Love)",
-        "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Madison Love",
-          "url": "https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ"
-        }
-      ],
-      "duration_ms": 164285,
-      "name": "Never Going Home Tonight (feat. Madison Love)",
-      "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
-    },
-    {
-      "added_at": "2025-05-09 04:00:28",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -171,6 +147,30 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2025-05-09 04:00:28",
+      "album": {
+        "name": "Never Going Home Tonight (feat. Madison Love)",
+        "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Madison Love",
+          "url": "https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "Never Going Home Tonight (feat. Madison Love)",
+      "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
     },
     {
       "added_at": "2025-05-09 04:00:28",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2025-05-09 04:00:28",
       "album": {
-        "name": "Better Times",
-        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Better Times",
-      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
-    },
-    {
-      "added_at": "2025-05-09 04:00:28",
-      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "added_at": "2025-05-09 04:00:28",
+      "album": {
+        "name": "Better Times",
+        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 199015,
+      "name": "Better Times",
+      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
     },
     {
       "added_at": "2025-05-09 04:00:28",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2025-05-09 04:00:28",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ"
-    },
-    {
-      "added_at": "2025-05-09 04:00:28",
-      "album": {
         "name": "Saving It All",
         "url": "https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 186268,
       "name": "Saving It All",
       "url": "https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8"
+    },
+    {
+      "added_at": "2025-05-09 04:00:28",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ"
     },
     {
       "added_at": "2025-05-09 04:00:28",
@@ -2403,26 +2403,6 @@
     {
       "added_at": "2025-05-09 04:00:28",
       "album": {
-        "name": "Pleasure, Joy & Happiness (musclecars remix)",
-        "url": "https://open.spotify.com/album/1xbOaDxwz4EobBWHvgzpbQ"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        },
-        {
-          "name": "musclecars",
-          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
-        }
-      ],
-      "duration_ms": 561502,
-      "name": "Pleasure, Joy & Happiness (musclecars remix)",
-      "url": "https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT"
-    },
-    {
-      "added_at": "2025-05-09 04:00:28",
-      "album": {
         "name": "All Day (feat. Non\u00f4)",
         "url": "https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ"
       },
@@ -2439,6 +2419,26 @@
       "duration_ms": 182653,
       "name": "All Day (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R"
+    },
+    {
+      "added_at": "2025-05-09 04:00:28",
+      "album": {
+        "name": "Pleasure, Joy & Happiness (musclecars remix)",
+        "url": "https://open.spotify.com/album/1xbOaDxwz4EobBWHvgzpbQ"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        },
+        {
+          "name": "musclecars",
+          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
+        }
+      ],
+      "duration_ms": 561502,
+      "name": "Pleasure, Joy & Happiness (musclecars remix)",
+      "url": "https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT"
     },
     {
       "added_at": "2025-05-09 04:00:28",
@@ -2863,6 +2863,26 @@
     {
       "added_at": "2025-05-09 04:00:28",
       "album": {
+        "name": "pillowtalk (with yung bae)",
+        "url": "https://open.spotify.com/album/1IM8QiIWRJzcWbuRTqH89n"
+      },
+      "artists": [
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        },
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "pillowtalk (with yung bae)",
+      "url": "https://open.spotify.com/track/0azGwVInzyPDUrOQ3qlq4B"
+    },
+    {
+      "added_at": "2025-05-09 04:00:28",
+      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/5fa88tKdjPDtHp8njn8hXE"
       },
@@ -2939,26 +2959,6 @@
     {
       "added_at": "2025-05-09 04:00:28",
       "album": {
-        "name": "pillowtalk (with yung bae)",
-        "url": "https://open.spotify.com/album/1IM8QiIWRJzcWbuRTqH89n"
-      },
-      "artists": [
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        },
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        }
-      ],
-      "duration_ms": 185076,
-      "name": "pillowtalk (with yung bae)",
-      "url": "https://open.spotify.com/track/0azGwVInzyPDUrOQ3qlq4B"
-    },
-    {
-      "added_at": "2025-05-09 04:00:28",
-      "album": {
         "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
         "url": "https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd"
       },
@@ -2979,26 +2979,6 @@
     {
       "added_at": "2025-05-09 04:00:28",
       "album": {
-        "name": "Waste of Time",
-        "url": "https://open.spotify.com/album/5ukn5r63NkKwcYVouSYtGd"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        },
-        {
-          "name": "David Frank",
-          "url": "https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW"
-        }
-      ],
-      "duration_ms": 226875,
-      "name": "Waste of Time",
-      "url": "https://open.spotify.com/track/4lq3wubv9kXqwAOiO7jNON"
-    },
-    {
-      "added_at": "2025-05-09 04:00:28",
-      "album": {
         "name": "CHOOSE LOVE",
         "url": "https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT"
       },
@@ -3015,6 +2995,26 @@
       "duration_ms": 166932,
       "name": "CHOOSE LOVE",
       "url": "https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri"
+    },
+    {
+      "added_at": "2025-05-09 04:00:28",
+      "album": {
+        "name": "Waste of Time",
+        "url": "https://open.spotify.com/album/5ukn5r63NkKwcYVouSYtGd"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        },
+        {
+          "name": "David Frank",
+          "url": "https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW"
+        }
+      ],
+      "duration_ms": 226875,
+      "name": "Waste of Time",
+      "url": "https://open.spotify.com/track/4lq3wubv9kXqwAOiO7jNON"
     },
     {
       "added_at": "2025-05-09 04:00:28",
@@ -3055,6 +3055,22 @@
     {
       "added_at": "2025-05-09 04:00:28",
       "album": {
+        "name": "Mine 4 All Time",
+        "url": "https://open.spotify.com/album/4bwpSdPkrRIUIcr2lpnlbv"
+      },
+      "artists": [
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Mine 4 All Time",
+      "url": "https://open.spotify.com/track/5NZRe5OEuXRxn9s5IfsIY2"
+    },
+    {
+      "added_at": "2025-05-09 04:00:28",
+      "album": {
         "name": "You Know What I Need",
         "url": "https://open.spotify.com/album/1lp2zvRCCMYOAxAgtVLFU2"
       },
@@ -3071,22 +3087,6 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl"
-    },
-    {
-      "added_at": "2025-05-09 04:00:28",
-      "album": {
-        "name": "Mine 4 All Time",
-        "url": "https://open.spotify.com/album/4bwpSdPkrRIUIcr2lpnlbv"
-      },
-      "artists": [
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Mine 4 All Time",
-      "url": "https://open.spotify.com/track/5NZRe5OEuXRxn9s5IfsIY2"
     }
   ],
   "unique_name": "Happy Beats",

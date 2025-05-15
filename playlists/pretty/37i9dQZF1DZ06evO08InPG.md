@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,008 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,010 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,19 +14,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 4 | [BØNESCRAPER](https://open.spotify.com/track/6MOsvwUNRWQUm1UYTwVrr1) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [BØNESCRAPER](https://open.spotify.com/album/5BdBDX5zGZP0cidRxkV9C2) | 3:33 |
 | 5 | [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 |
 | 6 | [Circle The Drain](https://open.spotify.com/track/61nq0jg2PYWxUUiarofGBI) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Circle The Drain](https://open.spotify.com/album/0KnBuxBF1ynAS69UlDuJHE) | 4:05 |
-| 7 | [NØT LØNG FØR THIS WØRLD](https://open.spotify.com/track/3D6o1Gu1kkG6HFY1iRP8gL) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:55 |
-| 8 | [These Scars Won't Define Us \- Tour Version](https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [These Scars Won't Define Us \(Tour Version\)](https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab) | 3:32 |
-| 9 | [Game Over](https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:36 |
+| 7 | [THESE SCARS WØN'T DEFINE US](https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:32 |
+| 8 | [Game Over](https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:36 |
+| 9 | [These Scars Won't Define Us \- Tour Version](https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [These Scars Won't Define Us \(Tour Version\)](https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab) | 3:32 |
 | 10 | [Locust](https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 7:36 |
-| 11 | [THESE SCARS WØN'T DEFINE US](https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:32 |
-| 12 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
-| 13 | [Now We Die](https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 7:10 |
+| 11 | [NØT LØNG FØR THIS WØRLD](https://open.spotify.com/track/3D6o1Gu1kkG6HFY1iRP8gL) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:55 |
+| 12 | [Now We Die](https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 7:10 |
+| 13 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
 | 14 | [Iconoclast](https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc), [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Cancer Culture](https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0) | 4:49 |
-| 15 | [ADDICTED TØ PAIN](https://open.spotify.com/track/3aDissFCQVBlEvImNXK8A7) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:10 |
+| 15 | [UNBØUND](https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:56 |
 | 16 | [From This Day](https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:56 |
 | 17 | [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 |
 | 18 | [Beyond The Pale](https://open.spotify.com/track/2kHl3Ngt6kJsCuwq23KMIE) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 4:31 |
-| 19 | [UNBØUND](https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:56 |
+| 19 | [ADDICTED TØ PAIN](https://open.spotify.com/track/3aDissFCQVBlEvImNXK8A7) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:10 |
 | 20 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:06 |
 | 21 | [Hallowed Be Thy Name](https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 7:27 |
 | 22 | [Sail Into The Black](https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 8:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 49 | [Now I Lay Thee Down](https://open.spotify.com/track/65GqoNsz3q6GMW9AXjv8mz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:34 |
 | 50 | [Blood for Blood](https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 3:40 |
 
-Snapshot ID: `aCE6AAAAAAC8Qr0TtXGTpRd8JAqeBTjr`
+Snapshot ID: `aCKLgAAAAABG9SUmd4Q6Q9FofHCfhzhX`

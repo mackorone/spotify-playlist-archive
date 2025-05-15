@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 羊文学
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,043 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,055 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 53 | [奥二重で見る](https://open.spotify.com/track/5OT7zL5hxwq9K0nGEYKS05) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [Catch](https://open.spotify.com/album/5BDVlDH6vXjXNTAvMropw6) | 3:31 |
 | 54 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 |
 | 55 | [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 |
-| 56 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 |
-| 57 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 |
+| 56 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 |
+| 57 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 |
 | 58 | [アルビレオ](https://open.spotify.com/track/0vmpS70PWUYuJPPosYa5rD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [アルビレオ](https://open.spotify.com/album/2p1h2hbCyLKHCPMOwmG3Wc) | 3:27 |
 | 59 | [GG](https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [GG](https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ) | 3:16 |
 | 60 | [頭の中の宇宙](https://open.spotify.com/track/0XNWTfaqQY9oHKawoKLal3) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [頭の中の宇宙](https://open.spotify.com/album/6LvIKCAja7q2RtBEpi1FTn) | 3:27 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 68 | [ドッペルゲンガー](https://open.spotify.com/track/3lG2lpAVirM0df8pMMUP1P) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Re:結束バンド](https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h) | 3:39 |
 | 69 | [feelin'](https://open.spotify.com/track/4C0BzFXSBi1G9GdDzYYnnj) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Dungeon](https://open.spotify.com/album/1xWgPTItnMarVlFwjLkuQe) | 2:55 |
 | 70 | [未恋](https://open.spotify.com/track/52Wr1agI0y15cVG3h5H4a6) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [未恋](https://open.spotify.com/album/5BPiP0dIDTPERkRf25y57i) | 3:08 |
-| 71 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
-| 72 | [おとずれ](https://open.spotify.com/track/6Fp4d4Rey4Pon8r4UxOKJ5) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [おとずれ](https://open.spotify.com/album/64aKmnM6KUPMr3pgyYQFF5) | 3:48 |
-| 73 | [Debris](https://open.spotify.com/track/7cISTRx3D4mmIfn2MPDvzQ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Debris](https://open.spotify.com/album/3s0NegKIyNZbvXrH4oRxDT) | 4:32 |
+| 71 | [おとずれ](https://open.spotify.com/track/6Fp4d4Rey4Pon8r4UxOKJ5) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [おとずれ](https://open.spotify.com/album/64aKmnM6KUPMr3pgyYQFF5) | 3:48 |
+| 72 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
+| 73 | [あのね、](https://open.spotify.com/track/2Eg1xs17QUpG5qwp4fq94W) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [あのね、](https://open.spotify.com/album/5S4Q6CpID4DgX7VSwneKkR) | 3:38 |
 | 74 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
-| 75 | [あのね、](https://open.spotify.com/track/2Eg1xs17QUpG5qwp4fq94W) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [あのね、](https://open.spotify.com/album/5S4Q6CpID4DgX7VSwneKkR) | 3:38 |
+| 75 | [Debris](https://open.spotify.com/track/7cISTRx3D4mmIfn2MPDvzQ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Debris](https://open.spotify.com/album/3s0NegKIyNZbvXrH4oRxDT) | 4:32 |
 
 Snapshot ID: `aCNeggAAAAC+M9x45L0TE1PWDx+/5tCZ`

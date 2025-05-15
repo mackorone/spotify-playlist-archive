@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 218770,
+  "num_followers": 218818,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAC7d1lfoVCZ182B4dbt1QOr",
+  "snapshot_id": "aCKLgAAAAABxrWvcS6QLQkz784RS9bvy",
   "tracks": [
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/6Gg25EZRbQd4IHiJz2KSY0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hit Bout It",
         "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 177158,
       "name": "Hit Bout It",
       "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/6Gg25EZRbQd4IHiJz2KSY0"
     },
     {
       "added_at": null,

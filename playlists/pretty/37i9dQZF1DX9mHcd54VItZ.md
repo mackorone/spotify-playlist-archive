@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce?si=2fzZpQbkTIaEGocLKeC28Q">The Tazers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,269 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,274 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 8 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
 | 9 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 10 | [The Moment](https://open.spotify.com/track/0Rf0LWliYmiYVGvS2wCMj2) | [Likkewaan](https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3) | [The Moment](https://open.spotify.com/album/3T9CfObvg25e4HTK8E8zr4) | 3:30 |
-| 11 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
-| 12 | [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 |
+| 11 | [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 |
+| 12 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 13 | [Kies](https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Kies](https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs) | 3:28 |
 | 14 | [Sonkring](https://open.spotify.com/track/011GSPHOgz9f9r5Qghzy2j) | [Gian Groen](https://open.spotify.com/artist/1AUYjVNNS9NRuu6wHeXSqg) | [Sonkring](https://open.spotify.com/album/6smVk84yrQG8uHXZ7edWgb) | 4:16 |
 | 15 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
@@ -40,18 +40,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 30 | [Val](https://open.spotify.com/track/7lupMbZvsWOVL07I7ZWkyj) | [Kerk Straat](https://open.spotify.com/artist/5xHpQC0SV90NoM2cqyL8i9) | [Val](https://open.spotify.com/album/0WTNjqB224KZmK3y3ZG3k9) | 3:19 |
 | 31 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
 | 32 | [PLOFSTOF](https://open.spotify.com/track/1wfxz99hrx15z5TVKpgoNE) | [Die Ramkat Mafia](https://open.spotify.com/artist/2tf7u7nYSaa8sIfFQ3hrg2) | [PLOFSTOF](https://open.spotify.com/album/6eQoBwlQsywrUrX5c69NB9) | 3:29 |
-| 33 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 |
-| 34 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
-| 35 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
-| 36 | [Die Dood Is Blou](https://open.spotify.com/track/5v6s3vYnADMh18n2lX4K4I) | [L!SA](https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm) | [Die Dood Is Blou](https://open.spotify.com/album/66nEhtrNE7G3RE7rXbNEob) | 2:38 |
+| 33 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
+| 34 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 |
+| 35 | [Ons Lewe Net Een Keer](https://open.spotify.com/track/5GgWWVgpPfX9qFHtZ1TNU2) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Ons Lewe Net Een Keer](https://open.spotify.com/album/1BSTOeLYWb5wh8t4SSGSpV) | 2:56 |
+| 36 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 37 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
-| 38 | [Ons Lewe Net Een Keer](https://open.spotify.com/track/5GgWWVgpPfX9qFHtZ1TNU2) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Ons Lewe Net Een Keer](https://open.spotify.com/album/1BSTOeLYWb5wh8t4SSGSpV) | 2:56 |
+| 38 | [Die Dood Is Blou](https://open.spotify.com/track/5v6s3vYnADMh18n2lX4K4I) | [L!SA](https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm) | [Die Dood Is Blou](https://open.spotify.com/album/66nEhtrNE7G3RE7rXbNEob) | 2:38 |
 | 39 | [Die Drie Varkies](https://open.spotify.com/track/18wDnlP7jU4fUWTyGDYdY9) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Die Drie Varkies](https://open.spotify.com/album/0AUyCXdFxs9hHfc5T0Ng7B) | 2:47 |
-| 40 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
+| 40 | [As Ek Weet Hoe](https://open.spotify.com/track/6fSMqjzoFbtLglXIPEfUq9) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [As Ek Weet Hoe](https://open.spotify.com/album/6n28TRByeJbf127qzic7Qg) | 2:51 |
 | 41 | [Vyand](https://open.spotify.com/track/1qJZAQyhjfZz5ryLtS3U4q) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Vyand](https://open.spotify.com/album/2pXiICNC2aoGRKWrvGD2ao) | 4:06 |
 | 42 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
 | 43 | [Jonk](https://open.spotify.com/track/6mvqpG4fn6WNSdxsRnNoen) | [Tuimeltrein](https://open.spotify.com/artist/5FZPyeJJIsm4Js3HqzXNJR) | [Jonk](https://open.spotify.com/album/5RgkJKG63Na296u6IVvVjP) | 3:20 |
-| 44 | [As Ek Weet Hoe](https://open.spotify.com/track/6fSMqjzoFbtLglXIPEfUq9) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [As Ek Weet Hoe](https://open.spotify.com/album/6n28TRByeJbf127qzic7Qg) | 2:51 |
+| 44 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
 | 45 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 46 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 47 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |

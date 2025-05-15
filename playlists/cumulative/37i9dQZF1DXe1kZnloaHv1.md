@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-84 songs - 4 hr 30 min
+85 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [CCTV](https://open.spotify.com/track/7abn4PohR1BrcqjYgPQxkg) | [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me the Money 8 Episode 3](https://open.spotify.com/album/7DtSNR96NQXIumEOWMnPM7) | 3:11 | 2023-11-09 |  |
 | [Daydrinking](https://open.spotify.com/track/2Zw8rlCM3tEWGl2ZlSpTeJ) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Daydrinking](https://open.spotify.com/album/1LzTssDA9JdPiqUgO21lDV) | 3:13 | 2025-04-23 |  |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-11-09 |  |
-| [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-11-09 |  |
+| [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-11-09 | 2025-05-15 |
 | [Don't do anything](https://open.spotify.com/track/0AVuw4TYNnfVlu7ajvOSrN) | [saram tto saram](https://open.spotify.com/artist/4khhm4gbowkhdIbNWxWXgT) | [Don't do anything](https://open.spotify.com/album/1jQH4eSSrMN7bQgBpY0xIv) | 2:36 | 2023-11-09 |  |
 | [Drink it, Girls!](https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Work Later Drink Now S2, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh) | 2:56 | 2023-11-09 |  |
 | [Drive mE cRaZy](https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Drive mE cRaZy](https://open.spotify.com/album/2vckNenVlFyIZDN3UTQYZA) | 2:51 | 2024-03-08 |  |
@@ -65,6 +65,7 @@
 | [ONE DAY \(Feat\. Chan\)](https://open.spotify.com/track/3SHnqFpmmpUewHcxiM8is8) | [1DAY](https://open.spotify.com/artist/62bupmhlc6QqEDiYkXfQ9l), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [ONE DAY \(Feat\. Chan\)](https://open.spotify.com/album/5wxGKKvTwGBgL87IJa00PR) | 3:19 | 2023-11-09 |  |
 | [Ordinary Loneliness](https://open.spotify.com/track/5O4VdhbB1PY0P0t9VyB98G) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Ordinary Loneliness](https://open.spotify.com/album/5b2HkRfL1LVo0ygJRg9XaN) | 3:04 | 2024-01-08 |  |
 | [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 | 2023-11-09 |  |
+| [Plankton](https://open.spotify.com/track/6yYUxPzylZXum7WObTdwTr) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Plankton](https://open.spotify.com/album/7zaDEhd4utpgHZpLYzUPiK) | 2:59 | 2025-05-14 |  |
 | [Problems](https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Show Me the Money 8 Episode 4](https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp) | 3:48 | 2023-11-09 |  |
 | [Rainy n Bed](https://open.spotify.com/track/7dkkW6rmoC4IAtVDpaZNX1) | [sumgoyange](https://open.spotify.com/artist/7kUElOJQ6VHTmIGp57pAff) | [Rainy n Bed](https://open.spotify.com/album/50lNXjV17xNe38bsHJ3Jvr) | 2:36 | 2023-11-09 |  |
 | [Refresh](https://open.spotify.com/track/4z1XBGODhvrP73681Cmluj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Refresh](https://open.spotify.com/album/4TWFoQslU8MtoWZWB9VlJk) | 3:36 | 2023-11-09 | 2025-05-08 |

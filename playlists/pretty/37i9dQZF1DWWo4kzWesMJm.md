@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,247 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,295 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 27 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
 | 28 | [Déjeuner en paix](https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Engelberg](https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP) | 3:56 |
 | 29 | [Les rois du monde \- Roméo & Juliette, Les enfants de Vérone](https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb) | [Damien Sargue](https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO), [Cyril Niccolaï](https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm), [John Eyzen](https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J) | [Roméo Et Juliette, Les enfants de Vérone](https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46) | 3:25 |
-| 30 | [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 |
-| 31 | [La goffa Lolita](https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN) | [Vincè la petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [La goffa Lolita](https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC) | 3:41 |
+| 30 | [La goffa Lolita](https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN) | [Vincè la petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [La goffa Lolita](https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC) | 3:41 |
+| 31 | [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 |
 | 32 | [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um) | 2:45 |
 | 33 | [Plus près des étoiles](https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le Train De Mes Souvenirs](https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9) | 3:57 |
 | 34 | [Léa](https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:17 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 53 | [Comment on fait](https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:00 |
 | 54 | [La ballade de Jim](https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est comme vous voulez](https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1) | 4:25 |
 | 55 | [Les voisines](https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:35 |
-| 56 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
-| 57 | [Pardonne\-moi](https://open.spotify.com/track/7jDmxUkdq4n3CHL6aLNJla) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 3:07 |
+| 56 | [Pardonne\-moi](https://open.spotify.com/track/7jDmxUkdq4n3CHL6aLNJla) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 3:07 |
+| 57 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 58 | [Au soleil](https://open.spotify.com/track/3J7L4214bjQfnry4dKjZZt) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Jenifer](https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD) | 3:39 |
 | 59 | [Rue de la Paix](https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [La Zizanie](https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60) | 4:16 |
 | 60 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 |

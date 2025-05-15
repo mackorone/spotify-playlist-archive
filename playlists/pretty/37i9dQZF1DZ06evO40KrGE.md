@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,569 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,577 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 12 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU), [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Gabriel Barreto](https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1), [Helena Tannure](https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5), [Isaque](https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC), [João Lúcio Tannure](https://open.spotify.com/artist/30TJO7wBIMmfnGdC0bIfSe), [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [Mariana Valadão](https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm), [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz), [Nena Lacerda](https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Memórias do Coração \- Deluxe \(Ao Vivo\)](https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl) | 6:24 |
 | 13 | [Oferta Agradável a Ti](https://open.spotify.com/track/1uj6MX46NiNKG9jJeBSpCa) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:13 |
 | 14 | [Imagine](https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sem Palavras](https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd) | 4:49 |
-| 15 | [Amigo Espírito Santo](https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Ao Som dos Louvores](https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU) | 5:13 |
-| 16 | [Recompensa](https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 3:52 |
+| 15 | [Recompensa](https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 3:52 |
+| 16 | [Amigo Espírito Santo](https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Ao Som dos Louvores](https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU) | 5:13 |
 | 17 | [Te Louvarei \- Ao Vivo](https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Te Louvarei \(Ao Vivo\)](https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i) | 5:34 |
 | 18 | [Basta Uma Palavra](https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:35 |
 | 19 | [Uma Flor Gloriosa](https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 49 | [Olha o Que Deus Faz \(Ao Vivo\)](https://open.spotify.com/track/24lAuZ7ycAIzs91M53QW7i) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Olha o Que Deus Faz \(Ao Vivo\)](https://open.spotify.com/album/42UFCLpK8mS9SA5jCyDlYl) | 4:19 |
 | 50 | [Igreja Pequena](https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Força Imensa](https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ) | 5:02 |
 
-Snapshot ID: `aCE6AAAAAAAdWDNg2tIHs3YmfV0oGziu`
+Snapshot ID: `aCKLgAAAAAB83Al+F4TRdnjDCdnE9QDY`

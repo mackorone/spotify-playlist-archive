@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,065 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,076 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Entrega Total](https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC) | [Andrea Básef](https://open.spotify.com/artist/7Ekf6XS5tD24ZZf6slGP1A) | [Deseo del Tiempo](https://open.spotify.com/album/4XJBrYgnGUpkpIaj2HOLph) | 4:04 |
-| 2 | [Frenesí](https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi) | [Big Band Jazz de México](https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c) | [Con Sabor a México](https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6) | 4:31 |
-| 3 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 |
+| 2 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 |
+| 3 | [Frenesí](https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi) | [Big Band Jazz de México](https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c) | [Con Sabor a México](https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6) | 4:31 |
 | 4 | [Excusez\-Moi](https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 2:36 |
 | 5 | [Tu Luz](https://open.spotify.com/track/4g9iO9ga0CveiTQKOeR3W4) | [Calacas Jazz Band](https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr) | [Nuevos Retros](https://open.spotify.com/album/2EWXBn0wNaSo8dS9sU7esL) | 4:08 |
 | 6 | [Voy a Apagar la Luz](https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8) | [Julia Vari](https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky) | [Adoro](https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf) | 5:27 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 44 | [Las Pulgas Freeway](https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M) | [Arturo Cipriano](https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u), [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3), [Sacbe](https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh) | [Sacbe: Sacbe \(Complete\)](https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP) | 6:44 |
 | 45 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
 | 46 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
-| 47 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
-| 48 | [Ana's Song](https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0) | [Patricia Carrión](https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj) | [Mujer De Luna](https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4) | 4:45 |
+| 47 | [Ana's Song](https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0) | [Patricia Carrión](https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj) | [Mujer De Luna](https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4) | 4:45 |
+| 48 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
 | 49 | [5:PM](https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf) | [Palapa](https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0), [Francisco Lelo de Larrea](https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP) | [Bienvenidos](https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K) | 5:43 |
 | 50 | [Fíeme una Coca, No?](https://open.spotify.com/track/1ItJeVpac8LmFL9LyqMFJo) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 7:01 |
 

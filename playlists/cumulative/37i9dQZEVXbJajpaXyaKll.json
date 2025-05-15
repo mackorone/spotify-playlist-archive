@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 129229,
       "name": "Braba No Ch\u00e1",
       "url": "https://open.spotify.com/track/0zjFoEgApePlXu5vHP8Lcn"
@@ -7532,7 +7532,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 88880,
       "name": "El Magnetismo",
       "url": "https://open.spotify.com/track/4u8A7x0YPkPCkC0eRM9qL7"
@@ -7550,7 +7550,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 88880,
       "name": "El Magnetismo",
       "url": "https://open.spotify.com/track/5xDRBrAUe0Xf615Vvfqqof"
@@ -10218,6 +10218,32 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/4aHWmt1p9RlzHvaAonA4gx"
+      },
+      "artists": [
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231917,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/4ayXvu5SyyKs16XyExkEjA"
     },
     {
       "album": {
@@ -13164,7 +13190,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/2UtuOyOQ0VxF2sNZU12H3y"
@@ -13190,7 +13216,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
@@ -24514,7 +24540,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 134400,
       "name": "Te Castigare - Paulo Londra, Maria Becerra",
       "url": "https://open.spotify.com/track/0TPbUdSTha2YJgOPIYrzcV"
@@ -26856,6 +26882,28 @@
       "duration_ms": 162947,
       "name": "UWAIE - versi\u00f3n cumbia",
       "url": "https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR"
+    },
+    {
+      "album": {
+        "name": "Vaitimbora",
+        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135131,
+      "name": "Vaitimbora",
+      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
     },
     {
       "album": {

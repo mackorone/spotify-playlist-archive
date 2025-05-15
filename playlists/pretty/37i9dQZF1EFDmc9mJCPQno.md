@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 25 | [Tokyo Love Hotel](https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 4:27 |
 | 26 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 |
 | 27 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
-| 28 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
-| 29 | [Kiss My Troubles Away](https://open.spotify.com/track/4bBhK4Ip9iXu4Dzx61HEsh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:54 |
+| 28 | [Kiss My Troubles Away](https://open.spotify.com/track/4bBhK4Ip9iXu4Dzx61HEsh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:54 |
+| 29 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
 | 30 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 |
 | 31 | [testosterone](https://open.spotify.com/track/3M7DvOm9xlkhgj9oLxZygU) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [testosterone](https://open.spotify.com/album/2ekbb1ggU4xcpzN88njSQT) | 3:10 |
 | 32 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 106 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
 | 107 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AbxVagAAAACHGRQ8sE1tU65DOALE+DKl`
+Snapshot ID: `AbxbCgAAAABkjgN5GWbXCVa3Mq0oLVYT`

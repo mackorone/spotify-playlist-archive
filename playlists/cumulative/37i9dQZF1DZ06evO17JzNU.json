@@ -384,6 +384,24 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Diablo CMG",
+      "url": "https://open.spotify.com/track/1GfnkaVOmfgAv5i5ab5ZNg"
+    },
+    {
+      "album": {
+        "name": "Corridos y Sentimientos",
+        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 195995,
       "name": "Un Nuevo Dia",
       "url": "https://open.spotify.com/track/7pvsKR96tWwAamXiLGvFCW"

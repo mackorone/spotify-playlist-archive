@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Majo Aguilar en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,938 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,001 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 27 | [Loco](https://open.spotify.com/track/63EQbNhgaih4yg5412usWG) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Loco](https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232) | 3:06 |
 | 28 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
 | 29 | [Amigos? No.](https://open.spotify.com/track/7hNgSEQ4Ho7kWBA2rKpDd9) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Amigos? No.](https://open.spotify.com/album/4b2QIGSCXrUQSURm2PnbUT) | 3:46 |
-| 30 | [El Mayor de los Ranas](https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [El Mayor de los Ranas](https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h) | 2:52 |
-| 31 | [HOLLYWOOD](https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:44 |
+| 30 | [HOLLYWOOD](https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:44 |
+| 31 | [El Mayor de los Ranas](https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [El Mayor de los Ranas](https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h) | 2:52 |
 | 32 | [Bandida](https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bandida](https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd) | 2:45 |
 | 33 | [Amapola](https://open.spotify.com/track/43558Td2trz7O0chZYohEE) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Amapola](https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr) | 3:00 |
 | 34 | [Yo Vengo De La Nada](https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Yo Vengo De La Nada](https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq) | 2:36 |

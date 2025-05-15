@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,864 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,875 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 28 | [Tulane](https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Back Home](https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY) | 2:38 |
 | 29 | [Shake, Rattle And Roll](https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry](https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW) | 2:17 |
 | 30 | [Come On \- Stereo Version](https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry Twist](https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx) | 1:47 |
-| 31 | [Louis To Frisco](https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [From St\. Louie To Frisco](https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD) | 2:20 |
-| 32 | [No Money Down](https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:57 |
+| 31 | [No Money Down](https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:57 |
+| 32 | [Louis To Frisco](https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [From St\. Louie To Frisco](https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD) | 2:20 |
 | 33 | [My Ding\-A\-Ling](https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Have Mercy \- His Complete Chess Recordings 1969 \- 1974](https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW) | 3:43 |
 | 34 | [You Can't Catch Me](https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [CHUCK BERRY INTEGRAL 1955 \- 1962](https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0) | 2:42 |
 | 35 | [Ain't That Just Like A Woman](https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Fresh Berry's](https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 49 | [Guitar Boogie](https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:19 |
 | 50 | [I Do Really Love You](https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In Memphis](https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM) | 2:30 |
 
-Snapshot ID: `aCE6AAAAAAD/1lXUTfRX237ImaE8Jmp4`
+Snapshot ID: `aCKLgAAAAAAPetxn46jLqr7CXyF9YFk0`

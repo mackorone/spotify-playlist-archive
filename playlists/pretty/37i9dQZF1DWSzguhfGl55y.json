@@ -1,6 +1,6 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 647702,
+  "num_followers": 647769,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,30 @@
     {
       "added_at": "2025-05-12 11:13:07",
       "album": {
+        "name": "Der Holland Job",
+        "url": "https://open.spotify.com/album/6H16l0aclr4Ck2t8xGGX5x"
+      },
+      "artists": [
+        {
+          "name": "Coup",
+          "url": "https://open.spotify.com/artist/3DoYGi5spOR9sIqjdkf2R4"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Ich zahle gar nix",
+      "url": "https://open.spotify.com/track/3Nfxt6g4hVMsuCuJsLEjgS"
+    },
+    {
+      "added_at": "2025-05-12 11:13:07",
+      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -331,30 +355,6 @@
       "duration_ms": 343226,
       "name": "Weck mich auf",
       "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
-    },
-    {
-      "added_at": "2025-05-12 11:13:07",
-      "album": {
-        "name": "Der Holland Job",
-        "url": "https://open.spotify.com/album/6H16l0aclr4Ck2t8xGGX5x"
-      },
-      "artists": [
-        {
-          "name": "Coup",
-          "url": "https://open.spotify.com/artist/3DoYGi5spOR9sIqjdkf2R4"
-        },
-        {
-          "name": "Haftbefehl",
-          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
-        },
-        {
-          "name": "XATAR",
-          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Ich zahle gar nix",
-      "url": "https://open.spotify.com/track/3Nfxt6g4hVMsuCuJsLEjgS"
     },
     {
       "added_at": "2025-05-12 11:13:07",
@@ -863,18 +863,22 @@
     {
       "added_at": "2025-05-12 11:13:07",
       "album": {
-        "name": "\u00dcberfall",
-        "url": "https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP"
+        "name": "Ich bin jung und brauche das Geld",
+        "url": "https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV"
       },
       "artists": [
         {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+          "name": "Eko Fresh",
+          "url": "https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D"
+        },
+        {
+          "name": "G-Style",
+          "url": "https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs"
         }
       ],
-      "duration_ms": 228360,
-      "name": "Chartbreaker (Einmal Star und zur\u00fcck)",
-      "url": "https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl"
+      "duration_ms": 266573,
+      "name": "Ich bin jung und brauche das Geld (feat. G-Style)",
+      "url": "https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT"
     },
     {
       "added_at": "2025-05-12 11:13:07",
@@ -911,22 +915,18 @@
     {
       "added_at": "2025-05-12 11:13:07",
       "album": {
-        "name": "Ich bin jung und brauche das Geld",
-        "url": "https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV"
+        "name": "\u00dcberfall",
+        "url": "https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP"
       },
       "artists": [
         {
-          "name": "Eko Fresh",
-          "url": "https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D"
-        },
-        {
-          "name": "G-Style",
-          "url": "https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs"
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
         }
       ],
-      "duration_ms": 266573,
-      "name": "Ich bin jung und brauche das Geld (feat. G-Style)",
-      "url": "https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT"
+      "duration_ms": 228360,
+      "name": "Chartbreaker (Einmal Star und zur\u00fcck)",
+      "url": "https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

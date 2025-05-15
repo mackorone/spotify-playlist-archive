@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Karol G, J Balvin & Omega, Lucho RK & Quevedo, Aitana y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,928 likes - 84 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,997 likes - 84 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 83 | [Diego y Frida](https://open.spotify.com/track/2mnsMJqqfVeGTJNum8oW16) | [Miren](https://open.spotify.com/artist/4YGQgS8rZcbt0VOsV6GPcv) | [Diego y Frida](https://open.spotify.com/album/5TauTCfnSrhS4zFlKheTpF) | 2:15 |
 | 84 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |
 
-Snapshot ID: `aB0prgAAAACtRzncsH5AfbDUb2qTSD+R`
+Snapshot ID: `AAAAAJJ32FOwJ6j4IGyChG6Vpq3R5XNA`

@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8212,
+  "num_followers": 8214,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAC6DD/prDC6PubXzr00Ggin",
+  "snapshot_id": "aCKLgAAAAADvqMSOcsCfQ4Ml6QUtlpF/",
   "tracks": [
     {
       "added_at": null,
@@ -1059,6 +1059,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Milhas",
+        "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Da Paz",
+          "url": "https://open.spotify.com/artist/3Hj3HTvPzKS8Q3c1PhDgn0"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Milhas",
+      "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jogo da Vida",
         "url": "https://open.spotify.com/album/2ZcjMx3IEjStin63pGb7u2"
       },
@@ -1111,34 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milhas",
-        "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
-      },
-      "artists": [
-        {
-          "name": "A Banca Records",
-          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Da Paz",
-          "url": "https://open.spotify.com/artist/3Hj3HTvPzKS8Q3c1PhDgn0"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Milhas",
-      "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1 Influ\u00eancia",
         "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
       },
@@ -1187,6 +1187,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tormento",
+        "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        },
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 198454,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas No Topo",
         "url": "https://open.spotify.com/album/18Q1qTfrRw9Jm74np2b3p4"
       },
@@ -1227,30 +1251,6 @@
       "duration_ms": 693750,
       "name": "Poetisas No Topo",
       "url": "https://open.spotify.com/track/5kJ7otQOQrMC5CnkYGZaC9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tormento",
-        "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
-      },
-      "artists": [
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
-        },
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 198454,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
     },
     {
       "added_at": null,
@@ -1299,22 +1299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morango",
-        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "Morango",
-      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
         "url": "https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn"
       },
@@ -1335,6 +1319,42 @@
       "duration_ms": 214772,
       "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
       "url": "https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morango",
+        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Morango",
+      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coisa Fina",
+        "url": "https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+        }
+      ],
+      "duration_ms": 176562,
+      "name": "Coisa Fina",
+      "url": "https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s"
     },
     {
       "added_at": null,
@@ -1363,26 +1383,6 @@
       "duration_ms": 182608,
       "name": "Me Odeia",
       "url": "https://open.spotify.com/track/1DoSOQe0UYjAfYul1LKoXU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coisa Fina",
-        "url": "https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
-        }
-      ],
-      "duration_ms": 176562,
-      "name": "Coisa Fina",
-      "url": "https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s"
     },
     {
       "added_at": null,

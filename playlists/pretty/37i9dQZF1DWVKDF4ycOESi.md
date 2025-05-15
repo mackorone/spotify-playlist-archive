@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Salmo,  Annalisa, BLANCO, Miley Cyrus, Alfa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,737 likes - 101 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,775 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

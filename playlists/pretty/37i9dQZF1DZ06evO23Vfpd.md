@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,596 likes - 41 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,687 likes - 41 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 40 | [Break The Band \(How Could She?\)](https://open.spotify.com/track/75cZzuektUsBvLW18rHGjx) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Break The Band \(How Could She?\)](https://open.spotify.com/album/2aCy1LOLEJB5snKIuSb16p) | 2:33 |
 | 41 | [Left Behind](https://open.spotify.com/track/4bFflU4kadtLgGwIOAnQau) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:27 |
 
-Snapshot ID: `aCE6AAAAAADULzDFjWNTeuozzVPEoEpS`
+Snapshot ID: `aCKLgAAAAAD9rzjx0ywdDzWpmow8BgXN`

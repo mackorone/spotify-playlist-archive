@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,659 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,665 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 21 | [Find a Way](https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Love Movement](https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2) | 3:23 |
 | 22 | [Tyler Herro](https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe) | 2:36 |
 | 23 | [Johnny P's Caddy](https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Johnny P's Caddy](https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM) | 3:45 |
-| 24 | [Cashed Out \- feat\. Larry June](https://open.spotify.com/track/1qUyn3s2q7ltOZ5HntTT8K) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Kush + Orange Juice 2](https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ) | 3:43 |
-| 25 | [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 |
+| 24 | [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 |
+| 25 | [Cashed Out \- feat\. Larry June](https://open.spotify.com/track/1qUyn3s2q7ltOZ5HntTT8K) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Kush + Orange Juice 2](https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ) | 3:43 |
 | 26 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 |
 | 27 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 |
 | 28 | [Tempt Me](https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tempt Me](https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk) | 2:10 |

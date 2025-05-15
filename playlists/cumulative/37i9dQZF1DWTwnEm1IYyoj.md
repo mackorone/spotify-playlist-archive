@@ -2,7 +2,7 @@
 
 ### [Soft Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj)
 
-> Warm familiar pop you know and love\. Cover: Adele
+> Warm familiar pop you know and love.
 
 415 songs - 1 day 1 hr 38 min
 

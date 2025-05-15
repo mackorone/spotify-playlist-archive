@@ -1,13 +1,29 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Disco Shrine. Artwork by Paola Saliby",
-  "num_followers": 226783,
+  "description": "The best new pop music from new, independent artists.  Cover: Kaleb Cohen. Artwork by Paola Saliby",
+  "num_followers": 226846,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBra5AAAAABRCtz7JZSumkPfsrs77t5n",
+  "snapshot_id": "aCTTLwAAAACDkUDObO9co67MKJfU1bB2",
   "tracks": [
+    {
+      "added_at": "2025-05-07 04:00:36",
+      "album": {
+        "name": "East Coast Summers",
+        "url": "https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 221927,
+      "name": "East Coast Summers",
+      "url": "https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx"
+    },
     {
       "added_at": "2025-05-07 04:00:36",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 189824,
       "name": "Pacemaker",
       "url": "https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "East Coast Summers",
-        "url": "https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
-        }
-      ],
-      "duration_ms": 221927,
-      "name": "East Coast Summers",
-      "url": "https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx"
     },
     {
       "added_at": "2025-05-07 04:00:36",

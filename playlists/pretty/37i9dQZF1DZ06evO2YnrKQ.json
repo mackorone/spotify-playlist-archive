@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 23616,
+  "num_followers": 23622,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAC6hOiIAbtsGu8ypnUCe3Bg",
+  "snapshot_id": "aCKLgAAAAAD1O49ZOSF1GlVo8pKPyYLq",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
       "duration_ms": 362960,
       "name": "Dark Night of the Soul",
       "url": "https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Complicit",
-        "url": "https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 238418,
-      "name": "Complicit",
-      "url": "https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw"
     }
   ],
   "unique_name": "This Is Alexisonfire",

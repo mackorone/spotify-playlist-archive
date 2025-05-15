@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgDMrRmoe23.md) - [plain]
 
 > "because it's funny" \- Thundercat\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,337 likes - 25 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,359 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgDMrRmoe23.md) - [plain]
 | 11 | [ASTROTHUNDER](https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:22 |
 | 12 | [Whatzupwitu](https://open.spotify.com/track/7GPdNrdShHMIDSmQGsJLDe) | [Eddie Murphy](https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Love's Alright](https://open.spotify.com/album/2Rs2wYhFbtyTeC5RuXIPgM) | 3:21 |
 | 13 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 |
-| 14 | [Cheat Code \(feat\. Baauer\)](https://open.spotify.com/track/4amSXRdt4ZBddOQdOEMdh9) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:17 |
+| 14 | [Cheat Code \(feat\. Baauer\)](https://open.spotify.com/track/4amSXRdt4ZBddOQdOEMdh9) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:17 |
 | 15 | [Rock N Roll McDonalds](https://open.spotify.com/track/190l7oYBQe6JBsWPJM2uNN) | [Wesley Willis](https://open.spotify.com/artist/50yovZJnAHoy0pBruvFaCR) | [Greatest Hits Volume 1](https://open.spotify.com/album/4Zt5GnqGEzomd4rKBr3cWR) | 2:26 |
 | 16 | [Cavities \(feat\. Pretty Raheem & Whatchyamacallit\)](https://open.spotify.com/track/06fSBLKmBlxeUHcIZicVxw) | [Flynt Flossy](https://open.spotify.com/artist/0eqJjuUtd1pnTzE0CCAfIm) | [Turquoise Jeep Records: Keep The Jeep Ridin'](https://open.spotify.com/album/4zAzDbTDIw8MR7yPT5vfE4) | 3:56 |
 | 17 | [Lemme Take You To The Beach](https://open.spotify.com/track/24pKgx2qOMMNT0XmRBpWCI) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Studio Tan](https://open.spotify.com/album/2Z39MzRC9Jh5eBt7dcJsdL) | 2:44 |

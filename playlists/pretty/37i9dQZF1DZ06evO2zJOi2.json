@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 696951,
+  "num_followers": 697165,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADzzsbTfzA3tIKPkG09bEVD",
+  "snapshot_id": "aCKLgAAAAAB/FIOT6V3IbN8J5eWKKEyT",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 208280,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
+      "duration_ms": 188200,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superman",
-        "url": "https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 188200,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV"
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
     },
     {
       "added_at": null,
@@ -379,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+        "name": "FLOWER SHOPS (THE ALBUM)",
+        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
       },
       "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 221880,
-      "name": "Talkin' Tennessee",
-      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOWER SHOPS (THE ALBUM)",
-        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
       "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 214405,
-      "name": "Flower Shops (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
+      "duration_ms": 221880,
+      "name": "Talkin' Tennessee",
+      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
     },
     {
       "added_at": null,

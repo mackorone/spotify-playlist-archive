@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,733 likes - 139 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,735 likes - 139 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 49 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 |
 | 50 | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F) | 3:28 |
 | 51 | [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 |
-| 52 | [Dreamer \- Compound Version](https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Starrah](https://open.spotify.com/artist/5KGQ5nrTsMsSYXgq17SHsn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:58 |
+| 52 | [Dreamer \- Compound Version](https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:58 |
 | 53 | [Cinderella](https://open.spotify.com/track/5NB83Qpt3RUDuKBuTGQcA3) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ชุดที่ 8 จงเพราะ](https://open.spotify.com/album/7x31VHMG8eicd8iYQzx0L9) | 3:17 |
 | 54 | [Breathing](https://open.spotify.com/track/4bhe0XXBRo4EAPKgy4M2xz) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:24 |
 | 55 | [Follow The White Rabbit](https://open.spotify.com/track/2Txj791OlOaNSMpps0gz5K) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 2:59 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 138 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 139 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbxVagAAAACJnmFakx8soIb9Jkr/d19K`
+Snapshot ID: `AbxbCgAAAABReFbV/GJI7FC6lIY51xBn`

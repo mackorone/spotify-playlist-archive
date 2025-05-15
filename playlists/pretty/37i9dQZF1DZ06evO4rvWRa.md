@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,642,328 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,642,340 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 47 | [Shut Up](https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:12 |
 | 48 | [Paradise](https://open.spotify.com/track/2sVcG5mresyV79qpYr3M1C) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 3:03 |
 | 49 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 |
-| 50 | [Ritual](https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:25 |
+| 50 | [Story of a Bird](https://open.spotify.com/track/5nBOV8rbNUi6SQb4SOrdx0) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Story of a Bird](https://open.spotify.com/album/3yXSlH8QsT0hvJvfJjS2iB) | 3:50 |
 
-Snapshot ID: `aCE6AAAAAADQtt/M7Z0YqaIAKIGnG+I/`
+Snapshot ID: `aCKLgAAAAADlWzz+N0UQRJJ0/3NG/WZ7`

@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2034078,
+  "num_followers": 2034460,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABXYcbLp5tGPVS3dC0oH7EG",
+  "snapshot_id": "aCKLgAAAAAAtXpvOT7dk4wZppooLUV2M",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "Whiplash - Remastered",
-      "url": "https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metallica (Remastered 2021)",
         "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 240160,
       "name": "Don't Tread on Me - Remastered 2021",
       "url": "https://open.spotify.com/track/3zbLtkeCoU5LutGs8728c6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Whiplash - Remastered",
+      "url": "https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S&M",
-        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 343200,
-      "name": "No Leaf Clover - Live",
-      "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 585506,
       "name": "...And Justice for All",
       "url": "https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 343200,
+      "name": "No Leaf Clover - Live",
+      "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3741,
+  "num_followers": 3742,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADeJ/VaUEwb2r+xauYI9HTj",
+  "snapshot_id": "aCKLgAAAAACjp+xRkq+ylnnh+/udkCQt",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live To Tape: Volume II",
         "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 202319,
       "name": "Be My Witness (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Subtitles",
-        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 245172,
-      "name": "Subtitles",
-      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Surprises",
         "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 215200,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Subtitles",
+        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 245172,
+      "name": "Subtitles",
+      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 268053,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
+      "duration_ms": 241973,
+      "name": "Beauty Into Clich\u00e9s",
+      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Sake Of The Rhyme",
-        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 241973,
-      "name": "Beauty Into Clich\u00e9s",
-      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
+      "duration_ms": 268053,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

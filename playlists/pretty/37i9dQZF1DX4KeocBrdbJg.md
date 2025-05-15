@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > lo mejor nunca se sube
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,397,612 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,397,773 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 15 | [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 |
 | 16 | [PILATES](https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [PILATES](https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA) | 2:44 |
 | 17 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:21 |
-| 18 | [Coqueta](https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Coqueta](https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm) | 3:55 |
-| 19 | [Hoja En Blanco \- En Vivo](https://open.spotify.com/track/2lubZbjoBImkSyNiwagbXr) | [Oscar Calin](https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1) | [Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6pjcxoTzt05btAAa1S4EZa) | 4:12 |
-| 20 | [SUIZA](https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 1:54 |
-| 21 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
-| 22 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
+| 18 | [El Viaje](https://open.spotify.com/track/0icXoPZgir2wWgf3aBcvmq) | [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [La Orilla](https://open.spotify.com/album/4AHkjgPWr3LrIPlF1Mnhjw) | 4:39 |
+| 19 | [Coqueta](https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Coqueta](https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm) | 3:55 |
+| 20 | [Hoja En Blanco \- En Vivo](https://open.spotify.com/track/2lubZbjoBImkSyNiwagbXr) | [Oscar Calin](https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1) | [Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6pjcxoTzt05btAAa1S4EZa) | 4:12 |
+| 21 | [SUIZA](https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 1:54 |
+| 22 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 23 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 |
 | 24 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 25 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 79 | [LINDA](https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [LINDA](https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8) | 3:44 |
 | 80 | [SE ME OLVIDA](https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE ME OLVIDA](https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3) | 3:45 |
 
-Snapshot ID: `aCN9zAAAAACOoKVqyMpJvoEiTBn8EMw8`
+Snapshot ID: `aCSyygAAAABT9gL/dM33tv6xaO81Y8Yn`

@@ -3737,6 +3737,24 @@
     },
     {
       "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466463,
+      "name": "Look To Windward",
+      "url": "https://open.spotify.com/track/4Lojbtk7XNMdSKRHSFbdkm"
+    },
+    {
+      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },

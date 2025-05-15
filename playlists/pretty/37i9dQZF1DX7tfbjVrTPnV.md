@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,706 likes - 150 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,756 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 65 | [Django and Jimmie](https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Django and Jimmie](https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG) | 2:53 |
 | 66 | [Time After Time \- Live from Spotify NYC](https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Spotify Sessions](https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf) | 5:29 |
 | 67 | [Got Your Six](https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:38 |
-| 68 | [Whole Lotta Highway \(With A Million Miles to Go\)](https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Way Out West](https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB) | 3:18 |
-| 69 | [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 |
+| 68 | [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 |
+| 69 | [Whole Lotta Highway \(With A Million Miles to Go\)](https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Way Out West](https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB) | 3:18 |
 | 70 | [I Contain Multitudes](https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Contain Multitudes](https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV) | 4:36 |
 | 71 | [Hanging up My Heart](https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Old Yellow Moon](https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE) | 2:52 |
 | 72 | [Here is Where the Loving is at \(feat\. Emmylou Harris\)](https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 4:20 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 89 | [36 Cents](https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [36 ¢](https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV) | 4:24 |
 | 90 | [The Damage](https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Damage](https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu) | 4:01 |
 | 91 | [I'll Get Away](https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Let It Go](https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0) | 4:08 |
-| 92 | [Brand New Me](https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [High Life](https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ) | 4:15 |
-| 93 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 |
+| 92 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 |
+| 93 | [Brand New Me](https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [High Life](https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ) | 4:15 |
 | 94 | [Can't Be There Today](https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Can't Be There Today](https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8) | 3:44 |
 | 95 | [New York City](https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Robby Hecht](https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4) | 3:41 |
 | 96 | [Troublesome Waters](https://open.spotify.com/track/1SV7mIySMGQDOQNgZ2p6YA) | [Carlene Carter](https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Carter Girl](https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T) | 5:18 |

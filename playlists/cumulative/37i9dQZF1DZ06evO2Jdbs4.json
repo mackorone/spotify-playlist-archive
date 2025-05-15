@@ -351,6 +351,28 @@
     },
     {
       "album": {
+        "name": "D\u00edgale (En Vivo)",
+        "url": "https://open.spotify.com/album/4KpyafkE99qVYKZxUtH5pO"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238387,
+      "name": "D\u00edgale - En Vivo",
+      "url": "https://open.spotify.com/track/1X7okJ8EP8DQ9l1rj2zmAo"
+    },
+    {
+      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
       },
@@ -1676,7 +1698,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 217199,
       "name": "Vuelta En U (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"

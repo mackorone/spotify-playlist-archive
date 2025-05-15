@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,151 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,180 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 30 | [O Jeito Que Você Me Olha](https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [O Jeito Que Você Me Olha](https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF) | 3:18 |
 | 31 | [A Perfeição de Deus](https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 5:03 |
 | 32 | [Só Você](https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Só Você](https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ) | 3:45 |
-| 33 | [eu te convido](https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [25 de fevereiro](https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv) | 3:05 |
-| 34 | [Com Você](https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Você](https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no) | 3:43 |
+| 33 | [Com Você](https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Você](https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no) | 3:43 |
+| 34 | [eu te convido](https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [25 de fevereiro](https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv) | 3:05 |
 | 35 | [Onde Está Você](https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Sarah Renata](https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY) | [Onde Está Você](https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW) | 4:06 |
 | 36 | [Música Favorita ♾](https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Música Favorita \(Água\)](https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l) | 4:13 |
 | 37 | [Amar Você](https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 5:51 |
 | 38 | [Por Toda Vida](https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Amo Você Vol\. 6](https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE) | 4:15 |
 | 39 | [Nosso Castelo](https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nosso Castelo](https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd) | 4:12 |
-| 40 | [Meu Bem](https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA) | [Vanderson Santos](https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM) | [Meu Bem](https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2) | 2:07 |
-| 41 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 |
+| 40 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 |
+| 41 | [Meu Bem](https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA) | [Vanderson Santos](https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM) | [Meu Bem](https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2) | 2:07 |
 | 42 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
 | 43 | [Mulher Realizada](https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Mulher Realizada](https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74) | 4:17 |
 | 44 | [Canção pra Você](https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Românticos](https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8) | 3:48 |

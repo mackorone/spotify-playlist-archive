@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,840 songs - 6 day 10 hr 1 min
+2,841 songs - 6 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2340,6 +2340,7 @@
 | [Summer Calling \- BLR Remix](https://open.spotify.com/track/3ATGIoUzMxNb95g3ohiPpK) | [Andain](https://open.spotify.com/artist/12hXa5arH0RHd2Ec7zjSNy), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Summer Calling \(BLR Remix\)](https://open.spotify.com/album/3pvOCMRX1nWYhitFfVBhRX) | 4:11 | 2024-10-25 | 2024-11-01 |
 | [Summer City Nights](https://open.spotify.com/track/0s9tWyroqZdgUMKNdQ7igA) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Ghost Etiquette](https://open.spotify.com/artist/20Vo3MKByZZE4wENawnYmn) | [Summer City Nights](https://open.spotify.com/album/2IVqyhU9tMc8lDjkn6TEqV) | 3:18 | 2024-06-07 | 2024-06-17 |
 | [Summer Crush](https://open.spotify.com/track/4WpbZTylASaKbyubTm5VBa) | [High Fruit](https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt) | [Kumar](https://open.spotify.com/album/6vHbXnfl3CVAyEhzd40pUZ) | 2:35 | 2024-05-29 | 2024-06-08 |
+| [Summer is Calling...](https://open.spotify.com/track/1I5mKrYPLvHLP3eiOndPIP) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Summer is Calling...](https://open.spotify.com/album/5syl0FODvOf4WjzYDYMxeW) | 3:09 | 2025-05-14 |  |
 | [Summer Is Gone](https://open.spotify.com/track/7goW5gFmYvULzRXbpkDf8a) | [Tuew](https://open.spotify.com/artist/0TEFGr4Bz2GgUhfDGsNx3r) | [Summer Is Gone](https://open.spotify.com/album/6wDQAat0BiYhKUNErcYJOq) | 3:21 | 2024-09-06 | 2024-09-13 |
 | [Summer of '99](https://open.spotify.com/track/2jEpmhYTYByGsFhpkWBEm8) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Summer of ‘99](https://open.spotify.com/album/5r8KHlK7EuR5C77Aimvg00) | 3:48 | 2024-08-08 | 2024-08-16 |
 | [Summer of Love](https://open.spotify.com/track/7AgxXHoq45JDAnvTEj2tQ4) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Summer of Love](https://open.spotify.com/album/5nwFxRbZEZ6V4pMBDmBy31) | 2:03 | 2024-07-19 | 2024-07-27 |

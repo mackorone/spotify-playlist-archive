@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: The Haunted Youth
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,086 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,084 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 20 | [Silver Linings](https://open.spotify.com/track/2OzoNFMwzEBD2oEEHGTkBT) | [Roufaida](https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL) | [Silver Linings](https://open.spotify.com/album/0UP34fWv9yBgBP9jT851le) | 3:29 |
 | 21 | [The Girl Who Sold a Lie](https://open.spotify.com/track/4mshqo6cTkgpbO7rAZ7a1P) | [Cosmic Crooner](https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq) | [European Vacation](https://open.spotify.com/album/66sNKncb24UBOCDKEBolos) | 3:20 |
 | 22 | [Confused Kids](https://open.spotify.com/track/78QoSOKOC9p5iJgxLq3203) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Confused Kids](https://open.spotify.com/album/6xn3au00GLnkJw3zYjHcG9) | 3:39 |
-| 23 | [Lay Me Down](https://open.spotify.com/track/0ZVqDCozqdU0PiVVYOQPoR) | [Portland](https://open.spotify.com/artist/3t56cz9dhL53ioNIZFCDBo) | [Lay Me Down](https://open.spotify.com/album/645V6oHukUxcSpbigA72Bb) | 3:44 |
+| 23 | [Lay Me Down](https://open.spotify.com/track/0ZVqDCozqdU0PiVVYOQPoR) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Lay Me Down](https://open.spotify.com/album/645V6oHukUxcSpbigA72Bb) | 3:44 |
 | 24 | [Happy Sad \(It's a Party\)](https://open.spotify.com/track/62Z4Tb0smuDBQXkeThVlPU) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Happy Sad \(It's a Party\)](https://open.spotify.com/album/1jvAIOJwUlWGg2kOgNfZY0) | 3:20 |
 | 25 | [Nothing More Than A Memory](https://open.spotify.com/track/5hYYy4LqusTeeqsxshVPCr) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Nothing More Than A Memory](https://open.spotify.com/album/5YuJN1cW7ARhHQu8vlCEP7) | 3:00 |
 | 26 | [Lies](https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies](https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e) | 3:47 |

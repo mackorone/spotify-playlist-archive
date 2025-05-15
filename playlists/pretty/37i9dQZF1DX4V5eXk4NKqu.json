@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Bandalos Chinos.",
-  "num_followers": 167671,
+  "num_followers": 167683,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-05-01 19:47:12",
       "album": {
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "added_at": "2025-05-01 19:47:12",
+      "album": {
         "name": "Conducci\u00f3n Temeraria",
         "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 277645,
       "name": "Solos t\u00fa y yo",
       "url": "https://open.spotify.com/track/0jCcPLWnbGR5S9KzYfkPcC"
-    },
-    {
-      "added_at": "2025-05-01 19:47:12",
-      "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2025-05-01 19:47:12",
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2025-05-01 19:47:12",
       "album": {
-        "name": "Radiocaset",
-        "url": "https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7"
+        "name": "Dos Cordilleras",
+        "url": "https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA"
       },
       "artists": [
         {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
         }
       ],
-      "duration_ms": 208666,
-      "name": "Radiocaset",
-      "url": "https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q"
+      "duration_ms": 164433,
+      "name": "Brillas en la Pista",
+      "url": "https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt"
     }
   ],
   "unique_name": "Top Latin Indie",

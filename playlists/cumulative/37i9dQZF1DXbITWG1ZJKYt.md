@@ -2,7 +2,7 @@
 
 ### [Jazz Classics](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
 
-> The best tunes in Jazz history\. Cover: Wayne Shorter
+> The best tunes in Jazz history.
 
 371 songs - 1 day 8 hr 11 min
 

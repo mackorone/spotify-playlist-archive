@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 
 > A selection of Islamic Duaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,562 likes - 35 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,560 likes - 35 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 | 2 | [Allahoma Rab Alsamawat Alsabee](https://open.spotify.com/track/2nIusqiJAYhNQM13hEq4VQ) | [Haroon Al Rasheed](https://open.spotify.com/artist/2nniJ5inYBrjj4v1VzFalt) | [Duaa Sayed Al Estegfaar](https://open.spotify.com/album/5Lw1gg3Vn3W4ChUnqEoOZr) | 1:02 |
 | 3 | [اللهم متعنا براحة البال](https://open.spotify.com/track/6OZ7lMcMghUPXqBDjjfsNX) | [حمزه بوديب](https://open.spotify.com/artist/2txtDMgMD7i5ylXsdxpNX4) | [روائع الدعاء :: الجزء الاول](https://open.spotify.com/album/2hOXi5SGw9fXblvYAhfPJh) | 2:33 |
 | 4 | [ربنا لا تزغ قلوبنا بعد إذ هديتنا](https://open.spotify.com/track/3E0hqIswyneeE6jkxDHsdN) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية العشر الأواخر من رمضان](https://open.spotify.com/album/1abl7fBsl4zDaRmRUHstBS) | 1:02 |
-| 5 | [دوما لك الحمد](https://open.spotify.com/track/4WBYfXVsxOzY6YLB1SgwTM) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دوما لك الحمد](https://open.spotify.com/album/1xVT0Cj6Rg6I5TARzwb7kJ) | 0:59 |
-| 6 | [اللهم لك الحمد حمداً كثيراً](https://open.spotify.com/track/4aulwfTCyt8TeF2FO9SNQ9) | [Hazza Al Blushi](https://open.spotify.com/artist/2tUtuhOCtTvuUUa7I4ovLF) | [اللهم لك الحمد حمداً كثيراً](https://open.spotify.com/album/0G3xV5k8lvC6jetmMp8cIp) | 11:57 |
+| 5 | [اللهم لك الحمد حمداً كثيراً](https://open.spotify.com/track/4aulwfTCyt8TeF2FO9SNQ9) | [Hazza Al Blushi](https://open.spotify.com/artist/2tUtuhOCtTvuUUa7I4ovLF) | [اللهم لك الحمد حمداً كثيراً](https://open.spotify.com/album/0G3xV5k8lvC6jetmMp8cIp) | 11:57 |
+| 6 | [دوما لك الحمد](https://open.spotify.com/track/4WBYfXVsxOzY6YLB1SgwTM) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دوما لك الحمد](https://open.spotify.com/album/1xVT0Cj6Rg6I5TARzwb7kJ) | 0:59 |
 | 7 | [دعاء الفرج وتيسير الامور](https://open.spotify.com/track/7qoReOlk8YbRnURLFkvMFF) | [سمير عزت](https://open.spotify.com/artist/3n4uGILUwsffTJqettkoyc) | [دعاء الفرج وتيسير الامور](https://open.spotify.com/album/30mnsQdiOV1XlpsdQL7BrQ) | 4:44 |
 | 8 | [اللهم لك الحمد](https://open.spotify.com/track/3LKzgDkTRGv6nElg4ralEW) | [وديع اليمني](https://open.spotify.com/artist/5vKv13hIVUoKBsiwbBgUrd) | [اللهم لك الحمد](https://open.spotify.com/album/5Tovi4UU8d0t3VMybgVech) | 5:24 |
 | 9 | [اللهم بلغنا رمضان](https://open.spotify.com/track/51EX5abEEaT9vThqP2B9Md) | [حمزه بوديب](https://open.spotify.com/artist/2txtDMgMD7i5ylXsdxpNX4) | [روائع الدعاء :: الجزء الاول](https://open.spotify.com/album/2hOXi5SGw9fXblvYAhfPJh) | 4:46 |

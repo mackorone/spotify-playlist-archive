@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,619 likes - 164 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,622 likes - 164 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 92 | [Sucio Y Lento](https://open.spotify.com/track/2nRs0FHeH2zC3GWZKzabjO) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Sucio Y Lento](https://open.spotify.com/album/10uoxz1luR1R7IFLyCP3Rn) | 3:42 |
 | 93 | [Mojito](https://open.spotify.com/track/7mvPlujEQ3p8G74r982CN2) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:53 |
 | 94 | [Policía](https://open.spotify.com/track/6qv6O0VQhXbhzEu4v5ASv5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Policía](https://open.spotify.com/album/3zvNDd5D18bAtpul2jTyLY) | 2:53 |
-| 95 | [My Man](https://open.spotify.com/track/3jLVBJpnTVkBHMWXHZAa3F) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [My Man](https://open.spotify.com/album/2ijwTbKXn46QZEfekW01fC) | 2:57 |
-| 96 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 |
+| 95 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 |
+| 96 | [My Man](https://open.spotify.com/track/3jLVBJpnTVkBHMWXHZAa3F) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [My Man](https://open.spotify.com/album/2ijwTbKXn46QZEfekW01fC) | 2:57 |
 | 97 | [TE CONOZCO](https://open.spotify.com/track/0MrTHUbjsHRC8sMrfLBd65) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:48 |
 | 98 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
 | 99 | [GUAPA](https://open.spotify.com/track/6ITr6ssOIerjd3azRaL7A8) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 132 | [COCO](https://open.spotify.com/track/5xXC7l1oji3OI9cAkzcIen) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [COCO](https://open.spotify.com/album/3U1K2cfs8bCGldvkYSqJ9r) | 2:36 |
 | 133 | [KILL BILL](https://open.spotify.com/track/20PCIu1WEhaQKmbRFx8NTT) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:01 |
 | 134 | [BEST LIFE](https://open.spotify.com/track/3AklaU8n8vkfQpWGCHfVLB) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:29 |
-| 135 | [Tokio](https://open.spotify.com/track/6fE7XcLoadUog7a85tVjne) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:32 |
-| 136 | [Cuidala](https://open.spotify.com/track/6G4zlCgYDXs9FiXf3qLefV) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Me Reinventé](https://open.spotify.com/album/3kRzYH7DIxKJT8SCRYcBH2) | 3:37 |
+| 135 | [Cuidala](https://open.spotify.com/track/6G4zlCgYDXs9FiXf3qLefV) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Me Reinventé](https://open.spotify.com/album/3kRzYH7DIxKJT8SCRYcBH2) | 3:37 |
+| 136 | [Tokio](https://open.spotify.com/track/6fE7XcLoadUog7a85tVjne) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:32 |
 | 137 | [Sandunga](https://open.spotify.com/track/7EDPfx0FpzEU6eKnHKqyCU) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Sandunga](https://open.spotify.com/album/26svn8qJxkSRCrCVFXIA0F) | 2:49 |
 | 138 | [No Voy A Cambiar](https://open.spotify.com/track/6mflYV4snpVRc7SLkeb80n) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Voy A Cambiar](https://open.spotify.com/album/1rtdyipqp4TCLicTHf9gp5) | 4:02 |
 | 139 | [Trago Al Pecho](https://open.spotify.com/track/2FizWFIAvYANGK4CHOzGFw) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Trago Al Pecho](https://open.spotify.com/album/1ZgHIkKZSnxj0DbBKmOdv4) | 2:48 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 163 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 164 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AbxVdQAAAAAvEjkyZi6QKe7vMptM4JLU`
+Snapshot ID: `AbxbCgAAAADtDHCR0A3iT7qRoAoBkCEi`

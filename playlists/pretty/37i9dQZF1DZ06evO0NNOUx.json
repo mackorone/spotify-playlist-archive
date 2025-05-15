@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 91918,
+  "num_followers": 92199,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAAjOB2TjndZEC2WCqAldnV0",
+  "snapshot_id": "aCKLgAAAAAAiKK2/MBFDbyuqiws7mgMF",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/5vsWw2Nh2ztbz0zZGrqXOU"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
       },
       "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 161544,
-      "name": "CELEBRATION",
-      "url": "https://open.spotify.com/track/1716cky8w4roZox3AyO1zh"
+      "duration_ms": 214850,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
     },
     {
       "added_at": null,
@@ -271,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/5vsWw2Nh2ztbz0zZGrqXOU"
       },
       "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 214850,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
+      "duration_ms": 161544,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/1716cky8w4roZox3AyO1zh"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 135975,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALL THE TIME",
         "url": "https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2"
       },
@@ -491,26 +507,6 @@
       "duration_ms": 168421,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
     },
     {
       "added_at": null,
@@ -535,22 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "slow down",
-        "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
       "artists": [
         {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        },
-        {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
         }
       ],
-      "duration_ms": 170521,
-      "name": "slow down",
-      "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
+      "duration_ms": 152750,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
     },
     {
       "added_at": null,
@@ -571,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+        "name": "slow down",
+        "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
       },
       "artists": [
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 181374,
-      "name": "ALIVE",
-      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
+      "duration_ms": 170521,
+      "name": "slow down",
+      "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
     },
     {
       "added_at": null,
@@ -603,6 +603,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "FATHER'S HOUSE",
+      "url": "https://open.spotify.com/track/7dXS2jInaNYJXQOG22SdWg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
@@ -619,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
       "artists": [
         {
@@ -628,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 135975,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV"
+      "duration_ms": 163796,
+      "name": "Go Tell It",
+      "url": "https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh"
     },
     {
       "added_at": null,
@@ -651,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
       "artists": [
         {
@@ -660,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 163796,
-      "name": "Go Tell It",
-      "url": "https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh"
+      "duration_ms": 149607,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/5Isz3cmGwWkKtnC56zR5SK"
     },
     {
       "added_at": null,
@@ -687,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
       "artists": [
         {
@@ -696,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 144578,
-      "name": "FATHER'S HOUSE",
-      "url": "https://open.spotify.com/track/7dXS2jInaNYJXQOG22SdWg"
+      "duration_ms": 146613,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
     },
     {
       "added_at": null,
@@ -723,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
       "artists": [
         {
@@ -732,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 146613,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
+      "duration_ms": 136286,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/5qR5cY9vg2KH7vIPtQBB0L"
     },
     {
       "added_at": null,
@@ -751,22 +783,6 @@
       "duration_ms": 146992,
       "name": "DIGGIN U",
       "url": "https://open.spotify.com/track/2oNudz3r9oFMt0FfREhFoM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 149607,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/5Isz3cmGwWkKtnC56zR5SK"
     },
     {
       "added_at": null,
@@ -811,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 161306,
+      "name": "LIVE YOUR LIFE",
+      "url": "https://open.spotify.com/track/0ee793vMCGz624rQFx90Yz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BEAUTIFUL AS EVER",
         "url": "https://open.spotify.com/album/1S0dSacfIUmAoJOqRXe1GY"
       },
@@ -835,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 136286,
-      "name": "OUTSIDE",
-      "url": "https://open.spotify.com/track/5qR5cY9vg2KH7vIPtQBB0L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
@@ -867,46 +883,6 @@
       "duration_ms": 222408,
       "name": "Only Be You",
       "url": "https://open.spotify.com/track/6iXHlTPVvInzbn4IvSyODa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/0N8aFQLSzan3WfsyEnRjQ8"
-      },
-      "artists": [
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/15uR6InJEo9zyl9DgVQTz0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nostalgia Pack",
-        "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        }
-      ],
-      "duration_ms": 206194,
-      "name": "Why Not Me",
-      "url": "https://open.spotify.com/track/5KKzX8oO0W8K93M4is7wqO"
     }
   ],
   "unique_name": "This Is Forrest Frank",

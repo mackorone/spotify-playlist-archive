@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15297,
+  "num_followers": 15300,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADqm1ZYpjLWSnMdVGve+oxd",
+  "snapshot_id": "aCKLgAAAAAAoI0ahlcp4S0l6MJGlsW/S",
   "tracks": [
     {
       "added_at": null,
@@ -179,38 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See Her Again - Single",
-        "url": "https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "See Her Again",
-      "url": "https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 230086,
-      "name": "Lifetime Lover",
-      "url": "https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -231,6 +199,38 @@
       "duration_ms": 274810,
       "name": "Press Rewind",
       "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 230086,
+      "name": "Lifetime Lover",
+      "url": "https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See Her Again - Single",
+        "url": "https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "See Her Again",
+      "url": "https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid"
     },
     {
       "added_at": null,
@@ -259,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backyard Boogie",
-        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 202479,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj"
+      "duration_ms": 218146,
+      "name": "Every Little Thing (feat. Fiji)",
+      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
     },
     {
       "added_at": null,
@@ -291,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 218146,
-      "name": "Every Little Thing (feat. Fiji)",
-      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
+      "duration_ms": 202479,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj"
     },
     {
       "added_at": null,

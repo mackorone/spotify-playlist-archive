@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1NvoC46GArJupRi8LtGB8Y">Ariana Grande</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,788 likes - 117 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,787 likes - 117 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 67 | [pete davidson](https://open.spotify.com/track/0XOnMqLQDO89iAg7dWWwnG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 1:13 |
 | 68 | [my hair](https://open.spotify.com/track/6u7gmPOz7pzzaeR9xSBpsR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:38 |
 | 69 | [obvious](https://open.spotify.com/track/0q85C1JiECyYIQthz1posA) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:26 |
-| 70 | [get well soon](https://open.spotify.com/track/7u6DMPznGbpziuEgCE0JGQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 5:22 |
-| 71 | [true story](https://open.spotify.com/track/14kyXBpg91RVq8bNRDS1q2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
+| 70 | [true story](https://open.spotify.com/track/14kyXBpg91RVq8bNRDS1q2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
+| 71 | [get well soon](https://open.spotify.com/track/7u6DMPznGbpziuEgCE0JGQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 5:22 |
 | 72 | [Winter Things](https://open.spotify.com/track/0zrQwV4XbcwZ2bS9r7F944) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill \(Japan Version\)](https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq) | 2:38 |
 | 73 | [i wish i hated you](https://open.spotify.com/track/5cQX9BexkPIEESTZijJhXg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:33 |
 | 74 | [shut up](https://open.spotify.com/track/3ko9jEHNt4O5fjKN65ULJp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:37 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 97 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 |
 | 98 | [True Love](https://open.spotify.com/track/73pH60xHd2S87oNIlgztNY) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill \(Japan Version\)](https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq) | 2:46 |
 | 99 | [Wit It This Christmas](https://open.spotify.com/track/2E5R3USq1SSOFDnl4SHe1Z) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill \(Japan Version\)](https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq) | 2:41 |
-| 100 | [main thing](https://open.spotify.com/track/63WsFFnQ8CL941iZBELYsX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:09 |
-| 101 | [intro \(end of the world\) \- extended](https://open.spotify.com/track/33cRPtUHTjMG90FZV76S8T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(instrumental version\)](https://open.spotify.com/album/7saicsozAZSsKEVQh4WAig) | 2:41 |
+| 100 | [intro \(end of the world\) \- extended](https://open.spotify.com/track/33cRPtUHTjMG90FZV76S8T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(instrumental version\)](https://open.spotify.com/album/7saicsozAZSsKEVQh4WAig) | 2:41 |
+| 101 | [main thing](https://open.spotify.com/track/63WsFFnQ8CL941iZBELYsX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:09 |
 | 102 | [Intro](https://open.spotify.com/track/0qMNPhpRzbghJy6G3SgRag) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 1:19 |
 | 103 | [How I Look On You](https://open.spotify.com/track/4mDLApzbhjNSutiW2EOakg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:54 |
 | 104 | [Research](https://open.spotify.com/track/0nfkzX4y8O7Jxotd7bCu2C) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dark Sky Paradise \(Deluxe\)](https://open.spotify.com/album/4Nlbt2EuXedr6UqaeXEI4c) | 3:50 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 116 | [Ain't About What You Got \- From “Star \(Season 1\)" Soundtrack](https://open.spotify.com/track/3guGgIgmswywnQgOwt5j4E) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [Ain't About What You Got \[From “Star \(Season 1\)" Soundtrack\]](https://open.spotify.com/album/4NENv55iKx77NG6u2WRVKF) | 3:31 |
 | 117 | [Not Afraid Of Love](https://open.spotify.com/track/5FTRGobKylgI3Kf2DNSH2l) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `AbxVagAAAABck+6ieqkHEhc8yRjmggth`
+Snapshot ID: `AbxbAAAAAACncSLdN2G3ZMpSNIPia0tk`

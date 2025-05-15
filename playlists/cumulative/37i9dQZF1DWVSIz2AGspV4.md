@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-315 songs - 18 hr 32 min
+316 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Astahlik](https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq) | [Ahmed Burhan](https://open.spotify.com/artist/7pWG2cgMJbZmMd2a0TqZJ0) | [Astahlik](https://open.spotify.com/album/20vCcB2a5j1MSStibILx1n) | 4:03 | 2022-02-17 | 2022-07-20 |
 | [Awal Marah](https://open.spotify.com/track/5xcZqcy77FOa8qL8AVLZfv) | [Taif](https://open.spotify.com/artist/66XWRsuL9rNfq5CFoOCTLC) | [Awal Marah](https://open.spotify.com/album/67fv0fvX3nzAnBHCZJNqqa) | 4:04 | 2022-06-28 | 2023-03-25 |
 | [Awal Wahed \- أول واحد](https://open.spotify.com/track/3TRMyTLIbscI2U38QFU6FE) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Awal Wahed \(أول واحد\)](https://open.spotify.com/album/632lr49KgwwQXhV1dg6aeF) | 3:49 | 2022-06-21 | 2023-03-18 |
-| [Awel Chams](https://open.spotify.com/track/3DqaHwwxJ92RRjKrCyAA4q) | [Mahmood AlGhiath](https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi) | [Awel Chams](https://open.spotify.com/album/4v7PpdXPSkCyGnUA76Ofgu) | 3:05 | 2023-10-06 |  |
+| [Awel Chams](https://open.spotify.com/track/3DqaHwwxJ92RRjKrCyAA4q) | [Mahmood AlGhiath](https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi) | [Awel Chams](https://open.spotify.com/album/4v7PpdXPSkCyGnUA76Ofgu) | 3:05 | 2023-10-06 | 2025-05-15 |
 | [Ayami](https://open.spotify.com/track/1eO2xSR7xlI7U9CBX0zihi) | [Salah Hassan](https://open.spotify.com/artist/4XRv8YzpGjMqaUPJC0wpxP) | [Ayami](https://open.spotify.com/album/60yMGQG6qHN2S3omKeBsSF) | 2:50 | 2021-12-23 | 2022-02-11 |
 | [Aybaah](https://open.spotify.com/track/469edw0cqHxQwF4ZpRNYYD) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Aybaah](https://open.spotify.com/album/3Xr5fmb8FO0n4ABBYz7KhY) | 3:02 | 2022-03-11 | 2022-07-20 |
 | [Azkorak Min Yeji Leil](https://open.spotify.com/track/2Hk9JgZRTBrLPYVLx2SJSP) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Azkorak Min Yeji Leil](https://open.spotify.com/album/7KsCUVd8KnoUWMqJOs66S0) | 8:36 | 2021-12-23 | 2022-03-12 |
@@ -231,6 +231,7 @@
 | [Qadeer Rabana](https://open.spotify.com/track/42IiWlpfntw14Axb4MM7nW) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Qadeer Rabana](https://open.spotify.com/album/6v5Os5pIFQojhbK3WTUq47) | 1:23 | 2023-04-04 | 2023-04-13 |
 | [Qalbi](https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Qalbi](https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L) | 3:06 | 2022-10-13 | 2023-03-03 |
 | [Qalby Youhdthni](https://open.spotify.com/track/1GQUH9SXf60kx1Pv6iHqTu) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Qalby Youhdthni](https://open.spotify.com/album/4ielaCNnKFHKcJk1umtPUH) | 4:12 | 2023-06-26 | 2024-06-19 |
+| [Qesat Hob](https://open.spotify.com/track/1bEUGW35C3aCHdHCnUWuYD) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Qesat Hob](https://open.spotify.com/album/3m8A19nROc96ENuneLPAIK) | 3:50 | 2025-05-14 |  |
 | [Qosset Hobna](https://open.spotify.com/track/6TuYr2T63OWTdbrfE4luUl) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Qosset Hobna](https://open.spotify.com/album/1BsByRHVwAH9b6wis4qypY) | 2:09 | 2022-03-11 | 2022-07-20 |
 | [Raah Anam](https://open.spotify.com/track/7zxuNEe1gUJGnCN4p30UMf) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Raah Anam](https://open.spotify.com/album/2i7RxBm480Zc6g6FHYc2SE) | 3:15 | 2022-05-31 | 2022-09-29 |
 | [Rah Teshoofni](https://open.spotify.com/track/7cp9tzF6U2s4HVq0ehiki2) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Rah Teshoofni](https://open.spotify.com/album/56AYOsPwukW0TSGTpobwxM) | 3:43 | 2022-02-03 | 2022-06-07 |

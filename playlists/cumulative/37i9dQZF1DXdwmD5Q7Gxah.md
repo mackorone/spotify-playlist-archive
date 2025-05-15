@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our newsletter...</a> Cover: waterbaby
 
-3,340 songs - 7 day 14 hr 2 min
+3,341 songs - 7 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3292,6 +3292,7 @@
 | [You Belong With Me \(Taylor’s Version\)](https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:51 | 2021-04-10 | 2021-04-20 |
 | [You Can Be Mean](https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [You Can Be Mean](https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9) | 2:25 | 2024-01-10 | 2024-02-22 |
 | [YOU CAN KEEP THE FIRE](https://open.spotify.com/track/1E0b2xYd4qWMpxrYDvIJCJ) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [YOU CAN KEEP THE FIRE](https://open.spotify.com/album/4DnzDvjFDeOtHKt9kqGN8F) | 5:13 | 2025-03-14 | 2025-05-14 |
+| [You Can't Always Get What You Want](https://open.spotify.com/track/0loAUwPeBd9LvYtnaKpoGG) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:30 | 2025-05-14 |  |
 | [You Don't Have One Hope](https://open.spotify.com/track/50ZJVGTEnnDGwzIctwd5g3) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [You Don't Have One Hope](https://open.spotify.com/album/72DUqvLhI6ZyqvB82bovq9) | 2:17 | 2025-04-10 |  |
 | [You Don't Know](https://open.spotify.com/track/5NDyOh0RpCpUuVA1IQTReh) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [You Don't Know](https://open.spotify.com/album/5uJPLnhXp8zYGSwCG3rRwg) | 4:41 | 2024-06-28 | 2024-08-10 |
 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 | 2023-10-06 | 2024-01-11 |

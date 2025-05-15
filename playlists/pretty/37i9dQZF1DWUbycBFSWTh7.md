@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove with a selection of new underground deep house
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,529 likes - 118 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,622 likes - 118 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 110 | [Not Now, Not Ever](https://open.spotify.com/track/5CZQH2vfu93n72IyfiF221) | [Toronto Hustle](https://open.spotify.com/artist/5wL7XFCAk4Q1MR6lRHaaL4), [Sean Roman](https://open.spotify.com/artist/3v4eFdI9pxt9UdfwqDRe4c) | [The Symington Avenue \- EP](https://open.spotify.com/album/5RleuE8mFVMXpItaHauJa4) | 6:43 |
 | 111 | [No Ice](https://open.spotify.com/track/4v9fdnM2Pez9whcdAn0n7s) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [No Ice](https://open.spotify.com/album/15qRqrh7YYtKfkqx6VDvDr) | 4:02 |
 | 112 | [Holding on \- Ron Trent Remix](https://open.spotify.com/track/4YFlp4gVOqVnqofIzcb6cE) | [Dj Steaw](https://open.spotify.com/artist/718Tju2ByjiEXnhaiUeQZE), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Holding On \(Original + Ron Trent Remix\)](https://open.spotify.com/album/7m5qYX8Q45XTmsF5Br2mQH) | 9:29 |
-| 113 | [My Season](https://open.spotify.com/track/0bRngp7VOiCWqzuoNv4EZW) | [Dav Risen](https://open.spotify.com/artist/59e4uYrwNhVKQQd776qqjK), [LukaMusic](https://open.spotify.com/artist/35JxKLIvFpuGma61pYwC9q), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Hold On EP](https://open.spotify.com/album/78z3FLSsENQHhil2sKsIDu) | 6:21 |
+| 113 | [My Season](https://open.spotify.com/track/0bRngp7VOiCWqzuoNv4EZW) | [Dav Risen](https://open.spotify.com/artist/59e4uYrwNhVKQQd776qqjK), [Lukamusic](https://open.spotify.com/artist/35JxKLIvFpuGma61pYwC9q), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Hold On EP](https://open.spotify.com/album/78z3FLSsENQHhil2sKsIDu) | 6:21 |
 | 114 | [Solo Movements \- Original Mix](https://open.spotify.com/track/21YyfELDQnlhmLVdksTdAf) | [Carlos Francisco](https://open.spotify.com/artist/1Ky6well8n2fv6JPH2tctW) | [Solo Movements](https://open.spotify.com/album/0cpLT4JAr9eZBucpAwxjtC) | 6:05 |
 | 115 | [Take My Hand](https://open.spotify.com/track/4GNNU5z06wvZYhAoBvRzNS) | [Michel De Hey](https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh) | [Take My Hand](https://open.spotify.com/album/2ByVpjfKxNxcrSXZfdw5rL) | 6:06 |
 | 116 | [Idle Dancer](https://open.spotify.com/track/23z4b7G1clRr1Oop06zbz4) | [Frits Wentink](https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D) | [Together \- EP](https://open.spotify.com/album/3Zt6wborj7JR8FwpLto77Z) | 5:51 |

@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-220 songs - 9 hr 33 min
+221 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Blessings](https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Blessings](https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB) | 2:26 | 2023-01-12 |  |
 | [Blissful](https://open.spotify.com/track/0dKxhW1wAA8YrvMhiEd1qd) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Blissful](https://open.spotify.com/album/1P5joE7OOG7lDdKENEMEZ6) | 2:14 | 2024-07-25 |  |
 | [Brooklyn Brownstone](https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92) | [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Brooklyn Brownstone](https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3) | 2:16 | 2023-01-12 |  |
-| [cascades](https://open.spotify.com/track/7z3euqNn3PvyVAFjdDwSMR) | [terrarium.](https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf) | [cascades](https://open.spotify.com/album/4QKXfYNfoT576G4NPccav2) | 2:09 | 2024-09-13 |  |
+| [cascades](https://open.spotify.com/track/7z3euqNn3PvyVAFjdDwSMR) | [terrarium.](https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf) | [cascades](https://open.spotify.com/album/4QKXfYNfoT576G4NPccav2) | 2:09 | 2024-09-13 | 2025-05-15 |
 | [Central Park](https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Central Park](https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5) | 2:43 | 2023-06-20 |  |
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2023-01-12 | 2024-07-13 |
 | [Chardonnay Kisses](https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd) | [G Bliz](https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Chardonnay Kisses](https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48) | 2:32 | 2023-01-13 | 2024-05-25 |
@@ -149,6 +149,7 @@
 | [Orange Dawn](https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Orange Dawn](https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe) | 2:01 | 2023-01-12 |  |
 | [Orilla Del Mar](https://open.spotify.com/track/4sshFtDRFl9ZxlxnJg2IWk) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Orilla Del Mar](https://open.spotify.com/album/6qjFjgMpi6nHlYAWx80XRl) | 2:38 | 2023-01-12 |  |
 | [Orle](https://open.spotify.com/track/3HMSwkVRwDlSqHjAzJ8Pqh) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Orle](https://open.spotify.com/album/6s3FEdI41LNe9vgPWbgQAm) | 3:06 | 2023-11-10 |  |
+| [Osterly Park](https://open.spotify.com/track/5V3zWcqclnl3AIIrk2elWd) | [Golden Mist](https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK) | [Osterly Park](https://open.spotify.com/album/3Jli1ZXPdsGl3GfHAM9cqp) | 3:03 | 2025-02-21 |  |
 | [overtake on the outside](https://open.spotify.com/track/13wgIAjCCWKkebdUlPnS70) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [overtake on the outside](https://open.spotify.com/album/2cKPB2qD6K88rC6o3G7xaW) | 2:31 | 2023-08-24 |  |
 | [Paks](https://open.spotify.com/track/3f526KslwaHSuamZFabgvk) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Paks](https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW) | 2:48 | 2023-10-27 | 2025-01-11 |
 | [Passenger](https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Passenger](https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF) | 2:35 | 2023-02-02 | 2023-09-22 |

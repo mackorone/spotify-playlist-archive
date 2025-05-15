@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover: TOMORROW X TOGETHER\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-678 songs - 1 day 13 hr 21 min
+679 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Humph!](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [SUM\(ME:R\)](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) | 3:12 | 2022-02-15 | 2022-07-23 |
 | [HWEEK](https://open.spotify.com/track/7muY2OFMX8iuDqk1wP10kn) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [4SHO](https://open.spotify.com/album/0RPXqJPuiBeXYkjpqDd7YU) | 3:18 | 2023-07-04 | 2023-07-21 |
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-10-26 | 2022-11-16 |
+| [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 | 2025-05-14 |  |
 | [I Got U](https://open.spotify.com/track/23W0eq63H9sTGG8SjJu6Ke) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gatcha!](https://open.spotify.com/album/2LQ1gERkYGpu5pGpUoLNjr) | 3:15 | 2022-01-17 | 2022-06-15 |
 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-03-05 | 2024-03-27 |
 | [I LOVE YOU](https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:01 | 2022-08-03 | 2022-08-07 |
@@ -609,7 +610,7 @@
 | [To My EX](https://open.spotify.com/track/4nPfRWnzDY01qnrZaTpUu0) | [Wow](https://open.spotify.com/artist/1mDnUZcASXngb5625VF47w) | [To My EX](https://open.spotify.com/album/0d93XNIJhCqTHqqgqnQM2U) | 3:06 | 2021-12-08 | 2022-04-19 |
 | [Told You](https://open.spotify.com/track/2qTjl3SL2jiBXu1v5eOQXw) | [DKB](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) | [We Love You](https://open.spotify.com/album/5TDEg6rdTAjVjEtqDuSmkv) | 3:19 | 2023-08-16 | 2023-08-22 |
 | [Too Bad](https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.1 : First Love](https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp) | 3:16 | 2022-03-16 | 2022-04-01 |
-| [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-20 |  |
+| [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-20 | 2025-05-15 |
 | [TOP GANG](https://open.spotify.com/track/7JDBOOf49nKbwNopK8Bbv0) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [TOP GANG](https://open.spotify.com/album/506twLo58R8O15T9EgyQsp) | 3:01 | 2022-03-22 | 2022-03-28 |
 | [Trauma](https://open.spotify.com/track/1kvcWkI3m8L6F7EFheV8lM) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RUMINATION](https://open.spotify.com/album/23F2thvLl5vJvxD5fG4yRm) | 3:21 | 2022-03-22 | 2022-06-06 |
 | [TRICKY HOUSE](https://open.spotify.com/track/2MeEPaL5HsW9njvrtP0Agj) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 3:04 | 2023-03-30 | 2023-04-12 |

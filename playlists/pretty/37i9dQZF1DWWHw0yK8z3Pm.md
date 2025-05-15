@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Goldie Boutilier
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,169 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,181 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 48 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 |
 | 49 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 |
 | 50 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 |
-| 51 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
-| 52 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
+| 51 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
+| 52 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
 | 53 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
 | 54 | [Road Runner](https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC), [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Road Runner](https://open.spotify.com/album/78omrT8twYQBzaZWhy275N) | 2:36 |
 | 55 | [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 64 | [Lonesome Drifter](https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/6zZyCNRv5LRBpM5Cqc2pFB) | 3:02 |
 | 65 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 |
 | 66 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 |
-| 67 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
-| 68 | [Misty Morning](https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Misty Morning](https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W) | 3:02 |
+| 67 | [Misty Morning](https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Misty Morning](https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W) | 3:02 |
+| 68 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
 | 69 | [American Dreaming \- Single Edit](https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [American Dreaming](https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT) | 3:57 |
 | 70 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 |
 | 71 | [Baby Blue](https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Baby Blue](https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe) | 4:08 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 92 | [Going to Water](https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Thus Spoke the Fool](https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n) | 3:04 |
 | 93 | [Darlin' Baby](https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Darlin' Baby](https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov) | 4:25 |
 | 94 | [Our Time In The Sun](https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn) | 3:00 |
-| 95 | [Bloodline](https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [American Recordings](https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE) | 3:10 |
-| 96 | [Hey There, Dolly](https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Hey There, Dolly](https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY) | 3:13 |
+| 95 | [Hey There, Dolly](https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Hey There, Dolly](https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY) | 3:13 |
+| 96 | [Bloodline](https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [American Recordings](https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE) | 3:10 |
 | 97 | [Till The Morning](https://open.spotify.com/track/74ARTs57w7D0GDablsiLpk) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Till The Morning](https://open.spotify.com/album/6qECR055kFSGPndawr1byW) | 4:17 |
 | 98 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 99 | [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 |

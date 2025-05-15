@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,347 likes - 117 songs - 6 hr 6 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,341 likes - 117 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
-| 2 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 |
+| 1 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 |
+| 2 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
 | 3 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 4 | [Love Tonight \(David Guetta Remix Edit\)](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 |
 | 5 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 116 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 |
 | 117 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 |
 
-Snapshot ID: `AAALujBYnQTTbQ5iWN55ALKFLMgva6o2`
+Snapshot ID: `AAALvP71fWFzzVS1YGRtgsI1sbGDpdOA`

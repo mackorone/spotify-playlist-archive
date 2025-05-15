@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-214 songs - 10 hr 56 min
+215 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [KEDABA](https://open.spotify.com/track/6EJIkDorvfRvFYPuEzJYm2) | [Versa999](https://open.spotify.com/artist/3RRMhfBORIKZm7UHVPxlaF), [NA](https://open.spotify.com/artist/5WDfOtUWevOrIsfyYyktQl) | [SABRE](https://open.spotify.com/album/6g1Ydfai9gjc79aBIjCa3R) | 3:15 | 2025-01-12 | 2025-01-20 |
 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-12-10 | 2025-01-02 |
 | [Koutchi](https://open.spotify.com/track/2XBRLKDrkMfOo8e7jCyM3D) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Koutchi](https://open.spotify.com/album/5rB6vAUt14KimlyANCJZNg) | 2:42 | 2024-10-17 | 2024-12-11 |
+| [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 | 2025-05-14 |  |
 | [L7ara](https://open.spotify.com/track/18svODSSAYC1DeOpn20xYT) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [L7ara](https://open.spotify.com/album/3tKdlwdmM8EfhPGNfQZzze) | 3:00 | 2024-08-02 | 2024-08-16 |
 | [La nuit](https://open.spotify.com/track/0EqzmPWtJPcFvJfsa9rga7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 2:56 | 2024-03-26 | 2024-08-23 |
 | [LA VÉRITÉ](https://open.spotify.com/track/6I62xlNh5YncMsdiatltxw) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LA VÉRITÉ](https://open.spotify.com/album/5FUZ5W7cH3nbNk9qhkBVBt) | 3:12 | 2024-08-15 | 2024-09-23 |
@@ -219,7 +220,7 @@
 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 | 2024-03-26 | 2024-06-15 |
 | [ZIGZAG](https://open.spotify.com/track/77lYswhyc95GFXBmYDWf7Z) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/3xONo4cCWp0JG0PZ85rV1C) | 2:48 | 2024-12-10 |  |
 | [À QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 | 2024-06-22 | 2024-07-05 |
-| [À tes côtés](https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [À tes côtés](https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1) | 2:37 | 2025-04-13 |  |
+| [À tes côtés](https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [À tes côtés](https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1) | 2:37 | 2025-04-13 | 2025-05-15 |
 | [Ça parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 | 2024-10-22 | 2024-12-11 |
 | […Fin Bdat](https://open.spotify.com/track/2oiz0b7fTaEE6FCyjvBhGW) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [The Triplet](https://open.spotify.com/album/4lSapA6tPoPQRY4yrubZe8) | 2:30 | 2024-08-30 | 2024-11-07 |
 

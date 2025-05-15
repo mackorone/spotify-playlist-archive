@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 124 songs - 8 hr 15 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 125 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 122 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 |
 | 123 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 |
 | 124 | [Overcome](https://open.spotify.com/track/6NzO8H8HWe1hHaiZWiGpXH) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/6urF2OXed5Be4p4QlqG6lu) | 3:07 |
+| 125 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
 
-Snapshot ID: `AAAA8YfwOi16MlwW7x6g0/jKi2q3Zr14`
+Snapshot ID: `AAAA8ourXieladOwVb3J9L+feY7ySu6i`

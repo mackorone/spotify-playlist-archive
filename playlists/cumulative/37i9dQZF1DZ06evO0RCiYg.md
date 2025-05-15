@@ -4,7 +4,7 @@
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 23 min
+81 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [GET DOWN](https://open.spotify.com/track/58jvANBUVmKr8K3B87Kexg) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:52 | 2023-07-28 | 2024-01-02 |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2023-07-28 |  |
 | [Gone Going](https://open.spotify.com/track/7oJtjEkcsXLGcuXaZ8o2VJ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 3:13 | 2023-07-28 |  |
-| [GUARANTEE \(feat\. J\. Rey Soul\) \- SUMMER MIX](https://open.spotify.com/track/1awobyPJIqyw2mgdjaFvoz) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [GUARANTEE \(feat\. J\. Rey Soul\) \[SUMMER MIX\]](https://open.spotify.com/album/78g17CAmtDlt0ngIiZ8gGH) | 3:31 | 2023-07-28 |  |
+| [GUARANTEE \(feat\. J\. Rey Soul\) \- SUMMER MIX](https://open.spotify.com/track/1awobyPJIqyw2mgdjaFvoz) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [GUARANTEE \(feat\. J\. Rey Soul\) \[SUMMER MIX\]](https://open.spotify.com/album/78g17CAmtDlt0ngIiZ8gGH) | 3:31 | 2023-07-28 | 2025-05-15 |
 | [Hey Mama](https://open.spotify.com/track/3KDCYRQl4O681lkYI2sCqE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:34 | 2023-07-28 |  |
 | [Hey Mama \- Jimmy Remix](https://open.spotify.com/track/6d5oZGnCn7QoKBiiLr4Qmf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk \(Expanded Edition\)](https://open.spotify.com/album/78CmZBgMOz93zoQwqxqZSy) | 3:02 | 2023-12-13 | 2024-01-06 |
 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 | 2023-07-28 |  |
@@ -84,6 +84,7 @@
 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 | 2023-07-28 |  |
 | [Weekends](https://open.spotify.com/track/444PDY0AH99Pgnq6B9T4pZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Bridging The Gap](https://open.spotify.com/album/2haqnus2tl9nBATTVyXvCW) | 4:47 | 2024-05-11 | 2024-11-08 |
 | [What It Is](https://open.spotify.com/track/04kCHvYGff879MKxH6BYP8) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Behind The Front](https://open.spotify.com/album/4nxUuXwV9awZCltuoXhCSt) | 4:45 | 2024-09-10 | 2024-09-16 |
+| [What It Is](https://open.spotify.com/track/2EnZWnNgMD6cJYi6aY08Cm) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Behind The Front](https://open.spotify.com/album/6bwBeiWNQu2g3yaa3yNpgz) | 4:45 | 2025-05-15 |  |
 | [What's Goin Down](https://open.spotify.com/track/47ZX5vx2zIzOTsOf93lFSB) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk \(Expanded Edition\)](https://open.spotify.com/album/78CmZBgMOz93zoQwqxqZSy) | 2:41 | 2024-05-15 | 2024-05-19 |
 | [Whenever](https://open.spotify.com/track/1ffXDBEcyHv2CZcHDrFAMU) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 3:15 | 2024-06-01 | 2024-06-23 |
 | [Where Is The Love?](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:32 | 2023-07-28 |  |

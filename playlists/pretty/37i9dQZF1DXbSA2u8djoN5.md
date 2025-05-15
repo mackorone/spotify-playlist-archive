@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Sami G, Badd G
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,866 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,880 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 34 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 |
 | 35 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
 | 36 | [Te văd în trecut](https://open.spotify.com/track/3kl91tdXeshmSSMFUNS6fd) | [Bvcovia](https://open.spotify.com/artist/42mfDl5UWXtoRxvr5pNg5r), [Ian](https://open.spotify.com/artist/5zksZMLVxbzFHHOP4jxEdm) | [Te văd în trecut](https://open.spotify.com/album/4BJUgkCCs9y1bswEb28zV0) | 3:52 |
-| 37 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 |
-| 38 | [BANII](https://open.spotify.com/track/6nkaMUq7nL9T7MOiGujLOX) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [BANII](https://open.spotify.com/album/41sBjeaAQxQP4fNcSWhBlJ) | 2:00 |
+| 37 | [BANII](https://open.spotify.com/track/6nkaMUq7nL9T7MOiGujLOX) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [BANII](https://open.spotify.com/album/41sBjeaAQxQP4fNcSWhBlJ) | 2:00 |
+| 38 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 |
 | 39 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 |
 | 40 | [Șapte](https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Șapte](https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm) | 2:30 |
 | 41 | [ZERO](https://open.spotify.com/track/3vDNT5H8VtKFgaDL0zD68Z) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [ZERO](https://open.spotify.com/album/6I5JKDtiXS8HvlLznCRfcY) | 2:40 |

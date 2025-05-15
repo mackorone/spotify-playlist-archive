@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22094,
+  "num_followers": 22093,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADDKbrAc342YsBHsjGNwlaC",
+  "snapshot_id": "aCKLgAAAAAAlOR0lklMYZP/rUCVzEiyu",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prioridade",
-        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 208576,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Pe\u00e7o Pra Ficar",
         "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 235862,
       "name": "Te Pe\u00e7o Pra Ficar",
       "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 208576,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Caju, Vol. 1",
-        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 203350,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Sa\u00edda Est\u00e1 Dentro",
         "url": "https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 231407,
       "name": "P\u00e1ssaros",
       "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos de Caju, Vol. 1",
+        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
     },
     {
       "added_at": null,
@@ -1111,30 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 174797,
-      "name": "F\u00e9 no caminho",
-      "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nosso Relacionamento",
         "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 200769,
       "name": "Nosso Relacionamento",
       "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 174797,
+      "name": "F\u00e9 no caminho",
+      "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
     },
     {
       "added_at": null,
@@ -1199,30 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "DJ Thi Marquez",
-          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "Ressentimento",
-      "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas No Topo 2",
         "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "DJ Thi Marquez",
+          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "Ressentimento",
+      "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
     },
     {
       "added_at": null,
@@ -1315,30 +1315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "N\u00e3o d\u00e1 mais",
-      "url": "https://open.spotify.com/track/1n05Rid1kkMfxdGLvcZmMw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1910",
         "url": "https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g"
       },
@@ -1375,8 +1351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/3LBARLC0hmHkmowMZs4ZnS"
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
       "artists": [
         {
@@ -1384,13 +1360,37 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv"
+      "duration_ms": 209361,
+      "name": "N\u00e3o d\u00e1 mais",
+      "url": "https://open.spotify.com/track/1n05Rid1kkMfxdGLvcZmMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Florescer",
+        "url": "https://open.spotify.com/album/4u8IzJipJSQiNrIP1udKHi"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 188162,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/1T6QvU1JMup4x4koI3s5EY"
     }
   ],
   "unique_name": "This Is Lourena",

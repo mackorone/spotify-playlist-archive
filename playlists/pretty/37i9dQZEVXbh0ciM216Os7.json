@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACv9bnKLKfuJJQGdXyLJvX8",
+  "snapshot_id": "AAAAAAAAAAC6e+2RFIhXCKxbn1wxnzFw",
   "tracks": [
     {
       "added_at": "2025-05-09 04:00:00",
@@ -63,42 +63,6 @@
     {
       "added_at": "2025-05-09 04:00:00",
       "album": {
-        "name": "Tomorrow Can't Be Borrowed",
-        "url": "https://open.spotify.com/album/6EsDvhBMFl7dCz4ROwRmLM"
-      },
-      "artists": [
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "Tomorrow Can't Be Borrowed",
-      "url": "https://open.spotify.com/track/5M6SxlexdN7HrnjNrNrwAK"
-    },
-    {
-      "added_at": "2025-05-09 04:00:00",
-      "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/6eY3iWkORpXneyqVGuZfCl"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Kevin Church Johnson",
-          "url": "https://open.spotify.com/artist/5S1hbwEjtW25T5i0yBrPB7"
-        }
-      ],
-      "duration_ms": 243832,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/3eEMjHON9ygeQlaaTU9J51"
-    },
-    {
-      "added_at": "2025-05-09 04:00:00",
-      "album": {
         "name": "Pinball II",
         "url": "https://open.spotify.com/album/7H4y33iaBpDJ5QqlCULlMR"
       },
@@ -123,26 +87,38 @@
     {
       "added_at": "2025-05-09 04:00:00",
       "album": {
-        "name": "GOLLIWOG",
-        "url": "https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo"
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/6eY3iWkORpXneyqVGuZfCl"
       },
       "artists": [
         {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
         },
         {
-          "name": "Despot",
-          "url": "https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          "name": "Kevin Church Johnson",
+          "url": "https://open.spotify.com/artist/5S1hbwEjtW25T5i0yBrPB7"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Corinthians",
-      "url": "https://open.spotify.com/track/1nyWOn19RBU0J9LIzgfNJK"
+      "duration_ms": 243832,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/3eEMjHON9ygeQlaaTU9J51"
+    },
+    {
+      "added_at": "2025-05-09 04:00:00",
+      "album": {
+        "name": "Tomorrow Can't Be Borrowed",
+        "url": "https://open.spotify.com/album/6EsDvhBMFl7dCz4ROwRmLM"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Tomorrow Can't Be Borrowed",
+      "url": "https://open.spotify.com/track/5M6SxlexdN7HrnjNrNrwAK"
     },
     {
       "added_at": "2025-05-09 04:00:00",
@@ -183,6 +159,30 @@
     {
       "added_at": "2025-05-09 04:00:00",
       "album": {
+        "name": "GOLLIWOG",
+        "url": "https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Despot",
+          "url": "https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Corinthians",
+      "url": "https://open.spotify.com/track/1nyWOn19RBU0J9LIzgfNJK"
+    },
+    {
+      "added_at": "2025-05-09 04:00:00",
+      "album": {
         "name": "Connections",
         "url": "https://open.spotify.com/album/2NJehWE4ztjLq8hWtkUjix"
       },
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-05-09 04:00:00",
       "album": {
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
+    },
+    {
+      "added_at": "2025-05-09 04:00:00",
+      "album": {
         "name": "TECH:Vol.2",
         "url": "https://open.spotify.com/album/2RSdQrtjXATd3iM8Mhha1M"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 171824,
       "name": "FLY NAMES",
       "url": "https://open.spotify.com/track/3Y5x75vaSqGCZkZorDZwnu"
-    },
-    {
-      "added_at": "2025-05-09 04:00:00",
-      "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Another Miracle",
-      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
     },
     {
       "added_at": "2025-05-09 04:00:00",
@@ -483,6 +483,34 @@
     {
       "added_at": "2025-05-09 04:00:00",
       "album": {
+        "name": "Between Church & State",
+        "url": "https://open.spotify.com/album/0oaqcv5skulgvJTpLURCpo"
+      },
+      "artists": [
+        {
+          "name": "Ben Williams",
+          "url": "https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Kendra Foster",
+          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
+        },
+        {
+          "name": "Wes Felton",
+          "url": "https://open.spotify.com/artist/6lXUrLH2yxNElmZUmqAoCS"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/3Yn8RMo1kFM4TEBtlqZVUo"
+    },
+    {
+      "added_at": "2025-05-09 04:00:00",
+      "album": {
         "name": "Black Samson, the Bastard Swordsman",
         "url": "https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3"
       },
@@ -515,34 +543,6 @@
       "duration_ms": 255761,
       "name": "Let's Do It Again",
       "url": "https://open.spotify.com/track/42YW063BXUD3zitvCNiuw0"
-    },
-    {
-      "added_at": "2025-05-09 04:00:00",
-      "album": {
-        "name": "Between Church & State",
-        "url": "https://open.spotify.com/album/0oaqcv5skulgvJTpLURCpo"
-      },
-      "artists": [
-        {
-          "name": "Ben Williams",
-          "url": "https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Kendra Foster",
-          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
-        },
-        {
-          "name": "Wes Felton",
-          "url": "https://open.spotify.com/artist/6lXUrLH2yxNElmZUmqAoCS"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/3Yn8RMo1kFM4TEBtlqZVUo"
     },
     {
       "added_at": "2025-05-09 04:00:00",

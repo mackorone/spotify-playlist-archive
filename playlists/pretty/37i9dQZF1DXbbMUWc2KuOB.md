@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,484 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,503 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 39 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 40 | [Hold My Hand \- Instrumental](https://open.spotify.com/track/13i2U4DVw9EOxdTcYTsvi8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM) | 3:30 |
 | 41 | [I think I like you \- Instrumental](https://open.spotify.com/track/2jG9RJE8nqUGBAociaCTT6) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [A Poem a Day \(tvN DRAMA\) OST Part.10](https://open.spotify.com/album/38evbF1rf3tenVNgOi6Sb9) | 3:48 |
-| 42 | [That Person \- Instrumental](https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy) | [Monogram](https://open.spotify.com/artist/527XQt0xJFseCh4cu50LuC) | [A Poem a Day \(tvN DRAMA\) OST Part.7](https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2) | 3:32 |
-| 43 | [Did \- Thirty\-nine Instrumental Version](https://open.spotify.com/track/2PKuQxcVQZiyizrDfuqmtS) | [Jung Joonil](https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf) | 3:49 |
-| 44 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\) \(Inst.\)](https://open.spotify.com/track/749UBIskacge8qFMxeoZOn) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 |
+| 42 | [Did \- Thirty\-nine Instrumental Version](https://open.spotify.com/track/2PKuQxcVQZiyizrDfuqmtS) | [Jung Joonil](https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf) | 3:49 |
+| 43 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\) \(Inst.\)](https://open.spotify.com/track/749UBIskacge8qFMxeoZOn) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 |
+| 44 | [That Person \- Instrumental](https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy) | [Monogram](https://open.spotify.com/artist/527XQt0xJFseCh4cu50LuC) | [A Poem a Day \(tvN DRAMA\) OST Part.7](https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2) | 3:32 |
 | 45 | [Borrow your night \(Romance 101 X 10CM\) \(Inst.\)](https://open.spotify.com/track/03D05cWVgnhRf0Dh5ysiDv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Borrow your night \(Romance 101 X 10CM\)](https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx) | 3:07 |
 | 46 | [Say I Love U \- Instrumental](https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
 | 47 | [Melting \- Inst.](https://open.spotify.com/track/5zx2UcgNu7CIpczUCgYghY) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 |

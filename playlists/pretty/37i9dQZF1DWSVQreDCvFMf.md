@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Amiel Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,965 likes - 101 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,074 likes - 101 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kape](https://open.spotify.com/track/4yaIMZ86wsyni0V9b8p52v) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Kape](https://open.spotify.com/album/3MpVBleiTg2fGZ9cvXRaRq) | 4:33 |
 | 2 | [Ahon](https://open.spotify.com/track/2ZNUhyHeCLzwKLBMH0m48Y) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Ahon](https://open.spotify.com/album/6TUc561cCK7NAubC7YVxKN) | 4:17 |
 | 3 | [Hele](https://open.spotify.com/track/16CAfglFpGKN9U8n1VoaF4) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Hele](https://open.spotify.com/album/2uWlw4sPVjH267Jw7UQt61) | 4:51 |
-| 4 | [Hingalo](https://open.spotify.com/track/1Bu4SSuA5gne7t5q8MW8Ka) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge), [Shirebound](https://open.spotify.com/artist/4LulEzMKzIDPPaVZ8MFLGk) | [Hingalo](https://open.spotify.com/album/2VSGdqPuSWfPIjJS5BvJYk) | 3:39 |
+| 4 | [Hingalo](https://open.spotify.com/track/1Bu4SSuA5gne7t5q8MW8Ka) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge), [shirebound](https://open.spotify.com/artist/5F6Eu8EFrLQXOqgEj5gbhJ) | [Hingalo](https://open.spotify.com/album/2VSGdqPuSWfPIjJS5BvJYk) | 3:39 |
 | 5 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
 | 6 | [Aking Mithiin](https://open.spotify.com/track/4E6SCQoYgnOr8U9RwtdRzQ) | [Shane G](https://open.spotify.com/artist/1lFT4J66bALlo4lCHqIYzZ) | [Aking Mithiin](https://open.spotify.com/album/0Cqq7saYapa5si8rmeF3bK) | 3:56 |
 | 7 | [Parking Lot \(with Darren Cashwell & Chie Filomeno\)](https://open.spotify.com/track/29tmagQbIElVlFxjM4arKd) | [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ), [Darren Cashwell](https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6), [Chie Filomeno](https://open.spotify.com/artist/1fLKfl7vy40jYqnXGgqAlR) | [Parking Lot \(with Darren Cashwell & Chie Filomeno\)](https://open.spotify.com/album/0ZohNUbSnEJ0c2DGMkPr2V) | 2:26 |

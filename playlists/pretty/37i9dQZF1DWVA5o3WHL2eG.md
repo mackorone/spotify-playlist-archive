@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zoë Më
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,618 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,701 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [Das wogende Meer](https://open.spotify.com/track/5rSFdVtWg673wdGAdXC8DG) | [Dota Kehr](https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga) | [Das wogende Meer](https://open.spotify.com/album/3fKWnQJXKp5EnE4klViWJM) | 3:14 |
 | 24 | [Geist](https://open.spotify.com/track/65MUQzyTn5lz067N0yS57E) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Geist](https://open.spotify.com/album/2TLFXXiWA9Q8uw3Xle2wwa) | 3:21 |
 | 25 | [Ok](https://open.spotify.com/track/5YrONaqm7njKu0imcINj7O) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Ok](https://open.spotify.com/album/1FBHLmElb7q1sJKhem5wbP) | 2:25 |
-| 26 | [Deep Inside Love \- Edit](https://open.spotify.com/track/2aZTZK0TiD44o5HyzKz9uE) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Deep Inside Love](https://open.spotify.com/album/2q8QCvf45Ti8KSBMJgpQNF) | 4:04 |
-| 27 | [Blauen Planeten](https://open.spotify.com/track/7tQFQPmug9ZMVEam7ZJU8y) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Blauen Planeten](https://open.spotify.com/album/54fMKybZ2ekWi3R2jLLw33) | 2:44 |
+| 26 | [Blauen Planeten](https://open.spotify.com/track/7tQFQPmug9ZMVEam7ZJU8y) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Blauen Planeten](https://open.spotify.com/album/54fMKybZ2ekWi3R2jLLw33) | 2:44 |
+| 27 | [Deep Inside Love \- Edit](https://open.spotify.com/track/2aZTZK0TiD44o5HyzKz9uE) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Deep Inside Love](https://open.spotify.com/album/2q8QCvf45Ti8KSBMJgpQNF) | 4:04 |
 | 28 | [Say What You Want](https://open.spotify.com/track/73i6cz59sCQFNaZwR8p96N) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Say What You Want](https://open.spotify.com/album/5plD1YDdvlJWIzK5fic2GU) | 2:15 |
 | 29 | [fata morgana](https://open.spotify.com/track/33UHH5ZdOesZIWviYJEtz9) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [fata morgana](https://open.spotify.com/album/1D4Y9K6NDPtPw2V0CCoBJU) | 2:05 |
 | 30 | [Unlearn](https://open.spotify.com/track/0bCY2oqtq99zTgg9OYzjpH) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Unlearn](https://open.spotify.com/album/1eAcorMqEkerbVH1stj7og) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,685 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,718 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 16 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
 | 17 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 18 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
-| 19 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
+| 19 | [This Is The Thing](https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Distance and Time](https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br) | 4:32 |
 | 20 | [Naked as We Came](https://open.spotify.com/track/4FuBIkfhZMoRgrDiHL6TYG) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx) | 2:32 |
-| 21 | [This Is The Thing](https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Distance and Time](https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br) | 4:32 |
+| 21 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
 | 22 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
 | 23 | [Fake Empire](https://open.spotify.com/track/65aZDJQwNllPxuLPixJ4YO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:25 |
 | 24 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 60 | [Dress Sexy At My Funeral](https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:30 |
 | 61 | [If I Were](https://open.spotify.com/track/0CVy2bbgDZPhpMVhzXILE9) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Lookaftering](https://open.spotify.com/album/2x9qqvix1MRv4FpTGfqNbQ) | 2:15 |
 | 62 | [The Sea and the Rhythm](https://open.spotify.com/track/5H8xLLUBnNS9ipRlybQbu6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Sea & the Rhythm](https://open.spotify.com/album/4ujax5DobWOX6ylaK0MEiy) | 5:23 |
-| 63 | [Northern Lights](https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Upper Air](https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ) | 2:54 |
-| 64 | [Rooks](https://open.spotify.com/track/2UZnNDCLZHMWR0LCEzFxBB) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Rook](https://open.spotify.com/album/5pYcP11SaCxYKqUAXeBIu2) | 3:21 |
+| 63 | [Rooks](https://open.spotify.com/track/2UZnNDCLZHMWR0LCEzFxBB) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Rook](https://open.spotify.com/album/5pYcP11SaCxYKqUAXeBIu2) | 3:21 |
+| 64 | [Northern Lights](https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Upper Air](https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ) | 2:54 |
 | 65 | [For Prayer](https://open.spotify.com/track/6Stq4ZHP1XJXbMAmTckQ3d) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [The Knot](https://open.spotify.com/album/14skaJogkbq0YBkQqMEahg) | 3:50 |
 | 66 | [You May Be Blue](https://open.spotify.com/track/7pzSiISHRFQTlMKLZ94Z54) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Find Me Gone](https://open.spotify.com/album/1pqDv5gYGWNrkfb7iFj6NB) | 4:40 |
 | 67 | [The Lonesome Border, Pt\. 1](https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc) | [Dear Nora](https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5) | [Mountain Rock](https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy) | 1:31 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 87 | [Desert](https://open.spotify.com/track/3icR9JafZdxFmSat5EyZLs) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Ghost Of David](https://open.spotify.com/album/5sgHW8d88e5C3v1G1CKw7t) | 2:57 |
 | 88 | [Cold Discovery](https://open.spotify.com/track/7eP5OpMpDJaUz3DL1LPbDi) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:56 |
 | 89 | [A Stone](https://open.spotify.com/track/4QhtSV2TGKbX5SPM5Y6GJm) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Black Sheep Boy & Appendix](https://open.spotify.com/album/6rYEC1BEkqfSQ6LpDzFoOm) | 5:23 |
-| 90 | [Cold and On My Mind](https://open.spotify.com/track/7KQ1WE9cUQcrUjorhP1hGK) | [Edith Frost](https://open.spotify.com/artist/3cmq7YmDFFy99rpgJipF2E) | [Shanti Project Collection 2](https://open.spotify.com/album/7CAuZdJ6sKPX4UUe6tHfCN) | 3:04 |
-| 91 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
+| 90 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
+| 91 | [Cold and On My Mind](https://open.spotify.com/track/7KQ1WE9cUQcrUjorhP1hGK) | [Edith Frost](https://open.spotify.com/artist/3cmq7YmDFFy99rpgJipF2E) | [Shanti Project Collection 2](https://open.spotify.com/album/7CAuZdJ6sKPX4UUe6tHfCN) | 3:04 |
 | 92 | [Red Sea, Black Sea](https://open.spotify.com/track/2ouxMZsKhP2P32Qge1HdAX) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Palo Santo \(Expanded Edition\)](https://open.spotify.com/album/66u6ytOmJrm0APoya7mokt) | 3:09 |
 | 93 | [Saturday Waits](https://open.spotify.com/track/2pprnAsYv3qvelEO4DG1vX) | [Loney Dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Loney, Noir](https://open.spotify.com/album/1tJa3GN7NV5MT79PIVxDyq) | 3:39 |
 | 94 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 97 | [Little Lion Man](https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:06 |
 | 98 | [Fake Palindromes](https://open.spotify.com/track/50woGYhAqV3KXvO1LG4zLg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 2:52 |
 | 99 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
-| 100 | [Handshake Drugs](https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 6:03 |
+| 100 | [Knife](https://open.spotify.com/track/4BmtCb6sdMqECAItGmFDvU) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6rVRNvNpzh0O2nSxFG7Ziz) | 5:14 |
 
 Snapshot ID: `Zs8rQQAAAADCC1KE+TQDNYFOIrA28P/K`

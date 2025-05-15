@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Mdou Moctar on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,282 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,351 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 31 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 |
 | 32 | [Plea From The Soul](https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F) | [Phafner](https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci) | [Overdrive](https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5) | 5:29 |
 | 33 | [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 |
-| 34 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
-| 35 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
+| 34 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
+| 35 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
 | 36 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 |
 | 37 | [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 |
 | 38 | [It's You](https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Fase Luna](https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd) | 4:45 |
 | 39 | [The Rat Catcher](https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ) | [Wucan](https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO) | [Reap the Storm](https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS) | 5:25 |
 | 40 | [Cinnamon Temple](https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Cinnamon Temple](https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ) | 3:20 |
-| 41 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
-| 42 | [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 |
+| 41 | [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 |
+| 42 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
 | 43 | [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 |
-| 44 | [Casino](https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Django's High](https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq) | 3:03 |
-| 45 | [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 |
+| 44 | [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 |
+| 45 | [Casino](https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Django's High](https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq) | 3:03 |
 | 46 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
 | 47 | [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 |
-| 48 | [WILLING](https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [WILLING](https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE) | 3:03 |
-| 49 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
+| 48 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
+| 49 | [WILLING](https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [WILLING](https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE) | 3:03 |
 | 50 | [Boudicaaa](https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Music For Film: Tramps!](https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk) | 2:05 |
 | 51 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 |
 | 52 | [Ilion](https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 11:08 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 81 | [Yours Truly](https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Panoramas](https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW) | 5:04 |
 | 82 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 83 | [Static Resistance](https://open.spotify.com/track/0eOAeqbD5sxU77qdHSYLOY) | [Hookworms](https://open.spotify.com/artist/7c5Qvy0cv7VGzRnUSwnSnj) | [Microshift](https://open.spotify.com/album/3wDOavy8yEk8G2c0mfyTsA) | 3:48 |
-| 84 | [Tītián](https://open.spotify.com/track/4FfM1tpWiGg3xS6myfNAvi) | [Kuunatic](https://open.spotify.com/artist/5uZn75Nrcnvzl4tkgPQlEB) | [Gate of Klüna](https://open.spotify.com/album/17R2rM9GcvS7DXU9hdRGTI) | 4:38 |
-| 85 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
+| 84 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
+| 85 | [Tītián](https://open.spotify.com/track/4FfM1tpWiGg3xS6myfNAvi) | [Kuunatic](https://open.spotify.com/artist/5uZn75Nrcnvzl4tkgPQlEB) | [Gate of Klüna](https://open.spotify.com/album/17R2rM9GcvS7DXU9hdRGTI) | 4:38 |
 | 86 | [Golden Dawn](https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i) | 2:50 |
 | 87 | [Pastafrolla](https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pastafrolla](https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ) | 2:39 |
 | 88 | [Shimmer and Disappear](https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Across The Meridian](https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg) | 3:15 |

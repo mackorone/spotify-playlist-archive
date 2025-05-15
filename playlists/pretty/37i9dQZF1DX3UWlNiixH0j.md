@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,988 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,017 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,27 +60,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 50 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
 | 51 | [I'm Your…](https://open.spotify.com/track/1eSn0YdWHnZ5EMrzjvt8Pi) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [I'm Your…](https://open.spotify.com/album/6rSllpWQ2yo871H83pdOTn) | 2:12 |
 | 52 | [ASOBO](https://open.spotify.com/track/7IQan4WbmdsftXYOD2W3iT) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ASOBO](https://open.spotify.com/album/0v89xmGKz3kGktmRHDPnv5) | 3:28 |
-| 53 | [All Right](https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Minds & Colors](https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36) | 3:18 |
-| 54 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
+| 53 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
+| 54 | [All Right](https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Minds & Colors](https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36) | 3:18 |
 | 55 | [裸、道すがら](https://open.spotify.com/track/1jqKoXdfmRs2kI3OsLDmKI) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [裸、道すがら](https://open.spotify.com/album/6uJ6dHiRA9eBWM7S6rKK0m) | 2:54 |
 | 56 | [Swim](https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Swim](https://open.spotify.com/album/6KTZ7NAPmZP64DN0Mh9b6M) | 3:23 |
 | 57 | [ラブコメ](https://open.spotify.com/track/3NlIznCiPTTYYjxoVXHV7v) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ラブコメ](https://open.spotify.com/album/4zcHOrQn3reSiyvHdlJJiy) | 4:15 |
 | 58 | [ステラ](https://open.spotify.com/track/3P2s80yVnpaABmMVbq1KPJ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ステラ](https://open.spotify.com/album/5Re5sssjx93JkNfYADiLCE) | 3:07 |
-| 59 | [その日](https://open.spotify.com/track/2zBzHYumBgFh2sm6dE4ckh) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [Adrift in Time](https://open.spotify.com/album/0OiWixcir4dJ28OZ3W7CJi) | 3:22 |
-| 60 | [Wave](https://open.spotify.com/track/1pXIk9DQmaCFRzFREdq2P9) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Wave](https://open.spotify.com/album/4O0vNDX1DS8fk2XqQjuOwf) | 3:28 |
-| 61 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
+| 59 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
+| 60 | [その日](https://open.spotify.com/track/2zBzHYumBgFh2sm6dE4ckh) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [Adrift in Time](https://open.spotify.com/album/0OiWixcir4dJ28OZ3W7CJi) | 3:22 |
+| 61 | [Wave](https://open.spotify.com/track/1pXIk9DQmaCFRzFREdq2P9) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Wave](https://open.spotify.com/album/4O0vNDX1DS8fk2XqQjuOwf) | 3:28 |
 | 62 | [君にノーベル賞](https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [メロい夢](https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5) | 2:39 |
-| 63 | [Unconsiously](https://open.spotify.com/track/2n7oP8zYvxfceZyOuETQ7S) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | ["Design Ah! neo"1](https://open.spotify.com/album/2kgnj4sZUvkBHuUCNCOGLd) | 1:47 |
-| 64 | [Dying Star](https://open.spotify.com/track/60fJwXfsLswVout8DYaAzf) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Dying Star](https://open.spotify.com/album/3hwHY1kb8NZQ3b3rG50Jkh) | 3:10 |
-| 65 | [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 |
+| 63 | [Dying Star](https://open.spotify.com/track/60fJwXfsLswVout8DYaAzf) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Dying Star](https://open.spotify.com/album/3hwHY1kb8NZQ3b3rG50Jkh) | 3:10 |
+| 64 | [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 |
+| 65 | [Unconsiously](https://open.spotify.com/track/2n7oP8zYvxfceZyOuETQ7S) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | ["Design Ah! neo"1](https://open.spotify.com/album/2kgnj4sZUvkBHuUCNCOGLd) | 1:47 |
 | 66 | [静岡](https://open.spotify.com/track/5EPbJqc4qpucI7MlNuqP58) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [静岡](https://open.spotify.com/album/0euk7AJx2ZHVXKZChy3ubo) | 3:44 |
 | 67 | [meaning \- KIDCOZY Remix](https://open.spotify.com/track/7iB2ug8CIUpdx9XOJdTD2Z) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [KIDCOZY](https://open.spotify.com/artist/4sc3CKuPjbbFeLx49qBBrB) | [meaning \(KIDCOZY Remix\)](https://open.spotify.com/album/5rWSKXaKwFdviw0t2ZeLgl) | 3:41 |
 | 68 | [あたらしい旅](https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あたらしい旅](https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X) | 3:27 |
 | 69 | [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 |
 | 70 | [Lover](https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [Lover](https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy) | 6:34 |
 | 71 | [Elevator Lover](https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender \(Deluxe Edition\)](https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx) | 2:38 |
-| 72 | [Whenever, Whatever](https://open.spotify.com/track/3zE8xmbyFYQoHfRwb1Hs04) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [In Your Languages](https://open.spotify.com/album/1nJlr4uATMI2G26PYLVlvE) | 4:56 |
-| 73 | [CONTRAST](https://open.spotify.com/track/3VSu7JS5sAP62eiAxqrXGR) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [CONTRAST](https://open.spotify.com/album/4G1fsGrrWiTqK4UwprfwTc) | 3:17 |
+| 72 | [CONTRAST](https://open.spotify.com/track/3VSu7JS5sAP62eiAxqrXGR) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [CONTRAST](https://open.spotify.com/album/4G1fsGrrWiTqK4UwprfwTc) | 3:17 |
+| 73 | [Whenever, Whatever](https://open.spotify.com/track/3zE8xmbyFYQoHfRwb1Hs04) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [In Your Languages](https://open.spotify.com/album/1nJlr4uATMI2G26PYLVlvE) | 4:56 |
 | 74 | [Goes On](https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Blessings of the Sun](https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e) | 4:41 |
 | 75 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 |
 

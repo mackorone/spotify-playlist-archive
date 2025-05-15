@@ -1481,28 +1481,6 @@
     },
     {
       "album": {
-        "name": "The Show Will Go On",
-        "url": "https://open.spotify.com/album/7hbaGybiKootmYl0RdSo9P"
-      },
-      "artists": [
-        {
-          "name": "Mau Power",
-          "url": "https://open.spotify.com/artist/6ad6gNX75b9h3LvG8QOXRx"
-        },
-        {
-          "name": "Archie Roach",
-          "url": "https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh"
-        }
-      ],
-      "date_added": "2025-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 315840,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/4SdfWNfj3LbEicQ7eMxZTW"
-    },
-    {
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/2V2kmtHqbdpBeLKVUxedS7"
       },
@@ -1518,6 +1496,24 @@
       "duration_ms": 185672,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5b3MBr4UtDnbntpJeyrflQ"
+    },
+    {
+      "album": {
+        "name": "The Show Will Go On",
+        "url": "https://open.spotify.com/album/7hbaGybiKootmYl0RdSo9P"
+      },
+      "artists": [
+        {
+          "name": "Mau Power",
+          "url": "https://open.spotify.com/artist/6ad6gNX75b9h3LvG8QOXRx"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315861,
+      "name": "Freedom Feat. Archie Roach",
+      "url": "https://open.spotify.com/track/4SdfWNfj3LbEicQ7eMxZTW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,431,080 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,431,029 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 8 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 |
 | 9 | [Still The One](https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [Still The One](https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC) | 3:31 |
 | 10 | [BLACKBIRD](https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [BLACKBIRD](https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW) | 2:08 |
-| 11 | [Hands To Myself](https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Hands To Myself](https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI) | 3:09 |
-| 12 | [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 |
+| 11 | [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 |
+| 12 | [Hands To Myself](https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Hands To Myself](https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI) | 3:09 |
 | 13 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 |
 | 14 | [all night long](https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [all night long](https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO) | 3:14 |
 | 15 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 37 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 |
 | 38 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
 | 39 | [I Feel It Coming](https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb) | [Alice Nordstrom](https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3) | [I Feel It Coming](https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f) | 2:46 |
-| 40 | [Annie's Song](https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG) | [Cameron Payne](https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi) | [Annie's Song](https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX) | 2:47 |
-| 41 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
+| 40 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
+| 41 | [You Raise Me Up](https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010) | [Shelby Park](https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet) | [You Raise Me Up](https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd) | 2:20 |
 | 42 | [I'm On Fire](https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [I'm On Fire](https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo) | 2:54 |
-| 43 | [You Raise Me Up](https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010) | [Shelby Park](https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet) | [You Raise Me Up](https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd) | 2:20 |
+| 43 | [Annie's Song](https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG) | [Cameron Payne](https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi) | [Annie's Song](https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX) | 2:47 |
 | 44 | [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 |
 | 45 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 |
 | 46 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd) | 3:37 |

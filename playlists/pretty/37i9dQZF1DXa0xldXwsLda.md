@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,454 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,456 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 46 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 |
 | 47 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
 | 48 | [Tocarte](https://open.spotify.com/track/2Qkk5xpMVrOrXj1K1Wv40P) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Tocarte](https://open.spotify.com/album/3ruktrqPw50q5kUXnWOiq0) | 2:31 |
-| 49 | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/track/2FpvK90F0hDiZ5cNqFQhyd) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Mabel](https://open.spotify.com/artist/7mM2sm7CppI1adkdG5nURJ) | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/album/6HR4ZwP1SpSH3IafP2VPSq) | 4:16 |
-| 50 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
+| 49 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
+| 50 | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/track/2FpvK90F0hDiZ5cNqFQhyd) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Mabel](https://open.spotify.com/artist/7mM2sm7CppI1adkdG5nURJ) | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/album/6HR4ZwP1SpSH3IafP2VPSq) | 4:16 |
 | 51 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 |
 | 52 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 53 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 88 | [Juego de Amor](https://open.spotify.com/track/6xZ8P2C0gYWEy3EgkXVGuL) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Juego de Amor](https://open.spotify.com/album/34i7W2TuiUVTJoIsroG0Q9) | 3:57 |
 | 89 | [Clandestino \(Acoustic Cover\)](https://open.spotify.com/track/5jjyTM6MYLPJh68qPIEBYK) | [Bruno Elisabetsky](https://open.spotify.com/artist/4eMHMibKPrazzDOFNMTJTQ) | [Clandestino \(Acoustic Cover\)](https://open.spotify.com/album/2ELBFLVVCl2GaWQVXghsvk) | 3:43 |
 | 90 | [Tu Paisaje](https://open.spotify.com/track/3Bmt4jOf8kcJteJdvtEZNs) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:05 |
-| 91 | [Azul](https://open.spotify.com/track/4ZfgdOhUEnvwSevO8xN9R3) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Azul](https://open.spotify.com/album/2c3XPHXI3kx5X2MrdWzjxd) | 3:30 |
-| 92 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
+| 91 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
+| 92 | [Azul](https://open.spotify.com/track/4ZfgdOhUEnvwSevO8xN9R3) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Azul](https://open.spotify.com/album/2c3XPHXI3kx5X2MrdWzjxd) | 3:30 |
 | 93 | [Me Voy a Valparaíso](https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Me Voy a Valparaíso](https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c) | 4:00 |
 | 94 | [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 |
 | 95 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 |

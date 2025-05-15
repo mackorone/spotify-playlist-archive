@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630 likes - 215 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 631 likes - 215 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 93 | [Nobody Fools Me Twice](https://open.spotify.com/track/15plYeh2zcYmW9CO1M9YzN) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Nobody Fools Me Twice](https://open.spotify.com/album/6rUA6B33RkZkjRJu2pEnAn) | 2:33 |
 | 94 | [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 |
 | 95 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 |
-| 96 | [When's It Gonna Happen](https://open.spotify.com/track/2wgfQ5XYZG1IRUf7pyrVSL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
-| 97 | [vanilla](https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:38 |
+| 96 | [vanilla](https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:38 |
+| 97 | [When's It Gonna Happen](https://open.spotify.com/track/2wgfQ5XYZG1IRUf7pyrVSL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
 | 98 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 |
 | 99 | [Feels Like](https://open.spotify.com/track/2xW3wiXtNHUsENQLrHf4X0) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:19 |
 | 100 | [Toxins](https://open.spotify.com/track/3EjnjYppRwwxYv3kHCFa3s) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Toxins](https://open.spotify.com/album/5HSb7viGPrEPdS96jE0yr9) | 3:16 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 121 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
 | 122 | [Hate It Here](https://open.spotify.com/track/4ppkdy0KDApHApfR5R4OIL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
 | 123 | [Can't Stay Mad](https://open.spotify.com/track/2caU93YaWxERJpGB0ZXnUw) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:27 |
-| 124 | [on my way](https://open.spotify.com/track/2D9VGKzODKblwcTxaxZhIt) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 2:57 |
-| 125 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
+| 124 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
+| 125 | [on my way](https://open.spotify.com/track/2D9VGKzODKblwcTxaxZhIt) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 2:57 |
 | 126 | [I Wanna](https://open.spotify.com/track/1IXfNzFG3JdrjBt8VPDjC6) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 3:30 |
 | 127 | [Don't Feel Like Fighting](https://open.spotify.com/track/5cex5w6GN9h7sC9GFtAip6) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Life Love & Madness](https://open.spotify.com/album/57nDa2V6zo9QDKZLpTLtBx) | 3:03 |
 | 128 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 214 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 215 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbxVagAAAAADGABULqEXYfmE6sa4l7mO`
+Snapshot ID: `AbxbCgAAAACglthep3OrMSFLxjzw6ktA`

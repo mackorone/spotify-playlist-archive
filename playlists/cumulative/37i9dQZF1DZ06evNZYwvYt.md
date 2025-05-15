@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-126 songs - 8 hr 57 min
+127 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,8 +86,9 @@
 | [No me atrevo a preguntar](https://open.spotify.com/track/0yAyBaaE0ZGGwSnhh98SiF) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/4Lo4iwz1lesfagfTNUro1p) | 3:39 | 2025-04-15 |  |
 | [No me atrevo a preguntar](https://open.spotify.com/track/1ASsOEm4V9yWkgJ573Uf8q) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:39 | 2022-09-16 | 2025-04-14 |
 | [No te quiero querer](https://open.spotify.com/track/3ZP5G9RcJBw2lQzuGj6noA) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:51 | 2025-04-14 | 2025-04-15 |
-| [Nuestra señal](https://open.spotify.com/track/0ivCfQOgLtBZayOHludHzD) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT) | 4:11 | 2025-04-14 |  |
+| [Nuestra señal](https://open.spotify.com/track/0ivCfQOgLtBZayOHludHzD) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT) | 4:11 | 2025-04-14 | 2025-05-15 |
 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 | 2022-09-16 | 2025-04-14 |
+| [Nuestra señal](https://open.spotify.com/track/5YSm9SGD4e1MPgsmsQfSdf) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:11 | 2025-05-15 |  |
 | [Para siempre](https://open.spotify.com/track/0fRF5Gqh8rlFmPsYCQDOJW) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 4:18 | 2022-09-16 | 2025-04-13 |
 | [Para siempre](https://open.spotify.com/track/5YJUuNUWVD5UYg0S7WPuHr) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 4:18 | 2025-04-13 |  |
 | [Para Ti](https://open.spotify.com/track/0q1WacGmrtCmF9pVU9EwQ6) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 3:51 | 2022-09-16 | 2025-04-13 |

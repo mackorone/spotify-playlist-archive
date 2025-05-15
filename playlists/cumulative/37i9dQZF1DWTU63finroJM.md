@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: MEOVV.
 
-1,998 songs - 4 day 12 hr 3 min
+1,999 songs - 4 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1006,7 +1006,7 @@
 | [Mama Aren't You Angry](https://open.spotify.com/track/3W6MVfrJbgHzRC1VrzMSSl) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Mama Aren't You Angry](https://open.spotify.com/album/7FOnySoIGCkJ5WZPhCWqNH) | 2:43 | 2024-05-03 | 2024-05-26 |
 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-12-07 | 2024-03-16 |
 | [MANIAC](https://open.spotify.com/track/3CptguqWjLoOwMoO2DCHWm) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [MANIAC](https://open.spotify.com/album/0EXlZmZDM7xx2lQf8hQjP9) | 2:52 | 2025-01-31 | 2025-04-05 |
-| [MANZANA](https://open.spotify.com/track/4omg9ZG0HsLPcIRCTej50K) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [MANZANA](https://open.spotify.com/album/6A3D49y6i0GnIGShUm5oUC) | 2:08 | 2025-04-25 |  |
+| [MANZANA](https://open.spotify.com/track/4omg9ZG0HsLPcIRCTej50K) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [MANZANA](https://open.spotify.com/album/6A3D49y6i0GnIGShUm5oUC) | 2:08 | 2025-04-25 | 2025-05-15 |
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2022-02-03 | 2022-03-18 |
 | [Marble Arch](https://open.spotify.com/track/21zKWP33iPQYuCWIWipRhk) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Marble Arch](https://open.spotify.com/album/68pV0kNS4G4TVFM7lNZTwG) | 3:11 | 2025-03-21 | 2025-04-26 |
 | [Maria, Maria](https://open.spotify.com/track/34OmSPO09C9BiDXBv1xGzL) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Dziwna Wiosna](https://open.spotify.com/album/0DOWUOYuRU1EsakUy3eLMG) | 3:02 | 2022-03-24 | 2022-04-19 |
@@ -1285,6 +1285,7 @@
 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 | 2022-02-03 | 2022-03-11 |
 | [poison](https://open.spotify.com/track/708OIcF8K7xaT8Pj7XqSml) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [poison](https://open.spotify.com/album/1obOKGKtYzlDjO4hyO6LHn) | 2:05 | 2024-08-23 | 2024-11-10 |
 | [POISON IVY](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [POISON IVY](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 | 2025-05-02 |  |
+| [Pollen](https://open.spotify.com/track/3SLLlwtC4vAyiaWhZ6U4pI) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Pollen](https://open.spotify.com/album/6xsuHwZZyZjzfc5GQ2QiB3) | 3:25 | 2025-05-02 |  |
 | [Polonia](https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Polonia](https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ) | 2:45 | 2024-03-15 | 2024-08-03 |
 | [poltergeist](https://open.spotify.com/track/3xl8e3MwYxHfu89GsjJp2K) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [poltergeist](https://open.spotify.com/album/6sQBSsvaj7A5RLXq1Mc3aG) | 2:33 | 2024-09-13 | 2024-10-06 |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2022-03-24 | 2022-08-02 |

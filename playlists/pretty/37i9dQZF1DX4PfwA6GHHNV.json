@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 20630,
+  "num_followers": 20635,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-05-12 17:15:08",
       "album": {
+        "name": "MAIS VERDE",
+        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "MAIS VERDE",
+      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+    },
+    {
+      "added_at": "2025-05-12 17:15:08",
+      "album": {
         "name": "Coragem",
         "url": "https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 182448,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1"
-    },
-    {
-      "added_at": "2025-05-12 17:15:08",
-      "album": {
-        "name": "MAIS VERDE",
-        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "MAIS VERDE",
-      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
     },
     {
       "added_at": "2025-05-12 17:15:08",
@@ -539,26 +539,6 @@
     {
       "added_at": "2025-05-12 17:15:08",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2025-05-12 17:15:08",
-      "album": {
         "name": "T\u00f4 Aqui de Novo",
         "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
       },
@@ -579,22 +559,22 @@
     {
       "added_at": "2025-05-12 17:15:08",
       "album": {
-        "name": "Quem Me Guia",
-        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
       },
       "artists": [
         {
-          "name": "Amorim",
-          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
         },
         {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
         }
       ],
-      "duration_ms": 149575,
-      "name": "Quem Me Guia",
-      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2025-05-12 17:15:08",
@@ -619,6 +599,26 @@
       "duration_ms": 144444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
+    },
+    {
+      "added_at": "2025-05-12 17:15:08",
+      "album": {
+        "name": "Quem Me Guia",
+        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+      },
+      "artists": [
+        {
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 149575,
+      "name": "Quem Me Guia",
+      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
     },
     {
       "added_at": "2025-05-12 17:15:08",

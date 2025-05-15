@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,141 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,241 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 70 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
 | 71 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \- The Best Of](https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S) | 4:51 |
 | 72 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 |
-| 73 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
-| 74 | [Skyfall](https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Age Of Ignorance \(Deluxe Edition\)](https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1) | 4:09 |
+| 73 | [Skyfall](https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Age Of Ignorance \(Deluxe Edition\)](https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1) | 4:09 |
+| 74 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
 | 75 | [Alive](https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Alive](https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL) | 4:22 |
 | 76 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
 | 77 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 4:22 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 83 | [DJ Got Us Fallin in Love](https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To) | [Her Bright Skies](https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI) | [DJ Got Us Fallin in Love](https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL) | 3:35 |
 | 84 | [Landslide \- Remastered](https://open.spotify.com/track/2dc1BYopTHgviDXawShfME) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Remastered\)](https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W) | 3:10 |
 | 85 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 |
-| 86 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 |
-| 87 | [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 |
+| 86 | [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 |
+| 87 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 |
 | 88 | [Immigrant Song](https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM) | [The Girl With the Dragon Tattoo](https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7) | 2:47 |
 | 89 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
 | 90 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 |

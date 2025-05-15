@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 귀궁 \(The Haunted Palace\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,045 songs - 2 day 15 hr 26 min
+1,046 songs - 2 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Live in My Heart](https://open.spotify.com/track/0HmetwHFQ3lU1dwNvYNPeh) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Red Balloon OST Part.7](https://open.spotify.com/album/1l7XmliG5LuczflEcv380p) | 3:58 | 2023-02-24 | 2023-07-18 |
 | [Lonely night](https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Revenant \(Original Soundtrack\), Pt.2](https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS) | 3:54 | 2023-07-17 | 2024-01-05 |
 | [Long time no see](https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Long time no see \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc) | 3:28 | 2023-09-15 | 2024-02-28 |
+| [Look at Me](https://open.spotify.com/track/5TfUE4mwhukgl8sGdqwiYy) | [Cha Minho \(JAEHYUN of NCT\)](https://open.spotify.com/artist/7fIiE8y8VAXRbwVoljmc2e) | [Dear.M \(Original Soundtrack\) Part.4](https://open.spotify.com/album/5NgaY7GtEMXPZjjRBdqxAH) | 4:10 | 2025-05-14 |  |
 | [Looking at you](https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ) | [JUNGHEUM BAND](https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a) | [The Interest of Love \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID) | 2:35 | 2023-01-13 | 2023-06-03 |
 | [Looking Forward To Tomorrow](https://open.spotify.com/track/5KlYz1KPuj1PX2B5Gs8gVs) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Behind Every Star \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/5y3ekRLyeEbVf9biJPbQRN) | 3:52 | 2022-11-16 | 2023-02-25 |
 | [Looks like a real thing](https://open.spotify.com/track/7g7gSmVZdzG8ZHZF3qDvdx) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [Snowdrop \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3) | 3:02 | 2022-01-14 | 2022-04-22 |
@@ -968,7 +969,7 @@
 | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K) | 4:31 | 2023-07-17 | 2023-12-11 |
 | [Why did we break up?](https://open.spotify.com/track/2ivt5IFj5kCelupn6TWQ1J) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [Love Interference 2021 \(Original Television Soundtrack\), Pt\. 23](https://open.spotify.com/album/64xBz4zq97lec25Uks9ATr) | 3:49 | 2021-12-19 | 2022-01-15 |
 | [why did you leave me like that](https://open.spotify.com/track/00jeXnp7KMh7tE4LgUQ7In) | [The Bridge](https://open.spotify.com/artist/7v7PLqTrbbzOuDYRtmLK76) | [Red Shoes OST Part.23](https://open.spotify.com/album/1mFLNS1SvEu7mn4JokDKbQ) | 4:00 | 2021-12-19 | 2022-03-04 |
-| [Why Not](https://open.spotify.com/track/415dzQamP5pJ8dMfNVfUHL) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\) Part.3](https://open.spotify.com/album/7D0gQELLdvfMjodh6xNUA8) | 2:58 | 2024-12-02 |  |
+| [Why Not](https://open.spotify.com/track/415dzQamP5pJ8dMfNVfUHL) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\) Part.3](https://open.spotify.com/album/7D0gQELLdvfMjodh6xNUA8) | 2:58 | 2024-12-02 | 2025-05-15 |
 | [Wicked](https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Remarriage and Desires \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg) | 3:14 | 2022-08-02 | 2022-11-17 |
 | [Wide Open](https://open.spotify.com/track/3hCUSSX1l1DDbSzopM3JDG) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [Crazy Love \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/2obpLFubdFYXr55KXOVnes) | 3:02 | 2022-04-21 | 2022-06-29 |
 | [Wind Blows](https://open.spotify.com/track/3FNP2CNnulQ3oS6H7oejrh) | [Jeun Mido](https://open.spotify.com/artist/0UB7SNfPb0D62Xt6N0zxsp) | [Connection OST Part.2](https://open.spotify.com/album/421kAWV6AvgPq3uxbho4VH) | 4:03 | 2024-06-05 | 2024-12-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Clarent
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,782 likes - 200 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,773 likes - 200 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 15 | [Interlude N.001 La Combi](https://open.spotify.com/track/0OYmX5M4PPwrwHchuZuTsd) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Interlude N.001 La Combi](https://open.spotify.com/album/65IRdafS9PoptnSxtOUJIo) | 2:35 |
 | 16 | [Baby](https://open.spotify.com/track/061HqlGR7nPHyCUM4raLXy) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Baby](https://open.spotify.com/album/5QI1TWbg2dsDDS8RB0P24B) | 3:21 |
 | 17 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
-| 18 | [Movie de Artista](https://open.spotify.com/track/54k17mxDTeRBdMrKBVezmG) | [Machine](https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA) | [MOVIE \(VOL 1\)](https://open.spotify.com/album/74e8buhRbE5xXEAxKIDpVB) | 2:36 |
+| 18 | [MOVIE DE ARTISTA](https://open.spotify.com/track/54k17mxDTeRBdMrKBVezmG) | [Machine](https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA) | [MOVIE \(VOL 1\)](https://open.spotify.com/album/74e8buhRbE5xXEAxKIDpVB) | 2:36 |
 | 19 | [LINDA](https://open.spotify.com/track/3rpatdv4oGWHL2rZzTAscf) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [LINDA](https://open.spotify.com/album/7vxDirSMdfFq2Zzz3rnjNm) | 2:49 |
 | 20 | [Romeo y Julieta](https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:26 |
 | 21 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |

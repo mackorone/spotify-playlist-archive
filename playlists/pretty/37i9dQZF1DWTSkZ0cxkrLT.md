@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,180 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,226 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 32 | [Inoportuna](https://open.spotify.com/track/5GCB9mqJzKN4kDKvmqQ03X) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [12 segundos de oscuridad](https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz) | 2:44 |
 | 33 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 |
 | 34 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 |
-| 35 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 |
+| 35 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
 | 36 | [búscame otra vez](https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [búscame otra vez](https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax) | 4:58 |
-| 37 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
-| 38 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
+| 37 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
+| 38 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 |
 | 39 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
 | 40 | [A Primera Vista](https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [A Roar Of Southern Clouds](https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz) | 3:05 |
 | 41 | [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 64 | [Quiero Mejor](https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Quiero Mejor](https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1) | 3:03 |
 | 65 | [Suerte y Hasta Pronto](https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Berrinche](https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb) | 3:31 |
 | 66 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
-| 67 | [Ojitos de Md \- Remix](https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ojitos de Md \(Remix\)](https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik) | 2:50 |
+| 67 | [La vida pasa](https://open.spotify.com/track/5nfcvTHr49VPZX8yjXJBrq) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [La vida pasa](https://open.spotify.com/album/0JueSaUorzNim4awxNe11Y) | 3:48 |
 | 68 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 |
-| 69 | [La vida pasa](https://open.spotify.com/track/5nfcvTHr49VPZX8yjXJBrq) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [La vida pasa](https://open.spotify.com/album/0JueSaUorzNim4awxNe11Y) | 3:48 |
+| 69 | [Ojitos de Md \- Remix](https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ojitos de Md \(Remix\)](https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik) | 2:50 |
 | 70 | [Un Amor Que Se Termina](https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Un Amor Que Se Termina](https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI) | 2:36 |
 | 71 | [Tardes de Melancolía](https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 3:30 |
 | 72 | [Musikita del Cielo](https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Musikita del Cielo](https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz) | 3:00 |

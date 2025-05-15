@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "5'3",
+        "url": "https://open.spotify.com/album/62hruJh6bCyTuQBGPZPfll"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180919,
+      "name": "5'3",
+      "url": "https://open.spotify.com/track/2Eqtd0tcTHaIJkZXUQnuqh"
+    },
+    {
+      "album": {
         "name": "5022",
         "url": "https://open.spotify.com/album/2wEvuhCwptXpajEDhu9LCo"
       },
@@ -5464,7 +5482,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -11770,7 +11788,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 201862,
       "name": "Choke",
       "url": "https://open.spotify.com/track/1tjs4z5kY3Ck82dFr6g6Fd"
@@ -19662,7 +19680,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 199399,
       "name": "En Privado",
       "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
@@ -24412,7 +24430,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 231917,
       "name": "GPS",
       "url": "https://open.spotify.com/track/4ayXvu5SyyKs16XyExkEjA"
@@ -24860,6 +24878,24 @@
     {
       "album": {
         "name": "HANDS UP",
+        "url": "https://open.spotify.com/album/2owkehm0t0op4QvgMouB9L"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192467,
+      "name": "HANDS UP",
+      "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
+    },
+    {
+      "album": {
+        "name": "HANDS UP",
         "url": "https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E"
       },
       "artists": [
@@ -24870,7 +24906,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
@@ -32204,7 +32240,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/2UtuOyOQ0VxF2sNZU12H3y"
@@ -32230,7 +32266,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
@@ -62292,7 +62328,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 131081,
       "name": "Una Chica Good",
       "url": "https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs"

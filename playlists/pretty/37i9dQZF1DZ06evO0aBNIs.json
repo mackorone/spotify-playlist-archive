@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 732685,
+  "num_followers": 732865,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAACPnn+gPLqECWaI+hUZVS8c",
+  "snapshot_id": "aCKLgAAAAAA8JA62wBR8AxnNvEuCtWfU",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye Lullaby (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/1Tl0YVT3Br2AIqYT3VlEdo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 179360,
       "name": "He Wasn't",
       "url": "https://open.spotify.com/track/0VRxqpFICUHJKuWx9sQrm6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goodbye Lullaby (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/1Tl0YVT3Br2AIqYT3VlEdo"
     },
     {
       "added_at": null,

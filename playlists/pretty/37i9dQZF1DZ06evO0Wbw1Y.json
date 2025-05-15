@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29158,
+  "num_followers": 29155,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABdhMl1B6OTOdM1MhxiE+UB",
+  "snapshot_id": "aCKLgAAAAAAz05sbRSoH/CqZ9HlD48zk",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Quiero Amarte",
-        "url": "https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        },
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 188729,
-      "name": "Ya No Quiero Amarte",
-      "url": "https://open.spotify.com/track/5aa5ycJnO3yDcmSjihjyBu"
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Ya No Quiero Amarte",
+        "url": "https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5"
       },
       "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
+      "duration_ms": 188729,
+      "name": "Ya No Quiero Amarte",
+      "url": "https://open.spotify.com/track/5aa5ycJnO3yDcmSjihjyBu"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 179084,
-      "name": "Para Variar",
-      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
+      "duration_ms": 171808,
+      "name": "Inevitables",
+      "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 171808,
-      "name": "Inevitables",
-      "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
+      "duration_ms": 179084,
+      "name": "Para Variar",
+      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
     },
     {
       "added_at": null,

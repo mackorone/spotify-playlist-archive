@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,891 likes - 78 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,051 likes - 78 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 63 | [Maharani](https://open.spotify.com/track/7CVw4gVPpH1TPQttQGVmhZ) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [GHILDIYAL](https://open.spotify.com/artist/19oE1SHCKszlQciGXQGtbW) | [Qabool Hai \(Deluxe\)](https://open.spotify.com/album/17n3KkiGt92tJZW0QkdUiW) | 6:29 |
 | 64 | [Tell Me](https://open.spotify.com/track/7KH7qQDC34EPT0sK3EJP3s) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Tell Me](https://open.spotify.com/album/3ZFyWbTnJbuAc2yCL4dHTQ) | 3:06 |
 | 65 | [Paani Paani](https://open.spotify.com/track/47Rqh5ZSamtIOFi7G6VgFJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Paani Paani](https://open.spotify.com/album/39mClZpOH792zXWppimcBb) | 2:54 |
-| 66 | [TERE HO KE](https://open.spotify.com/track/6MVCtoSNhJY9hTYfoF4Pst) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 3:43 |
+| 66 | [TERE HO KE](https://open.spotify.com/track/6MVCtoSNhJY9hTYfoF4Pst) | [KING](https://open.spotify.com/artist/2D6VatUrBCa9y4vmZNm3BI), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 3:43 |
 | 67 | [Diamond Ni](https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Diamond Ni](https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O) | 3:12 |
 | 68 | [Tu Aake Dekhle](https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM) | 4:30 |
 | 69 | [Young G.O.A.T](https://open.spotify.com/track/6xHPBEvcG0RQDfyTq7jc8P) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 3:45 |

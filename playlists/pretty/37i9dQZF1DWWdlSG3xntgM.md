@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,960 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,963 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 44 | [Liên khúc Em là tất cả \- Hai vì sao lạc](https://open.spotify.com/track/4mtcwpgSjtHQYiKzIn5P5q) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 5:15 |
 | 45 | [Lạnh trọn đêm mưa](https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk) | [Lưu Hồng](https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB) | [Mưa Rừng](https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq) | 4:29 |
 | 46 | [Giọt Lệ Đài Trang \(feat\. Hoài Lâm\)](https://open.spotify.com/track/29MAQcIvkJOQ0NVceIdElR) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad), [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Xót Xa](https://open.spotify.com/album/0WTjdkH320Kk3jiUeCWLU5) | 5:55 |
-| 47 | [Liên Khúc Mưa Nửa Đêm \- Ai Cho Tôi Tình Yêu](https://open.spotify.com/track/0X2YIrnOLoYDfkPtdCkTel) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Nguyên Lê](https://open.spotify.com/artist/44tv8Ok9mYOhirL1RyTn2U) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 5:35 |
+| 47 | [Hai Vi Sao Lac](https://open.spotify.com/track/6qXIRHWkzCtEPERZGXO5C2) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:13 |
 | 48 | [Ngoại ô buồn](https://open.spotify.com/track/3YPk1P3F4qnlnTCN1lrhJh) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuyệt phẩm Tuấn Vũ](https://open.spotify.com/album/1irQ9Llxt2PKrQgx0Cxujh) | 4:40 |
 | 49 | [Xin Thời Gian Qua Mau](https://open.spotify.com/track/3nimTYr39MANUqa01DjlKE) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:36 |
-| 50 | [Hai Vi Sao Lac](https://open.spotify.com/track/6qXIRHWkzCtEPERZGXO5C2) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:13 |
+| 50 | [Liên Khúc Mưa Nửa Đêm \- Ai Cho Tôi Tình Yêu](https://open.spotify.com/track/0X2YIrnOLoYDfkPtdCkTel) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Nguyên Lê](https://open.spotify.com/artist/44tv8Ok9mYOhirL1RyTn2U) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 5:35 |
 
 Snapshot ID: `aBQRcQAAAAD017VSxgggqgr0185iSiR9`

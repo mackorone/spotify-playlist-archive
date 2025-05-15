@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 95345,
+  "num_followers": 95384,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAAhDJBEB/DmFEYHzUoNPb1d",
+  "snapshot_id": "aCKLgAAAAAC4cNYKeAbFMlfeBd085n+k",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 174205,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 181800,
       "name": "Vida Peligrosa El Solecito (En Vivo)",
       "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 174205,
-      "name": "Plata",
-      "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Chamaco Sin Futuro",
+        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 141197,
+      "name": "El Amor No Va Conmigo",
+      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 207184,
       "name": "Soy la Suerte",
       "url": "https://open.spotify.com/track/5XhEmjrN0XylAfyXpSIoTA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Chamaco Sin Futuro",
-        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 141197,
-      "name": "El Amor No Va Conmigo",
-      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Pura Adrenalina",
-      "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reyes Magos",
         "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 128000,
       "name": "Reyes Magos",
       "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 194929,
-      "name": "Chevrolet 4X4",
-      "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Motivado (feat. Banda La Fantastica)",
         "url": "https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 159486,
       "name": "Bien Motivado (feat. Banda La Fantastica)",
       "url": "https://open.spotify.com/track/75bhbGC0rU7C113qSfYQtJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 194929,
+      "name": "Chevrolet 4X4",
+      "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 174739,
+      "name": "Pancho Conos",
+      "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El 7 De Fontana",
         "url": "https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 147506,
       "name": "El 7 De Fontana",
       "url": "https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 174739,
-      "name": "Pancho Conos",
-      "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
     }
   ],
   "unique_name": "This Is LEGADO 7",

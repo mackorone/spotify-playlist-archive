@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-281 songs - 13 hr 34 min
+282 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [M.E.M 2 Jacksonville \(feat.SpotemGottem\)](https://open.spotify.com/track/7laPLntBYwtHMeaGrhtUpt) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:01 | 2024-06-11 |  |
 | [Mad at Me](https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:39 | 2024-06-11 |  |
 | [Mad Man](https://open.spotify.com/track/3ntAHoLBqfQQp0WJHqeO7i) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:19 | 2024-06-11 |  |
+| [Made It](https://open.spotify.com/track/31D1l1t2KsbSHBckUaTVSA) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Too Mobb](https://open.spotify.com/album/677OFWSuKf001ps33SImSW) | 3:25 | 2025-05-14 |  |
 | [Main Slime Remix \(feat\. Moneybagg Yo & Tay Keith\)](https://open.spotify.com/track/5197zYW72cbayQO2fY9Zrf) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Main Slime Remix \(feat\. Moneybagg Yo & Tay Keith\)](https://open.spotify.com/album/7MKAaTZWkou5cfJ32J2HD1) | 3:54 | 2024-06-11 |  |
 | [Making of a Murderer](https://open.spotify.com/track/0TiwfeDAJOO0t5xOtugG7b) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:46 | 2024-06-11 |  |
 | [Master P \(feat\. Tay Keith\)](https://open.spotify.com/track/6PDiL8QLrNj1Bi85vkZTcK) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Shiesty Season](https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV) | 3:20 | 2024-06-11 |  |

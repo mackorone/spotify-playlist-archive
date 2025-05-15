@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 308963,
+  "num_followers": 309025,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADASL/r61fJ6lWDs95qSvQ6",
+  "snapshot_id": "aCKLgAAAAADkh4oBH/cB2xqBTn8nx6Jg",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC - SORRY 4 DA WAIT",
-        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 209413,
-      "name": "2024",
-      "url": "https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi"
+      "duration_ms": 135122,
+      "name": "ILoveUIHateU",
+      "url": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+        "name": "MUSIC - SORRY 4 DA WAIT",
+        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 135122,
-      "name": "ILoveUIHateU",
-      "url": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
+      "duration_ms": 209413,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi"
     },
     {
       "added_at": null,
@@ -315,22 +315,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC - SORRY 4 DA WAIT",
-        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
       },
       "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 160306,
-      "name": "BACKR00MS (with Travis Scott)",
-      "url": "https://open.spotify.com/track/2cjhSZd6uZIrp4ddxvvBdn"
+      "duration_ms": 219428,
+      "name": "Off The Meter (with Playboi Carti & Destroy Lonely)",
+      "url": "https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b"
     },
     {
       "added_at": null,
@@ -355,26 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Chaos",
-        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+        "name": "MUSIC - SORRY 4 DA WAIT",
+        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
       },
       "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         },
         {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Off The Meter (with Playboi Carti & Destroy Lonely)",
-      "url": "https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b"
+      "duration_ms": 160306,
+      "name": "BACKR00MS (with Travis Scott)",
+      "url": "https://open.spotify.com/track/2cjhSZd6uZIrp4ddxvvBdn"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip At Knight",
-        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 236883,
-      "name": "Miss The Rage",
-      "url": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 235535,
       "name": "wokeuplikethis*",
       "url": "https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip At Knight",
+        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 236883,
+      "name": "Miss The Rage",
+      "url": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,236 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,235 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 67 | [Regresé Para Navidad](https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Regresé Para Navidad](https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe) | 2:47 |
 | 68 | [Santa La Noche](https://open.spotify.com/track/3xa0oZcnczpZhNppU61yui) | [Carla Vidal](https://open.spotify.com/artist/7678ZEojikl9vWH7huaoHi) | [Santa La Noche](https://open.spotify.com/album/468Aq4om61oFd8b3MzN6nl) | 4:13 |
 | 69 | [Hoy Ha Nacido el Salvador](https://open.spotify.com/track/6Q8C5Am5jOxwbQuTzXmljH) | [Ivan Diaz](https://open.spotify.com/artist/27PzO3XYBbps95WvMrcWmu) | [Hoy Ha Nacido el Salvador](https://open.spotify.com/album/4Xld2ExYNvHD3Pbft8SUrm) | 5:29 |
-| 70 | [Nattyvidad](https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Nattyvidad](https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss) | 4:24 |
-| 71 | [Jesús Es Navidad](https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB) | [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Jesús Es Navidad](https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6) | 2:37 |
-| 72 | [Espiritu Santo](https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb) | [Lily Marie Antonini](https://open.spotify.com/artist/1x8FFUkHOebTcWv9L7KJnt) | [Happy Birthday Jesus \(Merry Christmas\)](https://open.spotify.com/album/2MPDwgwrUSkLkaxDQraZ0x) | 3:39 |
-| 73 | [El Niño del Tambor](https://open.spotify.com/track/5QUkcerfqvVsBTyLEYNr8r) | [Ecos](https://open.spotify.com/artist/7z9IcVBNyznHTkGeDb3EH7), [Richard Martínez](https://open.spotify.com/artist/15EUbMhzUZlOf6mFBBzrD1) | [El Niño del Tambor](https://open.spotify.com/album/2US8CE8hkbsAFBwdT0aU8b) | 3:24 |
+| 70 | [Jesús Es Navidad](https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB) | [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Jesús Es Navidad](https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6) | 2:37 |
+| 71 | [Nattyvidad](https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Nattyvidad](https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss) | 4:24 |
+| 72 | [El Niño del Tambor](https://open.spotify.com/track/5QUkcerfqvVsBTyLEYNr8r) | [Ecos](https://open.spotify.com/artist/7z9IcVBNyznHTkGeDb3EH7), [Richard Martínez](https://open.spotify.com/artist/15EUbMhzUZlOf6mFBBzrD1) | [El Niño del Tambor](https://open.spotify.com/album/2US8CE8hkbsAFBwdT0aU8b) | 3:24 |
+| 73 | [Espiritu Santo](https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb) | [Lily Marie Antonini](https://open.spotify.com/artist/1x8FFUkHOebTcWv9L7KJnt) | [Happy Birthday Jesus \(Merry Christmas\)](https://open.spotify.com/album/2MPDwgwrUSkLkaxDQraZ0x) | 3:39 |
 | 74 | [Un Año Más](https://open.spotify.com/track/0mfXZiUkaiVFwOBNWUEF7d) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Un Año Más](https://open.spotify.com/album/1YibNRYLpKLEOt0LNkpCvf) | 3:12 |
 | 75 | [Navidad en Miami](https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Navidad en Miami](https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK) | 2:40 |
 | 76 | [Hosanna \(Vamos a Belén\)](https://open.spotify.com/track/0ndeBrUagppnWpvpw01u0j) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw) | [Hosanna \(Vamos a Belén\)](https://open.spotify.com/album/3Wj0Xa2Efq9RXCjVkgjCya) | 3:46 |

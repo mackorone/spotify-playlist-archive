@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Aline Barros
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,109 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,154 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 34 | [Me Rendo](https://open.spotify.com/track/18pNbdRyTnhQk8J11AuLOO) | [Fernanda Tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Me Rendo](https://open.spotify.com/album/3y8RXjszfSZWMSUIrNz0d0) | 4:53 |
 | 35 | [Tente Outra Vez](https://open.spotify.com/track/4EPPfadGLkoZ1oir9ykQA3) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Tente Outra Vez](https://open.spotify.com/album/4yTI3dl1EVzUS9iLIivR8K) | 4:42 |
 | 36 | [Não Quero Ser Mais Eu](https://open.spotify.com/track/10fS9do6r4TJVZUoeYzLzX) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Não Quero Ser Mais Eu](https://open.spotify.com/album/6dH4AHTuTYLubGRzRnj7d0) | 4:55 |
-| 37 | [Grande é o Nosso Deus](https://open.spotify.com/track/7GsdiwsaObweCsHwjJHggm) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b), [Milena](https://open.spotify.com/artist/3lvf3Rr3Enw2LuFWKWMgmy) | [Grande é o Nosso Deus](https://open.spotify.com/album/0XybkCAPyBXVrfOsihl97i) | 3:40 |
+| 37 | [Grande é o Nosso Deus](https://open.spotify.com/track/7GsdiwsaObweCsHwjJHggm) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Milena](https://open.spotify.com/artist/3lvf3Rr3Enw2LuFWKWMgmy), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Grande é o Nosso Deus](https://open.spotify.com/album/0XybkCAPyBXVrfOsihl97i) | 3:40 |
 | 38 | [Você É Especial](https://open.spotify.com/track/6jKYiVZGalykFmxhPH3vlC) | [Hinos Vip](https://open.spotify.com/artist/5aG7w8Gmf8z75ny9VOTdb9), [Renan Matheus](https://open.spotify.com/artist/3f8HAW3PnzWyVA0Ehzqfub), [Ariella Nunes](https://open.spotify.com/artist/6XzfIuTM9pjmRShSxNcxLL) | [Você É Especial](https://open.spotify.com/album/7nhJSEGOnCsQofzOova1Lp) | 4:53 |
 | 39 | [O Dono do Tempo](https://open.spotify.com/track/2rtuAbNjKpKCUCTczww7Cd) | [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [O Dono do Tempo](https://open.spotify.com/album/1REyKIsRXU59ddT9MPopYc) | 4:26 |
 | 40 | [Marcas de Amor \- Ao Vivo](https://open.spotify.com/track/3wgk6xaHVC0cDcDV0ehGCe) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [FLAME](https://open.spotify.com/artist/3ZbEYQq9lafzy0B2ipYZkq) | [Marcas de Amor \(Ao Vivo\)](https://open.spotify.com/album/3brJR2zhls1sv2ulPRsmjR) | 6:09 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Peru.
 
-929 songs - 2 day 4 hr 58 min
+930 songs - 2 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2021-03-27\* | 2021-07-04 |
 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-10-21 | 2024-04-04 |
 | [HIBIKI](https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:28 | 2023-10-14 | 2023-11-05 |
+| [Hiekka](https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hiekka](https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0) | 3:33 | 2025-05-14 |  |
 | [Hijo En La Disco 2](https://open.spotify.com/track/66lMdZ6IQsCbqTo9aV80M5) | [J\-King y Maximan](https://open.spotify.com/artist/6UBb8ZUUyarsyod6snflAR) | [Hijo En La Disco 2](https://open.spotify.com/album/0EEDXynsm5ARIeFjXsIdmA) | 3:18 | 2025-02-10 | 2025-02-17 |
 | [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 | 2023-08-12 | 2023-12-31 |
 | [Hoy](https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Hoy](https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn) | 3:18 | 2024-09-04 | 2024-09-12 |
@@ -431,7 +432,7 @@
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-08-27 | 2021-11-07 |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-26 | 2024-07-04 |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-25 | 2023-05-21 |
-| [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-10 |  |
+| [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-10 | 2025-05-15 |
 | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA) | 3:00 | 2023-06-07 | 2023-06-14 |
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-03-14 | 2023-03-18 |
 | [Llegó la Navidad](https://open.spotify.com/track/2xIGnYlcSoZQPkTri3Kxa5) | [Coral Infantil Colegio Manuel Pardo Chiclayo](https://open.spotify.com/artist/1qYK0WhOiskokw0vPdD0Ka) | [Feliz Navidad](https://open.spotify.com/album/3sYZU71EoEKdIua5C7XKN0) | 2:25 | 2023-12-26 | 2024-12-28 |

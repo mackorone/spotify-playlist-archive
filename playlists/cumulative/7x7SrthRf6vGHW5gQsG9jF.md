@@ -4,7 +4,7 @@
 
 > mostly rock
 
-885 songs - 2 day 8 hr 40 min
+890 songs - 2 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Before I Rise](https://open.spotify.com/track/0SjWk4Beah9g6cBNTYLyR9) | [Jun Maeda](https://open.spotify.com/artist/1x2p2cfLYxgG9RtBt7VFUx), [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Love Song from the Water](https://open.spotify.com/album/0zbJEjFr8Ak6HvhIsxG4us) | 5:19 | 2025-03-15 |  |
 | [Being low as dirt, taking what's important from me](https://open.spotify.com/track/1LNGuCg01CHg9ErApmz92R) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Being low as dirt, taking what's important from me](https://open.spotify.com/album/4ipmShlnFWIXMvMdmYcF8O) | 3:12 | 2023-06-11 |  |
 | [Bestiary](https://open.spotify.com/track/7hhLeiLqAKiITo3Np5dDfz) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [sisi](https://open.spotify.com/album/52qqpwPOCpUS3I7zc0t9TY) | 4:38 | 2023-07-30 |  |
+| [Big Sky](https://open.spotify.com/track/3mdZUBB0bSOCP9PNzCn4yf) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Hokorobi](https://open.spotify.com/album/6Qt83eijG7zhUhUiB95vgf) | 3:31 | 2025-05-14 |  |
 | [bitter](https://open.spotify.com/track/0cMeVIfRzQY5HHXV8K6EEa) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [爆裂トリコさん](https://open.spotify.com/album/6RYNu5Ic37J5ulnePficdz) | 1:59 | 2024-03-05 |  |
 | [Black Is the New Black](https://open.spotify.com/track/56XcpXmOzxrjk1CNvqH1Av) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [Copyright Infringement EP](https://open.spotify.com/album/6rlGHgmSG0sq3JrMKtyTOS) | 3:58 | 2025-05-12 |  |
 | [blooming in the morning](https://open.spotify.com/track/1j0zRrI5YYrrNxDINYyaF4) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [SPOOL](https://open.spotify.com/album/7tDWEtkcV4sS6UnpXTy7cM) | 4:13 | 2023-10-15 |  |
@@ -310,6 +311,7 @@
 | [mercurytenshi](https://open.spotify.com/track/1G1sjL9bSTOEyTGBCPJmvO) | [yuzuha](https://open.spotify.com/artist/1E1ZQGewEUYhLSd3hvreon) | [feather](https://open.spotify.com/album/0OrHQZHemDJ4Wvyo6S3G9d) | 3:06 | 2024-05-03 |  |
 | [METOROPORITAN](https://open.spotify.com/track/5Sj9M1Pl6f4IIrxzrLbqdm) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2OVSflRQ7zERLrLk3eAqmL) | 3:35 | 2023-12-27 |  |
 | [Midnight Nonfiction](https://open.spotify.com/track/5oeGCXRWIF8LJC2VQJP6as) | [Seventeen Years Old And Berlin Wall](https://open.spotify.com/artist/00epidt1rfpJJKIfi7dSQJ) | [Distance](https://open.spotify.com/album/75L1XaKzSJLjLZHqTYbshn) | 3:44 | 2024-05-18 |  |
+| [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 | 2025-05-14 |  |
 | [Mineral Power](https://open.spotify.com/track/6fMhTPSAc7nNdoBFnVfJIe) | [kudaranai1nichi](https://open.spotify.com/artist/75E3iu2PfQXjKv4B6lyAIa) | [rebound](https://open.spotify.com/album/5CAQImKGNH4OaIBJXmA5l4) | 2:17 | 2023-12-10 |  |
 | [Miniskirt killer](https://open.spotify.com/track/1UHxZ5HeXSsmD4LYRqcT69) | [Veltpunch](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [THE NEWEST JOKE](https://open.spotify.com/album/5TFRZe0LbMgAIzG7aDlHRo) | 4:01 | 2024-01-18 |  |
 | [mis](https://open.spotify.com/track/4b3oGyTJ5nr4HMRvTNDMGV) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [\#ラブリーミュージック](https://open.spotify.com/album/1yjBcMkyXGMptCVEavMgtX) | 4:12 | 2024-09-13 |  |
@@ -500,6 +502,7 @@
 | [theme \(kimi wo omotte iru\)](https://open.spotify.com/track/3BKA4WRg4wA6zUAzgsV0RJ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kimi wo omotte iru](https://open.spotify.com/album/3l8f9pyf3SnV3Sfi7UPwfI) | 0:58 | 2024-05-07 |  |
 | [Theme for "he\(r\)art"](https://open.spotify.com/track/0OWnzLpATXTUKbrbT8tHyL) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [he\(r\)art](https://open.spotify.com/album/1gpZubJVqBRpILdObbjhjl) | 2:29 | 2024-05-18 |  |
 | [Theme of the sunset](https://open.spotify.com/track/2tDbBon1j0R2xGpjNdoVyS) | [Veltpunch](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [question no.13](https://open.spotify.com/album/1sPNkgxlP1e5ylnQLZKwz1) | 5:00 | 2024-06-04 |  |
+| [thermosphere](https://open.spotify.com/track/4aDE5fKs1EPn4DeAWIdjVO) | [stargaze shelter](https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW) | [first draft](https://open.spotify.com/album/6b2oFaUawdQSC9T17u6RvK) | 3:25 | 2025-05-14 |  |
 | [this storyends](https://open.spotify.com/track/70WcLtsP0Ye0m2RJkRqvHg) | [Winnie](https://open.spotify.com/artist/597CBjNeUwp1UEv5nKj1PJ) | [Greatful 15years Dead](https://open.spotify.com/album/18Z2SvJLbcpNt9ax5M8HLm) | 3:19 | 2024-08-25 |  |
 | [Timeless](https://open.spotify.com/track/4Y4kPsAGiGM4RddnOzMupS) | [宇宙ネコ子](https://open.spotify.com/artist/3xSs5iXfAy7FPN8cUqBEfm) | [君のように生きれたら](https://open.spotify.com/album/3rehesLQoJRonofHk1AmXh) | 2:50 | 2023-07-19 |  |
 | [TOKYO](https://open.spotify.com/track/68l3Um9aT4Y62OSBORXM5l) | [COLLAPSE](https://open.spotify.com/artist/3aLpODUWftL6JfrOed62f5) | [DELIRIUM POETRY](https://open.spotify.com/album/0SpoatymVcI2rwYvSIlvqR) | 5:41 | 2024-05-18 |  |
@@ -855,7 +858,9 @@
 | [繋ぐ日の青](https://open.spotify.com/track/5pGZs7SwXzICfbboT7soBP) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [New Young City](https://open.spotify.com/album/0LplyvdRYizAysouFyvZxh) | 3:33 | 2023-12-12 |  |
 | [聖者たち](https://open.spotify.com/track/4KqsLRDsHTHCMhH5ktgc6K) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [聖者たち](https://open.spotify.com/album/4E6wdcx8giwIcXEhs8Jwxd) | 3:55 | 2024-02-04 |  |
 | [背景、夏に溺れる](https://open.spotify.com/track/1N4lCKZ2VHRLjlhxxRJghi) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [カーテンコールが止む前に](https://open.spotify.com/album/6xxbHBSzkfa8aKid78UOxr) | 5:14 | 2023-11-20 |  |
+| [脈拍](https://open.spotify.com/track/5g9iwSWKeJu6fgOrBrBuuG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [脈拍](https://open.spotify.com/album/6KhkCzUE5JSfRUbLuOAoVI) | 3:38 | 2025-05-14 |  |
 | [花 \- feat\. 花譜](https://open.spotify.com/track/7tLDVnMJYZL2NRPlXFPQmy) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [花鳥風月](https://open.spotify.com/album/3McRo26jqaK4vZ36db3aso) | 3:28 | 2024-09-01 |  |
+| [花びらたちのマーチ](https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:13 | 2025-05-14 |  |
 | [花束](https://open.spotify.com/track/1cMmBxOwcZ6joOfvvvpOBN) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Clean Clean Clean](https://open.spotify.com/album/2aDrFJYYKSOT0TrR35skO9) | 4:08 | 2024-05-18 |  |
 | [若者たち](https://open.spotify.com/track/3FNutHk4RmvSRp0tT8zj8P) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [where?](https://open.spotify.com/album/4meJFweZ1aga9P067NAKSK) | 2:59 | 2024-05-18 |  |
 | [菩提樹](https://open.spotify.com/track/7LLP3yy6b2wfGAkSx89KtK) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [檻、子供達。](https://open.spotify.com/album/5qMSRgNOMcRjcXqBOi1E5U) | 1:28 | 2024-03-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9952195,
+  "num_followers": 9958240,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBTrvQAAAADY/gOL0lKkBsdnqZYKFKKt",
+  "snapshot_id": "aCTvhwAAAABoMDYZ8VzMfOtlmnpouwvX",
   "tracks": [
     {
       "added_at": "2025-02-28 15:27:21",
@@ -81,42 +81,6 @@
       "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
     },
     {
-      "added_at": "2024-10-04 13:19:49",
-      "album": {
-        "name": "FUNK DO BOUNCE (Slowed)",
-        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 107539,
-      "name": "FUNK DO BOUNCE (Slowed)",
-      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
-    },
-    {
-      "added_at": "2024-11-15 15:00:00",
-      "album": {
-        "name": "BAD PARENTING FUNK",
-        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
-      },
-      "artists": [
-        {
-          "name": "DJ CEREJASS",
-          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
-        },
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        }
-      ],
-      "duration_ms": 87834,
-      "name": "BAD PARENTING FUNK",
-      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
-    },
-    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "SPOOKY",
@@ -135,42 +99,6 @@
       "duration_ms": 96923,
       "name": "SPOOKY",
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2024-03-29 15:57:27",
-      "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
-    },
-    {
-      "added_at": "2025-02-28 15:27:21",
-      "album": {
-        "name": "MTG - RITMO ZELDA",
-        "url": "https://open.spotify.com/album/62R2H85ZiKLp0lYHPprQWV"
-      },
-      "artists": [
-        {
-          "name": "JXM",
-          "url": "https://open.spotify.com/artist/2nGwC9QG6Hpw4fSDgNpn5n"
-        },
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
-        }
-      ],
-      "duration_ms": 107093,
-      "name": "MTG - RITMO ZELDA - Super Slowed",
-      "url": "https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI"
     },
     {
       "added_at": "2025-05-02 15:58:53",
@@ -197,6 +125,62 @@
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
     },
     {
+      "added_at": "2024-03-29 15:57:27",
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
+    },
+    {
+      "added_at": "2024-11-15 15:00:00",
+      "album": {
+        "name": "BAD PARENTING FUNK",
+        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
+      },
+      "artists": [
+        {
+          "name": "DJ CEREJASS",
+          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "duration_ms": 87834,
+      "name": "BAD PARENTING FUNK",
+      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
+    },
+    {
+      "added_at": "2025-02-28 15:27:21",
+      "album": {
+        "name": "MTG - RITMO ZELDA",
+        "url": "https://open.spotify.com/album/62R2H85ZiKLp0lYHPprQWV"
+      },
+      "artists": [
+        {
+          "name": "JXM",
+          "url": "https://open.spotify.com/artist/2nGwC9QG6Hpw4fSDgNpn5n"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
+        }
+      ],
+      "duration_ms": 107093,
+      "name": "MTG - RITMO ZELDA - Super Slowed",
+      "url": "https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI"
+    },
+    {
       "added_at": "2025-03-21 14:02:34",
       "album": {
         "name": "MONTAGEM LADRAO",
@@ -221,24 +205,20 @@
       "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
     },
     {
-      "added_at": "2024-07-12 15:05:31",
+      "added_at": "2024-10-04 13:19:49",
       "album": {
-        "name": "Ela Joga na Hora",
-        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
       },
       "artists": [
         {
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
         }
       ],
-      "duration_ms": 132922,
-      "name": "Ela Joga na Hora",
-      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
       "added_at": "2024-04-26 14:45:00",
@@ -345,6 +325,26 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
+      "added_at": "2024-07-12 15:05:31",
+      "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
+    },
+    {
       "added_at": "2022-05-20 10:12:52",
       "album": {
         "name": "METAMORPHOSIS",
@@ -449,6 +449,46 @@
       "url": "https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1"
     },
     {
+      "added_at": "2025-04-25 14:06:35",
+      "album": {
+        "name": "MONTAGEM BAIL\u00c3O",
+        "url": "https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ"
+      },
+      "artists": [
+        {
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
+        },
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        },
+        {
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+        }
+      ],
+      "duration_ms": 103727,
+      "name": "MONTAGEM BAIL\u00c3O",
+      "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
+    },
+    {
+      "added_at": "2025-03-21 14:02:34",
+      "album": {
+        "name": "SPACE!",
+        "url": "https://open.spotify.com/album/6tf2ziKDZQJinItJi99wBW"
+      },
+      "artists": [
+        {
+          "name": "NAOMI",
+          "url": "https://open.spotify.com/artist/5AviPhK4XqgGjtTa0m9aQc"
+        }
+      ],
+      "duration_ms": 109848,
+      "name": "SPACE! - Super Slowed",
+      "url": "https://open.spotify.com/track/38dHd7r4mSSVhRvVulD1na"
+    },
+    {
       "added_at": "2024-10-25 14:00:00",
       "album": {
         "name": "hypnotic",
@@ -505,20 +545,24 @@
       "url": "https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO"
     },
     {
-      "added_at": "2025-03-21 14:02:34",
+      "added_at": "2025-05-14 19:31:19",
       "album": {
-        "name": "SPACE!",
-        "url": "https://open.spotify.com/album/6tf2ziKDZQJinItJi99wBW"
+        "name": "LUNA BALA",
+        "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
       },
       "artists": [
         {
-          "name": "NAOMI",
-          "url": "https://open.spotify.com/artist/5AviPhK4XqgGjtTa0m9aQc"
+          "name": "Yb Wasg'ood",
+          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
         }
       ],
-      "duration_ms": 109848,
-      "name": "SPACE! - Super Slowed",
-      "url": "https://open.spotify.com/track/38dHd7r4mSSVhRvVulD1na"
+      "duration_ms": 124109,
+      "name": "LUNA BALA - Slowed",
+      "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
     },
     {
       "added_at": "2023-12-01 14:11:37",
@@ -631,30 +675,6 @@
       "duration_ms": 95111,
       "name": "AUTOMOTIVO MANGOS",
       "url": "https://open.spotify.com/track/3c0WrRkh70gTxFA8giZYKE"
-    },
-    {
-      "added_at": "2025-04-25 14:06:35",
-      "album": {
-        "name": "MONTAGEM BAIL\u00c3O",
-        "url": "https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ"
-      },
-      "artists": [
-        {
-          "name": "Repsaj",
-          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
-        },
-        {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
-        },
-        {
-          "name": "Mc Jhey",
-          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
-        }
-      ],
-      "duration_ms": 103727,
-      "name": "MONTAGEM BAIL\u00c3O",
-      "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
     },
     {
       "added_at": "2023-09-08 15:16:54",
@@ -1777,26 +1797,6 @@
       "url": "https://open.spotify.com/track/3cjg55upztjI5bIsBQqSN1"
     },
     {
-      "added_at": "2025-04-11 16:25:48",
-      "album": {
-        "name": "DIGITAL KILL SHIT",
-        "url": "https://open.spotify.com/album/7KxZEK8lms9dbimiIlCcQP"
-      },
-      "artists": [
-        {
-          "name": "DEATHPIXIE",
-          "url": "https://open.spotify.com/artist/5uzPIJDzWAujemRDKiJMRj"
-        },
-        {
-          "name": "RezaDead",
-          "url": "https://open.spotify.com/artist/0x9bzpifUdZFBQw7R1UWPT"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "DIGITAL KILL SHIT",
-      "url": "https://open.spotify.com/track/0yJvpQi8Aw6BWFhT5C7bt7"
-    },
-    {
       "added_at": "2023-07-07 17:01:13",
       "album": {
         "name": "Mexican Phonk Eki",
@@ -1945,20 +1945,24 @@
       "url": "https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ"
     },
     {
-      "added_at": "2023-08-11 14:10:06",
+      "added_at": "2025-04-11 16:25:48",
       "album": {
-        "name": "The Automotivo Infernal 1.0",
-        "url": "https://open.spotify.com/album/5qC8iY9FTnvTZFFKc5SFTi"
+        "name": "DIGITAL KILL SHIT",
+        "url": "https://open.spotify.com/album/7KxZEK8lms9dbimiIlCcQP"
       },
       "artists": [
         {
-          "name": "MRL",
-          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+          "name": "DEATHPIXIE",
+          "url": "https://open.spotify.com/artist/5uzPIJDzWAujemRDKiJMRj"
+        },
+        {
+          "name": "RezaDead",
+          "url": "https://open.spotify.com/artist/0x9bzpifUdZFBQw7R1UWPT"
         }
       ],
-      "duration_ms": 114593,
-      "name": "The Automotivo Infernal 1.0 - Purple",
-      "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
+      "duration_ms": 170181,
+      "name": "DIGITAL KILL SHIT",
+      "url": "https://open.spotify.com/track/0yJvpQi8Aw6BWFhT5C7bt7"
     }
   ],
   "unique_name": "phonk",

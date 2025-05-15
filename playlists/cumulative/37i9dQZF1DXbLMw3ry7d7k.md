@@ -2,7 +2,7 @@
 
 ### [Latin Hit Mix](https://open.spotify.com/playlist/37i9dQZF1DXbLMw3ry7d7k)
 
-> The latest and greatest! Revive los éxitos más recientes aquí\. 📸: KAROL G
+> The latest and greatest! Revive los éxitos más recientes aquí.
 
 546 songs - 1 day 5 hr 56 min
 

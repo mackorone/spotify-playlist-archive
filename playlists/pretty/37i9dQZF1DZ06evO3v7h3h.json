@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABzK/skWwkzYqBIYs6O4TPX",
+  "snapshot_id": "aCKLgAAAAACJ7oODt3JgNALycrqnx4Cv",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
       },
       "artists": [
         {
@@ -444,17 +444,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Marissol Mwaba",
-          "url": "https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A"
+          "name": "Ellen Ol\u00e9ria",
+          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
         }
       ],
-      "duration_ms": 243424,
-      "name": "Jogo S\u00e9rio",
-      "url": "https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE"
+      "duration_ms": 255914,
+      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
+      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
     },
     {
       "added_at": null,
@@ -483,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
       "artists": [
         {
@@ -492,13 +488,17 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Ellen Ol\u00e9ria",
-          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Marissol Mwaba",
+          "url": "https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A"
         }
       ],
-      "duration_ms": 255914,
-      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
-      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
+      "duration_ms": 243424,
+      "name": "Jogo S\u00e9rio",
+      "url": "https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE"
     },
     {
       "added_at": null,
@@ -523,6 +523,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 277472,
+      "name": "Se o Mundo Acabar",
+      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "duration_ms": 280864,
+      "name": "Castelos de Papel",
+      "url": "https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meu Sol",
         "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
       },
@@ -543,42 +579,6 @@
       "duration_ms": 206643,
       "name": "Meu Sol",
       "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/4GrdXr0BcktZbtGHFeAey1"
-        }
-      ],
-      "duration_ms": 252279,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/4bX1GDvKQ237I6cEGLsV08"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 277472,
-      "name": "Se o Mundo Acabar",
-      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
     },
     {
       "added_at": null,
@@ -640,13 +640,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/4GrdXr0BcktZbtGHFeAey1"
         }
       ],
-      "duration_ms": 280864,
-      "name": "Castelos de Papel",
-      "url": "https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK"
+      "duration_ms": 252279,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/4bX1GDvKQ237I6cEGLsV08"
     },
     {
       "added_at": null,
@@ -987,22 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasicas pra Sair na M\u00e3o, Vol. 1",
         "url": "https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
@@ -1055,6 +1055,26 @@
       "duration_ms": 187669,
       "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
       "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Coragem da Luz",
+        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 197633,
+      "name": "Homem do Mundo (feat. Criolo)",
+      "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
     },
     {
       "added_at": null,
@@ -1107,26 +1127,6 @@
       "duration_ms": 243070,
       "name": "Ainda Tem",
       "url": "https://open.spotify.com/track/6yZLNopsiNqLwu8NNoCDEl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 197633,
-      "name": "Homem do Mundo (feat. Criolo)",
-      "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
     },
     {
       "added_at": null,

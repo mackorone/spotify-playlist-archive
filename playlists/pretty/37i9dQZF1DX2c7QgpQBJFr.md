@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: Bresh
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,061 likes - 120 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,066 likes - 120 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

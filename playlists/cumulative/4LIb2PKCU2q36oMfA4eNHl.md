@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-293 songs - 18 hr 51 min
+294 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bloom](https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Bloom](https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD) | 3:37 | 2024-11-08 | 2025-01-18 |
 | [Blush](https://open.spotify.com/track/21Xax3xNWXhRMtgiQa1PKM) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 3:28 | 2023-12-08 | 2024-03-29 |
 | [Bones](https://open.spotify.com/track/0JDNJGIr9ViBuMjBZVgofJ) | [Northling](https://open.spotify.com/artist/24VRz9L4UbsZnTFssFclHD) | [Hallowed Ground EP](https://open.spotify.com/album/1TTWT1c4LpEszi4Df2clbi) | 4:05 | 2023-12-08 | 2024-03-02 |
+| [Brighter Days](https://open.spotify.com/track/2xLrA5F9V2KqTzr0X0ZgeW) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Brighter Days](https://open.spotify.com/album/3Bls23TVqJgAtC5abgUlBR) | 3:53 | 2025-05-14 |  |
 | [Brightest Lights \(feat\. POLIÇA\)](https://open.spotify.com/track/49jWS1fz7QZQa4mBIqB0mu) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 6:52 | 2023-12-08 | 2024-02-24 |
 | [Butter Notes](https://open.spotify.com/track/3qZUzzUxVuU96DtYPOjBb8) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Butter Notes](https://open.spotify.com/album/2AuBsO2tbYIpWzotLslVQy) | 5:21 | 2024-01-19 | 2024-05-18 |
 | [Butterfly In A Jar \(I\)](https://open.spotify.com/track/4FUGVoMPnt4ZKEIdvWtDVT) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Everything Changes, Nothing Ends](https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO) | 4:17 | 2024-11-29 | 2025-01-14 |

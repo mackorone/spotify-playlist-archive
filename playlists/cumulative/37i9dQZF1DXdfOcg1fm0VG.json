@@ -604,7 +604,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 311627,
       "name": "Burning Skies",
       "url": "https://open.spotify.com/track/39J6EI5ysv2FmIsJHPijh2"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 124249,
       "name": "Defying the Odds",
       "url": "https://open.spotify.com/track/65u8xkeB9XJ40Zspr1vOJZ"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 169666,
       "name": "Divine Overture (Main Theme)",
       "url": "https://open.spotify.com/track/6eXw5tf0oLrJRowzaOetc0"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 128561,
       "name": "Emmett's Theme",
       "url": "https://open.spotify.com/track/21e8VPZa4lRxAt2Ra772f9"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 117625,
       "name": "Enthroned on Mount Olympus",
       "url": "https://open.spotify.com/track/7hVKcAyshAzCL16kJAdji1"
@@ -1342,10 +1342,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 106933,
       "name": "Get To Potions",
       "url": "https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn"
+    },
+    {
+      "album": {
+        "name": "Ghost of Y\u014dtei (Main Theme from \"Ghost of Y\u014dtei\")",
+        "url": "https://open.spotify.com/album/1x0k8YXZRsPbzzESKvWbI6"
+      },
+      "artists": [
+        {
+          "name": "Toma Otowa",
+          "url": "https://open.spotify.com/artist/7DuYMNZzTxGWNntX4SRhEi"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199617,
+      "name": "Ghost of Y\u014dtei",
+      "url": "https://open.spotify.com/track/4iSdVqIjzMnoTYT1tPPiNO"
     },
     {
       "album": {
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 202360,
       "name": "Korobeiniki",
       "url": "https://open.spotify.com/track/0Ifw1dsZ0fwI9HjQK58lWb"
@@ -2052,6 +2070,42 @@
       "duration_ms": 259081,
       "name": "Light of Nibel (feat. Aeralie Brighton)",
       "url": "https://open.spotify.com/track/79aotvPXTlHbZ8MvoxhqAE"
+    },
+    {
+      "album": {
+        "name": "Sid Meier's Civilization VII (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/17m1NgqYE9s4b2MYAdu0hA"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tin",
+          "url": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290626,
+      "name": "Live Gloriously - (Main Theme)",
+      "url": "https://open.spotify.com/track/1UKBBP1dKjZHYMKVREIrC5"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/1bk8xnCCB0qZ4LRzUaHJPi"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271520,
+      "name": "Main Theme - Stars At Our Backs",
+      "url": "https://open.spotify.com/track/3VomNp1WeieuPtn5GgvozR"
     },
     {
       "album": {
@@ -2617,6 +2671,28 @@
     },
     {
       "album": {
+        "name": "Kingdom Come: Deliverance II (Original Soundtrack Essentials)",
+        "url": "https://open.spotify.com/album/5vKkv2K1xaCByhz04JaiQn"
+      },
+      "artists": [
+        {
+          "name": "Jan Valta",
+          "url": "https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9"
+        },
+        {
+          "name": "Adam Sporka",
+          "url": "https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Saint Barbara Theme",
+      "url": "https://open.spotify.com/track/12MgTWB1HdVOibWBXj7NW8"
+    },
+    {
+      "album": {
         "name": "Resident Evil 2 Original Soundtrack",
         "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
       },
@@ -2650,7 +2726,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 147142,
       "name": "Secunda (Transcr. Trifonov for Piano) - From \"The Elder Scrolls: Skyrim\"",
       "url": "https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz"
@@ -2675,6 +2751,28 @@
     },
     {
       "album": {
+        "name": "Themes of Shadows (From Assassin's Creed Shadows Soundtrack)",
+        "url": "https://open.spotify.com/album/36RuMmMYKZb2CK1APHnzL0"
+      },
+      "artists": [
+        {
+          "name": "The Flight",
+          "url": "https://open.spotify.com/artist/633wBWQrbgm4Tugw7MmsgA"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193370,
+      "name": "Shadows Main Theme",
+      "url": "https://open.spotify.com/track/02NkRJE44Bsu22uGEmh72Q"
+    },
+    {
+      "album": {
         "name": "Halo Season 1 Original Soundtrack",
         "url": "https://open.spotify.com/album/00PgOyChjOHvMIq2lLMnWI"
       },
@@ -2694,7 +2792,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 285853,
       "name": "Shared Vision",
       "url": "https://open.spotify.com/track/66RFxA8iDSZmRqtMSsHmQq"
@@ -2806,7 +2904,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 354664,
       "name": "Steel Seed (Original Game Soundtrack)",
       "url": "https://open.spotify.com/track/6lQf5ej9mRCKhFXKGnyrOS"
@@ -2970,7 +3068,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 76892,
       "name": "The Fallen Brother",
       "url": "https://open.spotify.com/track/1Y0LhaqOcaUFxF3VBGD9Qy"
@@ -3734,7 +3832,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 105000,
       "name": "Welcome to Azoria",
       "url": "https://open.spotify.com/track/7w44XC3UWngSGoZd3qfCLQ"
@@ -3840,7 +3938,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 107986,
       "name": "You Are The Resistance",
       "url": "https://open.spotify.com/track/4lm5D5pwWQt7kmPPoqIFAa"

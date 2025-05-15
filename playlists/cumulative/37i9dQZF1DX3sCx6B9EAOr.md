@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-804 songs - 1 day 19 hr 42 min
+805 songs - 1 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Drive Me To The Moon](https://open.spotify.com/track/3Cvk6D9zA67WnPtKCa4ZZ0) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:26 | 2023-04-07 | 2023-05-03 |
 | [DRIVIN \(feat\. OF’F\)](https://open.spotify.com/track/6urYKhMuMNFT3TPWLT8DNq) | [YOONSEOK](https://open.spotify.com/artist/0P5G96iQQvqCzjwxDsB0gN), [OF'F](https://open.spotify.com/artist/27fHByJiC6XivKddq30jWG) | [DRIVIN \(feat\. OF’F\)](https://open.spotify.com/album/6h1grbpU7xvveTGzqAY9bU) | 3:03 | 2022-03-24 | 2022-04-18 |
 | [Driving](https://open.spotify.com/track/0PBEFEbPKlrMBrLVnLdaCx) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [The W](https://open.spotify.com/album/6XqSbtKtmWkEAYbXfzFkV6) | 3:47 | 2023-04-07 | 2023-05-03 |
+| [DROP TOP](https://open.spotify.com/track/7K8hbSlXRNCEqt8o3MLOd9) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/2EXqumr0ulSCCt63qG1ar7) | 3:15 | 2025-05-14 |  |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-12-07 |  |
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-12-07 | 2022-10-28 |
 | [Dun Dun Dance](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:40 | 2021-12-07 | 2023-05-17 |
@@ -318,7 +319,7 @@
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-07-08 | 2023-11-04 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2022-01-03 | 2022-07-19 |
 | [HEAVEN](https://open.spotify.com/track/1wBCZKRXLl3Ody9PwbeE7j) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:31 | 2022-01-03 | 2022-07-07 |
-| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-07 |  |
+| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-07 | 2025-05-15 |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-12-07 |  |
 | [Hello, my self \(With Paper Brick\)](https://open.spotify.com/track/4Bloh4nVxZ0zsg4Kueyt5C) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Hello, my self \(With Paper Brick\)](https://open.spotify.com/album/3K1qBb1groBVCZWRELK5S0) | 4:34 | 2022-03-24 | 2022-03-30 |
 | [HER](https://open.spotify.com/track/2MbPhDgeXVipowltFneRH2) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h) | 2:39 | 2025-02-07 | 2025-05-05 |

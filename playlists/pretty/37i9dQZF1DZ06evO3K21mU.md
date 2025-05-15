@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,633 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,739 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 49 | [Snow On Tha Bluff](https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Snow On Tha Bluff](https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd) | 3:55 |
 | 50 | [Ville Mentality](https://open.spotify.com/track/2z3joGXrdGL2iEjIKQTiN1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:14 |
 
-Snapshot ID: `aCE6AAAAAADXTiYZBR9NDg0ef2atj2+k`
+Snapshot ID: `aCKLgAAAAABx8H5xkLI3bBMicxmUl4gb`

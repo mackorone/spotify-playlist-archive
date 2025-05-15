@@ -2,7 +2,7 @@
 
 ### [Descendants Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX73LI7XFaKDi)
 
-> There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red,  streaming on Disney+.
+> There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red, streaming on Disney+.
 
 78 songs - 3 hr 46 min
 

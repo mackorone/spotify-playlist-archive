@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:2QgCj5pd8aIys9jvr3A1GZ">Myaap</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,194 likes - 70 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,235 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 19 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 20 | [3AM](https://open.spotify.com/track/3gVaJZPl0fLaPeky7mwMlS) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [3AM](https://open.spotify.com/album/4kh79ZG95W2tzswDQjh9VR) | 2:25 |
 | 21 | [TRICK DADDY](https://open.spotify.com/track/3K8xZoLRRqwfZQyudI6vH3) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 1:53 |
-| 22 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
+| 22 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
 | 23 | [Sum'n Serious](https://open.spotify.com/track/1PHUD5Rt2q5ImvEBT4binc) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:17 |
 | 24 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 25 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 |

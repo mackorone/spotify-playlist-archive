@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88 likes - 111 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 89 likes - 111 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 17 | [Painting Mirrors](https://open.spotify.com/track/7avhyUb2pFAxYNZ9PLlluV) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Painting Mirrors](https://open.spotify.com/album/4Pys2ICRhTgauE2E04qbdF) | 3:40 |
 | 18 | [Familiar Strangers \(feat\. Rothwell\)](https://open.spotify.com/track/1oxYhEMbizWCKeYJwHzupl) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Rothwell](https://open.spotify.com/artist/5uPbfbVvS1knjpH37U1Mgr) | [Familiar Strangers \(feat\. Rothwell\)](https://open.spotify.com/album/1M4dLP4T6R2i4NHc0zBRNw) | 2:55 |
 | 19 | [We’ll Be United](https://open.spotify.com/track/6gfWIbbvg58sGwn9xs0HW6) | [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [We’ll Be United](https://open.spotify.com/album/7FStOXLKUI6RKt61k4SEgF) | 2:58 |
-| 20 | [Fade Away](https://open.spotify.com/track/7thOGpKaWpPotq2U37UItx) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Fade Away](https://open.spotify.com/album/0XyAR5FCmnhX4LgLHjLnTP) | 3:45 |
-| 21 | [Start Again](https://open.spotify.com/track/7HlkPqRO6iYyWsUYX4l4gq) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Tomorrow Never Came](https://open.spotify.com/album/0sDmEPP86YEUsNu3f2y7D7) | 3:35 |
+| 20 | [Start Again](https://open.spotify.com/track/7HlkPqRO6iYyWsUYX4l4gq) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Tomorrow Never Came](https://open.spotify.com/album/0sDmEPP86YEUsNu3f2y7D7) | 3:35 |
+| 21 | [Fade Away](https://open.spotify.com/track/7thOGpKaWpPotq2U37UItx) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Fade Away](https://open.spotify.com/album/0XyAR5FCmnhX4LgLHjLnTP) | 3:45 |
 | 22 | [Backing Down](https://open.spotify.com/track/69Rnbe26tmlQSQUgRFvneJ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:48 |
 | 23 | [Get Up](https://open.spotify.com/track/0hfEbuqdlZFAABHTsWTpKz) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Get Up](https://open.spotify.com/album/2BjmJnuWuSxXQQUbQuwDl9) | 3:26 |
 | 24 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
 | 25 | [Losing Me](https://open.spotify.com/track/0JvrNx0h9vHzwQpip0vx2m) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 4:19 |
 | 26 | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/track/60n8BhJ1FWhKbhYOF0LzQr) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/album/5uURWNCgEuR1kob61OI0VJ) | 2:49 |
-| 27 | [I Can't Lose You](https://open.spotify.com/track/5CZeEkIFyOQcb19yfFmpJP) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Tomorrow Never Came](https://open.spotify.com/album/0sDmEPP86YEUsNu3f2y7D7) | 2:42 |
-| 28 | [Following My Heart](https://open.spotify.com/track/2yWZcMqbjL1qAaDbH37tC5) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 4:19 |
+| 27 | [Following My Heart](https://open.spotify.com/track/2yWZcMqbjL1qAaDbH37tC5) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 4:19 |
+| 28 | [I Can't Lose You](https://open.spotify.com/track/5CZeEkIFyOQcb19yfFmpJP) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Tomorrow Never Came](https://open.spotify.com/album/0sDmEPP86YEUsNu3f2y7D7) | 2:42 |
 | 29 | [Harmless Heart](https://open.spotify.com/track/07xH1WaaxQzAZkO1GNYk8u) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Harmless Heart](https://open.spotify.com/album/5tHq9K9LPFVltgNnQuL554) | 3:03 |
 | 30 | [Keep Me Young](https://open.spotify.com/track/1SO0bZ6XxtXlnRMx5UIFp2) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Keep Me Young](https://open.spotify.com/album/6uXuhIaOMfOb3eX0eMViFW) | 2:55 |
 | 31 | [Love's Dying](https://open.spotify.com/track/6w5rPrAbxyszX8avoRc8p9) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:17 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 46 | [Be Somebody](https://open.spotify.com/track/4nIxZavnMBkkxhwG51rxKL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Be Somebody](https://open.spotify.com/album/33oa00iV73jFXgmKh53U9y) | 2:56 |
 | 47 | [Saint of the Sinners](https://open.spotify.com/track/15ZpJOwfqGx6jbL4ruBeKp) | [Janet Devlin](https://open.spotify.com/artist/2GDNbg4B7fHn1PqHlEdtd1) | [Confessional](https://open.spotify.com/album/4woFkP5VY3AY27DgZHBlgt) | 3:53 |
 | 48 | [Cold Nights](https://open.spotify.com/track/4Md728gr9wczW4VME5Qv9M) | [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ) | [Cold Nights](https://open.spotify.com/album/12ldZGZ5rPIvKFM9Z1fkSg) | 3:02 |
-| 49 | [Rattle](https://open.spotify.com/track/70z59SfpWsULOMx1NSFYGr) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Wild Silence](https://open.spotify.com/album/3jtfDa5cH24PMymBQkCPgv) | 3:29 |
-| 50 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
+| 49 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
+| 50 | [Rattle](https://open.spotify.com/track/70z59SfpWsULOMx1NSFYGr) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Wild Silence](https://open.spotify.com/album/3jtfDa5cH24PMymBQkCPgv) | 3:29 |
 | 51 | [Need You Now \- From "A Million Little Things: Season 2"](https://open.spotify.com/track/2L7NVGbpaotvB6fR3JcslU) | [Anna Akana](https://open.spotify.com/artist/0YSxCnmIwDDphTykhROUWe) | [Need You Now \(From "A Million Little Things: Season 2"\)](https://open.spotify.com/album/5y8zj5nXNRADYpEQyWMbbV) | 3:29 |
 | 52 | [Change \- Romeo's TML Radio Edit](https://open.spotify.com/track/1kcreatzCeNJ27Tua6RssA) | [Amersy](https://open.spotify.com/artist/57TR9rGvnqx5QDkRtWu6GV), [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [Change](https://open.spotify.com/album/4wtEyZvBdnOo3Gc1nnV2pD) | 3:03 |
 | 53 | [Crossfire \(feat\. SMBDY\)](https://open.spotify.com/track/5cD20nkndQ7iRkoidzZCpc) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Crossfire \(feat\. SMBDY\)](https://open.spotify.com/album/3eaRXUyq7GADlgdkST47de) | 3:36 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 110 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 111 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbxVagAAAAAqRyhJfCuJgRLcbTIinVaK`
+Snapshot ID: `AbxbKAAAAACJFWlXZnMoQKGmooCxmoE7`

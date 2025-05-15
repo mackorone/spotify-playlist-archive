@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-826 songs - 2 day 7 hr 4 min
+827 songs - 2 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Jim Cain](https://open.spotify.com/track/3KZRkM7Uv0F2oCTUHAvv0a) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 4:39 | 2023-11-30 | 2024-01-22 |
 | [Julia](https://open.spotify.com/track/3fZZ9IkCPgBQMBJ9e2Vmqq) | [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm) | [Alive People](https://open.spotify.com/album/4JSCLGszwj3HdJvrZzgwWC) | 0:06 | 2023-10-30 |  |
 | [Julien](https://open.spotify.com/track/5ovKXoPXsaCydETxiqbt80) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:54 | 2023-07-24 | 2023-07-29 |
+| [Jumpscare](https://open.spotify.com/track/0zOmLh7zxmMIgJKU6Cfdlx) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Steel Tipped Dove](https://open.spotify.com/artist/6b74rHzWIZlgLH7U5ybjUE) | [GOLLIWOG](https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo) | 3:16 | 2025-05-14 |  |
 | [Just a Room](https://open.spotify.com/track/6yZs8pZm14d3r0ZkrZDOOy) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 3:29 | 2022-06-28 |  |
 | [Just Another Day](https://open.spotify.com/track/6w6I3AFRv7tQMmUTgAghUB) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 5:12 | 2023-11-06 | 2024-05-20 |
 | [K.G.L.W.](https://open.spotify.com/track/7sd7teUrIBBxNMGG9BDXic) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 1:36 | 2024-01-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Damaris Bojor en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,190 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,169 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 64 | [Lento](https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Lento](https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI) | 2:54 |
 | 65 | [Medias tintas](https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Después del Norte](https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG) | 2:45 |
 | 66 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
-| 67 | [Compañera](https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [Compañera](https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR) | 3:13 |
-| 68 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
+| 67 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
+| 68 | [Compañera](https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [Compañera](https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR) | 3:13 |
 | 69 | [Soledad y el Mar \(feat\. Omara Portuondo\) \- En Vivo \[Live at Carnegie Hall\]](https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Natalia Lafourcade Live at Carnegie Hall](https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY) | 4:12 |
 | 70 | [BARRY](https://open.spotify.com/track/1J0K2JjJPIvvlxudrMBiA4) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [BARRY](https://open.spotify.com/album/16EQNci1ENzfg8TvzoWTTf) | 2:13 |
 | 71 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |
-| 72 | [Quería Volverte a Ver](https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Quería Volverte a Ver](https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO) | 4:11 |
-| 73 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 |
+| 72 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 |
+| 73 | [Quería Volverte a Ver](https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Quería Volverte a Ver](https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO) | 4:11 |
 | 74 | [Solo Los Amantes Sobreviven](https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Solo Los Amantes Sobreviven](https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx) | 3:16 |
 | 75 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
 

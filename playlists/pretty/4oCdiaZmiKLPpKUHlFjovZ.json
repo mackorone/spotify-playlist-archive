@@ -1,13 +1,53 @@
 {
   "description": "Turn this playlist all the way up! Money Man, Rio Da Yung Og,  Peezy &amp; Tyga.",
-  "num_followers": 41107,
+  "num_followers": 41057,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAbS7BeLEWRCTZPF/045+QaVsIl0l/i",
+  "snapshot_id": "AAAbUE2U4fU++5FKmvJYvfACV/noH6tN",
   "tracks": [
+    {
+      "added_at": "2025-05-14 21:20:00",
+      "album": {
+        "name": "CAN'T GET RIGHT",
+        "url": "https://open.spotify.com/album/0FdhSn9vahw0oyHSqsYDwE"
+      },
+      "artists": [
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        },
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "CAN'T GET RIGHT",
+      "url": "https://open.spotify.com/track/7prcfanTLk3DCeER51hqd3"
+    },
+    {
+      "added_at": "2025-05-14 21:20:08",
+      "album": {
+        "name": "THUGGIN NOT CLUBBIN",
+        "url": "https://open.spotify.com/album/6XKQ5hbDwFImvujXhPwpKZ"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "duration_ms": 149487,
+      "name": "THUGGIN NOT CLUBBIN",
+      "url": "https://open.spotify.com/track/5XKykbx4PClLewzOvlb2JX"
+    },
     {
       "added_at": "2025-04-29 23:33:32",
       "album": {
@@ -27,26 +67,6 @@
       "duration_ms": 197403,
       "name": "Amen",
       "url": "https://open.spotify.com/track/3Q5b9lTrxvv6f8jLX4M6VJ"
-    },
-    {
-      "added_at": "2025-03-21 23:44:19",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/4VDFKsron5xLCkREXXmFjD"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
-        {
-          "name": "Rio Da Yung Og",
-          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/2P98r1n9zWywNmA8TrDzKc"
     },
     {
       "added_at": "2025-04-08 23:58:46",
@@ -83,6 +103,26 @@
       "duration_ms": 102857,
       "name": "Bout Bidness",
       "url": "https://open.spotify.com/track/1dM4YjCw6SPAVeEcctILW6"
+    },
+    {
+      "added_at": "2025-03-21 23:44:19",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/4VDFKsron5xLCkREXXmFjD"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/2P98r1n9zWywNmA8TrDzKc"
     },
     {
       "added_at": "2025-04-14 20:47:18",

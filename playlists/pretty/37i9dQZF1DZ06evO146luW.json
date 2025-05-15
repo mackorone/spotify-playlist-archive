@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 48528,
+  "num_followers": 48529,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAACAp4shKq1tIZ4FERMQaN8e",
+  "snapshot_id": "aCKLgAAAAAAa/7gIOmXX0NweF89Bbt2I",
   "tracks": [
     {
       "added_at": null,
@@ -170,15 +170,11 @@
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 223062,
-      "name": "Love (feat. Parker McCollum)",
-      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
+      "duration_ms": 240265,
+      "name": "Fuss and Fight",
+      "url": "https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH"
     },
     {
       "added_at": null,
@@ -238,11 +234,15 @@
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 240265,
-      "name": "Fuss and Fight",
-      "url": "https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH"
+      "duration_ms": 223062,
+      "name": "Love (feat. Parker McCollum)",
+      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
     },
     {
       "added_at": null,

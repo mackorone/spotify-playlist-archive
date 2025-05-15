@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397 likes - 145 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 145 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 101 | [happy people](https://open.spotify.com/track/2d1yL0MZkW1RjB09NHSYXG) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:12 |
 | 102 | [on the way down](https://open.spotify.com/track/4nfO3klnA3yB2LGZXtiqTL) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:32 |
 | 103 | [Bad Together](https://open.spotify.com/track/7AsWQONBnPkLi8GP2xJf5b) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Bad Together](https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb) | 3:45 |
-| 104 | [Crazy Ass B\*tch](https://open.spotify.com/track/1jKlyiUDQcbVgNLU67gufj) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 2:58 |
-| 105 | [Close](https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Close](https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd) | 3:14 |
+| 104 | [Close](https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Close](https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd) | 3:14 |
+| 105 | [Crazy Ass B\*tch](https://open.spotify.com/track/1jKlyiUDQcbVgNLU67gufj) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 2:58 |
 | 106 | [Popstar](https://open.spotify.com/track/2Vrmc4lE7P2XDqmGazxS8Y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:55 |
 | 107 | [the real thing](https://open.spotify.com/track/6NffcAdY4PeejOgeATMXHW) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 4:00 |
 | 108 | [abstract art](https://open.spotify.com/track/1flQVimCtHgp6zblwZAcfm) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:16 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 128 | [Crave](https://open.spotify.com/track/4dJIz3S6S2wQY5Sb1ZsL2A) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Bruises](https://open.spotify.com/album/0236kvYbYWUIXDWwxCh8ff) | 3:39 |
 | 129 | [love is not a simple thing to lose](https://open.spotify.com/track/0bmzFl5Cunl28EgqwODXEN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 4:51 |
 | 130 | [don't be so hard on yourself](https://open.spotify.com/track/5iMXZ1uxrnCg1mqL1tzkeL) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:06 |
-| 131 | [you got yours](https://open.spotify.com/track/5hYERZWgPCe3rLt8xDhi3V) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:28 |
-| 132 | [Better Place](https://open.spotify.com/track/3e1NZPkmRK1w4DujhS5j7G) | [Jonah Marais](https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8) | [Better Place](https://open.spotify.com/album/0feuFfcFRJpFFqx3lclxoi) | 3:11 |
+| 131 | [Better Place](https://open.spotify.com/track/3e1NZPkmRK1w4DujhS5j7G) | [Jonah Marais](https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8) | [Better Place](https://open.spotify.com/album/0feuFfcFRJpFFqx3lclxoi) | 3:11 |
+| 132 | [you got yours](https://open.spotify.com/track/5hYERZWgPCe3rLt8xDhi3V) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:28 |
 | 133 | [all of a sudden](https://open.spotify.com/track/1kVyaiHsM6rhDKWUTR9FWm) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:06 |
 | 134 | [too close \- piano version](https://open.spotify.com/track/33OkJmAdy8uBgUiCyu07hZ) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 3:24 |
 | 135 | [just like you](https://open.spotify.com/track/0OmW4X1sTNYPwx6l1ufERh) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:54 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 144 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 145 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `AbxVagAAAADCgBUHxlKiFSAIzXbe/1XK`
+Snapshot ID: `AbxbHgAAAADgFFQ4MlwcN6Exnwi3HOCx`

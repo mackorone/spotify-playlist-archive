@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,771,655 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,772,030 likes - 76 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 28 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 29 | [All Of A Sudden](https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:49 |
 | 30 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 |
-| 31 | [WYD \(with GloRilla & Big Boogie\)](https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:33 |
-| 32 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 |
+| 31 | [Watch Da Throne](https://open.spotify.com/track/4W87HdUCaPD4ZRjkLI228v) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli](https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6) | 2:36 |
+| 32 | [WYD \(with GloRilla & Big Boogie\)](https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:33 |
 | 33 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
 | 34 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
-| 35 | [Light Year \(Practice\)](https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:44 |
-| 36 | [Watch Da Throne](https://open.spotify.com/track/4W87HdUCaPD4ZRjkLI228v) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli](https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6) | 2:36 |
+| 35 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 |
+| 36 | [Light Year \(Practice\)](https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:44 |
 | 37 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
 | 38 | [LIKE ME \(feat\. 42 Dugg & Lil Baby\)](https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:12 |
 | 39 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |

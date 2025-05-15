@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 640752,
+  "num_followers": 640813,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAA0zHn9iUjj/bwfm8NSpqSx",
+  "snapshot_id": "aCKLgAAAAAC8Aq0u9WKhEOE6g0fiq4ND",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+        "name": "Tracks",
+        "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 388800,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+      "duration_ms": 227733,
+      "name": "Sad Eyes - Studio Outtake - 1990",
+      "url": "https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tracks",
-        "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Sad Eyes - Studio Outtake - 1990",
-      "url": "https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph"
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
     {
       "added_at": null,

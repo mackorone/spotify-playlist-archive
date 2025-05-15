@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Mica Sotera.
 
-598 songs - 1 day 9 hr 57 min
+599 songs - 1 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 | 2022-06-03 | 2024-06-29 |
 | [Déjame](https://open.spotify.com/track/5M6tbiFcXlmUsExGACcB2W) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Déjame](https://open.spotify.com/album/0bMqqQFF8RH3HF44FLcsde) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 | 2022-01-14 | 2023-06-10 |
+| [Días](https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm) | [Ino Guridi](https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7) | [Pasará](https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC) | 3:34 | 2024-09-12 |  |
 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 | 2022-12-09 | 2024-09-13 |
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2022-10-28 |  |
 | [El Aire Que Respires](https://open.spotify.com/track/2AwBz5FvRImGnV4T7qQKrR) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai), [Axel Mugneco](https://open.spotify.com/artist/6pr2XhUBfnXEa7bDc0nswN), [Michelle Mugneco](https://open.spotify.com/artist/693n5w7Sj2J0ZIjkp4FX9Y) | [El Aire Que Respires](https://open.spotify.com/album/2E8xOX3RrtFVdSDx5fW4yw) | 3:21 | 2022-01-21 | 2022-06-22 |
@@ -410,7 +411,7 @@
 | [PAKI](https://open.spotify.com/track/1LxIPz5aak2AJfJmEA0fxT) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF) | [PAKI](https://open.spotify.com/album/4LxhRDDtVWdzAgsTQcDlm9) | 4:22 | 2022-02-11 | 2022-05-10 |
 | [Panamericana](https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve al punto de partida](https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW) | 3:15 | 2024-05-29 |  |
 | [Para Sonreír](https://open.spotify.com/track/0XP7Th9tsuEi0wuX9UXznm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Para Sonreír](https://open.spotify.com/album/6azaNQiixTpGmS2SeG6O3N) | 3:21 | 2022-01-14 | 2022-07-29 |
-| [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA SEGURA](https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 | 2023-02-03 |  |
+| [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA SEGURA](https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 | 2023-02-03 | 2025-05-15 |
 | [Paracas Cavernas](https://open.spotify.com/track/4kZ06aNcvjtr8QkL4cpyLQ) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Paracas Cavernas](https://open.spotify.com/album/0MDxJgKoqoR1p1O4YvuenO) | 4:27 | 2022-01-21 | 2022-07-29 |
 | [Paraguaya \- Live in Mexico](https://open.spotify.com/track/6h4RXhBleHq18B5ES4uBxd) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL](https://open.spotify.com/album/4Au0C9btBKDQI43lx1GGed) | 3:43 | 2022-01-14 | 2022-07-29 |
 | [PARAISO](https://open.spotify.com/track/2W5fiXSkXIvmbvHsNjqJTD) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [PARAISO](https://open.spotify.com/album/4ICOWYS8pohhyp1T725LIr) | 2:16 | 2024-08-29 | 2024-11-24 |

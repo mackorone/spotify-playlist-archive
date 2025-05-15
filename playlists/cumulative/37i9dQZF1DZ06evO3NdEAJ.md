@@ -4,7 +4,7 @@
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-79 songs - 3 hr 55 min
+80 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Mi Forma de Sentir](https://open.spotify.com/track/77BiOLjgDoztvNssHhIOrF) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Mi Forma de Sentir](https://open.spotify.com/album/7BzCbdO0xf2gkg6Q2CEufK) | 4:09 | 2024-08-08 |  |
 | [Mi Peloncito](https://open.spotify.com/track/4rgMWX25ov8duYmrgMuD7x) | [Academia Mis Raices](https://open.spotify.com/artist/6U5NItWyZsDrvob0HI0ajg), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t), [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mi Peloncito](https://open.spotify.com/album/1tglosdWAKZpRow8HzK4Ne) | 4:00 | 2024-12-21 | 2025-05-07 |
 | [Neta Que No](https://open.spotify.com/track/7o1UbAzMnbow4EUzWl1xuf) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 2:44 | 2024-08-08 |  |
-| [Nicotina](https://open.spotify.com/track/7xLil2vqumNoP8zLc9LECe) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Nicotina](https://open.spotify.com/album/2fVkWJYnMKN2JdUr3ADhmt) | 2:56 | 2025-03-16 |  |
+| [Ni Antes, Ni Después](https://open.spotify.com/track/2shSkaNEqnD0xZoLXpUIUJ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Directo Al Corazón](https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF) | 3:14 | 2025-05-15 |  |
+| [Nicotina](https://open.spotify.com/track/7xLil2vqumNoP8zLc9LECe) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Nicotina](https://open.spotify.com/album/2fVkWJYnMKN2JdUr3ADhmt) | 2:56 | 2025-03-16 | 2025-05-15 |
 | [No Mata Un Adiós](https://open.spotify.com/track/57t2aQMU7ALAuH8GRbCqy7) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 3:12 | 2024-08-08 | 2025-04-25 |
 | [No Me Doy por Vencido](https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 2:40 | 2024-08-08 |  |
 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/1UvgNeeoqaa7f1vCgTnM0P) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas \(Edición Deluxe\)](https://open.spotify.com/album/7CwFeQuVgWTxhn3ufnuNX5) | 3:05 | 2024-08-08 | 2024-12-28 |

@@ -880,7 +880,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/4b2fMv44GAYpsDSK4ihbsI"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6lAvyeD3Nq43AjyCxZQj54"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
@@ -3404,7 +3404,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T"
@@ -5212,7 +5212,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
@@ -5230,7 +5230,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
@@ -6088,6 +6088,24 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
     },
     {
       "album": {
@@ -7848,7 +7866,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 177514,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ"
@@ -10632,7 +10650,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -12062,7 +12080,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2JhbSmNAyM9kYiqwa8Tpla"
@@ -12170,7 +12188,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
@@ -13758,7 +13776,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -13794,7 +13812,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
@@ -22464,6 +22482,24 @@
       "duration_ms": 284973,
       "name": "\u958b\u4e0d\u4e86\u53e3",
       "url": "https://open.spotify.com/track/5DRICg8VWNCtIv7lWebAsI"
+    },
+    {
+      "album": {
+        "name": "\u6211\u8981\u7684\u5e78\u798f",
+        "url": "https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271493,
+      "name": "\u958b\u59cb\u61c2\u4e86",
+      "url": "https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF"
     },
     {
       "album": {

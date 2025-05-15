@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto:Mizzy Miles, Slow J, Gson
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,043 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,073 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 31 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 |
 | 32 | [Europa \(feat\. Deejay Telio, Teto & Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Europa \(feat\. Deejay Telio, Teto & Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 |
 | 33 | [DIAS](https://open.spotify.com/track/56hVdyqQWCMYfKopnVRCwQ) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:49 |
-| 34 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
-| 35 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
+| 34 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
+| 35 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
 | 36 | [Sweet Spot](https://open.spotify.com/track/7yrH4ghvW4hivGBpLU7dDb) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Sweet Spot](https://open.spotify.com/album/2qK6Eff85oD0PcsmFbv4Dj) | 4:48 |
 | 37 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
 | 38 | [Senti Tanto](https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:42 |

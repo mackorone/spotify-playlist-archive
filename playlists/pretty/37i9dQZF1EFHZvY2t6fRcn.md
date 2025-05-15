@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 81 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 |
 | 82 | [Differently](https://open.spotify.com/track/4lZ7ulKpCoSkCu8mAbu2KE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [DONT PANIC!](https://open.spotify.com/album/3dAtB9xY7UrJAMgTOIeuQE) | 3:11 |
 | 83 | [More](https://open.spotify.com/track/1T39YsnUTKbqlyKwu5aycZ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:16 |
-| 84 | [Vesuvius](https://open.spotify.com/track/6gcOwkMKlJ9p99vGvbuzin) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 4:17 |
-| 85 | [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 |
+| 84 | [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 |
+| 85 | [Vesuvius](https://open.spotify.com/track/6gcOwkMKlJ9p99vGvbuzin) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 4:17 |
 | 86 | [Sweet Like](https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 3:39 |
 | 87 | [Fuck Me Up](https://open.spotify.com/track/1VcwifrNRxSIkHtqy13vax) | [Shae Jacobs](https://open.spotify.com/artist/6ImrY70oL7099KK1RSFq1J) | [Fuck Me Up](https://open.spotify.com/album/32NQLuqP0xjHSjjD9Peb4N) | 3:07 |
 | 88 | [One and Lonely](https://open.spotify.com/track/0br1EHWkZNvoi0KFruBUVX) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [One and Lonely](https://open.spotify.com/album/0yZFcNibtzlDg4r4Molxyk) | 3:04 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 135 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 136 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `AbxVYAAAAABVAgiS/n/njYIge5ZAWnLT`
+Snapshot ID: `AbxbHgAAAAAH31K/EhMX0vNAyKSvsDdP`

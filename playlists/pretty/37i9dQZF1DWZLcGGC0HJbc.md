@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,376 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,372 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 17 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 |
 | 18 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 |
 | 19 | [Abilene](https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Abilene](https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw) | 4:16 |
-| 20 | [Carry You](https://open.spotify.com/track/2nN96CD98ppkuMTG9BeaIZ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 3:22 |
-| 21 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
+| 20 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
+| 21 | [Carry You](https://open.spotify.com/track/2nN96CD98ppkuMTG9BeaIZ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 3:22 |
 | 22 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
 | 23 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 |
 | 24 | [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 32 | [Destruction](https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Destruction](https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C) | 2:29 |
 | 33 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
 | 34 | [Hold On](https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Hold On](https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0) | 3:02 |
-| 35 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
-| 36 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 |
+| 35 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 |
+| 36 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
 | 37 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 |
 | 38 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |
 | 39 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 |

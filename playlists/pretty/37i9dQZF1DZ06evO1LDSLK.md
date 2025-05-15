@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,785 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,789 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 31 | [I'll Be Seeing You](https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Clair Obscur](https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK) | 4:05 |
 | 32 | [James Bond](https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:31 |
 | 33 | [Michelle](https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:43 |
-| 34 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
-| 35 | [This Is A Film \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 4:13 |
+| 34 | [This Is A Film \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 4:13 |
+| 35 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
 | 36 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
 | 37 | [I'm Going Away Smiling](https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:38 |
 | 38 | [Gold \- From The Original Motion Picture Soundtrack "Gold"](https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Gold \(From The Original Motion Picture Soundtrack "Gold"\)](https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 49 | [It's Where I'm From](https://open.spotify.com/track/7BIQPNY9hCuMCJgmSRlDFC) | [The Moonlandingz](https://open.spotify.com/artist/4ol0KWOZbG9ALI173bHkVi), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [No Rocket Required](https://open.spotify.com/album/1ZhJzYycLMgxrDUhwMlwR6) | 3:19 |
 | 50 | [The Endless Sea](https://open.spotify.com/track/38lgHi3Mggg8cIvlCSsxQm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [New Values](https://open.spotify.com/album/5MMqSMFphOrGIXmlYN9Whc) | 4:51 |
 
-Snapshot ID: `aCE6AAAAAAA2gKyq7o20AQs8g3lVnKew`
+Snapshot ID: `aCKLgAAAAACalwDgOLar9/AKofanjjih`

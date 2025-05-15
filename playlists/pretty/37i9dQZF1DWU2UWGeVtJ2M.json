@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 165719,
+  "num_followers": 165748,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 211500,
       "name": "Playground Love",
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
-      },
-      "artists": [
-        {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
+        "name": "Viva! La Woman",
+        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
+      },
+      "artists": [
+        {
+          "name": "Cibo Matto",
+          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Sugar Water",
+      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 458666,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
-        "name": "Viva! La Woman",
-        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
-      },
-      "artists": [
-        {
-          "name": "Cibo Matto",
-          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Sugar Water",
-      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "honeymoon - Spotify Singles",
-      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Breath From Another",
         "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 238600,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "honeymoon - Spotify Singles",
+      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Live on Ice",
-        "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
-      },
-      "artists": [
-        {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
-        },
-        {
-          "name": "Glassface",
-          "url": "https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Cheap Vacations (feat. Glassface)",
-      "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Basement Grooves",
         "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
       },
@@ -1151,18 +1131,22 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "X's",
-        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+        "name": "Live on Ice",
+        "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "Glassface",
+          "url": "https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP"
         }
       ],
-      "duration_ms": 183761,
-      "name": "X's",
-      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
+      "duration_ms": 215999,
+      "name": "Cheap Vacations (feat. Glassface)",
+      "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1195,6 +1179,22 @@
       "duration_ms": 167766,
       "name": "Free Form",
       "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "X's",
+        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 183761,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9"
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
       "artists": [
         {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 179523,
-      "name": "Cinema",
-      "url": "https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC"
+      "duration_ms": 157906,
+      "name": "Be On My Way (Full)",
+      "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Be On My Way (Full)",
-      "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
+      "duration_ms": 179523,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Trying Not To Cry (feat. Cavetown)",
         "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 158675,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "bad weather",
+        "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
+      },
+      "artists": [
+        {
+          "name": "Kibishi",
+          "url": "https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G"
+        }
+      ],
+      "duration_ms": 148855,
+      "name": "bad weather",
+      "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1415,22 +1431,6 @@
       "duration_ms": 184000,
       "name": "About You",
       "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
-        "name": "bad weather",
-        "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
-      },
-      "artists": [
-        {
-          "name": "Kibishi",
-          "url": "https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G"
-        }
-      ],
-      "duration_ms": 148855,
-      "name": "bad weather",
-      "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1571,18 +1571,22 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "leave before u do",
-        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
+        "name": "Acchordance",
+        "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
       },
       "artists": [
         {
-          "name": "\u7fc1\u9756\u582fyao",
-          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
+        },
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6"
         }
       ],
-      "duration_ms": 182115,
-      "name": "leave before u do",
-      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
+      "duration_ms": 276154,
+      "name": "Lonely Road",
+      "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1603,22 +1607,18 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Acchordance",
-        "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
+        "name": "leave before u do",
+        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
       },
       "artists": [
         {
-          "name": "Doctor Flake",
-          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
-        },
-        {
-          "name": "Malika",
-          "url": "https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6"
+          "name": "\u7fc1\u9756\u582fyao",
+          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
         }
       ],
-      "duration_ms": 276154,
-      "name": "Lonely Road",
-      "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
+      "duration_ms": 182115,
+      "name": "leave before u do",
+      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Minds & Colors",
-        "url": "https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36"
-      },
-      "artists": [
-        {
-          "name": "mabanua",
-          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "All Right",
-      "url": "https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o"
-    },
-    {
-      "added_at": "2025-05-11 16:00:16",
-      "album": {
         "name": "Chill",
         "url": "https://open.spotify.com/album/6eDc1WXXQhsyvRgb3DduaR"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2025-05-11 16:00:16",
       "album": {
-        "name": "Mirror, Mirror on the Wall",
-        "url": "https://open.spotify.com/album/4GxXqUC1qtV2i2Uy1lxoip"
+        "name": "Minds & Colors",
+        "url": "https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36"
       },
       "artists": [
         {
-          "name": "INDAHKUS",
-          "url": "https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB"
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Mirror, Mirror on the Wall",
-      "url": "https://open.spotify.com/track/3zUosQq3tfNqJT1fVIzNvc"
+      "duration_ms": 198280,
+      "name": "All Right",
+      "url": "https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o"
     },
     {
       "added_at": "2025-05-11 16:00:16",
@@ -1735,6 +1719,22 @@
       "duration_ms": 218266,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "added_at": "2025-05-11 16:00:16",
+      "album": {
+        "name": "Mirror, Mirror on the Wall",
+        "url": "https://open.spotify.com/album/4GxXqUC1qtV2i2Uy1lxoip"
+      },
+      "artists": [
+        {
+          "name": "INDAHKUS",
+          "url": "https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Mirror, Mirror on the Wall",
+      "url": "https://open.spotify.com/track/3zUosQq3tfNqJT1fVIzNvc"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

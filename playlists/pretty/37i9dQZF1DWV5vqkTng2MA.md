@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: 54 Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,449 likes - 90 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,518 likes - 90 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 32 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
 | 33 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 |
 | 34 | [Every Night](https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo) | [Walker Lukens](https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4) | [Every Night](https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS) | 2:54 |
-| 35 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 |
-| 36 | [In and Out of Love](https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [A Real Fine Mess \(Deluxe Version\)](https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7) | 2:49 |
+| 35 | [In and Out of Love](https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [A Real Fine Mess \(Deluxe Version\)](https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7) | 2:49 |
+| 36 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 |
 | 37 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
 | 38 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 |
 | 39 | [Quit You](https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:49 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 63 | [How Do You Get By](https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [How Do You Get By](https://open.spotify.com/album/698NNT71NehpuCIDRFXWic) | 4:10 |
 | 64 | [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 |
 | 65 | [Trouble in Mind](https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61) | [The Bumper Jacksons](https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN) | [Too Big World](https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2) | 4:37 |
-| 66 | [Sister Andre](https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Sister Andre](https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp) | 3:05 |
-| 67 | [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:12 |
+| 66 | [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:12 |
+| 67 | [Sister Andre](https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Sister Andre](https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp) | 3:05 |
 | 68 | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/track/2YLLW5WnSLXgYbChmaP2kJ) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Max Abrams](https://open.spotify.com/artist/5nniLGuXKnrlNZHQ2VaTD9) | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb) | 3:30 |
 | 69 | [King of Bohemia](https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy) | [Betty & Oswald](https://open.spotify.com/artist/3Z8uzX8UEtNGYskkZJ9Acp) | [King of Bohemia](https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0) | 3:38 |
 | 70 | [Bend](https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Bend](https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq) | 4:06 |

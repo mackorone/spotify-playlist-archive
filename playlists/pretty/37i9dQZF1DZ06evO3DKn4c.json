@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 38988,
+  "num_followers": 39002,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAACsdhmWampnbf51Ed1Vt/QC",
+  "snapshot_id": "aCKLgAAAAADL9R+oke17SklR2irktH0n",
   "tracks": [
     {
       "added_at": null,
@@ -195,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Gold",
-        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+        "name": "KM2",
+        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
       },
       "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 197840,
-      "name": "Real Gold",
-      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+      "duration_ms": 217168,
+      "name": "Vale Do Sil\u00edcio",
+      "url": "https://open.spotify.com/track/0RIbrYxa06ta7MAlYCIGrI"
     },
     {
       "added_at": null,
@@ -243,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
-        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
       },
       "artists": [
-        {
-          "name": "Gabriel O Pensador",
-          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
-        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 265088,
-      "name": "Nunca Tenha Medo",
-      "url": "https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum"
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
     },
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
+        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
+      },
+      "artists": [
+        {
+          "name": "Gabriel O Pensador",
+          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 265088,
+      "name": "Nunca Tenha Medo",
+      "url": "https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pique Peaky Blinders",
         "url": "https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD"
       },
@@ -327,22 +347,6 @@
       "duration_ms": 185604,
       "name": "Pique Peaky Blinders",
       "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 244239,
-      "name": "Falando do Meu Bem",
-      "url": "https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa"
     },
     {
       "added_at": null,
@@ -379,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 244239,
+      "name": "Falando do Meu Bem",
+      "url": "https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
@@ -395,6 +415,22 @@
       "duration_ms": 53488,
       "name": "DEISDAZSEIS - Ao Vivo",
       "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "From Hell do C\u00e9u",
+      "url": "https://open.spotify.com/track/0uYM8AjQwRsVUCPWwZ9Oqb"
     },
     {
       "added_at": null,
@@ -419,22 +455,6 @@
       "duration_ms": 190476,
       "name": "Como Eu Te Quero - Remix",
       "url": "https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "From Hell do C\u00e9u",
-      "url": "https://open.spotify.com/track/0uYM8AjQwRsVUCPWwZ9Oqb"
     },
     {
       "added_at": null,
@@ -568,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 245741,
-      "name": "CONTEXTO - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE"
+      "duration_ms": 175945,
+      "name": "QUEIMANDO TUDO - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a"
     },
     {
       "added_at": null,
@@ -640,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 175945,
-      "name": "QUEIMANDO TUDO - Ao Vivo",
-      "url": "https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a"
+      "duration_ms": 245741,
+      "name": "CONTEXTO - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE"
     },
     {
       "added_at": null,
@@ -711,26 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Insolente",
-        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
+        "name": "JARDINEIROS",
+        "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
       },
       "artists": [
         {
-          "name": "Marcelinho Da Lua",
-          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Bi Ribeiro",
-          "url": "https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr"
         }
       ],
-      "duration_ms": 214187,
-      "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
-      "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
+      "duration_ms": 154413,
+      "name": "O RITMO E A RAIVA",
+      "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
     },
     {
       "added_at": null,
@@ -751,22 +767,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "JARDINEIROS",
-        "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
+        "name": "Insolente",
+        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
       },
       "artists": [
         {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+          "name": "Marcelinho Da Lua",
+          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Bi Ribeiro",
+          "url": "https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr"
         }
       ],
-      "duration_ms": 154413,
-      "name": "O RITMO E A RAIVA",
-      "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
+      "duration_ms": 214187,
+      "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
+      "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
     },
     {
       "added_at": null,

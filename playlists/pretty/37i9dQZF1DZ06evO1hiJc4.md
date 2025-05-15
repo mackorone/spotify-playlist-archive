@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,697 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,712 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 24 | [100 Miles An Hour](https://open.spotify.com/track/5vulybdsJSpz0wyvJGBXtP) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:01 |
 | 25 | [Nate Growing Up](https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
 | 26 | [Heaven Can Wait \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:15 |
-| 27 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 |
+| 27 | [Love Goes \(feat\. Labrinth\)](https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:44 |
 | 28 | [Kill For Your Love](https://open.spotify.com/track/3VPmBxNTm36Fmz8lSU4dgA) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:11 |
-| 29 | [Love Goes \(feat\. Labrinth\)](https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:44 |
+| 29 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 |
 | 30 | [WTF Are We Talking For](https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:51 |
 | 31 | [Angel in Your Eyes \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6k71NlTnn41Vk7RJX7CSbY) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:06 |
 | 32 | [Power Couple](https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 49 | [Accepted By The Crew](https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Alex Baranowski](https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:42 |
 | 50 | [Higher](https://open.spotify.com/track/39lxs02zC9wpqB0sxufKKI) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Higher](https://open.spotify.com/album/3qIJqbxuiYCwwGVLkLSZ1P) | 3:01 |
 
-Snapshot ID: `aCE6AAAAAADWQCRwhqRf9cpMDTVfW2jz`
+Snapshot ID: `aCKLgAAAAABAvFAfy/DMFFTb7oAzurY/`

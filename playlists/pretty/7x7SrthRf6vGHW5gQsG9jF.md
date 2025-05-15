@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 877 songs - 2 day 8 hr 6 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 882 songs - 2 day 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -885,5 +885,10 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 875 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
 | 876 | [DENNO MIENMIEN MAO \(feat\. namigroove\)](https://open.spotify.com/track/2qXS1nJJpH6EaTvqt9JwXC) | [chinoi momone](https://open.spotify.com/artist/0zdGwa8ihyor4J729eSIGI), [namigroove](https://open.spotify.com/artist/2t7wKLcqZ08LwQXmBS2OOL) | [As Tenshi\-sama says](https://open.spotify.com/album/29ivIRiC7xB0VrWyDfcXor) | 2:34 |
 | 877 | [Black Is the New Black](https://open.spotify.com/track/56XcpXmOzxrjk1CNvqH1Av) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [Copyright Infringement EP](https://open.spotify.com/album/6rlGHgmSG0sq3JrMKtyTOS) | 3:58 |
+| 878 | [Big Sky](https://open.spotify.com/track/3mdZUBB0bSOCP9PNzCn4yf) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Hokorobi](https://open.spotify.com/album/6Qt83eijG7zhUhUiB95vgf) | 3:31 |
+| 879 | [thermosphere](https://open.spotify.com/track/4aDE5fKs1EPn4DeAWIdjVO) | [stargaze shelter](https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW) | [first draft](https://open.spotify.com/album/6b2oFaUawdQSC9T17u6RvK) | 3:25 |
+| 880 | [花びらたちのマーチ](https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:13 |
+| 881 | [脈拍](https://open.spotify.com/track/5g9iwSWKeJu6fgOrBrBuuG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [脈拍](https://open.spotify.com/album/6KhkCzUE5JSfRUbLuOAoVI) | 3:38 |
+| 882 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
 
-Snapshot ID: `AAAFEZkllHSimeML+HoziC0TRNVQkyiU`
+Snapshot ID: `AAAFFi/HOFDWldY2WzHikVj95peJArhh`

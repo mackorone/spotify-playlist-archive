@@ -1,6 +1,6 @@
 {
   "description": "thiago tomou pr\u00e9 treino, gravou a track E BOA \ud83d\udc4b\ud83c\udffd",
-  "num_followers": 1405408,
+  "num_followers": 1405590,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,42 @@
     {
       "added_at": "2025-05-12 17:14:49",
       "album": {
+        "name": "Melhor Vibe",
+        "url": "https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        }
+      ],
+      "duration_ms": 341408,
+      "name": "Melhor Vibe",
+      "url": "https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj"
+    },
+    {
+      "added_at": "2025-05-12 17:14:49",
+      "album": {
         "name": "Let's Go 5",
         "url": "https://open.spotify.com/album/44o1iCizbxPt4a6VJEQOKZ"
       },
@@ -559,42 +595,6 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
-    },
-    {
-      "added_at": "2025-05-12 17:14:49",
-      "album": {
-        "name": "Melhor Vibe",
-        "url": "https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        }
-      ],
-      "duration_ms": 341408,
-      "name": "Melhor Vibe",
-      "url": "https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj"
     },
     {
       "added_at": "2025-05-12 17:14:49",
@@ -1578,18 +1578,6 @@
         {
           "name": "LAI$ROSA",
           "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "UM ENT",
-          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
         }
       ],
       "duration_ms": 171428,
@@ -1606,14 +1594,6 @@
         {
           "name": "LAI$ROSA",
           "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "UM ENT",
-          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
         }
       ],
       "duration_ms": 158841,

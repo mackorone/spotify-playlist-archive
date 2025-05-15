@@ -2,7 +2,7 @@
 
 ### [Esenciales](https://open.spotify.com/playlist/37i9dQZF1DX3omIq8ziEt6)
 
-> Timeless Latin hits\. Son 5 años de 'Colores'\. 📸: J Balvin
+> Timeless Latin hits\. Son 5 años de 'Colores'.
 
 566 songs - 1 day 12 hr 16 min
 

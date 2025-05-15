@@ -2,7 +2,7 @@
 
 ### [Party Hits 2000s](https://open.spotify.com/playlist/37i9dQZF1DX7e8TjkFNKWH)
 
-> The biggest party hits of the 2000s\. Cover: Shakira.
+> The biggest party hits of the 2000s.
 
 321 songs - 20 hr 39 min
 

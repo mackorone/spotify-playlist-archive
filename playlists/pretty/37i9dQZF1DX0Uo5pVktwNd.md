@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,783 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,934 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 15 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
 | 16 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
 | 17 | [Aankhon Mein](https://open.spotify.com/track/77y2yW2spk3HCkZXjlbhCD) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ) | [Aankhon Mein Tera Hi Chehra](https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL) | 4:31 |
-| 18 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 |
-| 19 | [Kabhi Yaadon Mein Aaun](https://open.spotify.com/track/1VO2GtGchLJmnJFQZZlEux) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Tere Bina](https://open.spotify.com/album/6tAeHypxJQaHd3RAkEmNaJ) | 6:07 |
-| 20 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
-| 21 | [Rock Tha Party](https://open.spotify.com/track/0NoNwbg1fnrb3DHCZ8We6q) | [Bombay Rockers](https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP) | [Introducing…](https://open.spotify.com/album/0A9PclEuPJL5dmc9eAso14) | 3:32 |
+| 18 | [Kabhi Yaadon Mein Aaun](https://open.spotify.com/track/1VO2GtGchLJmnJFQZZlEux) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Tere Bina](https://open.spotify.com/album/6tAeHypxJQaHd3RAkEmNaJ) | 6:07 |
+| 19 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 |
+| 20 | [Rock Tha Party](https://open.spotify.com/track/0NoNwbg1fnrb3DHCZ8We6q) | [Bombay Rockers](https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP) | [Introducing…](https://open.spotify.com/album/0A9PclEuPJL5dmc9eAso14) | 3:32 |
+| 21 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
 | 22 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 |
 | 23 | [Tera Mera Pyar](https://open.spotify.com/track/5MXSLWGyPosYJ09LNu12SO) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 6:13 |
 | 24 | [Leja Leja](https://open.spotify.com/track/5kWMV8yuPP6zSdz4MZhjVh) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Ustad And The Divas](https://open.spotify.com/album/01s2aUyGKULtAK1Q6BEdV7) | 4:29 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 37 | [Let's Work It out \(feat\. Jahaziel\)](https://open.spotify.com/track/78PIQS3mIIJc7ZZ3OKGr6c) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jahaziel](https://open.spotify.com/artist/11PK8fmGXnan9HCEwNI1T6) | [Storyteller](https://open.spotify.com/album/4kExwHAZEatBHppwVp5Vl9) | 4:05 |
 | 38 | [Aaja Sohneya](https://open.spotify.com/track/1DfskI6r7ufeVEiV1DQZf6) | [Bally Jagpal](https://open.spotify.com/artist/3mMwnm3FuucDtmcuWRoKiG), [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S) | [Dark & Dangerous](https://open.spotify.com/album/1CDM75MwzrJdekLr7O92bu) | 7:22 |
 | 39 | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/track/29dTr9pLXHTIRACrcd6UD9) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ), [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/album/0hMcNdQP1rGgdbNip7hLvH) | 5:28 |
-| 40 | [Gur Nalon Ishq Mitha](https://open.spotify.com/track/5h9f2B6A7V4k50j1UtrSBD) | [Bally Sagoo](https://open.spotify.com/artist/0qmPtVxxIwxoW4QczZGsQZ), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [Dance Connection \- The Compilation](https://open.spotify.com/album/7H8XVQxSBwZnBPZlHwxwiI) | 11:43 |
-| 41 | [Tu](https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kismat](https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY) | 4:26 |
+| 40 | [Tu](https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kismat](https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY) | 4:26 |
+| 41 | [Gur Nalon Ishq Mitha](https://open.spotify.com/track/5h9f2B6A7V4k50j1UtrSBD) | [Bally Sagoo](https://open.spotify.com/artist/0qmPtVxxIwxoW4QczZGsQZ), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [Dance Connection \- The Compilation](https://open.spotify.com/album/7H8XVQxSBwZnBPZlHwxwiI) | 11:43 |
 | 42 | [Saade Dil Te Chhuriyan Chaliyan](https://open.spotify.com/track/4MmlE62E59WSZtH90Kbu5C) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ho Jayegi Balle Balle](https://open.spotify.com/album/3GRXDOkaGugQQWm0dQgdxM) | 3:12 |
 | 43 | [Nain Se Naino Ko Mila](https://open.spotify.com/track/5dU0yXUXYjP1e6e2s6OSh2) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 4:12 |
 | 44 | [Gori](https://open.spotify.com/track/1wqw75urLC2sLsE7gLGAAE) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 4:12 |

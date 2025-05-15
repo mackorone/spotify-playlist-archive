@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,484 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,501 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 33 | [最上級にかわいいの！ \(Cover\)](https://open.spotify.com/track/17woIV9I95tV9C4fnc6Ep4) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [最上級にかわいいの！ \(Cover\)](https://open.spotify.com/album/6TzI50EqlfGlG2JUZMyTDK) | 3:11 |
 | 34 | [オレンジ \(Cover\)](https://open.spotify.com/track/1gRerODkdxiDxlXb4j6UN7) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [オレンジ \(Cover\)](https://open.spotify.com/album/1I465L0Mbyc0QbJb0uY50m) | 3:55 |
 | 35 | [flame of hope](https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:12 |
-| 36 | [きゅうくらりん \- Cover](https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きゅうくらりん \(Cover\)](https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV) | 3:34 |
-| 37 | [THE WAY OF LIFE](https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 3:57 |
+| 36 | [THE WAY OF LIFE](https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 3:57 |
+| 37 | [きゅうくらりん \- Cover](https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きゅうくらりん \(Cover\)](https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV) | 3:34 |
 | 38 | [新人類は仮想世界の夢を見るか？](https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:54 |
 | 39 | [Sage der Rosen](https://open.spotify.com/track/4vWplv6n9PQ0e3SbCXmXTP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Für immer](https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9) | 4:04 |
 | 40 | [TARINAI](https://open.spotify.com/track/07qmAUS6Vt9HhaQeGLvLAP) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 3:39 |

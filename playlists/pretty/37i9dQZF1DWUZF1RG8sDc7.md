@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,056 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,110 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 51 | [No He Podido Ser Feliz](https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG) | 5:06 |
 | 52 | [Muchacha Encantadora](https://open.spotify.com/track/4M3WYnhqRxRSoWTGjhrUtr) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Grandes Éxitos de los Chiches Vallenatos](https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB) | 4:17 |
 | 53 | [A Pesar de Todo](https://open.spotify.com/track/6wBJ7gF95WpO8u2QEbyJB6) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ), [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ) | [La Combinación Vallenata](https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO) | 4:32 |
-| 54 | [Señora](https://open.spotify.com/track/1S2WEX1RBJL1ebpEldMG4V) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 100 Vallenatos más Recordados, Dedicados, Vendidos, Sonados\. Vol.1](https://open.spotify.com/album/7ojNoLKEkOJMsOrANgytQI) | 3:58 |
+| 54 | [Traga'o De Ti](https://open.spotify.com/track/3xOKZR7rwQYEx7l5Mc9jQ6) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Caballero Del Vallenato](https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu) | 4:07 |
 | 55 | [Quiéreme](https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 5:06 |
 | 56 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
 | 57 | [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:55 |
 | 58 | [Los Caminos De La Vida](https://open.spotify.com/track/6mRaLhDSKc64YW1sJystWN) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 4:35 |
 | 59 | [Me Vas A Extrañar](https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE) | 4:47 |
-| 60 | [Despues del Adios](https://open.spotify.com/track/5sYM2HkOgMeXhtqKhLRy8A) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Con Altura](https://open.spotify.com/album/7xFZU6WDMmFQy7ysqXmRbM) | 5:09 |
+| 60 | [Señora](https://open.spotify.com/track/1S2WEX1RBJL1ebpEldMG4V) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 100 Vallenatos más Recordados, Dedicados, Vendidos, Sonados\. Vol.1](https://open.spotify.com/album/7ojNoLKEkOJMsOrANgytQI) | 3:58 |
 
 Snapshot ID: `ZgTL0AAAAADi0BC93l+oMYaEWuHAdgqJ`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  reggie
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,365 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,380 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Press 2](https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Press 2](https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL) | 4:26 |
+| 1 | [Press 2](https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm) | [4K & SYDER](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Press 2](https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL) | 4:26 |
 | 2 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 |
 | 3 | [Obaa Hemaa](https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Obaa Hemaa](https://open.spotify.com/album/0FhtqISRyEGe6YVxjySqN9) | 3:04 |
 | 4 | [Till It's Done](https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [CHRONICLES \(The First Supper\)](https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ) | 2:41 |

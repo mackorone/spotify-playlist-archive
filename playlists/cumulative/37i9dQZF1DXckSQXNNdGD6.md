@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: María Peláe.
 
-187 songs - 9 hr 14 min
+188 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 | 2024-06-05 |  |
 | [Arboleda Bien Plantada](https://open.spotify.com/track/7DQSEa2uqg5QsiIIMT91Ev) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy) | [Manual de Cortejo](https://open.spotify.com/album/1g0iT6TvvvVFfheThXR0Dk) | 3:38 | 2024-06-05 | 2025-02-05 |
 | [ARTIFICIAL](https://open.spotify.com/track/5V6pQMM8bgFnocNxK5zPoI) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO) | [METALLIX](https://open.spotify.com/album/72wMkN2RP0FGtmsgJ874xH) | 2:26 | 2024-11-05 | 2024-12-05 |
+| [ARTIFICIAL REMIX](https://open.spotify.com/track/3jsN5AUIThFnZ6V30i8SAz) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO), [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92) | [ARTIFICIAL REMIX](https://open.spotify.com/album/3dA76HYyggLlh71ASxDhbW) | 2:49 | 2025-05-06 |  |
 | [ASTUTA](https://open.spotify.com/track/6mNlvsPSYm8xQ24fORjpyN) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ASTUTA](https://open.spotify.com/album/0GKzP509sadnEWkbzSnrKm) | 2:50 | 2024-12-04 | 2025-01-07 |
 | [Ave María Putísima](https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Madre Fundadora](https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW) | 2:50 | 2024-06-05 | 2025-03-05 |
 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 | 2024-08-06 | 2024-12-25 |
@@ -109,7 +110,7 @@
 | [Lejos](https://open.spotify.com/track/3NxObzEzw1LOyWiU5UNzko) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [Lejos](https://open.spotify.com/album/0VS75j7R4QptNivoeqvasJ) | 3:37 | 2024-09-03 | 2025-01-08 |
 | [Lesbian Garros](https://open.spotify.com/track/3xW7zApfPMvHYumqN4ByoC) | [Oreiana](https://open.spotify.com/artist/7b1hCTRzkTW2WqSHothS7y) | [Lesbian Garros](https://open.spotify.com/album/6MV0VmAcdoK0tSG7AUTnbU) | 3:23 | 2025-05-06 |  |
 | [Lip Combo](https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [Lip Combo](https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT) | 2:51 | 2024-08-06 | 2025-05-07 |
-| [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 | 2024-10-01 |  |
+| [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 | 2024-10-01 | 2025-05-15 |
 | [LOCOLOCO](https://open.spotify.com/track/6O3wWV2M81Vhs3JQJtGdcT) | [Yenesi](https://open.spotify.com/artist/2G49dkprxnvfogsgYd3yOb) | [LOCOLOCO](https://open.spotify.com/album/2GGWmq9XIqwKO9xCH5kJSB) | 2:37 | 2024-07-02 | 2024-08-07 |
 | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/track/30J1epk1XS8p0pFttAPZ4b) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr) | 3:39 | 2024-06-05 | 2024-12-07 |
 | [Madres Solteras Buscan Polla](https://open.spotify.com/track/5HBKJZOUmNM6EDHbIF8K5V) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [DICTADURA TRAVESTI](https://open.spotify.com/album/4wyhnwydBRXCxjzhlMqT1D) | 3:40 | 2024-06-05 | 2024-07-03 |

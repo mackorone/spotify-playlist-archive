@@ -2,7 +2,7 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\.  Cover: Ayra Starr & Wizkid
+> The hottest Afropop records on the planet.
 
 652 songs - 1 day 9 hr 17 min
 

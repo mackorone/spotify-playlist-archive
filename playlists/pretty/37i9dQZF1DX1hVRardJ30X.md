@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ela Taubert, KAROL G, Ryan Castro, Beéle and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,045 likes - 52 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,082 likes - 52 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 39 | [Postalita](https://open.spotify.com/track/338FO6wNbL9zBfvqYk7qfg) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2) | [Postalita](https://open.spotify.com/album/2PjIb7VrWVqCPICsRnnFar) | 3:30 |
 | 40 | [GUAYA](https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [GUAYA](https://open.spotify.com/album/2P1RZBxXlf4Kr0c2rrt6a0) | 3:14 |
 | 41 | [LINDA](https://open.spotify.com/track/3rpatdv4oGWHL2rZzTAscf) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [LINDA](https://open.spotify.com/album/7vxDirSMdfFq2Zzz3rnjNm) | 2:49 |
-| 42 | [Movie de Artista](https://open.spotify.com/track/54k17mxDTeRBdMrKBVezmG) | [Machine](https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA) | [MOVIE \(VOL 1\)](https://open.spotify.com/album/74e8buhRbE5xXEAxKIDpVB) | 2:36 |
+| 42 | [MOVIE DE ARTISTA](https://open.spotify.com/track/54k17mxDTeRBdMrKBVezmG) | [Machine](https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA) | [MOVIE \(VOL 1\)](https://open.spotify.com/album/74e8buhRbE5xXEAxKIDpVB) | 2:36 |
 | 43 | [OF \(Only Fans\)](https://open.spotify.com/track/4JUkTbDOAK6xR0Ne3TTdr7) | [SAI](https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x) | [OF \(Only Fans\)](https://open.spotify.com/album/0chstKYem6rywr5Qm0y6ka) | 2:58 |
 | 44 | [Que Te Vaya Bien](https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Mío](https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h) | 2:50 |
 | 45 | [El avión](https://open.spotify.com/track/3OpTJR00L7Jd7kFzpTd4Gh) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [El avión](https://open.spotify.com/album/7ppAq1lv5dvlad8IPhZb86) | 2:57 |

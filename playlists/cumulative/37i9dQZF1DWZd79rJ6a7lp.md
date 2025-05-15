@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-1,410 songs - 2 day 21 hr 49 min
+1,413 songs - 2 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Duende](https://open.spotify.com/track/3MbMFTSftlRSYJe58yqBDl) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Duende](https://open.spotify.com/album/3u88cMLMZy9LWwdIHBOUJo) | 3:12 | 2022-01-21 | 2024-02-08 |
 | [Dulces Sueños](https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 4:05 | 2020-10-20\* | 2020-12-12 |
 | [Dusk's Embrace](https://open.spotify.com/track/0GRGJ6N5wWFpDTDqYJCzWU) | [Celestial Whisperer](https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac) | [Dusk's Embrace](https://open.spotify.com/album/6FhmpveNERkdoEs6zRmVaR) | 2:46 | 2024-03-06 | 2025-04-10 |
+| [Duskveil](https://open.spotify.com/track/5PHG6zIU3TVPkrhjxfIndk) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Duskveil](https://open.spotify.com/album/3arZlYaEzG23SpaWDM9kwO) | 3:04 | 2025-05-14 |  |
 | [Dust](https://open.spotify.com/track/3P8JdN7l1cFkcMVkJHOHhF) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Dust](https://open.spotify.com/album/4JazgpRV9g6wD03c4excvY) | 2:56 | 2021-01-21 | 2021-02-06 |
 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 | 2021-09-22 | 2023-03-22 |
 | [Each Dream is a Leaf](https://open.spotify.com/track/4SqmLXIj0SYrYs3H3RkLo3) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [A Series of Moments](https://open.spotify.com/album/0Q5M1ZI0BHOeABLMbLG4wQ) | 4:11 | 2020-10-20\* | 2020-12-12 |
@@ -690,6 +691,7 @@
 | [Lage](https://open.spotify.com/track/3CqiVCGBvST27IugG68rRc) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Lage](https://open.spotify.com/album/32nYyoyqI2idlGFfmqzxo4) | 2:53 | 2024-02-26 | 2024-07-23 |
 | [Lahko noč](https://open.spotify.com/track/0djscTMVix3pGLzMJ3D9X8) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Čudovita pomlad](https://open.spotify.com/album/14eJeVKMbuxGX0zQ1KI5Ok) | 2:57 | 2020-10-20\* | 2021-02-06 |
 | [Languid](https://open.spotify.com/track/0KkCsYHv7QgzKpNm4pcVj9) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Languid](https://open.spotify.com/album/5703SmtxheAvgNoxOCueq8) | 3:03 | 2023-10-13 | 2024-07-16 |
+| [Laomedeia](https://open.spotify.com/track/5VBAXRSw6VWYHs3omom0za) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Laomedeia](https://open.spotify.com/album/0zvxor9ZfHJsPBGMKuYg2B) | 2:51 | 2025-05-14 |  |
 | [Latitude](https://open.spotify.com/track/7IJdncR0sFTfunKdmQqTlt) | [Niranja](https://open.spotify.com/artist/05na68HA7aLe286zVkDg7B) | [Latitude](https://open.spotify.com/album/3FrqjMioXMdod4NEdio5cA) | 2:28 | 2024-12-30 |  |
 | [Le temps passe](https://open.spotify.com/track/1FKTWT91DCPwRbWMxK3NZn) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Le temps passe](https://open.spotify.com/album/0ItCJJdXRzbhsl1zwclP4z) | 2:38 | 2020-10-20\* | 2020-12-12 |
 | [Leisure](https://open.spotify.com/track/37miKtLQZKUNQksw2XnE1w) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Leisure](https://open.spotify.com/album/6X1zZSUqkd10JC0u670BWF) | 2:47 | 2024-03-06 | 2024-03-21 |
@@ -1151,6 +1153,7 @@
 | [Somehow](https://open.spotify.com/track/1duFJu4fsHT5qrtGGRbxhg) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Somehow](https://open.spotify.com/album/1zAHjeiIhu46tI4gSnhslp) | 2:50 | 2025-01-14 |  |
 | [somewhere distant](https://open.spotify.com/track/6IXsK0Bht1J6Xq6xlQwUKb) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [dream loop](https://open.spotify.com/album/18QvxWz9cpcqw0PwpByVwR) | 3:47 | 2020-10-20\* | 2021-03-14 |
 | [Sommeil de plomb](https://open.spotify.com/track/5AxvzeL1YzvGbamP84pSBp) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Sommeil de plomb](https://open.spotify.com/album/7dZ0PmR4Zr3FvjB8sNlICD) | 3:04 | 2020-10-20\* | 2020-12-12 |
+| [Somna](https://open.spotify.com/track/2pxZlxVk1PWbI2tw7j0QnD) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Somna](https://open.spotify.com/album/0F5ugqecVnynFMBMd7gBgs) | 3:02 | 2025-05-14 |  |
 | [Somniantes](https://open.spotify.com/track/2oRPG3rScsUtAwJ5W0Ij6m) | [Enma](https://open.spotify.com/artist/65t1qirLuVn4JyCfkiPUIc) | [Somniantes](https://open.spotify.com/album/6oXKW8Jaida4M5Y0A9rQRI) | 2:41 | 2024-07-09 | 2025-04-24 |
 | [Somnisonic](https://open.spotify.com/track/5AQQYMkVL7216ZVuPytjwL) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Somnisonic](https://open.spotify.com/album/09sd9ZHGWdZn4fgFOTta4D) | 2:22 | 2024-01-17 | 2024-04-19 |
 | [Somnium](https://open.spotify.com/track/1AAarJ2ZVp2JNvoRY43V41) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Somnium](https://open.spotify.com/album/3A13wz1QjS5umrWC7sEA7L) | 2:14 | 2020-10-20\* | 2021-03-14 |

@@ -4,7 +4,7 @@
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-201 songs - 13 hr 3 min
+202 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Invitation](https://open.spotify.com/track/0HmNuAoSYVsRRjKiAucFn7) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [Invitation](https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4) | 3:54 | 2024-04-04 | 2024-04-19 |
 | [Just A Feeling \- Original Version](https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:48 | 2021-02-01 |  |
 | [Just In Love](https://open.spotify.com/track/6nUfqHTfU9MUiVWUwBg7Nr) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Surprise \- The 4.5th Album](https://open.spotify.com/album/5F3uCpNJmZFlWXODPfh6yu) | 4:50 | 2021-02-01 | 2025-04-09 |
-| [Killer](https://open.spotify.com/track/0DPbuSa4OcDF0PeocOFiP9) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/501RC0O9MGg2BudvYd9xyh) | 1:39 | 2024-04-04 |  |
+| [Killer](https://open.spotify.com/track/0DPbuSa4OcDF0PeocOFiP9) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/501RC0O9MGg2BudvYd9xyh) | 1:39 | 2024-04-04 | 2025-05-15 |
 | [Killer](https://open.spotify.com/track/6FNzGOfb27z0xahzEHv9si) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 1:39 | 2021-02-01 | 2024-04-19 |
 | [Kung Ddari Sha Bah Rah](https://open.spotify.com/track/6m8XQobhzigTSyAoV6lhlE) | [Clon](https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag) | [Are You Ready?](https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8) | 3:54 | 2021-02-01 |  |
 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 | 2021-02-01 | 2024-04-19 |
@@ -149,6 +149,7 @@
 | [말하자면](https://open.spotify.com/track/3fCkxCmaOwJ8UuZD1N4Okx) | [Kim Sung Jae](https://open.spotify.com/artist/7e7pwSr2mLxAq1QbWkzghk) | [김성재](https://open.spotify.com/album/2bklVpbuK5jsVrLpebiu9o) | 3:35 | 2021-02-01 | 2024-04-19 |
 | [말하자면](https://open.spotify.com/track/6GuXef6hLnruq7quS1TdBN) | [Kim Sung Jae](https://open.spotify.com/artist/7e7pwSr2mLxAq1QbWkzghk) | [김성재](https://open.spotify.com/album/00MFnZf1S2DKpo1yhwd732) | 3:38 | 2024-04-04 | 2024-10-13 |
 | [맥주와 땅콩](https://open.spotify.com/track/2VoJPrLM3lxfE9DiDhE4yL) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:52 | 2021-02-01 | 2023-11-14 |
+| [배신](https://open.spotify.com/track/4pN3nyPR5KIbbADoFFGmrU) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/501RC0O9MGg2BudvYd9xyh) | 1:14 | 2024-04-04 |  |
 | [벌써 이렇게 \(feat\. Psy\)](https://open.spotify.com/track/7y24cTluWhcJct69ZOWKNC) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:17 | 2021-02-01 | 2025-05-03 |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2021-02-01 |  |
 | [비밀은 없어](https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [Roo\`ra Best Album](https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm) | 4:03 | 2021-02-01 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 367753,
+  "num_followers": 367900,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-05-13 10:39:27",
       "album": {
-        "name": "Lavender Fields",
-        "url": "https://open.spotify.com/album/3DOzVCAU7Swvl0LLGpTgLc"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 216920,
-      "name": "Lavender Fields",
-      "url": "https://open.spotify.com/track/3Xp9Yhba253xNhVHnyQrmN"
-    },
-    {
-      "added_at": "2025-05-13 10:39:27",
-      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -491,22 +475,18 @@
     {
       "added_at": "2025-05-13 10:39:27",
       "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+        "name": "Lavender Fields",
+        "url": "https://open.spotify.com/album/3DOzVCAU7Swvl0LLGpTgLc"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
+      "duration_ms": 216920,
+      "name": "Lavender Fields",
+      "url": "https://open.spotify.com/track/3Xp9Yhba253xNhVHnyQrmN"
     },
     {
       "added_at": "2025-05-13 10:39:27",
@@ -527,6 +507,26 @@
       "duration_ms": 170080,
       "name": "Winter Light",
       "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
+    },
+    {
+      "added_at": "2025-05-13 10:39:27",
+      "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2025-05-13 10:39:27",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-05-13 10:39:27",
       "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
-    },
-    {
-      "added_at": "2025-05-13 10:39:27",
-      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 98320,
       "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
       "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+    },
+    {
+      "added_at": "2025-05-13 10:39:27",
+      "album": {
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
     },
     {
       "added_at": "2025-05-13 10:39:27",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2025-05-13 10:39:27",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
-    },
-    {
-      "added_at": "2025-05-13 10:39:27",
-      "album": {
         "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
         "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 54520,
       "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
       "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
+    },
+    {
+      "added_at": "2025-05-13 10:39:27",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2025-05-13 10:39:27",

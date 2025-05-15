@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 221511,
       "name": "Do",
       "url": "https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI"
@@ -1080,6 +1080,24 @@
       "duration_ms": 205756,
       "name": "People",
       "url": "https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc"
+    },
+    {
+      "album": {
+        "name": "Plankton",
+        "url": "https://open.spotify.com/album/7zaDEhd4utpgHZpLYzUPiK"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Plankton",
+      "url": "https://open.spotify.com/track/6yYUxPzylZXum7WObTdwTr"
     },
     {
       "album": {

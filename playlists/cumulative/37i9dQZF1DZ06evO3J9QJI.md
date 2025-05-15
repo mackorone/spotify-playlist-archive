@@ -4,7 +4,7 @@
 
 > This is Irv Gotti\. The essential tracks, all in one playlist.
 
-16 songs - 58 min 23 sec
+17 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Come\-N\-Go](https://open.spotify.com/track/2vjRhzgzI2yOykIDLKnJ7b) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 4:29 | 2025-03-11 | 2025-05-14 |
 | [Freestyle](https://open.spotify.com/track/751KeVdKlfF8wkZ8rLUHWq) | [Boo](https://open.spotify.com/artist/5Z3tsYTS1kfBUfGjCLXmqy), [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [The Fast and The Furious](https://open.spotify.com/album/7b1Za3lJeLs6rOSi6a5wqf) | 2:52 | 2025-03-11 |  |
 | [Hard Livin'](https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [D.O\. Cannons](https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5), [Young Merc](https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 3:56 | 2025-03-11 |  |
-| [Hell Yeah](https://open.spotify.com/track/2iiK7QLWHG9q7YFFeoEnaf) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Hell Yeah](https://open.spotify.com/album/3BMEiq4AyAxXdKgNhOEjxn) | 4:30 | 2025-03-11 |  |
+| [Hell Yeah](https://open.spotify.com/track/2iiK7QLWHG9q7YFFeoEnaf) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Hell Yeah](https://open.spotify.com/album/3BMEiq4AyAxXdKgNhOEjxn) | 4:30 | 2025-03-11 | 2025-05-15 |
+| [Hell Yeah](https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Hell Yeah](https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7) | 4:30 | 2025-05-15 |  |
 | [Here We Come](https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg) | [Vita](https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU), [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Ronny Bumps](https://open.spotify.com/artist/7ixk3IjGehM3J3LBrmtstu) | [Irv Gotti Presents..\. The Inc.](https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk) | 3:53 | 2025-03-11 |  |
 | [Intro](https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Irv Gotti Presents: The Murderers](https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w) | 2:10 | 2025-03-11 |  |
 | [Intro \(Various Artists/Irv Gotti Presents..\. The Inc.\)](https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Chink Santana](https://open.spotify.com/artist/2bm08yVyWSeEOygeQw8USU), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl) | [Irv Gotti Presents..\. The Inc.](https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk) | 4:38 | 2025-03-11 |  |

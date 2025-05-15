@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: فريد
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,031 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,038 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 70 | [Ana Beki](https://open.spotify.com/track/3bNJbNyVdOiOA5oOsR7JKp) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Ana Beki](https://open.spotify.com/album/06G7t5jV3oFgdTv8rKrjCp) | 3:20 |
 | 71 | [ماشيها انا راضي](https://open.spotify.com/track/2uyzaV69yUV3shcAr9yF8f) | [Ahmed Elseweasy](https://open.spotify.com/artist/0njKUrmrzCFy6D3813NPlk) | [ماشيها انا راضي](https://open.spotify.com/album/51IbSxgZOFCrjQBNtcjMji) | 3:00 |
 | 72 | [Battalet Ahbek](https://open.spotify.com/track/3TG8IoXZ1Xkwra8RX8oDPu) | [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [Battalet Ahbek](https://open.spotify.com/album/0iUzTdTjDhmar6AiBcuHV3) | 4:02 |
-| 73 | [3Ala Bali](https://open.spotify.com/track/5oRGUAOYx0JGdJYEeHF9kF) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Tag](https://open.spotify.com/artist/2pPyRxqHb4PHqziNGNX89w) | [3Ala Bali](https://open.spotify.com/album/1UQtTEV4iTDXaHSNK71vsE) | 3:27 |
+| 73 | [3Ala Bali](https://open.spotify.com/track/5oRGUAOYx0JGdJYEeHF9kF) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Tag](https://open.spotify.com/artist/7lXXg0RRTjSEnlBoJjeIPS) | [3Ala Bali](https://open.spotify.com/album/1UQtTEV4iTDXaHSNK71vsE) | 3:27 |
 | 74 | [العقارب](https://open.spotify.com/track/0dODre5JGRxBwT1hlzYIqF) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [العقارب](https://open.spotify.com/album/1yKwg31nGgocAAoqqFI5sn) | 4:29 |
 | 75 | [إعمل معروف](https://open.spotify.com/track/03JDWiOP0tAhNO2bkXkQC3) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [إعمل معروف](https://open.spotify.com/album/36VEi21L03qdEzXziuTOBB) | 2:21 |
 

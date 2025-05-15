@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,969 likes - 59 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,983 likes - 59 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 39 | [i need u \(speed up\)](https://open.spotify.com/track/4UpZ4AhKVbVGjzwAeakpas) | [Satoki Rujiki](https://open.spotify.com/artist/7HIqNQI5PwCp1na5S8ogMU) | [i need u](https://open.spotify.com/album/0NvJTntFzJc3TiEZeKgPH6) | 3:03 |
 | 40 | [Pool Party \- REMIX](https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [Pool Party \(REMIX\)](https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX) | 1:53 |
 | 41 | [DUAS VERSÕES](https://open.spotify.com/track/1661UvXeRJJ5YBtERX83xz) | [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [FUTURO III](https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR) | 2:08 |
-| 42 | [RITMOU](https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:51 |
+| 42 | [RITMOU](https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:51 |
 | 43 | [LINGERIE](https://open.spotify.com/track/7BAu2493qreRH66gxk5YLY) | [Aimar](https://open.spotify.com/artist/6A8rC2RnuqMKJom5roADWy), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [LINGERIE](https://open.spotify.com/album/0ulXoe2khr8mDnfnic8ARc) | 3:31 |
 | 44 | [Tudo Que é Natural é Melhor](https://open.spotify.com/track/6ryw9MM4cxLzJ9Qw0FfMFj) | [Venâncio](https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S) | [Tudo Que é Natural é Melhor](https://open.spotify.com/album/3ZffERyVRBEnioc7Rd0fSD) | 2:42 |
 | 45 | [camarote](https://open.spotify.com/track/5GHOWGJWrUnmnfUsjpAOX5) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:42 |

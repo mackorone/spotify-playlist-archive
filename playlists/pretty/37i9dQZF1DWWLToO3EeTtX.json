@@ -1,6 +1,6 @@
 {
   "description": "Get away from the maddening crowds with this peaceful pop mix.",
-  "num_followers": 1079797,
+  "num_followers": 1079886,
   "original_name": "Morning Stroll",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-07-11 03:12:12",
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "added_at": "2024-07-11 03:12:12",
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2024-07-11 03:12:12",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
       "added_at": "2024-07-11 03:12:12",
@@ -827,22 +827,22 @@
     {
       "added_at": "2024-07-11 03:12:12",
       "album": {
-        "name": "Title (Deluxe)",
-        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+        "name": "Inner Monologue Part 1",
+        "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         },
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 225053,
-      "name": "Like I'm Gonna Lose You (feat. John Legend)",
-      "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
+      "duration_ms": 173306,
+      "name": "What A Time (feat. Niall Horan)",
+      "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
     }
   ],
   "unique_name": "Morning Stroll",

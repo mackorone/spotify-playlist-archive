@@ -1,13 +1,29 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Don Glori. Artwork: Joy Yamusangie.",
-  "num_followers": 235955,
+  "num_followers": 236048,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBuC0wAAAABb0QbMuhsggV8XgZW876Um",
+  "snapshot_id": "aCSTGwAAAACaPWEfNlIeI6cGfNd2sx9s",
   "tracks": [
+    {
+      "added_at": "2025-05-14 12:56:59",
+      "album": {
+        "name": "Trionfi",
+        "url": "https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ"
+      },
+      "artists": [
+        {
+          "name": "\u8349\u7530\u4e00\u99ff",
+          "url": "https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh"
+        }
+      ],
+      "duration_ms": 446882,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS"
+    },
     {
       "added_at": "2025-05-07 15:57:07",
       "album": {
@@ -631,30 +647,6 @@
       "duration_ms": 239142,
       "name": "End of the Night",
       "url": "https://open.spotify.com/track/5lwhzayX0WViHZhq4x3c49"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Samba Dobrado",
-        "url": "https://open.spotify.com/album/21z3eOv6RHo7ZlkEX4EyF0"
-      },
-      "artists": [
-        {
-          "name": "Matheus Nicolaiewsky",
-          "url": "https://open.spotify.com/artist/3untPZHoJS7x6L88Euh3FO"
-        },
-        {
-          "name": "Yotam Silberstein",
-          "url": "https://open.spotify.com/artist/7tKhud8BmUnoibLkJz7C6r"
-        },
-        {
-          "name": "Kiko Freitas",
-          "url": "https://open.spotify.com/artist/6Y3gZJLyL28vBvVx0zIwdR"
-        }
-      ],
-      "duration_ms": 362001,
-      "name": "Samba Dobrado",
-      "url": "https://open.spotify.com/track/6mDvp0PsQg9rEYglApLNad"
     },
     {
       "added_at": "2025-01-15 05:00:02",

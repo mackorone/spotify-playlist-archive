@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,354 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,353 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 89 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 |
 | 90 | [No Llores Por Ella](https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [Con El Machete En La Mano](https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol) | 4:50 |
 | 91 | [Agua pa las flores](https://open.spotify.com/track/6xDLz0ASdr7awIQfI2fdCv) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Agua pa las flores](https://open.spotify.com/album/3mcFoaCh162OmUQYXolsmR) | 2:42 |
-| 92 | [Como Los Rayos Del Sol](https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Como Los Rayos Del Sol](https://open.spotify.com/album/7460LMvayest0YKVf9u052) | 3:36 |
-| 93 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
+| 92 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
+| 93 | [Como Los Rayos Del Sol](https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Como Los Rayos Del Sol](https://open.spotify.com/album/7460LMvayest0YKVf9u052) | 3:36 |
 | 94 | [El Costo De La Vida](https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h) | [Rey Casas](https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk) | [Juan Luis Guerra Y 440 \(Versiones Instrumentales\)](https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p) | 2:28 |
 | 95 | [La Ventanita](https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor de Lo Mejor \- Tropical](https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i) | 4:46 |
 | 96 | [Que No Se Acabe](https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Que No Se Acabe](https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn) | 3:18 |

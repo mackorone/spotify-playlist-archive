@@ -1,6 +1,6 @@
 {
   "description": "Put a smile on your face with these happy tunes from the last 30 years. ",
-  "num_followers": 571094,
+  "num_followers": 571445,
   "original_name": "Happy Favorites",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -963,6 +947,22 @@
       "duration_ms": 170826,
       "name": "Galway Girl",
       "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Blurred Lines (Deluxe)",
         "url": "https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 263826,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Best Song Ever",
+      "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
         "name": "A Little Bit of Mambo",
         "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
       },
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "Best Song Ever",
-      "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Don't Worry (feat. Ray Dalton)",
         "url": "https://open.spotify.com/album/7rtYhYGbnV4OPbqIhendi8"
       },
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Born This Way (International Special Edition Version)",
         "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 260252,
       "name": "Born This Way",
       "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 243160,
       "name": "Livin' la Vida Loca",
       "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 168259,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/5fy0X0JmZRZnVa2UEicIOl"
       },
@@ -2387,18 +2371,18 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 225786,
-      "name": "Shiny Happy People",
-      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
+      "duration_ms": 168259,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -2419,18 +2403,18 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -2451,18 +2435,18 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
       "artists": [
         {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 257359,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -2483,6 +2467,22 @@
       "duration_ms": 184133,
       "name": "Mama",
       "url": "https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -2599,22 +2583,18 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Night Shades",
-        "url": "https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i"
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
       "artists": [
         {
-          "name": "Cobra Starship",
-          "url": "https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY"
-        },
-        {
-          "name": "Sabi",
-          "url": "https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 215693,
-      "name": "You Make Me Feel... (feat. Sabi)",
-      "url": "https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -2635,6 +2615,26 @@
       "duration_ms": 231373,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/7HacCTm33hZYYN8DXpCYuG"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Night Shades",
+        "url": "https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i"
+      },
+      "artists": [
+        {
+          "name": "Cobra Starship",
+          "url": "https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY"
+        },
+        {
+          "name": "Sabi",
+          "url": "https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "You Make Me Feel... (feat. Sabi)",
+      "url": "https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"
     },
     {
       "added_at": "2024-07-15 19:33:58",

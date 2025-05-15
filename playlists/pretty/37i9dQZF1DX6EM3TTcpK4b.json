@@ -1,6 +1,6 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Lola Beltr\u00e1n",
-  "num_followers": 378063,
+  "num_followers": 378234,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Mi Persona Preferida",
-        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Marco Antonio Solis",
         "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 191640,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Mi Persona Preferida",
+        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -267,8 +267,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -383,8 +383,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "En Vivo, Desde Su Lugar",
-        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 162146,
-      "name": "Cheque En Blanco - Live",
-      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Lucha Villa Y Aida",
         "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 184560,
       "name": "Ya No Me Interesas",
       "url": "https://open.spotify.com/track/359vq12J0koGowGV9pxek4"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "En Vivo, Desde Su Lugar",
+        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 162146,
+      "name": "Cheque En Blanco - Live",
+      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "15 Exitos De Federico Villa - Versiones Originales",
-        "url": "https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk"
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
       },
       "artists": [
         {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 209666,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC"
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "15 Exitos De Federico Villa - Versiones Originales",
+        "url": "https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "Caminos de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
       },
@@ -1747,18 +1763,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+        "name": "Brillantes - Jose Alfredo Jimenez",
+        "url": "https://open.spotify.com/album/6l0g4dldlzFpDthm87Ddql"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
+      "duration_ms": 158773,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/2E7m3h55nR9BZFkxSHh0Bx"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/34riZ1re1oumqDvLs7z1Fg"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Camino de Guanajuato",
-      "url": "https://open.spotify.com/track/2tPWzcW3et2X8QN53ZiMmR"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "15 Exitos Con Mariachi - Cornelio Reyna",
         "url": "https://open.spotify.com/album/0jSAdduL3crAhdTYDm58Ga"
       },
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Antonio Aguilar Con Mariachi",
-        "url": "https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 233302,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/3q1SkQUwAKRGjR21Mi3sVC"
       },
@@ -1959,18 +1943,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Ay Jalisco no te rajes (1953 - 1959)",
-        "url": "https://open.spotify.com/album/7ActWUIgouKsYnWEgwXAN8"
+        "name": "Antonio Aguilar Con Mariachi",
+        "url": "https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t"
       },
       "artists": [
         {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 196884,
-      "name": "Cucurrucucu paloma",
-      "url": "https://open.spotify.com/track/7ywhdttz7xLu04KtB1lVNu"
+      "duration_ms": 233302,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1987,6 +1971,22 @@
       "duration_ms": 160240,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/28vqZLZyXePnLCCFtRxaO3"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Ay Jalisco no te rajes (1953 - 1959)",
+        "url": "https://open.spotify.com/album/7ActWUIgouKsYnWEgwXAN8"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 196884,
+      "name": "Cucurrucucu paloma",
+      "url": "https://open.spotify.com/track/7ywhdttz7xLu04KtB1lVNu"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/34riZ1re1oumqDvLs7z1Fg"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Camino de Guanajuato",
+      "url": "https://open.spotify.com/track/2tPWzcW3et2X8QN53ZiMmR"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "Javier Solis con Trio",
         "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 206880,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/0va0TL9p2ObwNgP7eHjRNc"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "Brillantes - Jose Alfredo Jimenez",
-        "url": "https://open.spotify.com/album/6l0g4dldlzFpDthm87Ddql"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 158773,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/2E7m3h55nR9BZFkxSHh0Bx"
     }
   ],
   "unique_name": "Cl\u00e1sicas del Mariachi",

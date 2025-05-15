@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,440 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,447 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 18 | [The Sound of Silence \- Electric Version](https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 3:05 |
 | 19 | [La voglia, la pazzia](https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [La voglia la pazzia l'incoscienza l'allegria](https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH) | 2:53 |
 | 20 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
-| 21 | [L'Estate Sta Finendo](https://open.spotify.com/track/2ZgIpoW01dJhpHwkOCgV2d) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:47 |
-| 22 | [Tutto il resto e' noia](https://open.spotify.com/track/0RbhVoxOZE8BniSgmDbaXV) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tutto Il Resto E' Noia](https://open.spotify.com/album/1tIlFQtwEMi0icuiu4uf8x) | 4:34 |
+| 21 | [Tutto il resto e' noia](https://open.spotify.com/track/0RbhVoxOZE8BniSgmDbaXV) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tutto Il Resto E' Noia](https://open.spotify.com/album/1tIlFQtwEMi0icuiu4uf8x) | 4:34 |
+| 22 | [L'Estate Sta Finendo](https://open.spotify.com/track/2ZgIpoW01dJhpHwkOCgV2d) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:47 |
 | 23 | [A mano a mano](https://open.spotify.com/track/0x4HvQuUbXAa4bYForAK7S) | [Rino Gaetano](https://open.spotify.com/artist/5RRPSRJpISAWEPOeSfYuhV) | [Ahi Maria 40th](https://open.spotify.com/album/1ig6PdGZl6gPbCd7N10Jcr) | 3:38 |
 | 24 | [Crêuza de mä \- New Mix 2014](https://open.spotify.com/track/4Y3WfBJo7kwWkvzU8jzbno) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Creuza de ma](https://open.spotify.com/album/6UGZ5FUUu2W0MWtEUvEcIJ) | 6:15 |
 | 25 | [Folle città](https://open.spotify.com/track/4o2cAoMoEdglmMI6Acx5IY) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [BANDABERTÈ](https://open.spotify.com/album/1M8gb4GMq9cQCVExvtWx0o) | 3:37 |

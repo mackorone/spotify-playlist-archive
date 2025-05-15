@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: TJ Monterde, 10CM\)
 
-231 songs - 12 hr 17 min
+232 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Little Space \(feat\. YUNHO, SAN, JONGHO of ATEEZ\)](https://open.spotify.com/track/624r3MZSDeOFP2Ciizhxja) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [A Little Space \(feat\. YUNHO, SAN, JONGHO of ATEEZ\)](https://open.spotify.com/album/4SXsvcrYpEi6NYfjv2qIjA) | 2:54 | 2021-12-20 | 2022-04-20 |
 | [A WOO!!](https://open.spotify.com/track/7DzFF9F9FK7zaBZMyEKPjn) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [A WOO!!](https://open.spotify.com/album/5hptDtgFSlWscXePYAYyio) | 3:43 | 2022-02-16 | 2022-12-06 |
 | [About Time \(feat\. Kelsey Kuan & prettyhappy\)](https://open.spotify.com/track/3J7hHQpqeaAcjJfSwMtRyG) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [About Time](https://open.spotify.com/album/7c0ZJvTLEC3IRWyFdssXab) | 2:47 | 2022-02-16 | 2023-02-17 |
+| [After 3](https://open.spotify.com/track/7fucJHWl7ssOzaaf5ubYiq) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Acoustic Romantics](https://open.spotify.com/album/6rUpTn5A0sCI8AB1CJBvx4) | 3:14 | 2025-05-14 |  |
 | [Alcohol\-Free \- Japanese ver.](https://open.spotify.com/track/3gSGchfwjDKKVOE3RRXDSZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:33 | 2022-03-16 | 2024-03-16 |
 | [All Good\-JP Ver.\-](https://open.spotify.com/track/0UtMa8PmILmB188rSCBVb2) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [All Good\-JP Ver.\-](https://open.spotify.com/album/7HUcINwctfzAmaDrXiZm71) | 3:25 | 2021-12-20 | 2022-02-25 |
 | [All My Life \(Stray Kids Remix\)](https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 3:37 | 2023-10-20 |  |
@@ -145,7 +146,7 @@
 | [NIGHT DANCER \- Korean Ver.](https://open.spotify.com/track/19V8IRXP5XdFs1SVL58ZSA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:29 | 2023-05-15 | 2025-04-17 |
 | [No More X \- English Version](https://open.spotify.com/track/3tj0PEdTWeq5u1TwH19gMA) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [RE:ALIZE](https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy) | 2:58 | 2021-12-20 | 2022-05-14 |
 | [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2021-12-20 | 2022-05-13 |
-| [Only One](https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Only One](https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ) | 2:56 | 2024-03-15 |  |
+| [Only One](https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Only One](https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ) | 2:56 | 2024-03-15 | 2025-05-15 |
 | [Outsider \- Japanese ver.](https://open.spotify.com/track/1RV09P1WY4hOuEeaJpYR5I) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Outsider \(Japanese ver.\)](https://open.spotify.com/album/1hMQMtvkT6cFYEfyspI8BH) | 3:32 | 2021-12-20 | 2022-03-05 |
 | [Paradigm](https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.PARADIGM](https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA) | 3:13 | 2022-12-05 | 2024-12-07 |
 | [PARTY](https://open.spotify.com/track/3iQbIF9CvyOPRkiM9fvA3B) | [PimryPie](https://open.spotify.com/artist/7z8ogkK79YxSjsssdusjdm), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [PARTY](https://open.spotify.com/album/7cLnshDajDNJpTHY8bLoiM) | 3:15 | 2023-02-10 | 2024-08-14 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,257 songs - 2 day 21 hr 34 min
+1,258 songs - 2 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 | 2022-01-02 | 2025-01-04 |
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2021-04-26 | 2021-08-14 |
 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 | 2023-09-23 | 2023-10-01 |
-| [Bugatti](https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Bugatti](https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j) | 2:50 | 2025-05-03 |  |
+| [Bugatti](https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Bugatti](https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j) | 2:50 | 2025-05-03 | 2025-05-15 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-07-15 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 | 2021-08-29 | 2021-08-30 |
@@ -528,6 +528,7 @@
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-07-16 | 2023-03-19 |
 | [LA BANDA](https://open.spotify.com/track/7KUVPU8pcdIfKYo1IWdJQp) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 2:52 | 2024-05-31 | 2024-07-21 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-26 | 2023-09-27 |
+| [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2025-05-14 |  |
 | [La Consentida](https://open.spotify.com/track/6WBAwTrUIwWJTlS8e3v5Zx) | [Hugo Lagos](https://open.spotify.com/artist/5ytJE29OqgTxbR1i4QJIFE) | [Cuecas Pa'l Dieciocho \- Independence Day Folk Dance \- For Export](https://open.spotify.com/album/612WCjoAGaBQa3RWxhFDzz) | 1:57 | 2021-09-19 | 2024-09-21 |
 | [La Consentida](https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf) | [Los Hermanos Campos](https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6) | [30 Cuecas](https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK) | 2:43 | 2021-09-19 | 2024-09-22 |
 | [La Consentida](https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd) | [Silvia Infantas Y Los Condores](https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD) | [Chile Tipico Vol.3 Camino De Luna](https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS) | 2:07 | 2024-09-19 | 2024-09-22 |

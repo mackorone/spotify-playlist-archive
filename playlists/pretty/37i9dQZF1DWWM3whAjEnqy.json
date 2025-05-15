@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 962,
+  "num_followers": 964,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Waves (Acoustic)",
         "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 248176,
       "name": "Waves - Acoustic",
       "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Chimney's Afire",
-        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
-      },
-      "artists": [
-        {
-          "name": "Josh Pyke",
-          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "The Summer",
-      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/4tdsg3GqsZV9aXZpeo0bQX"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 295266,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/7EbF4gSZiu6G6NDx5pHStP"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Chimney's Afire",
+        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
+      },
+      "artists": [
+        {
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "The Summer",
+      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Vantage Point",
-        "url": "https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4"
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
       "artists": [
         {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
         }
       ],
-      "duration_ms": 179642,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx"
+      "duration_ms": 223712,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+        "name": "Vantage Point",
+        "url": "https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4"
       },
       "artists": [
         {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
         }
       ],
-      "duration_ms": 223712,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
+      "duration_ms": 179642,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Apple Crumble",
-        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 203316,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 203250,
       "name": "These Days",
       "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Apple Crumble",
+        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 203316,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "That Place",
-        "url": "https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 278700,
-      "name": "That Place",
-      "url": "https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Inappropriate Behaviour",
         "url": "https://open.spotify.com/album/5ba8H8cdgeBRItvryKyzoY"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 227978,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/3NHyJsVdN5YYyERIGQE1aC"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "That Place",
+        "url": "https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "duration_ms": 278700,
+      "name": "That Place",
+      "url": "https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU"
     },
     {
       "added_at": "2023-11-15 02:04:48",

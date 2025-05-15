@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,722 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,747 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 36 | [Poor Little Fool](https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Legendary Masters Series \(Volume 1\)](https://open.spotify.com/album/5R27t83T8Jhltww09lriMo) | 2:33 |
 | 37 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
 | 38 | [The Black Hills of Dakota \(with Paul Weston & His Orchestra\) \- Version 1](https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Calamity Jane / The Pajama Game](https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG) | 2:58 |
-| 39 | [Mambo Italiano](https://open.spotify.com/track/5fTLxkGtPTcqgEY88AeB5r) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Music To Watch Girls By \- The Classics](https://open.spotify.com/album/02F3n1WpxDOwGNX6fLP6to) | 2:30 |
-| 40 | [Outside of Heaven](https://open.spotify.com/track/5me6syYRQFgzMXGV3sK9Nr) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Just a little Love](https://open.spotify.com/album/4uI7l9lBNI3rzpW9V0OAif) | 2:38 |
+| 39 | [Outside of Heaven](https://open.spotify.com/track/5me6syYRQFgzMXGV3sK9Nr) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Just a little Love](https://open.spotify.com/album/4uI7l9lBNI3rzpW9V0OAif) | 2:38 |
+| 40 | [Mambo Italiano](https://open.spotify.com/track/5fTLxkGtPTcqgEY88AeB5r) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Music To Watch Girls By \- The Classics](https://open.spotify.com/album/02F3n1WpxDOwGNX6fLP6to) | 2:30 |
 | 41 | [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 |
 | 42 | [I'm In Love Again](https://open.spotify.com/track/4YwJx3IDgQQY75yGMXG8A0) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 1:58 |
 | 43 | [A Teenager In Love](https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [The Best of British Rock 'n' Roll / 1956 \- 1959, Vol\. 2](https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK) | 2:21 |

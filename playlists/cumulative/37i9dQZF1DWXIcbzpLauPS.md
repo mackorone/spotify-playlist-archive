@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Caskets
 
-1,216 songs - 3 day 2 hr 43 min
+1,217 songs - 3 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,10 +323,11 @@
 | [Devil Left Me On Read](https://open.spotify.com/track/2VWkJzH8TTZ2D0MI50iaBx) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Devil Left Me On Read](https://open.spotify.com/album/4CxKGc6sptru8aY1MVshGg) | 2:38 | 2025-03-31 | 2025-04-26 |
 | [Di\-sinTer](https://open.spotify.com/track/02eVF039fjBLltP8DnbdXj) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Di\-sinTer](https://open.spotify.com/album/5rF5JS8hHkG7yUzefIX8LW) | 3:25 | 2022-01-07 | 2022-03-18 |
 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 | 2023-01-06 | 2023-04-01 |
-| [Die in Fear](https://open.spotify.com/track/0VFblhvkIP15Vq1s2nbzmw) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Die in Fear / Afore A Waking Nightmare](https://open.spotify.com/album/5bm5UJ3z4Wy95YYUXK7Wcj) | 1:30 | 2025-04-25 |  |
+| [Die in Fear](https://open.spotify.com/track/0VFblhvkIP15Vq1s2nbzmw) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Die in Fear / Afore A Waking Nightmare](https://open.spotify.com/album/5bm5UJ3z4Wy95YYUXK7Wcj) | 1:30 | 2025-04-25 | 2025-05-15 |
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-01-07 | 2022-03-18 |
 | [Dirge](https://open.spotify.com/track/4tS7QOYoendjupkCIPQ9Em) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [There Are Things Worse Than Death \- EP](https://open.spotify.com/album/5DXsxOvyvZ9uAdfjpBcU7B) | 3:40 | 2021-12-17 | 2022-02-18 |
 | [Disappear](https://open.spotify.com/track/1c04Lv2KJB8gs5Szgf48yo) | [Annalynn](https://open.spotify.com/artist/3VBnJPcfaEGWPpON1aaVIX) | [Disappear](https://open.spotify.com/album/5gYmaHKa0j8GHgpnCqonWz) | 4:19 | 2023-07-14 | 2024-01-13 |
+| [Disclosure](https://open.spotify.com/track/6o56ET8RCtfQTczMrUsCzQ) | [HAWK](https://open.spotify.com/artist/29f2mFV3WUYNmmrhHKV9rX), [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [Disclosure](https://open.spotify.com/album/3cibP6VYknES6QUccch6CJ) | 3:38 | 2025-05-09 |  |
 | [Disconnected](https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Disconnected](https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2) | 4:26 | 2021-12-17 | 2022-04-02 |
 | [Disease](https://open.spotify.com/track/0pgq34BPcxMI2mbcPM2asZ) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [Disease](https://open.spotify.com/album/0DKBiS0Zg1aJf1cMsAydL5) | 3:13 | 2022-07-13 | 2022-07-23 |
 | [Dissociative Being](https://open.spotify.com/track/7viT7z5vi1jk1TP8nKtdzW) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Dissociative Being](https://open.spotify.com/album/0yf8qxSFTinq7lVURtd016) | 3:50 | 2024-04-12 | 2024-05-11 |

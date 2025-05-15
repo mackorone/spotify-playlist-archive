@@ -5391,6 +5391,24 @@
     },
     {
       "album": {
+        "name": "Pop 2",
+        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326906,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "album": {
         "name": "Pixel Bath",
         "url": "https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL"
       },

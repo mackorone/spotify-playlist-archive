@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,687 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,684 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 59 | [Jestem głodny](https://open.spotify.com/track/6qaBioF12imgy5o5uzfXMg) | [TSA](https://open.spotify.com/artist/1lf4FrrTMK1QsbXa4wrqZV) | [Live 2021](https://open.spotify.com/album/13kknTdU4y2kcRci2KApiN) | 3:56 |
 | 60 | [Górniczy stan](https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58) | [Marcin Wyrostek](https://open.spotify.com/artist/1kf0CUM0tP2zr1hpJdugrL), [Orkiestra Symfoniczna Filharmonii Śląskiej](https://open.spotify.com/artist/6T83dEJPnSvG3zVKI1jD1d), [Urszula Dudziak](https://open.spotify.com/artist/7eSejfUR2a7h5u9IKfYwRk), [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Tradycyja](https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV) | 4:38 |
 | 61 | [Adam's Apple: III\. Temptation](https://open.spotify.com/track/7dsdSD422nQiCJeYfrFSPc) | [Mateusz Smoczyński](https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu), [Rafal Janiak](https://open.spotify.com/artist/26xDzMhDqi1HtB3riFUqme), [Chopin University Chamber Orchestra](https://open.spotify.com/artist/6UV8U2a96aSNrQhaFO2O0O) | [Adam's Apple](https://open.spotify.com/album/2a8z64pYBe16Mp8xLHFzMf) | 5:14 |
-| 62 | [Kakaruka](https://open.spotify.com/track/2fb3RHwPrq85YYh9pl4wdN) | [Henryk Miskiewicz](https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie), [Chopin University Big Band](https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY), [Piotr Kostrzewa](https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB) | [Come back...](https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v) | 6:56 |
-| 63 | [Song for Sarah](https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [September Night](https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i) | 6:20 |
+| 62 | [Song for Sarah](https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [September Night](https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i) | 6:20 |
+| 63 | [Kakaruka](https://open.spotify.com/track/2fb3RHwPrq85YYh9pl4wdN) | [Henryk Miskiewicz](https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie), [Chopin University Big Band](https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY), [Piotr Kostrzewa](https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB) | [Come back...](https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v) | 6:56 |
 | 64 | [Haunting](https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq) | [Blindead 23](https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J) | [Vanishing](https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja) | 8:30 |
 | 65 | [String Quartet No\. 1 "Atomizations": I\. Interference](https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI) | [Dawid Lubowicz](https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX), [Atom String Quartet](https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2) | [Universum](https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu) | 5:32 |
 | 66 | [Brim On](https://open.spotify.com/track/5z3i72DxQNAqW4M7fdZzaq) | [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Zohar Fresco](https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN) | [Brim On](https://open.spotify.com/album/5RnCLXPB0KxFVBksaw2H4Y) | 4:22 |

@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Don Glori\. Artwork: Joy Yamusangie.
 
-1,575 songs - 5 day 3 hr 7 min
+1,576 songs - 5 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1113,7 +1113,7 @@
 | [Safe Way To Fall](https://open.spotify.com/track/6Y3x4MMpSImDwqP9Y2E9cB) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [John Psathas](https://open.spotify.com/artist/6DhDoOqFJ62yiSAdVrkNGr) | [Safe Way To Fall](https://open.spotify.com/album/6tN9HzBJLCmM5IeCBsWiPp) | 3:59 | 2022-05-25 | 2022-06-23 |
 | [SAKURA](https://open.spotify.com/track/0NIEDjp3hwEeKetEvqy16x) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [SAKURA](https://open.spotify.com/album/7I4ZcSc79LF9QGVuD9vvue) | 3:19 | 2024-03-13 | 2024-08-01 |
 | [SAKURA](https://open.spotify.com/track/6c7Mi7PUhxzzj8r1BLFoMn) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [OPEN THE GATES](https://open.spotify.com/album/1p4XxRbVTvKp9uGmOLi3qC) | 3:19 | 2024-12-04 | 2025-01-16 |
-| [Samba Dobrado](https://open.spotify.com/track/6mDvp0PsQg9rEYglApLNad) | [Matheus Nicolaiewsky](https://open.spotify.com/artist/3untPZHoJS7x6L88Euh3FO), [Yotam Silberstein](https://open.spotify.com/artist/7tKhud8BmUnoibLkJz7C6r), [Kiko Freitas](https://open.spotify.com/artist/6Y3gZJLyL28vBvVx0zIwdR) | [Samba Dobrado](https://open.spotify.com/album/21z3eOv6RHo7ZlkEX4EyF0) | 6:02 | 2024-11-06 |  |
+| [Samba Dobrado](https://open.spotify.com/track/6mDvp0PsQg9rEYglApLNad) | [Matheus Nicolaiewsky](https://open.spotify.com/artist/3untPZHoJS7x6L88Euh3FO), [Yotam Silberstein](https://open.spotify.com/artist/7tKhud8BmUnoibLkJz7C6r), [Kiko Freitas](https://open.spotify.com/artist/6Y3gZJLyL28vBvVx0zIwdR) | [Samba Dobrado](https://open.spotify.com/album/21z3eOv6RHo7ZlkEX4EyF0) | 6:02 | 2024-11-06 | 2025-05-15 |
 | [Sambal](https://open.spotify.com/track/19akqXe8ojkvh8PSTrA1yq) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 5:55 | 2022-10-19 | 2022-12-01 |
 | [Sambal](https://open.spotify.com/track/1Fk7G7nsQrRqDJZW2B5CuI) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 5:55 | 2022-10-19 | 2022-11-06 |
 | [Samo](https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H) | [Emanuele Triglia](https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp), [Davide Savarese](https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf), [QWALE](https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh), [Francesco Fratini](https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB), [Vincenzo Lato](https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV) | [Moon Kin](https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm) | 2:36 | 2024-06-05 | 2024-08-01 |
@@ -1220,6 +1220,7 @@
 | [Star Crossing](https://open.spotify.com/track/2nvyck5lSFUiwtnpG7H8mX) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [Star Crossing](https://open.spotify.com/album/2PVBkjfnPzaLnS4TcR5XN9) | 4:19 | 2022-06-01 | 2022-06-30 |
 | [Stardust](https://open.spotify.com/track/2l8nWLkLuQTrRgsuGpQkT1) | [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [What A Wonderful World](https://open.spotify.com/album/4T1dek2O0wIVMG9ljzu5yM) | 5:14 | 2023-06-14 | 2023-09-15 |
 | [Stardust](https://open.spotify.com/track/4JRLytUE8OoVFYOVb8pF2s) | [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Stardust](https://open.spotify.com/album/1aNEqxblgIVMhykm0TLnnS) | 5:14 | 2023-06-14 | 2023-07-31 |
+| [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 | 2025-05-14 |  |
 | [Starshine](https://open.spotify.com/track/5QJ9hMbrRgy0bh2Rf6X2qH) | [STL Collective](https://open.spotify.com/artist/1BVPGx5V0loqZCjZsGyUHe), [Joanna Serenko](https://open.spotify.com/artist/1Kgono2MXcTfWH2AX2bbrO), [Tyler Dale](https://open.spotify.com/artist/77ZEWK0kppsHZbuCK0aOH8) | [Starshine](https://open.spotify.com/album/7m6wntXpuUnxWdLxY2pwwa) | 3:44 | 2022-07-27 | 2022-09-09 |
 | [Stay](https://open.spotify.com/track/0GW6SappoJCn0eMqWDWX62) | [Julieta Eugenio](https://open.spotify.com/artist/3H7h1KgR3buzLFKHRSQN45) | [STAY](https://open.spotify.com/album/5M2nKeJUPVLkRaUDBPigJs) | 7:40 | 2024-12-04 | 2025-01-16 |
 | [Stay](https://open.spotify.com/track/20UgP0t6d6MPeex3FvgV9f) | [Julieta Eugenio](https://open.spotify.com/artist/3H7h1KgR3buzLFKHRSQN45) | [Stay](https://open.spotify.com/album/3S7farIQSVSidIFbURbl8M) | 7:40 | 2024-04-03 | 2024-06-19 |

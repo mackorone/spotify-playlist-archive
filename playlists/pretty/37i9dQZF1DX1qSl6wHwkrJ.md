@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,903 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,901 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 28 | [The Day It Snows On Christmas](https://open.spotify.com/track/7dhgZvhWgeDhp1GpIfYcGq) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Christmas Gumbo](https://open.spotify.com/album/3v7yoCGisdwfvIBnU9RYmp) | 3:16 |
 | 29 | [Santa](https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Death Might Be Your Santa Claus](https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH) | 3:45 |
 | 30 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 |
-| 31 | [Christmas Eve Blues](https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Mississippi Delta Blues Jam In Memphis, Vol\. 2](https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr) | 5:13 |
-| 32 | [Christmas Card Blues](https://open.spotify.com/track/4IbVYsXSPIpxJBGcfOyHxI) | [Mickey Jupp](https://open.spotify.com/artist/51rvBqpLHpqtbuaIrs4hAT) | [Little River EP](https://open.spotify.com/album/2AHIk4wV03k832bCuydIOX) | 3:04 |
+| 31 | [Christmas Card Blues](https://open.spotify.com/track/4IbVYsXSPIpxJBGcfOyHxI) | [Mickey Jupp](https://open.spotify.com/artist/51rvBqpLHpqtbuaIrs4hAT) | [Little River EP](https://open.spotify.com/album/2AHIk4wV03k832bCuydIOX) | 3:04 |
+| 32 | [Christmas Eve Blues](https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Mississippi Delta Blues Jam In Memphis, Vol\. 2](https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr) | 5:13 |
 | 33 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 |
 | 34 | [Jingle Bell Rock](https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Jingle Bell Rock](https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2) | 3:32 |
 | 35 | [Baby, It's Cold Outside](https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Baby, It's Cold Outside](https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4) | 4:31 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 39 | [Christmas in Your Arms](https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4) | [Bad Temper Joe](https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6) | [Christmas in Your Arms](https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A) | 2:43 |
 | 40 | [Christmas Blues](https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:10 |
 | 41 | [Far Away Christmas Blues](https://open.spotify.com/track/01GFlck1TZRWWaZ87kwtUH) | [ジョニー・オーティス](https://open.spotify.com/artist/54WGSF3PnOne3EVNVsPmlW), [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 3:21 |
-| 42 | [Merry Christmas Baby](https://open.spotify.com/track/5nj3Z2A1DnkLNO3Z3rEYww) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Johnny Moore's 3 Blazers](https://open.spotify.com/artist/5Trz1MSJiGnhDq4y0KUFK1) | [Merry Christmas Baby / Sleigh Ride](https://open.spotify.com/album/0FaHv9Z81MFmoo8MxW1yPW) | 2:39 |
-| 43 | [Silent Night](https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 2:41 |
+| 42 | [Silent Night](https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 2:41 |
+| 43 | [Merry Christmas Baby](https://open.spotify.com/track/5nj3Z2A1DnkLNO3Z3rEYww) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Johnny Moore's 3 Blazers](https://open.spotify.com/artist/5Trz1MSJiGnhDq4y0KUFK1) | [Merry Christmas Baby / Sleigh Ride](https://open.spotify.com/album/0FaHv9Z81MFmoo8MxW1yPW) | 2:39 |
 | 44 | [One Day Till Christmas](https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e) | [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [The Northern Blues Legends](https://open.spotify.com/artist/7DRHyLQgMp82jetXfhYBeR) | [Blues from the Heart](https://open.spotify.com/album/6qUDZFzGzV0Y8r9YhaPKre) | 5:20 |
 | 45 | [Christmas Blues](https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC) | [Washboard Pete](https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:37 |
 | 46 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |

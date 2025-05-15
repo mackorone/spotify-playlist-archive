@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABE+kzPyjwilH3qKv24eURC",
+  "snapshot_id": "aCKLgAAAAAAPVowgc6T8lzauwro8XjSG",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos Y Damitas",
-        "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Jr Heguertty",
-          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
-        }
-      ],
-      "duration_ms": 154338,
-      "name": "Lujos Y Damitas",
-      "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Levemente Live Sessions",
         "url": "https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 177194,
       "name": "El Pariente - En Vivo",
       "url": "https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos Y Damitas",
+        "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jr Heguertty",
+          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "Lujos Y Damitas",
+      "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA Live Session",
+        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 124117,
+      "name": "El Lic - En Vivo",
+      "url": "https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Vago",
         "url": "https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd"
       },
@@ -671,38 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA Live Session",
-        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 124117,
-      "name": "El Lic - En Vivo",
-      "url": "https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 164992,
-      "name": "Tiempo Duros",
-      "url": "https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Hice Mal",
         "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
       },
@@ -715,6 +699,26 @@
       "duration_ms": 205237,
       "name": "Que Hice Mal",
       "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dejate Llevar",
+        "url": "https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Abelardo Nevarez",
+          "url": "https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr"
+        }
+      ],
+      "duration_ms": 160362,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR"
     },
     {
       "added_at": null,
@@ -739,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 164992,
+      "name": "Tiempo Duros",
+      "url": "https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Te He Podido Olvidar",
         "url": "https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv"
       },
@@ -755,46 +775,6 @@
       "duration_ms": 218662,
       "name": "No Te He Podido Olvidar",
       "url": "https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Jordin Sandoval",
-          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
-        }
-      ],
-      "duration_ms": 145493,
-      "name": "El Dragon",
-      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dejate Llevar",
-        "url": "https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Abelardo Nevarez",
-          "url": "https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr"
-        }
-      ],
-      "duration_ms": 160362,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR"
     },
     {
       "added_at": null,
@@ -842,11 +822,15 @@
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jordin Sandoval",
+          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
         }
       ],
-      "duration_ms": 154154,
-      "name": "Que Cambie",
-      "url": "https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS"
+      "duration_ms": 145493,
+      "name": "El Dragon",
+      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 119920,
+      "name": "Medio Fresa - En Vivo",
+      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Maserati (En Vivo)",
         "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
       },
@@ -887,6 +887,38 @@
       "duration_ms": 162474,
       "name": "El Maserati - En Vivo",
       "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 154154,
+      "name": "Que Cambie",
+      "url": "https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Brillo de Mis Ojos",
+        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 212672,
+      "name": "El Brillo de Mis Ojos",
+      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
     },
     {
       "added_at": null,
@@ -911,34 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+        "name": "LA Live Session",
+        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 119920,
-      "name": "Medio Fresa - En Vivo",
-      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Brillo de Mis Ojos",
-        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
-      },
-      "artists": [
+        },
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Charly Barraza",
+          "url": "https://open.spotify.com/artist/0lt4tPr7zkjrESUVY4zEBY"
         }
       ],
-      "duration_ms": 212672,
-      "name": "El Brillo de Mis Ojos",
-      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
+      "duration_ms": 163980,
+      "name": "Empec\u00e9 De Abajo - En Vivo",
+      "url": "https://open.spotify.com/track/55wYSAADl63qjatMruo31p"
     },
     {
       "added_at": null,
@@ -963,28 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA Live Session",
-        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Charly Barraza",
-          "url": "https://open.spotify.com/artist/0lt4tPr7zkjrESUVY4zEBY"
-        }
-      ],
-      "duration_ms": 163980,
-      "name": "Empec\u00e9 De Abajo - En Vivo",
-      "url": "https://open.spotify.com/track/55wYSAADl63qjatMruo31p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jaimito El De California",
-        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
+        "name": "Desde CLN Banda Edition (En Vivo)",
+        "url": "https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 151018,
-      "name": "Jaimito El De California",
-      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
+      "duration_ms": 139332,
+      "name": "Hay Les Encargo - En Vivo",
+      "url": "https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p"
     }
   ],
   "unique_name": "This Is Alex Favela",

@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 98134,
+  "num_followers": 98159,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 554692,
+      "name": "Riod",
+      "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "The Album Formerly Known As ...",
         "url": "https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr"
       },
@@ -859,22 +879,6 @@
       "duration_ms": 415759,
       "name": "A Wonderful Life - Version",
       "url": "https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Innovator",
-        "url": "https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY"
-      },
-      "artists": [
-        {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
-        }
-      ],
-      "duration_ms": 432586,
-      "name": "The Dance",
-      "url": "https://open.spotify.com/track/1RxgS5N5HzgFh5YU1SqTYX"
     },
     {
       "added_at": "2023-10-26 20:41:14",

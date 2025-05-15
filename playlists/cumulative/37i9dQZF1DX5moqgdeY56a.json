@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 228989,
       "name": "Ella Qu\u00e9 Te Dio",
       "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 200269,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 186142,
       "name": "No Volvere",
       "url": "https://open.spotify.com/track/6QA7xL13uZ7QlN7u4w5r43"
@@ -2622,6 +2622,24 @@
       "duration_ms": 187907,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar 15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/61DytFJuhotWhmtkVdovyz"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143116,
+      "name": "Que Se Te Quite Ese Orgullo",
+      "url": "https://open.spotify.com/track/2yXB50531RQuDTEaI17wbh"
     },
     {
       "album": {

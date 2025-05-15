@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-258 songs - 21 hr 54 min
+260 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,11 +27,12 @@
 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 | 2022-07-05 | 2023-03-29 |
 | [Aura](https://open.spotify.com/track/1fg0Cj0VYuMue9IWcEKtVP) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Aura](https://open.spotify.com/album/2G1zDCzWRHxouEiscYuz6D) | 6:52 | 2022-07-05 | 2022-11-23 |
 | [Back for Rave \- Original Mix](https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Back for Rave](https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE) | 7:18 | 2022-07-05 | 2022-10-29 |
+| [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 | 2025-05-14 |  |
 | [Be a Human](https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Be a Human](https://open.spotify.com/album/3s11NDJr64QILeC3PLEoPR) | 7:02 | 2023-08-09 | 2023-10-04 |
 | [Believe](https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw) | 6:48 | 2023-10-13 | 2024-04-19 |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-07-05 | 2023-10-16 |
 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 | 2023-02-01 | 2024-08-17 |
-| [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 | 2024-08-30 |  |
+| [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 | 2024-08-30 | 2025-05-15 |
 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 | 2023-03-29 | 2024-08-12 |
 | [Bombacid](https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Bombacid](https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN) | 3:24 | 2024-12-09 |  |
 | [BORE/ALIS](https://open.spotify.com/track/2XjiQGuiVWAfLmpt5JCNMK) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [DEVIN/ITION](https://open.spotify.com/album/7JPLAj9HtVO1l1eOhQN5Nc) | 4:07 | 2022-12-16 | 2023-02-01 |
@@ -97,6 +98,7 @@
 | [Hela](https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Hela](https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn) | 5:05 | 2022-07-05 | 2022-09-26 |
 | [Hercules](https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Hercules](https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV) | 6:32 | 2022-07-05 | 2023-10-09 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-25 |  |
+| [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 | 2025-05-14 |  |
 | [How It Makes You Feel](https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [How It Makes You Feel](https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM) | 8:46 | 2022-07-05 | 2022-08-08 |
 | [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 | 2024-06-21 | 2025-04-26 |
 | [Human Race](https://open.spotify.com/track/06qNp9ttPgJB6PH7wbBZ73) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX), [Maurice Mino](https://open.spotify.com/artist/3jQ3A0KKg25CZZNBFr5fKB) | [Human Race](https://open.spotify.com/album/3MzWSjySATxEmYtzbJKsUD) | 6:09 | 2022-10-01 | 2022-10-18 |
@@ -126,7 +128,7 @@
 | [Little Hero](https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Little Hero](https://open.spotify.com/album/0iwVgKvRzzYRLDNgfalW4H) | 6:30 | 2022-09-09 | 2022-12-02 |
 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 | 2022-10-01 | 2023-10-21 |
 | [Losing Gravity](https://open.spotify.com/track/2lCJlVxUXg7hE187mVPLZm) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK) | [Losing Gravity](https://open.spotify.com/album/3WJC7hFCWhLXkDw0lrf85s) | 6:03 | 2023-09-08 | 2023-10-04 |
-| [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-09 |  |
+| [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-09 | 2025-05-15 |
 | [Luna](https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4) | [Luna](https://open.spotify.com/album/4n2DzX9Ow9SA7L2dKVy4Mc) | 3:52 | 2024-07-29 | 2025-04-14 |
 | [Machine Pulse](https://open.spotify.com/track/0BKfE3aTw6dy7im1IZldMG) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Machine Pulse](https://open.spotify.com/album/34I15SYM2dCpWDBvFddUor) | 3:41 | 2023-11-10 | 2024-08-24 |
 | [Mamma Mia \(feat\. Mentissa\) \- Techno Mix](https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Mamma Mia \(feat\. Mentissa\) \[Techno Mix\]](https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf) | 3:20 | 2024-09-20 |  |

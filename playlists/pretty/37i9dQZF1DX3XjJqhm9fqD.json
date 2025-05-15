@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier",
-  "num_followers": 95496,
+  "num_followers": 95517,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "EXTRA EXTRA!",
-        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "MUST BE",
-      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
         "name": "Agua (with Na\u00efka)",
         "url": "https://open.spotify.com/album/7fDmXJb3LpyezysooxEbpS"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 160677,
       "name": "Agua (with Na\u00efka)",
       "url": "https://open.spotify.com/track/1lJsmnUnoQ7ylhWrr8HjQb"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "MUST BE",
+      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -959,22 +959,26 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Teke Fren",
-        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
+        "name": "Loyita (feat. Thattoo Love)",
+        "url": "https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy"
       },
       "artists": [
         {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+          "name": "Balalatet",
+          "url": "https://open.spotify.com/artist/5nubIkn3OteKknszoQV2xC"
         },
         {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+          "name": "Dj Bullet",
+          "url": "https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg"
+        },
+        {
+          "name": "thattoo love",
+          "url": "https://open.spotify.com/artist/7zIXHgLcAIzEh3NhQyTblh"
         }
       ],
-      "duration_ms": 177748,
-      "name": "Teke Fren",
-      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+      "duration_ms": 228480,
+      "name": "Loyita (feat. Thattoo Love)",
+      "url": "https://open.spotify.com/track/4ZKlnErG8PPr0rLABn4x9a"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1019,26 +1023,22 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Loyita (feat. Thattoo Love)",
-        "url": "https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy"
+        "name": "Teke Fren",
+        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
       },
       "artists": [
         {
-          "name": "Balalatet",
-          "url": "https://open.spotify.com/artist/5nubIkn3OteKknszoQV2xC"
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
         },
         {
-          "name": "Dj Bullet",
-          "url": "https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg"
-        },
-        {
-          "name": "thattoo love",
-          "url": "https://open.spotify.com/artist/7zIXHgLcAIzEh3NhQyTblh"
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Loyita (feat. Thattoo Love)",
-      "url": "https://open.spotify.com/track/4ZKlnErG8PPr0rLABn4x9a"
+      "duration_ms": 177748,
+      "name": "Teke Fren",
+      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Law of Automata: Valid",
-        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
-      },
-      "artists": [
-        {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "3 Words (feat. Leven Kali)",
-      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
         "name": "White Flower",
         "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 191067,
       "name": "Bal Tout",
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
+        "name": "Law of Automata: Valid",
+        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
+      },
+      "artists": [
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "3 Words (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
         "name": "Sol\u00e8y",
         "url": "https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
         "name": "Souvni",
         "url": "https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv"
       },
@@ -1583,26 +1583,6 @@
       "duration_ms": 210410,
       "name": "Souvni",
       "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
-        "name": "Trap King",
-        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Phyllisia Ross",
-          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Fanm Ch\u00e8",
-      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1703,6 +1683,26 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
+        "name": "Trap King",
+        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Phyllisia Ross",
+          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Fanm Ch\u00e8",
+      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
         "name": "Dekonekte",
         "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Perle De Culture",
-        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
-      },
-      "artists": [
-        {
-          "name": "Riva Nyri Precil",
-          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
-        }
-      ],
-      "duration_ms": 265929,
-      "name": "Twa Fey",
-      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
+        "name": "Perle De Culture",
+        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
+      },
+      "artists": [
+        {
+          "name": "Riva Nyri Precil",
+          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
+        }
+      ],
+      "duration_ms": 265929,
+      "name": "Twa Fey",
+      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
-      },
-      "artists": [
-        {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 173025,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+      },
+      "artists": [
+        {
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     }
   ],
   "unique_name": "Haitian Heat",

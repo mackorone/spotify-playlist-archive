@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 
 > The best of the legendary composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,075 likes - 84 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,325 likes - 84 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 | 57 | [Sent Here for a Reason](https://open.spotify.com/track/39KnSmqRkxkIUtiWxzB7nN) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Man of Steel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U9on5I3tFaZCFT9DKMPbV) | 3:46 |
 | 58 | [Singapore \- From "Pirates of the Caribbean: At World's End"/Score](https://open.spotify.com/track/41fmAAv4CwSk3ly1f7Qjrc) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Pirates of the Caribbean: At World's End](https://open.spotify.com/album/241F2pNbl6OIJPixynRuiu) | 3:40 |
 | 59 | [Gortoz A Ran](https://open.spotify.com/track/4tkni14HPizDV0MCMktSzx) | [Denez Prigent](https://open.spotify.com/artist/1qid89y11TF9zHS8N3FibN) | [Black Hawk Down \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O3K9Uyp6Xak97aec1BEYq) | 5:51 |
-| 60 | [Honor \(Main Title Theme from "The Pacific"\)](https://open.spotify.com/track/4aW4Dpz3gpb619hBXDrFUa) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Geoff Zanelli](https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd), [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Pacific \(Music From the HBO Miniseries\)](https://open.spotify.com/album/0NH1WrtzRBlZS1VJX2XnXr) | 2:56 |
+| 60 | [Honor \(Main Title Theme from "The Pacific"\)](https://open.spotify.com/track/4aW4Dpz3gpb619hBXDrFUa) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Geoff Zanelli](https://open.spotify.com/artist/53WLuCwAWsn8VAWwpO8uv9), [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Pacific \(Music From the HBO Miniseries\)](https://open.spotify.com/album/0NH1WrtzRBlZS1VJX2XnXr) | 2:56 |
 | 61 | [A Small Measure of Peace](https://open.spotify.com/track/0k1zElVBehCAzAa975af71) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Last Samurai: Original Motion Picture Score](https://open.spotify.com/album/1EqLdtiBSgULHA01ooROeY) | 7:59 |
 | 62 | [Earth](https://open.spotify.com/track/4mWNwMmBADo548bT4xYtDo) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0) | 3:01 |
 | 63 | [Discombobulate](https://open.spotify.com/track/73GjO4GovgH7atouhm0rsW) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Sherlock Holmes \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CuJ2PHqrlYMbJ2j1JttXO) | 2:24 |

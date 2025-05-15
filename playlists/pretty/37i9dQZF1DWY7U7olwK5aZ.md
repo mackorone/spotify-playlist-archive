@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 
 > Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2025 official playlist\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,841 likes - 28 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,843 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 | 8 | [Always On Time](https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pain Is Love](https://open.spotify.com/album/15tmDweVwISwJoMSLgvHpp) | 4:05 |
 | 9 | [Ironic \- 2015 Remaster](https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:50 |
 | 10 | [JOYRIDE.](https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE.](https://open.spotify.com/album/0k68jcBxrsqFzgvAVteo92) | 2:30 |
-| 11 | [No Caller ID](https://open.spotify.com/track/2TOO5Dp8mlKhSq8xTGPXwX) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:28 |
-| 12 | [Hangin’ On \(feat\. Morgan Wallen\)](https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ) | 3:26 |
+| 11 | [Hangin’ On \(feat\. Morgan Wallen\)](https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ) | 3:26 |
+| 12 | [No Caller ID](https://open.spotify.com/track/2TOO5Dp8mlKhSq8xTGPXwX) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:28 |
 | 13 | [Texas](https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texas](https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz) | 2:50 |
 | 14 | [Beautiful As You](https://open.spotify.com/track/1SBoKG4MjtH2vMUpftdQtc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:43 |
 | 15 | [Nasty](https://open.spotify.com/track/7wCWK3AapKQoHZbghyIrP4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:56 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 | 20 | [Kill The Lights \(with Nile Rodgers\) \- Audien Remix](https://open.spotify.com/track/4iCKHGl4ij4YMwFrUZLGEQ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [DJ Cassidy](https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Kill The Lights \(with Nile Rodgers\) \[Remixes\]](https://open.spotify.com/album/3H2mPBmypuqKI2nLeVhLER) | 3:44 |
 | 21 | [From The Start](https://open.spotify.com/track/29Gys08x2u3ZSERTe0WvbE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 2:49 |
 | 22 | [Momma's Been Hurting](https://open.spotify.com/track/5jYYyF4kcfTRKikJW6dwry) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Hymnal Of A Troubled Man's Mind](https://open.spotify.com/album/1KLdQzh3fI4G7b00lbnOpB) | 3:43 |
-| 23 | [Honey](https://open.spotify.com/track/5lIjPRiw54GlojeQylBPx9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:50 |
-| 24 | [The Painter](https://open.spotify.com/track/0LYwkhtBj21AI8Ra0hSD8B) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather Deluxe Edition](https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0) | 3:31 |
+| 23 | [The Painter](https://open.spotify.com/track/0LYwkhtBj21AI8Ra0hSD8B) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather Deluxe Edition](https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0) | 3:31 |
+| 24 | [Honey](https://open.spotify.com/track/5lIjPRiw54GlojeQylBPx9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:50 |
 | 25 | [Ghost Story](https://open.spotify.com/track/3MpZM408Ly3jq76tF9OmZu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:01 |
 | 26 | [Paradise](https://open.spotify.com/track/21tlBWJr3rsQ5cQQtHyGUo) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [The World Changed On Me](https://open.spotify.com/album/11ftxdclHX02L9kfuzFG60) | 2:27 |
 | 27 | [Waterfalls](https://open.spotify.com/track/4wJ8ohShAABTiQoEukLeKO) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [CrazySexyCool \(30th Anniversary Edition\)](https://open.spotify.com/album/1ohF0hXuHF9v1jlvSGZ7zx) | 4:40 |

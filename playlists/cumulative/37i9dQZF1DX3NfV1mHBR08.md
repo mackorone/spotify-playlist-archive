@@ -4,7 +4,7 @@
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-97 songs - 6 hr 1 min
+98 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Enjoy This Moment](https://open.spotify.com/track/1cXgYnlavy0ZCPKVCSNL9K) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Cheer Up \(Original Soundtrack Part.4\) \- Single](https://open.spotify.com/album/11ZlYSJRPT7aRGcNRJd1rv) | 3:05 | 2025-03-26 |  |
 | [Fighting!](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting!](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 | 2023-11-03 |  |
 | [Fix me](https://open.spotify.com/track/6bSkF997fC5HQz6BuEZkXV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:06 | 2023-11-03 | 2024-04-19 |
-| [Flow](https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [DAESUNG Special Single](https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe) | 3:18 | 2024-03-05 |  |
+| [Flow](https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [DAESUNG Special Single](https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe) | 3:18 | 2024-03-05 | 2025-05-15 |
+| [For your happiness](https://open.spotify.com/track/2Crm9riNxOXtlTKHWrFaEN) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Heavenly Ever After \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4JRlSHEOWm7NiSH0xyZFHZ) | 3:24 | 2025-05-12 |  |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2023-11-03 | 2025-04-22 |
 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 | 2024-03-08 | 2025-03-27 |
 | [Good Night](https://open.spotify.com/track/4UeyAaK7d1nxuW5kFjZAlw) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:02 | 2024-08-10 |  |

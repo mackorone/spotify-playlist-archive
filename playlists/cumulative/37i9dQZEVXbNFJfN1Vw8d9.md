@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,403 songs - 3 day 4 hr 21 min
+1,404 songs - 3 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,7 +597,7 @@
 | [IGUALES](https://open.spotify.com/track/1gKnoWS17Nf8ZxEev7d3vd) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 3:03 | 2024-11-23 | 2025-01-02 |
 | [IL Capo](https://open.spotify.com/track/7v12ia1PFVN9jSgU43rJnS) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:09 | 2024-11-16 | 2024-11-18 |
 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 | 2025-03-08 | 2025-04-10 |
-| [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 | 2024-11-14 |  |
+| [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 | 2024-11-14 | 2025-05-15 |
 | [Imperio](https://open.spotify.com/track/63rRgkllF0FDeZ9fpOkFKl) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 2:48 | 2024-11-02 | 2024-11-24 |
 | [In Da Getto](https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:10 | 2021-09-12 | 2021-10-10 |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-07-21 | 2021-09-12 |
@@ -942,6 +942,7 @@
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-07 | 2023-01-22 |
 | [Olvidar](https://open.spotify.com/track/4cIADL8ZSxyz78stzb4F6X) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Olvidar](https://open.spotify.com/album/74EUdXqT952F9FpGvqD59x) | 2:57 | 2025-01-04 | 2025-01-06 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-26 | 2024-10-11 |
+| [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-05-14 |  |
 | [Orgullosa De Papá](https://open.spotify.com/track/5zRbKyT1z1TsYOVy1aLLtf) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Triana](https://open.spotify.com/album/47wk0lhqRt1MWuCxPfctcc) | 2:54 | 2024-10-31 | 2024-11-24 |
 | [Orilla](https://open.spotify.com/track/4rxPM7gelblflqcSTp6pkw) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA) | [Mr\. Fino Riddim The Mixtape](https://open.spotify.com/album/3NWoW9a2P5SlmpgWIEAFxT) | 3:13 | 2025-03-18 |  |
 | [Orilla](https://open.spotify.com/track/4zEW9cHkayxZk2eojf6cgA) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA) | [Orilla](https://open.spotify.com/album/660WBhfDrgHNtkXNfyPs6Z) | 3:13 | 2025-03-15 | 2025-03-19 |

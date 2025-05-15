@@ -4,7 +4,7 @@
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-781 songs - 2 day 0 hr 43 min
+782 songs - 2 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [6 Impromptus, Op\. 5: Impromptu V](https://open.spotify.com/track/2kyyNhBUX8aVnKitNPLOhM) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 3:51 | 2023-01-03 | 2023-02-11 |
 | [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 | 2023-01-03 | 2023-04-22 |
 | [6 Piano Pieces, Op\. 118: 6 Piano Pieces, Op\. 118/No\. 2: Intermezzo in A Major](https://open.spotify.com/track/2hXtkD5vFf6flaZWlVA6HE) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [6 Piano Pieces, Op\. 118/No\. 2: Intermezzo in A Major](https://open.spotify.com/album/5GLie4IiAzBJHlHe0swGY1) | 5:53 | 2024-07-05 |  |
+| [6 Pieces, Op\. 51: No\. 6\. Valse sentimentale](https://open.spotify.com/track/6tI8nTGJcw5Yv99K0WZp6B) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [6 Pieces, Op\. 51: No\. 6\. Valse sentimentale](https://open.spotify.com/album/40qpDXHbgkzaOntLamUNcm) | 2:06 | 2025-05-14 |  |
 | [A Blaze of Stories](https://open.spotify.com/track/1hn4vjn9LVK4TMJD3RymSj) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [IF \(Music from the Motion Picture\)](https://open.spotify.com/album/0PhINrkY39zjrInFcBXIgp) | 3:07 | 2024-05-20 | 2025-03-15 |
 | [A Calling](https://open.spotify.com/track/3EpRH47Zg4w2kykYVSLzd1) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [A Calling](https://open.spotify.com/album/28SEXaORVwMeYY9Q6VoexG) | 3:41 | 2024-01-16 | 2024-02-24 |
 | [A Catalogue of Afternoons](https://open.spotify.com/track/5T9fH8uqLhdY3Gxqa4LX2t) | [Pablo Sainz Villegas](https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j) | [A Catalogue of Afternoons](https://open.spotify.com/album/1axmsA0oP4buJ7lQIqvzjX) | 1:42 | 2023-03-24 | 2023-04-22 |

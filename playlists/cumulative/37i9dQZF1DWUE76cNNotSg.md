@@ -2,9 +2,9 @@
 
 ### [golden hour](https://open.spotify.com/playlist/37i9dQZF1DWUE76cNNotSg)
 
-> Warm indie dance vibes, the music you need at golden hour 🌞
+> Warm indie dance vibes 🌞 the music you need at golden hour
 
-570 songs - 1 day 11 hr 31 min
+571 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Killer](https://open.spotify.com/track/2dsi6faoPbIbLzDHg872yi) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [Killer](https://open.spotify.com/album/48O2eP23wvURcwunHmol5X) | 3:23 | 2024-01-26 | 2024-02-03 |
 | [Kin](https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 5:24 | 2020-12-22 | 2024-01-27 |
 | [Kinda Lovely](https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Low Season](https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe) | 3:57 | 2020-12-22 | 2023-10-23 |
-| [Know Me](https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Know Me](https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1) | 3:27 | 2024-06-07 |  |
+| [Know Me](https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Know Me](https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1) | 3:27 | 2024-06-07 | 2025-05-15 |
 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 | 2020-12-22 | 2024-06-15 |
 | [Kyoto](https://open.spotify.com/track/2QXvZBjs59MbSQ20GxoqA2) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Kyoto](https://open.spotify.com/album/1qR5wPZbSGwhQso0PD8Zye) | 4:00 | 2020-12-22 | 2022-07-23 |
 | [La Perla \- Edit](https://open.spotify.com/track/6CldyxMa4XuHWAhAlaPWmt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 3:46 | 2021-03-19 | 2022-09-05 |
@@ -574,6 +574,7 @@
 | [You and Me](https://open.spotify.com/track/7ubkcbI0UvHUuKzeJbHNGY) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [You and Me](https://open.spotify.com/album/0VsXTiPidDBo0PGxhkPziI) | 3:54 | 2020-12-22 | 2022-04-19 |
 | [you loved me like a fool](https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [you loved me like a fool](https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ) | 3:34 | 2025-04-25 |  |
 | [You Make Me Feel So Good](https://open.spotify.com/track/6lx8BAoZxATQV3cDPitrbB) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 3:37 | 2023-12-01 |  |
+| [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 | 2025-05-14 |  |
 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2020-12-22 | 2024-01-25 |
 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 | 2025-03-07 |  |
 | [Zanzibar](https://open.spotify.com/track/0czEIxZg628LnldJfm7usx) | [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [Zanzibar](https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW) | 3:48 | 2020-12-22 | 2024-01-27 |

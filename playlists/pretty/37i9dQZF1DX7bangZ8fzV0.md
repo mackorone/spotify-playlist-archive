@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q?si=0gPX7q7fS76xdBU6e48pWw">Chris Steyn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,633 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,668 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6lpMQmg0sVeladspBg3BYf">Danny L Harle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-91 songs - 9 hr 59 min
+96 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Boing Beat](https://open.spotify.com/track/0eH17iG3LJY88hjCTdC756) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [MC Boing](https://open.spotify.com/artist/76PsQmabD32wQz48hYBV8F) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 1:32 | 2024-05-01 |  |
 | [Bom Bom](https://open.spotify.com/track/17u7NdikjpRuWVnHgiPllH) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Bom Bom](https://open.spotify.com/album/1gDP1tT2XQJAE1ZOscTnHg) | 3:39 | 2024-05-01 |  |
 | [Boogie All Night](https://open.spotify.com/track/4YyPw3tshZ4Mphjob3ZYBQ) | [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [It’s About Time](https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b) | 3:30 | 2024-05-01 |  |
-| [Bordello](https://open.spotify.com/track/62Vr2k9XRwj8Ru60iNmEO0) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Bordello](https://open.spotify.com/album/2yGK3WB3D9I3paGskTo8ZW) | 4:16 | 2024-05-01 |  |
+| [Bordello](https://open.spotify.com/track/0YbpR0ojhG9BuY3oXAdkm6) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Bordello](https://open.spotify.com/album/5qNQxGIlisgzIJDn0LOk8g) | 4:16 | 2025-05-14 |  |
+| [Bordello](https://open.spotify.com/track/62Vr2k9XRwj8Ru60iNmEO0) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Bordello](https://open.spotify.com/album/2yGK3WB3D9I3paGskTo8ZW) | 4:16 | 2024-05-01 | 2025-05-15 |
 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:23 | 2024-05-01 |  |
 | [Bunny Is A Rider](https://open.spotify.com/track/40tRJ8bMkIkXh8vhHKQsoX) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:13 | 2024-05-01 |  |
 | [Butterfly Net](https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:36 | 2024-05-01 |  |
@@ -67,7 +68,8 @@
 | [Me4U](https://open.spotify.com/track/0qPmLKtO5mtwc0CShdYcr5) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Morrie](https://open.spotify.com/artist/4nsjop0IqKgJIhARkI2UwY) | [Me4U](https://open.spotify.com/album/0JvcnooibogVN9G6VzYji0) | 3:24 | 2024-05-01 |  |
 | [Mommy](https://open.spotify.com/track/2cTdFq3Cg5w2r3TGMSEHdp) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Mommy](https://open.spotify.com/album/6yv0i2TfhXLcTGIkUSKsIi) | 2:34 | 2024-05-01 |  |
 | [New Normal](https://open.spotify.com/track/3dPkaunRnlcwGiOTJpQGD1) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 2:34 | 2024-05-01 |  |
-| [Nocebo](https://open.spotify.com/track/4Jjl0nWNOIG9GiVR7WPbCr) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Bordello](https://open.spotify.com/album/2yGK3WB3D9I3paGskTo8ZW) | 5:42 | 2024-05-01 |  |
+| [Nocebo](https://open.spotify.com/track/1kS2kIUPBEuDnLEz9uCK2r) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Bordello](https://open.spotify.com/album/5qNQxGIlisgzIJDn0LOk8g) | 5:42 | 2025-05-14 |  |
+| [Nocebo](https://open.spotify.com/track/4Jjl0nWNOIG9GiVR7WPbCr) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Bordello](https://open.spotify.com/album/2yGK3WB3D9I3paGskTo8ZW) | 5:42 | 2024-05-01 | 2025-05-15 |
 | [Ocean of Tears](https://open.spotify.com/track/4RqBss578GNj4u9VYZK5u0) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:24 | 2024-05-01 |  |
 | [Ocean's Theme](https://open.spotify.com/track/1zZsWNYFjxDgZOKZ9sBvUV) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Ocean](https://open.spotify.com/artist/3IJmIC15y3GNVA1FghbCB1) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:49 | 2024-05-01 |  |
 | [On A Mountain](https://open.spotify.com/track/3BIOgDZVS4iAmtDJ1S6RrD) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:06 | 2024-05-01 |  |
@@ -83,9 +85,11 @@
 | [Smoke](https://open.spotify.com/track/2x8zUjRP6z5N2GmZ13zU76) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 2:57 | 2024-05-01 |  |
 | [Super Natural \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/1tODhJU9HBb1ScNMXxZY1A) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Super Natural \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/album/1CToOlSzLaga4ZVcI0OvXI) | 3:43 | 2024-05-01 |  |
 | [Take My Heart Away](https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:05 | 2024-05-01 |  |
-| [The Circle Unbroken](https://open.spotify.com/track/6RH3wzlXIQNsuZUShs174m) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 5:17 | 2024-05-01 |  |
+| [The Circle Unbroken](https://open.spotify.com/track/6RH3wzlXIQNsuZUShs174m) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 5:17 | 2024-05-01 | 2025-05-15 |
+| [The Circle Unbroken](https://open.spotify.com/track/7IMgOhpJ9gnkGUl52AY3cc) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 5:17 | 2025-05-14 |  |
 | [The Gate \- Extended Mix](https://open.spotify.com/track/3znTSbFie2bjuijsZml7tu) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [The Gate \(Extended Mix\)](https://open.spotify.com/album/7juJuCAJ4F7wOs1uYKL0T6) | 10:00 | 2025-01-09 | 2025-04-12 |
-| [The Model Gospel](https://open.spotify.com/track/0z6EJctuK2ZjoIv8yZbcMY) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 5:48 | 2024-05-01 |  |
+| [The Model Gospel](https://open.spotify.com/track/0z6EJctuK2ZjoIv8yZbcMY) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 5:48 | 2024-05-01 | 2025-05-15 |
+| [The Model Gospel](https://open.spotify.com/track/371rqco2qb4BBp5VMvSKCz) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 5:48 | 2025-05-14 |  |
 | [The Things They Did for Me Out of Love](https://open.spotify.com/track/2QriXzI1vNbV0dXEJkO8x1) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:44:00 | 2024-05-01 |  |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-02 |  |
 | [These Walls](https://open.spotify.com/track/12C5qiBuevbn6fjWgPLspN) | [Good Girls Inc.](https://open.spotify.com/artist/7lShJZDCaM15sDfIE3DOjA) | [These Walls](https://open.spotify.com/album/5TPfVNdAXfxElxxAyUEghA) | 3:38 | 2024-06-01 | 2024-06-03 |
@@ -97,7 +101,8 @@
 | [Where Are You Now](https://open.spotify.com/track/21dVGramnWyMgPXh8j4PMv) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:41 | 2024-05-01 |  |
 | [Woe](https://open.spotify.com/track/28xeM58xfbn0ahMEfjAsHP) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:40 | 2024-05-01 |  |
 | [Worth It \(Perfect\)](https://open.spotify.com/track/0LIjqWWzjF0Rkr9hjjyNAJ) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends \- Part One](https://open.spotify.com/album/1j6xIP5xwMw8MMp8x9gMuR) | 2:57 | 2024-05-01 |  |
-| [Yeva's Lullaby](https://open.spotify.com/track/62Rfsh1COhNtFZQWJnGP8o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 6:53 | 2024-05-01 |  |
+| [Yeva's Lullaby](https://open.spotify.com/track/4vxquvA6UGJbUxj9bQdV9o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 6:53 | 2025-05-14 |  |
+| [Yeva's Lullaby](https://open.spotify.com/track/62Rfsh1COhNtFZQWJnGP8o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 6:53 | 2024-05-01 | 2025-05-15 |
 | [you and me again](https://open.spotify.com/track/6Yc385tstnIUpKxNdcLgDl) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [you and me again](https://open.spotify.com/album/5zarmGpQqAdpgKtV47DVXI) | 2:21 | 2024-05-01 |  |
 
 \*This playlist was first scraped on 2024-05-02. Prior content cannot be recovered.

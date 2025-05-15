@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 
 > Music from “A3!”, Japan’s top anime style mobile games.©Liber Entertainment Inc\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,957 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,968 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 | 42 | [一夜限りの相棒](https://open.spotify.com/track/7E8qHny0LQOQ37mxhlQzeU) | [ルチアーノ\[摂津万里\(CV:沢城千春\)\]](https://open.spotify.com/artist/5whda5r4G4TbH4Noy9OAQo), [ランスキー\[兵頭十座\(CV:武内駿輔\)\]](https://open.spotify.com/artist/0eeldwSQXjHIxiIIlxnu3Q) | [A3! First AUTUMN EP](https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn) | 3:06 |
 | 43 | [はじまりはカルテット](https://open.spotify.com/track/0PE5JrAnm0ZKglOAPXJVqx) | [西園寺エニス\[シトロン\(CV:五十嵐雅\)\]](https://open.spotify.com/artist/5vTwSfY85PsdBXfG1Q1C5h), [向井庸太\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/7KbPsLxrEvnOvnkQfsUwdH) | [A3! BRIGHT SPRING EP](https://open.spotify.com/album/6WPHNqMJ57B8mRtieGbGwm) | 3:54 |
 | 44 | [CROSS LINES](https://open.spotify.com/track/324VYrR88xs3T3Q3f57rhY) | [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 3:46 |
-| 45 | [餓鬼扱い](https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm) | [泉田莇\(CV:小西成弥\)](https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA) | [A3! VIVID AUTUMN EP](https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS) | 4:17 |
-| 46 | [Hey, Buddy!](https://open.spotify.com/track/20Pur3BdS0TPMS9zgqmDdG) | [エリート商社マンズ](https://open.spotify.com/artist/0vITJOqU0KsaqDibAaBRKs) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:57 |
-| 47 | [Bouquet](https://open.spotify.com/track/1LKSGe8I1w4Myv32mOP4wj) | [東風牡丹\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/14g1jNb4iNUNFVC9CWeaAh), [冬野水仙\[月岡 紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/7nvKZml6ZUbP1s2CflnBBB) | [A3! 冬組第九回公演曲「Bouquet」](https://open.spotify.com/album/6N8HygzF3TLJDRUSIq5K4g) | 3:27 |
+| 45 | [Bouquet](https://open.spotify.com/track/1LKSGe8I1w4Myv32mOP4wj) | [東風牡丹\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/14g1jNb4iNUNFVC9CWeaAh), [冬野水仙\[月岡 紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/7nvKZml6ZUbP1s2CflnBBB) | [A3! 冬組第九回公演曲「Bouquet」](https://open.spotify.com/album/6N8HygzF3TLJDRUSIq5K4g) | 3:27 |
+| 46 | [餓鬼扱い](https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm) | [泉田莇\(CV:小西成弥\)](https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA) | [A3! VIVID AUTUMN EP](https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS) | 4:17 |
+| 47 | [Hey, Buddy!](https://open.spotify.com/track/20Pur3BdS0TPMS9zgqmDdG) | [エリート商社マンズ](https://open.spotify.com/artist/0vITJOqU0KsaqDibAaBRKs) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:57 |
 | 48 | [スーパーウルトライージーモード](https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m) | [摂津万里\(CV:沢城千春\)](https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh) | [A3! First AUTUMN EP](https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn) | 3:58 |
 | 49 | [PLASTIC POKER](https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf) | [リアム\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/3IOfXlygtEhgn9nEMmcgXk), [ノーマン\[雪白 東\(CV:柿原徹也\)\]](https://open.spotify.com/artist/255ok5nCNbwtMi1NBRjLSK) | [A3! BRIGHT WINTER EP](https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN) | 4:25 |
 | 50 | [僕らの絆](https://open.spotify.com/track/5u84IGengx68EHf5gYy9DU) | [ロミオ\[佐久間咲也\(CV:酒井広大\)\]](https://open.spotify.com/artist/5YJQGxsCPe8sk9josxunAZ), [ジュリアス\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/6mSbP2I9NQLb2b27KvPzuX) | [A3! First SPRING EP](https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M) | 5:03 |

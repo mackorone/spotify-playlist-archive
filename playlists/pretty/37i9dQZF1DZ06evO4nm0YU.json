@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 173079,
+  "num_followers": 173122,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABh2W+rXfS0IZfW2Cj6+jI/",
+  "snapshot_id": "aCKLgAAAAAAO9cL7UEZ23uPAT08O6CG2",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hustler",
-        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 317813,
-      "name": "Eso Se Baila As\u00ed",
-      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "49 Minutes",
         "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 497640,
       "name": "Timbalero",
       "url": "https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 470280,
+      "name": "Songoro Cosongo",
+      "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Gran Fuga",
         "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 336120,
       "name": "Barrunto",
       "url": "https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 470280,
-      "name": "Songoro Cosongo",
-      "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
     },
     {
       "added_at": null,

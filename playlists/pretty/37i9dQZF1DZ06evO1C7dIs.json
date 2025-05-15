@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 258042,
+  "num_followers": 258070,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAA8UgKlXtp+jrPoIT7qKvhp",
+  "snapshot_id": "aCKLgAAAAAA8IS3qsdf1SBYeSlDDqR0t",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 285226,
-      "name": "The Siren",
-      "url": "https://open.spotify.com/track/0OVMtCCfQvkO1oXigmM2d8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 319025,
       "name": "Shoemaker",
       "url": "https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 285226,
+      "name": "The Siren",
+      "url": "https://open.spotify.com/track/0OVMtCCfQvkO1oXigmM2d8"
     },
     {
       "added_at": null,

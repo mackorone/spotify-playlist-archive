@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 254687,
+  "num_followers": 254727,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAA7XmQJ8nXsmxR4KIILp0ka",
+  "snapshot_id": "aCKLgAAAAAAlUplJbULOj9ha7ULZ4bbe",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+        "name": "La Futura (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 212026,
-      "name": "Stages",
-      "url": "https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh"
+      "duration_ms": 177400,
+      "name": "Chartreuse",
+      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Futura (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 177400,
-      "name": "Chartreuse",
-      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
+      "duration_ms": 212026,
+      "name": "Stages",
+      "url": "https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Asleep in the Desert (Instrumental)",
-      "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fandango! (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 144813,
       "name": "Heard It on the X (2005 Remaster)",
       "url": "https://open.spotify.com/track/1zYDw55mtTWD6kGOlFxIz8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Asleep in the Desert (Instrumental)",
+      "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
     },
     {
       "added_at": null,

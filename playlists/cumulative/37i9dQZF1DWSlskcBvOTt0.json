@@ -906,7 +906,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 210500,
       "name": "Amado",
       "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 259650,
       "name": "Closure",
       "url": "https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK"
@@ -7952,6 +7952,36 @@
       "duration_ms": 417010,
       "name": "Inner Self",
       "url": "https://open.spotify.com/track/4nDWcmDZu39ycWLYvIpaaP"
+    },
+    {
+      "album": {
+        "name": "Inner Wars",
+        "url": "https://open.spotify.com/album/2fKFnbJnUOt3fVcCs1TnnW"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        },
+        {
+          "name": "Miguel Ante",
+          "url": "https://open.spotify.com/artist/0yLnk8vkyAvMHmEqAsmPKR"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Inner Wars",
+      "url": "https://open.spotify.com/track/2rHIFv8iIZCpPPTqUkHrgs"
     },
     {
       "album": {
@@ -13338,7 +13368,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 250161,
       "name": "Our Future",
       "url": "https://open.spotify.com/track/62oJjkXdoGQ9T44blbOSky"

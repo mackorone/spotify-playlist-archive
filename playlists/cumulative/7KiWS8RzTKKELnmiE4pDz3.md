@@ -4,7 +4,7 @@
 
 > 
 
-994 songs - 2 day 1 hr 21 min
+995 songs - 2 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Goyard](https://open.spotify.com/track/5nBBdfEP8RYglPxTClmvW7) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Serious](https://open.spotify.com/album/6vAdaRFZy95JxZqmt9q0wk) | 2:18 | 2022-12-25 | 2023-12-14 |
 | [Grab Da Door!](https://open.spotify.com/track/3CVy14A3kKJpS0VnrygIQr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:29 | 2023-12-27 | 2024-03-05 |
 | [Great](https://open.spotify.com/track/1LPiF0OU0DcQpkXmFgrfG5) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [D Savage 3900](https://open.spotify.com/artist/3oGynnWhEGK08xqXbhyYmZ) | [Ultraviolet.](https://open.spotify.com/album/2BTEr1ARUMwQG4Bdu6wmW2) | 1:31 | 2022-07-22 | 2023-04-12 |
+| [Groovy](https://open.spotify.com/track/5hfWeNk22cqpcwXMUnrlgz) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [City On My Back](https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB) | 2:21 | 2025-05-14 |  |
 | [Groovy](https://open.spotify.com/track/6lO1vt2ipUxh1bmxK8cR2s) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Groovy](https://open.spotify.com/album/2OeKQdJREBGjuX94QL0MfY) | 3:10 | 2023-01-05 | 2023-05-09 |
 | [Guillotine](https://open.spotify.com/track/7491l7CnemDkYH0jsoLvYr) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [The Life Of Pi'erre 4](https://open.spotify.com/album/0agALBMd2a8cnpbpukTg03) | 2:59 | 2023-03-06 | 2023-05-09 |
 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2024-11-20 |  |

@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 251309,
       "name": "Dancing with Myself",
       "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 216200,
       "name": "i hope i never fall in love",
       "url": "https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA"
@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "D R E A M S I C L E",
+        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "push me over",
+      "url": "https://open.spotify.com/track/41iPQL3RSrKjYPGTaKUzs0"
+    },
+    {
+      "album": {
         "name": "Intermission",
         "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
       },
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 216720,
       "name": "push me over",
       "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"

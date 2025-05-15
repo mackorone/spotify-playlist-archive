@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 194454,
+  "num_followers": 194481,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAACCfBnw6w2hsfy7skDYRIkp",
+  "snapshot_id": "aCKLgAAAAADrCT3Vy8dIarTnGGG9GPBu",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
       },
       "artists": [
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "Jerry Harrison",
-          "url": "https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy"
         }
       ],
-      "duration_ms": 271813,
-      "name": "Love for Sale - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
+      "duration_ms": 158106,
+      "name": "The Girl Wants to Be with the Girls - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn"
     },
     {
       "added_at": null,
@@ -767,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
       },
       "artists": [
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        },
+        {
+          "name": "Jerry Harrison",
+          "url": "https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy"
         }
       ],
-      "duration_ms": 158106,
-      "name": "The Girl Wants to Be with the Girls - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn"
+      "duration_ms": 271813,
+      "name": "Love for Sale - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
     },
     {
       "added_at": null,

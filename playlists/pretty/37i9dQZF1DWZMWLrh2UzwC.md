@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from ROSÉ, Miley Cyrus, DOLLA, Firdhaus, Erra Fazira, Hady Mirza, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,184 likes - 122 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,186 likes - 122 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

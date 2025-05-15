@@ -1405,6 +1405,32 @@
     },
     {
       "album": {
+        "name": "La Gari",
+        "url": "https://open.spotify.com/album/48jcPxxCxoPV34klG8S2YI"
+      },
+      "artists": [
+        {
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143250,
+      "name": "La Gari",
+      "url": "https://open.spotify.com/track/7rWowXGCllkppAfRHIxQ3y"
+    },
+    {
+      "album": {
         "name": "\u00c0 la bien (Winter edition)",
         "url": "https://open.spotify.com/album/1QnlsM0yEkm7g70NZHcAPp"
       },
@@ -3002,7 +3028,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 191659,
       "name": "Yemma",
       "url": "https://open.spotify.com/track/6weM3NHta6Zi0P4uyEus29"

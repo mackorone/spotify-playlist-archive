@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-129 songs - 5 hr 51 min
+131 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Last Chance](https://open.spotify.com/track/5NtgA0Ooz2UyHDnYwDRUu8) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:14 | 2023-03-13 | 2023-10-20 |
 | [Last time in the rain](https://open.spotify.com/track/0UHxHoVeocXY2bHcHA0PHU) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Last time in the rain](https://open.spotify.com/album/11rQmfIgDLRXZVKWC95a6d) | 3:13 | 2025-04-29 |  |
 | [Like a Rose](https://open.spotify.com/track/6ijewExLv4RQnlQwkNZJef) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:00 | 2023-03-13 |  |
+| [Lluvia Suave \- Nature](https://open.spotify.com/track/7iKHNnNBUJ8PvWxcH2yUcw) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Lluvia Suave](https://open.spotify.com/album/1ZOvYb0aFVlgXd6vv2Wo1e) | 2:24 | 2025-05-14 |  |
 | [May We Meet Again](https://open.spotify.com/track/094ycsRYKwaMjTXyJlvOGe) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Echoes Of Rain](https://open.spotify.com/album/43iV5w7TUZunozRVL1Tm0d) | 2:03 | 2023-10-19 | 2024-04-19 |
 | [May We Meet Again](https://open.spotify.com/track/7zn6XN9BFYtjLm730WuDov) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Echoes of Rain](https://open.spotify.com/album/5MhZf2tjvfGklglbYHiPH3) | 2:03 | 2023-03-13 | 2025-01-30 |
 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 | 2023-03-13 |  |
@@ -132,6 +133,7 @@
 | [Under A Rainy Sky](https://open.spotify.com/track/6SAwDsaihJKZhUZo3O6Zcl) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [Under A Rainy Sky](https://open.spotify.com/album/2BFZI8pTJnYiACcUfWIv2t) | 2:00 | 2024-03-20 |  |
 | [Under The Oak](https://open.spotify.com/track/0TBeVsPId87STJeWjD4jrb) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Under The Oak](https://open.spotify.com/album/4qfl4P8MTH2y5W5rMfDMHJ) | 3:09 | 2023-07-06 |  |
 | [undeviating beauty \(in the Rain\)](https://open.spotify.com/track/1a03QfCnKv6gJWtbmTnhAs) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [unknown answer \(in the Rain\)](https://open.spotify.com/album/5LAok3f6UKeywR1S7MAmSL) | 2:24 | 2025-04-29 |  |
+| [Vivid \(rain\)](https://open.spotify.com/track/65vtpgVu9L3brLPAIFHhLQ) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Vivid \(rain\)](https://open.spotify.com/album/5bfwIagQQosmKHVYnTh9I6) | 2:08 | 2025-05-14 |  |
 | [wading birds \(in the Rain\)](https://open.spotify.com/track/5UGBKcAJDhS8v46nmOBJel) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [wading birds \(in the rain\)](https://open.spotify.com/album/7yJRrU8dhZaHkllqiNthTT) | 2:24 | 2025-03-27 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-13 | 2024-01-10 |
 | [Windbreaker \(Rain\)](https://open.spotify.com/track/1bqD3jJD72M3vzc9ruQnxo) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Windbreaker \(Rain\)](https://open.spotify.com/album/1ZbhnNqhMIgQLwyCUJWpqd) | 3:20 | 2024-02-05 |  |

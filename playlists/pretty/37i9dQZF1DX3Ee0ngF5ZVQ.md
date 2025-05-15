@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,020 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,002 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 52 | [Too Far Gone](https://open.spotify.com/track/2iQceHt3nbUcMFMkEaGALw) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Too Far Gone](https://open.spotify.com/album/68Gyl40TuMxbnD78RyMFyK) | 4:48 |
 | 53 | [Work Boots](https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Work Boots and More from Leather](https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0) | 2:49 |
 | 54 | [My Love](https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [My Love](https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ) | 4:01 |
-| 55 | [Hearts Don't](https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Hearts Don't](https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz) | 3:38 |
-| 56 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |
+| 55 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |
+| 56 | [Hearts Don't](https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Hearts Don't](https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz) | 3:38 |
 | 57 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
 | 58 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
 | 59 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,856 likes - 208 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,855 likes - 208 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 142 | [The Haves](https://open.spotify.com/track/7qKRueZZIBzHdepFiZPKMK) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 5:07 |
 | 143 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 |
 | 144 | [Strung Out Johnny](https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:13 |
-| 145 | [Nothing Feels Right \(feat\. Zakk Wylde\)](https://open.spotify.com/track/7KYqKoxZ2Z0cEItblj352Q) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:35 |
-| 146 | [Who Believes In Angels?](https://open.spotify.com/track/7lfyWyus1wg0h0FDCOKkQg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 5:13 |
+| 145 | [Who Believes In Angels?](https://open.spotify.com/track/7lfyWyus1wg0h0FDCOKkQg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 5:13 |
+| 146 | [Nothing Feels Right \(feat\. Zakk Wylde\)](https://open.spotify.com/track/7KYqKoxZ2Z0cEItblj352Q) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:35 |
 | 147 | [Sinkin' In](https://open.spotify.com/track/5xiRvuO2vgFNDwd6FmSoTd) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise](https://open.spotify.com/album/0Nt9OVNsmAcsEYXULP0ZBD) | 3:38 |
 | 148 | [Immortal \(feat\. Mike McCready\)](https://open.spotify.com/track/2daoDEsF06ULueoH2eGhIg) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Mike McCready](https://open.spotify.com/artist/7njqqUBXHc5fpyXmUlfOUL) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 3:03 |
 | 149 | [Cowboys](https://open.spotify.com/track/4pQx11xYo2rNP5HdOoaLgt) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 3:58 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 207 | [Children of the Ocean](https://open.spotify.com/track/67GmvvxZlw3J7CvqNNcr2F) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:09 |
 | 208 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 
-Snapshot ID: `AbxVdQAAAADNETTAVbhq6327iIubEEIx`
+Snapshot ID: `AbxbAAAAAABi7KPa9N8DSbUITTwLQuQo`

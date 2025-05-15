@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 백예린\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-947 songs - 2 day 9 hr 47 min
+948 songs - 2 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [How To Go On](https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [How To Go On](https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP) | 3:37 | 2024-05-16 | 2024-06-20 |
 | [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-03-31 | 2022-04-11 |
 | [Hug](https://open.spotify.com/track/1yzPbQYfMcuJMlpWi8npDQ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh) | 3:06 | 2022-04-12 | 2022-04-18 |
-| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 | 2025-05-01 |
+| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 |  |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 | 2024-11-07 |
 | [Hug me tight](https://open.spotify.com/track/2DM7WqaeAdXGjuXIFejZNK) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Hug me tight](https://open.spotify.com/album/4SsSzJ8ApOuMh4OOTbP9Bi) | 3:00 | 2025-01-22 | 2025-04-11 |
 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-09-13 | 2024-10-19 |
@@ -526,7 +526,7 @@
 | [Monsoon Rain](https://open.spotify.com/track/6ITDnStygfL352ATEmtYJW) | [Mono\. J](https://open.spotify.com/artist/2sCSfdtkRpjNWt2O2GabKA) | [Monsoon Rain](https://open.spotify.com/album/645MfwCDYukPSm6ZcwJzGn) | 3:40 | 2022-03-31 | 2022-04-13 |
 | [MOOD FOR LOVE](https://open.spotify.com/track/4U46xmSU9CczDNPEUx20OD) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/53P5weqc2cb75Bg3LuFPcZ) | 3:24 | 2021-12-21 | 2022-05-27 |
 | [Moonlight \(Feat\. YooJeong\)](https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Moonlight](https://open.spotify.com/album/4QagrJlMwIQYju8jKPLj8B) | 2:29 | 2022-03-18 | 2022-07-29 |
-| [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 | 2025-05-02 |  |
+| [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 | 2025-05-02 | 2025-05-15 |
 | [movie](https://open.spotify.com/track/0gNQjJJgXvAG9ZgNaQdNCN) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [movie](https://open.spotify.com/album/36OnG0nTb9bw3QBQuylYPn) | 3:49 | 2024-04-30 | 2024-05-10 |
 | [Mulli Mulli](https://open.spotify.com/track/2y0ozrZZP0unL0rCV5J9np) | [juun](https://open.spotify.com/artist/7GlkJWepxWqGNkDyuG2oCY) | [Mulli Mulli](https://open.spotify.com/album/3p2auYiBhiRRhqExjz6xvR) | 3:07 | 2024-11-29 | 2025-01-31 |
 | [MUSE](https://open.spotify.com/track/0ixKAyXnjZ97RC9RlEpdug) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:32 | 2022-03-31 | 2022-07-09 |
@@ -680,7 +680,7 @@
 | [SEMICOLON](https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [SEMICOLON](https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3) | 4:00 | 2024-12-10 | 2025-02-21 |
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-03-01 | 2023-03-28 |
 | [Seoul Cyborg](https://open.spotify.com/track/4rrMmUmhSdFlulRRxek9xw) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Pacemaker](https://open.spotify.com/album/2lVYVVjbyDmlSZeBjSnAfr) | 3:22 | 2021-12-21 | 2022-07-22 |
-| [Seventeen](https://open.spotify.com/track/2epRLhB38MGHYSe9lsJWEY) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz) | [creespy](https://open.spotify.com/album/255GaorCuhv1qLxqBXNbCf) | 3:12 | 2025-03-28 |  |
+| [Seventeen](https://open.spotify.com/track/2epRLhB38MGHYSe9lsJWEY) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz) | [creespy](https://open.spotify.com/album/255GaorCuhv1qLxqBXNbCf) | 3:12 | 2025-03-28 | 2025-05-15 |
 | [Shall We Step Outside?](https://open.spotify.com/track/29p8aNQVxEh0E4cZ91zvck) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [Shall We Step Outside?](https://open.spotify.com/album/6U1J18m9z1BmStOfpKpI5u) | 3:39 | 2025-03-21 | 2025-04-11 |
 | [She's like a Pretty Witch \(Feat\. Kvsh\)](https://open.spotify.com/track/1xZc4SJuQI9e9pES2h2imf) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [c\-a\-r\-e\-l\-e\-s\-s](https://open.spotify.com/album/6zi6edZVRlp5Efy15XAqLB) | 2:53 | 2024-04-30 | 2024-05-28 |
 | [She's not straight](https://open.spotify.com/track/6K14UCl6PmwnmXxYOkfmeL) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [She's not straight](https://open.spotify.com/album/4HjbWvsjIgiSQ9yxFRUql0) | 3:50 | 2024-09-10 | 2024-09-20 |
@@ -829,6 +829,7 @@
 | [Twin](https://open.spotify.com/track/6xBpDSWAn3ovizgJ9WJcax) | [kang](https://open.spotify.com/artist/4WmXMT5h8qV91UNj76WoiG) | [Twin](https://open.spotify.com/album/4jDNuQGVjqkuJMqX2TXyDS) | 3:17 | 2021-12-21 | 2022-04-19 |
 | [Two Days](https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:36 | 2021-12-12 | 2022-07-28 |
 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-07 | 2024-03-09 |
+| [Unconditional love](https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [Unconditional love](https://open.spotify.com/album/6v2Sga9KGrbiYUwbbkVE1n) | 3:50 | 2025-05-14 |  |
 | [Under the night we were facing our breakup](https://open.spotify.com/track/0H1aG96BRR4VfDayFuEZ4C) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:46 | 2022-06-13 | 2022-06-19 |
 | [Under the Sea](https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Under the Sea](https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6) | 4:53 | 2023-03-06 | 2023-03-28 |
 | [Underwater](https://open.spotify.com/track/6MrjuOlP7stTrxno2dJGs9) | [coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [Underwater](https://open.spotify.com/album/3JEfQIglXMJz3D5imP88m0) | 3:26 | 2023-01-10 | 2023-01-26 |

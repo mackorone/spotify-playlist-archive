@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,277 likes - 91 songs - 4 hr 35 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,280 likes - 91 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 52 | [Colorado](https://open.spotify.com/track/5Ola5QA1oZzw6mzusIw0VX) | [Kayslee Don Collins](https://open.spotify.com/artist/3GBM7HxzkACZVPM9APdDZH) | [Canyon Daddy](https://open.spotify.com/album/6r9k5AKPR5yckTLGogszJ4) | 4:05 |
 | 53 | [Sinking Town](https://open.spotify.com/track/2JYBoCh4kBW3mT1J3IQRuZ) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Sinking Town](https://open.spotify.com/album/0aZSpKPa0132xeyyTvEtZa) | 2:54 |
 | 54 | [TES](https://open.spotify.com/track/38XE38GU6BHfysDlr8DSAL) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [TES](https://open.spotify.com/album/6WebDDxoCI6kVG9YJPx4fe) | 2:54 |
-| 55 | [ADOM](https://open.spotify.com/track/4429vmyCAynoKzxnOjUT1R) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [GOD OF RESTORATION](https://open.spotify.com/album/26wJXLN3uMYJvvq1bI15tT) | 5:05 |
+| 55 | [ADOM](https://open.spotify.com/track/4429vmyCAynoKzxnOjUT1R) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [GOD OF RESTORATION](https://open.spotify.com/album/26wJXLN3uMYJvvq1bI15tT) | 4:50 |
 | 56 | [The Beach](https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF) | [Warbaby](https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK) | [The Beach](https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY) | 3:15 |
 | 57 | [2AM](https://open.spotify.com/track/1XqxBTbkCDzIJ0j49LxYya) | [kaye](https://open.spotify.com/artist/2LWuiriYyZn5yvg4ejXEBc), [AMAR.](https://open.spotify.com/artist/2eFR42lCOVfNi2uhCyKH9c) | [2AM](https://open.spotify.com/album/1EqUbRq2TnSE5NuX9E35MJ) | 2:54 |
 | 58 | [Filet\-O\-Fish](https://open.spotify.com/track/6ooO8MNM6t7E73xPMu9Cmc) | [Headwreck](https://open.spotify.com/artist/2o5WUO8JdWq9LMThPwXJr7) | [Filet\-O\-Fish](https://open.spotify.com/album/1COA52QcFH8Ys2aRhGvgbZ) | 2:22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 208019,
+  "num_followers": 208055,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAArzH02gSJt+xLsO1ia2qXK",
+  "snapshot_id": "aCKLgAAAAAB8KVXd3vEGLtIvHLZtm7wZ",
   "tracks": [
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 155498,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Una M\u00e1s",
         "url": "https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 208378,
       "name": "Ni Una M\u00e1s",
       "url": "https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 155498,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
-        "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
-      "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
+      "duration_ms": 174433,
+      "name": "Me Quedo",
+      "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
     }
   ],
   "unique_name": "This Is Aitana",

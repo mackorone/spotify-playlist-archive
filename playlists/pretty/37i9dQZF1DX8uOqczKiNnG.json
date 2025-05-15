@@ -1,6 +1,6 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 98936,
+  "num_followers": 98947,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Los Gatos",
-        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "La Balsa",
-      "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "La M\u00e1quina De Hacer P\u00e1jaros",
         "url": "https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 164440,
       "name": "Como Mata el Viento Norte",
       "url": "https://open.spotify.com/track/7BbpLe12HpkoZJcJs1A3SP"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "La Balsa",
+      "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Viento Dile a la Lluvia",
-        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 169120,
-      "name": "Viento, Dile a la Lluvia",
-      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "El Reloj",
         "url": "https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 242266,
       "name": "Alguien M\u00e1s en Quien Confiar - '74 Single Version",
       "url": "https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Bajo Belgrano",
+        "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
+      },
+      "artists": [
+        {
+          "name": "Spinetta Jade",
+          "url": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Maribel Se Durmi\u00f3",
+      "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Bajo Belgrano",
-        "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
+        "name": "Viento Dile a la Lluvia",
+        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
       },
       "artists": [
         {
-          "name": "Spinetta Jade",
-          "url": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
         }
       ],
-      "duration_ms": 155466,
-      "name": "Maribel Se Durmi\u00f3",
-      "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
+      "duration_ms": 169120,
+      "name": "Viento, Dile a la Lluvia",
+      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
     },
     {
       "added_at": "2024-06-12 23:42:51",

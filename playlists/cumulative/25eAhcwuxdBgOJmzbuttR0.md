@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-373 songs - 1 day 1 hr 22 min
+374 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [London Beckoned Songs About Money Written by Machines](https://open.spotify.com/track/0N90pptABhFyr1axONlIEB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:23 | 2023-03-28 |  |
 | [Lonely is the Muse](https://open.spotify.com/track/0V9sq5IPNBuIle9jxB78RA) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 4:00 | 2024-10-29 |  |
 | [Long Hard Road Out Of Hell](https://open.spotify.com/track/2uJefWA5rqyCWFBInFHlrE) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \- The Best Of](https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S) | 4:21 | 2024-04-07 |  |
+| [Look To Windward](https://open.spotify.com/track/4Lojbtk7XNMdSKRHSFbdkm) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 7:46 | 2025-05-14 |  |
 | [Lotion](https://open.spotify.com/track/7iiULg8Kmbnh1vWbh9rnBA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:57 | 2023-03-28 |  |
 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 | 2023-05-02 |  |
 | [Ludens](https://open.spotify.com/track/4xWirulal0kGikFE3WSU75) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 4:40 | 2023-03-28 |  |

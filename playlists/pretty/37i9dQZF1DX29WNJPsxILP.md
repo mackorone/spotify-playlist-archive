@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Raftaar & Chaar Diwaari
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,801 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,845 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 16 | [Chhore Ncr Aale](https://open.spotify.com/track/4YzmUshoyqoiOx2lVM0rD9) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:20 |
 | 17 | [Gunehgar](https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/12fCusmTQwk6IZxNR5xKm8) | 2:43 |
 | 18 | [Asal G](https://open.spotify.com/track/1uBScPDkr0M98KHxsX4QKp) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 3:41 |
-| 19 | [Karta Kya Hai](https://open.spotify.com/track/55rsHTpDenL0DajypexEI6) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 3:24 |
+| 19 | [Karta Kya Hai](https://open.spotify.com/track/55rsHTpDenL0DajypexEI6) | [Karma](https://open.spotify.com/artist/1BG6teVM1jRNPLD4ymgsfU), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 3:24 |
 | 20 | [Terey papa](https://open.spotify.com/track/7vIXP7osY1jcyIpX9hCeLt) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [Naala Paar](https://open.spotify.com/album/1Wyju7Q67NoXso8hBrBvCB) | 3:04 |
 | 21 | [Arthur Road](https://open.spotify.com/track/2VX9Q3uMmTH5S8dt8PzMmX) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Arthur Road](https://open.spotify.com/album/7xbOLjtp1MXCnBOTc9YbmQ) | 2:55 |
 | 22 | [MR\. RAMBO](https://open.spotify.com/track/3YVxblHOR89srfFJ30liuz) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [MR\. RAMBO](https://open.spotify.com/album/03Mg1MxsoIbNZMeso2Zc3L) | 2:14 |

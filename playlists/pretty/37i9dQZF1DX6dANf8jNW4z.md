@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Ona Mafalda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,759 likes - 69 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,751 likes - 69 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 16 | [Te Pido Perdón](https://open.spotify.com/track/7JA94IRk2Y8gL1wLXIG9ub) | [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [Te Pido Perdón](https://open.spotify.com/album/4sFd24aO6CVgv45fH4GTgS) | 2:40 |
 | 17 | [Llueve](https://open.spotify.com/track/0oIRhKoFlsbOo9MLzfM0lt) | [Elena Vargas](https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O) | [Llueve](https://open.spotify.com/album/6ICnzKyFsDsCwpt4pavFYI) | 3:21 |
 | 18 | [Mi Nombre](https://open.spotify.com/track/3DmtqxgDnhQw9uPY10TPxk) | [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD) | [Mi Nombre](https://open.spotify.com/album/7jQDWCApvDP7E956bc4qsK) | 2:52 |
-| 19 | [Bailar Con El Viento \- El Casoplón](https://open.spotify.com/track/42VD6GZSh4WFSNX5qTYPJZ) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Bailar Con El Viento \(El Casoplón\)](https://open.spotify.com/album/1jJ8plyLf0kte2NgyTtH43) | 2:55 |
+| 19 | [Bailar Con El Viento \- Banda Sonora Original de la película "El Casoplón"](https://open.spotify.com/track/42VD6GZSh4WFSNX5qTYPJZ) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Bailar Con El Viento \(Banda Sonora Original de la película "El Casoplón"\)](https://open.spotify.com/album/1jJ8plyLf0kte2NgyTtH43) | 2:55 |
 | 20 | [Se Suponía](https://open.spotify.com/track/4RFldgMjUKsJW2xGRyu0w4) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Se Suponía](https://open.spotify.com/album/4h0FM2SbH2h4yxh0ifiGvP) | 2:41 |
 | 21 | [Fiesta En El Centro](https://open.spotify.com/track/669RDcakvwPTTBFga67wqh) | [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Fiesta En El Centro](https://open.spotify.com/album/78D7Zbm7bbdYd8pU1UfqZF) | 2:36 |
 | 22 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 |

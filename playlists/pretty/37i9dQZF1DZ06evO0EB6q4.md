@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,243 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,332 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 45 | [Cuando Vienes](https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cuando Vienes](https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191) | 3:08 |
 | 46 | [Como Tú Ninguna](https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Tú Ninguna](https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn) | 3:56 |
 | 47 | [Me Dañas Por Deporte](https://open.spotify.com/track/4uSVVolWZ9VtprCYJSgVmG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:40 |
-| 48 | [Como Bolero](https://open.spotify.com/track/5sBFBv0WHFp6n7IkHPZjMM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/5XDYqdmYZykDK3uFHF9Mz3) | 3:14 |
-| 49 | [Pa' Que Mami No Llore](https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8) | 3:51 |
+| 48 | [Pa' Que Mami No Llore](https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8) | 3:51 |
+| 49 | [Como Bolero](https://open.spotify.com/track/5sBFBv0WHFp6n7IkHPZjMM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/5XDYqdmYZykDK3uFHF9Mz3) | 3:14 |
 | 50 | [Coincidimos](https://open.spotify.com/track/3IEUAkhsrEpWLFDPasBKzj) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Coincidimos](https://open.spotify.com/album/21RfMYRrUo2VVY2WyqqeiD) | 2:52 |
 
-Snapshot ID: `aCE6AAAAAACLEIT4AA2QYenqrwXxLKFa`
+Snapshot ID: `aCKLgAAAAAC/kTCg5tXzrrkOHnZ4T0Bk`

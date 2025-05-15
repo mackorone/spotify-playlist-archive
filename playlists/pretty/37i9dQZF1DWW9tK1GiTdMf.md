@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Panetti in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,344 likes - 92 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,345 likes - 92 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 18 | [AMICA MIA](https://open.spotify.com/track/6MN1lL9Izf2D8S5hZh1E7K) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [AMICA MIA](https://open.spotify.com/album/6TVLcxQIWfc3xKugaNeQDZ) | 2:47 |
 | 19 | [Bugie](https://open.spotify.com/track/7xRWttFhakKVUbQuwZAqQZ) | [Tommy Indaco](https://open.spotify.com/artist/7k5IhSViCRasY6a7LWhgx5) | [Bugie](https://open.spotify.com/album/0iz9OhtFmiavZGNy52i0Wn) | 3:11 |
 | 20 | [Milano](https://open.spotify.com/track/553jvkYRVqqgzuPRLOcZCG) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Milano](https://open.spotify.com/album/4aUkFfFxRJxakxSsvuWtdO) | 3:27 |
-| 21 | [Pianeti](https://open.spotify.com/track/5SkkOIksPik1Q8PjU1NmBi) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Heavyangel](https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr), [Lincxn](https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq) | [Pianeti](https://open.spotify.com/album/5sEXg6s4YIPSUrAMahYO71) | 2:39 |
+| 21 | [Pianeti \(feat\. Heavyangel & Lincxn\)](https://open.spotify.com/track/5SkkOIksPik1Q8PjU1NmBi) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Heavyangel](https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr), [Lincxn](https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq) | [Pianeti \(feat\. Heavyangel & Lincxn\)](https://open.spotify.com/album/5sEXg6s4YIPSUrAMahYO71) | 2:39 |
 | 22 | [SUMMERSAD 4 \(Feat\. NASKA\)](https://open.spotify.com/track/7x2H1EcUMLWIbQ2aDAJvzk) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [ODIO LA SAD](https://open.spotify.com/album/2bKT4j63K9goJmoMac8ltg) | 2:59 |
 | 23 | [DOPPIA FACCIA](https://open.spotify.com/track/0dj2v76pY0PrBbci00hxpg) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [ASCEND](https://open.spotify.com/album/7kacWmFwCyZcLlk0g9eyBA) | 3:00 |
 | 24 | [BORDERLINE](https://open.spotify.com/track/10jI5EtnWFqSkWQGoTVBYC) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [BORDERLINE](https://open.spotify.com/album/549uTF8kBD17JjJGh9yW3q) | 2:43 |

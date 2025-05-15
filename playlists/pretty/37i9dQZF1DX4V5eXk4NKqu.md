@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring Bandalos Chinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,671 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,683 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 53 | [ALGO ESPECIAL](https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [ALGO ESPECIAL](https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5) | 3:25 |
 | 54 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |
 | 55 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |
-| 56 | [Solos tú y yo](https://open.spotify.com/track/0jCcPLWnbGR5S9KzYfkPcC) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Conducción Temeraria](https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3) | 4:37 |
-| 57 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
+| 56 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
+| 57 | [Solos tú y yo](https://open.spotify.com/track/0jCcPLWnbGR5S9KzYfkPcC) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Conducción Temeraria](https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3) | 4:37 |
 | 58 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 |
 | 59 | [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 |
 | 60 | [Feeling Low](https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Feeling Low](https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j) | 3:41 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 72 | [Frenos](https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Frenos](https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG) | 3:09 |
 | 73 | [HORSES IN HEAVEN](https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [HORSES IN HEAVEN](https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy) | 2:57 |
 | 74 | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4) | 3:00 |
-| 75 | [Radiocaset](https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Radiocaset](https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7) | 3:28 |
+| 75 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 |
 
 Snapshot ID: `aBPPwAAAAACkNLdfStSZiKnyDCV290vh`

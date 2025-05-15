@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 
 > The biggest songs in Latin America in 2014\. Cover: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,349 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,394 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 28 | [Perdón](https://open.spotify.com/track/2LgGkK27qwPG4ls3OsNmuj) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Elypse](https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC) | 4:24 |
 | 29 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
 | 30 | [Mi Vecinita](https://open.spotify.com/track/4Yu2UoU9qNlYL9GeIH65P5) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love and Sex](https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8) | 3:02 |
-| 31 | [Vamo a Busal](https://open.spotify.com/track/0ySExWMtzlVKO70rPYEz84) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Vamo a Busal](https://open.spotify.com/album/2Te8t6pWaQhGxeYJeOFGLV) | 4:00 |
-| 32 | [Corazón En La Maleta](https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 31 | [Corazón En La Maleta](https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 32 | [Vamo a Busal](https://open.spotify.com/track/0ySExWMtzlVKO70rPYEz84) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Vamo a Busal](https://open.spotify.com/album/2Te8t6pWaQhGxeYJeOFGLV) | 4:00 |
 | 33 | [Hilito](https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:54 |
 | 34 | [Pierdo la Cabeza](https://open.spotify.com/track/53LxOQIcSZe71SF9IS0Z7b) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Pierdo la Cabeza](https://open.spotify.com/album/112XtnaLZmod0pVVaYJWwG) | 3:42 |
 | 35 | [Decidiste Dejarme](https://open.spotify.com/track/1q9GlEop4xv2B8KzeuZqLz) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Elypse](https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC) | 3:30 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 43 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
 | 44 | [Diez Mil Maneras](https://open.spotify.com/track/0bozYJjedwJwsvg7WWrWnX) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Y Yo](https://open.spotify.com/album/2R7m2KEpz551kzsoayID3S) | 3:33 |
 | 45 | [Por fin](https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:01 |
-| 46 | [Tú Me Quemas](https://open.spotify.com/track/1dnJrxNtaS0fCPRDooTqBM) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Los Cadillac's](https://open.spotify.com/artist/44clbgZfF4GkBAyduMPE2W) | [Radio Universo](https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1) | 4:29 |
+| 46 | [El Aguante](https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:48 |
 | 47 | [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 |
-| 48 | [El Aguante](https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:48 |
+| 48 | [Tú Me Quemas](https://open.spotify.com/track/1dnJrxNtaS0fCPRDooTqBM) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Los Cadillac's](https://open.spotify.com/artist/44clbgZfF4GkBAyduMPE2W) | [Radio Universo](https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1) | 4:29 |
 | 49 | [Entre la espada y la pared](https://open.spotify.com/track/7djk6VYALvdcRqPJKq5xXx) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Huyendo conmigo de mí](https://open.spotify.com/album/5OlfTqv9K5yzd2nvgPdpmj) | 4:52 |
 | 50 | [El Mar de Sus Ojos \(feat\. ChocQuibTown\)](https://open.spotify.com/track/0HRMIu0FgBAkY0r8XGzExe) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 3:53 |
 

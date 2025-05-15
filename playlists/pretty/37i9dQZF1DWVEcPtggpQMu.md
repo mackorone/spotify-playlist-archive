@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp?si=GkmDbG\_\_Q5mT\_\_AGj3ALaA">saveHXPE</a>, <a href="https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s?si=mipdSxzVRMSPlgozQL6fgQ">Baby Daiz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,566 likes - 92 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,612 likes - 92 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

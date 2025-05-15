@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-354 songs - 20 hr 20 min
+355 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Blinka lilla stjärna](https://open.spotify.com/track/5HXuijWZHkCjEl6xsbLEY7) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Blinka lilla stjärna](https://open.spotify.com/album/7ES7EtUdXvCp06E5RgW3t2) | 3:35 | 2024-12-12 | 2025-01-05 |
 | [Blåjeans och stjärnljus](https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blåjeans och stjärnljus](https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF) | 3:29 | 2025-04-10 |  |
 | [Bortom Månen Och Mars](https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Bortom Månen Och Mars](https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi) | 3:05 | 2024-11-07 | 2025-01-17 |
+| [BRA](https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [BRA](https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf) | 2:43 | 2025-05-08 |  |
 | [Bra för dig](https://open.spotify.com/track/0uSBYTlQw9tR6H2HzcUXji) | [Per Persson](https://open.spotify.com/artist/1qjjYA1iR05mJf0QmfAVP0), [Karin Wistrand](https://open.spotify.com/artist/6LHbFvsdTSwsk5Tn4O7PNB) | [Så mycket bättre 2024 \- Tolkningarna](https://open.spotify.com/album/07tHAQSKDA4CnmNWn1U3kA) | 4:07 | 2025-01-02 | 2025-05-09 |
 | [Brandalsund](https://open.spotify.com/track/4YSgUGFpznFJt9bfBmIn72) | [Adolphson & Falk](https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0), [Peder af Ugglas](https://open.spotify.com/artist/0BShcQJsGOlh0CxBK24Q43) | [Brandalsund](https://open.spotify.com/album/6eGmbGKoEUJOCD40SbPQOI) | 4:26 | 2024-06-27 | 2024-08-16 |
 | [Bästa kebaben i hela stan](https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Bästa kebaben i hela stan](https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2) | 3:35 | 2024-06-27 | 2024-08-23 |
@@ -360,7 +361,7 @@
 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 | 2024-10-24 | 2025-05-02 |
 | [Zoe](https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Zoe](https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9) | 3:11 | 2025-01-09 | 2025-02-26 |
 | [Änglarna](https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5) | [Jonas Lundqvist](https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7) | [Änglarna](https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR) | 3:40 | 2024-08-22 | 2024-10-11 |
-| [Ärligt misstag](https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU) | 2:29 | 2025-02-06 |  |
+| [Ärligt misstag](https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU) | 2:29 | 2025-02-06 | 2025-05-15 |
 | [Ögonblick i livet](https://open.spotify.com/track/2dZoKGCLtsUzVlxQvIyjFl) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Ögonblick i livet](https://open.spotify.com/album/7ejzXc7bRHlth4dEGcyrje) | 3:14 | 2024-06-27 | 2024-08-16 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

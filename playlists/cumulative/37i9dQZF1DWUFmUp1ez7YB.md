@@ -2,7 +2,7 @@
 
 ### [Dame Salsa](https://open.spotify.com/playlist/37i9dQZF1DWUFmUp1ez7YB)
 
-> Los éxitos de la salsa de ayer y hoy en un sólo lugar\. Foto: Joe Arroyo
+> Los éxitos de la salsa de ayer y hoy en un sólo lugar.
 
 163 songs - 13 hr 22 min
 

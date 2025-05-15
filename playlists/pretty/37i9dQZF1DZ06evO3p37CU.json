@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22161,
+  "num_followers": 22163,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABd7DqCTvImNfGRdDwENF34",
+  "snapshot_id": "aCKLgAAAAAD9T2PcmljcPKGQ5ulxAJyg",
   "tracks": [
     {
       "added_at": null,
@@ -1027,30 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 175778,
-      "name": "Jozi Flows (with Bas & EARTHGANG)",
-      "url": "https://open.spotify.com/track/0T7zFfMGZ5rQEH4VPbNJln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 290035,
       "name": "Mecca (with JID & EARTHGANG)",
       "url": "https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 175778,
+      "name": "Jozi Flows (with Bas & EARTHGANG)",
+      "url": "https://open.spotify.com/track/0T7zFfMGZ5rQEH4VPbNJln"
     },
     {
       "added_at": null,
@@ -1101,7 +1101,7 @@
         },
         {
           "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
         },
         {
           "name": "Baauer",
@@ -1135,34 +1135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRY",
-        "url": "https://open.spotify.com/album/3aRDrfQdwSjCzIetgFGC13"
-      },
-      "artists": [
-        {
-          "name": "TRY",
-          "url": "https://open.spotify.com/artist/6oCXqCGg4iqbwPftjbZIHg"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Sam i",
-          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
-        },
-        {
-          "name": "Shmuck the Loyal",
-          "url": "https://open.spotify.com/artist/2P8NapWy187EyueZtdIg0C"
-        }
-      ],
-      "duration_ms": 202020,
-      "name": "Clarity (with EARTHGANG)",
-      "url": "https://open.spotify.com/track/27CsklrxILj3PDfPqaalU9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Groove Continental: Side A",
         "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
       },
@@ -1187,6 +1159,26 @@
       "duration_ms": 169200,
       "name": "L.O.V.E. (feat. EARTHGANG, Jon Batiste & Sherwyn)",
       "url": "https://open.spotify.com/track/5U5QLfYdaDd6frf5I70Xqs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strays with Rabies",
+        "url": "https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Liquor Sto'",
+      "url": "https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK"
     }
   ],
   "unique_name": "This Is EARTHGANG",

@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 543522,
+  "num_followers": 543556,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
-        "name": "Hecha Pa' M\u00ed",
-        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Hecha Pa' M\u00ed",
-      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 343413,
       "name": "Coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
+        "name": "Hecha Pa' M\u00ed",
+        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Hecha Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -183,18 +183,22 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+      "duration_ms": 227586,
+      "name": "Mi Buen Amor",
+      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -215,22 +219,18 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 227586,
-      "name": "Mi Buen Amor",
-      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -351,6 +351,26 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
         "name": "Nada Es Para Siempre",
         "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 195060,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Quiero Dormir Cansado",
-      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 225480,
       "name": "Amigos No por Favor (Primera Fila) - En Vivo",
       "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Quiero Dormir Cansado",
+      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Te Equivocaste",
+      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 246200,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Te Equivocaste",
-      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
-        "name": "Si Me Dejas Ahora",
-        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Si Me Dejas Ahora",
-      "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
+        "name": "Si Me Dejas Ahora",
+        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Si Me Dejas Ahora",
+      "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
     },
     {
       "added_at": "2025-05-02 06:00:24",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-05-02 06:00:24",
       "album": {
+        "name": "Ya No Pienso en Ti (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Ya No Pienso en Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
+    },
+    {
+      "added_at": "2025-05-02 06:00:24",
+      "album": {
         "name": "Eres Mi Religi\u00f3n",
         "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 267836,
       "name": "Eres Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
-    },
-    {
-      "added_at": "2025-05-02 06:00:24",
-      "album": {
-        "name": "Ya No Pienso en Ti (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Ya No Pienso en Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
     },
     {
       "added_at": "2025-05-02 06:00:24",

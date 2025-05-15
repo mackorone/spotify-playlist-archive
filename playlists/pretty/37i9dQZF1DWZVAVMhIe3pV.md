@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,515 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,681 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 50 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
 | 51 | [From Out of Nowhere](https://open.spotify.com/track/1UBqvQDlcfRL0BaknLvn1J) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 3:21 |
 | 52 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/0F2LiyHp9E0pAanpfnzHNp) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:58 |
-| 53 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 |
-| 54 | [Courage](https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:30 |
+| 53 | [Courage](https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:30 |
+| 54 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 |
 | 55 | [Gumshield](https://open.spotify.com/track/7dC1ODfFU31b77PQWgQ21M) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:37 |
 | 56 | [Victorious](https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Victorious](https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA) | 4:24 |
 | 57 | [Young Cardinals](https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 |
@@ -84,21 +84,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 74 | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 |
 | 75 | [Freaking Out](https://open.spotify.com/track/1OGMyqd5PKvCS45J5AyunP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:35 |
 | 76 | [Remedy](https://open.spotify.com/track/2PhQfN7qTx5JxIAlIGMscf) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/2AHTc1fPhvsiGtXtquK5DO) | 2:57 |
-| 77 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
-| 78 | [Money Power Fame \- Remastered](https://open.spotify.com/track/1Ue0sFVGnKM8N8PUeFYMFW) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Automatic \(Deluxe\)](https://open.spotify.com/album/7i5dJSQHwoowIjRFxu1gnN) | 3:22 |
+| 77 | [Money Power Fame \- Remastered](https://open.spotify.com/track/1Ue0sFVGnKM8N8PUeFYMFW) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Automatic \(Deluxe\)](https://open.spotify.com/album/7i5dJSQHwoowIjRFxu1gnN) | 3:22 |
+| 78 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
 | 79 | [The Joke's on Us](https://open.spotify.com/track/0VQPaFVOiUWGlYDL1tUewi) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G) | 3:34 |
 | 80 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
 | 81 | [waste](https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [waste](https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy) | 3:51 |
-| 82 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 |
-| 83 | [Dance Of The Manatee](https://open.spotify.com/track/6l6I8njSnRiwvsI6W6q7YA) | [Fair To Midland](https://open.spotify.com/artist/1GfzxrTlFX1DmRSVqMUvaD) | [Fables From a Mayfly: What I Tell You Three Times is True](https://open.spotify.com/album/0vbumemAdoqTB9kfx6j0rC) | 4:11 |
+| 82 | [Dance Of The Manatee](https://open.spotify.com/track/6l6I8njSnRiwvsI6W6q7YA) | [Fair To Midland](https://open.spotify.com/artist/1GfzxrTlFX1DmRSVqMUvaD) | [Fables From a Mayfly: What I Tell You Three Times is True](https://open.spotify.com/album/0vbumemAdoqTB9kfx6j0rC) | 4:11 |
+| 83 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 |
 | 84 | [Round The Bend](https://open.spotify.com/track/3pYEOC4YluYylx12kstL5L) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:14 |
 | 85 | [Supercharged](https://open.spotify.com/track/1C4V5YwbuMEcQgsNV3Sapg) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Child Of The State](https://open.spotify.com/album/7GGIqGci2fE3pMFdD8dI1y) | 3:02 |
-| 86 | [Crushing Me](https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 2:29 |
-| 87 | [Turn Me Up](https://open.spotify.com/track/6d5YLQel1T5HgdRgeTtz1O) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Turn Me Up](https://open.spotify.com/album/0yQtcZfchPzofdgfNamsLX) | 2:07 |
+| 86 | [Turn Me Up](https://open.spotify.com/track/6d5YLQel1T5HgdRgeTtz1O) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Turn Me Up](https://open.spotify.com/album/0yQtcZfchPzofdgfNamsLX) | 2:07 |
+| 87 | [Crushing Me](https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 2:29 |
 | 88 | [Suffer](https://open.spotify.com/track/5Q6SSsB53WpRJS2umerkIB) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Upright Animals](https://open.spotify.com/album/4azfM2hspLuUo7yk4AQKG3) | 3:23 |
 | 89 | [Sans Soleil](https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil](https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re) | 5:04 |
-| 90 | [Kaleidoscope](https://open.spotify.com/track/7cEYiQ8uOjIN9I6Za7U1qT) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Ceremonia](https://open.spotify.com/album/3OfFo9Ufl8u7fMKb29Ru75) | 4:01 |
-| 91 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |
+| 90 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |
+| 91 | [Kaleidoscope](https://open.spotify.com/track/7cEYiQ8uOjIN9I6Za7U1qT) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Ceremonia](https://open.spotify.com/album/3OfFo9Ufl8u7fMKb29Ru75) | 4:01 |
 | 92 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
 | 93 | [Blood In The Water](https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Blood In The Water](https://open.spotify.com/album/3I9e3fgZ3IaR2K7NLRxVy2) | 3:34 |
 | 94 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |

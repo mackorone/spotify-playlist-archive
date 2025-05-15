@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 33540,
+  "num_followers": 33551,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
         "name": "AFTERCARE",
         "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 149440,
       "name": "P*RNSTAR",
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
-        "name": "Embrace It",
-        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
-      },
-      "artists": [
-        {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
-        }
-      ],
-      "duration_ms": 104418,
-      "name": "Embrace It",
-      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -843,18 +827,18 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "Ms. Whitman",
-        "url": "https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw"
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
       },
       "artists": [
         {
-          "name": "Bhad Bhabie",
-          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
         }
       ],
-      "duration_ms": 126036,
-      "name": "Ms. Whitman",
-      "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -871,6 +855,22 @@
       "duration_ms": 184375,
       "name": "ss",
       "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "Ms. Whitman",
+        "url": "https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw"
+      },
+      "artists": [
+        {
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+        }
+      ],
+      "duration_ms": 126036,
+      "name": "Ms. Whitman",
+      "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Sucker (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/0osQqNcvhl7pD6FtjOcT9T"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
         "name": "Vaitimbora",
         "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Sucker (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0osQqNcvhl7pD6FtjOcT9T"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1719,18 +1719,22 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "HER",
-        "url": "https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h"
+        "name": "Voila",
+        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
       },
       "artists": [
         {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
         }
       ],
-      "duration_ms": 203464,
-      "name": "Blind Eyes Red",
-      "url": "https://open.spotify.com/track/0pk1V5jL0WcW8a2ZsrsEDl"
+      "duration_ms": 139200,
+      "name": "Voila",
+      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
     },
     {
       "added_at": "2025-05-12 15:35:47",
@@ -1771,26 +1775,6 @@
     {
       "added_at": "2025-05-12 15:35:47",
       "album": {
-        "name": "Voila",
-        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Voila",
-      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
-    },
-    {
-      "added_at": "2025-05-12 15:35:47",
-      "album": {
         "name": "Ador, Ador",
         "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 150965,
       "name": "Ador, Ador",
       "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
+    },
+    {
+      "added_at": "2025-05-12 15:35:47",
+      "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 203464,
+      "name": "Blind Eyes Red",
+      "url": "https://open.spotify.com/track/0pk1V5jL0WcW8a2ZsrsEDl"
     },
     {
       "added_at": "2025-05-12 15:35:47",

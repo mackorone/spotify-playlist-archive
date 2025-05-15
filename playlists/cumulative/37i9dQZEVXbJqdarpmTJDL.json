@@ -9302,6 +9302,10 @@
         {
           "name": "Arab",
           "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
         }
       ],
       "date_added": "2025-05-13",
@@ -19066,6 +19070,24 @@
       "duration_ms": 169000,
       "name": "INDICA",
       "url": "https://open.spotify.com/track/226HsHRmwHtn8Ov0T1k8fR"
+    },
+    {
+      "album": {
+        "name": "INDIGO",
+        "url": "https://open.spotify.com/album/1976z2IeTXjUnfxbMthwu4"
+      },
+      "artists": [
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "INDIGO",
+      "url": "https://open.spotify.com/track/33cxCyANhGkbzYRD3GBMyg"
     },
     {
       "album": {
@@ -34040,7 +34062,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 168358,
       "name": "PROTO TRAPEZI",
       "url": "https://open.spotify.com/track/3eL5wAkqdaLviZR477Etp1"

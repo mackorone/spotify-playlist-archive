@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 145824,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
@@ -1826,6 +1826,28 @@
       "duration_ms": 176579,
       "name": "Spectre 2.0",
       "url": "https://open.spotify.com/track/6DCF3DIlT4iGKGlqudoUD7"
+    },
+    {
+      "album": {
+        "name": "Story of a Bird",
+        "url": "https://open.spotify.com/album/3yXSlH8QsT0hvJvfJjS2iB"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230676,
+      "name": "Story of a Bird",
+      "url": "https://open.spotify.com/track/5nBOV8rbNUi6SQb4SOrdx0"
     },
     {
       "album": {

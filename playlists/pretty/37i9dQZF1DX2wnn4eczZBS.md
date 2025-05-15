@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: MEROL & Elmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,319 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,322 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 33 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
 | 34 | [IK LACH MAAR IK HUIL](https://open.spotify.com/track/6PsPnB18dswCvVagWJ5trp) | [Hang Youth](https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR) | [ER IS HOOP\*](https://open.spotify.com/album/3P4VJVsYKu6gzuZbEc9iJe) | 2:58 |
 | 35 | [Privilege](https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r) | [Jean Jacques](https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR) | [Privilege](https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr) | 1:58 |
-| 36 | [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 |
-| 37 | [dichtbij](https://open.spotify.com/track/1m9f3fITZFcnGBrDRAk9Zp) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [dichtbij](https://open.spotify.com/album/4bC3KJr2UiGrfrDitdNvgy) | 2:34 |
+| 36 | [dichtbij](https://open.spotify.com/track/1m9f3fITZFcnGBrDRAk9Zp) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [dichtbij](https://open.spotify.com/album/4bC3KJr2UiGrfrDitdNvgy) | 2:34 |
+| 37 | [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 |
 | 38 | [Het Outro](https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Het Outro](https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY) | 3:20 |
 | 39 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
 | 40 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |

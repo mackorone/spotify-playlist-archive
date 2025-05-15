@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,797 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,793 likes - 65 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 44 | [Brimful of Asha \(Norman Cook Remix\) \(Single Version\)](https://open.spotify.com/track/29capylmokCeuNAWqGitij) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [Brimful of Asha](https://open.spotify.com/album/3zImpd2BehQCHbnTiIJlZB) | 4:03 |
 | 45 | [A Girl Like You](https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG) | 3:56 |
 | 46 | [No Surprises](https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 3:49 |
-| 47 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
-| 48 | [The Only One I Know](https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj) | 3:58 |
+| 47 | [The Only One I Know](https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj) | 3:58 |
+| 48 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
 | 49 | [Sit Down](https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6) | 4:04 |
 | 50 | [Disco 2000](https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw) | 4:33 |
 | 51 | [The Drugs Don't Work](https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:05 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 59 | [Laid](https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [James: The Best Of](https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb) | 2:36 |
 | 60 | [Wide Open Space](https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ) | 4:31 |
 | 61 | [This Is How It Feels \- Radio Mix](https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb) | [Inspiral Carpets](https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP) | [This Is How It Feels](https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54) | 3:14 |
-| 62 | [One To Another](https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK) | 4:29 |
-| 63 | [You're Gorgeous](https://open.spotify.com/track/44OnyhrKWViHX8aHnMk0PU) | [Babybird](https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh) | [Best of Babybird](https://open.spotify.com/album/7AHO6a0Xt8U95Rsf5CVXM3) | 3:43 |
-| 64 | [Tattva](https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Kollected \- The Best Of Kula Shaker](https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q) | 3:44 |
-| 65 | [Going For Gold](https://open.spotify.com/track/2q1VaYfLyPur3bwZswF5o2) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Going For Gold](https://open.spotify.com/album/31ecsOgZxowxwp717fYqIu) | 4:27 |
+| 62 | [Trash](https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Best Of](https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO) | 4:05 |
+| 63 | [One To Another](https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK) | 4:29 |
+| 64 | [You're Gorgeous](https://open.spotify.com/track/44OnyhrKWViHX8aHnMk0PU) | [Babybird](https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh) | [Best of Babybird](https://open.spotify.com/album/7AHO6a0Xt8U95Rsf5CVXM3) | 3:43 |
+| 65 | [Tattva](https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Kollected \- The Best Of Kula Shaker](https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q) | 3:44 |
 
 Snapshot ID: `ZtSJnQAAAAAFJLrossIexVTFyaTwx/4L`

@@ -3147,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+      },
+      "artists": [
+        {
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
+    },
+    {
+      "album": {
         "name": "Lonely Fans",
         "url": "https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P"
       },
@@ -7616,7 +7634,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 139264,
       "name": "PARA VERTE",
       "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"

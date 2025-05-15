@@ -1,12 +1,12 @@
 {
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
-  "num_followers": 1058018,
+  "num_followers": 1058283,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAD5fDNcvllbHnddyjNMS66p",
+  "snapshot_id": "aCKLgAAAAAC8L05rtau3/3T/dNHjH+zX",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 200488,
+      "name": "Si Tu Amor No Vuelve - En Vivo",
+      "url": "https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tierra Tr\u00e1game (con Car\u00edn Le\u00f3n)",
         "url": "https://open.spotify.com/album/4nDXv2MDmLPjo1n1tq1Mwd"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 172000,
       "name": "Tierra Tr\u00e1game (con Car\u00edn Le\u00f3n)",
       "url": "https://open.spotify.com/track/3FyeZnp9nMLxK2Xo7wAth4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 200488,
-      "name": "Si Tu Amor No Vuelve - En Vivo",
-      "url": "https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv"
     },
     {
       "added_at": null,
@@ -943,22 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "She Hurts Like Tequila",
-        "url": "https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd"
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
       },
       "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 202560,
-      "name": "She Hurts Like Tequila",
-      "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
+      "duration_ms": 174262,
+      "name": "Si una Vez - En Vivo",
+      "url": "https://open.spotify.com/track/1ZYPtJnVttoAT4O5rbTdCm"
     }
   ],
   "unique_name": "This Is Carin Leon",

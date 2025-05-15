@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 161471,
+  "num_followers": 161488,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABsl6Iu2dh11zV16uJPirXa",
+  "snapshot_id": "aCKLgAAAAACQXG2wQZE65OvMjVF+jT8u",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 139085,
-      "name": "Babylonia",
-      "url": "https://open.spotify.com/track/0ks6X1a6PY5zXomNvuDgtm"
+      "duration_ms": 65108,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/14AvOFZEbKeBGzwiyUwsBf"
     },
     {
       "added_at": null,
@@ -470,15 +470,11 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
         }
       ],
-      "duration_ms": 323773,
-      "name": "If You Stayed Over",
-      "url": "https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ"
+      "duration_ms": 306666,
+      "name": "Recurring",
+      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
     },
     {
       "added_at": null,
@@ -508,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 65108,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/14AvOFZEbKeBGzwiyUwsBf"
+      "duration_ms": 139085,
+      "name": "Babylonia",
+      "url": "https://open.spotify.com/track/0ks6X1a6PY5zXomNvuDgtm"
     },
     {
       "added_at": null,
@@ -542,11 +538,15 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
         }
       ],
-      "duration_ms": 306666,
-      "name": "Recurring",
-      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
+      "duration_ms": 323773,
+      "name": "If You Stayed Over",
+      "url": "https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ"
     },
     {
       "added_at": null,

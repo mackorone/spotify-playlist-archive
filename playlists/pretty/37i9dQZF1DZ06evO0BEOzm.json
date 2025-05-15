@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 300194,
+  "num_followers": 300230,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAC8/VPUNzei2BQa6WotZgNq",
+  "snapshot_id": "aCKLgAAAAADdXwsP8+htHBOjUAfxjzjT",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 125030,
+      "name": "Kitty Kat",
+      "url": "https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 118518,
       "name": "HOW I LOOK (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 125030,
-      "name": "Kitty Kat",
-      "url": "https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 172155,
-      "name": "Gift & A Curse",
-      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 187794,
       "name": "Spin (feat. Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 172155,
+      "name": "Gift & A Curse",
+      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
     },
     {
       "added_at": null,

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 139370,
+  "num_followers": 139411,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L7a3+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L7gJeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -61,10 +61,10 @@
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "HANDS UP",
-        "url": "https://open.spotify.com/album/2owkehm0t0op4QvgMouB9L"
+        "url": "https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E"
       },
       "artists": [
         {
@@ -74,10 +74,58 @@
       ],
       "duration_ms": 192467,
       "name": "HANDS UP",
-      "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
+      "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 151646,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -93,7 +141,23 @@
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 161693,
+      "name": "IF I SAY, I LOVE YOU",
+      "url": "https://open.spotify.com/track/2NtidJuimmXzUsExfMYcvk"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -113,71 +177,7 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 123517,
-      "name": "like JENNIE",
-      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "HOT (English ver.) (feat. JADE)",
-        "url": "https://open.spotify.com/album/0GjZcJIlYoNHn442Tf0hNT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 143797,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/24Y63uAvj6Oc9jGuTlhlgf"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "To Reach You",
-        "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "To Reach You",
-      "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
@@ -193,7 +193,23 @@
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "To Reach You",
+        "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "To Reach You",
+      "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -213,55 +229,23 @@
       "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU"
+        "name": "HOT (English ver.) (feat. JADE)",
+        "url": "https://open.spotify.com/album/0GjZcJIlYoNHn442Tf0hNT"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/24Y63uAvj6Oc9jGuTlhlgf"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 223301,
-      "name": "Closer Than This",
-      "url": "https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 144624,
-      "name": "Rebirth (Intro)",
-      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "Heavenly Ever After",
         "url": "https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc"
@@ -277,135 +261,23 @@
       "url": "https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 188399,
-      "name": "Slow Dance (feat. Sofia Carson)",
-      "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "Gnarly",
-        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 137316,
-      "name": "Gnarly",
-      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "3D : The Remixes",
-        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "The Chase",
-        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 178900,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "Messy (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr"
@@ -425,7 +297,151 @@
       "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 160333,
+      "name": "123-78",
+      "url": "https://open.spotify.com/track/4XLfRpryO7Qn0SXp1ARIfj"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 223301,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 137316,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "duration_ms": 188399,
+      "name": "Slow Dance (feat. Sofia Carson)",
+      "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 144624,
+      "name": "Rebirth (Intro)",
+      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "Grain of Sand",
         "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
@@ -441,10 +457,42 @@
       "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
-        "name": "IF I SAY, I LOVE YOU",
-        "url": "https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe"
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
       },
       "artists": [
         {
@@ -452,12 +500,12 @@
           "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 161693,
-      "name": "IF I SAY, I LOVE YOU",
-      "url": "https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0"
+      "duration_ms": 149333,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/1DSDmBpBFHObaeKo1WTstK"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/700oyQvND1pNIADYqOkrre"
@@ -489,7 +537,7 @@
       "url": "https://open.spotify.com/track/2PlsVMcOn6ujc2UEYs2Yat"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/700oyQvND1pNIADYqOkrre"
@@ -505,23 +553,7 @@
       "url": "https://open.spotify.com/track/3vnaEaDxMKdBhqA1t0uAwl"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 78492,
-      "name": "Interlude : Showtime",
-      "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "Do or Die",
         "url": "https://open.spotify.com/album/0vZCxyaV5c4lcHqds3xfts"
@@ -537,7 +569,55 @@
       "url": "https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 129293,
+      "name": "Is That True?",
+      "url": "https://open.spotify.com/track/02jsJ8Jxl5sfpAsrXQByLh"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 78492,
+      "name": "Interlude : Showtime",
+      "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "Caligo Pt.1",
+        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -553,58 +633,26 @@
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
       },
       "artists": [
         {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 214357,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+      "duration_ms": 139133,
+      "name": "Next Mistake",
+      "url": "https://open.spotify.com/track/2Zb18lrOnbvvIA1ZnpxXYE"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "'Caligo Pt.1'",
-        "url": "https://open.spotify.com/album/1aOh0kGw8kvLCEPttInx98"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Dash",
-      "url": "https://open.spotify.com/track/5APxbxUDWyUChpgjJ0YQzE"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "Fourever",
-        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 189934,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/3vk3MR4IL2EMC4ksN5pCo4"
+        "url": "https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC"
       },
       "artists": [
         {
@@ -614,10 +662,10 @@
       ],
       "duration_ms": 178880,
       "name": "Supernova",
-      "url": "https://open.spotify.com/track/2JhbSmNAyM9kYiqwa8Tpla"
+      "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E"
@@ -633,23 +681,71 @@
       "url": "https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+      "duration_ms": 189934,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "COUP D'ETAT",
+        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 224792,
+      "name": "CROOKED",
+      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "yours",
+        "url": "https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "duration_ms": 165229,
+      "name": "yours",
+      "url": "https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -669,103 +765,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "Closely Far Away",
-        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "Closely Far Away",
-      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "yours",
-        "url": "https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6"
-      },
-      "artists": [
-        {
-          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
-          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "yours",
-      "url": "https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "KWON JI YONG (KR EDITION)",
-        "url": "https://open.spotify.com/album/3TttE8nRMlr9zDewnUbu0c"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 222867,
-      "name": "Untitled, 2014 - KR Ver.",
-      "url": "https://open.spotify.com/track/5FxasBmho2yEvgXrzp9MMW"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "COUP D'ETAT",
-        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 224792,
-      "name": "CROOKED",
-      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
         "name": "IM HERO",
         "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
@@ -781,68 +781,68 @@
       "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
-        "name": "Come Over (Remixes)",
-        "url": "https://open.spotify.com/album/0ki891OZvsxIuBYHn4PPLo"
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 137178,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/1tI8Ubt5VEMWDoGL08pomF"
+      "duration_ms": 174146,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/6VGoENqiseiYwmPUQW2oVl"
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS"
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
+        "name": "KWON JI YONG",
+        "url": "https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 283160,
-      "name": "You Were Beautiful",
-      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+      "duration_ms": 222867,
+      "name": "\ubb34\uc81c(\u7121\u984c) (Untitled, 2014)",
+      "url": "https://open.spotify.com/track/16BS342F89MDqouSxgLaUK"
     },
     {
-      "added_at": "2025-05-13 13:12:24",
+      "added_at": "2025-05-14 13:12:17",
       "album": {
-        "name": "Maybe Tomorrow",
-        "url": "https://open.spotify.com/album/2HhzHLoaQWdkvPQjoopUy6"
+        "name": "Closely Far Away",
+        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
         }
       ],
-      "duration_ms": 224249,
-      "name": "Maybe Tomorrow",
-      "url": "https://open.spotify.com/track/1XDSuZ5ZSExGZYC7IuiU5l"
+      "duration_ms": 194546,
+      "name": "Closely Far Away",
+      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
     }
   ],
   "unique_name": "Top 50 - South Korea",

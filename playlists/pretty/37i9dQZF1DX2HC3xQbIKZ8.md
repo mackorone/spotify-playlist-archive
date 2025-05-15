@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,521 likes - 122 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,537 likes - 122 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

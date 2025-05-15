@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,497 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,515 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 35 | [Toro y Pampa \- En Vivo](https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 3:48 |
 | 36 | [My Love \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex, Vol\. 2](https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u) | 4:38 |
 | 37 | [Chivo Expiatorio \- En Vivo](https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Chivo Expiatorio \(En Vivo\)](https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj) | 4:58 |
-| 38 | [DESCARTABLE \- En Vivo Estadio Racing Club](https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE \(En Vivo Estadio Racing Club\)](https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p) | 3:06 |
-| 39 | [Yo Tomo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:46 |
+| 38 | [Yo Tomo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:46 |
+| 39 | [DESCARTABLE \- En Vivo Estadio Racing Club](https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE \(En Vivo Estadio Racing Club\)](https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p) | 3:06 |
 | 40 | [Demoliendo Hoteles \- Live](https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 5:29 |
 | 41 | [Traicionero \- En Vivo en el Estadio Único](https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [En Vivo en el Estadio Único](https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp) | 5:41 |
 | 42 | [Tan Lejos](https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 4:44 |

@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 71286,
+  "num_followers": 71300,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "U COMPLETE ME",
+      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
+    },
+    {
+      "added_at": "2025-04-15 00:16:21",
+      "album": {
         "name": "100%\u30cf\u30d4\u30cd\u30b9",
         "url": "https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 324607,
       "name": "\u30d4\u30bf\u30b4\u30e9\u30b9\u2606\u30d5\u30a1\u30a4\u30bf\u30fc",
       "url": "https://open.spotify.com/track/10kBUC4nLCkzXyHMMtrKsY"
-    },
-    {
-      "added_at": "2025-04-15 00:16:21",
-      "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "U COMPLETE ME",
-      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -935,38 +935,6 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
-        "name": "ONE dream",
-        "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
-      },
-      "artists": [
-        {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "ONE dream",
-      "url": "https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e"
-    },
-    {
-      "added_at": "2025-04-15 00:16:21",
-      "album": {
-        "name": "my 10plate",
-        "url": "https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8"
-      },
-      "artists": [
-        {
-          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "my 10plate",
-      "url": "https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn"
-    },
-    {
-      "added_at": "2025-04-15 00:16:21",
-      "album": {
         "name": "Up to the nines",
         "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
       },
@@ -979,6 +947,22 @@
       "duration_ms": 231440,
       "name": "Up to the nines",
       "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
+    },
+    {
+      "added_at": "2025-04-15 00:16:21",
+      "album": {
+        "name": "ONE dream",
+        "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "ONE dream",
+      "url": "https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -1003,6 +987,22 @@
       "duration_ms": 260560,
       "name": "Unfoggy Sight",
       "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"
+    },
+    {
+      "added_at": "2025-04-15 00:16:21",
+      "album": {
+        "name": "my 10plate",
+        "url": "https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8"
+      },
+      "artists": [
+        {
+          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "my 10plate",
+      "url": "https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
+        "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
+        }
+      ],
+      "duration_ms": 320506,
+      "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs"
+    },
+    {
+      "added_at": "2025-04-15 00:16:21",
+      "album": {
         "name": "i7",
         "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 256986,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o"
-    },
-    {
-      "added_at": "2025-04-15 00:16:21",
-      "album": {
-        "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc"
-      },
-      "artists": [
-        {
-          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
-          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
-        }
-      ],
-      "duration_ms": 320506,
-      "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs"
     },
     {
       "added_at": "2025-04-15 00:16:21",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2025-04-15 00:16:21",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+        "name": "Re:al Axis",
+        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
       },
       "artists": [
         {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
         }
       ],
-      "duration_ms": 272506,
-      "name": "Leopard Eyes",
-      "url": "https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj"
+      "duration_ms": 239493,
+      "name": "Dis one.",
+      "url": "https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh"
     }
   ],
   "unique_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",

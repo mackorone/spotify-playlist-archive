@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,010 likes - 12 songs - 43 min 33 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 23,013 likes - 15 songs - 56 min 45 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,5 +20,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 10 | [Utopia and Visions](https://open.spotify.com/track/7tSGcD2FFsf2VaWWIaqcfN) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Tommy Koverhult](https://open.spotify.com/artist/6G3CmG2kj7vybt9ALhzyiQ), [Tommy Goldman](https://open.spotify.com/artist/68OM5HiKkUyArQ8MrzCRae), [Maffy Falay](https://open.spotify.com/artist/4muxcrIOP11n8diDu5aORG), [Tage Siven](https://open.spotify.com/artist/2x4pOElxVwwsFfUMqQbyx5), [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq) | [Organic Music Society](https://open.spotify.com/album/2ODX5qfcDBR0FaMJGhAZIs) | 6:33 |
 | 11 | [Golden Strings](https://open.spotify.com/track/4UZ2MsSsWkC4OVBEtqDN8g) | [Randall Stephens](https://open.spotify.com/artist/01BmrzkVMRWt1E1cz9XFZ7) | [The Music I Love Is Gospel](https://open.spotify.com/album/6JGJnMmSSKer4cE5H2Rsbs) | 3:26 |
 | 12 | [Things To You](https://open.spotify.com/track/1HkPnxK2lzKyDlzfOyiHE4) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy), [NRBQ](https://open.spotify.com/artist/5PpcyAkdpuo9a08HiU6yfi) | [She Sings, They Play \(Deluxe Edition\)](https://open.spotify.com/album/6VOmn4CoyJ9iHaWRv20Q1c) | 3:03 |
+| 13 | [New Horizon](https://open.spotify.com/track/1m1C9bHjEKrY4FS63FZeDN) | [Section 25](https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge) | [Always Now](https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ) | 6:01 |
+| 14 | [Snow](https://open.spotify.com/track/2YBkUWb9FVtP0QU9FX0lUl) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [Snow](https://open.spotify.com/album/50f0dY2lyEkXwjbm8JF8Qz) | 4:20 |
+| 15 | [901](https://open.spotify.com/track/3oSjnnvc8y5DpNQfC81Zsk) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [901](https://open.spotify.com/album/64zc56nx8LGS7s6jMu3bqT) | 2:49 |
 
-Snapshot ID: `AAAMZ70Rv4RC6rbhyyGvVmlNMl9/+ncS`
+Snapshot ID: `AAAMandFBrGAvv0V03v2cCbdilJ7liee`

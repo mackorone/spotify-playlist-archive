@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,066 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,095 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 29 | [It's Chocolate](https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89) | [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [It's Chocolate](https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF) | 2:39 |
 | 30 | [My Hair Looks Fierce \- Original](https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW) | [Amanda Lepore](https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ) | [Introducing...Amanda Lepore](https://open.spotify.com/album/0Z96e8zrSgJfokKZfo0Qxb) | 3:31 |
 | 31 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
-| 32 | [Hurt My Feelings](https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [Hurt My Feelings](https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8) | 3:57 |
-| 33 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
+| 32 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
+| 33 | [Hurt My Feelings](https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [Hurt My Feelings](https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8) | 3:57 |
 | 34 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
 | 35 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
 | 36 | [Shadow \- Spotify Singles](https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 3:26 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 65 | [I Love Being A Whore!](https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [I Love Being A Whore!](https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU) | 2:36 |
 | 66 | [Supermarché](https://open.spotify.com/track/2nTwIRB9J29KUI7eWprArI) | [Veda](https://open.spotify.com/artist/0l9oh06r4qAPI9jvwIJW5k), [David Hoyle](https://open.spotify.com/artist/7EmOKpaflttnkBXNZEhTUl) | [Transphibian](https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb) | 4:13 |
 | 67 | [Stars \- Disco Mix](https://open.spotify.com/track/0NUqxqzbiABToJega47uSY) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars \(Disco Mix\)](https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY) | 4:12 |
-| 68 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |
-| 69 | [Sunshine State](https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE), [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz) | [Sunshine State](https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka) | 3:06 |
+| 68 | [Sunshine State](https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE), [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz) | [Sunshine State](https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka) | 3:06 |
+| 69 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |
 | 70 | [Gratify](https://open.spotify.com/track/3oAa776TeEtmmbvJ7fH4Bt) | [Divina De Campo](https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9) | [GRATIFY](https://open.spotify.com/album/4p8gkNRIpOy9OkbxDXhUwx) | 3:35 |
 | 71 | [I Got You](https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Billy Cullum](https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k) | [Part 1: The Damage](https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL) | 2:53 |
 | 72 | [Out of Office](https://open.spotify.com/track/2quoLHVf67QT7yPDoMQlTE) | [Karen From Finance](https://open.spotify.com/artist/3LMNZjSHkbGJ7jKKJhG94f) | [Out of Office](https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C) | 3:14 |

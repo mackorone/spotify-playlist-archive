@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-351 songs - 23 hr 5 min
+352 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,13 +284,14 @@
 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 | 2024-01-31 |  |
 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 | 2021-12-15 |  |
 | [Solid \(feat\. Blxst & Kehlani\)](https://open.spotify.com/track/1XhaUSmhANVIRtDvs7p2UP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:15 | 2024-12-17 | 2025-04-16 |
+| [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 | 2025-05-14 |  |
 | [Somebody Son](https://open.spotify.com/track/7i72UHZmThLrxif0tS2RlB) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Somebody Son](https://open.spotify.com/album/3pESNx3uq44qRjcFVq8OTq) | 3:27 | 2021-12-15 | 2022-06-04 |
 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2021-12-15 | 2023-02-11 |
 | [Someone To Call My Lover](https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 4:32 | 2025-03-20 | 2025-05-14 |
 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 | 2021-12-15 | 2024-11-20 |
 | [Soul Sista \- Remix / From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/4zI7i4nbKpLVba3JJTaszz) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/6MI7UpFxq0mOdOeDnfa2eg) | 5:39 | 2021-12-15 | 2022-07-29 |
 | [Soul Sista \- Remix / From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 5:39 | 2022-03-14 | 2022-10-15 |
-| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-02 |  |
+| [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-02 | 2025-05-15 |
 | [SPIDER\-MAN SUPERMAN](https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:23 | 2025-03-20 |  |
 | [Spin \(feat\. Victoria Monét\)](https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:07 | 2025-04-15 | 2025-05-03 |
 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2023-02-13 | 2024-02-01 |

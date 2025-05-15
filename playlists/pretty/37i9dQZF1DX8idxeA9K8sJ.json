@@ -1,6 +1,6 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana. Flans en portada.",
-  "num_followers": 993983,
+  "num_followers": 994178,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "\"Miguel\"",
-        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "NUEVA ERA",
         "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 279026,
       "name": "Detr\u00e1s de Mi Ventana",
       "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "\"Miguel\"",
+        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/29XaS3POtNrgCl8sewWM0v"
     },
     {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Timbiriche 8",
-        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "\u00c1mame Hasta Con Los Dientes",
-      "url": "https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm"
-    },
-    {
       "added_at": "2023-01-04 00:37:45",
       "album": {
         "name": "Siempre",
@@ -1067,6 +1051,22 @@
       "duration_ms": 231200,
       "name": "Qu\u00e9date Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Timbiriche 8",
+        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "\u00c1mame Hasta Con Los Dientes",
+      "url": "https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "La Ley Del Desierto",
-        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Escuela de Calor",
-      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Rocio Durcal Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 180333,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "La Ley Del Desierto",
+        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "30 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 263506,
       "name": "Yo No Me Llamo Javier",
       "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
+        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
+      },
+      "artists": [
+        {
+          "name": "Los Amantes De Lola",
+          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
-        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
-      },
-      "artists": [
-        {
-          "name": "Los Amantes De Lola",
-          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Mam\u00e1",
-      "url": "https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n (CD2)",
         "url": "https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 242693,
       "name": "Enamorandonos (Just Like Starting Over)",
       "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Hay Amores Y Amores",
-        "url": "https://open.spotify.com/album/0c8ulhHZT3OiudBHDGtfgd"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "C\u00f3mo Han Pasado los A\u00f1os",
-      "url": "https://open.spotify.com/track/1p6WLICpvRXvTgP9aMcBvK"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Timbiriche 10",
         "url": "https://open.spotify.com/album/0AKeEzQyc4FRDqgXE3wiRw"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 401186,
       "name": "Princesa Tibetana",
       "url": "https://open.spotify.com/track/3ixFLKbMYQbw6sK1k78Zae"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Hay Amores Y Amores",
+        "url": "https://open.spotify.com/album/0c8ulhHZT3OiudBHDGtfgd"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "C\u00f3mo Han Pasado los A\u00f1os",
+      "url": "https://open.spotify.com/track/1p6WLICpvRXvTgP9aMcBvK"
     },
     {
       "added_at": "2020-06-24 19:34:30",

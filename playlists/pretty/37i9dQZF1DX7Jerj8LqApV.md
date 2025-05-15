@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,806,143 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,806,383 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 34 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 |
 | 35 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
 | 36 | [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 |
-| 37 | [Bawat Daan](https://open.spotify.com/track/1hJtJvPX9knMysNDQw0HDJ) | [Ebe Dancel](https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur) | [Bawat Daan](https://open.spotify.com/album/7GSSjug24nXU7g1FVVwhUX) | 5:00 |
-| 38 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 |
-| 39 | [Randomantic](https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Reid Alert](https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9) | 4:04 |
-| 40 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 |
+| 37 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 |
+| 38 | [Bawat Daan](https://open.spotify.com/track/1hJtJvPX9knMysNDQw0HDJ) | [Ebe Dancel](https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur) | [Bawat Daan](https://open.spotify.com/album/7GSSjug24nXU7g1FVVwhUX) | 5:00 |
+| 39 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 |
+| 40 | [Randomantic](https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Reid Alert](https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9) | 4:04 |
 
 Snapshot ID: `aB3LwwAAAAD3Kk5DFLXXWSsdcExTcNxw`

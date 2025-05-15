@@ -4,7 +4,7 @@
 
 > hand\-picked and hot right now 📈 cover: Remember Monday
 
-453 songs - 1 day 0 hr 21 min
+454 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-22 | 2024-12-17 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-03-04 |
 | [Arcade \(Spotify Singles\)](https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Arcade \(Spotify Singles\)](https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy) | 2:39 | 2025-05-07 |  |
-| [Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:40 | 2025-05-12 |  |
+| [Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:40 | 2025-05-12 | 2025-05-15 |
+| [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2025-05-14 |  |
 | [ATM](https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [ATM](https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS) | 2:17 | 2024-05-17 | 2024-07-23 |
 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-25 | 2024-04-19 |
 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-05 | 2024-03-12 |
@@ -279,7 +280,7 @@
 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 | 2025-05-06 |  |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-11-25 | 2025-02-18 |
 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2025-01-06 | 2025-02-25 |
-| [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 | 2025-05-09 |  |
+| [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/4hLAoNv1hzhT4yLcYU12do), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 | 2025-05-09 |  |
 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2024-01-23 | 2024-01-30 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-10 | 2024-06-15 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2024-01-29 | 2024-02-20 |

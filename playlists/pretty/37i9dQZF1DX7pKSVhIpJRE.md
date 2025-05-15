@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,923 likes - 152 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,948 likes - 152 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 21 | [Just One Of Those Things](https://open.spotify.com/track/4fngCznJ30b9JeNB9PxajH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 3:13 |
 | 22 | [Comin' Home, Baby](https://open.spotify.com/track/1IajXhU7nmWGA0WTlUmFHr) | [Mark Wirtz, His Orchestra & Chorus](https://open.spotify.com/artist/26QHByuLBjyPsdEzNFzD7A) | [Wirtz and Music](https://open.spotify.com/album/63UGdR8yVZ2Q8aqct84F5r) | 2:38 |
 | 23 | [Trouble In Mind](https://open.spotify.com/track/0ODiamCRs52cabQiegstMJ) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf) | [Privately Recorded Acetates 1953 \- 56](https://open.spotify.com/album/3pLtnd4tK7SplfKx5u7MzN) | 4:13 |
-| 24 | [Beggin'](https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [New Gold Hits](https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY) | 2:50 |
+| 24 | [Beggin'](https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru) | [The Four Seasons](https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s) | [New Gold Hits](https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY) | 2:50 |
 | 25 | [Tiger Feet](https://open.spotify.com/track/0JTexNTWFuNLw4U5TDnUYj) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [A's, B's And Rarities](https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW) | 3:50 |
 | 26 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 27 | [Girls on Film](https://open.spotify.com/track/7feSbMqJGg9yL0s6ypxy9S) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:27 |

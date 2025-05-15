@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-613 songs - 1 day 5 hr 50 min
+615 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,8 +367,9 @@
 | [Moralzinha](https://open.spotify.com/track/5cDarQhIkeQLe6MSTUwbZT) | [Mateus Camillo](https://open.spotify.com/artist/36SK9M4qewJfoCmbbjnpzP) | [Moralzinha](https://open.spotify.com/album/1sZAq0IjzWuL5j9GaP9jXH) | 2:05 | 2023-12-30 | 2024-01-25 |
 | [Motivo \- Ao Vivo](https://open.spotify.com/track/6B3WQUzBhn8sF894bed1LD) | [Felipe Duram](https://open.spotify.com/artist/1SbicVDBNjShlmCFsznYv7) | [Amor, Segredos e Roupas \(Ao Vivo\)](https://open.spotify.com/album/7bCdaskPVirNDwsnLcOyg7) | 2:48 | 2024-03-26 |  |
 | [Muito Bebo \- Ao Vivo](https://open.spotify.com/track/5Grar5BJy87FW3d1anpqpN) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Verãozinho de Carnaval \(Ao Vivo\)](https://open.spotify.com/album/7yxj2cU4sL9MMxlfTeXtAd) | 2:35 | 2023-12-30 |  |
-| [Mulher Não É Boba](https://open.spotify.com/track/0k1qRssJ1RAqNnP0WMmyMI) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Sobe o Som](https://open.spotify.com/album/0DVUNIC37rxzcK193fnH7T) | 3:01 | 2025-03-19 |  |
+| [Mulher Não É Boba](https://open.spotify.com/track/0k1qRssJ1RAqNnP0WMmyMI) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Sobe o Som](https://open.spotify.com/album/0DVUNIC37rxzcK193fnH7T) | 3:01 | 2025-03-19 | 2025-05-15 |
 | [Mulher Não É Boba \- Ao Vivo](https://open.spotify.com/track/1TIu3RfnOP9z8wyMmwHZPw) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Os Mineiros Tão Chegando \(Ao Vivo\)](https://open.spotify.com/album/0lqfQYbROoPPdSVHhIrqqr) | 3:01 | 2023-12-30 | 2025-03-20 |
+| [Mulher Não É Boba \- Ao Vivo](https://open.spotify.com/track/1TuzTf8ptvPsMLQv2WwJ9W) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Os Mineiros Tão Chegando](https://open.spotify.com/album/4ZrbA3xcQgKx24vaHHTEcO) | 3:01 | 2025-05-14 |  |
 | [Mulher que ama \- Ao vivo](https://open.spotify.com/track/0b2lytyqjzZd47t0V0Kvyj) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Traços \(Ao vivo\)](https://open.spotify.com/album/5YmcNWq3bfoOH4n39nM9Ua) | 3:01 | 2023-12-30 |  |
 | [Mulher Segura](https://open.spotify.com/track/0ulm0UweSegtp5gpYlKOrS) | [Heitor Costa](https://open.spotify.com/artist/1f0uTZ6roXfWpYsN8V1QqM) | [Seresta do HC 2.0](https://open.spotify.com/album/7mDuhZghwc2cp96VCa0xev) | 3:03 | 2023-12-30 | 2024-03-27 |
 | [MULHER SEGURA \- Ao Vivo](https://open.spotify.com/track/6S44vghJxOzBM2dwG10KBR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 3:10 | 2024-03-26 |  |
@@ -540,7 +541,8 @@
 | [Tiro de Amor \- Ao Vivo](https://open.spotify.com/track/1ycEdpCeIe5VshcT6JJx8d) | [Rob Nunes](https://open.spotify.com/artist/3WhKStgXqBomTpLZr6Q07a) | [Rob Nunes Ao Vivo em Goiânia](https://open.spotify.com/album/1xCVGPEow1bOVKADYkN7D2) | 2:21 | 2023-12-30 |  |
 | [Tive Que Bater Palma \- Ao Vivo](https://open.spotify.com/track/78Ep6gilLYOPAJvsMYERXm) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Escolhas \(Ao Vivo\)](https://open.spotify.com/album/1VfOg9snPLjiRuHWzfLSpP) | 3:10 | 2023-12-30 |  |
 | [Toca Aqui \- Ao Vivo](https://open.spotify.com/track/6nSfaqKke7PrDgPdL2hXjD) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Gabriel Diniz Na Ilha \(Ao Vivo\)](https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp) | 2:36 | 2023-12-30 |  |
-| [Toda Dela e Nada Nossa](https://open.spotify.com/track/6gCaO9J1JjKdghEk9V5i08) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Aí Desgramou](https://open.spotify.com/album/3GKbqm3AIzroso7uhXqSQC) | 2:45 | 2025-03-19 |  |
+| [Toda Dela e Nada Nossa](https://open.spotify.com/track/6gCaO9J1JjKdghEk9V5i08) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Aí Desgramou](https://open.spotify.com/album/3GKbqm3AIzroso7uhXqSQC) | 2:45 | 2025-03-19 | 2025-05-15 |
+| [Toda Dela e Nada Nossa \- Ao Vivo](https://open.spotify.com/track/3Sn5lcIGMp5sce7nVLBkj2) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Os Mineiros Tão Chegando](https://open.spotify.com/album/4ZrbA3xcQgKx24vaHHTEcO) | 2:45 | 2025-05-14 |  |
 | [Toda Dela e Nada Nossa \- Ao Vivo](https://open.spotify.com/track/7zHdsQxyEDwYPFAK3kgC9t) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Os Mineiros Tão Chegando \(Ao Vivo\)](https://open.spotify.com/album/0lqfQYbROoPPdSVHhIrqqr) | 2:45 | 2023-12-30 | 2025-03-20 |
 | [Toda Hora É Hora](https://open.spotify.com/track/55ql90KtU67lSbhzGkBu3D) | [Flavio Braga](https://open.spotify.com/artist/7DdpckSuZuulfR3Ge7194M), [Rafael](https://open.spotify.com/artist/1j0ndCVtyHv6snqojFBeyW) | [Canto, Bebo e Choro: Só Modas Chonadas, Vol\. 1](https://open.spotify.com/album/2xBHXe5I3axs8624DoZDEB) | 3:32 | 2023-12-30 |  |
 | [Tom do Violão \(Ao Vivo\)](https://open.spotify.com/track/6R4r30v1LxQU3bN57bsuXL) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX) | 2:32 | 2025-01-09 | 2025-04-12 |

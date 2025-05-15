@@ -4,7 +4,7 @@
 
 > \#fyp
 
-742 songs - 1 day 15 hr 3 min
+743 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Kleenex](https://open.spotify.com/track/6sHRH7ZFzoJD7zSemf45Mc) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude\(s\)](https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58) | 3:03 | 2025-02-21 | 2025-03-14 |
 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-10-16 | 2025-03-14 |
 | [Kukere \(feat\. D Banj\) \- Remix](https://open.spotify.com/track/6HfyzIgb4Ia9COaetbq2Od) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Desire](https://open.spotify.com/album/5aJW7o9L4aFy9DLEtTxqsF) | 4:29 | 2023-12-01 | 2024-01-06 |
+| [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 | 2025-05-14 |  |
 | [L.R\. DEFENDER](https://open.spotify.com/track/3XvGqS2nOXSCeqvdZQoMDm) | [BLOODY$ANJI](https://open.spotify.com/artist/4386Bn2Yxk2MGb3jz8sjRQ) | [L.R\. DEFENDER](https://open.spotify.com/album/7BQgt2iNf03iPfjGuqQimw) | 1:44 | 2024-12-13 | 2025-02-01 |
 | [La bandite](https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:40 | 2023-03-24 | 2023-11-11 |
 | [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/track/2hhrIFCQonuVWKj7wMfnHt) | [La Pig chenilliste](https://open.spotify.com/artist/5W17mS8dkwPr3D7RDT2d4a) | [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/album/4you1DowiDwZWP2AQ2BmHw) | 3:23 | 2023-11-10 | 2023-12-26 |
@@ -505,7 +506,7 @@
 | [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2025-01-24 | 2025-03-05 |
 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 | 2024-06-28 | 2025-02-22 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-03-14 | 2025-03-29 |
-| [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 | 2025-03-21 |  |
+| [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 | 2025-03-21 | 2025-05-15 |
 | [Nocif](https://open.spotify.com/track/7FeWKPL2gj7xIRv5gyHejU) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nocif](https://open.spotify.com/album/4aPOkge6RO4vsrI31pX6Hy) | 3:49 | 2023-03-24 | 2023-12-14 |
 | [NONCHALANT 3](https://open.spotify.com/track/2XzF8Lst0VqUdHHB67lWde) | [La Chine](https://open.spotify.com/artist/1uUulBiIlV1H36pgq2QpY0) | [NONCHALANT 3](https://open.spotify.com/album/2iSw6vsvRZB0bmNOz232zv) | 2:40 | 2025-01-24 | 2025-04-02 |
 | [Normal](https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [La vie de Many](https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc) | 2:41 | 2023-08-04 | 2023-11-11 |

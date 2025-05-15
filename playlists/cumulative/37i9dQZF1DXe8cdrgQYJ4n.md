@@ -4,7 +4,7 @@
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-117 songs - 6 hr 7 min
+118 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 | 2022-05-03 |  |
 | [Go Away](https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) | 3:39 | 2022-05-03 |  |
 | [Go Go](https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:55 | 2022-05-03 |  |
-| [GOOD](https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [GOOD](https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT) | 3:00 | 2022-05-03 |  |
+| [GOOD](https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [GOOD](https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT) | 3:00 | 2022-05-03 | 2025-05-15 |
 | [Good Parts \(when the quality is bad but I am\)](https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:36 | 2023-01-13 |  |
 | [HAPPY](https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:36 | 2022-05-03 | 2025-05-08 |
 | [Happy Alone \(feat\. B.I\)](https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 3:34 | 2024-10-08 |  |
@@ -59,6 +59,7 @@
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-03 | 2023-02-25 |
 | [I AM FINE](https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [I AM FINE](https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX) | 2:47 | 2022-06-18 | 2024-09-14 |
 | [I Don't Need a Man](https://open.spotify.com/track/1sWJyo5PBNSmm0FVIQ6GQ3) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [Hush](https://open.spotify.com/album/01zi2Tsa9ojYgPY5Q08aUb) | 3:30 | 2023-07-17 | 2024-04-19 |
+| [I Don′t Need You \(Feat\. Roydo\)](https://open.spotify.com/track/6RBB5rjfcNja2fk2SCOgyr) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Roydo](https://open.spotify.com/artist/4Tq5nMU99vtYU8YV8lHVvC) | [I Don't Need You](https://open.spotify.com/album/6NxFBdEPn4DWmHxiGd2m1F) | 2:29 | 2025-05-14 |  |
 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 | 2025-04-23 |  |
 | [I KNOW ME BEST](https://open.spotify.com/track/0jMAXpFLWywfGLQAaiwKZL) | [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [GOOD BOY SYNDROME](https://open.spotify.com/album/6uhGHBVumfvzagQxswoJ49) | 3:23 | 2022-05-03 | 2022-08-22 |
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-10 |  |

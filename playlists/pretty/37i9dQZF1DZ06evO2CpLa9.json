@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 563988,
+  "num_followers": 564001,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADMvHV3X/Ak+iEiT0/obaVP",
+  "snapshot_id": "aCKLgAAAAABI6wCRIvZmQfkswZNi/0yW",
   "tracks": [
     {
       "added_at": null,
@@ -691,30 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO SON KLLE",
-        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "NO SON KLLE",
-      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liga Malandra 2",
         "url": "https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 240000,
       "name": "Liga Malandra 2",
       "url": "https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO SON KLLE",
+        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "NO SON KLLE",
+      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "De Viernes a Viernes",
+      "url": "https://open.spotify.com/track/6Coy2E6vUlhlvvHOA2eCOp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -903,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "De Viernes a Viernes",
-      "url": "https://open.spotify.com/track/6Coy2E6vUlhlvvHOA2eCOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TODO",
         "url": "https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W"
       },
@@ -959,6 +959,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 268124,
+      "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
       },
@@ -987,34 +1015,6 @@
       "duration_ms": 198530,
       "name": "De Pies a Cabeza",
       "url": "https://open.spotify.com/track/7iBioaqKNozrqB88QQVoBD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 268124,
-      "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
     },
     {
       "added_at": null,

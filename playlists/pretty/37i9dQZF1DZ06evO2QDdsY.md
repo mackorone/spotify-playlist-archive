@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,000 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,002 likes - 45 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 44 | [Happy Or Lonesome](https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 1:51 |
 | 45 | [Tonight I’ll Be Staying Here With You](https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:04 |
 
-Snapshot ID: `aCE6AAAAAADwoCQF3gaaVzkhOsCxHXzj`
+Snapshot ID: `aCKLgAAAAAAkKQWarj2giVLHveGJSGx5`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: FouKi
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,415 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,418 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mode de vie](https://open.spotify.com/track/6Gwjo7UHixOJiCCe5Av7wT) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Mode de vie](https://open.spotify.com/album/56mNsqZxNamBAllH4zmMoL) | 2:25 |
 | 2 | [CASAMIGOS 2X](https://open.spotify.com/track/2MQD2LqAPlmZShAxXtjAHl) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [ON FRAP II](https://open.spotify.com/album/6ZbWyoybaFIyffQYnvxQNZ) | 3:26 |
 | 3 | [Day N' Night](https://open.spotify.com/track/4mzORLfFFmQjIqPGLmLoFu) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Day N' Night](https://open.spotify.com/album/5Kcq71QCWLlk2PqKg9bzVW) | 3:11 |
-| 4 | [Sacrifices](https://open.spotify.com/track/6D78sjOVWL5awGX6A6S5tD) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Sacrifices](https://open.spotify.com/album/0Tc7WvMtpOl3QVQJ6hZbZP) | 3:48 |
+| 4 | [Sacrifices \(avec Izzy\-S\)](https://open.spotify.com/track/6D78sjOVWL5awGX6A6S5tD) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Sacrifices \(avec Izzy\-S\)](https://open.spotify.com/album/0Tc7WvMtpOl3QVQJ6hZbZP) | 3:48 |
 | 5 | [LomeLaval](https://open.spotify.com/track/2Q7CpbLeZhE8Rq8YPSiOhf) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [LomeLaval](https://open.spotify.com/album/21pJeD4qusaQ9YsBwfdKOW) | 2:21 |
 | 6 | [4502](https://open.spotify.com/track/3fV0H6wr3f36sMga8xrgUp) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Genèse](https://open.spotify.com/album/3Les4fAJE90bbd7fVzOGzD) | 2:41 |
 | 7 | [Dans l'air du temps](https://open.spotify.com/track/6TPu4Tx9593EPKFj8Tvrbh) | [Christophe Martin](https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Dans l'air du temps](https://open.spotify.com/album/7cCGWUrcIqIW2wnv1rBaH8) | 2:52 |

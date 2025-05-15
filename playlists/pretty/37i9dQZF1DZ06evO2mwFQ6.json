@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAACayGtJTSkj/eo86FiBqDzQ",
+  "snapshot_id": "aCKLgAAAAACTEHHgjyf6NWBH2tI78SaM",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Friends",
-        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Good Friends",
-      "url": "https://open.spotify.com/track/1BccrNoxYvYb3uzeNYLb4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Built For Speed",
         "url": "https://open.spotify.com/album/2MUhRWkiW8VCwfc6XbTkXc"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 291933,
       "name": "The Anzac",
       "url": "https://open.spotify.com/track/2mOCf3tD0R4ZcWEI7wRv9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Friends",
+        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Good Friends",
+      "url": "https://open.spotify.com/track/1BccrNoxYvYb3uzeNYLb4n"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Friends",
-        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "I Did What?",
-      "url": "https://open.spotify.com/track/0e6xQNN0qADdQSG56L7a4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Loud",
         "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 222493,
       "name": "She's Country",
       "url": "https://open.spotify.com/track/6RsEU2x1ufggklj11Xg1Mt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Friends",
+        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 172040,
+      "name": "I Did What?",
+      "url": "https://open.spotify.com/track/0e6xQNN0qADdQSG56L7a4z"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get On Your Feet",
-        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Every Time She Walks By",
-      "url": "https://open.spotify.com/track/1dUyGRhjo2fLkyUnGJ4883"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/5rJuxuT06npGq0ImHMGsOL"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Every Time She Walks By",
+      "url": "https://open.spotify.com/track/1dUyGRhjo2fLkyUnGJ4883"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adam Brand and The Outlaws",
         "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milestones",
-        "url": "https://open.spotify.com/album/2iVR1Vt976L3hxNTPszaMj"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "Milestones",
-      "url": "https://open.spotify.com/track/5PA3JUawknYd5RPqDwPm5t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/5rJuxuT06npGq0ImHMGsOL"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 223400,
       "name": "Blame It On Eve",
       "url": "https://open.spotify.com/track/2Gb45i57zA76fV09OmQjGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milestones",
+        "url": "https://open.spotify.com/album/2iVR1Vt976L3hxNTPszaMj"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "Milestones",
+      "url": "https://open.spotify.com/track/5PA3JUawknYd5RPqDwPm5t"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gettin' There",
-        "url": "https://open.spotify.com/album/15XBSuTfxBgZZtKR2PbWaK"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Gettin' There",
-      "url": "https://open.spotify.com/track/4PI3yDy1ozrZXiefoNTe0W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adam Brand and The Outlaws",
         "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 233040,
       "name": "Way Out West",
       "url": "https://open.spotify.com/track/079DxgUPBayPga0ijJymx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gettin' There",
+        "url": "https://open.spotify.com/album/15XBSuTfxBgZZtKR2PbWaK"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Gettin' There",
+      "url": "https://open.spotify.com/track/4PI3yDy1ozrZXiefoNTe0W"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Beating Around The Bush",
-      "url": "https://open.spotify.com/track/0Ul76B6hmCMTEAgjblo1Am"
+      "duration_ms": 192360,
+      "name": "You Are To Me",
+      "url": "https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2ceH3rP6AaMxeic16vZTA9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Loud",
         "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2ceH3rP6AaMxeic16vZTA9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Friends",
         "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
       },
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 192360,
-      "name": "You Are To Me",
-      "url": "https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c"
+      "duration_ms": 199093,
+      "name": "Beating Around The Bush",
+      "url": "https://open.spotify.com/track/0Ul76B6hmCMTEAgjblo1Am"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Side of the Street",
-        "url": "https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF"
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 194333,
-      "name": "Hearts I Leave Behind",
-      "url": "https://open.spotify.com/track/1XRAMlvsJa0frnT5So3Fho"
+      "duration_ms": 248746,
+      "name": "If Heaven Has a Soundtrack",
+      "url": "https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get On Your Feet",
-        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
+        "name": "My Side of the Street",
+        "url": "https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 248746,
-      "name": "If Heaven Has a Soundtrack",
-      "url": "https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb"
+      "duration_ms": 194333,
+      "name": "Hearts I Leave Behind",
+      "url": "https://open.spotify.com/track/1XRAMlvsJa0frnT5So3Fho"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
       "duration_ms": 254986,
       "name": "Comin' From / Khe Sanh - Medley",
       "url": "https://open.spotify.com/track/1aaVmTR7WXYDoSUpnGAknS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Get on Your Feet",
+      "url": "https://open.spotify.com/track/1gBuPJ2nGN3uIC9cgy0QFe"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get On Your Feet",
-        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Get on Your Feet",
-      "url": "https://open.spotify.com/track/1gBuPJ2nGN3uIC9cgy0QFe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Speed of Life",
         "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
       },
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Loud",
-        "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
+        "name": "Good Friends",
+        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 183280,
-      "name": "We're Makin' Up",
-      "url": "https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN"
+      "duration_ms": 214173,
+      "name": "When The Needle Hits The Vinyl",
+      "url": "https://open.spotify.com/track/6fZosvn3HVvfG9L4U9MQbW"
     }
   ],
   "unique_name": "This Is Adam Brand",

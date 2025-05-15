@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,090 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,144 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 10 | [Luz Sin Gravedad](https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 4:01 |
 | 11 | [Muriendo Lento \(feat\. Belinda\)](https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Detector De Metal](https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N) | 4:10 |
 | 12 | [Si No Te Quisiera](https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [The King Is Back](https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu) | 3:05 |
-| 13 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
-| 14 | [Déjate Llevar](https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Snova](https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [4.0](https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq) | 3:53 |
-| 15 | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r) | 3:05 |
-| 16 | [Mírame Feliz](https://open.spotify.com/track/55gq5GBRE7Mlz3BCKZ8taw) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Mírame Feliz](https://open.spotify.com/album/4Esaa3tjzYiVQk3ENa49yg) | 3:11 |
+| 13 | [Mírame Feliz](https://open.spotify.com/track/55gq5GBRE7Mlz3BCKZ8taw) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Mírame Feliz](https://open.spotify.com/album/4Esaa3tjzYiVQk3ENa49yg) | 3:11 |
+| 14 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
+| 15 | [Déjate Llevar](https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Snova](https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [4.0](https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq) | 3:53 |
+| 16 | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r) | 3:05 |
 | 17 | [Si Nos Dejan](https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Si Nos Dejan](https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe) | 2:29 |
 | 18 | [Egoista](https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:24 |
 | 19 | [Flamenkito](https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cocoterapia](https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 49 | [No Entiendo \- I Don't Understand You](https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 4:04 |
 | 50 | [Te Sigo Amando](https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:58 |
 
-Snapshot ID: `aCE6AAAAAAALnW8MUYNDZPQK6q0nAgHX`
+Snapshot ID: `aCKLgAAAAAAROOFcI+DvRw71mlmyiz/F`

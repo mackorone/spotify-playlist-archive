@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36066,
+  "num_followers": 36074,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABcKBfJm0FbIwpztBNtVAeQ",
+  "snapshot_id": "aCKLgAAAAADwig+7pd7NjetG+XzBBiNW",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is A Move (Live)",
-        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 445586,
-      "name": "This Is A Move - Live",
-      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Place Live",
         "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 326346,
       "name": "Jesus Saves - Live",
       "url": "https://open.spotify.com/track/2Gv1xrd1QQeZNG99PhVdIx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 262124,
-      "name": "Burdens Down - Live",
-      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 318986,
       "name": "Happy - Live",
       "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 262124,
+      "name": "Burdens Down - Live",
+      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
+        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 85568,
-      "name": "Agnus Dei - Live",
-      "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
+      "duration_ms": 167040,
+      "name": "The Blood Hymns Medley - Live",
+      "url": "https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
-        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 167040,
-      "name": "The Blood Hymns Medley - Live",
-      "url": "https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK"
+      "duration_ms": 85568,
+      "name": "Agnus Dei - Live",
+      "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Hallelujah (You Get The Glory) - Live",
-      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Place Live",
         "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 183866,
       "name": "I Love This Place - Live",
       "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Hallelujah (You Get The Glory) - Live",
+      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
     },
     {
       "added_at": null,
@@ -931,30 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Maverick City",
-        "url": "https://open.spotify.com/album/6EuI4oABuEdqtebGSWwtJt"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 121898,
-      "name": "Man Of Your Word - Live",
-      "url": "https://open.spotify.com/track/0vO4f64AippKsUhWPOM6b7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel According To PJ",
         "url": "https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 236352,
       "name": "Never Be The Same (feat. Tasha Cobbs Leonard, Brian Courtney Wilson & Travis Greene)",
       "url": "https://open.spotify.com/track/1ZLQ9em098JEt310TDsbs2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Maverick City",
+        "url": "https://open.spotify.com/album/6EuI4oABuEdqtebGSWwtJt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 121898,
+      "name": "Man Of Your Word - Live",
+      "url": "https://open.spotify.com/track/0vO4f64AippKsUhWPOM6b7"
     },
     {
       "added_at": null,

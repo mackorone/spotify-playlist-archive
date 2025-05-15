@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,237 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,175 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 61 | [I Just Wanna \(feat\. Bow Anderson\)](https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [I Just Wanna \(feat\. Bow Anderson\)](https://open.spotify.com/album/1IyHQhcn2u53scCz3w8HsS) | 2:39 |
 | 62 | [Always Will](https://open.spotify.com/track/3ndUEyT1uOX5cPvsJScvEq) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Always Will](https://open.spotify.com/album/7tWc4pl3BkLrVKH02W5iWq) | 3:27 |
 | 63 | [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 |
-| 64 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 |
-| 65 | [Midnight Calls](https://open.spotify.com/track/6ZxsZWzg4pWzW9gEKvnLFl) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Midnight Calls](https://open.spotify.com/album/3ELMVr61XRoOsqDTC6r2sk) | 3:11 |
+| 64 | [Midnight Calls](https://open.spotify.com/track/6ZxsZWzg4pWzW9gEKvnLFl) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Midnight Calls](https://open.spotify.com/album/3ELMVr61XRoOsqDTC6r2sk) | 3:11 |
+| 65 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 |
 | 66 | [Bend The Knee](https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Bend The Knee](https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE) | 3:07 |
 | 67 | [Shake](https://open.spotify.com/track/31esElEZXBtCb5bqHBYMit) | [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX) | [WHERE AM I](https://open.spotify.com/album/0ZvLPpDFux0HwcR1Orttd9) | 3:18 |
 | 68 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 |

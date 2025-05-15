@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-419 songs - 18 hr 20 min
+421 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Brothers](https://open.spotify.com/track/4wAgG2Y5yUrMc1RdMQJR14) | [Liam Muntz](https://open.spotify.com/artist/3xxV3NmQixCSk6fUPlGSvP) | [Brothers](https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H) | 2:28 | 2022-05-20 | 2024-04-10 |
 | [Burgundy](https://open.spotify.com/track/2HAWnoXk3UgIaX6dtISd4d) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 2:38 | 2022-05-20 | 2025-04-17 |
 | [Can´t Help Smiling](https://open.spotify.com/track/2iVPty0FBstGSURghngIgo) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Winter Unflorished](https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8) | 2:44 | 2022-05-20 | 2025-05-03 |
+| [Carried Away](https://open.spotify.com/track/6osYVNKzPnVM3k7y2SasZT) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Carried Away](https://open.spotify.com/album/2CbSr0PzBU4Yps8XWb8hGB) | 2:02 | 2025-05-14 |  |
 | [Ce jour là](https://open.spotify.com/track/3lUAjSVqgu8A7e7Vhlu74G) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Ce jour là](https://open.spotify.com/album/2XPO10I96fugOchMhRpqxW) | 2:27 | 2022-05-20 | 2024-04-10 |
 | [Celestial](https://open.spotify.com/track/4TMuuu2cN3RfohOJhojFEq) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L) | [Celestial](https://open.spotify.com/album/1BaTKoIVvPxRZHZw7C0dFP) | 2:42 | 2022-05-20 |  |
 | [Chalet](https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz) | [Michèle Lefurgey](https://open.spotify.com/artist/7ib6lMOvVIMzRc4tPCEtHV) | [Chalet](https://open.spotify.com/album/4uKDACa5QRlBZ5Qoagz42Y) | 2:03 | 2022-05-20 |  |
@@ -241,7 +242,7 @@
 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2022-05-20 | 2025-04-17 |
 | [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 | 2022-05-20 |  |
 | [Oculis](https://open.spotify.com/track/3rkfPXBvaNLZNzwrWZ0Dmd) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Oculis](https://open.spotify.com/album/1bPneybtqTRAZ9UZaehET0) | 2:58 | 2022-05-20 | 2024-03-26 |
-| [On a summer midnight](https://open.spotify.com/track/68jz5jlpsxs5cL48wGIgqC) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [On a summer midnight](https://open.spotify.com/album/3Nh4RpRM4ZScvXV3Yi78A9) | 2:03 | 2023-08-01 |  |
+| [On a summer midnight](https://open.spotify.com/track/68jz5jlpsxs5cL48wGIgqC) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [On a summer midnight](https://open.spotify.com/album/3Nh4RpRM4ZScvXV3Yi78A9) | 2:03 | 2023-08-01 | 2025-05-15 |
 | [On Your Side](https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [On Your Side](https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV) | 3:26 | 2022-05-20 | 2024-04-10 |
 | [Once Again](https://open.spotify.com/track/7D7QszPJ4qhcdqY4bV5BOo) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Recollection](https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q) | 2:47 | 2022-05-20 | 2024-04-10 |
 | [Once when I was young](https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Once when I was young](https://open.spotify.com/album/4EpZkFkz3jGxSFAq7exAeH) | 2:01 | 2022-05-20 |  |
@@ -342,7 +343,7 @@
 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 | 2022-05-20 |  |
 | [Summer Nights](https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Summer Nights](https://open.spotify.com/album/2iy4xz7MDiw6WTBIs3B91t) | 2:03 | 2024-04-09 |  |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2022-05-20 |  |
-| [Sunup](https://open.spotify.com/track/7feFO6uitFmAopVYwhNnK1) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Sunup](https://open.spotify.com/album/10nVki24csVSCadOvprx4h) | 2:27 | 2023-06-27 |  |
+| [Sunup](https://open.spotify.com/track/7feFO6uitFmAopVYwhNnK1) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Sunup](https://open.spotify.com/album/10nVki24csVSCadOvprx4h) | 2:27 | 2023-06-27 | 2025-05-15 |
 | [supine](https://open.spotify.com/track/7IMGJM5S0YYcQhvtdeJH14) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [hopes](https://open.spotify.com/album/2XdFgoXMYe0EXNtvJv3VA8) | 3:28 | 2022-05-20 | 2024-03-26 |
 | [Surface Waves](https://open.spotify.com/track/4NZdu1A7BaLDXFmoAvazPS) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [The Turn](https://open.spotify.com/album/1HBOLQ0QoDkGDGnjhfdzPy) | 2:18 | 2022-05-20 | 2024-04-10 |
 | [Swan Dip](https://open.spotify.com/track/3BreWDRhcZRI9stPke1ydd) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Words Mean More From You](https://open.spotify.com/album/6yZdgPQG2n5I9EsjHtwc9u) | 2:43 | 2022-05-20 | 2025-05-03 |
@@ -362,6 +363,7 @@
 | [The Garden](https://open.spotify.com/track/2DiA01I5LFxzZC7QpVg3PZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Garden](https://open.spotify.com/album/09kiYFhi76YddawBYnHKXt) | 2:56 | 2022-07-20 |  |
 | [The Inner World](https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu) | [Ruben Galloway](https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX) | [Origins](https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A) | 3:22 | 2022-05-20 | 2024-03-26 |
 | [The Kimberley](https://open.spotify.com/track/3cZPbtGWtcv4DnsCwgTuUD) | [Rory Whitford](https://open.spotify.com/artist/5VzjMIYvFYcB4sUmiH5vL2) | [The Kimberley](https://open.spotify.com/album/7uxYx8RGqVKvzRRLXpx8l7) | 1:48 | 2022-05-20 | 2024-03-26 |
+| [The light is there](https://open.spotify.com/track/1aHkqLrb44WJtIxXxz93qp) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [The light is there](https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2) | 2:03 | 2025-05-14 |  |
 | [The Northern Fairy](https://open.spotify.com/track/1hwfxmyMPUvuuihQY1PLOK) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [The Northern Fairy](https://open.spotify.com/album/3T27VKk3B5a2GY4Ayfc8Ws) | 2:10 | 2022-05-20 | 2024-04-10 |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-08-15 |  |
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2022-05-20 |  |

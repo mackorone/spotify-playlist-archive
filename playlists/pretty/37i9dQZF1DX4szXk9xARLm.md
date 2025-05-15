@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,795 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,808 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 7 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
 | 8 | [Taht Sabeh Ared](https://open.spotify.com/track/0gH9krYOtjKAox1RIzc8BP) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Taht Sabeh Ared](https://open.spotify.com/album/4kWsTh3dTg3KykBmE8pmAp) | 3:14 |
 | 9 | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
-| 10 | [غول الاصول](https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY) | [رحمه محسن](https://open.spotify.com/artist/4n7LF1ui4BRgY6sKpcIERt) | [غول الاصول](https://open.spotify.com/album/0GnC7m8hmfuWDU8g0yHwBd) | 4:16 |
-| 11 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
+| 10 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
+| 11 | [غول الاصول](https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY) | [رحمه محسن](https://open.spotify.com/artist/4n7LF1ui4BRgY6sKpcIERt) | [غول الاصول](https://open.spotify.com/album/0GnC7m8hmfuWDU8g0yHwBd) | 4:16 |
 | 12 | [قالتلي لا لا \- من مسلسل العتاولة ٢](https://open.spotify.com/track/1570e9oi9j2eJflDGtkBX7) | [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [مصطفى ابو سريع](https://open.spotify.com/artist/33x0PBqHDjYcm5JpNlyK5d) | [قالتلي لا لا \(من مسلسل العتاولة ٢\)](https://open.spotify.com/album/11dWPCENI07626fPX39wJD) | 2:04 |
 | 13 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 |
 | 14 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 27 | [انا فوقت](https://open.spotify.com/track/2yYxh4hwfB6IxB4ymVKNA0) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [انا فوقت](https://open.spotify.com/album/1PcEjK3sDoZ3Swtarh7v4V) | 2:32 |
 | 28 | [Chehal S3ib](https://open.spotify.com/track/2XwZYLH0bvpk3DanCENM00) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Chehal S3ib](https://open.spotify.com/album/5wZvCZrZHa7LiOpwkwoGty) | 3:15 |
 | 29 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 |
-| 30 | [فيك سر \- من مسلسل في لحظة](https://open.spotify.com/track/2Cy2I1IWv7J3tBwc7p30vi) | [Ahmed Fahmi](https://open.spotify.com/artist/76Rq7hIe7VzoXmNFnySa1j) | [فيك سر \(من مسلسل في لحظة\)](https://open.spotify.com/album/1R46ohQ0Ljs8cyk9sn8brq) | 2:32 |
-| 31 | [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 |
+| 30 | [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 |
+| 31 | [فيك سر \- من مسلسل في لحظة](https://open.spotify.com/track/2Cy2I1IWv7J3tBwc7p30vi) | [Ahmed Fahmi](https://open.spotify.com/artist/76Rq7hIe7VzoXmNFnySa1j) | [فيك سر \(من مسلسل في لحظة\)](https://open.spotify.com/album/1R46ohQ0Ljs8cyk9sn8brq) | 2:32 |
 | 32 | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 |
 | 33 | [Al Najdain \(النجدين\)](https://open.spotify.com/track/2wX6tRMGNryOFsc8vuqZ4B) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Al Najdain \(النجدين\)](https://open.spotify.com/album/54N1rRSxWZlAqkEnslrOf1) | 4:13 |
 | 34 | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/track/3ADHv3poD95cLwiQUbY2d7) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/album/0xvlOd8fvLrWIp4hDM9PY1) | 3:58 |

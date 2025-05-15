@@ -4,7 +4,7 @@
 
 > The best of 2000s Y2K nostalgia! Coachella, Stagecoach from \*NSYNC's Bye Bye Bye, to Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-269 songs - 17 hr 29 min
+270 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Chariot](https://open.spotify.com/track/4dygMGhvfENVhwRXmAscbl) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot](https://open.spotify.com/album/5YTn3PFD7mrjhucfeafJE7) | 3:59 | 2022-06-03 | 2023-01-20 |
 | [Chasing Pavements](https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:30 | 2023-02-21 |  |
 | [Check On It \(feat\. Bun B & Slim Thug\)](https://open.spotify.com/track/2RWxrpsFshOBFwRBRstUlQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [B'Day](https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO) | 3:30 | 2025-02-12 |  |
-| [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2023-01-19 |  |
+| [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2023-01-19 | 2025-05-15 |
 | [Circus](https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:12 | 2022-06-03 | 2023-01-20 |
 | [Come on over Baby \(All I Want Is You\) \- Radio Version](https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:23 | 2025-02-12 |  |
 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 | 2022-06-03 |  |
@@ -140,6 +140,7 @@
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2023-02-21 | 2023-06-15 |
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2023-01-19 |  |
 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 | 2022-06-03 |  |
+| [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2025-05-14 |  |
 | [Life We Live \(feat\. Namond Lumpkin & Edgar Fletcher\)](https://open.spotify.com/track/3A4S0o95OxSgRbqEnEMsn4) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Namond Lumpkin](https://open.spotify.com/artist/4s8NUFZU7vQ5s4yT3paDpw), [Edgar Fletcher](https://open.spotify.com/artist/0A9t7hQJTPECh5yinJPwb0) | [Mista Don't Play: Everythangs Workin](https://open.spotify.com/album/71GZEl78TMbuZ1sBbjDGZw) | 4:14 | 2024-08-05 |  |
 | [Like a Boy](https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 3:57 | 2022-06-03 | 2023-01-20 |
 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 | 2025-01-21 |  |

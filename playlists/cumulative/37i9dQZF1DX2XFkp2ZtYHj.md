@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-283 songs - 11 hr 58 min
+284 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Lightly](https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Lightly](https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2) | 2:07 | 2024-10-21 |  |
 | [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-02-05 |  |
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2023-10-18 | 2024-09-11 |
-| [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 | 2025-03-11 |  |
+| [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 | 2025-03-11 | 2025-05-15 |
 | [Longing for You](https://open.spotify.com/track/33CNA3gUX4HkShLA3ILNjs) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [Longing for You](https://open.spotify.com/album/2v6a6jspsycdaJvdydLgRE) | 2:18 | 2023-10-18 | 2024-10-09 |
 | [Looseleft](https://open.spotify.com/track/36TroPa4PgkiGIKPk3nKsM) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Looseleft](https://open.spotify.com/album/61w2XTrZbHL70AnfX5tzQp) | 2:37 | 2023-10-18 |  |
 | [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-11-08 |  |
@@ -191,7 +191,7 @@
 | [Paragon Sky](https://open.spotify.com/track/3VDYovwr8jMnxXuvVLaVyc) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Paragon Sky](https://open.spotify.com/album/3KqxIkmwtPBAhWOq6s9rme) | 2:16 | 2024-09-03 |  |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-10-18 |  |
 | [Passion and Fire](https://open.spotify.com/track/5tTv0eBtH62dVailpRZ46C) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Passion and Fire](https://open.spotify.com/album/55AHv4KY3jolnloSltgAou) | 2:24 | 2023-10-18 |  |
-| [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-18 |  |
+| [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-18 | 2025-05-15 |
 | [Perfect Timing](https://open.spotify.com/track/6LUP8h81Gl3GzEMU7OaWxZ) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Perfect Timing](https://open.spotify.com/album/3IsqmVQFD31pAnxaKjmT4i) | 2:40 | 2024-03-25 |  |
 | [Pneuma](https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Pneuma](https://open.spotify.com/album/264KiTwubNhJtDZByhbqKI) | 2:21 | 2023-10-18 |  |
 | [Poema](https://open.spotify.com/track/7a2UsjQknwvctwlSYhiikH) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Poema](https://open.spotify.com/album/3mcNY82C2lWEMJPWv7NYiX) | 2:01 | 2023-10-18 |  |
@@ -236,12 +236,12 @@
 | [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 | 2023-10-18 |  |
 | [Souvenir des Alpes](https://open.spotify.com/track/3L3jNg0Hvd1MF81aDgnCNC) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Souvenir des Alpes](https://open.spotify.com/album/2xhn6cHDxsaGhMWrRaKRLe) | 3:14 | 2023-10-18 | 2024-10-02 |
 | [Spruces and pines](https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Spruces and pines](https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG) | 2:22 | 2023-10-18 | 2024-10-16 |
-| [Starry Night](https://open.spotify.com/track/20xYxo5QO7JqSeZ1V1WUiE) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Starry Night](https://open.spotify.com/album/3yF2Uz0nbLkrSmli3CcevE) | 2:08 | 2023-10-18 |  |
+| [Starry Night](https://open.spotify.com/track/20xYxo5QO7JqSeZ1V1WUiE) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Starry Night](https://open.spotify.com/album/3yF2Uz0nbLkrSmli3CcevE) | 2:08 | 2023-10-18 | 2025-05-15 |
 | [Still Drifting](https://open.spotify.com/track/6QUj5aZj21pFhsT94CCYz1) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Still Drifting](https://open.spotify.com/album/72wXUUjSAGLmQstNGlrGAe) | 2:10 | 2023-10-18 | 2024-10-02 |
 | [Stilles Sehnen \- Upright Reframings](https://open.spotify.com/track/0KJa9LQdtvIkg7m7lGiSQu) | [Clemens Christian Poetzsch](https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc) | [Stilles Sehnen \(Upright Reframings\)](https://open.spotify.com/album/2ac5YHVhCIkDRp2D7lgswK) | 3:25 | 2023-10-18 |  |
 | [Sundara](https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Sundara](https://open.spotify.com/album/1hfHJIrOtPFJP0tg93KzsM) | 2:42 | 2023-10-18 | 2025-02-27 |
 | [Sweet Nocturne](https://open.spotify.com/track/2o1vbOCVUv4gf4GLg77T7O) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Sweet Nocturne](https://open.spotify.com/album/114XalkM0RcLqdHV40Bt4l) | 2:36 | 2023-10-18 | 2024-12-14 |
-| [Syllables Flow](https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Syllables Flow](https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0) | 2:06 | 2023-10-18 |  |
+| [Syllables Flow](https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Syllables Flow](https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0) | 2:06 | 2023-10-18 | 2025-05-15 |
 | [The Curtain Rises](https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [The Curtain Rises](https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo) | 2:05 | 2023-10-18 |  |
 | [The Last Song](https://open.spotify.com/track/0ueOX478olOpZZTZ0Dwlr5) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [The Last Song](https://open.spotify.com/album/22scFe6yrZQyIckzOHTcG8) | 2:06 | 2024-08-20 |  |
 | [The little princess](https://open.spotify.com/track/2TD0iYRp8fH3okp5vOAOi2) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [The little princess](https://open.spotify.com/album/6MzCfFeBDf9Ci669LpjrCF) | 2:05 | 2023-10-18 |  |
@@ -250,6 +250,7 @@
 | [The Pond](https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Pond](https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw) | 2:28 | 2024-09-24 |  |
 | [The Portrait](https://open.spotify.com/track/6gzx7vC8xDp7jawrF0OIIJ) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [The Portrait](https://open.spotify.com/album/3Gf8cw74M2kiaAhc4Y9iVx) | 2:02 | 2023-10-18 |  |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-10-18 |  |
+| [The Sound of Light](https://open.spotify.com/track/23BuLC49RZuPbIGZriYDNI) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [The Sound of Light](https://open.spotify.com/album/3IdvazfYUOel4zSdILAHcF) | 2:33 | 2025-05-14 |  |
 | [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 | 2025-04-02 |  |
 | [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 | 2025-02-26 |  |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-10-18 |  |

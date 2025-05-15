@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-5,121 songs - 11 day 6 hr 57 min
+5,121 songs - 11 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [ADHD](https://open.spotify.com/track/78u5VoZnPetcm1KVzkLsO3) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv) | [ADHD](https://open.spotify.com/album/2XplKfwnm8fGcjd2zag15X) | 2:05 | 2024-10-04 | 2024-11-09 |
 | [Adieu](https://open.spotify.com/track/4XicJbCwPJCcPqY2HEEjoK) | [Lacraps](https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u), [Akim Beats](https://open.spotify.com/artist/2YYCdLIgb9Lwu47T9zBRju) | [Adieu](https://open.spotify.com/album/2xrf8gxtspr9O4TC2Pqrmj) | 2:44 | 2022-12-02 | 2023-01-14 |
 | [Admiración](https://open.spotify.com/track/1u2ynu6W6dTlHXUdTdrwzV) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [Admiración](https://open.spotify.com/album/2Q9k7iuX832oPOLUorm0Bl) | 3:27 | 2023-06-16 | 2023-07-09 |
-| [ADOM](https://open.spotify.com/track/4429vmyCAynoKzxnOjUT1R) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [GOD OF RESTORATION](https://open.spotify.com/album/26wJXLN3uMYJvvq1bI15tT) | 5:05 | 2025-04-18 |  |
+| [ADOM](https://open.spotify.com/track/4429vmyCAynoKzxnOjUT1R) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [GOD OF RESTORATION](https://open.spotify.com/album/26wJXLN3uMYJvvq1bI15tT) | 4:50 | 2025-04-18 |  |
 | [Adore U](https://open.spotify.com/track/6xEjLIRaJH1VObdr203LHk) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [Adore U](https://open.spotify.com/album/2qwlYzAS26Cek9okr3hoLD) | 3:25 | 2024-11-22 | 2024-12-21 |
 | [Adéu](https://open.spotify.com/track/4fBlPchsQYPz453Vp2jOFv) | [García](https://open.spotify.com/artist/2QMp4nZmVM8BQDWSTW0T3A) | [Adéu](https://open.spotify.com/album/1HkJdDi7WwjOpjIbD9x1Xo) | 3:03 | 2022-10-07 | 2022-10-29 |
 | [Ae Fond Kiss](https://open.spotify.com/track/6ljx6NhqAQmeNKyDF7KysB) | [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [And Other Colours.](https://open.spotify.com/album/5NdNPreDQwB4qcWHxbhhXN) | 3:25 | 2022-08-12 | 2022-10-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & party vibes ✨  Cover: Idaly & Miloolaathetlukken
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,346 likes - 70 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,362 likes - 70 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 12 | [Dansen](https://open.spotify.com/track/4EfzNlys5JDvvBctmjxGwU) | [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR), [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT) | [Dansen](https://open.spotify.com/album/27styy6JWWL5PqqIyhgxaa) | 2:01 |
 | 13 | [Friss](https://open.spotify.com/track/26y8MJMucjn9jzCE7mHSKK) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Friss](https://open.spotify.com/album/3MENOTYTL5jvwQcEuqW3ag) | 2:23 |
 | 14 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |
-| 15 | [Ntiya](https://open.spotify.com/track/2yquGIoOULtRdd22zbbMtl) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu) | [Ntiya](https://open.spotify.com/album/2EkAgAK5EoJ2VduFeWA3tM) | 3:43 |
+| 15 | [Ntiya](https://open.spotify.com/track/2yquGIoOULtRdd22zbbMtl) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu) | [Ntiya](https://open.spotify.com/album/2EkAgAK5EoJ2VduFeWA3tM) | 3:35 |
 | 16 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 17 | [Show Me Love \(with Tyla\)](https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Show Me Love \(with Tyla\)](https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti) | 2:56 |
 | 18 | [We Don't Stop](https://open.spotify.com/track/0EnE0MWN6lZM4oHGr7aYGk) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Udi Mars](https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi) | [We Don't Stop](https://open.spotify.com/album/4zk60kruN5pMyEiqYcDSzL) | 2:50 |

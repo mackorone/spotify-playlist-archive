@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,664,880 likes - 140 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,665,163 likes - 140 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 35 | [One Step Over The Borderline](https://open.spotify.com/track/0vC5XOsNOv90a578plbJMs) | [Peter Allen](https://open.spotify.com/artist/6748v9yNrbb4PPJuvfoMRa) | [Bi\-Coastal](https://open.spotify.com/album/18q7pXVYXXcuDPkstx2yxC) | 3:53 |
 | 36 | [Foolish Heart](https://open.spotify.com/track/6p3HuYPoRBzhyBPErnyNbr) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Street Talk](https://open.spotify.com/album/1IXoOW9g3IdIW6c1FMhz5N) | 3:38 |
 | 37 | [All Right](https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page](https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2) | 4:13 |
-| 38 | [Takin' It to the Streets](https://open.spotify.com/track/1WDgdCoNSN0fosaTaLGXKU) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Takin' It to the Streets](https://open.spotify.com/album/6yXfAEtkB6MUyhRkiGg5X2) | 3:51 |
+| 38 | [Takin' It to the Streets](https://open.spotify.com/track/1WDgdCoNSN0fosaTaLGXKU) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Takin' It to the Streets](https://open.spotify.com/album/6yXfAEtkB6MUyhRkiGg5X2) | 3:51 |
 | 39 | [Never Gonna Let You Go](https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Sergio Mendes](https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU) | 4:15 |
 | 40 | [Baby, Come To Me](https://open.spotify.com/track/0jqPIQVhfULwm81K7jlNeC) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [From Q, With Love](https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r) | 3:37 |
 | 41 | [Slow Hand](https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Black & White \(Expanded Edition\)](https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX) | 3:51 |

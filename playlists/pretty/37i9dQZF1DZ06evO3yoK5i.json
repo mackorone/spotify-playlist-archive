@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 238255,
+  "num_followers": 238286,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAB8/7zPAFieHgIc5zVwOIpW",
+  "snapshot_id": "aCKLgAAAAACKdiyXtXxHilYwDVyK5sR2",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros",
-        "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 258480,
-      "name": "Quanto amore sei",
-      "url": "https://open.spotify.com/track/4uZODT0zynKg5TFTLC8fLd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dove c'\u00e8 musica",
         "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 335440,
       "name": "L'aurora",
       "url": "https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 258480,
+      "name": "Quanto amore sei",
+      "url": "https://open.spotify.com/track/4uZODT0zynKg5TFTLC8fLd"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Ahora Tu - Remastered 2021",
-      "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "e2",
         "url": "https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 222240,
       "name": "No Estamos Solos",
       "url": "https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Ahora Tu - Remastered 2021",
+      "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
     },
     {
       "added_at": null,

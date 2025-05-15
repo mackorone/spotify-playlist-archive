@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,235 likes - 46 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,346 likes - 46 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 45 | [Una y Otra Vez \- En Vivo Desde El Auditorio Nacional](https://open.spotify.com/track/7qFiF4M4mTtvUkADadj8o2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano En Concierto 10 Años \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G) | 4:41 |
 | 46 | [Perfecto](https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:08 |
 
-Snapshot ID: `aCE6AAAAAACLO0OoYdSDRzSACqjSEH1W`
+Snapshot ID: `aCKLgAAAAABspEAbqx1gyYgvy5tcdAHY`

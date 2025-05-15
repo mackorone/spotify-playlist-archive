@@ -4,7 +4,7 @@
 
 > Les hits du moment au Maroc\. Cover: DYSTINCT, French Montana
 
-398 songs - 21 hr 24 min
+399 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All Eyez On Me \- Gangsta Remix](https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF), [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [All Eyez On Me \(Gangsta Remix\)](https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS) | 2:45 | 2023-05-05 | 2023-05-12 |
 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 | 2023-11-10 | 2024-07-19 |
 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 | 2022-06-03 | 2023-05-13 |
+| [Allo Doctor](https://open.spotify.com/track/1njTOLN0cJSTGPTH3mNElO) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Allo Doctor](https://open.spotify.com/album/7LXkPXjAdBby2vyfA4wySk) | 2:41 | 2025-05-14 |  |
 | [Allo Oui](https://open.spotify.com/track/06r1Ea7fbuDdbNZewcySTy) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/4VlMF9KxBExY0QXUXbtZwn) | 3:17 | 2024-02-23 | 2024-02-25 |
 | [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 | 2023-12-14 | 2024-02-23 |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2023-01-18 | 2023-06-10 |
@@ -160,7 +161,7 @@
 | [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 | 2022-07-26 | 2022-11-17 |
 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-05-12 | 2022-07-31 |
 | [Houdini](https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:47 | 2024-07-18 | 2024-07-25 |
-| [HWASI](https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [HWASI](https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd) | 3:43 | 2024-04-15 |  |
+| [HWASI](https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [HWASI](https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd) | 3:43 | 2024-04-15 | 2025-05-15 |
 | [Hyati](https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN) | 2:35 | 2023-10-14 | 2024-07-19 |
 | [Hyati](https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/6iFKqpX8QbNjzAvMoREpRu) | 2:35 | 2023-12-08 | 2024-04-19 |
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-08-22 | 2025-04-08 |

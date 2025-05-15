@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 56318,
+  "num_followers": 56319,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -739,34 +739,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Cross Music",
-        "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
-      },
-      "artists": [
-        {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        },
-        {
-          "name": "Dorinda Clark-Cole",
-          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
-        },
-        {
-          "name": "Sean Tillery",
-          "url": "https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3"
-        },
-        {
-          "name": "Changed",
-          "url": "https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm"
-        }
-      ],
-      "duration_ms": 338354,
-      "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
-      "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
       },
@@ -799,18 +771,30 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
+        "name": "Cross Music",
+        "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
       },
       "artists": [
         {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        },
+        {
+          "name": "Dorinda Clark-Cole",
+          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
+        },
+        {
+          "name": "Sean Tillery",
+          "url": "https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3"
+        },
+        {
+          "name": "Changed",
+          "url": "https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm"
         }
       ],
-      "duration_ms": 322952,
-      "name": "You Are Good",
-      "url": "https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8"
+      "duration_ms": 338354,
+      "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
+      "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -827,6 +811,22 @@
       "duration_ms": 314373,
       "name": "Because He Lives",
       "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
+      },
+      "artists": [
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 322952,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 505120,
-      "name": "If God / Nothing But the Blood",
-      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "The Essential Fred Hammond",
         "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 244653,
       "name": "Celebrate (He Lives)",
       "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 505120,
+      "name": "If God / Nothing But the Blood",
+      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Sing A Nu Song",
-        "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 370826,
-      "name": "I Know It Was the Blood",
-      "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Family & Friends Choir III",
         "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 325666,
       "name": "He Proved His Love",
       "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Sing A Nu Song",
+        "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 370826,
+      "name": "I Know It Was the Blood",
+      "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "A Worshipper's Heart",
-        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 344019,
-      "name": "Victory Belongs To Jesus",
-      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 418728,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1580,9 +1580,9 @@
           "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 418728,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS"
+      "duration_ms": 344019,
+      "name": "Victory Belongs To Jesus",
+      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
     },
     {
       "added_at": "2025-04-06 05:34:41",

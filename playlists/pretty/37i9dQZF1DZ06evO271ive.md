@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,131 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,144 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [Ova Bad](https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:11 |
 | 50 | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO) | 2:43 |
 
-Snapshot ID: `aCE6AAAAAADLoUvx4K7Dx9VfSBEiSpgt`
+Snapshot ID: `aCKLgAAAAABLjzoq2l71SeFwyqFYYGPE`

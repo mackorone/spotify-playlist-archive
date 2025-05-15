@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 26829,
+  "num_followers": 26831,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAA214plyys1GsY8183ua5z9",
+  "snapshot_id": "aCKLgAAAAACQbCrltl2KPCaYCdBfiXP0",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Prodigal (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Prove It",
-      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 259328,
       "name": "Let It Reign (feat. Bizzle)",
       "url": "https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Prodigal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 187115,
       "name": "Glory 2 Glory",
       "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 177664,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
-      },
-      "artists": [
-        {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 210507,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 260048,
       "name": "Graves",
       "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 210507,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Epilogue.",
-        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 173179,
-      "name": "Built For This",
-      "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 203195,
       "name": "Danza",
       "url": "https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Epilogue.",
+        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 173179,
+      "name": "Built For This",
+      "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
     },
     {
       "added_at": null,

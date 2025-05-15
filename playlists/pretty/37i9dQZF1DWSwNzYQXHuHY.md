@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,073 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,074 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 12 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
 | 13 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 14 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
-| 15 | [A Lot Like Love](https://open.spotify.com/track/5Mu3n2L96MX1lU2EHqnD7p) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 7](https://open.spotify.com/album/5sziiV2dSUuADgsBl2M39P) | 3:23 |
-| 16 | [ADONIS](https://open.spotify.com/track/6WmVzQtYDvvYX4TlqFIoeV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:39 |
+| 15 | [ADONIS](https://open.spotify.com/track/6WmVzQtYDvvYX4TlqFIoeV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:39 |
+| 16 | [A Lot Like Love](https://open.spotify.com/track/5Mu3n2L96MX1lU2EHqnD7p) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 7](https://open.spotify.com/album/5sziiV2dSUuADgsBl2M39P) | 3:23 |
 | 17 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
 | 18 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 |
 | 19 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 23 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
 | 24 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 |
 | 25 | [My Dear](https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 2:20 |
-| 26 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 |
-| 27 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
+| 26 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
+| 27 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 |
 | 28 | [Sweet](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Sweet \(A Business Proposal OST Part.1\)](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) | 3:36 |
 | 29 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 |
 | 30 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |

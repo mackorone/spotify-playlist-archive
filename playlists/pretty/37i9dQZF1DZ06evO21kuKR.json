@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 95264,
+  "num_followers": 95271,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADZzxa/H7U0Boz+a++GprOa",
+  "snapshot_id": "aCKLgAAAAADPZdyIPWVtf6DcEi6YKeIj",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 167332,
+      "name": "Don't Kno",
+      "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 143533,
       "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 167332,
-      "name": "Don't Kno",
-      "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "BIG30",
-          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
-        }
-      ],
-      "duration_ms": 123583,
-      "name": "GO! (with BIG30)",
-      "url": "https://open.spotify.com/track/04wzgTWP6YU07PdUjm0XzG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPEAK NOW",
         "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 196000,
       "name": "DRUNK OFF U (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1EA7RoWxVBZUHXl2tNtAwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "duration_ms": 123583,
+      "name": "GO! (with BIG30)",
+      "url": "https://open.spotify.com/track/04wzgTWP6YU07PdUjm0XzG"
     },
     {
       "added_at": null,

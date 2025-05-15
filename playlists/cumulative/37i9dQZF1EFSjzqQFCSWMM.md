@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 5 hr 28 min
+115 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [EQUINOX](https://open.spotify.com/track/4fTV1GLwzVAoiC1d7eQtDY) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [IN LOVING MEMORY](https://open.spotify.com/album/2FPjQQbVnARRqSF7vYVDlo) | 6:43 | 2024-11-17 |  |
 | [EVERYTHING](https://open.spotify.com/track/0e5VVBA3Y3w0uCiHoWgXNQ) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 1:45 | 2023-12-13 |  |
 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 | 2023-12-13 |  |
+| [FAMOUS.](https://open.spotify.com/track/21prC6Di5O8rqycidi5IDv) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [when angels cry](https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA) | 2:00 | 2025-05-14 |  |
 | [Favourite Rapper / Hundred Million Religion](https://open.spotify.com/track/3vsuohYDStEaHt5EVPKKAz) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [I Think You've Gone Mad \(Or the Sins of the Father\)](https://open.spotify.com/album/4Yy43Ul14PbtMOBMDhjLgV) | 3:28 | 2023-12-13 |  |
 | [Fell In Love](https://open.spotify.com/track/0K2HUBAW8fv5kqpnx1dBAm) | [C3llyPizzaz](https://open.spotify.com/artist/6JullcnvIBC9zJWfIbRcHS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Fell In Love](https://open.spotify.com/album/5Gyiyw8PNkMhxgIC17CVcB) | 2:45 | 2025-03-26 |  |
 | [Fell In Love](https://open.spotify.com/track/44hFvYbXvLliVkeO9g9b7o) | [C3llyPizzaz](https://open.spotify.com/artist/6JullcnvIBC9zJWfIbRcHS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Fell In Love](https://open.spotify.com/album/5WcP2UBCmuvisS8trtAYCZ) | 2:45 | 2023-12-13 | 2025-03-27 |

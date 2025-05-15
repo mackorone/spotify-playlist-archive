@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,356 likes - 48 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,355 likes - 48 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 43 | [Wind](https://open.spotify.com/track/5zkZkBTygtZcOgWCWzzKB2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:50 |
 | 44 | [No Return \(with The Kid LAROI & Lil Durk\)](https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:48 |
 | 45 | [Rain Fallin \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1e8Pw4WuGEE4WNwjBnb9z6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 3:01 |
-| 46 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
-| 47 | [Shot For Me \- Spotify Singles](https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 1:57 |
+| 46 | [Shot For Me \- Spotify Singles](https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 1:57 |
+| 47 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
 | 48 | [My City](https://open.spotify.com/track/0DqIzDu0BK4dkhABRt4iFT) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Against All Odds](https://open.spotify.com/album/4VT9Y4UGDGFs723kYsTXJU) | 2:51 |
 
-Snapshot ID: `aCE6AAAAAADiKUao+nOWr+aoPcxzSjhn`
+Snapshot ID: `aCKLgAAAAAA9tUKWxSSkY2wPqOOlYZqS`

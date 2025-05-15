@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq?si=CztMo0noQZilaYAlU7c8Xw"> Nami</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,848 likes - 399 songs - 20 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,990 likes - 399 songs - 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -408,4 +408,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 398 | [Only One](https://open.spotify.com/track/2iXkVMSRxoqRKV1JrEoDd3) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [FairXchange](https://open.spotify.com/album/4bddJB0oeqZgCzWwJ38v2a) | 2:49 |
 | 399 | [How Long?](https://open.spotify.com/track/0bFiS83jnXUTojsrO6p77A) | [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [I Chose to Keep Going](https://open.spotify.com/album/1w66h1lj1jU89X2LXn9xVJ) | 2:25 |
 
-Snapshot ID: `aB2OMAAAAADrhcGJPW9EIS4ayWJrrsBH`
+Snapshot ID: `aB2OMAAAAABZuoTnn1XWnv/xZx00v4Ez`

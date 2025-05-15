@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,542 likes - 137 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,544 likes - 137 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 49 | [Break My Heart Again](https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj) | 3:57 |
 | 50 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 |
 | 51 | [party favor](https://open.spotify.com/track/6RgMzU9AJPqGsuOeYIG0FM) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me \(Expanded Edition\)](https://open.spotify.com/album/5YCdlD3eREt72lTZxNL7id) | 3:24 |
-| 52 | [goodbye](https://open.spotify.com/track/3LgWsmilsrWXiPYQFRD0T7) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 1:59 |
-| 53 | [I Didn't Change My Number](https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:38 |
+| 52 | [I Didn't Change My Number](https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:38 |
+| 53 | [goodbye](https://open.spotify.com/track/3LgWsmilsrWXiPYQFRD0T7) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 1:59 |
 | 54 | [SKINNY](https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:39 |
 | 55 | [Oxytocin](https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 |
 | 56 | [&burn \(with Vince Staples\)](https://open.spotify.com/track/7uX3gufAoBVqKVoD3dBLLD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [&burn \(with Vince Staples\)](https://open.spotify.com/album/6eQpKhYCtvD0TwXQVHsgC2) | 2:59 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 136 | [bad guy / Taki Taki \- X Factor Recording](https://open.spotify.com/track/1Rv2K9eIcpL2ELwcmXIZn0) | [V5](https://open.spotify.com/artist/1roSWM1RIG9K5RzA9Kde42) | [bad guy / Taki Taki \(X Factor Recording\)](https://open.spotify.com/album/1sjDnvyBzs92Pz1KMXbPhb) | 2:36 |
 | 137 | [Wash You Off](https://open.spotify.com/track/5P9Wd1OpXa9IbP6mLMI9c2) | [Kenzie Nimmo](https://open.spotify.com/artist/1L3mQeJx5YUcTqhIHD7pjV) | [Reckless Mess](https://open.spotify.com/album/2uESJILWyhUM6QvD1enlDP) | 3:19 |
 
-Snapshot ID: `AbxVdQAAAAD4px+UeuZovpynaJijUnpF`
+Snapshot ID: `AbxbCgAAAAAw7roldJchMNpqepCjPt/0`

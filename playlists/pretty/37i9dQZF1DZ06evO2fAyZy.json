@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 96357,
+  "num_followers": 96396,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAAC3z2EB8MEcBBjzYPMBKMi6",
+  "snapshot_id": "aCKLgAAAAACLovypGfSLtbA492XjlL/H",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS (DELUXE)",
-        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Future Tripping",
-      "url": "https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 200040,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS (DELUXE)",
+        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Future Tripping",
+      "url": "https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. Javier Bátiz por siempre
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,929 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,072 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 82 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
 | 83 | [Corazon](https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Elevator](https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9) | 4:37 |
 | 84 | [Estático](https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Maquillaje](https://open.spotify.com/album/0fUtuTbbZ7rqU1cQqZ0RFu) | 4:00 |
-| 85 | [Me Quieres Cotorrear](https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [La Historia](https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH) | 3:17 |
-| 86 | [Horror Amor](https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz) | [$6 Million Dollar Weirdo](https://open.spotify.com/artist/1s0oZV9v5zH3A9exHV7RlL) | [Ep1](https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY) | 3:47 |
+| 85 | [Horror Amor](https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz) | [$6 Million Dollar Weirdo](https://open.spotify.com/artist/1s0oZV9v5zH3A9exHV7RlL) | [Ep1](https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY) | 3:47 |
+| 86 | [Me Quieres Cotorrear](https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [La Historia](https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH) | 3:17 |
 | 87 | [Infiernos](https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm) | 4:53 |
 | 88 | [Jurame](https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Ely Guerra](https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8) | 4:35 |
 | 89 | [Don Quijote Marihuana](https://open.spotify.com/track/6Xn9nL00DDLBjH828A6kjX) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Don Quijote Marihuana](https://open.spotify.com/album/291EdpOOlMU2htCxHirMuJ) | 4:41 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 97 | [Cuando Pase el Temblor \- Versión Sinfónico \[En Vivo\]](https://open.spotify.com/track/5VIRFG7jnzr8tElckFwgtA) | [Sabo Romo](https://open.spotify.com/artist/2xqM9QBD5UgmHWfUbqfs1M), [Bon](https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju), [Marciano Cantero](https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO), [Roberto Casas Torres](https://open.spotify.com/artist/5UDBBukBCBMrBKjrOhjyuN), [Neon](https://open.spotify.com/artist/47UqGCZS8g1V6ZnFKAkK0A), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ), [Ritmo Peligroso](https://open.spotify.com/artist/7lrWd6DfBEWnFSerEh4n2d), [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N), [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U), [Cala \(Rostros Ocultos\)](https://open.spotify.com/artist/2pTuStgL0ImeVhEweOPu50) | [Rock en Tu Idioma Sinfónico](https://open.spotify.com/album/3ayan86yMHukQACm3V7T6J) | 4:02 |
 | 98 | [Nasty Sex](https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Viva El Rock Latino 2015](https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb) | 5:22 |
 | 99 | [Nos Tragamos](https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:09 |
-| 100 | [Babel](https://open.spotify.com/track/6yQBYwuxv3NPERnSuzdcRb) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [Babel](https://open.spotify.com/album/3l1cQGtnmRxVgTRh8YxHnb) | 4:56 |
+| 100 | [Dormir Soñando \- Versión Sinfónico \[En Vivo\]](https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Rock En Tu Idioma Sinfónico, Vol.2 \(En Vivo\)](https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV) | 3:38 |
 
 Snapshot ID: `Z2CwewAAAABdiTPIYtRnBJ3BG56ibbvC`

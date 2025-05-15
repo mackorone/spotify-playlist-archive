@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-94 songs - 4 hr 2 min
+96 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Gathered By the Holly](https://open.spotify.com/track/2KrIc4hWgqEFO8GnPgjiFj) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Gathered By the Holly](https://open.spotify.com/album/1I0NYv8m3sFCFhV5dXgt1t) | 2:00 | 2024-11-19 |  |
 | [Go Tell It on the Mountain](https://open.spotify.com/track/6j9sxrPzicPYaesxdlRVME) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Go Tell It on the Mountain](https://open.spotify.com/album/3o3acoQ0WWOiGG2j7rKeAN) | 2:35 | 2024-11-06 | 2024-11-20 |
 | [Go, Tell It on the Mountain](https://open.spotify.com/track/41gAeCFzMwTpI4tj8YKFew) | [Kristján Sigurðsson](https://open.spotify.com/artist/3BdsSsPWnueaOw8P8cdbBi) | [Go, Tell It on the Mountain](https://open.spotify.com/album/75iDlwqkGkNZEbMzTfUw0d) | 2:10 | 2024-11-19 |  |
+| [Goodness of God](https://open.spotify.com/track/5gtNXKWhY49TGnw7ODrvVM) | [Keys To The Kingdom](https://open.spotify.com/artist/19WGr3r6eAlKXoa0lKazuK) | [Goodness of God](https://open.spotify.com/album/79k3a3N8fkcRI7m11bGhFZ) | 2:38 | 2025-05-14 |  |
 | [Grace](https://open.spotify.com/track/50w8pfoszKBDcYYEOmgTEI) | [Jngeis](https://open.spotify.com/artist/1X5nuNY0Ht6Yt2xaya4ZQE) | [Grace](https://open.spotify.com/album/2E5IEkEnaAH1oqCl4S0I5U) | 2:18 | 2024-07-29 |  |
 | [Grace And Peace](https://open.spotify.com/track/3T1BlzdFJxRswrlnHDeVla) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Grace And Peace](https://open.spotify.com/album/3uPJxmcUZHkr2N1fuPz0ym) | 2:56 | 2025-01-21 |  |
 | [Great Is Thy Faithfulness \- Piano](https://open.spotify.com/track/3hEKZyuIDnGt7ms7o7jjp9) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [How Great Is He \(Piano\)](https://open.spotify.com/album/03MTLAQqwFFdfj0LeTRUkT) | 2:03 | 2024-03-20 |  |
@@ -55,6 +56,7 @@
 | [I Need Thee Every Hour \- Piano](https://open.spotify.com/track/5bN7njfcG2B2WvtcD27Qqh) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Hymns of the Lord](https://open.spotify.com/album/1ku5bURxOqNFicICMmdN74) | 2:32 | 2024-03-20 |  |
 | [I Surrender All](https://open.spotify.com/track/1Hk1qNA1BZRWfLZ3TIYdLn) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [I Surrender All](https://open.spotify.com/album/4bjGbFrwdlWRcb17Lw1NH2) | 2:10 | 2024-03-20 | 2025-03-05 |
 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 | 2024-03-20 | 2025-03-05 |
+| [In Christ Alone](https://open.spotify.com/track/2OFB7zEQGMzwA9o0GWi4L5) | [Ivory Gospel](https://open.spotify.com/artist/3pFauni8fnHnLzziMVuDPD) | [In Christ Alone](https://open.spotify.com/album/5PdWLoUSCqXuxFiyfnWyb2) | 2:27 | 2025-05-14 |  |
 | [In Your Arms](https://open.spotify.com/track/1Y0jvSloelDbT0ZjuFF3oW) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:48 | 2024-03-20 |  |
 | [It Is Well \- Piano](https://open.spotify.com/track/2z1QBKfCirxoWJThnqS2bz) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Hymns for Peaceful Worship \(Piano\)](https://open.spotify.com/album/77vQP2RuGopRyvz9ghXhxG) | 3:26 | 2024-03-20 |  |
 | [It Is Well With My Soul](https://open.spotify.com/track/1Kc0OhfFyjHoiz29EfsCpt) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [It Is Well With My Soul](https://open.spotify.com/album/6ZGY5ovF3mCqfisQkrckYL) | 3:11 | 2025-04-29 |  |
@@ -64,7 +66,7 @@
 | [Just As I Am](https://open.spotify.com/track/7L1r26HYSBQUInukqWVXEF) | [Lukas Fisher](https://open.spotify.com/artist/08h9zARjShXXPEMXBbDKho) | [Nearer My God To Thee](https://open.spotify.com/album/40Dh9xw7pcr8lShXTg8eY0) | 1:54 | 2024-03-20 | 2025-04-05 |
 | [Leaning On The Everlasting Arms](https://open.spotify.com/track/2vjH1lpJo24k93pfoorvoo) | [Lukas Fisher](https://open.spotify.com/artist/08h9zARjShXXPEMXBbDKho) | [Nearer My God To Thee](https://open.spotify.com/album/40Dh9xw7pcr8lShXTg8eY0) | 2:06 | 2024-03-20 |  |
 | [Lord Give Me Strength](https://open.spotify.com/track/41AYs1JTgPFq1QqtyqoGAU) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [Lord Give Me Strength](https://open.spotify.com/album/4LhmVr396kI1G42KL2c3BB) | 2:10 | 2025-02-21 |  |
-| [Lord, I Need You \- Instrumental](https://open.spotify.com/track/3kR85FFf3Xe6Dj2orfHJdk) | [Dan Musselman](https://open.spotify.com/artist/7kuyOw0FKwn0BwTHegjJ4g) | [Peaceful Piano Worship, Volume 2](https://open.spotify.com/album/6MLd4WUU9jlMAhwcV1xueI) | 3:15 | 2024-03-20 |  |
+| [Lord, I Need You \- Instrumental](https://open.spotify.com/track/3kR85FFf3Xe6Dj2orfHJdk) | [Dan Musselman](https://open.spotify.com/artist/7kuyOw0FKwn0BwTHegjJ4g) | [Peaceful Piano Worship, Volume 2](https://open.spotify.com/album/6MLd4WUU9jlMAhwcV1xueI) | 3:15 | 2024-03-20 | 2025-05-15 |
 | [May the road rise up to meet you](https://open.spotify.com/track/10zUNmRqhiTlVPpHWm7N3E) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [May the road rise up to meet you](https://open.spotify.com/album/3Ez5u996mV5hPbv8dnQamk) | 2:07 | 2024-03-20 |  |
 | [Nearer, My God, to Thee \- Piano](https://open.spotify.com/track/6tmfx84m0fPjDRWaEOJRsp) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Hymns to Worship Our Savior \(Piano\)](https://open.spotify.com/album/2ZPomiRL9ZzUdv2O3MLco7) | 2:34 | 2024-03-20 |  |
 | [o how wonderful \- Instrumental](https://open.spotify.com/track/7MKEZuJngdoyAE8EPnpUFZ) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT) | [o how wonderful \(Instrumental\)](https://open.spotify.com/album/3Z9bELfk7Ac0sxYNfwdhzv) | 1:43 | 2024-03-20 |  |

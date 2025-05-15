@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Shmiska
 
-333 songs - 17 hr 28 min
+334 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Голубочки \- prod\. by Jandy](https://open.spotify.com/track/0U0Km4b5cPsj7ofScTV5uR) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Голубочки \(prod\. by Jandy\)](https://open.spotify.com/album/2oqyoH7Ap13kiaGiZ6QxLZ) | 2:46 | 2024-06-27 | 2024-08-24 |
 | [ГРУДИ](https://open.spotify.com/track/7C17EZA3zti5JrabxNsMHj) | [sugarock](https://open.spotify.com/artist/2uozgeLQcq8V3kPeKafN3O) | [ТРАВМИ МИНУЛОГО Я](https://open.spotify.com/album/3wcWJ7FXGwf4ucqqACUQe6) | 2:31 | 2024-07-12 | 2024-07-27 |
 | [Грім](https://open.spotify.com/track/3D0yIqLOW0MRQdlgZkSCqp) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Грім](https://open.spotify.com/album/6R3V04E5Xxms9CbRtlvqyv) | 2:19 | 2024-10-18 | 2024-11-08 |
+| [Дай мені час](https://open.spotify.com/track/3DXwgIs3GBavjSQi0zeQ16) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Дай мені час](https://open.spotify.com/album/5okpkmmkbQea9ZjCinNDxK) | 3:26 | 2025-04-24 |  |
 | [Дай мені шанс](https://open.spotify.com/track/4OUNPYTUH6NxOn8H6jRWPc) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Чорний лебідь](https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ) | 2:26 | 2024-06-27 | 2024-12-10 |
 | [Далеко](https://open.spotify.com/track/4sWSz6KehThL55CCTPVBFR) | [pasta fibonacci](https://open.spotify.com/artist/0acnHYtXIU7WMipEgQUPT2) | [Далеко](https://open.spotify.com/album/5Us6kMB53DmuVLKtqj7dKg) | 2:49 | 2025-03-17 | 2025-04-12 |
 | [Дарниця](https://open.spotify.com/track/6VRoMXBAR4VjLKkCi7rxEP) | [Liia](https://open.spotify.com/artist/4ZaYuzOFbJK15bG3qOzaiQ) | [Дарниця](https://open.spotify.com/album/3XlGP5fyZTHnBCrkPH78Cp) | 3:04 | 2024-08-23 | 2024-09-14 |
@@ -141,7 +142,7 @@
 | [Крапки](https://open.spotify.com/track/2HZPl4Vz3VaX2YkD8KrTIH) | [U2U](https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2) | [Крапки](https://open.spotify.com/album/5DV4tLX2dIJoAyQjTtKInh) | 2:30 | 2024-10-04 | 2024-10-19 |
 | [крига](https://open.spotify.com/track/5SfbIKHUMO1f1lTOTHyaN9) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [крига](https://open.spotify.com/album/3xrdwbsn8sCNSLUZRkifnG) | 3:24 | 2024-12-06 |  |
 | [кричу](https://open.spotify.com/track/6U6aJfWvRWd3NH5sWHrUWq) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [кричу](https://open.spotify.com/album/0JlwNaMDZRM5RxbWK3IRmn) | 3:39 | 2024-11-07 | 2024-12-22 |
-| [Кров і сніг](https://open.spotify.com/track/1vWP1xBjEVKCJWQ0MhPepy) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Кров і сніг](https://open.spotify.com/album/1jsy5rUiIjmKFx1N8X2tWA) | 2:39 | 2025-03-03 |  |
+| [Кров і сніг](https://open.spotify.com/track/1vWP1xBjEVKCJWQ0MhPepy) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Кров і сніг](https://open.spotify.com/album/1jsy5rUiIjmKFx1N8X2tWA) | 2:39 | 2025-03-03 | 2025-05-15 |
 | [крок](https://open.spotify.com/track/4tICTIM71M223AWw7v3Myq) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [крок](https://open.spotify.com/album/5Yddc3e2Iisvj1mKLpxzZh) | 3:43 | 2024-12-06 |  |
 | [Луги](https://open.spotify.com/track/2A6RrJHuuKUvGKbDoPqSDW) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Луги](https://open.spotify.com/album/7rFdDzZpQkzXw48uhQ7Owm) | 3:07 | 2024-06-27 | 2024-07-13 |
 | [ЛЮ](https://open.spotify.com/track/1NiqYMudAIfNAd7plZuAF2) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [ЛЮ](https://open.spotify.com/album/4TLaoBBeCAWxtsde3fy9ZI) | 4:37 | 2024-08-23 | 2024-09-14 |

@@ -1079,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "KM2",
+        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217168,
+      "name": "Vale Do Sil\u00edcio",
+      "url": "https://open.spotify.com/track/0RIbrYxa06ta7MAlYCIGrI"
+    },
+    {
+      "album": {
         "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },

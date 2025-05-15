@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,980 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,996 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 60 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 |
 | 61 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 |
 | 62 | [Boom Boom](https://open.spotify.com/track/6QDLsCn0mmpDchCs60V0Hx) | [Yokozuna](https://open.spotify.com/artist/0m8WjSikRGBl70zGGUukbK) | [II](https://open.spotify.com/album/6eRzjto8vONVUcRCsqxPV9) | 2:34 |
-| 63 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
+| 63 | [Fathom This!](https://open.spotify.com/track/7fiTe4XWrQbJpAhnxqmM4U) | [The Fathoms](https://open.spotify.com/artist/0doqn5jnYAYSpkhmafrmkl) | [Fathom This!](https://open.spotify.com/album/2o0iSopA79scEHq1vvNasA) | 3:15 |
 | 64 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
 | 65 | [El Garage de Gina Monster](https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tequila Connection 3](https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC) | 3:03 |
 | 66 | [Blue Demon Jr.](https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Dr\. Malicia / 10 Años Elásticos](https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss) | 2:14 |
-| 67 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
-| 68 | [Fathom This!](https://open.spotify.com/track/7fiTe4XWrQbJpAhnxqmM4U) | [The Fathoms](https://open.spotify.com/artist/0doqn5jnYAYSpkhmafrmkl) | [Fathom This!](https://open.spotify.com/album/2o0iSopA79scEHq1vvNasA) | 3:15 |
+| 67 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
+| 68 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
 | 69 | [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 |
-| 70 | [Taco Truck](https://open.spotify.com/track/42DfJPSogxXKzK8TfaVlxz) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Taco Truck](https://open.spotify.com/album/3eOSmxAVlouqLEgzeiTt4O) | 2:48 |
-| 71 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
-| 72 | [Ya No Hay Papel](https://open.spotify.com/track/1NIx2I3Na8LzbvRIgSGhFB) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Fuga!](https://open.spotify.com/album/5apAFiC8T7tCIfYOw9mXiF) | 4:01 |
+| 70 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
+| 71 | [Ya No Hay Papel](https://open.spotify.com/track/1NIx2I3Na8LzbvRIgSGhFB) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Fuga!](https://open.spotify.com/album/5apAFiC8T7tCIfYOw9mXiF) | 4:01 |
+| 72 | [Taco Truck](https://open.spotify.com/track/42DfJPSogxXKzK8TfaVlxz) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Taco Truck](https://open.spotify.com/album/3eOSmxAVlouqLEgzeiTt4O) | 2:48 |
 | 73 | [Mutantes](https://open.spotify.com/track/0jqpnsBXWrGhf31HIJ6v8E) | [TELEKRIMEN](https://open.spotify.com/artist/2KEmsfx3vYhlcs0nATaFkC) | [Resurrection of the Blood Zombies from Beyond!](https://open.spotify.com/album/3zosPfY4bKBfuBjPvHyiIH) | 2:54 |
 | 74 | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr) | 2:20 |
 | 75 | [El Solitario](https://open.spotify.com/track/530yFOZtT2e2dYySwLUiuZ) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Entre Leyendas y Villanos](https://open.spotify.com/album/28me1dL1B09hWNPrajSIOh) | 2:21 |

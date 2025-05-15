@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 442924,
+  "num_followers": 442964,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABqrTiFvp83NXJDadfZiFTa",
+  "snapshot_id": "aCKLgAAAAABImKFztcwdEx/8U8Y5Oo6t",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Caguama en la Banqueta",
-        "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Tony Montoya",
-          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
-        }
-      ],
-      "duration_ms": 166232,
-      "name": "Una Caguama en la Banqueta",
-      "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Zool\u00f3gico (En Vivo)",
         "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 219453,
       "name": "El Zool\u00f3gico - En Vivo",
       "url": "https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Caguama en la Banqueta",
+        "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Tony Montoya",
+          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
+        }
+      ],
+      "duration_ms": 166232,
+      "name": "Una Caguama en la Banqueta",
+      "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Selectivo",
-        "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 187743,
-      "name": "El Selectivo",
-      "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Equipo RR",
         "url": "https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 159976,
       "name": "Equipo RR",
       "url": "https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Selectivo",
+        "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 187743,
+      "name": "El Selectivo",
+      "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 155416,
+      "name": "Hombre de Rancho",
+      "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 155416,
-      "name": "Hombre de Rancho",
-      "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
+      "duration_ms": 153428,
+      "name": "En Esta Vida",
+      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
     },
     {
       "added_at": null,
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 153428,
-      "name": "En Esta Vida",
-      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
+      "duration_ms": 141409,
+      "name": "Soy de Durango",
+      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
     },
     {
       "added_at": null,
@@ -755,38 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 141409,
-      "name": "Soy de Durango",
-      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 152762,
-      "name": "Catarino y los Rurales",
-      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vengo a Aclarar (En Vivo)",
         "url": "https://open.spotify.com/album/1OJEkIPywlcNiuCzmXE9Lj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 150990,
       "name": "Las Verdades - En Vivo",
       "url": "https://open.spotify.com/track/7qdsBTWEGQLeY927NgmqsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 152762,
+      "name": "Catarino y los Rurales",
+      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Morro Pirata",
-        "url": "https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ"
+        "name": "Yo Nac\u00ed Pa' Ser Jefe",
+        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
       },
       "artists": [
         {
@@ -912,13 +912,17 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "Grupo Origen",
-          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 158174,
-      "name": "El Morro Pirata",
-      "url": "https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx"
+      "duration_ms": 168553,
+      "name": "Yo Nac\u00ed Pa' Ser Jefe",
+      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
     }
   ],
   "unique_name": "This Is El Fantasma",

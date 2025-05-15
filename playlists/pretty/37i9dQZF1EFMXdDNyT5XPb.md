@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 93 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 322 likes - 93 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 46 | [I Wish I Was](https://open.spotify.com/track/37gvCv1XpbCfG3Acjqf6ew) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [I Wish I Was](https://open.spotify.com/album/722G4OU32T7nebuJJm3vqo) | 3:24 |
 | 47 | [Amen](https://open.spotify.com/track/5zYCXLfTdGAll7Ijoc2Llm) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Behind Closed Doors](https://open.spotify.com/album/2xR9pfkpOoqjqLj3APBcZ1) | 3:12 |
 | 48 | [Bridges](https://open.spotify.com/track/1i5jdHutOev5pxMZCiZ9OU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:20 |
-| 49 | [Paycheck](https://open.spotify.com/track/2746lCDcKoBhnZLt3oKX1Q) | [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8), [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Paycheck](https://open.spotify.com/album/4SPM1AvZv9BLTQTOauUiop) | 2:57 |
-| 50 | [One Look \- Solo Piano Version](https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:18 |
+| 49 | [One Look \- Solo Piano Version](https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:18 |
+| 50 | [Paycheck](https://open.spotify.com/track/2746lCDcKoBhnZLt3oKX1Q) | [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8), [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Paycheck](https://open.spotify.com/album/4SPM1AvZv9BLTQTOauUiop) | 2:57 |
 | 51 | [Half A Man](https://open.spotify.com/track/4EebHwo2KUzB75cl0WSZgi) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:25 |
 | 52 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 |
 | 53 | [Daisy](https://open.spotify.com/track/1SKh8LCYEY8ndzDvFToIhu) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/6pD4TWDrwVvOeC9FxUfRpS) | 2:58 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 92 | [Circles](https://open.spotify.com/track/72na5hu1cHuifzVAPmYCLj) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Circles](https://open.spotify.com/album/2jYKPul21QiYqfFFfyO3KI) | 2:32 |
 | 93 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 
-Snapshot ID: `AbxVagAAAAAzpaLNDVSKgac0A63YNnvV`
+Snapshot ID: `AbxbMgAAAAAOuo7MVuIL/QUq7HC2g82s`

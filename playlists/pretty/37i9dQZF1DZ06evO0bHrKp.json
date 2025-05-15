@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 207904,
+  "num_followers": 207925,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABODDdN2pAbAfGtf/9ydiiO",
+  "snapshot_id": "aCKLgAAAAAB7BIrEPIX13l+HD4+iN7WV",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 150658,
-      "name": "Time Won't Wait",
-      "url": "https://open.spotify.com/track/3EP4LqNhrKxdB93j2W6rvI"
+      "duration_ms": 265786,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/0vKGvQdkbesI7RGKX3tRyk"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 265786,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/0vKGvQdkbesI7RGKX3tRyk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven :x: Hell",
         "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 166844,
-      "name": "Waiting On A Twist Of Fate",
-      "url": "https://open.spotify.com/track/4UuGBLZH6ANkF51PqLeXfP"
+      "duration_ms": 150658,
+      "name": "Time Won't Wait",
+      "url": "https://open.spotify.com/track/3EP4LqNhrKxdB93j2W6rvI"
     },
     {
       "added_at": null,
@@ -411,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/3wl4ZUBsuH7n2lsW4WjU05"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -443,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3wl4ZUBsuH7n2lsW4WjU05"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heaven :x: Hell",
         "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 125514,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo"
+      "duration_ms": 166844,
+      "name": "Waiting On A Twist Of Fate",
+      "url": "https://open.spotify.com/track/4UuGBLZH6ANkF51PqLeXfP"
     },
     {
       "added_at": null,
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 174334,
-      "name": "Not Quite Myself",
-      "url": "https://open.spotify.com/track/1N4D5MIp3v67TDRa8jJlQr"
+      "duration_ms": 125514,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
       "duration_ms": 243098,
       "name": "Breaking The Chain",
       "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 174334,
+      "name": "Not Quite Myself",
+      "url": "https://open.spotify.com/track/1N4D5MIp3v67TDRa8jJlQr"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Sleep Now In The Fire - Spotify Singles",
-      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 230184,
       "name": "The New Sensation",
       "url": "https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Sleep Now In The Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
     },
     {
       "added_at": null,

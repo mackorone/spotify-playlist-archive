@@ -1,12 +1,12 @@
 {
   "description": "This is Eva Shaw. The essential tracks, all in one playlist.",
-  "num_followers": 119,
+  "num_followers": 120,
   "original_name": "This Is Eva Shaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADR229yrZ5qJ/egjoQj19de",
+  "snapshot_id": "aCKLgAAAAAAo1np4W79k2s9WMKiQlh7B",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG DRIP",
-        "url": "https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz"
-      },
-      "artists": [
-        {
-          "name": "Haviah Mighty",
-          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 124200,
-      "name": "BIG DRIP",
-      "url": "https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
         "url": "https://open.spotify.com/album/0wIJrXCHUAVOcoz8mzSDia"
       },
@@ -475,6 +455,74 @@
       "duration_ms": 175941,
       "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
       "url": "https://open.spotify.com/track/1Rj8B7kHHM92QMZF0bIcqN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIG DRIP",
+        "url": "https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz"
+      },
+      "artists": [
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "BIG DRIP",
+      "url": "https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPE HOP 001",
+        "url": "https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        },
+        {
+          "name": "Reeves Junya",
+          "url": "https://open.spotify.com/artist/71JPrkycmdLJ4Uc2UrpzmR"
+        },
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/1lirjkAIAB1mop7xflhn2k"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "CLAP - Hype Hop Edit (feat. Nate Husser, Reeves Junya, Nesi)",
+      "url": "https://open.spotify.com/track/4IsXsaT7g5hrEXtMKWqsnE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPE HOP 003",
+        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 236065,
+      "name": "UNTZ [NYC Rage Fest]",
+      "url": "https://open.spotify.com/track/5MxsUFQKorHAyUCpbY5OA7"
     },
     {
       "added_at": null,
@@ -503,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPE HOP 003",
-        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "UNTZ [NYC Rage Fest]",
-      "url": "https://open.spotify.com/track/5MxsUFQKorHAyUCpbY5OA7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "U (feat. Mally Mall & Sonny Wilson)",
         "url": "https://open.spotify.com/album/1Vp2y5edO73InFx4jeXGRV"
       },
@@ -543,26 +571,6 @@
       "duration_ms": 179748,
       "name": "U (feat. Mally Mall & Sonny Wilson)",
       "url": "https://open.spotify.com/track/0DCBpDmAyJRRKupCAJzjRj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
-      },
-      "artists": [
-        {
-          "name": "Hard Rock Sofa",
-          "url": "https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
     },
     {
       "added_at": null,
@@ -611,30 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPE HOP 001",
-        "url": "https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk"
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
       },
       "artists": [
         {
+          "name": "Hard Rock Sofa",
+          "url": "https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9"
+        },
+        {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        },
-        {
-          "name": "Reeves Junya",
-          "url": "https://open.spotify.com/artist/71JPrkycmdLJ4Uc2UrpzmR"
-        },
-        {
-          "name": "Nesi",
-          "url": "https://open.spotify.com/artist/1lirjkAIAB1mop7xflhn2k"
         }
       ],
-      "duration_ms": 184000,
-      "name": "CLAP - Hype Hop Edit (feat. Nate Husser, Reeves Junya, Nesi)",
-      "url": "https://open.spotify.com/track/4IsXsaT7g5hrEXtMKWqsnE"
+      "duration_ms": 345000,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
     },
     {
       "added_at": null,
@@ -835,30 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vitamin D (Eva Shaw Remix)",
-        "url": "https://open.spotify.com/album/7dgIG0ZI4arq3aV94fSJPW"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 160565,
-      "name": "Vitamin D - Eva Shaw Remix",
-      "url": "https://open.spotify.com/track/5dLSBxsw8pZ0CTg3ld2Zkk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 155452,
       "name": "STATIC",
       "url": "https://open.spotify.com/track/0ctqYvUAVUWg7ldZf8QZDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vitamin D (Eva Shaw Remix)",
+        "url": "https://open.spotify.com/album/7dgIG0ZI4arq3aV94fSJPW"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 160565,
+      "name": "Vitamin D - Eva Shaw Remix",
+      "url": "https://open.spotify.com/track/5dLSBxsw8pZ0CTg3ld2Zkk"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
       "duration_ms": 147153,
       "name": "MIX IT UP",
       "url": "https://open.spotify.com/track/0cwh5o0rrAj4uLMu9gDmOR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moxie",
-        "url": "https://open.spotify.com/album/1tcGZwS0aQuFGi0CACukPj"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 182416,
-      "name": "Moxie - Radio Edit",
-      "url": "https://open.spotify.com/track/2kmXVuR054xt71Zyqu6R6G"
     },
     {
       "added_at": null,
@@ -983,6 +967,22 @@
       "duration_ms": 142806,
       "name": "Do it Again",
       "url": "https://open.spotify.com/track/2DyvuLqjixD2t6ZH9lAF0w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moxie",
+        "url": "https://open.spotify.com/album/1tcGZwS0aQuFGi0CACukPj"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 182416,
+      "name": "Moxie - Radio Edit",
+      "url": "https://open.spotify.com/track/2kmXVuR054xt71Zyqu6R6G"
     },
     {
       "added_at": null,
@@ -1059,26 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/6IS5tLaoTvCaWwgEahPGRV"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "pisceze",
-          "url": "https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n"
-        }
-      ],
-      "duration_ms": 158357,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/6v1axX1firdR05VR9siAGF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no excuses.",
         "url": "https://open.spotify.com/album/2J01FmovA4Nfe4nUITIOIm"
       },
@@ -1123,8 +1103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPE HOP 003",
-        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6IS5tLaoTvCaWwgEahPGRV"
       },
       "artists": [
         {
@@ -1132,13 +1112,41 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+          "name": "pisceze",
+          "url": "https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n"
         }
       ],
-      "duration_ms": 203520,
-      "name": "THE CURE",
-      "url": "https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM"
+      "duration_ms": 158357,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/6v1axX1firdR05VR9siAGF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUST DOWN",
+        "url": "https://open.spotify.com/album/3bgkI3gkKiszPdTpSdaRLO"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Fedd the God",
+          "url": "https://open.spotify.com/artist/23tQKPyz9GU1ZuCjH7X9Hw"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        },
+        {
+          "name": "Reeves Junya",
+          "url": "https://open.spotify.com/artist/71JPrkycmdLJ4Uc2UrpzmR"
+        }
+      ],
+      "duration_ms": 178711,
+      "name": "BUST DOWN",
+      "url": "https://open.spotify.com/track/2cHYZzKKZa05xIIlsaTugV"
     }
   ],
   "unique_name": "This Is Eva Shaw",

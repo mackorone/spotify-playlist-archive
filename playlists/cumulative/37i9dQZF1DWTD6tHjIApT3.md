@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 吉澤嘉代子
 
-3,058 songs - 8 day 3 hr 47 min
+3,059 songs - 8 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1719,6 +1719,7 @@
 | [Wishing](https://open.spotify.com/track/1VfdAoxCRpZce6H1Er7EUa) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [UNTITLED](https://open.spotify.com/album/5YcBwWlQmOm6Hd3VqohUsC) | 2:49 | 2023-12-12 | 2023-12-20 |
 | [Wishing](https://open.spotify.com/track/4xnmwQFY3pU00bO8qeu63K) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [UNTITLED](https://open.spotify.com/album/5kekyUJVTxhkaRAuEN0l73) | 2:49 | 2023-12-12 | 2023-12-14 |
 | [With](https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [With](https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE) | 3:47 | 2023-10-05 | 2025-01-08 |
+| [With You](https://open.spotify.com/track/4XAJ8tB30T2BPqzAMOuxLK) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [With You](https://open.spotify.com/album/0gbSiA7hYk7tATT0QQylMe) | 2:26 | 2025-05-13 |  |
 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-02-09 | 2023-10-18 |
 | [Wolf](https://open.spotify.com/track/1mjl6shDbIttccQj3ktzuB) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [Wolf](https://open.spotify.com/album/6aSz8m9KHNfymtKh3TDOE9) | 3:09 | 2023-11-21 | 2023-11-29 |
 | [Wolf](https://open.spotify.com/track/562QVA1IwYK8FpKbTAN3jU) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [Wolf](https://open.spotify.com/album/689ooeF6npWjM7n2k6qLrl) | 3:09 | 2023-11-21 | 2023-11-23 |
@@ -1882,7 +1883,7 @@
 | [さよなら \- feat.Foi](https://open.spotify.com/track/1dsbXKM1WUuJkVR3tPLxG2) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2), [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [さよなら \(feat.Foi\)](https://open.spotify.com/album/0NjzzDwHwdlJA8PcuZ5EMn) | 3:58 | 2023-07-04 | 2023-08-02 |
 | [さよならクレール](https://open.spotify.com/track/0oYXyyHYFmGCJTwCqv0OU3) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [さよならクレール](https://open.spotify.com/album/5d8QblpT5wbBlaq9qOflhm) | 3:48 | 2022-05-29 | 2022-07-28 |
 | [さらりさら](https://open.spotify.com/track/0cr85iMUCqSoDhIIIS5KSJ) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [さらりさら](https://open.spotify.com/album/3VjLIlFSJL3OLNYoqIlAe5) | 4:29 | 2022-07-12 | 2022-07-28 |
-| [ざらめ](https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ざらめ](https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB) | 4:42 | 2024-07-30 |  |
+| [ざらめ](https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ざらめ](https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB) | 4:42 | 2024-07-30 | 2025-05-15 |
 | [しあわせはイテテ](https://open.spotify.com/track/1dsDYDguRkoDsf5aM8cNtf) | [アイラヴミー](https://open.spotify.com/artist/5E1E14jPqjgoqcE8wxiqxN) | [しあわせはイテテ](https://open.spotify.com/album/2Mj1eYnNLCJq8MZOzctBbe) | 4:11 | 2022-06-14 | 2022-06-22 |
 | [しゅー・しゃいん](https://open.spotify.com/track/6BeLbrlUjLp8SRr5K7j99L) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [しゅー・しゃいん](https://open.spotify.com/album/2GPjMAOMWYOZoMBx5tCXkA) | 3:27 | 2024-08-06 | 2024-09-04 |
 | [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 | 2022-07-28 | 2023-09-01 |

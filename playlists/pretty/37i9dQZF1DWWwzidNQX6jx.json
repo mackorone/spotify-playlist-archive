@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 70s. Cover: Meat Loaf",
-  "num_followers": 3117073,
+  "num_followers": 3117212,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Starman - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 187866,
       "name": "Imagine - Remastered 2010",
       "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Dressed To Kill",
         "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 168840,
       "name": "Rock And Roll All Nite",
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Straight Shooter",
-        "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Feel like Makin' Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Straight Shooter",
+        "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Feel like Makin' Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
     },
     {
       "added_at": "2024-06-26 01:48:20",

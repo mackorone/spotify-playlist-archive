@@ -7177,6 +7177,28 @@
     },
     {
       "album": {
+        "name": "GOLLIWOG",
+        "url": "https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Steel Tipped Dove",
+          "url": "https://open.spotify.com/artist/6b74rHzWIZlgLH7U5ybjUE"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196506,
+      "name": "Jumpscare",
+      "url": "https://open.spotify.com/track/0zOmLh7zxmMIgJKU6Cfdlx"
+    },
+    {
+      "album": {
         "name": "Ugly Season",
         "url": "https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L"
       },

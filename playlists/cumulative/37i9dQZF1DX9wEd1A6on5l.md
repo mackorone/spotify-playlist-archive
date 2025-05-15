@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-670 songs - 1 day 7 hr 50 min
+671 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Big Baller](https://open.spotify.com/track/3U0AYNEpt2cumbDILVFiBz) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Big Baller](https://open.spotify.com/album/5ItnpIv7iT87QiTjLKDL4d) | 2:32 | 2023-11-24 | 2024-03-15 |
 | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ) | 3:00 | 2024-02-27 | 2024-06-28 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 | 2023-01-20 |
+| [Big Engine](https://open.spotify.com/track/1D1SCQIQUtYoISZxynsrbh) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [WA JO PA](https://open.spotify.com/album/6myhUb2Ibr51EGNsOFnQ58) | 2:29 | 2025-05-09 |  |
 | [Big Fish](https://open.spotify.com/track/1eFC4tzMRg8v2nNw6qHVPM) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Big Fish](https://open.spotify.com/album/7nH8tRwm0FDUZnIFIS9q26) | 3:06 | 2024-05-03 | 2024-08-26 |
 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 | 2022-06-23 | 2023-10-18 |
 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 | 2023-10-27 | 2024-02-09 |
@@ -330,7 +331,7 @@
 | [Jericho](https://open.spotify.com/track/7papu4e31nzof4krM4DEnr) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Jericho](https://open.spotify.com/album/0l4BFdcbPircI7ZguRkQYU) | 2:33 | 2024-10-04 | 2024-10-22 |
 | [JEWO](https://open.spotify.com/track/4jO0ZoVUDh79c9fg7eFI52) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [JEWO](https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW) | 3:05 | 2024-12-16 | 2025-02-13 |
 | [Jigga \(feat\. Khaid\)](https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jigga \(feat\. Khaid\)](https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1) | 2:19 | 2024-03-15 | 2024-10-07 |
-| [JIGGY BABE](https://open.spotify.com/track/0Ru9b0shNHpsuzYEBASTr0) | [Czin](https://open.spotify.com/artist/2ckSZ9t62jqXhWVfwyCXOY), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [JIGGY BABE](https://open.spotify.com/album/6HanH23bCjueMAbKa4JWsl) | 2:18 | 2025-04-18 |  |
+| [JIGGY BABE](https://open.spotify.com/track/0Ru9b0shNHpsuzYEBASTr0) | [Czin](https://open.spotify.com/artist/2ckSZ9t62jqXhWVfwyCXOY), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [JIGGY BABE](https://open.spotify.com/album/6HanH23bCjueMAbKa4JWsl) | 2:18 | 2025-04-18 | 2025-05-15 |
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-08-10 | 2024-06-28 |
 | [Jo Vibe](https://open.spotify.com/track/2n0lV8WqaH0WjIciYI2hoA) | [JoBlaq](https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp), [Peller](https://open.spotify.com/artist/15XozhfjHU6UR9zImk8znI) | [Jo Vibe](https://open.spotify.com/album/3hMl15L73JW8ozQVsQzX9j) | 2:10 | 2025-01-29 |  |
 | [Jogo](https://open.spotify.com/track/1FvYnYoGgA4VSCCQYoyYLB) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Jogo](https://open.spotify.com/album/1OBCMQSmPvSFbajPbc2eG8) | 2:40 | 2024-07-26 | 2024-09-07 |

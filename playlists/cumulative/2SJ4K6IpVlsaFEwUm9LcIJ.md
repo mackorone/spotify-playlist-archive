@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-571 songs - 1 day 8 hr 54 min
+574 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 | 2024-10-22 | 2024-11-14 |
 | [400 & 57](https://open.spotify.com/track/1KlSberDtUJKrXQsEujQr3) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [In Solarium](https://open.spotify.com/album/13ZC7qriL0nNYB04lK4CXB) | 3:56 | 2024-10-25 | 2024-11-14 |
 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 | 2025-03-06 | 2025-05-09 |
+| [901](https://open.spotify.com/track/3oSjnnvc8y5DpNQfC81Zsk) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [901](https://open.spotify.com/album/64zc56nx8LGS7s6jMu3bqT) | 2:49 | 2025-05-14 |  |
 | [A Better Life Since](https://open.spotify.com/track/28EkO7bqzJ86Lqgbmuyv17) | [Southpacific](https://open.spotify.com/artist/5eeXcEsflXi3q0GiIw1mCL) | [Constance](https://open.spotify.com/album/4w29IA02Wl4V54uD8bXbry) | 1:49 | 2024-05-16 | 2024-07-12 |
 | [A Furrow Dub](https://open.spotify.com/track/5tauzxQXma1ic7aAnkEtWw) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Boogiepop Phantom Original Soundtrack](https://open.spotify.com/album/58m4Xt0j6oYFLeG81GmEd6) | 6:02 | 2024-07-29 | 2024-09-08 |
 | [A Highway Got Paved Over My Future, I Drive It Getting to School](https://open.spotify.com/track/5wJzxnpc4uIT7cG7fNkNwW) | [Brave Little Abacus](https://open.spotify.com/artist/23prE3lyFVVNVGMV5jADsp) | [Just Got Back from the Discomfort We're Alright](https://open.spotify.com/album/3jLrWEYpwKnptkzEXAyT66) | 2:34 | 2024-05-30 | 2024-07-12 |
@@ -355,6 +356,7 @@
 | [nerds](https://open.spotify.com/track/1xbYxwk8eexZgTABS6zuzM) | [Yorck Street](https://open.spotify.com/artist/2mQRyEpdhQxiykFmC74TSB) | [Yorck Street](https://open.spotify.com/album/4NWSdRujBcr2IYiBOsKNdD) | 0:40 | 2025-04-12 | 2025-05-09 |
 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 | 2025-04-16 | 2025-05-09 |
 | [Neverland](https://open.spotify.com/track/2pmf8TGCLVBHioGVYiE0WY) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 3:11 | 2025-04-09 | 2025-05-09 |
+| [New Horizon](https://open.spotify.com/track/1m1C9bHjEKrY4FS63FZeDN) | [Section 25](https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge) | [Always Now](https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ) | 6:01 | 2025-05-14 |  |
 | [New Joy](https://open.spotify.com/track/7wriad6oBytAE04VvbKuno) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [EXCELSIOR](https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E) | 3:16 | 2024-04-25 | 2024-05-16 |
 | [New Power](https://open.spotify.com/track/4jss2X2iCZjOU7zAUjc3zW) | [Cindy](https://open.spotify.com/artist/3vUqg3VWCLmEA1es1T4nGn) | [I'm Cindy](https://open.spotify.com/album/3obhwQ6jhn7Yy3ZGL6jwYt) | 3:16 | 2025-04-13 | 2025-05-09 |
 | [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 | 2025-02-10 | 2025-03-02 |
@@ -460,6 +462,7 @@
 | [Sleeping Satellite](https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR) | [Tasmin Archer](https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1) | [Great Expectations](https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY) | 4:41 | 2024-12-27 | 2025-01-12 |
 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 | 2024-04-01 | 2024-05-16 |
 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 | 2024-03-13 | 2024-05-16 |
+| [Snow](https://open.spotify.com/track/2YBkUWb9FVtP0QU9FX0lUl) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [Snow](https://open.spotify.com/album/50f0dY2lyEkXwjbm8JF8Qz) | 4:20 | 2025-05-14 |  |
 | [Some Days](https://open.spotify.com/track/5qWRT0cruIcc0EaAIDgI99) | [Simon Mavin](https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4) | [Some Days](https://open.spotify.com/album/4Kw2hBQCaSPV5FvFsiPDuS) | 4:17 | 2025-05-08 |  |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2024-01-05 | 2024-03-10 |
 | [Song of the Highest Tower](https://open.spotify.com/track/4QgvvCRrK6ilJp2xaDLlJx) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Alien Sunset](https://open.spotify.com/album/1aycNgUsDVj8pmuJ2x1Y8G) | 6:53 | 2025-04-15 | 2025-04-28 |

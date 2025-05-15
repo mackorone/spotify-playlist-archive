@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 187407,
+  "num_followers": 187452,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2025-05-07 08:28:44",
+      "album": {
         "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
         "url": "https://open.spotify.com/album/45yM3JJAseGk0Kive5LBSW"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
-    },
-    {
-      "added_at": "2025-05-07 08:28:44",
-      "album": {
         "name": "setar rock",
         "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "Brinna ut",
-        "url": "https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv"
-      },
-      "artists": [
-        {
-          "name": "JJULIUS",
-          "url": "https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I"
-        }
-      ],
-      "duration_ms": 201853,
-      "name": "Brinna ut",
-      "url": "https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd"
-    },
-    {
-      "added_at": "2025-05-07 08:28:44",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 192283,
       "name": "Snapdragon",
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+    },
+    {
+      "added_at": "2025-05-07 08:28:44",
+      "album": {
+        "name": "Brinna ut",
+        "url": "https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv"
+      },
+      "artists": [
+        {
+          "name": "JJULIUS",
+          "url": "https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "Brinna ut",
+      "url": "https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd"
     },
     {
       "added_at": "2025-05-07 08:28:44",
@@ -755,22 +755,18 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "London Tipton Remix",
-        "url": "https://open.spotify.com/album/3u8X9iNjwiDrQuoTqGho09"
+        "name": "Lacrimae",
+        "url": "https://open.spotify.com/album/5F5KGB9XBm9hViPBMZpipd"
       },
       "artists": [
         {
-          "name": "Fetish",
-          "url": "https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW"
-        },
-        {
-          "name": "chi",
-          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
         }
       ],
-      "duration_ms": 164001,
-      "name": "London Tipton Remix",
-      "url": "https://open.spotify.com/track/0EPOAe0idyN6jL3a7oPt2J"
+      "duration_ms": 339026,
+      "name": "Sangue coagulato",
+      "url": "https://open.spotify.com/track/3as5N2iBqzVwslgYQfb0d4"
     },
     {
       "added_at": "2025-05-07 08:28:44",
@@ -803,6 +799,26 @@
       "duration_ms": 312000,
       "name": "Harmony of Irrelevant Facts",
       "url": "https://open.spotify.com/track/1BFCZFKIMBBrSrqMyonK7s"
+    },
+    {
+      "added_at": "2025-05-07 08:28:44",
+      "album": {
+        "name": "London Tipton Remix",
+        "url": "https://open.spotify.com/album/3u8X9iNjwiDrQuoTqGho09"
+      },
+      "artists": [
+        {
+          "name": "Fetish",
+          "url": "https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW"
+        },
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "duration_ms": 164001,
+      "name": "London Tipton Remix",
+      "url": "https://open.spotify.com/track/0EPOAe0idyN6jL3a7oPt2J"
     },
     {
       "added_at": "2025-05-07 08:28:44",
@@ -843,22 +859,6 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "LA Silhouettes",
-        "url": "https://open.spotify.com/album/4hULFOhBo22y1hbNsGNJuZ"
-      },
-      "artists": [
-        {
-          "name": "Kanako Yamamoto",
-          "url": "https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "In Your Orbit",
-      "url": "https://open.spotify.com/track/3PjfRbq69mblRZpx2AL7eM"
-    },
-    {
-      "added_at": "2025-05-07 08:28:44",
-      "album": {
         "name": "Worm",
         "url": "https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "Lacrimae",
-        "url": "https://open.spotify.com/album/5F5KGB9XBm9hViPBMZpipd"
+        "name": "LA Silhouettes",
+        "url": "https://open.spotify.com/album/4hULFOhBo22y1hbNsGNJuZ"
       },
       "artists": [
         {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+          "name": "Kanako Yamamoto",
+          "url": "https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E"
         }
       ],
-      "duration_ms": 339026,
-      "name": "Sangue coagulato",
-      "url": "https://open.spotify.com/track/3as5N2iBqzVwslgYQfb0d4"
+      "duration_ms": 204294,
+      "name": "In Your Orbit",
+      "url": "https://open.spotify.com/track/3PjfRbq69mblRZpx2AL7eM"
     },
     {
       "added_at": "2025-05-07 08:28:44",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "Somehow (Abstracts)",
-        "url": "https://open.spotify.com/album/197EySELias6OhJBihHHbi"
-      },
-      "artists": [
-        {
-          "name": "Derek Simpson",
-          "url": "https://open.spotify.com/artist/7qyN87BH8AmA498RL3K21d"
-        }
-      ],
-      "duration_ms": 231157,
-      "name": "222 (Abstract)",
-      "url": "https://open.spotify.com/track/2wLZTUR3o3zJB54TMpt7q3"
-    },
-    {
-      "added_at": "2025-05-07 08:28:44",
-      "album": {
         "name": "Espuma de Mar ~ remixes",
         "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 224064,
       "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
+    },
+    {
+      "added_at": "2025-05-07 08:28:44",
+      "album": {
+        "name": "Somehow (Abstracts)",
+        "url": "https://open.spotify.com/album/197EySELias6OhJBihHHbi"
+      },
+      "artists": [
+        {
+          "name": "Derek Simpson",
+          "url": "https://open.spotify.com/artist/7qyN87BH8AmA498RL3K21d"
+        }
+      ],
+      "duration_ms": 231157,
+      "name": "222 (Abstract)",
+      "url": "https://open.spotify.com/track/2wLZTUR3o3zJB54TMpt7q3"
     },
     {
       "added_at": "2025-05-07 08:28:44",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "part of u",
-        "url": "https://open.spotify.com/album/5cMSNDgNhAXFS88W2gnB0X"
-      },
-      "artists": [
-        {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
-        }
-      ],
-      "duration_ms": 157623,
-      "name": "part of u",
-      "url": "https://open.spotify.com/track/19o5GQI0U3EVf0HbCvavqf"
-    },
-    {
-      "added_at": "2025-05-07 08:28:44",
-      "album": {
         "name": "Too Close to Call",
         "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
+        "name": "part of u",
+        "url": "https://open.spotify.com/album/5cMSNDgNhAXFS88W2gnB0X"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "duration_ms": 157623,
+      "name": "part of u",
+      "url": "https://open.spotify.com/track/19o5GQI0U3EVf0HbCvavqf"
+    },
+    {
+      "added_at": "2025-05-07 08:28:44",
+      "album": {
         "name": "Epic Wonder",
         "url": "https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 176170,
       "name": "Me she said",
       "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
+    },
+    {
+      "added_at": "2025-05-07 08:28:44",
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+      },
+      "artists": [
+        {
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+        }
+      ],
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2025-05-07 08:28:44",
@@ -1079,38 +1095,6 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
-    },
-    {
-      "added_at": "2025-05-07 08:28:44",
-      "album": {
-        "name": "Pretty Pigs",
-        "url": "https://open.spotify.com/album/5iJggTNrwx7UimBmi0myIQ"
-      },
-      "artists": [
-        {
-          "name": "Pyramids",
-          "url": "https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6"
-        }
-      ],
-      "duration_ms": 314500,
-      "name": "Pretty Pigs",
-      "url": "https://open.spotify.com/track/1gM1Y42gJZUXt7DbNxzc3V"
-    },
-    {
-      "added_at": "2025-05-07 08:28:44",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 236444,
       "name": "Old Age",
       "url": "https://open.spotify.com/track/7mr020BsS8ucWUoyn1EqM3"
+    },
+    {
+      "added_at": "2025-05-07 08:28:44",
+      "album": {
+        "name": "Pretty Pigs",
+        "url": "https://open.spotify.com/album/5iJggTNrwx7UimBmi0myIQ"
+      },
+      "artists": [
+        {
+          "name": "Pyramids",
+          "url": "https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6"
+        }
+      ],
+      "duration_ms": 314500,
+      "name": "Pretty Pigs",
+      "url": "https://open.spotify.com/track/1gM1Y42gJZUXt7DbNxzc3V"
     },
     {
       "added_at": "2025-05-07 08:28:44",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "Cero",
-        "url": "https://open.spotify.com/album/67mzZB3Tacqcr0gD52Dtfu"
-      },
-      "artists": [
-        {
-          "name": "The Gardener",
-          "url": "https://open.spotify.com/artist/0i1kzner1XKAvSz62HEnge"
-        }
-      ],
-      "duration_ms": 230852,
-      "name": "Tres",
-      "url": "https://open.spotify.com/track/2xGt7oyNvPCt9I2XuhB33n"
-    },
-    {
-      "added_at": "2025-05-07 08:28:44",
-      "album": {
         "name": "Awhile",
         "url": "https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 312770,
       "name": "LA",
       "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
+    },
+    {
+      "added_at": "2025-05-07 08:28:44",
+      "album": {
+        "name": "Cero",
+        "url": "https://open.spotify.com/album/67mzZB3Tacqcr0gD52Dtfu"
+      },
+      "artists": [
+        {
+          "name": "The Gardener",
+          "url": "https://open.spotify.com/artist/0i1kzner1XKAvSz62HEnge"
+        }
+      ],
+      "duration_ms": 230852,
+      "name": "Tres",
+      "url": "https://open.spotify.com/track/2xGt7oyNvPCt9I2XuhB33n"
     },
     {
       "added_at": "2025-05-07 08:28:44",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "V\u00e4ter und S\u00f6hne",
-        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
-      },
-      "artists": [
-        {
-          "name": "Alex Kaminski",
-          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
-        }
-      ],
-      "duration_ms": 353250,
-      "name": "V\u00e4ter und S\u00f6hne",
-      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
-    },
-    {
-      "added_at": "2025-05-07 08:28:44",
-      "album": {
         "name": "THE QUANTA SERIES",
         "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 389266,
       "name": "EVER",
       "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
+    },
+    {
+      "added_at": "2025-05-07 08:28:44",
+      "album": {
+        "name": "V\u00e4ter und S\u00f6hne",
+        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
+      },
+      "artists": [
+        {
+          "name": "Alex Kaminski",
+          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
+        }
+      ],
+      "duration_ms": 353250,
+      "name": "V\u00e4ter und S\u00f6hne",
+      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
       "added_at": "2025-05-07 08:28:44",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2025-05-07 08:28:44",
       "album": {
-        "name": "R\u00f8j\u00f8 Latid\u00f8",
-        "url": "https://open.spotify.com/album/1OoB3m7Gv5yqZEWYAXQ979"
-      },
-      "artists": [
-        {
-          "name": "La Maga",
-          "url": "https://open.spotify.com/artist/1GS2v1clFqp1XPiBKlDzeH"
-        },
-        {
-          "name": "Vitu Valera",
-          "url": "https://open.spotify.com/artist/3HV5zAEqTKXHhbF9PsN6Uo"
-        },
-        {
-          "name": "El Trayecto Salvaje",
-          "url": "https://open.spotify.com/artist/5kN2ZwThXNAmUYKIB1HMSC"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "R\u00f8j\u00f8 Latid\u00f8",
-      "url": "https://open.spotify.com/track/7eAIySgz1OsYFZGPRvLCLj"
-    },
-    {
-      "added_at": "2025-05-07 08:28:44",
-      "album": {
         "name": "Noor-e Vojood",
         "url": "https://open.spotify.com/album/3tEm5SjojNJ79ZrW5iTQ7R"
       },
@@ -1659,6 +1635,30 @@
       "duration_ms": 358314,
       "name": "AMB005",
       "url": "https://open.spotify.com/track/4ylbp6v81OzyWEcla9nqMM"
+    },
+    {
+      "added_at": "2025-05-07 08:28:44",
+      "album": {
+        "name": "R\u00f8j\u00f8 Latid\u00f8",
+        "url": "https://open.spotify.com/album/1OoB3m7Gv5yqZEWYAXQ979"
+      },
+      "artists": [
+        {
+          "name": "La Maga",
+          "url": "https://open.spotify.com/artist/1GS2v1clFqp1XPiBKlDzeH"
+        },
+        {
+          "name": "Vitu Valera",
+          "url": "https://open.spotify.com/artist/3HV5zAEqTKXHhbF9PsN6Uo"
+        },
+        {
+          "name": "El Trayecto Salvaje",
+          "url": "https://open.spotify.com/artist/5kN2ZwThXNAmUYKIB1HMSC"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "R\u00f8j\u00f8 Latid\u00f8",
+      "url": "https://open.spotify.com/track/7eAIySgz1OsYFZGPRvLCLj"
     },
     {
       "added_at": "2025-05-07 08:28:44",

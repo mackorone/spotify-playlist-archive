@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 971 likes - 116 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 972 likes - 116 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 75 | [Nirvana](https://open.spotify.com/track/0uWYy8j7zltA3xGThkD6aX) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal](https://open.spotify.com/album/4RgNO71umpxSv5GEnKHr6i) | 3:20 |
 | 76 | [Backup Plan](https://open.spotify.com/track/1UjZRtdqR3o5hfdhtLadT5) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 2:46 |
 | 77 | [All American Queen](https://open.spotify.com/track/7oV6XYXTKqVdViwzzoJR70) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:40 |
-| 78 | [Hello, I'm Right Here](https://open.spotify.com/track/3hO7TPpL86XCsO9eSaVmeo) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:07 |
-| 79 | [Positive Spin](https://open.spotify.com/track/6ywWV1XI3mWogQALI07rWB) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/6MrSPNedgZaHfO4KFzerPj) | 3:22 |
+| 78 | [Positive Spin](https://open.spotify.com/track/6ywWV1XI3mWogQALI07rWB) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/6MrSPNedgZaHfO4KFzerPj) | 3:22 |
+| 79 | [Hello, I'm Right Here](https://open.spotify.com/track/3hO7TPpL86XCsO9eSaVmeo) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:07 |
 | 80 | [sponge](https://open.spotify.com/track/2Z3JlrOjcC6XITyxFEgbHT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [hues](https://open.spotify.com/album/6f5Z2SBhrecKukyZDLX1vU) | 3:36 |
 | 81 | [4 Better 4 Worse](https://open.spotify.com/track/1VVx8V9T7AKIHqcRqvbdJd) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Never Waste A Heartbreak](https://open.spotify.com/album/1pDrtSjfeGl78gKFL67OaL) | 2:37 |
 | 82 | [Tell Me Again](https://open.spotify.com/track/4sH7jSUl7CbvcLxYkT9W3L) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Happy Accidents \(Deluxe Edition\)](https://open.spotify.com/album/1WF9Uo8Qm6zjY6WPS6hyqD) | 4:15 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 115 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 | 116 | [Look On](https://open.spotify.com/track/5j8txL4kkBL71lbHFfdPX0) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:03 |
 
-Snapshot ID: `AbxVYAAAAADTrL15ihgXiLLhbM52X30h`
+Snapshot ID: `AbxbMgAAAADRx9W3wG0N3sqV0D3wufQL`

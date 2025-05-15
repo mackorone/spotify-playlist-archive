@@ -4,7 +4,7 @@
 
 > lo mejor nunca se sube
 
-741 songs - 1 day 16 hr 3 min
+742 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,8 +214,9 @@
 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 | 2023-01-10 | 2023-02-11 |
 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 | 2024-12-06 | 2024-12-20 |
 | [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 | 2023-04-21 | 2023-08-02 |
-| [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 | 2025-04-02 |  |
+| [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 | 2025-04-02 | 2025-05-15 |
 | [El poder](https://open.spotify.com/track/2Sur4LiJLj4grpAK3u0xmX) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [El poder](https://open.spotify.com/album/2xcyJsdn7bYfseEUbYr7c3) | 3:03 | 2022-10-04 | 2023-04-22 |
+| [El Viaje](https://open.spotify.com/track/0icXoPZgir2wWgf3aBcvmq) | [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [La Orilla](https://open.spotify.com/album/4AHkjgPWr3LrIPlF1Mnhjw) | 4:39 | 2025-05-14 |  |
 | [EL ÚNICO](https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:32 | 2024-10-25 | 2024-11-30 |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-04-21 | 2025-01-15 |
 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 | 2023-09-07 | 2024-05-02 |

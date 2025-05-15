@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4022308,
+  "num_followers": 4022834,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADgMpbyx88B/YVOG+DD80h3",
+  "snapshot_id": "aCKLgAAAAAA+gBD6afG5N5K1ikV3x0UH",
   "tracks": [
     {
       "added_at": null,
@@ -656,25 +656,13 @@
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 357706,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
+      "duration_ms": 392826,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
     },
     {
       "added_at": null,
@@ -752,13 +740,25 @@
       },
       "artists": [
         {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 392826,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
+      "duration_ms": 357706,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
     },
     {
       "added_at": null,

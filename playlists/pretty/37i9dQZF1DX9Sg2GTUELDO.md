@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: Cloud 雲浩影 & 媽咪
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,911 likes - 488 songs - 1 day 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,912 likes - 488 songs - 1 day 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

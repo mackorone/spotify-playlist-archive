@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2964355,
+  "num_followers": 2964377,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAABiTz1Cbp1UdxsC6z5BeHr6",
+  "snapshot_id": "aCKLgAAAAADhn+IX7cXJEPZeRIV+E+Mj",
   "tracks": [
     {
       "added_at": null,
@@ -579,38 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "WingRiddenAngel",
-      "url": "https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Vibes Forever",
-        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 136357,
-      "name": "HEARTEATER",
-      "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arms Around You (feat. Maluma & Swae Lee)",
         "url": "https://open.spotify.com/album/3FtwiRgtcCLAiKHDvoj7bO"
       },
@@ -635,6 +603,38 @@
       "duration_ms": 198902,
       "name": "Arms Around You (feat. Maluma & Swae Lee)",
       "url": "https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 136357,
+      "name": "HEARTEATER",
+      "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "WingRiddenAngel",
+      "url": "https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO"
     },
     {
       "added_at": null,

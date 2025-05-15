@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 160952,
       "name": "BIRKINS",
       "url": "https://open.spotify.com/track/3zOKfrS1iF6ds9SscyvX6b"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 84576,
       "name": "Brazilian Phonk Mano",
       "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
@@ -4391,6 +4391,24 @@
     },
     {
       "album": {
+        "name": "Fuck My Computer",
+        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190762,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
+    },
+    {
+      "album": {
         "name": "Fuck U Love U",
         "url": "https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w"
       },
@@ -6696,7 +6714,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 207077,
       "name": "La Boh\u00e8me",
       "url": "https://open.spotify.com/track/35XPv6YnBbJzzhxol0h2uK"
@@ -10918,7 +10936,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 214153,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH"
@@ -11646,7 +11664,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 152380,
       "name": "TALKING WALLS",
       "url": "https://open.spotify.com/track/2EgVyvvuU95B3DqEZxbtj5"

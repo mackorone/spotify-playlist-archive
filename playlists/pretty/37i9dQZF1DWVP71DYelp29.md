@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Alessia Cara
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,525 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,524 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 79 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 |
 | 80 | [Young Dumb & Broke \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/28rT3OwXdw4VF1MPYIk1P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 3:49 |
 | 81 | [Hey Ya! \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 3:04 |
-| 82 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
-| 83 | [True Colors \(Spotify Singles\)](https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [True Colors \(Spotify Singles\)](https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q) | 3:20 |
+| 82 | [True Colors \(Spotify Singles\)](https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [True Colors \(Spotify Singles\)](https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q) | 3:20 |
+| 83 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
 | 84 | [Billie Jean \- Spotify Singles](https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 4:08 |
 | 85 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |
 | 86 | [July \- Spotify Singles](https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 2:37 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 91 | [Buy U A Drank \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Spotify Singles](https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX) | 2:43 |
 | 92 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
 | 93 | [Believe \- Spotify Singles](https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 4:08 |
-| 94 | [Sky Walker \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj) | 3:04 |
-| 95 | [So Good \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 2:41 |
+| 94 | [So Good \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 2:41 |
+| 95 | [Sky Walker \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj) | 3:04 |
 | 96 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 |
 | 97 | [No One \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Spotify Singles](https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa) | 4:00 |
 | 98 | [Crazy \- Spotify Singles](https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Spotify Singles](https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg) | 4:52 |

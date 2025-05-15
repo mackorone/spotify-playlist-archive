@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,986 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,991 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 12 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
 | 13 | [Moments](https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Moments](https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs) | 3:24 |
 | 14 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 |
-| 15 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 |
-| 16 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
+| 15 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
+| 16 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 |
 | 17 | [The Art Of Love](https://open.spotify.com/track/7hXKIp3IX3nrvHkq34zbMG) | [Sahlene Williams](https://open.spotify.com/artist/0kuiVox1gz055r46Oqulfw) | [The Art Of Love](https://open.spotify.com/album/3z0G27tIIhecHLJi9ppTKT) | 3:05 |
 | 18 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
 | 19 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 |
 | 20 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
-| 21 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
-| 22 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
+| 21 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
+| 22 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
 | 23 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
 | 24 | [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 |
 | 25 | [Yoga Meditation and Relaxation](https://open.spotify.com/track/3SrEmZTtPBo5Mzsa7qRsQE) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/artist/2AXNDqT86nQcoDCRrjFPGI) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/album/7z46HD34zZQcgebsYDtZfo) | 2:33 |

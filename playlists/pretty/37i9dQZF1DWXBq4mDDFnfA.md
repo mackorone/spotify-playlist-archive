@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,541 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,575 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 9 | [Fantasy for Guitar Op\. 107: III\. Arietta 1](https://open.spotify.com/track/5EEYKvwrOhDDKTR2yeaxD7) | [Malcolm Arnold](https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Dreams and Fancies: English Music for Solo Guitar](https://open.spotify.com/album/7C98BOibMcnelCnpzHm4CH) | 2:03 |
 | 10 | [Ponce: Estrellita](https://open.spotify.com/track/1RpfRhBZohSyNWoVaJKC8M) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Manuel Barrueco](https://open.spotify.com/artist/2Ji7pIcY1oJeS2tevigVaE) | [Cantos y Danzas](https://open.spotify.com/album/1kvzY07bTwNc2lSSdSYGTF) | 2:46 |
 | 11 | [The Well\-Tempered Clavier, Book 1, BWV 846\-869 / Prelude & Fugue in C Major, BWV 846: I\. Prelude \(Transcr\. for Guitar\)](https://open.spotify.com/track/79TcGoLB19MBED0O2YZLtn) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [J.S\. Bach: The Well\-Tempered Clavier / Book 1, BWV 846\-869 / Prelude & Fugue in C Major, BWV 846: I\. Prelude \(Transcr\. for Guitar\)](https://open.spotify.com/album/5NZeobdPF0gjjynPpSLf3d) | 1:55 |
-| 12 | [Lakmé: Flower Duet](https://open.spotify.com/track/10RYcLM6seFPApCHvxRoZ7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Reading and Studying](https://open.spotify.com/album/0UAfu361s41QtSeGArjPYq) | 1:28 |
+| 12 | [LakmÃ©: Flower Duet](https://open.spotify.com/track/10RYcLM6seFPApCHvxRoZ7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Reading and Studying](https://open.spotify.com/album/0UAfu361s41QtSeGArjPYq) | 1:28 |
 | 13 | [The Deer Hunter: Cavatina](https://open.spotify.com/track/0OjeJ8wBPo0AYTMbFp1QBI) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Jason Vieaux](https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO) | [Play](https://open.spotify.com/album/0YRcR0lcnYBZcGrCML3O9h) | 3:45 |
 | 14 | [Concerto in D Minor, BWV 974: II\. Adagio \(Transc\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/5oyziYlJvUJIXCm4dK8Ur6) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Concerto in D Minor, BWV 974: II\. Adagio \(Transc\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/1a3C7JAEFz40G49hiLef5p) | 4:26 |
 | 15 | [Adelita](https://open.spotify.com/track/5NAskgmV5OCbHSu7y3dHcy) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Pablo Sainz Villegas](https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j) | [Soul of Spanish Guitar](https://open.spotify.com/album/4A9G71QsLJKKFK5ffodQfZ) | 2:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,174 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,181 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 28 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 |
 | 29 | [Taste](https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:45 |
 | 30 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
-| 31 | [PAPO DE EDREDOM](https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:12 |
-| 32 | [Late Nights & Heartbreak](https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v) | [Hannah Williams](https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg), [The Affirmations](https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g) | [Late Nights & Heartbreak](https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp) | 4:15 |
+| 31 | [Late Nights & Heartbreak](https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v) | [Hannah Williams](https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg), [The Affirmations](https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g) | [Late Nights & Heartbreak](https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp) | 4:15 |
+| 32 | [PAPO DE EDREDOM](https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:12 |
 | 33 | [Bread \(butter version\)](https://open.spotify.com/track/5KGQivNF69wOcgwHEeqKV3) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Bread \(butter version\)](https://open.spotify.com/album/1Gqy3cQoOXViM50jxHJy7A) | 2:38 |
 | 34 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 |
 | 35 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |

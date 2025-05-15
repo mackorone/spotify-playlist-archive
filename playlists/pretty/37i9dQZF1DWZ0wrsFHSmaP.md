@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: The Violet Summers
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,287 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,286 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 40 | [Everywhere I Go](https://open.spotify.com/track/5Q43RChJW2kZwRqYpzlUxQ) | [The Struggling Kings](https://open.spotify.com/artist/6xAr7GCmYgrwlq5mh7ItM3) | [Everywhere I Go](https://open.spotify.com/album/6n0Ju3z38Xm5qFsLREKDOP) | 3:22 |
 | 41 | [One of One \- Acoustic](https://open.spotify.com/track/4IBIfKlnw1lC6pJ7P2waSf) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [MAYDAY \(Acoustics\)](https://open.spotify.com/album/1c2Ru5ffhKgP3npfCddFyd) | 2:47 |
 | 42 | [On My Own](https://open.spotify.com/track/40wIqTK30fc5MaztpB8giU) | [Jess Hitchcock](https://open.spotify.com/artist/1C48lupm1s1tkFx39hARfV) | [On My Own](https://open.spotify.com/album/5HqyqrA8fi5Bd9pg8x1Rmk) | 3:16 |
-| 43 | [Freedom](https://open.spotify.com/track/4SdfWNfj3LbEicQ7eMxZTW) | [Mau Power](https://open.spotify.com/artist/6ad6gNX75b9h3LvG8QOXRx), [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [The Show Will Go On](https://open.spotify.com/album/7hbaGybiKootmYl0RdSo9P) | 5:15 |
+| 43 | [Freedom Feat\. Archie Roach](https://open.spotify.com/track/4SdfWNfj3LbEicQ7eMxZTW) | [Mau Power](https://open.spotify.com/artist/6ad6gNX75b9h3LvG8QOXRx) | [The Show Will Go On](https://open.spotify.com/album/7hbaGybiKootmYl0RdSo9P) | 5:15 |
 | 44 | [HOME ALONE](https://open.spotify.com/track/3CNe0ujBye97Mj7OzE57zk) | [Demo Gubbz](https://open.spotify.com/artist/4VjgMsOaLPS7rWx58qxb6X), [Muxy](https://open.spotify.com/artist/05EmqRUGhcKvksYJY7V8AF) | [HOME ALONE](https://open.spotify.com/album/4C9HZnWCt0coFH3qYEnbqO) | 3:23 |
 | 45 | [Heal Sistah](https://open.spotify.com/track/4oFnasLOzxw4SR0dMY1wAf) | [SOLCHLD](https://open.spotify.com/artist/1JgxOEnL4TTVck2GAdKeA3), [RINA](https://open.spotify.com/artist/7pbpIVygFwkhkqYENt0jRx) | [Heal Sistah](https://open.spotify.com/album/04ukx23GKUbdMYKak5jHED) | 4:26 |
 | 46 | [What Was I Made For? \- triple j Like A Version](https://open.spotify.com/track/0c1qgBlogLXmTdsRjHA2q0) | [Maanyung](https://open.spotify.com/artist/6Dg8fZV2GE2z6caTDzTH5i) | [What Was I Made For? \(triple j Like A Version\)](https://open.spotify.com/album/1i0xKcrJPlvqbEiGR78oV0) | 3:30 |

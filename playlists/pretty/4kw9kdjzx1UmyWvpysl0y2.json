@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125330,
+  "num_followers": 125329,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUFdD8ez9ymxN1Qtm9PPst0kM/66IW",
+  "snapshot_id": "AAAUFktlsTTV03/MPJS44Kyun0Acru2p",
   "tracks": [
+    {
+      "added_at": "2025-05-14 14:52:25",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/4HMiG31eRc9Tj8iNYOG1A0"
+      },
+      "artists": [
+        {
+          "name": "Paper Skies",
+          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        },
+        {
+          "name": "Janet Tung",
+          "url": "https://open.spotify.com/artist/5GlnTa5AGHo9hhKuon69KB"
+        }
+      ],
+      "duration_ms": 219633,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/0OyH2wwpCKZRKkSdxqCAef"
+    },
     {
       "added_at": "2025-05-13 14:13:04",
       "album": {

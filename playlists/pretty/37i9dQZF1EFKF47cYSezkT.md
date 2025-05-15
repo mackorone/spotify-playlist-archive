@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 59 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 59 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 34 | [Written By A Woman](https://open.spotify.com/track/5ZLBwNrCPjjLBbPwsq09bZ) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:26 |
 | 35 | [Better Off](https://open.spotify.com/track/3M2mwvKYNF5yglT3Ob9eYg) | [HAYES](https://open.spotify.com/artist/60Vo6QqGGmDzr6ZiwqNxxP) | [Better Off](https://open.spotify.com/album/3M6Bh0RUOgRy6YtD7abWSV) | 2:38 |
 | 36 | [Drip](https://open.spotify.com/track/6x8WE23eSl8mLFiI0JqYWZ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1er The 6th Mini Album <TIPI\-TAP>](https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7) | 2:28 |
-| 37 | [Same but Different](https://open.spotify.com/track/6ZPx9CMaYu9fcnySnjZ1lp) | [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Where It Goes from Here](https://open.spotify.com/album/3ZCThraJoc53sC1SVEpMIt) | 3:33 |
-| 38 | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/track/0cN4duukocBD5mYzZK4Upf) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/album/6cNuIGqrpbKD1fWKVITJJM) | 2:21 |
+| 37 | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/track/0cN4duukocBD5mYzZK4Upf) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/album/6cNuIGqrpbKD1fWKVITJJM) | 2:21 |
+| 38 | [Same but Different](https://open.spotify.com/track/6ZPx9CMaYu9fcnySnjZ1lp) | [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Where It Goes from Here](https://open.spotify.com/album/3ZCThraJoc53sC1SVEpMIt) | 3:33 |
 | 39 | [Fireaway](https://open.spotify.com/track/5MUrVxNaQg1BDp632auo8N) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance \(Extended\)](https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le) | 2:58 |
 | 40 | [Go](https://open.spotify.com/track/5K66K3wXY7HRr6ikjsnChl) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Go](https://open.spotify.com/album/27P7sXxqMPDsX9fypwvIg3) | 2:55 |
 | 41 | [Watching Her Heartbreak](https://open.spotify.com/track/0PUUGNXMaLZBH6t6yaXamS) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Watching Her Heartbreak](https://open.spotify.com/album/1WEBLiRsDq6bStgx7fxLG1) | 3:03 |
 | 42 | [Meherbaan](https://open.spotify.com/track/46hWgb9J4Lf5bAnEV4dY2T) | [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Meherbaan](https://open.spotify.com/album/1lI6lP0ODvHbBzSXuzqIWy) | 2:33 |
 | 43 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 |
-| 44 | [French Riviera](https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [French Riviera](https://open.spotify.com/album/3Irs9pckio6dyVVeNt3LQL) | 3:35 |
-| 45 | [MOONBEANS](https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [MOONBEANS](https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq) | 3:05 |
+| 44 | [MOONBEANS](https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [MOONBEANS](https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq) | 3:05 |
+| 45 | [French Riviera](https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [French Riviera](https://open.spotify.com/album/3Irs9pckio6dyVVeNt3LQL) | 3:35 |
 | 46 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
 | 47 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 |
 | 48 | [Another Night](https://open.spotify.com/track/2ollh0CfwAz4snWXe5Ii85) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Life Begins After Dark](https://open.spotify.com/album/1IA3CdlBxrnTdJUDoP1Sfb) | 2:32 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 58 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 59 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `AbxVagAAAABXfGmAP196pEo6PFSAbBFx`
+Snapshot ID: `AbxbCgAAAACOBqH6YYnC8G5+oMPzjvHZ`

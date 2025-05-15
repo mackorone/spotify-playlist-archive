@@ -4,14 +4,14 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 미티 \(Mitty\)\) \(Meet the emerging talents of Korea!\)
 
-1,538 songs - 3 day 14 hr 31 min
+1,539 songs - 3 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [007 \(feat\. Syd\)](https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [007](https://open.spotify.com/album/0CrHjS2Xr8BJSspw27AzSB) | 3:25 | 2022-09-29 | 2022-12-01 |
 | [010](https://open.spotify.com/track/03wi7LxMghuk3ZDKoMweY3) | [Rredrain](https://open.spotify.com/artist/7L9rGbD5y3hIIh1IAHEfLr) | [Have to go 3](https://open.spotify.com/album/4jzvl5jnOHDsSgx6f065ie) | 2:09 | 2024-03-21 | 2024-08-02 |
 | [0107](https://open.spotify.com/track/2KdxnAZ3m0SPkalA6XHgUo) | [After Thoughts](https://open.spotify.com/artist/5Kt6MttjG8m2rlMdjA8WiA) | [0107](https://open.spotify.com/album/3f2dEWHhavMsuBP4lTdc7e) | 3:46 | 2022-07-04 | 2022-08-19 |
-| [0405 \(Four Five\)](https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [0405 \(Four Five\)](https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6) | 2:43 | 2025-02-28 |  |
+| [0405 \(Four Five\)](https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [0405 \(Four Five\)](https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6) | 2:43 | 2025-02-28 | 2025-05-15 |
 | [0430](https://open.spotify.com/track/0xW6kidTNxzDRZIuCpU0wO) | [near](https://open.spotify.com/artist/6uCPb1SLQSd3ElSU72nJIR) | [0430](https://open.spotify.com/album/0d84RiXv7OS88I3TC7G0HE) | 3:41 | 2022-03-02 | 2022-03-24 |
 | [11 o'clock Classic \- MSG version](https://open.spotify.com/track/6BMf0G0117dcVJBOgnO4vD) | [Claudio Jung](https://open.spotify.com/artist/7nUfwOW4l5NLvcGWzHCNms) | [11 o'clock Classic](https://open.spotify.com/album/5gPzzC3LBpZZ6p3s0VE4TZ) | 4:21 | 2022-06-09 | 2022-07-05 |
 | [113](https://open.spotify.com/track/0GgJyPJa1d5k2UD1KwiBHT) | [SONG YERIN](https://open.spotify.com/artist/25aScl6kfWpLHcAwRKvwU3) | [Seed](https://open.spotify.com/album/0TEuhEXenTug7J7CINrZsT) | 4:01 | 2022-04-20 | 2022-06-10 |
@@ -490,6 +490,7 @@
 | [Fxxkin' Loving You](https://open.spotify.com/track/4Iymiu42PMZcQj2MN9FrNk) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Fxxkin' Loving You](https://open.spotify.com/album/0a8WKAydrjwHicHHFOIyMV) | 2:50 | 2024-03-08 | 2024-07-04 |
 | [garbage\_dump\_record \(3am\)](https://open.spotify.com/track/3428JuI2LoccafM2sK1S0M) | [kyurin](https://open.spotify.com/artist/6bdlvd89zN7jTSb7UOU8zp) | [NUDUGI HEART RUNNER](https://open.spotify.com/album/35621MM1sYnfoiS9s8tCvp) | 2:47 | 2022-03-17 | 2022-04-21 |
 | [Gardener \(feat\. Tamiz, SIM2\)](https://open.spotify.com/track/58QcQFi9oZX5jSpEddgG4L) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR) | [Gardener \(feat\. Tamiz, SIM2\)](https://open.spotify.com/album/3nPuyX4q23rvzaNoHUHEOs) | 3:02 | 2022-08-12 | 2022-09-30 |
+| [Gazing into Indigo](https://open.spotify.com/track/1deOh4hYz3EbS7jIXGgKUp) | [Conut](https://open.spotify.com/artist/6TkT01hX9OeitLFMVUnS0H) | [Gazing into Indigo](https://open.spotify.com/album/4dSFQEyHSlglOSD51UNw8u) | 3:58 | 2025-05-14 |  |
 | [General well\-being](https://open.spotify.com/track/3hBDkqm2rBjofjELCzWyQU) | [Dohyuck Lim](https://open.spotify.com/artist/5kfY175biLFO0H74FXYqzX) | [General well\-being](https://open.spotify.com/album/0uf2hXXsUTqicPPIE5Mp0F) | 3:29 | 2021-12-02 | 2022-01-11 |
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2021-12-02 | 2022-01-11 |
 | [Get My Money Back](https://open.spotify.com/track/0d9yXZVK8L4mGEdL47vGZX) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Get My Money Back](https://open.spotify.com/album/1PCF99yRCBu4PYEoBRZks1) | 3:38 | 2024-06-04 | 2024-09-03 |

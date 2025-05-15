@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,018 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,283 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 33 | [Dame un Beso y Dime Adios \(En Vivo\)](https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 3:59 |
 | 34 | [⁠Aviso importante](https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Bolela](https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:11 |
 | 35 | [Secuelas De Amor](https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX) | 2:34 |
-| 36 | [Tierra Trágame \(con Carín León\)](https://open.spotify.com/track/3FyeZnp9nMLxK2Xo7wAth4) | [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tierra Trágame \(con Carín León\)](https://open.spotify.com/album/4nDXv2MDmLPjo1n1tq1Mwd) | 2:52 |
-| 37 | [Si Tu Amor No Vuelve \- En Vivo](https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1) | 3:20 |
+| 36 | [Si Tu Amor No Vuelve \- En Vivo](https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1) | 3:20 |
+| 37 | [Tierra Trágame \(con Carín León\)](https://open.spotify.com/track/3FyeZnp9nMLxK2Xo7wAth4) | [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tierra Trágame \(con Carín León\)](https://open.spotify.com/album/4nDXv2MDmLPjo1n1tq1Mwd) | 2:52 |
 | 38 | [Por culpa de un tercero](https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:54 |
 | 39 | [Cuando La Vida Sea Trago](https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cuando La Vida Sea Trago](https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x) | 2:53 |
 | 40 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 47 | [Entregame Tu Amor \(En Vivo\)](https://open.spotify.com/track/1lqFHuu7RlnccwOMMpL0oB) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 4:41 |
 | 48 | [Alguien Mejor](https://open.spotify.com/track/5D9bNDHnGzL8ZcwBty5db4) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX) | 2:39 |
 | 49 | [Guaro \(Remix\)](https://open.spotify.com/track/5sMHuOIvtsSuFZafTcF19Q) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/1YiKQVj2jiaNCmuOjGASsq) | 3:42 |
-| 50 | [She Hurts Like Tequila](https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [She Hurts Like Tequila](https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd) | 3:22 |
+| 50 | [Si una Vez \- En Vivo](https://open.spotify.com/track/1ZYPtJnVttoAT4O5rbTdCm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4) | 2:54 |
 
-Snapshot ID: `aCE6AAAAAAD5fDNcvllbHnddyjNMS66p`
+Snapshot ID: `aCKLgAAAAAC8L05rtau3/3T/dNHjH+zX`

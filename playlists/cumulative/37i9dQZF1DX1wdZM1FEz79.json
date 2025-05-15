@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 255053,
       "name": "A Dream Unfinished",
       "url": "https://open.spotify.com/track/76djVhINm9xcBShGwHw9Wm"
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 206000,
       "name": "Changing Seasons",
       "url": "https://open.spotify.com/track/31zwd5SqzByO40OvwyW5fA"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 210352,
       "name": "Color of the day",
       "url": "https://open.spotify.com/track/1fljCSLlJYcFubv7LMNQRM"
@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-15",
       "duration_ms": 154186,
       "name": "Don't leave me (feat. Hoyeon Kim)",
       "url": "https://open.spotify.com/track/3bLUVw82XR2OEdA7QdDTPN"
@@ -4344,7 +4344,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -9786,6 +9786,24 @@
       "duration_ms": 185016,
       "name": "You have done well",
       "url": "https://open.spotify.com/track/7vzwYlTrQnC7kSaDhn252A"
+    },
+    {
+      "album": {
+        "name": "Second Shot at Love, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6lV9XOE4fAwfKu3eIi2DLM"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260186,
+      "name": "You Made Me Smile",
+      "url": "https://open.spotify.com/track/4o46PVIt0Cp8XcVaxg8Nuk"
     },
     {
       "album": {

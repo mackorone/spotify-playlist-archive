@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1642328,
+  "num_followers": 1642340,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADQtt/M7Z0YqaIAKIGnG+I/",
+  "snapshot_id": "aCKLgAAAAADlWzz+N0UQRJJ0/3NG/WZ7",
   "tracks": [
     {
       "added_at": null,
@@ -1059,18 +1059,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+        "name": "Story of a Bird",
+        "url": "https://open.spotify.com/album/3yXSlH8QsT0hvJvfJjS2iB"
       },
       "artists": [
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
         }
       ],
-      "duration_ms": 145824,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
+      "duration_ms": 230676,
+      "name": "Story of a Bird",
+      "url": "https://open.spotify.com/track/5nBOV8rbNUi6SQb4SOrdx0"
     }
   ],
   "unique_name": "This Is Alan Walker",

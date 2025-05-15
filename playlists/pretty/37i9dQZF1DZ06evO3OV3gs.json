@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 684332,
+  "num_followers": 684413,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCE6AAAAAADuq15jgfG6W5raXJcfFSJZ",
+  "snapshot_id": "aCKLgAAAAADldwYaJPqx1RoNIatZJp3y",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 351920,
       "name": "Live to Tell",
       "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 78293,
+      "name": "A Cinema in Buenos Aires, 26 July 1952",
+      "url": "https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebel Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 211475,
       "name": "Back That Up To The Beat - demo version",
       "url": "https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 78293,
-      "name": "A Cinema in Buenos Aires, 26 July 1952",
-      "url": "https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e"
     },
     {
       "added_at": null,

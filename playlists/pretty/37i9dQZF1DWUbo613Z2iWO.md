@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Nippa
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,116 likes - 199 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,129 likes - 199 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 14 | [2 Good](https://open.spotify.com/track/6onTSGUlM6RTH6wfePrDPd) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Before You Go](https://open.spotify.com/album/5w1CiB6umzBpiB6FjYWxVX) | 3:26 |
 | 15 | [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 |
 | 16 | [Just Like Me](https://open.spotify.com/track/2uD06ODYnSoHFNbskqXIn5) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Just Like Me](https://open.spotify.com/album/5FcEHDCPADtQwrz4gw9wnh) | 3:24 |
-| 17 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:30 |
+| 17 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 |
 | 18 | [Haiku](https://open.spotify.com/track/52uaVOICJKsGh3jBM1EW6m) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Haiku](https://open.spotify.com/album/4cWC2yy4u4a1gYjyU2IL5i) | 3:32 |
 | 19 | [Satellite](https://open.spotify.com/track/24ouK1I3KXVItXRWIu2G9W) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [WARM](https://open.spotify.com/album/4IJVAYnl2ZtSBeyNGY1j8A) | 3:19 |
 | 20 | [Feel Like Makin' Love \- Spotify Singles \- Cover](https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Feel Like Makin' Love \- Spotify Singles \(Cover\)](https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA) | 4:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,018 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,128 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 33 | [Bandoleros](https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 5:05 |
 | 34 | [Me Niegas](https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7) | [Los Cotizados](https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8) | 3:21 |
 | 35 | [Donde Estan las Gatas](https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 3](https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob) | 2:50 |
-| 36 | [Fanática Sensual](https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 4:00 |
-| 37 | [Dura](https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dura](https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7) | 3:20 |
+| 36 | [Dura](https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dura](https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7) | 3:20 |
+| 37 | [Fanática Sensual](https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 4:00 |
 | 38 | [Solos \(feat\. Plan B\)](https://open.spotify.com/track/2ItA7kOg5NH6AygzU30sEv) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle \(Remastered\)](https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7) | 3:08 |
 | 39 | [Al Natural \(feat\. Yandel\)](https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 3:24 |
 | 40 | [More](https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [La Fórmula](https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ) | 4:00 |

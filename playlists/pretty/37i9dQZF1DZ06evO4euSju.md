@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,375 likes - 29 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,24 +19,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 9 | [Mary](https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 3:46 |
 | 10 | [High Again](https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:26 |
 | 11 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 |
-| 12 | [Slide Away](https://open.spotify.com/track/3ZoFSxXf40Ov510ttMUwJf) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Slide Away](https://open.spotify.com/album/4lLuchkzxXrDgmJGty7smx) | 4:07 |
-| 13 | [Digital Self](https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:46 |
+| 12 | [Digital Self](https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:46 |
+| 13 | [Slide Away](https://open.spotify.com/track/3ZoFSxXf40Ov510ttMUwJf) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Slide Away](https://open.spotify.com/album/4lLuchkzxXrDgmJGty7smx) | 4:07 |
 | 14 | [Taste Of Gasoline](https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:46 |
 | 15 | [Afterglow](https://open.spotify.com/track/6XZFf9VlLpjaVGkaHfYnJO) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Afterglow](https://open.spotify.com/album/1zSuLk1sl9xh1b7xKO0vJL) | 4:44 |
-| 16 | [Black Flamingo](https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:58 |
-| 17 | [Humbug](https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
+| 16 | [Humbug](https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
+| 17 | [Black Flamingo](https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:58 |
 | 18 | [New Emotion](https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:26 |
 | 19 | [Mirror Talk](https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8) | 4:07 |
-| 20 | [Chrome Neon Jesus](https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:43 |
-| 21 | [Something Good](https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 4:12 |
+| 20 | [Something Good](https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 4:12 |
+| 21 | [Chrome Neon Jesus](https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:43 |
 | 22 | [Yellowbelly](https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:14 |
 | 23 | [Dark Sky](https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Still Love \(Deluxe\)](https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7) | 3:11 |
-| 24 | [Supermachine](https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:52 |
-| 25 | [Cigarette Two Step](https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Fear Before The March Of Flames](https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq), [David Marion](https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:55 |
+| 24 | [Cigarette Two Step](https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Fear Before The March Of Flames](https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq), [David Marion](https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:55 |
+| 25 | [Supermachine](https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:52 |
 | 26 | [Sparkle / Fade](https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 5:39 |
 | 27 | [Outside of Love](https://open.spotify.com/track/1igt3E8ffAckDkdREZ12HB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8) | 4:06 |
-| 28 | [Paloma a.k.a\. Ketamine](https://open.spotify.com/track/5w5M2EGtS9F4yqdpNWiWTS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love \(Deluxe\)](https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7) | 5:28 |
-| 29 | [Believe In The Wrong Things](https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 3:33 |
-| 30 | [Summer](https://open.spotify.com/track/3YpvQGhkRJ2Nb9rTwknxZw) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8) | 5:01 |
+| 28 | [Believe In The Wrong Things](https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 3:33 |
+| 29 | [Summer](https://open.spotify.com/track/3YpvQGhkRJ2Nb9rTwknxZw) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8) | 5:01 |
 
-Snapshot ID: `aCE6AAAAAAAOH/a8TRbZ4umCRLq1FF++`
+Snapshot ID: `aCKLgAAAAABeiWNonr8lEXvgENuevlmW`

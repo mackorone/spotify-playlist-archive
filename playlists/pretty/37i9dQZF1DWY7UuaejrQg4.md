@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > The Indie highlights of 2018\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,328 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,349 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 59 | [Cool Again](https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Lenses](https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU) | 3:11 |
 | 60 | [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 |
 | 61 | [Lemon Glow](https://open.spotify.com/track/26CfdVmYf0hNvP6SJXF0vQ) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW) | 4:04 |
-| 62 | [Crush](https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB) | 4:26 |
-| 63 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 |
+| 62 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 |
+| 63 | [Crush](https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB) | 4:26 |
 | 64 | [Losing You](https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:06 |
 | 65 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 |
 | 66 | [Set to Attack](https://open.spotify.com/track/7sI80PK0P3tDCvULKszqzL) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Francis Trouble](https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp) | 3:28 |
@@ -100,11 +100,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 90 | [Night Shift](https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/01GO03odsNlNLtvNETukWT) | 6:31 |
 | 91 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 |
 | 92 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
-| 93 | [nightmares](https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [nightmares](https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96) | 3:27 |
-| 94 | [Calm](https://open.spotify.com/track/5mLTKuS2yHKBgxvm4Jn27a) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Calm](https://open.spotify.com/album/4OmCAIrckfZx2vVM9pIHZH) | 3:28 |
-| 95 | [All I Want To Hear You Say](https://open.spotify.com/track/3X5PSHyFEfkkbIncpslasP) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [All I Want To Hear You Say](https://open.spotify.com/album/3iJnbOet5ZH5zNxlAXeuG6) | 3:09 |
+| 93 | [The Reason](https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [The Reason](https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY) | 3:04 |
+| 94 | [nightmares](https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [nightmares](https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96) | 3:27 |
+| 95 | [Calm](https://open.spotify.com/track/5mLTKuS2yHKBgxvm4Jn27a) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Calm](https://open.spotify.com/album/4OmCAIrckfZx2vVM9pIHZH) | 3:28 |
 | 96 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 |
-| 97 | [The Reason](https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [The Reason](https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY) | 3:04 |
+| 97 | [All I Want To Hear You Say](https://open.spotify.com/track/3X5PSHyFEfkkbIncpslasP) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [All I Want To Hear You Say](https://open.spotify.com/album/3iJnbOet5ZH5zNxlAXeuG6) | 3:09 |
 | 98 | [Say, Can You Hear](https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Say, Can You Hear](https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK) | 3:09 |
 | 99 | [Drown](https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd) | 3:54 |
 | 100 | [Pristine](https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf) | 4:55 |
