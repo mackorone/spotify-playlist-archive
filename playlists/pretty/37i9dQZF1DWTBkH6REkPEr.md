@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,796 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,865 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 27 | [Ten Feet Tall](https://open.spotify.com/track/2ldAdghnrO34HPcZ0IWfTu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Forget The World \(Deluxe\)](https://open.spotify.com/album/7G1441qDQeERZDyMipQPE8) | 3:49 |
 | 28 | [Wasted](https://open.spotify.com/track/77OuOZhDxJSQLYnNIpX2AG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 3:10 |
 | 29 | [Dangerous \(feat\. Sam Martin\)](https://open.spotify.com/track/7pqgMEKsDMOHUdFQ7n0N9K) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:23 |
-| 30 | [Hello](https://open.spotify.com/track/6BAnxKyld909yo6Pk1DO3r) | [OMFG](https://open.spotify.com/artist/0UdoKjWIe3tHyiqc4qT3Oz) | [Hello](https://open.spotify.com/album/7lZoV4KNsiutw9uTkbZwnA) | 3:46 |
-| 31 | [Something New](https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:07 |
+| 30 | [Something New](https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:07 |
+| 31 | [Hello](https://open.spotify.com/track/6BAnxKyld909yo6Pk1DO3r) | [OMFG](https://open.spotify.com/artist/0UdoKjWIe3tHyiqc4qT3Oz) | [Hello](https://open.spotify.com/album/7lZoV4KNsiutw9uTkbZwnA) | 3:46 |
 | 32 | [She Moves](https://open.spotify.com/track/6ggAYREO7PlFwI2vbOG3dp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Synesthesia](https://open.spotify.com/album/4aJZ9Dc6SRtaGYOz4d5PGd) | 3:17 |
 | 33 | [Ready For Your Love](https://open.spotify.com/track/1y7agAufBsudgRXuq6Ekqb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens \(Deluxe\)](https://open.spotify.com/album/3u3wA2mFU0UgAtyMJW3xa5) | 3:18 |
 | 34 | [Sun Models](https://open.spotify.com/track/7jZHUhAmW5oq1cq6s8IxmK) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Madelyn Grant](https://open.spotify.com/artist/7kdIgG6b9e3DZVmroWzu9w) | [In Return](https://open.spotify.com/album/5SXT6dwhHX56Sos7KMcMF5) | 2:40 |

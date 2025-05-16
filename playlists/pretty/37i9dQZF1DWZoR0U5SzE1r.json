@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Matt Redman",
-  "num_followers": 353717,
+  "num_followers": 353848,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Bright Faith Bold Future",
         "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 234731,
       "name": "Yes I Will",
       "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "The Heart Of Worship",
-        "url": "https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 320600,
-      "name": "The Heart Of Worship",
-      "url": "https://open.spotify.com/track/1WYHvGn6fQZRAmbD5TG51j"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Death Of Death",
         "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
       },
@@ -1567,22 +1551,34 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Passion: Everything Glorious",
-        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
+        "name": "The Heart Of Worship",
+        "url": "https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 327400,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+      "duration_ms": 320600,
+      "name": "The Heart Of Worship",
+      "url": "https://open.spotify.com/track/1WYHvGn6fQZRAmbD5TG51j"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 358440,
+      "name": "Love Changes Everything (Live)",
+      "url": "https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1635,18 +1631,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
+        "name": "Passion: Everything Glorious",
+        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
       "artists": [
         {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 358440,
-      "name": "Love Changes Everything (Live)",
-      "url": "https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk"
+      "duration_ms": 327400,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1923,18 +1923,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Lord Send Revival (Live)",
-        "url": "https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF"
+        "name": "King Of Glory (Live)",
+        "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 402052,
-      "name": "Lord Send Revival - Live",
-      "url": "https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ"
+      "duration_ms": 249013,
+      "name": "King Of Glory - Live",
+      "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1955,22 +1959,18 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "King Of Glory (Live)",
-        "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
+        "name": "Lord Send Revival (Live)",
+        "url": "https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 249013,
-      "name": "King Of Glory - Live",
-      "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
+      "duration_ms": 402052,
+      "name": "Lord Send Revival - Live",
+      "url": "https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+        "name": "The Darker The Night / The Brighter The Morning",
+        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
       },
       "artists": [
         {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 326733,
-      "name": "Audience of One",
-      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
+      "duration_ms": 254840,
+      "name": "The Cross Has The Final Word",
+      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2047,18 +2047,18 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "The Darker The Night / The Brighter The Morning",
-        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
       "artists": [
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 254840,
-      "name": "The Cross Has The Final Word",
-      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+      "duration_ms": 326733,
+      "name": "Audience of One",
+      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2607,22 +2607,26 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Endless Praise",
-        "url": "https://open.spotify.com/album/5wDwYXpmXDY9K6P9yspqvC"
+        "name": "Maverick City Vol. 3 Part 1",
+        "url": "https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n"
       },
       "artists": [
         {
-          "name": "Charity Gayle",
-          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Steven Musso",
-          "url": "https://open.spotify.com/artist/6qG7Lqb9bjQXrmFjj3z8Qx"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 469480,
-      "name": "I Speak Jesus",
-      "url": "https://open.spotify.com/track/467ywsenaNywwCuYhmBb5N"
+      "duration_ms": 646239,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/0aZFEiDKLK2B4gzPaGCZVm"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2647,26 +2651,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Maverick City Vol. 3 Part 1",
-        "url": "https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n"
+        "name": "Endless Praise",
+        "url": "https://open.spotify.com/album/5wDwYXpmXDY9K6P9yspqvC"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
         },
         {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Steven Musso",
+          "url": "https://open.spotify.com/artist/6qG7Lqb9bjQXrmFjj3z8Qx"
         }
       ],
-      "duration_ms": 646239,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/0aZFEiDKLK2B4gzPaGCZVm"
+      "duration_ms": 469480,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/467ywsenaNywwCuYhmBb5N"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2799,6 +2799,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
+        "name": "Housefires III",
+        "url": "https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "duration_ms": 426715,
+      "name": "Yes and Amen",
+      "url": "https://open.spotify.com/track/7g6LwD8T8nYuuDj6l62nSL"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
         "name": "All The Earth",
         "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
       },
@@ -2831,22 +2847,6 @@
       "duration_ms": 222039,
       "name": "In Jesus Name (God Of Possible)",
       "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Housefires III",
-        "url": "https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        }
-      ],
-      "duration_ms": 426715,
-      "name": "Yes and Amen",
-      "url": "https://open.spotify.com/track/7g6LwD8T8nYuuDj6l62nSL"
     },
     {
       "added_at": "2024-12-11 10:16:32",

@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Syahravi
+> Irama R&B tanah air yang merasuk jiwa\. Cover: gabsav
 
-105 songs - 6 hr 23 min
+106 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Hanya Ingin](https://open.spotify.com/track/1UykQjY4mcTp66AqJ2kLvt) | [R2 Rhythm](https://open.spotify.com/artist/1NMndAY1nq64GSsGuccTrM) | [Hanya Ingin](https://open.spotify.com/album/2cEMBuXaGurxFImXVwOFWC) | 3:09 | 2024-11-21 | 2025-05-09 |
 | [Hanya Memuji](https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Hanya Memuji](https://open.spotify.com/album/5WRLsSxz99UFtkLishLcB1) | 3:57 | 2025-05-01 |  |
 | [Hey Tunggu Dulu](https://open.spotify.com/track/4cWvKdsd9egRGO4CnwFqEg) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:13 | 2024-10-24 |  |
+| [hush](https://open.spotify.com/track/6Dv7W37km5fOeuHdAUdJJD) | [gabsav](https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ) | [hush](https://open.spotify.com/album/25udfmqeT2f2ZrTSt2H9Sa) | 4:34 | 2025-05-15 |  |
 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 | 2025-02-14 |  |
 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 | 2024-10-03 | 2025-05-02 |
 | [Jadian](https://open.spotify.com/track/3kCvSqFu12N46Tih7acHO9) | [UNCLS](https://open.spotify.com/artist/5QElOJwHxsR83o8CcNHo0p), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Jadian](https://open.spotify.com/album/4UxZp5OMWr6NegAtQHBi1B) | 3:16 | 2024-10-03 | 2025-05-02 |

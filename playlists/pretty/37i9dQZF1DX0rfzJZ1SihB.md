@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 今年的金曲獎要來了！Spotify 當然全力支持！火速呈獻精采提名作品！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,469 likes - 107 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,536 likes - 107 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 | 26 | [我不該哭 feat\. 告五人](https://open.spotify.com/track/7bTR4AhSmlz0hbpZbdh5K2) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [結伴\(豪華版\)](https://open.spotify.com/album/11eHWo34XKwBnBCMMCKM0c) | 4:43 |
 | 27 | [分合](https://open.spotify.com/track/0pa3uU6yzXL4onmiIBVi6t) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [分合](https://open.spotify.com/album/7kCG6P2OCX53a0Ideqm0Eq) | 4:06 |
 | 28 | [蓮花空行](https://open.spotify.com/track/6ic7IlATn3ecu1eyuH2K1H) | [珂拉琪 Collage](https://open.spotify.com/artist/1YtYHaWLV0IU7SwhvG6Luk) | [Deus Ex Machina](https://open.spotify.com/album/7fdXqmyXq530aJDeZud47I) | 3:51 |
-| 29 | [WHY AM I HERE](https://open.spotify.com/track/6dEc7Ge5XNnSP0gZkUDWcX) | [Miao Miao Flow](https://open.spotify.com/artist/2r0ajtCNBtW94trsCQxyZr), [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z) | [RUN, DON'T WALK](https://open.spotify.com/album/75BE0SxpA5kTgyQDgJa5eV) | 2:41 |
+| 29 | [WHY AM I HERE](https://open.spotify.com/track/6dEc7Ge5XNnSP0gZkUDWcX) | [Miao Miao Flow](https://open.spotify.com/artist/2r0ajtCNBtW94trsCQxyZr), [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z), [丹丹猫猫](https://open.spotify.com/artist/05QFcOrtgGZRcTtfmge8ZW) | [RUN, DON'T WALK](https://open.spotify.com/album/75BE0SxpA5kTgyQDgJa5eV) | 2:41 |
 | 30 | [Toryanse](https://open.spotify.com/track/4i48TEB2wcgSF3QKbbeBCt) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:36 |
 | 31 | [Get a Little Higher](https://open.spotify.com/track/5CxBIC4MMmqmkPkchhBNMW) | [鄭雙雙](https://open.spotify.com/artist/642hyS9EveDWXVIANUQnMb) | [Time](https://open.spotify.com/album/4oGXPRLj2m6NookhLc5mvB) | 2:57 |
 | 32 | [南迴之子](https://open.spotify.com/track/4hv555pGmf0LpLL6oA5PUs) | [張淦勛 Giyu Tjuljaviya](https://open.spotify.com/artist/6164qyIB1Wgt5q2TeZsNp4) | [雲就要翻過山](https://open.spotify.com/album/7L5MqjfXAMNA65V96WSG8b) | 4:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Shenlong, SV, Orochi
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,653 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,649 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 3 | [Bag](https://open.spotify.com/track/56wZGer3DfhZXC6v30Ya1w) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Cassin](https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Bag](https://open.spotify.com/album/4qvdAVnIVYQ82Gl7l4OpeP) | 3:44 |
 | 4 | [Tomara Que Caia](https://open.spotify.com/track/6OtsS0r3dPbZYr7wL7j9cI) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Por Você...](https://open.spotify.com/album/4OUZfWsgUkkdnz7EgmQhsK) | 2:05 |
 | 5 | [BILLBOARD](https://open.spotify.com/track/2oPvJKyls16ryuvLvtiYwT) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [ACCULBED](https://open.spotify.com/artist/7N1EnAAK0Dy7KMH7ijd36u) | [ALÉM DA FÓRMULA](https://open.spotify.com/album/4rehdg4UVUQGoy9jLhCppp) | 1:31 |
-| 6 | [Mate Ou Morra](https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:17 |
+| 6 | [Mate Ou Morra](https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:17 |
 | 7 | [CRIMINAL SWAG](https://open.spotify.com/track/2JJuNaiE4b9rd87Apg1C2x) | [DJWICKED!](https://open.spotify.com/artist/50KmEokPON4gvRh5wdOjgm), [kake mc](https://open.spotify.com/artist/2pAy6PoFtOPgktNfMJSQOU), [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [Duzeny](https://open.spotify.com/artist/1mzBqEwOvNOVPU9n2flUKg), [TEC0](https://open.spotify.com/artist/3yJiN0RLH70ZFU3Y8F3gtm) | [CRIMINAL SWAG](https://open.spotify.com/album/0FX3qL3OusajNGYhsP3CPB) | 2:07 |
 | 8 | [Esteja seguro \- Remix](https://open.spotify.com/track/2mmUrN1zyhVAJMC6OxZLMl) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [Bradockdan](https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ), [Treezy](https://open.spotify.com/artist/7foCxs3puf9Jq2C91PYAkj) | [Esteja seguro \(Remix\)](https://open.spotify.com/album/3hpyXOMIAvAd4nb3bxePzD) | 2:30 |
 | 9 | [Oi ?](https://open.spotify.com/track/2iK5UeftHvze3RSU5OIJ4E) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [Oi ?](https://open.spotify.com/album/1ILoyX5HnmQliYMz7WETM2) | 2:19 |

@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 994753,
+  "num_followers": 994935,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,26 @@
     {
       "added_at": "2025-04-25 13:38:23",
       "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 257984,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
+    },
+    {
+      "added_at": "2025-04-25 13:38:23",
+      "album": {
         "name": "Last Night (Anyma x Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
-    },
-    {
-      "added_at": "2025-04-25 13:38:23",
-      "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 257984,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
     },
     {
       "added_at": "2025-04-25 13:38:23",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-04-25 13:38:23",
       "album": {
-        "name": "Let Me Come To Life",
-        "url": "https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        }
-      ],
-      "duration_ms": 335874,
-      "name": "Let Me Come To Life",
-      "url": "https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY"
-    },
-    {
-      "added_at": "2025-04-25 13:38:23",
-      "album": {
         "name": "WONDER",
         "url": "https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 159600,
       "name": "WONDER",
       "url": "https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s"
+    },
+    {
+      "added_at": "2025-04-25 13:38:23",
+      "album": {
+        "name": "Let Me Come To Life",
+        "url": "https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        }
+      ],
+      "duration_ms": 335874,
+      "name": "Let Me Come To Life",
+      "url": "https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY"
     },
     {
       "added_at": "2025-04-25 13:38:23",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-04-25 13:38:23",
       "album": {
-        "name": "Powerful Play",
-        "url": "https://open.spotify.com/album/6fKsdmNFixGBfRrUVHZvHE"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 228059,
-      "name": "Powerful Play - Edit",
-      "url": "https://open.spotify.com/track/2zCywkfsZcUqRF7CJ4GiIE"
-    },
-    {
-      "added_at": "2025-04-25 13:38:23",
-      "album": {
         "name": "Timelapse",
         "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 478080,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
+    },
+    {
+      "added_at": "2025-04-25 13:38:23",
+      "album": {
+        "name": "Powerful Play",
+        "url": "https://open.spotify.com/album/6fKsdmNFixGBfRrUVHZvHE"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 228059,
+      "name": "Powerful Play - Edit",
+      "url": "https://open.spotify.com/track/2zCywkfsZcUqRF7CJ4GiIE"
     },
     {
       "added_at": "2025-04-25 13:38:23",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2025-04-25 13:38:23",
       "album": {
-        "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
-        "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
       },
       "artists": [
         {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         },
         {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
         }
       ],
-      "duration_ms": 216106,
-      "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
-      "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
+      "duration_ms": 269752,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
     }
   ],
   "unique_name": "Lowkey Tech",

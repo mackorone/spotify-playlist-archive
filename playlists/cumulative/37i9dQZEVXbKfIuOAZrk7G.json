@@ -29402,7 +29402,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 175271,
       "name": "I Ain't Comin' Back (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
@@ -36016,7 +36016,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157090,
       "name": "Laho II",
       "url": "https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c"
@@ -39148,7 +39148,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -44330,10 +44330,28 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 105995,
       "name": "my twenty first reason </3",
       "url": "https://open.spotify.com/track/4K475XgrOAIwfIbp0Pks2B"
+    },
+    {
+      "album": {
+        "name": "I Live, I Die, I Live Again",
+        "url": "https://open.spotify.com/album/0pSIFVPHDByTEX6LztYz9M"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157979,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/355eig0215HZpTaanTdsY5"
     },
     {
       "album": {
@@ -44348,7 +44366,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157979,
       "name": "My World",
       "url": "https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans"
@@ -46354,7 +46372,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -68070,6 +68088,28 @@
       "duration_ms": 118153,
       "name": "Treat Me Like A Slut",
       "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
+    },
+    {
+      "album": {
+        "name": "Tree On The Hill (Lunch Break Freestyle)",
+        "url": "https://open.spotify.com/album/52xvSVWdjkBlJbctNBiH5q"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100871,
+      "name": "Tree On The Hill (Lunch Break Freestyle)",
+      "url": "https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6"
     },
     {
       "album": {

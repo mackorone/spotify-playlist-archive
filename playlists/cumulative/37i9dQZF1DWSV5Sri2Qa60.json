@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Florence Road",
+  "description": "Where your new favourite bands are discovered. Cover: The New Eves",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 150791,
       "name": "Adam & Steve",
       "url": "https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 231080,
       "name": "All In The Game",
       "url": "https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 218862,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0dPVVnSzDSngf9i2umcLDb"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 217724,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN"
@@ -722,6 +722,42 @@
       "duration_ms": 217496,
       "name": "Crashing Cars",
       "url": "https://open.spotify.com/track/2nXaNugCLSPrAOz52F6MCI"
+    },
+    {
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6lWnmCYE3Sn1NjQpMhRx26"
+      },
+      "artists": [
+        {
+          "name": "TogetherEffect",
+          "url": "https://open.spotify.com/artist/43O9PYwjSqOaAgz8BQxswm"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130657,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/0SC93LwbOalR2WqQ0JUJeI"
+    },
+    {
+      "album": {
+        "name": "Curwen",
+        "url": "https://open.spotify.com/album/3ks2f53mSTSzD0eLeC01mt"
+      },
+      "artists": [
+        {
+          "name": "UNIVERSITY",
+          "url": "https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270093,
+      "name": "Curwen",
+      "url": "https://open.spotify.com/track/0Okysd8JMaWIrXcR1M08he"
     },
     {
       "album": {
@@ -1068,6 +1104,24 @@
     {
       "album": {
         "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189009,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx"
+    },
+    {
+      "album": {
+        "name": "Figure It Out",
         "url": "https://open.spotify.com/album/12ZKL2ZNMtNyqwGBDSLony"
       },
       "artists": [
@@ -1096,7 +1150,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 173140,
       "name": "Flink Pike",
       "url": "https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL"
@@ -1168,7 +1222,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 190549,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2CXhy8jh539ftEi5X49zqB"
@@ -1222,7 +1276,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 136087,
       "name": "Fuck It",
       "url": "https://open.spotify.com/track/2EvTsqvQ1nT7Mp2xgPl1fm"
@@ -1330,7 +1384,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 236772,
       "name": "God Isn't Real",
       "url": "https://open.spotify.com/track/41VkkMHjk3hTHEemUhwePp"
@@ -1420,7 +1474,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 166471,
       "name": "Harry",
       "url": "https://open.spotify.com/track/2VxJAC74aGYL22QGjHJFJu"
@@ -1582,7 +1636,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 211626,
       "name": "I Lied, Amber",
       "url": "https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG"
@@ -1622,6 +1676,24 @@
       "duration_ms": 217960,
       "name": "I Think You Should Know",
       "url": "https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm"
+    },
+    {
+      "album": {
+        "name": "I'm Losing It",
+        "url": "https://open.spotify.com/album/1iO532J1AahkCofCiD4ImL"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186058,
+      "name": "I'm Losing It",
+      "url": "https://open.spotify.com/track/3OKvp0AJfu0BzRP9fIvKGf"
     },
     {
       "album": {
@@ -1906,7 +1978,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 183623,
       "name": "Leeches",
       "url": "https://open.spotify.com/track/1quJhosjIGze4W4bT3b5D3"
@@ -1985,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "MadDog",
+        "url": "https://open.spotify.com/album/2Q6eyFzIAGrfcacgBw3wMC"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242868,
+      "name": "MadDog",
+      "url": "https://open.spotify.com/track/141fl9M2mCLjtVzEKQuCRc"
+    },
+    {
+      "album": {
         "name": "Man Of Ill Repute",
         "url": "https://open.spotify.com/album/5wqrQL1wdxlOrB5Sxuu8Tc"
       },
@@ -2032,7 +2122,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 272589,
       "name": "Masterplan",
       "url": "https://open.spotify.com/track/6mwSxfB6frIf2PuZmSNe1V"
@@ -2511,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "The New Eve / Rivers Run Red",
+        "url": "https://open.spotify.com/album/7gUMLfkzb45lMwN1O5MVSl"
+      },
+      "artists": [
+        {
+          "name": "The New Eves",
+          "url": "https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "Rivers Run Red",
+      "url": "https://open.spotify.com/track/62UhV1TTMWqAKvoQHt8ClT"
+    },
+    {
+      "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/3XvF6gVnLNIWPvImkgZb3G"
       },
@@ -2558,7 +2666,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 242000,
       "name": "See You Around",
       "url": "https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S"
@@ -2742,6 +2850,24 @@
       "duration_ms": 215483,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4"
+    },
+    {
+      "album": {
+        "name": "Spain",
+        "url": "https://open.spotify.com/album/2XCuXPRYHb8O53dojZrBPb"
+      },
+      "artists": [
+        {
+          "name": "Home Counties",
+          "url": "https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220587,
+      "name": "Spain",
+      "url": "https://open.spotify.com/track/7EQ4XAxaCxsLbXpp3yX111"
     },
     {
       "album": {
@@ -3141,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Thorn",
+        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248480,
+      "name": "Thorn",
+      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
+    },
+    {
+      "album": {
         "name": "Tired Boy",
         "url": "https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW"
       },
@@ -3170,7 +3314,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 185840,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG"
@@ -3404,7 +3548,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 110680,
       "name": "whisky",
       "url": "https://open.spotify.com/track/073kMVL2ZeSKH5X6ONdKXh"
@@ -3498,6 +3642,42 @@
       "duration_ms": 195363,
       "name": "Yay! Saturday",
       "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
+    },
+    {
+      "album": {
+        "name": "I'm Not Your Punchbag",
+        "url": "https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "You Used To Be So Sexy",
+      "url": "https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV"
+    },
+    {
+      "album": {
+        "name": "Your Fantasy",
+        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139444,
+      "name": "Your Fantasy",
+      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSV5Sri2Qa60"

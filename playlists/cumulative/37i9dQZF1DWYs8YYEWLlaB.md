@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Ezhel
+> viral, trend ve yükselenler\.  Kapak: Tan Taşçı
 
 157 songs - 8 hr 16 min
 

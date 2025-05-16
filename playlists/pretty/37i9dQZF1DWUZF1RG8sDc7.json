@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 151110,
+  "num_followers": 151164,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Mis Nuevos Cantares",
-        "url": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
-      },
-      "artists": [
-        {
-          "name": "Erick Escobar",
-          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
-        },
-        {
-          "name": "Nayo Quintero",
-          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
-        }
-      ],
-      "duration_ms": 235235,
-      "name": "No Pude Quitarte las Espinas",
-      "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Vivo Pensando En Ti (feat. Maluma)",
         "url": "https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 232306,
       "name": "Vivo Pensando En Ti (feat. Maluma)",
       "url": "https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Mis Nuevos Cantares",
+        "url": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
+      },
+      "artists": [
+        {
+          "name": "Erick Escobar",
+          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+        },
+        {
+          "name": "Nayo Quintero",
+          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+        }
+      ],
+      "duration_ms": 235235,
+      "name": "No Pude Quitarte las Espinas",
+      "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Manuel Juli\u00e1n",
-          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "Tan Natural",
-      "url": "https://open.spotify.com/track/0CNuKlYBAx8xa28X4J6Iy6"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Titulo De Amor",
         "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 257373,
       "name": "Mi Primera Cana",
       "url": "https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Manuel Juli\u00e1n",
+          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "Tan Natural",
+      "url": "https://open.spotify.com/track/0CNuKlYBAx8xa28X4J6Iy6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Por Buen Camino",
-        "url": "https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG"
+        "name": "El Caballero Del Vallenato",
+        "url": "https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu"
       },
       "artists": [
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
         }
       ],
-      "duration_ms": 306782,
-      "name": "No He Podido Ser Feliz",
-      "url": "https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ"
+      "duration_ms": 247813,
+      "name": "Traga'o De Ti",
+      "url": "https://open.spotify.com/track/3xOKZR7rwQYEx7l5Mc9jQ6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -963,6 +967,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Por Buen Camino",
+        "url": "https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 306782,
+      "name": "No He Podido Ser Feliz",
+      "url": "https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "La Combinaci\u00f3n Vallenata",
         "url": "https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 272533,
       "name": "A Pesar de Todo",
       "url": "https://open.spotify.com/track/6wBJ7gF95WpO8u2QEbyJB6"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "El Caballero Del Vallenato",
-        "url": "https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu"
-      },
-      "artists": [
-        {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
-        }
-      ],
-      "duration_ms": 247813,
-      "name": "Traga'o De Ti",
-      "url": "https://open.spotify.com/track/3xOKZR7rwQYEx7l5Mc9jQ6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 275880,
-      "name": "Los Caminos De La Vida",
-      "url": "https://open.spotify.com/track/6mRaLhDSKc64YW1sJystWN"
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
       "added_at": "2024-03-28 01:45:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 303,924 likes - 169 songs - 9 hr 41 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 303,905 likes - 169 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 168 | [Suite Bergamasque, L\. 75: III\. "Clair de lune"](https://open.spotify.com/track/2uaRYOzkMOWjewLlN8aZ3O) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 5:14 |
 | 169 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 4:32 |
 
-Snapshot ID: `AAAFQmndE7CSMrZ15j7wNYCot06MXBC5`
+Snapshot ID: `AAAFQ7MQOzutQzyz8f+NbPRuwguFFsh6`

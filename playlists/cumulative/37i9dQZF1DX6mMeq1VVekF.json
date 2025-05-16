@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: Jorja Smith",
+  "description": "No tags, no labels - just free form. Cover: DAMEDAME*",
   "name": "Free Form",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 202371,
       "name": "1800",
       "url": "https://open.spotify.com/track/5BAI4QVp8p0yh0SiOEeVcU"
@@ -5104,7 +5104,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 207339,
       "name": "Man",
       "url": "https://open.spotify.com/track/6CTgTVfaklG9mu9MmrPBzg"
@@ -5682,6 +5682,28 @@
       "duration_ms": 141333,
       "name": "Money Showers",
       "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
+    },
+    {
+      "album": {
+        "name": "More Light (feat. Princess Nokia)",
+        "url": "https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8"
+      },
+      "artists": [
+        {
+          "name": "Divine Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        },
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212559,
+      "name": "More Light (feat. Princess Nokia)",
+      "url": "https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z"
     },
     {
       "album": {
@@ -7010,6 +7032,24 @@
       "duration_ms": 158681,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy"
+    },
+    {
+      "album": {
+        "name": "PROMISE",
+        "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223738,
+      "name": "PROMISE",
+      "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
     },
     {
       "album": {

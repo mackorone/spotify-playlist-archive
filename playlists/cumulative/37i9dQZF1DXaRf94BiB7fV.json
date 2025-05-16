@@ -11513,6 +11513,28 @@
     },
     {
       "album": {
+        "name": "Iraada (feat. saloni)",
+        "url": "https://open.spotify.com/album/6BWYQH8fb6VAJf7gBosuJJ"
+      },
+      "artists": [
+        {
+          "name": "dhoop",
+          "url": "https://open.spotify.com/artist/1Rr5Z5yCjJofntpwrIO87v"
+        },
+        {
+          "name": "saloni",
+          "url": "https://open.spotify.com/artist/0embJOgwzlkpiG1dlBLkkC"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Iraada (feat. saloni)",
+      "url": "https://open.spotify.com/track/1gixBbIRmSv7AB4YyQsYME"
+    },
+    {
+      "album": {
         "name": "isaidimfine.",
         "url": "https://open.spotify.com/album/1DgtdTn8MXaVgENRJPsb3R"
       },
@@ -28250,7 +28272,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 194871,
       "name": "Tiptoes",
       "url": "https://open.spotify.com/track/2pTE5zinlVElLlCtjmxdhj"

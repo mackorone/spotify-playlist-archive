@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Caskets
 
-1,217 songs - 3 day 2 hr 47 min
+1,218 songs - 3 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 | 2022-06-17 | 2022-11-21 |
 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/2mTi7e03FygOF0bds32848) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn) | 3:32 | 2023-02-17 | 2023-04-01 |
 | [Heritage](https://open.spotify.com/track/3xe8iwcUdR0joiuHaG4fap) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Heritage](https://open.spotify.com/album/1KPoWP9JGpfSR6a14L7VML) | 3:05 | 2022-04-15 | 2022-05-28 |
+| [HIDE FROM THE LIGHT](https://open.spotify.com/track/2dFuqBk3nECBZMgq8a7vF7) | [DIESECT](https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB) | [HIDE FROM THE LIGHT](https://open.spotify.com/album/3VNtgL7gm3PC5nYbDy58yI) | 2:57 | 2025-05-09 |  |
 | [Hideous](https://open.spotify.com/track/5tqhz6V5vVrEitYkTGqAGa) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Hideous](https://open.spotify.com/album/4qftklc0DH2DWxanvoXSNG) | 4:14 | 2022-07-13 | 2022-07-23 |
 | [Hip To Be Scared](https://open.spotify.com/track/4lEbtjtLpF0YxRCFWeswAG) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Shower Scene Playlist](https://open.spotify.com/album/273LyHQV9St48MzqO73UkX) | 3:25 | 2022-10-14 | 2023-04-01 |
 | [Hivemind](https://open.spotify.com/track/7lRciDLcZY0MKaMyakkvu0) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Hivemind](https://open.spotify.com/album/22ZNSrE7hmUqmoXtR4uhIl) | 4:07 | 2023-02-17 | 2024-03-02 |
@@ -1114,7 +1115,7 @@
 | [Transcendent](https://open.spotify.com/track/5oWgLIrSTgqqNRh1AhsiQ1) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Transcendent](https://open.spotify.com/album/3YMpCrGOIp8ZXy0ft4piEA) | 3:37 | 2022-03-11 | 2022-05-14 |
 | [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 | 2022-06-17 | 2023-02-11 |
 | [Trapped](https://open.spotify.com/track/4XbVasB4Gwwgvdua5fmI8l) | [The Amsterdam Red Light District](https://open.spotify.com/artist/1ptorm1HpGuBCrIE5BLijx) | [Trapped](https://open.spotify.com/album/5ACncvxgoQCS5YJpCtuDj1) | 3:20 | 2022-04-08 | 2022-06-24 |
-| [Trembling Level](https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [Trembling Level](https://open.spotify.com/album/1JNmDMl6Ymo8sCxmtJWqg4) | 2:37 | 2025-01-31 |  |
+| [Trembling Level](https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [Trembling Level](https://open.spotify.com/album/1JNmDMl6Ymo8sCxmtJWqg4) | 2:37 | 2025-01-31 | 2025-05-16 |
 | [Trenches](https://open.spotify.com/track/6R2iQXWS7CfK2TPjtlfI0c) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Trenches](https://open.spotify.com/album/0K2gvxHs9aFSRgcdFKlamt) | 3:16 | 2024-11-08 |  |
 | [Truly Deprived](https://open.spotify.com/track/2BsTfpWMvFFsCV9RHfdBPJ) | [Amoura](https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh), [Chad Ruhlig](https://open.spotify.com/artist/3nCpQY8lOa5g72k9tA8tUb) | [Truly Deprived](https://open.spotify.com/album/0qLEtJ5xuUazymrEcHCfHL) | 3:34 | 2021-12-17 | 2022-02-18 |
 | [Trying to Survive](https://open.spotify.com/track/0h5uhIvjec46Ggg8WOJCYQ) | [Alleviate](https://open.spotify.com/artist/5dfB8okcJRsAoU0zlylZrm) | [Trying to Survive](https://open.spotify.com/album/6Qzmtxrs3z6qrNBP6pBwZ2) | 3:13 | 2024-02-09 | 2024-08-26 |

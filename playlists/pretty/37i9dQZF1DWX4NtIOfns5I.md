@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Jack Van Cleaf's album is here 🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,430 likes - 120 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,428 likes - 120 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

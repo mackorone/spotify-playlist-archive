@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Moses Sumney, Hayley Williams",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Tom Misch",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 339560,
       "name": "All the Way Down (unplugged)",
       "url": "https://open.spotify.com/track/6fGNH1hGQdo1ZH2MaKaVIc"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 174023,
       "name": "Chaga",
       "url": "https://open.spotify.com/track/549vq4BezDmbkBhqJdu5PW"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 199381,
       "name": "Full Speed",
       "url": "https://open.spotify.com/track/0ZcN9Vx5j4exYEyAlThwKa"
@@ -2892,7 +2892,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 254395,
       "name": "KeepHer (feat. Thundercat)",
       "url": "https://open.spotify.com/track/0idhCXzizPkiwfUnhM28ld"
@@ -3319,6 +3319,36 @@
     },
     {
       "album": {
+        "name": "Gen",
+        "url": "https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Mad Hope (feat. Louis Cole, Sam Gendel, Sam Wilkes)",
+      "url": "https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1"
+    },
+    {
+      "album": {
         "name": "Made In New York",
         "url": "https://open.spotify.com/album/6j23V92RmuD9h6SbZeXULT"
       },
@@ -3682,6 +3712,24 @@
       "duration_ms": 278690,
       "name": "Never In My Short Sweet Life - Makaya McCraven Remix",
       "url": "https://open.spotify.com/track/0tYG6RjHYC3nrbyPtbhnQs"
+    },
+    {
+      "album": {
+        "name": "New Frontiers",
+        "url": "https://open.spotify.com/album/23SF41OwlqlIRvoy9GCBXq"
+      },
+      "artists": [
+        {
+          "name": "Matti Klein",
+          "url": "https://open.spotify.com/artist/3Qjg6tAcCchhbDqSbcatr3"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248646,
+      "name": "New Frontiers",
+      "url": "https://open.spotify.com/track/7yyY7WqlhVyGRnHsFEnTbc"
     },
     {
       "album": {
@@ -4326,6 +4374,24 @@
       "duration_ms": 250769,
       "name": "RASTA PASTA (ft. Masego)",
       "url": "https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m"
+    },
+    {
+      "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212483,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
     },
     {
       "album": {
@@ -5319,6 +5385,28 @@
     },
     {
       "album": {
+        "name": "1978: Revenge of The Dragon",
+        "url": "https://open.spotify.com/album/485R0lCUZRApYWXnH2PAeh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        },
+        {
+          "name": "Taali",
+          "url": "https://open.spotify.com/artist/5SkhihNXZNPmooUcbSVZho"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "Tokyo Daydream",
+      "url": "https://open.spotify.com/track/6WLnZc1eXIoGy6VOzkEV3l"
+    },
+    {
+      "album": {
         "name": "Tokyo Lift (5am)",
         "url": "https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE"
       },
@@ -5712,7 +5800,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 337065,
       "name": "What We Are and What We Are Meant to Be",
       "url": "https://open.spotify.com/track/6vWyxdcmw1wpXiqU0CtSJc"
@@ -6052,6 +6140,28 @@
       "duration_ms": 201084,
       "name": "\u30d0\u30fc\u30c1\u30e3\u30eb\u56e3\u5730 (feat. \u6709\u5742\u670b\u6075)",
       "url": "https://open.spotify.com/track/0Z17pYcnG59l4Rpd4a8M9O"
+    },
+    {
+      "album": {
+        "name": "Reiya The P.A.V.E.",
+        "url": "https://open.spotify.com/album/28Xjlj4ghnuLTI5Co2bStf"
+      },
+      "artists": [
+        {
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+        },
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "\u5149\u306e\u679c\u5b9f",
+      "url": "https://open.spotify.com/track/0PMLzMjMlNTHQqrJ1cAJE1"
     },
     {
       "album": {

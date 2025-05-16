@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157617,
       "name": "Mad Max",
       "url": "https://open.spotify.com/track/3WOK3bugvtrDkh04XKUPEq"
@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 129500,
       "name": "On & On",
       "url": "https://open.spotify.com/track/4JWzHP8Loi9M6ZSOoIkkOA"
@@ -3882,6 +3882,24 @@
       "duration_ms": 186666,
       "name": "Reason",
       "url": "https://open.spotify.com/track/0ppTYxMWmNN8SuVoRZMbKB"
+    },
+    {
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/4vIUsFZLhoOh3yMdXfOYtl"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/2BHpGigZGOeJGLGbBrjWUk"
     },
     {
       "album": {
@@ -4814,6 +4832,28 @@
       "duration_ms": 262500,
       "name": "Tina",
       "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
+    },
+    {
+      "album": {
+        "name": "Turn Off The Lights",
+        "url": "https://open.spotify.com/album/4E9LtiGWwa9RZ1WEc5CfKZ"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Galucci",
+          "url": "https://open.spotify.com/artist/4HNXhh3w9P6zBnumvYzvjX"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169677,
+      "name": "Turn Off The Lights",
+      "url": "https://open.spotify.com/track/3AL8qaMxMNmH3yH9UO6Mvq"
     },
     {
       "album": {

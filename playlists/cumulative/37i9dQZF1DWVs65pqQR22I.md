@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-193 songs - 8 hr 33 min
+194 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Black Noise Dreams](https://open.spotify.com/track/1TJf1NqEz3KhyOwXWyWQXb) | [Crafting Audio](https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9) | [Deep Sleep with Black Noise](https://open.spotify.com/album/3AHDCQsMfbtu6Yed2NSoLA) | 2:33 | 2023-03-10 |  |
 | [Black Noise Echoes](https://open.spotify.com/track/7ns9LIhwLORwcqlp1CmkrF) | [aquamcaelo](https://open.spotify.com/artist/3gkO4ZXcG2LyYFRuUn01eN) | [Black Noise Illusion](https://open.spotify.com/album/1KdrVDgj7zg1FQdZhN7ecT) | 2:41 | 2023-03-31 | 2025-04-29 |
 | [Black Noise Flow](https://open.spotify.com/track/69giPBrDWEcyuTPVyPBG9m) | [Dinkotrons](https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B) | [Black Noise Flow](https://open.spotify.com/album/4aNzsxsepFfomWsCbpylAO) | 3:02 | 2023-03-31 |  |
-| [Black Noise FLuff](https://open.spotify.com/track/2DYugakipXLiLjIKNIo15K) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Black Noise FLuff](https://open.spotify.com/album/4RJIOa4oQTbjjKQU3u4fbr) | 3:14 | 2023-03-31 |  |
+| [Black Noise FLuff](https://open.spotify.com/track/2DYugakipXLiLjIKNIo15K) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Black Noise FLuff](https://open.spotify.com/album/4RJIOa4oQTbjjKQU3u4fbr) | 3:14 | 2023-03-31 | 2025-05-16 |
 | [Black Noise Focus](https://open.spotify.com/track/2NH1KZNvtssanbH5LSyd2d) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Black Noise Focus](https://open.spotify.com/album/5sP7LLLaBgw7pzMkWSfroY) | 4:30 | 2024-01-10 | 2025-02-27 |
 | [Black Noise for a Good Night's Sleep](https://open.spotify.com/track/0TO0pKnZmxIQr9cuvbtOx0) | [Evomin](https://open.spotify.com/artist/377XEfaskiPevvTMYzJvUb) | [Black Noise Therapy](https://open.spotify.com/album/1x2hCe8u45zaDDTcMMJlH4) | 2:48 | 2023-03-10 | 2023-07-06 |
 | [Black Noise for Inner Peace](https://open.spotify.com/track/1Cz9wBvWLeop8IWZuJTAnO) | [No Shapes Island](https://open.spotify.com/artist/2yllrSykto1kVMIOhbwed4) | [Black Noise for Inner Peace](https://open.spotify.com/album/6xGyGZ5YoMEByVmdVge96G) | 1:59 | 2023-03-23 | 2023-06-20 |
@@ -91,6 +91,7 @@
 | [Dark Black Noise](https://open.spotify.com/track/4N5LpmosYeCKkhICcNSYYV) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Black Noise For Focus](https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg) | 2:16 | 2023-04-21 | 2023-08-12 |
 | [Dark Black Noise](https://open.spotify.com/track/6fKY0nJXLdIvYGQyumBQlV) | [Prompt Unlax](https://open.spotify.com/artist/50GmiI9vOP54gPjuaHe82U) | [Smoothed Black Noise](https://open.spotify.com/album/0nAxr67oWTfgKVhIzTxpNM) | 2:26 | 2023-04-21 |  |
 | [Dark Hush](https://open.spotify.com/track/1LtorEiDsyFpvmvnAqhsOo) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Dark Hush](https://open.spotify.com/album/675UQ53G2AYPsYylfbv6hF) | 4:50 | 2024-02-13 |  |
+| [Dark Mode Study](https://open.spotify.com/track/4ggFi22kXL6XHmEzMr4of0) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Dark Mode Study](https://open.spotify.com/album/61KqbvZXyS86doXaR5G4vH) | 4:56 | 2025-04-09 |  |
 | [Dark Night Black Noise](https://open.spotify.com/track/5nySIYtokupjcfe5BMv9zu) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Dark Night Noise](https://open.spotify.com/album/5E16FHldsoKBjuwjQjFXST) | 3:08 | 2023-03-31 |  |
 | [Dark Tranquility \- Black Noise](https://open.spotify.com/track/1D2fTdEiwVdBQJrNMM9sgG) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Dark Tranquility \(Black Noise\)](https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe) | 2:56 | 2023-06-01 |  |
 | [Deep Black Noise](https://open.spotify.com/track/7CrjtaTHQCDKRARus0wmqW) | [Black Noise Therapy](https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM), [Black Noise Sleep](https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4) | [Black Noise](https://open.spotify.com/album/7GwCED5n0diknVn0wcehU6) | 1:30 | 2023-03-10 | 2023-04-01 |

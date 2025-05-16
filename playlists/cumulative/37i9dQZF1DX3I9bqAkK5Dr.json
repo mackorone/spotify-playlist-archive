@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Chirugaali",
+        "url": "https://open.spotify.com/album/0gHQ5qBTjXV4CLQIeokbxk"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Gajanan",
+          "url": "https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "Chirugaali",
+      "url": "https://open.spotify.com/track/47nsemqat0mUD3vmCoXi4I"
+    },
+    {
+      "album": {
         "name": "Choopultho",
         "url": "https://open.spotify.com/album/55Ik0PjSYOhVnb7yfyV1Rk"
       },
@@ -3011,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Maayavi",
+        "url": "https://open.spotify.com/album/12XYSmwliGgwQWnjN2OqlJ"
+      },
+      "artists": [
+        {
+          "name": "Sruthi Ranjani",
+          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151282,
+      "name": "Maayavi",
+      "url": "https://open.spotify.com/track/2tnpCaqgdBxJ9N4ucsPWUC"
+    },
+    {
+      "album": {
         "name": "Madana Mohana",
         "url": "https://open.spotify.com/album/4iceg1DMLNXG4vIr8H9Tjq"
       },
@@ -3504,7 +3540,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 240966,
       "name": "My Dear Manohari",
       "url": "https://open.spotify.com/track/7Dh6ndqN64dZFRYGuBvo82"
@@ -5518,7 +5554,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 249642,
       "name": "Premalekha",
       "url": "https://open.spotify.com/track/5Vwh2Q1i7rgCOPlINMI4Ju"

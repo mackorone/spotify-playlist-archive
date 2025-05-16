@@ -2879,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/702JXttIx9HjCWwXLVblqa"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/0b4KbsFu42vGM2rRJSTg1x"
+    },
+    {
+      "album": {
         "name": "Christmas Last Awhile (feat. paulkyte)",
         "url": "https://open.spotify.com/album/2HXPiOMyatUG4nQrGVJKlw"
       },
@@ -4294,7 +4312,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 179200,
       "name": "Do What You Do",
       "url": "https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb"
@@ -12105,6 +12123,24 @@
     },
     {
       "album": {
+        "name": "Reuben",
+        "url": "https://open.spotify.com/album/30bpwihRVMaxSS6PEbplDe"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153831,
+      "name": "Reuben",
+      "url": "https://open.spotify.com/track/3Y51ddb8xmMxDKCWHZa13h"
+    },
+    {
+      "album": {
         "name": "Riddle",
         "url": "https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv"
       },
@@ -12466,7 +12502,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125329,
+  "num_followers": 125325,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUFktlsTTV03/MPJS44Kyun0Acru2p",
+  "snapshot_id": "AAAUF/xzV2tnWPrCdGZthVU+FSgtoc7v",
   "tracks": [
+    {
+      "added_at": "2025-05-15 15:08:00",
+      "album": {
+        "name": "REBIRTH",
+        "url": "https://open.spotify.com/album/3KnEpXKw5PquEpKvf4C3uy"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/2H91UEIDaVFl9Lpah4OeI7"
+    },
     {
       "added_at": "2025-05-14 14:52:25",
       "album": {

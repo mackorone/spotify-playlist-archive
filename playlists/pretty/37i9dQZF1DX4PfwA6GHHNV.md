@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,635 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,652 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 37 | [Ciumenta](https://open.spotify.com/track/35fWcHV5Q9KQtaPN7n9Djl) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Ciumenta](https://open.spotify.com/album/3gifZCkuuSjonKk7YVcR3b) | 2:30 |
 | 38 | [Águas Passadas](https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Águas Passadas](https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc) | 2:38 |
 | 39 | [Saia Rodada](https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Saia Rodada](https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4) | 4:09 |
-| 40 | [Sossega \(Nada mal\)](https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d) | [Thalia Abdon](https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Peninha'](https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7) | [Sossega \(Nada Mal\)](https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt) | 3:21 |
-| 41 | [Doce](https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Doce](https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH) | 2:35 |
-| 42 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 |
+| 40 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 |
+| 41 | [Sossega \(Nada mal\)](https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d) | [Thalia Abdon](https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Peninha'](https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7) | [Sossega \(Nada Mal\)](https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt) | 3:21 |
+| 42 | [Doce](https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Doce](https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH) | 2:35 |
 | 43 | [Lembra?](https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Lembra?](https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU) | 2:07 |
 | 44 | [Pu'ce](https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Pu'ce](https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C) | 2:45 |
 | 45 | [Aí é Bom Demais](https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0) | [Garius](https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Deagaene](https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq) | [Aí é Bom Demais](https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu) | 3:17 |

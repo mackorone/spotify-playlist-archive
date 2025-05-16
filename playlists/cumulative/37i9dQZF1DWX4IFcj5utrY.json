@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD?si=J3ZBNXJ1SXSw1r2T1HgEvA\">Dlala Thukzin</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=rRXQytBdTH2RklWbQB8Q1w\">Sio</a>, <a href=\"https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6?si=ZVBoVrEhSlqX-Yd-n7OMFg\">Tesfa Williams</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -2367,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP"
+    },
+    {
+      "album": {
         "name": "Awung'Fanele",
         "url": "https://open.spotify.com/album/1OvjGlC9fJoo6zoraXjxTP"
       },
@@ -3058,6 +3080,32 @@
       "duration_ms": 322316,
       "name": "BEAUTIFUL FANTASY",
       "url": "https://open.spotify.com/track/4q3jTnVXM5yvT5m9fhBON3"
+    },
+    {
+      "album": {
+        "name": "Beautiful People (THEMBA Remix)",
+        "url": "https://open.spotify.com/album/1Ts91jbAisF6dtLd74L7zU"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Themba",
+          "url": "https://open.spotify.com/artist/3S4BtEcxyyMFyJpDy5GfV3"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Beautiful People - THEMBA Remix",
+      "url": "https://open.spotify.com/track/6UNHnSIMCbHSEy70Ct0tQN"
     },
     {
       "album": {
@@ -7667,6 +7715,24 @@
     },
     {
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/1nGfBYmfsCc9frvRAkEd9p"
+      },
+      "artists": [
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226611,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/74RcR4rMU484Z4P0lTYoZD"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/5oNTC4CKCfUmMgl8pCcJR7"
       },
@@ -7962,6 +8028,24 @@
       "duration_ms": 147401,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
+    },
+    {
+      "album": {
+        "name": "Fuck My Computer",
+        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190762,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
     },
     {
       "album": {
@@ -8618,7 +8702,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 193267,
       "name": "grace",
       "url": "https://open.spotify.com/track/0mjF3juKoF0dxheaSyGjmA"
@@ -9962,7 +10046,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 208780,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/2b65InUDd78nPS9fbuElA0"
@@ -10760,7 +10844,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 487000,
       "name": "Impumelelo",
       "url": "https://open.spotify.com/track/4Pj90rucekz58MVskPdXWM"
@@ -10782,6 +10866,28 @@
       "duration_ms": 439943,
       "name": "In and Out",
       "url": "https://open.spotify.com/track/4S7WZQRkSDWkGSRQvh3kXn"
+    },
+    {
+      "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214647,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
     },
     {
       "album": {
@@ -11636,7 +11742,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 316446,
       "name": "Ismokolo",
       "url": "https://open.spotify.com/track/0BaVjIwoVL951oBOkgMyCp"
@@ -11910,6 +12016,28 @@
       "duration_ms": 372005,
       "name": "Jacaranda",
       "url": "https://open.spotify.com/track/5gxbSGshbeAUqLzSsxUKFA"
+    },
+    {
+      "album": {
+        "name": "Jackie Brown",
+        "url": "https://open.spotify.com/album/0sSVHFZ6Kecftt6l4ahwIj"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "44coles",
+          "url": "https://open.spotify.com/artist/7vYH7d22N9KrhqGctm54Hm"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228145,
+      "name": "Jackie Brown",
+      "url": "https://open.spotify.com/track/0PnHJQuKjngshNvRCqQQ14"
     },
     {
       "album": {
@@ -12678,7 +12806,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 255754,
       "name": "King Steps (DESIREE Remix)",
       "url": "https://open.spotify.com/track/0DOYGfGpp5wD4qJ7akSrcx"
@@ -13295,6 +13423,32 @@
     },
     {
       "album": {
+        "name": "Leaving You",
+        "url": "https://open.spotify.com/album/1wKWIqPiWhzOhHE45pOjoJ"
+      },
+      "artists": [
+        {
+          "name": "Conde",
+          "url": "https://open.spotify.com/artist/3nXmzBwc8K7YNhPJ0tUDbu"
+        },
+        {
+          "name": "GUAPO (AO)",
+          "url": "https://open.spotify.com/artist/3adV86NBSzuLeQ4me5eIJe"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490953,
+      "name": "Leaving You",
+      "url": "https://open.spotify.com/track/6yhGVsMoHkma8WWN3afxLE"
+    },
+    {
+      "album": {
         "name": "Lemon Faces",
         "url": "https://open.spotify.com/album/1M5g82zqhMf6dyPlXK4uTR"
       },
@@ -13554,6 +13708,28 @@
       "duration_ms": 365896,
       "name": "Let's Pray",
       "url": "https://open.spotify.com/track/4KdcZBeA1z24Y3iDs39fvg"
+    },
+    {
+      "album": {
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "album": {
@@ -13993,6 +14169,36 @@
     },
     {
       "album": {
+        "name": "Loot (Masters At Work Remixes)",
+        "url": "https://open.spotify.com/album/5kJNZgQLCEDM9AuGzU67MZ"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        },
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515500,
+      "name": "Loot - Masters At Work Remix",
+      "url": "https://open.spotify.com/track/44eB0cN4jsyCXToxNjH7MC"
+    },
+    {
+      "album": {
         "name": "Los Dos",
         "url": "https://open.spotify.com/album/1Ldq4SBeOmEGt9UxcR4Sij"
       },
@@ -14082,7 +14288,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 473500,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/6Rvv07VtrQK4ETd28tf5qn"
@@ -14878,7 +15084,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 127016,
       "name": "Mas Que Nada",
       "url": "https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh"
@@ -15774,7 +15980,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 147844,
       "name": "Morenita - Marco Generani Remix",
       "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"
@@ -18137,6 +18343,32 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5NIsbRVw7tEOYgamDo4QYV"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        },
+        {
+          "name": "Tesfa Williams",
+          "url": "https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6"
+        },
+        {
+          "name": "T.Williams",
+          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/1PiLGoIdjH3qKNXphnxuVc"
+    },
+    {
+      "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/64xiKVxVjVC4snJQJD1R8O"
       },
@@ -20474,7 +20706,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 208562,
       "name": "Sesh",
       "url": "https://open.spotify.com/track/0WTo0BMrGPJJqWGFtJc8pS"
@@ -20662,6 +20894,36 @@
       "duration_ms": 142080,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3y8SX859F6mDaEYrhJZZgH"
+    },
+    {
+      "album": {
+        "name": "Shake It To The Max (FLY) (Major Lazer Remix)",
+        "url": "https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Silent Addy",
+          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170074,
+      "name": "Shake It To The Max (FLY) - Major Lazer Remix",
+      "url": "https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq"
     },
     {
       "album": {
@@ -21910,7 +22172,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 138787,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/5GZyTkTSAAzcbSnwcEcwFD"
@@ -23040,7 +23302,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 379882,
       "name": "Thanda Wena (feat. Sanele Guduza)",
       "url": "https://open.spotify.com/track/2NmJ1Lbvi1brYFYeOTvvhF"
@@ -23136,7 +23398,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 320222,
       "name": "Thatha",
       "url": "https://open.spotify.com/track/3rdwkc7ztPAqZvoOcPxCei"
@@ -23752,6 +24014,24 @@
       "duration_ms": 424500,
       "name": "The Warrior's Prayer",
       "url": "https://open.spotify.com/track/09auDbVAaLsdgVEG8hytyB"
+    },
+    {
+      "album": {
+        "name": "The Way I Love You",
+        "url": "https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176692,
+      "name": "The Way I Love You - Radio Edit",
+      "url": "https://open.spotify.com/track/2cKmwfc5exr9VQW6xAStfG"
     },
     {
       "album": {
@@ -25297,6 +25577,28 @@
     },
     {
       "album": {
+        "name": "Unidos",
+        "url": "https://open.spotify.com/album/2dJgxHSvlhIM3bxxQozioO"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317962,
+      "name": "Unidos",
+      "url": "https://open.spotify.com/track/053G1LzgAp6h89rrotgsn0"
+    },
+    {
+      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4"
       },
@@ -25348,6 +25650,28 @@
       "duration_ms": 415625,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/3y2cK3sShPovH03aFCArgZ"
+    },
+    {
+      "album": {
+        "name": "Until The Lights Go Out",
+        "url": "https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "CARMA",
+          "url": "https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191359,
+      "name": "Until The Lights Go Out",
+      "url": "https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj"
     },
     {
       "album": {
@@ -27822,6 +28146,28 @@
       "duration_ms": 226259,
       "name": "Zombie (THEMBA's Herd Mix)",
       "url": "https://open.spotify.com/track/5Svn68YqlIFxTwOnRXgw6E"
+    },
+    {
+      "album": {
+        "name": "Zombili",
+        "url": "https://open.spotify.com/album/5hbKuopOIdIBNv8XqBwVr7"
+      },
+      "artists": [
+        {
+          "name": "Sohno",
+          "url": "https://open.spotify.com/artist/16gx3wfHLBqAFtI4NjtiZP"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Zombili",
+      "url": "https://open.spotify.com/track/7zRvuAlRuSsKGmXVTzwquS"
     },
     {
       "album": {

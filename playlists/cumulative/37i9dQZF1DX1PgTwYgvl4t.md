@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=HmXKFx0fTomufwMWvb1fZg>Lawrence Oyor</a>
 
-193 songs - 22 hr 54 min
+194 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All the Glory](https://open.spotify.com/track/1IKW8otsHgan6kLcd8I2he) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [The Spirit of Light](https://open.spotify.com/album/1grxa0bu0S0u98pDXNnFSg) | 5:27 | 2024-05-09 |  |
 | [All to You](https://open.spotify.com/track/32naTG3cDf7G72CB7CgCHC) | [Fredrock](https://open.spotify.com/artist/7lGQM4ChTijSo7u4dKP5Jy) | [All to You](https://open.spotify.com/album/3sEcky04bBERIf8So7cqKV) | 3:48 | 2024-06-14 | 2024-08-16 |
 | [Alpha And Omega \(feat\. Labisi\)](https://open.spotify.com/track/2Jnd6Dh738gaUcRzSAbzNu) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Lifted](https://open.spotify.com/album/4hB1B4x6hL6c9cwGA54LJe) | 3:22 | 2024-08-30 |  |
-| [Ancient Of Days](https://open.spotify.com/track/3ctUHoWUVro9rg6O2NJL4b) | [Blessing Oghie](https://open.spotify.com/artist/3cjdK2MpW3OJD8ywQD67Tn) | [Ancient Of Days](https://open.spotify.com/album/1z3ORQmy11HXglZnVXLLqv) | 2:20 | 2025-01-31 |  |
+| [Ancient Of Days](https://open.spotify.com/track/3ctUHoWUVro9rg6O2NJL4b) | [Blessing Oghie](https://open.spotify.com/artist/3cjdK2MpW3OJD8ywQD67Tn) | [Ancient Of Days](https://open.spotify.com/album/1z3ORQmy11HXglZnVXLLqv) | 2:20 | 2025-01-31 | 2025-05-16 |
 | [Anyi N'Aja Gi Mma](https://open.spotify.com/track/35aI26xlAZtoO9Eajcnu5k) | [Prosper King](https://open.spotify.com/artist/60JSlzTzBBsoRxuDrI9x3A) | [Anyi N'Aja Gi Mma](https://open.spotify.com/album/1oeU1Hvzr40kM1SQbdpfwf) | 2:10 | 2024-12-20 | 2025-02-21 |
 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 |  |
 | [Arise](https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Glory](https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck) | 4:57 | 2025-02-21 |  |
@@ -199,6 +199,7 @@
 | [You Are Yahweh](https://open.spotify.com/track/5SNw8bfADobJB1peaEUWcU) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You Are Yahweh](https://open.spotify.com/album/6qLlLddtlRW1Q3Kcaf6E22) | 4:39 | 2024-05-09 |  |
 | [You Deserve My Praise](https://open.spotify.com/track/3Rm33gGse4LjfL25GivWhP) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [You Deserve My Praise](https://open.spotify.com/album/1Q1Nu1lFoMo1iaF5IVqgFg) | 11:50 | 2025-04-04 |  |
 | [You found me \- Live](https://open.spotify.com/track/45JPGqqlfGH0WnGNfx6o1a) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Winifred Afimoni](https://open.spotify.com/artist/00Poc6DBc5Gpu8m8lJhsZ5), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW), [Rejoice Eweama](https://open.spotify.com/artist/7rosDzthN2cvfKH3O9Hokg), [Victoria Israel](https://open.spotify.com/artist/5LcTR3uqIuwM3RKAs7mEcA), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [You found me \(Live\)](https://open.spotify.com/album/0aPgkRpWiYigQo79LPgwZk) | 7:10 | 2024-07-26 | 2024-11-29 |
+| [Your Love \(Live\)](https://open.spotify.com/track/6BSbPCb1xcQYrXUfU0B1TZ) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Your Love \(Live\)](https://open.spotify.com/album/2qYrPBUl76C2YD68JkrTfJ) | 6:36 | 2025-05-16 |  |
 | [ÀÁNU RE \- Live](https://open.spotify.com/track/7cis87CPYVitN0xfV8XCum) | [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [ÀÁNU RE \(Live\)](https://open.spotify.com/album/58f0lm4ufYoihz27JA9Rrv) | 6:43 | 2024-05-17 | 2024-06-14 |
 | [È Hlu \- Acoustic](https://open.spotify.com/track/1GbmALs4KkyLpTkz5WrTuS) | [Outgun Onkar](https://open.spotify.com/artist/4prG7V9Q373dQcu1sfyplD), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj), [Agbutun](https://open.spotify.com/artist/1UGifmSq7UywdU3TyztEUR) | [È Hlu \- Acoustic](https://open.spotify.com/album/5LcOW48IwfAOhNi5eHDqJS) | 3:25 | 2025-01-17 | 2025-03-28 |
 

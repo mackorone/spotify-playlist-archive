@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 337341,
+  "num_followers": 337452,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "P*$$Y Fairy (OTW)",
+        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 181860,
+      "name": "P*$$Y Fairy (OTW)",
+      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "P*$$Y Fairy (OTW)",
-        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 181860,
-      "name": "P*$$Y Fairy (OTW)",
-      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 326240,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "About Time",
         "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 283236,
       "name": "Stand Still",
       "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 326240,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 185617,
-      "name": "Belong to You (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/2I88NEWpKrAPZuapXNV5G6"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "How Many Drinks? (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 270160,
       "name": "How Many Drinks? (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2dDCkXBbVDI4YR21lrQRK6"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 185617,
+      "name": "Belong to You (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/2I88NEWpKrAPZuapXNV5G6"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/4Q4lurjRENDP1VOEfww9Im"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 262053,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/5PNa1MjGan22iWil3F4zv6"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Waiting for You",
         "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 211470,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/4Q4lurjRENDP1VOEfww9Im"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 262053,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/5PNa1MjGan22iWil3F4zv6"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "idc bout the club, i just want you",
-        "url": "https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M"
-      },
-      "artists": [
-        {
-          "name": "Kalin White",
-          "url": "https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq"
-        }
-      ],
-      "duration_ms": 164101,
-      "name": "idc bout the club, i just want you",
-      "url": "https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Sexpectations",
         "url": "https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 224546,
       "name": "Sexpectations",
       "url": "https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "idc bout the club, i just want you",
+        "url": "https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M"
+      },
+      "artists": [
+        {
+          "name": "Kalin White",
+          "url": "https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq"
+        }
+      ],
+      "duration_ms": 164101,
+      "name": "idc bout the club, i just want you",
+      "url": "https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK"
     },
     {
       "added_at": "2024-09-02 12:32:28",

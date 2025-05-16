@@ -6685,6 +6685,24 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30de\u30e9\u30d6",
+        "url": "https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "\u3077\u3093\u3077\u3093",
+      "url": "https://open.spotify.com/track/1ZQjslTPziwyz9BioIBBSI"
+    },
+    {
+      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/2E6evRJYZ8yknwWA65ICDO"
       },
@@ -9302,7 +9320,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 193226,
       "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
       "url": "https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Mateusz G\u0119dek",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Mlecze",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 202579,
       "name": "12",
       "url": "https://open.spotify.com/track/7IZsmbkddPpJcjIFg3tTjT"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 147526,
       "name": "Best",
       "url": "https://open.spotify.com/track/7gFPsvJ8NEMe4OXudbJn4A"
@@ -698,6 +698,24 @@
       "duration_ms": 223937,
       "name": "Bez Ciebie",
       "url": "https://open.spotify.com/track/1e0Al4JpNT6tJGKQ0uzkA0"
+    },
+    {
+      "album": {
+        "name": "Bez O\u015bci",
+        "url": "https://open.spotify.com/album/4H9GOjrt7BJx46HbYr8oPS"
+      },
+      "artists": [
+        {
+          "name": "Lucas Flint",
+          "url": "https://open.spotify.com/artist/6hDQK58Mp46BJ8mCVR8ToK"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "Bez o\u015bci",
+      "url": "https://open.spotify.com/track/7ptQgZ9RaQPpuj0Jcog5cw"
     },
     {
       "album": {
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 170797,
       "name": "Burzowa",
       "url": "https://open.spotify.com/track/4exritHJLnzotW6S4lqefc"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 392301,
       "name": "Chc\u0119 ju\u017c maj na \u0142\u0105kach",
       "url": "https://open.spotify.com/track/0w89Wh5LwhkcT2zykffQhR"
@@ -2218,6 +2236,24 @@
       "duration_ms": 204578,
       "name": "Czas",
       "url": "https://open.spotify.com/track/3RwrMtLfec1HnAB2oRQWI5"
+    },
+    {
+      "album": {
+        "name": "Ptaki",
+        "url": "https://open.spotify.com/album/5ZCDmvazUKV7RbKBSQX9Di"
+      },
+      "artists": [
+        {
+          "name": "Markus ivi",
+          "url": "https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235178,
+      "name": "Czas",
+      "url": "https://open.spotify.com/track/2TnAYZzFHlBG42HtRItZ04"
     },
     {
       "album": {
@@ -4033,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "Historia",
+        "url": "https://open.spotify.com/album/7vXK4IGruSLz7WQSPCcKX2"
+      },
+      "artists": [
+        {
+          "name": "Nieme Kino",
+          "url": "https://open.spotify.com/artist/4DBfDikhBFqz65ajyTWXEc"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184565,
+      "name": "Historia",
+      "url": "https://open.spotify.com/track/3rSnfp9Or2jmpNA8rFHjuX"
+    },
+    {
+      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/1RZUkGK2jeuEHNysJIqILF"
       },
@@ -4664,7 +4718,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 152800,
       "name": "jest\u0119 OSZO\u0104\u0118",
       "url": "https://open.spotify.com/track/5TO30INy1EKcJJ28RDLed7"
@@ -4740,6 +4794,24 @@
       "duration_ms": 363944,
       "name": "Jutro",
       "url": "https://open.spotify.com/track/04nNSZOEjhVTH5NYaDqXko"
+    },
+    {
+      "album": {
+        "name": "Ju\u017c dzi\u015b Ci\u0119 kocham",
+        "url": "https://open.spotify.com/album/1Z8HZpK1x0C8GhCRQqdoXO"
+      },
+      "artists": [
+        {
+          "name": "Echa",
+          "url": "https://open.spotify.com/artist/2aSEzsDUyVxHnBOvseZyjE"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154215,
+      "name": "Ju\u017c dzi\u015b Ci\u0119 kocham",
+      "url": "https://open.spotify.com/track/29LwJa4YCtrvDbMlPy3C35"
     },
     {
       "album": {
@@ -5282,7 +5354,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 262875,
       "name": "Kreski",
       "url": "https://open.spotify.com/track/0w3f0QDFIz8KMOfD0GtN2t"
@@ -6263,6 +6335,24 @@
     },
     {
       "album": {
+        "name": "Matka",
+        "url": "https://open.spotify.com/album/1Qg3e9M2wVKzlib485lP8Z"
+      },
+      "artists": [
+        {
+          "name": "Karolina Czarnecka",
+          "url": "https://open.spotify.com/artist/6J2uYw9Hf0spyvUuwvEP1l"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238866,
+      "name": "Matka",
+      "url": "https://open.spotify.com/track/1SwFc5NwRJmd9dXlRJodtD"
+    },
+    {
+      "album": {
         "name": "Ma\u0142y \u015awiat",
         "url": "https://open.spotify.com/album/76rrJLhAtZLx9CoOjgSbQ2"
       },
@@ -6296,6 +6386,24 @@
       "duration_ms": 166666,
       "name": "Mermaids",
       "url": "https://open.spotify.com/track/3Ufjss8NivX7uIHacEy5Kh"
+    },
+    {
+      "album": {
+        "name": "mg\u0142a",
+        "url": "https://open.spotify.com/album/3zl28RXv53yMQosc98EzUn"
+      },
+      "artists": [
+        {
+          "name": "Basia Siciarek",
+          "url": "https://open.spotify.com/artist/6WcYkSf44ojtwFJ4jENIOh"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "mg\u0142a",
+      "url": "https://open.spotify.com/track/6EourMKuOVMa9ZJMFA4X9b"
     },
     {
       "album": {
@@ -6592,6 +6700,24 @@
       "duration_ms": 197961,
       "name": "mimo to",
       "url": "https://open.spotify.com/track/7colJm6YH5uWRipMANB91F"
+    },
+    {
+      "album": {
+        "name": "Minie jesie\u0144",
+        "url": "https://open.spotify.com/album/0WfjjNuG4XCydHH1VcWI74"
+      },
+      "artists": [
+        {
+          "name": "Mlecze",
+          "url": "https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Minie jesie\u0144",
+      "url": "https://open.spotify.com/track/53ieaetpKRfYklvJcGVnel"
     },
     {
       "album": {
@@ -8520,7 +8646,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 246000,
       "name": "Oczy z\u0142ote",
       "url": "https://open.spotify.com/track/7aRu5SMzSJQlygUf3dTPtl"
@@ -12083,6 +12209,24 @@
     },
     {
       "album": {
+        "name": "Tamte wakacje",
+        "url": "https://open.spotify.com/album/4EnxxrmpILCqJYPoQ4lURm"
+      },
+      "artists": [
+        {
+          "name": "Fetysz",
+          "url": "https://open.spotify.com/artist/4Q6Ro5v2pYwW4hJgPo2Idz"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238478,
+      "name": "Tamte wakacje",
+      "url": "https://open.spotify.com/track/3ZH1RvHRWgubCcDT1Seoyw"
+    },
+    {
+      "album": {
         "name": "Tancerz",
         "url": "https://open.spotify.com/album/7Ib9Z8A82GfhY0gI6kaayj"
       },
@@ -12120,6 +12264,24 @@
       "duration_ms": 209708,
       "name": "Taniec",
       "url": "https://open.spotify.com/track/5byXYWa9gm0v6gmdG9zMul"
+    },
+    {
+      "album": {
+        "name": "tantrum",
+        "url": "https://open.spotify.com/album/6MeCgKkC0kLmsGaB5qdzQ2"
+      },
+      "artists": [
+        {
+          "name": "imasleep",
+          "url": "https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148105,
+      "name": "tantrum",
+      "url": "https://open.spotify.com/track/37tm5h1fh48AnGw0s9jzRt"
     },
     {
       "album": {
@@ -12432,7 +12594,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 156680,
       "name": "To Ja i My",
       "url": "https://open.spotify.com/track/2IdnMwx64i0FaAaKcNSJEa"
@@ -13430,7 +13592,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 204000,
       "name": "W za ma\u0142ym ciele",
       "url": "https://open.spotify.com/track/3QiYi1qm6mcyylEizOiYab"
@@ -14792,7 +14954,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 150243,
       "name": "Zielono mi",
       "url": "https://open.spotify.com/track/6M63ENyNK88M2dWHvj8W6r"
@@ -15316,6 +15478,24 @@
       "duration_ms": 230000,
       "name": "\u015alady",
       "url": "https://open.spotify.com/track/6ghfzdhPDc8GIrOZjZrfpt"
+    },
+    {
+      "album": {
+        "name": "\u015aliwka w kompot",
+        "url": "https://open.spotify.com/album/1JYZkYFA7PzBO4jaGS5pIT"
+      },
+      "artists": [
+        {
+          "name": "Pan Mariuszek",
+          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "\u015aliwka w kompot",
+      "url": "https://open.spotify.com/track/1ef2r7CQTvJsbnSL8Lggrw"
     },
     {
       "album": {

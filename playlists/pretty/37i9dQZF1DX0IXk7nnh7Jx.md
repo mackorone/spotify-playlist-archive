@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Jon Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,929 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,945 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 28 | [Hindsight](https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [Hindsight](https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q) | 3:18 |
 | 29 | [If it wasn't for Jesus](https://open.spotify.com/track/7FVckXqUw0kkUU00TxCvV4) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [If it wasn't for Jesus](https://open.spotify.com/album/1ZL9ejiRgiehK2F65ywwQ4) | 3:49 |
 | 30 | [Good Thing Going On](https://open.spotify.com/track/7pbI9fVQB2wcbIq9JOJrg3) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Good Thing Going On](https://open.spotify.com/album/764EDpWg5cjQMhYMymOim3) | 2:57 |
-| 31 | [Do it Afraid](https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [Do it Afraid](https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR) | 2:44 |
+| 31 | [Do it Afraid](https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sparrøw](https://open.spotify.com/artist/3ffS9GLH3Amh8S5UHFnpwn) | [Do it Afraid](https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR) | 2:44 |
 | 32 | [Sweet Honey Cake](https://open.spotify.com/track/4URNCRSOrhQlpClMpySqbz) | [Holy Gather](https://open.spotify.com/artist/70azCnnO6hKm23SflJHzdR) | [Sweet Honey Cake](https://open.spotify.com/album/6ZIdXxQfrZx8P8JEKcV7DH) | 3:12 |
 | 33 | [To Move Your Heart](https://open.spotify.com/track/3KIUSkO74EUMhkysOw7qiV) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [To Move Your Heart](https://open.spotify.com/album/1pqsyIydGa5dnxp8npesZg) | 3:45 |
 | 34 | [John the Baptist](https://open.spotify.com/track/12udHOY0OAqaJ7C2bfwkps) | [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [Some Things I've Been Learning About God: Disc 1](https://open.spotify.com/album/2A18c9tYV1mmfcueLO1QlR) | 3:04 |

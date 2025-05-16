@@ -22643,6 +22643,24 @@
     },
     {
       "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/702JXttIx9HjCWwXLVblqa"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/0b4KbsFu42vGM2rRJSTg1x"
+    },
+    {
+      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/0pOQ4LOfEVHCMNSbJUxDNs"
       },
@@ -146095,7 +146113,7 @@
         },
         {
           "name": "KZ",
-          "url": "https://open.spotify.com/artist/5J6JXsFQ3z2muSrXFodFMT"
+          "url": "https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8"
         },
         {
           "name": "ILL SWAG GAGA",

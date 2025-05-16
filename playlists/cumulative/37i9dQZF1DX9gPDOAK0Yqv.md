@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-721 songs - 2 day 7 hr 31 min
+722 songs - 2 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Flame](https://open.spotify.com/track/2U1pAsmISPGuRUZAfSLNFF) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Dean Fraiser](https://open.spotify.com/artist/4q1NW0f0ApUEcPDiIrnsHI) | [Flame](https://open.spotify.com/album/56zyADMd3QWQAl1CTVLR1y) | 3:08 | 2024-11-07 | 2025-02-23 |
 | [Flex My Ice](https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Flex My Ice](https://open.spotify.com/album/2Qiq217xFjj7ppUSI5rdvS) | 3:29 | 2025-02-20 |  |
 | [Flickering Screens](https://open.spotify.com/track/3O5t6QwfVb1pfG8b9cravm) | [PARI](https://open.spotify.com/artist/3US9YU4DOMD9TfCNehM1Ux), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Flickering Screens](https://open.spotify.com/album/2BgcSrFSQQ7Dj99GCIXFU0) | 3:10 | 2023-05-05 | 2023-05-07 |
+| [Flight](https://open.spotify.com/track/13lTWHUyO1s1wYHKRz63Ap) | [Trenom](https://open.spotify.com/artist/6m2khJd0zLKIWkJVr8UHpJ) | [Flight](https://open.spotify.com/album/2dRiOgedGdKmPkDVjUJPJW) | 2:55 | 2025-05-15 |  |
 | [Floating](https://open.spotify.com/track/2nIn3nbuTc1hraOplc0aOS) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Floating](https://open.spotify.com/album/0tkX7wLgWKsrKfGWFZhA1e) | 4:32 | 2023-05-23 | 2023-06-06 |
 | [FLORAL](https://open.spotify.com/track/424p6UywhA810uXc7zr6N4) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [CAY \(DE\)](https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K) | [FLORAL](https://open.spotify.com/album/2ZpTiLH2CUPC9QUpwgW9DY) | 4:29 | 2024-04-11 | 2024-06-21 |
 | [Fly](https://open.spotify.com/track/3gp5lbLAuDgcwFu7CxQffZ) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Fly](https://open.spotify.com/album/1qik9Gr4EhhOMb2jDUpyTA) | 3:48 | 2023-02-04 | 2023-02-10 |
@@ -410,7 +411,7 @@
 | [Moonlight \- Radio Edit](https://open.spotify.com/track/5lO22JLbzf8K8nSRMXR5A2) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Angel Sanchez](https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Moonlight](https://open.spotify.com/album/37ehCG3KiW2i7diTJHwvbs) | 4:48 | 2024-03-15 | 2024-04-19 |
 | [Morana](https://open.spotify.com/track/23PNuzSj04sjeLJKzd8TiY) | [Artaria](https://open.spotify.com/artist/54LH798QKraEZosT57zMqU) | [Morana](https://open.spotify.com/album/0VMZaGPtMmk0PD4j3t030p) | 5:32 | 2024-09-19 | 2024-12-06 |
 | [More Coke!!](https://open.spotify.com/track/3IQ4kBI1VBRa4YoGtW8mGU) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 2:52 | 2023-04-29 | 2023-06-24 |
-| [Morenita \- Marco Generani Remix](https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Marco Generani](https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita \(Marco Generani Remix\)](https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw) | 2:27 | 2024-09-26 |  |
+| [Morenita \- Marco Generani Remix](https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Marco Generani](https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita \(Marco Generani Remix\)](https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw) | 2:27 | 2024-09-26 | 2025-05-16 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 | 2022-12-28 | 2023-01-06 |
 | [Move It](https://open.spotify.com/track/3si1xexU5wiWQZ2HEbucdD) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Move It](https://open.spotify.com/album/6RQGEQZ4Mv1ypFluLdqRYL) | 3:08 | 2024-11-14 | 2025-01-31 |
 | [Multiversum](https://open.spotify.com/track/4BpI7T85Zehu5cyG0pz1YP) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [The Selador Showcase \- The Seventeenth Instalment](https://open.spotify.com/album/5fOPccNvJkKyuIxeZ0SAmW) | 7:13 | 2023-02-17 | 2023-03-12 |

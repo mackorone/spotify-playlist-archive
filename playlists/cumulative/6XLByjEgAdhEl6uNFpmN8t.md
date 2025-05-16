@@ -4,7 +4,7 @@
 
 > 
 
-109 songs - 5 hr 35 min
+110 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [VAKMELEG](https://open.spotify.com/track/5hrqYOAOfilrvKT5Et0agg) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [VAKMELEG](https://open.spotify.com/album/1EMSC0Mx6dukvWdXIuYoV5) | 2:52 | 2024-12-19 |  |
 | [Valencia](https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb) | [Tomi](https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Valencia](https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9) | 2:55 | 2024-11-20 |  |
 | [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 | 2025-01-05 |  |
+| [Vinnipu](https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Vinnipu](https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J) | 1:48 | 2025-05-15 |  |
 | [Volt, ami volt](https://open.spotify.com/track/327ly1ZRw6GJNUjVl6R8be) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1) | [Volt, ami volt](https://open.spotify.com/album/4fKyDcti9mQ164mFdGunqO) | 3:23 | 2024-11-18 |  |
 | [Voodoo Baba](https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:34 | 2024-10-17 |  |
 | [Vágyom Rád!](https://open.spotify.com/track/4CTzWllreJTw24AImYIMff) | [Romantic](https://open.spotify.com/artist/1axnY2HalS1dffgzHfGCsL) | [Nap, Hold, Csillagok](https://open.spotify.com/album/7jQvVkuNmkF8udIhgphpMR) | 4:05 | 2024-11-29 |  |

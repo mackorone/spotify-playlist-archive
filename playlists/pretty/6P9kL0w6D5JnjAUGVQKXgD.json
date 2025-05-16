@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47337,
+  "num_followers": 47329,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAH50/JDQMdsShNIxmboG5FkfFNXpLo",
+  "snapshot_id": "AAAH6BKM7yAh3Zj0BWnd4vcYv8cwVtYr",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/6eSWdCAvzD4danVK3OlqYU"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "By My Side (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/3EHRX0NI8Nr9pjA9NLXw3Y"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "By My Side - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe"
+    },
+    {
       "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
@@ -999,18 +1015,22 @@
     {
       "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "By My Side (From The Original Television Soundtrack Blade Runner Black Lotus)",
-        "url": "https://open.spotify.com/album/3EHRX0NI8Nr9pjA9NLXw3Y"
+        "name": "Lavandia",
+        "url": "https://open.spotify.com/album/4r0jAN8bfb4Lrhj9hgb1fH"
       },
       "artists": [
         {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
         }
       ],
-      "duration_ms": 165773,
-      "name": "By My Side - From The Original Television Soundtrack Blade Runner Black Lotus",
-      "url": "https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe"
+      "duration_ms": 148333,
+      "name": "Lavandia",
+      "url": "https://open.spotify.com/track/2aLaWfLeSzWrTLdLeVQ6zQ"
     },
     {
       "added_at": "2024-09-27 00:41:03",
@@ -1035,26 +1055,6 @@
       "duration_ms": 130500,
       "name": "Torn",
       "url": "https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Lavandia",
-        "url": "https://open.spotify.com/album/4r0jAN8bfb4Lrhj9hgb1fH"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "Lavandia",
-      "url": "https://open.spotify.com/track/2aLaWfLeSzWrTLdLeVQ6zQ"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1165,26 +1165,6 @@
       "url": "https://open.spotify.com/track/5ihUSA58Ykw7ZPR0aRyMCX"
     },
     {
-      "added_at": "2024-07-26 00:41:03",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
-      },
-      "artists": [
-        {
-          "name": "Dualh\u00ef",
-          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
-        },
-        {
-          "name": "JandB",
-          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Side By Side (with MKLA)",
@@ -1203,6 +1183,26 @@
       "duration_ms": 153870,
       "name": "Side By Side (with MKLA)",
       "url": "https://open.spotify.com/track/37107dPB28NderX4Tpbirg"
+    },
+    {
+      "added_at": "2024-07-26 00:41:03",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
+      },
+      "artists": [
+        {
+          "name": "Dualh\u00ef",
+          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
+        },
+        {
+          "name": "JandB",
+          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/0fH86zQcE2CmATQju6WpXv"
     },
     {
-      "added_at": "2025-03-21 00:41:04",
-      "album": {
-        "name": "Be On Your Mind",
-        "url": "https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i"
-      },
-      "artists": [
-        {
-          "name": "Luis Elba",
-          "url": "https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Be On Your Mind",
-      "url": "https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Angelina",
@@ -1263,6 +1247,42 @@
       "duration_ms": 190403,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/2WjxSe0iEAF18pON4KeWcx"
+    },
+    {
+      "added_at": "2025-03-21 00:41:04",
+      "album": {
+        "name": "Be On Your Mind",
+        "url": "https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i"
+      },
+      "artists": [
+        {
+          "name": "Luis Elba",
+          "url": "https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Be On Your Mind",
+      "url": "https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3"
+    },
+    {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/4wt8xueNgt2Eiq2UcSswjA"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "MILLENNIAL",
+          "url": "https://open.spotify.com/artist/5IpsdReCfjh5hLsJBpf3Lp"
+        }
+      ],
+      "duration_ms": 209076,
+      "name": "Erase You",
+      "url": "https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b"
     },
     {
       "added_at": "2024-10-12 00:41:03",
@@ -1287,26 +1307,6 @@
       "duration_ms": 173610,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3bSQhzEakXK108UasRWP4t"
-    },
-    {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/4wt8xueNgt2Eiq2UcSswjA"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "MILLENNIAL",
-          "url": "https://open.spotify.com/artist/5IpsdReCfjh5hLsJBpf3Lp"
-        }
-      ],
-      "duration_ms": 209076,
-      "name": "Erase You",
-      "url": "https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1365,26 +1365,6 @@
       "url": "https://open.spotify.com/track/1QKR9U1OnjOHXLKAEzRcN8"
     },
     {
-      "added_at": "2024-05-31 00:41:04",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/4JwpOWvno7gw5ielxFne6P"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Simon Ward",
-          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/47ij2z59LpBuxx1ixMjcMW"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Higher Love",
@@ -1405,6 +1385,26 @@
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
+      "added_at": "2024-05-31 00:41:04",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4JwpOWvno7gw5ielxFne6P"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Simon Ward",
+          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/47ij2z59LpBuxx1ixMjcMW"
+    },
+    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
@@ -1423,6 +1423,22 @@
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Pump The Brakes",
+        "url": "https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 220581,
+      "name": "Pump The Brakes",
+      "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
     },
     {
       "added_at": "2025-01-25 00:40:06",
@@ -1447,18 +1463,22 @@
     {
       "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "Pump The Brakes",
-        "url": "https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ"
+        "name": "New Wave",
+        "url": "https://open.spotify.com/album/2qLSdUaLpqlk2JoEo5gilL"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 220581,
-      "name": "Pump The Brakes",
-      "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
+      "duration_ms": 145978,
+      "name": "Drank & Drugs",
+      "url": "https://open.spotify.com/track/37NZqOoR0dw71kbDCRnsKc"
     },
     {
       "added_at": "2024-06-14 00:41:07",
@@ -1483,26 +1503,6 @@
       "duration_ms": 138281,
       "name": "I Can't Dance",
       "url": "https://open.spotify.com/track/3Ra6eBlrI8mzpq3DP8cdZv"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "New Wave",
-        "url": "https://open.spotify.com/album/2qLSdUaLpqlk2JoEo5gilL"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 145978,
-      "name": "Drank & Drugs",
-      "url": "https://open.spotify.com/track/37NZqOoR0dw71kbDCRnsKc"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1569,26 +1569,6 @@
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
-      "added_at": "2025-01-17 00:41:04",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/6BCX7pbQj8KlErxVQhQnTN"
-      },
-      "artists": [
-        {
-          "name": "Dj Aaron Kennedy",
-          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
-        },
-        {
-          "name": "Jake Price",
-          "url": "https://open.spotify.com/artist/6VCli4oQje8rj6MWLkuF24"
-        }
-      ],
-      "duration_ms": 150454,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/1E2NRaY9MvhHUVHnR3mwU4"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Rasputin",
@@ -1607,6 +1587,26 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2025-01-17 00:41:04",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/6BCX7pbQj8KlErxVQhQnTN"
+      },
+      "artists": [
+        {
+          "name": "Dj Aaron Kennedy",
+          "url": "https://open.spotify.com/artist/0fqmjkXQOzhBaAQD5z7fYA"
+        },
+        {
+          "name": "Jake Price",
+          "url": "https://open.spotify.com/artist/6VCli4oQje8rj6MWLkuF24"
+        }
+      ],
+      "duration_ms": 150454,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/1E2NRaY9MvhHUVHnR3mwU4"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1789,6 +1789,26 @@
       "url": "https://open.spotify.com/track/0WieTfhf6N0alEhBpSiOtd"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Easier (feat. LOWES) [Radio Edit]",
+        "url": "https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "LOWES",
+          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Easier (feat. LOWES) - Radio Edit",
+      "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
+    },
+    {
       "added_at": "2024-03-01 11:28:04",
       "album": {
         "name": "Because Of You",
@@ -1811,26 +1831,6 @@
       "duration_ms": 143040,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/4B1aqIZbCTtEvM0hGzv9EG"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Easier (feat. LOWES) [Radio Edit]",
-        "url": "https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "LOWES",
-          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
-        }
-      ],
-      "duration_ms": 214687,
-      "name": "Easier (feat. LOWES) - Radio Edit",
-      "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1933,6 +1933,26 @@
       "url": "https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL"
     },
     {
+      "added_at": "2024-11-01 00:41:04",
+      "album": {
+        "name": "Life Goes On (feat. Alex Hosking)",
+        "url": "https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR"
+      },
+      "artists": [
+        {
+          "name": "PS1",
+          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "duration_ms": 169458,
+      "name": "Life Goes On (feat. Alex Hosking)",
+      "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
+    },
+    {
       "added_at": "2024-08-02 00:41:04",
       "album": {
         "name": "Enjoy The Silence",
@@ -1955,26 +1975,6 @@
       "duration_ms": 129756,
       "name": "Enjoy The Silence",
       "url": "https://open.spotify.com/track/1eIkCLQoGvo96oIerUXEx2"
-    },
-    {
-      "added_at": "2024-11-01 00:41:04",
-      "album": {
-        "name": "Life Goes On (feat. Alex Hosking)",
-        "url": "https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR"
-      },
-      "artists": [
-        {
-          "name": "PS1",
-          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
-        },
-        {
-          "name": "Alex Hosking",
-          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
-        }
-      ],
-      "duration_ms": 169458,
-      "name": "Life Goes On (feat. Alex Hosking)",
-      "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
     },
     {
       "added_at": "2024-11-08 00:41:04",

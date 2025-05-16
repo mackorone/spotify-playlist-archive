@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 485475,
+  "num_followers": 485510,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -855,26 +855,6 @@
     {
       "added_at": "2025-05-02 03:01:17",
       "album": {
-        "name": "Agua De Beber",
-        "url": "https://open.spotify.com/album/0YpRLkAism461pPF50wJu3"
-      },
-      "artists": [
-        {
-          "name": "SUBB",
-          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
-        },
-        {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
-        }
-      ],
-      "duration_ms": 197007,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn"
-    },
-    {
-      "added_at": "2025-05-02 03:01:17",
-      "album": {
         "name": "E Depois (Que Sorte A Minha)",
         "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 241823,
       "name": "Paradise - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
+    },
+    {
+      "added_at": "2025-05-02 03:01:17",
+      "album": {
+        "name": "Agua De Beber",
+        "url": "https://open.spotify.com/album/0YpRLkAism461pPF50wJu3"
+      },
+      "artists": [
+        {
+          "name": "SUBB",
+          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
+        },
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+        }
+      ],
+      "duration_ms": 197007,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn"
     },
     {
       "added_at": "2025-05-02 03:01:17",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2025-05-02 03:01:17",
       "album": {
+        "name": "Could You Be Loved",
+        "url": "https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
+    },
+    {
+      "added_at": "2025-05-02 03:01:17",
+      "album": {
         "name": "CDXOTA",
         "url": "https://open.spotify.com/album/2SLt1gsqotPapZiEmaBNhu"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 178203,
       "name": "CDXOTA",
       "url": "https://open.spotify.com/track/0hBDFlAo2GIRnTGb5m5OmK"
-    },
-    {
-      "added_at": "2025-05-02 03:01:17",
-      "album": {
-        "name": "Could You Be Loved",
-        "url": "https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
     },
     {
       "added_at": "2025-05-02 03:01:17",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2025-05-02 03:01:17",
       "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Rodrigo S\u00e1",
+          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+    },
+    {
+      "added_at": "2025-05-02 03:01:17",
+      "album": {
         "name": "Daddy (feat. Sexyy Red) [Vandalized Edit]",
         "url": "https://open.spotify.com/album/2k0tmoYn3bI1hmIjeIbWQl"
       },
@@ -1488,7 +1508,7 @@
       },
       "artists": [
         {
-          "name": "BADDIES ONLY",
+          "name": "JOHN ELLE",
           "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
@@ -1499,26 +1519,6 @@
       "duration_ms": 97261,
       "name": "Coisinha Do Pai (feat. Sued Nunes)",
       "url": "https://open.spotify.com/track/16U1IhTZ21tgalLHSdrhX1"
-    },
-    {
-      "added_at": "2025-05-02 03:01:17",
-      "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Rodrigo S\u00e1",
-          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
     },
     {
       "added_at": "2025-05-02 03:01:17",

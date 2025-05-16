@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Loski, Chy Cartier
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Kairo Keyz
 
-2,087 songs - 4 day 8 hr 8 min
+2,089 songs - 4 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,7 +730,7 @@
 | [Full Flick](https://open.spotify.com/track/2tvGgvYKsmtdD0nzEXnkI0) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm) | [Full Flick](https://open.spotify.com/album/60df0jGgMf496GnSbVpCqW) | 2:57 | 2020-08-21 | 2020-10-02 |
 | [Full Throttle](https://open.spotify.com/track/6TvIdHBRPUJtjF1tSResuq) | [Ard Adz](https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu) | [Dinner For One](https://open.spotify.com/album/3V3XGjfaJIoky5ntlIvGiP) | 3:01 | 2021-03-06 | 2021-06-26 |
 | [Fully Involved, Pt\. 2](https://open.spotify.com/track/6ik85jQgYWbIMtrcKSfRV9) | [Blay Vision](https://open.spotify.com/artist/6oVrqKwfW550JN9zLKfPgQ), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Fully Involved, Pt\. 2](https://open.spotify.com/album/2aU393DlRplh2Do4ZCt28q) | 3:24 | 2024-04-26 | 2024-05-25 |
-| [Function Riddim](https://open.spotify.com/track/5f3fH5Z93flDP8pi9EjAyb) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Function Riddim](https://open.spotify.com/album/4DouXtmG9Cu6jyD9XhVjYo) | 2:59 | 2025-02-21 |  |
+| [Function Riddim](https://open.spotify.com/track/5f3fH5Z93flDP8pi9EjAyb) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Function Riddim](https://open.spotify.com/album/4DouXtmG9Cu6jyD9XhVjYo) | 2:59 | 2025-02-21 | 2025-05-16 |
 | [FWG](https://open.spotify.com/track/1eoMcGLGEAeQUIjwEIytkq) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [FWG](https://open.spotify.com/album/0maPmRE6UjqadOPD06CfWZ) | 2:58 | 2024-10-03 | 2025-02-14 |
 | [FYP](https://open.spotify.com/track/6YtWDeoQ5lJCkQ3uAQ1gZg) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [NEMZZZ TYPE BEAT](https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR) | 2:41 | 2023-07-13 | 2023-10-20 |
 | [G Lock](https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [G Lock](https://open.spotify.com/album/0yDW2vbVqPPqROfABlI2OE) | 3:10 | 2022-03-04 | 2022-04-12 |
@@ -888,6 +888,7 @@
 | [Human](https://open.spotify.com/track/5ttoH1Eah6IHNGlclgCiyU) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Human](https://open.spotify.com/album/0mLU1ZjVsFWxdKEmMvC7Oj) | 3:48 | 2024-02-16 | 2024-02-17 |
 | [Hunger Games](https://open.spotify.com/track/5mKDYPIxZmFge680VUiRFt) | [Dapz on the Map](https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu), [Swifta Beater](https://open.spotify.com/artist/5wfMJ2PgaKgroRIcXB5Ck6) | [Connecting Flights](https://open.spotify.com/album/5tDUiGLK95WpXpwUivYAOv) | 2:59 | 2022-03-11 | 2022-04-15 |
 | [HURRICANE](https://open.spotify.com/track/6D8slgwtjJ4ZCxiGHdPlsy) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [HURRICANE](https://open.spotify.com/album/2otyP8rgYjGAHSBzTaedXt) | 3:10 | 2024-10-03 | 2025-03-07 |
+| [HURTS THE NEW SEXY](https://open.spotify.com/track/035yCtzjweltHnKc3kawEc) | [Proph](https://open.spotify.com/artist/18DEfDOq0MKiDApmoCXjpt) | [HURT'S THE NEW SEXY](https://open.spotify.com/album/3jc2s0Zx1EqRxCS3bat8SG) | 2:29 | 2025-05-16 |  |
 | [Hushpuppi](https://open.spotify.com/track/0Uh00Igzv61Y6HDI2B6Qx7) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Hushpuppi](https://open.spotify.com/album/6mebKYxLTdHiLPxvlss5kA) | 2:54 | 2022-03-08 | 2022-03-09 |
 | [Hustler's Life \(feat\. Slim\)](https://open.spotify.com/track/3fm9Gl7NX1PD7K58AfgCjM) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9), [Slim](https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou) | [Resilient](https://open.spotify.com/album/30Ug75j2jNobAaZ4CU18uF) | 2:34 | 2024-09-12 | 2024-12-06 |
 | [Hypocritical](https://open.spotify.com/track/0uvMyr2X9E6Ssy400Ictov) | [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV), [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o) | [Hypocritical](https://open.spotify.com/album/2a6A6UfdKABqFPvPsiUkY1) | 2:37 | 2024-07-05 | 2024-09-27 |
@@ -910,6 +911,7 @@
 | [I Thought I'd Die In Your Arms](https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Thought I'd Die In Your Arms](https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA) | 2:56 | 2022-03-25 | 2022-05-14 |
 | [I Wanna Start My Life Again](https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO) | 2:30 | 2022-05-13 | 2022-07-02 |
 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 | 2024-02-23 | 2024-04-26 |
+| [I'm Freestyle](https://open.spotify.com/track/2D1KirnntFgty3n0XZz0rB) | [Slim](https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou) | [I'm Freestyle](https://open.spotify.com/album/24hOYBLgPoHf73O3d9RSh9) | 3:22 | 2025-05-16 |  |
 | [I'm Old School](https://open.spotify.com/track/1raXtc1nzL6E3cPnJyIQa7) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO) | [I'm Old School](https://open.spotify.com/album/3IGozqt0avcg6vPf7HLCTX) | 3:24 | 2024-03-08 | 2024-03-09 |
 | [I'M TRYNA](https://open.spotify.com/track/1ca2jDAcDOT79MYLRoaciZ) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [I'M TRYNA](https://open.spotify.com/album/0qdg9SF90FBXDXxjNgMm6R) | 2:52 | 2024-06-14 | 2024-10-04 |
 | [I've Got You](https://open.spotify.com/track/0zUxMklcktlYtNqEAAgFW5) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [JNR WILLIAMS](https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk) | [I've Got You](https://open.spotify.com/album/12GfIhg16YrFut2e9hI4sq) | 5:15 | 2022-03-08 | 2022-03-09 |
@@ -2014,7 +2016,7 @@
 | [What Can I Say?](https://open.spotify.com/track/4CPQFa10uJlKKTxkbqRb3z) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [What Can I Say?](https://open.spotify.com/album/5phWrwWAZ9rzWxYbMPmKfy) | 2:31 | 2023-10-05 | 2023-12-01 |
 | [What I Want](https://open.spotify.com/track/5kfjaiLgKybDBQlPs9L35z) | [Flyo](https://open.spotify.com/artist/0WdEuvmHEZlmWCkKKwhm3t), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [What I Want](https://open.spotify.com/album/5yeUt35KFrFadQPKN5iA5t) | 2:59 | 2021-02-20 | 2021-03-19 |
 | [What If?](https://open.spotify.com/track/2mdszIpAeBCmV0EkufJPrs) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 3:22 | 2023-05-18 | 2023-06-30 |
-| [What Would You Do](https://open.spotify.com/track/3vSgVhz7cIV3nVOqF7o4bo) | [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc) | [What Would You Do](https://open.spotify.com/album/6WWWIKrVpsukF5I3GcG1uL) | 3:11 | 2025-02-14 |  |
+| [What Would You Do](https://open.spotify.com/track/3vSgVhz7cIV3nVOqF7o4bo) | [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc) | [What Would You Do](https://open.spotify.com/album/6WWWIKrVpsukF5I3GcG1uL) | 3:11 | 2025-02-14 | 2025-05-16 |
 | [What You Mean?](https://open.spotify.com/track/6zEaDCV8J2VG5Rk9LZ74ML) | [Mazza\_l20](https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA), [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi) | [What You Mean?](https://open.spotify.com/album/42mqAxAtQtMsWBWT1O008a) | 2:29 | 2024-03-08 | 2024-05-03 |
 | [What You Reckon](https://open.spotify.com/track/0EZ05DO2sinxXkujtxUUZF) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [What You Reckon](https://open.spotify.com/album/4MzTVKTElVi4mDdVSDsMEF) | 3:25 | 2022-04-01 | 2022-05-06 |
 | [What's Good](https://open.spotify.com/track/1MN3iFMSQ8dfqNAZMyUp5h) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h), [Poundz](https://open.spotify.com/artist/2jItxZsB8PA3vday7b0RLT) | [What's Good](https://open.spotify.com/album/0wL43OLCtMsaFW7yzuc4DL) | 2:57 | 2022-07-21 | 2022-11-19 |

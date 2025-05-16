@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-991 songs - 2 day 4 hr 6 min
+993 songs - 2 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Give It To Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 | 2022-12-16 | 2023-01-13 |
 | [Give Life Back to Music](https://open.spotify.com/track/10fbCavbRqZcQmZNIgK5Ti) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [GLBTM \(Studio Outtakes\)](https://open.spotify.com/album/1gDbMxDY14mf9OZzpQfON0) | 4:35 | 2023-05-01 | 2023-07-22 |
 | [Glimmer](https://open.spotify.com/track/6mbaDSOA05Cy4txRRYuJqL) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4) | [Glimmer](https://open.spotify.com/album/4UQ7SYtwVP2TzxBbqHKfNz) | 3:16 | 2022-09-02 | 2022-11-11 |
+| [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kofla](https://open.spotify.com/artist/3uvuXrgd8H5Gwnubvtm0sk) | [Globo \(feat\. Blessd & Kofla\)](https://open.spotify.com/album/1kUmugvmPWIY6ZEODVrMSx) | 3:13 | 2025-05-15 |  |
 | [Go \(feat\. DETO BLACK\)](https://open.spotify.com/track/1MqLj8SILJe4lmjP9TG5i2) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Movement](https://open.spotify.com/album/0zCMHfHJO5WP7d6NuJwbeB) | 3:02 | 2023-12-08 | 2024-04-05 |
 | [Go Crazy](https://open.spotify.com/track/16xwg9hnjqaKGmOSiE5JFV) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW), [KDDK](https://open.spotify.com/artist/1793RNBnWXkl6iRbT196Nk) | [Go Crazy](https://open.spotify.com/album/0AXEZvL5CvHgIbChzCmBVy) | 2:40 | 2021-12-16 | 2022-03-04 |
 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 | 2021-03-19 | 2021-06-05 |
@@ -375,6 +376,7 @@
 | [Hear My Call \- Neil MacLeod Remix](https://open.spotify.com/track/3ZVtEnhAKoCR6qjPOiUCnh) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32), [Neil MacLeod](https://open.spotify.com/artist/0bs0c30dj49UK6UjY3U7ZG) | [Hear My Call \(Neil MacLeod Remix\)](https://open.spotify.com/album/3WQ8SY7HEAlYm465FSWmHA) | 4:39 | 2023-07-28 | 2023-12-14 |
 | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/track/3vF1Bk53lUz287NAu5RCpS) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/album/2HPdZOq2RU7j158mu4jmdy) | 2:14 | 2021-06-26 | 2021-10-16 |
 | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak) | 2:29 | 2024-09-12 | 2024-11-29 |
+| [Heartbreak](https://open.spotify.com/track/0d0NQXUrO7WnlUvN2clj69) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Plæygirl](https://open.spotify.com/album/7gT1PWuFHJMn0gFxHKZROu) | 3:06 | 2025-05-15 |  |
 | [HEAT](https://open.spotify.com/track/4x0yfBUpGWpovUxJqj20p0) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [HEAT](https://open.spotify.com/album/3K2K785SdN3wozTA3krazb) | 3:07 | 2021-02-19 | 2022-03-04 |
 | [Heaven](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Heaven](https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y) | 2:58 | 2022-04-29 | 2022-06-18 |
 | [Heaven](https://open.spotify.com/track/0nDDGdnNsKLjGMVYdwi4Xq) | [Dj Marlon](https://open.spotify.com/artist/2Ds9H8orI9nLDupJQukm6X) | [Heaven](https://open.spotify.com/album/3hpkJKJa7CqaefAqQ5kVSq) | 3:03 | 2021-02-01 | 2021-03-19 |

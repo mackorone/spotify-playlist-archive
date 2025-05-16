@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\ud83d\udd25 A new mixtape drop every Thursday \ud83d\udd25 BB trickz is bringing the heat this week!",
+  "description": "\ud83d\udd25 A new mixtape drop every Thursday \ud83d\udd25 Alem\u00e1n is bringing the heat this week!",
   "name": "Fuego",
   "tracks": [
     {
@@ -5254,7 +5254,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 187466,
       "name": "BANSHEE",
       "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
@@ -6840,7 +6840,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 262887,
       "name": "Branzino",
       "url": "https://open.spotify.com/track/2JoIp9pZeJRaJmKUkzhATH"
@@ -8603,6 +8603,24 @@
     },
     {
       "album": {
+        "name": "Chiquita",
+        "url": "https://open.spotify.com/album/5Sz2DWxHFfQRgU0KXWFX9X"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116493,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/2fLoNEeUh5Gd7gDrRjGmql"
+    },
+    {
+      "album": {
         "name": "Love And Sex",
         "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
       },
@@ -9186,7 +9204,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 221373,
       "name": "Comernos",
       "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
@@ -9498,7 +9516,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157021,
       "name": "Con La Mini",
       "url": "https://open.spotify.com/track/0mo9HCsRSwDE2dMInlm8OJ"
@@ -9620,7 +9638,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157200,
       "name": "Confianza",
       "url": "https://open.spotify.com/track/7CquxKxAKutufMzvMI7s7Z"
@@ -12440,7 +12458,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 209540,
       "name": "Dile a El",
       "url": "https://open.spotify.com/track/13Tbv4nflNxg9kYBIbJnd9"
@@ -12476,7 +12494,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 226520,
       "name": "Dile Que Tu Me Quieres",
       "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
@@ -14500,7 +14518,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 203750,
       "name": "El Reggaet\u00f3n del Disco",
       "url": "https://open.spotify.com/track/15F8m8VShRlBXmSbwZBUTt"
@@ -19652,7 +19670,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 231917,
       "name": "GPS",
       "url": "https://open.spotify.com/track/4ayXvu5SyyKs16XyExkEjA"
@@ -20518,7 +20536,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 213333,
       "name": "Hiekka",
       "url": "https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb"
@@ -21806,7 +21824,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 155395,
       "name": "Interlude N.001 La Combi",
       "url": "https://open.spotify.com/track/0OYmX5M4PPwrwHchuZuTsd"
@@ -23256,7 +23274,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 193408,
       "name": "LA BB",
       "url": "https://open.spotify.com/track/0ZHa7r3FjMjZlnwgwyTdgX"
@@ -26192,7 +26210,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 159501,
       "name": "Lolly (with Clarent)",
       "url": "https://open.spotify.com/track/4B18y89IGhU1XbTzDK8Q4k"
@@ -27868,7 +27886,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 183636,
       "name": "MARTINI+",
       "url": "https://open.spotify.com/track/6LNeAcM7VY0715oliFJ8dd"
@@ -28194,7 +28212,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 207000,
       "name": "me extra\u00f1as? :(",
       "url": "https://open.spotify.com/track/5wQ9Z8tq72XozbpoxA2hqi"
@@ -29044,7 +29062,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 186514,
       "name": "MI KILITO",
       "url": "https://open.spotify.com/track/3GcYTHHnnIT74cJeaJi2Zo"
@@ -30872,7 +30890,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 283200,
       "name": "Natural - Remix",
       "url": "https://open.spotify.com/track/5kYYpK0UaX925YBm6wKjV1"
@@ -32642,7 +32660,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 271801,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
@@ -32954,6 +32972,24 @@
       "duration_ms": 15002,
       "name": "OF",
       "url": "https://open.spotify.com/track/0YKcfyfZMtmedAjYBThoTt"
+    },
+    {
+      "album": {
+        "name": "OF (Only Fans)",
+        "url": "https://open.spotify.com/album/0chstKYem6rywr5Qm0y6ka"
+      },
+      "artists": [
+        {
+          "name": "SAI",
+          "url": "https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "OF (Only Fans)",
+      "url": "https://open.spotify.com/track/4JUkTbDOAK6xR0Ne3TTdr7"
     },
     {
       "album": {
@@ -34180,7 +34216,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 150578,
       "name": "Pa las girlas",
       "url": "https://open.spotify.com/track/7dCGkDZgWIDSZyxInMkdIv"
@@ -34606,6 +34642,28 @@
       "duration_ms": 247637,
       "name": "Panas",
       "url": "https://open.spotify.com/track/1ce0KvZOhRL0O6x1YYQPS8"
+    },
+    {
+      "album": {
+        "name": "De Vuelta a las Andadas",
+        "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247637,
+      "name": "Panas",
+      "url": "https://open.spotify.com/track/2LPDqzi5qYbKVeBn2i0pck"
     },
     {
       "album": {
@@ -35314,7 +35372,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 232493,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/2cOLPCuhMrTzrErYHwVFAj"
@@ -36786,7 +36844,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 183673,
       "name": "PONTE LOKITA",
       "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
@@ -39656,7 +39714,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 139534,
       "name": "REMEDIO",
       "url": "https://open.spotify.com/track/63zeT81t627KKfZsC920QN"
@@ -39820,7 +39878,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 205227,
       "name": "RIAA",
       "url": "https://open.spotify.com/track/2Hs9oFO1m6dfQbFfmT2lZV"
@@ -41206,6 +41264,32 @@
       "duration_ms": 152903,
       "name": "SECRETO VICTORIA",
       "url": "https://open.spotify.com/track/4vXEhBLt8fuZeMvTDXbIyi"
+    },
+    {
+      "album": {
+        "name": "dile no a las drogas",
+        "url": "https://open.spotify.com/album/2kvzVR1bpkXKLmai4ZfMqS"
+      },
+      "artists": [
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "secuestro",
+      "url": "https://open.spotify.com/track/3I4YGWwJoqBdBGVnkRjnVw"
     },
     {
       "album": {
@@ -43738,7 +43822,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 103520,
       "name": "Super",
       "url": "https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy"
@@ -45388,7 +45472,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 127659,
       "name": "TINTIAO",
       "url": "https://open.spotify.com/track/6VzN0x4SxG66lrXFtQMi2D"
@@ -47262,7 +47346,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 269714,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/4tQofG51E0juZBBVr6pral"
@@ -48536,7 +48620,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
@@ -48964,7 +49048,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 208743,
       "name": "VITAMINA",
       "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"

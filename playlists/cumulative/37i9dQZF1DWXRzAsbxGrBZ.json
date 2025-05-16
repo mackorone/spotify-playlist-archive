@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/4524s7WVTUnjZ6W8AwtjLz"
+      },
+      "artists": [
+        {
+          "name": "8nine Muzique",
+          "url": "https://open.spotify.com/artist/47Htt5Zm9p72oZH0DcItjx"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434086,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/3bgNTFqRP2L3uTSt76MWCP"
+    },
+    {
+      "album": {
         "name": "Ain't Nobody",
         "url": "https://open.spotify.com/album/4eAzUQu9BoUiO81G66UH9z"
       },
@@ -918,7 +936,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 381235,
       "name": "Do You Care",
       "url": "https://open.spotify.com/track/0NX0CN8OVQZQsmxCJnH0f4"
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 469614,
       "name": "Emulate - Original Mix",
       "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 444461,
       "name": "Feeling & Attitude (feat. Vhuvii) - (Original Mix)",
       "url": "https://open.spotify.com/track/4KVfv0GzILJBI6BysxKewf"
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 454884,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7fdOJov0hTufIn7nbcd6dj"
@@ -1718,6 +1736,32 @@
       "duration_ms": 373592,
       "name": "HER",
       "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/5BMpz7ShVooeDtAYNub1MM"
+      },
+      "artists": [
+        {
+          "name": "Mr Stixx SA",
+          "url": "https://open.spotify.com/artist/0Kuv1QBg8CJfXKneNiICHq"
+        },
+        {
+          "name": "Ladi Adiosoul",
+          "url": "https://open.spotify.com/artist/2hVkV8mF0AmOz8oy2xPexF"
+        },
+        {
+          "name": "Decency",
+          "url": "https://open.spotify.com/artist/51GeaSm7aG0Y6V22828JnW"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354164,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/10Kt0CdkddbHYVagQyZn2i"
     },
     {
       "album": {
@@ -2216,7 +2260,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 430301,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq"
@@ -2434,7 +2478,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 391523,
       "name": "Ko Mafifing",
       "url": "https://open.spotify.com/track/46iR1U52EKPyrakvl8IzeS"
@@ -2726,7 +2770,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 404739,
       "name": "Love Grooves",
       "url": "https://open.spotify.com/track/17Ntu6hwyIPJ68vqRboxAq"
@@ -3096,6 +3140,24 @@
       "duration_ms": 370185,
       "name": "Middle Of The Garden",
       "url": "https://open.spotify.com/track/6Fy6qP6B5CSvXo4auTbLCQ"
+    },
+    {
+      "album": {
+        "name": "MIND OVER MATTER",
+        "url": "https://open.spotify.com/album/5fwVqNsOAteXNkzvnPfRKc"
+      },
+      "artists": [
+        {
+          "name": "Griffith Malo",
+          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410847,
+      "name": "MIND OVER MATTER",
+      "url": "https://open.spotify.com/track/3S6HRuQwyaqbWoADpe89Cr"
     },
     {
       "album": {
@@ -3774,7 +3836,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 361078,
       "name": "Oh Mdali",
       "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
@@ -4644,7 +4706,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 384124,
       "name": "So Long",
       "url": "https://open.spotify.com/track/2gP68X8AomYum6NvnbH4sW"
@@ -4958,7 +5020,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 240000,
       "name": "That Jazz??? - Live",
       "url": "https://open.spotify.com/track/6BRJMuTvHJekSzz8Ls6qNl"
@@ -5246,6 +5308,28 @@
       "duration_ms": 465288,
       "name": "Those Times",
       "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
+    },
+    {
+      "album": {
+        "name": "Time (DeeperClubmix)",
+        "url": "https://open.spotify.com/album/2TDwEpz7hdaknSBhvkMdwo"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        },
+        {
+          "name": "Rhyan Hendricks",
+          "url": "https://open.spotify.com/artist/59xN4XuNYGFX4broQC7LDE"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480782,
+      "name": "Time (DeeperClubmix)",
+      "url": "https://open.spotify.com/track/1BUNFzk2Epe8Mugx6YiDeI"
     },
     {
       "album": {
@@ -5623,6 +5707,32 @@
     },
     {
       "album": {
+        "name": "Vibrant Echoes",
+        "url": "https://open.spotify.com/album/0FhskU1q5Ipjhwt3c9i2BY"
+      },
+      "artists": [
+        {
+          "name": "RoneeDeep",
+          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
+        },
+        {
+          "name": "Just Percy",
+          "url": "https://open.spotify.com/artist/47nFfbUJLgqP9rFKZLzzXy"
+        },
+        {
+          "name": "Mduduzi Ncube",
+          "url": "https://open.spotify.com/artist/26wQS9QDgipxSQd9uWBUSG"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397241,
+      "name": "Wamuhle (feat. Just Percy & Mduduzi Ncube)",
+      "url": "https://open.spotify.com/track/5fTPU1IsToG2P7IgCjDQdK"
+    },
+    {
+      "album": {
         "name": "Wamuhle (feat. Just Percy & Mduduzi Ncube)",
         "url": "https://open.spotify.com/album/7LDVHxI3UobUQk87RLkXxC"
       },
@@ -5870,7 +5980,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 471484,
       "name": "Xigubu Xa Michelin",
       "url": "https://open.spotify.com/track/47Fd04NzSWeobKvJsbgqzb"

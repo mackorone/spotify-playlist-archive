@@ -2,9 +2,9 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B in the UK\. Cover: Shamiya Battles
+> The latest of R&B in the UK\. Cover: Orla Rae
 
-400 songs - 20 hr 52 min
+402 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 | 2024-03-22 | 2024-12-13 |
 | [DEH DEH](https://open.spotify.com/track/3eMpDpuaxr1QFnVSSfv9Zf) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [DEH DEH](https://open.spotify.com/album/6Tbw38wfTTtHxspqGrdr5w) | 3:09 | 2022-10-23 | 2023-07-19 |
 | [DFMU](https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:17 | 2022-07-17 | 2024-04-19 |
+| [Diamonds & Flowers](https://open.spotify.com/track/6043obWnw1f8z343NzVVVU) | [Orla Rae](https://open.spotify.com/artist/0AUDHx1z026BGD4s4uASxt) | [orla](https://open.spotify.com/album/29rM7DvmelBvoL45ZgB0YG) | 2:55 | 2025-05-15 |  |
 | [Dingaling](https://open.spotify.com/track/1upqTfjNfblLHKqasQAPc0) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Dingaling](https://open.spotify.com/album/5aMRGlhrRsaVUIL25FRYsJ) | 3:20 | 2022-07-17 | 2023-02-16 |
 | [Dive \- Acoustic](https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive \- Acoustic](https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4) | 3:06 | 2023-05-18 | 2024-09-13 |
 | [Diversion](https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Diversion](https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5) | 2:42 | 2023-07-21 | 2023-08-19 |
@@ -231,6 +232,7 @@
 | [Mama](https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mama](https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6) | 3:40 | 2023-08-18 | 2023-10-04 |
 | [Mandy](https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Mandy](https://open.spotify.com/album/11TgzkZn6xP5E2jYkQJIga) | 3:05 | 2022-07-17 | 2023-05-15 |
 | [Marking My Time](https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau) | 4:28 | 2023-09-22 | 2024-04-26 |
+| [Memory Lane](https://open.spotify.com/track/6ZK6kijHXpQH1XGS6ZAygu) | [Neya](https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg) | [Memory Lane](https://open.spotify.com/album/2a6BJjAOIKQFCQ8LaHwR2c) | 2:43 | 2025-05-15 |  |
 | [MET YOU AT A BAR](https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [MET YOU AT A BAR](https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP) | 2:40 | 2024-03-22 | 2025-01-24 |
 | [MET YOU AT A BAR](https://open.spotify.com/track/4OBgCqoGas1dSNyRXRtRpK) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:40 | 2024-12-06 | 2025-05-09 |
 | [Mine](https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6), [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Mine](https://open.spotify.com/album/4EUnbMqIwNcYKccQt2NC7z) | 2:38 | 2024-08-06 | 2025-04-25 |
@@ -306,7 +308,7 @@
 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 | 2022-07-17 | 2023-07-22 |
 | [Roses](https://open.spotify.com/track/48WrzCOskXcN8QLUZo9Phd) | [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [Roses](https://open.spotify.com/album/26WbEJQTHilXOjVwG8Ngz0) | 2:54 | 2024-08-06 | 2024-08-24 |
 | [Ruins](https://open.spotify.com/track/0cSoj3kRRqkXRnzf2e0NsF) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Ruins](https://open.spotify.com/album/2La4Ejq0aVPrThoLGJOj79) | 3:49 | 2024-03-22 | 2024-04-19 |
-| [RUN](https://open.spotify.com/track/5VvqdGNXShpNbG8M72e00j) | [Sheltoh](https://open.spotify.com/artist/0BeBk0t2FZqz0X4aUHkBs2) | [RUN](https://open.spotify.com/album/7AVe0GL7ZB2a2d8XgW6oTU) | 3:04 | 2025-02-14 |  |
+| [RUN](https://open.spotify.com/track/5VvqdGNXShpNbG8M72e00j) | [Sheltoh](https://open.spotify.com/artist/0BeBk0t2FZqz0X4aUHkBs2) | [RUN](https://open.spotify.com/album/7AVe0GL7ZB2a2d8XgW6oTU) | 3:04 | 2025-02-14 | 2025-05-16 |
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 | 2022-07-17 | 2023-07-22 |
 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 | 2023-08-18 | 2023-11-25 |
 | [S2BU](https://open.spotify.com/track/57rmJYWKMa75EM57RE4MlH) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [S2BU](https://open.spotify.com/album/5v5sBtBn1ouX6trgMmuXh3) | 2:47 | 2023-05-15 | 2023-06-02 |
@@ -336,7 +338,7 @@
 | [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 | 2024-08-06 | 2025-01-21 |
 | [Strange How Good Things Change](https://open.spotify.com/track/0zS1iD37gmxzffMH11vqf7) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB) | [Strange How Good Things Change](https://open.spotify.com/album/431GIE38nppu1zGX5EXJUj) | 3:21 | 2022-07-17 | 2023-05-23 |
 | [Strawberry Skies](https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Strawberry Skies](https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09) | 3:06 | 2023-07-21 | 2023-09-15 |
-| [Streets](https://open.spotify.com/track/0xmOfwQ4UxyNSt8g50yE3i) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Streets](https://open.spotify.com/album/0hj6iS5EK2Nn4uOZh6psCV) | 2:51 | 2025-05-08 |  |
+| [Streets](https://open.spotify.com/track/0xmOfwQ4UxyNSt8g50yE3i) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Streets](https://open.spotify.com/album/0hj6iS5EK2Nn4uOZh6psCV) | 2:51 | 2025-05-08 | 2025-05-16 |
 | [Stupid People](https://open.spotify.com/track/5g80aGSWaxJJk9DhAQvthJ) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Stupid People](https://open.spotify.com/album/4wb5WR7sbsDkDJ8hlefgGG) | 3:09 | 2022-07-17 | 2023-01-11 |
 | [Subtle Games \- Remix](https://open.spotify.com/track/6PF4h4F2wkskBlO4XbqT5U) | [Mezraa](https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs), [jjad](https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Subtle Games \(Remix\)](https://open.spotify.com/album/3aMR26kSe8rzHjj7VXLk1R) | 2:34 | 2023-05-18 | 2023-06-02 |
 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 | 2023-07-21 | 2023-11-02 |

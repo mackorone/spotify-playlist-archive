@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Nectar Woode
+> The best voices in R&B\. Cover: No Guidnce, Tamera
 
-452 songs - 23 hr 51 min
+454 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,9 +36,10 @@
 | [alone](https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [alone](https://open.spotify.com/album/078mNMvgotfFlDzQge83em) | 3:06 | 2024-11-15 |  |
 | [Already Yours](https://open.spotify.com/track/6CNzC5wJNXDPumzQp13BYa) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Already Yours](https://open.spotify.com/album/3c1dHRVoVtPBAPIv2h282h) | 3:11 | 2023-02-23 | 2023-10-28 |
 | [Anchor](https://open.spotify.com/track/1KPwT9OnDkaKk4smsUysgq) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 2:49 | 2023-11-10 | 2024-06-15 |
+| [Angel in Disguise \- Spotify Singles](https://open.spotify.com/track/6As4ASyAXTOuzub0MOligf) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Rodney Jerkins](https://open.spotify.com/artist/33b5NkaZsL1YoW7pO19Sc7) | [Angel in Disguise \- Spotify Singles](https://open.spotify.com/album/0uGn4uXVGKMPb5F4ZHdnx6) | 4:02 | 2025-05-15 |  |
 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 | 2025-05-01 |  |
 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 | 2023-02-23 | 2023-07-22 |
-| [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 | 2024-10-24 |  |
+| [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 | 2024-10-24 | 2025-05-16 |
 | [Are U Still](https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Are U Still](https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR) | 3:50 | 2025-02-21 | 2025-05-02 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-17 |  |
 | [Around Me](https://open.spotify.com/track/1YEVx89VQ53Lj96DuDs6Et) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Around Me](https://open.spotify.com/album/637AZlOAncgk471qGUVCvP) | 2:54 | 2024-10-03 | 2025-03-14 |
@@ -223,7 +224,7 @@
 | [Let's Talk About It](https://open.spotify.com/track/7ndcbnVmqORhDBMA0VPt4W) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Let's Talk About It](https://open.spotify.com/album/0J0aCszy6epzsN60DXaR2k) | 2:44 | 2023-05-14 | 2024-02-28 |
 | [Leveled \(Radio Edit\)](https://open.spotify.com/track/4Kq94swsRMQAVXmVWPkcFk) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Leveled \(Radio Edit\)](https://open.spotify.com/album/6rpbcVQAy3OuPnWCiUz3sy) | 3:01 | 2023-05-14 | 2023-08-19 |
 | [Liar in Love](https://open.spotify.com/track/06lMWuKmn6pMp3rUiR3T3h) | [Orla Rae](https://open.spotify.com/artist/0AUDHx1z026BGD4s4uASxt) | [Liar in Love](https://open.spotify.com/album/7y2wroHTbDqhrG7848YNdx) | 4:13 | 2025-03-21 |  |
-| [Lie to Me](https://open.spotify.com/track/3kcep0cejbxbScTUQsQMCG) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Lie to Me](https://open.spotify.com/album/4onIaWbChJYDd3mbUON3FO) | 2:45 | 2024-10-03 |  |
+| [Lie to Me](https://open.spotify.com/track/3kcep0cejbxbScTUQsQMCG) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Lie to Me](https://open.spotify.com/album/4onIaWbChJYDd3mbUON3FO) | 2:45 | 2024-10-03 | 2025-05-16 |
 | [Like Her Too](https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Like Her Too](https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe) | 2:57 | 2023-05-14 | 2023-07-22 |
 | [Little Blue Moon](https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp) | 2:48 | 2023-11-17 | 2024-06-15 |
 | [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 | 2023-11-24 | 2024-04-19 |
@@ -321,6 +322,7 @@
 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 | 2023-02-23 | 2023-05-15 |
 | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 | 2025-01-31 |  |
 | [Pride](https://open.spotify.com/track/3HiVqLksar2QNbgXOjDRYm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Pride](https://open.spotify.com/album/7trfAzxwXmdxFnZZT3TQ5y) | 2:23 | 2024-11-01 | 2025-03-28 |
+| [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 | 2025-05-15 |  |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2023-05-24 | 2023-09-30 |
 | [PROTECTOR](https://open.spotify.com/track/4dsdSwSdBWjlsVzU6iJs3b) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Rumi Carter](https://open.spotify.com/artist/3wagsd3wjqjNVlMLPudipm) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:04 | 2024-04-25 | 2024-05-11 |
 | [Purple and Orange](https://open.spotify.com/track/1xZxyGIlRQiE4MdzQl1FmY) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Purple and Orange](https://open.spotify.com/album/7unz0HHn5fBYz8YUKS5jav) | 2:34 | 2023-09-22 | 2024-11-01 |

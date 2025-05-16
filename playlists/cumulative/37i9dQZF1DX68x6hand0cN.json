@@ -147,6 +147,32 @@
     },
     {
       "album": {
+        "name": "Amn\u00e9sie",
+        "url": "https://open.spotify.com/album/3cqxi5I9ha8iloqYZoFG9N"
+      },
+      "artists": [
+        {
+          "name": "ZAKLOOW",
+          "url": "https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx"
+        },
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        },
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164409,
+      "name": "Amn\u00e9sie",
+      "url": "https://open.spotify.com/track/0E9ydBvgGQDkPHn1svonNP"
+    },
+    {
+      "album": {
         "name": "Askim",
         "url": "https://open.spotify.com/album/4gxcNezXVxIb0PXUQq3alZ"
       },
@@ -1006,7 +1032,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 149209,
       "name": "DARBA 9ADIYA",
       "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
@@ -2458,7 +2484,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 171200,
       "name": "LUJ",
       "url": "https://open.spotify.com/track/4KyW8q0wRd4OSznGrGOiYX"
@@ -3624,6 +3650,28 @@
       "duration_ms": 199055,
       "name": "RS",
       "url": "https://open.spotify.com/track/1rL5nZhAgxPBbG3z5hl8it"
+    },
+    {
+      "album": {
+        "name": "RS6",
+        "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228017,
+      "name": "RS6",
+      "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
     },
     {
       "album": {

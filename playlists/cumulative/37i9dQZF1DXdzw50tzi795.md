@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Jeff Satur
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: 2Ectasy, Z9
 
 165 songs - 10 hr 44 min
 

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 15 May 22:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 15 May 18:04 UTC.
 
-4,732 songs - 10 day 23 hr 18 min
+4,734 songs - 10 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Ballad \(In The End\)](https://open.spotify.com/track/26fgrURRuCq8Ue8Xvjlg7e) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Ballad \(In The End\)](https://open.spotify.com/album/32dguOrrWcZWYWYuVR1bTw) | 4:27 | 2024-10-03 | 2024-10-05 |
 | [Ballad Of A Lone Soldier](https://open.spotify.com/track/4RNzLiX3ZIcD7soF4dAFP4) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Ballad Of A Lone Soldier](https://open.spotify.com/album/48q86w1HiA74Q5uQWtLTkQ) | 4:59 | 2024-12-20 | 2025-01-08 |
 | [Balloon in Love](https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Balloon in Love](https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9) | 3:14 | 2024-06-13 | 2024-06-15 |
-| [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-02 |  |
+| [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-02 | 2025-05-16 |
 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 | 2025-02-14 | 2025-02-18 |
 | [BAMBI](https://open.spotify.com/track/1BuCEYUiLcIEbG9PBeCtHi) | [STOMACH BOOK](https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN), [zombAe](https://open.spotify.com/artist/6lVUWhNB7hIUznWHCNww6D) | [BAMBI](https://open.spotify.com/album/7bknc9MTLDwX5DsYz411ia) | 3:05 | 2024-08-10 | 2024-08-15 |
 | [Bando Kid](https://open.spotify.com/track/6YgDbK0EEsKKi0uXWjLaAl) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Bando Kid](https://open.spotify.com/album/3MJXXZKLhyhbnvNSYy44Xw) | 3:17 | 2024-06-28 | 2024-07-02 |
@@ -531,6 +531,7 @@
 | [Blood Sweat & Tears \(from the series Arcane League of Legends\)](https://open.spotify.com/track/32aBLFuInDNhtJ6jogN6ln) | [Sheryl Lee Ralph](https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y) | [Blood Sweat & Tears \(from the series Arcane League of Legends\)](https://open.spotify.com/album/2AjywCFiqJOmviUYTkkIiY) | 3:42 | 2024-10-28 | 2024-10-31 |
 | [Bloodsport](https://open.spotify.com/track/7f5CKG6ztLKCZ6k7GTTl2k) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Bloodsport](https://open.spotify.com/album/7JoCjEqK2Lc9OJiqNNv6q9) | 3:53 | 2025-03-21 | 2025-03-28 |
 | [Bloom](https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Bloom](https://open.spotify.com/album/6HEq0bWaLaL9vFSEiYjqpU) | 2:28 | 2024-08-16 | 2024-08-22 |
+| [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 | 2025-05-15 |  |
 | [Blossom](https://open.spotify.com/track/2OgQsOSI0UJKhAktzQ95MP) | [PIKASONIC](https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e) | [Blossom](https://open.spotify.com/album/7ByZ7nFM5uVBpDF22tbupV) | 3:00 | 2024-11-29 | 2024-12-04 |
 | [BLOW](https://open.spotify.com/track/1ezgg2TtgRNUEypmMQT8Ss) | [Big Ocean](https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY) | [BLOW](https://open.spotify.com/album/0Auz28ueaba0300gzFbUVo) | 2:50 | 2024-06-03 | 2024-06-06 |
 | [Blue Demon](https://open.spotify.com/track/1GxaEkfGQrN6cuUOMJ8yqi) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Blue Demon](https://open.spotify.com/album/4EjU3mNmfEVljQgGbuZz1l) | 3:45 | 2025-03-02 | 2025-03-15 |
@@ -3428,7 +3429,7 @@
 | [S.I.P](https://open.spotify.com/track/6MHAoGCcuOxXzfC6KYSlF1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [S.I.P](https://open.spotify.com/album/6r0EFFUcZl45ChVwCjr5jF) | 2:26 | 2024-10-25 | 2024-10-31 |
 | [S.N.C](https://open.spotify.com/track/335vJ5AwekBqjaj1XjmRnd) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [S.N.C](https://open.spotify.com/album/0oaI0qO5yCMuaQ7hcczrmj) | 5:55 | 2025-01-09 | 2025-01-18 |
 | [S.U](https://open.spotify.com/track/28yziaAmoo7rSKQxHCdYgc) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [S.U](https://open.spotify.com/album/1LahDT3SfYqQQCeRP9Ay4v) | 2:49 | 2025-02-07 | 2025-02-15 |
-| [S.W.M.F.](https://open.spotify.com/track/1H2hPFMGnTHFom0L9LaIEh) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [S.W.M.F.](https://open.spotify.com/album/2sfHdpolaidE0tV9uBfLqG) | 3:08 | 2025-05-10 |  |
+| [S.W.M.F.](https://open.spotify.com/track/1H2hPFMGnTHFom0L9LaIEh) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [S.W.M.F.](https://open.spotify.com/album/2sfHdpolaidE0tV9uBfLqG) | 3:08 | 2025-05-10 | 2025-05-16 |
 | [S4VAGE](https://open.spotify.com/track/4i5lqKyTDAXsTU90CdXUrw) | [JILUKA](https://open.spotify.com/artist/29GG0pny3WjcVP9fUb3a7v) | [S4VAGE](https://open.spotify.com/album/1B4hjWWjkC2E1uO1P2H7XI) | 4:13 | 2024-06-11 | 2024-06-13 |
 | [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 | 2024-06-18 | 2024-06-20 |
 | [Sacred](https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/7mmj9Kh2WmbKIs7eEQlGwM) | 3:49 | 2025-05-07 |  |
@@ -4222,6 +4223,7 @@
 | [Touchdown](https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Touchdown](https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2) | 2:32 | 2024-12-06 | 2024-12-13 |
 | [Tough \- Channel Tres Remix](https://open.spotify.com/track/3oBkOHVnI63U8e1ZiLnJ7r) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tough \(Channel Tres Remix\)](https://open.spotify.com/album/2vJu4551iNpu7oXJ6ymLi0) | 3:08 | 2024-10-04 | 2024-10-10 |
 | [Tough \- Gravagerz Remix](https://open.spotify.com/track/3HvnYVNNNJ1YC4zRNi1Aox) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Tough \(Gravagerz Remix\)](https://open.spotify.com/album/1zjrW4OHJjGmCPfA8VSLx6) | 3:39 | 2024-10-11 | 2024-10-17 |
+| [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 |  |
 | [Tout pour moi](https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:34 | 2024-09-20 | 2024-09-25 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-01 | 2024-10-04 |
 | [Toxic Love](https://open.spotify.com/track/42fQK88rizzWGmQ5A171KY) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [YIN](https://open.spotify.com/album/3SKAMCBO0FkSyKIO4aqsIs) | 2:29 | 2024-08-01 | 2024-08-03 |

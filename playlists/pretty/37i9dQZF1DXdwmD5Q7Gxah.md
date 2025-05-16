@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our newsletter...</a> Cover: waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,137 likes - 124 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,169 likes - 124 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: CoolKid
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
 
-176 songs - 10 hr 10 min
+177 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Trông Trăng](https://open.spotify.com/track/6snFw66Rvx0q90NbAxCy1k) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Rừng Bê Tông](https://open.spotify.com/album/3P7FAiLPsLKinIRi5PcnJN) | 3:34 | 2024-12-04 | 2025-03-28 |
 | [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-12-04 | 2025-03-28 |
 | [Tái chế con tim](https://open.spotify.com/track/6QrP2m1rhyT1EuPNvX7iWC) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Tái chế con tim](https://open.spotify.com/album/5fJBIrMnkozdKGZfJ68kqX) | 3:44 | 2024-04-02 | 2024-12-05 |
+| [tâm trí lang thang](https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [tâm trí lang thang](https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc) | 3:57 | 2025-05-15 |  |
 | [Tản Mạn Tình Yêu](https://open.spotify.com/track/62yTZeJXRqVrglTQTgTDHE) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [Tản Mạn Tình Yêu](https://open.spotify.com/album/4rp86Sga3TRDW6Qo97EIBJ) | 3:33 | 2024-09-26 | 2024-12-05 |
 | [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/3RdqYxmpZmeqTnkqRA9vBV) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa \- Maxi Single](https://open.spotify.com/album/1hJ4ByH5DIbywauU2koZDT) | 3:47 | 2024-02-01 | 2024-04-03 |
 | [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/4Xai78OB5OKQI9EFYcCzxD) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 3:47 | 2022-11-25 | 2024-03-09 |
@@ -163,7 +164,7 @@
 | [Ulala \(feat\. T.R.I\)](https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ulala](https://open.spotify.com/album/6T4E1Vk1gP5LM300KhSW6I) | 3:02 | 2023-07-25 | 2024-04-03 |
 | [UMBALA \- Acoustic version](https://open.spotify.com/track/0ubZvjPkpi7mJxAI9PkCtd) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR) | [UMBALA \(Acoustic version\)](https://open.spotify.com/album/6xQVtFRH4WGlHTpuZ4U7oi) | 3:34 | 2023-11-21 | 2024-12-05 |
 | [UP](https://open.spotify.com/track/0dZ6FTTzEKWxvWeSjuLxrm) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Hunter Ska](https://open.spotify.com/artist/3FMFRrACgsv8lLH1jMpRJJ) | [UP](https://open.spotify.com/album/7e3aXX2fXPfkFei2CnNd14) | 3:14 | 2024-12-04 | 2025-03-28 |
-| [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 | 2024-12-04 |  |
+| [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 | 2024-12-04 | 2025-05-16 |
 | [USO](https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:29 | 2025-03-27 |  |
 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-09-09 | 2024-09-27 |
 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/2ozchu3Zz56PixMzMP8r94) | 3:45 | 2024-02-01 | 2024-04-19 |

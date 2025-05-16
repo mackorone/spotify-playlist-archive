@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 72177,
+  "num_followers": 72188,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 226664,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "tell me (K edit)",
         "url": "https://open.spotify.com/album/4ZEesICUq2i6oqoTuvI1lr"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 163532,
       "name": "tell me",
       "url": "https://open.spotify.com/track/5czEMyVO87hXKDHT2DGCex"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 226664,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC"
     },
     {
       "added_at": "2024-12-04 12:15:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u597d\u6a02\u5718 (Good Band)",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u56de\u8072\u6a02\u5718 (Echo of Your Soul)",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -346,7 +346,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 175760,
       "name": "BOSS - Chinese Version",
       "url": "https://open.spotify.com/track/03hzMaSd1VelLy01ornzYV"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 172090,
       "name": "Elizabeth",
       "url": "https://open.spotify.com/track/3HalgO3TsAqw4odHjaMCGX"
@@ -666,6 +666,24 @@
       "duration_ms": 259161,
       "name": "English Song",
       "url": "https://open.spotify.com/track/41oIwYzv9rEuUAreANKf3u"
+    },
+    {
+      "album": {
+        "name": "fallen lights",
+        "url": "https://open.spotify.com/album/1kIPthOnebcPIlJGa2QelL"
+      },
+      "artists": [
+        {
+          "name": "The Freshman",
+          "url": "https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "fallen lights",
+      "url": "https://open.spotify.com/track/5adfY8Hw3cK17XjXGqsKzl"
     },
     {
       "album": {
@@ -742,7 +760,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 318763,
       "name": "Finally Home",
       "url": "https://open.spotify.com/track/6iR5O2B7JVJTCfHmqrHU4N"
@@ -1179,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Little Song\uff08\u5287\u96c6\u300a\u62dc\u516d\u79ae\u62dc\u300b\u7247\u5c3e\u66f2\uff09",
+        "url": "https://open.spotify.com/album/0JA5WH1aKgMhj0hoCs9UAQ"
+      },
+      "artists": [
+        {
+          "name": "Theseus \u5fd2\u4fee\u65af",
+          "url": "https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184463,
+      "name": "Little Song\uff08\u5287\u96c6\u300a\u62dc\u516d\u79ae\u62dc\u300b\u7247\u5c3e\u66f2\uff09",
+      "url": "https://open.spotify.com/track/0dfkJYa8wzIGjooQ5y5yxl"
+    },
+    {
+      "album": {
         "name": "London Bridge",
         "url": "https://open.spotify.com/album/3GOYYeYEpdqzQyLkIzf3CE"
       },
@@ -1471,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "NONO",
+        "url": "https://open.spotify.com/album/4dfs3xvlI6Z8fQK4m3dTn7"
+      },
+      "artists": [
+        {
+          "name": "\u9811\u7ae5Mj116",
+          "url": "https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "NONO",
+      "url": "https://open.spotify.com/track/34K7NvVX6Jw0AzT7hQpQ9X"
+    },
+    {
+      "album": {
         "name": "O Maan Ko",
         "url": "https://open.spotify.com/album/3yVV823W6ZAAJBe3vWkwoK"
       },
@@ -1500,7 +1554,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 160024,
       "name": "OGS",
       "url": "https://open.spotify.com/track/6KspA5I7eXMCcK4PgXmOPA"
@@ -1994,7 +2048,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 188571,
       "name": "SLAVE",
       "url": "https://open.spotify.com/track/6Zg8oELLwEQ0q91WojoqZB"
@@ -2132,7 +2186,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 185663,
       "name": "Summer Air",
       "url": "https://open.spotify.com/track/2o0zs9w6yWJfK4bD6h6jhf"
@@ -2226,6 +2280,24 @@
       "duration_ms": 170464,
       "name": "the times",
       "url": "https://open.spotify.com/track/23cJ3kcBhVPBfahKdGiMdC"
+    },
+    {
+      "album": {
+        "name": "\u5fd8\u6182\u6c34 Wonder Water",
+        "url": "https://open.spotify.com/album/4UcR9pUjaWEVwVigfbUEYe"
+      },
+      "artists": [
+        {
+          "name": "\u5fd8\u6182\u6c34 Wonder Water",
+          "url": "https://open.spotify.com/artist/6hwGNRMHwuw0jJxLV6UBzA"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "THE WAY",
+      "url": "https://open.spotify.com/track/5iBiBK5REXysFF0X59LHuQ"
     },
     {
       "album": {
@@ -2668,6 +2740,24 @@
       "duration_ms": 185000,
       "name": "\u4e0a\u73ed\u8d85\u4eba",
       "url": "https://open.spotify.com/track/0Ows2jXn6vtBkXVlATPvun"
+    },
+    {
+      "album": {
+        "name": "\u4e0b\u4e00\u4e2a\u8def\u53e3",
+        "url": "https://open.spotify.com/album/09SVYzgKb1b5tqppBH1k29"
+      },
+      "artists": [
+        {
+          "name": "The Life Journey",
+          "url": "https://open.spotify.com/artist/3qs5OOuNyNxW1JGhfdgnUI"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251571,
+      "name": "\u4e0b\u4e00\u4e2a\u8def\u53e3",
+      "url": "https://open.spotify.com/track/7mVXYthndhwbefKFuCQV3m"
     },
     {
       "album": {
@@ -3318,7 +3408,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 171080,
       "name": "\u5144\u5f1f\u5011\u8981\u9032\u57ce",
       "url": "https://open.spotify.com/track/4uvrxoCjxoitXnIT4yOdvf"
@@ -4316,10 +4406,6 @@
         {
           "name": "\u60c5\u5883\u904a\u6232",
           "url": "https://open.spotify.com/artist/217UWgEBGlSeseaZfDrc1d"
-        },
-        {
-          "name": "\u60c5\u5883\u6e38\u620f",
-          "url": "https://open.spotify.com/artist/10txc5zNdnsamLPaCMwssU"
         }
       ],
       "date_added": "2024-10-31",
@@ -4378,7 +4464,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 453000,
       "name": "\u5984 Delusion",
       "url": "https://open.spotify.com/track/4ttTFkhj69QvWXrXs8ip9h"
@@ -4432,7 +4518,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 287272,
       "name": "\u5bb3\u6015",
       "url": "https://open.spotify.com/track/0t5hue3Vy2u7pXuGcR39pj"
@@ -4566,6 +4652,24 @@
       "duration_ms": 267789,
       "name": "\u5c71\u4e2d\u68ee\u6797 - \u96fb\u5f71\u3010\u5c71\u4e2d\u68ee\u6797\u3011\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/4QJrHDvuAiDhSgPvYtlWAq"
+    },
+    {
+      "album": {
+        "name": "\u5c71\u8c37",
+        "url": "https://open.spotify.com/album/3cgDxIkeptxaitnCWY1iX9"
+      },
+      "artists": [
+        {
+          "name": "Sunken Boat\u6c89\u821f\u4e50\u961f",
+          "url": "https://open.spotify.com/artist/2RQAjFDfhTgaLoUkzPvKZp"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254520,
+      "name": "\u5c71\u8c37",
+      "url": "https://open.spotify.com/track/0dDLilUI7enonD9d0NErel"
     },
     {
       "album": {
@@ -5382,6 +5486,24 @@
       "duration_ms": 253511,
       "name": "\u6211\u5931\u7720\u4e86\u4e00\u6574\u500b\u590f\u5929",
       "url": "https://open.spotify.com/track/0UHxUum69IQ2c9fitsmn7q"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5b78\u6703\u7684\u7269\u7406",
+        "url": "https://open.spotify.com/album/7fUSEjKLfTe7AszNmZkrj3"
+      },
+      "artists": [
+        {
+          "name": "Echo of Your Soul",
+          "url": "https://open.spotify.com/artist/0TEJQb3o4DFVAnBBoVWQmy"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194951,
+      "name": "\u6211\u5b78\u6703\u7684\u7269\u7406",
+      "url": "https://open.spotify.com/track/522fZMvC7rXTQ8k2P5N69J"
     },
     {
       "album": {
@@ -6784,7 +6906,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 194230,
       "name": "\u6df7\u51dd\u571f\u51b2\u6d6a",
       "url": "https://open.spotify.com/track/5vCx1kNNdrlQDOWuJu0jrb"
@@ -6966,6 +7088,24 @@
       "duration_ms": 258493,
       "name": "\u7231\u7684\u8d5e\u7f8e\u8bd7",
       "url": "https://open.spotify.com/track/04yIp0ieRclkmLul9BOkmB"
+    },
+    {
+      "album": {
+        "name": "\u7238\u7238\u7684\u90a3\u53f0\u8eca",
+        "url": "https://open.spotify.com/album/7ftO7dgU5ANkzaY14tzo5i"
+      },
+      "artists": [
+        {
+          "name": "K.R Bros",
+          "url": "https://open.spotify.com/artist/72WakvmGJc8irwTVQKxPKV"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246833,
+      "name": "\u7238\u7238\u7684\u90a3\u53f0\u8eca",
+      "url": "https://open.spotify.com/track/49jNEQawee2ivWD5iUieda"
     },
     {
       "album": {
@@ -7198,6 +7338,24 @@
       "duration_ms": 258583,
       "name": "\u767e\u842c\u904d",
       "url": "https://open.spotify.com/track/462EupYYvcbUpCyzc3uf6y"
+    },
+    {
+      "album": {
+        "name": "\u5927\u6e2f2425\uff1a\u6642\u7a7a\u9677\u843d MEGAPORTAL 2425",
+        "url": "https://open.spotify.com/album/47SlFNTBtszCikToTQLZJX"
+      },
+      "artists": [
+        {
+          "name": "CHTHONIC",
+          "url": "https://open.spotify.com/artist/3mBFvlqINbTNsRB6htlJEY"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332632,
+      "name": "\u7687\u8ecd TAKAO - Live 2025\u5927\u6e2f\u958b\u5531 MEGAPORT",
+      "url": "https://open.spotify.com/track/6u7gnBqBkBmKmvYjXWvvCG"
     },
     {
       "album": {
@@ -8998,6 +9156,24 @@
       "duration_ms": 245012,
       "name": "\u9b5a\u8e8d\u9f8d\u9580",
       "url": "https://open.spotify.com/track/59UEd1ZCKiOycOLlyvDjie"
+    },
+    {
+      "album": {
+        "name": "Live at \u7d14\u5712",
+        "url": "https://open.spotify.com/album/3AdEaQiXueL6jOIayDPSby"
+      },
+      "artists": [
+        {
+          "name": "Shallow Lev\u00e9e",
+          "url": "https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302874,
+      "name": "\u9b6f\u51b0\u82b1 (Live at \u7d14\u5712)",
+      "url": "https://open.spotify.com/track/1w93uagV2NvqsyjT6SFb5g"
     },
     {
       "album": {

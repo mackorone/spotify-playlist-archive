@@ -4086,7 +4086,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 175385,
       "name": "Asteromata",
       "url": "https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz"
@@ -10834,7 +10834,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 156069,
       "name": "DOLCE GABBANA",
       "url": "https://open.spotify.com/track/7r0sYhhoM4hjeuCDlbCobZ"
@@ -16510,6 +16510,28 @@
       "duration_ms": 127205,
       "name": "GINA",
       "url": "https://open.spotify.com/track/4XtCM0qWk51wpqwaOTrSmc"
+    },
+    {
+      "album": {
+        "name": "Haimalina",
+        "url": "https://open.spotify.com/album/4BMQ6nxHZhktFB5PaG7xqB"
+      },
+      "artists": [
+        {
+          "name": "Aeon",
+          "url": "https://open.spotify.com/artist/5zWF4nQXb3UtlFtG7bHwRu"
+        },
+        {
+          "name": "Marina Kastrinou",
+          "url": "https://open.spotify.com/artist/1qkzoOODToakNQwzfTH0Oz"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ginatia",
+      "url": "https://open.spotify.com/track/4F6M9yu2m0XdX76bVGqXBD"
     },
     {
       "album": {
@@ -44628,7 +44650,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 218647,
       "name": "Xeiroteri Genia",
       "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Erika de Casier",
+  "description": "Beyond titles, beyond genre. Cover: Little Simz",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 179944,
       "name": "Chalk (feat. Delilah Montagu)",
       "url": "https://open.spotify.com/track/6WolE6URYKVoLtvS7r4Ujh"
@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Earcandy",
+        "url": "https://open.spotify.com/album/7p0eOkAgv8m9g59wprb0L0"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155546,
+      "name": "Done.",
+      "url": "https://open.spotify.com/track/7rxtStGAWSUYhMoXAdIQzj"
+    },
+    {
+      "album": {
         "name": "EXU",
         "url": "https://open.spotify.com/album/1ot0Meb4Br8LJqgnl9PFqm"
       },
@@ -2342,6 +2360,24 @@
       "duration_ms": 202735,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0"
+    },
+    {
+      "album": {
+        "name": "Dudu",
+        "url": "https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186129,
+      "name": "Dudu",
+      "url": "https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H"
     },
     {
       "album": {
@@ -2450,6 +2486,24 @@
       "duration_ms": 172082,
       "name": "Elk Skin",
       "url": "https://open.spotify.com/track/34gdkFDYWeqyqr8u7KSrWD"
+    },
+    {
+      "album": {
+        "name": "enough",
+        "url": "https://open.spotify.com/album/3NihohRMjIZ6PPAYzi7Mj3"
+      },
+      "artists": [
+        {
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182209,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/5F5o8qBRbzpkK8yvrWkjPU"
     },
     {
       "album": {
@@ -2834,7 +2888,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 200370,
       "name": "Forever Yung",
       "url": "https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE"
@@ -3808,7 +3862,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 196615,
       "name": "I Am Going Through Hell (Bittersweet)",
       "url": "https://open.spotify.com/track/4OmY7XHG4xGHMov01G9QZd"
@@ -4276,7 +4330,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 229626,
       "name": "Industrial Love Song",
       "url": "https://open.spotify.com/track/3089w7UmnSQboJ7wC3zchk"
@@ -4414,6 +4468,24 @@
       "duration_ms": 189573,
       "name": "Javelin",
       "url": "https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS"
+    },
+    {
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/66jybmyf9i4NelFuzOkJYz"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124422,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8"
     },
     {
       "album": {
@@ -4996,7 +5068,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 285840,
       "name": "Limits",
       "url": "https://open.spotify.com/track/4CmdJFgdhp5RVcjLh2q3YS"
@@ -5800,7 +5872,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 151612,
       "name": "need 2 breathe",
       "url": "https://open.spotify.com/track/1WO4Kn1TmIM56ksI4wF9mw"
@@ -6815,6 +6887,24 @@
     },
     {
       "album": {
+        "name": "PROMISE",
+        "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223738,
+      "name": "PROMISE",
+      "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
+    },
+    {
+      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
       },
@@ -7039,6 +7129,24 @@
     },
     {
       "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212483,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
+    },
+    {
+      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry"
       },
@@ -7090,6 +7198,24 @@
       "duration_ms": 179370,
       "name": "ROCKMAN",
       "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256920,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi"
     },
     {
       "album": {
@@ -7699,6 +7825,24 @@
     },
     {
       "album": {
+        "name": "SPEEDY GONZALES",
+        "url": "https://open.spotify.com/album/5jkMf30uiRBIC3hcOtQdMQ"
+      },
+      "artists": [
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198005,
+      "name": "SPEEDY GONZALES",
+      "url": "https://open.spotify.com/track/6M9bpXqgQgzYjWBiI9guYk"
+    },
+    {
+      "album": {
         "name": "Spiderwick",
         "url": "https://open.spotify.com/album/7hebGdQsbUFxYyjpkxaKdD"
       },
@@ -8222,7 +8366,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 212297,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/3BcMePW9jGSfzYqlNHdtvz"
@@ -8294,7 +8438,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 211047,
       "name": "television",
       "url": "https://open.spotify.com/track/1NDk9nqc215p1MNWpNOG3g"
@@ -8638,7 +8782,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
@@ -8714,7 +8858,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 187351,
       "name": "This Is Real",
       "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
@@ -9762,6 +9906,24 @@
       "duration_ms": 121884,
       "name": "You're the Best",
       "url": "https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE"
+    },
+    {
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/3kA6SPFnEBihAT9IfCQ4vY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/1SSeXpZJz5LY0tM4H8bmfC"
     },
     {
       "album": {

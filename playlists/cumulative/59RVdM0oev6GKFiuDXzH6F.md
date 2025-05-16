@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-971 songs - 2 day 1 hr 39 min
+973 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,6 +703,7 @@
 | [Rave To The Grave](https://open.spotify.com/track/3cTncddIg0cBjuwPRlew0r) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF) | [Rave To The Grave](https://open.spotify.com/album/6pK8ij9VluwiVJbJR48uE7) | 2:21 | 2023-06-08 | 2023-12-23 |
 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 | 2024-08-01 |  |
 | [Reach Your Soul](https://open.spotify.com/track/0T1S8QRJ2xvXM6SpFnd6YT) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Reach Your Soul](https://open.spotify.com/album/7lZS74Vqwv4FyVjabUQthO) | 2:44 | 2023-06-12 | 2023-07-14 |
+| [Ready Steady Go](https://open.spotify.com/track/2kGlbfYmEM6d84e9UZfRqN) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Ready Steady Go](https://open.spotify.com/album/1WZQgERLkOFYrgtaCIdLe8) | 2:47 | 2025-05-15 |  |
 | [Reality \- Radio Edit](https://open.spotify.com/track/2wPwPt1XM3IR9ErB80wehr) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Reality](https://open.spotify.com/album/5xsGdbomiUZpTOPI3LlBuo) | 3:09 | 2023-11-22 | 2024-10-11 |
 | [Red](https://open.spotify.com/track/3MvGYvJ8pjFnau0RkcspXK) | [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w), [Sarazar](https://open.spotify.com/artist/7fXsYMwApwATorXlTt95LD) | [Red](https://open.spotify.com/album/5piXyzMAIZuMZ8VaofZjNx) | 3:44 | 2024-02-16 | 2024-09-26 |
 | [Reflection](https://open.spotify.com/track/2ClTrd8Yob4FclId0VyjiV) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Reflection EP](https://open.spotify.com/album/41D6tuzkfG6LEGtrqCeVst) | 3:10 | 2023-04-03 | 2023-05-02 |
@@ -856,6 +857,7 @@
 | [The Smile You Wear](https://open.spotify.com/track/37XyLHVXoQsZjEQZYDH2qm) | [Will Vance](https://open.spotify.com/artist/0v21AnGRs4ESeZQTc8VWL4), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [The Smile You Wear](https://open.spotify.com/album/41UFArRozcIvFZrwGlOvxW) | 5:43 | 2024-12-05 |  |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-12-05 |  |
 | [The Stutter](https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [The Stutter](https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4) | 3:27 | 2023-07-08 | 2023-07-14 |
+| [The Summer Is Magic](https://open.spotify.com/track/7lC25gUPrasUpSuRFS01bR) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Carlprit](https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp) | [The Summer Is Magic](https://open.spotify.com/album/6MjlZdywOHPQCUSGqGPA7h) | 2:08 | 2025-05-15 |  |
 | [The Truth Is Coming Out](https://open.spotify.com/track/2LCs6j2TnnW4vaq1wsduec) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [The Truth Is Coming Out](https://open.spotify.com/album/0ggOgFM7EFOKgPFC4M4ABL) | 3:41 | 2024-12-05 |  |
 | [The Warehouse](https://open.spotify.com/track/3aGl9EKwX38Uob6MVtBDWw) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Bhaskar Vol\. 012](https://open.spotify.com/album/6Hb7MWG19j1LIHdYfkmcwe) | 3:11 | 2023-12-22 | 2024-09-26 |
 | [The Way You Move](https://open.spotify.com/track/4UrSEYzI7NB1OuHtcXAS6K) | [ROOSTERJAXX](https://open.spotify.com/artist/5s9BO1SFLuFK7SgVd86h1l), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [The Way You Move](https://open.spotify.com/album/48W74v1uwvMHpCqZ8ea2OR) | 2:50 | 2023-08-18 | 2023-08-28 |

@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84624,
+  "num_followers": 84630,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Plug! (Speed Plug)",
-        "url": "https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd"
-      },
-      "artists": [
-        {
-          "name": "Muzzi",
-          "url": "https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy"
-        },
-        {
-          "name": "Edubeatz",
-          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
-        }
-      ],
-      "duration_ms": 102250,
-      "name": "Plug! (Speed Plug)",
-      "url": "https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Deixa Escondido (Speed) [Remix]",
         "url": "https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 151341,
       "name": "Deixa Escondido (Speed) - Remix",
       "url": "https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Plug! (Speed Plug)",
+        "url": "https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd"
+      },
+      "artists": [
+        {
+          "name": "Muzzi",
+          "url": "https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy"
+        },
+        {
+          "name": "Edubeatz",
+          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
+        }
+      ],
+      "duration_ms": 102250,
+      "name": "Plug! (Speed Plug)",
+      "url": "https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "At\u00e9 o Amanhecer (Speed)",
+        "url": "https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        }
+      ],
+      "duration_ms": 170202,
+      "name": "At\u00e9 o Amanhecer - Speed",
+      "url": "https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Brotei No Baile Da Matinha (Tiktok)",
         "url": "https://open.spotify.com/album/4K63K2sdjaW6ySiaynrEGo"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 106595,
       "name": "Brotei No Baile Da Matinha - Tiktok",
       "url": "https://open.spotify.com/track/5kMfOzYm4xE5zdt2cH2rFy"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "At\u00e9 o Amanhecer (Speed)",
-        "url": "https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w"
-      },
-      "artists": [
-        {
-          "name": "MARINA NA VOZ",
-          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
-        }
-      ],
-      "duration_ms": 170202,
-      "name": "At\u00e9 o Amanhecer - Speed",
-      "url": "https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Semblante de Criminoso Speed",
         "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 98475,
       "name": "Semblante de Criminoso Speed",
       "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Pe\u00e7a",
         "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 135418,
       "name": "Pe\u00e7a - Speed",
       "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Imprevisto \u2013 Speed",
-        "url": "https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot"
-      },
-      "artists": [
-        {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
-        },
-        {
-          "name": "Skeeter Beats",
-          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
-        },
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        }
-      ],
-      "duration_ms": 118666,
-      "name": "Imprevisto \u2013 Speed",
-      "url": "https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
         "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 136615,
       "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
       "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Imprevisto \u2013 Speed",
+        "url": "https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        },
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        }
+      ],
+      "duration_ms": 118666,
+      "name": "Imprevisto \u2013 Speed",
+      "url": "https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
-        "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        },
-        {
-          "name": "Dj Kiko Da Vila",
-          "url": "https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
-      "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Boa Noite, DEUS (Sped Up)",
         "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
       },
@@ -1203,6 +1183,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
+        "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        },
+        {
+          "name": "Dj Kiko Da Vila",
+          "url": "https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
+      "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "O Que Adianta B\u00ea, Ser T\u00e3o Gostosa Se Ela \u00c9 da Farra, Bandida Treinada",
         "url": "https://open.spotify.com/album/7df6QDvBmyLjLhrby1VfUW"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 202452,
       "name": "Hoje Ela Pede Pandora ( Speed Up)",
       "url": "https://open.spotify.com/track/03iw5tUT1HLxI0pnlKKiKV"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
+        "url": "https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU"
+      },
+      "artists": [
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        }
+      ],
+      "duration_ms": 153795,
+      "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
+      "url": "https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1275,22 +1291,6 @@
       "duration_ms": 134760,
       "name": "Contatos - Speed Plug",
       "url": "https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
-        "url": "https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU"
-      },
-      "artists": [
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        }
-      ],
-      "duration_ms": 153795,
-      "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
-      "url": "https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy"
     },
     {
       "added_at": "2024-07-08 19:10:57",

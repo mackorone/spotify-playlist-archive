@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 20642,
+  "num_followers": 20645,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Iluminame, por Favor",
+        "url": "https://open.spotify.com/album/5Gx8hAOqxeUOpk4gfbHdrs"
+      },
+      "artists": [
+        {
+          "name": "Chifladas Tango",
+          "url": "https://open.spotify.com/artist/6ECEEja2Mu2I8UxShoTgfB"
+        },
+        {
+          "name": "Suarez&Torres",
+          "url": "https://open.spotify.com/artist/3iSir4AjnV4yakBYqKQfti"
+        }
+      ],
+      "duration_ms": 221633,
+      "name": "Iluminame, por Favor",
+      "url": "https://open.spotify.com/track/4yrVod77eUOgvpBkLwHIgn"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Marioneta",
         "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
       },
@@ -971,38 +991,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Iluminame, por Favor",
-        "url": "https://open.spotify.com/album/5Gx8hAOqxeUOpk4gfbHdrs"
+        "name": "Esa Mujer: Buenos Aires",
+        "url": "https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF"
       },
       "artists": [
         {
-          "name": "Chifladas Tango",
-          "url": "https://open.spotify.com/artist/6ECEEja2Mu2I8UxShoTgfB"
-        },
-        {
-          "name": "Suarez&Torres",
-          "url": "https://open.spotify.com/artist/3iSir4AjnV4yakBYqKQfti"
+          "name": "Marisa V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR"
         }
       ],
-      "duration_ms": 221633,
-      "name": "Iluminame, por Favor",
-      "url": "https://open.spotify.com/track/4yrVod77eUOgvpBkLwHIgn"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
-      },
-      "artists": [
-        {
-          "name": "Las Del Abasto",
-          "url": "https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Quejas de Bandone\u00f3n",
-      "url": "https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ"
+      "duration_ms": 155293,
+      "name": "Madrugada y Soledad",
+      "url": "https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if"
     }
   ],
   "unique_name": "Mujeres del Tango",

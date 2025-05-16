@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 眞名子新
 
-627 songs - 1 day 15 hr 48 min
+628 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 | 2024-07-02 | 2024-12-25 |
 | [ずっと作りかけのラブソング](https://open.spotify.com/track/03V7l3oKPFHtdLeHdIZVba) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [ずっと作りかけのラブソング](https://open.spotify.com/album/6rf24Fc6PJ5oBbcmwxWfY1) | 4:57 | 2025-02-25 |  |
 | [その先にあるもの](https://open.spotify.com/track/3diIhEJH6LDglJQxw0AKtt) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [その先にあるもの](https://open.spotify.com/album/1yiEQXiDt7TUpEMEoC96Sk) | 3:51 | 2024-07-09 | 2024-07-17 |
-| [それから](https://open.spotify.com/track/0ntBrWzM5KQYSF8Uw4yEoD) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [それから](https://open.spotify.com/album/4Iizk9UDxVeSGgcDB3bjW0) | 2:43 | 2025-04-29 |  |
+| [それから](https://open.spotify.com/track/0ntBrWzM5KQYSF8Uw4yEoD) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [それから](https://open.spotify.com/album/4Iizk9UDxVeSGgcDB3bjW0) | 2:43 | 2025-04-29 | 2025-05-16 |
 | [だけ](https://open.spotify.com/track/21SLsjKBgjLTZn8o5svyLE) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [432](https://open.spotify.com/album/7sNNWjEeyJkfuK0Y7pa4qR) | 3:20 | 2024-07-30 | 2024-08-07 |
 | [つくし](https://open.spotify.com/track/3fLHgcamKWZUG8qv6HrhoW) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [つくし](https://open.spotify.com/album/7C9g2DBFNVJ2drlDCzquCI) | 4:27 | 2025-02-04 |  |
 | [つなぐ](https://open.spotify.com/track/0EGcoVkXnzlwwPknTChfRY) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [つなぐ](https://open.spotify.com/album/3XI5KWjkl9vFHpt4tWS8tC) | 3:25 | 2025-04-01 | 2025-04-23 |
@@ -542,6 +542,7 @@
 | [春一番](https://open.spotify.com/track/0wsrPqMvaGQl58DCBNdkf8) | [Sato](https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31) | [とあるアイを綴って、](https://open.spotify.com/album/09GG4R46QMHhcseigszsxL) | 4:03 | 2025-03-11 | 2025-04-23 |
 | [春嵐](https://open.spotify.com/track/2gRT6NEsJC8JoaA1C444TF) | [二本柳 亮](https://open.spotify.com/artist/3rvgGE1GmlE5zSr5lKtW6Z) | [I am Ours](https://open.spotify.com/album/0C3RNKOxe7gLvNwqEDoo4g) | 4:10 | 2025-04-08 | 2025-04-16 |
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2024-07-02 | 2024-12-25 |
+| [暗闇](https://open.spotify.com/track/6icfGil407y3ssfZpgjf9f) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Gen](https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch) | 3:53 | 2025-05-13 |  |
 | [曖昧Blue](https://open.spotify.com/track/4emdiNIkXXHkHhWsEZtnuf) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [曖昧Blue](https://open.spotify.com/album/3jbh9OxCaU1UeuX1XmmWkm) | 3:57 | 2025-03-18 |  |
 | [最&強](https://open.spotify.com/track/6vblHjZAX1mKmCCSbZfAET) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [最&強](https://open.spotify.com/album/77f7VBVt5VRwWyP4nUdswe) | 3:46 | 2025-04-22 |  |
 | [月面着陸計画 \- Moon Landing Plan](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 | 2025-01-07 |  |

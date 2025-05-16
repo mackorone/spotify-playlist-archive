@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3B9t7y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3B9t7y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3B9t7y)
 
-### [This Is Carin Leon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B9t7y)
+### [This Is Carín León](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B9t7y)
 
-> This is Carin Leon\. The essential tracks, all in one playlist.
+> This is Carín León\. The essential tracks, all in one playlist.
 
 169 songs - 8 hr 55 min
 

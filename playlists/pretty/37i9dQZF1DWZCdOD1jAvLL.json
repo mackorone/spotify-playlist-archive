@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: CHYL",
-  "num_followers": 260982,
+  "num_followers": 261076,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -875,42 +875,6 @@
     {
       "added_at": "2025-05-09 19:20:02",
       "album": {
-        "name": "like JENNIE",
-        "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "like JENNIE - Peggy Gou Remix",
-      "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
-    },
-    {
-      "added_at": "2025-05-09 19:20:02",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
-      "added_at": "2025-05-09 19:20:02",
-      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -931,6 +895,42 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
+    },
+    {
+      "added_at": "2025-05-09 19:20:02",
+      "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2025-05-09 19:20:02",
+      "album": {
+        "name": "like JENNIE",
+        "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "like JENNIE - Peggy Gou Remix",
+      "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
     },
     {
       "added_at": "2025-05-09 19:20:02",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-05-09 19:20:02",
       "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
-    },
-    {
-      "added_at": "2025-05-09 19:20:02",
-      "album": {
         "name": "No Enemies (feat. Namasenda)",
         "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
+    },
+    {
+      "added_at": "2025-05-09 19:20:02",
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2025-05-09 19:20:02",
@@ -1751,26 +1751,22 @@
     {
       "added_at": "2025-05-09 19:20:02",
       "album": {
-        "name": "Night In Detroit (feat. Fedde Le Grand)",
-        "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
+        "name": "Telepathy",
+        "url": "https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np"
       },
       "artists": [
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "Chuurch",
+          "url": "https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA"
         }
       ],
-      "duration_ms": 166356,
-      "name": "Night In Detroit (feat. Fedde Le Grand)",
-      "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
+      "duration_ms": 224176,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl"
     },
     {
       "added_at": "2025-05-09 19:20:02",
@@ -1795,6 +1791,30 @@
     {
       "added_at": "2025-05-09 19:20:02",
       "album": {
+        "name": "Night In Detroit (feat. Fedde Le Grand)",
+        "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Night In Detroit (feat. Fedde Le Grand)",
+      "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
+    },
+    {
+      "added_at": "2025-05-09 19:20:02",
+      "album": {
         "name": "Hypnotic (feat. Kyozo)",
         "url": "https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD"
       },
@@ -1815,26 +1835,6 @@
       "duration_ms": 249461,
       "name": "Hypnotic (feat. Kyozo)",
       "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
-    },
-    {
-      "added_at": "2025-05-09 19:20:02",
-      "album": {
-        "name": "Telepathy",
-        "url": "https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Chuurch",
-          "url": "https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA"
-        }
-      ],
-      "duration_ms": 224176,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl"
     },
     {
       "added_at": "2025-05-09 19:20:02",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2025-05-09 19:20:02",
       "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Oscar L",
-          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
-    },
-    {
-      "added_at": "2025-05-09 19:20:02",
-      "album": {
         "name": "gImmE gImmE",
         "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
       },
@@ -2027,6 +2007,26 @@
       "duration_ms": 197842,
       "name": "gImmE gImmE",
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
+    },
+    {
+      "added_at": "2025-05-09 19:20:02",
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
     },
     {
       "added_at": "2025-05-09 19:20:02",

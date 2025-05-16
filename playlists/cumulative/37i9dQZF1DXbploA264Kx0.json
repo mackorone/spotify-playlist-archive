@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: \u5b89\u5409 (ANGIE) ",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: Mandark ",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "down",
+        "url": "https://open.spotify.com/album/6vCmYD16Fv6vS4patfC3vH"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144083,
+      "name": "down",
+      "url": "https://open.spotify.com/track/3ookojcT2eRZfaYP77mygQ"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/0h5NKR8z0YXTiCAQ8d1lPf"
       },
@@ -1540,6 +1558,24 @@
       "duration_ms": 324800,
       "name": "Expired \u301c\u671f\u9650\u5207\u308c\u306e\u611b\u301c (OT\uff1a\u6211\u9084\u7e5e\u8457\u4f60\u5728\u65cb\u8f49)",
       "url": "https://open.spotify.com/track/4PFWjoTHEFAfhonI5TUgAs"
+    },
+    {
+      "album": {
+        "name": "EXX",
+        "url": "https://open.spotify.com/album/4tjS7UM9uRgqw6MBvfqkIS"
+      },
+      "artists": [
+        {
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140201,
+      "name": "EXX",
+      "url": "https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3"
     },
     {
       "album": {
@@ -4422,7 +4458,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 188558,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7"
@@ -5286,7 +5322,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 182000,
       "name": "Sun and Moon",
       "url": "https://open.spotify.com/track/0jlFI17NbewxwP7lZzkd5Z"
@@ -7732,7 +7768,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 192000,
       "name": "\u7121\u8a71\u4e0d\u8ac7",
       "url": "https://open.spotify.com/track/42hfJNdHlbWscxl5QZpiJR"

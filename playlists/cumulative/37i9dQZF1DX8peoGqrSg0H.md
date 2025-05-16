@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: BOWKYLION, NONT TANONT
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Jeff Satur
 
-695 songs - 1 day 17 hr 1 min
+696 songs - 1 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 | 2022-12-09 |
 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 | 2024-10-31 | 2025-03-13 |
 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 | 2022-11-23 | 2023-02-11 |
-| [TOXIQUE](https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [TOXIQUE](https://open.spotify.com/album/0SvbDo20bk8gKf31wM7wZx) | 3:24 | 2025-04-23 |  |
+| [TOXIQUE](https://open.spotify.com/track/2UO8qxV8ti8sTk0OcnoJ2m) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [TOXIQUE](https://open.spotify.com/album/0SvbDo20bk8gKf31wM7wZx) | 3:24 | 2025-04-23 | 2025-05-16 |
 | [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2023-09-25 | 2024-09-13 |
 | [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 | 2024-10-31 | 2025-02-07 |
 | [TRANSFORMER](https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [TRANSFORMER](https://open.spotify.com/album/54fwuhzvvY36YnfA2TSezb) | 3:51 | 2024-09-29 | 2024-11-26 |
@@ -348,6 +348,7 @@
 | [ถ้าเธอไม่อยากโชคร้ายเรื่องความรัก \- Let Me Love You](https://open.spotify.com/track/6ah5ZmdllIdUK0VAhkCLkN) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [Cigarette Candy & Vanilla Sky](https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu) | 3:46 | 2022-08-05 | 2022-08-26 |
 | [ถ้าไม่ใช่ \(No One Else Like Me\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/6zonXTdfQREJpP8ZdBrRhg) | [Satang Kittiphop](https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/0ZhtsjHqydKCTjeGt1SO1S) | 3:20 | 2023-02-23 | 2023-03-10 |
 | [ทราบแล้วเปลี่ยน \- attention please](https://open.spotify.com/track/7MxhdBolnOFvWu4WMURsX5) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ทราบแล้วเปลี่ยน \(attention please\)](https://open.spotify.com/album/7r8dBkF7ABMLXIFQEuVbk2) | 3:55 | 2022-05-26 | 2023-09-16 |
+| [ทัก \(FIRST SIGHT\)](https://open.spotify.com/track/3hqLHxV65Uw7P2rqy0z886) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ทัก \(FIRST SIGHT\)](https://open.spotify.com/album/69zdewg8oYXQTd9E3GzhXA) | 3:27 | 2025-05-15 |  |
 | [ทักครับ](https://open.spotify.com/track/70DE8f3cq3auql4JMrF0Qg) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ทักครับ](https://open.spotify.com/album/5JQ7Bn6uJX2Ed94W8gvvJK) | 3:11 | 2022-05-26 | 2024-03-02 |
 | [ทานโทษ \(ไม่ใช่เพื่อนเล่น\) \(Bored Game\)](https://open.spotify.com/track/2ZtLeaMjTeMitKA4ppxRax) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [ทานโทษ \(ไม่ใช่เพื่อนเล่น\) \(Bored Game\) \- Single](https://open.spotify.com/album/2biFmVDIOGBXvKYDsmUEA9) | 3:57 | 2024-12-12 | 2024-12-27 |
 | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/track/5w7l2QyX9C6oBk3JUnlkQt) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/album/5J8ovIBR7COZoUhKF6qXhM) | 4:01 | 2023-05-26 | 2023-06-02 |

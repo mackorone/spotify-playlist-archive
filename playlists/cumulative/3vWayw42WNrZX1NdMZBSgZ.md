@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Becky G &amp; Manuel Turizo
 
-890 songs - 1 day 23 hr 28 min
+891 songs - 1 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [HOY TENGO GANAS DE TI](https://open.spotify.com/track/27AycGPhBPGCc6YnTZTaSh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [HOY TENGO GANAS DE TI](https://open.spotify.com/album/4y5leWM7OukafuPcBHrvtx) | 2:50 | 2024-08-23 |  |
 | [HP](https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:04 | 2023-06-02 | 2023-06-08 |
 | [Háblame de Ti](https://open.spotify.com/track/07VwNVmu5zgQT7V4ueEME2) | [Rosana](https://open.spotify.com/artist/4T32fwjlx2Un7SjWJoSyNb) | [Háblame de Ti](https://open.spotify.com/album/6CA2JOR4rsOJuuMjRsauIY) | 2:32 | 2023-05-05 | 2023-06-02 |
+| [I Want It That Way](https://open.spotify.com/track/7CSQp9T3JtkjQGPmpR1vTb) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [I Want It That Way](https://open.spotify.com/album/4oDR12BRsPVfQznhclvUbs) | 2:36 | 2025-05-16 |  |
 | [IConic.mp3](https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 3:01 | 2023-11-06 | 2024-07-03 |
 | [IDK Y](https://open.spotify.com/track/5mz9ccLx1kUEiUeGqULgkG) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [IDK Y](https://open.spotify.com/album/4caBV0z6cphDZ7HyRYSMq6) | 2:41 | 2022-12-16 | 2023-06-03 |
 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 | 2025-03-07 |  |

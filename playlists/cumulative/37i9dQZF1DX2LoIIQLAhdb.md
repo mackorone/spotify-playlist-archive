@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : SenSey'
+> Le R&B français, nouvelle ère\. Photo : Tiakola
 
-475 songs - 22 hr 31 min
+477 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Garde Le](https://open.spotify.com/track/7g8S3AlcYYrUuXjUt0q292) | [Lossa2Squa](https://open.spotify.com/artist/0DhhGFA0yxKhk7wrnzdbbK), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Garde Le](https://open.spotify.com/album/1juOthaPbiYisCAAi4sJsv) | 3:23 | 2023-10-12 | 2023-12-15 |
 | [Gasolina](https://open.spotify.com/track/7Hwn5z2dXDuySagXsig3YO) | [Kayson](https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV) | [Gasolina](https://open.spotify.com/album/2XeHrxP2iOtYWpMlEyC0f3) | 2:27 | 2025-03-27 |  |
 | [Ghetto](https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ghetto](https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6) | 2:17 | 2023-11-16 | 2024-04-19 |
-| [GHETTO](https://open.spotify.com/track/4N2KGJWTNtSttyhAHJrAfJ) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [GHETTO](https://open.spotify.com/album/7kjJpRgAMOEAOidjM9qAPc) | 2:42 | 2024-11-28 |  |
+| [GHETTO](https://open.spotify.com/track/4N2KGJWTNtSttyhAHJrAfJ) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [GHETTO](https://open.spotify.com/album/7kjJpRgAMOEAOidjM9qAPc) | 2:42 | 2024-11-28 | 2025-05-16 |
 | [GHOST & TOMMY](https://open.spotify.com/track/7FWIpbdui2fXi54J0GJ6o6) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU) | [POWER](https://open.spotify.com/album/7evqrdGMYlXOOJi7Ozu1gs) | 2:57 | 2024-02-08 | 2024-03-08 |
 | [Ginger](https://open.spotify.com/track/3bdhFhYjPX3n0IwFquNYLB) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Ginger](https://open.spotify.com/album/28wcW4kLHOwwRuiszCcNia) | 2:44 | 2022-11-24 | 2023-02-17 |
 | [Girlfriend](https://open.spotify.com/track/2pPS7gfzafAiB8Txsi8Kn3) | [Le Rain\-T](https://open.spotify.com/artist/436LYXLKpr9NVSiKZHeU3k), [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [Girlfriend](https://open.spotify.com/album/0Li1phOnY4yKMjMMcjzxrN) | 2:31 | 2025-03-13 | 2025-04-04 |
@@ -207,6 +207,7 @@
 | [Jamais](https://open.spotify.com/track/5YlJIxE6hsr5x7avxnjq8g) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia \(Version Deluxe\)](https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW) | 2:56 | 2022-12-08 | 2023-02-17 |
 | [Jamais yensak](https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Jamais yensak](https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w) | 2:48 | 2024-02-08 | 2024-02-23 |
 | [Japonais](https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Japonais](https://open.spotify.com/album/5F1Br2g4h6tiMyz3p8FzVV) | 2:45 | 2023-12-15 | 2024-02-09 |
+| [Je pensais](https://open.spotify.com/track/6BvOKn9i8YnEl5rTVS5XB7) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [Je pensais](https://open.spotify.com/album/6AM1pkhao3uXknlqwQ9kAV) | 3:49 | 2025-05-15 |  |
 | [Jeu d'acteur](https://open.spotify.com/track/1aMRb7C3N0tsPP5znAVZU5) | [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP) | [Jeu d'acteur](https://open.spotify.com/album/4yInrd80NPSeTvcrUTrXO3) | 3:02 | 2023-05-11 | 2023-06-16 |
 | [Johanna](https://open.spotify.com/track/6IsuxiMJ6L0Qc90EAHIKjZ) | [Royce](https://open.spotify.com/artist/7vIfh9cz4s4vKX8QWggX8a) | [Johanna](https://open.spotify.com/album/18sdgENHGeQXaUUStl9TBR) | 2:10 | 2023-05-04 | 2023-06-02 |
 | [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 | 2023-10-19 | 2024-05-10 |
@@ -233,6 +234,7 @@
 | [Last Night](https://open.spotify.com/track/7JfGZhzQUeZMHMVVHkhNbc) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Last Night](https://open.spotify.com/album/04Q7NE1yEOKlnLkh2uhSn9) | 2:19 | 2023-02-16 | 2023-07-07 |
 | [Le ciel s'en rappelle](https://open.spotify.com/track/32ZKmrDdhJKMV8Hb9ij303) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5) | [Le ciel s'en rappelle](https://open.spotify.com/album/2Tw8WTzH1XNKbQqNq36YVT) | 2:35 | 2023-02-16 | 2023-03-25 |
 | [Le coeur ou la raison](https://open.spotify.com/track/5e19nB0x3kkuIDPjfQx609) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Un peu de moi](https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj) | 3:27 | 2023-05-04 | 2023-10-27 |
+| [LE MAL DE TOI](https://open.spotify.com/track/5n8CN6OBcefriP1QLdzLvG) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [LE MAL DE TOI](https://open.spotify.com/album/7BL55BqiPE6urVZZl9VaDm) | 3:07 | 2025-05-15 |  |
 | [Lentement](https://open.spotify.com/track/5iAmmra4TKlT2zXT11pf7h) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [Premier souffle](https://open.spotify.com/album/46qJPZhur04U9SGPzhNZKJ) | 2:38 | 2022-11-24 | 2022-12-09 |
 | [Les mêmes](https://open.spotify.com/track/23rJ3HBSrfti4np2beqIQj) | [Feejoke](https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i) | [Les mêmes](https://open.spotify.com/album/1kI2J7T0ZGce0qN4ERZB3E) | 3:00 | 2023-01-26 | 2023-03-18 |
 | [Liés](https://open.spotify.com/track/2DUeC3yW0LLV32L0Z7E7U2) | [Mickaëlle Leslie](https://open.spotify.com/artist/5m2daSwPdT5VticxMqPfzE) | [Liés](https://open.spotify.com/album/4PoWoDE7Ux9lIAfAPrSEt3) | 3:16 | 2023-03-23 | 2023-04-21 |
@@ -471,7 +473,7 @@
 | [WIN WIN](https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [WIN WIN](https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE) | 1:52 | 2025-02-06 |  |
 | [Wine Slow](https://open.spotify.com/track/5Spn4k5ScY07K4tiNka9G7) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [Wine Slow](https://open.spotify.com/album/5m9GW55aDkffBclwaOYB6L) | 3:01 | 2023-10-12 | 2023-12-22 |
 | [Yabibi \(feat\. Nej\)](https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Résilience \(Réedition\)](https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON) | 2:37 | 2023-07-27 | 2023-10-06 |
-| [Ying & Yang](https://open.spotify.com/track/1XFJYOadFmIwnkq8sqbMBn) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:44 | 2025-04-03 |  |
+| [Ying & Yang](https://open.spotify.com/track/1XFJYOadFmIwnkq8sqbMBn) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:44 | 2025-04-03 | 2025-05-16 |
 | [Yoga](https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Yoga](https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B) | 3:01 | 2024-03-07 | 2024-07-05 |
 | [Yoyo](https://open.spotify.com/track/72dTIgAVI6vZQI4B0GhcYr) | [Osmaus](https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF) | [Yoyo](https://open.spotify.com/album/37x2aZDoCSpJUtaEfdfw4V) | 3:24 | 2022-12-15 | 2023-01-20 |
 | [Zina](https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Zina](https://open.spotify.com/album/2ctn0Isyb0sySJ8tLoxb8X) | 2:16 | 2023-05-18 | 2023-09-29 |

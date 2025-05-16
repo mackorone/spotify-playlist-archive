@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa BESS.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Sara Bee.",
   "name": "#vainsuomihitit",
   "tracks": [
+    {
+      "album": {
+        "name": "#eurodab",
+        "url": "https://open.spotify.com/album/1om5mgfzIyl8wK0VExNHCA"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Baby Lasagna",
+          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158183,
+      "name": "#eurodab",
+      "url": "https://open.spotify.com/track/5LUbJo8GHzcqlCCrE83c05"
+    },
     {
       "album": {
         "name": "10 000 tuntii",
@@ -1102,7 +1124,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157172,
       "name": "Ei hyv\u00e4\u00e4 ilman pahaa (feat. Jami Faltin)",
       "url": "https://open.spotify.com/track/7M5FtK02ZXpfuWxQvLghZH"
@@ -2731,6 +2753,32 @@
     },
     {
       "album": {
+        "name": "Jos se must on kii (feat. Ares & Elastinen)",
+        "url": "https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B"
+      },
+      "artists": [
+        {
+          "name": "Danitello",
+          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181351,
+      "name": "Jos se must on kii (feat. Ares & Elastinen)",
+      "url": "https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk"
+    },
+    {
+      "album": {
         "name": "Jos s\u00e4 tahdot niin (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
         "url": "https://open.spotify.com/album/7GBNdMGzuiqOC1zaoLGGIi"
       },
@@ -3794,6 +3842,24 @@
       "duration_ms": 154484,
       "name": "Korttelipoikii",
       "url": "https://open.spotify.com/track/3kafWYTkrtS6vNXdmR7MWq"
+    },
+    {
+      "album": {
+        "name": "Koska sin\u00e4",
+        "url": "https://open.spotify.com/album/0o8W0vxP38JiOWt0sIbVXP"
+      },
+      "artists": [
+        {
+          "name": "Juha Tapio",
+          "url": "https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178718,
+      "name": "Koska sin\u00e4",
+      "url": "https://open.spotify.com/track/2yQ0Bvzd73KEP68uM98s3V"
     },
     {
       "album": {
@@ -6057,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "NRO1 B\u00c4M\u00c4",
+        "url": "https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154054,
+      "name": "NRO1 B\u00c4M\u00c4",
+      "url": "https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt"
+    },
+    {
+      "album": {
         "name": "Nuori & kuolematon",
         "url": "https://open.spotify.com/album/1mypvjFwLJfFLS3aM07poc"
       },
@@ -6246,7 +6330,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 236200,
       "name": "Omenankukkia",
       "url": "https://open.spotify.com/track/1563AErGLrLPBodmEKq7WI"
@@ -6268,6 +6352,24 @@
       "duration_ms": 135428,
       "name": "On / Off",
       "url": "https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg"
+    },
+    {
+      "album": {
+        "name": "Onks t\u00e4\u00e4 vakavaa?",
+        "url": "https://open.spotify.com/album/7bP5f8d0pMEB3VH0RfTZqU"
+      },
+      "artists": [
+        {
+          "name": "Tuure Boelius",
+          "url": "https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160028,
+      "name": "Onks t\u00e4\u00e4 vakavaa?",
+      "url": "https://open.spotify.com/track/0X0jxZAzdCRDtPgVtMz3Ow"
     },
     {
       "album": {
@@ -6537,6 +6639,24 @@
     },
     {
       "album": {
+        "name": "Paluu",
+        "url": "https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183871,
+      "name": "Paluu",
+      "url": "https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK"
+    },
+    {
+      "album": {
         "name": "Paperihaavoja",
         "url": "https://open.spotify.com/album/4VmHhco0tZOG1aAbrNOkZd"
       },
@@ -6588,6 +6708,28 @@
       "duration_ms": 182442,
       "name": "Paras virhe",
       "url": "https://open.spotify.com/track/1pNnC5KyzcAyMcIBJXgUBU"
+    },
+    {
+      "album": {
+        "name": "Parasta aikaa",
+        "url": "https://open.spotify.com/album/1GIr1W3rj6izFP6EVshBo0"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128446,
+      "name": "Parasta aikaa",
+      "url": "https://open.spotify.com/track/5v8BGpuURGF8ydZAomM0WZ"
     },
     {
       "album": {
@@ -7526,7 +7668,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 214173,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/5lYoa8Ta0GwwHf8bJlDnIM"
@@ -10278,7 +10420,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 174453,
       "name": "Vituiks menee",
       "url": "https://open.spotify.com/track/3L0iB8I6NuuGsAKpJPcXZv"
@@ -10474,7 +10616,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 168692,
       "name": "Yks muista",
       "url": "https://open.spotify.com/track/5BejtDzb0Y0SiU368CNmxm"
@@ -10514,7 +10656,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 207080,
       "name": "Yks mun ongelmist (feat. Jore & Zpoppa)",
       "url": "https://open.spotify.com/track/7FsF80Hta5P4bSZ3HL6KRr"
@@ -10782,7 +10924,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 160546,
       "name": "\u00c4\u00e4rihumala",
       "url": "https://open.spotify.com/track/2ze4bK4ziLcrNlFKzVJ5Ev"

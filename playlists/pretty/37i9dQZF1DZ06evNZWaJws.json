@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 329759,
+  "num_followers": 329813,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCKLgAAAAAA3GKwonNZlewChKNf2KuMS",
+  "snapshot_id": "aCPdAAAAAACKGak8bVVhTuREumLFAkqW",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pap\u00e1 De Los Pollitos",
-        "url": "https://open.spotify.com/album/4ZnliQGsaaGr7O2SLtDuHG"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "El Papa de Los Pollitos",
-      "url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clave Nueva",
         "url": "https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 178333,
       "name": "La Pista Secreta",
       "url": "https://open.spotify.com/track/2COdLxvoBkZr3L6IFgKaSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pap\u00e1 De Los Pollitos",
+        "url": "https://open.spotify.com/album/4ZnliQGsaaGr7O2SLtDuHG"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "El Papa de Los Pollitos",
+      "url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clave Nueva",
+        "url": "https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "Temporada En La Sierra",
+      "url": "https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clave Nueva",
-        "url": "https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Temporada En La Sierra",
-      "url": "https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 233431,
-      "name": "El Guero Palma",
-      "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romance Norte\u00f1o",
         "url": "https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 208253,
       "name": "Se Fue Mi Amor",
       "url": "https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 233431,
+      "name": "El Guero Palma",
+      "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
     },
     {
       "added_at": null,

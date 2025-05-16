@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Sleep Token, Miley Cyrus, ROSÉ, Calvin Harris, Kali Uchis, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,367,599 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,367,293 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

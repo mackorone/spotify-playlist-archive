@@ -2,9 +2,9 @@
 
 ### [Free Form](https://open.spotify.com/playlist/37i9dQZF1DX6mMeq1VVekF)
 
-> No tags, no labels \- just free form\. Cover: Jorja Smith
+> No tags, no labels \- just free form\. Cover: DAMEDAME\*
 
-495 songs - 1 day 1 hr 31 min
+497 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [007](https://open.spotify.com/track/50F6zhUzxdscOw0CYWXKU5) | [Dred](https://open.spotify.com/artist/3qlIWX4VHPlkGJfXvbEJeT) | [007](https://open.spotify.com/album/3y1wnc30lPPDMRDGpANT5a) | 2:34 | 2023-05-15 | 2023-05-19 |
 | [017 FREESTYLE](https://open.spotify.com/track/3M8cfc6xIRAbDJtfC0RD6j) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [017 FREESTYLE](https://open.spotify.com/album/4HuZsMn3BV6z53pe2yTsFV) | 2:06 | 2022-06-24 | 2022-07-28 |
 | [10,000 Hours](https://open.spotify.com/track/1jV8Q2fHcTEjmRR070XH9u) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ), [Debbie Debonaire](https://open.spotify.com/artist/5GjlbUc4GXwle6SF0WrHg6) | [Organised Mess](https://open.spotify.com/album/0kGnAqQdjjXU5171IsmCYj) | 3:21 | 2024-10-03 | 2024-10-10 |
-| [1800](https://open.spotify.com/track/5BAI4QVp8p0yh0SiOEeVcU) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [1800](https://open.spotify.com/album/6AcQiR5QfPKuurwS9Ev2yO) | 3:22 | 2024-11-22 |  |
+| [1800](https://open.spotify.com/track/5BAI4QVp8p0yh0SiOEeVcU) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [1800](https://open.spotify.com/album/6AcQiR5QfPKuurwS9Ev2yO) | 3:22 | 2024-11-22 | 2025-05-16 |
 | [19](https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [19](https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK) | 3:25 | 2024-11-22 |  |
 | [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 | 2022-06-24 | 2022-07-28 |
 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 | 2022-08-22 | 2024-10-04 |
@@ -264,7 +264,7 @@
 | [Make a W \(feat\. Skrillex, AJ Tracey & BEAM\)](https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 2:57 | 2024-06-27 | 2025-01-18 |
 | [Make U Go](https://open.spotify.com/track/5V6TcpbAtz5Q0HC0G6XJhF) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Make U Go](https://open.spotify.com/album/4lppAXoOGn4goUQZXs4xPn) | 3:34 | 2022-06-24 | 2022-07-27 |
 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 | 2024-04-26 | 2025-01-18 |
-| [Man](https://open.spotify.com/track/6CTgTVfaklG9mu9MmrPBzg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Man](https://open.spotify.com/album/0bzXKj3s2yc7QSrk6YfvwH) | 3:27 | 2025-03-07 |  |
+| [Man](https://open.spotify.com/track/6CTgTVfaklG9mu9MmrPBzg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Man](https://open.spotify.com/album/0bzXKj3s2yc7QSrk6YfvwH) | 3:27 | 2025-03-07 | 2025-05-16 |
 | [maradona](https://open.spotify.com/track/4INCIqgzproTB7jZXFFFSQ) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [sand bebé](https://open.spotify.com/album/0MhHU4Blaj1SY1BKnxFBrS) | 2:56 | 2023-08-04 | 2023-08-19 |
 | [Mare](https://open.spotify.com/track/3maTgl5AL7QJoCsQA9odoW) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:29 | 2022-06-24 | 2022-07-29 |
 | [Marley Flow](https://open.spotify.com/track/7KhqcuwBgF2myOiucn5w2R) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Marley Flow](https://open.spotify.com/album/1dMnuVDSbgwh6EHyJsfeqM) | 3:10 | 2024-04-26 | 2024-10-24 |
@@ -292,6 +292,7 @@
 | [Mohobbat \- Love](https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Mohobbat \(Love\)](https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN) | 3:28 | 2024-11-22 | 2025-03-21 |
 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2024-12-13 |  |
 | [Money Showers](https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [The Extravagant Collection](https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq) | 2:21 | 2022-07-17 | 2024-04-26 |
+| [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8) | 3:32 | 2025-05-15 |  |
 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 | 2025-03-21 |  |
 | [My Bella](https://open.spotify.com/track/0OuGcaERH4qPtFrWOaaNYK) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [My Bella](https://open.spotify.com/album/7uHcYf4zEWTUGm3r4RStlZ) | 2:39 | 2022-06-24 | 2022-07-22 |
 | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR) | 2:57 | 2024-10-21 | 2025-03-21 |
@@ -356,6 +357,7 @@
 | [Precious](https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 3:40 | 2024-10-21 | 2025-03-22 |
 | [Predicate](https://open.spotify.com/track/6aIjb1aiKJd1YHjR3apCpM) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Predicate](https://open.spotify.com/album/4EO6YGsWgMwC25qt0aZP4K) | 3:08 | 2023-05-19 | 2023-07-29 |
 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 | 2022-07-17 | 2022-08-23 |
+| [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 | 2025-05-15 |  |
 | [Quarter Past 3](https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Unfinished Business](https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v) | 2:55 | 2023-08-18 | 2024-10-04 |
 | [Quest For Coin II](https://open.spotify.com/track/6SfoGYDuS67WmwU9HCEpL0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ) | [Quest for Coin II](https://open.spotify.com/album/3e5vMNSNvMfxHfaJPFgAOz) | 2:56 | 2022-06-24 | 2022-07-28 |
 | [Question Us](https://open.spotify.com/track/2NG11shSzyFFwd3z8yJTGa) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Question Us](https://open.spotify.com/album/54NmUOZk0EwYG03X3Ppnz3) | 3:32 | 2022-07-17 | 2022-10-24 |

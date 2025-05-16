@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Dikta Wicaksono",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Titi DJ, Cakra Khan",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 285248,
       "name": "Akhir Cinta",
       "url": "https://open.spotify.com/track/2RcgOUhhLdK3cDi5ROBdD5"
+    },
+    {
+      "album": {
+        "name": "Aku Baik Saja (Original Soundtrack from Tak Ingin Usai Disini)",
+        "url": "https://open.spotify.com/album/7DitYwaNCH5O4BeaqdtVvK"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258900,
+      "name": "Aku Baik Saja (Original Soundtrack from Tak Ingin Usai Disini)",
+      "url": "https://open.spotify.com/track/2Jis7HJrGnlRdW1whjEZwv"
     },
     {
       "album": {
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 317000,
       "name": "Bersamamu",
       "url": "https://open.spotify.com/track/68Z2rw1ffXVmJleB8lzmfU"
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 237055,
       "name": "Cerita Besar",
       "url": "https://open.spotify.com/track/4jAaFlFrYtqFB65JxM9M1K"
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 241875,
       "name": "Cerita Rindu",
       "url": "https://open.spotify.com/track/4RHmDOf8MPQWLNOp8PxVjZ"
@@ -2132,7 +2150,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 260074,
       "name": "Denyut",
       "url": "https://open.spotify.com/track/1JfKPwPFswBi3kiOkDSkcj"
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 260153,
       "name": "Dia Menunggu",
       "url": "https://open.spotify.com/track/6wd1yvYQ1G5KBYPQDaLhKx"
@@ -4040,7 +4058,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 245778,
       "name": "Lanjutkan Perjuangan Kita!",
       "url": "https://open.spotify.com/track/1t3HDSnYKVW0MDyKcuUFyD"
@@ -4080,6 +4098,28 @@
       "duration_ms": 227000,
       "name": "Last Right One",
       "url": "https://open.spotify.com/track/6vSBmOCdVhD8gN94ggTDMK"
+    },
+    {
+      "album": {
+        "name": "Layar (Original Soundtrack From \"Siapa Dia\")",
+        "url": "https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf"
+      },
+      "artists": [
+        {
+          "name": "Titi DJ",
+          "url": "https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS"
+        },
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271578,
+      "name": "Layar (Original Soundtrack From \"Siapa Dia\")",
+      "url": "https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1"
     },
     {
       "album": {
@@ -5321,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "Pelan-Pelan",
+        "url": "https://open.spotify.com/album/1kbnS1adOarfKyYUOkJaJZ"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "Pelan-Pelan",
+      "url": "https://open.spotify.com/track/70AnODh8fo2PQjcnDtRg3l"
+    },
+    {
+      "album": {
         "name": "Pencuri Hati",
         "url": "https://open.spotify.com/album/1G1mEcbZ9nyMXxWRN2DTnu"
       },
@@ -5336,6 +5394,24 @@
       "duration_ms": 247000,
       "name": "Pencuri Hati",
       "url": "https://open.spotify.com/track/7hO3CUEXH0tZ0K94lgRq8g"
+    },
+    {
+      "album": {
+        "name": "Pendampingmu #TahtaHatiku",
+        "url": "https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv"
+      },
+      "artists": [
+        {
+          "name": "Shabrina Leanor",
+          "url": "https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Pendampingmu #TahtaHatiku",
+      "url": "https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm"
     },
     {
       "album": {
@@ -7287,6 +7363,28 @@
     },
     {
       "album": {
+        "name": "something about you",
+        "url": "https://open.spotify.com/album/1BAfEPPiyIrzglzOqdtPra"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        },
+        {
+          "name": "RIMALDI",
+          "url": "https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257910,
+      "name": "something about you",
+      "url": "https://open.spotify.com/track/15YMi1fS4AFTME9bKD9MzZ"
+    },
+    {
+      "album": {
         "name": "Suamiku",
         "url": "https://open.spotify.com/album/1rEERVVGC49VgTHStK8U2l"
       },
@@ -7494,6 +7592,24 @@
       "duration_ms": 243500,
       "name": "Surga Menanti",
       "url": "https://open.spotify.com/track/4QSPX669LXh3KSKdCUMqhd"
+    },
+    {
+      "album": {
+        "name": "Tahta Hatiku #Pendampingmu",
+        "url": "https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy"
+      },
+      "artists": [
+        {
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245575,
+      "name": "Tahta Hatiku #Pendampingmu",
+      "url": "https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2"
     },
     {
       "album": {
@@ -7728,7 +7844,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 244800,
       "name": "Tak Satu Arah",
       "url": "https://open.spotify.com/track/4pTOqeUdofRDDn0MhLpYqI"
@@ -7876,7 +7992,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 241846,
       "name": "Tarik Ulur",
       "url": "https://open.spotify.com/track/4geXWfWtm5WCaiXeIP28oT"
@@ -8046,6 +8162,24 @@
       "duration_ms": 269289,
       "name": "Tentang Arah",
       "url": "https://open.spotify.com/track/3k7JKDg3FHbBJMQi2tfedP"
+    },
+    {
+      "album": {
+        "name": "Tentang Kita",
+        "url": "https://open.spotify.com/album/6UMGUJGoZBQX26AHu4PpAe"
+      },
+      "artists": [
+        {
+          "name": "Obbie Messakh",
+          "url": "https://open.spotify.com/artist/6S40FdKeiCsGHth3mulKl6"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280338,
+      "name": "Tentang Kita",
+      "url": "https://open.spotify.com/track/1s9Ij0HhTdAJ1Xo72mhPPf"
     },
     {
       "album": {
@@ -8352,7 +8486,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 280351,
       "name": "Tilik Jogja",
       "url": "https://open.spotify.com/track/7iH9VvIoUIq0wnqv3cQG4B"

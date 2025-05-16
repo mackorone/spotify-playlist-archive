@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 
 > 
 
-[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 105 songs - 5 hr 22 min
+[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 106 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,6 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 | 103 | [Kicsi Juanita](https://open.spotify.com/track/5fKkaKrHwy2CqFsJv0mXCV) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:32 |
 | 104 | [SZÖRNYETEG](https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ SZÁLLODA \(1\. RÉSZ\)](https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF) | 3:28 |
 | 105 | [Paranoiás](https://open.spotify.com/track/30ezZEzXPCyUUv8Rr8lnB4) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [M Ricch](https://open.spotify.com/artist/4mT5vbooKo8dycjBCo9a4h) | [Paranoia](https://open.spotify.com/album/40oR75NLHfJOhC3gSX5khZ) | 3:23 |
+| 106 | [Vinnipu](https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Vinnipu](https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J) | 1:48 |
 
-Snapshot ID: `AAAAyH5p0cbIQJJ+yRsDuPxuUmm0wZ4U`
+Snapshot ID: `AAAAyVqfmDzlyLvjExJ7rdRw01h5wWAB`

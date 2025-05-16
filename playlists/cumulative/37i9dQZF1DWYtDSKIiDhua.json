@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Galdive",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: My Anh",
   "name": "mood. ",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 161942,
       "name": "addicted",
       "url": "https://open.spotify.com/track/1ppwrvmS60JieuhtPPquUM"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 126973,
       "name": "Art of War",
       "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
@@ -4322,7 +4322,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 202652,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq"
@@ -4514,10 +4514,28 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 163227,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/5dKUNd4Maxq32qDgIhirGN"
+    },
+    {
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/5vXqBD6mMYZPQmYgWYs9P9"
+      },
+      "artists": [
+        {
+          "name": "Sunny Lukas",
+          "url": "https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140303,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/5hKUDU4pAJ0r5q1EKHUtOQ"
     },
     {
       "album": {
@@ -5412,6 +5430,24 @@
       "duration_ms": 210070,
       "name": "Dream",
       "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
+    },
+    {
+      "album": {
+        "name": "Dreaming of You",
+        "url": "https://open.spotify.com/album/7qgj6Nyt3utmtXP0Hy7AYe"
+      },
+      "artists": [
+        {
+          "name": "Tang.",
+          "url": "https://open.spotify.com/artist/4Mfts7DF4fV8MgUJQIwVLx"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Dreaming of You",
+      "url": "https://open.spotify.com/track/0MK1LWZJjpuGqBwH5XNMjV"
     },
     {
       "album": {
@@ -8292,7 +8328,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 186000,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/3jlENhhEfTrOkKC204YXg5"
@@ -10474,7 +10510,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 196373,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/4FoCg6Td6KY72a8G5P8DAr"
@@ -13246,7 +13282,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 182584,
       "name": "Miss Venom",
       "url": "https://open.spotify.com/track/7xbd1mCfZgd40VlxcFyRxX"
@@ -14687,6 +14723,28 @@
     },
     {
       "album": {
+        "name": "ON MY WAY",
+        "url": "https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw"
+      },
+      "artists": [
+        {
+          "name": "GUrbane",
+          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
+        },
+        {
+          "name": "M NAIVE",
+          "url": "https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185659,
+      "name": "ON MY WAY",
+      "url": "https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT"
+    },
+    {
+      "album": {
         "name": "On Schedule",
         "url": "https://open.spotify.com/album/1RHMDirB2fnLlrHrraUQaO"
       },
@@ -14774,6 +14832,24 @@
       "duration_ms": 234973,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3"
+    },
+    {
+      "album": {
+        "name": "One Waking Dream",
+        "url": "https://open.spotify.com/album/2pKAc510fNnEIE1KBVen4T"
+      },
+      "artists": [
+        {
+          "name": "Natt Buntita",
+          "url": "https://open.spotify.com/artist/5WGEq3jNFjSRF4ACITjLwY"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207601,
+      "name": "One Waking Dream",
+      "url": "https://open.spotify.com/track/1aAiZ4TfzjmhM1iOrO3O13"
     },
     {
       "album": {
@@ -14992,6 +15068,24 @@
       "duration_ms": 183952,
       "name": "OUT OF MY HANDS",
       "url": "https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI"
+    },
+    {
+      "album": {
+        "name": "Out of My Mind",
+        "url": "https://open.spotify.com/album/2CLpS9JTa5iub7150ZQ9sb"
+      },
+      "artists": [
+        {
+          "name": "Owen Greyson",
+          "url": "https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/40DgaXwYRcwiWetBWfPHrP"
     },
     {
       "album": {
@@ -15476,6 +15570,24 @@
       "duration_ms": 183506,
       "name": "Petty",
       "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
+    },
+    {
+      "album": {
+        "name": "phases of the moon",
+        "url": "https://open.spotify.com/album/28gPrPbtLBPV8Fh0fCTnQ3"
+      },
+      "artists": [
+        {
+          "name": "My Anh",
+          "url": "https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282334,
+      "name": "phases of the moon",
+      "url": "https://open.spotify.com/track/7kmuy7PgxxXxavSCn1rGwj"
     },
     {
       "album": {
@@ -16206,6 +16318,24 @@
       "duration_ms": 201173,
       "name": "Rapid",
       "url": "https://open.spotify.com/track/3LJ2YTtizpuTOIscqZMtPR"
+    },
+    {
+      "album": {
+        "name": "RATHER BE",
+        "url": "https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171873,
+      "name": "RATHER BE",
+      "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
     },
     {
       "album": {
@@ -18937,6 +19067,24 @@
     },
     {
       "album": {
+        "name": "come home",
+        "url": "https://open.spotify.com/album/3HW2JHHdicMtnOC0Jtt30I"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "stuck like this",
+      "url": "https://open.spotify.com/track/2knkY4o3G9nBAYXXZE9hbP"
+    },
+    {
+      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
       },
@@ -19502,7 +19650,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 149702,
       "name": "SWEETEST/LOVE",
       "url": "https://open.spotify.com/track/7jn0AI3RTn38iNATyFw4gM"
@@ -23410,6 +23558,28 @@
       "duration_ms": 148250,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/6zX2iF3aZC26DEtISIcmwh"
+    },
+    {
+      "album": {
+        "name": "YOU GOT THAT (feat. VivaOla)",
+        "url": "https://open.spotify.com/album/1g0qFHhvSZQidPMNULg2l9"
+      },
+      "artists": [
+        {
+          "name": "voquote",
+          "url": "https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR"
+        },
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "YOU GOT THAT (feat. VivaOla)",
+      "url": "https://open.spotify.com/track/6Am704IYdAUl0xntnDOafr"
     },
     {
       "album": {

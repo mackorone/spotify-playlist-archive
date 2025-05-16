@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 44569,
+  "num_followers": 44574,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCKLgAAAAADjmMRk9MX50ltpbDr5CD7o",
+  "snapshot_id": "aCPdAAAAAACh8lySJ5LhGxo63cq8FTSJ",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is a Light That Never Goes Out",
-        "url": "https://open.spotify.com/album/4p7FbdliqsM0ZmbbCaEjeZ"
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 273047,
-      "name": "There Is a Light That Never Goes Out",
-      "url": "https://open.spotify.com/track/5gkW1Q4MDPD7gc7ukuGhbi"
+      "duration_ms": 234426,
+      "name": "I See Monsters",
+      "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+        "name": "There Is a Light That Never Goes Out",
+        "url": "https://open.spotify.com/album/4p7FbdliqsM0ZmbbCaEjeZ"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 234426,
-      "name": "I See Monsters",
-      "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
+      "duration_ms": 273047,
+      "name": "There Is a Light That Never Goes Out",
+      "url": "https://open.spotify.com/track/5gkW1Q4MDPD7gc7ukuGhbi"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 169573,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
+      "duration_ms": 178706,
+      "name": "Chin Up, Cheer Up",
+      "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 178706,
-      "name": "Chin Up, Cheer Up",
-      "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
+      "duration_ms": 169573,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 232150,
-      "name": "I'm Sorry and I Love You",
-      "url": "https://open.spotify.com/track/1LXWFJKNC5Cfbji9cHNX65"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ryan Adams",
         "url": "https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 234893,
       "name": "Gimme Something Good",
       "url": "https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 232150,
+      "name": "I'm Sorry and I Love You",
+      "url": "https://open.spotify.com/track/1LXWFJKNC5Cfbji9cHNX65"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Wednesday",
-        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 218138,
-      "name": "Poison & Pain",
-      "url": "https://open.spotify.com/track/4dqwEh4lhm3kndmNgLJjQM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock N Roll",
         "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 252075,
       "name": "Burning Photographs",
       "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Wednesday",
+        "url": "https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 218138,
+      "name": "Poison & Pain",
+      "url": "https://open.spotify.com/track/4dqwEh4lhm3kndmNgLJjQM"
     },
     {
       "added_at": null,

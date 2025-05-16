@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: 安吉 \(ANGIE\)
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: Mandark
 
-432 songs - 1 day 2 hr 15 min
+434 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Don't Know Why](https://open.spotify.com/track/0xjvKbZd4Xw3HcsX6HM7Wq) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [Don't Know Why](https://open.spotify.com/album/6T7rNwPedpUw87DnVJWekC) | 3:26 | 2024-12-19 | 2025-03-21 |
 | [don't stop](https://open.spotify.com/track/3St3yb7eQhn1TQC8qI8c04) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [don't stop](https://open.spotify.com/album/1GiRLk9pLoCegNsPpkapM1) | 2:48 | 2024-04-18 | 2024-05-11 |
 | [Don't You Know](https://open.spotify.com/track/7GktXg7ifhEjxjuwxFOwTw) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [People In My Mind](https://open.spotify.com/album/6Obtw6DnxJsR0Nik3tO64W) | 4:14 | 2025-03-20 | 2025-03-29 |
+| [down](https://open.spotify.com/track/3ookojcT2eRZfaYP77mygQ) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [down](https://open.spotify.com/album/6vCmYD16Fv6vS4patfC3vH) | 2:24 | 2025-05-15 |  |
 | [Dream](https://open.spotify.com/track/63MgphKbPEc1dE3mBADc0V) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb) | [Dream](https://open.spotify.com/album/0h5NKR8z0YXTiCAQ8d1lPf) | 2:52 | 2025-05-08 |  |
 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 | 2024-01-25 |  |
 | [Drunk Robot](https://open.spotify.com/track/5GhLzR4jwHgqPXk4Vouet1) | [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV) | [Drunk Robot](https://open.spotify.com/album/2AunDWNxmLGruN4PF9aD7z) | 5:12 | 2024-05-10 | 2024-06-01 |
@@ -89,6 +90,7 @@
 | [Everytime](https://open.spotify.com/track/43l6cr0F3VdjBLDOWq081Q) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g), [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Everytime](https://open.spotify.com/album/5QYcLdudlnlpQPJ7IzQg9t) | 3:30 | 2024-01-25 | 2024-03-29 |
 | [Evil Gemini](https://open.spotify.com/track/3GUU2gxicdZ0oztGyyXYJB) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [DAZE](https://open.spotify.com/album/5AVAhEi55ejrT8fXgvJSaw) | 3:38 | 2024-11-28 | 2024-12-20 |
 | [Expired 〜期限切れの愛〜 \(OT：我還繞著你在旋轉\)](https://open.spotify.com/track/4PFWjoTHEFAfhonI5TUgAs) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [Expired 〜期限切れの愛〜](https://open.spotify.com/album/2ixCuTOpX8vP1iCai1Tecz) | 5:24 | 2024-01-25 | 2024-08-09 |
+| [EXX](https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [EXX](https://open.spotify.com/album/4tjS7UM9uRgqw6MBvfqkIS) | 2:20 | 2025-05-15 |  |
 | [EYE\(S\)](https://open.spotify.com/track/7cwPW0K5O41TJ2BABBrtKG) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 4:02 | 2024-06-13 | 2024-07-01 |
 | [eyes off u.](https://open.spotify.com/track/0hRXZJO5rCxvWfcUXHPTmN) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [eyes off u.](https://open.spotify.com/album/1SRNucLep8uyNsQXnIOceh) | 2:58 | 2025-04-10 |  |
 | [Face Down \(Hands Up\)](https://open.spotify.com/track/1yt4lFQALSV3rqKM9x9nIv) | [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Face Down \(Hands Up\)](https://open.spotify.com/album/7uOjUD3alf1a7nMuJdWmhC) | 2:41 | 2024-06-06 | 2024-07-27 |
@@ -231,7 +233,7 @@
 | [Post Punk](https://open.spotify.com/track/0puyGlCHyrETtAdViXn0UO) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [Pilot](https://open.spotify.com/album/7mcF805eSGYDKe1Qp34nkA) | 3:50 | 2025-04-10 |  |
 | [Pretense](https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Pretense](https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm) | 4:27 | 2024-03-28 | 2024-04-26 |
 | [Pretty Girl Supremacy](https://open.spotify.com/track/2OljkxlEuNnx6pHJLutMEM) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Pretty Girl Supremacy](https://open.spotify.com/album/0mrxfukjQPVdpQMfUmVUpF) | 2:45 | 2024-06-30 | 2024-07-19 |
-| [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 | 2024-09-19 |  |
+| [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 | 2024-09-19 | 2025-05-16 |
 | [r u happy now?](https://open.spotify.com/track/5xnFjYxsjhIM2YHoUa3grT) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 2:55 | 2024-06-13 | 2024-07-01 |
 | [Race of Faith \(ft\. YELLOW黃宣\)](https://open.spotify.com/track/4hGtlu2iutnwbHFjs91B1r) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Race of Faith \(ft\. YELLOW黃宣\)](https://open.spotify.com/album/3iddxJeDMT2wCg08x8kRpZ) | 3:50 | 2024-01-25 | 2025-01-31 |
 | [Ramming the Town Roaming the Mountain](https://open.spotify.com/track/7KnCxwxpzXln8pSYuduL37) | [Scattered Purgatory](https://open.spotify.com/artist/4rgGqYYp43VQDKdRHnDrgw) | [Lost Ethnography of the Miscanthus Ocean](https://open.spotify.com/album/7a2mP44iRHItObZkZKiDys) | 10:31 | 2024-10-10 | 2024-10-25 |
@@ -273,7 +275,7 @@
 | [SUGAR BABY](https://open.spotify.com/track/5GvmJngfjnUsCT8CpN75rA) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW) | [SUGAR BABY](https://open.spotify.com/album/65E9nbL8bWcv2HCZNSboY8) | 2:25 | 2024-01-25 | 2024-04-19 |
 | [Sugar Cover](https://open.spotify.com/track/4HabjE8SrUgJUF5YIgppMK) | [DrunkMonk 撞克茫客](https://open.spotify.com/artist/2o6IlfKpVWK4eZivj0yZUX), [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [Sugar Cover](https://open.spotify.com/album/4qUQkRq3KGnfAXWWNISWLq) | 4:32 | 2024-05-10 | 2024-06-01 |
 | [Summer Air](https://open.spotify.com/track/2o0zs9w6yWJfK4bD6h6jhf) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Summer Air](https://open.spotify.com/album/7quOmb4hatkPI8w09TcYki) | 3:05 | 2025-04-24 |  |
-| [Sun and Moon](https://open.spotify.com/track/0jlFI17NbewxwP7lZzkd5Z) | [WiZY](https://open.spotify.com/artist/5VxlZjfWT6az0ANHGfEcwB) | [Sun and Moon](https://open.spotify.com/album/2wkHs086XQCgndhvEpPck6) | 3:02 | 2025-03-28 |  |
+| [Sun and Moon](https://open.spotify.com/track/0jlFI17NbewxwP7lZzkd5Z) | [WiZY](https://open.spotify.com/artist/5VxlZjfWT6az0ANHGfEcwB) | [Sun and Moon](https://open.spotify.com/album/2wkHs086XQCgndhvEpPck6) | 3:02 | 2025-03-28 | 2025-05-16 |
 | [Supergirl Power](https://open.spotify.com/track/0pe37kW7TlzeZP17OEsDmK) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Supergirl Power](https://open.spotify.com/album/3lXIZSSvWGDMZckFMW2jhL) | 2:34 | 2025-03-28 | 2025-04-11 |
 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 | 2024-01-25 | 2024-03-22 |
 | [Søulмaтe \- Remix](https://open.spotify.com/track/6iw67Qocm9GfffN5vgdiSO) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Tsudio Studio](https://open.spotify.com/artist/1iMVMds476cuexLdHbKivE) | [Søulмaтe \(Remix\)](https://open.spotify.com/album/4QQ0DDdSKDh5D0vwdQbMjc) | 4:19 | 2024-05-23 | 2024-07-05 |
@@ -398,7 +400,7 @@
 | [浴室](https://open.spotify.com/track/2Xu6fN0gE2S04L0zywmcif) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [浴室](https://open.spotify.com/album/1zKJy6TIHEz3YM78riefV9) | 4:19 | 2024-02-29 | 2024-03-15 |
 | [海浪](https://open.spotify.com/track/5EpLeWSwqOG0mZW0R4WdKQ) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [Go Slow](https://open.spotify.com/album/3dsjH0D0Co0X7oii3a7FO8) | 5:22 | 2024-02-29 | 2024-03-15 |
 | [漂流木](https://open.spotify.com/track/6YCBSjzVSspsPj3cOVPHGN) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [漂流木](https://open.spotify.com/album/6dgOQF7zMiL2T9uuJlUItQ) | 4:20 | 2024-02-29 | 2024-03-15 |
-| [無話不談](https://open.spotify.com/track/42hfJNdHlbWscxl5QZpiJR) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [無話不談](https://open.spotify.com/album/4BDsmdD4FsH5RDEWqnAh91) | 3:12 | 2025-04-17 |  |
+| [無話不談](https://open.spotify.com/track/42hfJNdHlbWscxl5QZpiJR) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [無話不談](https://open.spotify.com/album/4BDsmdD4FsH5RDEWqnAh91) | 3:12 | 2025-04-17 | 2025-05-16 |
 | [現在的事我說不出口](https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [現在的事我說不出口](https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ) | 3:58 | 2025-03-06 | 2025-03-29 |
 | [理查](https://open.spotify.com/track/6lMz5CHf0ziuvCpMklEZ4C) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [理查](https://open.spotify.com/album/35PWIGMOPkA2U5fRZZUPva) | 4:17 | 2024-09-12 | 2024-12-27 |
 | [男子漢一匹](https://open.spotify.com/track/1uC5SgnzD93wJ4jNlF9bhj) | [阿跨面](https://open.spotify.com/artist/26QeJhwzQ5vwSNX8wH1t0D) | [心](https://open.spotify.com/album/0VdmAQ7JTd0cO0AlQtgX6v) | 3:20 | 2024-06-13 | 2024-07-01 |

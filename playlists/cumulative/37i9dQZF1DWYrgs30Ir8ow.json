@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: Frenna",
+  "description": "Altijd frisse hits! Cover: Trobi, Miloolaathetlukken & ADF Samski",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 141250,
       "name": "Badman Stories",
       "url": "https://open.spotify.com/track/2N4tITKqBDP1Mh5dw2hGTM"
@@ -1998,6 +1998,24 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "album": {
+        "name": "Batterij",
+        "url": "https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Batterij",
+      "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
     },
     {
       "album": {
@@ -2658,7 +2676,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
@@ -2720,7 +2738,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
@@ -3004,7 +3022,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
@@ -4523,6 +4541,24 @@
     },
     {
       "album": {
+        "name": "De Lieve Jongen",
+        "url": "https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN"
+      },
+      "artists": [
+        {
+          "name": "Myrte Michels",
+          "url": "https://open.spotify.com/artist/1toTl1rdtV8matFNkDsrWV"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "De Lieve Jongen",
+      "url": "https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum"
+    },
+    {
+      "album": {
         "name": "De Nacht",
         "url": "https://open.spotify.com/album/7BwQcp2ElEdta4qGT0HUII"
       },
@@ -5108,6 +5144,28 @@
       "duration_ms": 147403,
       "name": "Domino",
       "url": "https://open.spotify.com/track/1BymSDOQY7CZY5BUekA8yH"
+    },
+    {
+      "album": {
+        "name": "Don Julio Daddy",
+        "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176518,
+      "name": "Don Julio Daddy",
+      "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
     },
     {
       "album": {
@@ -7465,6 +7523,32 @@
     },
     {
       "album": {
+        "name": "Haver Cappu (feat. Milolaathetlukken & ADF Samski)",
+        "url": "https://open.spotify.com/album/6vVMdhEOvfcVh7YDqLRaKl"
+      },
+      "artists": [
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144661,
+      "name": "Haver Cappu (feat. Milolaathetlukken & ADF Samski)",
+      "url": "https://open.spotify.com/track/645mR9ln7ISijLQJDq1a3M"
+    },
+    {
+      "album": {
         "name": "Head Down",
         "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
       },
@@ -9614,7 +9698,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 158944,
       "name": "KiLELE",
       "url": "https://open.spotify.com/track/404Il8wdrtHc2Wgcl0rfjT"
@@ -10564,6 +10648,32 @@
       "duration_ms": 145846,
       "name": "Lodewijk",
       "url": "https://open.spotify.com/track/6VkzZ0I0w2CE3EIGbyMeeu"
+    },
+    {
+      "album": {
+        "name": "Lonely Tonight (feat. Justin Jesso & Parson James)",
+        "url": "https://open.spotify.com/album/1CsvNok1rmImkAnPAu1B0a"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        },
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155694,
+      "name": "Lonely Tonight (feat. Justin Jesso & Parson James)",
+      "url": "https://open.spotify.com/track/5hUYug21Qux15aU46nWY79"
     },
     {
       "album": {
@@ -14844,7 +14954,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -16086,6 +16196,28 @@
       "duration_ms": 167400,
       "name": "Sukkel",
       "url": "https://open.spotify.com/track/2C8hxULhQWdb6n96fgUMOM"
+    },
+    {
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/4VDwEXL99iyW8h5irzXg8S"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155937,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/0YjXevB90M9K34TOx4q02S"
     },
     {
       "album": {

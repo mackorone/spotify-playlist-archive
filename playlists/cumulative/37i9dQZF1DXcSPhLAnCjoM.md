@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Feel Good" de Charlotte Cardin est le Grand Hit de la semaine.
+> "Les filles, les meufs" de marguerite est le Grand Hit de la semaine.
 
 250 songs - 12 hr 50 min
 

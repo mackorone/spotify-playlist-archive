@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 47687,
+  "num_followers": 47762,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCKLgAAAAAD9rzjx0ywdDzWpmow8BgXN",
+  "snapshot_id": "aCPdAAAAAAB8aYtE4VzpP8u0grdwmA6J",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
       "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 171466,
-      "name": "Start a Riot",
-      "url": "https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9"
+      "duration_ms": 145321,
+      "name": "Chrome - Bonus",
+      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
     },
     {
       "added_at": null,
@@ -311,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
       "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 145321,
-      "name": "Chrome - Bonus",
-      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
+      "duration_ms": 171466,
+      "name": "Start a Riot",
+      "url": "https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9"
     },
     {
       "added_at": null,
@@ -347,38 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Wrangler",
-        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Golden Child",
-      "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 138318,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -399,6 +367,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 138318,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Wrangler",
+        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Golden Child",
+      "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
       },
@@ -411,38 +411,6 @@
       "duration_ms": 206092,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Another Me",
-        "url": "https://open.spotify.com/album/5wK7WdNdAqiAqYPNrc1v2f"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "Another Me",
-      "url": "https://open.spotify.com/track/2r1nHvs8nYieO2BFbvrTU4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 154897,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8"
     },
     {
       "added_at": null,
@@ -463,6 +431,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 154897,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Me",
+        "url": "https://open.spotify.com/album/5wK7WdNdAqiAqYPNrc1v2f"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Another Me",
+      "url": "https://open.spotify.com/track/2r1nHvs8nYieO2BFbvrTU4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -475,38 +475,6 @@
       "duration_ms": 157122,
       "name": "Horses & Hellcats",
       "url": "https://open.spotify.com/track/2aP9pWbPvh5kVIIGJoyFLW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Wrangler",
-        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 148215,
-      "name": "GAS!",
-      "url": "https://open.spotify.com/track/7FJNM5i0qKjFfCtw18QVAU"
     },
     {
       "added_at": null,
@@ -527,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prosperity",
-        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
       "artists": [
         {
@@ -536,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 197877,
-      "name": "Prosperity",
-      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
+      "duration_ms": 148215,
+      "name": "GAS!",
+      "url": "https://open.spotify.com/track/7FJNM5i0qKjFfCtw18QVAU"
     },
     {
       "added_at": null,
@@ -552,15 +520,15 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Winning Streak",
-      "url": "https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC"
+      "duration_ms": 219693,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Joan Jett",
-        "url": "https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT"
+        "name": "Prosperity",
+        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
       },
       "artists": [
         {
@@ -568,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 246883,
-      "name": "Joan Jett",
-      "url": "https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3"
+      "duration_ms": 197877,
+      "name": "Prosperity",
+      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
     },
     {
       "added_at": null,
@@ -591,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cabelas",
-        "url": "https://open.spotify.com/album/3DNUZDqY1l72DNWMqtyD61"
+        "name": "Joan Jett",
+        "url": "https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT"
       },
       "artists": [
         {
@@ -600,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 177162,
-      "name": "Cabelas",
-      "url": "https://open.spotify.com/track/6aie8HuaamfjCSN9VYiME8"
+      "duration_ms": 246883,
+      "name": "Joan Jett",
+      "url": "https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3"
     },
     {
       "added_at": null,
@@ -616,15 +584,15 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 175840,
-      "name": "Warped Tour",
-      "url": "https://open.spotify.com/track/7BBMWa0psr0uKZVyl4j3wp"
+      "duration_ms": 198946,
+      "name": "Winning Streak",
+      "url": "https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM"
+        "name": "Cabelas",
+        "url": "https://open.spotify.com/album/3DNUZDqY1l72DNWMqtyD61"
       },
       "artists": [
         {
@@ -632,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 186147,
-      "name": "More",
-      "url": "https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc"
+      "duration_ms": 177162,
+      "name": "Cabelas",
+      "url": "https://open.spotify.com/track/6aie8HuaamfjCSN9VYiME8"
     },
     {
       "added_at": null,
@@ -655,6 +623,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 186147,
+      "name": "More",
+      "url": "https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Wrangler",
+        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Warped Tour",
+      "url": "https://open.spotify.com/track/7BBMWa0psr0uKZVyl4j3wp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starfoxx",
         "url": "https://open.spotify.com/album/58SxzTBJiPqZyb3x4xRQeK"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Wrangler",
-        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 274853,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0mi0iUFpptiGoLtgOEiN0h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Break The Band (How Could She?)",
         "url": "https://open.spotify.com/album/2aCy1LOLEJB5snKIuSb16p"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 153946,
       "name": "Break The Band (How Could She?)",
       "url": "https://open.spotify.com/track/75cZzuektUsBvLW18rHGjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Wrangler",
+        "url": "https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 274853,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0mi0iUFpptiGoLtgOEiN0h"
     },
     {
       "added_at": null,

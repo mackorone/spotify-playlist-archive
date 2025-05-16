@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 143392,
+  "num_followers": 143394,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2025-05-07 00:00:11",
       "album": {
+        "name": "Ripples In The Timeline",
+        "url": "https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Real Lies",
+          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
+        }
+      ],
+      "duration_ms": 216868,
+      "name": "Ripples In The Timeline",
+      "url": "https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI"
+    },
+    {
+      "added_at": "2025-05-07 00:00:11",
+      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/1iiXBkAFITzUQhBiuYqWQh"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/78CrWTmzkDNQodFtV6kJIa"
-    },
-    {
-      "added_at": "2025-05-07 00:00:11",
-      "album": {
-        "name": "Ripples In The Timeline",
-        "url": "https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Real Lies",
-          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
-        }
-      ],
-      "duration_ms": 216868,
-      "name": "Ripples In The Timeline",
-      "url": "https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI"
     },
     {
       "added_at": "2025-05-07 00:00:11",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-05-07 00:00:11",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": "2025-05-07 00:00:11",
-      "album": {
         "name": "Drift / Long Story Short",
         "url": "https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 246956,
       "name": "Drift",
       "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
+    },
+    {
+      "added_at": "2025-05-07 00:00:11",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
     },
     {
       "added_at": "2025-05-07 00:00:11",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-05-07 00:00:11",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/78AkFHYlMZAaoUCF2TKTr1"
-      },
-      "artists": [
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 259650,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK"
-    },
-    {
-      "added_at": "2025-05-07 00:00:11",
-      "album": {
         "name": "Suzuka",
         "url": "https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98"
       },
@@ -819,22 +803,18 @@
     {
       "added_at": "2025-05-07 00:00:11",
       "album": {
-        "name": "Sirena Deep",
-        "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/78AkFHYlMZAaoUCF2TKTr1"
       },
       "artists": [
         {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
         }
       ],
-      "duration_ms": 341500,
-      "name": "Sirena Deep",
-      "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
+      "duration_ms": 259650,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK"
     },
     {
       "added_at": "2025-05-07 00:00:11",
@@ -855,6 +835,26 @@
       "duration_ms": 272523,
       "name": "Do You Want Me",
       "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+    },
+    {
+      "added_at": "2025-05-07 00:00:11",
+      "album": {
+        "name": "Sirena Deep",
+        "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "duration_ms": 341500,
+      "name": "Sirena Deep",
+      "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
     },
     {
       "added_at": "2025-05-07 00:00:11",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-05-07 00:00:11",
       "album": {
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+    },
+    {
+      "added_at": "2025-05-07 00:00:11",
+      "album": {
         "name": "Come To Me",
         "url": "https://open.spotify.com/album/5MOpSlXFGJwXQ9ytEFE7wT"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2025-05-07 00:00:11",
       "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+        "name": "Medium",
+        "url": "https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G"
       },
       "artists": [
         {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
         }
       ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+      "duration_ms": 238201,
+      "name": "Medium",
+      "url": "https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA"
     },
     {
       "added_at": "2025-05-07 00:00:11",
@@ -1091,22 +1107,6 @@
       "duration_ms": 322876,
       "name": "Everything In Its Right Place",
       "url": "https://open.spotify.com/track/746B9KoiVS1vOU7bqj2ayD"
-    },
-    {
-      "added_at": "2025-05-07 00:00:11",
-      "album": {
-        "name": "Medium",
-        "url": "https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G"
-      },
-      "artists": [
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
-        }
-      ],
-      "duration_ms": 238201,
-      "name": "Medium",
-      "url": "https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA"
     },
     {
       "added_at": "2025-05-07 00:00:11",

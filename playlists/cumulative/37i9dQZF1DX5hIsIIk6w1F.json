@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: VIntna B & Akatumamy.",
+  "description": "Este Flow tiene otro Flow. Foto: Katteyes & Jairo Vera.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -3889,6 +3889,28 @@
     },
     {
       "album": {
+        "name": "Como T\u00fa",
+        "url": "https://open.spotify.com/album/0QaEYb76P354GEhBTiipyC"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN"
+    },
+    {
+      "album": {
         "name": "COMPLICES",
         "url": "https://open.spotify.com/album/35YJilctgWruJnQTGpvi3k"
       },
@@ -6584,7 +6606,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 165575,
       "name": "Espa\u00f1a",
       "url": "https://open.spotify.com/track/1tBpI4LbFaRNwBfvY4gucR"
@@ -21505,6 +21527,28 @@
     },
     {
       "album": {
+        "name": "Veinti4K",
+        "url": "https://open.spotify.com/album/6q7TxlT6l5MW1pCdv5X9Ai"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172768,
+      "name": "Veinti4K",
+      "url": "https://open.spotify.com/track/3BHTt0cEXYzahDo7U6jsTD"
+    },
+    {
+      "album": {
         "name": "Venenosa",
         "url": "https://open.spotify.com/album/4cCqSfTkwcvVtw6pA17BXv"
       },
@@ -22000,7 +22044,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 141818,
       "name": "www.hotxulito.com",
       "url": "https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,031,884 likes - 144 songs - 7 hr 30 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,031,874 likes - 144 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 49 | [the way i was \- enjoii remix](https://open.spotify.com/track/25uSI4fvxRU3Iujvw7flSh) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3), [enjoii](https://open.spotify.com/artist/5aUdEtXbJeOjAuNXLn9lkX), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [the way i was \(enjoii remix\)](https://open.spotify.com/album/4NzioCx6B71TPCLR5VhfPW) | 2:12 |
 | 50 | [My Name](https://open.spotify.com/track/33wXe2PIOqYZ4lI0eNRTdW) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [My Name](https://open.spotify.com/album/77ykc4hJTGuICmMOjovmXt) | 3:50 |
 | 51 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 |
-| 52 | [WHINE IN BRAZIL FUNK](https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [WHINE IN BRAZIL FUNK](https://open.spotify.com/album/6tuTOSJX2SjH8JBsh5uM30) | 1:47 |
+| 52 | [WHINE IN BRAZIL FUNK](https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [WHINE IN BRAZIL FUNK](https://open.spotify.com/album/6tuTOSJX2SjH8JBsh5uM30) | 1:44 |
 | 53 | [Annihilation](https://open.spotify.com/track/6mw6uMkFrjeVrx1wZVP03z) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n) | [Annihilation](https://open.spotify.com/album/07GNUhyyXfJFfDhhD2vcL5) | 3:08 |
 | 54 | [Poker Face](https://open.spotify.com/track/7tQPXgC9h5m7XyzSpRCYkD) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Poker Face](https://open.spotify.com/album/3S0E6XgBZZEHwtMK4Gq7vO) | 2:04 |
 | 55 | [Daydreaming](https://open.spotify.com/track/6xQpnKc8pxK1cfM6DAgySh) | [L I F E / L I N E](https://open.spotify.com/artist/5oGx8PvzXwgguezHDVRakQ), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Daydreaming](https://open.spotify.com/album/5WAkd6l1z5LiBWqXAxAM81) | 3:34 |

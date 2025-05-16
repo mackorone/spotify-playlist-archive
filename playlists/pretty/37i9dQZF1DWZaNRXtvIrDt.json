@@ -1,29 +1,13 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 132003,
+  "num_followers": 132004,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBy49gAAAADXoa+crNUiFNPif8gSWzjJ",
+  "snapshot_id": "aCXzegAAAACzBftmRkhSkaQPfecdt5kf",
   "tracks": [
-    {
-      "added_at": "2025-05-01 14:00:26",
-      "album": {
-        "name": "Bitter Suite",
-        "url": "https://open.spotify.com/album/0TeIFbIW5nPmmAUEJgDKsg"
-      },
-      "artists": [
-        {
-          "name": "Tornado Wallace",
-          "url": "https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT"
-        }
-      ],
-      "duration_ms": 629767,
-      "name": "Bitter Suite",
-      "url": "https://open.spotify.com/track/0WcwknCjqR4Mj6ZIB3f0QT"
-    },
     {
       "added_at": "2025-05-08 14:00:22",
       "album": {
@@ -41,24 +25,44 @@
       "url": "https://open.spotify.com/track/2LjcX9WmQTYWw7UYA7xbbw"
     },
     {
-      "added_at": "2025-04-10 14:01:13",
+      "added_at": "2025-05-15 14:00:26",
       "album": {
-        "name": "Choose Violence",
-        "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
+        "name": "Isso",
+        "url": "https://open.spotify.com/album/0hyAgPcABjcgMCV7WNw1E3"
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
         },
         {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+          "name": "MC P\u00e2nico",
+          "url": "https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr"
         }
       ],
-      "duration_ms": 195071,
-      "name": "Choose Violence",
-      "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
+      "duration_ms": 192839,
+      "name": "Isso",
+      "url": "https://open.spotify.com/track/0IKjSt4MiTBvC0ogVKgBJC"
+    },
+    {
+      "added_at": "2025-05-15 14:00:26",
+      "album": {
+        "name": "CA$HED UP",
+        "url": "https://open.spotify.com/album/2mKQPM2PzMEZDvAN9nuFnC"
+      },
+      "artists": [
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "U$ELE$$",
+      "url": "https://open.spotify.com/track/2LfeX799er2JgcgF5eMOaB"
     },
     {
       "added_at": "2025-04-10 14:01:13",
@@ -115,6 +119,26 @@
     {
       "added_at": "2025-04-10 14:01:13",
       "album": {
+        "name": "Choose Violence",
+        "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 195071,
+      "name": "Choose Violence",
+      "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
+    },
+    {
+      "added_at": "2025-04-10 14:01:13",
+      "album": {
         "name": "Come Round",
         "url": "https://open.spotify.com/album/0I6iEBfQOgvF2XFCn4sL8W"
       },
@@ -151,74 +175,6 @@
     {
       "added_at": "2025-05-01 14:00:26",
       "album": {
-        "name": "THORNY HARMONY",
-        "url": "https://open.spotify.com/album/3CaObgFstRe16YOpquZWlu"
-      },
-      "artists": [
-        {
-          "name": "Dro Carey",
-          "url": "https://open.spotify.com/artist/3RwHsu36piLoOoL0Elvse9"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "THORNY HARMONY",
-      "url": "https://open.spotify.com/track/1hXGjcOMW6nySXCU1Fbvh0"
-    },
-    {
-      "added_at": "2025-04-10 14:01:13",
-      "album": {
-        "name": "Reflecting",
-        "url": "https://open.spotify.com/album/02b7kHfX6HMK5wYfOW5tRB"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 266417,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/64RkbJPy2KEGptYzG2nEyi"
-    },
-    {
-      "added_at": "2025-05-01 14:00:26",
-      "album": {
-        "name": "Bass Tool (Radio Edit)",
-        "url": "https://open.spotify.com/album/003Bk58h37JXh5Pyl6EIvy"
-      },
-      "artists": [
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        },
-        {
-          "name": "Alex Culross",
-          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Bass Tool - Radio Edit",
-      "url": "https://open.spotify.com/track/6OXVILGyLRDDv0y0oRYErc"
-    },
-    {
-      "added_at": "2025-04-10 14:01:13",
-      "album": {
-        "name": "Deep",
-        "url": "https://open.spotify.com/album/2P9mZFtZuKg84Lonjc8AZ2"
-      },
-      "artists": [
-        {
-          "name": "MIRA MIRA",
-          "url": "https://open.spotify.com/artist/5D0GfztMpGYTNbcN27pbGC"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/7aJIaRvxGt0GXcLj6c6b9e"
-    },
-    {
-      "added_at": "2025-05-01 14:00:26",
-      "album": {
         "name": "Burna",
         "url": "https://open.spotify.com/album/2dg79UazOgFcM51vfwEKKW"
       },
@@ -251,18 +207,54 @@
     {
       "added_at": "2025-04-10 14:01:13",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33"
       },
       "artists": [
         {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
         }
       ],
-      "duration_ms": 136406,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
+      "duration_ms": 175869,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8"
+    },
+    {
+      "added_at": "2025-05-15 14:00:26",
+      "album": {
+        "name": "Fuck My Computer",
+        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 190762,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
+    },
+    {
+      "added_at": "2025-05-01 14:00:26",
+      "album": {
+        "name": "Bass Tool (Radio Edit)",
+        "url": "https://open.spotify.com/album/003Bk58h37JXh5Pyl6EIvy"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Alex Culross",
+          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Bass Tool - Radio Edit",
+      "url": "https://open.spotify.com/track/6OXVILGyLRDDv0y0oRYErc"
     },
     {
       "added_at": "2025-04-10 14:01:13",
@@ -287,18 +279,50 @@
     {
       "added_at": "2025-04-10 14:01:13",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33"
+        "name": "Reflecting",
+        "url": "https://open.spotify.com/album/02b7kHfX6HMK5wYfOW5tRB"
       },
       "artists": [
         {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
         }
       ],
-      "duration_ms": 175869,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8"
+      "duration_ms": 266417,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/64RkbJPy2KEGptYzG2nEyi"
+    },
+    {
+      "added_at": "2025-04-10 14:01:13",
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/2P9mZFtZuKg84Lonjc8AZ2"
+      },
+      "artists": [
+        {
+          "name": "MIRA MIRA",
+          "url": "https://open.spotify.com/artist/5D0GfztMpGYTNbcN27pbGC"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/7aJIaRvxGt0GXcLj6c6b9e"
+    },
+    {
+      "added_at": "2025-04-10 14:01:13",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6"
     },
     {
       "added_at": "2025-05-08 14:00:22",
@@ -321,36 +345,52 @@
       "url": "https://open.spotify.com/track/3ooEmXQnBUtR39lgXLYYCx"
     },
     {
-      "added_at": "2025-04-10 14:01:13",
+      "added_at": "2025-05-15 14:00:26",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY"
+        "name": "Innadream",
+        "url": "https://open.spotify.com/album/75U6gZIUN0HbSWJ1fNLhuP"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
         }
       ],
-      "duration_ms": 206693,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6"
+      "duration_ms": 193108,
+      "name": "Innadream",
+      "url": "https://open.spotify.com/track/39OWi2zw0JQ34MILmKQQpd"
+    },
+    {
+      "added_at": "2025-05-15 14:00:26",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/5Oxe4hv91gpBQOSDROFhK7"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/0RQmlqEtYB7fqDvLHgAIjI"
     },
     {
       "added_at": "2025-04-10 14:01:13",
       "album": {
-        "name": "l-o-l-o-l-o",
-        "url": "https://open.spotify.com/album/6zTqNFtBUIQAidhKbm2uAT"
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
       },
       "artists": [
         {
-          "name": "FUKHED",
-          "url": "https://open.spotify.com/artist/5BqpnSBznM8TZgqiCYRW2w"
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
         }
       ],
-      "duration_ms": 241887,
-      "name": "l-o-l-o-l-o",
-      "url": "https://open.spotify.com/track/76E022KafQ2YzsextxFsxC"
+      "duration_ms": 136406,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
     },
     {
       "added_at": "2025-05-01 14:00:26",
@@ -367,22 +407,6 @@
       "duration_ms": 251322,
       "name": "FTRW!",
       "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
-    },
-    {
-      "added_at": "2025-04-10 14:01:13",
-      "album": {
-        "name": "Son Of The Forest (Edit)",
-        "url": "https://open.spotify.com/album/5iGbScYDCN4q78VgCfYCUL"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 285451,
-      "name": "Son Of The Forest - Edit",
-      "url": "https://open.spotify.com/track/7dXItXQY2FI0iBiNThn3oX"
     },
     {
       "added_at": "2025-04-10 14:01:13",
@@ -405,6 +429,22 @@
       "url": "https://open.spotify.com/track/3MmCyBnjjY0BOpt5BcEbVg"
     },
     {
+      "added_at": "2025-04-10 14:01:13",
+      "album": {
+        "name": "Son Of The Forest (Edit)",
+        "url": "https://open.spotify.com/album/5iGbScYDCN4q78VgCfYCUL"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "duration_ms": 285451,
+      "name": "Son Of The Forest - Edit",
+      "url": "https://open.spotify.com/track/7dXItXQY2FI0iBiNThn3oX"
+    },
+    {
       "added_at": "2025-05-01 14:00:26",
       "album": {
         "name": "There Is A World",
@@ -421,10 +461,10 @@
       "url": "https://open.spotify.com/track/4sfEqpO1TdDF2HNpFWk1Xf"
     },
     {
-      "added_at": "2025-04-10 14:01:13",
+      "added_at": "2025-05-01 14:00:26",
       "album": {
-        "name": "LEAN MANTLES",
-        "url": "https://open.spotify.com/album/1wNqiAcdBXOVjLUupnDwMw"
+        "name": "THORNY HARMONY",
+        "url": "https://open.spotify.com/album/3CaObgFstRe16YOpquZWlu"
       },
       "artists": [
         {
@@ -432,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3RwHsu36piLoOoL0Elvse9"
         }
       ],
-      "duration_ms": 209500,
-      "name": "LEAN MANTLES",
-      "url": "https://open.spotify.com/track/5jTE3jRc8hKshQy6fKbb20"
+      "duration_ms": 309000,
+      "name": "THORNY HARMONY",
+      "url": "https://open.spotify.com/track/1hXGjcOMW6nySXCU1Fbvh0"
     },
     {
       "added_at": "2025-04-10 14:01:13",
@@ -463,6 +503,38 @@
     {
       "added_at": "2025-04-10 14:01:13",
       "album": {
+        "name": "Melomaniac 002",
+        "url": "https://open.spotify.com/album/0sviftr74ZZK8tcIbTmheD"
+      },
+      "artists": [
+        {
+          "name": "Hellcat Speedracer",
+          "url": "https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV"
+        }
+      ],
+      "duration_ms": 187011,
+      "name": "Backtothe",
+      "url": "https://open.spotify.com/track/4i2J5OK7POU7JffOlAUxfO"
+    },
+    {
+      "added_at": "2025-05-01 14:00:26",
+      "album": {
+        "name": "Big Sky, Liquid Sun",
+        "url": "https://open.spotify.com/album/79AlNej6d20ava6Gh0JgF9"
+      },
+      "artists": [
+        {
+          "name": "Sleep D",
+          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+        }
+      ],
+      "duration_ms": 435826,
+      "name": "Acheron Cauldron",
+      "url": "https://open.spotify.com/track/1UyChF8vAj8E8KiuNIrc7G"
+    },
+    {
+      "added_at": "2025-04-10 14:01:13",
+      "album": {
         "name": "Badder",
         "url": "https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo"
       },
@@ -483,22 +555,6 @@
     {
       "added_at": "2025-04-10 14:01:13",
       "album": {
-        "name": "Melomaniac 002",
-        "url": "https://open.spotify.com/album/0sviftr74ZZK8tcIbTmheD"
-      },
-      "artists": [
-        {
-          "name": "Hellcat Speedracer",
-          "url": "https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV"
-        }
-      ],
-      "duration_ms": 187011,
-      "name": "Backtothe",
-      "url": "https://open.spotify.com/track/4i2J5OK7POU7JffOlAUxfO"
-    },
-    {
-      "added_at": "2025-04-10 14:01:13",
-      "album": {
         "name": "Son Of The Forest EP",
         "url": "https://open.spotify.com/album/5pU6csjYuZZJp4etH3D4wn"
       },
@@ -513,20 +569,36 @@
       "url": "https://open.spotify.com/track/3wmlOz74Q3E0fY2Kps164E"
     },
     {
-      "added_at": "2025-05-01 14:00:26",
+      "added_at": "2025-04-10 14:01:13",
       "album": {
-        "name": "Big Sky, Liquid Sun",
-        "url": "https://open.spotify.com/album/79AlNej6d20ava6Gh0JgF9"
+        "name": "l-o-l-o-l-o",
+        "url": "https://open.spotify.com/album/6zTqNFtBUIQAidhKbm2uAT"
       },
       "artists": [
         {
-          "name": "Sleep D",
-          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+          "name": "FUKHED",
+          "url": "https://open.spotify.com/artist/5BqpnSBznM8TZgqiCYRW2w"
         }
       ],
-      "duration_ms": 435826,
-      "name": "Acheron Cauldron",
-      "url": "https://open.spotify.com/track/1UyChF8vAj8E8KiuNIrc7G"
+      "duration_ms": 241887,
+      "name": "l-o-l-o-l-o",
+      "url": "https://open.spotify.com/track/76E022KafQ2YzsextxFsxC"
+    },
+    {
+      "added_at": "2025-04-10 14:01:13",
+      "album": {
+        "name": "LEAN MANTLES",
+        "url": "https://open.spotify.com/album/1wNqiAcdBXOVjLUupnDwMw"
+      },
+      "artists": [
+        {
+          "name": "Dro Carey",
+          "url": "https://open.spotify.com/artist/3RwHsu36piLoOoL0Elvse9"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "LEAN MANTLES",
+      "url": "https://open.spotify.com/track/5jTE3jRc8hKshQy6fKbb20"
     },
     {
       "added_at": "2025-04-10 14:01:13",
@@ -595,6 +667,22 @@
       "duration_ms": 278458,
       "name": "SNOW GLOBE",
       "url": "https://open.spotify.com/track/6fE8YLQhZfnXfeXFmMzrAm"
+    },
+    {
+      "added_at": "2025-05-01 14:00:26",
+      "album": {
+        "name": "Bitter Suite",
+        "url": "https://open.spotify.com/album/0TeIFbIW5nPmmAUEJgDKsg"
+      },
+      "artists": [
+        {
+          "name": "Tornado Wallace",
+          "url": "https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT"
+        }
+      ],
+      "duration_ms": 629767,
+      "name": "Bitter Suite",
+      "url": "https://open.spotify.com/track/0WcwknCjqR4Mj6ZIB3f0QT"
     },
     {
       "added_at": "2025-04-10 14:01:13",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05db\u05dc \u05d4\u05e4\u05d5\u05e4 \u05d4\u05d9\u05e4\u05d4 \u05d5\u05d4\u05de\u05e8\u05d2\u05e9 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8:  \u05dc\u05d9\u05e8\u05df \u05d3\u05e0\u05d9\u05e0\u05d5 ",
+  "description": "\u05db\u05dc \u05d4\u05e4\u05d5\u05e4 \u05d4\u05d9\u05e4\u05d4 \u05d5\u05d4\u05de\u05e8\u05d2\u05e9 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05de\u05e8\u05d2\u05d9 ",
   "name": "\u05e4\u05d5\u05e4 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 \u05d7\u05d3\u05e9",
   "tracks": [
     {
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 196000,
       "name": "\u05d3\u05e8\u05d9\u05e9\u05ea \u05e9\u05dc\u05d5\u05dd \u05de\u05d7\u05d9\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9\u05dd (\u05de\u05d9\u05dc\u05d9) [Drishat Shalom Me'Chaim Acherim (Mili)]",
       "url": "https://open.spotify.com/track/2xtGFPXdUnH7Kqfw9sbIZQ"
@@ -3503,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d0 \u05d0\u05db\u05e4\u05ea \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/3ZdABSO68ysogv6foyBdz4"
+      },
+      "artists": [
+        {
+          "name": "\u05e4\u05e8\u05d9\u05d3\u05d4",
+          "url": "https://open.spotify.com/artist/6VQ8b7uCvOji6TvSqozJ2D"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "\u05dc\u05d0 \u05d0\u05db\u05e4\u05ea \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/0lv4qpjNTUf1nATDz1fhsu"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d0 \u05d1\u05d0\u05de\u05ea \u05db\u05dc\u05d5\u05dd",
         "url": "https://open.spotify.com/album/14t2NznGGkbO8r0ScpgWxk"
       },
@@ -4172,7 +4190,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 217000,
       "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
       "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
@@ -4632,6 +4650,28 @@
       "duration_ms": 222000,
       "name": "\u05de\u05e9\u05d4",
       "url": "https://open.spotify.com/track/3Kl3XgSevg4Z0774K9Mj1t"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05e9\u05d4\u05d5 \u05d0\u05d7\u05e8",
+        "url": "https://open.spotify.com/album/3sRSX68JBe65QH4N1ip1wW"
+      },
+      "artists": [
+        {
+          "name": "Eldad Zitrin",
+          "url": "https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk"
+        },
+        {
+          "name": "May Sfadia",
+          "url": "https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151363,
+      "name": "\u05de\u05e9\u05d4\u05d5 \u05d0\u05d7\u05e8",
+      "url": "https://open.spotify.com/track/7cqdH5LgHJsorTvwtAMmYF"
     },
     {
       "album": {

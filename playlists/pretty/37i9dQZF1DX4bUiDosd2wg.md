@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,567 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,577 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 49 | [먼곳에서](https://open.spotify.com/track/5aFAqDSbv4vJgAWmVuvojM) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/3DwlAxa5P4qofNLXav1yxH) | 3:45 |
 | 50 | [해줄 수 없는 일](https://open.spotify.com/track/77IXf3D6H1tY1ntjDaRxLp) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [해줄 수 없는 일](https://open.spotify.com/album/48GolwFNT8Fd3OoFYHiz9G) | 4:21 |
 | 51 | [Doll](https://open.spotify.com/track/5Iy48VE6KN7Ywml5hlOd9u) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Doll \- SM STATION](https://open.spotify.com/album/6YHteiOLrZ7gfQEqq2TeRM) | 4:54 |
-| 52 | [눈의 꽃](https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Neo Classicism](https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul) | 5:42 |
+| 52 | [Neo Classicism \- 눈의 꽃 \- Remake Version](https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW) | [Five Sense](https://open.spotify.com/artist/1W8cDoqWbmovusGp27bHFp) | [Neo Classicism \- 눈의 꽃](https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul) | 5:42 |
 | 53 | [좋은사람 Joeunsaram](https://open.spotify.com/track/5LdZ6uPgR2UOPlOXQ94TnL) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Time\-Honored Voice](https://open.spotify.com/album/1W0hjumEB6L0KzUaRf13Ps) | 3:56 |
 | 54 | [I Love You](https://open.spotify.com/track/0T2RSnMpCakH6OcLQOrBiz) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Uncontrollably Fond OST Part.9](https://open.spotify.com/album/4aab6GVMX7A42SXDAPDyu4) | 4:08 |
 | 55 | [보고싶다 \(From\. "드라마 천국의 계단"\)](https://open.spotify.com/track/2ES5x2KyfEeyplKPW0hkA5) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [인연](https://open.spotify.com/album/4tNYcoG7KmE4toxCvnHKQA) | 4:03 |

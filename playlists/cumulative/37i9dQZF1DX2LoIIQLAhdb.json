@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : SenSey'",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tiakola",
   "name": "R&Bae",
   "tracks": [
     {
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 162280,
       "name": "GHETTO",
       "url": "https://open.spotify.com/track/4N2KGJWTNtSttyhAHJrAfJ"
@@ -3859,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "Je pensais",
+        "url": "https://open.spotify.com/album/6AM1pkhao3uXknlqwQ9kAV"
+      },
+      "artists": [
+        {
+          "name": "Clara Charlotte",
+          "url": "https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229312,
+      "name": "Je pensais",
+      "url": "https://open.spotify.com/track/6BvOKn9i8YnEl5rTVS5XB7"
+    },
+    {
+      "album": {
         "name": "Jeu d'acteur",
         "url": "https://open.spotify.com/album/4yInrd80NPSeTvcrUTrXO3"
       },
@@ -4360,6 +4378,24 @@
       "duration_ms": 207760,
       "name": "Le coeur ou la raison",
       "url": "https://open.spotify.com/track/5e19nB0x3kkuIDPjfQx609"
+    },
+    {
+      "album": {
+        "name": "LE MAL DE TOI",
+        "url": "https://open.spotify.com/album/7BL55BqiPE6urVZZl9VaDm"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187634,
+      "name": "LE MAL DE TOI",
+      "url": "https://open.spotify.com/track/5n8CN6OBcefriP1QLdzLvG"
     },
     {
       "album": {
@@ -8958,7 +8994,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 164560,
       "name": "Ying & Yang",
       "url": "https://open.spotify.com/track/1XFJYOadFmIwnkq8sqbMBn"

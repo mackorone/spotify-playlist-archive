@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Studio Murena
 
-523 songs - 1 day 15 hr 21 min
+524 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Southern Dub](https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Domenico Candellori](https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC) | [Liquid Portraits](https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS) | 4:05 | 2022-11-02 |  |
 | [Spears of Leaves](https://open.spotify.com/track/0fMtkZWxfjmmIalaAfeUM0) | [Karu](https://open.spotify.com/artist/68L2UQmHpBNsUkWBUn2iRv) | [Spears of Leaves](https://open.spotify.com/album/4ZM5RWTu7VvQDc3FV9wSK8) | 3:12 | 2022-11-02 | 2022-12-06 |
 | [Spinning](https://open.spotify.com/track/7cf0I8kyqpeQJvCdhGXwZn) | [Flavio Boltro](https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw), [BBB Trio](https://open.spotify.com/artist/00Emct6hk2HVR0oTaxqCoi) | [Spinning](https://open.spotify.com/album/2snzNi9mvkwypn7AegWBRZ) | 4:08 | 2023-06-04 | 2023-09-18 |
+| [Spiral](https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc) | [Nādt Orchestra](https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT) | [Dualism](https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ) | 4:41 | 2025-05-08 |  |
 | [Stan Lee \- Alternate Version](https://open.spotify.com/track/1tv82hvJ88GOseKWEYsW3L) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Post Momentum](https://open.spotify.com/album/3xMxVoRW5cUMzZKdffnINk) | 3:23 | 2022-11-02 | 2022-12-06 |
 | [Stand Stan](https://open.spotify.com/track/3bbYpaMHAbtWkvA7ecrvOU) | [Ghost Horse](https://open.spotify.com/artist/4kbMP6FE0uIGKflO5L50rG) | [Il Bene Comune](https://open.spotify.com/album/2UZrG3aDXy8lgRybaqwsZd) | 3:23 | 2023-09-17 | 2023-12-06 |
 | [stanza](https://open.spotify.com/track/43EQlmYkZTt3PGEsfaE4V4) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/1I83D4utfYfkxSliMBVfe0) | 5:25 | 2023-09-17 | 2023-12-06 |
@@ -483,7 +484,7 @@
 | [Tom' S Soul](https://open.spotify.com/track/4RYomZ4HzIz7JWW5i52egb) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc), [Dado Moroni](https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz), [A.Dulbecco](https://open.spotify.com/artist/04UTzakRwaH7rZ5TjAsT3o), [R\. Fioravanti](https://open.spotify.com/artist/2cBxFZFlI3zdKislug7mja), [S.Bagnoli](https://open.spotify.com/artist/0lwIBPX35vVdol0QNnj0OW), [E\. Zirilli](https://open.spotify.com/artist/4DAo7PW2OcG1CLQbCDHy4L) | [The Cube](https://open.spotify.com/album/5LEyuNdDb3U6U9NbtMnNT1) | 7:25 | 2023-01-30 | 2023-06-05 |
 | [Toral](https://open.spotify.com/track/2eQtLni0YhVgVpjGVR3E7P) | [Bebo Ferra](https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB) | [Mari Pintau](https://open.spotify.com/album/7pmESqvMBX3KdKfVcbUjLK) | 5:03 | 2023-06-04 | 2023-09-18 |
 | [Transe Napolitaine](https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 4:49 | 2022-11-02 | 2025-02-17 |
-| [Traspare](https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl) | [Ivan Segreto](https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19) | [Ampia](https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw) | 6:10 | 2024-04-26 |  |
+| [Traspare](https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl) | [Ivan Segreto](https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19) | [Ampia](https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw) | 6:10 | 2024-04-26 | 2025-05-16 |
 | [Tre numeri al lotto](https://open.spotify.com/track/1cv3Fr5uYD24Gal0xtd1FX) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Tu Vuo' Fa L'americano](https://open.spotify.com/album/5pvgUx68aVvUibpa1J9O56) | 2:51 | 2023-06-04 | 2023-09-18 |
 | [Tribal Dance](https://open.spotify.com/track/63Bq1F9wKFzn7OZhYR3WCh) | [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0), [Stefano Maurizi](https://open.spotify.com/artist/2dcgy7gYodUcL5l1V16qan), [Mirco Mariottini](https://open.spotify.com/artist/59pnlMKJa3phDabIFCfQeN) | [Dialogues](https://open.spotify.com/album/04mcwadpwSaYynroTEqYJg) | 4:30 | 2023-01-30 | 2025-02-02 |
 | [Trieterís](https://open.spotify.com/track/7Lvu0gSEGdoFOxFRKmS5xS) | [Nicolò Francesco Faraglia](https://open.spotify.com/artist/4sPt1ymwLAl57joEIdxVmT), [Gabriele Evangelista](https://open.spotify.com/artist/2SyYl2zRKK3ojQaYhXz7go), [Nicholas Remondino](https://open.spotify.com/artist/4MT3NNUbioPR4ft92P1PRY) | [Kissós](https://open.spotify.com/album/5gOKH7s1yAechae2rZKEZ4) | 5:19 | 2023-09-17 | 2023-12-06 |

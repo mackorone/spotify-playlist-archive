@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,848 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,894 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Saveiro](https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Saveiro](https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS) | 2:24 |
 | 50 | [Bigode](https://open.spotify.com/track/38RpsPwe9sEDzldwBWsMUg) | [Bella Angel](https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Thalia](https://open.spotify.com/artist/3Di5v0WZ3pfuL0rEQG2nfu), [GP DA ZL](https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3), [Jhow Dancer](https://open.spotify.com/artist/25OOXt52LeFqr5wwv5cYcI) | [Bigode](https://open.spotify.com/album/2S4IAXBQ3Te2qWao7Rf1Da) | 2:49 |
 
-Snapshot ID: `L7gJeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L7la+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

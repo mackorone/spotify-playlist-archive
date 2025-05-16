@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Chaos in The CBD
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Sofia Kourtesis
 
-1,364 songs - 4 day 4 hr 53 min
+1,366 songs - 4 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,6 +1027,7 @@
 | [saving flowers \- Hudson Mohawke Remix](https://open.spotify.com/track/61YP88kosdBsJXcbfkN0Nn) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [saving flowers \(Hudson Mohawke Remix\)](https://open.spotify.com/album/0xYEK2yJx7FVznbmI9EM7H) | 4:21 | 2025-05-02 |  |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-20 | 2024-06-07 |
 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 | 2023-03-16 | 2023-04-28 |
+| [Say My Name \- IN PARALLEL Remix](https://open.spotify.com/track/6b94VrZATuEENnmaJLFOsW) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [Say My Name \(IN PARALLEL Remix\)](https://open.spotify.com/album/3bBlNd0VNDNjm6omoqgVAv) | 2:43 | 2025-05-15 |  |
 | [Say Something](https://open.spotify.com/track/6lF62ikmd91L7gOeuvrGQS) | [Elbarto](https://open.spotify.com/artist/3InKKq50OT5mnfjcmHfVBk) | [Say Something/Hold on W8](https://open.spotify.com/album/2MdDxQWgZRN7Og3AWOfYhy) | 4:22 | 2023-12-07 | 2024-02-10 |
 | [Say Tell Me \- Maya Jane Coles Remix](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say Tell Me \(Maya Jane Coles Remix\)](https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij) | 4:58 | 2025-05-02 |  |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-26 | 2025-01-11 |
@@ -1263,6 +1264,7 @@
 | [under the sun, beneath the rainfall \- Mixed](https://open.spotify.com/track/4eiBXALu2JqskNQuaDetsJ) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [DJ\-Kicks: Logic1000](https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx) | 2:58 | 2025-03-29 |  |
 | [Underneath](https://open.spotify.com/track/5ysXuifk655k82MjxXHxzS) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Underneath](https://open.spotify.com/album/0yJwLlRNz1oBjf24GqqteA) | 3:02 | 2024-06-27 | 2024-09-13 |
 | [Unfolding \(Momentum 73\) \- Ron Trent Remix](https://open.spotify.com/track/5eSKAYrvRTXpLxGrAirVZ5) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Unfolding \(Momentum 73\) \[Ron Trent Remix\]](https://open.spotify.com/album/28xecaf0DFRLkdhgcdsWOS) | 8:32 | 2023-03-16 | 2023-06-09 |
+| [Unidos](https://open.spotify.com/track/053G1LzgAp6h89rrotgsn0) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Unidos](https://open.spotify.com/album/2dJgxHSvlhIM3bxxQozioO) | 5:17 | 2025-05-15 |  |
 | [Unsubscribe](https://open.spotify.com/track/0uK4o57mti3ismPWyyH5sp) | [Jim Rider](https://open.spotify.com/artist/4zb1c7hwyu6K3397ybW3GC), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Unsubscribe](https://open.spotify.com/album/6jPvaeySqg22aUnTh1hIoE) | 4:07 | 2024-11-29 | 2024-12-06 |
 | [Until Then / それまで \- Seb Wildblood Remix](https://open.spotify.com/track/73ZJEBYVqO4SchNAbVrV6i) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Until Then / それまで \(Seb Wildblood Remix\)](https://open.spotify.com/album/6oHtLWTJ71aeTQPx8TZzpp) | 6:24 | 2023-03-16 | 2023-07-28 |
 | [Untouched](https://open.spotify.com/track/3FTZrS9YBozmf7LZ9tfJik) | [Mirasia](https://open.spotify.com/artist/38BpiXYo0GESioPqkG5xyl), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [Untouched](https://open.spotify.com/album/60lAgfdFfiE2cu5bEajcuU) | 3:21 | 2024-12-26 | 2025-01-17 |

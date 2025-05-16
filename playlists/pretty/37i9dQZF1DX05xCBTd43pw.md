@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 ### [Swiss Made](https://open.spotify.com/playlist/37i9dQZF1DX05xCBTd43pw)
 
-> Entdecke die Songauswahl der Stubete Gäng.
+> Entdecke Nemos Songauswahl\. <br/>Discovery Nemo's track selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,667 likes - 20 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,674 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Göschene Airolo](https://open.spotify.com/track/5HbGxL9p7bsRQb6cc4ltcA) | [Stubete Gäng](https://open.spotify.com/artist/6NQtXhodb5tNerCDXaX3sN) | [Stubete Gäng](https://open.spotify.com/album/0Kt0oARMyCDq8I053zVNlU) | 3:19 |
-| 2 | [La Bambele](https://open.spotify.com/track/1UB7rmiUlZEpA7EKLWFoG0) | [Müslüm](https://open.spotify.com/artist/30n84qoTYUcib1cU4WJj9h) | [Apochalüpt](https://open.spotify.com/album/3eIqmJS11sy0lZCtAvFa9M) | 3:10 |
-| 3 | [Ewigi Liäbi](https://open.spotify.com/track/5ZhhqmfPUKOvrtApk9fSOh) | [Mash](https://open.spotify.com/artist/3B57Z4DUtbwlGvAlTWzCPl) | [Nid Vo Bärn](https://open.spotify.com/album/1bL3dNNhKomStmA6QuE6KY) | 4:21 |
-| 4 | [Du](https://open.spotify.com/track/0EM85Qj3526QtxCBOQL6rT) | [Nemo \(CH\)](https://open.spotify.com/artist/1KbDYbNErlTGfWPENELJgM) | [Du](https://open.spotify.com/album/3VDAjCOWVKdGVmnVFvTTUr) | 3:36 |
-| 5 | [Vom Dorf](https://open.spotify.com/track/6LlwpVVDkqYTMIGWGqgBi3) | [Fründe](https://open.spotify.com/artist/2wfimwYFeZLGY59D7cxc3c) | [Fründe](https://open.spotify.com/album/1m9lgT3jsmy3RQFHMVDGdC) | 2:28 |
-| 6 | [Liebi](https://open.spotify.com/track/35h8sAhirOlXAytzktfNfr) | [Stubete Gäng](https://open.spotify.com/artist/6NQtXhodb5tNerCDXaX3sN) | [Easy Muni](https://open.spotify.com/album/5P9LPLIdRO4Kx5j2AEMalf) | 2:46 |
-| 7 | [Just Like I Love You](https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Libertad](https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw) | 3:21 |
-| 8 | [Träumer](https://open.spotify.com/track/3zZT2tVOOvoeXhCXHXwLxe) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Träumer](https://open.spotify.com/album/2yxljgT0voJDYx4vQUq7Hi) | 3:29 |
-| 9 | [\(fernweh\)](https://open.spotify.com/track/7veAymqTvLUvcQwixp6aRI) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Hinterem Mond](https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR) | 2:55 |
-| 10 | [Petra Sturzenegger](https://open.spotify.com/track/79fkcZ3Fa04MA5ydqCMVQb) | [Stubete Gäng](https://open.spotify.com/artist/6NQtXhodb5tNerCDXaX3sN) | [Stubete Gäng](https://open.spotify.com/album/0Kt0oARMyCDq8I053zVNlU) | 3:30 |
-| 11 | [Heaven](https://open.spotify.com/track/6w2q9iV3oJAjcN8cPKNT4a) | [Gotthard](https://open.spotify.com/artist/4DwhNqibDIsxIamSxWb7tQ) | [Homerun](https://open.spotify.com/album/4CUSYHYyzqumxIUrCcLDco) | 4:33 |
-| 12 | [Blueme](https://open.spotify.com/track/4lvwmEzgSSVSDdZ5IJ9JS6) | [Heimweh](https://open.spotify.com/artist/105zzMv7YWXNlEOan0owJb) | [Blueme](https://open.spotify.com/album/6Jxu6aoNf01lUI1yhFdIaw) | 3:09 |
-| 13 | [I han es Zündhölzli azündt](https://open.spotify.com/track/1BgnJyDB7jEYoAMpHqKbcn) | [Mani Matter](https://open.spotify.com/artist/7wkPBPwF9oOZJ8lEbQjIVt) | [I han es Zündhölzli azündt](https://open.spotify.com/album/04MiVKnlpaFvjQY0LBLmry) | 1:33 |
-| 14 | [Migros oder Coop](https://open.spotify.com/track/7DK5IE6ynYeCFRWWqVh5zk) | [Fründe](https://open.spotify.com/artist/2wfimwYFeZLGY59D7cxc3c) | [Migros oder Coop](https://open.spotify.com/album/1cc3f0UR1Gk2L5C3GEEFxM) | 2:40 |
-| 15 | [W\. Nuss vo Bümpliz](https://open.spotify.com/track/5JSFJTSPBsGraIbyM6WfwF) | [Patent Ochsner](https://open.spotify.com/artist/4Cfx9c45o8GigUIYzDie9B) | [Stella Nera](https://open.spotify.com/album/6OF1gzM9CWIb8aGFnZBXx5) | 5:31 |
-| 16 | [I schänke dr mis Härz](https://open.spotify.com/track/16yQMAq01OKNB5oiEFajio) | [Züri West](https://open.spotify.com/artist/5whb6si9KY0ywOL5zeRlV9) | [Züriwest](https://open.spotify.com/album/0frrjFHdmIInWUPLnFGExA) | 3:28 |
-| 17 | [Heimatgfühl](https://open.spotify.com/track/1JB6bYhBfba3wkSFhxZTeU) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Megawatt](https://open.spotify.com/album/2PGvhxLXvgZu6F2OEu5nwN) | 3:23 |
-| 18 | [So e geili Ziit](https://open.spotify.com/track/3LcblApGZfoFDLOam4qIga) | [Gugge3000](https://open.spotify.com/artist/1eJv3465qsDaqvHk2XdiLN) | [Gugge3000](https://open.spotify.com/album/55Ap5TQg4ZPg7PfLAXsG7e) | 3:41 |
-| 19 | [Angelina](https://open.spotify.com/track/7diSzKYr6oXl8YlIHfvLrg) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Drinks](https://open.spotify.com/album/05IO5tRFtJE3yDlRbykmdH) | 2:58 |
-| 20 | [Ha ke Ahnig](https://open.spotify.com/track/0wLBYqQieV6Xr5oqA99LDb) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Vögu zum Geburtstag](https://open.spotify.com/album/1SI16c719Ua8voBc1u5xWc) | 3:22 |
+| 1 | [Skylines](https://open.spotify.com/track/1VZifdc2a0Fvbqpsj93chz) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6), [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [Skylines](https://open.spotify.com/album/56gdvRrU2DDBbaoL4RxlFp) | 3:07 |
+| 2 | [Irgendwo](https://open.spotify.com/track/01r4K8t7K84ilhixxPnpzV) | [Splendid](https://open.spotify.com/artist/3iyuRBLyFT4fpgUlzqO0WP), [Anina Shona](https://open.spotify.com/artist/6TPBqAsZUTb5z8pL8KbKkJ) | [Irgendwo](https://open.spotify.com/album/7Joteqcr2I1mMdW7EmO4oz) | 2:49 |
+| 3 | [Chosen One](https://open.spotify.com/track/6dqTj5gKTMni9esU8TO5jd) | [Paxslim](https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy) | [Chosen One](https://open.spotify.com/album/4VQXn7Ine5IpFCHWGrJxKJ) | 1:44 |
+| 4 | [Bergerac](https://open.spotify.com/track/2uMSZtOUJF900a0X6pvk3x) | [Slimka](https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN) | [Bergerac](https://open.spotify.com/album/6xdUzfA8gxRKeKQ0A1DYXx) | 2:33 |
+| 5 | [Nice](https://open.spotify.com/track/79KWvVmdE1BuPnTKofpIcJ) | [Kleenex](https://open.spotify.com/artist/0LjKl7QoB5xsk3Mk0mYVH1) | [Liliput](https://open.spotify.com/album/3oR1mh4CLqwl4Pp77aYm9o) | 2:27 |
+| 6 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 |
+| 7 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 |
+| 8 | [bad in bed](https://open.spotify.com/track/4jtAvPO4BGKgxJv8ldLxHH) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj) | 3:17 |
+| 9 | [liam's intro](https://open.spotify.com/track/0H26CtlG20mYVfKUhUMHAW) | [Hotel Samar](https://open.spotify.com/artist/5hTdjvFe6LAe3J1bni2EmD) | [24 LOST](https://open.spotify.com/album/5Ztkfu449nYasWG1z4esui) | 2:13 |
+| 10 | [Blood Rain](https://open.spotify.com/track/74JZoP7ksBBGcJl2COTGPp) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf), [AM1RA](https://open.spotify.com/artist/4qpJauBorCQ5TDCs6HbqOn) | [Blood Rain](https://open.spotify.com/album/7nGeI3lP5DqlnZZWK1eJmi) | 3:22 |
+| 11 | [Clean](https://open.spotify.com/track/6Bl5lqZBzc2tgH6fbBoaor) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [Clean](https://open.spotify.com/album/6fzC2pvNHICrZG8j5YUX06) | 3:37 |
+| 12 | [Stabhochspringe](https://open.spotify.com/track/3sz6jUYOTT3hhYO2iG3vUJ) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Stabhochspringe](https://open.spotify.com/album/6druqWQ7NJiOMmjS6Ez6Cc) | 3:32 |
+| 13 | [Derfi di hebe](https://open.spotify.com/track/0offCTctIys3XsX6YKkOWC) | [Dino Brandão](https://open.spotify.com/artist/6tLCNTqQll91cBwz6SSMYn), [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Ich liebe Dich](https://open.spotify.com/album/0g9dbdt4D5Co7tniGL785C) | 4:16 |
+| 14 | [En Lea](https://open.spotify.com/track/2js5S4h0pIFeHX0WLDOxwW) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Longue Ride](https://open.spotify.com/album/0e64skKjTvndxBV6BOea3d) | 3:51 |
+| 15 | [1x1](https://open.spotify.com/track/5NaUNpm1Qjw90o1k0MUkKN) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd), [OG Florin](https://open.spotify.com/artist/5OxRSgisvdKcNLUsvCzZc9) | [1x1](https://open.spotify.com/album/7nrMFMyw0vcahCA98Djdi3) | 3:04 |
+| 16 | [Don't Do Drugs](https://open.spotify.com/track/2jqXB02jRg1esPEQxxYZ7q) | [Jule X](https://open.spotify.com/artist/1TSeKOGQXY1ERc745kFTJ0) | [Don't Do Drugs](https://open.spotify.com/album/6GI4X6DNKBz1AthKNkiAqG) | 2:33 |
+| 17 | [Buggin'](https://open.spotify.com/track/46Ud46DkKMe9HpV4O3UBv2) | [Melicious](https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH) | [Ugly Starts and Promises](https://open.spotify.com/album/53NWAC0sytaBwmatmwmZJv) | 3:07 |
+| 18 | [Run](https://open.spotify.com/track/6pvoD1YUUSiHYc4Mo3qfYr) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l) | 3:16 |
+| 19 | [Honolulu](https://open.spotify.com/track/5pW5kURQgNzOgNLtYBhFxh) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [February](https://open.spotify.com/album/1aS4Ymw0GPsZI5sASa0Bq1) | 2:11 |
+| 20 | [Magma im Arm](https://open.spotify.com/track/0zceJ1WQOWLmdq2GwJlJ5X) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Zucker fürs Volk](https://open.spotify.com/album/0PGYKp7TN1R957UD1BSpnh) | 5:11 |
 
-Snapshot ID: `aB25bgAAAACp5Dc1RB6udEOVQ99ta/m6`
+Snapshot ID: `aCZj/wAAAAC0pF1Y6QCe/DWKpcMd5Pce`

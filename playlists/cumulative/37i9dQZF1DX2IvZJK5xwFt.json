@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 160640,
       "name": "Already Over",
       "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 225682,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Bloom Baby Bloom",
+        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "Bloom Baby Bloom",
+      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
+    },
+    {
+      "album": {
         "name": "Blue-Stained Lips",
         "url": "https://open.spotify.com/album/2FaPLNZ7QIPLeRjRK9Pk8x"
       },
@@ -1528,6 +1546,28 @@
       "duration_ms": 153899,
       "name": "break me!",
       "url": "https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1"
+    },
+    {
+      "album": {
+        "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
+        "url": "https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        },
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223906,
+      "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
+      "url": "https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7"
     },
     {
       "album": {
@@ -2826,7 +2866,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 164790,
       "name": "DArkSide",
       "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
@@ -3064,7 +3104,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 198324,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
@@ -4457,6 +4497,28 @@
     },
     {
       "album": {
+        "name": "Frenemy",
+        "url": "https://open.spotify.com/album/1ZZkhyBrbAmKlhyhFbC4hn"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        },
+        {
+          "name": "VIDI",
+          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Frenemy (feat. VIDI)",
+      "url": "https://open.spotify.com/track/1PGt7c1YzOK5GiKjNp5IH1"
+    },
+    {
+      "album": {
         "name": "Frenzy",
         "url": "https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk"
       },
@@ -4923,6 +4985,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233188,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb"
+    },
+    {
+      "album": {
         "name": "Greedy Bastards",
         "url": "https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw"
       },
@@ -4974,6 +5054,24 @@
       "duration_ms": 177966,
       "name": "GRIDOUT",
       "url": "https://open.spotify.com/track/3vPxuqeKOCpguz5aqhHtQr"
+    },
+    {
+      "album": {
+        "name": "Grow Wings and Fly",
+        "url": "https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308424,
+      "name": "Grow Wings and Fly",
+      "url": "https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd"
     },
     {
       "album": {
@@ -7017,6 +7115,24 @@
     },
     {
       "album": {
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208739,
+      "name": "Let You Fade",
+      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
+    },
+    {
+      "album": {
         "name": "LIES WE TELL OURSELVES",
         "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
       },
@@ -7154,7 +7270,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 219346,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
@@ -7374,7 +7490,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 213822,
       "name": "Love to Death",
       "url": "https://open.spotify.com/track/7ymuSgXlOoI4tZGCafwzWv"
@@ -7432,7 +7548,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 175134,
       "name": "Lovesick Lullaby",
       "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
@@ -8417,6 +8533,24 @@
     },
     {
       "album": {
+        "name": "No Rain, No Flowers",
+        "url": "https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196774,
+      "name": "No Rain, No Flowers",
+      "url": "https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT"
+    },
+    {
+      "album": {
         "name": "No Return (Extended Version From The Original Series \u201cYellowjackets\u201d)",
         "url": "https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8"
       },
@@ -9048,7 +9182,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 170445,
       "name": "Over Each Other",
       "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
@@ -10564,6 +10698,24 @@
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/0Xio3TJaKcH819kEPjjLyS"
+    },
+    {
+      "album": {
+        "name": "Set It Free",
+        "url": "https://open.spotify.com/album/0HoKHAI0L9m464mk7Q7frg"
+      },
+      "artists": [
+        {
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209124,
+      "name": "Set It Free",
+      "url": "https://open.spotify.com/track/0Ot51JMkm0YpEjvs2MNfc4"
     },
     {
       "album": {
@@ -12211,6 +12363,28 @@
     },
     {
       "album": {
+        "name": "The Showman (Stories Of Surrender Version)",
+        "url": "https://open.spotify.com/album/11e7rgEntll0BwbR585Eb7"
+      },
+      "artists": [
+        {
+          "name": "Bono",
+          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190718,
+      "name": "The Showman - Stories Of Surrender Version",
+      "url": "https://open.spotify.com/track/3gLXrIvMPuomkpzZ3DHWW3"
+    },
+    {
+      "album": {
         "name": "The Summoning",
         "url": "https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX"
       },
@@ -12508,7 +12682,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 220190,
       "name": "Three Six Five",
       "url": "https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf"
@@ -12584,6 +12758,24 @@
       "duration_ms": 254508,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/5t9dzCexML40kn7AwjffI7"
+    },
+    {
+      "album": {
+        "name": "Time Will Heal",
+        "url": "https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285293,
+      "name": "Time Will Heal",
+      "url": "https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F"
     },
     {
       "album": {
@@ -13186,7 +13378,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 216997,
       "name": "VALENTINE",
       "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"

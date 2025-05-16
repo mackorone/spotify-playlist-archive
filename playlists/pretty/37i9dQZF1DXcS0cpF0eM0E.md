@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcS0cpF0eM0E.md) - [plain]
 
 > <a href="spotify:artist:3J8gnwzixjNXj5gM6a7h93">Eli Escobar</a>'s favorite tracks\. Updated regularly\. Curated by Eli Escobar\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,012 likes - 67 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,020 likes - 67 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Money](https://open.spotify.com/track/45wYklByrhi3arBzsfHITh) | [Nuxx Vomica](https://open.spotify.com/artist/0Y4cgcETCPP9Pv24mqhxp9) | [No Money](https://open.spotify.com/album/1MfuP2W5PMhaTAVyfCYnH0) | 3:58 |
+| 1 | [No Money](https://open.spotify.com/track/45wYklByrhi3arBzsfHITh) | [Nuxx](https://open.spotify.com/artist/0Y4cgcETCPP9Pv24mqhxp9) | [No Money](https://open.spotify.com/album/1MfuP2W5PMhaTAVyfCYnH0) | 3:58 |
 | 2 | [Eurovoiron](https://open.spotify.com/track/4WJaqd09eQdOHeVkxQBgYB) | [VOIRON](https://open.spotify.com/artist/4U0BYR0t5YsRswcsyQKYWs) | [Ingenieur Du Son](https://open.spotify.com/album/57WGUZiw3oamtMJc20VLw6) | 4:18 |
 | 3 | [Through It All](https://open.spotify.com/track/1F2wKAJcbwep3VHXXXZCw5) | [piri](https://open.spotify.com/artist/6oZ3LXzN4VhmmrYZrQmNW6) | [Drumpire](https://open.spotify.com/album/1xWJAv8nHjZo8GMjugprgK) | 1:46 |
 | 4 | [Motomag](https://open.spotify.com/track/5KLOI2oyN0f6Pad99eXDFe) | [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz) | [Techno Face](https://open.spotify.com/album/4kjkrOYDsgNBqalJlYrlRa) | 5:53 |

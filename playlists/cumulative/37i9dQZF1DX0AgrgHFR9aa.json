@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Zamdane",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : M\u00e9dine",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 230533,
       "name": "10 jours, 10 nuits",
       "url": "https://open.spotify.com/track/0Swisqu1xdKUrjDIz2tS33"
@@ -266,6 +266,24 @@
       "duration_ms": 192527,
       "name": "93\u00b0 FAHRENHEIT",
       "url": "https://open.spotify.com/track/0BKWziIDMgFsRzQ8d9DpdU"
+    },
+    {
+      "album": {
+        "name": "CCF",
+        "url": "https://open.spotify.com/album/4QSvBcRQmeF0555t5XzoFx"
+      },
+      "artists": [
+        {
+          "name": "Tha Manz",
+          "url": "https://open.spotify.com/artist/1mcnbOEvat26bMsiFl5OCl"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177931,
+      "name": "A L'ANCIENNE",
+      "url": "https://open.spotify.com/track/2IeGH6fucKR38jILWVamri"
     },
     {
       "album": {
@@ -516,10 +534,32 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 150329,
       "name": "Booska H\u00e9ritage (Braquage Vocal)",
       "url": "https://open.spotify.com/track/2Q1sxUGJjYVr2seeHR4N3g"
+    },
+    {
+      "album": {
+        "name": "TOUT DROIT",
+        "url": "https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        },
+        {
+          "name": "Mister You",
+          "url": "https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180853,
+      "name": "BORD DE MER",
+      "url": "https://open.spotify.com/track/1Txy4dU5fZa0GBkiROmaTz"
     },
     {
       "album": {
@@ -1029,6 +1069,28 @@
     },
     {
       "album": {
+        "name": "PK T TRISTE ?",
+        "url": "https://open.spotify.com/album/6K3jf5buHIG3eYIJ1SmlR3"
+      },
+      "artists": [
+        {
+          "name": "Eniah",
+          "url": "https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj"
+        },
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "DR\u00d4LE DE VIE",
+      "url": "https://open.spotify.com/track/0qAspbjhCYuCunMLAray5Y"
+    },
+    {
+      "album": {
         "name": "DU BANDIT \u00c0 L'ARTISTE (PART. 1)",
         "url": "https://open.spotify.com/album/6sQA6PpwUBRmmdfNlH8vYD"
       },
@@ -1212,7 +1274,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 178029,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2JcWgw4KjgmQNj4AXYe8sw"
@@ -1748,7 +1810,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 332155,
       "name": "L'4MOUR",
       "url": "https://open.spotify.com/track/0e5fG8fx8bz41fqWRpIiQ6"
@@ -1860,7 +1922,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 87288,
       "name": "L'HUISSIER",
       "url": "https://open.spotify.com/track/4LEhfm150HU9cZ2zX36Nko"
@@ -2049,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "LE MARATHON",
+        "url": "https://open.spotify.com/album/1HIGldnlWzRnTKUVFSRIUH"
+      },
+      "artists": [
+        {
+          "name": "N3MS",
+          "url": "https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191192,
+      "name": "LE MARATHON",
+      "url": "https://open.spotify.com/track/2AMSd1KSNG3mpQcfganAZz"
+    },
+    {
+      "album": {
         "name": "DIEU MERCI ENCORE (R\u00e9\u00e9dition)",
         "url": "https://open.spotify.com/album/16Iu3mwSRNqzlZybmEcmfC"
       },
@@ -2080,6 +2160,28 @@
       "duration_ms": 294648,
       "name": "LE NOM DU P\u00c8RE",
       "url": "https://open.spotify.com/track/4DbosJ6sBVGSjDNlUqB1se"
+    },
+    {
+      "album": {
+        "name": "Le palace",
+        "url": "https://open.spotify.com/album/3if8Nn3rDTRRpqEt4e6yyb"
+      },
+      "artists": [
+        {
+          "name": "Le Bon Nob",
+          "url": "https://open.spotify.com/artist/6A0xtognWmzf4OldQdJbsi"
+        },
+        {
+          "name": "K.Oni",
+          "url": "https://open.spotify.com/artist/2wonVBitiDFD60joPG92Hs"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Le palace",
+      "url": "https://open.spotify.com/track/32tmgPc1bNxFZjzBY0mmLz"
     },
     {
       "album": {
@@ -2374,7 +2476,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 162000,
       "name": "MALADE",
       "url": "https://open.spotify.com/track/5yhBAmxinEdRDtQfFHyoB9"
@@ -2432,7 +2534,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 179680,
       "name": "MEDUSA",
       "url": "https://open.spotify.com/track/32t0n86lnt6LFAFQu2fHTV"
@@ -3374,6 +3476,28 @@
       "duration_ms": 166976,
       "name": "TACLE GLISS\u00c9",
       "url": "https://open.spotify.com/track/3J7UzKjckZjOBnylDzM3Y8"
+    },
+    {
+      "album": {
+        "name": "STENTOR, act I",
+        "url": "https://open.spotify.com/album/0uZDIjanyP6yg0WN5Dq5Ic"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9dine",
+          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
+        },
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185729,
+      "name": "thalys",
+      "url": "https://open.spotify.com/track/4EVMhVr6GslvST0uLx8VIJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Noisy Charlie
 
-1,415 songs - 3 day 7 hr 51 min
+1,420 songs - 3 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [DEAL WITH IT](https://open.spotify.com/track/5hBEMwZ849YNPOdB46ooZU) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [DEAL WITH IT](https://open.spotify.com/album/4mkixXEWQ1fgJZiYebclGu) | 1:46 | 2025-03-20 |  |
 | [Dear Vicky](https://open.spotify.com/track/0lB8tgI8wTnejGm4ARBDyT) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [Dear Vicky](https://open.spotify.com/album/2KG65Y4EddM3fmtJvK03ws) | 4:05 | 2024-09-12 | 2024-12-13 |
 | [Dear Viu Tv](https://open.spotify.com/track/2g3P4LTzwYFIZEV5bvyssm) | [痛哭大伯吧 Crying Debali](https://open.spotify.com/artist/3IkPOmwzOuLSDKhwkmYAGq) | [Dear Viu Tv](https://open.spotify.com/album/1lhf3T4BdskvTAJCCAtJ3q) | 2:03 | 2023-05-25 | 2023-09-01 |
+| [DEJA VU](https://open.spotify.com/track/5hKUDU4pAJ0r5q1EKHUtOQ) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [DEJA VU](https://open.spotify.com/album/5vXqBD6mMYZPQmYgWYs9P9) | 2:20 | 2025-05-15 |  |
 | [Demon](https://open.spotify.com/track/5McqzZpmquik6IKt68mifT) | [Pi Pi Pierrot](https://open.spotify.com/artist/4EWciNc2dVhDRUeLQ7ixs3) | [Flower Eater](https://open.spotify.com/album/7plt5CetyH9mzEUCgd0lLM) | 2:26 | 2024-03-21 | 2024-11-15 |
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2022-05-26 | 2022-07-29 |
 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 | 2024-07-18 | 2024-11-15 |
@@ -1015,6 +1016,7 @@
 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2022-11-17 | 2023-03-18 |
 | [做人一定要養貓](https://open.spotify.com/track/7xws2xMDZivp8H4Vezqx1W) | [陳祖](https://open.spotify.com/artist/0OQ3SXHIjoWmRAEX2qwRog) | [做人一定要養貓](https://open.spotify.com/album/4NJ2bVCzDjV8zTFQQUTGz5) | 2:43 | 2022-05-26 | 2022-07-29 |
 | [做雞改變命運](https://open.spotify.com/track/69pT6hA434XGDfc6SkiDtN) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [做雞改變命運](https://open.spotify.com/album/2wBHevzFEeqASpnPhONRwB) | 2:03 | 2024-01-18 | 2024-05-10 |
+| [健壯人生 \(Healthy Life\)](https://open.spotify.com/track/5nCmHC5UaIF9HJAIvIsp0s) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6) | [健壯人生 \(Healthy and Hydrated\)](https://open.spotify.com/album/57FrhBCAF63HeDH7OHfCYg) | 2:51 | 2025-05-15 |  |
 | [健康 HEALTHY](https://open.spotify.com/track/2Btcaum5kNbqbmEeNXL1mj) | [SINK!](https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si) | [健康 HEALTHY](https://open.spotify.com/album/4n3a4YvzpSLPwJUacZjLJ4) | 1:51 | 2022-12-22 | 2023-03-18 |
 | [偶爾\(也有想你的時候\) ft\. EAGLE](https://open.spotify.com/track/3cuVZGMgaQM9g3t4xcRbL2) | [惡夢扭蛋](https://open.spotify.com/artist/3ncvp8T5o3rj75jezVG2lt), [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D) | [偶爾\(也有想你的時候\) ft\. EAGLE](https://open.spotify.com/album/2qrLuryUZyhBiWqzBfvF8d) | 3:39 | 2023-05-18 | 2023-09-01 |
 | [傷心派對](https://open.spotify.com/track/6N6Qa189DVWNLXnTsTDa6q) | [kiiro](https://open.spotify.com/artist/10t9nldzYKH5Awx2CHBstA) | [傷心派對](https://open.spotify.com/album/7o3At5VQLIOsFoYrv8n0C4) | 3:12 | 2023-08-24 | 2023-12-01 |
@@ -1070,6 +1072,7 @@
 | [單曲循環症](https://open.spotify.com/track/51gq3Jza9a4YnBxMTuJ3Yj) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [單曲循環症](https://open.spotify.com/album/4iaRMIZsC3HcwSRcYNc1Cz) | 3:37 | 2023-06-01 | 2023-09-01 |
 | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/track/3Y0kbp5xGJMk08m3lkOpYL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/album/1BsPa137X76tHyPl4dt3kU) | 3:26 | 2022-07-28 | 2022-11-04 |
 | [囉囉攣](https://open.spotify.com/track/0u1mnT0MlUXVFcuqtYvknx) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx) | [囉囉攣](https://open.spotify.com/album/6CIkXpfWJuJJ408YCC6oOf) | 2:40 | 2022-05-26 | 2022-07-29 |
+| [四季的約定](https://open.spotify.com/track/0QzTptsambLv5rUAmIr2vE) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [四季的約定](https://open.spotify.com/album/449sfR45B94jI0mDbr5Qb6) | 2:56 | 2025-05-15 |  |
 | [回到自己](https://open.spotify.com/track/1MLnyqRlbDal3gL3QmHcHK) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [回到自己](https://open.spotify.com/album/6aYvUkvwZcH5grv9Sa8WAW) | 5:24 | 2022-05-26 | 2022-07-29 |
 | [回憶半分鐘 \(feat\. Gordon Flanders\) \- Aurora Version](https://open.spotify.com/track/30oOj7kQ6o0sMj2y5F0zwU) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk), [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [回憶半分鐘 \(feat\. Gordon Flanders\) \[Aurora Version\]](https://open.spotify.com/album/24BfobCbKKh3pjL2m13Z5h) | 3:47 | 2024-03-14 | 2024-11-15 |
 | [回歸日](https://open.spotify.com/track/0kAgC8FFL0kjOmqTtN9e3K) | [KID ALVIN](https://open.spotify.com/artist/7ypKMq4idveSB1ax6PjCIo), [MU 木](https://open.spotify.com/artist/11kY3ZdZA2hjGdxSfoN9i5) | [回歸日](https://open.spotify.com/album/4Leb4qk9jVBp5HFVyVr8oh) | 2:46 | 2024-10-17 | 2025-02-14 |
@@ -1136,6 +1139,7 @@
 | [彈出彈入](https://open.spotify.com/track/6zoSo5ZBub3CHCD4ypX9iB) | [Lai Kei](https://open.spotify.com/artist/35T5iqhntCprz61MWcrgiB), [LIL MAST](https://open.spotify.com/artist/61TGZnOH8MixZbPEQpYQnC), [SC Xvill](https://open.spotify.com/artist/6uyTwA4o8IArP7fGpG4sbh) | [彈出彈入](https://open.spotify.com/album/3OEFPQ9QKu62XuUwxssaBI) | 3:26 | 2023-03-09 | 2023-07-14 |
 | [彷彿](https://open.spotify.com/track/0ciMEnrEBZQeeB5PHQLIKt) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [彷彿](https://open.spotify.com/album/2Z4cHJ5pLtyeqNsE3NnM4P) | 5:16 | 2023-03-09 | 2023-07-14 |
 | [後起之秀](https://open.spotify.com/track/2sU9mqsWjUD00yv8fy4WkQ) | [Heimydear](https://open.spotify.com/artist/4GHDJYlvvJUGfEDkkhTnxZ), [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY) | [後起之秀](https://open.spotify.com/album/0S1YvcwaZaqFrlhimGHNTI) | 2:46 | 2025-05-01 |  |
+| [心的車站](https://open.spotify.com/track/3xCwbsEVVgkofycxGMiLtI) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [心的車站](https://open.spotify.com/album/175Ku3INHJdvf3pBOgOE5D) | 3:09 | 2025-05-15 |  |
 | [心跳洩漏](https://open.spotify.com/track/4kE30fY2BQslgFzKtHsllu) | [NOSmke](https://open.spotify.com/artist/5UEvJoDztX8J2LFmBCHyxb), [boytryhard](https://open.spotify.com/artist/49BGq1ZuG5xfFswpzcsobu) | [心跳洩漏](https://open.spotify.com/album/46PjgPhjbQXE3ruuX0UKrv) | 2:57 | 2023-09-21 | 2023-11-24 |
 | [怎樣寫一首開心的歌](https://open.spotify.com/track/5vIB81QWEDqFbTJx2saEYH) | [SAWA](https://open.spotify.com/artist/0HCd0T7uXpnIUJgrBTlEvE) | [怎樣寫一首開心的歌](https://open.spotify.com/album/6IYATR6S4ZuOJBMarf0xrj) | 4:17 | 2023-01-12 | 2023-05-26 |
 | [性經 \(Prod\. 卓峰\)](https://open.spotify.com/track/4HvxmxavpYk5qvNjcU645l) | [Slept Kid](https://open.spotify.com/artist/411AHO70iqEDqL3ezTF7PP), [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [性經 \(Prod\. 卓峰\)](https://open.spotify.com/album/0HqXFTrL4f0dCjCzgGuLHl) | 2:16 | 2022-12-29 | 2023-05-26 |
@@ -1319,6 +1323,7 @@
 | [等等等](https://open.spotify.com/track/4SZ4SULm4syQAAtkaHb9FR) | [李白 \(Brad Li\)](https://open.spotify.com/artist/1uZxut4yL1iRvguCGCpEbx) | [等等等](https://open.spotify.com/album/26q8T7anFS1ifYyuXo7BKA) | 3:51 | 2024-09-26 | 2025-02-14 |
 | [答案](https://open.spotify.com/track/4AeGPDzAwPSMRyGaNuyGLQ) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [答案](https://open.spotify.com/album/2Gf2ijKAn3L7mpjahbepYV) | 5:00 | 2023-09-21 | 2023-12-01 |
 | [節日可以不用管我 Holidays Without Me](https://open.spotify.com/track/0EZ2u7CviDEa4XI7dl3BA3) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [節日可以不用管我 Holidays Without Me](https://open.spotify.com/album/4yqM9oGXIHGrzrunIQTDoO) | 2:46 | 2024-12-19 | 2025-04-25 |
+| [約你媽媽去沙灘](https://open.spotify.com/track/7hWCxvMjtt0V54EHrdISHQ) | [RowdyRoadie](https://open.spotify.com/artist/2CJOCRyNq3BK26xvYiPKmJ) | [約你媽媽去沙灘](https://open.spotify.com/album/0souF3GTVXjMIZkUFlB3Wl) | 4:05 | 2025-05-15 |  |
 | [約束](https://open.spotify.com/track/0DoFfB5qI9EgAgjjMZpCzr) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn), [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [約束](https://open.spotify.com/album/7Khv2c6ZsSTNXlR7tZyzt6) | 4:41 | 2023-12-14 | 2024-05-10 |
 | [紐約到台北 New York To Taipei](https://open.spotify.com/track/7fjtpARK9RroYk1AMb7Ybr) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [紐約到台北 New York To Taipei](https://open.spotify.com/album/4XavoBIykVl8AaJCi4sY1h) | 3:08 | 2025-04-17 |  |
 | [純屬意外](https://open.spotify.com/track/4Z3Ace3WggPau7oaDm6D52) | [ANEWA](https://open.spotify.com/artist/7suYWmDTY81Lj4FhMx36cA) | [純屬意外](https://open.spotify.com/album/22TVB3rNju4rjPORgV0uU8) | 3:42 | 2022-07-28 | 2022-09-09 |

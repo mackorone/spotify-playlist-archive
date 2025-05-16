@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-881 songs - 1 day 19 hr 40 min
+882 songs - 1 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Gentle Serenity](https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb) | [Perfect Shapes](https://open.spotify.com/artist/7rocivfP8tOkfNxT2jp9Fr) | [Horizon](https://open.spotify.com/album/3887UhI3G4vNcTefsBA5Zi) | 3:27 | 2021-12-21 | 2022-06-23 |
 | [Gentle Soul](https://open.spotify.com/track/6yn3OXDVIbX3nT1rBZgOjM) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Solicitude](https://open.spotify.com/album/5AL5PvIfsmtidTXS3Lk8Dy) | 3:36 | 2022-01-19 | 2025-05-08 |
 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 | 2021-12-21 | 2022-10-04 |
+| [Glacial Essence](https://open.spotify.com/track/5ygSvEn09PDXv3OaSLWpbl) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Glacial Essence](https://open.spotify.com/album/5T88HbHdRCnWWZGEgDqnKO) | 2:59 | 2025-05-15 |  |
 | [Gleam](https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Reflections](https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B) | 3:46 | 2022-06-22 | 2025-05-08 |
 | [Gliese](https://open.spotify.com/track/7C5x254psvTlNDG2mEChM8) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Gliese](https://open.spotify.com/album/1OhiQouKE3J1m02zsDZ1JR) | 2:25 | 2023-06-20 |  |
 | [Glowing](https://open.spotify.com/track/2caSMfpQAY2wTvb3kgYirk) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Glowing](https://open.spotify.com/album/4DitEOWiNtUc6kl4KOUk5l) | 2:13 | 2022-10-15 | 2025-05-08 |

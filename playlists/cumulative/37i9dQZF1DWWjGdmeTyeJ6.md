@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover artist: Emma\-Jean Thackray
 
-8,227 songs - 18 day 13 hr 46 min
+8,234 songs - 18 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Anchored](https://open.spotify.com/track/2kNsGj6pRhA6MfHsk9WDp8) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Anchored](https://open.spotify.com/album/1JFzFl3R3za0aJ4YJKZf77) | 3:59 | 2022-10-12 | 2022-10-20 |
 | [Ancient DNA](https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Ancient DNA](https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx) | 2:43 | 2024-10-23 | 2025-01-30 |
 | [Ancient Downer](https://open.spotify.com/track/25pRvjSVlVm1iSJGdkHVuC) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Ancient Downer](https://open.spotify.com/album/50ahpSbDlD3zgy84B5z1LN) | 4:11 | 2022-04-13 | 2022-04-28 |
+| [and is it really over](https://open.spotify.com/track/5RAInZ6ZRVYhgf31HLECFZ) | [Joonas](https://open.spotify.com/artist/06bXpbtpgnaU0cklDrSqlg) | [and is it really over](https://open.spotify.com/album/4uW3H526QlOeBveCV2sgSL) | 3:47 | 2025-05-15 |  |
 | [And Werk](https://open.spotify.com/track/5IjTDv7iStn75m0bq4diRk) | [Josh Green](https://open.spotify.com/artist/0xXMsyc2FWYMw1kWLNEpHA) | [And Werk](https://open.spotify.com/album/5k2NKsfbuf8aUoCBwQULQQ) | 4:01 | 2022-01-12 | 2022-01-20 |
 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 | 2023-08-30 | 2023-09-14 |
 | [ANESTESIA \(Culebartola\_Bb\_115BPM\)](https://open.spotify.com/track/2CGFhjPJYkbd6dvRXXJZaP) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:12 | 2023-06-28 | 2023-07-13 |
@@ -1097,6 +1098,7 @@
 | [Buffalo Skank](https://open.spotify.com/track/3tKisiH1mTIdHCGdEUCzwk) | [Frankel & Harper](https://open.spotify.com/artist/02G23wiVWJ9W9DRNL2plup) | [Buffalo Skank](https://open.spotify.com/album/14R9jffCTCcGOpapb4f9yw) | 5:32 | 2022-08-31 | 2022-09-09 |
 | [Bug](https://open.spotify.com/track/197XvaLXq8aciPKZxUoW0f) | [Annie Blackman](https://open.spotify.com/artist/4SaxGqc1dzg74v8p8XcfOm) | [Bug](https://open.spotify.com/album/33ZVNH3uSPkKWwMqBXSlyn) | 4:57 | 2023-05-10 | 2023-05-18 |
 | [Bug Bite](https://open.spotify.com/track/3n6GIJKukJcU0z2PLR4AgV) | [Polami Roko](https://open.spotify.com/artist/0wBE7qOeJzcyqHaOgMdzhr) | [Bug Bite](https://open.spotify.com/album/542jUay4Kn3Z34rZXc56ez) | 2:58 | 2024-07-31 | 2024-09-05 |
+| [Bugland](https://open.spotify.com/track/6TKi84OzSw05LoL02x5tAU) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Bugland](https://open.spotify.com/album/3nctW7ee88vhrxWGDGksyO) | 2:29 | 2025-05-15 |  |
 | [BUGS R US](https://open.spotify.com/track/7nxGCYsJTcbJQs0PR0Z7Bs) | [brian mantra](https://open.spotify.com/artist/6HxsYKIz2g6hdn3gfdQRjt) | [BUGS R US](https://open.spotify.com/album/6ooWCriIGqbSZBKiSi7fBU) | 4:01 | 2022-08-10 | 2022-08-25 |
 | [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 | 2024-01-10 | 2024-01-25 |
 | [bullet](https://open.spotify.com/track/75lYAI7qAfomG0DdpQw5vV) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [bullet](https://open.spotify.com/album/1U0SmNSU5uz64FpxkLPOSy) | 3:34 | 2024-11-14 | 2025-01-16 |
@@ -1677,6 +1679,7 @@
 | [Cycle](https://open.spotify.com/track/1FBEQqHKgV2EWquBd0Bcgn) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Acid Star](https://open.spotify.com/album/42ybuZX5idfaZBp4yrigBe) | 3:33 | 2024-03-20 | 2024-04-19 |
 | [Cycles \(feat\. Isaiah\)](https://open.spotify.com/track/2iyaSzxyl0B744yPbXpcEK) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Isaiah](https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT) | [Cycles](https://open.spotify.com/album/6DIebxNWIVeqRSjPqCk4Tm) | 3:18 | 2022-09-21 | 2022-09-29 |
 | [Cylinders](https://open.spotify.com/track/17I5FjmxdcfWX9GYjsSkVJ) | [Dog Sport](https://open.spotify.com/artist/68RQxUCaZrjtIYlxk6mERg) | [Cylinders](https://open.spotify.com/album/5nXRuh4rwIUu7TySmM9oeE) | 3:21 | 2023-09-27 | 2023-10-05 |
+| [cypress](https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [cypress](https://open.spotify.com/album/34A3HZas24PfzMckyhVKrt) | 4:32 | 2025-05-15 |  |
 | [Czars In My Eyes \- Radio Edit](https://open.spotify.com/track/4FGri1j7wHvMqDopfrkpiH) | [Simple Symmetry](https://open.spotify.com/artist/36oy3scxRLRqG8uptf04vG), [Lord Fascinator](https://open.spotify.com/artist/3FxFcgJT0HTQTofNJINl0z) | [Czars In My Eyes](https://open.spotify.com/album/223C01qvDudB1BT1AWfznk) | 4:56 | 2022-09-28 | 2022-10-06 |
 | [cómo se siente](https://open.spotify.com/track/39kJcNDgebjBNyDpxTo2e2) | [Merce](https://open.spotify.com/artist/5iJsZyGemL5QPK3awe0M7z) | [cómo se siente](https://open.spotify.com/album/44jgGtifDxMrjgpoATQEua) | 2:08 | 2023-07-12 | 2023-07-20 |
 | [d e e p e r](https://open.spotify.com/track/2nG3GpzBnzwIjd7ahxatje) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [d e e p e r](https://open.spotify.com/album/5QuYd1kH5AZPIFOxXiv2G2) | 2:10 | 2022-05-25 | 2022-06-09 |
@@ -3098,6 +3101,7 @@
 | [Head On My Shoulder](https://open.spotify.com/track/4ea1brg5sXqf5MjLhApKph) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb), [Walter Ricci](https://open.spotify.com/artist/7tljpx25aZo8zZi5jXDltS) | [Head On My Shoulder](https://open.spotify.com/album/25wCbYb3m2KjasVslaXlKp) | 4:38 | 2023-08-02 | 2023-08-10 |
 | [Head Over Heels](https://open.spotify.com/track/57SYiEHr1BKIKWk7FCK3Fy) | [Edie Bens](https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS) | [Head Over Heels](https://open.spotify.com/album/17bbqglX9vw1omdJ6pap3W) | 3:14 | 2023-01-25 | 2023-02-02 |
 | [Head Over heels](https://open.spotify.com/track/37SSoPPsbqIdsFqVDff7Ax) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Head Over heels](https://open.spotify.com/album/4dmFJHgXsQwM3Hny2227wq) | 2:38 | 2023-04-05 | 2023-04-13 |
+| [Head Straight](https://open.spotify.com/track/3TXk3Y1EBnZ6SIMFraTfHV) | [Oktae](https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD) | [Head Straight](https://open.spotify.com/album/60MZDr1SPWlUcTpxxBZ4sc) | 2:25 | 2025-05-15 |  |
 | [Head Talk](https://open.spotify.com/track/4dnCiQAGqygYUroZtTvdtG) | [Milk Jennings](https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ) | [Head Talk](https://open.spotify.com/album/0MKkkUxQUWuRHTULxGwSUQ) | 4:08 | 2022-01-26 | 2022-02-03 |
 | [Headfirst](https://open.spotify.com/track/1dUHl01OvRdc68NoImtH1X) | [The Lost Youth](https://open.spotify.com/artist/1oZSwmPoTlEfiI4p25SdVl) | [Headfirst](https://open.spotify.com/album/341aDKS0pTYe2zupAF45We) | 2:55 | 2022-06-29 | 2022-07-07 |
 | [Headlights](https://open.spotify.com/track/7shaHtNeaR9wolLuJOLqfH) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Headlights](https://open.spotify.com/album/2ZGmAsD1mMWyLpFF9WxpGR) | 2:49 | 2025-02-19 | 2025-05-01 |
@@ -3638,6 +3642,7 @@
 | [IFY](https://open.spotify.com/track/4eGv1j6aUzhGXXOuGdsZ3u) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [IFY](https://open.spotify.com/album/0W1ElVDQAuhQaqJUPtKWy7) | 3:08 | 2025-02-19 | 2025-04-17 |
 | [Ignore](https://open.spotify.com/track/5WlZMqOIDB4O1y4kONHMOa) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [Ignore](https://open.spotify.com/album/2rAaBEPv2cTqzkPGUuMY3E) | 3:08 | 2024-03-06 | 2024-07-25 |
 | [Ik I Look Good](https://open.spotify.com/track/5I400k7mpNcENAusso5ePA) | [DEMIYAA](https://open.spotify.com/artist/2VFnxZPBUoglahI0kc6dvc) | [Bonnie & Clyde](https://open.spotify.com/album/2SIRyuc77wACmEDeM32Pf1) | 2:00 | 2024-11-06 | 2025-01-16 |
+| [Iknowthatyoudontknow](https://open.spotify.com/track/07FVoLtva9AxVSDfTTyBle) | [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [Iknowthatyoudontknow](https://open.spotify.com/album/0FpGOUEYWoZVDtPfIgq839) | 1:57 | 2025-05-15 |  |
 | [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 | 2023-11-29 | 2024-01-11 |
 | [Illbealright](https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Illbealright](https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6) | 3:32 | 2023-05-24 | 2023-06-01 |
 | [Illuminate](https://open.spotify.com/track/2aN738vVrFyKjwy8ypg1US) | [Willow Knox](https://open.spotify.com/artist/2NOyeZEU5Kx1lB9xEOOftB) | [Willow Knox](https://open.spotify.com/album/2wfWspz78YuTNKBZcsmqpL) | 3:39 | 2024-02-21 | 2024-02-29 |
@@ -3777,6 +3782,7 @@
 | [isolation](https://open.spotify.com/track/1jEpUbMKvy6LJuXTVjABmn) | [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [isolation](https://open.spotify.com/album/0CSsz8tNAwFgEpcQqdRxVO) | 3:37 | 2023-02-01 | 2023-02-09 |
 | [Isolation Tank](https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Isolation Tank](https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG) | 2:17 | 2024-11-14 | 2025-01-16 |
 | [issa wrap](https://open.spotify.com/track/4rcLWUmQMFCNdN9GaeHRWQ) | [Kharii](https://open.spotify.com/artist/68m7VDKqEQf6Zq66CF9OA6) | [issa wrap](https://open.spotify.com/album/1hZUjmEmVscMXIm40yxMgJ) | 2:33 | 2024-11-14 | 2025-01-16 |
+| [Issues](https://open.spotify.com/track/72I9mUGnrnuTLQNwBGNiWr) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Issues](https://open.spotify.com/album/0k6TvGI67qgblSaY1QWxC6) | 4:07 | 2025-05-15 |  |
 | [It Can't Be Heartbreak If It's Not Love](https://open.spotify.com/track/6CpY8ATteXX2xOtYKc05fR) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [It Can't Be Heartbreak If It's Not Love](https://open.spotify.com/album/6MScK2eZOqsJ7HvfmWUwsj) | 3:33 | 2024-11-27 | 2025-01-16 |
 | [It Comes In Peace](https://open.spotify.com/track/3g4WtDO5qegZF7pIdXNLix) | [SUN ORGAN](https://open.spotify.com/artist/13ZwcU5VGUsd4nB6hsUYCp) | [A Julia's War Tripple Split](https://open.spotify.com/album/6QWsm4PKJwYRtFZYXU5ySS) | 3:20 | 2023-06-28 | 2023-07-13 |
 | [it doesn't hurt](https://open.spotify.com/track/609iYIv9754sBYh3cytlqG) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [it doesn't hurt](https://open.spotify.com/album/4Nnfxnk72qDvZPWywrQYhK) | 3:57 | 2022-08-10 | 2022-08-25 |
@@ -4427,6 +4433,7 @@
 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 | 2023-08-09 | 2023-08-24 |
 | [Lucy's Diamonds \(fell from the sky\)](https://open.spotify.com/track/6OB8JfFJbczto9EmVIvzsC) | [Jack Critchlow](https://open.spotify.com/artist/3E5qMpoEYsSXOPeTFzVS8q) | [Lucy's Diamonds \(fell from the sky\)](https://open.spotify.com/album/1J5V6ETBuafGolW9SiHopD) | 3:36 | 2025-02-26 | 2025-04-03 |
 | [Lugar Feliz \- Original Mix](https://open.spotify.com/track/3fNMMGpOscbrI3hIM6myyf) | [Sanchez \(UK\)](https://open.spotify.com/artist/7xQXOESDtR8OJurb4AsnHs) | [Lugar Feliz EP](https://open.spotify.com/album/2nuSw4FRLrDNoNTkanIXyK) | 5:32 | 2023-07-26 | 2023-08-03 |
+| [Luigi](https://open.spotify.com/track/69YvkNAeruX4u8ZjgjA6B4) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Luigi](https://open.spotify.com/album/2xChiS8O1UfNzBQbutOhlX) | 3:39 | 2025-05-15 |  |
 | [Lullaby](https://open.spotify.com/track/4YMuvI6faoxGj5bJur1dpy) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Lullaby](https://open.spotify.com/album/703gnSo3ZsJkpEIpkQCkLX) | 3:42 | 2022-01-19 | 2022-01-27 |
 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 | 2024-01-10 | 2024-02-08 |
 | [lullaby](https://open.spotify.com/track/6SiuoXT6PWWOJIB4HIM58d) | [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [lullaby](https://open.spotify.com/album/2ZiiQyPCdL2dsF3Tdn34I4) | 3:04 | 2025-04-25 |  |

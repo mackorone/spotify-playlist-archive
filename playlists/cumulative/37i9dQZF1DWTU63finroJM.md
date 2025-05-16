@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: MEOVV.
 
-1,999 songs - 4 day 12 hr 6 min
+2,000 songs - 4 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Dentro la mia testa](https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile \(Deluxe\)](https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t) | 2:41 | 2024-04-19 | 2024-08-24 |
 | [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 | 2025-01-24 | 2025-04-27 |
 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/0U4gcE2BhQ0GCMvP9bQKRe) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [La Muela \- LBC](https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB) | 2:52 | 2024-05-03 | 2024-08-24 |
-| [Despedirme](https://open.spotify.com/track/3cumZj3UXGZwgILBu7FFID) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Despedirme](https://open.spotify.com/album/3aBl8sDdLEkr2o1stvoFys) | 2:39 | 2025-04-04 |  |
+| [Despedirme](https://open.spotify.com/track/3cumZj3UXGZwgILBu7FFID) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Despedirme](https://open.spotify.com/album/3aBl8sDdLEkr2o1stvoFys) | 2:39 | 2025-04-04 | 2025-05-16 |
 | [Destinasi](https://open.spotify.com/track/1dVZp1nXK61PFsTSlgsk8p) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Destinasi](https://open.spotify.com/album/2V7KL0bSN13EPSkgiRtUAq) | 3:04 | 2025-04-18 |  |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-16 | 2024-10-12 |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-06-07 | 2024-11-30 |
@@ -807,6 +807,7 @@
 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 | 2023-11-17 | 2023-12-08 |
 | [it takes two](https://open.spotify.com/track/0c8PbjfgiHKk1V0e8lgjvP) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 2:54 | 2022-06-07 | 2022-08-02 |
 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 | 2024-03-22 | 2024-05-14 |
+| [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY) | 3:40 | 2025-05-09 |  |
 | [Itch](https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Itch](https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3) | 4:25 | 2024-09-23 | 2025-01-28 |
 | [ITSLIKE](https://open.spotify.com/track/02QwLdLDKDEWfMTScV4TeD) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC) | [ITSLIKE](https://open.spotify.com/album/64sdHoPoUevnYJc1YxD5v4) | 1:51 | 2024-04-19 | 2024-05-11 |
 | [Itu Aku \- Spotify Singles](https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Itu Aku \- Spotify Singles](https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j) | 4:14 | 2023-12-07 | 2024-05-04 |

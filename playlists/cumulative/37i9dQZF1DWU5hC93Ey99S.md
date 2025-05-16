@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-844 songs - 1 day 20 hr 54 min
+848 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alive \- Edit](https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Alive](https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P) | 3:36 | 2023-10-05 | 2024-06-07 |
 | [All About U](https://open.spotify.com/track/6fb4twyNs3gQ0nDnkuRBwH) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [Marco Lollis](https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI), [Martina Corona](https://open.spotify.com/artist/58tyddZEZ2XcaKSmTV19aA) | [All About U](https://open.spotify.com/album/3GOajZbHdHZdLYsmyPozvO) | 3:06 | 2024-06-14 |  |
 | [All Good \- Jasper Tygner Remix](https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [All Good \(Jasper Tygner Remix\)](https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri) | 4:03 | 2023-07-21 | 2024-01-06 |
+| [All I Ever Asked \- Zerb Remix](https://open.spotify.com/track/43iwNhggwyAaUxRatQac3y) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy) | [All I Ever Asked \(Zerb Remix\)](https://open.spotify.com/album/1JCWiCpE16UEJ8qh7zpMMy) | 3:23 | 2025-05-15 |  |
 | [all i ever wanted](https://open.spotify.com/track/7vPV3Eo1hjIxkPthWwVpHT) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [all i ever wanted](https://open.spotify.com/album/1iX4zn7M6Qb7jxTCXwDnz7) | 2:33 | 2025-01-09 |  |
 | [All I Need](https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [All I Need](https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix) | 3:06 | 2023-04-13 | 2024-01-06 |
 | [All I Need](https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH) | [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ) | [All I Need](https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN) | 3:21 | 2023-10-19 |  |
@@ -168,6 +169,7 @@
 | [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 | 2024-03-14 |  |
 | [die young \- 33 Below Remix](https://open.spotify.com/track/7v7eF1koFUNnRFMvky3RDM) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [die young \(33 Below Remix\)](https://open.spotify.com/album/4CuHqQsLcaHoiveB3Evl6v) | 3:43 | 2023-08-17 | 2024-01-06 |
 | [Different Time](https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Different Time](https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes) | 3:18 | 2024-12-12 |  |
+| [Direct With It](https://open.spotify.com/track/246JJzXjBKtECuHGHqm2Jz) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Direct With It](https://open.spotify.com/album/6fjS7W4VSQgNXixWcyym5L) | 3:13 | 2025-05-15 |  |
 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 | 2024-07-25 |  |
 | [Don't Fall in Love](https://open.spotify.com/track/08wEcfIEXMRvgzXVrOED8B) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Solace](https://open.spotify.com/album/3BZHVbIcj4cfUNDecwYDHR) | 3:21 | 2024-04-04 | 2024-04-26 |
 | [Don't leave me](https://open.spotify.com/track/42mEqBpbEMRHhaZfK9SNDF) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Don't leave me](https://open.spotify.com/album/5LdHmVFSBOS1z22VYN5xQU) | 3:03 | 2025-02-27 |  |
@@ -459,6 +461,7 @@
 | [Maybe](https://open.spotify.com/track/6Hl0P7o00Hmqjdf1X0W9rw) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [Maybe](https://open.spotify.com/album/6URXDFFdBVEQUA7eCLfHVo) | 2:50 | 2024-04-18 |  |
 | [maybe](https://open.spotify.com/track/3BWvrX09uLKgv9QmrB3imc) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [maybe](https://open.spotify.com/album/2muXccYkX3JmCiPqnhHcz2) | 3:22 | 2025-01-23 |  |
 | [Maze Of Memories](https://open.spotify.com/track/4ynY3o2BtztX3AdESEe3St) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Maze Of Memories](https://open.spotify.com/album/1ssS6j33s0us9jhnX7aEvX) | 3:23 | 2025-02-13 |  |
+| [Me and You \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Me and You \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/album/3I2DyDuoBgTndybTZM0W8B) | 4:26 | 2025-05-15 |  |
 | [Meant To Be](https://open.spotify.com/track/3qYjAxjvzzlGinGsOV8RWu) | [Leondis](https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8) | [Meant To Be](https://open.spotify.com/album/2EYjefWs2a5hdQqrr0rE9E) | 2:50 | 2023-04-13 |  |
 | [Meet Me at the Bottom](https://open.spotify.com/track/11qe0DyXUBbs8uQR16u4dG) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Meet Me at the Bottom](https://open.spotify.com/album/0Pq4pKQ6WSXxxS6vcchJzt) | 2:13 | 2025-03-06 |  |
 | [Meet You There \- Vall Remix](https://open.spotify.com/track/1rXVach7i7Iywa91TtWcd5) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Vall](https://open.spotify.com/artist/1nn5V08qmK0rKqWX5tFBac) | [A R I Z O N A \(R E M I X E D\)](https://open.spotify.com/album/3ab2NFkx4nCfOmgh8VFz7P) | 4:17 | 2023-11-16 | 2024-01-06 |
@@ -677,6 +680,7 @@
 | [still see u](https://open.spotify.com/track/394GELkokzKvyVU0kvmEVf) | [SD Gloria](https://open.spotify.com/artist/7ClPlZhvkoOQWUY0ADmvAI) | [still see u](https://open.spotify.com/album/60ho0naUDvmpkAtkHf3uFs) | 2:37 | 2024-07-02 |  |
 | [still? \- BKAYE Remix](https://open.spotify.com/track/4ieyLj9yjnB41DAapVidGc) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [still? \(BKAYE Remix\)](https://open.spotify.com/album/1VtTUZn5x5iVubXCNZOgeB) | 2:53 | 2024-04-04 |  |
 | [Stop the time](https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Selfreflection](https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog) | 3:14 | 2024-04-18 |  |
+| [Strange](https://open.spotify.com/track/0uBz3DEMZ5GurGGnpkOEE1) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Strange](https://open.spotify.com/album/0up02H2iSfOjrTYDNvRvyh) | 3:01 | 2025-05-15 |  |
 | [strangest desire](https://open.spotify.com/track/3BcEaMofrdI8DN276Gx1C1) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [strangest desire](https://open.spotify.com/album/3tiAtFC62jzDDyRJ4IICQx) | 3:45 | 2024-04-04 | 2024-04-26 |
 | [Stuck On You](https://open.spotify.com/track/3MPGIPuYWDP3ToQtcHd6cK) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Stuck On You](https://open.spotify.com/album/4FGWofRXJbI2nUc7l5jylx) | 2:29 | 2023-11-16 | 2023-11-30 |
 | [Stuck On You](https://open.spotify.com/track/6aevLJZYhcT7IW8WVspnIS) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Stuck On You](https://open.spotify.com/album/3L26xsJtlMRvbB4ECsjEX6) | 2:29 | 2023-11-16 | 2024-01-06 |

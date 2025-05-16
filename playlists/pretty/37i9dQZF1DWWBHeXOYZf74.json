@@ -1,28 +1,132 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Nourished by Time",
-  "num_followers": 1337017,
+  "description": "Genre-less. Quality first always. Cover: Amin\u00e9",
+  "num_followers": 1336994,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB19ygAAAAA5TxEhzU0/UldaYs8Rb6Qn",
+  "snapshot_id": "aCaAFgAAAACwOoPnQ+Bo3N8Yk0AMSAKk",
   "tracks": [
     {
-      "added_at": "2025-05-09 04:00:10",
+      "added_at": "2025-05-16 00:00:22",
       "album": {
-        "name": "Max Potential",
-        "url": "https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU"
+        "name": "13 Months of Sunshine",
+        "url": "https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE"
       },
       "artists": [
         {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 232546,
-      "name": "Max Potential",
-      "url": "https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6"
+      "duration_ms": 208147,
+      "name": "New Flower! (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/3q8mXT1racKde1h8zHY1ko"
+    },
+    {
+      "added_at": "2025-05-16 00:00:22",
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/66jybmyf9i4NelFuzOkJYz"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 124422,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8"
+    },
+    {
+      "added_at": "2025-04-11 04:00:35",
+      "album": {
+        "name": "with u",
+        "url": "https://open.spotify.com/album/1e1d2t4jdgxB9LVqnc0ZWe"
+      },
+      "artists": [
+        {
+          "name": "2006WR",
+          "url": "https://open.spotify.com/artist/5IpbIczge2iZZKQn50SQxE"
+        }
+      ],
+      "duration_ms": 136974,
+      "name": "with u",
+      "url": "https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b"
+    },
+    {
+      "added_at": "2025-05-16 00:00:22",
+      "album": {
+        "name": "Keep Hush",
+        "url": "https://open.spotify.com/album/53HjIJz24S8OAfM2yOBmcq"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        },
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Keep Hush",
+      "url": "https://open.spotify.com/track/3WHUp951VtACvbxstaob8u"
+    },
+    {
+      "added_at": "2025-05-16 00:00:22",
+      "album": {
+        "name": "Top Hits, Ballads, etc...",
+        "url": "https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5"
+      },
+      "artists": [
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "duration_ms": 192010,
+      "name": "Pel\u00e9ame!!!",
+      "url": "https://open.spotify.com/track/0E7iX4U9az6KNhtEmOBJTt"
+    },
+    {
+      "added_at": "2025-05-09 04:00:10",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2025-05-16 00:00:22",
+      "album": {
+        "name": "13 Months of Sunshine",
+        "url": "https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 131052,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf"
     },
     {
       "added_at": "2025-05-09 04:00:10",
@@ -41,20 +145,72 @@
       "url": "https://open.spotify.com/track/5XC0BOfy3Av2TVPPjegnPi"
     },
     {
-      "added_at": "2025-05-02 04:00:40",
+      "added_at": "2025-05-16 00:00:22",
       "album": {
-        "name": "Vacay",
-        "url": "https://open.spotify.com/album/6g4FBDcga66XtqlchM1alX"
+        "name": "Ghost Orchid",
+        "url": "https://open.spotify.com/album/2jMvba9qmQr7dPiBk84gmC"
       },
       "artists": [
         {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 142962,
-      "name": "Vacay",
-      "url": "https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S"
+      "duration_ms": 248730,
+      "name": "Ghost Orchid",
+      "url": "https://open.spotify.com/track/1FZyUmv3IbT974A6jZgqzX"
+    },
+    {
+      "added_at": "2025-05-09 04:00:10",
+      "album": {
+        "name": "Max Potential",
+        "url": "https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Max Potential",
+      "url": "https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6"
+    },
+    {
+      "added_at": "2025-04-29 18:51:23",
+      "album": {
+        "name": "SINCERITY",
+        "url": "https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 167503,
+      "name": "SINCERITY",
+      "url": "https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1"
+    },
+    {
+      "added_at": "2025-05-09 04:00:10",
+      "album": {
+        "name": "Feisty",
+        "url": "https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 160452,
+      "name": "Feisty",
+      "url": "https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp"
     },
     {
       "added_at": "2025-05-09 04:00:10",
@@ -73,20 +229,24 @@
       "url": "https://open.spotify.com/track/0oKyqh7SO6YSUQwfl970ut"
     },
     {
-      "added_at": "2025-04-11 04:00:35",
+      "added_at": "2025-05-02 04:00:40",
       "album": {
-        "name": "with u",
-        "url": "https://open.spotify.com/album/1e1d2t4jdgxB9LVqnc0ZWe"
+        "name": "Stars Above",
+        "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
       },
       "artists": [
         {
-          "name": "2006WR",
-          "url": "https://open.spotify.com/artist/5IpbIczge2iZZKQn50SQxE"
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        },
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
-      "duration_ms": 136974,
-      "name": "with u",
-      "url": "https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b"
+      "duration_ms": 190078,
+      "name": "Stars Above",
+      "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
     },
     {
       "added_at": "2025-05-09 04:00:10",
@@ -107,22 +267,6 @@
       "duration_ms": 250400,
       "name": "I Like It I Like It",
       "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
-    },
-    {
-      "added_at": "2025-05-09 04:00:10",
-      "album": {
-        "name": "Feisty",
-        "url": "https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 160452,
-      "name": "Feisty",
-      "url": "https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp"
     },
     {
       "added_at": "2025-05-02 04:00:40",
@@ -159,6 +303,22 @@
     {
       "added_at": "2025-05-02 04:00:40",
       "album": {
+        "name": "Vacay",
+        "url": "https://open.spotify.com/album/6g4FBDcga66XtqlchM1alX"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 142962,
+      "name": "Vacay",
+      "url": "https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S"
+    },
+    {
+      "added_at": "2025-05-02 04:00:40",
+      "album": {
         "name": "Should've known better (choices)",
         "url": "https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP"
       },
@@ -171,22 +331,6 @@
       "duration_ms": 207616,
       "name": "Should've known better (choices)",
       "url": "https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF"
-    },
-    {
-      "added_at": "2025-05-09 04:00:10",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2025-05-02 04:00:40",
@@ -253,26 +397,6 @@
       "url": "https://open.spotify.com/track/72CUf7pWNkykpZ5dUxdGlb"
     },
     {
-      "added_at": "2025-05-02 04:00:40",
-      "album": {
-        "name": "Stars Above",
-        "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        },
-        {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
-        }
-      ],
-      "duration_ms": 190078,
-      "name": "Stars Above",
-      "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
-    },
-    {
       "added_at": "2025-05-09 04:00:10",
       "album": {
         "name": "words",
@@ -307,22 +431,6 @@
       "duration_ms": 219668,
       "name": "Adesso",
       "url": "https://open.spotify.com/track/3NfmRR0w6HyHfmOfsQ7QmH"
-    },
-    {
-      "added_at": "2025-04-29 18:51:23",
-      "album": {
-        "name": "SINCERITY",
-        "url": "https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 167503,
-      "name": "SINCERITY",
-      "url": "https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1"
     },
     {
       "added_at": "2025-05-02 04:00:40",
@@ -495,22 +603,6 @@
       "duration_ms": 149048,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/4EaNaFmx33V6Satk0FJnBa"
-    },
-    {
-      "added_at": "2025-04-11 04:00:35",
-      "album": {
-        "name": "Arc de Triomphe",
-        "url": "https://open.spotify.com/album/1XqWXTFczDFTgnCWZSV242"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 166618,
-      "name": "Arc de Triomphe",
-      "url": "https://open.spotify.com/track/5THdCNXFd7JK1ayDYYvzwB"
     },
     {
       "added_at": "2025-04-18 04:00:47",
@@ -821,26 +913,6 @@
       "url": "https://open.spotify.com/track/7eRVFgw3NwIK0ixmtboOFF"
     },
     {
-      "added_at": "2025-04-11 04:00:35",
-      "album": {
-        "name": "WITH A VENGEANCE",
-        "url": "https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK"
-      },
-      "artists": [
-        {
-          "name": "SHERELLE",
-          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
-        },
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "FREAKY (JUST MY TYPE)",
-      "url": "https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl"
-    },
-    {
       "added_at": "2025-04-04 04:00:33",
       "album": {
         "name": "Music Can Hear Us",
@@ -1095,22 +1167,6 @@
       "duration_ms": 202500,
       "name": "flowers",
       "url": "https://open.spotify.com/track/60HRM00HEtqwHEDKlFvxyW"
-    },
-    {
-      "added_at": "2025-03-14 04:00:22",
-      "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 107563,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
     },
     {
       "added_at": "2025-03-28 04:00:39",
@@ -1643,22 +1699,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "lvl 1 - HOME ALONE",
-        "url": "https://open.spotify.com/album/5gsTwlcGGuSOTQxR6pCcVN"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Sen",
-          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
-        }
-      ],
-      "duration_ms": 210465,
-      "name": "lvl 1 - HOME ALONE",
-      "url": "https://open.spotify.com/track/7mB570CbgjVlrTVvJtr6tn"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "Daria",
         "url": "https://open.spotify.com/album/1gSCnUNs0h6khbEOTUgufV"
       },
@@ -1729,22 +1769,6 @@
       "url": "https://open.spotify.com/track/3tlav4JW2DJkza7zskaLK2"
     },
     {
-      "added_at": "2025-01-24 05:00:52",
-      "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Girl Feels Good",
-      "url": "https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV"
-    },
-    {
       "added_at": "2025-02-07 05:00:45",
       "album": {
         "name": "Omorfo Mou",
@@ -1759,22 +1783,6 @@
       "duration_ms": 167516,
       "name": "Omorfo Mou",
       "url": "https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq"
-    },
-    {
-      "added_at": "2025-01-31 05:00:39",
-      "album": {
-        "name": "BLACK\u2019!ANTIQUE",
-        "url": "https://open.spotify.com/album/5DysldnqrOvaDbYyNHA2WZ"
-      },
-      "artists": [
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        }
-      ],
-      "duration_ms": 236491,
-      "name": "LAST ONE ALIVE'!",
-      "url": "https://open.spotify.com/track/3A263C6177xoTmIcYiRisE"
     }
   ],
   "unique_name": "POLLEN",

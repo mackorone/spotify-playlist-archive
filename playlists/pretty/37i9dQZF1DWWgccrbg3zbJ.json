@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 434643,
+  "num_followers": 434985,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/6QvzomkvvLBVo8Mmsy4bEh"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/7i325B6qZFdkne07FRsWlk"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
         "name": "20 Grandes Sucessos De Joao Gilberto",
         "url": "https://open.spotify.com/album/62NHXk7QVJwXA2mfUFO49h"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 235500,
       "name": "Unhappy Remark (Palpite Infeliz)",
       "url": "https://open.spotify.com/track/0dfj6j9cYQYGmZej4WvMHL"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/6QvzomkvvLBVo8Mmsy4bEh"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/7i325B6qZFdkne07FRsWlk"
     },
     {
       "added_at": "2024-07-08 08:03:54",

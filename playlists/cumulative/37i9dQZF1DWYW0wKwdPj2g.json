@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Sustained By Grace",
+        "url": "https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV"
+      },
+      "artists": [
+        {
+          "name": "Musa Yende",
+          "url": "https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526294,
+      "name": "Awudeli Kimi - Live At The Octagon / 2024",
+      "url": "https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30"
+    },
+    {
+      "album": {
         "name": "B'ola (Live)",
         "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
       },
@@ -946,7 +964,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 263000,
       "name": "Every Word (Live)",
       "url": "https://open.spotify.com/track/3u2H4kWt3fuoKpXDGN6OlC"
@@ -1002,6 +1020,24 @@
       "duration_ms": 507376,
       "name": "Excess Love - Remix",
       "url": "https://open.spotify.com/track/6Iv1BDGnzb7MnTfqYS8iNV"
+    },
+    {
+      "album": {
+        "name": "Far Above All (Live Version)",
+        "url": "https://open.spotify.com/album/1HFjY6Uw4lyONKyQ0kjml7"
+      },
+      "artists": [
+        {
+          "name": "Uzo Oachi",
+          "url": "https://open.spotify.com/artist/3UlV06XcGOAy8dL0QYVHu3"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571863,
+      "name": "Far Above All - Live Version",
+      "url": "https://open.spotify.com/track/3zvyQ75g2PxmYaQxkN4QJO"
     },
     {
       "album": {
@@ -1668,6 +1704,24 @@
       "duration_ms": 469539,
       "name": "Idi Ebube",
       "url": "https://open.spotify.com/track/7Cg94EAs6wePmyRbZhPGj4"
+    },
+    {
+      "album": {
+        "name": "IDINMA (Mercy Prevails) [Live]",
+        "url": "https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 715973,
+      "name": "IDINMA (Mercy Prevails) - Live",
+      "url": "https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y"
     },
     {
       "album": {
@@ -2430,7 +2484,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 519223,
       "name": "Mwenye Uwezo - Live",
       "url": "https://open.spotify.com/track/4RcqL9xk4v0PbbuEaCJxVv"
@@ -3495,6 +3549,28 @@
     },
     {
       "album": {
+        "name": "Song Of My Father (Live)",
+        "url": "https://open.spotify.com/album/59f6I1iAqoyrvz36Js2fgc"
+      },
+      "artists": [
+        {
+          "name": "Onome Ovwori",
+          "url": "https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy"
+        },
+        {
+          "name": "David Nkennor",
+          "url": "https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347532,
+      "name": "Song Of My Father (Live)",
+      "url": "https://open.spotify.com/track/7eBpg6M5HmQ24lKbV4p8af"
+    },
+    {
+      "album": {
         "name": "Spirit Chant",
         "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
       },
@@ -4360,7 +4436,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 251791,
       "name": "Yeshua - Live from London",
       "url": "https://open.spotify.com/track/1cZFDOXK1aEEsUeagFnlRC"
@@ -4568,7 +4644,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 462800,
       "name": "\u00c0\u00e1n\u00fa (Live)",
       "url": "https://open.spotify.com/track/5sgKNXUfwjMEKBGlTUXy9W"

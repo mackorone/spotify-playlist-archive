@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: CADU",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Harold",
   "name": "Seda",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 182876,
       "name": "23:40",
       "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 173617,
       "name": "AQUI AGORA",
       "url": "https://open.spotify.com/track/5061WxcutGInYsobzvTXEk"
@@ -6502,7 +6502,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 172831,
       "name": "INOCENTE?",
       "url": "https://open.spotify.com/track/7fI0j5v4cnvaMZVE5cOCAy"
@@ -8711,6 +8711,24 @@
     },
     {
       "album": {
+        "name": "Nem Mais uma Vez",
+        "url": "https://open.spotify.com/album/3cDv07DYtemEVC2q2cCSan"
+      },
+      "artists": [
+        {
+          "name": "PARD\u00d8",
+          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Nem Mais uma Vez",
+      "url": "https://open.spotify.com/track/2T0z7TfQR4YD26wxNKkQtV"
+    },
+    {
+      "album": {
         "name": "Nha Love",
         "url": "https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T"
       },
@@ -9506,7 +9524,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 162666,
       "name": "O Dia",
       "url": "https://open.spotify.com/track/0Xcvnzu3hF3mnJqjQr3EIn"
@@ -11986,7 +12004,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 155050,
       "name": "Sem Ti",
       "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"

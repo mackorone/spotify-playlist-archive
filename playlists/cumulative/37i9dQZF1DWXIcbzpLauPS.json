@@ -9871,6 +9871,24 @@
     },
     {
       "album": {
+        "name": "HIDE FROM THE LIGHT",
+        "url": "https://open.spotify.com/album/3VNtgL7gm3PC5nYbDy58yI"
+      },
+      "artists": [
+        {
+          "name": "DIESECT",
+          "url": "https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "HIDE FROM THE LIGHT",
+      "url": "https://open.spotify.com/track/2dFuqBk3nECBZMgq8a7vF7"
+    },
+    {
+      "album": {
         "name": "Hideous",
         "url": "https://open.spotify.com/album/4qftklc0DH2DWxanvoXSNG"
       },
@@ -20808,7 +20826,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157946,
       "name": "Trembling Level",
       "url": "https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes"

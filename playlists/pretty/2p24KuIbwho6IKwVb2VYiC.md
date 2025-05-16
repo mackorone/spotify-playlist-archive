@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain](/playlists/plain/2p24KuIbwho6IKwVb2VYiC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2p24KuIbwho6IKwVb2VYiC)
 
-### [New Dance Hits 2025](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
+### [Nightvision presents..\. ALL ACCESS DANCE](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: Sammy Virji
+> The best Dance and EDM tracks right now!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,346 likes - 121 songs - 6 hr 13 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,344 likes - 121 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 120 | [Got Me Started \- Bag Raiders Remix](https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Got Me Started \(Bag Raiders Remix\)](https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX) | 3:41 |
 | 121 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 |
 
-Snapshot ID: `AAAgFy+g60u51DdTByWe9OMcMudx/V1I`
+Snapshot ID: `AAAgG7bBfxZSPaEhkXvHtYpht7FmUY0n`

@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: ICEBOX
+> Listen to the future\. Cover: karan
 
-178 songs - 9 hr 42 min
+181 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 | 2024-06-27 | 2025-04-16 |
 | [Kembali Beraksi](https://open.spotify.com/track/6xQTKwONIIxVeVkeI9RmUg) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Kembali Beraksi](https://open.spotify.com/album/3R5CJTjkIdD5vXVLq8behk) | 3:24 | 2025-04-15 |  |
 | [Ku Ingin Tahu](https://open.spotify.com/track/5X2AqXUHVJJDMJDAfwHzJc) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Ku Ingin Tahu](https://open.spotify.com/album/6CUysXbpDxvoMhvByozznK) | 3:16 | 2024-06-27 | 2024-12-05 |
+| [LATE](https://open.spotify.com/track/5dINyexwj0eNiugJREkRd5) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [LATE](https://open.spotify.com/album/4vssHzH0VzPsTf23EtiMJH) | 2:46 | 2025-05-15 |  |
 | [Leaving Anyway](https://open.spotify.com/track/0aFoK1mxrJS6jlJueLyhor) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Something To Hide](https://open.spotify.com/album/66Oj77e2AP4A5kmT6K0KvS) | 4:09 | 2025-04-15 |  |
 | [leftover feelings](https://open.spotify.com/track/4Q6GXGl5DcW5w615iSiUjf) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [leftover feelings](https://open.spotify.com/album/30nGunlYKukm79Nq7XbNnC) | 5:23 | 2024-06-27 | 2024-12-05 |
 | [leftover feelings](https://open.spotify.com/track/4WVVkyq96BDHm4MgVKYbGK) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 5:23 | 2024-12-04 | 2025-04-16 |
@@ -127,6 +128,7 @@
 | [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 | 2025-04-15 |  |
 | [Paku Durjana](https://open.spotify.com/track/5vbqoD5GJOqWVqE4KFvnzZ) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Paku Durjana](https://open.spotify.com/album/6WqYQYvMxCFou2gVnk7B4E) | 3:24 | 2024-06-27 | 2025-04-16 |
 | [Panah](https://open.spotify.com/track/1dlgXkjadrhWxlZkrZbO2p) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Panah](https://open.spotify.com/album/2xnDi9OOjyXYXMlQXT1VcG) | 3:33 | 2025-04-15 |  |
+| [Parachuting Off The Moon](https://open.spotify.com/track/5ZpxM4VkTOZbkqKlVpfgaJ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Parachuting Off The Moon](https://open.spotify.com/album/4eznk2tF07hjIuoKo7YMJT) | 3:42 | 2025-05-15 |  |
 | [Pasrah](https://open.spotify.com/track/6XtqjjLBLM2rgRXwtn0KdE) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pasrah](https://open.spotify.com/album/0vbNRbVX4WBYMcD9YM5uEg) | 4:13 | 2024-06-27 | 2025-04-16 |
 | [Pedih](https://open.spotify.com/track/3lLEmlUfLNIQry6Baf50iz) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pedih](https://open.spotify.com/album/6Jh4YyOjQZAJZvRhPBEJSb) | 3:59 | 2024-06-27 | 2025-04-16 |
 | [Pelangi \- From "Cikgu Diva"](https://open.spotify.com/track/07ZbuMc2LJNyA93ofiKtdp) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Pelangi \(From "Cikgu Diva"\)](https://open.spotify.com/album/65T4vUTaR6OMybcXa60Ebd) | 2:38 | 2025-01-16 | 2025-04-16 |
@@ -141,6 +143,7 @@
 | [PROMISES](https://open.spotify.com/track/2CoMW742irWjgbI4zFpK7Z) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [WHERE ARE YOU NOW THAT IT'S OVER?](https://open.spotify.com/album/0vZ2TnJ14bTm1KbHYUFHU0) | 3:18 | 2025-04-15 |  |
 | [Quiet](https://open.spotify.com/track/6IgxhieemJHtjxhCVgZdMA) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Quiet](https://open.spotify.com/album/2FFc2QhxByJHakk8ycNZus) | 3:20 | 2024-06-27 | 2025-04-16 |
 | [RADAR](https://open.spotify.com/track/0hxNOnPCbJzKmohmpDGa2K) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [RADAR](https://open.spotify.com/album/4WhSgbkRVqiOyMH9Qkf1kD) | 2:40 | 2025-04-15 |  |
+| [RAVIOLI](https://open.spotify.com/track/3bm8yMrciHdHZWUp1Nzoog) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [RAVIOLI](https://open.spotify.com/album/0JGlJaPgMJK6qBywAJ6Td0) | 2:39 | 2025-05-15 |  |
 | [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-06-27 | 2025-04-16 |
 | [RISE](https://open.spotify.com/track/35WeXPdntwzMh11x92LWYf) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [RISE](https://open.spotify.com/album/170PSJTTmPwKLWYkLeDMNP) | 3:04 | 2024-06-27 | 2024-12-05 |
 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 | 2024-12-04 | 2025-04-16 |

@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-518 songs - 1 day 10 hr 3 min
+519 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Twisted](https://open.spotify.com/track/3Qg03Ze6ifmmAGznwr1Xm5) | [Electrico](https://open.spotify.com/artist/4DxELhGCnHXSqYwq6fbcmv) | [Twisted](https://open.spotify.com/album/6T13N7kZpv449TROnEk40y) | 3:17 | 2022-06-16 | 2022-06-23 |
 | [Wendy](https://open.spotify.com/track/3bUkwiKvAcajKu34YD3xA2) | [Zheng Jianxing](https://open.spotify.com/artist/7i9rpL6vAfqTh1nyVN2t35) | [Wendy](https://open.spotify.com/album/5fcK9S9J1KSMaVqPQrKfoN) | 4:02 | 2022-11-17 | 2022-12-02 |
 | [What if..?](https://open.spotify.com/track/4Bia9GoL6kHh0By80gxB6k) | [MiLK](https://open.spotify.com/artist/0NgRZYjBqL5GG9NVxiYLKS) | [What if..? \(Side A\)](https://open.spotify.com/album/7G6FUjpT0xLFIaiZHLQR63) | 5:15 | 2022-07-15 | 2022-07-21 |
-| [WoMen](https://open.spotify.com/track/5gvfApb3OGVo6ibsgCDFiC) | [OK Wang](https://open.spotify.com/artist/3DkGkjw7GwIs62GBM297cM) | [WoMen](https://open.spotify.com/album/6Si722Z1182SQ11I8zA88m) | 4:04 | 2025-05-08 |  |
+| [WoMen](https://open.spotify.com/track/5gvfApb3OGVo6ibsgCDFiC) | [OK Wang](https://open.spotify.com/artist/3DkGkjw7GwIs62GBM297cM) | [WoMen](https://open.spotify.com/album/6Si722Z1182SQ11I8zA88m) | 4:04 | 2025-05-08 | 2025-05-16 |
 | [Wonder \- Radio Edit](https://open.spotify.com/track/0lHzdjaWiKlodjIkjpWNl8) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Wonder \(Radio Edit\)](https://open.spotify.com/album/2BDFbrcws9Fwb0NnXXGVX3) | 2:11 | 2023-01-12 | 2023-01-27 |
 | [Wordless Groans](https://open.spotify.com/track/2cUgbDiOEk6OnxYRJKoGwk) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [Wordless Groans](https://open.spotify.com/album/0pL2KHp15cmfVn9ZWa8ZLW) | 4:59 | 2023-05-25 | 2023-08-20 |
 | [You / Me](https://open.spotify.com/track/3yfCssNAKVRrIu8wWfqev3) | [倪安東](https://open.spotify.com/artist/5LKvIQZUXSWBlaGNXwpryB) | [You / Me](https://open.spotify.com/album/4FIYZsOD184CNmPwFiiqsG) | 2:34 | 2023-09-21 | 2023-10-06 |
@@ -115,6 +115,7 @@
 | [二十歲](https://open.spotify.com/track/32SmMhT7gv6hrE0yRfoApm) | [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [二十歲](https://open.spotify.com/album/101LuRO1uDAjMMWI5c2Sd6) | 4:29 | 2023-11-09 | 2023-11-24 |
 | [二月](https://open.spotify.com/track/6EZqk0qQTxcdGlkEsBhxso) | [張仁與](https://open.spotify.com/artist/5c1MnkZTc5PWasAfciinK4) | [二月](https://open.spotify.com/album/0ha0cPchB3f1OYPSxSzh0t) | 3:33 | 2025-02-13 | 2025-02-21 |
 | [五月的人 \- 電影《五月雪》主題曲](https://open.spotify.com/track/3aL8V20GPzZ1ffXXJ8gFqI) | [Wanfang](https://open.spotify.com/artist/468BFRg8N0wGREo2L4TXZp) | [五月的人 \(電影《五月雪》主題曲\)](https://open.spotify.com/album/32byNQEsbPgwK0fArLHoXF) | 4:43 | 2023-11-02 | 2023-11-17 |
+| [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5) | [任素汐](https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8) | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j) | 3:55 | 2025-05-15 |  |
 | [人什麼的最麻煩了](https://open.spotify.com/track/6AbXNaq2f9MDbhSY8RpUlo) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/2ocw8ufNH6dO7QLMLidKk1) | 4:28 | 2022-06-10 | 2022-06-17 |
 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 | 2025-04-03 |  |
 | [人類廢品\(電視劇《誰在你身邊Who’s By Your Side》片尾曲\)](https://open.spotify.com/track/61AGtV0vo7qb6kZkHoENlC) | [Morrison 馬仕釗](https://open.spotify.com/artist/1M9G5HbEeGkueCTaHNsGUN) | [電視劇《誰在你身邊》](https://open.spotify.com/album/6ulvcKBI9kZKuskV1GA7IT) | 3:53 | 2022-06-16 | 2022-07-07 |
@@ -381,7 +382,7 @@
 | [深藍海](https://open.spotify.com/track/29KqtXjfOaMuHfRfdbueZG) | [高真 TRU](https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3) | [深藍海](https://open.spotify.com/album/5y4kXTQeXluWutxTVHUFSb) | 4:11 | 2024-12-12 | 2024-12-20 |
 | [潮水箴言](https://open.spotify.com/track/43ydEcvPtB09gg689Iizfu) | [SHUA](https://open.spotify.com/artist/4ZPApia4YNHraw5nhgp804) | [潮水箴言](https://open.spotify.com/album/5B0AZtKqwCRjMej90HoCKn) | 4:50 | 2024-01-11 | 2024-01-19 |
 | [灰燼](https://open.spotify.com/track/0m21x8eCBS9LFqr2H5Xm6h) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [灰燼](https://open.spotify.com/album/1CjHb4Jt2w4U02G035C1Xh) | 2:25 | 2024-09-05 | 2024-10-07 |
-| [灿烂的风和海\(影视剧《灿烂的风和海》主题曲\)](https://open.spotify.com/track/3IZxgpsrOpoTFBX0kZyJnO) | [陳昊宇](https://open.spotify.com/artist/3j1Kn3vDZpDAh4vMOf6G6w) | [影视剧《灿烂的风和海》影视原声带](https://open.spotify.com/album/4MwdmoztErHJfPM4z2tVaE) | 3:47 | 2025-05-08 |  |
+| [灿烂的风和海\(影视剧《灿烂的风和海》主题曲\)](https://open.spotify.com/track/3IZxgpsrOpoTFBX0kZyJnO) | [陳昊宇](https://open.spotify.com/artist/3j1Kn3vDZpDAh4vMOf6G6w) | [影视剧《灿烂的风和海》影视原声带](https://open.spotify.com/album/4MwdmoztErHJfPM4z2tVaE) | 3:47 | 2025-05-08 | 2025-05-16 |
 | [為了什麼而努力](https://open.spotify.com/track/4ax74pSfPz6QWO5o8rCwmD) | [曾嘉偉](https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7) | [為了什麼而努力](https://open.spotify.com/album/3ELx1GoOTS1TwywUjgArYL) | 3:39 | 2023-08-24 | 2023-09-08 |
 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 | 2022-07-28 | 2023-04-20 |
 | [無人](https://open.spotify.com/track/0GaXVbxat5CjDUdtgPpdu2) | [蕎Chiao](https://open.spotify.com/artist/3JgvHRyoYHDkGGT1oGlRYU) | [無人](https://open.spotify.com/album/6A5oYdk1PIhhOkIxdMoXqU) | 3:36 | 2024-06-27 | 2024-07-05 |
@@ -428,7 +429,7 @@
 | [給自然的禮物](https://open.spotify.com/track/7w9lZrZGiEpvnDBOUZOwZU) | [COLD DEW](https://open.spotify.com/artist/1wK8TaYMCje9VRs0y1R8b7) | [給自然的禮物](https://open.spotify.com/album/0g0y5p2hDfOXWIoihU8wrZ) | 5:17 | 2025-04-17 | 2025-04-25 |
 | [緣分](https://open.spotify.com/track/3ARRyMQ4T4vcyL0TJV4rvM) | [伍芝儀](https://open.spotify.com/artist/1ZV7P5KZmCoG98IXa5pNk9), [詹欣萱](https://open.spotify.com/artist/5z8FTEiZni8bGrPjRqDf72) | [味盡緣 \(原創影集原聲帶\)](https://open.spotify.com/album/6SSpKuuNKz3qw3u3CvCwZB) | 3:08 | 2024-03-28 | 2024-04-05 |
 | [練習](https://open.spotify.com/track/7peO6Ugu9dXyIpkDzLwhoW) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [DAYLIGHT](https://open.spotify.com/album/2dfm2lvDIMN7SQCqkLyqP6) | 3:30 | 2023-06-01 | 2023-06-16 |
-| [總有一首歌會提醒我愛你](https://open.spotify.com/track/1RiTbY9QRn1ffkh6lgMKw4) | [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [總有一首歌會提醒我愛你](https://open.spotify.com/album/2aybRnFUMoMyYfvCXmrBIH) | 3:36 | 2025-03-20 | 2025-05-15 |
+| [總有一首歌會提醒我愛你](https://open.spotify.com/track/1RiTbY9QRn1ffkh6lgMKw4) | [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [總有一首歌會提醒我愛你](https://open.spotify.com/album/2aybRnFUMoMyYfvCXmrBIH) | 3:36 | 2025-03-20 |  |
 | [總有那麼一天我始終相信](https://open.spotify.com/track/1ezKCFxKbN2aoIJj6vLEJL) | [imClare](https://open.spotify.com/artist/58YXiEdWsp40kdYGppwlr5) | [Showering](https://open.spotify.com/album/1QGLBco4zaV7zQYNNZiQdi) | 3:52 | 2023-07-27 | 2023-08-11 |
 | [缺](https://open.spotify.com/track/0VxWA8MdEly682d4mC5zzD) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [缺](https://open.spotify.com/album/01TGWmnonLEk9NAG9k9dxK) | 5:30 | 2025-01-16 | 2025-04-26 |
 | [美好的可能](https://open.spotify.com/track/2IrIHhR2I0djNzAXVKWTHm) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [美好的可能](https://open.spotify.com/album/6Sm2Kmg8Rby9rSqXB27KTY) | 4:35 | 2024-04-25 | 2024-05-03 |

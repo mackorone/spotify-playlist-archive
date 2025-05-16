@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 吉澤嘉代子
 
-3,059 songs - 8 day 3 hr 50 min
+3,060 songs - 8 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -962,6 +962,7 @@
 | [Midnight in Paris](https://open.spotify.com/track/66q650bEchJtIPELfURWaZ) | [Kylie](https://open.spotify.com/artist/69hUP9xAmScJ0sFfMNH1hb) | [Midnight in Paris](https://open.spotify.com/album/75eEUwi0urbnFXrm3dw5jS) | 3:02 | 2022-08-17 | 2022-08-24 |
 | [Midnight Phone](https://open.spotify.com/track/7CnGvZnLIawI3CxWP9cXRu) | [Youmentbay](https://open.spotify.com/artist/2sLSgexahLIueH18ra4hhC) | [Midnight Phone](https://open.spotify.com/album/0qxY6Gw7UVYGWKDELpQwGD) | 3:42 | 2022-09-06 | 2022-09-15 |
 | [Midnight Whisper \- feat\. Masahiro Sengoku](https://open.spotify.com/track/1aPeIT8OXsQMByZQgv5VSj) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Masahiro Sengoku](https://open.spotify.com/artist/65PWrqCqvJ3I32gOMMVtnt) | [Midnight Whisper \(feat\. Masahiro Sengoku\)](https://open.spotify.com/album/1rQnK2vDkNQMSrqtLv3Q3v) | 2:56 | 2022-08-17 | 2022-08-31 |
+| [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-13 |  |
 | [Mimi O Sumasu](https://open.spotify.com/track/548JbCzzAo5Vm283DQ0ZXt) | [Yo Hitoto](https://open.spotify.com/artist/5sm4rWbXSE6K8MdyTIZg7q) | [Hitotozukushizu \(Another Edition\)](https://open.spotify.com/album/3KKLO623sFUcK964j2dmPD) | 5:35 | 2022-12-20 | 2023-01-04 |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-09-29 | 2022-10-05 |
 | [mimosa](https://open.spotify.com/track/2LHlcQqSZDrTVXGB6Hgf6e) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [mimosa](https://open.spotify.com/album/0x8DhYL1Y62n95Nsiu8kVj) | 5:09 | 2025-04-08 |  |
@@ -2019,7 +2020,7 @@
 | [わをん](https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [わをん](https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2) | 4:30 | 2024-12-10 | 2025-04-16 |
 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 | 2023-10-26 | 2024-02-07 |
 | [アイノロイ](https://open.spotify.com/track/1cUFamnBZnwMLI0TzXBHBZ) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [アイノロイ](https://open.spotify.com/album/701NLR0kvbmE6fkt88ZhUI) | 3:38 | 2023-10-19 | 2023-10-25 |
-| [アイモライモ \- Aimoraimo](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ \- Aimoraimo](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 | 2024-11-05 |  |
+| [アイモライモ \- Aimoraimo](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ \- Aimoraimo](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 | 2024-11-05 | 2025-05-16 |
 | [アイワナ](https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [アイワナ](https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM) | 3:50 | 2024-05-21 | 2025-01-08 |
 | [アイヲ](https://open.spotify.com/track/6Gk4InYH6J6GrbCEgeB0Kv) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [アイヲ](https://open.spotify.com/album/1XIM2dgjBgPQcpZF05I2Pd) | 3:31 | 2022-05-29 | 2022-07-01 |
 | [アカイロ](https://open.spotify.com/track/5VZnu1y78R281GShmN43TN) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [アカイロ](https://open.spotify.com/album/6uh3L9f5J6OamYhp4VkAwP) | 4:08 | 2024-12-03 | 2024-12-11 |

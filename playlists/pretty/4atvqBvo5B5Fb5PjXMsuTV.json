@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 May 22:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 May 18:04 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAR1xcjlagpB1aAQSCCG5Ok6TT9zVSs",
+  "snapshot_id": "AAAR2/SFnw2jlB6OMwLVfjRdDKXEqR1g",
   "tracks": [
+    {
+      "added_at": "2025-05-15 08:04:44",
+      "album": {
+        "name": "Tough Luck",
+        "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Tough Luck",
+      "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+    },
+    {
+      "added_at": "2025-05-15 18:04:07",
+      "album": {
+        "name": "Bloom Baby Bloom",
+        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Bloom Baby Bloom",
+      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
+    },
     {
       "added_at": "2025-05-14 18:04:21",
       "album": {
@@ -823,38 +855,6 @@
       "duration_ms": 198440,
       "name": "Psychosis Is Just a Number",
       "url": "https://open.spotify.com/track/4tp82F1ovK0ethVESk2DUs"
-    },
-    {
-      "added_at": "2025-05-10 18:04:09",
-      "album": {
-        "name": "S.W.M.F.",
-        "url": "https://open.spotify.com/album/2sfHdpolaidE0tV9uBfLqG"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 188988,
-      "name": "S.W.M.F.",
-      "url": "https://open.spotify.com/track/1H2hPFMGnTHFom0L9LaIEh"
-    },
-    {
-      "added_at": "2025-05-02 13:04:28",
-      "album": {
-        "name": "Ballyhoo",
-        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 165974,
-      "name": "Ballyhoo",
-      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
     }
   ],
   "unique_name": "New Singles Now",

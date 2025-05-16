@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=3c0OFN54STCLGyLFtRdkgg">Lebo Sekgobela</a>
 
-135 songs - 14 hr 23 min
+136 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Akhonamandla](https://open.spotify.com/track/3WWcor629CeucJRhcEv0eT) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Akhonamandla](https://open.spotify.com/album/2fwuj75mQD6TX173EXylPt) | 3:03 | 2024-11-29 | 2025-03-07 |
 | [Amen / Moya ongcwele](https://open.spotify.com/track/2MFOFPmxaHNhIuYiVKYX5H) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Amen / Moya ongcwele](https://open.spotify.com/album/1ghmZE9jAHU4b2Srof3eOU) | 5:48 | 2024-10-25 | 2025-03-21 |
 | [Anesu \(God with us\) \- Live](https://open.spotify.com/track/3ebUYrBfGD2A0dvOxQx6Cc) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Chairo](https://open.spotify.com/artist/1FFHFMUEGwwivLM3rO42ce) | [Anesu \(God with us\) \[Live\]](https://open.spotify.com/album/5GI13g4MbffMBJe8adYamQ) | 11:06 | 2025-02-28 | 2025-04-18 |
-| [Angesabi Lutho \- Live At The Octagon / 2024](https://open.spotify.com/track/7gFKwcRcvDAnE8CP1VtwGJ) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Angesabi Lutho \(Live At The Octagon / 2024\)](https://open.spotify.com/album/601cTavoVncT3R8MamZrZj) | 4:55 | 2025-04-11 |  |
+| [Angesabi Lutho \- Live At The Octagon / 2024](https://open.spotify.com/track/7gFKwcRcvDAnE8CP1VtwGJ) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Angesabi Lutho \(Live At The Octagon / 2024\)](https://open.spotify.com/album/601cTavoVncT3R8MamZrZj) | 4:55 | 2025-04-11 | 2025-05-16 |
 | [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 | 2024-10-04 |  |
+| [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 | 2025-05-16 |  |
 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 | 2024-10-04 |  |
 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 | 2024-10-04 |  |
 | [Bayazibuza](https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [New Sounds of Glory](https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07) | 5:00 | 2024-10-04 |  |

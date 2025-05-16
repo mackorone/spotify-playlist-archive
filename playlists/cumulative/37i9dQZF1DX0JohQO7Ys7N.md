@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Wendy Kay
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Clark Keen, Zawadi Mukami & Chris Barr
 
-269 songs - 15 hr 2 min
+270 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-01-26 | 2024-09-27 |
 | [Goodbye](https://open.spotify.com/track/0qKSG9DU0TLp8Sy77N0BFU) | [Shanki Austine](https://open.spotify.com/artist/6itwRcitEN1S39bvzrWsNM), [Bee Muziki](https://open.spotify.com/artist/5bUi75yAVr0SuEFhtmm69j) | [Beginning EP](https://open.spotify.com/album/1dxogKeICt9bHr4z4EivFa) | 3:22 | 2024-11-07 | 2025-01-17 |
 | [Haba Na Haba](https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [Colours](https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R) | 2:59 | 2022-07-22 | 2024-05-04 |
+| [Hamu](https://open.spotify.com/track/5tE1NiKNG949IRPuDUe0No) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v), [Chris Barr](https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo) | [Musings](https://open.spotify.com/album/4tP74evyRsApusUxzoOlij) | 3:57 | 2025-05-15 |  |
 | [Happy](https://open.spotify.com/track/6mfOlusYuEHqUjYRh5msRB) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp), [The Proverbial Kiki](https://open.spotify.com/artist/2kF0bcJNoJm8d21xlnAGT8) | [Happy](https://open.spotify.com/album/50yMpW5GhzhpZhBZ0mqDu3) | 3:50 | 2024-11-21 |  |
 | [Hardest Thing](https://open.spotify.com/track/3VhO6BOBUVXj7kf7dFJEkA) | [WAMUYU](https://open.spotify.com/artist/5bzxOcTF1zHbuPm0hhgq03) | [Songa](https://open.spotify.com/album/2W1aQvUtiMpWTkqV48dcIl) | 3:33 | 2023-10-26 | 2024-06-28 |
 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 | 2024-05-03 |  |
@@ -220,7 +221,7 @@
 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 | 2023-09-21 | 2024-03-29 |
 | [Slow Down](https://open.spotify.com/track/0hrXbMtT7Wb8vlRLpRxBZ8) | [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3), [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Slow Down](https://open.spotify.com/album/4juUxcfkxdA6ry2dKBRMYz) | 3:17 | 2021-12-28 | 2022-06-11 |
 | [Slowly](https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The Footprint](https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4) | 3:37 | 2024-02-15 | 2024-05-17 |
-| [Slowly \(The Haux Stories\)](https://open.spotify.com/track/6h491wk8T2zQ8KqBc98wCu) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [Three](https://open.spotify.com/album/6mZk2E17q8qAkITD4bB6IS) | 3:08 | 2024-04-05 |  |
+| [Slowly \(The Haux Stories\)](https://open.spotify.com/track/6h491wk8T2zQ8KqBc98wCu) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [Three](https://open.spotify.com/album/6mZk2E17q8qAkITD4bB6IS) | 3:08 | 2024-04-05 | 2025-05-16 |
 | [small acts of recklessness](https://open.spotify.com/track/2OLsqgoxmmEQTrnwY72LHA) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [dawa](https://open.spotify.com/album/567zkX4DjYyss366DTflSG) | 3:15 | 2023-02-03 | 2023-09-22 |
 | [Some Loving](https://open.spotify.com/track/0mrmLmWkyFuBN66KMqihdR) | [Venna](https://open.spotify.com/artist/3LcJzJIaHptfIlAx0BkuN4) | [Some Loving](https://open.spotify.com/album/0xAcVPPaJepnuIOElzpeqA) | 2:07 | 2025-01-17 |  |
 | [Something Is You](https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Something Is You](https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0) | 1:50 | 2023-04-06 | 2025-01-24 |

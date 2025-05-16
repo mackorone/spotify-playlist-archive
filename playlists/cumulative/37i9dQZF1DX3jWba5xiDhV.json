@@ -732,7 +732,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 265663,
       "name": "Desiderio",
       "url": "https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01"
@@ -2129,6 +2129,28 @@
     },
     {
       "album": {
+        "name": "Mini Pony",
+        "url": "https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7"
+      },
+      "artists": [
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "S\u00e9bastien Delage",
+          "url": "https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209053,
+      "name": "Mini Pony",
+      "url": "https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv"
+    },
+    {
+      "album": {
         "name": "Pictures Old Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
       },
@@ -2736,6 +2758,24 @@
       "duration_ms": 238493,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/70VXILTu9LqZNDc1VmqDGg"
+    },
+    {
+      "album": {
+        "name": "Pazzo Italiano",
+        "url": "https://open.spotify.com/album/7G0egW1pCmKnpwRT9MZ81F"
+      },
+      "artists": [
+        {
+          "name": "Tamati",
+          "url": "https://open.spotify.com/artist/5N4Hr2udzNz82WhOJmyIDU"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302068,
+      "name": "Sentimento Universale",
+      "url": "https://open.spotify.com/track/5Lzr2D8OagZ5Oy6JxoQ8PK"
     },
     {
       "album": {
@@ -3382,7 +3422,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 432404,
       "name": "Under the Ice - Original 12 Inch Version",
       "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"

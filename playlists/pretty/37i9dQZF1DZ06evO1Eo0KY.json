@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 590,
+  "num_followers": 592,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCKLgAAAAAC1wTOb/oDIWcjb2+FSllUK",
+  "snapshot_id": "aCPdAAAAAAC4RZqmaGhdKjQQ4svpF7Yx",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 211973,
-      "name": "Designer Drugs",
-      "url": "https://open.spotify.com/track/2f36pRZBYcLOqEDEhqSnmI"
+      "duration_ms": 238392,
+      "name": "Straight & Tall",
+      "url": "https://open.spotify.com/track/6jkH0vs7rpSBH4RcphlrwC"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 238392,
-      "name": "Straight & Tall",
-      "url": "https://open.spotify.com/track/6jkH0vs7rpSBH4RcphlrwC"
+      "duration_ms": 211973,
+      "name": "Designer Drugs",
+      "url": "https://open.spotify.com/track/2f36pRZBYcLOqEDEhqSnmI"
     },
     {
       "added_at": null,
@@ -422,15 +422,11 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Sonnyjim",
-          "url": "https://open.spotify.com/artist/7yjhuWL2bXEWGI0IplF6i4"
         }
       ],
-      "duration_ms": 150361,
-      "name": "Commonwealth",
-      "url": "https://open.spotify.com/track/1Hm2jBldfKVXxkPgeENjGy"
+      "duration_ms": 153518,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/7z0mAsQSbW6eB9beoVeCGu"
     },
     {
       "added_at": null,
@@ -514,11 +510,15 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Sonnyjim",
+          "url": "https://open.spotify.com/artist/7yjhuWL2bXEWGI0IplF6i4"
         }
       ],
-      "duration_ms": 153518,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/7z0mAsQSbW6eB9beoVeCGu"
+      "duration_ms": 150361,
+      "name": "Commonwealth",
+      "url": "https://open.spotify.com/track/1Hm2jBldfKVXxkPgeENjGy"
     },
     {
       "added_at": null,
@@ -827,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Storybook",
-        "url": "https://open.spotify.com/album/1CvpLjZQ7QWobFSSIhxL1V"
+        "name": "Dump Gawd: Shot Clock King,Vol. 2",
+        "url": "https://open.spotify.com/album/7Egv49aLCPCVJfjQvYL85x"
       },
       "artists": [
         {
-          "name": "Aela Hopeful Monster",
-          "url": "https://open.spotify.com/artist/6U4rxBTvNUKhD4P14qgid2"
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 133665,
-      "name": "On God",
-      "url": "https://open.spotify.com/track/13zdVZeUzD7rGi9bYNlRYh"
+      "duration_ms": 137142,
+      "name": "Shot Clock Legend",
+      "url": "https://open.spotify.com/track/40X7YBIt6WB8N00fAgnbeL"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
       "duration_ms": 120187,
       "name": "Big George Bombs",
       "url": "https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dump Gawd: Shot Clock King,Vol. 2",
-        "url": "https://open.spotify.com/album/7Egv49aLCPCVJfjQvYL85x"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Shot Clock Legend",
-      "url": "https://open.spotify.com/track/40X7YBIt6WB8N00fAgnbeL"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

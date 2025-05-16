@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-657 songs - 1 day 21 hr 47 min
+658 songs - 1 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Chromatica III](https://open.spotify.com/track/6kXRZSe28BawCiEdME8YLk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 0:27 | 2025-01-09 | 2025-04-12 |
 | [Claw Hammer](https://open.spotify.com/track/3eLc9F6UeyvjQ6QUwEocZg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:22 | 2022-09-08 |  |
 | [Club At The End Of The Street](https://open.spotify.com/track/3spWfMlB39jSkstIslYnvG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:52 | 2022-09-08 |  |
-| [Cocodrilo Rock](https://open.spotify.com/track/1JqZalmLefLNxCBjSSy1MM) | [Grupo Santa Cecilia](https://open.spotify.com/artist/1eCxV8P8Whz7LupJv8sKrB) | [Grupo Santa Cecilia](https://open.spotify.com/album/6t8ulLLrkmeqgYEuYj3XN3) | 3:00 | 2023-05-26 |  |
+| [Cocodrilo Rock](https://open.spotify.com/track/1JqZalmLefLNxCBjSSy1MM) | [Grupo Santa Cecilia](https://open.spotify.com/artist/1eCxV8P8Whz7LupJv8sKrB) | [Grupo Santa Cecilia](https://open.spotify.com/album/6t8ulLLrkmeqgYEuYj3XN3) | 3:00 | 2023-05-26 | 2025-05-16 |
+| [Cocodrilo Rock](https://open.spotify.com/track/2rZN0R9ocacPSnq1kK1Zq7) | [Grupo Santa Cecilia](https://open.spotify.com/artist/1eCxV8P8Whz7LupJv8sKrB) | [Grupo Santa Cecilia](https://open.spotify.com/album/11ksZ0DaZe5uNWThawHve7) | 3:00 | 2025-05-15 |  |
 | [Cold](https://open.spotify.com/track/7rJ6F4JGL9tixHzu0Y8fiP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:37 | 2022-09-08 |  |
 | [Cold As Christmas \(In The Middle Of The Year\)](https://open.spotify.com/track/2eCdGml2e9dBfSygX0ItC0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:21 | 2022-09-08 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:22 | 2022-09-08 |  |

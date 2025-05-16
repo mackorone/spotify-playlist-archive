@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-325 songs - 19 hr 20 min
+327 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [garden](https://open.spotify.com/track/7eC9BhFyx9etpODa2p9eRV) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [garden](https://open.spotify.com/album/2D6jurbZ8a88dgoSPicI2o) | 4:38 | 2025-02-03 |  |
 | [Give or Take a Few](https://open.spotify.com/track/5FzCz6sNG38TC722559eAl) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Give or Take a Few](https://open.spotify.com/album/44qsKBxh5097kyFAlP9LFn) | 3:33 | 2025-02-03 |  |
 | [Good Intentions](https://open.spotify.com/track/0ZOEQL3Rs527cpaRNnV9fb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Leveller](https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe) | 4:11 | 2025-02-03 |  |
-| [Goodnight](https://open.spotify.com/track/0E0pBUCKYX5M244qWl05mp) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Goodnight](https://open.spotify.com/album/4fZKOgdH3X72AKQRrrlc9l) | 4:21 | 2025-02-03 |  |
+| [Goodnight](https://open.spotify.com/track/0E0pBUCKYX5M244qWl05mp) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Goodnight](https://open.spotify.com/album/4fZKOgdH3X72AKQRrrlc9l) | 4:21 | 2025-02-03 | 2025-05-16 |
 | [Goud](https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Goud](https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2) | 3:22 | 2021-04-07 | 2025-02-04 |
 | [Gracefully](https://open.spotify.com/track/5mkpRcKJW7E9vlDoRJGxr9) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3AcNiMMqbJ9WxtLtUeTNB0) | 3:38 | 2017-12-03 | 2025-02-04 |
 | [Gracefully](https://open.spotify.com/track/6o48EgHLxA0g0NLcDXukz7) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT) | 3:38 | 2017-12-03 | 2024-04-19 |
@@ -114,6 +114,7 @@
 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2017-12-03 | 2025-03-13 |
 | [Hold On To The Night \- Acoustic](https://open.spotify.com/track/7nFG13NCU0gUY1RV8h1kDe) | [Roy van Maren](https://open.spotify.com/artist/7JkafgaIW0izdL74lbCkX6), [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Hold On To The Night](https://open.spotify.com/album/2frOup854eahgacwS4TJfj) | 2:08 | 2025-02-03 |  |
 | [Hold You](https://open.spotify.com/track/7fOstQ4Nq9Zkj2J0sZZ5rE) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u), [Okke Punt](https://open.spotify.com/artist/62eGoLRCLKqObqDkLfYDVP) | [Hold You](https://open.spotify.com/album/4QMB7pB3LBmoAxiFVcsOlk) | 4:16 | 2025-02-03 |  |
+| [Homemade Love](https://open.spotify.com/track/7B0Oreo1plD889iU85SpIA) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Homemade Love](https://open.spotify.com/album/4fqv01r5HfhoHt9QzL1n8W) | 3:20 | 2025-05-15 |  |
 | [Hope](https://open.spotify.com/track/0rB5UZpt3AHmA8o80gxb2F) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Hope](https://open.spotify.com/album/6NiGNXGhMRoToVXf59ujX7) | 2:24 | 2025-02-03 |  |
 | [How About a Drink?](https://open.spotify.com/track/7Mas27dGjWTu6PSiR7hntp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [How About a Drink?](https://open.spotify.com/album/1w3LJk9aI0OaDqEXtbkexz) | 2:49 | 2025-02-03 |  |
 | [How It Feels To Be Me](https://open.spotify.com/track/6U3n979lTuZ33irdeaNaqj) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [How It Feels To Be Me](https://open.spotify.com/album/4EF4w66XudTk9WBO6bkZ4I) | 2:14 | 2025-02-03 |  |
@@ -302,7 +303,7 @@
 | [Torn](https://open.spotify.com/track/6c2AwEBPa3JJBSYHNbasAN) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Classic Covers](https://open.spotify.com/album/47KsZpubPUNipcC7cbywDA) | 3:16 | 2017-12-03 | 2022-11-13 |
 | [Torn \- Bonus Track](https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z) | 3:16 | 2017-12-03 | 2024-04-19 |
 | [Torn \- Bonus Track](https://open.spotify.com/track/7lwYNEUrDP4thCD6nQ4nBv) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:16 | 2017-12-03 | 2025-02-04 |
-| [Trying My Best](https://open.spotify.com/track/06qUEhhx6jKQmhj2qAkn4H) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Trying My Best](https://open.spotify.com/album/7y7FAlGLQ3qCubAGtw1oT0) | 3:42 | 2025-02-03 |  |
+| [Trying My Best](https://open.spotify.com/track/06qUEhhx6jKQmhj2qAkn4H) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Trying My Best](https://open.spotify.com/album/7y7FAlGLQ3qCubAGtw1oT0) | 3:42 | 2025-02-03 | 2025-05-16 |
 | [Two After Twelve](https://open.spotify.com/track/34v661LusKeFpxBr6U3sJM) | [Maxine Julian](https://open.spotify.com/artist/1EeyrU6wNgHmSNmG5dZYEv) | [Two After Twelve](https://open.spotify.com/album/1PusfddhZ6d3Rt3PHMp2NP) | 4:00 | 2025-02-03 |  |
 | [Two By Two](https://open.spotify.com/track/43e1QhXItiHWcoHvENyJkI) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [He Went To The Sea](https://open.spotify.com/album/6sbHZO54hBTlyMhpqqkmom) | 2:40 | 2025-02-03 |  |
 | [Up We Go](https://open.spotify.com/track/3hT4aulcGsGrgeoGU0M5Pj) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Midnight Machines](https://open.spotify.com/album/03Il5mMdE6JpkpHNpmlVeT) | 5:39 | 2017-12-03 | 2025-02-04 |
@@ -328,6 +329,7 @@
 | [Work](https://open.spotify.com/track/1YzjKrBdWheeI2nBKmUvQn) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Late Night Tales: Badbadnotgood](https://open.spotify.com/album/1J3enVyckc2vOR0xOK1jZX) | 3:44 | 2017-12-03 | 2022-11-13 |
 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 | 2017-12-03 | 2024-04-19 |
 | [Work](https://open.spotify.com/track/42YrWn7KYjhJ2GfjTJ3HSY) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Work](https://open.spotify.com/album/2q4teFR48HGFpkgjCPbXBi) | 3:44 | 2017-12-03 | 2025-02-04 |
+| [Would You Have Stayed](https://open.spotify.com/track/3WWkQd8489tMB7f2jK77sf) | [Joanne Bird](https://open.spotify.com/artist/046f6THMcnTnUdUFzn3tUD) | [Unusual Fairytales](https://open.spotify.com/album/6svDWlTUWHOiz6EJ4ZqNQS) | 3:42 | 2025-05-15 |  |
 | [You Let Me Walk Alone](https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [You Let Me Walk Alone](https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun) | 2:57 | 2025-02-03 | 2025-03-22 |
 | [You Make It Real](https://open.spotify.com/track/1Yw6ViCo3tuufI0Hg4mzSU) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 3:31 | 2017-12-03 | 2025-02-04 |
 | [You Make It Real](https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 3:31 | 2017-12-03 | 2024-04-19 |

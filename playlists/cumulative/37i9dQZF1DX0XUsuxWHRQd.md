@@ -4,7 +4,7 @@
 
 > Music from Drake, Lil Tecca and Playboi Carti.
 
-2,372 songs - 5 day 2 hr 50 min
+2,373 songs - 5 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,6 +758,7 @@
 | [GET OFF ME \(with Travis Scott\)](https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:35 | 2024-01-12 | 2024-04-19 |
 | [Get Up & Get It](https://open.spotify.com/track/5uuusXnEMpaRhRw6NAvMsu) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Get Up & Get It](https://open.spotify.com/album/6ca5jSGP5CN0iMPzfSApw6) | 1:52 | 2024-08-31 | 2024-09-07 |
 | [Get You Back \(feat\. Cash Cobain\)](https://open.spotify.com/track/14o4OozkcWqwSYUDG8Kae4) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:01 | 2024-08-31 | 2024-09-21 |
+| [Get Your Roll On](https://open.spotify.com/track/4HpCT9jeCzBfpCaF3aTVWX) | [Big Tymers](https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR) | [I Got That Work](https://open.spotify.com/album/7pe02mW4PQwNJkrmSup7bu) | 4:02 | 2025-05-15 |  |
 | [Ghetto](https://open.spotify.com/track/2F28o4Yl4RH6FvCdSOe0qN) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [Tru Carr](https://open.spotify.com/artist/70LeECrcNFIOvGZqe8byzQ) | [Ghetto](https://open.spotify.com/album/4Z8QeomU8aaUTATnF8STy3) | 2:10 | 2024-12-20 | 2025-02-22 |
 | [Ghetto \(feat\. Young Thug & Lil Durk\)](https://open.spotify.com/track/1uU143K4dObFyeykORAD0m) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 3:57 | 2024-07-26 | 2024-08-10 |
 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 | 2022-09-09 | 2022-11-19 |

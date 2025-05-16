@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e0\u05d2\u05d4 \u05d0\u05e8\u05d6",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05ea\u05e8 \u05e8\u05d3\u05d0",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -196,6 +196,24 @@
       "duration_ms": 235860,
       "name": "Beautiful Soul",
       "url": "https://open.spotify.com/track/19J2rmuJ7bsaoFt9RknsgS"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/2kP2nJGaB2PXiAd5g2Yf8N"
+      },
+      "artists": [
+        {
+          "name": "Ester Rada",
+          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239061,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7rVZ3metyjOfUAAecxlVVI"
     },
     {
       "album": {
@@ -861,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Bullies At Recess",
+        "url": "https://open.spotify.com/album/0NjUal9wf8btipY48XmpsJ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4XCwMJsnP7Xs2x6LXnrU7I"
+    },
+    {
+      "album": {
         "name": "Long Nails",
         "url": "https://open.spotify.com/album/70GbvgyQT8n60pYLGFTCzG"
       },
@@ -1212,7 +1248,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 170958,
       "name": "Quiet Down",
       "url": "https://open.spotify.com/track/7oUFMZiTSQgnTvXxy0bX1U"
@@ -3303,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d9\u05dc \u05e9\u05d9\u05de\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2aRmLur4HxMA63zoJL3y8L"
+      },
+      "artists": [
+        {
+          "name": "Yuval Mendelson",
+          "url": "https://open.spotify.com/artist/6hVAKUdULwRNi7cRA3Fn2S"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268289,
+      "name": "\u05dc\u05d9\u05dc \u05e9\u05d9\u05de\u05d5\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3kSx2oizsSBkJKr6lDSv9a"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d9\u05df",
         "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
       },
@@ -3318,6 +3372,32 @@
       "duration_ms": 195000,
       "name": "\u05dc\u05d9\u05df",
       "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05dc\u05db\u05ea \u05dc\u05d0\u05d9\u05d1\u05d5\u05d3",
+        "url": "https://open.spotify.com/album/35sbZooqCHBEmHmxamIw50"
+      },
+      "artists": [
+        {
+          "name": "PA'AM",
+          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
+        },
+        {
+          "name": "Yali Sobol",
+          "url": "https://open.spotify.com/artist/3cPFiAwdwlzCq7gBVIlBfa"
+        },
+        {
+          "name": "Sarai Zak Levi",
+          "url": "https://open.spotify.com/artist/3xgPOpXCGT6P3bdbL8CGuQ"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185841,
+      "name": "\u05dc\u05dc\u05db\u05ea \u05dc\u05d0\u05d9\u05d1\u05d5\u05d3",
+      "url": "https://open.spotify.com/track/5BWlHelOYuc6qgxpYRDsWs"
     },
     {
       "album": {
@@ -3864,7 +3944,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 179875,
       "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
       "url": "https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR"
@@ -3922,7 +4002,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 188896,
       "name": "\u05e2\u05d5\u05d3 \u05d9\u05d5\u05dd",
       "url": "https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i"
@@ -4242,7 +4322,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 265493,
       "name": "\u05e9\u05d1\u05ea\u05d5\u05ea \u05d5\u05d7\u05d2\u05d9\u05dd",
       "url": "https://open.spotify.com/track/2st7mVorFZpOBrZEzeIt7a"

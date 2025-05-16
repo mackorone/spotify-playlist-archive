@@ -4,10 +4,11 @@
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Shiki
 
-395 songs - 23 hr 47 min
+397 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(từng là\) Boyfriend, Girlfriend](https://open.spotify.com/track/0NDMUgq5VLeo7D14NqlfYO) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [\(từng là\) Boyfriend, Girlfriend](https://open.spotify.com/album/77nJF9EMU9k4UQQr31jDCU) | 4:02 | 2025-05-15 |  |
 | [10 Ngàn Năm](https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0) | [10 Ngàn Năm](https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF) | 4:00 | 2024-07-18 | 2024-08-01 |
 | [1000 Ánh Mắt](https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc) | [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Lặng](https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN) | 2:32 | 2024-07-03 |  |
 | [2AM](https://open.spotify.com/track/3IlRBIOd0MsAqPQo2711ne) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6) | [2AM](https://open.spotify.com/album/7nB59ijKokvdKH3JlnTArx) | 4:18 | 2022-05-27 | 2022-06-04 |
@@ -160,6 +161,7 @@
 | [không biết nên vui hay buồn \(feat\. Táo\)](https://open.spotify.com/track/1DGeOHzwCxwJBiitcnUz0B) | [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J), [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [không biết nên vui hay buồn](https://open.spotify.com/album/6dGz0gicZR4i1bzBWY4D42) | 3:31 | 2024-05-26 | 2024-06-17 |
 | [Không Còn Em](https://open.spotify.com/track/1RGA13K66cABN7nYek6WNk) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN) | [Không Còn Em](https://open.spotify.com/album/7k9BqIUVoIQNaSOS62wbd1) | 3:54 | 2023-07-21 | 2023-10-14 |
 | [Không Cần Phải Nói Nhiều](https://open.spotify.com/track/1DmMJL7KrTEC5MDTvYpfLD) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Hoang Ton](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [Không Cần Phải Nói Nhiều](https://open.spotify.com/album/0cGa9mtCxVQwgzPrOyoLES) | 4:06 | 2022-05-27 | 2022-06-03 |
+| [không lời](https://open.spotify.com/track/4sUO0zmF9LZL1XNe1LjHvV) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [không lời](https://open.spotify.com/album/2PjaqoehMZIbSElnjllie2) | 3:42 | 2025-05-15 |  |
 | [không một bài hát nào có thể diễn tả cảm xúc của em lúc này\. \(feat\. Thanh Bui\)](https://open.spotify.com/track/2AA4UcXp2WRvsU9cyHT6Vy) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Thanh Bui](https://open.spotify.com/artist/2q8305j8iKRCQr7Tn6woin) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 4:00 | 2022-08-15 | 2022-09-12 |
 | [Không Thể Say](https://open.spotify.com/track/1K0HQ30Wc11okzlcnFA7Ub) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 3:48 | 2024-03-07 |  |
 | [Không Thể Say](https://open.spotify.com/track/4W2poMwGzKQHtpNCthoGhC) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Không Thể Say](https://open.spotify.com/album/6hRCNOEDljXmus24tlnzRx) | 3:48 | 2023-04-21 | 2025-01-24 |

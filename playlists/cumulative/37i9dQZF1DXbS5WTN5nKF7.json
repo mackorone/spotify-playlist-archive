@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Lady Gaga !",
+  "description": "Le meilleur des hits avec Marine !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 214971,
       "name": "4 Kamp\u00e9",
       "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 186461,
       "name": "CIEL",
       "url": "https://open.spotify.com/track/78FNSZkI1968KTtyf2s315"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
@@ -3197,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "J'ai chang\u00e9",
+        "url": "https://open.spotify.com/album/59CBG84jIKqTno4rW2rbHs"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "J\u2019ai chang\u00e9",
+      "url": "https://open.spotify.com/track/03wJxjfTjjvnwqA0c4JoaS"
+    },
+    {
+      "album": {
         "name": "Vivre...",
         "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
       },
@@ -3273,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "L'amour fou",
+        "url": "https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "L'amour fou - Single Version",
+      "url": "https://open.spotify.com/track/3kerBSaEveqacWJv10JeDZ"
+    },
+    {
+      "album": {
         "name": "La belle et la b\u00eate",
         "url": "https://open.spotify.com/album/0NEreCWbXNKpXwvhYjYtTA"
       },
@@ -3284,7 +3320,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 221173,
       "name": "La belle et la b\u00eate - Single Version",
       "url": "https://open.spotify.com/track/6RAf7QUuJzSZXAZcJO8q0G"
@@ -6167,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+    },
+    {
+      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
       },
@@ -6182,6 +6236,24 @@
       "duration_ms": 200400,
       "name": "Un dimanche avec toi",
       "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
+    },
+    {
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "album": {

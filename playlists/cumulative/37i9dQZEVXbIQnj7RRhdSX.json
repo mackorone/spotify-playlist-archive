@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 140669,
       "name": "A me mi piace",
       "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 140816,
       "name": "a me mi piace (feat. Manu Chao)",
       "url": "https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP"
@@ -21680,7 +21680,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 167283,
       "name": "In auto alle 6:00 (feat. Lazza)",
       "url": "https://open.spotify.com/track/0rufYF3Mr0ZqdmhrZeAIz6"
@@ -21958,7 +21958,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 178000,
       "name": "INCAPACE",
       "url": "https://open.spotify.com/track/27SkiL7mLmkFD7z3tq3B3j"
@@ -22443,6 +22443,24 @@
     },
     {
       "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Islanda",
+      "url": "https://open.spotify.com/track/0JiJbbKU6RTYJXMBI34UzM"
+    },
+    {
+      "album": {
         "name": "Islanda",
         "url": "https://open.spotify.com/album/0awzpRHpQcLl76a8SRJ50R"
       },
@@ -22472,7 +22490,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 217213,
       "name": "Islanda",
       "url": "https://open.spotify.com/track/41lOxc6ARYZPXpKeMWcHsD"

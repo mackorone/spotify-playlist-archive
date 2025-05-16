@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-383 songs - 20 hr 1 min
+384 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [LEVITATE](https://open.spotify.com/track/1CTtPSqqZEGXOi42FFb736) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [LEVITATE](https://open.spotify.com/album/0D8oXXB0uBxGCsjUeLmkay) | 3:03 | 2022-02-03 | 2023-08-11 |
 | [Light](https://open.spotify.com/track/6pO4iuzfi0PVODLtm0y4dN) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Light](https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP) | 4:13 | 2023-01-20 | 2024-11-20 |
 | [Lights](https://open.spotify.com/track/5qJGvX78Xi4LORgE3MvoWl) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Lights](https://open.spotify.com/album/0UxhkAPTmjm1ghVyd5uodv) | 3:15 | 2023-08-10 |  |
+| [Like Fire](https://open.spotify.com/track/7pbakZI6q7dgCHdKgHiNKE) | [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4), [Apollo On The Run](https://open.spotify.com/artist/0x2RLf2uOSrfnaO80ao6gM) | [Like Fire](https://open.spotify.com/album/0KTtvRVVdZ59RtMUnhiEDZ) | 3:30 | 2025-05-15 |  |
 | [Like That](https://open.spotify.com/track/6L6i0zjctc5rS1JM0mmbpt) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Like That](https://open.spotify.com/album/2FGyG6fnPfnEzrqT0Ar6YG) | 2:40 | 2023-08-10 |  |
 | [Live A Lie](https://open.spotify.com/track/4lqjYjqcyRRNTbrwxaUwKa) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Andreas Stone](https://open.spotify.com/artist/4Z63ecu9ZjtVVsIuuOfua3) | [Live A Lie](https://open.spotify.com/album/5ezJVTDdp2c41tYwUAuw4k) | 3:32 | 2022-02-03 | 2022-09-15 |
 | [Lonely Hour](https://open.spotify.com/track/1uqVKaE5nMAf5GLQGSglly) | [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Lonely Hour](https://open.spotify.com/album/0jFbYifq12XTyvYpKw1wF1) | 2:09 | 2023-08-10 |  |

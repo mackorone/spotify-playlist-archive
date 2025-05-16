@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-207 songs - 10 hr 39 min
+208 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [MUJER](https://open.spotify.com/track/6LHw9ZjMZ2VGW2AbSABBO4) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:41 | 2022-11-07 | 2022-11-19 |
 | [MUJER](https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6s3XBzC7ghTwGeEFEDJRzM) | 2:41 | 2024-04-11 | 2025-01-19 |
 | [MY LOVE SONG 2 \(feat\. Coez & Frah Quintale\)](https://open.spotify.com/track/3ySS2RpQNWsN5T88sfilZb) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 2:54 | 2023-11-02 | 2023-11-29 |
+| [Nessuna](https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:43 | 2025-05-15 |  |
 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 | 2023-02-01 | 2023-07-01 |
 | [New Date \(feat\. Don Pero, CoCo\)](https://open.spotify.com/track/0RUzwtbvoASM5AVKRcmyYR) | [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [New Date \(feat\. Don Pero, CoCo\)](https://open.spotify.com/album/0cV8EqMkPdAivkRmFQ1uHo) | 2:45 | 2024-06-20 | 2024-07-05 |
 | [Niente Canzoni D'Amore \- Inedito](https://open.spotify.com/track/71Fyq3SgH24mrUAKrLECD4) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Status \(Vendetta Edition\)](https://open.spotify.com/album/4xzpCepiaf3oQaywSGqcGV) | 3:46 | 2022-07-28 | 2024-04-19 |
@@ -168,7 +169,7 @@
 | [Respiro](https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Respiro](https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL) | 2:35 | 2024-05-30 | 2025-03-19 |
 | [Rosa](https://open.spotify.com/track/5JhvP5zFShla9LBIjEh6uO) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:51 | 2024-04-11 | 2025-03-19 |
 | [Rose Nere](https://open.spotify.com/track/1PhB6n0TlYLSHn29v2vDXC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 4:32 | 2022-05-03 | 2024-01-12 |
-| [SAFARI](https://open.spotify.com/track/6qp6wR3IDPGGSEPJogtkGy) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:07 | 2024-09-19 |  |
+| [SAFARI](https://open.spotify.com/track/6qp6wR3IDPGGSEPJogtkGy) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:07 | 2024-09-19 | 2025-05-16 |
 | [Sbaglio a pensarti](https://open.spotify.com/track/2wrEe2wvWKnFQkidWkG4l7) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:53 | 2024-01-25 | 2024-07-05 |
 | [Scale \(con Luchè\)](https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 2:32 | 2023-04-06 | 2024-04-19 |
 | [Scale \(con Luchè\)](https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:32 | 2022-09-15 |  |

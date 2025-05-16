@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: nobigdyl\. & Kato On The Track
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,134 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,157 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 42 | [Praise](https://open.spotify.com/track/6RUgbYZv69Kd28d5UO76pK) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Chuks Paschal](https://open.spotify.com/artist/3pUYC0FslPFdR87XdMggxE), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Praise](https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI) | 2:51 |
 | 43 | [yours](https://open.spotify.com/track/2CUI95ndyv0TiCLieMVLYk) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [G.E.S](https://open.spotify.com/artist/1r0gAOldNSTyidXhWLDHTF) | [yours](https://open.spotify.com/album/57FTf0XIoXls6CbAJTMkB0) | 2:59 |
 | 44 | [Safety](https://open.spotify.com/track/2gEJF2jsnb6yqTCuy34weW) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Safety](https://open.spotify.com/album/6BlJe0bwOzQAS9oAb9nW88) | 3:07 |
-| 45 | [I See You \(Invisible God\) \- Afro Mix](https://open.spotify.com/track/1dqfWS4f6spf5Dvw5m0LKH) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Crews Control](https://open.spotify.com/artist/5JvncK3bVMjn8IYBR9ycUO) | [The Letters I Never Sent \(Deluxe Edition\)](https://open.spotify.com/album/5eUn8q5Vwqnd4vhWj4HMav) | 3:29 |
+| 45 | [I See You \(Invisible God\) \- Afro Mix](https://open.spotify.com/track/1dqfWS4f6spf5Dvw5m0LKH) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Crews Control](https://open.spotify.com/artist/5JvncK3bVMjn8IYBR9ycUO), [Cru Alxndr](https://open.spotify.com/artist/1nExCVqTaxTCoGW4aJ4ZI2) | [The Letters I Never Sent \(Deluxe Edition\)](https://open.spotify.com/album/5eUn8q5Vwqnd4vhWj4HMav) | 3:29 |
 | 46 | [Jericho](https://open.spotify.com/track/4AHHoGPXJwhIxh8BVIxpmg) | [SSTEDI](https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK) | [Jericho](https://open.spotify.com/album/2aGU65DomFS08ek6Cazzw5) | 2:59 |
 | 47 | [Rest](https://open.spotify.com/track/2oiw93XU49iczloCpeQ1Y0) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Rest](https://open.spotify.com/album/1AELlyw5UdBc8loA1KzMxh) | 1:35 |
 | 48 | [stay](https://open.spotify.com/track/5lmlbTBopEJd6dPRBTvRB4) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [stay](https://open.spotify.com/album/4InZEb8yC7IgTM060t5Z2r) | 4:45 |

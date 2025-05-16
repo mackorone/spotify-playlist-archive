@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-311 songs - 23 hr 14 min
+312 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [château](https://open.spotify.com/track/7GGF2U7bZP3LhM2IojZYoE) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [château](https://open.spotify.com/album/3DLJo4t8P1Hcs0verzEuNf) | 2:45 | 2025-03-21 |  |
 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 | 2022-01-07 | 2022-10-01 |
 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 | 2022-02-22 | 2023-08-19 |
-| [Clouds](https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:54 | 2022-12-30 |  |
+| [Clouds](https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:54 | 2022-12-30 | 2025-05-16 |
 | [Colors](https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 2:45 | 2023-07-21 | 2024-08-09 |
 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 | 2022-01-07 |  |
 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 | 2022-01-07 | 2023-04-22 |
@@ -108,6 +108,7 @@
 | [HAGOROMO](https://open.spotify.com/track/57R46IG6M5tQ5xgQ30ZSOf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 3:52 | 2024-03-07 | 2025-01-25 |
 | [Hana](https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Best of Fumio: Music for Sleep](https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V) | 6:56 | 2022-12-30 |  |
 | [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:56 | 2024-03-07 | 2024-09-06 |
+| [Hebisan](https://open.spotify.com/track/0Uj5EwGUbETVxa2c6RXMq7) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Hanazono](https://open.spotify.com/album/4zKmJT7y0HpIUZiW5E8UPy) | 2:10 | 2025-05-02 |  |
 | [Her After Bath](https://open.spotify.com/track/65MUBBKx73ZZkDVTPaThnN) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossloads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 3:10 | 2022-02-22 |  |
 | [HereAfter](https://open.spotify.com/track/76ZzbHJqu3jahM8IhaEHkW) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [HereAfter](https://open.spotify.com/album/3eOpeSAgeHVoLGzXfxvtGu) | 6:03 | 2024-08-08 | 2025-01-14 |
 | [Hicari](https://open.spotify.com/track/5LoCraezdIDtyxCRIQdNLi) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Hicari](https://open.spotify.com/album/5N5zlunO6d2GMuQuUsEYCR) | 1:54 | 2022-05-27 |  |

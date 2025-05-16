@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/1dMNPnRN1xsFK5rXjEFui1"
+      },
+      "artists": [
+        {
+          "name": "BiBi",
+          "url": "https://open.spotify.com/artist/501jZ73SyTVmMX5oAPYwEX"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146060,
+      "name": "123",
+      "url": "https://open.spotify.com/track/0pCKsqEg4wmOFCVDCY9fMV"
+    },
+    {
+      "album": {
         "name": "180 de grade",
         "url": "https://open.spotify.com/album/2lXZd4s1RM51ZyiDxSXsGo"
       },
@@ -606,7 +624,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 160975,
       "name": "Bun\u0103",
       "url": "https://open.spotify.com/track/4IiPQyYNKqKntL5c40gDsN"
@@ -2196,7 +2214,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 149677,
       "name": "Iubitul meu de mai-nainte",
       "url": "https://open.spotify.com/track/1WNZWKFJTN30e9GOIiDW0x"
@@ -3425,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "Pata de culoare",
+        "url": "https://open.spotify.com/album/5D85ln9DnFG7290Jczuddo"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173385,
+      "name": "Pata de culoare",
+      "url": "https://open.spotify.com/track/5s8Vd9V3oGoa9r19L5ypAQ"
+    },
+    {
+      "album": {
         "name": "Pe Repeat",
         "url": "https://open.spotify.com/album/4t6lLo1mgmi3ywffM7Rjoz"
       },
@@ -3726,7 +3762,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 165600,
       "name": "Qu\u00e9date Aqu\u00ed",
       "url": "https://open.spotify.com/track/5o1MYCoDAFXofcbhDQAOY8"
@@ -3882,10 +3918,28 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 174651,
       "name": "She Cries",
       "url": "https://open.spotify.com/track/2945dZg7fQvMFMOBEiRj0L"
+    },
+    {
+      "album": {
+        "name": "Sin Amor",
+        "url": "https://open.spotify.com/album/0q6CRSUecNeX8lG9IwJa2D"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147196,
+      "name": "Sin Amor",
+      "url": "https://open.spotify.com/track/24QvixjF0eEu0QE6oExPMa"
     },
     {
       "album": {
@@ -3908,6 +3962,24 @@
       "duration_ms": 158181,
       "name": "Soarele",
       "url": "https://open.spotify.com/track/3FuoK7AJsoiREE68u177Np"
+    },
+    {
+      "album": {
+        "name": "Soarele A Apus",
+        "url": "https://open.spotify.com/album/11vvRApdn6b2hWMVqdyR1g"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Soarele A Apus",
+      "url": "https://open.spotify.com/track/1BD9iV8bkqRsmzOzxqT5CD"
     },
     {
       "album": {
@@ -4267,6 +4339,28 @@
     },
     {
       "album": {
+        "name": "Trandafiri",
+        "url": "https://open.spotify.com/album/4eRTS8WqCqG7gBwlywa4J5"
+      },
+      "artists": [
+        {
+          "name": "Daria Lupi",
+          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
+        },
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142776,
+      "name": "Trandafiri",
+      "url": "https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI"
+    },
+    {
+      "album": {
         "name": "Antifragil",
         "url": "https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC"
       },
@@ -4576,7 +4670,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 185732,
       "name": "Z\u00e2mbe\u0219te",
       "url": "https://open.spotify.com/track/0vT1xGO41auK3VyI65IldA"

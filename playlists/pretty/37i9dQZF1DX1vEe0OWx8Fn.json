@@ -1,6 +1,6 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 1233,
+  "num_followers": 1264,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
@@ -675,18 +675,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj"
+        "name": "abcdefu (feat. Royal & the Serpent)",
+        "url": "https://open.spotify.com/album/4yfT2AABmfgPrr40yhhyXx"
       },
       "artists": [
         {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
+      "duration_ms": 169323,
+      "name": "abcdefu (feat. Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/3xSyUXUkSiBLsJNpPpG4v1"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -707,22 +711,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "abcdefu (feat. Royal & the Serpent)",
-        "url": "https://open.spotify.com/album/4yfT2AABmfgPrr40yhhyXx"
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
         }
       ],
-      "duration_ms": 169323,
-      "name": "abcdefu (feat. Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/3xSyUXUkSiBLsJNpPpG4v1"
+      "duration_ms": 222640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
     },
     {
+      "added_at": "2023-05-19 14:21:26",
+      "album": {
+        "name": "please put me in a medically induced coma",
+        "url": "https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 186902,
+      "name": "please put me in a medically induced coma",
+      "url": "https://open.spotify.com/track/6r5qc5MakFRzVQU9aEtIiq"
+    },
+    {
       "added_at": "2022-08-16 22:06:35",
       "album": {
         "name": "The Rift",
@@ -823,30 +839,6 @@
       "duration_ms": 168653,
       "name": "problems",
       "url": "https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "MY BRAIN AFTER THERAPY",
-        "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        },
-        {
-          "name": "Extra Large Holiday Card",
-          "url": "https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe"
-        }
-      ],
-      "duration_ms": 141352,
-      "name": "AFTER THERAPY (feat. Hot Mulligan)",
-      "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
     }
   ],
   "unique_name": "dear diary",

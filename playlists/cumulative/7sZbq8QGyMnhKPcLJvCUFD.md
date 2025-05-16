@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-703 songs - 1 day 11 hr 38 min
+704 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 | 2023-01-03 | 2023-04-28 |
 | [Lighthouse](https://open.spotify.com/track/1MFnrx6HSx4whenAmvJtna) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Lighthouse](https://open.spotify.com/album/6iguOPqXcNx3qOm8BuelPE) | 2:57 | 2025-03-13 |  |
 | [Like A Stone](https://open.spotify.com/track/6lQO0zv1x5jmEVvXIPdrbm) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Like A Stone](https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6) | 3:25 | 2022-09-08 | 2023-04-28 |
+| [Like Fire](https://open.spotify.com/track/7pbakZI6q7dgCHdKgHiNKE) | [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4), [Apollo On The Run](https://open.spotify.com/artist/0x2RLf2uOSrfnaO80ao6gM) | [Like Fire](https://open.spotify.com/album/0KTtvRVVdZ59RtMUnhiEDZ) | 3:30 | 2025-05-15 |  |
 | [Like Rain](https://open.spotify.com/track/5CAhPF67F9jxoNsASa48Lq) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Like Rain](https://open.spotify.com/album/6NLgMBrfFOymoRQr560dmy) | 3:25 | 2024-09-23 |  |
 | [Like That](https://open.spotify.com/track/1V5we6zZDShUGnSUXZLqPf) | [DON DARKOE](https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql), [Cherry Morello](https://open.spotify.com/artist/0ysLduzyfjHOMhyiqfIXTz) | [Like That](https://open.spotify.com/album/41KC2hIP2zQ3Ngel4aUziq) | 3:18 | 2024-12-04 |  |
 | [Like That](https://open.spotify.com/track/6L6i0zjctc5rS1JM0mmbpt) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Like That](https://open.spotify.com/album/2FGyG6fnPfnEzrqT0Ar6YG) | 2:40 | 2023-07-07 | 2023-08-10 |

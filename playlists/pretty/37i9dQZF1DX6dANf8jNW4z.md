@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Ona Mafalda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,751 likes - 69 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,750 likes - 69 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 28 | [El Juego de la Vida](https://open.spotify.com/track/7mGUS5sqJZTfkwssXXTk5M) | [Soraya](https://open.spotify.com/artist/4HsWGs7hJKcbM1aiRnUDWj), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [El Juego de la Vida](https://open.spotify.com/album/7mZnakkKPcRYVSClYnowXK) | 2:39 |
 | 29 | [Santoral \(Según Sta\. Matilde\)](https://open.spotify.com/track/3No3OYISNFawtH8otIlqKM) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [Santoral \(Según Sta\. Matilde\)](https://open.spotify.com/album/0vkSKL2x9GH9DqtnmqAMff) | 3:20 |
 | 30 | [Amor letal](https://open.spotify.com/track/05byrRvRJTmhDBazG0ZbJ0) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [Amor letal](https://open.spotify.com/album/7aMxoCbCmtZaA1Zxzb3Aa8) | 3:16 |
-| 31 | [Celos](https://open.spotify.com/track/3peKWu2DsVyqW7wWNuylpu) | [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Celos](https://open.spotify.com/album/5zCPSVtS75N8rkbapTaBI4) | 3:51 |
+| 31 | [Celos \- Tangos](https://open.spotify.com/track/3peKWu2DsVyqW7wWNuylpu) | [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Celos \(Tangos\)](https://open.spotify.com/album/5zCPSVtS75N8rkbapTaBI4) | 3:51 |
 | 32 | [ASÍ](https://open.spotify.com/track/3my4LIgUuG8A3RqRM59JwN) | [Alba Moreno](https://open.spotify.com/artist/6kWK8M4vGR9AWnikXxcWLF) | [ASÍ](https://open.spotify.com/album/4IDZaRZEJjoLoqSrdZmeNP) | 2:30 |
 | 33 | [Virgen de la Luz](https://open.spotify.com/track/6pveRY9Y8HtFgPLNRbF79M) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Virgen de la Luz](https://open.spotify.com/album/0Q0u5GCbuUrwuV5DTecTIY) | 2:59 |
 | 34 | [Besos de mi parte](https://open.spotify.com/track/2Sp6ckRFz121hm0TNwzOdr) | [María Parrado](https://open.spotify.com/artist/41sqYvXOn3ATsAQ65G1zx6) | [Besos de mi parte](https://open.spotify.com/album/3NuDx5T7LmWvIEik9uBIR2) | 2:30 |

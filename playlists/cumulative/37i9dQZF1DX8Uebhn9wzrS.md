@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,316 songs - 3 day 16 hr 14 min
+2,317 songs - 3 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1044,7 +1044,7 @@
 | [Kite](https://open.spotify.com/track/3iGAROkUA0Zor2nDSb5KEi) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP) | [Kite](https://open.spotify.com/album/28oJte7pPVdU7loNEXhJea) | 2:29 | 2022-04-15 | 2022-11-12 |
 | [Kite](https://open.spotify.com/track/2CshcD2ZdSr8lgEkSYcmmK) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/1SCKTftnhCkK2RlNcAaIkq) | 2:23 | 2022-11-18 | 2023-01-07 |
 | [Kite](https://open.spotify.com/track/2YFpUFkSTOqCDy9hzMi1FY) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/0Ek36hK7QpAGGcNBwV17y5) | 2:23 | 2022-09-16 | 2022-11-20 |
-| [Kite](https://open.spotify.com/track/0Uyq0exEznwuyPHtUoItQG) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Kite](https://open.spotify.com/album/5S40ObOUh50xGjbuOCsilS) | 3:08 | 2023-03-08 |  |
+| [Kite](https://open.spotify.com/track/0Uyq0exEznwuyPHtUoItQG) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Kite](https://open.spotify.com/album/5S40ObOUh50xGjbuOCsilS) | 3:08 | 2023-03-08 | 2025-05-16 |
 | [knowing](https://open.spotify.com/track/62zfzTVCAvK7iceTH7eXBF) | [yvwn.](https://open.spotify.com/artist/4nKqGQ0oFqlfBmXxiMPEO1) | [Knowing](https://open.spotify.com/album/2UhoZRmJfvg9EFInZUZUhD) | 1:43 | 2025-02-21 | 2025-03-22 |
 | [knox](https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [knox](https://open.spotify.com/album/4OdQCF3d6u2pjwMcWIlEtv) | 2:00 | 2023-03-08 | 2025-05-13 |
 | [kodak](https://open.spotify.com/track/7q8NJyn5JHHzfTwa1auiPH) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [kodak](https://open.spotify.com/album/0ggeJPPUAeDt8oCadobrvM) | 1:51 | 2023-11-17 |  |
@@ -1952,6 +1952,7 @@
 | [Sunday Vibe](https://open.spotify.com/track/2DkudyqbfyxWaHrsFVdcQg) | [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO) | [Sunday Vibe](https://open.spotify.com/album/7u2zSSqdcVSt7jW0IYSF8x) | 2:18 | 2022-04-15 | 2022-10-08 |
 | [Sundets](https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Kanbina](https://open.spotify.com/album/6HZiWLomAqbJbt56oOiK34) | 2:02 | 2022-04-15 | 2023-03-02 |
 | [Sunflower](https://open.spotify.com/track/4ng2LSEKmQ1s1jL3FGmI2j) | [SeanBeats](https://open.spotify.com/artist/6gxWrSNJaCqSVq9cYqjZIQ) | [Sunflower](https://open.spotify.com/album/4Sr7kNZLsdF59C13I83lft) | 2:22 | 2023-03-08 |  |
+| [Sunflower](https://open.spotify.com/track/62waTt4wLnZqZDzOhji5aa) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Sunflower](https://open.spotify.com/album/2xhi2qlZliPctc91o8JQzE) | 3:12 | 2025-05-09 |  |
 | [Sunflower](https://open.spotify.com/track/3a2fLFjazrZlinsXTZB3T3) | [Velvet Static](https://open.spotify.com/artist/0gvY5ddNmoAw3UdKk4pUE1) | [Sunflower](https://open.spotify.com/album/6q2ce3gSOf1osMaAHJBAEl) | 2:13 | 2024-09-27 |  |
 | [Sunflower Fields](https://open.spotify.com/track/5x06pW7r0lebJulesKVnSS) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Sunflower Fields](https://open.spotify.com/album/0NsxmwGazJCuTta9ln196Z) | 1:38 | 2023-03-24 | 2024-02-09 |
 | [Sunglasses](https://open.spotify.com/track/7B7DI99P9P2vK6Y7t8GqJL) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Sunglasses](https://open.spotify.com/album/0bidB45sL12fYqXsRRB2VU) | 2:01 | 2022-07-22 | 2022-08-19 |

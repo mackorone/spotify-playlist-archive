@@ -2,7 +2,7 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Cloud 雲浩影 & 媽咪
+> 感受女聲力量。Cover: Winka 陳泳伽
 
 493 songs - 1 day 5 hr 21 min
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Ryouji, CK YG
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Realest Cram, Young Blood Neet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,345,531 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,346,142 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [Kung Ganito](https://open.spotify.com/track/2l3wgWqT4e5qcDMMYetMwM) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Kung Ganito](https://open.spotify.com/album/4fvpdJENnW1dLZBxOoo0gt) | 3:08 |
 | 50 | [Kwentuhan](https://open.spotify.com/track/3Um2ftIhNgD2YpqhlMgd69) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Kwentuhan](https://open.spotify.com/album/5NZI0BD3B7Gs3Ouy14qp9u) | 3:25 |
 
-Snapshot ID: `aCQCcgAAAADdfHjLzf9FZ847/a0JZgl9`
+Snapshot ID: `aCavNQAAAAAB8ngAmGBLkLhrz6VPAQzd`

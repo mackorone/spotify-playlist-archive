@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 201008,
       "name": "blind spot",
       "url": "https://open.spotify.com/track/6rcunB73aRxovp9AiH5xv3"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 183526,
       "name": "Cat 13",
       "url": "https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo"
@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Insular",
+        "url": "https://open.spotify.com/album/1JafBWcHAurcWqEKi2UVRN"
+      },
+      "artists": [
+        {
+          "name": "Emma Hessels",
+          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215453,
+      "name": "Insular",
+      "url": "https://open.spotify.com/track/126ZlwrjTCZJlUqr9f65Bd"
+    },
+    {
+      "album": {
         "name": "It Happens Either Way",
         "url": "https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 188581,
       "name": "Miss Me Too",
       "url": "https://open.spotify.com/track/5gMOMjSZZzg11UQbXLbFfr"
@@ -3020,6 +3038,24 @@
       "duration_ms": 110221,
       "name": "Scared Of Loving You",
       "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
+    },
+    {
+      "album": {
+        "name": "She Knows Me Now (The Silent Song)",
+        "url": "https://open.spotify.com/album/5Q4LCPIGD40akgsy9EcQIj"
+      },
+      "artists": [
+        {
+          "name": "Janna",
+          "url": "https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173020,
+      "name": "She Knows Me Now (The Silent Song)",
+      "url": "https://open.spotify.com/track/6mu0veQ0m8WuWp8TyLWKOw"
     },
     {
       "album": {

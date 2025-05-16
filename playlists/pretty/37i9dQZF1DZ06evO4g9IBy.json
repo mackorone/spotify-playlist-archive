@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 167827,
+  "num_followers": 167852,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCKLgAAAAACJwZRsZUY7XQQ32Hup93Fw",
+  "snapshot_id": "aCPdAAAAAACki6y8ie2/IwaBF/bpQjRX",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timespace - The Best Of Stevie Nicks",
-        "url": "https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "Whole Lotta Trouble",
-      "url": "https://open.spotify.com/track/5wRASV5n4VbpmZ6aIm5t3S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "24 Karat Gold: Songs from the Vault",
         "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 278138,
       "name": "The Dealer",
       "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timespace - The Best Of Stevie Nicks",
+        "url": "https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "Whole Lotta Trouble",
+      "url": "https://open.spotify.com/track/5wRASV5n4VbpmZ6aIm5t3S"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "Enchanted - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Timespace - The Best Of Stevie Nicks",
         "url": "https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 334853,
       "name": "New Orleans",
       "url": "https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "Enchanted - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
     },
     {
       "added_at": null,

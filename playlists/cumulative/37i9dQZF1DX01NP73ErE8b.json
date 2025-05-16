@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat  \ud83d\udd01  Annalisa in cover",
+  "description": "I brani italiani che abbiamo on repeat  \ud83d\udd01  Alfa in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 234473,
       "name": "AUTODISTRUZIONE",
       "url": "https://open.spotify.com/track/0vKVVWPt2gq8YHnFsOvuhj"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 194468,
       "name": "BATTITO",
       "url": "https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 175786,
       "name": "Bella Mossa (feat. Coez)",
       "url": "https://open.spotify.com/track/4VW9kBi5TB2QlhihKgP6tn"
@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/4kgJXn6V8rscGUuTO8P9EF"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4"
+    },
+    {
+      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/04Ym8yzWO8fJmP1emtBuKV"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 174130,
       "name": "Cose Stupide",
       "url": "https://open.spotify.com/track/6X6A71dQ9bnJ4rP0RGVcOk"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 194090,
       "name": "CUORICINI",
       "url": "https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc"
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 194210,
       "name": "GLI SBANDATI HANNO PERSO",
       "url": "https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM"
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 206002,
       "name": "Lentamente",
       "url": "https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 179366,
       "name": "Mal di te",
       "url": "https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz"
@@ -3408,7 +3426,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 159894,
       "name": "Non x Soldi",
       "url": "https://open.spotify.com/track/12XKCbxfnM7jS0xNSgDJNz"
@@ -3547,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Il corpo umano VOL. 1",
+        "url": "https://open.spotify.com/album/5wmEx3LNBWO5ayUKVyoV0a"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208280,
+      "name": "Occhi a cuore",
+      "url": "https://open.spotify.com/track/0Z6AQ7qjeS6ClJpYzNeqyL"
+    },
+    {
+      "album": {
         "name": "OCCHI TRISTI",
         "url": "https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc"
       },
@@ -3663,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Passatempo",
+        "url": "https://open.spotify.com/album/6FUB5S4WUZAMEVpWD6xCdx"
+      },
+      "artists": [
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184711,
+      "name": "Passatempo",
+      "url": "https://open.spotify.com/track/0XL7sdiWaOi9v2raBRIand"
+    },
+    {
+      "album": {
         "name": "PASSIONE",
         "url": "https://open.spotify.com/album/5g63IHLDxeCZHZCI0gSq2K"
       },
@@ -3700,7 +3754,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 212853,
       "name": "Per due come noi",
       "url": "https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ"
@@ -3926,6 +3980,24 @@
       "duration_ms": 200842,
       "name": "POSTO MIO",
       "url": "https://open.spotify.com/track/3Npk1eTTxSkRNYet4PW2yY"
+    },
+    {
+      "album": {
+        "name": "PRONTO COME VA",
+        "url": "https://open.spotify.com/album/7GYhXN89GS5QQBqd1xv62f"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "PRONTO COME VA",
+      "url": "https://open.spotify.com/track/6CvJtmzjDkWCeGt4nT2l1O"
     },
     {
       "album": {
@@ -4376,7 +4448,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 190611,
       "name": "Se t'innamori muori",
       "url": "https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR"
@@ -4594,6 +4666,36 @@
       "duration_ms": 211866,
       "name": "SPA CABARET",
       "url": "https://open.spotify.com/track/4VNVRdDCmLMbduC0V5GKeU"
+    },
+    {
+      "album": {
+        "name": "Spirito Libero (feat. Gu\u00e8, Joshua, Tormento)",
+        "url": "https://open.spotify.com/album/5YzPlEnke0TCwqtyY0BVEo"
+      },
+      "artists": [
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        },
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180150,
+      "name": "Spirito Libero",
+      "url": "https://open.spotify.com/track/6AT8BqPSI5cb8DpmtMu3E5"
     },
     {
       "album": {
@@ -4876,7 +4978,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 207313,
       "name": "TU CON CHI FAI L'AMORE",
       "url": "https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy"
@@ -5057,6 +5159,28 @@
     },
     {
       "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204181,
+      "name": "Un milione di mani (feat. Rose Villain)",
+      "url": "https://open.spotify.com/track/7oW51CUGuVLH7qundUfdLq"
+    },
+    {
+      "album": {
         "name": "Il corpo umano VOL. 1",
         "url": "https://open.spotify.com/album/5GElpFAAm9NuWFau9h9Oj9"
       },
@@ -5116,6 +5240,28 @@
       "duration_ms": 165458,
       "name": "Una scatola di mogano - MERCURIO",
       "url": "https://open.spotify.com/track/2IpeIL6i4jn0tNa0239bOG"
+    },
+    {
+      "album": {
+        "name": "Una Stupida Scusa",
+        "url": "https://open.spotify.com/album/1eetlkncQWpoBjMPsyYdGm"
+      },
+      "artists": [
+        {
+          "name": "Boomdabash",
+          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+        },
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167542,
+      "name": "Una Stupida Scusa",
+      "url": "https://open.spotify.com/track/2YG2PSDHU3HCNXhLNqvaK9"
     },
     {
       "album": {

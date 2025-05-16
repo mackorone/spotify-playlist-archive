@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,357 songs - 11 day 14 hr 35 min
+7,358 songs - 11 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1706,6 +1706,7 @@
 | [Donny In Valdez \- Instrumental](https://open.spotify.com/track/3QBzxDjqspze3gnec21ptg) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite \(Instrumentals\)](https://open.spotify.com/album/1AxntOYzKTV5zaav4Ljis8) | 2:30 | 2021-11-20 | 2022-06-10 |
 | [Donquixote](https://open.spotify.com/track/3Vauj0olSikxjBrLCBY8s9) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Donquixote](https://open.spotify.com/album/0mSyetTVcSOha1s2B1gSHu) | 2:14 | 2022-10-14 | 2022-12-16 |
 | [Don’t Forget Me](https://open.spotify.com/track/3OjultkM3CXtK0JFmCO5Ux) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Don’t Forget Me](https://open.spotify.com/album/6x2eS7AgwuPqpGkbb3jloG) | 1:49 | 2023-09-29 | 2025-04-05 |
+| [dookie's secret garden](https://open.spotify.com/track/58AYTERWLrGGo9NI5RfoJX) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [dookie's secret garden](https://open.spotify.com/album/0o2l0cbX8gpdDb2OvW4EQ2) | 2:21 | 2025-05-09 |  |
 | [dopeness miles](https://open.spotify.com/track/3WdRc55dm15xX1Zxg96UvA) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [dopeness miles](https://open.spotify.com/album/2ugL8lln8USmINc7mCE93l) | 2:17 | 2023-01-20 | 2023-04-28 |
 | [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 | 2022-06-24 | 2022-10-14 |
 | [Dorada](https://open.spotify.com/track/102P66qMjyTaRhnmDfFU1L) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Dorada](https://open.spotify.com/album/4MT8EtbC9ym65lDijNZ6RU) | 2:04 | 2023-01-20 | 2023-04-21 |
@@ -6759,7 +6760,7 @@
 | [Under The Moon](https://open.spotify.com/track/4TwxqOEYh9gBvMhcqol841) | [Seau](https://open.spotify.com/artist/7peEnNi8wOyOWwuYGllh23), [Layers](https://open.spotify.com/artist/7DrYhFJgZejq1tztifxlU6) | [Under The Moon](https://open.spotify.com/album/4hC7LJEcYFOTt5ATAR95fN) | 2:14 | 2021-07-04 | 2022-03-11 |
 | [Under The Palm Trees](https://open.spotify.com/track/4NQSDtarzVzsi22y5KUN2D) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Under The Palm Trees](https://open.spotify.com/album/7LDhRNe4vzqy0Ug7Cxtbdh) | 1:37 | 2022-06-17 | 2022-10-07 |
 | [Under the Pressure](https://open.spotify.com/track/7FKPxX9CfrqJAccM8EyZdC) | [Cotton Candy Boulevard](https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086) | [Under the Pressure](https://open.spotify.com/album/0IcBcBpR4CTmekyDsdGBp2) | 2:04 | 2025-03-21 |  |
-| [Under The Stars](https://open.spotify.com/track/62ZcMbemNH5zIhx0hrLUWf) | [Luke's Diner](https://open.spotify.com/artist/6hi19IKSuyrQ9kIBaGMaYl) | [Under The Stars](https://open.spotify.com/album/2NW8a1UX8cGoZxHCDFTlH8) | 2:10 | 2024-09-13 |  |
+| [Under The Stars](https://open.spotify.com/track/62ZcMbemNH5zIhx0hrLUWf) | [Luke's Diner](https://open.spotify.com/artist/6hi19IKSuyrQ9kIBaGMaYl) | [Under The Stars](https://open.spotify.com/album/2NW8a1UX8cGoZxHCDFTlH8) | 2:10 | 2024-09-13 | 2025-05-16 |
 | [Under the Stars](https://open.spotify.com/track/0XhNR4WryrxmGjG7TgrJY2) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Under the Stars](https://open.spotify.com/album/0ug33fV7YEFiZg5JHFDCFg) | 2:23 | 2022-11-18 | 2023-05-04 |
 | [Under the Stars](https://open.spotify.com/track/3f6oc5y5VlsA9VLmwHwk9O) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Under the Stars](https://open.spotify.com/album/1D37fgV6avyDwON4YA2oj3) | 2:23 | 2022-10-21 | 2022-11-24 |
 | [Under The Stars](https://open.spotify.com/track/2r0WLsamVimyYYy2kl0tt1) | [Ryuu竜](https://open.spotify.com/artist/7IjhfLAkztgdYu463O2bfF) | [Under The Stars](https://open.spotify.com/album/1tSsSExsII346Iub3Pkklj) | 1:28 | 2022-04-08 | 2022-07-16 |

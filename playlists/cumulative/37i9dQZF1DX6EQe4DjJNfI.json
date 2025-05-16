@@ -1545,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/2QnRPIxbznpA6mot8FrsoI"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9lanie",
+          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223496,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2csGWHScSh6YQiR8spiBl5"
+    },
+    {
+      "album": {
         "name": "Distant Lover Pt. II",
         "url": "https://open.spotify.com/album/0IZh3n1VUArI0yJ2afCCWl"
       },
@@ -4216,7 +4234,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 150031,
       "name": "Preta",
       "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
@@ -4816,7 +4834,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 182850,
       "name": "SEM PRESSA 2",
       "url": "https://open.spotify.com/track/6s1A4z5THfAaXvTI9iV0e8"
@@ -5128,6 +5146,32 @@
       "duration_ms": 181257,
       "name": "slow",
       "url": "https://open.spotify.com/track/6bkFPYYHfZ6jzWPh6eREKK"
+    },
+    {
+      "album": {
+        "name": "REAL R&B, Vol. 2",
+        "url": "https://open.spotify.com/album/4CDQVOBaMeTZRfO5yM33us"
+      },
+      "artists": [
+        {
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "Burn-O",
+          "url": "https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn"
+        },
+        {
+          "name": "rod shawty",
+          "url": "https://open.spotify.com/artist/0HdnynTCwfciA6uEqbXask"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157408,
+      "name": "SLOW DOWN",
+      "url": "https://open.spotify.com/track/2oZrrzcXDbRb1IAvM6OwTF"
     },
     {
       "album": {

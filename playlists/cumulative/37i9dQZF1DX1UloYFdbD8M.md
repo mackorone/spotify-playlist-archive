@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Haniya Nafisa
 
-328 songs - 21 hr 5 min
+329 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Pilleranu](https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 5:35 | 2023-07-27 | 2024-06-29 |
 | [Pollunnunde](https://open.spotify.com/track/75yafDG35Tx47lp1NIc6l3) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Pollunnunde](https://open.spotify.com/album/45GNFY5oWRTEBT79hFRs1b) | 2:48 | 2023-05-10 | 2023-07-29 |
 | [Pooram \- From "Think Specials"](https://open.spotify.com/track/05ipt7R52WNXApEurABdOJ) | [RHYTHOM](https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu) | [Pooram \(From "Think Specials"\)](https://open.spotify.com/album/0aO4EHRsIN96DOWrYxMjIS) | 3:18 | 2023-08-16 | 2024-05-25 |
+| [Poothu Poothu](https://open.spotify.com/track/7IEL0EJg5HEdS1U3iD65oU) | [EMEN](https://open.spotify.com/artist/7dMFovuZ30lz7mAkfTNP0U) | [Poothu Poothu](https://open.spotify.com/album/0JVagnHOFZB9g0hq7Oy33L) | 2:30 | 2025-05-15 |  |
 | [Poov](https://open.spotify.com/track/0UbfnFSzjNXZ8RO4zI6DR8) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [Ashitha](https://open.spotify.com/artist/5KWtSNwFTWxlNEEF6Kd1PO) | [Poov](https://open.spotify.com/album/0fRPaqy7bN8Wri1o4d0wmq) | 3:02 | 2025-03-21 |  |
 | [Poovu](https://open.spotify.com/track/7eD2jrzZftR3n1xMcyO0yv) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [Poovu](https://open.spotify.com/album/3F4m6nFgic9v7RODyYk7xo) | 3:10 | 2024-12-12 |  |
 | [Poraattam](https://open.spotify.com/track/2OKCRHRIseK0xrvu2n9t0E) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Pavithra Menon](https://open.spotify.com/artist/6vs87fqt96uUfyrrsOQeAL), [Fil$](https://open.spotify.com/artist/7f0UeNCU8nGFeU3DAUoNH1), [SRMC Choir](https://open.spotify.com/artist/0Ezeqz3lqIatAwSf4hr32r) | [Poraattam](https://open.spotify.com/album/5uXQnjIzmW0suiPjj0BiTs) | 3:37 | 2025-02-06 | 2025-04-29 |

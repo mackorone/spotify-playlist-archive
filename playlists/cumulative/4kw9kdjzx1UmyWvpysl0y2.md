@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-982 songs - 2 day 7 hr 23 min
+983 songs - 2 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -916,6 +916,7 @@
 | [Unbreakable](https://open.spotify.com/track/72KWzvjNEvKwsJAGBFlrHT) | [Hoaprox](https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Unbreakable](https://open.spotify.com/album/686cBsfdo35oMwrVgu6g19) | 2:54 | 2022-09-30 | 2022-12-04 |
 | [Undefined](https://open.spotify.com/track/7KISwkT8OQRUDRsZLjFCra) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Undefined](https://open.spotify.com/album/6OLWuDPS5HLefkEusT8UL6) | 3:34 | 2025-01-13 | 2025-04-05 |
 | [Underneath](https://open.spotify.com/track/5ysXuifk655k82MjxXHxzS) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Underneath](https://open.spotify.com/album/0yJwLlRNz1oBjf24GqqteA) | 3:02 | 2024-05-14 | 2024-08-03 |
+| [Unfair](https://open.spotify.com/track/2H91UEIDaVFl9Lpah4OeI7) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [REBIRTH](https://open.spotify.com/album/3KnEpXKw5PquEpKvf4C3uy) | 3:16 | 2025-05-15 |  |
 | [Unfinished](https://open.spotify.com/track/7w9SaK5KiptI4BNdAEzTJk) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Unfinished](https://open.spotify.com/album/0S86doOPLnGVIlXtM4QoIH) | 4:44 | 2022-01-28 | 2022-04-08 |
 | [Uplift](https://open.spotify.com/track/5v61xHVqHn4EyakLpGqWzb) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Uplift](https://open.spotify.com/album/6OwhZjeTdn2uQ3LZNsmHzP) | 3:48 | 2023-06-12 | 2023-09-26 |
 | [Use My Love](https://open.spotify.com/track/212tIxatoiyc4wYshhQswW) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Molly Moore](https://open.spotify.com/artist/0mEUqATSCsYZUTyL09kB8g) | [Use My Love](https://open.spotify.com/album/6mUYOidMG0daxdNmMLVdVh) | 3:15 | 2024-10-24 | 2025-02-07 |

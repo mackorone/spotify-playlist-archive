@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 48855,
+  "num_followers": 48860,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCKLgAAAAABkKnki0TFbLykke7k7zPq/",
+  "snapshot_id": "aCPdAAAAAAAXgb6NKU8aEQpOo+K3pqyq",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 118618,
-      "name": "Devil In Disguise",
-      "url": "https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...Honor Is All We Know (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 129973,
       "name": "Evil's My Friend",
       "url": "https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 118618,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Who Would've Thought",
-      "url": "https://open.spotify.com/track/6aaX19hvIIU0LWtYZpfLuj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...Honor Is All We Know (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 117426,
       "name": "Collision Course",
       "url": "https://open.spotify.com/track/7CFhxrWbAoqP5tsVDxYMFf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Who Would've Thought",
+      "url": "https://open.spotify.com/track/6aaX19hvIIU0LWtYZpfLuj"
     },
     {
       "added_at": null,

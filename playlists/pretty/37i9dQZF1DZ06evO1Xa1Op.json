@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 21443,
+  "num_followers": 21445,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCKLgAAAAABvEVVoOiBA4rjjVUOYXv3h",
+  "snapshot_id": "aCPdAAAAAADHaH2vL75k2Qc+AeX5fz0q",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 138840,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/3XFCgzW3ZikK6wuajGQqMV"
+      "duration_ms": 250013,
+      "name": "Kana Kassy",
+      "url": "https://open.spotify.com/track/0s3hLSHmF9JBS7bNrx1jRd"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 250013,
-      "name": "Kana Kassy",
-      "url": "https://open.spotify.com/track/0s3hLSHmF9JBS7bNrx1jRd"
+      "duration_ms": 138840,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3XFCgzW3ZikK6wuajGQqMV"
     },
     {
       "added_at": null,
@@ -562,11 +562,15 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 348760,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
+      "duration_ms": 295200,
+      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
     },
     {
       "added_at": null,
@@ -626,15 +630,11 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 295200,
-      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
-      "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
     },
     {
       "added_at": null,

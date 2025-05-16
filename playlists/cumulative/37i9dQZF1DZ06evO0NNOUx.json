@@ -666,7 +666,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 161306,
       "name": "LIVE YOUR LIFE",
       "url": "https://open.spotify.com/track/0ee793vMCGz624rQFx90Yz"
@@ -1125,6 +1125,28 @@
     },
     {
       "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Nathan Davis Jr",
+          "url": "https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133697,
+      "name": "WOKE UP THIS MORNING",
+      "url": "https://open.spotify.com/track/47oAWX8VTZjq6tAJAr6iv1"
+    },
+    {
+      "album": {
         "name": "WOKE UP THIS MORNING",
         "url": "https://open.spotify.com/album/1DryWDxvfCpNw12WhdVSwQ"
       },
@@ -1140,7 +1162,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 133697,
       "name": "WOKE UP THIS MORNING",
       "url": "https://open.spotify.com/track/5bbnUbsfEDJMPaBikdQ0eC"

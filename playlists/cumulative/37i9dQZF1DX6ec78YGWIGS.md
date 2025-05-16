@@ -2,9 +2,9 @@
 
 ### [POP FLOW](https://open.spotify.com/playlist/37i9dQZF1DX6ec78YGWIGS)
 
-> Lo nuevo y lo más escuchado del pop\. Foto: Paulo Londra & Maria Becerra.
+> Lo nuevo y lo más escuchado del pop\. Foto: Yami Safdie & Rusherking.
 
-439 songs - 21 hr 54 min
+441 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [5 Pal Peso](https://open.spotify.com/track/2O1lgvslX1y8KNuzBoOoSN) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [5 Pal Peso](https://open.spotify.com/album/0PTStF1KBPfNYFHSahtHDf) | 2:52 | 2023-09-22 | 2023-11-11 |
 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 | 2023-05-19 | 2023-09-01 |
 | [7 Mares](https://open.spotify.com/track/3easejp1MqvARrN95kQrZI) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [7 Mares](https://open.spotify.com/album/6TSmHx93BHYt4L7Idl6CMt) | 2:52 | 2024-01-12 | 2024-02-03 |
-| [8pm](https://open.spotify.com/track/4te90NkfKf2wCIPdE2CwMW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [8pm](https://open.spotify.com/album/1faroDspdllDB6ihUwtQgE) | 2:24 | 2025-01-17 |  |
+| [8pm](https://open.spotify.com/track/4te90NkfKf2wCIPdE2CwMW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [8pm](https://open.spotify.com/album/1faroDspdllDB6ihUwtQgE) | 2:24 | 2025-01-17 | 2025-05-16 |
 | [A Donde Vas Si Te Vas \| CROSSOVER \#6](https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [A Donde Vas Si Te Vas \| CROSSOVER \#6](https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C) | 3:04 | 2024-08-23 | 2025-02-05 |
 | [A Mi Lado](https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [A Mi Lado](https://open.spotify.com/album/05l6EnHyQrjPhCP24EzjKi) | 3:17 | 2023-05-12 | 2024-09-28 |
 | [A Oscuras](https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Oscuras](https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN) | 2:39 | 2024-01-19 | 2024-04-19 |
@@ -191,6 +191,7 @@
 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 | 2025-01-10 | 2025-02-22 |
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-05-12 | 2023-11-07 |
 | [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 | 2024-01-12 |  |
+| [Justo Ahora](https://open.spotify.com/track/5dZaQiVK1vZTPS7I8Z0pEP) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Justo Ahora](https://open.spotify.com/album/7zBKT3SQIXDzMg2lnqrUMl) | 3:36 | 2025-05-16 |  |
 | [Kabrón](https://open.spotify.com/track/29KJSndySJCjp1cUIr80MY) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [Kabron](https://open.spotify.com/album/7zlYLcMAovNtWppfTZKtXx) | 3:14 | 2023-07-28 | 2023-12-16 |
 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 | 2023-05-12 | 2023-11-11 |
 | [L.A](https://open.spotify.com/track/0NYH38WF015YeTq2V5mY9h) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [TURISTEO](https://open.spotify.com/album/1lyULzGNJZycXN25kc8QD3) | 2:12 | 2023-12-08 | 2024-02-17 |
@@ -286,6 +287,7 @@
 | [No Me Gusta](https://open.spotify.com/track/3ZpXPV1BA7nFrIxgkbIxMg) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [No Me Gusta](https://open.spotify.com/album/0nHUmc55WNTfoPTcfZHJBc) | 3:24 | 2024-12-06 | 2025-01-18 |
 | [NO ME IMPORTA](https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO ME IMPORTA](https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc) | 2:33 | 2024-11-29 |  |
 | [No Soy Yo](https://open.spotify.com/track/0Jkpybs2BjKAofpfD97Hvg) | [Valuto](https://open.spotify.com/artist/0AQym39jmsVTiggRZdyiSW), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk), [Barta](https://open.spotify.com/artist/5NWl6RH247jjDkkNpvhmHF) | [No Soy Yo](https://open.spotify.com/album/6zD7MCeIQcvPsTYcVLmbTa) | 2:44 | 2024-03-29 | 2024-04-13 |
+| [NO SÉ QUIÉN SOS](https://open.spotify.com/track/4nq6FkC0jH2fgfVSziGMmZ) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [NO SÉ QUIÉN SOS](https://open.spotify.com/album/79X2IHIzg5pNlc7K4Ag6Vy) | 3:03 | 2025-05-16 |  |
 | [No Te Pases](https://open.spotify.com/track/3PzVTVMVGrOPRkNQXQOb20) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [No Te Pases](https://open.spotify.com/album/4tbJ7goF6LCXBFOxsiM8zW) | 2:23 | 2024-03-01 | 2024-05-18 |
 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 | 2023-05-12 | 2024-11-08 |
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-05-12 | 2024-03-23 |
@@ -294,7 +296,7 @@
 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 | 2024-10-11 |  |
 | [NUNCA VOY SOLO](https://open.spotify.com/track/70G5uhABbR6ECqCCBxrV83) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:50 | 2023-05-26 | 2023-08-12 |
 | [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 | 2023-07-11 | 2024-02-03 |
-| [Obsesión](https://open.spotify.com/track/7sllDb8lSLGnubFanPcU1h) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Obsesión](https://open.spotify.com/album/0bJ54lmTdYGrjvB4q0IZbq) | 2:16 | 2024-12-06 |  |
+| [Obsesión](https://open.spotify.com/track/7sllDb8lSLGnubFanPcU1h) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Obsesión](https://open.spotify.com/album/0bJ54lmTdYGrjvB4q0IZbq) | 2:16 | 2024-12-06 | 2025-05-16 |
 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-05-12 | 2023-09-09 |
 | [Octubre](https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [Octubre](https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP) | 2:24 | 2024-07-26 | 2024-11-30 |
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-08-02 |  |

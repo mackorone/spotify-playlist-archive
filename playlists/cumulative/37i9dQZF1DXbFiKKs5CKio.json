@@ -1899,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "TRAN\u00c7A",
+        "url": "https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ"
+      },
+      "artists": [
+        {
+          "name": "Trajano",
+          "url": "https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269062,
+      "name": "OFERENDA",
+      "url": "https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2"
+    },
+    {
+      "album": {
         "name": "Onda (Remix)",
         "url": "https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs"
       },
@@ -2618,7 +2636,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 201620,
       "name": "Sinto a Sua Falta",
       "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"

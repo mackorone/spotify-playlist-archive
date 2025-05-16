@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Durand Jones & The Indications
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,784 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,816 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 |
 | 100 | [Lay Down On Me](https://open.spotify.com/track/2cwbam2veKyxOtBaAxJb5u) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lay Down On Me](https://open.spotify.com/album/37ZtO2XORqbU9ZpGc8XtXW) | 3:02 |
 
-Snapshot ID: `aBCGNwAAAAAw7k8z6iZBX+AEMXn4oBFd`
+Snapshot ID: `aBCGNwAAAACuY1cDiNOp9uEdgrjkjeLa`

@@ -7357,6 +7357,24 @@
     },
     {
       "album": {
+        "name": "I Want It That Way",
+        "url": "https://open.spotify.com/album/4oDR12BRsPVfQznhclvUbs"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/7CSQp9T3JtkjQGPmpR1vTb"
+    },
+    {
+      "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },

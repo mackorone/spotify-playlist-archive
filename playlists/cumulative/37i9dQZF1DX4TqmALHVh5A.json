@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : Sam Sauvage",
+  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : TH\u00c9A",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 134746,
       "name": "ALLO?C MOI",
       "url": "https://open.spotify.com/track/0aWnBogGkcNoyXyh7pgLo2"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 188468,
       "name": "Americanism",
       "url": "https://open.spotify.com/track/7Jz2D9uzzfzI21BRkLpxws"
@@ -684,6 +684,24 @@
       "duration_ms": 194626,
       "name": "Brumeux",
       "url": "https://open.spotify.com/track/1LTH3ADSAIl9tLLyfQnbTu"
+    },
+    {
+      "album": {
+        "name": "Californie",
+        "url": "https://open.spotify.com/album/1lBRedKhEOs13Zr8ZOb1Ax"
+      },
+      "artists": [
+        {
+          "name": "EMILE",
+          "url": "https://open.spotify.com/artist/2zcvrNK2SY1epxOBTgfEF4"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143589,
+      "name": "Californie",
+      "url": "https://open.spotify.com/track/5cWBcAnMNCBVV0UAIO6tRj"
     },
     {
       "album": {
@@ -1192,6 +1210,24 @@
       "duration_ms": 173684,
       "name": "Dannazione",
       "url": "https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR"
+    },
+    {
+      "album": {
+        "name": "Dans quelques ann\u00e9es",
+        "url": "https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn"
+      },
+      "artists": [
+        {
+          "name": "Arca M",
+          "url": "https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199062,
+      "name": "Dans quelques ann\u00e9es",
+      "url": "https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE"
     },
     {
       "album": {
@@ -2324,7 +2360,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 128626,
       "name": "kama sutra",
       "url": "https://open.spotify.com/track/0C7Rq97VfN1hXQy5BACuLU"
@@ -2933,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "Maisons vides",
+        "url": "https://open.spotify.com/album/1hgVIIJBeoAcy96jPMS3Xx"
+      },
+      "artists": [
+        {
+          "name": "KCIDY",
+          "url": "https://open.spotify.com/artist/7rOzcz6BWm7gwp4LMpdkSO"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242196,
+      "name": "Maisons vides",
+      "url": "https://open.spotify.com/track/5xcpjChubYvUHXS5M9MFFB"
+    },
+    {
+      "album": {
         "name": "Mascu Ferme Ta Gueule",
         "url": "https://open.spotify.com/album/535KV48kRNmaoGMyIEk1Hj"
       },
@@ -3131,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "MOURIR POUR MIEUX RENAITRE",
+        "url": "https://open.spotify.com/album/1LrbtJgbcgtDa5BmG8t90r"
+      },
+      "artists": [
+        {
+          "name": "NAEKO",
+          "url": "https://open.spotify.com/artist/0pyq140jTsiXoxlv1KKYzK"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133953,
+      "name": "MOURIR POUR MIEUX RENAITRE",
+      "url": "https://open.spotify.com/track/5Lg3qeO2tE4mgADlzDsn6t"
+    },
+    {
+      "album": {
         "name": "Mouvement",
         "url": "https://open.spotify.com/album/3y809BPCmRsly2fQFKXDt3"
       },
@@ -3244,6 +3316,24 @@
       "duration_ms": 250849,
       "name": "N.I.O. (New Information Order)",
       "url": "https://open.spotify.com/track/6jnFRht548xiPuQFznKips"
+    },
+    {
+      "album": {
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/3G0xHh4EF9Ncfvf1754HiG"
+      },
+      "artists": [
+        {
+          "name": "Barbet",
+          "url": "https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166102,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/0SZQ1yYJCgS3P7ivXysJuO"
     },
     {
       "album": {
@@ -3370,7 +3460,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 304624,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/2OL7obe1J70lqOitrZKHQw"
@@ -3460,7 +3550,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 235029,
       "name": "O\u00f9 va la chance - Fran\u00e7oise Hardy Cover",
       "url": "https://open.spotify.com/track/6pEPwhRR8kiwKY3mw3vjEb"
@@ -3640,7 +3730,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 193771,
       "name": "PLAYSTATION",
       "url": "https://open.spotify.com/track/2Y7pSaRip0CegkydJUtzqp"
@@ -4588,7 +4678,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 317994,
       "name": "t qu'un gros FDC",
       "url": "https://open.spotify.com/track/4URpzCq5Q2e3yjZtWC81RI"
@@ -4664,6 +4754,24 @@
       "duration_ms": 147186,
       "name": "tellement que jmen fiche :)",
       "url": "https://open.spotify.com/track/2pz7x6wZwlDgDe38zDf0pG"
+    },
+    {
+      "album": {
+        "name": "territoire(s) perdu(s)",
+        "url": "https://open.spotify.com/album/3ycRGfXo5CUm4L0cNq87ES"
+      },
+      "artists": [
+        {
+          "name": "nous \u00e9tions une arm\u00e9e",
+          "url": "https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165731,
+      "name": "territoire perdu",
+      "url": "https://open.spotify.com/track/2TEDJWogdPCJWfq6I8jNdW"
     },
     {
       "album": {
@@ -5276,6 +5384,24 @@
       "duration_ms": 185600,
       "name": "\u00c0 l'aide",
       "url": "https://open.spotify.com/track/0RQFdPFD93bKg6rKsYXwpA"
+    },
+    {
+      "album": {
+        "name": "\u00e0 travers les buildings",
+        "url": "https://open.spotify.com/album/4PWWTdHvDhxj9uq2s9ttPK"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218151,
+      "name": "\u00e0 travers les buildings",
+      "url": "https://open.spotify.com/track/30Vjkb3uguTKxSuXu9jVWb"
     },
     {
       "album": {

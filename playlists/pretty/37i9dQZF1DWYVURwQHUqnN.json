@@ -1,127 +1,31 @@
 {
-  "description": "Photo : Jul",
-  "num_followers": 1139745,
+  "description": "Photo : Bouss",
+  "num_followers": 1140012,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB0pfQAAAACMqXPMYA3dHg3zeyG1Bh8f",
+  "snapshot_id": "aCZj9QAAAACN59dN0DhdhdgtKOpeDEen",
   "tracks": [
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
-        "name": "D&P \u00e0 vie",
-        "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
+        "name": "Et si j'\u00e9choue ?",
+        "url": "https://open.spotify.com/album/2GdJaFHImgt0XXk8eIukxI"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
         }
       ],
-      "duration_ms": 219293,
-      "name": "Mimi",
-      "url": "https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt"
+      "duration_ms": 160000,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/1reRAKrwnfUmbNCrTUGLdn"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "Focus Mentalit\u00e9",
-        "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 156676,
-      "name": "Melrose Place",
-      "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "\u00c9TAT DES LIEUX",
-        "url": "https://open.spotify.com/album/14kmgUtxkJEi78a7F7TzxW"
-      },
-      "artists": [
-        {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Etat des lieux - Part 1",
-      "url": "https://open.spotify.com/track/60oUKjWNuBEl0X0IaLuVHL"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "RS6",
-        "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 228017,
-      "name": "RS6",
-      "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "TOUCH\u00c9",
-        "url": "https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 173445,
-      "name": "TOUCH\u00c9",
-      "url": "https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "Ph\u00e9nom\u00e9nal",
-        "url": "https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Ph\u00e9nom\u00e9nal",
-      "url": "https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ"
@@ -141,39 +45,63 @@
       "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
-        "name": "Pichichi",
-        "url": "https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7"
+        "name": "D&P \u00e0 vie",
+        "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
       },
       "artists": [
         {
-          "name": "Josas",
-          "url": "https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 178319,
-      "name": "Pichichi",
-      "url": "https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj"
+      "duration_ms": 219293,
+      "name": "Mimi",
+      "url": "https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
-        "name": "WANTA",
-        "url": "https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo"
+        "name": "Focus Mentalit\u00e9",
+        "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         }
       ],
-      "duration_ms": 166153,
-      "name": "WANTA",
-      "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"
+      "duration_ms": 156676,
+      "name": "Melrose Place",
+      "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "\u00c9TAT DES LIEUX",
+        "url": "https://open.spotify.com/album/14kmgUtxkJEi78a7F7TzxW"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Etat des lieux - Part 1",
+      "url": "https://open.spotify.com/track/60oUKjWNuBEl0X0IaLuVHL"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "Meraki",
         "url": "https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6"
@@ -193,7 +121,95 @@
       "url": "https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "Ph\u00e9nom\u00e9nal",
+        "url": "https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Ph\u00e9nom\u00e9nal",
+      "url": "https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "TOUCH\u00c9",
+        "url": "https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 173445,
+      "name": "TOUCH\u00c9",
+      "url": "https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "RS6",
+        "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 228017,
+      "name": "RS6",
+      "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "Pichichi",
+        "url": "https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7"
+      },
+      "artists": [
+        {
+          "name": "Josas",
+          "url": "https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU"
+        }
+      ],
+      "duration_ms": 178319,
+      "name": "Pichichi",
+      "url": "https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "On va",
+        "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 144022,
+      "name": "On va",
+      "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc"
@@ -209,23 +225,7 @@
       "url": "https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "D&P \u00e0 vie",
-        "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "2 coups d'avance",
-      "url": "https://open.spotify.com/track/6d0lfsGYZP3zaoyscLS3Ah"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "P\u00e9lican",
         "url": "https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS"
@@ -241,27 +241,63 @@
       "url": "https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
-        "name": "MASTERCLASS",
-        "url": "https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF"
+        "name": "D&P \u00e0 vie",
+        "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
       },
       "artists": [
         {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 170492,
-      "name": "MASTERCLASS",
-      "url": "https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE"
+      "duration_ms": 163173,
+      "name": "2 coups d'avance",
+      "url": "https://open.spotify.com/track/6d0lfsGYZP3zaoyscLS3Ah"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "BOTTEGA",
+        "url": "https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "duration_ms": 179806,
+      "name": "BOTTEGA",
+      "url": "https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "Timinik (feat. Danyl)",
+        "url": "https://open.spotify.com/album/6GztoiCkHXsoR23kbQi59s"
+      },
+      "artists": [
+        {
+          "name": "Stony Stone",
+          "url": "https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR"
+        },
+        {
+          "name": "Boumidjal X",
+          "url": "https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK"
+        },
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        }
+      ],
+      "duration_ms": 161703,
+      "name": "Timinik (feat. Danyl)",
+      "url": "https://open.spotify.com/track/6tpns1A5tocb0bG2HzZAym"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt"
@@ -281,123 +317,7 @@
       "url": "https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "Comment T'aimer Sans Diamants ?",
-        "url": "https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7"
-      },
-      "artists": [
-        {
-          "name": "Karmen",
-          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
-        },
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "ALICANTE",
-      "url": "https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "On va",
-        "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 144022,
-      "name": "On va",
-      "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "BOTTEGA",
-        "url": "https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt"
-      },
-      "artists": [
-        {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
-        }
-      ],
-      "duration_ms": 179806,
-      "name": "BOTTEGA",
-      "url": "https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/3t1LD12LY64mEVWWKfbMeM"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        }
-      ],
-      "duration_ms": 143481,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/1k9oEJse03hhCI21JiOK4g"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "VENI VIDI VICI",
-        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "No lo s\u00e9",
-      "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "P\u00eache passion",
-        "url": "https://open.spotify.com/album/4F2byFbowOMCRnzq0kP7u5"
-      },
-      "artists": [
-        {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "P\u00eache passion",
-      "url": "https://open.spotify.com/track/0DuK0nxqmds0pOjEMj8Ga9"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "NINAO",
-        "url": "https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 167813,
-      "name": "NINAO",
-      "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "PAY!",
         "url": "https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI"
@@ -417,43 +337,75 @@
       "url": "https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
-        "name": "Et si j'\u00e9choue ?",
-        "url": "https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu"
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/3t1LD12LY64mEVWWKfbMeM"
       },
       "artists": [
         {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         }
       ],
-      "duration_ms": 174266,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/5tl5NRfjvOEZaVuWBQHOf9"
+      "duration_ms": 143481,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/1k9oEJse03hhCI21JiOK4g"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
-        "name": "En Attendant Paphos",
-        "url": "https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me"
+        "name": "Comment T'aimer Sans Diamants ?",
+        "url": "https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
         },
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 139420,
-      "name": "Totopika",
-      "url": "https://open.spotify.com/track/3Tl3NwVX0ndMY3jcPaFoVm"
+      "duration_ms": 178533,
+      "name": "ALICANTE",
+      "url": "https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "No lo s\u00e9",
+      "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "P\u00eache passion",
+        "url": "https://open.spotify.com/album/4F2byFbowOMCRnzq0kP7u5"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "P\u00eache passion",
+      "url": "https://open.spotify.com/track/0DuK0nxqmds0pOjEMj8Ga9"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "N\u00e9s Pour Briller : Book II",
         "url": "https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh"
@@ -481,7 +433,59 @@
       "url": "https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "NINAO",
+        "url": "https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 167813,
+      "name": "NINAO",
+      "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "BAD BOY LOVESTORY",
+        "url": "https://open.spotify.com/album/4l4t2cO18SyZLu0uMYfGBm"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 135523,
+      "name": "DO U WANNA ?",
+      "url": "https://open.spotify.com/track/5kaYIpCzyVfPLyrjKDtgtF"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "En Attendant Paphos",
+        "url": "https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 139420,
+      "name": "Totopika",
+      "url": "https://open.spotify.com/track/3Tl3NwVX0ndMY3jcPaFoVm"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "CARR\u00c9 OK",
         "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
@@ -501,7 +505,43 @@
       "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "WANTA",
+        "url": "https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "WANTA",
+      "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "MASTERCLASS",
+        "url": "https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 170492,
+      "name": "MASTERCLASS",
+      "url": "https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "L'ARGENT DES GENS",
         "url": "https://open.spotify.com/album/26S1rKSuoIZxKfvIv7dM1W"
@@ -517,23 +557,7 @@
       "url": "https://open.spotify.com/track/2g0Vv5r2SqpJfedRvhrb6r"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "Tous Ces",
-        "url": "https://open.spotify.com/album/7HjpVJcZROwn8oiiensc4e"
-      },
-      "artists": [
-        {
-          "name": "Mougli",
-          "url": "https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl"
-        }
-      ],
-      "duration_ms": 103960,
-      "name": "Tous Ces",
-      "url": "https://open.spotify.com/track/0Di9Aezkt7lWDeDKtfAlg7"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "B\u00eatise",
         "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
@@ -549,23 +573,7 @@
       "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "K\u00ebur",
-        "url": "https://open.spotify.com/album/1fYhYoGkV8ekc0PdsJQ73a"
-      },
-      "artists": [
-        {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
-        }
-      ],
-      "duration_ms": 165819,
-      "name": "K\u00ebur",
-      "url": "https://open.spotify.com/track/7awY6bDRy9M3OGfwGXG0T8"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "Diana (with Hamza)",
         "url": "https://open.spotify.com/album/3A3EDLMrcdMWWsv2AcGgEf"
@@ -585,47 +593,23 @@
       "url": "https://open.spotify.com/track/2c3MBL8fpnhzBGHFJWQ8yU"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
-        "name": "Piments",
-        "url": "https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX"
+        "name": "Tous Ces",
+        "url": "https://open.spotify.com/album/7HjpVJcZROwn8oiiensc4e"
       },
       "artists": [
         {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        },
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+          "name": "Mougli",
+          "url": "https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl"
         }
       ],
-      "duration_ms": 158532,
-      "name": "Piments",
-      "url": "https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt"
+      "duration_ms": 103960,
+      "name": "Tous Ces",
+      "url": "https://open.spotify.com/track/0Di9Aezkt7lWDeDKtfAlg7"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "Africa Jungle Part.1",
-        "url": "https://open.spotify.com/album/4OsnnplK0ncl5jJk64wB17"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "Bisous",
-      "url": "https://open.spotify.com/track/3meNzVv5AkT39krbyF8McH"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/0GQMw7o7HQXdDhteOWC4bc"
@@ -645,7 +629,7 @@
       "url": "https://open.spotify.com/track/3ymAkyG6LfREJmfEXEaSbk"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "Jamais (remix)",
         "url": "https://open.spotify.com/album/2GWcwpM93GtYFgx4NvMdKZ"
@@ -665,7 +649,27 @@
       "url": "https://open.spotify.com/track/60zbRO8q5OA4tdfPVpYA8l"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "Piments",
+        "url": "https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "duration_ms": 158532,
+      "name": "Piments",
+      "url": "https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "Poupeta",
         "url": "https://open.spotify.com/album/1teaKfLKGiM0Q4H5SrxAfr"
@@ -681,23 +685,7 @@
       "url": "https://open.spotify.com/track/5eIKVbZSCaTjcAQnvsibTI"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
-      "album": {
-        "name": "Ensay",
-        "url": "https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Ensay",
-      "url": "https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs"
-    },
-    {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "En 4 temps (Part.3)",
         "url": "https://open.spotify.com/album/2XY7ZqwQWEzXlIiKpfL14b"
@@ -713,7 +701,23 @@
       "url": "https://open.spotify.com/track/3hw6otI0OVImUyewp4g6qt"
     },
     {
-      "added_at": "2025-05-08 22:00:29",
+      "added_at": "2025-05-15 22:00:21",
+      "album": {
+        "name": "Ensay",
+        "url": "https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Ensay",
+      "url": "https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs"
+    },
+    {
+      "added_at": "2025-05-15 22:00:21",
       "album": {
         "name": "Caramelo (feat. Emkal)",
         "url": "https://open.spotify.com/album/2Kn3m9RLTjfBLKavTZFA7g"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: ada\u015b.",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: AZ-YL",
   "name": "up next",
   "tracks": [
     {
@@ -562,7 +562,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 150495,
       "name": "Babydoll (feat. Aliyah\u2019s Interlude)",
       "url": "https://open.spotify.com/track/4Xgy6XFSLcfkfCFjkoykwM"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 211581,
       "name": "Bestie, Move On",
       "url": "https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 170000,
       "name": "bilet beze mnie",
       "url": "https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On"
@@ -1552,6 +1552,24 @@
       "duration_ms": 201141,
       "name": "Czu\u0142e S\u0142\u00f3wka",
       "url": "https://open.spotify.com/track/1tS7Lrzv09BhDshHTi4ZiO"
+    },
+    {
+      "album": {
+        "name": "Czy o mnie my\u015blisz?",
+        "url": "https://open.spotify.com/album/3bNRAwwiPnhSaXtrzPfkhB"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Czy o mnie my\u015blisz?",
+      "url": "https://open.spotify.com/track/7lYMP0fbLY47Z5Cru6QpkY"
     },
     {
       "album": {
@@ -3534,7 +3552,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 165517,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/2MigZHK1Xjuow1P0BeR5k3"
@@ -3900,7 +3918,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -4108,6 +4126,28 @@
       "duration_ms": 144827,
       "name": "mi\u0142o\u015b\u0107 ma sens",
       "url": "https://open.spotify.com/track/0kpr6xDUfLddVs0zMB63Ie"
+    },
+    {
+      "album": {
+        "name": "MI\u0141O\u015a\u0106 PRZEZWYCI\u0118\u017bA WSZYSTKO",
+        "url": "https://open.spotify.com/album/793lbl7hLzoC5ECysxXZAO"
+      },
+      "artists": [
+        {
+          "name": "AZ-YL",
+          "url": "https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb"
+        },
+        {
+          "name": "Franczi",
+          "url": "https://open.spotify.com/artist/0Tf0q2oKVyabinfD2MdDh6"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "MI\u0141O\u015a\u0106 PRZEZWYCI\u0118\u017bA WSZYSTKO",
+      "url": "https://open.spotify.com/track/5I4eDKoHhURJvawKiWMyN9"
     },
     {
       "album": {
@@ -5228,7 +5268,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 151406,
       "name": "oddaj mnie",
       "url": "https://open.spotify.com/track/2dUDMxSYnfGV4zNyNr1qz7"
@@ -6399,6 +6439,24 @@
     },
     {
       "album": {
+        "name": "R\u00f3\u017ce",
+        "url": "https://open.spotify.com/album/1OFjjOlwaioMt9YqGZHNRb"
+      },
+      "artists": [
+        {
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151846,
+      "name": "R\u00f3\u017ce",
+      "url": "https://open.spotify.com/track/7KwoToBk5yZ3sDTOuFEI9F"
+    },
+    {
+      "album": {
         "name": "r\u00f3\u017cowa kurtka",
         "url": "https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB"
       },
@@ -6740,6 +6798,24 @@
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
+      },
+      "artists": [
+        {
+          "name": "George Alice",
+          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171833,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
     },
     {
       "album": {

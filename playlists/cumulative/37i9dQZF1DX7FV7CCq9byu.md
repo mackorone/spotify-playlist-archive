@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-812 songs - 1 day 17 hr 25 min
+813 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,6 +612,7 @@
 | [Show Me What Love Is](https://open.spotify.com/track/3uLYynLG6MmlfSVfzVCYW2) | [Erik Segerstedt](https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG) | [Show Me What Love Is](https://open.spotify.com/album/1zRpwE0IL3JG04AMI8oZIj) | 3:02 | 2025-02-07 | 2025-03-14 |
 | [SHUT UP \(feat\. Big Sean\)](https://open.spotify.com/track/3qfvE0wc0N6Rhu8pnW6Tss) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [SHUT UP \(feat\. Big Sean\)](https://open.spotify.com/album/0HJkeNGduh6GjotFc7JiVy) | 2:23 | 2024-06-27 | 2024-07-05 |
 | [SIGHTS](https://open.spotify.com/track/2svUIV9N4rXk5V7cyA9jbS) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [SIGHTS](https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe) | 3:06 | 2025-04-04 | 2025-05-09 |
+| [Siktar Högre](https://open.spotify.com/track/356GcC7IEcfEa9LA7xgb8b) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX), [Cleo](https://open.spotify.com/artist/5aoLlGY7cDsOtEwXoA8zUg) | [Siktar Högre](https://open.spotify.com/album/2ZJxTJWYUgMJohqZ9FYu0u) | 3:15 | 2025-05-12 |  |
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-21 | 2025-03-28 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-26 | 2024-10-25 |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 | 2025-03-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Evangelia",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Josephine",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 168554,
       "name": "10'",
       "url": "https://open.spotify.com/track/1XtVtRtoHFOnn8plAirGWb"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 132000,
       "name": "Aristourgima",
       "url": "https://open.spotify.com/track/4lwRh4qMQvANHm1OcgB4Tg"
@@ -556,6 +556,24 @@
       "duration_ms": 296714,
       "name": "Atardecer",
       "url": "https://open.spotify.com/track/4GZ6FSoaspTz5p1XLHPOtS"
+    },
+    {
+      "album": {
+        "name": "Auto Pou Thes",
+        "url": "https://open.spotify.com/album/10zUlVAi0dnrhEuv57mt7V"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Auto Pou Thes",
+      "url": "https://open.spotify.com/track/06uAAjzOcbp1ZDrLTE5bZL"
     },
     {
       "album": {
@@ -1312,6 +1330,24 @@
       "duration_ms": 170571,
       "name": "GIA SENA",
       "url": "https://open.spotify.com/track/1xjRL0LTJHQt6kMjwv55Kf"
+    },
+    {
+      "album": {
+        "name": "DELTA",
+        "url": "https://open.spotify.com/album/6BjCsULcWjZDbDcUmTlxfj"
+      },
+      "artists": [
+        {
+          "name": "Demy",
+          "url": "https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Glossa Tou Mualou",
+      "url": "https://open.spotify.com/track/54SLiEQDM6d7stFqB1OF04"
     },
     {
       "album": {
@@ -2539,6 +2575,32 @@
     },
     {
       "album": {
+        "name": "ROMA",
+        "url": "https://open.spotify.com/album/1JQORly2cO3lAsfr4oslYI"
+      },
+      "artists": [
+        {
+          "name": "Greg",
+          "url": "https://open.spotify.com/artist/3uBNVjDel3HFDLBmNt4ork"
+        },
+        {
+          "name": "Stathis Xenos",
+          "url": "https://open.spotify.com/artist/5FeKhXptHU77W3PaUiehYf"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155327,
+      "name": "ROMA",
+      "url": "https://open.spotify.com/track/74Gt1U2UctOiLxrKE6SPhX"
+    },
+    {
+      "album": {
         "name": "Les Kai Me Xeris",
         "url": "https://open.spotify.com/album/4CkKRnleXl0IWkdH3Q4U2s"
       },
@@ -3144,7 +3206,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157578,
       "name": "Xiliometra",
       "url": "https://open.spotify.com/track/2acUYxCZbgndtm70LgCCbS"

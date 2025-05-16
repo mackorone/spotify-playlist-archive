@@ -16149,6 +16149,28 @@
     },
     {
       "album": {
+        "name": "Summer Sun",
+        "url": "https://open.spotify.com/album/7CY9eeGUxl9FrSU4PQLraH"
+      },
+      "artists": [
+        {
+          "name": "Benedict Ammann",
+          "url": "https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw"
+        },
+        {
+          "name": "Ma Nu",
+          "url": "https://open.spotify.com/artist/5sEdpecv6jz6ZpTpBzYlhR"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157480,
+      "name": "Summer Sun",
+      "url": "https://open.spotify.com/track/0JyYqPuwaggu7zSrJX0Uix"
+    },
+    {
+      "album": {
         "name": "Summertime Sadness",
         "url": "https://open.spotify.com/album/2noEqscULZZhV2yNNmK0Me"
       },

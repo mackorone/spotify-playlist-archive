@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 133850,
       "name": "French Nails",
       "url": "https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 202709,
       "name": "Glatteis",
       "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157800,
       "name": "Liebe = Schmerz",
       "url": "https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF"
@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 187465,
       "name": "Liebestext",
       "url": "https://open.spotify.com/track/6ZBLTqqXM0l8YEw9Rj1JX9"
@@ -2374,6 +2374,24 @@
       "duration_ms": 111206,
       "name": "Mach die Augen auf",
       "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
+    },
+    {
+      "album": {
+        "name": "MAMAS HAUS",
+        "url": "https://open.spotify.com/album/36zUQg4IZhcCNPJXWBSWd0"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "MAMAS HAUS",
+      "url": "https://open.spotify.com/track/6aOwyg63SvKnnOho5FVjv5"
     },
     {
       "album": {
@@ -2730,7 +2748,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 161212,
       "name": "Nie wieder sehen",
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
@@ -2788,6 +2806,28 @@
       "duration_ms": 187421,
       "name": "Nur die Nacht",
       "url": "https://open.spotify.com/track/3tnjLb6fuGMX8TupeAZUFp"
+    },
+    {
+      "album": {
+        "name": "Nur Du",
+        "url": "https://open.spotify.com/album/4oFnxFvcUhYzJCz2pQkvDk"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Nur Du",
+      "url": "https://open.spotify.com/track/4O8cfDg1j2N0RnHkePORhM"
     },
     {
       "album": {
@@ -2876,7 +2916,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 147500,
       "name": "On/Off",
       "url": "https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W"
@@ -3539,6 +3579,28 @@
     },
     {
       "album": {
+        "name": "Therapie",
+        "url": "https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Therapie",
+      "url": "https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0"
+    },
+    {
+      "album": {
         "name": "Glas",
         "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
       },
@@ -3972,6 +4034,28 @@
       "duration_ms": 128641,
       "name": "Wenn der Himmel weint",
       "url": "https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN"
+    },
+    {
+      "album": {
+        "name": "Wer liebt dich jetzt ?",
+        "url": "https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp"
+      },
+      "artists": [
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163831,
+      "name": "Wer liebt dich jetzt ?",
+      "url": "https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT"
     },
     {
       "album": {

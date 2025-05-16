@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-272 songs - 16 hr 9 min
+274 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Give or Take a Few](https://open.spotify.com/track/5FzCz6sNG38TC722559eAl) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Give or Take a Few](https://open.spotify.com/album/44qsKBxh5097kyFAlP9LFn) | 3:33 | 2025-02-03 |  |
 | [Good Intentions](https://open.spotify.com/track/0ZOEQL3Rs527cpaRNnV9fb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Leveller](https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe) | 4:11 | 2025-02-03 |  |
 | [Goodfoot](https://open.spotify.com/track/1IIyu0Co26sd9VmDFi3Mt1) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Goodfoot](https://open.spotify.com/album/7nl91fBQrjHp0Efg8KJ3pg) | 3:52 | 2022-06-16 | 2022-07-29 |
-| [Goodnight](https://open.spotify.com/track/0E0pBUCKYX5M244qWl05mp) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Goodnight](https://open.spotify.com/album/4fZKOgdH3X72AKQRrrlc9l) | 4:21 | 2021-11-24 |  |
+| [Goodnight](https://open.spotify.com/track/0E0pBUCKYX5M244qWl05mp) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Goodnight](https://open.spotify.com/album/4fZKOgdH3X72AKQRrrlc9l) | 4:21 | 2021-11-24 | 2025-05-16 |
 | [Goodnight](https://open.spotify.com/track/4dp4W8NhrA19psRyzpj0rN) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Goodnight](https://open.spotify.com/album/0l1EpYy3NKI02dnVSlbW5Z) | 4:21 | 2022-06-03 | 2024-04-19 |
 | [Gratitude](https://open.spotify.com/track/45Ecm2SaKOncU2CqriDrmt) | [Halehan](https://open.spotify.com/artist/7BFaz82AlJshWc7bxdRn3p), [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Hiraeth](https://open.spotify.com/album/0Q1cLCrdqNt9SohBQrIQzm) | 3:42 | 2025-02-17 |  |
 | [Green & Gold](https://open.spotify.com/track/2rXRkotF8QGGYirZsuxCqP) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Trending Hits](https://open.spotify.com/album/7M9oyLQcs7cvdNidQmasJT) | 4:38 | 2022-11-03 | 2022-11-13 |
@@ -91,6 +91,7 @@
 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2021-11-24 | 2025-03-13 |
 | [Hold On To The Night \- Acoustic](https://open.spotify.com/track/7nFG13NCU0gUY1RV8h1kDe) | [Roy van Maren](https://open.spotify.com/artist/7JkafgaIW0izdL74lbCkX6), [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Hold On To The Night](https://open.spotify.com/album/2frOup854eahgacwS4TJfj) | 2:08 | 2022-02-03 |  |
 | [Hold You](https://open.spotify.com/track/7fOstQ4Nq9Zkj2J0sZZ5rE) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u), [Okke Punt](https://open.spotify.com/artist/62eGoLRCLKqObqDkLfYDVP) | [Hold You](https://open.spotify.com/album/4QMB7pB3LBmoAxiFVcsOlk) | 4:16 | 2021-11-24 |  |
+| [Homemade Love](https://open.spotify.com/track/7B0Oreo1plD889iU85SpIA) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Homemade Love](https://open.spotify.com/album/4fqv01r5HfhoHt9QzL1n8W) | 3:20 | 2025-05-15 |  |
 | [Hope](https://open.spotify.com/track/0rB5UZpt3AHmA8o80gxb2F) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Hope](https://open.spotify.com/album/6NiGNXGhMRoToVXf59ujX7) | 2:24 | 2025-02-03 |  |
 | [How About a Drink?](https://open.spotify.com/track/7Mas27dGjWTu6PSiR7hntp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [How About a Drink?](https://open.spotify.com/album/1w3LJk9aI0OaDqEXtbkexz) | 2:49 | 2025-02-03 |  |
 | [How It Feels To Be Me](https://open.spotify.com/track/6U3n979lTuZ33irdeaNaqj) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [How It Feels To Be Me](https://open.spotify.com/album/4EF4w66XudTk9WBO6bkZ4I) | 2:14 | 2023-09-21 |  |
@@ -252,7 +253,7 @@
 | [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 | 2024-10-22 |  |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-12 |  |
 | [Torn \- Bonus Track](https://open.spotify.com/track/7lwYNEUrDP4thCD6nQ4nBv) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:16 | 2021-11-24 | 2022-04-29 |
-| [Trying My Best](https://open.spotify.com/track/06qUEhhx6jKQmhj2qAkn4H) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Trying My Best](https://open.spotify.com/album/7y7FAlGLQ3qCubAGtw1oT0) | 3:42 | 2021-11-24 |  |
+| [Trying My Best](https://open.spotify.com/track/06qUEhhx6jKQmhj2qAkn4H) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Trying My Best](https://open.spotify.com/album/7y7FAlGLQ3qCubAGtw1oT0) | 3:42 | 2021-11-24 | 2025-05-16 |
 | [Trying My Best](https://open.spotify.com/track/3zKYELUQUt2b7GbiNcnYBF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [slow sad songs](https://open.spotify.com/album/6tg9GnuGCIyR6VSCiaafoc) | 3:42 | 2022-11-03 | 2022-11-13 |
 | [Trying My Best](https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:42 | 2022-06-03 | 2024-04-19 |
 | [Two After Twelve](https://open.spotify.com/track/34v661LusKeFpxBr6U3sJM) | [Maxine Julian](https://open.spotify.com/artist/1EeyrU6wNgHmSNmG5dZYEv) | [Two After Twelve](https://open.spotify.com/album/1PusfddhZ6d3Rt3PHMp2NP) | 4:00 | 2025-02-03 |  |
@@ -274,6 +275,7 @@
 | [Where's My Love](https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/79eTuxHrv8BNv6yPosXC9J) | 3:22 | 2021-11-24 | 2022-07-29 |
 | [Wings](https://open.spotify.com/track/2GfSI35lY8p6tr9IUqiwKo) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Wings](https://open.spotify.com/album/02dDDinLmvyM5fc8z7MQ1n) | 3:16 | 2024-11-22 |  |
 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 | 2022-01-27 | 2023-06-15 |
+| [Would You Have Stayed](https://open.spotify.com/track/3WWkQd8489tMB7f2jK77sf) | [Joanne Bird](https://open.spotify.com/artist/046f6THMcnTnUdUFzn3tUD) | [Unusual Fairytales](https://open.spotify.com/album/6svDWlTUWHOiz6EJ4ZqNQS) | 3:42 | 2025-05-15 |  |
 | [You Let Me Walk Alone](https://open.spotify.com/track/07qlsG6DYRLBbovwca9Vbr) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Dreamer](https://open.spotify.com/album/2t0sI2bIbjfGv6UmjEG3LP) | 2:57 | 2022-06-03 | 2024-04-19 |
 | [You Let Me Walk Alone](https://open.spotify.com/track/1i31AKvYOI4b5FCU1cEHqU) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [You Let Me Walk Alone](https://open.spotify.com/album/4onTLxMITvkAtqd0Ah8e32) | 2:57 | 2022-11-03 | 2022-11-13 |
 | [You Let Me Walk Alone](https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [You Let Me Walk Alone](https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun) | 2:57 | 2021-11-24 | 2025-03-22 |

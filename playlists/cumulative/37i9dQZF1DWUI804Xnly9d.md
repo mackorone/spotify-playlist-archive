@@ -4,12 +4,13 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-530 songs - 1 day 5 hr 45 min
+531 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [90's Kid](https://open.spotify.com/track/267GHnAzfVj04A6ErbCOSD) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [90's Kid](https://open.spotify.com/album/2TeDSPSdj1UC36nj3G4nam) | 1:58 | 2024-08-14 | 2024-08-24 |
 | [Aa Bhi Jaa](https://open.spotify.com/track/2UhGH6QOvugViwXNTLEN2L) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:24 | 2024-04-15 | 2024-06-29 |
+| [Aa Gaye](https://open.spotify.com/track/2Y0dIYsDmjVUiLkBmxsu6Q) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Aa Gaye](https://open.spotify.com/album/4GJ93ilT4VvRNC0LNx9NYg) | 2:36 | 2025-05-15 |  |
 | [Aa Milke Baate Zindagi](https://open.spotify.com/track/4OLU7HbSkmhoxuoZCEO1Vo) | [Sagar Siddham](https://open.spotify.com/artist/3XldFTs2E3AIRnP6ht5jcL), [Pallavi Jamindar Siddham](https://open.spotify.com/artist/5IUmaGr0oynNc6WnOoT3Ee) | [Aa Milke Baate Zindagi](https://open.spotify.com/album/1p3RjUC8pYQ3TAS57zLuHb) | 4:07 | 2024-01-15 | 2024-02-21 |
 | [Aahatien](https://open.spotify.com/track/1bK62cy1tyNFuq7DRLFUwe) | [Ishan Thakur](https://open.spotify.com/artist/5LyL2JxB3tk1cHmmpEGz56) | [Aahatien](https://open.spotify.com/album/2B2ctyT0LkheNR31bJQ4u9) | 3:43 | 2024-11-07 | 2024-11-21 |
 | [Aaj Bhi](https://open.spotify.com/track/2w9KJ4hHUJZq2kqcQt5CPb) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU), [Sanjay\-Aditya](https://open.spotify.com/artist/6mwBx00BmtwLeHQeDMXOj1), [Abhishek T](https://open.spotify.com/artist/17UDlf4LCPZdWnS6QPZRvf) | [Aaj Bhi](https://open.spotify.com/album/1y9DiLSl3NACA8ttjc16oR) | 3:33 | 2025-01-03 | 2025-02-13 |
@@ -330,7 +331,7 @@
 | [Mushkil Mein Jeena](https://open.spotify.com/track/3ApLFFuaXsKBnDhspuQrWj) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Mushkil Mein Jeena](https://open.spotify.com/album/4devqBSJu5bUYTi3eHUkr8) | 5:42 | 2023-05-17 | 2023-06-13 |
 | [Muskaan](https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Muskaan](https://open.spotify.com/album/317ElnVv4yrnKXS4nQNNn9) | 3:37 | 2024-02-14 | 2024-09-18 |
 | [Na Jaane Tu](https://open.spotify.com/track/4toWcCNqdFYcsfaiHGDOAe) | [Krishna Goel](https://open.spotify.com/artist/0TTxWgAwRewRgspfDFch7H) | [Na Jaane Tu](https://open.spotify.com/album/2lqPWPHZUo8wdkUImxmgCM) | 4:06 | 2023-06-26 | 2023-08-05 |
-| [Na Koi Ehsaas](https://open.spotify.com/track/1U2zDSIsNTvsEJYJxphWGK) | [Sajid Rizvi](https://open.spotify.com/artist/4GQ5xNBHVVO8UkUZ7IufKo) | [Na Koi Ehsaas](https://open.spotify.com/album/5j4tDlDc5NCbYKB7HKW8Fv) | 4:58 | 2025-02-28 |  |
+| [Na Koi Ehsaas](https://open.spotify.com/track/1U2zDSIsNTvsEJYJxphWGK) | [Sajid Rizvi](https://open.spotify.com/artist/4GQ5xNBHVVO8UkUZ7IufKo) | [Na Koi Ehsaas](https://open.spotify.com/album/5j4tDlDc5NCbYKB7HKW8Fv) | 4:58 | 2025-02-28 | 2025-05-16 |
 | [Na Neend Hai Na Khwaab](https://open.spotify.com/track/6btADb95DODidqb9HFkl9l) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Na Neend Hai Na Khwaab](https://open.spotify.com/album/0YYIAeWLRCzJfpDyRFiNJv) | 3:46 | 2023-05-17 | 2023-08-05 |
 | [Naa Samjhe Tum](https://open.spotify.com/track/2yBHRByW65XskyQqpMMMpO) | [Nikhil Chandel](https://open.spotify.com/artist/5hNwJiSjMx50Q1x2goFM6r) | [Naa Samjhe Tum](https://open.spotify.com/album/7g2Kze0Dnqrkb47kZwvJBJ) | 3:40 | 2024-07-15 | 2024-10-26 |
 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 | 2024-05-31 | 2025-02-01 |

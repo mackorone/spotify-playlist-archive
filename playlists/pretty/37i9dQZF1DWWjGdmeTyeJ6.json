@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover artist: Emma-Jean Thackray",
-  "num_followers": 1222625,
+  "num_followers": 1222681,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCTBPwAAAACxuoWJi8oSL4OfCsU4AB4R",
+  "snapshot_id": "aCYWxQAAAACItPXbm2f5o5F53OaTKEVv",
   "tracks": [
     {
       "added_at": "2025-05-14 16:13:51",
@@ -23,22 +23,6 @@
       "duration_ms": 182166,
       "name": "shadow",
       "url": "https://open.spotify.com/track/6BWWtayzzwqgdNgvyPuaWi"
-    },
-    {
-      "added_at": "2025-05-14 16:13:51",
-      "album": {
-        "name": "See It Different",
-        "url": "https://open.spotify.com/album/4PKCRM75MUrzOHrHKAJOEe"
-      },
-      "artists": [
-        {
-          "name": "Baby Osamaa",
-          "url": "https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "See It Different",
-      "url": "https://open.spotify.com/track/2uuHRb2O0L48dmXTyXqNjw"
     },
     {
       "added_at": "2025-05-14 16:13:51",
@@ -89,6 +73,22 @@
       "url": "https://open.spotify.com/track/7hzSSb5g0D1OGd6PRVnq2F"
     },
     {
+      "added_at": "2025-05-14 16:13:51",
+      "album": {
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/2KY32E8TeTIEDXm7eiiY4d"
+      },
+      "artists": [
+        {
+          "name": "Nerd in Disco",
+          "url": "https://open.spotify.com/artist/3FO1TjJvSHtO141dRWkq5l"
+        }
+      ],
+      "duration_ms": 185084,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/3wGNAOCHbHwkhHhxbdp6uU"
+    },
+    {
       "added_at": "2025-05-07 16:14:13",
       "album": {
         "name": "Be With You",
@@ -107,18 +107,18 @@
     {
       "added_at": "2025-05-14 16:13:51",
       "album": {
-        "name": "Sleaze the World",
-        "url": "https://open.spotify.com/album/6ygz1FAP0dI829mbYngmL5"
+        "name": "Racing Mount Pleasant",
+        "url": "https://open.spotify.com/album/24rTA1jGh2AdmuN6GrYhpw"
       },
       "artists": [
         {
-          "name": "Younginsosleaze",
-          "url": "https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o"
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Dirty Diana",
-      "url": "https://open.spotify.com/track/4olniuiymbl0yZkCi10MXT"
+      "duration_ms": 315619,
+      "name": "Racing Mount Pleasant",
+      "url": "https://open.spotify.com/track/6ITu4g9Rw4uO6N07gjpIQ2"
     },
     {
       "added_at": "2025-05-07 16:14:13",
@@ -139,18 +139,178 @@
     {
       "added_at": "2025-05-14 16:13:51",
       "album": {
-        "name": "Racing Mount Pleasant",
-        "url": "https://open.spotify.com/album/24rTA1jGh2AdmuN6GrYhpw"
+        "name": "See It Different",
+        "url": "https://open.spotify.com/album/4PKCRM75MUrzOHrHKAJOEe"
       },
       "artists": [
         {
-          "name": "Racing Mount Pleasant",
-          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+          "name": "Baby Osamaa",
+          "url": "https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N"
         }
       ],
-      "duration_ms": 315619,
-      "name": "Racing Mount Pleasant",
-      "url": "https://open.spotify.com/track/6ITu4g9Rw4uO6N07gjpIQ2"
+      "duration_ms": 109714,
+      "name": "See It Different",
+      "url": "https://open.spotify.com/track/2uuHRb2O0L48dmXTyXqNjw"
+    },
+    {
+      "added_at": "2025-05-15 15:48:25",
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/0k6TvGI67qgblSaY1QWxC6"
+      },
+      "artists": [
+        {
+          "name": "Nii",
+          "url": "https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV"
+        }
+      ],
+      "duration_ms": 247106,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/72I9mUGnrnuTLQNwBGNiWr"
+    },
+    {
+      "added_at": "2025-05-14 16:13:51",
+      "album": {
+        "name": "Sky Meets The Water",
+        "url": "https://open.spotify.com/album/50NpwAZUVevndGt0NXf3KX"
+      },
+      "artists": [
+        {
+          "name": "Rio Sterling",
+          "url": "https://open.spotify.com/artist/1Zf0m40qFe3lRQwhknz9yd"
+        }
+      ],
+      "duration_ms": 237874,
+      "name": "Sky Meets The Water",
+      "url": "https://open.spotify.com/track/18d9BbwniBUyWW89NLN69p"
+    },
+    {
+      "added_at": "2025-05-15 15:48:25",
+      "album": {
+        "name": "cypress",
+        "url": "https://open.spotify.com/album/34A3HZas24PfzMckyhVKrt"
+      },
+      "artists": [
+        {
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+        }
+      ],
+      "duration_ms": 272200,
+      "name": "cypress",
+      "url": "https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg"
+    },
+    {
+      "added_at": "2025-05-15 15:48:25",
+      "album": {
+        "name": "Iknowthatyoudontknow",
+        "url": "https://open.spotify.com/album/0FpGOUEYWoZVDtPfIgq839"
+      },
+      "artists": [
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "duration_ms": 117097,
+      "name": "Iknowthatyoudontknow",
+      "url": "https://open.spotify.com/track/07FVoLtva9AxVSDfTTyBle"
+    },
+    {
+      "added_at": "2025-05-15 16:19:52",
+      "album": {
+        "name": "Bugland",
+        "url": "https://open.spotify.com/album/3nctW7ee88vhrxWGDGksyO"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "duration_ms": 149216,
+      "name": "Bugland",
+      "url": "https://open.spotify.com/track/6TKi84OzSw05LoL02x5tAU"
+    },
+    {
+      "added_at": "2025-05-15 15:48:25",
+      "album": {
+        "name": "Luigi",
+        "url": "https://open.spotify.com/album/2xChiS8O1UfNzBQbutOhlX"
+      },
+      "artists": [
+        {
+          "name": "Anna-My",
+          "url": "https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9"
+        }
+      ],
+      "duration_ms": 219622,
+      "name": "Luigi",
+      "url": "https://open.spotify.com/track/69YvkNAeruX4u8ZjgjA6B4"
+    },
+    {
+      "added_at": "2025-05-14 16:13:51",
+      "album": {
+        "name": "Thinkin Bout U",
+        "url": "https://open.spotify.com/album/2HVNMn1fJwwZGu9BI35WAi"
+      },
+      "artists": [
+        {
+          "name": "apollo",
+          "url": "https://open.spotify.com/artist/2ekHvCLauJLvGmyiGPuSSM"
+        }
+      ],
+      "duration_ms": 179130,
+      "name": "Thinkin Bout U",
+      "url": "https://open.spotify.com/track/0GOAYvuxuSYyTxPfXlfFlt"
+    },
+    {
+      "added_at": "2025-05-14 16:13:51",
+      "album": {
+        "name": "HAND GRENADE",
+        "url": "https://open.spotify.com/album/7lEyxNSAwdvFfzMTH2JvLN"
+      },
+      "artists": [
+        {
+          "name": "bleach",
+          "url": "https://open.spotify.com/artist/5ISlYthjrBeIqw5IVKxNpN"
+        }
+      ],
+      "duration_ms": 206636,
+      "name": "HAND GRENADE",
+      "url": "https://open.spotify.com/track/053j3BUBXbZQEBHUzu70Gs"
+    },
+    {
+      "added_at": "2025-05-14 16:13:51",
+      "album": {
+        "name": "Sleaze the World",
+        "url": "https://open.spotify.com/album/6ygz1FAP0dI829mbYngmL5"
+      },
+      "artists": [
+        {
+          "name": "Younginsosleaze",
+          "url": "https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Dirty Diana",
+      "url": "https://open.spotify.com/track/4olniuiymbl0yZkCi10MXT"
+    },
+    {
+      "added_at": "2025-05-15 15:48:25",
+      "album": {
+        "name": "Head Straight",
+        "url": "https://open.spotify.com/album/60MZDr1SPWlUcTpxxBZ4sc"
+      },
+      "artists": [
+        {
+          "name": "Oktae",
+          "url": "https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD"
+        }
+      ],
+      "duration_ms": 145285,
+      "name": "Head Straight",
+      "url": "https://open.spotify.com/track/3TXk3Y1EBnZ6SIMFraTfHV"
     },
     {
       "added_at": "2025-05-14 16:13:51",
@@ -183,6 +343,22 @@
       "duration_ms": 175607,
       "name": "I\u2019m Not Him",
       "url": "https://open.spotify.com/track/3zvkHlQ914KKxYUxoh41an"
+    },
+    {
+      "added_at": "2025-05-15 15:48:25",
+      "album": {
+        "name": "and is it really over",
+        "url": "https://open.spotify.com/album/4uW3H526QlOeBveCV2sgSL"
+      },
+      "artists": [
+        {
+          "name": "Joonas",
+          "url": "https://open.spotify.com/artist/06bXpbtpgnaU0cklDrSqlg"
+        }
+      ],
+      "duration_ms": 227121,
+      "name": "and is it really over",
+      "url": "https://open.spotify.com/track/5RAInZ6ZRVYhgf31HLECFZ"
     },
     {
       "added_at": "2025-05-14 16:13:51",
@@ -347,38 +523,6 @@
     {
       "added_at": "2025-05-14 16:13:51",
       "album": {
-        "name": "Smooth",
-        "url": "https://open.spotify.com/album/2KY32E8TeTIEDXm7eiiY4d"
-      },
-      "artists": [
-        {
-          "name": "Nerd in Disco",
-          "url": "https://open.spotify.com/artist/3FO1TjJvSHtO141dRWkq5l"
-        }
-      ],
-      "duration_ms": 185084,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/3wGNAOCHbHwkhHhxbdp6uU"
-    },
-    {
-      "added_at": "2025-05-14 16:13:51",
-      "album": {
-        "name": "Sky Meets The Water",
-        "url": "https://open.spotify.com/album/50NpwAZUVevndGt0NXf3KX"
-      },
-      "artists": [
-        {
-          "name": "Rio Sterling",
-          "url": "https://open.spotify.com/artist/1Zf0m40qFe3lRQwhknz9yd"
-        }
-      ],
-      "duration_ms": 237874,
-      "name": "Sky Meets The Water",
-      "url": "https://open.spotify.com/track/18d9BbwniBUyWW89NLN69p"
-    },
-    {
-      "added_at": "2025-05-14 16:13:51",
-      "album": {
         "name": "Pieces of Me",
         "url": "https://open.spotify.com/album/0DunsXwmke3F2Ar3ERPtYb"
       },
@@ -407,22 +551,6 @@
       "duration_ms": 168659,
       "name": "Big Shot",
       "url": "https://open.spotify.com/track/6gejX7sSAmB7pdgMfMpqo7"
-    },
-    {
-      "added_at": "2025-05-14 16:13:51",
-      "album": {
-        "name": "Thinkin Bout U",
-        "url": "https://open.spotify.com/album/2HVNMn1fJwwZGu9BI35WAi"
-      },
-      "artists": [
-        {
-          "name": "apollo",
-          "url": "https://open.spotify.com/artist/2ekHvCLauJLvGmyiGPuSSM"
-        }
-      ],
-      "duration_ms": 179130,
-      "name": "Thinkin Bout U",
-      "url": "https://open.spotify.com/track/0GOAYvuxuSYyTxPfXlfFlt"
     },
     {
       "added_at": "2025-05-14 16:13:51",
@@ -519,22 +647,6 @@
       "duration_ms": 238285,
       "name": "turn Up the MUSIK",
       "url": "https://open.spotify.com/track/35DO23Ldz5uro1bwOjxZ2a"
-    },
-    {
-      "added_at": "2025-05-14 16:13:51",
-      "album": {
-        "name": "HAND GRENADE",
-        "url": "https://open.spotify.com/album/7lEyxNSAwdvFfzMTH2JvLN"
-      },
-      "artists": [
-        {
-          "name": "bleach",
-          "url": "https://open.spotify.com/artist/5ISlYthjrBeIqw5IVKxNpN"
-        }
-      ],
-      "duration_ms": 206636,
-      "name": "HAND GRENADE",
-      "url": "https://open.spotify.com/track/053j3BUBXbZQEBHUzu70Gs"
     },
     {
       "added_at": "2025-05-14 16:13:51",

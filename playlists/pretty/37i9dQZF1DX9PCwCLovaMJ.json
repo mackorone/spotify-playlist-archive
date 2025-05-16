@@ -1,6 +1,6 @@
 {
   "description": "Uppt\u00e4ck l\u00e5tar fr\u00e5n 2024 som du kanske har missat.",
-  "num_followers": 1350,
+  "num_followers": 1351,
   "original_name": "2024: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Don't Wanna Be Saved",
+        "url": "https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "duration_ms": 180436,
+      "name": "Don't Wanna Be Saved",
+      "url": "https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 192400,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Don't Wanna Be Saved",
-        "url": "https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 180436,
-      "name": "Don't Wanna Be Saved",
-      "url": "https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "SAMESAME",
+        "url": "https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "SAMESAME",
+      "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "In The Name",
         "url": "https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 120226,
       "name": "Good News",
       "url": "https://open.spotify.com/track/22jO3kTf60Qf6W808xDjrH"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "SAMESAME",
-        "url": "https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3"
-      },
-      "artists": [
-        {
-          "name": "DJ Carpenter",
-          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
-        },
-        {
-          "name": "Izza Gara",
-          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "SAMESAME",
-      "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
         }
       ],
-      "duration_ms": 141687,
-      "name": "Belong To The Wind",
-      "url": "https://open.spotify.com/track/40NJkwGpFLfbBx2OSyk9Lw"
+      "duration_ms": 158552,
+      "name": "Upset",
+      "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
         }
       ],
-      "duration_ms": 158552,
-      "name": "Upset",
-      "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
+      "duration_ms": 141687,
+      "name": "Belong To The Wind",
+      "url": "https://open.spotify.com/track/40NJkwGpFLfbBx2OSyk9Lw"
     },
     {
       "added_at": "2024-12-04 12:15:00",

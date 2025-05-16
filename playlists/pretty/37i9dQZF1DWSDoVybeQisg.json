@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1215577,
+  "num_followers": 1215697,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "The First Edition",
         "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 201213,
       "name": "Just Dropped In (To See What Condition My Condition Was In)",
       "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
-      },
-      "artists": [
-        {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Flying High",
-      "url": "https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/02O0Ea7JGwlLq8faAiv1MN"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 312253,
+      "name": "Venus In Furs",
+      "url": "https://open.spotify.com/track/3x5IM9VEpsFLhkzy9YT2F0"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Classic Yardbirds Vol.1",
         "url": "https://open.spotify.com/album/5vgLTfGzgr1UQq6pd3bU0U"
       },
@@ -1211,22 +1231,6 @@
       "duration_ms": 348560,
       "name": "The Pusher",
       "url": "https://open.spotify.com/track/28sa14rbWiHZPs9m1IeDI5"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Fifth Dimension",
-        "url": "https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Eight Miles High",
-      "url": "https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx"
     }
   ],
   "unique_name": "Psychedelic Rock",

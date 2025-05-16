@@ -2,9 +2,9 @@
 
 ### [ALTER\-native](https://open.spotify.com/playlist/37i9dQZF1DWVx80ckNwI92)
 
-> The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=xisd9bqoRV2NoWWMIStT9A">Jabulile Majola</a>, <a href="https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2?si=iaacmY5KRHysPPUJVXPeKg">Thando Zide</a>
+> The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h?si=\-r1y93FHRMeE1JfZcgNglA">Obongjayar</a>
 
-203 songs - 10 hr 53 min
+204 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 | 2023-03-30 | 2024-07-19 |
 | [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 | 2023-11-24 | 2023-12-15 |
 | [I'm Yours](https://open.spotify.com/track/4cTopCzcmxBvWE6K96RnhP) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [I'm Yours](https://open.spotify.com/album/3wg8nl3xkrTiZG3Kq3YH2d) | 3:32 | 2023-03-30 | 2023-06-23 |
-| [Ice Cream](https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V) | [Zaiigoh](https://open.spotify.com/artist/2y1M4qSsjvWQ8FcqRoX2cr) | [Ice Cream](https://open.spotify.com/album/6ZfcCguyjUUnnGzndPgk8j) | 3:28 | 2023-06-08 |  |
+| [Ice Cream](https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V) | [Zaiigoh](https://open.spotify.com/artist/2y1M4qSsjvWQ8FcqRoX2cr) | [Ice Cream](https://open.spotify.com/album/6ZfcCguyjUUnnGzndPgk8j) | 3:28 | 2023-06-08 | 2025-05-16 |
 | [ilikeyou](https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ilikeyou](https://open.spotify.com/album/5uYm2LLYDmiNZ1KzlJomKZ) | 3:33 | 2024-02-15 |  |
 | [Imali Iyaphela](https://open.spotify.com/track/66K0c10DeEP3O1GhqL1veJ) | [Robin Thirdfloor](https://open.spotify.com/artist/24R1N1mF7GaNn2rcL6hNCh), [Dejot](https://open.spotify.com/artist/6MxbPfU59YKhSMf4UAYbwF) | [Imali Iyaphela](https://open.spotify.com/album/481xxG66MoePOAXYTf9aYa) | 3:18 | 2024-03-15 | 2024-07-19 |
 | [Imimangaliso](https://open.spotify.com/track/1M7j3BdQiqzK30LehjOFDN) | [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Imimangaliso](https://open.spotify.com/album/2i1gn2wnib8HBe6J701ZgN) | 2:51 | 2025-02-14 | 2025-03-01 |
@@ -91,6 +91,7 @@
 | [Iro](https://open.spotify.com/track/6rGHpJCvRYTnIikgLiQivH) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 3:15 | 2025-02-14 | 2025-03-01 |
 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 | 2025-03-20 |  |
 | [Isn't Love](https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Closure](https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5) | 1:53 | 2023-03-30 | 2023-05-26 |
+| [Jellyfish](https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Jellyfish](https://open.spotify.com/album/66jybmyf9i4NelFuzOkJYz) | 2:04 | 2025-05-15 |  |
 | [Joy](https://open.spotify.com/track/2i4RMLQIE3L7gklTquZvZx) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/4165s6MN7MgxpMbMjcgMOo) | 3:34 | 2023-03-30 | 2023-06-09 |
 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 | 2024-03-15 |  |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-11 | 2025-03-09 |

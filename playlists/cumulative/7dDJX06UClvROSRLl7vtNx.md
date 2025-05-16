@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-866 songs - 1 day 13 hr 35 min
+867 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -720,6 +720,7 @@
 | [Summer Night](https://open.spotify.com/track/4EtrOhTdWGVXrjQACnPQgt) | [we love sunset](https://open.spotify.com/artist/0ROeDOXEZIq0ETZL5MVHqa), [Orgon Light](https://open.spotify.com/artist/27OKWxKFRWs4olUoKNYZnY) | [Summer Night](https://open.spotify.com/album/6RZvz1VL2f8Y9Efiu3XeaI) | 2:45 | 2025-02-14 | 2025-03-07 |
 | [Summer Nights](https://open.spotify.com/track/4x0qdMtNn1ntpUmbNcC6iA) | [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [Chloé Hétier](https://open.spotify.com/artist/0H6slz0xCeit42HAFGZdwa), [LDVC](https://open.spotify.com/artist/7EShHZRP35PHBA0FXwrI4f) | [Summer Nights](https://open.spotify.com/album/4Cpxne39CXzAZ3LKKclTS9) | 1:52 | 2024-07-30 | 2024-12-02 |
 | [Summer Of Love](https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Summer Of Love](https://open.spotify.com/album/3dfw820L9e1avL7i8zwvUU) | 2:03 | 2024-07-19 | 2024-08-26 |
+| [Summer Sun](https://open.spotify.com/track/0JyYqPuwaggu7zSrJX0Uix) | [Benedict Ammann](https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw), [Ma Nu](https://open.spotify.com/artist/5sEdpecv6jz6ZpTpBzYlhR) | [Summer Sun](https://open.spotify.com/album/7CY9eeGUxl9FrSU4PQLraH) | 2:37 | 2025-05-15 |  |
 | [Summertime Sadness](https://open.spotify.com/track/4dNtnXTCeYcx2CwJyyJUL7) | [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [Summertime Sadness](https://open.spotify.com/album/2noEqscULZZhV2yNNmK0Me) | 3:35 | 2024-05-26 | 2024-06-23 |
 | [Sun Goes Down](https://open.spotify.com/track/0zMx4Tg8GAv7A9yvsoGFxy) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm), [Luna Belle](https://open.spotify.com/artist/0QQ4L7FpmQyev2ljEVbF0w) | [Sun Goes Down](https://open.spotify.com/album/2pzoa2KWPBSvrIw1rxQJ1Y) | 2:24 | 2024-12-01 | 2025-01-13 |
 | [Sunbeams](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Sunbeams](https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY) | 2:27 | 2023-09-22 | 2023-12-30 |

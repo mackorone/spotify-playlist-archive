@@ -1,29 +1,13 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 24586,
+  "num_followers": 24588,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCKLgAAAAAAeoU74WP8yRIIG6amcWvd1",
+  "snapshot_id": "aCPdAAAAAABgyzHThJdLQWOwG1E8c2HO",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "(No Existen) T\u00e9cnicas para Olvidar",
-        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/76KLnsqCiFEFTEQp2Vaf8R"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 275826,
       "name": "Un Vino, Una Cerveza",
       "url": "https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(No Existen) T\u00e9cnicas para Olvidar",
+        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/76KLnsqCiFEFTEQp2Vaf8R"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 259252,
-      "name": "Bailar",
-      "url": "https://open.spotify.com/track/71cSItAD9NSPQl8ZqhszFl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rarezas",
         "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 260760,
       "name": "Sed",
       "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 259252,
+      "name": "Bailar",
+      "url": "https://open.spotify.com/track/71cSItAD9NSPQl8ZqhszFl"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Los Ni\u00f1os Se Enamoran",
-      "url": "https://open.spotify.com/track/12A6D4178vfnvBJx2zBuvX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amazonas (Uncut)",
         "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 256413,
       "name": "T\u00fanel del Tiempo",
       "url": "https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Los Ni\u00f1os Se Enamoran",
+      "url": "https://open.spotify.com/track/12A6D4178vfnvBJx2zBuvX"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 268266,
-      "name": "Qu\u00e9 Oscuridad",
-      "url": "https://open.spotify.com/track/0lIij3INQIJ8jBkkBa7N1M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amazonas (Uncut)",
         "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 317933,
       "name": "Maril\u00f3",
       "url": "https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 268266,
+      "name": "Qu\u00e9 Oscuridad",
+      "url": "https://open.spotify.com/track/0lIij3INQIJ8jBkkBa7N1M"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 136946,
-      "name": "Rara Soledad",
-      "url": "https://open.spotify.com/track/5xAeUE0ty5YgPHj2xZSXiK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amazonas (Uncut)",
         "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 238200,
       "name": "Se Te Parar\u00edan los Pelos",
       "url": "https://open.spotify.com/track/68mNPUTCzdOt9KvKoGachr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "El Triunfo Tan So\u00f1ado",
+      "url": "https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 262773,
-      "name": "El Triunfo Tan So\u00f1ado",
-      "url": "https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70"
+      "duration_ms": 136946,
+      "name": "Rara Soledad",
+      "url": "https://open.spotify.com/track/5xAeUE0ty5YgPHj2xZSXiK"
     },
     {
       "added_at": null,

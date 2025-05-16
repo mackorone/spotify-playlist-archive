@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "LA Privada",
+        "url": "https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "La Patrulla",
+      "url": "https://open.spotify.com/track/7dueUpuihkYhTDGO5V3IBD"
+    },
+    {
+      "album": {
         "name": "Corridos Underground 2",
         "url": "https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 216483,
       "name": "Paso Firme - En Vivo",
       "url": "https://open.spotify.com/track/1b7ZvRTLu693vaJY9KybhV"

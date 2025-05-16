@@ -802,7 +802,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 240000,
       "name": "Asar Tera Kaisa",
       "url": "https://open.spotify.com/track/6RXfTpSmLM4P5f6XiNSYC6"
@@ -3854,7 +3854,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 198214,
       "name": "Hua Savera",
       "url": "https://open.spotify.com/track/5ofmnZn7ZlnGhJC3O9EIXQ"
@@ -9529,6 +9529,28 @@
     },
     {
       "album": {
+        "name": "Saawariya",
+        "url": "https://open.spotify.com/album/5DQDVW42OfdTOMl6GfQiG8"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Raajeev V Bhalla",
+          "url": "https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215342,
+      "name": "Saawariya",
+      "url": "https://open.spotify.com/track/6oJcnd3IJBrJzGeJDCxfvA"
+    },
+    {
+      "album": {
         "name": "Saawariya (feat. Arjun Bijlani)",
         "url": "https://open.spotify.com/album/6XrfqO7ZEF3XRDNsPfij58"
       },
@@ -9904,6 +9926,24 @@
       "duration_ms": 241213,
       "name": "Second Hand Jawaani",
       "url": "https://open.spotify.com/track/7kz0NubU5M4k9kdARMBlFK"
+    },
+    {
+      "album": {
+        "name": "Seelan Ki Khushboo",
+        "url": "https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f"
+      },
+      "artists": [
+        {
+          "name": "Mansa Jimmy",
+          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212460,
+      "name": "Seelan Ki Khushboo",
+      "url": "https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG"
     },
     {
       "album": {

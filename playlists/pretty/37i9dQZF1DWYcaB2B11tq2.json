@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcos Witt",
-  "num_followers": 462288,
+  "num_followers": 462404,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Inexplicable",
-        "url": "https://open.spotify.com/album/1USOV6SxLg77cCzYrFy7oO"
-      },
-      "artists": [
-        {
-          "name": "Denicher Pol",
-          "url": "https://open.spotify.com/artist/3C3hBriCxs5RVra7yTMacj"
-        }
-      ],
-      "duration_ms": 324493,
-      "name": "Inexplicable",
-      "url": "https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "DTOX",
         "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 222131,
       "name": "Cuando Yo Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/69hFBsRNHaKuCkraGiExgA"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Inexplicable",
+        "url": "https://open.spotify.com/album/1USOV6SxLg77cCzYrFy7oO"
+      },
+      "artists": [
+        {
+          "name": "Denicher Pol",
+          "url": "https://open.spotify.com/artist/3C3hBriCxs5RVra7yTMacj"
+        }
+      ],
+      "duration_ms": 324493,
+      "name": "Inexplicable",
+      "url": "https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Pa' Que Viva Feliz",
+        "url": "https://open.spotify.com/album/3wnUpvSigI8iyFGebeLJjz"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 189278,
+      "name": "Pa' Que Viva Feliz",
+      "url": "https://open.spotify.com/track/55FyD4opL5CO7Nb80Z7Mx7"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "Danzando (Live)",
         "url": "https://open.spotify.com/album/5gIeEB6jPv3t9tj5z5RBcJ"
       },
@@ -783,26 +799,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Tu Mirada",
-        "url": "https://open.spotify.com/album/4pSlr6iAlgXnDu3pBkxVZH"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Javier Chavez",
-          "url": "https://open.spotify.com/artist/3F5Mp81LwhGyzyxBDcObcs"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/24FnAqLXfjdlUMv2gB4Xxs"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Coritos (En Vivo)",
         "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
       },
@@ -831,18 +827,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Pa' Que Viva Feliz",
-        "url": "https://open.spotify.com/album/3wnUpvSigI8iyFGebeLJjz"
+        "name": "Tu Mirada",
+        "url": "https://open.spotify.com/album/4pSlr6iAlgXnDu3pBkxVZH"
       },
       "artists": [
         {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Javier Chavez",
+          "url": "https://open.spotify.com/artist/3F5Mp81LwhGyzyxBDcObcs"
         }
       ],
-      "duration_ms": 189278,
-      "name": "Pa' Que Viva Feliz",
-      "url": "https://open.spotify.com/track/55FyD4opL5CO7Nb80Z7Mx7"
+      "duration_ms": 260000,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/24FnAqLXfjdlUMv2gB4Xxs"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -915,6 +915,26 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "CONXSI\u00d3N",
+        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Lo Que Se Va",
+      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "Pistas",
         "url": "https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 280450,
       "name": "Lo Peor de Mi",
       "url": "https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "CONXSI\u00d3N",
-        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Lo Que Se Va",
-      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Fiesta en el desierto (la la la)",
-        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 338015,
-      "name": "Fiesta en el desierto (la la la)",
-      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Coleccion De Oro",
         "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 248651,
       "name": "Vives en M\u00ed",
       "url": "https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Santo es el que Vive",
-        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 634551,
-      "name": "Santo es el que Vive",
-      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "SEU Worship HOLA",
         "url": "https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Santo es el que Vive",
+        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 634551,
+      "name": "Santo es el que Vive",
+      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "Vuelve a So\u00f1ar - EP",
         "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 222229,
       "name": "Llegare (Remastered) [feat. Zeri]",
       "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Agnus Dei",
+        "url": "https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx"
+      },
+      "artists": [
+        {
+          "name": "Salida 7",
+          "url": "https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv"
+        }
+      ],
+      "duration_ms": 229176,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1403,22 +1419,6 @@
       "duration_ms": 230476,
       "name": "Da\u00f1ar el Jangueo",
       "url": "https://open.spotify.com/track/2G57GCgrChXL9CQ0yUMX7f"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Agnus Dei",
-        "url": "https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx"
-      },
-      "artists": [
-        {
-          "name": "Salida 7",
-          "url": "https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv"
-        }
-      ],
-      "duration_ms": 229176,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL"
     },
     {
       "added_at": "2024-12-11 11:03:37",

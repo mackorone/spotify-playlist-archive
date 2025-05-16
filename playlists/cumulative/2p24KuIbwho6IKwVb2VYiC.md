@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/2p24KuIbwho6IKwVb2VYiC.md) - cumulative - [plain](/playlists/plain/2p24KuIbwho6IKwVb2VYiC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2p24KuIbwho6IKwVb2VYiC)
 
-### [New Dance Hits 2025](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
+### [Nightvision presents..\. ALL ACCESS DANCE](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: Sammy Virji
+> The best Dance and EDM tracks right now!
 
 311 songs - 16 hr 17 min
 

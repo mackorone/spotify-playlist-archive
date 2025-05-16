@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Vinnipu",
+        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108746,
+      "name": "Vinnipu",
+      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
+    },
+    {
+      "album": {
         "name": "Volt, ami volt",
         "url": "https://open.spotify.com/album/4fKyDcti9mQ164mFdGunqO"
       },

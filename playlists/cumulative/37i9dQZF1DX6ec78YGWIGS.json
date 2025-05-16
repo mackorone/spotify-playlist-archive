@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Paulo Londra & Maria Becerra.",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Yami Safdie & Rusherking.",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 144761,
       "name": "8pm",
       "url": "https://open.spotify.com/track/4te90NkfKf2wCIPdE2CwMW"
@@ -3731,6 +3731,28 @@
     },
     {
       "album": {
+        "name": "Justo Ahora",
+        "url": "https://open.spotify.com/album/7zBKT3SQIXDzMg2lnqrUMl"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "Justo Ahora",
+      "url": "https://open.spotify.com/track/5dZaQiVK1vZTPS7I8Z0pEP"
+    },
+    {
+      "album": {
         "name": "Kabron",
         "url": "https://open.spotify.com/album/7zlYLcMAovNtWppfTZKtXx"
       },
@@ -5717,6 +5739,28 @@
     },
     {
       "album": {
+        "name": "NO S\u00c9 QUI\u00c9N SOS",
+        "url": "https://open.spotify.com/album/79X2IHIzg5pNlc7K4Ag6Vy"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183708,
+      "name": "NO S\u00c9 QUI\u00c9N SOS",
+      "url": "https://open.spotify.com/track/4nq6FkC0jH2fgfVSziGMmZ"
+    },
+    {
+      "album": {
         "name": "No Te Pases",
         "url": "https://open.spotify.com/album/4tbJ7goF6LCXBFOxsiM8zW"
       },
@@ -5888,7 +5932,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 136615,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/7sllDb8lSLGnubFanPcU1h"

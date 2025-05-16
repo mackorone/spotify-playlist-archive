@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels in India\. Cover: Priyanka Kher, Artwork: Isu Kim
 
-1,618 songs - 3 day 21 hr 23 min
+1,619 songs - 3 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [Intezaar](https://open.spotify.com/track/425tIET6KTUJm8nnZsy0eI) | [SUNDAYIN](https://open.spotify.com/artist/7Jc9cQA9Dkxckkwf8KMdvv) | [Intezaar](https://open.spotify.com/album/0qKt05pdq7m6cS7QxvOgu5) | 3:40 | 2024-01-17 | 2024-03-28 |
 | [INTEZAAR](https://open.spotify.com/track/7HJvGtVm4R16W8W5h6yrQk) | [Utkarsh Saxena](https://open.spotify.com/artist/1VbHrnZwehHZ0oBMRhagtW), [Himani Sahani](https://open.spotify.com/artist/6skdme3084KmmimNVxPG4M) | [INTEZAAR](https://open.spotify.com/album/5BzxIBLcbaeraglerHy3WD) | 4:01 | 2022-01-19 | 2022-01-24 |
 | [Intezar](https://open.spotify.com/track/096Xtx6xAT6uQ5x4tWfrFN) | [Ayush Amera](https://open.spotify.com/artist/12hlXVrAm9WzEAao8GJHfA) | [Intezar](https://open.spotify.com/album/0H4IMEvPJJPDUVe5URkQoh) | 3:34 | 2024-09-11 | 2024-11-28 |
+| [Iraada \(feat\. saloni\)](https://open.spotify.com/track/1gixBbIRmSv7AB4YyQsYME) | [dhoop](https://open.spotify.com/artist/1Rr5Z5yCjJofntpwrIO87v), [saloni](https://open.spotify.com/artist/0embJOgwzlkpiG1dlBLkkC) | [Iraada \(feat\. saloni\)](https://open.spotify.com/album/6BWYQH8fb6VAJf7gBosuJJ) | 3:28 | 2025-05-15 |  |
 | [isaidimfine.](https://open.spotify.com/track/08Afk2VmTs5QgLm2YS3Q0k) | [Praagya](https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP) | [isaidimfine.](https://open.spotify.com/album/1DgtdTn8MXaVgENRJPsb3R) | 3:56 | 2024-06-05 | 2024-08-08 |
 | [Ishaare](https://open.spotify.com/track/1VFIOx2iSJfQqWJPV4tzFv) | [Shirish](https://open.spotify.com/artist/1gCoDNvciyx11iMi6aASNV) | [Ishaare](https://open.spotify.com/album/4ZnaQqu6NwYdTeE5uRltsE) | 2:55 | 2023-09-27 | 2024-01-18 |
 | [Isharon Isharon Mein](https://open.spotify.com/track/73yD7HDsqBA4bgBbGmPLh0) | [Adil Nadaf](https://open.spotify.com/artist/3vRo2Lnpy1bManEuImUVhq), [Madhuri Seshadri](https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx), [Prajoth D'sa](https://open.spotify.com/artist/5sxU1v8Sa1pQ0A2lbyRON1) | [Isharon Isharon Mein](https://open.spotify.com/album/1lYKgVJf8tfM1180eQxoCH) | 3:12 | 2024-01-31 | 2024-04-11 |
@@ -1425,7 +1426,7 @@
 | [Till Midnight](https://open.spotify.com/track/4Dc3XTwAWL6TmgkEBtT431) | [DapynMusic](https://open.spotify.com/artist/1MsAhXVBSgU6h9v9OvGrgi) | [Till Midnight](https://open.spotify.com/album/3IBr5MGj7ytvIThbhQtPWd) | 3:10 | 2024-01-17 | 2024-03-28 |
 | [Tinka](https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Tinka](https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP) | 3:19 | 2023-05-31 | 2024-01-11 |
 | [Tippity\-Toe](https://open.spotify.com/track/0pVWurfElBtrujP1YB5WY3) | [Shivangi Kale](https://open.spotify.com/artist/1xGv7tCiaxDMDVtj8RY2N6) | [Tippity\-Toe](https://open.spotify.com/album/2DCh4W0PUjpJ5smHIJ9A6U) | 3:29 | 2022-06-08 | 2022-06-23 |
-| [Tiptoes](https://open.spotify.com/track/2pTE5zinlVElLlCtjmxdhj) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [Tiptoes](https://open.spotify.com/album/3njRKt4cwtYFd7BLKWNVJp) | 3:14 | 2024-11-27 |  |
+| [Tiptoes](https://open.spotify.com/track/2pTE5zinlVElLlCtjmxdhj) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [Tiptoes](https://open.spotify.com/album/3njRKt4cwtYFd7BLKWNVJp) | 3:14 | 2024-11-27 | 2025-05-16 |
 | [Tishnagi](https://open.spotify.com/track/3x7omcgMTFQWLh69QhTJKc) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq) | [Tishnagi](https://open.spotify.com/album/7uRaqL29m7pipZyyxMpt8I) | 4:00 | 2021-12-01 | 2022-01-13 |
 | [Titliyan](https://open.spotify.com/track/3cecLCTXZWUy7Opv8TZlrT) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Titliyan](https://open.spotify.com/album/4FbunKEZOQGi7sMufvmGSq) | 2:29 | 2022-02-23 | 2022-03-24 |
 | [To be Together](https://open.spotify.com/track/16AOwaAxj8gTEg2pwnw2IJ) | [Beesaal Music](https://open.spotify.com/artist/4fXyHr5ht9DGNuYTYU2mjM), [Priyankee](https://open.spotify.com/artist/5Zr7gG8RJeQgTxGMZBeBsD), [Yasir Nadim](https://open.spotify.com/artist/17wdlgOK9tLzysXaTka4sZ) | [To be Together](https://open.spotify.com/album/2DXsNEXR4jiprLPncuvdO4) | 3:11 | 2022-03-02 | 2022-03-17 |

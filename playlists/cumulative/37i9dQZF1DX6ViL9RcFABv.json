@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: \u00c1TOA, Lu\u00eds Trigacheiro",
+  "description": "Uma playlist de pura alma pop! Foto: Catarina Filipe, LEO2745",
   "name": "Pop PT",
   "tracks": [
     {
@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 216000,
       "name": "Como Bate o Cora\u00e7\u00e3o?",
       "url": "https://open.spotify.com/track/3Fy0kTB2NcUZclzzYsfL1H"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 191020,
       "name": "Custa Aceitar",
       "url": "https://open.spotify.com/track/4XgC7M9QwK3RpRm3rpZxuj"
@@ -1624,6 +1624,28 @@
       "duration_ms": 195782,
       "name": "Dois Dedos de Testa",
       "url": "https://open.spotify.com/track/2EZpQC4js7nOZmysa2001d"
+    },
+    {
+      "album": {
+        "name": "S\u00edlvia & Salvador",
+        "url": "https://open.spotify.com/album/2M9MtUS5qtnVWe0GmOt5xS"
+      },
+      "artists": [
+        {
+          "name": "Salvador Sobral",
+          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299778,
+      "name": "El coraz\u00f3n por delante",
+      "url": "https://open.spotify.com/track/26miS6DXixXA2WbJNz1qi0"
     },
     {
       "album": {
@@ -2058,7 +2080,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 194143,
       "name": "Foste Tu",
       "url": "https://open.spotify.com/track/2aQUqkcVAQgCPmsXOQ9Zkj"
@@ -2364,7 +2386,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 163988,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/02VXZccTOACtFkVHJeS1O3"
@@ -2758,7 +2780,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 172366,
       "name": "Ma Ch\u00e9rie",
       "url": "https://open.spotify.com/track/1aIJLbvrWSW7NGLlprGhBo"
@@ -3363,6 +3385,32 @@
     },
     {
       "album": {
+        "name": "Oh Clementina",
+        "url": "https://open.spotify.com/album/2YTc5SE94y5bRxrh1odTMm"
+      },
+      "artists": [
+        {
+          "name": "Khiaro",
+          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
+        },
+        {
+          "name": "Lu\u00eds Fialho",
+          "url": "https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8"
+        },
+        {
+          "name": "Marotos Da Concertina",
+          "url": "https://open.spotify.com/artist/5PWAecNmjF2Fsp3dt4WWXX"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Oh Clementina",
+      "url": "https://open.spotify.com/track/51T5wIUz2kB0qRGOnGxtco"
+    },
+    {
+      "album": {
         "name": "Oh Nha Nen\u00e9",
         "url": "https://open.spotify.com/album/3e4JcREkinODSU4lZohjD6"
       },
@@ -3472,6 +3520,36 @@
       "duration_ms": 184902,
       "name": "Outro Planeta",
       "url": "https://open.spotify.com/track/5gowKvKBEEpQhdAL2Qklhe"
+    },
+    {
+      "album": {
+        "name": "Palavra",
+        "url": "https://open.spotify.com/album/2TsejDRzCPzJzQZDWNpGey"
+      },
+      "artists": [
+        {
+          "name": "AVALANCHE",
+          "url": "https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z"
+        },
+        {
+          "name": "J\u00dcRA",
+          "url": "https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9"
+        },
+        {
+          "name": "MALVA",
+          "url": "https://open.spotify.com/artist/0ZGeXDeVRYGrf8dA3sFzGE"
+        },
+        {
+          "name": "NED FLANGER",
+          "url": "https://open.spotify.com/artist/0qXCs4mrJ9VsOQPVddtg9f"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146732,
+      "name": "Palavra",
+      "url": "https://open.spotify.com/track/6Hk29yO1M35m5MECkNqmTU"
     },
     {
       "album": {
@@ -3773,6 +3851,24 @@
     },
     {
       "album": {
+        "name": "Puras Donzelas",
+        "url": "https://open.spotify.com/album/39jpySYCxCXCJQQMts8arT"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e1udia Pascoal",
+          "url": "https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Puras Donzelas",
+      "url": "https://open.spotify.com/track/1gtChAVHXQu0RYBpGETfeH"
+    },
+    {
+      "album": {
         "name": "P\u00f3 do Tempo",
         "url": "https://open.spotify.com/album/4oc2BJCjh9b4Lwp2rQ72gK"
       },
@@ -3828,6 +3924,24 @@
       "duration_ms": 172250,
       "name": "Qualquer Hora",
       "url": "https://open.spotify.com/track/0BSU8iPYumjAXX7PNXqVjc"
+    },
+    {
+      "album": {
+        "name": "Um Brinde ao Agora",
+        "url": "https://open.spotify.com/album/6qrAiIIlSK6YDc9hXtOdCr"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175213,
+      "name": "Quando as v\u00eas",
+      "url": "https://open.spotify.com/track/20DOQsUkkgHL12fuijAq29"
     },
     {
       "album": {
@@ -4730,7 +4844,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 183551,
       "name": "Txi Amo",
       "url": "https://open.spotify.com/track/3PI0HRdiHb0r60w44bmO8Z"
@@ -4810,6 +4924,24 @@
       "duration_ms": 173961,
       "name": "Vem C\u00e1",
       "url": "https://open.spotify.com/track/6PYtp8saDbdZftCBQm3F74"
+    },
+    {
+      "album": {
+        "name": "Verdade",
+        "url": "https://open.spotify.com/album/0X5dtxwXxNbiv4qfi6uhWN"
+      },
+      "artists": [
+        {
+          "name": "Nininho Vaz Maia",
+          "url": "https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187124,
+      "name": "Verdade",
+      "url": "https://open.spotify.com/track/5Tw56RjEhlz8BTDTiz65cB"
     },
     {
       "album": {

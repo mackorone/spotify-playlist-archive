@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: Velet",
+  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: Semicenk",
   "name": "Hot Hits T\u00fcrkiye",
   "tracks": [
     {
@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 221159,
       "name": "Duydun Mu?",
       "url": "https://open.spotify.com/track/4v8LZr4pYJFo3lnB5BJBAc"
@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 247733,
       "name": "Silinmez",
       "url": "https://open.spotify.com/track/4sVIEO6DXqoGakHuixuPad"
@@ -2713,6 +2713,28 @@
     },
     {
       "album": {
+        "name": "Yasemin",
+        "url": "https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "Serdar Orta\u00e7",
+          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Yasemin",
+      "url": "https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW"
+    },
+    {
+      "album": {
         "name": "Yetmedi",
         "url": "https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt"
       },
@@ -2768,6 +2790,24 @@
       "duration_ms": 169822,
       "name": "Zamans\u0131zd\u0131k",
       "url": "https://open.spotify.com/track/7q2LhclL7UGS2yiL6QYRki"
+    },
+    {
+      "album": {
+        "name": "Zor De\u011fil",
+        "url": "https://open.spotify.com/album/7kUcbLm79NcFZYuEBaA0nk"
+      },
+      "artists": [
+        {
+          "name": "Ben Fero",
+          "url": "https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Zor De\u011fil",
+      "url": "https://open.spotify.com/track/2IsUQV8lrmDvwCV0j0DxRN"
     },
     {
       "album": {

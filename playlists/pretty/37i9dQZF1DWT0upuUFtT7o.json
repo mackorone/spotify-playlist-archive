@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Camille Keller\n",
-  "num_followers": 247294,
+  "num_followers": 247381,
   "original_name": " Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCSg5AAAAAAAHF6WWh6NezD1J8CwDWhV",
+  "snapshot_id": "aCYMCgAAAAC+kuMOFPdYz07GoYkEkRtn",
   "tracks": [
     {
       "added_at": "2025-04-28 17:38:13",
@@ -23,6 +23,26 @@
       "duration_ms": 137633,
       "name": "Rivet Gun",
       "url": "https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e"
+    },
+    {
+      "added_at": "2025-05-15 15:45:14",
+      "album": {
+        "name": "Formula 1",
+        "url": "https://open.spotify.com/album/5b5V1qr0RiJzLBAeEe5VOY"
+      },
+      "artists": [
+        {
+          "name": "Richard Orofino",
+          "url": "https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0"
+        },
+        {
+          "name": "Melody English",
+          "url": "https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp"
+        }
+      ],
+      "duration_ms": 189197,
+      "name": "Formula 1",
+      "url": "https://open.spotify.com/track/6BHkkOCflCQjyTcGl0jaMi"
     },
     {
       "added_at": "2025-05-07 04:00:36",

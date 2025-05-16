@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Nectar Woode",
+  "description": "The best voices in R&B. Cover: No Guidnce, Tamera",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -545,6 +545,32 @@
     },
     {
       "album": {
+        "name": "Angel in Disguise - Spotify Singles",
+        "url": "https://open.spotify.com/album/0uGn4uXVGKMPb5F4ZHdnx6"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        },
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Rodney Jerkins",
+          "url": "https://open.spotify.com/artist/33b5NkaZsL1YoW7pO19Sc7"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242962,
+      "name": "Angel in Disguise - Spotify Singles",
+      "url": "https://open.spotify.com/track/6As4ASyAXTOuzub0MOligf"
+    },
+    {
+      "album": {
         "name": "Angel Patience",
         "url": "https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp"
       },
@@ -592,7 +618,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 176888,
       "name": "Anyways",
       "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
@@ -4142,7 +4168,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 165637,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/3kcep0cejbxbScTUQsQMCG"
@@ -6056,6 +6082,24 @@
       "duration_ms": 143448,
       "name": "Pride",
       "url": "https://open.spotify.com/track/3HiVqLksar2QNbgXOjDRYm"
+    },
+    {
+      "album": {
+        "name": "PROMISE",
+        "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223738,
+      "name": "PROMISE",
+      "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
     },
     {
       "album": {

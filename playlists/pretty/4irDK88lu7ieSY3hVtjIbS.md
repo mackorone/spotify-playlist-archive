@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,704 likes - 76 songs - 3 hr 14 min
+[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,709 likes - 78 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 74 | [PITS](https://open.spotify.com/track/40NUs0L06daDYGczC4R3HW) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:31 |
 | 75 | [KNOT SONG](https://open.spotify.com/track/39hUFFX2yGm26YXSu4QEYF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:18 |
 | 76 | [PASS THAT POOLTOY](https://open.spotify.com/track/0EEm7WqTGLXQoFrDM3bYIx) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:42 |
+| 77 | [YINZFUR](https://open.spotify.com/track/386dEt6rsPRRZ0THPDACG2) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [YINZFUR](https://open.spotify.com/album/6vPiRMWwAw89a06PyJvKdl) | 2:33 |
+| 78 | [BET UNCU\(N\)T](https://open.spotify.com/track/5fcknHYAGKzdaKE4TISCzR) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [GLITTERMUTT](https://open.spotify.com/artist/0ZchtyFelhCdiFHrXwxYgp) | [BET UNCU\(N\)T](https://open.spotify.com/album/4zEz2gi2w0EJ1nTaScS3Co) | 2:02 |
 
-Snapshot ID: `AAAAdVMVZllzpHhmLIFD8qc1zVNcTQHX`
+Snapshot ID: `AAAAdwWMPFdrbMU7FrCOs/TkMOWzBga1`

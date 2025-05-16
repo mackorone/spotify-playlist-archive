@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Nvc0IRLdtu.md) - [plain]
 
 > Sophisticated palates only\. Curated by: SZA & Keke Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,047 likes - 69 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,135 likes - 69 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Nvc0IRLdtu.md) - [plain]
 | 12 | [Fleeting Melodies](https://open.spotify.com/track/6fDOmc9zhuu7V424ausjjU) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:37 |
 | 13 | [I Believe In Miracles](https://open.spotify.com/track/3KBMeEwL4FCVCWLzDRY9aF) | [Jackson Sisters](https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ) | [Funked! : Volume 2 1973\-1977](https://open.spotify.com/album/5uorwHhjLzAiFsw1eL0lMn) | 4:50 |
 | 14 | [SZN](https://open.spotify.com/track/2VH8gjv27DzFXLygXgzW0l) | [Jaywop](https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9), [Dave Shanaé](https://open.spotify.com/artist/5ppKWaWRnYsBET84EoCQ2o) | [Emocean](https://open.spotify.com/album/6YoCjiyHfeHu6pBOy1j6eN) | 2:52 |
-| 15 | [Soon](https://open.spotify.com/track/6kN2SkmpIXDigMUVX5lRUW) | [Campana](https://open.spotify.com/artist/2364ipmlSnhR9dgygYHkqu), [p\. kruise](https://open.spotify.com/artist/08o87U8GdK1VFZxQfCLqnJ), [Daniel Leong](https://open.spotify.com/artist/6iTfvuyO9nfINvdHNXq3Yi) | [Soon](https://open.spotify.com/album/4BTpTr6HbtNQ78MACjpgNZ) | 4:29 |
+| 15 | [Soon](https://open.spotify.com/track/6kN2SkmpIXDigMUVX5lRUW) | [Campana P\. Kruise](https://open.spotify.com/artist/7LQTPLKRW970oIRlnX3Fnv) | [Soon](https://open.spotify.com/album/4BTpTr6HbtNQ78MACjpgNZ) | 4:29 |
 | 16 | [Blasphemy](https://open.spotify.com/track/2Z3XXP7ibSjci6X3Ka44E0) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Blasphemy](https://open.spotify.com/album/5c04iQtkacRr05igSQg46z) | 2:50 |
 | 17 | [Ain't It Sick!](https://open.spotify.com/track/64QfvYHhI7Sy4unK9vRWZN) | [Mijita](https://open.spotify.com/artist/47H96MtmWURN5rR2dPNm5s) | [BIMBADA](https://open.spotify.com/album/40lxTyyBGMBmYJRfiOzTNq) | 3:01 |
 | 18 | [BGC](https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [BGC](https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR) | 2:36 |

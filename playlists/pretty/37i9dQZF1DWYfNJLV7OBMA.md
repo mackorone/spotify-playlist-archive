@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,635 likes - 62 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,642 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 37 | [Mandaram Eli](https://open.spotify.com/track/2US9BVE4YN1Werb6WEc34o) | [Bhashi Devanga](https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y) | [Mandaram Eli](https://open.spotify.com/album/7DH1ArjMLHLpfysdHLtDtx) | 3:20 |
 | 38 | [Hithawanthi](https://open.spotify.com/track/0QivM7RF5E39h5SWQKAUX5) | [Dhyan Hewage](https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G), [Pasan Liyanage](https://open.spotify.com/artist/44fhZpV5IJzoRFiUswUhbi) | [Hithawanthi](https://open.spotify.com/album/2TOulTsHrzdoBKLKB60AKQ) | 4:08 |
 | 39 | [Adarei Uthuranna](https://open.spotify.com/track/6oKf9ytZVyfsbheiHHTMn1) | [Gangadara](https://open.spotify.com/artist/0LgNWOFOH2xGYD0MOdNZVw) | [Adarei Uthuranna](https://open.spotify.com/album/78ayrcPhbdqKsYe4kA0R3K) | 1:06 |
-| 40 | [Aaley Wandanawak](https://open.spotify.com/track/2odCzcnigzWfFVOUE1rtwS) | [Dilki Uresha](https://open.spotify.com/artist/2cikzwXVq83CvsKLNIwol4), [Nadun Gimhana](https://open.spotify.com/artist/5Wf3lJR6psTqPX5Ol0eirp) | [Aaley Wandanawak](https://open.spotify.com/album/4nh2yao9AjJJVNitM1Tfkr) | 3:18 |
+| 40 | [Aaley Wandanawak](https://open.spotify.com/track/2odCzcnigzWfFVOUE1rtwS) | [Dilki Uresha](https://open.spotify.com/artist/0dg7tte5AOjvxA5repY1HS), [Udara Samaraweera](https://open.spotify.com/artist/5bJVhEZyYJ17uQ8NSgbkcM), [Nadun Gimhana](https://open.spotify.com/artist/5Wf3lJR6psTqPX5Ol0eirp) | [Aaley Wandanawak](https://open.spotify.com/album/4nh2yao9AjJJVNitM1Tfkr) | 3:18 |
 | 41 | [Salli](https://open.spotify.com/track/6SgQxBdk7X58d5frsWf9je) | [Sarith and Surith](https://open.spotify.com/artist/2iI5Jn0xAF2wVnvf1QbhjA), [K V N](https://open.spotify.com/artist/5IGuuydjQ4AxKuk8Eik0SV) | [Salli](https://open.spotify.com/album/4QrFilPXL39L2h4sjSsfWv) | 4:05 |
 | 42 | [Hawasaka Ma](https://open.spotify.com/track/6pnC2gyFfl7uDRcjpsWp6l) | [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP) | [Hawasaka Ma](https://open.spotify.com/album/4eEoUBODtF68bzZl3OgmGZ) | 3:04 |
 | 43 | [Mal Onchilla](https://open.spotify.com/track/1kQzWYUZnqQJm3H43eDNXd) | [Hana Shafa](https://open.spotify.com/artist/7occ8YAUAF3XJbC3uCq1iL), [Dilshan L Silva](https://open.spotify.com/artist/2Gby4q72O2NHHE3JxhgV3f), [Lasitha Jayaneththi Arachchige](https://open.spotify.com/artist/4fLFMxE5SjvOzSPjr6D8B9) | [Mal Onchilla](https://open.spotify.com/album/67zFApoGwQ250TbCqGg3aQ) | 3:12 |

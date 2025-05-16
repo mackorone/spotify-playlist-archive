@@ -2,9 +2,9 @@
 
 ### [פופ ישראלי חדש](https://open.spotify.com/playlist/37i9dQZF1DX9sLipKPkV9T)
 
-> כל הפופ היפה והמרגש של ישראל\. קאבר:  לירן דנינו
+> כל הפופ היפה והמרגש של ישראל\. קאבר: מרגי
 
-337 songs - 17 hr 55 min
+339 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [דאמ](https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [דאמ](https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo) | 2:49 | 2024-08-15 | 2025-01-17 |
 | [דברים שכתבתי \- שיר לזכרו של איתי שהם ז"ל](https://open.spotify.com/track/4i5wSSIGgXZaUmScGkCzIE) | [Ethnix](https://open.spotify.com/artist/0rcuq0mzUaleXgXxuLFPPZ) | [דברים שכתבתי \(שיר לזכרו של איתי שהם ז"ל\)](https://open.spotify.com/album/4bt60omFrLrKMWc7VwfXVd) | 3:47 | 2024-07-11 | 2024-08-16 |
 | [די](https://open.spotify.com/track/1gBpxZfkiD8TSqAigvHkhW) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [די](https://open.spotify.com/album/2Wkzm7YgWEqjoLg0vP12ZD) | 3:56 | 2024-11-28 | 2024-12-20 |
-| [דרישת שלום מחיים אחרים \(מילי\) \[Drishat Shalom Me'Chaim Acherim \(Mili\)\]](https://open.spotify.com/track/2xtGFPXdUnH7Kqfw9sbIZQ) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [שירה בן שמחון](https://open.spotify.com/artist/3KzDBlFWWc5PMOLDnGnGnS) | [דרישת שלום מחיים אחרים \(מילי\) \[Drishat Shalom Me'Chaim Acherim \(Mili\)\]](https://open.spotify.com/album/0rh2sxfvoJdBZqqJJSvBJI) | 3:16 | 2025-01-09 |  |
+| [דרישת שלום מחיים אחרים \(מילי\) \[Drishat Shalom Me'Chaim Acherim \(Mili\)\]](https://open.spotify.com/track/2xtGFPXdUnH7Kqfw9sbIZQ) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [שירה בן שמחון](https://open.spotify.com/artist/3KzDBlFWWc5PMOLDnGnGnS) | [דרישת שלום מחיים אחרים \(מילי\) \[Drishat Shalom Me'Chaim Acherim \(Mili\)\]](https://open.spotify.com/album/0rh2sxfvoJdBZqqJJSvBJI) | 3:16 | 2025-01-09 | 2025-05-16 |
 | [האש האדומה \(גב אל גב\)](https://open.spotify.com/track/22HuT7lUktFKIQVrXBFfpA) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [האש האדומה \(גב אל גב\)](https://open.spotify.com/album/3gssKPIy8JGDO6nTYHLCpT) | 2:52 | 2025-01-23 | 2025-03-07 |
 | [הגלגל עוד יסתובב](https://open.spotify.com/track/200NpD7JWyn667Vb46Mor9) | [Idan Bakshi](https://open.spotify.com/artist/0MR58B4lyUUebmLWU8bjWs) | [הגלגל עוד יסתובב](https://open.spotify.com/album/3DXbV8n0OBP1ro8ZCMBl0D) | 2:47 | 2025-04-10 | 2025-04-25 |
 | [הדלת הפתוחה](https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [הדלת הפתוחה](https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y) | 2:41 | 2025-02-27 | 2025-03-21 |
@@ -191,6 +191,7 @@
 | [כמה זה יפה](https://open.spotify.com/track/49MdzRvQXZ9yJzaqzfAW5Y) | [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu) | [כמה זה יפה](https://open.spotify.com/album/15tAdynVlKViE6dlzHgKeU) | 3:20 | 2024-07-18 | 2024-12-06 |
 | [כמעט שנתיים](https://open.spotify.com/track/3gsouDDSV6MNnXYoVlLzt4) | [Elai Botner and Yaldei Hachutz](https://open.spotify.com/artist/4q5k69mieggvWRdsxYmlO1), [Elai Botner](https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0) | [כמעט שנתיים](https://open.spotify.com/album/21X0RKf5bj4V3muXct3XEO) | 3:36 | 2024-06-27 | 2024-07-05 |
 | [כפרה לנד](https://open.spotify.com/track/1Sw4FRafnTe0BLumLcpi3N) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [עידו בי](https://open.spotify.com/artist/1obWO7PfWL5n6oyqB984OQ) | [כפרה לנד](https://open.spotify.com/album/2I1xx5j5N0yQhdSDAGsHZx) | 2:24 | 2024-07-04 | 2024-12-13 |
+| [לא אכפת לי](https://open.spotify.com/track/0lv4qpjNTUf1nATDz1fhsu) | [פרידה](https://open.spotify.com/artist/6VQ8b7uCvOji6TvSqozJ2D) | [לא אכפת לי](https://open.spotify.com/album/3ZdABSO68ysogv6foyBdz4) | 2:59 | 2025-05-15 |  |
 | [לא באמת כלום](https://open.spotify.com/track/70D3t1kTUZRef1ZZKClOxu) | [Eli Huli](https://open.spotify.com/artist/0pVfuGHwDRXhSWJw7tzygH) | [לא באמת כלום](https://open.spotify.com/album/14t2NznGGkbO8r0ScpgWxk) | 3:02 | 2024-11-14 | 2024-12-06 |
 | [לא בכוונה](https://open.spotify.com/track/7rOk7Pvu6xHXJ0tNCUA1oV) | [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx) | [לא בכוונה](https://open.spotify.com/album/218vlDWiVGdYQVHmRxGQD1) | 2:35 | 2024-12-05 | 2025-02-14 |
 | [לא זמן טוב](https://open.spotify.com/track/7rJw8ABsu0fwWFSiQJ3zWD) | [Omer Moskovich](https://open.spotify.com/artist/0QRKWNU8pxIapKWMqgX72s) | [לא זמן טוב](https://open.spotify.com/album/2iNpn8Bzi48aKNFqBuHpxY) | 3:50 | 2025-02-27 | 2025-03-28 |
@@ -224,7 +225,7 @@
 | [למות עליי](https://open.spotify.com/track/3r7YCYW9TthkS3Eo0aCBse) | [Sheer Zuares](https://open.spotify.com/artist/6A7zj7m35jN7X2u49Sy52r) | [למות עליי](https://open.spotify.com/album/2OtWdaSXhz6TL2SrolkYMm) | 2:28 | 2024-12-05 | 2025-01-24 |
 | [לעצור את הדמעות](https://open.spotify.com/track/1ArrQVDcNOzCt255T6u1VR) | [Ben El Tavori](https://open.spotify.com/artist/1oluYiPAw86NzrruZvKfcy), [Synergia](https://open.spotify.com/artist/6ktrWfvGwitQMMmIgN0EYO) | [לעצור את הדמעות](https://open.spotify.com/album/2iVoUolAfmoPcyKsZbelRZ) | 3:07 | 2024-07-18 | 2024-10-25 |
 | [לפעמים](https://open.spotify.com/track/0CoCNhbhXZyCljWgQtAZP6) | [Kobi Aflalo](https://open.spotify.com/artist/0xYY2tRJGTvQC6rPjk758w), [Sabbo](https://open.spotify.com/artist/1Le4RKC0GO8sD4cRxmqlgp) | [לפעמים](https://open.spotify.com/album/4XHkvJHxZxuQsCjPGVNK9x) | 3:11 | 2024-06-27 | 2024-07-05 |
-| [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 | 2025-01-09 |  |
+| [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 | 2025-01-09 | 2025-05-16 |
 | [מאבד את זה](https://open.spotify.com/track/0ZJAR4u9jyyEHm4VwvkYSR) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [מאבד את זה](https://open.spotify.com/album/2HfZwnoRPOefIexunsJ4z0) | 2:27 | 2025-05-08 |  |
 | [מאמא](https://open.spotify.com/track/4kOdGnkMv1HvrQxB6bYhgB) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC) | [מאמא](https://open.spotify.com/album/0qisWAbHrixnpO5aHxmHQ5) | 3:09 | 2025-02-27 | 2025-03-14 |
 | [מגדלור](https://open.spotify.com/track/4WDHvSm5IszIAW7GuQNVdF) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [מגדלור](https://open.spotify.com/album/7fEKEDRFy7ypnRTD1oAC3N) | 3:14 | 2024-07-11 | 2024-11-29 |
@@ -249,6 +250,7 @@
 | [מפרש לבן](https://open.spotify.com/track/4GzV9XajF9E8rSLAZa9WVA) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [מפרש לבן](https://open.spotify.com/album/2Rklq8xzKHOGa64ZuKSDKZ) | 4:10 | 2025-03-20 |  |
 | [מקום בחייך](https://open.spotify.com/track/3odiIlhzbc43pFUiUXQSwH) | [Yam Refaeli](https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6) | [מקום בחייך](https://open.spotify.com/album/2JoZx4ITfjtsyT1IZ0ObZ2) | 2:56 | 2024-06-27 | 2024-08-02 |
 | [משה](https://open.spotify.com/track/3Kl3XgSevg4Z0774K9Mj1t) | [Omer Datz](https://open.spotify.com/artist/5cNps5wYsmy9J7E2tGWcH7) | [באהבה שלנו](https://open.spotify.com/album/4Ymz4jv1xwNnADNcPT6S81) | 3:42 | 2024-08-08 | 2024-08-23 |
+| [משהו אחר](https://open.spotify.com/track/7cqdH5LgHJsorTvwtAMmYF) | [Eldad Zitrin](https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk), [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [משהו אחר](https://open.spotify.com/album/3sRSX68JBe65QH4N1ip1wW) | 2:31 | 2025-05-15 |  |
 | [משהו בי חי](https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [משהו בי חי](https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH) | 2:57 | 2024-08-08 | 2024-08-23 |
 | [משהו יבוא](https://open.spotify.com/track/5sfxcfQYGwSk24QYRDynFX) | [Orr Amrami Brockman](https://open.spotify.com/artist/7LYQkaWV7dxEs53F8kP7Ml) | [משהו יבוא](https://open.spotify.com/album/0TR4lu4x1gpYq4v4VZPJPP) | 3:16 | 2024-12-05 | 2025-01-24 |
 | [משהו לא עובד](https://open.spotify.com/track/6UlTe1ny6WVR2hcukLlws2) | [Livnat Ben Hamou](https://open.spotify.com/artist/7dDGoJ4nRld8RTcpHMuVAW) | [משהו לא עובד](https://open.spotify.com/album/7nh2QpNwmE5oM73POJNd4e) | 3:33 | 2024-07-11 | 2024-08-09 |

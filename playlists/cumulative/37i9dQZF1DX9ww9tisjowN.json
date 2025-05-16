@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure.  cover: Cover: TK from Ling tosite sigure",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure.  cover: Cover: F5ve",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 186706,
       "name": "01",
       "url": "https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T"
+    },
+    {
+      "album": {
+        "name": "Gen",
+        "url": "https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "2 (feat. Lee Youngji)",
+      "url": "https://open.spotify.com/track/6XhOrT6C9VG7UmH3e70CkF"
     },
     {
       "album": {
@@ -3204,7 +3226,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 188200,
       "name": "IN THE RAIN",
       "url": "https://open.spotify.com/track/7gJsLJXg9WIMFG2AoxddtD"
@@ -4568,6 +4590,24 @@
       "duration_ms": 171013,
       "name": "Midnight Mayoi",
       "url": "https://open.spotify.com/track/7f7v2N5STXFIm2X7W0K5Cd"
+    },
+    {
+      "album": {
+        "name": "MILLION PLACES",
+        "url": "https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "MILLION PLACES",
+      "url": "https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT"
     },
     {
       "album": {

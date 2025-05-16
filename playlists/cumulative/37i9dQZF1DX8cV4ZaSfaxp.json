@@ -3761,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "EVE: ROMANCE",
+        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164936,
+      "name": "Midnight Cruise",
+      "url": "https://open.spotify.com/track/5V07BlPJAYdvu7oF1SkN64"
+    },
+    {
+      "album": {
         "name": "midnight sun",
         "url": "https://open.spotify.com/album/4SR44954mdbfI5tSIwE7a9"
       },
@@ -3830,7 +3848,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 255839,
       "name": "Monthly Project 2023 January Yoon Jong Shin - The Third",
       "url": "https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk"
@@ -5081,6 +5099,24 @@
     },
     {
       "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/1DSDmBpBFHObaeKo1WTstK"
+    },
+    {
+      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/6z9lCCimp8FEG6az48jEik"
       },
@@ -5782,7 +5818,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 194331,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc"

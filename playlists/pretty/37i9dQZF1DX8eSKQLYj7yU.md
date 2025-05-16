@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 
 > Celebrate the season with your favorite bluegrass artists from yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,024 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,022 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 | 51 | [Christmas Cheer](https://open.spotify.com/track/3CyOBD3VqRIuZuYVTzBvVx) | [Full Cord](https://open.spotify.com/artist/0IfvCXwxVGv9Eh26bgmGFr) | [Christmas Cheer](https://open.spotify.com/album/26FmKJDWKFfoE8PQJy4PiY) | 2:44 |
 | 52 | [Breaking Up Christmas](https://open.spotify.com/track/6a9WPJougvdb1zVtWoL8fe) | [Clover\-Lynn and The Hellfires](https://open.spotify.com/artist/24nUBGHjWwEqACeMgWHgMc) | [Breaking Up Christmas](https://open.spotify.com/album/2ncmvGhAu2Kh03RAnIa5RU) | 1:53 |
 | 53 | [Go Tell It On The Mountain](https://open.spotify.com/track/1cBMI9nZIZ6n1vEdBVGmDM) | [Brice Davis](https://open.spotify.com/artist/1b1HAA4FKPRckylVMBY9PM) | [Holly Jolly Homestead](https://open.spotify.com/album/3fTbOgRRBItYKPpj3QW0Fw) | 2:45 |
-| 54 | [What Child Is This?](https://open.spotify.com/track/0TmKp2NWrIbhJZZB7LtRln) | [Lake & Lyndale](https://open.spotify.com/artist/76p1C2mok3bS6Ae6kwmvNR) | [What Child Is This?](https://open.spotify.com/album/3JY10gt0CoSIbEsP4GTW09) | 3:31 |
+| 54 | [What Child Is This?](https://open.spotify.com/track/0TmKp2NWrIbhJZZB7LtRln) | [Lake & Lyndale](https://open.spotify.com/artist/76p1C2mok3bS6Ae6kwmvNR), [Channing K](https://open.spotify.com/artist/6d1osjiWS8plsTP6AactfV) | [What Child Is This?](https://open.spotify.com/album/3JY10gt0CoSIbEsP4GTW09) | 3:31 |
 | 55 | [Green Garland](https://open.spotify.com/track/4Q8XDPeRhOnYWZsTHHzzw8) | [Songs From The Road Band](https://open.spotify.com/artist/5moOZhZ7mnRmBMqCZft93N) | [Green Garland](https://open.spotify.com/album/7jxI890kIzYa6UKnOndKVD) | 3:23 |
 | 56 | [We Three Kings](https://open.spotify.com/track/1RvsgqxxwBeyJWSwbRqcGh) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Dust the Halls: An Acoustic Christmas Holiday!](https://open.spotify.com/album/0PJmG1KmYVX5I9lEtmFWTt) | 3:37 |
 | 57 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/3kVnoW7oDuuovp1SyMj9Kb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:04 |

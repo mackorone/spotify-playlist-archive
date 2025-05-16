@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Mega 50 - Die 70er Jahre",
+        "url": "https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls"
+      },
+      "artists": [
+        {
+          "name": "Ireen Sheer",
+          "url": "https://open.spotify.com/artist/6DtzOuUkjukrHLwgG4EnDw"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Feuer - Remastered 1996",
+      "url": "https://open.spotify.com/track/1bBZVweXaAyLI8FkuhoOyb"
+    },
+    {
+      "album": {
         "name": "Gwendolyne",
         "url": "https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 171666,
       "name": "Hablemos del amor",
       "url": "https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8"

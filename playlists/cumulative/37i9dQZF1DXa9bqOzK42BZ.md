@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-232 songs - 20 hr 22 min
+233 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Asante Yesu](https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3) | 4:55 | 2022-06-24 | 2024-09-06 |
 | [Asante Yesu](https://open.spotify.com/track/2rUsag6KYqJAT2FikN7Kdt) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7xdM3ySr8c2PNbdrAKeZ3P) | 4:55 | 2022-06-24 | 2024-04-19 |
 | [Atafanya](https://open.spotify.com/track/6GVCASJsB3ly7jfatlcuUg) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atafanya](https://open.spotify.com/album/4d2RvpianFuxJcnxLykgGJ) | 3:49 | 2025-04-18 |  |
+| [Awesome God](https://open.spotify.com/track/6wZVduxtSmYnioxOjIsA5s) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Awesome God](https://open.spotify.com/album/5VpaMGKUtmyKP3lx7zo0gN) | 1:39 | 2025-05-16 |  |
 | [Baba Bless](https://open.spotify.com/track/3dhCA09HOqWflLFBETCNlg) | [Nuh Mziwanda](https://open.spotify.com/artist/3Tr1usGEKLrBWtSXCqOBop) | [Baba Bless](https://open.spotify.com/album/6ocpsJ53YTnsTt7bHOj8kk) | 3:03 | 2024-12-13 | 2025-04-18 |
 | [BABA MWEMA](https://open.spotify.com/track/7pM0W3cq4NYaG5pmt3FDA9) | [Beda Andrew](https://open.spotify.com/artist/11VA7kqmrvG4yAs57K1h8Z) | [BABA MWEMA](https://open.spotify.com/album/7nrDTqBz4RxQwSqYf1gFSe) | 3:18 | 2023-10-13 | 2024-05-10 |
 | [Beba Nuru](https://open.spotify.com/track/3X7Ebfhg0rl0DWN3UErhfw) | [Mgasa George](https://open.spotify.com/artist/0UzzhS3G4a2c4jINaSAEhy) | [Beba Nuru](https://open.spotify.com/album/1VOv6kempfsry0X3LgZBT6) | 3:47 | 2023-05-05 | 2023-07-07 |
@@ -113,7 +114,7 @@
 | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/track/0BPriVJeWjmo3ugIVkN2vw) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Pitson](https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM) | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/album/3rxqx10BOlKbhcu4RkWcGS) | 3:16 | 2023-10-13 | 2024-05-24 |
 | [Mungu Tu](https://open.spotify.com/track/3eT8tmuQVnKdB2X5KJn6KD) | [Zion Njeri](https://open.spotify.com/artist/39Kc4S8IXSqU4dO6UivqL6) | [Mungu Tu](https://open.spotify.com/album/3lCqmdjWv74wnZUSPCBVpF) | 3:04 | 2025-02-21 |  |
 | [Mungu Wa Namna Hii](https://open.spotify.com/track/5r6nfwaKNs5THoXls9dVri) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mungu Wa Namna Hii](https://open.spotify.com/album/2S4QeVTjXoXolpBrk812UR) | 3:31 | 2024-07-05 |  |
-| [Mwaka Huu](https://open.spotify.com/track/5RfwqcvoiQ4pQct7HsXfC1) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Mwaka Huu](https://open.spotify.com/album/4kqaf2pLxAGNGTVcCfPWtx) | 2:49 | 2025-03-28 |  |
+| [Mwaka Huu](https://open.spotify.com/track/5RfwqcvoiQ4pQct7HsXfC1) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Mwaka Huu](https://open.spotify.com/album/4kqaf2pLxAGNGTVcCfPWtx) | 2:49 | 2025-03-28 | 2025-05-16 |
 | [Mwenye Uwezo \- Live](https://open.spotify.com/track/4RcqL9xk4v0PbbuEaCJxVv) | [Dr Sarah K](https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm), [Shachah Team](https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy) | [Mwenye Uwezo](https://open.spotify.com/album/1vuXnAygU80Nr9hRTAvgjW) | 8:39 | 2025-04-18 |  |
 | [Naamini Kwako Bwana](https://open.spotify.com/track/1xqmMfkjQSGUgGF93wSbyE) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Naamini Kwako Bwana](https://open.spotify.com/album/1jExfezqunAy4F3tQP9IZf) | 6:20 | 2024-12-20 | 2025-03-28 |
 | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/track/7tnGzoqS9ITlwiQmlaTtgB) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Zoe](https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg) | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/album/6IrJsGlVLBtKcGquLif5v0) | 3:17 | 2024-09-06 |  |

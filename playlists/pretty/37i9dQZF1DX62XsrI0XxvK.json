@@ -1,13 +1,29 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Syahravi",
-  "num_followers": 12654,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: gabsav",
+  "num_followers": 12657,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBzjIwAAAAAsDxBldOOJmOaRf3q6r54a",
+  "snapshot_id": "aCYrrwAAAAA41z1mpIbQ8Y542zlcDuzZ",
   "tracks": [
+    {
+      "added_at": "2025-05-15 18:00:15",
+      "album": {
+        "name": "hush",
+        "url": "https://open.spotify.com/album/25udfmqeT2f2ZrTSt2H9Sa"
+      },
+      "artists": [
+        {
+          "name": "gabsav",
+          "url": "https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ"
+        }
+      ],
+      "duration_ms": 274730,
+      "name": "hush",
+      "url": "https://open.spotify.com/track/6Dv7W37km5fOeuHdAUdJJD"
+    },
     {
       "added_at": "2025-05-08 17:00:19",
       "album": {

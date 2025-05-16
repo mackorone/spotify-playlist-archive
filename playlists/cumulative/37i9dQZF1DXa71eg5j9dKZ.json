@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Catching Flies",
+  "description": "The home for alternative electronic music. Cover: Sofia Kourtesis, Daphni",
   "name": "Altar",
   "tracks": [
     {
@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Are U The One",
+        "url": "https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274782,
+      "name": "Are U The One",
+      "url": "https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA"
+    },
+    {
+      "album": {
         "name": "Are We Here? (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/1BaqR0H9llOKtOGNUIN4Wc"
       },
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 187000,
       "name": "Area",
       "url": "https://open.spotify.com/track/75Urs6b0XTdL0v28Rkuw34"
@@ -1680,6 +1698,24 @@
       "duration_ms": 156018,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/2k2xKWFpwZ2OU3q5hBEccK"
+    },
+    {
+      "album": {
+        "name": "Back Of My Mind",
+        "url": "https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266505,
+      "name": "Back Of My Mind",
+      "url": "https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe"
     },
     {
       "album": {
@@ -4366,7 +4402,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 221538,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/4enPTcEhKS40yyfvUEUntA"
@@ -6394,7 +6430,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 384361,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/6A6mNDfIirCXtlc2LVbRS1"
@@ -8094,7 +8130,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 212325,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp"
@@ -9544,7 +9580,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 206837,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/3AGqoV9OBrQqwOFtuWcWki"
@@ -14388,7 +14424,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 162100,
       "name": "No Bad Vibes",
       "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
@@ -15246,6 +15282,32 @@
       "duration_ms": 140785,
       "name": "Our Brain is a Museum",
       "url": "https://open.spotify.com/track/5ZlqiOeQpgG7GUXgiI91wB"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5NIsbRVw7tEOYgamDo4QYV"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        },
+        {
+          "name": "Tesfa Williams",
+          "url": "https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6"
+        },
+        {
+          "name": "T.Williams",
+          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/1PiLGoIdjH3qKNXphnxuVc"
     },
     {
       "album": {
@@ -16478,7 +16540,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 186997,
       "name": "Rain",
       "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
@@ -16944,6 +17006,24 @@
       "duration_ms": 211200,
       "name": "Risk It All (feat. Maverick Sabre)",
       "url": "https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256920,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi"
     },
     {
       "album": {
@@ -18793,6 +18873,24 @@
     },
     {
       "album": {
+        "name": "Puta / Sola",
+        "url": "https://open.spotify.com/album/5pR0qWF08ZFisy9P4YTR0e"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186232,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/32x1tMcicnF3Tvu8ApsVfA"
+    },
+    {
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT"
       },
@@ -18946,7 +19044,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 229767,
       "name": "SOS",
       "url": "https://open.spotify.com/track/4LjotOn8sSIARFPSwSif6T"
@@ -21648,7 +21746,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 172305,
       "name": "TURN YOUR HEART AROUND",
       "url": "https://open.spotify.com/track/3VVNugqkWk3NqCfTfv0N4C"
@@ -21883,6 +21981,28 @@
     },
     {
       "album": {
+        "name": "Unidos",
+        "url": "https://open.spotify.com/album/2dJgxHSvlhIM3bxxQozioO"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317962,
+      "name": "Unidos",
+      "url": "https://open.spotify.com/track/053G1LzgAp6h89rrotgsn0"
+    },
+    {
+      "album": {
         "name": "Unit 18",
         "url": "https://open.spotify.com/album/1uv2fpE0D6tI9hB7Uq0nJe"
       },
@@ -21916,7 +22036,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 183322,
       "name": "Unknowable",
       "url": "https://open.spotify.com/track/7qt7yOwx9c39I1Ti8iAgLa"

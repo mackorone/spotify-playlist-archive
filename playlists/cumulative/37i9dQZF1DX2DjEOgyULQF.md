@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-237 songs - 11 hr 32 min
+238 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2023-04-28 |  |
 | [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2023-04-28 |  |
 | [Humidity](https://open.spotify.com/track/0gUbV5WnXb30Uul9WjKkbo) | [Constant Future](https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA) | [Humidity](https://open.spotify.com/album/2eFMxe5w2MRBOvsonQLK7g) | 2:42 | 2025-01-08 |  |
+| [Hydration](https://open.spotify.com/track/6euwKpkQB92wk3DluAidnQ) | [Divine Isle](https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT) | [Hydration](https://open.spotify.com/album/2Zonfdg72FB9zs6GJvA77C) | 3:12 | 2025-05-06 |  |
 | [I Can See You At The Bottom Of Every River](https://open.spotify.com/track/7mNB5wjFqN2ERnNeDe1YPg) | [Le Code](https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ) | [Into The Wild](https://open.spotify.com/album/2hxfoyhB0m567fTylRTAw3) | 4:02 | 2023-04-28 | 2023-06-17 |
 | [Imitating Reflections](https://open.spotify.com/track/0SETmmxlQchBbRxvJpZTp3) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Imitating Reflections](https://open.spotify.com/album/7LmA2P6Of7fTlkqHdv9ex1) | 2:23 | 2023-04-28 |  |
 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 | 2025-04-13 |
@@ -237,7 +238,7 @@
 | [Wave Son](https://open.spotify.com/track/1zISOcapD0WOYWovAxE9Si) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Wave Son](https://open.spotify.com/album/4icmQJ3f32Xcz6FniCqQJE) | 2:38 | 2024-05-01 |  |
 | [Wavy](https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Wavy](https://open.spotify.com/album/0qGpUKxTfjjsUZJ0Hx3Jf2) | 4:02 | 2023-04-28 | 2025-03-21 |
 | [Where I Belong](https://open.spotify.com/track/5eB7WeAkom0NaB4Q5jEfeT) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit](https://open.spotify.com/album/25RUQBt47toM0l7s8mvnh5) | 2:51 | 2023-04-28 | 2024-06-04 |
-| [Wilderness \(Sound Bath\)](https://open.spotify.com/track/2MHG83f4G7CnoxuRrvDc68) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Wilderness](https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM) | 3:51 | 2023-04-28 |  |
+| [Wilderness \(Sound Bath\)](https://open.spotify.com/track/2MHG83f4G7CnoxuRrvDc68) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Wilderness](https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM) | 3:51 | 2023-04-28 | 2025-05-16 |
 | [Wisdom \- Gentle Forest](https://open.spotify.com/track/45hvuICHf2TG5iS3IQCh2S) | [Moments of Meaning](https://open.spotify.com/artist/10zMkTihC3EXDt7oSyNmHO) | [Wisdom \(Gentle Version\)](https://open.spotify.com/album/0wYUrVr3zzXemT1xeZyAMJ) | 2:26 | 2023-04-28 | 2024-04-02 |
 | [Wisdom \- Gentle Ocean](https://open.spotify.com/track/5bhXeDbBHVK7Wof82isDD7) | [Moments of Meaning](https://open.spotify.com/artist/10zMkTihC3EXDt7oSyNmHO) | [Wisdom \(Gentle Version\)](https://open.spotify.com/album/0wYUrVr3zzXemT1xeZyAMJ) | 2:28 | 2023-04-28 | 2024-06-04 |
 | [Woodland](https://open.spotify.com/track/7MG0wElZyCdYZg4qpBmcYS) | [Cénter](https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S) | [Woodland](https://open.spotify.com/album/6zDCP4I0ZFQCKBLcoQLSkW) | 2:52 | 2025-04-11 |  |

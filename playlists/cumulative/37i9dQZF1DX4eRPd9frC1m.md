@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-415 songs - 22 hr 29 min
+416 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [IMY \(feat\. Bella Renee\)](https://open.spotify.com/track/6oosMYrpIekDxg67SV60Va) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 2:46 | 2023-02-24 | 2024-04-19 |
 | [IN THE ALLEY](https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [IN THE ALLEY](https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh) | 2:42 | 2024-06-28 |  |
 | [In The Back \- Original Mix](https://open.spotify.com/track/60ujdXHloDnM7Dppefc2b2) | [DJ Fixx](https://open.spotify.com/artist/6x8SfgcTq31PTfe3SJrugo) | [In The Back](https://open.spotify.com/album/1wDlBASiT1YCFaZGyosFoi) | 3:36 | 2021-11-19 | 2022-01-08 |
-| [In The Place](https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [In The Place](https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc) | 3:50 | 2023-12-15 |  |
+| [In The Place](https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [In The Place](https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc) | 3:50 | 2023-12-15 | 2025-05-16 |
 | [IN THE ZONE](https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [IN THE ZONE](https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC) | 2:49 | 2024-08-09 | 2025-03-16 |
 | [Incantate](https://open.spotify.com/track/10lq0wRPNv7RVgIqDC89a9) | [Automhate](https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Incantate](https://open.spotify.com/album/5q5lbHaktTz85S1sS2IOol) | 4:36 | 2023-08-18 | 2023-09-10 |
 | [Joker \(Gawm Remix\)](https://open.spotify.com/track/6MQjOwzFgivGZM7Ke30uhB) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Frequency Pusher](https://open.spotify.com/artist/3VCKNFd2r6bFaSK3DSyqUT), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [Luvaboy Tj](https://open.spotify.com/artist/7gE5hIAnB7EXgQUMhjfb92) | [Joker \(Gawm Remix\)](https://open.spotify.com/album/6rA8lYRLd9b0i4CSlhsoBR) | 3:24 | 2022-03-11 | 2022-09-10 |
@@ -338,6 +338,7 @@
 | [Sleep Paralysis VIP](https://open.spotify.com/track/5EMAHbSR7Iv4ClB8NfvJqI) | [Izzy Vadim](https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l) | [Sleep Paralysis \(Remixes/VIP\)](https://open.spotify.com/album/4eQZAbjAY72cIJsqiJ5xmd) | 2:43 | 2023-08-18 | 2023-09-10 |
 | [Slime Zone](https://open.spotify.com/track/6fjqwcGl2JcoExcen7i5r8) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Slime Time, Pt\. 2](https://open.spotify.com/album/7lP2OXIG2kB1Zlgucw3dyJ) | 2:56 | 2022-01-07 | 2022-04-29 |
 | [SMACK TALK](https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37) | [SMACK TALK](https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc) | 4:00 | 2024-06-28 |  |
+| [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 | 2025-05-09 |  |
 | [So Far](https://open.spotify.com/track/5LjoyefinBuAQr2Fj2byyM) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Nonsens](https://open.spotify.com/artist/09GJU4jF4zhNfN72mTyMCi) | [So Far](https://open.spotify.com/album/6mn4tGxbZ1hcL4S8pfj0l5) | 2:51 | 2021-11-19 | 2022-01-08 |
 | [SONG REQUEST](https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SONG REQUEST](https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz) | 3:24 | 2024-05-31 |  |
 | [SONG SIX \- CloZee Remix](https://open.spotify.com/track/30rKCglfFE6ta2iJfrwaU1) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SONG SIX \(CloZee Remix\)](https://open.spotify.com/album/5nw1xSZFsU5Jn4Sphc1I9q) | 3:39 | 2021-11-19 | 2022-01-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,243 likes - 530 songs - 1 day 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,244 likes - 530 songs - 1 day 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -539,4 +539,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 529 | [Living A Lie](https://open.spotify.com/track/2mI14DzPxj1TZ3xIn5YQmI) | [Justin A\. G.](https://open.spotify.com/artist/5hEVcpUrC8MQdXTPv502jC) | [Here's To You, Here's To Me](https://open.spotify.com/album/1AlBjy74LvUvDCWXlgiJpb) | 2:29 |
 | 530 | [I've Seen Your Ex](https://open.spotify.com/track/5oorDaykLUCmQxbOy83mH5) | [CoverZounds](https://open.spotify.com/artist/7IDWvv3p14ky0S5wxwtiDi), [EDITKINGS](https://open.spotify.com/artist/1xyF70wWUIIdwczzNKkxjI) | [I've Seen Your Ex](https://open.spotify.com/album/1ho6sjwt3p7srho6dV5hA8) | 3:27 |
 
-Snapshot ID: `AbxbCgAAAAAqg+iCrNNPiehstWEcClef`
+Snapshot ID: `Abxg3AAAAAAFdwwmtoVY7pVlQW+epxJJ`

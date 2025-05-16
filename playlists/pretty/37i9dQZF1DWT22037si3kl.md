@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser original, vocês já sabem\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,828 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,840 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 45 | [Diesel Dior](https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Diesel Dior](https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW) | 3:09 |
 | 46 | [Aflição](https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7) | [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Melt77](https://open.spotify.com/artist/4blEXHFmoAIonpnLwxSsxX) | [A Vida De Um Gângster](https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77) | 3:50 |
 | 47 | [Procedimento](https://open.spotify.com/track/5TYh0QfBKXBT3bM8XQpiRa) | [ENOQ](https://open.spotify.com/artist/49EGTw3niUCWrj7CdkzIDx), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY), [EAGD](https://open.spotify.com/artist/3DQWLv2DfidEeP4967gDxN) | [Papo Reto](https://open.spotify.com/album/24RRYd3XJ5cDM5JnWxOb8e) | 2:31 |
-| 48 | [Outro Clima](https://open.spotify.com/track/2Rsrsh2J3BAn4SLBGT7g0s) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:59 |
+| 48 | [Outro Clima](https://open.spotify.com/track/2Rsrsh2J3BAn4SLBGT7g0s) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:59 |
 | 49 | [Ratos](https://open.spotify.com/track/5VVLXmNckkYhRdM0iN5Phj) | [Cinquenta](https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb) | [Ratos](https://open.spotify.com/album/1sKNUmYdg7njXd3laBtAQn) | 3:43 |
 | 50 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 |
 

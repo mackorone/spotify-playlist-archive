@@ -3185,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3ypK4QMoFBgFrW2Z6PGqXm"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Chit Ni Lagda",
+      "url": "https://open.spotify.com/track/3hezpjo4jzOc9PjuIxpDRX"
+    },
+    {
+      "album": {
         "name": "Chitthiyan",
         "url": "https://open.spotify.com/album/3ejnoJrtfH5oBFWyJDoUlP"
       },
@@ -8116,7 +8134,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 220500,
       "name": "Jannat",
       "url": "https://open.spotify.com/track/6yzxDlblhlYBepcieip20S"
@@ -8470,7 +8488,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 265817,
       "name": "Jhol",
       "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
@@ -14000,6 +14018,32 @@
       "duration_ms": 191611,
       "name": "Number",
       "url": "https://open.spotify.com/track/3lQVy4ONHjiNFuThbQMwUd"
+    },
+    {
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/34hEgQGKgDXJTWADhjISFS"
+      },
+      "artists": [
+        {
+          "name": "Karan Randhawa",
+          "url": "https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Geet",
+          "url": "https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/0LaL1ZE4d89NtjTm538QPO"
     },
     {
       "album": {

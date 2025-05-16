@@ -4,7 +4,7 @@
 
 > Degeneracy at its finest!
 
-77 songs - 3 hr 17 min
+79 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bad Dragon](https://open.spotify.com/track/10KAcnsjEFtKTgmk1lQ1hG) | [Hixbi Fox](https://open.spotify.com/artist/76ZTP1RJUrzT2bQSEd8lZ3) | [Furry Addicts](https://open.spotify.com/album/2VbKVxuP0TX1oD3i0NvI6H) | 4:13 | 2023-11-14 |  |
 | [Bass Slut \- Original Mix](https://open.spotify.com/track/51czegKF9UbmUZkp8etKj2) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Bass Slut / It Went / Crazy Ass Bitch](https://open.spotify.com/album/0RqSHxahadfXnYzdq8hi3z) | 5:29 | 2023-11-25 |  |
 | [Bathroom Bitch](https://open.spotify.com/track/75bLecYzbQpsnFMSWl055x) | [HOLYCHILD](https://open.spotify.com/artist/4itksv8jgpEcvRvZ7lDalQ) | [Bathroom Bitch](https://open.spotify.com/album/6it2UEO6XzYwLKZ0uu2U2l) | 2:49 | 2023-11-25 |  |
+| [BET UNCU\(N\)T](https://open.spotify.com/track/5fcknHYAGKzdaKE4TISCzR) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [GLITTERMUTT](https://open.spotify.com/artist/0ZchtyFelhCdiFHrXwxYgp) | [BET UNCU\(N\)T](https://open.spotify.com/album/4zEz2gi2w0EJ1nTaScS3Co) | 2:02 | 2025-05-16 |  |
 | [Big Balls](https://open.spotify.com/track/11xlPlEzy8pKKuQEAJpyzb) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Big Balls](https://open.spotify.com/album/0cmu1siHEV3cLivD7qw0iV) | 2:39 | 2024-01-09 |  |
 | [Bitchboy](https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Bitchboy](https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG) | 1:47 | 2023-11-14 |  |
 | [Blfc National Anthem](https://open.spotify.com/track/3yoxypkj61APsot7TkvC1h) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Dog Songs for Song Dogs](https://open.spotify.com/album/7Ll2RYkXA9coPGmqJ0fJ95) | 1:10 | 2023-11-25 |  |
@@ -84,6 +85,7 @@
 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 | 2024-12-07 |  |
 | [Welcome to the Cum Zone](https://open.spotify.com/track/71uOI9EXy6Se81tMIxjPgU) | [Disterio](https://open.spotify.com/artist/41kP8XzWKKaF6Y7VEw6N6I) | [Welcome to the Cum Zone](https://open.spotify.com/album/4PGOnnwwYmohuNNap2nOLd) | 3:41 | 2024-09-19 |  |
 | [where my balls at?](https://open.spotify.com/track/4yETQkdPKF1GyuxaLDT9Gt) | [SKULL BASH!](https://open.spotify.com/artist/0uXJO1Yg2Mpa4sSsLWug7B), [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40), [CrabMaster69](https://open.spotify.com/artist/4pa3LYBh3pAFjyVe4Lz0YF), [pink\-o](https://open.spotify.com/artist/2A3w0TXOoSXkrN6WE5zdhm), [DEMGOZÉ](https://open.spotify.com/artist/7fHmilC3fxa1zHn9KpNUBm) | [neurotypical](https://open.spotify.com/album/7G9udxNfTrY3lb3pZgboSm) | 2:08 | 2024-01-09 |  |
+| [YINZFUR](https://open.spotify.com/track/386dEt6rsPRRZ0THPDACG2) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [YINZFUR](https://open.spotify.com/album/6vPiRMWwAw89a06PyJvKdl) | 2:33 | 2025-05-16 |  |
 | [Your Cum Won't Last](https://open.spotify.com/track/4LHNsxVAQIFhICivNE9bOC) | [TabbyGarf](https://open.spotify.com/artist/2xm78YzOaTYiABpd8mLrkM) | [Apocalypse 1.2](https://open.spotify.com/album/61hzq6ebaUMZuQb4zm0iY7) | 1:40 | 2024-01-08 |  |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

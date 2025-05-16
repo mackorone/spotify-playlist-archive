@@ -5642,7 +5642,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 134693,
       "name": "Cocky Little Kid",
       "url": "https://open.spotify.com/track/16FDQMsiJhgv9jtxay6tMb"
@@ -11766,6 +11766,24 @@
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
+    {
+      "album": {
+        "name": "Hot Together (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3zqXEoZHyNuY83hlQa201O"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253480,
+      "name": "Hot Together",
+      "url": "https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd"
     },
     {
       "album": {
@@ -18912,7 +18930,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -23706,7 +23724,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 210293,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0T1tCsZ2qPRf6fwphjlNPM"

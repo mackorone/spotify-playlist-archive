@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Yeboyah. ",
+  "description": "100 Suomi \ud83d\udcaf Kannessa SHRTY ja Sliki. ",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Blastoise",
+        "url": "https://open.spotify.com/album/79YsGRf9YFvqjMA1SzTzgN"
+      },
+      "artists": [
+        {
+          "name": "NCO",
+          "url": "https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175237,
+      "name": "Blastoise",
+      "url": "https://open.spotify.com/track/2KByRUPhqEoFIA3VmgM3LP"
+    },
+    {
+      "album": {
         "name": "BLESSAA",
         "url": "https://open.spotify.com/album/750gNeiNyADhBtOyEZ4jvI"
       },
@@ -1808,6 +1826,24 @@
       "duration_ms": 150654,
       "name": "Comeova (feat. Nasri, Kreed & Ice K)",
       "url": "https://open.spotify.com/track/1pvMqCJ57p8gVbctwizFpD"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6w35TTihRhq5YmcMV7aBpq"
+      },
+      "artists": [
+        {
+          "name": "T Swoop",
+          "url": "https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4tOtBFHKI0C1LEcnUM7gBy"
     },
     {
       "album": {
@@ -2340,7 +2376,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157172,
       "name": "Ei hyv\u00e4\u00e4 ilman pahaa (feat. Jami Faltin)",
       "url": "https://open.spotify.com/track/7M5FtK02ZXpfuWxQvLghZH"
@@ -2468,7 +2504,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 188141,
       "name": "Ei Rakkaut",
       "url": "https://open.spotify.com/track/1kWFPp9sMxfKNobdlebdRW"
@@ -5237,6 +5273,32 @@
     },
     {
       "album": {
+        "name": "Jos se must on kii (feat. Ares & Elastinen)",
+        "url": "https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B"
+      },
+      "artists": [
+        {
+          "name": "Danitello",
+          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181351,
+      "name": "Jos se must on kii (feat. Ares & Elastinen)",
+      "url": "https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk"
+    },
+    {
+      "album": {
         "name": "jos s\u00e4 tahdot niin (feat. koira)",
         "url": "https://open.spotify.com/album/1Ybv3x8FwQYHaUeZM44c12"
       },
@@ -6913,6 +6975,28 @@
     },
     {
       "album": {
+        "name": "KRUUNU (feat. ibe)",
+        "url": "https://open.spotify.com/album/55FzsBDx6O1NbBGjYNhYLv"
+      },
+      "artists": [
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216342,
+      "name": "KRUUNU (feat. ibe)",
+      "url": "https://open.spotify.com/track/2OM9fc7sOAdQX2gt5a4PSB"
+    },
+    {
+      "album": {
         "name": "Kr\u00e4kkii skidi",
         "url": "https://open.spotify.com/album/5KR2LUEO4XJCUs3l3zn6vN"
       },
@@ -8358,7 +8442,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 177636,
       "name": "Luotui",
       "url": "https://open.spotify.com/track/4yS9DtA071UWfANL19iSwR"
@@ -10450,7 +10534,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 163972,
       "name": "Naapurintytt\u00f6",
       "url": "https://open.spotify.com/track/57JZLky65bz6I0rtLzkigX"
@@ -10742,6 +10826,24 @@
       "duration_ms": 166031,
       "name": "Nostetaan malja",
       "url": "https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v"
+    },
+    {
+      "album": {
+        "name": "NRO1 B\u00c4M\u00c4",
+        "url": "https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154054,
+      "name": "NRO1 B\u00c4M\u00c4",
+      "url": "https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt"
     },
     {
       "album": {
@@ -11589,6 +11691,28 @@
     },
     {
       "album": {
+        "name": "Parasta aikaa",
+        "url": "https://open.spotify.com/album/1GIr1W3rj6izFP6EVshBo0"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128446,
+      "name": "Parasta aikaa",
+      "url": "https://open.spotify.com/track/5v8BGpuURGF8ydZAomM0WZ"
+    },
+    {
+      "album": {
         "name": "Paratiisi",
         "url": "https://open.spotify.com/album/2YzAWzSha2qcwYARqIsaxM"
       },
@@ -12132,7 +12256,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 185830,
       "name": "Pornosaitilla",
       "url": "https://open.spotify.com/track/0RTcGbDZWapNU4cs5nw0lM"
@@ -13574,7 +13698,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 170450,
       "name": "Se Nainen",
       "url": "https://open.spotify.com/track/1KGRYDGIkt2DOwjXdPicxF"

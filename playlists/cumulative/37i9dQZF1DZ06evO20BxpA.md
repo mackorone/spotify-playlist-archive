@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-140 songs - 6 hr 21 min
+141 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [First Of Many](https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:24 | 2024-11-23 | 2025-04-11 |
 | [Flook](https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 3:32 | 2024-09-03 | 2025-05-10 |
 | [For Millions of Years](https://open.spotify.com/track/4xpvd0eIYKM3SqPDK7pc7r) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 1:46 | 2025-05-15 |  |
-| [Foundations](https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:32 | 2025-05-13 |  |
+| [Foundations](https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:32 | 2025-05-13 | 2025-05-16 |
 | [Frailty in Love](https://open.spotify.com/track/4nI39GnQb5otTxYYn1Np5W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:47 | 2024-10-23 | 2025-04-14 |
 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 | 2023-08-04 |  |
 | [Fury Drives Into Camp](https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 1:50 | 2023-08-04 |  |
@@ -79,6 +79,7 @@
 | [My Policeman \- From the Amazon Original Motion Picture Soundtrack "My Policeman"](https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(From the Amazon Original Motion Picture Soundtrack "My Policeman"\)](https://open.spotify.com/album/6YXkJcrqYmStToq7sa95M2) | 5:09 | 2023-08-04 | 2024-06-28 |
 | [Mythical Creatures Follow \- From "Our Planet"](https://open.spotify.com/track/2QRgLk0yjfdxguI59pUyVk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:31 | 2023-12-29 | 2025-01-09 |
 | [Nighttime Conversation](https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:39 | 2023-08-04 | 2025-01-28 |
+| [No Such Thing as Normal](https://open.spotify.com/track/4TCmih4iGQpAV4LSG1FsPk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:35 | 2025-05-16 |  |
 | [Norman](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:50 | 2023-08-04 |  |
 | [Nothing To Stop Us](https://open.spotify.com/track/6OBrG19AuVOmrFonog79re) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:12 | 2023-08-21 | 2025-05-07 |
 | [Nowehere to Hide](https://open.spotify.com/track/0SvH1H37XSxhFOIqZHsmuf) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 1:07 | 2023-10-10 | 2024-03-23 |

@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-353 songs - 21 hr 48 min
+355 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,10 +206,11 @@
 | [Metro 88](https://open.spotify.com/track/1JYrztZyh5Rcbn0iRBCPQB) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul 선데이서울 Ep.3](https://open.spotify.com/album/2qyuesnAj6Re9a6sy8eA4N) | 3:20 | 2022-05-11 | 2022-07-27 |
 | [midnight](https://open.spotify.com/track/5BdBGg5a8tjv7z0RwF9rcP) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [midnight](https://open.spotify.com/album/5Om4I2PbfVdWz57AENKvxN) | 3:50 | 2022-05-11 | 2025-04-26 |
 | [Midnight \(feat\. SFC.JGR & B JYUN.\)](https://open.spotify.com/track/3LYOTfdF9jyJXVcLvhZ8nz) | [IFI](https://open.spotify.com/artist/6BGkJaN8F1g3OjeOcxVlIB), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Midnight](https://open.spotify.com/album/3zr4mIqRlBEh17j5w7hm1t) | 3:32 | 2022-05-11 |  |
+| [Midnight Cruise](https://open.spotify.com/track/5V07BlPJAYdvu7oF1SkN64) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 2:44 | 2025-05-16 |  |
 | [midnight sun](https://open.spotify.com/track/1tqUzxik2ooGA5HI0gIUPd) | [JANE POP](https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj) | [midnight sun](https://open.spotify.com/album/4SR44954mdbfI5tSIwE7a9) | 3:54 | 2022-06-09 | 2022-07-20 |
 | [Missing Call \(Feat\. SURAN\)](https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [PANORAMA](https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI) | 4:16 | 2025-04-17 |  |
 | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ) | 4:54 | 2022-07-22 | 2024-04-19 |
-| [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr) | 4:15 | 2024-04-19 |  |
+| [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr) | 4:15 | 2024-04-19 | 2025-05-16 |
 | [MOOD FOR LOVE](https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls) | 3:24 | 2022-07-22 | 2024-04-19 |
 | [MOOD FOR LOVE](https://open.spotify.com/track/4U46xmSU9CczDNPEUx20OD) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/53P5weqc2cb75Bg3LuFPcZ) | 3:24 | 2022-05-11 | 2022-07-29 |
 | [Moon, Crystal, Love](https://open.spotify.com/track/517FU3AVZJt1c2nr8eLjch) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Moon, Crystal, Love](https://open.spotify.com/album/1V8mUHcttGNVpr2doMA6zE) | 3:53 | 2022-05-11 | 2022-07-27 |
@@ -276,6 +277,7 @@
 | [SOUL LADY](https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 3:35 | 2022-07-22 |  |
 | [Sparkling](https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Sparkling](https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp) | 3:51 | 2022-05-11 |  |
 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 | 2022-07-22 |  |
+| [Step By Step](https://open.spotify.com/track/1DSDmBpBFHObaeKo1WTstK) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:29 | 2025-05-16 |  |
 | [Submarine \(K\)](https://open.spotify.com/track/1sCaM4p8zmxv6H3YPHXfEE) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [Submarine](https://open.spotify.com/album/6z9lCCimp8FEG6az48jEik) | 3:46 | 2022-05-11 | 2022-07-29 |
 | [Submarine \(with Hoody\)](https://open.spotify.com/track/464dkAo0MIumAgzrq7rwnL) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:46 | 2022-07-22 | 2024-04-19 |
 | [Suddenly \- Digging Club Seoul Version](https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd) | 4:12 | 2022-07-22 | 2024-04-19 |
@@ -311,7 +313,7 @@
 | [Thinking About You \(feat\. SUMIN\)](https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN) | 3:29 | 2023-05-05 | 2024-04-19 |
 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 | 2022-05-11 |  |
 | [Timing](https://open.spotify.com/track/5hHHF4wzTc2K5PP6gpOTEr) | [Kim eun young](https://open.spotify.com/artist/49XEW1qNZPAeucXHu8zIeg) | [Timing](https://open.spotify.com/album/73VK4w06GJ37zySHOyTUoy) | 3:57 | 2024-04-19 | 2025-04-25 |
-| [Tonight](https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc) | [Nahee Kim](https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl) | [Tonight](https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw) | 3:14 | 2024-08-10 |  |
+| [Tonight](https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc) | [Nahee Kim](https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl) | [Tonight](https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw) | 3:14 | 2024-08-10 | 2025-05-16 |
 | [Tonight](https://open.spotify.com/track/7sO5L1MHG4Rgwg6ARMS7GD) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Tonight](https://open.spotify.com/album/2nEXBIArDYdR0CtfN6XXWM) | 3:55 | 2022-05-11 | 2022-07-27 |
 | [Upgrader](https://open.spotify.com/track/2kB1R4QcWMQFeElVzOHvTO) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Simple Mind](https://open.spotify.com/album/1eFLEjmPn7qdHprS4v1O52) | 4:13 | 2022-05-11 | 2022-07-29 |
 | [Venus](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 | 2022-07-22 | 2023-06-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "The future of African Indie and Alternative. Cover: <a href=\"https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=xisd9bqoRV2NoWWMIStT9A\">Jabulile Majola</a>, <a href=\"https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2?si=iaacmY5KRHysPPUJVXPeKg\">Thando Zide</a>",
+  "description": "The future of African Indie and Alternative. Cover: <a href=\"https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h?si=-r1y93FHRMeE1JfZcgNglA\">Obongjayar</a>",
   "name": "ALTER-native",
   "tracks": [
     {
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 208301,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V"
@@ -1672,6 +1672,24 @@
       "duration_ms": 113684,
       "name": "Isn't Love",
       "url": "https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6"
+    },
+    {
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/66jybmyf9i4NelFuzOkJYz"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124422,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8"
     },
     {
       "album": {

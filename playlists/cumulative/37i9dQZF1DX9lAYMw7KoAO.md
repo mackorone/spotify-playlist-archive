@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg\-lqItJ76m0lw>Lawrence Oyor</a>
 
-452 songs - 1 day 15 hr 42 min
+453 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-19 | 2024-01-19 |
 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 | 2024-12-04 | 2024-12-20 |
 | [Heaven](https://open.spotify.com/track/3slJWsbIm0vJQ4kNoQGvIw) | [ODG Beatz](https://open.spotify.com/artist/70CBsq6ZZno3oSswWP5kIa) | [Heaven](https://open.spotify.com/album/7dyspGNk4WWiEA1Zx21r0N) | 1:24 | 2023-06-23 | 2023-06-30 |
-| [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-05-31 |  |
+| [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-05-31 | 2025-05-16 |
 | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/track/4Fjt2bhzk7l5FvDKcGTGhE) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Breakthrough](https://open.spotify.com/album/5oY5TTJsroVfIVlM42dUM8) | 4:40 | 2024-01-03 | 2024-04-19 |
 | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/track/5pIM4uYNroyQPTgQnnvZzs) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/album/0eHwsy7wGdv6Ch4rqqdtTu) | 4:40 | 2023-06-23 | 2024-05-10 |
 | [Hold On](https://open.spotify.com/track/3oXxQsH8raBZutGY0hY7QQ) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22) | [Hold On](https://open.spotify.com/album/10TmjIWAF6dT82vIAJj7ui) | 2:27 | 2023-06-23 | 2023-06-30 |
@@ -284,6 +284,7 @@
 | [Nkosi Ndithembe Wena](https://open.spotify.com/track/0EZNwUJat1DX09UdqoEm4S) | [Joey Mofoleng](https://open.spotify.com/artist/6zS58BpzrB57jlKWpQ7ZUW) | [After This](https://open.spotify.com/album/72vZlTX5LfYF5FT4DHIhGC) | 3:22 | 2020-10-09 | 2023-04-01 |
 | [No Greater Love](https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 3:40 | 2024-08-23 | 2024-10-11 |
 | [NO PRESSURE](https://open.spotify.com/track/4qJlOy7AZzDG4hD8gGOLfV) | [Peddygree](https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [NO PRESSURE](https://open.spotify.com/album/0UIOJRocvUZFxmJA7vbxR9) | 2:34 | 2023-06-23 | 2023-07-14 |
+| [No Turning Back II](https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [No Turning Back II](https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C) | 4:59 | 2025-05-16 |  |
 | [No Void](https://open.spotify.com/track/5sqjOtOZB4MAvMO43ZeG1i) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Void](https://open.spotify.com/album/4r6aQghIBY7PwUViivOTQT) | 4:54 | 2020-10-29 | 2022-09-02 |
 | [NOMO \(Never On My Own\)](https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw) | [Winter Amadin](https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [NOMO \(Never On My Own\)](https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La) | 2:14 | 2023-03-31 | 2023-04-21 |
 | [Not Alone](https://open.spotify.com/track/5xBRrWS3C1aOm6HJWt401C) | [DappyTKeys](https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w) | [Be Still](https://open.spotify.com/album/3kJ0BWkewpVIUDfMSgvKDT) | 2:57 | 2023-06-09 | 2023-06-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 805889,
+  "num_followers": 805901,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-05-02 19:34:23",
       "album": {
+        "name": "Rua dos Amores",
+        "url": "https://open.spotify.com/album/41Qxndw4RWNcfeubhatBPX"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 322266,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/0ghVM7aQqTeA4QkfsZnQvJ"
+    },
+    {
+      "added_at": "2025-05-02 19:34:23",
+      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
-    },
-    {
-      "added_at": "2025-05-02 19:34:23",
-      "album": {
-        "name": "Rua dos Amores",
-        "url": "https://open.spotify.com/album/41Qxndw4RWNcfeubhatBPX"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 322266,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/0ghVM7aQqTeA4QkfsZnQvJ"
     },
     {
       "added_at": "2025-05-02 19:34:23",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-05-02 19:34:23",
       "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+    },
+    {
+      "added_at": "2025-05-02 19:34:23",
+      "album": {
         "name": "Samba",
         "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 239642,
       "name": "Nossa m\u00fasica",
       "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
-    },
-    {
-      "added_at": "2025-05-02 19:34:23",
-      "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2025-05-02 19:34:23",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-05-02 19:34:23",
       "album": {
-        "name": "N\u00e3o Mexe Comigo",
-        "url": "https://open.spotify.com/album/0JQof3xR6Txc8OW5SyCa8o"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 219770,
-      "name": "N\u00e3o Mexe Comigo",
-      "url": "https://open.spotify.com/track/39BatjiZgM7JTbzVaDqxJr"
-    },
-    {
-      "added_at": "2025-05-02 19:34:23",
-      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
+    },
+    {
+      "added_at": "2025-05-02 19:34:23",
+      "album": {
+        "name": "N\u00e3o Mexe Comigo",
+        "url": "https://open.spotify.com/album/0JQof3xR6Txc8OW5SyCa8o"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 219770,
+      "name": "N\u00e3o Mexe Comigo",
+      "url": "https://open.spotify.com/track/39BatjiZgM7JTbzVaDqxJr"
     },
     {
       "added_at": "2025-05-02 19:34:23",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-05-02 19:34:23",
       "album": {
+        "name": "Real / Surreal (Deluxe)",
+        "url": "https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP"
+      },
+      "artists": [
+        {
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
+    },
+    {
+      "added_at": "2025-05-02 19:34:23",
+      "album": {
         "name": "Voando (Nel Blu Dipinto Di Blu)",
         "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 236618,
       "name": "Voando (Nel Blu Dipinto Di Blu)",
       "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"
-    },
-    {
-      "added_at": "2025-05-02 19:34:23",
-      "album": {
-        "name": "Real / Surreal (Deluxe)",
-        "url": "https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP"
-      },
-      "artists": [
-        {
-          "name": "Scalene",
-          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
     },
     {
       "added_at": "2025-05-02 19:34:23",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-05-02 19:34:23",
       "album": {
+        "name": "Logo agora",
+        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Logo agora",
+      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
+    },
+    {
+      "added_at": "2025-05-02 19:34:23",
+      "album": {
         "name": "Milton + esperanza",
         "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 276906,
       "name": "A Day in the Life",
       "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
-    },
-    {
-      "added_at": "2025-05-02 19:34:23",
-      "album": {
-        "name": "Logo agora",
-        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Logo agora",
-      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
     },
     {
       "added_at": "2025-05-02 19:34:23",

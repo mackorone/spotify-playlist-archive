@@ -604,7 +604,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 179350,
       "name": "El Chamuco",
       "url": "https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg"
@@ -788,6 +788,24 @@
       "duration_ms": 319613,
       "name": "El Pianista",
       "url": "https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX"
+    },
+    {
+      "album": {
+        "name": "El Trabajo del Hombre",
+        "url": "https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239243,
+      "name": "El Trabajo del Hombre",
+      "url": "https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p"
     },
     {
       "album": {

@@ -1199,6 +1199,28 @@
     },
     {
       "album": {
+        "name": "Nomas Por Orgullo",
+        "url": "https://open.spotify.com/album/1NresorHcdX2z4irOcTn2g"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187541,
+      "name": "Nomas Por Orgullo",
+      "url": "https://open.spotify.com/track/0wuk8DmghrkwUhtGSqIotu"
+    },
+    {
+      "album": {
         "name": "Nomas por Orgullo",
         "url": "https://open.spotify.com/album/2ce57OZsfbjALZY7tRbnfk"
       },
@@ -1214,7 +1236,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 187548,
       "name": "Nomas por Orgullo",
       "url": "https://open.spotify.com/track/5UAPB2nsz2EiSi7AakesqM"

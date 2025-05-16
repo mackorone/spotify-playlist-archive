@@ -2,7 +2,7 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Ryouji, CK YG
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Realest Cram, Young Blood Neet
 
 255 songs - 14 hr 27 min
 

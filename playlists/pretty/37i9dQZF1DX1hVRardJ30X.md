@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ela Taubert, KAROL G, Ryan Castro, Beéle and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,082 likes - 52 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,132 likes - 52 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 43 | [OF \(Only Fans\)](https://open.spotify.com/track/4JUkTbDOAK6xR0Ne3TTdr7) | [SAI](https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x) | [OF \(Only Fans\)](https://open.spotify.com/album/0chstKYem6rywr5Qm0y6ka) | 2:58 |
 | 44 | [Que Te Vaya Bien](https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Mío](https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h) | 2:50 |
 | 45 | [El avión](https://open.spotify.com/track/3OpTJR00L7Jd7kFzpTd4Gh) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [El avión](https://open.spotify.com/album/7ppAq1lv5dvlad8IPhZb86) | 2:57 |
-| 46 | [Tiempo Perdido](https://open.spotify.com/track/0WpLujjrVyCH0knQnXgWU4) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tiempo Perdido](https://open.spotify.com/album/3uIcJ9YJ9Gr2evcFCkUyyE) | 3:28 |
+| 46 | [Tiempo Perdido](https://open.spotify.com/track/0WpLujjrVyCH0knQnXgWU4) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tiempo Perdido](https://open.spotify.com/album/3uIcJ9YJ9Gr2evcFCkUyyE) | 3:27 |
 | 47 | [EN BATA](https://open.spotify.com/track/4ECQbndPZDMR9SQ6trwrqr) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k), [GATO AGUILERA](https://open.spotify.com/artist/2wM8be2XMFs6odyAluMO6d) | [EN BATA](https://open.spotify.com/album/1jLXLMRAbuYnKQvvkzTdxX) | 2:28 |
 | 48 | [Angel](https://open.spotify.com/track/7AAAh8uGorTSBalUFO7aH2) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [El Jardín de Lágrimas](https://open.spotify.com/album/4wazbgH5FuhlMDjGeSG52G) | 3:03 |
 | 49 | [Showtime](https://open.spotify.com/track/0Dzutlm6BRefqy9UL0N2KV) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Showtime](https://open.spotify.com/album/1pfdJnA2T4vueqWh17xUMV) | 2:45 |

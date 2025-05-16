@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 366263,
+  "num_followers": 366335,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2025-05-08 23:00:18",
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 291568,
       "name": "Money (with Tom Misch)",
       "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
-    },
-    {
-      "added_at": "2025-05-08 23:00:18",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1203,26 +1203,22 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "Typical Remixes",
-        "url": "https://open.spotify.com/album/1erRlyRYARL5frALjooxTw"
+        "name": "touch",
+        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
         },
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+          "name": "Bad Honey",
+          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
         }
       ],
-      "duration_ms": 160880,
-      "name": "Typical - Children of Zeus Remix",
-      "url": "https://open.spotify.com/track/0U1XJE6wqO3C7S16HvdSWc"
+      "duration_ms": 222496,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
     },
     {
       "added_at": "2025-05-08 23:00:18",
@@ -1263,22 +1259,26 @@
     {
       "added_at": "2025-05-08 23:00:18",
       "album": {
-        "name": "touch",
-        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
+        "name": "Typical Remixes",
+        "url": "https://open.spotify.com/album/1erRlyRYARL5frALjooxTw"
       },
       "artists": [
         {
-          "name": "Dejector",
-          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
         },
         {
-          "name": "Bad Honey",
-          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
         }
       ],
-      "duration_ms": 222496,
-      "name": "touch",
-      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
+      "duration_ms": 160880,
+      "name": "Typical - Children of Zeus Remix",
+      "url": "https://open.spotify.com/track/0U1XJE6wqO3C7S16HvdSWc"
     },
     {
       "added_at": "2025-05-08 23:00:18",

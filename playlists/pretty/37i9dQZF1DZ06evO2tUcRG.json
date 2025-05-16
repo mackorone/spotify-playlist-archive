@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 268083,
+  "num_followers": 268101,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCKLgAAAAABpaKwiTcuVBtUToOKMOeVa",
+  "snapshot_id": "aCPdAAAAAAAX0PB/ffyO7VFL/5M0ZAZZ",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Ele a Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 437928,
-      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Os Sonhos de Deus",
         "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 267077,
       "name": "Os Sonhos de Deus",
       "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Ele a Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 437928,
+      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fernandinho Em Casa (ao Vivo)",
-        "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 367380,
-      "name": "Me Leva - Ao Vivo",
-      "url": "https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tuas \u00c1guas",
         "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 310200,
       "name": "Tuas \u00c1guas",
       "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fernandinho Em Casa (ao Vivo)",
+        "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 367380,
+      "name": "Me Leva - Ao Vivo",
+      "url": "https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 302878,
-      "name": "Vim Para Adorar-Te",
-      "url": "https://open.spotify.com/track/3V9uMkBLvqLCxXbIl3l4Qr"
+      "duration_ms": 246309,
+      "name": "Meu Respirar",
+      "url": "https://open.spotify.com/track/0aYacAcJiyatA3isESq9nO"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 246309,
-      "name": "Meu Respirar",
-      "url": "https://open.spotify.com/track/0aYacAcJiyatA3isESq9nO"
+      "duration_ms": 302878,
+      "name": "Vim Para Adorar-Te",
+      "url": "https://open.spotify.com/track/3V9uMkBLvqLCxXbIl3l4Qr"
     },
     {
       "added_at": null,

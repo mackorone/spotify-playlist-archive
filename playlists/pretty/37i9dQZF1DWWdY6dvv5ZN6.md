@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,109 likes - 157 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,114 likes - 157 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 | 24 | [Bad To The Bone](https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [BAD TO THE BONE](https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj) | 4:52 |
 | 25 | [Lies My Body Told Me](https://open.spotify.com/track/76EO2lZ8yZAjsDE3tVOQWG) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Your Turn](https://open.spotify.com/album/0zR1M7kg7PuwaiaYVeDWtc) | 5:30 |
 | 26 | [Zé e Paraná](https://open.spotify.com/track/6ustIXX6sc1cqA3blhyNsy) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Zé e Paraná](https://open.spotify.com/album/7L4cVywlTuCc0iSkz0i54l) | 4:10 |
-| 27 | [Music Is My Sanctuary](https://open.spotify.com/track/1b0e8eJATjg55tvCr4x6fC) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ) | [Capitol Rare](https://open.spotify.com/album/6LGnsxXSxOVxx0kTQHpTQk) | 6:21 |
+| 27 | [Music Is My Sanctuary](https://open.spotify.com/track/1b0e8eJATjg55tvCr4x6fC) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ) | [Capitol Rare: Funky Notes From The West Coast](https://open.spotify.com/album/6LGnsxXSxOVxx0kTQHpTQk) | 6:21 |
 | 28 | [Best Part](https://open.spotify.com/track/52N9V44DvrVUAX881fmWX0) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:53 |
 | 29 | [Stuff Happens](https://open.spotify.com/track/5P8IscbDdPt4qvzpKO8z8W) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Echoes and Other Songs](https://open.spotify.com/album/6pfEUFLGik0vypQgyQyAYL) | 6:56 |
 | 30 | [Montara](https://open.spotify.com/track/4famptoWqwFx2MbWfggr69) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Pera Krstajic](https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW) | [Something For Real](https://open.spotify.com/album/4uRZHwcyqpdfdxgVwvIO2K) | 8:09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: [IVY]",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Pola & Bryson",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -4473,6 +4473,24 @@
     },
     {
       "album": {
+        "name": "Do U Feel It Now?",
+        "url": "https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Do U Feel It Now?",
+      "url": "https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma"
+    },
+    {
+      "album": {
         "name": "Do U Want Me",
         "url": "https://open.spotify.com/album/4U64nWay7C13Q1r3ExBerN"
       },
@@ -4980,7 +4998,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 251858,
       "name": "Elektrify",
       "url": "https://open.spotify.com/track/5W6i0LRLEsd4Q5fBL5unzU"
@@ -5558,7 +5576,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 197142,
       "name": "Falling 4 U",
       "url": "https://open.spotify.com/track/7g041SdEW1CgvWxi5KT6rN"
@@ -6528,6 +6546,24 @@
       "duration_ms": 188548,
       "name": "Games",
       "url": "https://open.spotify.com/track/5LT5jLbS19rUQpag4Exh0g"
+    },
+    {
+      "album": {
+        "name": "Timestretch: Past",
+        "url": "https://open.spotify.com/album/2DvzrLh9VAqbc77beqxGVK"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187590,
+      "name": "Get A Rush",
+      "url": "https://open.spotify.com/track/6uX0cdJzY0gujen51zJiIt"
     },
     {
       "album": {
@@ -9857,6 +9893,28 @@
     },
     {
       "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/6SKM4F8aje787qw2KlQSFM"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/1KXvPVzlJhSR3DT7ADSh89"
+    },
+    {
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/2bJ75kaDgkRHnPAfLDaz6n"
       },
@@ -10158,6 +10216,36 @@
       "duration_ms": 273103,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6xPMLRHQFWxZC9ylfRmdBk"
+    },
+    {
+      "album": {
+        "name": "Lose Control (feat. ILIRA)",
+        "url": "https://open.spotify.com/album/0SXIPcP2hyjWKuZxZK1nOO"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248142,
+      "name": "Lose Control (feat. ILIRA)",
+      "url": "https://open.spotify.com/track/7v11L9CN3sL9BDdiNrmpRe"
     },
     {
       "album": {
@@ -10776,7 +10864,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 165842,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/0rMUIEJIdeo9I3hPLSHWJS"
@@ -14779,6 +14867,32 @@
     },
     {
       "album": {
+        "name": "Alpha Omega",
+        "url": "https://open.spotify.com/album/4RqkoyzwiQiTiemmchAR96"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        },
+        {
+          "name": "Rufige Kru",
+          "url": "https://open.spotify.com/artist/0MgahdBy1vfsp1loFoGIAm"
+        },
+        {
+          "name": "Submotive",
+          "url": "https://open.spotify.com/artist/5wlb3CuXIKwGZj2qSmNFUU"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293628,
+      "name": "Secret Handshake",
+      "url": "https://open.spotify.com/track/0e3DfObupAg2qjezKKxoAa"
+    },
+    {
+      "album": {
         "name": "See It Thru",
         "url": "https://open.spotify.com/album/7eLQT7MiAVj8CCPcOAqvap"
       },
@@ -14940,6 +15054,28 @@
       "duration_ms": 231724,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/3HrYBjMhKco2izd1cC7rJ9"
+    },
+    {
+      "album": {
+        "name": "Sexy Money",
+        "url": "https://open.spotify.com/album/1ntjYo3rw4Jy7vLbNVr4yT"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147234,
+      "name": "Sexy Money",
+      "url": "https://open.spotify.com/track/3V86nh7BVSfSU2v306NRph"
     },
     {
       "album": {
@@ -15510,7 +15646,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 160465,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/2jicIbMJAn7grxb0PwaCyd"
@@ -16976,7 +17112,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 140930,
       "name": "Tell Them",
       "url": "https://open.spotify.com/track/5SJu6pvIRxgMNaXkBlaKrt"
@@ -19032,7 +19168,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 217931,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/2R1k6BUpiZzDTm4pROQNGz"

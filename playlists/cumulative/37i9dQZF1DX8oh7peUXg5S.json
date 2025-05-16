@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Depedro y Xoel L\u00f3pez.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: S\u00edvia P\u00e9rez Cruz y Salvador Sobral.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -1731,6 +1731,28 @@
     },
     {
       "album": {
+        "name": "S\u00edlvia & Salvador",
+        "url": "https://open.spotify.com/album/2M9MtUS5qtnVWe0GmOt5xS"
+      },
+      "artists": [
+        {
+          "name": "Salvador Sobral",
+          "url": "https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299778,
+      "name": "El coraz\u00f3n por delante",
+      "url": "https://open.spotify.com/track/26miS6DXixXA2WbJNz1qi0"
+    },
+    {
+      "album": {
         "name": "El Desd\u00e9n",
         "url": "https://open.spotify.com/album/1F4xb7hf7pexnzmxeNbIbH"
       },
@@ -1906,7 +1928,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 420807,
       "name": "El Palomo y La Negra",
       "url": "https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K"
@@ -3666,7 +3688,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 365986,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
@@ -6018,6 +6040,28 @@
       "duration_ms": 222903,
       "name": "Todo lo Que Amaste (feat. Fernando Vel\u00e1zquez)",
       "url": "https://open.spotify.com/track/2CXyOvBb81c41M7V9w2lS9"
+    },
+    {
+      "album": {
+        "name": "Todo me va bien",
+        "url": "https://open.spotify.com/album/7rUi2MBXpM18nJuipSTV7B"
+      },
+      "artists": [
+        {
+          "name": "Albert Pla",
+          "url": "https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN"
+        },
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262318,
+      "name": "Todo me va bien",
+      "url": "https://open.spotify.com/track/2XGmrTpELLkcwelpEntk7n"
     },
     {
       "album": {

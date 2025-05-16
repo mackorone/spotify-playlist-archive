@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Fabio Asher, Sammy Simorangkir",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Isyana Sarasvati, VIDI",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 220753,
       "name": "affa iyah (feat. Basboi)",
       "url": "https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB"
+    },
+    {
+      "album": {
+        "name": "Aku Baik Saja (Original Soundtrack from Tak Ingin Usai Disini)",
+        "url": "https://open.spotify.com/album/7DitYwaNCH5O4BeaqdtVvK"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258900,
+      "name": "Aku Baik Saja (Original Soundtrack from Tak Ingin Usai Disini)",
+      "url": "https://open.spotify.com/track/2Jis7HJrGnlRdW1whjEZwv"
     },
     {
       "album": {
@@ -320,7 +338,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 309987,
       "name": "Andai Sampai Akhir Usia",
       "url": "https://open.spotify.com/track/6d9b6k20BqCZMRyoNoXsQT"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 148000,
       "name": "asing",
       "url": "https://open.spotify.com/track/7fWeKISBbI2RrUdoosoxlp"
@@ -498,7 +516,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 270900,
       "name": "Aubade Untuk Ibu",
       "url": "https://open.spotify.com/track/35LKSCKPmEIWSXzOj0J6BR"
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 279031,
       "name": "Di Sore Hari yang Lucu",
       "url": "https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p"
@@ -1956,6 +1974,28 @@
       "duration_ms": 218000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc"
+    },
+    {
+      "album": {
+        "name": "Frenemy",
+        "url": "https://open.spotify.com/album/1ZZkhyBrbAmKlhyhFbC4hn"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        },
+        {
+          "name": "VIDI",
+          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Frenemy (feat. VIDI)",
+      "url": "https://open.spotify.com/track/1PGt7c1YzOK5GiKjNp5IH1"
     },
     {
       "album": {
@@ -2846,7 +2886,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 220500,
       "name": "Kapan?",
       "url": "https://open.spotify.com/track/6MKBKvgRLMHul5QP4Ch9h7"
@@ -3457,6 +3497,28 @@
     },
     {
       "album": {
+        "name": "Layar (Original Soundtrack From \"Siapa Dia\")",
+        "url": "https://open.spotify.com/album/7dTXQd6N4jwcDnz6HJzjmf"
+      },
+      "artists": [
+        {
+          "name": "Titi DJ",
+          "url": "https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS"
+        },
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271578,
+      "name": "Layar (Original Soundtrack From \"Siapa Dia\")",
+      "url": "https://open.spotify.com/track/0poKcus5D08d5vmb3siPy1"
+    },
+    {
+      "album": {
         "name": "Lewat Doa",
         "url": "https://open.spotify.com/album/1yTMN5y852AZFeViX6rrKz"
       },
@@ -3866,7 +3928,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 248183,
       "name": "Mawar",
       "url": "https://open.spotify.com/track/2zye6HezhTJduq7vocjMzr"
@@ -3964,6 +4026,24 @@
       "duration_ms": 263778,
       "name": "Memori Baik",
       "url": "https://open.spotify.com/track/78tfcz1aUQlCzd3lkr614r"
+    },
+    {
+      "album": {
+        "name": "LUAP",
+        "url": "https://open.spotify.com/album/4t1d7lp7cX2v1HnqhlPuXd"
+      },
+      "artists": [
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169373,
+      "name": "Memori Kita",
+      "url": "https://open.spotify.com/track/793eFZPmSzKDl0sQ0hWr0r"
     },
     {
       "album": {
@@ -4502,7 +4582,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 195830,
       "name": "Pasrah",
       "url": "https://open.spotify.com/track/3523JnlP8KkRDRZ5anwtmd"
@@ -4528,6 +4608,24 @@
       "duration_ms": 263369,
       "name": "Pejuang Berkah",
       "url": "https://open.spotify.com/track/0OfUGSYr6BC15I09FhAMVX"
+    },
+    {
+      "album": {
+        "name": "Pelan-Pelan",
+        "url": "https://open.spotify.com/album/1kbnS1adOarfKyYUOkJaJZ"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "Pelan-Pelan",
+      "url": "https://open.spotify.com/track/70AnODh8fo2PQjcnDtRg3l"
     },
     {
       "album": {
@@ -4694,7 +4792,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 290730,
       "name": "Puisi Kota",
       "url": "https://open.spotify.com/track/0KK7i1BGcY85UKgEjf6reS"
@@ -5200,7 +5298,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 189064,
       "name": "Selalu Kalah",
       "url": "https://open.spotify.com/track/5hmcqpdSHSv75EOakw3NCh"
@@ -5332,7 +5430,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 270119,
       "name": "Selamat Ulang Tahun",
       "url": "https://open.spotify.com/track/36rqSbSPGQqFSTfLynrhja"
@@ -5998,6 +6096,28 @@
       "duration_ms": 106000,
       "name": "Somebody's Pleasure (Extended Version) - Slowed Reverb",
       "url": "https://open.spotify.com/track/7qOsbtHHUkl7m0e1g3PBtu"
+    },
+    {
+      "album": {
+        "name": "something about you",
+        "url": "https://open.spotify.com/album/1BAfEPPiyIrzglzOqdtPra"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        },
+        {
+          "name": "RIMALDI",
+          "url": "https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257910,
+      "name": "something about you",
+      "url": "https://open.spotify.com/track/15YMi1fS4AFTME9bKD9MzZ"
     },
     {
       "album": {

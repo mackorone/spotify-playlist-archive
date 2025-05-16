@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "All your favourite pop songs, remixed to perfection. Cover: Teddy Swims",
+  "description": "All your favourite pop songs, remixed to perfection. Cover: LISA",
   "name": "Massive Pop Remixes",
   "tracks": [
     {
@@ -84,7 +84,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 181442,
       "name": "10:35 (feat. Tate McRae) - Joel Corry Remix",
       "url": "https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB"
@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Abracadabra (Gesaffelstein Remix)",
+        "url": "https://open.spotify.com/album/313T8fnlDeKWEtoq9vwWAO"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211735,
+      "name": "Abracadabra - Gesaffelstein Remix",
+      "url": "https://open.spotify.com/track/17sOAutZqK3xM5O6Cc2pMj"
+    },
+    {
+      "album": {
         "name": "Alibi (feat. Rudimental) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/5dY7Ol2aeGlG0LdeIkIrdG"
       },
@@ -254,6 +276,32 @@
       "duration_ms": 142367,
       "name": "Alibi (feat. Rudimental) - Joel Corry Remix",
       "url": "https://open.spotify.com/track/4ufh4uvxSmJCRsR85b96be"
+    },
+    {
+      "album": {
+        "name": "All I Know (with Khalid) [Ely Oaks Remix]",
+        "url": "https://open.spotify.com/album/2idDyu8y3bxJIFtVxNiM3K"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149812,
+      "name": "All I Know (with Khalid) - Ely Oaks Remix",
+      "url": "https://open.spotify.com/track/3GqL6znvuvpQR0x7ios7jS"
     },
     {
       "album": {
@@ -302,7 +350,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 233517,
       "name": "Angel Of My Dreams - The Blessed Madonna Remix",
       "url": "https://open.spotify.com/track/4RHuNJ15rehEsv1vyaBvpf"
@@ -328,6 +376,28 @@
       "duration_ms": 215696,
       "name": "Anti-Hero - Jayda G Remix",
       "url": "https://open.spotify.com/track/4YrpqEBNuz7IMsZtUP6bNQ"
+    },
+    {
+      "album": {
+        "name": "Austin (Boots Stop Workin') [Distant Matter Remix]",
+        "url": "https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        },
+        {
+          "name": "Distant Matter",
+          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176670,
+      "name": "Austin (Boots Stop Workin') - Distant Matter Remix",
+      "url": "https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho"
     },
     {
       "album": {
@@ -358,6 +428,28 @@
       "duration_ms": 213281,
       "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/6GM5okVwM8whUJKWpCrl3j"
+    },
+    {
+      "album": {
+        "name": "Bad Dreams (HUGEL Remix)",
+        "url": "https://open.spotify.com/album/0ssTX65vCg6WGt6NsGHzZd"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182875,
+      "name": "Bad Dreams - HUGEL Remix",
+      "url": "https://open.spotify.com/track/2s2NJlQfNF77nQcQvb4sBk"
     },
     {
       "album": {
@@ -424,6 +516,36 @@
       "duration_ms": 158723,
       "name": "Bittersweet Goodbye - Ti\u00ebsto\u2019s Hardcore Remix",
       "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
+    },
+    {
+      "album": {
+        "name": "Born Again (Purple Disco Machine Remix) (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/3gQLayLf72WrSISvFr8iOt"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212880,
+      "name": "Born Again (feat. Doja Cat & RAYE) - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7yRkdZDEKjSUP45TlkGvCd"
     },
     {
       "album": {
@@ -811,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Fantasy (Alex Chapman Remix)",
+        "url": "https://open.spotify.com/album/52fvlHzhcJbWzVKdcdD2HK"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        },
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174908,
+      "name": "Fantasy - Alex Chapman Remix",
+      "url": "https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT"
+    },
+    {
+      "album": {
         "name": "Feel It (1991 Remix)",
         "url": "https://open.spotify.com/album/3jnLN6i2fCIHuY6Fy9IyHi"
       },
@@ -1022,7 +1166,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 182401,
       "name": "Good Love - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM"
@@ -1044,7 +1188,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 165141,
       "name": "Good Ones - Joel Corry Remix",
       "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
@@ -1504,7 +1648,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 212392,
       "name": "Lasting Lover - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3fIkn0ksMuH91GpflwmpJf"
@@ -1600,10 +1744,32 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 157647,
       "name": "Life Goes On - Alok Remix",
       "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
+    },
+    {
+      "album": {
+        "name": "like JENNIE",
+        "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208375,
+      "name": "like JENNIE - Peggy Gou Remix",
+      "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
     },
     {
       "album": {
@@ -1784,7 +1950,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 162600,
       "name": "Memories - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/0r7CVbZTWZgbTCYdfa2P31"
@@ -1906,6 +2072,28 @@
       "duration_ms": 215473,
       "name": "Nice To Meet Ya - Diplo Remix",
       "url": "https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX"
+    },
+    {
+      "album": {
+        "name": "NOW IT'S GONE (BL3SS REMIX)",
+        "url": "https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "NOW IT'S GONE - BL3SS REMIX",
+      "url": "https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws"
     },
     {
       "album": {
@@ -2146,7 +2334,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 135116,
       "name": "REACT - D.O.D Remix",
       "url": "https://open.spotify.com/track/1nduTOCUhGhkMGRH6NBmit"
@@ -2172,6 +2360,28 @@
       "duration_ms": 173333,
       "name": "Remind Me - MOTi Remix",
       "url": "https://open.spotify.com/track/4TbWquCtBmcY8aVawQUkk3"
+    },
+    {
+      "album": {
+        "name": "Revolving door (remixes)",
+        "url": "https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171304,
+      "name": "Revolving door - Lavern remix",
+      "url": "https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"
     },
     {
       "album": {
@@ -2348,7 +2558,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 210491,
       "name": "Say So (Jax Jones Midnight Snack Remix)",
       "url": "https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx"
@@ -2374,7 +2584,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 155238,
       "name": "Secrets - MOTi Remix",
       "url": "https://open.spotify.com/track/2vX1vE1jwuqq29xonWIzvE"
@@ -2655,6 +2865,28 @@
     },
     {
       "album": {
+        "name": "Sports car (remixes)",
+        "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Sports car - Devault Remix",
+      "url": "https://open.spotify.com/track/2fhM3JCr2cPEgwXvHzJOcr"
+    },
+    {
+      "album": {
         "name": "Still Sleepless (Ekko & Sidetrack Remix)",
         "url": "https://open.spotify.com/album/3B5O9docVLoUE5SNqf2dNj"
       },
@@ -2740,7 +2972,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 161142,
       "name": "The Days - Rudimental Remix",
       "url": "https://open.spotify.com/track/2LrwQcjuavA44Es0mQtT2o"
@@ -2848,6 +3080,28 @@
       "duration_ms": 136580,
       "name": "These Words",
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
+    },
+    {
+      "album": {
+        "name": "Too Much (Ely Oaks Remix)",
+        "url": "https://open.spotify.com/album/6r4SN9q8F3E2dLP3UUsHaq"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141323,
+      "name": "Too Much - Ely Oaks Remix",
+      "url": "https://open.spotify.com/track/09FAqeIjjeAWqo3nuazGZu"
     },
     {
       "album": {

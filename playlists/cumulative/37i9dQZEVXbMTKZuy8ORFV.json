@@ -230,7 +230,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 153750,
       "name": "111",
       "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
@@ -5314,6 +5314,28 @@
     {
       "album": {
         "name": "Ciudad Amurallada",
+        "url": "https://open.spotify.com/album/33jmWzMREAOfBM33f8KmNV"
+      },
+      "artists": [
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169545,
+      "name": "Ciudad Amurallada",
+      "url": "https://open.spotify.com/track/2EszcOT5LOcuBIezvg7Ao4"
+    },
+    {
+      "album": {
+        "name": "Ciudad Amurallada",
         "url": "https://open.spotify.com/album/35zUzylSXNgPJmllVbw6sS"
       },
       "artists": [
@@ -5328,7 +5350,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 169545,
       "name": "Ciudad Amurallada",
       "url": "https://open.spotify.com/track/5O4wXY57eFdXZzKwpjo38A"
@@ -6476,7 +6498,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 287500,
       "name": "Culpable o No / La Incondicional / Fr\u00eda Como el Viento",
       "url": "https://open.spotify.com/track/7fD2oEOLwwWHDhcrSNrJiX"
@@ -9886,7 +9908,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 80000,
       "name": "FUNK MI CAMINO",
       "url": "https://open.spotify.com/track/4ALBjCoOOGRYCrBElu0eVr"
@@ -10344,7 +10366,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 194000,
       "name": "Goodbye My Baby",
       "url": "https://open.spotify.com/track/4qULsv8t3CLDbHHU4cimpU"
@@ -14170,6 +14192,28 @@
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+    },
+    {
+      "album": {
+        "name": "LUNA BALA",
+        "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
+      },
+      "artists": [
+        {
+          "name": "Yb Wasg'ood",
+          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146588,
+      "name": "LUNA BALA - Extreme Slowed",
+      "url": "https://open.spotify.com/track/3jk5c21T4Ir076irUOufX4"
     },
     {
       "album": {
@@ -19932,6 +19976,24 @@
       "duration_ms": 165386,
       "name": "PLN",
       "url": "https://open.spotify.com/track/3T3kxmb4QWwrnzoa3eOakp"
+    },
+    {
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/5RmsoBvb9J2pFUJpLOG1eN"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "Plural Siendo Singular",
+      "url": "https://open.spotify.com/track/13vs8iIpPs7E625qGqgpUm"
     },
     {
       "album": {

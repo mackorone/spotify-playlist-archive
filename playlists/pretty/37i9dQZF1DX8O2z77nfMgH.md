@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Jombriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,278 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,139 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 58 | [Puente del Papa](https://open.spotify.com/track/0UibzOFBUEJyihHiJ5fDjZ) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Inconcreto & Asociados](https://open.spotify.com/album/2igVN56nzK3hBmucjeZUsG) | 3:59 |
 | 59 | [Chino Dale Frito + Ella No Es Mala](https://open.spotify.com/track/0QNOpPJDmUuzxYEfTQ8jlO) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Alofoke Music](https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY) | [Chino Dale Frito + Ella No Es Mala](https://open.spotify.com/album/7zepTejz7Yog4Fh7X7dE7Q) | 2:32 |
 | 60 | [El avión](https://open.spotify.com/track/3OpTJR00L7Jd7kFzpTd4Gh) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [El avión](https://open.spotify.com/album/7ppAq1lv5dvlad8IPhZb86) | 2:57 |
-| 61 | [Tiempo Perdido](https://open.spotify.com/track/0WpLujjrVyCH0knQnXgWU4) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tiempo Perdido](https://open.spotify.com/album/3uIcJ9YJ9Gr2evcFCkUyyE) | 3:28 |
+| 61 | [Tiempo Perdido](https://open.spotify.com/track/0WpLujjrVyCH0knQnXgWU4) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tiempo Perdido](https://open.spotify.com/album/3uIcJ9YJ9Gr2evcFCkUyyE) | 3:27 |
 | 62 | [Bottega](https://open.spotify.com/track/2zZL2FUWuCy8giDxSrrAGO) | [Emma La Melma](https://open.spotify.com/artist/1lc7MpOraLJNhxjI2w8KWn), [Dimelo Tyrone](https://open.spotify.com/artist/6Q4JnBBGlOtBf6NUDzVxeu), [Mapa Negro](https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO) | [Bottega](https://open.spotify.com/album/6U8n5us9Mh3caT2YQSE4kO) | 2:23 |
 | 63 | [Copy Paste](https://open.spotify.com/track/58hKIvZUyPfMSgmLcn88Bu) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Fragmentos](https://open.spotify.com/album/036r4UQjGj4fOtoAl4AW0f) | 1:53 |
 | 64 | [El Dios del minuto 90](https://open.spotify.com/track/2gtkOb8HZcUjhMi0WHq52F) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [El Dios del minuto 90](https://open.spotify.com/album/0e4Yx6ICri8xzkFbdyYZ7g) | 2:44 |

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "23/17",
+        "url": "https://open.spotify.com/album/0XDi5fRCWYTNZg9H2g1AUD"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        },
+        {
+          "name": "\u9ad8\u723e\u5ba3 OSN",
+          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "23/17",
+      "url": "https://open.spotify.com/track/6WE1SUfXxG41NqW9jPHfti"
+    },
+    {
+      "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
       },
@@ -40,6 +62,24 @@
       "duration_ms": 262505,
       "name": "30/90",
       "url": "https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM"
+    },
+    {
+      "album": {
+        "name": "A Strange Love Song",
+        "url": "https://open.spotify.com/album/202bVHXH17QwF6DnINXZnK"
+      },
+      "artists": [
+        {
+          "name": "Yoga Lin",
+          "url": "https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251785,
+      "name": "A Strange Love Song",
+      "url": "https://open.spotify.com/track/5SxVJ2qGPoP13ZTZz4yntH"
     },
     {
       "album": {
@@ -1030,6 +1070,32 @@
       "duration_ms": 224951,
       "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
       "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u77e5\u9053\u4f60\u6bd4\u665a\u971e\u597d\u770b\u55ce",
+        "url": "https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm"
+      },
+      "artists": [
+        {
+          "name": "Tr33",
+          "url": "https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN"
+        },
+        {
+          "name": "Seluu",
+          "url": "https://open.spotify.com/artist/3NL3hiZCEKrItNzxZTJ15o"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "\u4f60\u77e5\u9053\u4f60\u6bd4\u665a\u971e\u597d\u770b\u55ce",
+      "url": "https://open.spotify.com/track/2kutq7mQIFYUdGxHptsMlE"
     },
     {
       "album": {

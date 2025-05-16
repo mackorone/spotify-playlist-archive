@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,506 songs - 3 day 7 hr 23 min
+1,507 songs - 3 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 | 2024-11-02 |  |
 | [Egyedül \- Megb\*sztam ezt a kis gádzsit](https://open.spotify.com/track/7tSHeWlKv2nO5fFhLjRZWk) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 3:27 | 2022-11-23 | 2022-11-28 |
 | [Egyedül \- Megb\*sztam ezt a kis gádzsit](https://open.spotify.com/track/7iH7aaTtLCZ9OdFkGAv7MB) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Egyedül \(Megb\*sztam ezt a kis gádzsit\)](https://open.spotify.com/album/2MWWqs5R9FC90KM60BJjoj) | 3:29 | 2022-02-18 | 2022-08-08 |
-| [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 | 2024-08-10 |  |
+| [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 | 2024-08-10 | 2025-05-16 |
 | [El Barto](https://open.spotify.com/track/5HiMjc8jz0OeTnUQgp15FP) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [El Barto](https://open.spotify.com/album/6rn3HMu7W4Wtii1Tven89X) | 2:58 | 2021-07-16 | 2023-10-28 |
 | [El kell, hogy engedj](https://open.spotify.com/track/5NQbbu9mtsT1gdEzNhrA4Q) | [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp), [Márkus Luca](https://open.spotify.com/artist/5MiEKKT3qJnyduV07h5f6c) | [Hogyan tudnék élni nélküled? \(Eredeti filmzene\)](https://open.spotify.com/album/6vc5Tdb2pSGSiR9RlpVUNE) | 2:39 | 2025-02-17 | 2025-02-22 |
 | [Elaludni](https://open.spotify.com/track/2GNCDexNq9O4PLH0Mubdv9) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:30 | 2023-11-17 | 2023-12-02 |
@@ -958,7 +958,7 @@
 | [Orgonabokor](https://open.spotify.com/track/6PfQxSKdb1T71Y6rotJ5a9) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor](https://open.spotify.com/album/1WNazH6XAncw7qxBR60nHV) | 3:35 | 2025-02-16 | 2025-03-15 |
 | [Orgonabokor](https://open.spotify.com/track/6hWRlcm3CHovEzXNjsIJUG) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor](https://open.spotify.com/album/4xn0VgbSMtx1mXopS3bYat) | 3:35 | 2025-01-10 | 2025-02-17 |
 | [Orrvérzés](https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Orrvérzés](https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC) | 3:19 | 2024-04-10 | 2024-04-12 |
-| [Osztriga](https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:06 | 2023-11-17 | 2025-05-13 |
+| [Osztriga](https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:06 | 2023-11-17 |  |
 | [Osztálytalálkozó](https://open.spotify.com/track/0OHpTUsrI59etfssanq8SX) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Osztálytalálkozó](https://open.spotify.com/album/7yAkGODA0gSuoCXCvBnuXV) | 4:05 | 2022-01-29 | 2022-02-07 |
 | [Osztálytalálkozó](https://open.spotify.com/track/7aigVSzPNuRSf9cBjGebZI) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 4:05 | 2022-03-12 | 2022-03-26 |
 | [Out Of The Woods \(Taylor's Version\)](https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:55 | 2023-10-28 | 2023-10-30 |
@@ -1246,7 +1246,7 @@
 | [Szív](https://open.spotify.com/track/6Qg42mHmwZdqT4LpV3KnvP) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Szív](https://open.spotify.com/album/784Na2iyszGVq9oETcoU1A) | 8:50 | 2021-11-07 | 2022-08-08 |
 | [Szívedből minden kell](https://open.spotify.com/track/3G9gEBbCzfGgTdZhnzk6Up) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h) | [Ha mindenkit boldoggá akarsz tenni, árulj fagyit](https://open.spotify.com/album/39U4YKkOkwZFiv2ucb0MIH) | 3:27 | 2021-05-03 | 2021-06-26 |
 | [Szívedből minden kell](https://open.spotify.com/track/4WYzTp2lLIWrlEqIOfADrf) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h) | [Szívedből minden kell](https://open.spotify.com/album/7z5wClHYj2bstTUyELZELQ) | 3:27 | 2021-04-14 | 2021-04-24 |
-| [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-06-21 |  |
+| [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-06-21 | 2025-05-16 |
 | [Szólj Rám](https://open.spotify.com/track/7JiCvaH242DCn6jk9CBYBg) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 3:55 | 2023-02-24 | 2023-02-26 |
 | [SZÓLJATOK RÁM](https://open.spotify.com/track/2oJxV5AET8l2VGE238J2Zf) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [IV](https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3) | 2:43 | 2023-06-02 | 2023-06-04 |
 | [SZÖRNYETEG](https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ SZÁLLODA \(1\. RÉSZ\)](https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF) | 3:28 | 2025-03-14 | 2025-04-19 |
@@ -1405,6 +1405,7 @@
 | [Vigyázz](https://open.spotify.com/track/1wQleri04jo4bH46Zssf2y) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:33 | 2023-02-24 | 2023-02-27 |
 | [VIGYÁZZ, KÉSZ, RAJT](https://open.spotify.com/track/2ugEbxVy9KE0r82w7mIMUk) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [IV](https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3) | 3:32 | 2023-06-02 | 2023-06-04 |
 | [Villám](https://open.spotify.com/track/7AZobwHObSuZQDCGXWYuop) | [Mihályfi Luca](https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot), [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Villám](https://open.spotify.com/album/5nBEJhjzLkpzIl7kM1aRcn) | 3:26 | 2023-07-26 | 2023-12-09 |
+| [Vinnipu](https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Vinnipu](https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J) | 1:48 | 2025-05-15 |  |
 | [Virágok](https://open.spotify.com/track/0A01SG58NY4LxLeQQmTsuv) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Szörnyeteg](https://open.spotify.com/album/3fwAWokcyYJTxZWDsyOjYm) | 3:03 | 2021-07-31 | 2021-08-09 |
 | [Visszasírtok Még Engem](https://open.spotify.com/track/4byN4ZkSeZPyuqiRm0oa9x) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [EZER NAP](https://open.spotify.com/album/2sdrLFENQ7qtygveNHMxel) | 3:19 | 2023-12-24 | 2024-01-02 |
 | [Visszatértem](https://open.spotify.com/track/4hPaoh0KU6iK1bvG4olh2d) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 1:57 | 2023-02-24 | 2023-02-26 |

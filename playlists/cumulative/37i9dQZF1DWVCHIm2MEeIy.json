@@ -2257,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1N7K3IIyDpWywAo7hrlHzc"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/422u4065pibZQ0jUl1kJo0"
+    },
+    {
+      "album": {
         "name": "Cuckoo",
         "url": "https://open.spotify.com/album/49oSkGl7FKX176OEE9q3yy"
       },
@@ -4290,6 +4308,32 @@
       "duration_ms": 175681,
       "name": "Humanity",
       "url": "https://open.spotify.com/track/2JNSF3Ut0DmKksRks5yN3f"
+    },
+    {
+      "album": {
+        "name": "Hypnotic (feat. Kyozo)",
+        "url": "https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249461,
+      "name": "Hypnotic (feat. Kyozo)",
+      "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
     },
     {
       "album": {
@@ -8754,7 +8798,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 421306,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
@@ -9055,6 +9099,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/2wX5pUWjQPYwkh5Z7sPT9b"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7pdI0NvmX1AstoqafRMcsb"
+    },
+    {
+      "album": {
         "name": "Sous les \u00e9toiles",
         "url": "https://open.spotify.com/album/1SiT054eGkYm5lnIZznnP3"
       },
@@ -9270,7 +9332,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 268000,
       "name": "Sunrise To The Morning",
       "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
@@ -9420,7 +9482,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 253228,
       "name": "Tears (with Paige Cavell) - Max Styler Remix",
       "url": "https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY"

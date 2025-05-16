@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-469 songs - 20 hr 50 min
+470 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/track/3ArDS1f0uJjaotIuIkg2cJ) | [Marcus Brodowski](https://open.spotify.com/artist/3U5sS2ernX7nUjFZ9GSxWh), [Emily Sander](https://open.spotify.com/artist/3mysMigndcBXvVgkpa7gvc) | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/album/3wgPs3nwytZ4mIXHuy9Z1L) | 3:34 | 2022-01-13 |  |
 | [The Seed](https://open.spotify.com/track/77VJomwym5qC8k6IzY68jl) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh) | [The Seed](https://open.spotify.com/album/3ixc9LVOiIpY4O7RGj0WS5) | 2:12 | 2022-06-23 |  |
 | [The Sound Of Silence](https://open.spotify.com/track/5Cw1C3iQUquhH2gehdqqj8) | [CYREES](https://open.spotify.com/artist/10bmjPGhgwYvRis3pjAAmL) | [The Sound Of Silence](https://open.spotify.com/album/2mG2BCrq18dPuqyXluFAD5) | 2:13 | 2024-05-28 |  |
+| [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 | 2025-05-15 |  |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-05-28 |  |
 | [Three Little Birds](https://open.spotify.com/track/1EytZ5aKjaGDsk8ujrFWoV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [PREZIOSO](https://open.spotify.com/artist/73VMT96VrGukUa5FtLPeSe), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Three Little Birds](https://open.spotify.com/album/7AulSlkspgPvEqJmjsUqXD) | 2:36 | 2022-09-01 |  |
 | [Thriller](https://open.spotify.com/track/71iQ4j3A9xKvo84CerWoC4) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ), [Say So City](https://open.spotify.com/artist/5mUUQC9Jv8EOsqJSG7vWhM) | [Thriller](https://open.spotify.com/album/6mQ1zti9t393eVPtQFNcLj) | 3:03 | 2022-10-27 |  |

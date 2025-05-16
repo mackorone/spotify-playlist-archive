@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "sweet and fresh emerging indie pop, featuring Spacey Jane \ud83c\udf51",
+  "description": "sweet and fresh emerging indie pop, featuring Jessica Winter \ud83c\udf51",
   "name": "peach",
   "tracks": [
+    {
+      "album": {
+        "name": "1234567",
+        "url": "https://open.spotify.com/album/1YyN5LVNUiXHXgGtWk6u7d"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165700,
+      "name": "1234567",
+      "url": "https://open.spotify.com/track/1vWOauv3X5GHUEY4Qe9WFo"
+    },
     {
       "album": {
         "name": "Little House",
@@ -106,7 +124,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 234234,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
@@ -218,6 +236,42 @@
       "duration_ms": 197982,
       "name": "anything for you",
       "url": "https://open.spotify.com/track/0ucxeQa4PyP4rRpOswffcv"
+    },
+    {
+      "album": {
+        "name": "Anything/Anyone",
+        "url": "https://open.spotify.com/album/3us2WdeqDv2Qv0cpAFBUGU"
+      },
+      "artists": [
+        {
+          "name": "Jess Martins",
+          "url": "https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160474,
+      "name": "Anything/Anyone",
+      "url": "https://open.spotify.com/track/0MViV5e5788MXVDb3YX1Dq"
+    },
+    {
+      "album": {
+        "name": "Background Actor",
+        "url": "https://open.spotify.com/album/3FKlTjB9Sk53oLZ2iKXCOr"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Song",
+          "url": "https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179255,
+      "name": "Background Actor",
+      "url": "https://open.spotify.com/track/5kVzN50FflO5UtObI0v9aP"
     },
     {
       "album": {
@@ -610,7 +664,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 176760,
       "name": "Brian Cox",
       "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
@@ -819,6 +873,42 @@
     },
     {
       "album": {
+        "name": "LOSS",
+        "url": "https://open.spotify.com/album/42jcxFU9ue6dJvONl4ubEe"
+      },
+      "artists": [
+        {
+          "name": "Alaska Blue",
+          "url": "https://open.spotify.com/artist/6DBwAnbSrkdZEhEitwg0Vq"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130082,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/2GydOd9TFZoz42qYxHR0ra"
+    },
+    {
+      "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Cinematic",
+      "url": "https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe"
+    },
+    {
+      "album": {
         "name": "City Warm Heart",
         "url": "https://open.spotify.com/album/5iNljgQzhCShhX58EmQA52"
       },
@@ -924,6 +1014,24 @@
       "duration_ms": 203766,
       "name": "Crocodile Tears",
       "url": "https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj"
+    },
+    {
+      "album": {
+        "name": "Crowded House",
+        "url": "https://open.spotify.com/album/3QrDOWvMgkSaUyrcQQ0NDu"
+      },
+      "artists": [
+        {
+          "name": "Karis Taylor",
+          "url": "https://open.spotify.com/artist/4DkCeWLigLWQeefMEQ5Iq1"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250538,
+      "name": "Crowded House",
+      "url": "https://open.spotify.com/track/0UDA73orG6ZNKH6nH44VjL"
     },
     {
       "album": {
@@ -1418,7 +1526,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 160114,
       "name": "friends",
       "url": "https://open.spotify.com/track/4SuzvlzpLFCZxsoI3W2NCr"
@@ -1472,7 +1580,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 219000,
       "name": "Genevieve",
       "url": "https://open.spotify.com/track/7fFGr8y59vJ0gsfb8M3PjR"
@@ -1839,6 +1947,28 @@
     },
     {
       "album": {
+        "name": "13 Months of Sunshine",
+        "url": "https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183953,
+      "name": "History (feat. Waxahatchee)",
+      "url": "https://open.spotify.com/track/2v3H792zzsZb4OrWrNhkCv"
+    },
+    {
+      "album": {
         "name": "hold fire",
         "url": "https://open.spotify.com/album/5maXQ4mckXhYt8CCWkf1kR"
       },
@@ -1958,7 +2088,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 173841,
       "name": "I Could Try To Change",
       "url": "https://open.spotify.com/track/77rqGhdAqwUAPXu92MiQGv"
@@ -2073,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "I'm Fine (Insincere)",
+        "url": "https://open.spotify.com/album/2yWqGCWAD0IpZS2DxriNEr"
+      },
+      "artists": [
+        {
+          "name": "Kenzie TTH",
+          "url": "https://open.spotify.com/artist/1KCkoNEJ8ATn1W6GujtTom"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186682,
+      "name": "I'm Fine (Insincere)",
+      "url": "https://open.spotify.com/track/6iXfaG5fYaYeSCZFUpTPsH"
+    },
+    {
+      "album": {
         "name": "obscura",
         "url": "https://open.spotify.com/album/1QBQzpCgdoe89WjGPdKPMm"
       },
@@ -2138,7 +2286,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 198680,
       "name": "in for the kill",
       "url": "https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx"
@@ -2318,7 +2466,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 228699,
       "name": "Kiss My Apocalypse",
       "url": "https://open.spotify.com/track/0N1ItNWhn5N7WiHarezCA8"
@@ -2538,7 +2686,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 183688,
       "name": "May I Have This Dance?",
       "url": "https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF"
@@ -2686,7 +2834,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 247190,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
@@ -2963,6 +3111,28 @@
     },
     {
       "album": {
+        "name": "Everybody Needs A Hero (Extended Edition)",
+        "url": "https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        },
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186410,
+      "name": "Pest",
+      "url": "https://open.spotify.com/track/38RTBP3XmPmZ6wpBmMw3IK"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/4dVdqGNmSeT4EOt3vO68dR"
       },
@@ -2974,7 +3144,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 159323,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4GKlQw3wlSRBM3MiCilBOj"
@@ -2992,7 +3162,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 218031,
       "name": "Piano Hands",
       "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
@@ -3068,6 +3238,24 @@
       "duration_ms": 191488,
       "name": "Popstar of Your Dreams",
       "url": "https://open.spotify.com/track/2EXoykjKLC5A4RjKs9gpYx"
+    },
+    {
+      "album": {
+        "name": "Praying Mantis",
+        "url": "https://open.spotify.com/album/2JLl4NMrwZKKrsnO2lxGWX"
+      },
+      "artists": [
+        {
+          "name": "Fran Lusty",
+          "url": "https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186886,
+      "name": "Praying Mantis",
+      "url": "https://open.spotify.com/track/2kKEe3yPOh6ZdNbZnZnB3x"
     },
     {
       "album": {
@@ -3176,7 +3364,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 218367,
       "name": "Quiet & Perfect",
       "url": "https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR"
@@ -3288,6 +3476,24 @@
       "duration_ms": 223587,
       "name": "Sadie",
       "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
+    },
+    {
+      "album": {
+        "name": "Same Mouth",
+        "url": "https://open.spotify.com/album/0gpl7Z4SNjlyELHad9yiWn"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156165,
+      "name": "Same Mouth",
+      "url": "https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a"
     },
     {
       "album": {
@@ -3832,7 +4038,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 230476,
       "name": "to be free",
       "url": "https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE"
@@ -3854,6 +4060,24 @@
       "duration_ms": 185840,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG"
+    },
+    {
+      "album": {
+        "name": "Tough Luck",
+        "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "Tough Luck",
+      "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
     },
     {
       "album": {
@@ -4019,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/67DYnzxx4D2I1PbIjGR7Tz"
+      },
+      "artists": [
+        {
+          "name": "Jessica Winter",
+          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179313,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/5spRRlyU71WlxkwRX0q8fC"
+    },
+    {
+      "album": {
         "name": "Warm Body",
         "url": "https://open.spotify.com/album/6zGTF7LNVhBNJGbvrcxcK5"
       },
@@ -4048,7 +4290,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 172991,
       "name": "Weather's Better",
       "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
@@ -4106,6 +4348,24 @@
       "duration_ms": 178304,
       "name": "Whateverrrr",
       "url": "https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC"
+    },
+    {
+      "album": {
+        "name": "when i look in her eyes",
+        "url": "https://open.spotify.com/album/194q4PmzbjIrJUcRKXjieo"
+      },
+      "artists": [
+        {
+          "name": "frances mistry",
+          "url": "https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "when i look in her eyes",
+      "url": "https://open.spotify.com/track/2ynnKkcv2EJNN6EKjO43ER"
     },
     {
       "album": {
@@ -4214,7 +4474,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 140000,
       "name": "With u",
       "url": "https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG"

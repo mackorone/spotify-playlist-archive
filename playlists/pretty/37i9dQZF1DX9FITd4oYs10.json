@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 18100,
+  "num_followers": 18101,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 224272,
+      "name": "Bora Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "The Cypher Deffect 2",
         "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 335907,
       "name": "The Cypher Deffect 2",
       "url": "https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 224272,
-      "name": "Bora Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "A M\u00fasica da M\u00e3e",
-        "url": "https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "A M\u00fasica da M\u00e3e",
-      "url": "https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "Falc\u00e3o - O Bagulho \u00c9 Doido",
         "url": "https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 300200,
       "name": "Estilo Vagabundo",
       "url": "https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "A M\u00fasica da M\u00e3e",
+        "url": "https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "A M\u00fasica da M\u00e3e",
+      "url": "https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm"
     },
     {
       "added_at": "2024-08-16 20:28:24",

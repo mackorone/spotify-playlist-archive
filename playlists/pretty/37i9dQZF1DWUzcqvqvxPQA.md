@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Spring is here! Check out these fresh tracks to keep your faith blooming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,917 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,926 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 4 | [honeydew \(praise the Lord\)](https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [honeydew \(praise the Lord\)](https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz) | 3:44 |
 | 5 | [Run](https://open.spotify.com/track/4RnsD99DtNmGRHPzEiWULv) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Run](https://open.spotify.com/album/0T6vGfjrTDdpxV5WS1VvfZ) | 3:23 |
 | 6 | [flood my heart](https://open.spotify.com/track/7HmTMbUOC2J1eHekfGq41h) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [flood my heart](https://open.spotify.com/album/1QnUbnhTGqAcyqQLzFNFK2) | 2:58 |
-| 7 | [Do it Afraid](https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [Do it Afraid](https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR) | 2:44 |
+| 7 | [Do it Afraid](https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sparrøw](https://open.spotify.com/artist/3ffS9GLH3Amh8S5UHFnpwn) | [Do it Afraid](https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR) | 2:44 |
 | 8 | [HOLY GHOST](https://open.spotify.com/track/66VssiAfLQjB7HEZG2Zhaj) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Eben](https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1) | [HOLY GHOST](https://open.spotify.com/album/0DOYsEQjN6bbjfq34qnPFu) | 2:30 |
 | 9 | [Chill Guy](https://open.spotify.com/track/6m8NA34YNBU2mflzwA7ckI) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [Chill Guy](https://open.spotify.com/album/04LFfVfjSNwZB8aPeo6KLe) | 1:48 |
 | 10 | [Just Watch](https://open.spotify.com/track/6AENZlyGRmIY9GdXeHKRuX) | [WildTribe](https://open.spotify.com/artist/4tVUFyIMhjYGgHvB2PBrli), [Beacon Light](https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk), [Tina Parol](https://open.spotify.com/artist/4Zds9MBMtEgBdze6Jzvmrb) | [Just Watch](https://open.spotify.com/album/4YK7MjKjgrrdGoEOtwAviI) | 2:41 |

@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Camille Keller
 
-3,230 songs - 7 day 10 hr 37 min
+3,231 songs - 7 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -977,6 +977,7 @@
 | [Forever Sometimes](https://open.spotify.com/track/6IkhY90zujb3wF5bMDtJr5) | [Dear Boy](https://open.spotify.com/artist/4FMlCZsSwNgGiNk6PHo796) | [Forever Sometimes](https://open.spotify.com/album/6CPWTgvRxPG6fP9iKz3VlQ) | 4:26 | 2022-08-03 | 2022-09-07 |
 | [forever, with you](https://open.spotify.com/track/593EdsNavqugMt7jSoptxC) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [forever, with you](https://open.spotify.com/album/1gxjY87dJpAGGSXLGimXVS) | 2:56 | 2023-04-19 | 2023-05-31 |
 | [Forget Me Not\(s\)](https://open.spotify.com/track/6HS6e30JW4M9ztfwbAm37C) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [Forget Me Not\(s\)](https://open.spotify.com/album/0WX9FIOkEcK3SsVPfh28Qs) | 1:53 | 2023-01-11 | 2023-02-09 |
+| [Formula 1](https://open.spotify.com/track/6BHkkOCflCQjyTcGl0jaMi) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0), [Melody English](https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp) | [Formula 1](https://open.spotify.com/album/5b5V1qr0RiJzLBAeEe5VOY) | 3:09 | 2025-05-15 |  |
 | [Fortress](https://open.spotify.com/track/34ExnGdLsxeA0URgGESq8l) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Fortress](https://open.spotify.com/album/0m5IzWWM1ZbcSXG52XKuqe) | 3:30 | 2024-01-31 | 2024-03-07 |
 | [Fortune Green](https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Fortune Green](https://open.spotify.com/album/4QeB3eT7TwAaeIsqKMTW7o) | 2:24 | 2024-07-10 | 2024-08-29 |
 | [Forward To The Kill](https://open.spotify.com/track/1ofeWTl75uUwmsARpR01Gl) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Forward To The Kill](https://open.spotify.com/album/5zHPVGxeFrpiD4ljamFRIU) | 2:41 | 2024-09-11 | 2024-10-10 |

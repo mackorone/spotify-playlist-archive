@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 124563,
       "name": "A General",
       "url": "https://open.spotify.com/track/5IOIC3i2ogbXYVv0QjaCNL"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 190736,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/5o29ve21BlPkXruG8ev15n"
@@ -1267,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "CONNECTED",
+        "url": "https://open.spotify.com/album/2g4OdxufIvT7n1QyJhosWC"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158012,
+      "name": "CONNECTED",
+      "url": "https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N"
+    },
+    {
+      "album": {
         "name": "Criminale",
         "url": "https://open.spotify.com/album/0JJkDnJUk7KIZExS9WJZtu"
       },
@@ -1278,7 +1300,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 168594,
       "name": "Criminale",
       "url": "https://open.spotify.com/track/1Be37RqkPZzbGljg38HrBI"
@@ -2912,7 +2934,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 138376,
       "name": "me & you",
       "url": "https://open.spotify.com/track/2qX5NeJHw3LGR2cNoY8qbK"
@@ -3560,7 +3582,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 180000,
       "name": "PARDONE",
       "url": "https://open.spotify.com/track/6TOrPq1aJ3IgFaGEGMsBGb"
@@ -3909,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "Shaghaf Oud",
+        "url": "https://open.spotify.com/album/79gXDytLOufwOCvX5VUTob"
+      },
+      "artists": [
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129673,
+      "name": "Shaghaf Oud",
+      "url": "https://open.spotify.com/track/10uXkMwebTL6Y3R2SVg4w4"
+    },
+    {
+      "album": {
         "name": "SHAWTY",
         "url": "https://open.spotify.com/album/1abyKuoHKWwqf7dxWa47Gz"
       },
@@ -4235,6 +4275,32 @@
     },
     {
       "album": {
+        "name": "TE DUA",
+        "url": "https://open.spotify.com/album/07nmsTjX3LWm8RdMPDC3D0"
+      },
+      "artists": [
+        {
+          "name": "Alim",
+          "url": "https://open.spotify.com/artist/2eCeP9nQxAp8hXOL30KNGZ"
+        },
+        {
+          "name": "Veysel.Blaq",
+          "url": "https://open.spotify.com/artist/7HBCYRIqruErTvmavK3j4f"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "TE DUA",
+      "url": "https://open.spotify.com/track/3XDU3RnXkC8dGgmv5pkJfc"
+    },
+    {
+      "album": {
         "name": "Temperatura",
         "url": "https://open.spotify.com/album/2mgO09x0ArB8EoprTK89Xk"
       },
@@ -4250,6 +4316,28 @@
       "duration_ms": 134724,
       "name": "Temperatura",
       "url": "https://open.spotify.com/track/3CBPfbeWuAD1pM1IFHQ4Er"
+    },
+    {
+      "album": {
+        "name": "Therapie",
+        "url": "https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Therapie",
+      "url": "https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0"
     },
     {
       "album": {
@@ -4493,6 +4581,24 @@
     },
     {
       "album": {
+        "name": "Vespa",
+        "url": "https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Vespa",
+      "url": "https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn"
+    },
+    {
+      "album": {
         "name": "viertel nach acht",
         "url": "https://open.spotify.com/album/4X0iEzLkRkVcAa4oAehzdY"
       },
@@ -4556,7 +4662,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 186428,
       "name": "Vorbei",
       "url": "https://open.spotify.com/track/1y8vW1vAODsbIUC7xyn2Tv"

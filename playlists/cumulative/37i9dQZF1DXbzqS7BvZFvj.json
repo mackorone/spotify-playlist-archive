@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Key Glock",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Amin\u00e9",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 190638,
       "name": "Blanco",
       "url": "https://open.spotify.com/track/1mS6WBo2ZH9TXnjMEIOTcW"
@@ -4404,7 +4404,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 169129,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/4sOuaTJ1qaS1TNfOxFOdL9"
@@ -4980,7 +4980,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 164453,
       "name": "CUT THE LIGHTS.",
       "url": "https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb"
@@ -6215,6 +6215,28 @@
     },
     {
       "album": {
+        "name": "Easier Done Than Said",
+        "url": "https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE"
+      },
+      "artists": [
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215604,
+      "name": "Easier Done Than Said",
+      "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
+    },
+    {
+      "album": {
         "name": "Eastside Girl ft. Ty Dolla $ign",
         "url": "https://open.spotify.com/album/12WAN5dyQIXdvFMnKRFU2P"
       },
@@ -6889,6 +6911,24 @@
     },
     {
       "album": {
+        "name": "13 Months of Sunshine",
+        "url": "https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131052,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf"
+    },
+    {
+      "album": {
         "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
         "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
       },
@@ -7122,7 +7162,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 167544,
       "name": "Flood",
       "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
@@ -7980,7 +8020,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 136159,
       "name": "Girls Trip",
       "url": "https://open.spotify.com/track/3qDTmWFWbiI9X62owRPrnM"
@@ -8766,7 +8806,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 173464,
       "name": "Head Hunting",
       "url": "https://open.spotify.com/track/6qGFE30IoIzKfcgXCQBnLW"
@@ -9140,7 +9180,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 176674,
       "name": "Higher Love (feat. Natania and Subhi) - from the Smurfs Movie Soundtrack",
       "url": "https://open.spotify.com/track/7vh5wN9o1meMGK8DooO7KD"
@@ -9242,6 +9282,28 @@
       "duration_ms": 192818,
       "name": "HISS",
       "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "album": {
+        "name": "Hit (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/3rDdDQ040X9gZugXDuw6bw"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175378,
+      "name": "Hit (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/0tIaLYi74Aw4ayWMW97rhS"
     },
     {
       "album": {
@@ -11130,7 +11192,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 130666,
       "name": "KAWASAKI (with Felip & th\u1ee7y)",
       "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
@@ -11170,7 +11232,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 173117,
       "name": "Keep It",
       "url": "https://open.spotify.com/track/2QJ8y7KKrbTlHoLCI69TsQ"
@@ -11700,6 +11762,32 @@
       "duration_ms": 143266,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1"
+    },
+    {
+      "album": {
+        "name": "Kingmaker",
+        "url": "https://open.spotify.com/album/7vYB6Ufvl9weaOZ9aXtFBR"
+      },
+      "artists": [
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "Leave Me Alone (ft. Dr. Dre & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4F3KSgun31tWMRP0eI8pnv"
     },
     {
       "album": {
@@ -13409,6 +13497,28 @@
     },
     {
       "album": {
+        "name": "Iz It a Crime?",
+        "url": "https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158270,
+      "name": "Me N OG Snoop",
+      "url": "https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4"
+    },
+    {
+      "album": {
         "name": "ME TIME",
         "url": "https://open.spotify.com/album/6Gs7PRxTjiJArmnTQu4kQt"
       },
@@ -13904,7 +14014,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 137571,
       "name": "Money",
       "url": "https://open.spotify.com/track/3OMZYyePjXvyoYapvXha5j"
@@ -16490,7 +16600,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 181187,
       "name": "Passions (feat. Loopy)",
       "url": "https://open.spotify.com/track/4qd6x4TKwxpRKTmIwlyuR6"
@@ -18679,6 +18789,28 @@
     },
     {
       "album": {
+        "name": "running man",
+        "url": "https://open.spotify.com/album/3pwNBfAGQQ1m4AQgiH9xFg"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Jonah Love",
+          "url": "https://open.spotify.com/artist/79GmhXdL3OTqfkx0aLRMKi"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100684,
+      "name": "running man",
+      "url": "https://open.spotify.com/track/1eVatzAN147H9DLVugRFA2"
+    },
+    {
+      "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/7zsZTwt64OjZNhoS7pIruD"
       },
@@ -18720,7 +18852,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 169251,
       "name": "S.U",
       "url": "https://open.spotify.com/track/28yziaAmoo7rSKQxHCdYgc"
@@ -18984,6 +19116,28 @@
       "duration_ms": 177873,
       "name": "Say Wow",
       "url": "https://open.spotify.com/track/27BXc7zVWqSTiWHSdOlJch"
+    },
+    {
+      "album": {
+        "name": "N.I.T.O.",
+        "url": "https://open.spotify.com/album/3FfM39wTQC0EZ4zyNE8Yl1"
+      },
+      "artists": [
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        },
+        {
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206503,
+      "name": "SAYSUM (feat. KID FRESINO)",
+      "url": "https://open.spotify.com/track/0pMnHmEcgZSRHsvdV6aAnI"
     },
     {
       "album": {
@@ -22043,6 +22197,32 @@
     },
     {
       "album": {
+        "name": "NUEVO C\u00d3DIGO",
+        "url": "https://open.spotify.com/album/0lLv1Uhvisd0D2HfLDg0qO"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ryo",
+          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+        },
+        {
+          "name": "Pipe Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
+        },
+        {
+          "name": "Alex Jarvar",
+          "url": "https://open.spotify.com/artist/30zc9km1mO7V1o2FhKThwm"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137666,
+      "name": "Todo Pa La Bellaquera",
+      "url": "https://open.spotify.com/track/124Fma7W9JGayVM3PxFWGl"
+    },
+    {
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
@@ -24850,6 +25030,24 @@
       "duration_ms": 157508,
       "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
       "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"
+    },
+    {
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/3kA6SPFnEBihAT9IfCQ4vY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/1SSeXpZJz5LY0tM4H8bmfC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,398 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,406 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 20 | [Easy To Love](https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Into The Blue](https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz) | 3:50 |
 | 21 | [Own Thing](https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Own Thing](https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H) | 2:41 |
 | 22 | [What Makes You Dance \- Vocal Version](https://open.spotify.com/track/25c0wQxy5TZxkqESkiqzik) | [Misto Kay](https://open.spotify.com/artist/0rsQVrlGriu6AjSiSu0llW), [Mo Wrights](https://open.spotify.com/artist/0rS8hPbRwt1dfoQ3fromV2) | [What Makes You Dance \(Vocal Version\)](https://open.spotify.com/album/4IsLiLDHUzUMB8UVN31IvE) | 5:00 |
-| 23 | [Livin' It Up \- Moods Remix](https://open.spotify.com/track/74gHxVSEVIhYm5eboNBTiz) | [NEMO](https://open.spotify.com/artist/2naji4kbOcOdFil7HLc1HP), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Livin' It Up \(Moods Remix\)](https://open.spotify.com/album/4bCXM8Ns1tylwHm5MYwqnq) | 3:20 |
+| 23 | [Livin' It Up \- Moods Remix](https://open.spotify.com/track/74gHxVSEVIhYm5eboNBTiz) | [EASTLAND PARK](https://open.spotify.com/artist/0VHt340eX2U6wNkugHeJqw), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Livin' It Up \(Moods Remix\)](https://open.spotify.com/album/4bCXM8Ns1tylwHm5MYwqnq) | 3:20 |
 | 24 | [You're Home](https://open.spotify.com/track/3kfalsko8zp5Mvt0sPMuvL) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [You're Home](https://open.spotify.com/album/4ynSL73wIneH2Z9jP2SGgG) | 2:08 |
 | 25 | [Gravity \- Payfone Remix](https://open.spotify.com/track/6UcCynkyFSmmjcxBdPqeTg) | [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc), [Payfone](https://open.spotify.com/artist/5kTeQ588I2gMuODQFHRQUu) | [Gravity \(Payfone Remix\)](https://open.spotify.com/album/4UVDulFuJkfv84DZGnGxSJ) | 5:47 |
 | 26 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 |

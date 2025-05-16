@@ -4,11 +4,13 @@
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus
 
-192 songs - 12 hr 45 min
+195 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [23/17](https://open.spotify.com/track/6WE1SUfXxG41NqW9jPHfti) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [23/17](https://open.spotify.com/album/0XDi5fRCWYTNZg9H2g1AUD) | 3:33 | 2025-05-15 |  |
 | [30/90](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/5jMxsWwmiQl6lRo01xHMmG) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 | 2022-03-10 | 2023-02-03 |
+| [A Strange Love Song](https://open.spotify.com/track/5SxVJ2qGPoP13ZTZz4yntH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [A Strange Love Song](https://open.spotify.com/album/202bVHXH17QwF6DnINXZnK) | 4:11 | 2025-05-15 |  |
 | [A.I.N.Y\. \(愛你\)](https://open.spotify.com/track/13l9dTRexqjXmzPESkaHU9) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [Neway Music Live X 林欣彤音樂會](https://open.spotify.com/album/5ppZ6CAbt2jAf4HgH3Ov7K) | 2:50 | 2023-02-02 | 2025-04-04 |
 | [BAD SIGN](https://open.spotify.com/track/2QZfiES4z1qGLWREmTqUKu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [BAD SIGN](https://open.spotify.com/album/6JcbSMJhx8O29eKxgwDeUi) | 3:07 | 2025-04-03 |  |
 | [Crazy for you](https://open.spotify.com/track/4PKWGR4LoNll7GXII66Cjn) | [sino R fine](https://open.spotify.com/artist/7sMfrVvoWbVIeLKkn9cxoO) | [Crazy for you](https://open.spotify.com/album/4ZwDbtFEE7G6zcowuWTBzx) | 3:50 | 2022-03-10 | 2023-02-03 |
@@ -58,6 +60,7 @@
 | [你救哪一個 \(Hidden Track\)](https://open.spotify.com/track/3F4di2gUOaxexwCsrPwtQT) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Vibes](https://open.spotify.com/album/4KmgdX1Q7Q5tzEwNhNjjII) | 3:37 | 2023-02-02 | 2025-04-04 |
 | [你是我的女人](https://open.spotify.com/track/6jDLdVKCa0lM8RyzNuvnxn) | [Robynn & Kendy](https://open.spotify.com/artist/3NFZHFNSDK0Q8k3k38ysTp) | [Robynn & Kendy](https://open.spotify.com/album/4Kh0aJr49Tb4lDBEJu5kAq) | 3:36 | 2023-02-02 | 2025-04-04 |
 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:44 | 2025-04-10 |  |
+| [你知道你比晚霞好看嗎](https://open.spotify.com/track/2kutq7mQIFYUdGxHptsMlE) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [BK](https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN), [Seluu](https://open.spotify.com/artist/3NL3hiZCEKrItNzxZTJ15o) | [你知道你比晚霞好看嗎](https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm) | 2:58 | 2025-05-15 |  |
 | [偷情](https://open.spotify.com/track/2E5X5HbBHBUeo2juTSgTMX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [偷情](https://open.spotify.com/album/2zYf27zQAJY1qgPB5plv19) | 3:48 | 2023-02-02 | 2025-04-04 |
 | [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 3:56 | 2025-04-03 |  |
 | [兜轉 \- 《HIStory4\-近距離愛上你》LINE TV片頭曲](https://open.spotify.com/track/3H6nBaQ2UJsUrK78NbYrD9) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [兜轉 \(《HIStory4\-近距離愛上你》LINE TV片頭曲\)](https://open.spotify.com/album/5M2ahDoiH4lD742rCmC1pL) | 4:00 | 2022-03-10 | 2023-02-03 |

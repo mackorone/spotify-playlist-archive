@@ -920,11 +920,29 @@
     {
       "album": {
         "name": "Bandolera",
+        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
+      },
+      "artists": [
+        {
+          "name": "Joan Cases",
+          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 168960,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
+    },
+    {
+      "album": {
+        "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
       "artists": [
         {
-          "name": "BADDIES ONLY",
+          "name": "JOHN ELLE",
           "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
@@ -954,24 +972,6 @@
       "duration_ms": 117667,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
-    },
-    {
-      "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
-      },
-      "artists": [
-        {
-          "name": "Joan Cases",
-          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
-        }
-      ],
-      "date_added": "2021-10-08",
-      "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
-      "duration_ms": 168960,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
     },
     {
       "album": {
@@ -2112,7 +2112,7 @@
       },
       "artists": [
         {
-          "name": "BADDIES ONLY",
+          "name": "JOHN ELLE",
           "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
@@ -3974,7 +3974,7 @@
       },
       "artists": [
         {
-          "name": "BADDIES ONLY",
+          "name": "JOHN ELLE",
           "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
@@ -6820,7 +6820,7 @@
       },
       "artists": [
         {
-          "name": "BADDIES ONLY",
+          "name": "JOHN ELLE",
           "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {

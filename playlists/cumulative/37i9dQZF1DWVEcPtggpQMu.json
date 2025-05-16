@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp?si=GkmDbG__Q5mT__AGj3ALaA\">saveHXPE</a>, <a href=\"https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s?si=mipdSxzVRMSPlgozQL6fgQ\">Baby Daiz</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn?si=CE4d74ijTZWjkhzynZ33mA\">Lowfeye</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -3233,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "can't stop",
+        "url": "https://open.spotify.com/album/7gX8f1YFFu9j9Ls404628N"
+      },
+      "artists": [
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "can't stop",
+      "url": "https://open.spotify.com/track/3uQ3aCKUTLgaImVmSMPi16"
+    },
+    {
+      "album": {
         "name": "Can't Wait",
         "url": "https://open.spotify.com/album/7IiykOHeyG8Mhx6Bo033N1"
       },
@@ -4919,6 +4937,28 @@
     },
     {
       "album": {
+        "name": "Eliantt\u00e9",
+        "url": "https://open.spotify.com/album/1djkyg1kDmwHAHp869ze5o"
+      },
+      "artists": [
+        {
+          "name": "Wang!",
+          "url": "https://open.spotify.com/artist/2ixKfrBGKPGHp09eSFAcS7"
+        },
+        {
+          "name": "Ca$h Khali",
+          "url": "https://open.spotify.com/artist/0Gs5hrEypi3Ep1UCOfXuSY"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190556,
+      "name": "Eliantt\u00e9",
+      "url": "https://open.spotify.com/track/3z0VKY5Ix0wMtVrZxhYt9f"
+    },
+    {
+      "album": {
         "name": "Elokishin",
         "url": "https://open.spotify.com/album/295NPYTrhoh6HNd9X8rBiT"
       },
@@ -5494,7 +5534,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 191399,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/4FqnxUO1rxOrIDnpYqllls"
@@ -5616,6 +5656,24 @@
       "duration_ms": 194823,
       "name": "Feels Like Sunday",
       "url": "https://open.spotify.com/track/6KC3HEkSSnmr8tby99jJ3J"
+    },
+    {
+      "album": {
+        "name": "Fell in Love with You",
+        "url": "https://open.spotify.com/album/62Wq13ONu7Q5pzRRVcSVnn"
+      },
+      "artists": [
+        {
+          "name": "HolyTrill",
+          "url": "https://open.spotify.com/artist/1QRjMvXWDMp1CagLhSspjG"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162235,
+      "name": "Fell in Love with You",
+      "url": "https://open.spotify.com/track/2qckLbifoRDMYM9rPydLWT"
     },
     {
       "album": {
@@ -8005,6 +8063,32 @@
     },
     {
       "album": {
+        "name": "iBele",
+        "url": "https://open.spotify.com/album/2OSRprAYUpIGswv4MqaIHQ"
+      },
+      "artists": [
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246486,
+      "name": "iBele",
+      "url": "https://open.spotify.com/track/5PFySNngHbLkh3ZcRqLHBQ"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6AWQbSpF7WeqTlTWyAhHCj"
       },
@@ -8826,7 +8910,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 240000,
       "name": "Joy (feat. Nkosazana Daughter)",
       "url": "https://open.spotify.com/track/7IukdLxEBymFsgvpOh7Gbl"
@@ -8950,7 +9034,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 216432,
       "name": "Ke Tech",
       "url": "https://open.spotify.com/track/58y6XZ4iA7v4WT9o9a9q5Z"
@@ -10984,7 +11068,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 222285,
       "name": "Medi Yase Khayelitsha",
       "url": "https://open.spotify.com/track/1a2CqIsoPrWTEpz2tJqJic"
@@ -11270,7 +11354,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 149232,
       "name": "Mmh Mmh",
       "url": "https://open.spotify.com/track/4VyUYwciRWhrcFYgKYoFQH"
@@ -12059,6 +12143,28 @@
     },
     {
       "album": {
+        "name": "Nguwe",
+        "url": "https://open.spotify.com/album/7gf8zpTzUi5bNq8ahrWYNe"
+      },
+      "artists": [
+        {
+          "name": "Oriiginelle",
+          "url": "https://open.spotify.com/artist/2P38MedXibOEtEffOWUkZB"
+        },
+        {
+          "name": "Jay Jody",
+          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211017,
+      "name": "Nguwe",
+      "url": "https://open.spotify.com/track/2LuYjn8M0mEtpPwTXZMDmz"
+    },
+    {
+      "album": {
         "name": "Night Kings",
         "url": "https://open.spotify.com/album/2rOmwlHFBp1DmbP2Fi4VFq"
       },
@@ -12338,7 +12444,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 147692,
       "name": "NO PROBLEM",
       "url": "https://open.spotify.com/track/3Q8SuoukDpBMdxfNeOOZGY"
@@ -12990,7 +13096,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 205764,
       "name": "OULIK",
       "url": "https://open.spotify.com/track/4HtPtwXvgfk0Rg0ZMWNgoS"
@@ -13454,7 +13560,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 223561,
       "name": "Platinum (feat. Frank Casino)",
       "url": "https://open.spotify.com/track/39PW0FxVarJ5q7XUT6Lb67"
@@ -13746,7 +13852,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 170526,
       "name": "Pretty MF",
       "url": "https://open.spotify.com/track/5KP8VpmEFzt70V3Zuf2CJ3"
@@ -17197,6 +17303,28 @@
     },
     {
       "album": {
+        "name": "Tango (feat. Usimamane)",
+        "url": "https://open.spotify.com/album/4E5N4RlPTyIr6Z8GWbYJ9C"
+      },
+      "artists": [
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Tango (feat. Usimamane)",
+      "url": "https://open.spotify.com/track/1w8gEgYkpUJ3UTgFGamxXw"
+    },
+    {
+      "album": {
         "name": "Tautona",
         "url": "https://open.spotify.com/album/2fbwPZQSgnmsep1FCYgPHx"
       },
@@ -17306,7 +17434,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 127741,
       "name": "Telly",
       "url": "https://open.spotify.com/track/6MOIqaJai7o7NQ4jCbDbLI"
@@ -19500,7 +19628,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 212395,
       "name": "Vuka",
       "url": "https://open.spotify.com/track/071m3HOIATFvRfG6ln351u"
@@ -19664,7 +19792,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 195692,
       "name": "WAKE UP (feat. Nanette)",
       "url": "https://open.spotify.com/track/6EjV5DkMq1REXkPRKruNzO"
@@ -20972,7 +21100,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 169090,
       "name": "Zama Zama (feat. Shouldbeyuang)",
       "url": "https://open.spotify.com/track/0ivCIq6U1JjKsGjZCqDHV5"

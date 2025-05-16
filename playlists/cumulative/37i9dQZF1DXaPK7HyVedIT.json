@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "#133 - DESTINO",
+        "url": "https://open.spotify.com/album/12LCuSlanylXZo1WJAQObX"
+      },
+      "artists": [
+        {
+          "name": "365Music",
+          "url": "https://open.spotify.com/artist/04JmT4xaE3l85oONBymgSA"
+        },
+        {
+          "name": "Lil I Am",
+          "url": "https://open.spotify.com/artist/3x2B17dot9etoLF20uz8DM"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "#133 - DESTINO",
+      "url": "https://open.spotify.com/track/55AeJQtdPXYI8NVU75EpWd"
+    },
+    {
+      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/4ZSKnDI8ZcTIpdfkbdPQrp"
       },
@@ -650,7 +676,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 204624,
       "name": "ANTO",
       "url": "https://open.spotify.com/track/3ZdJuPReSadEpmW5o9k6dF"
@@ -2524,7 +2550,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 145903,
       "name": "Connected",
       "url": "https://open.spotify.com/track/0vEG1losSiPHkoL6GQrG9x"
@@ -5674,6 +5700,28 @@
       "duration_ms": 207360,
       "name": "Hit the Ground - Edit",
       "url": "https://open.spotify.com/track/0Q9bsOkkAq5Jr6SQlPKb1X"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0W2q9C3kxFeChVSRvIFyxG"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6IzGDXZJpMLZDIRlrQuQc0"
     },
     {
       "album": {

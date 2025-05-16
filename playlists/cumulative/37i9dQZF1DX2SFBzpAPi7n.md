@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: DAY6\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: JEONG SEWOON\(정세운\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-950 songs - 2 day 10 hr 0 min
+951 songs - 2 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Flare](https://open.spotify.com/track/5qvCcpVLeYGwJSIP2aU5uP) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [PANORAMA](https://open.spotify.com/album/5KCwE9Ev3dhkvQOzPCR6Yx) | 6:03 | 2022-04-22 | 2022-07-27 |
 | [Flash](https://open.spotify.com/track/20jlpOzNCCZzqkeVAQm8rV) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Cape](https://open.spotify.com/album/626dbHFyezrT6lBxvjN6iq) | 4:57 | 2024-11-29 | 2025-01-02 |
 | [Flower Tail](https://open.spotify.com/track/7xEGoHycWoyimqDSOwJ5Hv) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Flower Tail](https://open.spotify.com/album/2HOtDyfnNtr07GNcoeVtBp) | 5:21 | 2023-07-28 | 2023-08-18 |
-| [Flowering](https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm) | 4:11 | 2025-03-17 |  |
+| [Flowering](https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm) | 4:11 | 2025-03-17 | 2025-05-16 |
 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 | 2024-06-05 | 2024-11-07 |
 | [Fly!](https://open.spotify.com/track/2q4Y6cC3bv8UoXjVZEArgo) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Fly!](https://open.spotify.com/album/6H7O2x05Dg5toCVrSBJST4) | 2:58 | 2022-08-01 | 2022-08-13 |
 | [Folks](https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Put Up a Fight](https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG) | 3:21 | 2023-03-24 | 2023-05-02 |
@@ -290,6 +290,7 @@
 | [Good for you](https://open.spotify.com/track/3AkesXd1KP7jPnoaY5Zkk6) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Good for you](https://open.spotify.com/album/1yG6xal9h8FZD9n0yD91Do) | 3:15 | 2024-03-21 | 2024-05-10 |
 | [good memories \(Feat\. ADORA\)](https://open.spotify.com/track/213w7ByCEFekKf7zHN3wM4) | [Millionboy](https://open.spotify.com/artist/0Wuo8gMMrvWCgOgIG6zToT), [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [BROKEN](https://open.spotify.com/album/3xX3GaWNCoQ6HihmaWCxFg) | 3:15 | 2025-02-10 | 2025-03-18 |
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-06-05 | 2024-06-09 |
+| [goodbye](https://open.spotify.com/track/4Y6JIaZmRUYJ1SziKAmt5Z) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Brut](https://open.spotify.com/album/2JiPV8SXl4Rcvh4qOAacwy) | 3:25 | 2025-05-15 |  |
 | [Goodbye \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:45 | 2024-06-05 | 2024-10-23 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 | 2024-11-07 |
 | [Gradually](https://open.spotify.com/track/2wdMvcn0OfxBislSqVFy7b) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [PUZZLE](https://open.spotify.com/album/3IyCy5reObC7anLU5t1KjZ) | 3:07 | 2025-01-02 | 2025-03-07 |

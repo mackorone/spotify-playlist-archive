@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 250453,
       "name": "12 Horas / Pra Voc\u00ea Acreditar - Ao Vivo",
       "url": "https://open.spotify.com/track/2j7IPPMZt5nE5R4r2AbKZ8"
@@ -4908,7 +4908,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 129229,
       "name": "Braba No Ch\u00e1",
       "url": "https://open.spotify.com/track/0zjFoEgApePlXu5vHP8Lcn"
@@ -13580,7 +13580,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 280615,
       "name": "Hoje Tem, Hoje Tem",
       "url": "https://open.spotify.com/track/3mfJvLwi1VocsfO2VUXuHO"
@@ -17958,7 +17958,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 160176,
       "name": "Mil Bocas - Ao Vivo",
       "url": "https://open.spotify.com/track/3cnWCidVeIydvLiaS7bV5P"
@@ -21042,7 +21042,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 166861,
       "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim.",
       "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
@@ -24236,6 +24236,36 @@
       "duration_ms": 144298,
       "name": "Quando Apaga A Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/6e5byyKtx6R0h66gagelPe"
+    },
+    {
+      "album": {
+        "name": "Quando Voc\u00ea Ligou",
+        "url": "https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh"
+      },
+      "artists": [
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "DJ Yago",
+          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "Quando Voc\u00ea Ligou",
+      "url": "https://open.spotify.com/track/2kbSMgvj7H2cqnDXvDAfZS"
     },
     {
       "album": {
@@ -28030,10 +28060,60 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-16",
       "duration_ms": 459692,
       "name": "Ta Rico Os Menino Do Gueto \ud83c\udf40",
       "url": "https://open.spotify.com/track/0WFA9Klvxj0rFc9YFe7Zgv"
+    },
+    {
+      "album": {
+        "name": "Feliz no Simples \ud83c\udf40",
+        "url": "https://open.spotify.com/album/5ANUMlfnRL0wLnb0WWb6TC"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc guizinho niazi",
+          "url": "https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459692,
+      "name": "Ta Rico Os Menino Do Gueto \ud83c\udf40",
+      "url": "https://open.spotify.com/track/7GNbFvEP3uKNASe3oaLl8U"
     },
     {
       "album": {
