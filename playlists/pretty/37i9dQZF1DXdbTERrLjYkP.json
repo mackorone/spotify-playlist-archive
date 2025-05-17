@@ -1,13 +1,65 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Audrey Hobert",
-  "num_followers": 218142,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Emma Foley",
+  "num_followers": 218184,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB19xAAAAAAvKKejrdGYH/mW5LnH+w32",
+  "snapshot_id": "aCa4SwAAAADckQfiyRcABUZzlP59+q54",
   "tracks": [
+    {
+      "added_at": "2025-05-16 04:00:11",
+      "album": {
+        "name": "Choke",
+        "url": "https://open.spotify.com/album/2FmnDEgozMUKVRZIH3JatP"
+      },
+      "artists": [
+        {
+          "name": "Emma Foley",
+          "url": "https://open.spotify.com/artist/2mT4dR2yqTdySXfsIkAp0x"
+        },
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 226779,
+      "name": "Choke (feat. SleazyWorld Go)",
+      "url": "https://open.spotify.com/track/0khebDDIF7nC8mzV1MFpfo"
+    },
+    {
+      "added_at": "2025-05-16 04:00:11",
+      "album": {
+        "name": "In My Bones (Deluxe)",
+        "url": "https://open.spotify.com/album/3eRt3LACTqStCVgGaXWoBp"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "duration_ms": 181888,
+      "name": "Wicked Nature",
+      "url": "https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk"
+    },
+    {
+      "added_at": "2025-05-16 04:00:11",
+      "album": {
+        "name": "Love A Good",
+        "url": "https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 214822,
+      "name": "Love A Good",
+      "url": "https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg"
+    },
     {
       "added_at": "2025-05-09 04:00:04",
       "album": {
@@ -893,22 +945,6 @@
       "url": "https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b"
     },
     {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
-        "name": "Hurts Different",
-        "url": "https://open.spotify.com/album/0tuEjKKxbF3gOLjN5wlRPc"
-      },
-      "artists": [
-        {
-          "name": "Isabella Kearney",
-          "url": "https://open.spotify.com/artist/3IiEUjaWFpelGMcTTRGBDL"
-        }
-      ],
-      "duration_ms": 141265,
-      "name": "Hurts Different",
-      "url": "https://open.spotify.com/track/4JQAx07ymzsRegTgjlCNg6"
-    },
-    {
       "added_at": "2025-01-17 05:00:32",
       "album": {
         "name": "Slowly, It Dawns",
@@ -939,38 +975,6 @@
       "duration_ms": 172746,
       "name": "A Little Kinder",
       "url": "https://open.spotify.com/track/2FW5ayCDLgY1UiB5KeeiyO"
-    },
-    {
-      "added_at": "2025-01-03 05:00:26",
-      "album": {
-        "name": "I Grow Up All Over Again",
-        "url": "https://open.spotify.com/album/3l3AxQzDYrRoUXTAh9dqSJ"
-      },
-      "artists": [
-        {
-          "name": "Hannah Grace",
-          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
-        }
-      ],
-      "duration_ms": 250729,
-      "name": "I Grow Up All Over Again",
-      "url": "https://open.spotify.com/track/5ZxrMAf7oAonFbiNwz9gu7"
-    },
-    {
-      "added_at": "2025-01-03 05:00:26",
-      "album": {
-        "name": "if only i knew",
-        "url": "https://open.spotify.com/album/0jbpjBdZOOtwic77ocqtui"
-      },
-      "artists": [
-        {
-          "name": "Mark O'Donnell",
-          "url": "https://open.spotify.com/artist/7ig6M7wpIZxUBQxEXmvkGn"
-        }
-      ],
-      "duration_ms": 200230,
-      "name": "if only i knew",
-      "url": "https://open.spotify.com/track/08Kfu6wPy0HWceUM4XQL6G"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

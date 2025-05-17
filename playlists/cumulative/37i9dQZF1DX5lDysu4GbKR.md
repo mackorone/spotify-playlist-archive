@@ -4,11 +4,12 @@
 
 > Stripped back vibes\. Cover: Gaidaa
 
-277 songs - 16 hr 21 min
+280 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 | 2025-02-21 |  |
+| [4EVER](https://open.spotify.com/track/1Jn4ikm3OMIii8DvdiRT2b) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Formed](https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc) | 3:17 | 2025-05-16 |  |
 | [5 a.m.](https://open.spotify.com/track/4HshkkI4dKm0ntQOBGA2mn) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [CARO](https://open.spotify.com/artist/0ItFoYHbLasAv34QofCyGl) | [Uncentered](https://open.spotify.com/album/4W2pmNWJLvFLDiGlxZ9oHO) | 4:40 | 2021-12-09 | 2022-01-26 |
 | [6 MONTHS](https://open.spotify.com/track/0IBpwTpWCFwDfuBapfzwu6) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [6 MONTHS](https://open.spotify.com/album/74aG8GxnhEPQYtgoq6sgbB) | 4:01 | 2021-12-09 | 2022-06-17 |
 | [Access](https://open.spotify.com/track/5WmsnY2TeEK3nd9fw3Cn9O) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:55 | 2024-11-15 |  |
@@ -140,6 +141,7 @@
 | [Kool Aid \- Acoustic](https://open.spotify.com/track/6GLWJ3RSJvWjtYV9b97pW4) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Kool Aid \(Acoustic\)](https://open.spotify.com/album/5Tz504v4T99RM3I6Plh6AJ) | 3:21 | 2021-12-09 | 2022-01-14 |
 | [Land Of Possibilities \- Live at Bitterzoet](https://open.spotify.com/track/7Kh1vJGY0z3BCfDKsgpkAm) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Live in Concert](https://open.spotify.com/album/3Dfg8TnkdNHm1WdPEW64Vh) | 5:23 | 2022-10-14 | 2023-04-09 |
 | [Learn to Love](https://open.spotify.com/track/3taKjGFvma0IwV5GmLsLDd) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Learn to Love](https://open.spotify.com/album/2g7lu7csvYm3EtX1hwtVgo) | 3:45 | 2021-12-09 | 2024-02-09 |
+| [Let Him Go](https://open.spotify.com/track/5JwtHwMc5QozAZUQcMJzRC) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [GOOD GRACES](https://open.spotify.com/album/3NP6l91Kvu5rHf8trQXmM7) | 2:12 | 2025-05-16 |  |
 | [Let me try](https://open.spotify.com/track/5B03trWqCi0dq7ruTExON6) | [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Let me try](https://open.spotify.com/album/0L4g58JHTkcVFZAkAB5rsE) | 3:55 | 2023-05-18 |  |
 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 | 2021-12-09 |  |
 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 | 2022-04-14 |  |
@@ -280,6 +282,7 @@
 | [Whoever You Are \- Live at RAK](https://open.spotify.com/track/6kVsawZQt4GPbFXSYS3DsY) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Live at RAK](https://open.spotify.com/album/2bzinM4FmvifmFBf6XUGZ6) | 7:00 | 2023-11-04 |  |
 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 | 2024-12-14 |  |
 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 | 2022-04-08 |  |
+| [WITCHU](https://open.spotify.com/track/3nqHtvFxksvMVXJjjT4ZPY) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [FREE](https://open.spotify.com/album/5kYK7Yov59At0MNDQBKR35) | 2:33 | 2025-05-16 |  |
 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-14 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2021-12-09 | 2023-04-09 |
 | [YOU \- Live](https://open.spotify.com/track/7MM899Zw7uVEWwWpSUOLUJ) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [YOU \(Live\)](https://open.spotify.com/album/1asr3WiGnqxr2bwuyPjmx4) | 3:24 | 2024-11-08 |  |

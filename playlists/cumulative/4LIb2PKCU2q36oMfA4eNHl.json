@@ -2387,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "Feeling Fades",
+        "url": "https://open.spotify.com/album/44riDt5xm322EieCTgLbsk"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90367,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5r7x4bKd0LtxQPRx3c8cZN"
+    },
+    {
+      "album": {
         "name": "Longing EP",
         "url": "https://open.spotify.com/album/1JN4XsXhTnQ6WmNkAVvh5j"
       },
@@ -4020,7 +4038,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 290526,
       "name": "Painting Out - Robyn Sherwell Revisit",
       "url": "https://open.spotify.com/track/42BJCTF3U5NU78lrEaNDx3"
@@ -4122,6 +4140,36 @@
       "duration_ms": 180512,
       "name": "Put You Back Together",
       "url": "https://open.spotify.com/track/4wRgSUpELGyDeKnaG3sFUW"
+    },
+    {
+      "album": {
+        "name": "Reach Out To Me (Acoustic Rework)",
+        "url": "https://open.spotify.com/album/3U8NDP92i6IjQgecTL3TE1"
+      },
+      "artists": [
+        {
+          "name": "Greg Newman",
+          "url": "https://open.spotify.com/artist/0umJoQYvzwnnKIlucLsIuv"
+        },
+        {
+          "name": "Placido Salamone",
+          "url": "https://open.spotify.com/artist/66NkU5Nqx6drzTYXUPWJYT"
+        },
+        {
+          "name": "Blank Page",
+          "url": "https://open.spotify.com/artist/1ZwCQVciFsCneJFpwSdA0r"
+        },
+        {
+          "name": "Dan Kol",
+          "url": "https://open.spotify.com/artist/36sSK0wDGzRTTplBKWP8TQ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Reach Out To Me - Acoustic Rework",
+      "url": "https://open.spotify.com/track/64kE0BmqaVFfjWSvZRgkiJ"
     },
     {
       "album": {
@@ -4850,7 +4898,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 255710,
       "name": "Submerge",
       "url": "https://open.spotify.com/track/3D0KXlaqViWlGWODdsNrKm"

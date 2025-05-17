@@ -234,7 +234,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 111428,
       "name": "After Kilian Flow",
       "url": "https://open.spotify.com/track/7KlfSYZsShYXEvdM45lCj9"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 150588,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/35pAZQU6X9WjIlUyuej4DF"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 117333,
       "name": "Casino",
       "url": "https://open.spotify.com/track/3slzrpqPz7Bfe7Y6pczFyS"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -2063,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "suburban daredevil",
+        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
+      },
+      "artists": [
+        {
+          "name": "wifiskeleton",
+          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
+        },
+        {
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90067,
+      "name": "Nope your too late i already died",
+      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
+    },
+    {
+      "album": {
         "name": "Graf Monte-Cristo / Most Valuable Pirate",
         "url": "https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb"
       },
@@ -2444,7 +2466,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 160000,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/4gdR57m0amD2REYvxr71jr"
@@ -5559,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u043b\u043e\u0445\u0430\u044f \u0421\u0443\u043a\u0430",
+        "url": "https://open.spotify.com/album/2sSIkoQkYLtmMZYxrUGPRe"
+      },
+      "artists": [
+        {
+          "name": "GONE.Fludd",
+          "url": "https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128039,
+      "name": "\u041f\u043b\u043e\u0445\u0430\u044f \u0421\u0443\u043a\u0430",
+      "url": "https://open.spotify.com/track/7GQY5kKP1uZGWSvZ5tOxsN"
+    },
+    {
+      "album": {
         "name": "ALISHER",
         "url": "https://open.spotify.com/album/4Y8nQDihhjaKefzE3rmoAM"
       },
@@ -5820,7 +5860,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 94615,
       "name": "\u041f\u0440\u043e\u0441\u0442\u0443\u0436\u0435\u043d",
       "url": "https://open.spotify.com/track/3VnFEw7QY1kDjU5I0VSFPf"

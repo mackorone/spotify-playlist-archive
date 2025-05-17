@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-416 songs - 22 hr 33 min
+417 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [DOPE](https://open.spotify.com/track/4kfJjBolZLPkfDxRYbibf7) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [NvrLeft](https://open.spotify.com/artist/2OL86NTb076d9B6laTqWKs) | [DOPE](https://open.spotify.com/album/5VucFyBylOUBIWGJLIoryY) | 2:45 | 2021-11-19 | 2022-01-08 |
 | [Dream State](https://open.spotify.com/track/1UjKSiQCcL6j4pvLBJDjXn) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Dream State](https://open.spotify.com/album/2enXCPdEfvakhOYgXoRrFK) | 3:22 | 2021-11-19 | 2022-01-08 |
 | [Drown](https://open.spotify.com/track/3oh96zFJQ3wDLW9hv0pDKQ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Drown](https://open.spotify.com/album/36rLDnmL9b3aCdKv1aixd8) | 2:40 | 2025-03-07 |  |
+| [Duel of the Fates](https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Duel of the Fates](https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa) | 3:22 | 2025-05-16 |  |
 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 | 2023-02-24 |  |
 | [Emergence](https://open.spotify.com/track/5NM99r8sRxJ1vbVlAopATe) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [LLLLNNNN](https://open.spotify.com/artist/5EnVoD5aCLkfAkZR6hFrSR) | [Emergence](https://open.spotify.com/album/1ZdDg0Y5tTFYMGlGMN0VJd) | 2:56 | 2022-01-07 | 2022-07-21 |
 | [Eternity](https://open.spotify.com/track/1apKTl69lh4dXHcUOZer8l) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Eternity](https://open.spotify.com/album/3zUXUyx9kx2Pp7ANoLtzxV) | 3:01 | 2021-11-19 | 2022-01-08 |
@@ -322,7 +323,7 @@
 | [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 |  |
 | [Seizure](https://open.spotify.com/track/5wqPpv0nROPAMg7h7R0wA8) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Seizure](https://open.spotify.com/album/4OFTlIf1lE1QToK9Ckrzla) | 2:51 | 2022-07-08 | 2023-03-18 |
 | [select@](https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:44 | 2025-01-17 |  |
-| [Set Me Free](https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Set Me Free](https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX) | 3:01 | 2025-01-17 |  |
+| [Set Me Free](https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Set Me Free](https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX) | 3:01 | 2025-01-17 | 2025-05-17 |
 | [Shake](https://open.spotify.com/track/1jRgrTBpB8GIB99bYjnDL3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Shake](https://open.spotify.com/album/6apexIQhAgroK41Kt6FOjd) | 3:14 | 2021-11-19 | 2022-01-08 |
 | [Shake It Off](https://open.spotify.com/track/2uXp1P1jPrjiVkKafgqYPW) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Shake It Off](https://open.spotify.com/album/0GzWA2pdhCEj2xvymykNOZ) | 2:17 | 2025-04-18 | 2025-04-29 |
 | [Sharp Shooter](https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [IN CASE OF FIRE EP](https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80) | 3:43 | 2023-05-26 | 2023-08-19 |

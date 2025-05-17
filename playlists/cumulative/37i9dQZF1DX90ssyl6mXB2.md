@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-212 songs - 9 hr 49 min
+214 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-04-05 | 2024-11-02 |
 | [claymore](https://open.spotify.com/track/22ahQd7UNBLb9JVt7LoFI2) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [claymore](https://open.spotify.com/album/7mLCu2UGDtYKn7T2OMx688) | 2:32 | 2025-03-07 |  |
 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 | 2024-02-02 |  |
+| [colourNo9](https://open.spotify.com/track/6aZ4cO0fMiVBcA7zauLe8w) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [colourNo9](https://open.spotify.com/album/2CAPzrTpXMPUUJRW7rIGVL) | 2:33 | 2025-05-16 |  |
 | [come thru](https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [come thru](https://open.spotify.com/album/6iyCsIynra6MsjVoV3tnrQ) | 2:33 | 2024-02-20 |  |
 | [Control](https://open.spotify.com/track/6czZfg7WqAHuzNDhGkcvwr) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Control](https://open.spotify.com/album/4LtgBIoZXPzm42lDIUei7m) | 2:27 | 2025-03-21 |  |
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-01-17 |  |
@@ -187,6 +188,7 @@
 | [Temptress](https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Temptress](https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG) | 2:56 | 2024-10-18 |  |
 | [That's Tough](https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [That's Tough](https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V) | 2:24 | 2024-03-29 |  |
 | [THATS MY BABY](https://open.spotify.com/track/4JwYLiyUMUDtvOG5w6AnRq) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Ghosts Need Love 2](https://open.spotify.com/album/7pqfjSqeoEdlaZbcu1vmzq) | 4:32 | 2024-02-02 | 2024-10-19 |
+| [THE BOOKER PT.2](https://open.spotify.com/track/5XqyoSix2H426tWRiSahVi) | [Kae](https://open.spotify.com/artist/1fSG1RjY50eGpdvtHECCRm) | [THE BOOKER PT.2](https://open.spotify.com/album/5OFfHOzzO5Dz825CE22qDn) | 2:01 | 2025-05-16 |  |
 | [The Life](https://open.spotify.com/track/2HzSHAtrNZfiLpNtYv4HUc) | [SAINT PARIS BABY](https://open.spotify.com/artist/7E26m6GE0DFcwrJLEIjBYA), [Prod\. Dior](https://open.spotify.com/artist/5QLOODQPj9ibFM4ZwhKY94) | [CALIFORNIA RELOADED](https://open.spotify.com/album/1KsUmwbhJlBiwun5XapWs8) | 2:14 | 2024-04-26 |  |
 | [throwing nikes](https://open.spotify.com/track/24tsWqOPlCCpSJPnSMOor7) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [throwing nikes](https://open.spotify.com/album/0g7Xp6J9vcWcSq2CMeGIBP) | 3:14 | 2025-04-25 |  |
 | [time flies](https://open.spotify.com/track/4WtclqYym0UPIzKesOHk7i) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:51 | 2025-01-24 | 2025-04-26 |

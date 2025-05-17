@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Find the mix series on SoundCloud: Bassline Therapy Radio
 
-668 songs - 1 day 11 hr 6 min
+670 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Be with Me 2009](https://open.spotify.com/track/2Qy5OVjyaIdp5sP4KMKyW8) | [belac](https://open.spotify.com/artist/2kBo2Anr7eJA3hszGJMQ7D) | [Be with Me 2009](https://open.spotify.com/album/3bMj3P9gipZdQByUrOX2Px) | 3:16 | 2024-11-17 | 2025-02-09 |
 | [Beat It Up](https://open.spotify.com/track/1dS6VAsEVuazc6OmYpRo0H) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw), [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx) | [Talk to Me](https://open.spotify.com/album/1sOEWaeiYUGWiNmpCaaNbo) | 2:09 | 2024-01-21 | 2024-02-06 |
 | [Beat Rock](https://open.spotify.com/track/3TKfl1l7BbHyetvoW93K3i) | [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Corporate Slackrs](https://open.spotify.com/artist/57TvkbpmyWEXja8k98ZFFB) | [Beat Rock](https://open.spotify.com/album/0ZiiyVXPKZ5zCgE8SZD17X) | 3:15 | 2025-04-27 |  |
+| [Beat the Beat](https://open.spotify.com/track/3zfuGEAKUMfYMJk0A6WZ3H) | [Damien Shane](https://open.spotify.com/artist/5YJKTUW8xDQnOjBxcj29Wm), [PARTYDECK](https://open.spotify.com/artist/7yAKekud28yvK0GqxFU6jq) | [Take It Eazy](https://open.spotify.com/album/2foX7ErwBGbCiqQRSvh4rf) | 3:15 | 2025-05-16 |  |
 | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH) | 3:34 | 2024-01-29 | 2024-06-24 |
 | [Beep Boop](https://open.spotify.com/track/4LbO1jMxCnSsSxTrvrQuqB) | [Reeva](https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r) | [Beep Boop](https://open.spotify.com/album/1Rab3xSVtJxnaCDkiEFkBV) | 2:09 | 2024-01-21 | 2024-02-06 |
 | [Believe In The Music](https://open.spotify.com/track/5Vwz4Sg0wQ78MaaoQYzbOA) | [Michael Leathers](https://open.spotify.com/artist/6QZdgsd7NHLTvcPt5RS5ll) | [Believe In The Music](https://open.spotify.com/album/4aYDbQEiucdpKdOhmjZnrs) | 2:38 | 2024-09-02 | 2024-10-21 |
@@ -312,6 +313,7 @@
 | [Jungle](https://open.spotify.com/track/7wyAHcp9fxfTKZhHNoABRp) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Jungle](https://open.spotify.com/album/6hNHbMObDJxst0mbXLI6PR) | 2:54 | 2024-11-04 | 2025-01-26 |
 | [Just A Beat](https://open.spotify.com/track/7ctJttGVH4aNSAIhW0SpK2) | [Jaylo](https://open.spotify.com/artist/0AQngXqybNIcqaDFowc4AX), [Jvck Mormon](https://open.spotify.com/artist/5duM6kBaOa8gkrtS7xcOW1) | [Just A Beat](https://open.spotify.com/album/5YlPQbNmhWFt9QwvB5OUzO) | 5:03 | 2025-04-19 |  |
 | [Just Do It](https://open.spotify.com/track/0eqa1ZYTJEDJy1UHIpTelr) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5) | [Just Do It](https://open.spotify.com/album/4Dg4M3xsbXUQWKIAqVVoUf) | 2:16 | 2024-08-19 | 2024-09-29 |
+| [K7 Tapes \- Radio\-Edit](https://open.spotify.com/track/0cHVPO46hbdZCO9FggzDp9) | [Mister Harris](https://open.spotify.com/artist/0SLeD6CCVAAJjPwvBbmRLw) | [K7 Tapes \(Radio\-Edit\)](https://open.spotify.com/album/3eo8pOB9R2n8rjM020jy0H) | 2:33 | 2025-05-16 |  |
 | [Keep It Movin](https://open.spotify.com/track/7eydenioW6SGsnWGGcx9Fa) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [The Book Club Chapter 5](https://open.spotify.com/album/1OIQcEd8ZMXqZIwjhB7ue2) | 3:18 | 2023-11-20 | 2024-04-30 |
 | [Keep On Pushing](https://open.spotify.com/track/3hxESOoUq0tc9NrI3yfKaE) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Keep On Pushing](https://open.spotify.com/album/5aKEa6uPolubhdjPpBujA4) | 3:11 | 2024-10-05 | 2024-11-19 |
 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 | 2025-01-05 | 2025-03-16 |

@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-126 songs - 9 hr 18 min
+127 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Hey Girl](https://open.spotify.com/track/6BcBsiKLMDvekCVvg5SLui) | [Abekejser](https://open.spotify.com/artist/3SC5UVDF2iMjJt0Oyh3Tbb) | [Hey Girl](https://open.spotify.com/album/5BR6xslCEvi0UuLTjEHKVu) | 6:19 | 2021-06-18 |  |
 | [Hips](https://open.spotify.com/track/3qNDTtFPFQsP9Y5d8vBtZI) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [Juicy Fruit](https://open.spotify.com/album/73kfq9W3uZk0TF61fBROOF) | 5:42 | 2020-09-18 |  |
 | [How Deep is Your Love](https://open.spotify.com/track/79EMDmR3k8oYUsxngPOsFI) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [How Deep is Your Love](https://open.spotify.com/album/0WS8Gcmka3WU1DL7j5WNEy) | 3:06 | 2022-09-16 |  |
+| [Hypnotized](https://open.spotify.com/track/6UhaAf6u6qMEh7IOdzGk9y) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Hypnotized](https://open.spotify.com/album/2K4CWu6QQfBqK6W4tW4oCA) | 3:50 | 2025-05-16 |  |
 | [I Can Make Ya](https://open.spotify.com/track/5G5WPmrYWnTBEeLMRqICP9) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [I Can Make Ya](https://open.spotify.com/album/5Jr1bpcJsXsXPJpKhl3Spr) | 3:58 | 2020-09-18 | 2024-04-19 |
 | [I Can Make Ya](https://open.spotify.com/track/5kkbdQmOMbSReknRRGi72G) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [I Can Make Ya](https://open.spotify.com/album/7nME0SUHAOYMtWxIyAanan) | 3:58 | 2020-09-18 |  |
 | [Imagination](https://open.spotify.com/track/64CJhB3uGmoLnf8x4z5mog) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [All Night Long](https://open.spotify.com/album/6CgKJxu3TjAVV7lyc1CLGi) | 3:05 | 2020-09-18 |  |

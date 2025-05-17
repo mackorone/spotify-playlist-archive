@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 310 songs - 16 hr 31 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 315 songs - 16 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -318,5 +318,10 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 308 | [Darkness \- 2021 Remaster](https://open.spotify.com/track/3BWEa8rtenICK4a6X4OG3l) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why \(2021 Remaster\)](https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD) | 6:19 |
 | 309 | [Silence \- 2021 Remaster](https://open.spotify.com/track/4S1Ua9Oerrch4cEhjSFMp0) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why \(2021 Remaster\)](https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD) | 1:57 |
 | 310 | [Groovy](https://open.spotify.com/track/5hfWeNk22cqpcwXMUnrlgz) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [City On My Back](https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB) | 2:21 |
+| 311 | [More Motions](https://open.spotify.com/track/0X8zrNBc4gHbONk7pwLRs6) | [Summrs Vault](https://open.spotify.com/artist/1U6kpZ2mr1ikdfTjRYpI0D) | [More Motions](https://open.spotify.com/album/5vFWVuAPayG2OJV6kt980Z) | 2:12 |
+| 312 | [New X](https://open.spotify.com/track/0oQpl483Gv7eaHRGCrOpaD) | [dyingoutlay](https://open.spotify.com/artist/23iXJEufmtnarRpaAUL2pi) | [New X](https://open.spotify.com/album/4Uexof7Pt88YnxmXGibdi5) | 2:12 |
+| 313 | [Holler!](https://open.spotify.com/track/6KvF7iueP2GDA6AuQlt24w) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:42 |
+| 314 | [FadaPhilippe](https://open.spotify.com/track/5UY1FDxfCPoM6sushUpSh9) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [FALLEN RAVEN](https://open.spotify.com/album/2KBhWSNNxOF2Ve94KvhlZy) | 2:46 |
+| 315 | [All of It](https://open.spotify.com/track/2Il6mimRM8nLAZlphiAQcC) | [dyingoutlay](https://open.spotify.com/artist/23iXJEufmtnarRpaAUL2pi) | [All of It](https://open.spotify.com/album/52e8vZgod5X2s0CUib8YtJ) | 2:41 |
 
-Snapshot ID: `AAAeV4UpC/lA1gWCBJHmtyRZmtw3YOli`
+Snapshot ID: `AAAeXG/UB2yHe3omWyboxIzMpyIuKq+v`

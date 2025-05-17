@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 El Zar.",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 Indios.",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 224469,
       "name": "33",
       "url": "https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 250942,
       "name": "A lo mejor",
       "url": "https://open.spotify.com/track/3Rjh1clMf74BWbokBwnmkh"
@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189409,
+      "name": "Absurdo",
+      "url": "https://open.spotify.com/track/0SiUfuGOtlSUPky10U1lCo"
+    },
+    {
+      "album": {
         "name": "Las Ligas Menores",
         "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
       },
@@ -292,7 +310,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 273878,
       "name": "Al L\u00edmite",
       "url": "https://open.spotify.com/track/3iG2svHzJCwv3i75sc83Vv"
@@ -648,7 +666,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 200406,
       "name": "Buen dia otra vez",
       "url": "https://open.spotify.com/track/0ltdWScdZexaPqkpmYlzp9"
@@ -1425,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219923,
+      "name": "Cotill\u00f3n",
+      "url": "https://open.spotify.com/track/34raiVdzCIF5JvhHidN6mN"
+    },
+    {
+      "album": {
         "name": "Cuando el Circo Llega al Pueblo",
         "url": "https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL"
       },
@@ -1476,7 +1512,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 215717,
       "name": "CULPA",
       "url": "https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8"
@@ -1732,7 +1768,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 170079,
       "name": "Detener el Tiempo",
       "url": "https://open.spotify.com/track/60PZ8GsP5PzSMnvTJaGjXw"
@@ -2102,6 +2138,42 @@
       "duration_ms": 193928,
       "name": "El Hit",
       "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
+    },
+    {
+      "album": {
+        "name": "El Hombre Puerco",
+        "url": "https://open.spotify.com/album/1rYJ6npG9IpXCxNDqPzkg1"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192275,
+      "name": "El Hombre Puerco",
+      "url": "https://open.spotify.com/track/2qczuYk56imj9ZFPz3JTwg"
+    },
+    {
+      "album": {
+        "name": "el mundo no es solo para mi",
+        "url": "https://open.spotify.com/album/52rxJlFl1VLjLjo7EwAqdy"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250218,
+      "name": "el mundo no es solo para mi",
+      "url": "https://open.spotify.com/track/78QdT3eHCpgXOaHKgv99Ob"
     },
     {
       "album": {
@@ -3654,6 +3726,46 @@
       "duration_ms": 257271,
       "name": "La Marcha Que Les Deb\u00eda",
       "url": "https://open.spotify.com/track/3OaoAm1Jm6NZjXHvvzfkfr"
+    },
+    {
+      "album": {
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "La misma canci\u00f3n",
+      "url": "https://open.spotify.com/track/5NoiG6VoFN5kWdd9A3kXr8"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1quina",
+        "url": "https://open.spotify.com/album/7jDD7GuuMirFLeNX7ksSjw"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179327,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/00RN1so6DXcJo1zFqlfezf"
     },
     {
       "album": {
@@ -6414,7 +6526,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 238715,
       "name": "Te Acordas?",
       "url": "https://open.spotify.com/track/0ITwG0VFzBEO3zKHRbL5RR"
@@ -6454,6 +6566,24 @@
       "duration_ms": 175939,
       "name": "Te Hace Feliz",
       "url": "https://open.spotify.com/track/67DE2XvSfMvYnuFD31E2We"
+    },
+    {
+      "album": {
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200124,
+      "name": "Te miento",
+      "url": "https://open.spotify.com/track/3cw4LaUXgvnXG8GdAJwjNL"
     },
     {
       "album": {

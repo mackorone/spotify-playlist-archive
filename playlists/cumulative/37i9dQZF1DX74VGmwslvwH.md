@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-190 songs - 12 hr 12 min
+196 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Angelic Reiki](https://open.spotify.com/track/68OOxuLvwLFPj78cKciaL3) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Angelic Reiki](https://open.spotify.com/album/6dy2c18h4b2It784yk9uuE) | 3:08 | 2023-02-10 |  |
 | [Anmol Khazana](https://open.spotify.com/track/47EwnKSHTiz2hddZZQTE7N) | [Kshitij Lata](https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0) | [Anmol Khazana](https://open.spotify.com/album/0PNCvRLeJo5PlTqpxZ40at) | 4:28 | 2024-03-08 | 2024-12-21 |
 | [Anupam Rahasya](https://open.spotify.com/track/3xg08C7H2cgIQ96lpA5gBB) | [Ganesh Punja](https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx) | [Anupam Rahasya](https://open.spotify.com/album/0w3gxbpQLCho2phuTzK1Ec) | 4:37 | 2023-09-05 | 2024-08-03 |
+| [Aria](https://open.spotify.com/track/6Meo32AbXxgZNGH6hMBCcS) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Omar El\-Deeb](https://open.spotify.com/artist/2OVsc2L9Cz8MVfxo06XEri) | [ARIA](https://open.spotify.com/album/0a7vEk315sJ5DBUzWJoW9u) | 2:26 | 2025-05-16 |  |
 | [Baagh](https://open.spotify.com/track/55OXtWmZJuNMoy1MSKsGsj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Baagh](https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN) | 3:23 | 2022-08-10 |  |
 | [Balance](https://open.spotify.com/track/3JIIlPHQxoHLki4BDc94Xj) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Balance](https://open.spotify.com/album/7GRX6RW1MLlakpI99k6pVo) | 2:31 | 2025-01-30 |  |
 | [Bansuri Heaven](https://open.spotify.com/track/6fdGoJ7yoQFuhUzQrIilwt) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Curing Rhythms](https://open.spotify.com/album/529HbjzW3Tr01wmu7dginb) | 4:02 | 2022-08-10 |  |
@@ -28,22 +29,27 @@
 | [Buddha's Enlightenment](https://open.spotify.com/track/1uBtnXRDYdkAAFPwpwyoOU) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Buddha's Enlightenment](https://open.spotify.com/album/6AugonglkPNBx08Dzgt4Uq) | 3:02 | 2023-03-07 |  |
 | [Butterfly Kisses](https://open.spotify.com/track/6gU1KxLaLZ6qUSMQtPyUxy) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Butterfly Kisses](https://open.spotify.com/album/6hL0TZRUEM5WLrQR9bqkOC) | 8:21 | 2022-05-13 | 2023-01-14 |
 | [By Nightfall \- 2Hz Delta Waves](https://open.spotify.com/track/7HEb0RAKvRXBmSeSKczqBz) | [Jijivisha](https://open.spotify.com/artist/0W3mFGcxXtnwkpgphwjYxk) | [By Nightfall \- 2Hz Delta Waves](https://open.spotify.com/album/4fMBn3FQMaPxe6CPOuIUCu) | 5:52 | 2022-05-13 | 2023-02-11 |
+| [Carousel](https://open.spotify.com/track/0N0g6pm3rg3ileUj6lmAMe) | [Kiran Skaar](https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju) | [Carousel](https://open.spotify.com/album/4kInP4JToOqJmeeURxk4fm) | 2:29 | 2025-05-16 |  |
 | [Chakra](https://open.spotify.com/track/47uKvPCd0cD5emAaGzlL7k) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Chakra](https://open.spotify.com/album/6YM7VOFDYMWqDMLp0hbiZH) | 4:55 | 2023-01-13 | 2024-03-09 |
 | [CHAKRA HEALING \(Meditation Music\)](https://open.spotify.com/track/6rNmdoYbDXjqnslT2NbJTK) | [CALMING & PEACEFUL VIBES](https://open.spotify.com/artist/0Kzexs0X9tAOobFWG68J7x) | [CHAKRA HEALING \(Meditation Music\)](https://open.spotify.com/album/2X1JJ00htpKDWqWNCMPN1N) | 4:21 | 2022-05-13 | 2023-09-06 |
+| [Chakra Resonance](https://open.spotify.com/track/3BWQMjJlmT6OsMoB1lWDdF) | [Gabriel Carter](https://open.spotify.com/artist/7c8zAMsbkEZVGDiwloByHr) | [Chakra Resonance](https://open.spotify.com/album/0tLLyrXeTGjx4XF7GGJPjg) | 3:25 | 2025-05-16 |  |
 | [Chamakana](https://open.spotify.com/track/3ERADo8PGb5qQMxKpOZRYe) | [Ijaya Gupta](https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk) | [Chamakana](https://open.spotify.com/album/0gNkBfc7zPaHTF5rOUIOek) | 3:29 | 2024-03-08 | 2024-12-21 |
 | [Chandani Raat Ka Saya](https://open.spotify.com/track/60PPQgRKKZLnq0Y9m02d96) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Chandani Raat Ka Saya](https://open.spotify.com/album/39YOGPIAGb7HHP7XrjafMA) | 4:13 | 2024-03-08 |  |
 | [Chinese Herbs](https://open.spotify.com/track/1ROHEkrFviF2sg0JdlmsNi) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Holy River](https://open.spotify.com/album/6HhpIS459we5oHB8GTW8Q2) | 2:54 | 2022-12-16 | 2024-12-21 |
 | [Chote Hiran](https://open.spotify.com/track/6FTbsYAksvLXAvNf3hQ2JR) | [Kapila Upsani](https://open.spotify.com/artist/1I8JjaC5qvXYmY4vRT3x1W) | [Chote Hiran](https://open.spotify.com/album/5Ks9dlzmU0BGfoqZYDP7gc) | 5:00 | 2022-05-13 | 2024-03-09 |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
+| [Constant Growth](https://open.spotify.com/track/7aDJfX6l3NW4qtGsxbAeIN) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Constant Growth](https://open.spotify.com/album/516FHVo3zP4TXqGlRdx5wx) | 2:55 | 2025-05-16 |  |
 | [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 | 2023-02-10 |  |
 | [Cosmic Wind](https://open.spotify.com/track/7M6Oo8FUfnOzmv9QlINuOb) | [Eon Weaver](https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c) | [Cosmic Wind](https://open.spotify.com/album/7Ekok52CQNbNCsyU6LDdUq) | 2:31 | 2025-04-01 |  |
 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 | 2022-05-13 | 2024-03-09 |
+| [Crowned With Spirit](https://open.spotify.com/track/7CpilL7I65N5rfHolNkWod) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Crowned with Spirit](https://open.spotify.com/album/2ypWPYxRowg7LKnfGBADYT) | 3:03 | 2025-05-16 |  |
 | [Crystal Mind](https://open.spotify.com/track/3Dej28jw6dF2X0zLXgEfGr) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Crystal Mind](https://open.spotify.com/album/6LtdVeYI047UzzS8AXAC7c) | 2:26 | 2024-03-08 |  |
 | [Darma Karma](https://open.spotify.com/track/6ztM1Tfblptt8WPceaYzX7) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Darma Karma](https://open.spotify.com/album/3MSb27LzvO7txXUL0qu9Xk) | 2:56 | 2024-08-02 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-05-13 | 2024-03-27 |
 | [Daylight](https://open.spotify.com/track/49WRLi32KntwCfG2lHfHnE) | [Ember Nova](https://open.spotify.com/artist/5onvixOrATIDwYcl8KQ24I) | [Daylight](https://open.spotify.com/album/48cj86LcZUstJeVMsl66WX) | 2:47 | 2024-12-20 |  |
 | [Deep Healing](https://open.spotify.com/track/0De7FekWhM84Dp5bUiWILn) | [Adela Rynsburger](https://open.spotify.com/artist/4SkN6vgI1t8Es1N7KTjc22) | [Deep Healing](https://open.spotify.com/album/6OYzbw0sJhn5atna6Xy0VK) | 5:10 | 2022-12-16 |  |
 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 | 2022-05-13 | 2024-12-21 |
+| [Destiny road](https://open.spotify.com/track/71KMZZFRJNXtOxKCmwxFVS) | [Sitarana](https://open.spotify.com/artist/1lg0s0LnjjmgY7iDqkhEBZ) | [Destiny road](https://open.spotify.com/album/4y0Cpd1wBzQg1p0fQYacnc) | 2:08 | 2025-05-16 |  |
 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 | 2022-05-13 | 2023-09-06 |
 | [Dhinchak](https://open.spotify.com/track/0WJ9kpcHXyVBPeMiKsou01) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Dhinchak](https://open.spotify.com/album/0Qg98DxDTVhdw3yT5imxHN) | 3:32 | 2022-07-14 | 2024-03-09 |
 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 | 2022-05-13 |  |

@@ -2155,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "Amazing",
+        "url": "https://open.spotify.com/album/4KcQWE0IroWI27yaUKznO3"
+      },
+      "artists": [
+        {
+          "name": "Lowkner",
+          "url": "https://open.spotify.com/artist/4k71JEKxVDcTlbl89n3B6d"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/5MzSH2kLAGMiGpjQEZKIRr"
+    },
+    {
+      "album": {
         "name": "Ami imaginaire",
         "url": "https://open.spotify.com/album/3TcehQS7pt30xsNWbLFKKZ"
       },
@@ -30220,7 +30238,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 265957,
       "name": "Questions",
       "url": "https://open.spotify.com/track/1FtGSIacJuTkab911nWQNs"

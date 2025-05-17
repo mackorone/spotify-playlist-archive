@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,874 likes - 117 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,969 likes - 117 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 5 | [Northern Sky](https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 3:44 |
 | 6 | [Cause](https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 5:30 |
 | 7 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [Other Voices, Other Rooms](https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE) | 4:20 |
-| 8 | [This Land is Your Land](https://open.spotify.com/track/7CNaYAdLyi86kofGafReiT) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [The Asch Recordings, Vol\. 1\-4](https://open.spotify.com/album/0QfX3caqG3gvfY1Kal2tlQ) | 2:19 |
+| 8 | [This Land is Your Land \- 3](https://open.spotify.com/track/7CNaYAdLyi86kofGafReiT) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [The Asch Recordings, Vols\. 1\-4](https://open.spotify.com/album/0QfX3caqG3gvfY1Kal2tlQ) | 2:19 |
 | 9 | [Who Knows Where The Time Goes?](https://open.spotify.com/track/1kxtStKyjUkbPqMZXh5i4q) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Meet On The Ledge: The Classic Years \(1967\-1975\)](https://open.spotify.com/album/6lHi6BAQFyyoEviq9ii9ii) | 5:07 |
 | 10 | [Lungs](https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter](https://open.spotify.com/album/2drUynocyGveMTFheprmJy) | 2:34 |
 | 11 | [Wild World](https://open.spotify.com/track/1ykYncbYWgaHapHMJWyGqi) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Best Of Cat Stevens 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0oUgS7KaSqBid8THz1Nmnc) | 3:19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Rezz",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with 33 Below",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -3075,6 +3075,24 @@
     },
     {
       "album": {
+        "name": "Bodybag",
+        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
+    },
+    {
+      "album": {
         "name": "Bombalaya (Blooom Remix)",
         "url": "https://open.spotify.com/album/0Pn7tCMEM2cJINrr1gSTbE"
       },
@@ -3306,6 +3324,28 @@
       "duration_ms": 144134,
       "name": "Brain Tickler",
       "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+    },
+    {
+      "album": {
+        "name": "Brain Tickler (Remixes)",
+        "url": "https://open.spotify.com/album/11a7tckLKZd11ANyeYV10h"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        },
+        {
+          "name": "So Sus",
+          "url": "https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Brain Tickler - So Sus Remix",
+      "url": "https://open.spotify.com/track/72iMCaYOm2j8g4SbVGvisg"
     },
     {
       "album": {
@@ -7006,7 +7046,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 160615,
       "name": "Drown",
       "url": "https://open.spotify.com/track/3oh96zFJQ3wDLW9hv0pDKQ"
@@ -7298,7 +7338,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 175448,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5MTVFDootgaqUVyUourtIf"
@@ -10922,7 +10962,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 173785,
       "name": "HACKING THE GATE",
       "url": "https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9"
@@ -11999,6 +12039,24 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/0rVtUNGCE2q1b0CFaMIaLb"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/4TGYYaUgukkUeDojVaytip"
+    },
+    {
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/2SNoAgXeao4wQ63bni0p8C"
       },
@@ -12570,6 +12628,28 @@
       "duration_ms": 180367,
       "name": "IMY",
       "url": "https://open.spotify.com/track/5auqanphtvVmBRMwyiu1a5"
+    },
+    {
+      "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214647,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
     },
     {
       "album": {
@@ -14508,7 +14588,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 185600,
       "name": "Like This",
       "url": "https://open.spotify.com/track/6nz6U4UducJ57TlgOV1PjC"
@@ -14604,6 +14684,28 @@
       "duration_ms": 189257,
       "name": "Liquor & Cigarettes (feat. ArrDee)",
       "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
+    },
+    {
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/6SKM4F8aje787qw2KlQSFM"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/1KXvPVzlJhSR3DT7ADSh89"
     },
     {
       "album": {
@@ -14820,6 +14922,36 @@
       "duration_ms": 170560,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/1E6meFZ4yDVstks1aK5SUa"
+    },
+    {
+      "album": {
+        "name": "Lose Control (feat. ILIRA)",
+        "url": "https://open.spotify.com/album/0SXIPcP2hyjWKuZxZK1nOO"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248142,
+      "name": "Lose Control (feat. ILIRA)",
+      "url": "https://open.spotify.com/track/7v11L9CN3sL9BDdiNrmpRe"
     },
     {
       "album": {
@@ -15278,6 +15410,24 @@
       "duration_ms": 152812,
       "name": "MARAVILLOSA",
       "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
+    },
+    {
+      "album": {
+        "name": "Mash Up",
+        "url": "https://open.spotify.com/album/46MG0EvcJHEW9NKOXJ6e04"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "Mash Up",
+      "url": "https://open.spotify.com/track/1b6lq9XLhXLq7PQFcfvRtb"
     },
     {
       "album": {
@@ -18880,7 +19030,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 227200,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/4wpGn7r1UV97f4ULFvwqAg"
@@ -19224,7 +19374,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 138400,
       "name": "Protocol",
       "url": "https://open.spotify.com/track/2JqvYABtzlyJ7XI2KOW0QV"
@@ -20124,7 +20274,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 212413,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/0hdbVFC6rzm2oqt1D7Zgn0"
@@ -20428,6 +20578,24 @@
       "duration_ms": 137622,
       "name": "RIPPLE",
       "url": "https://open.spotify.com/track/36BXjNnD0Vm6CYHf69K7zB"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/25pCsAxUGaHglVh9cDRZL4"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133150,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2EfDJpX1h3fB2MLc2Uos4k"
     },
     {
       "album": {
@@ -25166,7 +25334,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 173793,
       "name": "Torch",
       "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
@@ -26052,6 +26220,24 @@
       "duration_ms": 216338,
       "name": "Ur Body",
       "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
+    },
+    {
+      "album": {
+        "name": "Usurper",
+        "url": "https://open.spotify.com/album/4EPyDv8ZihVM5v1IC87lgG"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "Usurper",
+      "url": "https://open.spotify.com/track/56NpnKfIG8O0sxTbxXcsMS"
     },
     {
       "album": {
@@ -27548,7 +27734,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 155700,
       "name": "Wubcraft",
       "url": "https://open.spotify.com/track/3g8WmeSOar7RKuQEEfNhZo"

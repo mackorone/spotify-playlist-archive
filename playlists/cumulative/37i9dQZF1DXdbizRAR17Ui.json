@@ -803,6 +803,28 @@
     },
     {
       "album": {
+        "name": "Be The First One",
+        "url": "https://open.spotify.com/album/5yNthIBAghTkSfRTtDKd8k"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        },
+        {
+          "name": "NYAROL",
+          "url": "https://open.spotify.com/artist/378ilmifyE7FfICFkwlAD7"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Be The First One",
+      "url": "https://open.spotify.com/track/0UsBpozOiItwFrErgLkDAh"
+    },
+    {
+      "album": {
         "name": "Be With Me",
         "url": "https://open.spotify.com/album/5fyOAPwp4N5TJUjuiGBPcv"
       },
@@ -1304,7 +1326,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 236628,
       "name": "CHROMA 003 Bi83",
       "url": "https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6"
@@ -2680,7 +2702,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 183839,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
@@ -4344,7 +4366,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 320121,
       "name": "Music Taught Me Life",
       "url": "https://open.spotify.com/track/6y7oSnVN2PpNvd4CUrvZBp"
@@ -5552,6 +5574,24 @@
       "duration_ms": 184989,
       "name": "Roll Back - Single Mix",
       "url": "https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256920,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi"
     },
     {
       "album": {
@@ -7078,6 +7118,28 @@
       "duration_ms": 218740,
       "name": "U",
       "url": "https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG"
+    },
+    {
+      "album": {
+        "name": "Unknowable",
+        "url": "https://open.spotify.com/album/02KxfrGk4P5AesEeEDm343"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183322,
+      "name": "Unknowable",
+      "url": "https://open.spotify.com/track/7qt7yOwx9c39I1Ti8iAgLa"
     },
     {
       "album": {

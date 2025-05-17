@@ -2,9 +2,9 @@
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> Brand new music from Morgan Wallen, Tate McRae, Cyril, Linkin Park, Dom Dolla and more
+> Brand new music from Rihanna, Morgan Wallen, Tate McRae, Cyril, Linkin Park, Dom Dolla + more
 
-8,639 songs - 19 day 12 hr 27 min
+8,643 songs - 19 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,6 +708,7 @@
 | [Batsh\*t](https://open.spotify.com/track/2a1nbVmBuus5wF6Bkq8ZFE) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Batsh\*t](https://open.spotify.com/album/3MNa4RF0WImVVeALBvhXE8) | 2:18 | 2024-10-24 | 2024-11-01 |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-11-30 | 2023-12-08 |
 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 | 2024-09-05 | 2024-09-13 |
+| [BBGIRLGOSLOW](https://open.spotify.com/track/192NzBPjtGKA1aBz1eZPZv) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BBGIRLGOSLOW](https://open.spotify.com/album/4AzRpk6huNI8h9sVV57Li7) | 2:34 | 2025-05-15 |  |
 | [bbydoll](https://open.spotify.com/track/2gnLLrNnITq04tguy716dt) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [bbydoll](https://open.spotify.com/album/5U69I8URn5ZJZVR2lpB5XO) | 2:14 | 2024-10-03 | 2024-10-11 |
 | [Be a Man](https://open.spotify.com/track/49Ixc5ZBzciuCbnu2QI5um) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN) | [Be a Man](https://open.spotify.com/album/3zcfHXgbDsfjT4BFTz2A5M) | 2:00 | 2023-07-13 | 2023-07-21 |
 | [Be Alright](https://open.spotify.com/track/5T5AS42m32tKpFLfibRSqy) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Be Alright](https://open.spotify.com/album/2cQaAt8RZtWYFSaPLGXaBF) | 2:35 | 2024-10-24 | 2024-11-01 |
@@ -2768,6 +2769,7 @@
 | [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 | 2025-03-20 | 2025-03-28 |
 | [Fried Rice](https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Fried Rice](https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj) | 3:27 | 2023-10-05 | 2023-10-13 |
 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 | 2024-01-11 | 2024-01-19 |
+| [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 | 2025-05-16 |  |
 | [Friend or Foe](https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Friend or Foe](https://open.spotify.com/album/2yBWhovYNLKS7VnHdK8cEN) | 4:10 | 2024-04-04 | 2024-04-12 |
 | [Friends](https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Friends](https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS) | 3:33 | 2024-09-05 | 2024-09-13 |
 | [Friends](https://open.spotify.com/track/74pEylFvk8Z4Ze8MpV5hZf) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [KANINNA](https://open.spotify.com/album/4D0gIQK70rlkRvP7FKcNga) | 3:30 | 2024-09-19 | 2024-09-27 |
@@ -6665,6 +6667,7 @@
 | [Sirens](https://open.spotify.com/track/2nztSVpanUyxTGp1rfzfK2) | [Car Kiss](https://open.spotify.com/artist/1DwYTwnyBGXwt1LQma9zFs) | [Sirens](https://open.spotify.com/album/6lWYU2496rDfTjBODmBBmn) | 3:00 | 2023-09-07 | 2023-09-15 |
 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 | 2023-07-07 | 2023-07-14 |
 | [SIRENZ](https://open.spotify.com/track/75kE96bhxZKeWVWPIVwZUJ) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ) | [SIRENZ](https://open.spotify.com/album/1oxaBkkAsYY8GaPzs42gCq) | 3:19 | 2023-09-28 | 2023-10-06 |
+| [SISTA WIVES \- from the Short Film "Red Clay"](https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SISTA WIVES \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng) | 2:29 | 2025-05-15 |  |
 | [Situation](https://open.spotify.com/track/2mJKflpK3ZUNQZB0C8jk1S) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Situation](https://open.spotify.com/album/7JHmHPWUghH4yG9oM34tKZ) | 1:53 | 2023-08-10 | 2023-08-18 |
 | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/track/57WwGbbzcKCG4tF4LdJjU5) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [SKED \[feat\. Kenny Mason\]](https://open.spotify.com/album/5aQJMDgrFgssrR5xS4p5MX) | 2:38 | 2023-09-14 | 2023-09-22 |
 | [Skin](https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Skin](https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB) | 3:34 | 2024-03-07 | 2024-03-15 |
@@ -6796,6 +6799,7 @@
 | [Some Type Of Skin](https://open.spotify.com/track/5CguvtN2MvxSmtSR23UNOd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin](https://open.spotify.com/album/4kfH7Wzr6p646dTIulVQQS) | 3:12 | 2024-03-21 | 2024-03-29 |
 | [Somebody](https://open.spotify.com/track/6NKjPJS3dRoY8weRf3EnC3) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Somebody](https://open.spotify.com/album/2c4Ls6gjK0JwPTtIZ8mKrn) | 3:14 | 2023-10-26 | 2023-11-03 |
 | [Somebody](https://open.spotify.com/track/7gmpJQyR3pFtbig3Wc3ilj) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Somebody](https://open.spotify.com/album/1E6ZLKy0kyoZU4B2cXqmlF) | 4:44 | 2024-06-20 | 2024-06-28 |
+| [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 | 2025-05-15 |  |
 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 | 2023-09-14 | 2023-09-22 |
 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-02-08 | 2024-02-16 |
 | [Somebody \(feat\. upsidedownhead\)](https://open.spotify.com/track/4aZPM2DIO0k5eTQiX0VTkz) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO), [upsidedownhead](https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB) | [Midnight Highlight](https://open.spotify.com/album/2EUAQLvuP3jnHfpuyUeKbm) | 3:14 | 2024-01-18 | 2024-01-26 |

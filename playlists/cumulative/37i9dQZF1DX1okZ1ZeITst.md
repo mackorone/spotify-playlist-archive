@@ -4,7 +4,7 @@
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Disney's Snow White.
 
-164 songs - 8 hr 25 min
+165 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [The Proud Family: Louder and Prouder Opening Theme \- From "The Proud Family: Louder and Prouder"/Soundtrack Version](https://open.spotify.com/track/1Gm51ZsgLcCdtTTgQEHqil) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [The Proud Family: Louder and Prouder Opening Theme \(From "The Proud Family: Louder and Prouder"\)](https://open.spotify.com/album/4qsW88T4KHoo8HMQFAmFr2) | 1:35 | 2024-01-08 |  |
 | [The Scuttlebutt](https://open.spotify.com/track/2wLDS3oCMufFrvwN2IK3Bt) | [Awkwafina](https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 2:01 | 2024-01-08 |  |
 | [The Witches Are Back](https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W), [Sarah Jessica Parker](https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH), [Kathy Najimy](https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 1:44 | 2024-01-08 |  |
+| [There's a Great Big Beautiful Tomorrow](https://open.spotify.com/track/3rynFprrGTQdpYzdzdUGsj) | [Rex Allen](https://open.spotify.com/artist/66SqnH24eOjN0IEwWjmMyQ) | [The Sherman Brothers Songbook](https://open.spotify.com/album/1Hrim7KTK1mNyAYAw17Q1s) | 2:16 | 2025-05-16 |  |
 | [This Is Me](https://open.spotify.com/track/5c94W4Yh0kDVnC5bx8zMhD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [This Is Me](https://open.spotify.com/album/29zdXTtKK4yAE8SUzbHC7m) | 3:06 | 2024-01-08 |  |
 | [This Is The Thanks I Get?! \- From "Wish"](https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx) | [Chris Pine](https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Is The Thanks I Get?! \(From "Wish"\)](https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL) | 3:14 | 2024-01-08 |  |
 | [This Wish \- From "Wish"](https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9) | 3:25 | 2024-01-08 |  |

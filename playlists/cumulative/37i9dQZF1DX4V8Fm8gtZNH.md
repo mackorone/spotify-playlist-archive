@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-319 songs - 18 hr 54 min
+322 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Exclusively Yours](https://open.spotify.com/track/4CxjNuqTTYOaDMx8GrpLB5) | [Blair Perkins](https://open.spotify.com/artist/609Q2Uooik1vA0iMZ4uOka) | [Blair Perkins](https://open.spotify.com/album/4a0Y2hGtsqG3Ya9nR228IY) | 3:30 | 2023-10-18 |  |
 | [Faithful](https://open.spotify.com/track/0nSZ3JGoEyUw2w03UUxnS4) | [J.Howell](https://open.spotify.com/artist/5GU7EEftOdxcqM7nPoXLwq) | [RedRoom](https://open.spotify.com/album/5Wjn142qhoTW2ajvo7Zyir) | 2:44 | 2023-10-18 |  |
 | [Fall](https://open.spotify.com/track/6INqijEvx76YGUVYYRCyPE) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 6:40 | 2023-10-18 |  |
+| [Father Figure](https://open.spotify.com/track/5Hz3dloL9YRi8dkRZNqy78) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [Father Figure](https://open.spotify.com/album/2syXzOLo0YjFbR7x7Ul9wi) | 2:38 | 2025-05-16 |  |
 | [Feelings](https://open.spotify.com/track/0uVoPJDA7uOuNHry5G7Ckp) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [Feelings](https://open.spotify.com/album/2JtzK8PlSM4SQlXlO3saKa) | 3:19 | 2023-10-18 |  |
 | [Fefe On The Block](https://open.spotify.com/track/1s9hBKw37JvYV9KYiR9oef) | [Stunt Taylor](https://open.spotify.com/artist/6OlcRxdAiJfOY2SiexBMej) | [Stunt'n On Turbo](https://open.spotify.com/album/5c0SkmE80ufogBAVzgmcA5) | 2:53 | 2023-10-18 |  |
 | [Flex](https://open.spotify.com/track/6Jun9cqvycnlZVeeSIy0k4) | [Piff Marti](https://open.spotify.com/artist/4yJPiziKjwvjKUnsnsOixM) | [Flex](https://open.spotify.com/album/59AVuo3BYKxeL1d17gpQfn) | 2:27 | 2024-06-07 |  |
@@ -159,6 +160,7 @@
 | [Just Watch Me Now](https://open.spotify.com/track/4thforo1bEQyELUxY9Any8) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Just Watch Me Now](https://open.spotify.com/album/2EGzj5x2nGtF53deHNti5q) | 3:01 | 2023-10-18 |  |
 | [Karma](https://open.spotify.com/track/0xB7i2AhQZT7nnor7rb15L) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:04 | 2023-10-18 |  |
 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 | 2023-10-18 |  |
+| [King of Sorrow](https://open.spotify.com/track/0qQcQIj6htaCX7KFrsciNU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:53 | 2025-05-16 |  |
 | [Kingdom Come](https://open.spotify.com/track/1MyvPWF1eFyivdOpdivyh5) | [Love Pulse Music](https://open.spotify.com/artist/7fC7wiRwJKnHzM5J5xC1F4), [La'Keith Rashad](https://open.spotify.com/artist/4FMotUyAvNL6qwuO7NOniy) | [Infinite Cue Vol\. 1](https://open.spotify.com/album/4iiDcxVsYAFYNxka5sfJvu) | 3:00 | 2023-10-18 |  |
 | [Krillin In Yo Hood](https://open.spotify.com/track/1zy3RKh52hYFrs4Lixs3Rb) | [Sir Michael Rocks](https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx) | [Funds & Access](https://open.spotify.com/album/4SU5u6FvXb7Vs5mgOwxHws) | 1:49 | 2023-10-18 |  |
 | [Lead the Way](https://open.spotify.com/track/4yyLetUe7rUTHbMTMRZ98B) | [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH) | [Book of Sound](https://open.spotify.com/album/4MMlTuDNl2Pg6Cg3xWIKh9) | 3:12 | 2023-10-18 |  |
@@ -277,6 +279,7 @@
 | [The Deal](https://open.spotify.com/track/4irSKdq4j3aNHsZqTCdM4Q) | [Armed Rhymery](https://open.spotify.com/artist/1Fi0pi2srRwimN0RQMFudM) | [The Deal](https://open.spotify.com/album/4x7MLIfIZukhhDxioNPRRF) | 3:57 | 2024-05-31 |  |
 | [The Distance](https://open.spotify.com/track/6vz5CRaat5Vc4561v7eSUr) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [The Distance](https://open.spotify.com/album/0H0QyUyHsMHyu2XW7FnEZL) | 4:15 | 2023-10-18 |  |
 | [The Energy](https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [The Energy](https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD) | 3:39 | 2023-10-18 |  |
+| [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 | 2025-05-16 |  |
 | [The Light](https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Go! Common Classics](https://open.spotify.com/album/2IGKisSgNle7264UoY57vO) | 4:03 | 2023-10-18 |  |
 | [The Pain Gets A Little Deeper](https://open.spotify.com/track/6HRBeI0N6rTXn3v8erBSF7) | [Darrow Fletcher](https://open.spotify.com/artist/0adetEU8Vg0fU96nkB9Zel) | [The Pain Gets A Little Deeper](https://open.spotify.com/album/2Jq0dS6jaYiuMg5AvQl843) | 2:24 | 2023-10-18 |  |
 | [The People](https://open.spotify.com/track/3r7WTNjlxxTXParQCQeGZ8) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Finding Forever](https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3) | 3:24 | 2023-10-18 |  |

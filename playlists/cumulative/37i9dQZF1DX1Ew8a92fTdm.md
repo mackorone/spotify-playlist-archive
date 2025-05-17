@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-315 songs - 8 hr 8 min
+319 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Golden Dust\-Musicbox](https://open.spotify.com/track/0uifpcR1fyjLRYOSTbZoM4) | [Florence Sunday](https://open.spotify.com/artist/4KjQulEjM6UKCV5nJMp4Jc) | [Golden Dust\-Musicbox](https://open.spotify.com/album/2C3fi67CKFnsULT2136KI1) | 1:59 | 2023-05-19 | 2024-07-19 |
 | [Goodnight](https://open.spotify.com/track/4514yczhgbgkqFCa3ymD8p) | [Will Bloom](https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e) | [Goodnight](https://open.spotify.com/album/5TqLODQhMewEuehlgB8VYr) | 1:53 | 2023-11-17 |  |
 | [Grandpa's Story](https://open.spotify.com/track/3QqrJEPHBoaONZFNNbcQ8s) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Grandpa's Story](https://open.spotify.com/album/4GcDQN8RFI7mtJJWSrn2O8) | 2:08 | 2024-04-19 |  |
+| [Green leaves](https://open.spotify.com/track/2Guk1Dvoca5tVjhAwzSN4M) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Green leaves](https://open.spotify.com/album/4jCRi4CeDguEsFsRl2QEGs) | 1:40 | 2025-05-16 |  |
 | [Head, Shoulders, Knees & Toes](https://open.spotify.com/track/2dFPxWOCYFfmp9mvdg07v1) | [Melinah Daniels](https://open.spotify.com/artist/73f8r79Tbv2sxdpidr1xx1) | [Head, Shoulders, Knees & Toes](https://open.spotify.com/album/5aUwS3bg7Nv1dBctV0Us09) | 1:10 | 2022-09-22 | 2024-08-10 |
 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/1Xi43rmEBKu76psxcrsByb) | [Donny Barnum](https://open.spotify.com/artist/3Li2AnR0Kbhr3KT48Qkuk0) | [London Bridge](https://open.spotify.com/album/5YZNhNnVcmFD3Zhm09j180) | 1:10 | 2022-02-10 | 2022-09-23 |
 | [Heat Waves](https://open.spotify.com/track/4jv8JL4cIFlrhnUdZVThBA) | [Elliot Gordon](https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a) | [Heat Waves](https://open.spotify.com/album/1N2A97dyrN8yieVTEli9iK) | 1:30 | 2022-02-10 | 2022-04-23 |
@@ -174,6 +175,7 @@
 | [Milky Way Dreams](https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Milky Way Dreams](https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk) | 1:54 | 2023-09-22 |  |
 | [Minuet in G major](https://open.spotify.com/track/1dbOTzFPfYfIjGeMKZG014) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Classics on Music Box](https://open.spotify.com/album/5bMZ8ncLdI2lF2nKzPgmPx) | 1:13 | 2022-02-10 | 2024-04-04 |
 | [Mon papa est fou!](https://open.spotify.com/track/4yLF6kMSFyQRaEVfBE3QJ3) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Mon papa est fou!](https://open.spotify.com/album/44OlIOrbu2SBVRgs3tXUF3) | 1:17 | 2022-02-10 | 2024-06-08 |
+| [Morning Has Broken](https://open.spotify.com/track/7fMhjkHOyJdHqqCEsG8mkL) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [Morning Has Broken](https://open.spotify.com/album/2m7QoHxjcDCKC09tXfSzoe) | 1:23 | 2025-05-16 |  |
 | [Morning Serenade](https://open.spotify.com/track/7KjaDUVneZEzICbkQc1yiz) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [Morning Serenade](https://open.spotify.com/album/6WxSfGCxXh8UkdejvuCnDO) | 1:28 | 2023-10-06 |  |
 | [Music Box Lullaby](https://open.spotify.com/track/5HbV5B2J1KUMz12alitSOs) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Music Box Lullaby](https://open.spotify.com/album/37hUsmquAJn11X32hNKQ0N) | 1:25 | 2024-03-01 |  |
 | [My Beautiful Angel](https://open.spotify.com/track/6Qn9XmS9eJuCUiSe18BDTO) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [My Beautiful Angel](https://open.spotify.com/album/1NtyYirkKFHiSZAdOKvIUO) | 1:26 | 2023-05-19 |  |
@@ -280,6 +282,7 @@
 | [The Little Star](https://open.spotify.com/track/2jK3M0pInr6YaMmJZBKS8f) | [Paige Mercier](https://open.spotify.com/artist/2Fqoyakpw6y0FemMaXayce) | [The Little Star](https://open.spotify.com/album/3AvRG2VgTe93WHDKkpvW8O) | 1:16 | 2022-02-10 |  |
 | [The Little Turtle](https://open.spotify.com/track/1JyJ3uctO50xWO0nLX6kJr) | [Marcus Stillman](https://open.spotify.com/artist/4harlYKMPbSGXod94voGhU) | [The Little Turtle \(Music Box\)](https://open.spotify.com/album/1dLaciTBu1UKOksbcrPJkK) | 1:50 | 2022-02-10 | 2024-04-04 |
 | [The Neverland Song](https://open.spotify.com/track/5B09a5HPbibaz3t6KwtzL6) | [Michel Couture](https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug) | [The Neverland Song](https://open.spotify.com/album/37Q6uoqXaaYFUA3HDMQW3C) | 1:28 | 2024-05-10 |  |
+| [The Quiet Rabbit](https://open.spotify.com/track/7m4cUxZ3Abq7GyzTDRdBKK) | [Luke Foundland](https://open.spotify.com/artist/0leXKxlcmI6mMnY0AtMxJJ) | [The Quiet Rabbit](https://open.spotify.com/album/1ODSbppgUZ0LZH9o9hSrEP) | 1:37 | 2025-05-16 |  |
 | [The Sleeping Waltz](https://open.spotify.com/track/3gV7QZL2TLxcqczvp3Mi6D) | [Drei malo](https://open.spotify.com/artist/1fB4LWGsh4lYCFImN1L4Ge) | [The Sleeping Waltz](https://open.spotify.com/album/6vgxJbxfXc2H3mWTJcc1dT) | 1:32 | 2022-02-10 | 2023-05-19 |
 | [The Spider And The Funny Fly](https://open.spotify.com/track/3Y3MfthU9xFXlO19WHAuSh) | [LouLou Patterson](https://open.spotify.com/artist/0d6qCJGBHwIkP37kRebgfs) | [The Spider And The Funny Fly](https://open.spotify.com/album/0uctVCyByG3WWzan3jWsjy) | 1:50 | 2022-02-10 | 2023-05-19 |
 | [The Stars and The Moon](https://open.spotify.com/track/42Cj3aQRIAaE0Fii8rwHLT) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [The Stars and The Moon](https://open.spotify.com/album/4yeNucrJoogGEfsvPm8DSE) | 1:17 | 2022-02-10 |  |
@@ -295,6 +298,7 @@
 | [Tid for å si godnatt](https://open.spotify.com/track/2xR8XTrYdMV77EFCcmQcOj) | [Dagmar Eriksen](https://open.spotify.com/artist/60u6BdJPra6Nl3FRK1VOB8) | [Tid for å si godnatt](https://open.spotify.com/album/6MpgSZlriePCMmFhJle03v) | 1:28 | 2022-02-10 | 2023-08-25 |
 | [Time To Go To Bed](https://open.spotify.com/track/20i09L7h245MkOJbcu00PC) | [Cecilia Ness](https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2) | [Time To Go To Bed](https://open.spotify.com/album/5Q2H9KiBUMh4yRRUMncYVg) | 1:03 | 2022-02-10 | 2024-04-04 |
 | [Timeless](https://open.spotify.com/track/4tRMKKy14CBxDYSKOEi01n) | [Abel Lily](https://open.spotify.com/artist/6A8LLXdKurxX8ljnxzlS2Y) | [Timeless](https://open.spotify.com/album/5rs2SaiqFFg5ht1oYD8cou) | 1:52 | 2024-04-19 |  |
+| [Tinkle Bell](https://open.spotify.com/track/2jJUan3C4Fs6DFQO12zyGE) | [Sebastian Valor](https://open.spotify.com/artist/3gZIJQAAiMUwDtbWofzwaQ) | [Tinkle Bell](https://open.spotify.com/album/5LaFealJ5VrFQGnL56FSus) | 2:02 | 2025-05-16 |  |
 | [To the stars and back](https://open.spotify.com/track/4KecvpSzjpYDyYZgO8sukR) | [Yasu Carter](https://open.spotify.com/artist/1a5lbgjd8frJ8UirtYdtpQ) | [To the stars and back](https://open.spotify.com/album/5rfYgK0cj2cTMysBZ4Bt5b) | 1:26 | 2022-02-10 | 2024-04-19 |
 | [Together With You](https://open.spotify.com/track/0cLMkhdYS3CXq4pENYgW4g) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [Together With You](https://open.spotify.com/album/3eIdDMPvGF9WkHDaFlazFz) | 1:43 | 2024-06-07 |  |
 | [Tuck You In](https://open.spotify.com/track/7BAOAgb7oHDU7c2px6Jr2w) | [Cecilia Ness](https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2) | [Tuck You In](https://open.spotify.com/album/5qONknLa05F4T926ZHio4k) | 1:32 | 2022-05-17 |  |

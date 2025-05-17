@@ -1,13 +1,89 @@
 {
   "description": "The best in blues right now. Cover: D.K. Harrell",
-  "num_followers": 139421,
+  "num_followers": 139437,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDVAAAAACauze8yDrL6fd6mzUAjFfR",
+  "snapshot_id": "aCa4SAAAAADsN8XkJKfrC/n8eRf3b3AF",
   "tracks": [
+    {
+      "added_at": "2025-05-16 04:00:08",
+      "album": {
+        "name": "Bright Side",
+        "url": "https://open.spotify.com/album/6fMHg8HaBULw3F6dgaLxVv"
+      },
+      "artists": [
+        {
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+        }
+      ],
+      "duration_ms": 337360,
+      "name": "Bright Side",
+      "url": "https://open.spotify.com/track/5oHGHrJmppz7Ds15ryz3Qt"
+    },
+    {
+      "added_at": "2025-05-16 04:00:08",
+      "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/611yxBCQhq0G6ZkJHgmioi"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
+        }
+      ],
+      "duration_ms": 218664,
+      "name": "Truth Is",
+      "url": "https://open.spotify.com/track/7b3PpkkxulPnCRidyktINg"
+    },
+    {
+      "added_at": "2025-05-16 04:00:08",
+      "album": {
+        "name": "Look Out Highway",
+        "url": "https://open.spotify.com/album/36pdaKKpZFNyc7zoJ8OKux"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 185080,
+      "name": "Hip Shakin' Mama",
+      "url": "https://open.spotify.com/track/1PTg48QsBJFh17XpaEmeqP"
+    },
+    {
+      "added_at": "2025-05-16 04:00:08",
+      "album": {
+        "name": "FATHER SON",
+        "url": "https://open.spotify.com/album/4eLAsdyOfNsiuczW6Iyc24"
+      },
+      "artists": [
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        },
+        {
+          "name": "Noah East",
+          "url": "https://open.spotify.com/artist/0vAR5oDr4QsiUWm8aTFuB6"
+        },
+        {
+          "name": "Billy Valentine",
+          "url": "https://open.spotify.com/artist/4AYoCwXHaaxeaM8DtzP3zg"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 244069,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0iwCmwNw208SJPWr2ffvfn"
+    },
     {
       "added_at": "2025-05-02 04:00:20",
       "album": {
@@ -55,22 +131,6 @@
       "duration_ms": 299960,
       "name": "Big Women",
       "url": "https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD"
-    },
-    {
-      "added_at": "2025-04-11 04:00:16",
-      "album": {
-        "name": "Sad Eyes",
-        "url": "https://open.spotify.com/album/4NBCzoD5BHJhJ5LOXtIr72"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Sad Eyes",
-      "url": "https://open.spotify.com/track/0yAnReI0lfX8IOfb46Vzf3"
     },
     {
       "added_at": "2025-03-21 04:00:40",
@@ -175,22 +235,6 @@
       "duration_ms": 220226,
       "name": "Still Walking With Me",
       "url": "https://open.spotify.com/track/37jT0oB7NHLP76GGryKFFF"
-    },
-    {
-      "added_at": "2025-03-21 04:00:40",
-      "album": {
-        "name": "Sooner Or Later",
-        "url": "https://open.spotify.com/album/054fhpYkiyB0reTJMWY0Ta"
-      },
-      "artists": [
-        {
-          "name": "Carolyn Wonderland",
-          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
-        }
-      ],
-      "duration_ms": 253086,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/0GN3iz0lYpsAQ2iBpUelzj"
     },
     {
       "added_at": "2025-03-21 04:00:40",
@@ -1723,54 +1767,6 @@
       "duration_ms": 218466,
       "name": "The Squirrel Juice Blues",
       "url": "https://open.spotify.com/track/221lZ6bk3a8w3JyAztN0KW"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Two of a Kind",
-        "url": "https://open.spotify.com/album/08j3kM4FxqsR0Hy21Eiyw7"
-      },
-      "artists": [
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
-        },
-        {
-          "name": "Grooveline Horns",
-          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
-        },
-        {
-          "name": "Fernando Castillo",
-          "url": "https://open.spotify.com/artist/2JAzPnf84cdFdYfWANS9MK"
-        },
-        {
-          "name": "Carlos Sosa",
-          "url": "https://open.spotify.com/artist/4fm5vfb6UWvswweIFzCOpV"
-        },
-        {
-          "name": "Raul Vallejo",
-          "url": "https://open.spotify.com/artist/4HTiVcjJiFy50IZpGnSt68"
-        }
-      ],
-      "duration_ms": 235908,
-      "name": "Two of a Kind",
-      "url": "https://open.spotify.com/track/3G9hdpzyteBiVCL7yjQF5b"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Coal Black Mattie",
-        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
-      },
-      "artists": [
-        {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
-        }
-      ],
-      "duration_ms": 229696,
-      "name": "Coal Black Mattie",
-      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
     }
   ],
   "unique_name": "Got Blues",

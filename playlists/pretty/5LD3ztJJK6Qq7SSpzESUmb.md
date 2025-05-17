@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,712 likes - 20 songs - 1 hr 21 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,718 likes - 20 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sacred](https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/7mmj9Kh2WmbKIs7eEQlGwM) | 3:49 |
-| 2 | [Insubordinate Ingerland](https://open.spotify.com/track/4Fh6pNe31HcswpSAc1sDTx) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Insubordinate Ingerland](https://open.spotify.com/album/41CQkod1eNII9PpYdNFF55) | 3:36 |
-| 3 | [Kiss Me Now](https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life \(Deluxe\)](https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS) | 4:16 |
-| 4 | [Heather](https://open.spotify.com/track/0NUY7MTQm8VHEa8MjmdWyK) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [Heather/Black Scrawl](https://open.spotify.com/album/613WyQhlCJKIG5hrcS2W4v) | 2:49 |
-| 5 | [MEAN](https://open.spotify.com/track/2chUwJ0OfRFtOLbKuIUpTZ) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [MEAN](https://open.spotify.com/album/0A6z8JM3YdXnqbdK5snV3o) | 3:19 |
-| 6 | [Hand That Feeds \- From the Film Ballerina](https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Hand That Feeds \(From the Film Ballerina\)](https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg) | 3:06 |
-| 7 | [I.K.A.M.F.](https://open.spotify.com/track/0egIfVb09Q7jwhkL4aIXxT) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [I.K.A.M.F.](https://open.spotify.com/album/3UiHWnze9rV4mvpc9jNHTE) | 2:13 |
-| 8 | [Another Miracle](https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Another Miracle](https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb) | 3:10 |
-| 9 | [The Tales of War](https://open.spotify.com/track/1hOOJBNK0fuRIyEytMkx07) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [The Tales of War](https://open.spotify.com/album/2j4QjsX5LnrSlSomQDYeRz) | 5:08 |
-| 10 | [Look Down On Us](https://open.spotify.com/track/7yIyR2o9DGWKhVrTe37FLs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Look Down On Us](https://open.spotify.com/album/3CxAKlsE2UUbX1O80xwAqY) | 9:58 |
-| 11 | [When I'm Feeling Down](https://open.spotify.com/track/1ZbZdWuSMWDTmC3vc8pc8i) | [Beauty School](https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6) | [When I'm Feeling Down](https://open.spotify.com/album/4cIjgy8xbxeDwnOLcFCdur) | 3:20 |
-| 12 | [Make Me A Martyr](https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Make Me A Martyr](https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569) | 3:55 |
-| 13 | [Midnight at McGuffy's](https://open.spotify.com/track/66qXWZBlKOitR3LMzmrya6) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Midnight at McGuffy's](https://open.spotify.com/album/2R5h33hkydNoHekXkoZ6wQ) | 4:10 |
-| 14 | [Dance!](https://open.spotify.com/track/70GR0y0UQoWDOzApauQqpN) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Dance!](https://open.spotify.com/album/4SDP4cjecVJyK4Y7dJSRHL) | 3:06 |
-| 15 | [Lawn Tennis](https://open.spotify.com/track/7ejTSljNUKugYwVzW9Ahpt) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Lawn Tennis](https://open.spotify.com/album/4t10VnshTvsVBR3aqYBoPU) | 2:25 |
-| 16 | [Get Out My Face AKA Bad Kitty](https://open.spotify.com/track/1MWtB95XxXM3rlhH058YsD) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Get Out My Face AKA Bad Kitty](https://open.spotify.com/album/1ULJktTBsYpAt3CgCyyH5L) | 4:36 |
-| 17 | [OMENS](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [OMENS](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
-| 18 | [Keep Your Blessings](https://open.spotify.com/track/28gJfJ5tuvZORsjBoVo5GR) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Keep Your Blessings](https://open.spotify.com/album/1cwSqnPyYZ5v2oLwFefmwc) | 3:29 |
-| 19 | [A primeval detachment](https://open.spotify.com/track/7qb1JeP4fdlMS8ZhM6nyoI) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [A primeval detachment](https://open.spotify.com/album/4tMrAzr6WmnG2q3GR4euIu) | 4:29 |
-| 20 | [Dream Projector](https://open.spotify.com/track/4Laq03nDYhQOv8fsyDNnhm) | [Kusanagi](https://open.spotify.com/artist/7KTvJ8yhAJxvpJDzSFY4Hi) | [Dream Projector](https://open.spotify.com/album/2bM5m2IfPvJE3nHPWK8eDN) | 6:54 |
+| 1 | [Oblivion](https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Oblivion](https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X) | 8:19 |
+| 2 | [Piranha](https://open.spotify.com/track/3CsNQEi0aX88xnSVkWUH3i) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Piranha](https://open.spotify.com/album/4VEd0SDgR3oRQZHz8fgCa4) | 2:48 |
+| 3 | [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 |
+| 4 | [TOES!](https://open.spotify.com/track/5xyttaYPcls5oPMqu8ZPMl) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [TOES!](https://open.spotify.com/album/5iAW91ztSFFhi1prcn1K6E) | 3:50 |
+| 5 | [PRINCELESS PRINCESS](https://open.spotify.com/track/3ov9X8yrGi3jKX9ua8T2qq) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [PRINCELESS PRINCESS](https://open.spotify.com/album/28RnLQk5KA7XWhaWoijuH1) | 3:43 |
+| 6 | [Spider Dream](https://open.spotify.com/track/5Dp9ycsJw85HYYLVPrun8p) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Spider Dream](https://open.spotify.com/album/2F7dDfYuRiv7XWkK8QhCor) | 2:48 |
+| 7 | [june](https://open.spotify.com/track/6PBJfoq40a8gsUULbn0oyG) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [june](https://open.spotify.com/album/3cJDOznDVbYVwk8XwzYPfn) | 2:48 |
+| 8 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
+| 9 | [Limerence](https://open.spotify.com/track/6kBqHAw2OGoPDUg4Q3Khp9) | [Jools](https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc) | [Limerence](https://open.spotify.com/album/46hSkpRbOltSbJbVKpJsEP) | 3:57 |
+| 10 | [Sing Like A Siren](https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Sing Like A Siren](https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD) | 3:12 |
+| 11 | [Helena \- Live for BBC Radio 1's "The Lock Up", 2005](https://open.spotify.com/track/2zM0y9myTgpjie1asYen3g) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Helena \(Live for BBC Radio 1's "The Lock Up", 2005\)](https://open.spotify.com/album/1fQmTkk29UtTykTBaj2M98) | 3:21 |
+| 12 | [Bathroom Floor](https://open.spotify.com/track/2eaCpEuKcMTevpa65KFtGK) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Bathroom Floor](https://open.spotify.com/album/5cdwy5tE7mFaubPQoWl610) | 3:07 |
+| 13 | [Thirst](https://open.spotify.com/track/6USFQ4zfUMvZvwMeVKHbC5) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Thirst](https://open.spotify.com/album/1O1n5i2i7ZKRXk1A86jqfC) | 4:18 |
+| 14 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 |
+| 15 | [Limbo](https://open.spotify.com/track/3W1VuI94GuNjtD31Z4DG3m) | [Deadlands](https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc) | [Limbo](https://open.spotify.com/album/4jkJ3kXCYhrVd6g0ZtWBmL) | 3:13 |
+| 16 | [Wide Awake](https://open.spotify.com/track/3Link655QbLbSLj8iunFG7) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire) | [Wide Awake](https://open.spotify.com/album/5M54uawIq9qyn5ZZ3TPScG) | 2:39 |
+| 17 | [Heaven](https://open.spotify.com/track/5iOaHX0UqdLWfxQLgTn40E) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Heaven](https://open.spotify.com/album/5SxcBzH9KLImpRk2xxY13X) | 4:21 |
+| 18 | [Running a Cemetery Without a License](https://open.spotify.com/track/3nf7bTCBWKGnuaSTAf2YkA) | [Intercourse](https://open.spotify.com/artist/5YB0PBvIdALzf0TWcaXt7U) | [Running A Cemetery Without A License](https://open.spotify.com/album/0VuhEVupr7APHdo4mI1DzR) | 3:55 |
+| 19 | [Happy As Lazarus](https://open.spotify.com/track/1lbOVdbkGWXxjhL1Eu2xAG) | [Atlas : Empire](https://open.spotify.com/artist/7tuHV2YoRolcuztmCKuLfc) | [Happy As Lazarus](https://open.spotify.com/album/02SJu3VUnOwjbOIVm2vnrl) | 4:15 |
+| 20 | [Obsession](https://open.spotify.com/track/2BZaPYIq43Su7X7DPvra45) | [Bleed Again](https://open.spotify.com/artist/46LujUEMc60oJPGikI1C1F) | [Obsession](https://open.spotify.com/album/79KBX1nkditbB3TKWRFuAy) | 3:39 |
 
-Snapshot ID: `AAAM2Nhq4s20BxR6jjrrC+aIB1bxolYq`
+Snapshot ID: `AAAM25ic5ldfSCBAFt+kHSFIt89Qm6vg`

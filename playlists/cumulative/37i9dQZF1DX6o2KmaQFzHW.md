@@ -4,7 +4,7 @@
 
 > Lo mejor del folclore nacional 📸  Sele Vera
 
-254 songs - 14 hr 52 min
+256 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Agitando Pañuelos](https://open.spotify.com/track/1Q24A8F0cKTGhDHaBaCM0t) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Paisaje](https://open.spotify.com/album/5buepIzsy25Q4VqutUCtUQ) | 4:15 | 2021-07-23 |  |
 | [Agitando Pañuelos](https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Paisaje](https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a) | 4:15 | 2022-02-21 | 2024-04-19 |
 | [Agitando Pañuelos](https://open.spotify.com/track/5UqFwtORjmHX7TF7Oqrjj8) | [Vitillo Abalos](https://open.spotify.com/artist/4WtlXAo5Wz2NSoN6CE3tlb) | [El Disco de Oro, Folklore de 1940](https://open.spotify.com/album/1p0g7JuBaWYvV7xzIkZI0I) | 4:10 | 2021-07-23 | 2024-11-14 |
+| [Aguita fresca](https://open.spotify.com/track/5S1IuQVuJ1H3l3UkMk2znr) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Esenciales](https://open.spotify.com/album/3AuY2uwffU3sg2HVgOG7ka) | 2:58 | 2025-05-16 |  |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/7aQUylpLZdnsSBDNFPXPyY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [Mujeres Argentinas](https://open.spotify.com/album/1rNe5jq2OZQ033Ngg0qVZw) | 4:39 | 2021-07-23 |  |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 | 2022-02-21 | 2024-04-19 |
 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 | 2021-07-23 | 2024-11-14 |
@@ -87,6 +88,7 @@
 | [Déjame Que Me Vaya](https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros](https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n) | 3:32 | 2021-07-23 |  |
 | [El Alazan](https://open.spotify.com/track/6BUxDhJHSAZsLdqsMb51WQ) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Sus 60 Mejores Zambas, Milongas, Canciones...](https://open.spotify.com/album/1do8NEPEUpdeHZSGSeuyTs) | 3:49 | 2021-07-23 | 2024-11-26 |
 | [El Alazan](https://open.spotify.com/track/28AbmVT1sueLjRRYV984WI) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Las Canciones de Atahualpa Yupanqui](https://open.spotify.com/album/0A5XFZ01nfzgPdPnPULVjO) | 3:51 | 2022-02-21 | 2023-04-28 |
+| [El Amor Es Un Viento Que Regresa](https://open.spotify.com/track/10JPlLHxnSuldWp9NcS5wA) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [El Amor Es Un Viento Que Regresa](https://open.spotify.com/album/4HdvmMUv8tc15EkxjqjoFl) | 3:12 | 2025-05-16 |  |
 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 | 2021-07-23 |  |
 | [El Corralero](https://open.spotify.com/track/5h9oRMXy6afiP2MPGMJIxy) | [El Chango Nieto](https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM) | [Lo Mejor de la Zamba Argentina](https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g) | 3:26 | 2021-07-23 | 2024-11-26 |
 | [El Corralero](https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap) | [Hernan Figueroa Reyes](https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S) | [Hernan Figueroa Reyes El Unico](https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7) | 2:48 | 2021-07-23 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Forrest Frank",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Brandon Lake",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -438,6 +438,24 @@
       "duration_ms": 374780,
       "name": "Again",
       "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
+    },
+    {
+      "album": {
+        "name": "Good Answers",
+        "url": "https://open.spotify.com/album/54K2pbvi1Aq7FvcvjMaGvH"
+      },
+      "artists": [
+        {
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189064,
+      "name": "Ain't No Satisfaction",
+      "url": "https://open.spotify.com/track/01lkLn6h6dltmQIBq55Exd"
     },
     {
       "album": {
@@ -1387,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Be Glad (Live)",
+        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533500,
+      "name": "Be Glad - Live",
+      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
+    },
+    {
+      "album": {
         "name": "Be Love",
         "url": "https://open.spotify.com/album/1NmzBBrRogo7n3gFxGq2Sg"
       },
@@ -2110,7 +2146,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 229016,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/4wQhi2wkWiEw5vzm8Q4SWG"
@@ -3332,7 +3368,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 270924,
       "name": "Daddy's DNA",
       "url": "https://open.spotify.com/track/0pdrnY9GVHue97lansRFiw"
@@ -4442,6 +4478,24 @@
       "duration_ms": 219590,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM"
+    },
+    {
+      "album": {
+        "name": "Fences",
+        "url": "https://open.spotify.com/album/4n833RXoCOu5IBUFl7IV9X"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216330,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/3C42MHMqhuB5k5oGsSzB4Q"
     },
     {
       "album": {
@@ -7549,6 +7603,24 @@
     },
     {
       "album": {
+        "name": "Sons Of Sunday",
+        "url": "https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Sunday",
+          "url": "https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278567,
+      "name": "HOLYGHOST",
+      "url": "https://open.spotify.com/track/6iz66XKAS4xVSDAHRa77Bj"
+    },
+    {
+      "album": {
         "name": "... Like Poetry",
         "url": "https://open.spotify.com/album/5Khedo5KG1UC4i5QVxGkA0"
       },
@@ -10623,6 +10695,28 @@
     },
     {
       "album": {
+        "name": "Fractured Paradise: Garden of Shadows",
+        "url": "https://open.spotify.com/album/3i9lKVT1lPe4LFY9e3kNYZ"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        },
+        {
+          "name": "Impending Doom",
+          "url": "https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "Left Behind (Kirk Cameron)",
+      "url": "https://open.spotify.com/track/1uKPTJtuZi2FRp0gYDO1cU"
+    },
+    {
+      "album": {
         "name": "Live At The Manor",
         "url": "https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W"
       },
@@ -10890,7 +10984,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 201798,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4"
@@ -12819,6 +12913,24 @@
     },
     {
       "album": {
+        "name": "The Live Sessions, Vol. 01",
+        "url": "https://open.spotify.com/album/7HrBGdmDCxRT95xw9Yhrt3"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394499,
+      "name": "No Condemnation (Live)",
+      "url": "https://open.spotify.com/track/1inkQISPf33OAFbeoi0nCK"
+    },
+    {
+      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/1QVqmWakFTgTju3TX6N5B9"
       },
@@ -14236,7 +14348,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 271601,
       "name": "Power Of A Tender Heart",
       "url": "https://open.spotify.com/track/17VdhKDysrJBj96vacjXW7"
@@ -14410,7 +14522,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 195200,
       "name": "Pray Mama",
       "url": "https://open.spotify.com/track/4xvLVXqF4zCAw8tiMQlpBX"
@@ -14694,7 +14806,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 212876,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/64xTDRWYWyhfcx0rZexbhO"
@@ -15730,6 +15842,24 @@
       "duration_ms": 149657,
       "name": "See Me Through It",
       "url": "https://open.spotify.com/track/6ymBqDImXK5whaMxqynqX8"
+    },
+    {
+      "album": {
+        "name": "SEVENS",
+        "url": "https://open.spotify.com/album/5e5OdQvdEb6hzOvTwMbjM6"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261713,
+      "name": "SEVENS",
+      "url": "https://open.spotify.com/track/2sglTkwKcBpufhmTX2X9YZ"
     },
     {
       "album": {
@@ -18058,7 +18188,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 222942,
       "name": "The Cross - Live",
       "url": "https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S"
@@ -18353,6 +18483,32 @@
     },
     {
       "album": {
+        "name": "Get Well Soon!",
+        "url": "https://open.spotify.com/album/1v7XLUz7h8OYrxGjb9n2tA"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196557,
+      "name": "The Method",
+      "url": "https://open.spotify.com/track/0dFH3oc8wikiyi5p5gLUlP"
+    },
+    {
+      "album": {
         "name": "The Moment (Live)",
         "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
       },
@@ -18368,6 +18524,24 @@
       "duration_ms": 441386,
       "name": "The Moment - Live",
       "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
+    },
+    {
+      "album": {
+        "name": "The Morning",
+        "url": "https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179244,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z"
     },
     {
       "album": {
@@ -18530,7 +18704,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 272250,
       "name": "The World's Better 'Cause You're In It",
       "url": "https://open.spotify.com/track/3je4rbNm3C1zRkmEO7kgim"
@@ -19270,7 +19444,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 218949,
       "name": "Turn It To Praise",
       "url": "https://open.spotify.com/track/0DRZQ0wN33seQSZ5jMZiTV"
@@ -19296,6 +19470,24 @@
       "duration_ms": 282000,
       "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
       "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
+    },
+    {
+      "album": {
+        "name": "Two Wooden Beams",
+        "url": "https://open.spotify.com/album/61hPBArbrEVi4KUv18yo4G"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201993,
+      "name": "Two Wooden Beams",
+      "url": "https://open.spotify.com/track/2hWTH0Q7X3aOpPRHGBwNqw"
     },
     {
       "album": {
@@ -20006,7 +20198,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 181756,
       "name": "What He Says About You",
       "url": "https://open.spotify.com/track/1SibB1XJdoNNBJi8ZmWQK0"
@@ -20741,6 +20933,24 @@
     },
     {
       "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/5o1MGiYAKz5fSuZMr6cz4R"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Won't Start Now",
+      "url": "https://open.spotify.com/track/4xuNAej1yZJEieG2xQRlmx"
+    },
+    {
+      "album": {
         "name": "Oil + Water",
         "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
@@ -21032,7 +21242,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 165992,
       "name": "Yesterday Is Dead",
       "url": "https://open.spotify.com/track/2MB2pKgf2fWBGKcewyUBUS"

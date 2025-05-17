@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Lefty Gunplay",
+  "description": "Holdin' it down for the westside. Cover: Snoop Dogg",
   "name": "Westside",
   "tracks": [
     {
@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "unreleased",
+        "url": "https://open.spotify.com/album/6e81zuZl9JgP82NpGWCVpU"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86424,
+      "name": "ain't done",
+      "url": "https://open.spotify.com/track/5ND9aYmQ7i8Z17l06ugRSD"
+    },
+    {
+      "album": {
         "name": "Ain't It A Flex",
         "url": "https://open.spotify.com/album/4Bsj7aknXbMq9W4zjYdNl0"
       },
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 116504,
       "name": "all my hoes",
       "url": "https://open.spotify.com/track/1lHBWS4ql7BGKCWkwTV4Ca"
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 151137,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/4ujUMbeLNce81m8DFLQJOd"
@@ -3184,7 +3202,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 102857,
       "name": "Bout Bidness",
       "url": "https://open.spotify.com/track/1dM4YjCw6SPAVeEcctILW6"
@@ -5658,7 +5676,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 195789,
       "name": "Dirty Diana",
       "url": "https://open.spotify.com/track/4olniuiymbl0yZkCi10MXT"
@@ -7093,6 +7111,24 @@
     },
     {
       "album": {
+        "name": "Extra",
+        "url": "https://open.spotify.com/album/7IqEYuUtaQwtkXSG2vrEOL"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139608,
+      "name": "Extra",
+      "url": "https://open.spotify.com/track/5wFKpUM0CsPW5tcsYe2KOv"
+    },
+    {
+      "album": {
         "name": "F Dat",
         "url": "https://open.spotify.com/album/7ClCyQ3M7ZefPMybzxL9KJ"
       },
@@ -7126,6 +7162,24 @@
       "duration_ms": 206430,
       "name": "F*ck Everybody (Free Maxx)",
       "url": "https://open.spotify.com/track/7hz5v6w6qEqO6GOeBn9Foc"
+    },
+    {
+      "album": {
+        "name": "F.M.C",
+        "url": "https://open.spotify.com/album/0H05GqVNPsxQ6ZslcpuRPF"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "F.M.C",
+      "url": "https://open.spotify.com/track/4fXhuXCugkZHJik91VsjJi"
     },
     {
       "album": {
@@ -7520,6 +7574,24 @@
       "duration_ms": 179400,
       "name": "Feelin' U (feat. Kalan.FrFr & RJmrLA)",
       "url": "https://open.spotify.com/track/6195pBk4VTEowYL1RfIpme"
+    },
+    {
+      "album": {
+        "name": "13 Months of Sunshine",
+        "url": "https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131052,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf"
     },
     {
       "album": {
@@ -8010,7 +8082,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 212506,
       "name": "For The Love (ft. Ice Cube & Lorine Chia)",
       "url": "https://open.spotify.com/track/6diybINkCfzOFLgSorPZOK"
@@ -8550,6 +8622,24 @@
       "duration_ms": 170666,
       "name": "Game Recognize Game",
       "url": "https://open.spotify.com/track/58kmDx4ZVfJNDHz1VyJPjv"
+    },
+    {
+      "album": {
+        "name": "Game Time",
+        "url": "https://open.spotify.com/album/12W3973nhiFVbHaSi2LTE9"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97075,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/575IfhxdIBpiEsjVWzmuyN"
     },
     {
       "album": {
@@ -9864,7 +9954,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 213739,
       "name": "Gunz N Smoke (feat. 50 Cent & Eminem)",
       "url": "https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT"
@@ -11270,7 +11360,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 90813,
       "name": "I Know Y'all Miss Me",
       "url": "https://open.spotify.com/track/1CizYGJmf99A75iOxtCKvt"
@@ -12345,6 +12435,32 @@
     },
     {
       "album": {
+        "name": "Iz It a Crime?",
+        "url": "https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "J-Black",
+          "url": "https://open.spotify.com/artist/7oR8qpmeIpd8cwSiPXgLMG"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "Just the Way It Iz",
+      "url": "https://open.spotify.com/track/3vItapJtdqXNwFpNz0THMz"
+    },
+    {
+      "album": {
         "name": "K Mode",
         "url": "https://open.spotify.com/album/679MeyfhrJG6EIfBXiFV6V"
       },
@@ -12914,6 +13030,32 @@
       "duration_ms": 175220,
       "name": "Leave It Up To Me",
       "url": "https://open.spotify.com/track/6xRD47ABwR3y4RytXiTJFi"
+    },
+    {
+      "album": {
+        "name": "Kingmaker",
+        "url": "https://open.spotify.com/album/7vYB6Ufvl9weaOZ9aXtFBR"
+      },
+      "artists": [
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "Leave Me Alone (ft. Dr. Dre & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4F3KSgun31tWMRP0eI8pnv"
     },
     {
       "album": {
@@ -13730,7 +13872,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 146928,
       "name": "Lit Bitch Shit",
       "url": "https://open.spotify.com/track/11yC4PE507xsPTGuF3L0rL"
@@ -14495,6 +14637,28 @@
     },
     {
       "album": {
+        "name": "Iz It a Crime?",
+        "url": "https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158270,
+      "name": "Me N OG Snoop",
+      "url": "https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4"
+    },
+    {
+      "album": {
         "name": "Love U Forever",
         "url": "https://open.spotify.com/album/1CSxde2uAh0CayI1qgtNWF"
       },
@@ -14638,6 +14802,28 @@
       "duration_ms": 219186,
       "name": "Midnight Oil (feat. Larry June & Jay Worthy)",
       "url": "https://open.spotify.com/track/0xkeObNA3vzp5tzpXNwbbF"
+    },
+    {
+      "album": {
+        "name": "Out The Bluebucks",
+        "url": "https://open.spotify.com/album/1HDArVzx0C49Exhuvy4bIO"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155316,
+      "name": "Might Be The One",
+      "url": "https://open.spotify.com/track/12Jmr9u48qFCoEL7oCygSb"
     },
     {
       "album": {
@@ -16109,6 +16295,24 @@
     },
     {
       "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96421,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE"
+    },
+    {
+      "album": {
         "name": "No Hook (feat. Lil Seeto)",
         "url": "https://open.spotify.com/album/7sLhYTUycJuLH5QnPbAOhp"
       },
@@ -17162,7 +17366,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 149231,
       "name": "Only Us",
       "url": "https://open.spotify.com/track/2kDkuiazqO3hYNXGvtQmnJ"
@@ -18169,6 +18373,24 @@
     },
     {
       "album": {
+        "name": "Play Over You",
+        "url": "https://open.spotify.com/album/50syyAgcWdaVfcjQlsQtzD"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122730,
+      "name": "Play Over You",
+      "url": "https://open.spotify.com/track/7Mbvcddc02QSOy1TjtQAE1"
+    },
+    {
+      "album": {
         "name": "Arrogance Is Ignorance (One Shot Kill)",
         "url": "https://open.spotify.com/album/7dI1TdNhvlEsiK7uYXA0dE"
       },
@@ -18336,6 +18558,24 @@
       "duration_ms": 189600,
       "name": "Pop It Off",
       "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
+    },
+    {
+      "album": {
+        "name": "Pop Out",
+        "url": "https://open.spotify.com/album/4KyCFw42RjIyjfBIUTn3zA"
+      },
+      "artists": [
+        {
+          "name": "Drexthejoint",
+          "url": "https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105743,
+      "name": "Pop Out",
+      "url": "https://open.spotify.com/track/1z5lT4q90zv9d3QdVrhPFY"
     },
     {
       "album": {
@@ -22996,7 +23236,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 105655,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/6MZl8I4l90qBugI0zylfPo"
@@ -23270,7 +23510,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 143511,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/5tASU9HNqhOTaYqYP6lrcd"
@@ -23288,7 +23528,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 152500,
       "name": "Thinking",
       "url": "https://open.spotify.com/track/1loNoa43LbfiSIeSSi7ow7"
@@ -24364,7 +24604,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 142962,
       "name": "Vacay",
       "url": "https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S"
@@ -25750,7 +25990,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 112941,
       "name": "You Got It (feat. Nueve Lio)",
       "url": "https://open.spotify.com/track/0RBQUkNJgXGaYfGwU3b22Z"

@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "A Prueba de Balas (En Vivo)",
+        "url": "https://open.spotify.com/album/1G0Pl7xFprblQf4ikcOKda"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190159,
+      "name": "A Prueba de Balas - En Vivo",
+      "url": "https://open.spotify.com/track/56hRaRLE3SiB8RhMBFcvdv"
+    },
+    {
+      "album": {
         "name": "A un Milimetro de Ti / Tan Natural",
         "url": "https://open.spotify.com/album/5aa9yk905wXc6nyZ6mMMLh"
       },
@@ -2776,7 +2798,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 149677,
       "name": "El No Va A Venir - En Vivo",
       "url": "https://open.spotify.com/track/36zk5AsATW6DinliG5f6qO"

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: JESENN
 
-874 songs - 2 day 8 hr 43 min
+875 songs - 2 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Bunga Jiwaku](https://open.spotify.com/track/2edAglJ6sNF8MmLkV8Dp0R) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Bunga Jiwaku](https://open.spotify.com/album/5zp9TCY4Nb0bhXbcEl5WsF) | 3:17 | 2025-03-13 |  |
 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 | 2024-11-14 | 2025-02-28 |
 | [Burning Room](https://open.spotify.com/track/5bHhl4whMW8AiKojst05Z8) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Burning Room](https://open.spotify.com/album/3p7A55YRoa176Cc3MhBNpG) | 3:17 | 2024-08-29 | 2024-11-15 |
+| [Butuh Waktu](https://open.spotify.com/track/0lxZVWvEifrXproCc8AO3T) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 3:51 | 2025-05-16 |  |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-08 | 2024-09-27 |
 | [Cahaya](https://open.spotify.com/track/4ZJ0hcwJ69NyY0x8TlbnQV) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Cahaya](https://open.spotify.com/album/3XnIcjWBfEuKeLRsL6743o) | 3:05 | 2024-05-23 | 2024-06-28 |
 | [Cahaya Untuk Semua](https://open.spotify.com/track/2ra3aGId5RMoPH2iePCRav) | [Dewi Gita](https://open.spotify.com/artist/2mdhF7tOeaoeCRXGosuYsr) | [Cahaya Untuk Semua](https://open.spotify.com/album/7FFAMYxUsZBk65qV2D4f2Z) | 3:54 | 2024-12-05 | 2025-03-07 |

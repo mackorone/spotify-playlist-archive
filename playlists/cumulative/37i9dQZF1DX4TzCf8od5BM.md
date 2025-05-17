@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from SuperKitties.
 
-218 songs - 5 hr 38 min
+219 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Mickey's Mousekedoer](https://open.spotify.com/track/3YNumg2K7gcDDpwO7IkAuF) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Minnie's Favorites \(Songs from "Mickey Mouse Clubhouse"\)](https://open.spotify.com/album/67ivsWL0DsH3Jh0cCGKx3m) | 1:01 | 2022-03-18 |  |
 | [Minnie's Bow\-Toons: Camp Minnie Theme Song](https://open.spotify.com/track/1UjC5QOkVcVnTP7J4RHxZp) | [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7), [Minnie's Bow\-Toons \- Cast](https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Minnie's Bow\-Toons: Camp Minnie](https://open.spotify.com/album/3AB9eHf1zOPJMNY2exugAe) | 1:56 | 2023-06-23 |  |
 | [Minnie's Bow\-Toons: Party Palace Pals \(Extended Theme\)](https://open.spotify.com/track/4xJVikgnMnsNk16VN5vxxI) | [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7), [Minnie's Bow\-Toons \- Cast](https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY) | [Disney Junior Music: Minnie's Bow\-Toons](https://open.spotify.com/album/4QkMBuO7TGwCtjhwCr06vX) | 1:03 | 2022-03-18 |  |
+| [Minnie's Bow\-Toons: Pet Hotel Main Title \(Extended\)](https://open.spotify.com/track/6Ao9bXxOe0h0nT2RcqICkn) | [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7), [Minnie's Bow\-Toons \- Cast](https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Minnie's Bow\-Toons: Pet Hotel](https://open.spotify.com/album/5dNlcsDuDNYibc3n6a4DBl) | 2:02 | 2025-05-16 |  |
 | [Minnie's Bowtique](https://open.spotify.com/track/7iRAz1gmkc1OgZkyhful6r) | [Minnie](https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ), [The Picture Puzzle Girls](https://open.spotify.com/artist/1l1RrAQ3K1jMwJWAhRSzcx) | [Minnie's Favorites \(Songs from "Mickey Mouse Clubhouse"\)](https://open.spotify.com/album/67ivsWL0DsH3Jh0cCGKx3m) | 2:01 | 2022-03-18 |  |
 | [Minnie's Party Palooza \- From "Disney Junior Live On Tour: Costume Palooza"](https://open.spotify.com/track/27ToJ6IxYxUwQvhrKrgA58) | [Minnie's Bow\-Toons \- Cast](https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Live On Tour: Costume Palooza \(From "Disney Junior Live On Tour: Costume Palooza"\)](https://open.spotify.com/album/5eaE5cfSNv7ax5k0YjQt5t) | 2:09 | 2022-10-22 |  |
 | [Mira, Royal Detective \(Mashup\)](https://open.spotify.com/track/7vvTdBMWArWN26SzdIEZCC) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 2:28 | 2022-03-18 |  |

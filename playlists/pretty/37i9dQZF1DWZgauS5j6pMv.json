@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 342602,
+  "num_followers": 342628,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB194QAAAACRd9xUU3GbGviwyaK5srp/",
+  "snapshot_id": "aCa4VgAAAAD9kN3edcj6hS6noSLVlyA/",
   "tracks": [
+    {
+      "added_at": "2025-05-16 04:00:22",
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/2K4CWu6QQfBqK6W4tW4oCA"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        }
+      ],
+      "duration_ms": 230913,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/6UhaAf6u6qMEh7IOdzGk9y"
+    },
     {
       "added_at": "2025-05-09 04:00:33",
       "album": {
@@ -1623,22 +1639,6 @@
       "duration_ms": 194986,
       "name": "Sepricon",
       "url": "https://open.spotify.com/track/2FG43kVwZ84Q4o8mbJ2DhC"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Come and Get It - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb"
-      },
-      "artists": [
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "Come and Get It - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q"
     },
     {
       "added_at": "2023-08-25 04:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: AZ-YL",
-  "num_followers": 22812,
+  "num_followers": 22864,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-05-15 22:00:38",
       "album": {
-        "name": "MACHINE GIRL",
-        "url": "https://open.spotify.com/album/0KkwEi1iuPDwmFI9FInQW8"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 156440,
-      "name": "MACHINE GIRL",
-      "url": "https://open.spotify.com/track/6l5OYL8pvH402wTVXjtTYO"
-    },
-    {
-      "added_at": "2025-05-15 22:00:38",
-      "album": {
         "name": "a little bit",
         "url": "https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 165408,
       "name": "a little bit",
       "url": "https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2"
+    },
+    {
+      "added_at": "2025-05-15 22:00:38",
+      "album": {
+        "name": "MACHINE GIRL",
+        "url": "https://open.spotify.com/album/0KkwEi1iuPDwmFI9FInQW8"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 156440,
+      "name": "MACHINE GIRL",
+      "url": "https://open.spotify.com/track/6l5OYL8pvH402wTVXjtTYO"
     },
     {
       "added_at": "2025-05-15 22:00:38",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-05-15 22:00:38",
       "album": {
-        "name": "Casting / Fuckboy (Chcia\u0142by\u015b wi\u0119cej)",
-        "url": "https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4"
-      },
-      "artists": [
-        {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
-        }
-      ],
-      "duration_ms": 173032,
-      "name": "Fuckboy (Chcia\u0142by\u015b wi\u0119cej)",
-      "url": "https://open.spotify.com/track/5rKzLUEtVMc3HQXD5AYIfK"
-    },
-    {
-      "added_at": "2025-05-15 22:00:38",
-      "album": {
         "name": "Oj, dziewczyno!",
         "url": "https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 158268,
       "name": "Oj, dziewczyno!",
       "url": "https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4"
+    },
+    {
+      "added_at": "2025-05-15 22:00:38",
+      "album": {
+        "name": "Casting / Fuckboy (Chcia\u0142by\u015b wi\u0119cej)",
+        "url": "https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "duration_ms": 173032,
+      "name": "Fuckboy (Chcia\u0142by\u015b wi\u0119cej)",
+      "url": "https://open.spotify.com/track/5rKzLUEtVMc3HQXD5AYIfK"
     },
     {
       "added_at": "2025-05-15 22:00:38",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-05-15 22:00:38",
       "album": {
-        "name": "in the woods",
-        "url": "https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK"
-      },
-      "artists": [
-        {
-          "name": "shama",
-          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
-        }
-      ],
-      "duration_ms": 146584,
-      "name": "in the woods",
-      "url": "https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC"
-    },
-    {
-      "added_at": "2025-05-15 22:00:38",
-      "album": {
         "name": "co ty na to?",
         "url": "https://open.spotify.com/album/646vsWAg8YLIZXHZJOZgvC"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2025-05-15 22:00:38",
       "album": {
-        "name": "Pretty Woman",
-        "url": "https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW"
+        "name": "Niewidzialna",
+        "url": "https://open.spotify.com/album/13pzluNjYhNK0zPscDrRey"
       },
       "artists": [
         {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+          "name": "Zosia W\u00f3jcik",
+          "url": "https://open.spotify.com/artist/6cfLNhvfa7katU5mLVu1Ye"
         }
       ],
-      "duration_ms": 166607,
-      "name": "Pretty Woman",
-      "url": "https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W"
+      "duration_ms": 145149,
+      "name": "Niewidzialna",
+      "url": "https://open.spotify.com/track/3dDEMGZ8aVjym11Z0kNPm6"
+    },
+    {
+      "added_at": "2025-05-15 22:00:38",
+      "album": {
+        "name": "in the woods",
+        "url": "https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK"
+      },
+      "artists": [
+        {
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+        }
+      ],
+      "duration_ms": 146584,
+      "name": "in the woods",
+      "url": "https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC"
     },
     {
       "added_at": "2025-05-15 22:00:38",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-05-15 22:00:38",
       "album": {
-        "name": "Niewidzialna",
-        "url": "https://open.spotify.com/album/13pzluNjYhNK0zPscDrRey"
+        "name": "Pretty Woman",
+        "url": "https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW"
       },
       "artists": [
         {
-          "name": "Zosia W\u00f3jcik",
-          "url": "https://open.spotify.com/artist/6cfLNhvfa7katU5mLVu1Ye"
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
         }
       ],
-      "duration_ms": 145149,
-      "name": "Niewidzialna",
-      "url": "https://open.spotify.com/track/3dDEMGZ8aVjym11Z0kNPm6"
+      "duration_ms": 166607,
+      "name": "Pretty Woman",
+      "url": "https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W"
     },
     {
       "added_at": "2025-05-15 22:00:38",
@@ -915,38 +915,6 @@
     {
       "added_at": "2025-05-15 22:00:38",
       "album": {
-        "name": "Ostatni Raz",
-        "url": "https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ"
-      },
-      "artists": [
-        {
-          "name": "MAJA",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
-        }
-      ],
-      "duration_ms": 177341,
-      "name": "Ostatni Raz",
-      "url": "https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV"
-    },
-    {
-      "added_at": "2025-05-15 22:00:38",
-      "album": {
-        "name": "r\u00f3\u017cowa kurtka",
-        "url": "https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB"
-      },
-      "artists": [
-        {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        }
-      ],
-      "duration_ms": 141686,
-      "name": "r\u00f3\u017cowa kurtka",
-      "url": "https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd"
-    },
-    {
-      "added_at": "2025-05-15 22:00:38",
-      "album": {
         "name": "IPhone 6s",
         "url": "https://open.spotify.com/album/5OR6o7nR3fT2peyT2uamY2"
       },
@@ -983,6 +951,38 @@
       "duration_ms": 171800,
       "name": "Koszta",
       "url": "https://open.spotify.com/track/64r6wuR8ltqW6T2GwYZxt0"
+    },
+    {
+      "added_at": "2025-05-15 22:00:38",
+      "album": {
+        "name": "r\u00f3\u017cowa kurtka",
+        "url": "https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "duration_ms": 141686,
+      "name": "r\u00f3\u017cowa kurtka",
+      "url": "https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd"
+    },
+    {
+      "added_at": "2025-05-15 22:00:38",
+      "album": {
+        "name": "Ostatni Raz",
+        "url": "https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 177341,
+      "name": "Ostatni Raz",
+      "url": "https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV"
     },
     {
       "added_at": "2025-05-15 22:00:38",

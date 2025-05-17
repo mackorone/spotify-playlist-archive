@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-421 songs - 1 day 2 hr 17 min
+423 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/62q6KjbWuCZitSsWve9NNq) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 3:12 | 2021-12-10 | 2022-07-29 |
 | [Every Which Way but Loose \- Friends and Heroes Session](https://open.spotify.com/track/2d94Il3qGrgAsv2m81S5u1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Every Which Way but Loose \(Friends and Heroes Session\)](https://open.spotify.com/album/4BuXZWzkJVMltc1ip4yorP) | 3:28 | 2021-12-10 | 2022-07-24 |
 | [Everybody's Talkin'](https://open.spotify.com/track/3zqmP9CKPHOhzVntc2ropS) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Out of Sane](https://open.spotify.com/album/1UUgUFNRDCZlumiG2c2qXJ) | 3:31 | 2021-12-10 | 2022-07-28 |
+| [Faithfully \- feat\. Willie Nelson](https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Faithfully \(feat\. Willie Nelson\)](https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX) | 4:22 | 2025-05-16 |  |
 | [Fall For You](https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Fall For You](https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0) | 2:56 | 2024-01-19 | 2024-05-18 |
 | [Falling \- Spotify Singles](https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 3:44 | 2023-03-17 | 2023-06-19 |
 | [Farewell Party](https://open.spotify.com/track/06OO9hB9riQOLRGNCsZiQl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:08 | 2021-12-10 | 2022-07-26 |
@@ -150,7 +151,7 @@
 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 | 2021-12-10 | 2024-08-03 |
 | [Heads Carolina, Tails California](https://open.spotify.com/track/3eyYxeswyx7wmO3n8EHKuD) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Slappers, Bangers & Certified Twangers, Vol\. 1](https://open.spotify.com/album/6ib3wEDfXc8b5vAwzz8vgQ) | 3:32 | 2021-12-10 | 2022-07-23 |
 | [Heart\-Shaped Box](https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF) | [Sam Donald](https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs) | [Heart\-Shaped Box](https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0) | 5:12 | 2024-08-01 |  |
-| [Heartbroken](https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Heartbroken](https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc) | 2:54 | 2023-09-08 |  |
+| [Heartbroken](https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Heartbroken](https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc) | 2:54 | 2023-09-08 | 2025-05-17 |
 | [Help Me Make It Through The Night](https://open.spotify.com/track/7v1gS86jVpKFdnt0gmkOSg) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [A Nashville Songbook](https://open.spotify.com/album/5EuBzU4C9X3A9fWah24JgA) | 3:35 | 2021-12-10 | 2022-07-28 |
 | [Help Me Make It Through the Night](https://open.spotify.com/track/69iVsk096xmrKtcrU2mVnj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Highwaymen](https://open.spotify.com/album/3HoSFsrDuaxgwLUBpC2zUE) | 3:59 | 2021-12-10 | 2022-07-27 |
 | [Here Without You](https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [Here Without You](https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La) | 3:51 | 2024-01-05 |  |
@@ -160,7 +161,7 @@
 | [Hold On, We're Going Home \- Country Version](https://open.spotify.com/track/2Hie8F7KYwDtxAZf9rZPwd) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Hold On, We're Going Home \(Country Version\)](https://open.spotify.com/album/1wWyT7gYPFTviJ6NNYISx8) | 3:21 | 2024-07-05 |  |
 | [Holy \(Recovered & Reimagined\)](https://open.spotify.com/track/6rQb3fNfDUiWXyNgfS6g6o) | [Levi Kreis](https://open.spotify.com/artist/3MxSB2qv4d11PSgSVCSzJG) | [Holy \(Recovered & Reimagined\)](https://open.spotify.com/album/4doUVGnSbpEHavVg5888cb) | 2:50 | 2022-03-25 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pure BS \(Deluxe Edition\)](https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe) | 3:50 | 2021-12-10 |  |
-| [Honky Tonk Man](https://open.spotify.com/track/0JH86boEDEXrREt6rOBac8) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 2:51 | 2022-01-07 |  |
+| [Honky Tonk Man](https://open.spotify.com/track/0JH86boEDEXrREt6rOBac8) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 2:51 | 2022-01-07 | 2025-05-17 |
 | [How To Save A Life](https://open.spotify.com/track/60Zsmy6gLKf8Esy9GiW0Re) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [How To Save A Life](https://open.spotify.com/album/4OAL0ZF8bxJ9wcIys3oEdU) | 3:25 | 2023-12-26 |  |
 | [How's It Going To Be](https://open.spotify.com/track/7na30RWB0zAMrXanGSaXCJ) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [How's It Going To Be](https://open.spotify.com/album/5i12HkZB9nh38tRvFXmyxS) | 3:51 | 2022-10-21 | 2023-01-06 |
 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 | 2022-03-25 |  |
@@ -358,6 +359,7 @@
 | [The Galway Girl](https://open.spotify.com/track/4HrdoGHlfUq1D0wJm1kZkD) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [The Galway Girl](https://open.spotify.com/album/3hW3sQNLMGyjGyGQmEAMTr) | 4:25 | 2023-01-13 | 2023-07-09 |
 | [The Gambler](https://open.spotify.com/track/1oQnkSQhOQSSPCN0Hb9DCf) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Gone Girl](https://open.spotify.com/album/7z2djJtIKZPZtPeTk2VXFq) | 3:41 | 2022-03-25 | 2022-09-10 |
 | [The Grand Tour](https://open.spotify.com/track/4bsaPI9m6fAtOsNTvfvBEv) | [Tony Jackson](https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR) | [Tony Jackson](https://open.spotify.com/album/5kRHqz0vKYcg1dzPogMRLK) | 3:09 | 2022-02-04 | 2022-07-28 |
+| [The House That Built Me](https://open.spotify.com/track/0G5IPmslPFzM9oa1qbAHGt) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again \(with Miranda Lambert\) / The House That Built Me](https://open.spotify.com/album/6L0PTevCRfWXL5E4XqdaIs) | 3:52 | 2025-05-16 |  |
 | [The Joker](https://open.spotify.com/track/0vu6Z3bep8kpcy9O2YExzg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 4:55 | 2021-12-10 | 2022-07-25 |
 | [The Race Is On](https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [The Boys Are Back](https://open.spotify.com/album/0kTRamepqCsedBSwPvaWJz) | 2:56 | 2021-12-10 | 2023-01-06 |
 | [The Ride](https://open.spotify.com/track/0i0xwuj7qKUHGotzfVckHd) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [The Ride](https://open.spotify.com/album/6brTMXkyux9WZLIdW4x40C) | 3:42 | 2023-08-18 | 2023-09-23 |

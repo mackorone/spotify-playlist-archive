@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-442 songs - 23 hr 50 min
+443 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,8 @@
 | [You Might Be](https://open.spotify.com/track/1POqDpmhzmqX0q6SIrKSnd) | [Bit Riot](https://open.spotify.com/artist/4g83Kk0qKY55Cs5OUoYoDk), [Tupreme](https://open.spotify.com/artist/4jXA5QTCivCbCzGn0c4jCb) | [You Might Be](https://open.spotify.com/album/1MeI84axh1pQ1SP28BP5xM) | 4:00 | 2024-07-24 |  |
 | [You Never Know](https://open.spotify.com/track/35wTwYw2BZs5t9rFpg14Pk) | [Donna McKechnie](https://open.spotify.com/artist/72BQq4TmDRWwv4XtiGM4ZF) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 | 2024-07-24 |  |
 | [You Remind Me](https://open.spotify.com/track/0l9eRY4OJhLkaQlh28Eh6j) | [Chris Porter](https://open.spotify.com/artist/4657QEJIOQnfUJq3hyuNtc) | [You Remind Me](https://open.spotify.com/album/5t9t1MXA6rsbysqK673nM8) | 2:58 | 2024-07-24 |  |
-| [You Were Made For Me \- Mono](https://open.spotify.com/track/6RmBbSohNlnwGKf3eu7bq7) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Wonderful World Of Sam Cooke](https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op) | 2:56 | 2024-07-24 |  |
+| [You Were Made For Me](https://open.spotify.com/track/360QcQy4ewtNdLqxjHby53) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Best of the '50s Vol\. 1](https://open.spotify.com/album/1AwHvKO70YUJNN2n4ivQG7) | 2:53 | 2025-05-16 |  |
+| [You Were Made For Me \- Mono](https://open.spotify.com/track/6RmBbSohNlnwGKf3eu7bq7) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Wonderful World Of Sam Cooke](https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op) | 2:56 | 2024-07-24 | 2025-05-17 |
 | [You'd Be So Nice To Come Home To \- Remastered 1998](https://open.spotify.com/track/5cNTrq3s5Us1aibaLQfXCi) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 2:04 | 2024-07-24 |  |
 | [You'll Never Get Rich](https://open.spotify.com/track/15C6kgeHsiGFmQqwR7BsVQ) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 0:56 | 2024-07-24 |  |
 | [You're A Bad Influence On Me](https://open.spotify.com/track/7ygWOl8HyMix1J3BpXRZRU) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [Something Cool](https://open.spotify.com/album/2unSzRDCPismEAcknbV2na) | 4:07 | 2024-07-24 |  |

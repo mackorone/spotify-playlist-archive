@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYuC8hQpLKaY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYuC8hQpLKaY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYuC8hQpLKaY)
 
-### [down](https://open.spotify.com/playlist/37i9dQZF1DWYuC8hQpLKaY)
+### [crying rn](https://open.spotify.com/playlist/37i9dQZF1DWYuC8hQpLKaY)
 
-> that mood\. sad piano to cry to 🌧️❤️‍🩹 music can fix us
+> sad piano only 🌧️❤️‍🩹 feel it out, healing starts here
 
-58 songs - 3 hr 4 min
+60 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Drivers License](https://open.spotify.com/track/2EdN4I7srUp7OOkNwXBZwm) | [Adrienne Clotard](https://open.spotify.com/artist/48yNGJAgVQrkppL5jK0wn1) | [Drivers License](https://open.spotify.com/album/0Xnu91s6VhpY12MAPCX7Kj) | 3:14 | 2025-02-20 |  |
 | [End Of The Beginning \- Piano Version](https://open.spotify.com/track/2P1FLNByt9ya7sx1E1PFMt) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [Piano covers of dreams we love](https://open.spotify.com/album/1rjdRpkDRrJFRKi3QoXMKt) | 2:14 | 2025-02-20 |  |
 | [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 | 2025-02-20 | 2025-03-11 |
-| [Flowers \- Piano Version](https://open.spotify.com/track/1YJDCPCTwO7qDEbA2ARBjm) | [Thomas Valentin](https://open.spotify.com/artist/1CtdXMsrRF9ULb3mxUWdK0) | [Flowers \(Piano Version\)](https://open.spotify.com/album/63ja5TXWTq4M8Hgd1lZuHW) | 4:14 | 2025-02-20 |  |
+| [Flowers \- Piano Version](https://open.spotify.com/track/1YJDCPCTwO7qDEbA2ARBjm) | [Thomas Valentin](https://open.spotify.com/artist/1CtdXMsrRF9ULb3mxUWdK0) | [Flowers \(Piano Version\)](https://open.spotify.com/album/63ja5TXWTq4M8Hgd1lZuHW) | 4:14 | 2025-02-20 | 2025-05-17 |
 | [Fortnight \- Piano Version](https://open.spotify.com/track/4L72mjxSYuUdGtLKLJw7lT) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [The Tortured Poets Department \(Piano Version\)](https://open.spotify.com/album/6C4VwQCpK7bb6EELytcD5d) | 3:41 | 2025-02-20 |  |
 | [good 4 u](https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:21 | 2025-02-20 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/7BqCj8yFwzhgElZzC9a6fV) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Good Luck, Babe!](https://open.spotify.com/album/3EoCgZ1BmLFnuyklddIXDE) | 2:28 | 2025-02-20 |  |
@@ -45,9 +45,11 @@
 | [My Universe](https://open.spotify.com/track/0gUFsysQrkPRZPLnL7NiV4) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [BTS Piano Covers, Vol\. 2](https://open.spotify.com/album/0xFZWU9ElqmrExGQ9zcDLg) | 2:14 | 2025-02-20 |  |
 | [Ocean Eyes](https://open.spotify.com/track/0uVBjMQGASq2vMiCuWPtCH) | [Ingrid Olsson](https://open.spotify.com/artist/7qA3z1l5k66u0YnW4vYPWl) | [Piano Pop Covers II](https://open.spotify.com/album/0odfmFO1Q6aRfsRcRQvVmh) | 3:13 | 2025-02-20 |  |
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2025-02-20 |  |
+| [Out of Time](https://open.spotify.com/track/2JIadomFANTBr1I7rvMCJN) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Out of Time](https://open.spotify.com/album/5ywNtEss6L50krPT9wxaGB) | 3:14 | 2025-05-16 |  |
 | [Peaches \- Piano](https://open.spotify.com/track/3ZnxEuvghnpte4SGlRbIXF) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 3:05 | 2025-02-20 |  |
 | [Pink Pony Club](https://open.spotify.com/track/6p5hu5KLr5e8hUkir5RxCl) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [The Rise and Fall of a Midwest Princess: Piano Instrumentals](https://open.spotify.com/album/2zKgKUdfW7FM1JpAtRB5e9) | 3:47 | 2025-05-02 |  |
 | [Please Please Please \- Piano Version](https://open.spotify.com/track/5Jp6P4rplwaHIB6XQ7o74W) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Piano Cover Collection \(Vol.3\)](https://open.spotify.com/album/4UjatSTl3ifWztP8eJzdDm) | 3:32 | 2025-02-20 |  |
+| [Revolving Door](https://open.spotify.com/track/5nUvBVsd05Zfl3lh4Z0ZNO) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Revolving Door](https://open.spotify.com/album/2SU9GgNS6xwdr1RSfpiQ8j) | 3:33 | 2025-05-16 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/7dUKp6hhkJrKhcLTqrJ3Gj) | [Caio Ghisi](https://open.spotify.com/artist/2nPDE1Hn3O6VYxJAjHLcsp) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/7FrsF0YugEWz3Y6NKNCJm6) | 3:03 | 2025-03-28 |  |
 | [Running Up That Hill \(A Deal With God\) \- Piano Version](https://open.spotify.com/track/3k7XdOax96YAFfQ9Io5s9M) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [Running Up That Hill \(A Deal With God\) \[Piano Version\]](https://open.spotify.com/album/0DorLK7XCFmEX2VykO2Ch2) | 4:45 | 2025-02-20 | 2025-03-29 |
 | [See You Again \(Piano Arrangement\)](https://open.spotify.com/track/4zfWNeNDXaJjOLebhbQ7dI) | [Alexandre Pachabezian](https://open.spotify.com/artist/1IT9QRtjGpp7XoEGX4UcmH) | [See You Again \(Piano Arrangement\)](https://open.spotify.com/album/2gXobLmeqO74oQKGC6Levy) | 3:54 | 2025-02-20 | 2025-03-15 |
@@ -55,7 +57,7 @@
 | [Someone You Loved](https://open.spotify.com/track/00utEhrTFR6V4HEuLh2ncI) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Someone You Loved](https://open.spotify.com/album/0Tj7uPAbloKC8eyIaaOycN) | 3:05 | 2025-02-20 |  |
 | [Space Song \- Piano Version](https://open.spotify.com/track/1SBo9qvXe85LUwrrIsDEWr) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Piano Cover Collection \(Vol.3\)](https://open.spotify.com/album/4UjatSTl3ifWztP8eJzdDm) | 2:57 | 2025-02-20 |  |
 | [STAY \- Piano Cover](https://open.spotify.com/track/1CmppZTbQicdsK3Wvf1pZh) | [Milo Grande](https://open.spotify.com/artist/182Ff74ykrt6AQ716FsefI) | [Small Parts of big Parts](https://open.spotify.com/album/2kw5VPT7h3LHWAj6Dafq9t) | 2:08 | 2025-02-20 | 2025-05-03 |
-| [Summertime Sadness](https://open.spotify.com/track/2YryAeTzc3Ka8FDQlCEWF2) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 2:43 | 2025-02-20 |  |
+| [Summertime Sadness](https://open.spotify.com/track/2YryAeTzc3Ka8FDQlCEWF2) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 2:43 | 2025-02-20 | 2025-05-17 |
 | [Sunflower](https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Sunflower](https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm) | 3:10 | 2025-02-20 |  |
 | [Taste](https://open.spotify.com/track/17y22f5dFjcSMkjsA4OjwJ) | [Ellery Hughes](https://open.spotify.com/artist/5py7utGDgkOSj26N1boPUc) | [Taste](https://open.spotify.com/album/0orAB0e58uiyyrRMGmxQMX) | 3:32 | 2025-04-07 |  |
 | [Texas Hold EM](https://open.spotify.com/track/3KjegNTJ84MxLDXpoHWWcg) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 3:23 | 2025-02-20 |  |

@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 246000,
       "name": "Ancora luned\u00ec",
       "url": "https://open.spotify.com/track/0g6Mzl2iSnKcFeH1XK8zsO"
@@ -4622,7 +4622,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 147640,
       "name": "Il fratello pi\u00f9 grande",
       "url": "https://open.spotify.com/track/2mGjwej9HtVqhnxBpL1yVR"
@@ -6679,6 +6679,24 @@
     },
     {
       "album": {
+        "name": "MATTONE #3",
+        "url": "https://open.spotify.com/album/10LgmZ8cSYnxeQ6QuYygG1"
+      },
+      "artists": [
+        {
+          "name": "Muretto Milano",
+          "url": "https://open.spotify.com/artist/6GsJ2SUNkmYRp3JJ4y1Z9V"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239409,
+      "name": "MATTONE #3",
+      "url": "https://open.spotify.com/track/3BuFCBd5UsQryhTMXr6Row"
+    },
+    {
+      "album": {
         "name": "DOCG",
         "url": "https://open.spotify.com/album/1cXBHsSInTzTWZqsBZEOw7"
       },
@@ -7392,7 +7410,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 263032,
       "name": "Neo Ex",
       "url": "https://open.spotify.com/track/3nOKf0b77ReIIoest5xWXO"
@@ -7474,6 +7492,32 @@
       "duration_ms": 246869,
       "name": "Never Give Up (feat. Jake La Furia)",
       "url": "https://open.spotify.com/track/7G4IfSreRTqx7QYhqODBMn"
+    },
+    {
+      "album": {
+        "name": "Niente di male",
+        "url": "https://open.spotify.com/album/0h19iOntnzCWykGmbSi8G9"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        },
+        {
+          "name": "Nicola Peruch",
+          "url": "https://open.spotify.com/artist/4JI50lYqhtE4up2h1M33Fm"
+        },
+        {
+          "name": "Opez",
+          "url": "https://open.spotify.com/artist/4lOGYCKkqGyEYCe67YCETK"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212389,
+      "name": "Niente di male",
+      "url": "https://open.spotify.com/track/4DSLdpZSoaTbxaQTVxPJYz"
     },
     {
       "album": {
@@ -9542,6 +9586,28 @@
       "duration_ms": 184714,
       "name": "Real Talk Freestyle",
       "url": "https://open.spotify.com/track/6Sz3x4r7fTQNEAkKxWCMf6"
+    },
+    {
+      "album": {
+        "name": "REALISTA",
+        "url": "https://open.spotify.com/album/6GXq1ORx4Whpuhhben77J1"
+      },
+      "artists": [
+        {
+          "name": "Macro Marco",
+          "url": "https://open.spotify.com/artist/4W7U7bpnH1h0VKxMIRSzTn"
+        },
+        {
+          "name": "Michael Sorriso",
+          "url": "https://open.spotify.com/artist/11RQDJs7uJmTM7y8uOMytk"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220355,
+      "name": "REALISTA",
+      "url": "https://open.spotify.com/track/7uzLcoUZnlmUPwmGXwZL07"
     },
     {
       "album": {

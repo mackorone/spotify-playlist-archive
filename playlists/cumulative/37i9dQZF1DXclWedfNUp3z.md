@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-450 songs - 1 day 6 hr 50 min
+451 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,8 +406,9 @@
 | [Time Changes](https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Henrik Jespersen](https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy) | [Skyline \- Instant Composition Vol\. 2](https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K) | 4:17 | 2022-03-17 | 2022-07-28 |
 | [Time Dilation](https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf) | [Fredrik Jonasson](https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd) | [Aether](https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0) | 4:20 | 2022-02-18 | 2024-07-04 |
 | [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 | 2022-09-15 | 2025-03-16 |
-| [Tomato Day](https://open.spotify.com/track/7zXTb9cnYZruPZzLM7MrA8) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Boiling, Steaming and Poaching](https://open.spotify.com/album/4Xs0BuqcVypp3XJDcdSK3K) | 4:19 | 2021-10-20 |  |
+| [Tomato Day](https://open.spotify.com/track/7zXTb9cnYZruPZzLM7MrA8) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Boiling, Steaming and Poaching](https://open.spotify.com/album/4Xs0BuqcVypp3XJDcdSK3K) | 4:19 | 2021-10-20 | 2025-05-17 |
 | [Translucent](https://open.spotify.com/track/7nXlwdROvJxmmtdkPNggfR) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7), [Jeremy Blake](https://open.spotify.com/artist/1FnFDLE1iq1L5Md8tm1cXO) | [Home Stories](https://open.spotify.com/album/3TuDpNfwEGpVr666kvj4uW) | 4:40 | 2021-10-20 | 2022-07-26 |
+| [Trapped in an Oil Painting](https://open.spotify.com/track/2CXI4cnhzLHf4zR3uncwPe) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito Xtended](https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1) | 4:10 | 2025-05-09 |  |
 | [Tree](https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 2](https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd) | 5:12 | 2022-04-04 | 2024-08-10 |
 | [Troglodytes](https://open.spotify.com/track/3VbiLxS654IIzKlczvH8MR) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig), [Arthur Mine](https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie) | [Nostalgia Por Mesozóica](https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0) | 4:30 | 2024-08-14 | 2024-10-10 |
 | [Tropical](https://open.spotify.com/track/3ajXJnIwk0ufrze2chUUj8) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Greenhouse](https://open.spotify.com/album/3lE6biKXqjrFOKqRmFDZJS) | 1:54 | 2021-10-20 | 2022-06-24 |

@@ -2,9 +2,9 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : J Balvin x Omega
+> Tous les hits latino du moment sont ici\. Photo : David Guetta, Willy William, Nicky Jam
 
-249 songs - 13 hr 1 min
+250 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bachata Bélica](https://open.spotify.com/track/1Bhc0dOPU2yc4w1G9WpzWR) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Bachata Bélica](https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02) | 3:15 | 2025-01-16 | 2025-03-14 |
 | [BADDIE](https://open.spotify.com/track/0ZYNhBbIJP1N9Jak1evA9s) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [BADDIE](https://open.spotify.com/album/7hp1Q0RrnHgSU9G5sMFxGp) | 4:54 | 2025-02-13 | 2025-03-14 |
 | [Bailando en la Lluvia](https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Bailando en la Lluvia](https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk) | 2:53 | 2024-09-26 |  |
+| [Bate](https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bate](https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr) | 2:18 | 2025-05-16 |  |
 | [BAYAMÓN](https://open.spotify.com/track/2zF0lBxzjQFYs0jN13D5f0) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [ATM Yamil](https://open.spotify.com/artist/3wlIk7QokyE4U8ysTLgdy5) | [BAYAMÓN](https://open.spotify.com/album/2f8y3WiwPWPeUiPQlISFMX) | 3:39 | 2025-01-16 | 2025-01-31 |
 | [Belek](https://open.spotify.com/track/1K1I5LLhJe3xqJnOHGNIwC) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Belek](https://open.spotify.com/album/1YCTpIGZUrRagjF2hsOVxd) | 3:21 | 2023-11-23 | 2024-02-16 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-07 | 2025-02-14 |
@@ -78,7 +79,7 @@
 | [Dime Que No \(feat\. Lenier\)](https://open.spotify.com/track/5KqO3V6z8HomuTXfmM1bTi) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Dime Que No \(feat\. Lenier\)](https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw) | 3:36 | 2024-12-19 | 2025-05-02 |
 | [DOCTOR](https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [DOCTOR](https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y) | 2:24 | 2024-08-29 | 2024-10-18 |
 | [Dolce Vita](https://open.spotify.com/track/4LzIcYimjekMzAc0c4vf2Q) | [Rara](https://open.spotify.com/artist/1sRvfCFBFo15M1ANbTq1Is) | [Dolce Vita](https://open.spotify.com/album/4FM5JpQ5epSYAbkwxIEyUD) | 2:27 | 2023-12-21 | 2024-01-19 |
-| [Dolche](https://open.spotify.com/track/25WDOCITWIg6Nfz5wjkfBY) | [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Dolche](https://open.spotify.com/album/5xGGtkZo6N3HCmvT7LoU8c) | 2:37 | 2025-04-24 |  |
+| [Dolche](https://open.spotify.com/track/25WDOCITWIg6Nfz5wjkfBY) | [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Dolche](https://open.spotify.com/album/5xGGtkZo6N3HCmvT7LoU8c) | 2:37 | 2025-04-24 | 2025-05-17 |
 | [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 | 2023-09-28 | 2023-11-24 |
 | [DOSiS](https://open.spotify.com/track/45hMdaPF4b47baFQHgI5Mj) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [DOSiS](https://open.spotify.com/album/5gJ0BZlRum6qWfJKlem3z8) | 3:34 | 2024-01-25 | 2024-03-22 |
 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-03-21 | 2024-05-24 |

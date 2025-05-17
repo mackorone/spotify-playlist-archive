@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Idea 22",
+        "url": "https://open.spotify.com/album/2szFL2Ml8VtzkX0fhHrfin"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Idea 22",
+      "url": "https://open.spotify.com/track/18OvVTXtC3lx1Iym9E0RyT"
+    },
+    {
+      "album": {
         "name": "In Paradisum",
         "url": "https://open.spotify.com/album/7aBPTOIQycGBJDZHGjAV7d"
       },

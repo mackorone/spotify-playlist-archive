@@ -1,13 +1,33 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 241774,
+  "num_followers": 241718,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB194QAAAAA+BgWbB2zE0fBBkaDvhR75",
+  "snapshot_id": "aCa4VgAAAAB8pfDnizwUIvn3EhwvZUa3",
   "tracks": [
+    {
+      "added_at": "2025-05-16 04:00:22",
+      "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/78zVxVbReCDgt1zbfo5Vrs"
+      },
+      "artists": [
+        {
+          "name": "Alohaii",
+          "url": "https://open.spotify.com/artist/3kNWENaTd7pb0xFqNuq7Sc"
+        },
+        {
+          "name": "Shiki Miyoshino",
+          "url": "https://open.spotify.com/artist/58M3LYj3m6sjKuIlrCpAGu"
+        }
+      ],
+      "duration_ms": 247714,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7tSZxn5ptj0i8RCkxRRMId"
+    },
     {
       "added_at": "2025-05-09 04:00:33",
       "album": {
@@ -1651,22 +1671,6 @@
       "duration_ms": 154754,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/2yicVJl6Tv5Nmb3FiJEb8S"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/4KPre8otxtK3jMf1nVUvcz"
-      },
-      "artists": [
-        {
-          "name": "Alfie Neale",
-          "url": "https://open.spotify.com/artist/3kMEpQS5iaBwIvrudhKYmG"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/2DmiM4Uvr834eiPUXtwLle"
     },
     {
       "added_at": "2023-03-17 04:01:00",

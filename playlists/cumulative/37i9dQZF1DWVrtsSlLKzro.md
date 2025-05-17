@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-384 songs - 22 hr 42 min
+385 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Hollow](https://open.spotify.com/track/52OBoIBBYB9R9UiIbWHKgF) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [Hollow](https://open.spotify.com/album/0FwOjWiSfr5pQ9sAVrSLdq) | 3:33 | 2023-03-10 |  |
 | [Homesick \(feat\. SOUNDR\)](https://open.spotify.com/track/1lypBFGiKyft1PVgNp358Y) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Homesick \(feat\. SOUNDR\)](https://open.spotify.com/album/14bud7QbOvXC0FhVBarz1y) | 5:28 | 2021-12-03 |  |
 | [Hope](https://open.spotify.com/track/6klB3i7WPg51WX78i3t9yQ) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Hope](https://open.spotify.com/album/4xiFocLVSRz0H1hxizkWOT) | 3:13 | 2022-10-28 |  |
+| [How To Say Goodbye](https://open.spotify.com/track/1RT0Je4Df24UXmPMCh7JTy) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [How To Say Goodbye](https://open.spotify.com/album/2h4nay97Z8MU7NYnllHMsB) | 3:39 | 2025-05-16 |  |
 | [Human Touch](https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Human Touch](https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm) | 2:25 | 2022-01-28 |  |
 | [Hurts Sometimes \(with Jonathan Mendelsohn\)](https://open.spotify.com/track/2wwSQbfTJUqNqDch31XUpW) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Hurts Sometimes \(with Jonathan Mendelsohn\)](https://open.spotify.com/album/7jOpNmgc2qpGOxwOpanK8B) | 3:45 | 2021-12-03 |  |
 | [Hurts Sometimes \(with RUNN\)](https://open.spotify.com/track/4IWE1369xmE7gOhQGFshYZ) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Hurts Sometimes \(with RUNN\)](https://open.spotify.com/album/64HRawr4ExQg35luwZxlql) | 4:08 | 2023-10-13 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Royal Otis",
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Dan Mangan",
   "name": "Chill Indie Music",
   "tracks": [
     {
@@ -2409,6 +2409,24 @@
     },
     {
       "album": {
+        "name": "Natural Light",
+        "url": "https://open.spotify.com/album/5mbEX4VVc8PY11n3RPqrGT"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342080,
+      "name": "It Might Be Raining",
+      "url": "https://open.spotify.com/track/145lUae1lkz99tKcwwEK9x"
+    },
+    {
+      "album": {
         "name": "IYKYK",
         "url": "https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t"
       },
@@ -2795,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218151,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
+    },
+    {
+      "album": {
         "name": "M",
         "url": "https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ"
       },
@@ -2878,7 +2914,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 200214,
       "name": "Melody",
       "url": "https://open.spotify.com/track/3DFfNBtNDKKMaUv3CZ0qsE"
@@ -3712,7 +3748,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 212367,
       "name": "Rodeo Clown",
       "url": "https://open.spotify.com/track/6OSCi0wbIkudAZpk5FU2vp"

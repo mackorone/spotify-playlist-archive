@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Katteyes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,631 likes - 30 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,632 likes - 30 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 7 | [acaramelada](https://open.spotify.com/track/1vWPNJvyXX2H4tazdPH9C0) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [acaramelada](https://open.spotify.com/album/6FdqOoAN0NF58EjVnclJc9) | 2:34 |
 | 8 | [FICA PAPI](https://open.spotify.com/track/6qFJRXEdL4DYDhle6D2hsq) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [FICA PAPI](https://open.spotify.com/album/1fiww3hEVjJUeU2tL43sFO) | 2:25 |
 | 9 | [Febrero](https://open.spotify.com/track/4LIVoYHPiHaxQZAnsEe4sI) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Febrero](https://open.spotify.com/album/4mmcM1ZG1UvRcpqnlX22M3) | 2:44 |
-| 10 | [España](https://open.spotify.com/track/1tBpI4LbFaRNwBfvY4gucR) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [España](https://open.spotify.com/album/2IzWxuy73g719MUV8mmntz) | 2:45 |
-| 11 | [ESTAMINA](https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [ESTAMINA](https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x) | 2:43 |
+| 10 | [ESTAMINA](https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [ESTAMINA](https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x) | 2:43 |
+| 11 | [España](https://open.spotify.com/track/1tBpI4LbFaRNwBfvY4gucR) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [España](https://open.spotify.com/album/2IzWxuy73g719MUV8mmntz) | 2:45 |
 | 12 | [POPPER!](https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 1:50 |
 | 13 | [TONINI](https://open.spotify.com/track/0rYGGxF4VitfzCyw3zmhlN) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [TONINI](https://open.spotify.com/album/53QbHt39FFQ8O27HrWlnCr) | 2:12 |
 | 14 | [nasty](https://open.spotify.com/track/2WXMvFkfCn938wlvJxttAN) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:55 |

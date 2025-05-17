@@ -2,7 +2,7 @@
 
 ### [I Love My '90s R&B](https://open.spotify.com/playlist/37i9dQZF1DX6VDO8a6cQME)
 
-> The most essential R&B songs from the '90s.
+> The most essential R&B songs from the '90s\. Cover: Mary J\. Blige
 
 143 songs - 10 hr 53 min
 

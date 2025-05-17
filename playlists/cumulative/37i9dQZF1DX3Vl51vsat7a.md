@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: DJ Gigola
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Yu
 
-393 songs - 20 hr 22 min
+394 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Augen Leuchten](https://open.spotify.com/track/0MPG4SFATpPCVC1C4rrgEH) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Beatgees](https://open.spotify.com/artist/6TmHCol5w2iwL18tI45zo7) | [Augen Leuchten](https://open.spotify.com/album/1fLEwHM4MO4hvEfNAPFSTY) | 3:15 | 2024-08-22 |  |
 | [August](https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [August](https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo) | 2:48 | 2023-03-02 | 2023-04-21 |
 | [Aus dem Nichts](https://open.spotify.com/track/233zgukbOI7quzjK124SfJ) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [aus dem nichts tape](https://open.spotify.com/album/3SFvDIitK7fZMgzSbKpPi6) | 2:42 | 2024-12-12 |  |
-| [Ausbluten](https://open.spotify.com/track/6MJfPq4ty6Td0wZ2ILDvoA) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Ausbluten](https://open.spotify.com/album/2aITDUNoTwMzprmFY03qdg) | 3:05 | 2025-04-17 |  |
+| [Ausbluten](https://open.spotify.com/track/6MJfPq4ty6Td0wZ2ILDvoA) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Ausbluten](https://open.spotify.com/album/2aITDUNoTwMzprmFY03qdg) | 3:05 | 2025-04-17 | 2025-05-17 |
 | [Babydoll](https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Babydoll](https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f) | 4:11 | 2024-11-14 |  |
 | [Babyglock](https://open.spotify.com/track/46XTtnjy05ludrJ8Iqt8fI) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Babyglock](https://open.spotify.com/album/5zZ4f6pblQi5vbIE1R10gD) | 2:17 | 2025-02-27 |  |
 | [Back To Bed](https://open.spotify.com/track/1gdbZIhFYNmQz8aXA7puqH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Back To Bed](https://open.spotify.com/album/4VlR9meFrdYgY2zyy7cumy) | 2:59 | 2024-09-12 |  |
@@ -141,6 +141,7 @@
 | [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 | 2022-03-03 | 2023-07-28 |
 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 | 2024-01-18 | 2024-03-15 |
 | [Für jeden aber nicht für dich](https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Für jeden aber nicht für dich](https://open.spotify.com/album/1f5h6JX9E8RO5zRW9ALMIf) | 2:14 | 2023-04-13 | 2023-11-10 |
+| [Geld](https://open.spotify.com/track/0IW1q8WdeZCxlL9SH0xrAz) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Geld](https://open.spotify.com/album/1mAReuQiTur46WBDG4e5s0) | 3:02 | 2025-05-16 |  |
 | [gensehaut](https://open.spotify.com/track/4hcuqPKZS9s8P9jyOamH0M) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [gensehaut](https://open.spotify.com/album/1JAdrZuesXk1mY6KVOEYyq) | 2:15 | 2023-08-31 | 2023-10-13 |
 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 | 2023-01-05 | 2023-03-18 |
 | [Gib Gib](https://open.spotify.com/track/1RUZl4jYcStuNxkwib8wBk) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Gib Gib](https://open.spotify.com/album/557EOriY4Y0nOixN726p9C) | 2:59 | 2022-05-12 | 2023-02-24 |

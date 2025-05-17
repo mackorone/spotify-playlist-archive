@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 316933,
+  "num_followers": 316936,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-02-21 16:39:21",
       "album": {
+        "name": "Codinome",
+        "url": "https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM"
+      },
+      "artists": [
+        {
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Codinome",
+      "url": "https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm"
+    },
+    {
+      "added_at": "2025-02-21 16:39:21",
+      "album": {
         "name": "Lingerie",
         "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 209654,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
-    },
-    {
-      "added_at": "2025-02-21 16:39:21",
-      "album": {
-        "name": "Codinome",
-        "url": "https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM"
-      },
-      "artists": [
-        {
-          "name": "Maria",
-          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Codinome",
-      "url": "https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm"
     },
     {
       "added_at": "2025-02-21 16:39:21",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-02-21 16:39:21",
       "album": {
+        "name": "DISK",
+        "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "DISK",
+      "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
+    },
+    {
+      "added_at": "2025-02-21 16:39:21",
+      "album": {
         "name": "Apela\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 137333,
       "name": "Apela\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
-    },
-    {
-      "added_at": "2025-02-21 16:39:21",
-      "album": {
-        "name": "DISK",
-        "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "DISK",
-      "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
     },
     {
       "added_at": "2025-02-21 16:39:21",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-02-21 16:39:21",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 193191,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C"
-    },
-    {
-      "added_at": "2025-02-21 16:39:21",
-      "album": {
         "name": "Toque Na Pele",
         "url": "https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 161927,
       "name": "Toque Na Pele",
       "url": "https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB"
+    },
+    {
+      "added_at": "2025-02-21 16:39:21",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 193191,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C"
     }
   ],
   "unique_name": "Rala e Rola",

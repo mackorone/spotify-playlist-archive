@@ -1,13 +1,221 @@
 {
-  "description": "The latest tracks from Mad Decent &amp; friends. Featuring new music from Eartheater &amp; Shygirl, plus the latest cuts from Niko Demus, MRD and more.",
-  "num_followers": 50958,
+  "description": "The latest tracks from Mad Decent &amp; friends. Featuring new music from Varg2TM &amp; Dj Smokey, plus the latest cuts from MIKE DEAN, Devon Again, and more.",
+  "num_followers": 50956,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAco3SgI2EIhR9AfeE6sHZRMgkCmnvu",
+  "snapshot_id": "AAAcvIU1OwDmeoLnuhMN6jWxrRCMbX3W",
   "tracks": [
+    {
+      "added_at": "2025-05-16 21:25:54",
+      "album": {
+        "name": "Psychological Musical Warfare 2",
+        "url": "https://open.spotify.com/album/4BCN9570YUwdT695yuSbZ6"
+      },
+      "artists": [
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Dj Smokey",
+          "url": "https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy"
+        }
+      ],
+      "duration_ms": 140573,
+      "name": "Bitch Smacker - EDM GangStep Edit",
+      "url": "https://open.spotify.com/track/1DTxRSFNCay9wpFfy0YBsa"
+    },
+    {
+      "added_at": "2025-05-16 21:25:54",
+      "album": {
+        "name": "Psychological Musical Warfare 2",
+        "url": "https://open.spotify.com/album/4BCN9570YUwdT695yuSbZ6"
+      },
+      "artists": [
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Dj Smokey",
+          "url": "https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy"
+        },
+        {
+          "name": "F1lthy",
+          "url": "https://open.spotify.com/artist/5T7nP09Cdogm9yGfuDipJR"
+        }
+      ],
+      "duration_ms": 206259,
+      "name": "Powder Gets You Hyper",
+      "url": "https://open.spotify.com/track/2MrONxBG1kjkz0aOdUt0Qv"
+    },
+    {
+      "added_at": "2025-05-16 21:25:54",
+      "album": {
+        "name": "Psychological Musical Warfare 2",
+        "url": "https://open.spotify.com/album/4BCN9570YUwdT695yuSbZ6"
+      },
+      "artists": [
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Dj Smokey",
+          "url": "https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "duration_ms": 422434,
+      "name": "Evil Drug Music",
+      "url": "https://open.spotify.com/track/0MG4YxAMtCyQJO4FRQDzrU"
+    },
+    {
+      "added_at": "2025-05-16 21:27:11",
+      "album": {
+        "name": "425",
+        "url": "https://open.spotify.com/album/6LkygckNfHhwg2ubiC7lsN"
+      },
+      "artists": [
+        {
+          "name": "MIKE DEAN",
+          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "BLUEY",
+      "url": "https://open.spotify.com/track/3Imb6FcyZo09uMQ79Zbbfm"
+    },
+    {
+      "added_at": "2025-05-16 21:25:54",
+      "album": {
+        "name": "Aeolian Software",
+        "url": "https://open.spotify.com/album/2yr5vrM7RyOISkZ9mkfPkC"
+      },
+      "artists": [
+        {
+          "name": "Music for your Plants",
+          "url": "https://open.spotify.com/artist/4cil6OnkHE0xsfNDnbfl1c"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Soft Age",
+      "url": "https://open.spotify.com/track/58pJipZU1vNt07DN8Z6dLI"
+    },
+    {
+      "added_at": "2025-05-16 21:25:54",
+      "album": {
+        "name": "People v. Maryanne Sue",
+        "url": "https://open.spotify.com/album/0BIqFp6CRRc1pWvetAOrKt"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 161320,
+      "name": "People v. Maryanne Sue",
+      "url": "https://open.spotify.com/track/1x11nX6RgfQufczgQjZCXF"
+    },
+    {
+      "added_at": "2025-05-16 21:25:54",
+      "album": {
+        "name": "People v. Maryanne Sue",
+        "url": "https://open.spotify.com/album/0BIqFp6CRRc1pWvetAOrKt"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 102933,
+      "name": "lover",
+      "url": "https://open.spotify.com/track/6C8LtjYfofo8qerLVtgyx3"
+    },
+    {
+      "added_at": "2025-05-16 21:25:54",
+      "album": {
+        "name": "MAKKA",
+        "url": "https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "MAKKA",
+      "url": "https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr"
+    },
+    {
+      "added_at": "2025-05-16 21:25:54",
+      "album": {
+        "name": "all gone",
+        "url": "https://open.spotify.com/album/08wnlJMYzx0f1dpbohPs30"
+      },
+      "artists": [
+        {
+          "name": "Goner",
+          "url": "https://open.spotify.com/artist/2zubb88j9raZCaoyXih0iT"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "all gone",
+      "url": "https://open.spotify.com/track/1dE20xaMi7iJbmVz9XxsvA"
+    },
+    {
+      "added_at": "2025-05-16 21:25:54",
+      "album": {
+        "name": "On and On (You Lie)",
+        "url": "https://open.spotify.com/album/1WH8dMwBKHgamutE49x73O"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        }
+      ],
+      "duration_ms": 360106,
+      "name": "On and On (You Lie)",
+      "url": "https://open.spotify.com/track/0IW5kFYSyUhsKy0Y7Q8Ygn"
+    },
+    {
+      "added_at": "2025-05-16 21:25:54",
+      "album": {
+        "name": "Feel It All / My Story",
+        "url": "https://open.spotify.com/album/4zl9VZsRmTak4G3IZ4iLkA"
+      },
+      "artists": [
+        {
+          "name": "Elipropperr",
+          "url": "https://open.spotify.com/artist/1jndwpUpE013s7zjx2gM1f"
+        }
+      ],
+      "duration_ms": 129923,
+      "name": "Feel It All",
+      "url": "https://open.spotify.com/track/0jbXAzTs5J7vflxBeHsQaR"
+    },
     {
       "added_at": "2025-04-03 22:55:49",
       "album": {
@@ -1253,26 +1461,6 @@
       "url": "https://open.spotify.com/track/5lJpGEs6n6bDixr48LpCWH"
     },
     {
-      "added_at": "2025-01-25 23:35:57",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/1tO5U3gxthqjIPvvqDOIXn"
-      },
-      "artists": [
-        {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        },
-        {
-          "name": "COMA",
-          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/3r2hLjNyBFME6AAaoNMunE"
-    },
-    {
       "added_at": "2025-01-25 23:36:05",
       "album": {
         "name": "Nuclear Daisies",
@@ -1287,22 +1475,6 @@
       "duration_ms": 194181,
       "name": "Heaven in Your Head",
       "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
-    },
-    {
-      "added_at": "2025-01-25 23:36:08",
-      "album": {
-        "name": "Fruit Punch",
-        "url": "https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "Fruit Punch",
-      "url": "https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx"
     },
     {
       "added_at": "2025-01-25 23:36:19",
@@ -1357,22 +1529,6 @@
       "url": "https://open.spotify.com/track/4wHjrZYm9sW1PJuTElSBq4"
     },
     {
-      "added_at": "2024-12-18 18:32:05",
-      "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb"
-      },
-      "artists": [
-        {
-          "name": "Joeyy",
-          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
-        }
-      ],
-      "duration_ms": 115230,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE"
-    },
-    {
       "added_at": "2024-12-18 18:26:41",
       "album": {
         "name": "Pure Smile Snake Venom (KFR Remix)",
@@ -1391,26 +1547,6 @@
       "duration_ms": 257540,
       "name": "Pure Smile Snake Venom - KFR Remix",
       "url": "https://open.spotify.com/track/3yQTatNrFFSYO9u9R0zlK4"
-    },
-    {
-      "added_at": "2024-12-18 18:26:55",
-      "album": {
-        "name": "Poison Pack #1",
-        "url": "https://open.spotify.com/album/49zc8wc9XS6Ow3CaZDxZve"
-      },
-      "artists": [
-        {
-          "name": "Dj Smokey",
-          "url": "https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy"
-        },
-        {
-          "name": "Varg\u00b2\u2122",
-          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
-        }
-      ],
-      "duration_ms": 242636,
-      "name": "Evil Poison Money Gang",
-      "url": "https://open.spotify.com/track/5KnDMJ15LikPTSzpfSqMrE"
     },
     {
       "added_at": "2024-12-18 18:26:53",
@@ -1499,26 +1635,6 @@
       "duration_ms": 172859,
       "name": "Where's The Daddy?",
       "url": "https://open.spotify.com/track/6qhCrOuJSKn2yqXuRyPIPL"
-    },
-    {
-      "added_at": "2024-11-16 01:03:36",
-      "album": {
-        "name": "Pon De Streets",
-        "url": "https://open.spotify.com/album/7Gin4803ffNvUrgZkMhSvP"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 262896,
-      "name": "Pon De Streets",
-      "url": "https://open.spotify.com/track/5voG1aHiU7MISZbKtCyUvn"
     },
     {
       "added_at": "2024-11-27 17:14:57",
@@ -1621,26 +1737,6 @@
       "url": "https://open.spotify.com/track/6ZO2BFnWwI0CTapdJGlTJb"
     },
     {
-      "added_at": "2024-10-16 00:47:43",
-      "album": {
-        "name": "Nobody Move",
-        "url": "https://open.spotify.com/album/1kG5dBKvNpcInFOFth4MO5"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 121635,
-      "name": "Nobody Move",
-      "url": "https://open.spotify.com/track/6XJrKK8dGsDMVNEvIUQETc"
-    },
-    {
       "added_at": "2024-11-16 01:02:47",
       "album": {
         "name": "Aquamarine / Arcamarine",
@@ -1677,30 +1773,6 @@
       "url": "https://open.spotify.com/track/3TJMpwcdrDE0wwSoEWit5f"
     },
     {
-      "added_at": "2024-11-16 01:04:19",
-      "album": {
-        "name": "Naive [Dadabots Infinite Remix]",
-        "url": "https://open.spotify.com/album/1rWw2lZ5OfDAtiY6XcTeB6"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        },
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        },
-        {
-          "name": "Dadabots",
-          "url": "https://open.spotify.com/artist/0aB11GHSm0a5ntDOROj32V"
-        }
-      ],
-      "duration_ms": 199034,
-      "name": "Naive [Dadabots Infinite Remix]",
-      "url": "https://open.spotify.com/track/5FpOlantw9IONp5GNaG8uz"
-    },
-    {
       "added_at": "2024-11-16 01:02:52",
       "album": {
         "name": "Dopamine Machine 4",
@@ -1731,38 +1803,6 @@
       "duration_ms": 160875,
       "name": "Citibike",
       "url": "https://open.spotify.com/track/0VKnAvYe9UZgCffexHcEZd"
-    },
-    {
-      "added_at": "2024-11-16 01:02:57",
-      "album": {
-        "name": "I remember how your hands felt on mine",
-        "url": "https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 195968,
-      "name": "I remember how your hands felt on mine",
-      "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
-    },
-    {
-      "added_at": "2024-11-16 01:02:59",
-      "album": {
-        "name": "Two Shell",
-        "url": "https://open.spotify.com/album/4jZZgPpyDqLuTq0LKgXwK6"
-      },
-      "artists": [
-        {
-          "name": "Two Shell",
-          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
-        }
-      ],
-      "duration_ms": 230562,
-      "name": "come to terms",
-      "url": "https://open.spotify.com/track/0Syr57yjRP7QhO7yt7W8Ce"
     },
     {
       "added_at": "2024-11-16 01:04:36",
@@ -1811,42 +1851,6 @@
       "duration_ms": 134844,
       "name": "take your vibes and go",
       "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
-    },
-    {
-      "added_at": "2024-10-23 23:05:52",
-      "album": {
-        "name": "\u305f\u3060dance in the dark",
-        "url": "https://open.spotify.com/album/3sKo7hQIUI9ZOlbQ30O6Xj"
-      },
-      "artists": [
-        {
-          "name": "TDJ",
-          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
-        },
-        {
-          "name": "Peterparker69",
-          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "\u305f\u3060dance in the dark",
-      "url": "https://open.spotify.com/track/5FFsV26WTs7NVKgMTX3P9c"
-    },
-    {
-      "added_at": "2024-09-20 16:23:49",
-      "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
     }
   ],
   "unique_name": "Mad Decent Weekly",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Rrag",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Silampukau",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Dua Dunia",
+        "url": "https://open.spotify.com/album/6HVwG9cBQHA6elMolRoMLv"
+      },
+      "artists": [
+        {
+          "name": "Bilal Indrajaya",
+          "url": "https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281682,
+      "name": "Akhir Pekan Yang Hilang",
+      "url": "https://open.spotify.com/track/562SZ62uMo9PKOEMmpm3yT"
+    },
+    {
+      "album": {
         "name": "Akigawa",
         "url": "https://open.spotify.com/album/2GNwl3JLeb7x9tA0c4yccM"
       },
@@ -274,6 +292,24 @@
       "duration_ms": 141571,
       "name": "Amor",
       "url": "https://open.spotify.com/track/1lMx4GcMycvMtFh0IodxUD"
+    },
+    {
+      "album": {
+        "name": "Obrolan Jam 3 Pagi",
+        "url": "https://open.spotify.com/album/0jDClrox8tW0f2g82gVc3D"
+      },
+      "artists": [
+        {
+          "name": "Lomba Sihir",
+          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237746,
+      "name": "Andai Saja",
+      "url": "https://open.spotify.com/track/2hb8n44vpefszgLwkEVXhU"
     },
     {
       "album": {
@@ -1234,7 +1270,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 280230,
       "name": "Dara",
       "url": "https://open.spotify.com/track/4PaoIzddGVYhnmbX8xLZWf"
@@ -1288,7 +1324,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 252679,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5DQSWzbuysaOIcA5eynSvb"
@@ -1878,10 +1914,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 281600,
       "name": "Gemuruh Riuh",
       "url": "https://open.spotify.com/track/1IpJu8YwAlc1ozSxXAyxl8"
+    },
+    {
+      "album": {
+        "name": "Give You All",
+        "url": "https://open.spotify.com/album/51t5UHMtDLOVZavCGJnloA"
+      },
+      "artists": [
+        {
+          "name": "lightcraft",
+          "url": "https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231160,
+      "name": "Give You All",
+      "url": "https://open.spotify.com/track/3HOdjNK4buCsboOYKEWzjy"
     },
     {
       "album": {
@@ -2492,7 +2546,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 238216,
       "name": "Jangan Pernah Berubah",
       "url": "https://open.spotify.com/track/1CHgfuZWlq45GGjRgAUhzT"
@@ -3026,7 +3080,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 269000,
       "name": "Langgas",
       "url": "https://open.spotify.com/track/5AcTfKB9WHC5h200wOs8nx"
@@ -3412,7 +3466,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 325000,
       "name": "Mantra Puja",
       "url": "https://open.spotify.com/track/3DHae16zH3B8OwXkPugwdN"
@@ -3484,7 +3538,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 290250,
       "name": "Masih Batu",
       "url": "https://open.spotify.com/track/0KxfKlka5Y9PGRJJN3ccm4"
@@ -3556,7 +3610,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 245176,
       "name": "Menit Tambahan",
       "url": "https://open.spotify.com/track/2y5QvggKQs5iauTD9Bc8Oa"
@@ -3884,7 +3938,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 285430,
       "name": "Nelangsa Pasar Turi",
       "url": "https://open.spotify.com/track/0DhgjYNtV0bchCToeFwRpv"
@@ -3920,7 +3974,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 277944,
       "name": "Nina",
       "url": "https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm"
@@ -3942,6 +3996,24 @@
       "duration_ms": 238220,
       "name": "Niscaya",
       "url": "https://open.spotify.com/track/5xxu8scJF7T99YAlD8WMxj"
+    },
+    {
+      "album": {
+        "name": "NO!",
+        "url": "https://open.spotify.com/album/2zlrD0QwyKJq63bYvRLbHl"
+      },
+      "artists": [
+        {
+          "name": "Delorians",
+          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202874,
+      "name": "NO!",
+      "url": "https://open.spotify.com/track/32UQufujepBZNvoRFRzmz9"
     },
     {
       "album": {
@@ -4679,6 +4751,24 @@
     },
     {
       "album": {
+        "name": "Stambul Arkipelagia, Vol. 1",
+        "url": "https://open.spotify.com/album/5iw4IG5Fa4uGC8kGquefSO"
+      },
+      "artists": [
+        {
+          "name": "Silampukau",
+          "url": "https://open.spotify.com/artist/40ucFk6nwFWYZ4gvL9DNm8"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222624,
+      "name": "Sejoli",
+      "url": "https://open.spotify.com/track/0RjTjniiP0cWzVQ1SeDvN3"
+    },
+    {
+      "album": {
         "name": "Pekik Hening di Lantang Angan",
         "url": "https://open.spotify.com/album/3SnwMRRIpgLYYqRJ2Oebxi"
       },
@@ -4958,6 +5048,24 @@
       "duration_ms": 294846,
       "name": "Sofa",
       "url": "https://open.spotify.com/track/6T0TCXAjAClGjtRrtXNCCj"
+    },
+    {
+      "album": {
+        "name": "Awkward Pop Music",
+        "url": "https://open.spotify.com/album/70Br2gTCCJoO7hYQfH6Mvt"
+      },
+      "artists": [
+        {
+          "name": "cellosux",
+          "url": "https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138163,
+      "name": "Some Things Change",
+      "url": "https://open.spotify.com/track/1Bf4teWLvVPtZpknMHeaOF"
     },
     {
       "album": {
@@ -5535,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "The Hereafter",
+        "url": "https://open.spotify.com/album/5XqAbDhrTIPdqAOSy8p4Eb"
+      },
+      "artists": [
+        {
+          "name": "SMSR",
+          "url": "https://open.spotify.com/artist/55LoW5e3Gjxqnli0UexvEj"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143815,
+      "name": "The Hereafter",
+      "url": "https://open.spotify.com/track/6hBCa7IKWO0vHdQTihFHGF"
+    },
+    {
+      "album": {
         "name": "The Lady With The Sapphire in Her Eyes",
         "url": "https://open.spotify.com/album/5xKO46V57iXZ6rlxXaHmiq"
       },
@@ -6024,7 +6150,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 296402,
       "name": "Yasudah",
       "url": "https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP"

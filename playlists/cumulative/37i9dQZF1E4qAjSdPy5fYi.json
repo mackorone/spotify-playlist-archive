@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With Joshua Lanuarii, UrvTek, STYXVII and more",
+  "description": "With Joshua Lanuarii, STYXVII, UrvTek and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 191572,
       "name": "Abstraction (Vocals Only)",
       "url": "https://open.spotify.com/track/3dEZi6uMFVW1ZK3rs1xVXS"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 135335,
       "name": "Birds Be Like",
       "url": "https://open.spotify.com/track/4i81dqSMGtv3imzSC5hVLf"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 139591,
       "name": "I'm Your Baby",
       "url": "https://open.spotify.com/track/2Xku3AcjgS3XdegLcFg6Z4"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "JuiceBox",
       "url": "https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 140636,
       "name": "KISS ME!",
       "url": "https://open.spotify.com/track/20riOYw5Hx4Szj1p0lVQmX"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 185838,
       "name": "la la la",
       "url": "https://open.spotify.com/track/4tOldBiUddGycEB8bO9ezl"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 173947,
       "name": "lemonade",
       "url": "https://open.spotify.com/track/7uWPcxNE6mdtDzKR9hinlN"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 66940,
       "name": "measuring cup!",
       "url": "https://open.spotify.com/track/7HDqKQ6OReu83T28EqZ0OP"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 182000,
       "name": "my teeth will free you",
       "url": "https://open.spotify.com/track/5cCxIwMcjhYVWHGu5RLn5G"
@@ -1810,6 +1810,24 @@
       "duration_ms": 170403,
       "name": "narcissist",
       "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
+    },
+    {
+      "album": {
+        "name": "Hello Kitty Scrapbook",
+        "url": "https://open.spotify.com/album/5xPATnz095EGUQlY41wYxj"
+      },
+      "artists": [
+        {
+          "name": "Milk In The Microwave",
+          "url": "https://open.spotify.com/artist/2Gt30Dr76JrHbGnBf4K9e0"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111203,
+      "name": "No Good At Being You",
+      "url": "https://open.spotify.com/track/2J5BiYSzg60WnwLCjszy8R"
     },
     {
       "album": {
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/0RXYf3jDojoao1FiOh9QzT"

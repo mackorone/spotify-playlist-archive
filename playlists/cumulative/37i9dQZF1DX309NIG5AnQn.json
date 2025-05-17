@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 reybruja.",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 El Club Audiovisual.",
   "name": "el under",
   "tracks": [
     {
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 214738,
       "name": "Bitcha",
       "url": "https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 164678,
       "name": "ciudad de las luces",
       "url": "https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5"
@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "el mundo no es solo para mi",
+        "url": "https://open.spotify.com/album/52rxJlFl1VLjLjo7EwAqdy"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250218,
+      "name": "el mundo no es solo para mi",
+      "url": "https://open.spotify.com/track/78QdT3eHCpgXOaHKgv99Ob"
+    },
+    {
+      "album": {
         "name": "Los Movimientos",
         "url": "https://open.spotify.com/album/7KgdvgQmOCuasSXfnjolgp"
       },
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 201193,
       "name": "Imaginaci\u00f3n",
       "url": "https://open.spotify.com/track/3VJSyskDmUm115nQaDhlHr"
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 171294,
       "name": "Pagando de M\u00e1s",
       "url": "https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G"
@@ -3610,7 +3628,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 208689,
       "name": "Promesa",
       "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
@@ -4184,7 +4202,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 154548,
       "name": "TKM",
       "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
@@ -4794,7 +4812,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 244549,
       "name": "\u00daltima fuerza",
       "url": "https://open.spotify.com/track/3cbjpIGLyADDB0GYF3Ru41"

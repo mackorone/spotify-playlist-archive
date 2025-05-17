@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: FouKi
+> Le meilleur du hip\-hop québécois\. Photo: Aswell
 
-801 songs - 1 day 16 hr 50 min
+803 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Elle est bonne](https://open.spotify.com/track/1NY5sirmSCfQ7w8eIwQ6nB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence Complice](https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB) | 2:59 | 2025-01-24 |  |
 | [Emballer](https://open.spotify.com/track/0eOFvt23wFrXi7j6QH9lgz) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/5vShKF0bNg1VzgeN62B8N9) | 2:12 | 2023-10-13 | 2023-10-28 |
 | [Emballer](https://open.spotify.com/track/5Rp7AIHzkQP9nLty6EwHuK) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/1QH9NmcW4ZKxZ5QfFeFqls) | 2:12 | 2023-09-01 | 2023-10-15 |
+| [En Demande](https://open.spotify.com/track/6yGdLOahF39Dvgf8Zvkrbz) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [On Reste Actif](https://open.spotify.com/album/2S7jfIOKQccTaJxPEF7ifI) | 3:00 | 2025-05-16 |  |
 | [Encore](https://open.spotify.com/track/3oYKep8bmqWwIfZ7iszfCJ) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Liaison toxique \(Deluxe\)](https://open.spotify.com/album/1qc9g3w4JbQysmxcPpQH9O) | 2:14 | 2025-02-21 |  |
 | [Ensemble](https://open.spotify.com/track/4HS91pybkuw7ulhC7xMvVv) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [ISMA](https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy) | [Ensemble](https://open.spotify.com/album/6Njbud4EL5e04yUVWzDjxt) | 4:37 | 2023-04-14 | 2023-05-13 |
 | [Ensemble](https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [ISMA](https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy) | [Le pouvoir de l'esprit est infini](https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm) | 4:37 | 2023-11-03 | 2023-11-13 |
@@ -646,6 +647,7 @@
 | [Rien de moins](https://open.spotify.com/track/5o2DRtfBYlufpEgKrVJewh) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Rien de moins](https://open.spotify.com/album/29zusoGlreGGCT2f5wrjUG) | 2:54 | 2022-03-18 | 2022-05-20 |
 | [Rien m'faire](https://open.spotify.com/track/5mai2Bwht380oISASmMx3T) | [Psycadelick](https://open.spotify.com/artist/1HqB7rrPzpiqR9OMNKfZdE) | [Psyca](https://open.spotify.com/album/2oV3EZpq7eI8BgSAIg4XUU) | 3:08 | 2024-07-05 | 2024-07-27 |
 | [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 | 2023-10-21 |
+| [Right Now](https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Right Now](https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP) | 2:06 | 2025-05-16 |  |
 | [Ring 3x](https://open.spotify.com/track/6w8joIVK7Bh4vD3QFq0959) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Ring 3x](https://open.spotify.com/album/16SrMJEC3LX9OJ3xZTbNCG) | 2:44 | 2022-09-02 | 2022-10-01 |
 | [RING RING](https://open.spotify.com/track/6Ya5EWkJfiCdwzEnl2K1kk) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_ROSE](https://open.spotify.com/album/58fzZ8IZk3JZbxKcVeUZbk) | 2:08 | 2023-09-15 | 2024-02-03 |
 | [RIP](https://open.spotify.com/track/6He8QwtREiMFmux0bAYfA8) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [RIP](https://open.spotify.com/album/2eYcNSEp94k1ds6zLEVY7K) | 3:19 | 2024-07-12 | 2024-11-02 |
@@ -745,7 +747,7 @@
 | [Triomphal](https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:47 | 2022-11-25 | 2023-07-01 |
 | [Triomphe](https://open.spotify.com/track/4PaVygkVBqsBEu8BTfvhDp) | [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [Triomphe](https://open.spotify.com/album/2ApDsFVuNCll7S4bEQMA7C) | 4:04 | 2022-04-15 | 2022-09-17 |
 | [TRISTE & CÉLÈBRE](https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [MAELSTRÖM](https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl) | 1:48 | 2023-12-08 | 2024-07-06 |
-| [TRISTEMENT CELEBRE](https://open.spotify.com/track/6f0xePbra1IWDyl8L8Bet1) | [VT](https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m) | [TRISTEMENT CELEBRE](https://open.spotify.com/album/4KgH18uGIXHg9VnSJWnJMQ) | 2:06 | 2024-05-10 |  |
+| [TRISTEMENT CELEBRE](https://open.spotify.com/track/6f0xePbra1IWDyl8L8Bet1) | [VT](https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m) | [TRISTEMENT CELEBRE](https://open.spotify.com/album/4KgH18uGIXHg9VnSJWnJMQ) | 2:06 | 2024-05-10 | 2025-05-17 |
 | [Trois](https://open.spotify.com/track/7FifBy3Tu7kxliPg331kLA) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [Trois](https://open.spotify.com/album/3sn6a1BXHm5LlNgn2H3hAk) | 3:06 | 2022-06-17 | 2022-11-26 |
 | [Trop jeune](https://open.spotify.com/track/08ZC8YF01wYfrRSo441VrW) | [Véda](https://open.spotify.com/artist/10fGKWTRU4oFbQG0sWPVHi) | [Mon boy](https://open.spotify.com/album/3GrwegDfPCjoMqUIRhzuOc) | 3:01 | 2023-09-22 | 2023-10-07 |
 | [Trop Réel](https://open.spotify.com/track/78zunLxJTz1sXq1mylIzga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Trop Réel](https://open.spotify.com/album/0TjcDuoKWMVGAzXICb0HnV) | 3:17 | 2025-03-28 | 2025-04-26 |
@@ -778,7 +780,7 @@
 | [Voleur d'esprit](https://open.spotify.com/track/0joPetCA1uEmgBzkBjRVDQ) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Voleur d'esprit](https://open.spotify.com/album/6bQOhjFmY4mPuX7S9X0hvy) | 2:57 | 2022-12-16 | 2023-05-20 |
 | [W](https://open.spotify.com/track/6cbiCNGJMkrpfN7Z95L9N1) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Soin Entreprise \(Vol\. 2\)](https://open.spotify.com/album/2pEpWeQlYb7cATfoEkvQC1) | 3:24 | 2025-01-31 |  |
 | [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 | 2023-03-31 | 2024-01-27 |
-| [Wanna Be](https://open.spotify.com/track/0H4uJtgFfsLeocd2Id9Jtd) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Wanna Be](https://open.spotify.com/album/0ll1f0HbpiTamGTSuS9PHc) | 1:57 | 2025-04-11 |  |
+| [Wanna Be](https://open.spotify.com/track/0H4uJtgFfsLeocd2Id9Jtd) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Wanna Be](https://open.spotify.com/album/0ll1f0HbpiTamGTSuS9PHc) | 1:57 | 2025-04-11 | 2025-05-17 |
 | [Wasabi](https://open.spotify.com/track/5OXFw7wT8P6Su13CoYVRSf) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL), [La Monarque](https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3) | [Wasabi](https://open.spotify.com/album/4casJwyDPUWXpz7P576z5X) | 3:07 | 2024-01-26 | 2024-03-02 |
 | [Way Too Long](https://open.spotify.com/track/41qIdX2jey1hepYUcNu3m7) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Pleure pas ma Fille, sinon Maman va pleurer](https://open.spotify.com/album/3jUTNTAhTvFbKnMBc8yQPy) | 3:03 | 2024-12-04 | 2025-01-11 |
 | [Way Too Long](https://open.spotify.com/track/7Iz74b76qfdNOBOyVegHv2) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Way Too Long](https://open.spotify.com/album/1mby3xq3SFGEeTSojPrsVH) | 3:03 | 2024-05-31 | 2024-09-14 |

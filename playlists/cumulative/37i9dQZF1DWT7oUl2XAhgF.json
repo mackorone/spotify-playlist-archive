@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
+  "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
   "name": "Retro Soul",
   "tracks": [
     {
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 185302,
       "name": "Don't Like You Anymore",
       "url": "https://open.spotify.com/track/5BzJfr2NjusEUbM9QYFsz0"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -5123,6 +5123,28 @@
     },
     {
       "album": {
+        "name": "You Had Your Chance... Bad Attitude!",
+        "url": "https://open.spotify.com/album/5xVj3HpB047Vppiwx92ncZ"
+      },
+      "artists": [
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195342,
+      "name": "Mama I Really Love You",
+      "url": "https://open.spotify.com/track/7bWe4daPY3z357WjP6Xu7p"
+    },
+    {
+      "album": {
         "name": "MARY - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C"
       },
@@ -6356,6 +6378,24 @@
       "duration_ms": 171297,
       "name": "Reason",
       "url": "https://open.spotify.com/track/5llqfBYCRsB72DQACu5dpC"
+    },
+    {
+      "album": {
+        "name": "Reasons To Stay",
+        "url": "https://open.spotify.com/album/66tOv5HJVitbCHEq52WTks"
+      },
+      "artists": [
+        {
+          "name": "Tanika Charles",
+          "url": "https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216293,
+      "name": "Reasons To Stay",
+      "url": "https://open.spotify.com/track/1wcjZRnXu86UIWh0tPY5xd"
     },
     {
       "album": {
@@ -8914,6 +8954,24 @@
       "duration_ms": 190820,
       "name": "Way You Shine",
       "url": "https://open.spotify.com/track/5RlgjfMCs8KW0AtkqRvyZM"
+    },
+    {
+      "album": {
+        "name": "We Don't Have to Be Alone",
+        "url": "https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166436,
+      "name": "We Don't Have to Be Alone",
+      "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
     },
     {
       "album": {

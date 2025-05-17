@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 
 > Bienvenidos a Aerolinas CuatroVeinte estamos listos para despegar 💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,868 likes - 59 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,865 likes - 59 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 | 19 | [Don Quijote Marihuana](https://open.spotify.com/track/6Xn9nL00DDLBjH828A6kjX) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Don Quijote Marihuana](https://open.spotify.com/album/291EdpOOlMU2htCxHirMuJ) | 4:41 |
 | 20 | [Weed Song](https://open.spotify.com/track/4gLro52WoEK40Y7CZn6mIK) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [BTNHRESURRECTION](https://open.spotify.com/album/4d9hVjMEIOU2Gi50ng26O6) | 4:09 |
 | 21 | [Aquí Nos Vale](https://open.spotify.com/track/2hUdyJze7ZqHmpnu6qYRwg) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:07 |
-| 22 | [El Loqueron \- Parte 1](https://open.spotify.com/track/2ULk9vqVHyuj0ZXmL3Fzu6) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:08 |
+| 22 | [El Loqueron \- Parte 1](https://open.spotify.com/track/2ULk9vqVHyuj0ZXmL3Fzu6) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Yayo](https://open.spotify.com/artist/1hkeLW0oWDwSTVTiwL2sTA) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:08 |
 | 23 | [El Surtidor](https://open.spotify.com/track/5xg13O3DJH6vQ5nuKojyRl) | [The Psycho Realm](https://open.spotify.com/artist/3WelTIRY2ET1Xhze34RVG9) | [The Show](https://open.spotify.com/album/01ZNYMg9QN3xqiv2eTkTDA) | 3:42 |
 | 24 | [Valentía](https://open.spotify.com/track/2DYc8qqiHlQ6JNGWrojldA) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [Marina P](https://open.spotify.com/artist/56yITwbimLLYB5gPSwxTRK), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0) | [Valentía](https://open.spotify.com/album/4ZFeqCxgaDJ7TQVAGMDaAY) | 3:31 |
 | 25 | [NADA QUE TEMER](https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg) | [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [L'Xuasma](https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO) | [NADA QUE TEMER](https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ) | 2:46 |

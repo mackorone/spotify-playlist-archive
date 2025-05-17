@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Little Richard
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,758 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,796 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 9 | [Good Rocking Tonight](https://open.spotify.com/track/29D3AG8rhX2OSWg8k9GIII) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Boogie Woogie Blues](https://open.spotify.com/album/5q7R4Xt2dh7oiIWLbeJTq4) | 3:34 |
 | 10 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 |
 | 11 | [Jim Dandy](https://open.spotify.com/track/4WNEDjXbuCWnceZPOEkf0S) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [LaVern Baker](https://open.spotify.com/album/4Wg7zulZEKDPrHvQJWOHLc) | 2:10 |
-| 12 | [We're Gonna Rock\. We're Gonna Roll](https://open.spotify.com/track/5Gy61MmcWGceYkamBwxGqr) | [Wild Bill Moore](https://open.spotify.com/artist/6qVDOKAgcvJ5YQcjQhlf4a) | [Still Stompin' at the Savoy](https://open.spotify.com/album/51hmJbrX2UCEE1leO9FXxH) | 2:37 |
+| 12 | [We're Gonna Rock\. We're Gonna Roll](https://open.spotify.com/track/5Gy61MmcWGceYkamBwxGqr) | [Wild Bill Moore](https://open.spotify.com/artist/18LsB6IfbVM4pNSFWnHiDr) | [Still Stompin' at the Savoy](https://open.spotify.com/album/51hmJbrX2UCEE1leO9FXxH) | 2:37 |
 | 13 | [Robbie\-Doby Boogie](https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Greatest Country Blues](https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B) | 2:22 |
 | 14 | [She Knocks Me Out \(Master\)](https://open.spotify.com/track/20FacjwdyVBtI7AuKgov5R) | [Harold Burrage](https://open.spotify.com/artist/21XSS3GkVX88nFHdTIpuGa) | [Messed Up! The Cobra Recordings 1956\-1958](https://open.spotify.com/album/3kVFweslzBULC6Do0cJ2kp) | 2:16 |
 | 15 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |

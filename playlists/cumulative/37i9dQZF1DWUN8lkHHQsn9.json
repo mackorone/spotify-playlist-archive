@@ -1385,6 +1385,28 @@
     },
     {
       "album": {
+        "name": "Ev'ry Night",
+        "url": "https://open.spotify.com/album/5Hb8QsA9KoSHldzoMXUEhC"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        },
+        {
+          "name": "Mandaryna",
+          "url": "https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181960,
+      "name": "Ev'ry Night",
+      "url": "https://open.spotify.com/track/2VxjKjDNgVBElx8mSc4QZ4"
+    },
+    {
+      "album": {
         "name": "Magister",
         "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
       },
@@ -4958,7 +4980,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 262014,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"

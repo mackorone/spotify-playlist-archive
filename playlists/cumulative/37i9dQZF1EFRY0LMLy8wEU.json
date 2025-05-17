@@ -31,6 +31,32 @@
     },
     {
       "album": {
+        "name": "Another Wave",
+        "url": "https://open.spotify.com/album/0PiqJklE02I7jglXlhQWk3"
+      },
+      "artists": [
+        {
+          "name": "Lindy Conant-Cofer",
+          "url": "https://open.spotify.com/artist/1JfPWFDQ3K09D6LrGdIqbq"
+        },
+        {
+          "name": "The Circuit Riders",
+          "url": "https://open.spotify.com/artist/0xplBp0QIAn9GdSbHUmxFN"
+        },
+        {
+          "name": "Chloe Brennt",
+          "url": "https://open.spotify.com/artist/1EUzuJssmYh7q86FIx20L4"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413918,
+      "name": "Another Wave (Live)",
+      "url": "https://open.spotify.com/track/7jKM0SeFU7tn6KnC2ZkBzf"
+    },
+    {
+      "album": {
         "name": "Every Nation (Live)",
         "url": "https://open.spotify.com/album/0ypMDJZ7SxjaFnY17OEoSx"
       },
@@ -50,7 +76,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 413904,
       "name": "Another Wave - Live",
       "url": "https://open.spotify.com/track/2GEK9vFWwJglFbWL51S5T6"

@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 忒修斯 \(Theseus\)
 
-2,181 songs - 5 day 6 hr 58 min
+2,183 songs - 5 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Okay Okay](https://open.spotify.com/track/5m9ZADlyxQLssC82203cXi) | [O.Dkizzya](https://open.spotify.com/artist/4cHSZs664sR3WPBFAevIHN) | [Okay Okay](https://open.spotify.com/album/6cayJAQVywFaGEnrTJp70F) | 2:19 | 2024-07-25 | 2024-08-16 |
 | [OMAKASE](https://open.spotify.com/track/6iFYfdmEYpDced5Hbxtk80) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [OMAKASE](https://open.spotify.com/album/0rHkkL2RhrwVnzbt0fTz2T) | 3:01 | 2024-09-19 | 2024-10-04 |
 | [On the Road](https://open.spotify.com/track/0TqSGXCYd5DlKHmwzxhEti) | [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2) | [On the Road](https://open.spotify.com/album/0MUGuF7mRCXP7QnsJbT3Yb) | 1:31 | 2024-10-31 | 2024-12-13 |
+| [On the Road](https://open.spotify.com/track/29F9tmqkdNyFx9X7pfN6sh) | [Eiva 林麗謙](https://open.spotify.com/artist/568BSqN29OrH6UNmGDnvKj), [溫勝和 SIN](https://open.spotify.com/artist/2qwwXErqdMpunlCO1gGwmR) | [On the Road](https://open.spotify.com/album/2E6tfBlGtmZjjf1udixMid) | 5:28 | 2025-05-15 |  |
 | [One](https://open.spotify.com/track/1YhNadabhSa2TIaM5uEPN9) | [CØZY](https://open.spotify.com/artist/1WrNLZeznXRwf1cOJkN2ma) | [One](https://open.spotify.com/album/7ngmIpheGs1hseClL797Ta) | 3:15 | 2024-11-21 | 2024-12-20 |
 | [One Hour \- 電視劇《成功路上》插曲](https://open.spotify.com/track/74apUuabRBxw6utDvm9e0H) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [One Hour \(電視劇《成功路上》插曲\)](https://open.spotify.com/album/4iKcz2G5o6If5elkMfDGq5) | 2:32 | 2025-05-08 |  |
 | [One in The Million \(feat\. Jimmy Brown & DWAYNE\)](https://open.spotify.com/track/6QA6PZDxedi5GYC4ZPLQJe) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [DWAYNE](https://open.spotify.com/artist/7GzejxDLth2upJf30ZipRp) | [WHAT'S UP WHAT'S GOOD Vol.1](https://open.spotify.com/album/4ZFZpN3WSf2ai8gpmgDl6F) | 2:32 | 2025-01-02 | 2025-01-24 |
@@ -1312,6 +1313,7 @@
 | [我以為宇宙跟我說好了](https://open.spotify.com/track/5PP8fzBEsKqplYN9OL7m7u) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [我以為宇宙跟我說好了](https://open.spotify.com/album/4m2OGdbKYgRHQO3AVs6Yq9) | 4:10 | 2024-11-21 | 2024-12-13 |
 | [我们不都还是人](https://open.spotify.com/track/1L2ojMpzFSEJQ2MQrsvvVp) | [Eevone](https://open.spotify.com/artist/5NJJStMLtyc5gj5ZvyBIAN) | [我们不都还是人](https://open.spotify.com/album/2KzECSyK8EpzxBvtA0VMuO) | 3:20 | 2024-08-29 | 2024-09-20 |
 | [我來過](https://open.spotify.com/track/31zS65d6ECdSGkD8BHmEik) | [Waven](https://open.spotify.com/artist/2D0JXq5q1JaPwd68uiMFl0), [emut](https://open.spotify.com/artist/2DRHrS8ow8oqwMKFfyC1wZ) | [我來過](https://open.spotify.com/album/42bSOJaud3JMwH0TluBnLV) | 3:41 | 2025-02-06 | 2025-03-07 |
+| [我們不應該](https://open.spotify.com/track/49dQuTKnrsf0f8LSxUP29J) | [Sana Yu](https://open.spotify.com/artist/2YfxlWDLYLUCbLYpnnGoof) | [我們不應該](https://open.spotify.com/album/4VuKrERDO84Gt7TFzuzWv1) | 4:16 | 2025-05-15 |  |
 | [我們不需要忍耐](https://open.spotify.com/track/0Kyb5gqigj373Euk3Na5hC) | [Traveller旅人](https://open.spotify.com/artist/1FZr7h9QbCHWkWsMm6pYH9) | [殘破的人生](https://open.spotify.com/album/7zOfvCjGnY095hNlSjr5zt) | 4:08 | 2024-07-11 | 2024-08-02 |
 | [我們之間沒有愛了吧](https://open.spotify.com/track/31IIw4oon1e2k8WISal6gM) | [蛋蛋EGgskriiXX](https://open.spotify.com/artist/0p5VtjGvBI3po0JgVU68Tk), [GEKYUMENOSAD‪](https://open.spotify.com/artist/5ZQlTOFLvfRFfHHR4aFlWF) | [我們之間沒有愛了吧](https://open.spotify.com/album/2jaTgNq1DpIUc4s5FmGGhz) | 2:41 | 2024-07-18 | 2024-07-27 |
 | [我們有多不快樂](https://open.spotify.com/track/23R8OYYHeI7bZ8D9AdWllx) | [Lin Si Tong](https://open.spotify.com/artist/1FXhxn9AhnOPufmvvu7qGc) | [我們有多不快樂](https://open.spotify.com/album/2jqw7P6PGueXTEGSEbLjeo) | 4:16 | 2025-04-24 | 2025-05-16 |

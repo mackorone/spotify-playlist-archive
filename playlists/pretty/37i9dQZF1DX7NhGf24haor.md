@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Sub Zero Project & Rebelion
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,727 likes - 105 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,057 likes - 105 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 64 | [Beyond the Light \- Radio Edit](https://open.spotify.com/track/3M6e8XQzUEKZx8aChW6ip8) | [Dypression](https://open.spotify.com/artist/1VqAzNHvB2zNtXCgnEsTkJ), [Anklebreaker](https://open.spotify.com/artist/33SlSV9Phemrs59SmjA2QC) | [Beyond the Light \(Radio Edit\)](https://open.spotify.com/album/4OiJORPadJlFWm8NtZ2KhL) | 2:46 |
 | 65 | [Like A Bitch](https://open.spotify.com/track/38g2OfneomEog25tsXHDHX) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx), [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg) | [Like A Bitch](https://open.spotify.com/album/4GTbz3WgJvTzry8k4RvIlu) | 2:41 |
 | 66 | [Higher](https://open.spotify.com/track/0OimFKahMR1inr2Wl07T4P) | [Digital Madness](https://open.spotify.com/artist/5G1EFKlxqENrQJnQ1sWKzl) | [Higher](https://open.spotify.com/album/1RumGy0vd7wfgEc5LGd0Hs) | 2:43 |
-| 67 | [Neon Lights](https://open.spotify.com/track/1iTU4hiFF1wxV2Qq7zyZW8) | [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [SONJA](https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs) | [Neon Lights](https://open.spotify.com/album/2PyWEgDZQDKnSu0JyKIfqg) | 2:58 |
+| 67 | [Neon Lights](https://open.spotify.com/track/1iTU4hiFF1wxV2Qq7zyZW8) | [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [SONJA](https://open.spotify.com/artist/6k04WEQYLa2ugo2pCYrd4s) | [Neon Lights](https://open.spotify.com/album/2PyWEgDZQDKnSu0JyKIfqg) | 2:58 |
 | 68 | [FEEL THAT SOUND](https://open.spotify.com/track/73Yqlqt6cSLsDdzOr47Ext) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [FEEL THAT SOUND](https://open.spotify.com/album/6D9fZrKd5lExclQIVEzPvX) | 2:17 |
 | 69 | [Follow My Rules](https://open.spotify.com/track/19ruNXxtHxO5PSBBz3erYS) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Follow My Rules](https://open.spotify.com/album/5bnB5EVj5sNo30dLPwwDxB) | 2:15 |
 | 70 | [Top Of The World](https://open.spotify.com/track/1Bqj5mEyA7Cse0eoku4LQt) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [Kye Sones](https://open.spotify.com/artist/5nF0tVCTlrhdEqM09GyOZn) | [Top Of The World \(feat\. Kye Sones\)](https://open.spotify.com/album/1Y4S6AOBZG2jEE2u09cnTa) | 2:50 |

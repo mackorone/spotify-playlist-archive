@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: fyne
 
-1,209 songs - 2 day 9 hr 9 min
+1,211 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Fürdichwürdich](https://open.spotify.com/track/2N5okxps0l2aLu01uWYE0H) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Für immer temporär](https://open.spotify.com/album/6cMHp64TomRwVrEJHIMJmd) | 2:12 | 2023-08-31 | 2024-02-16 |
 | [Gaga Baby](https://open.spotify.com/track/5pAZ7fEX5vA9IACYGDHFA8) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Gaga Baby](https://open.spotify.com/album/5TO2MJSSuOZXqIQxevLhZA) | 2:29 | 2023-08-10 | 2023-09-29 |
 | [Galaxis](https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [EKSTASE](https://open.spotify.com/album/7qn6KrafYuBOj2bgn4FXvM) | 2:55 | 2024-01-25 | 2024-03-01 |
+| [Ganze Torte Scham.](https://open.spotify.com/track/2uisMGIBZpJL2C2pOSc8xS) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Ganze Torte Scham.](https://open.spotify.com/album/0d1xzAzshldEtUYw73hR0p) | 2:41 | 2025-05-16 |  |
 | [gasleuchte](https://open.spotify.com/track/4cpxlpWGIvesl4sYRN8Re5) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [gasleuchte](https://open.spotify.com/album/1oHqWFUUY67rj9WvRhcFHP) | 2:56 | 2024-07-18 | 2024-10-18 |
 | [Gefunden \(Outro\)](https://open.spotify.com/track/2fqoejpJIs9us6pzXT38zl) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Gefunden \(Outro\)](https://open.spotify.com/album/1ypdsnWnNIijJUUr0Lctu7) | 2:23 | 2024-07-04 | 2024-07-19 |
 | [Gegengift](https://open.spotify.com/track/3dMU77BXGfEJ9EAzOLa0Mn) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Gegengift](https://open.spotify.com/album/4DNBrTSJjkXNbZWbbw3Xp5) | 2:47 | 2024-05-23 | 2024-06-14 |
@@ -419,6 +420,7 @@
 | [Geisterfahrt](https://open.spotify.com/track/5jr0CVRzBNct2PuHKPN9mN) | [Sam James](https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy) | [Geisterfahrt](https://open.spotify.com/album/6B0MZzJvTTeRjGNKMNMENb) | 2:10 | 2023-11-16 | 2023-12-01 |
 | [Gekreuzte Finger](https://open.spotify.com/track/3qLNG3UvIe2G3DQ0XGMeEY) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Insomnia](https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6) | 2:50 | 2023-03-16 | 2023-09-22 |
 | [Gelangweilt](https://open.spotify.com/track/2KEMkFSPFldGv8zBK2wTjt) | [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM) | [Gelangweilt](https://open.spotify.com/album/5sVv4D12RA2PxmnYd85OGi) | 3:08 | 2023-08-24 | 2023-09-15 |
+| [Geld](https://open.spotify.com/track/0IW1q8WdeZCxlL9SH0xrAz) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Geld](https://open.spotify.com/album/1mAReuQiTur46WBDG4e5s0) | 3:02 | 2025-05-16 |  |
 | [genug](https://open.spotify.com/track/6yYqmnTk6kCYUNNexHzRJ0) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [genug](https://open.spotify.com/album/07dyzBlmJNUTo2lneNuriJ) | 3:42 | 2023-02-02 | 2023-03-10 |
 | [Genug](https://open.spotify.com/track/75uNUFBi9YnNGhIX2nyIxA) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Genug](https://open.spotify.com/album/1TO4mrBv3ZocDgZs31LDlL) | 2:22 | 2023-07-06 | 2023-09-15 |
 | [Gepäckträger](https://open.spotify.com/track/6giLl2EnhBmbDQjiJrav49) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Gepäckträger](https://open.spotify.com/album/2CtUfGY2aIn2pquv1XLNpH) | 2:35 | 2023-07-06 | 2023-09-01 |
@@ -597,7 +599,7 @@
 | [Kippe](https://open.spotify.com/track/2sGo9dFNIxXsNktL1pvM7s) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Kippe](https://open.spotify.com/album/6zlZKGfrubfGewJU8pD7fk) | 2:39 | 2023-02-13 | 2023-02-15 |
 | [Kippen](https://open.spotify.com/track/1az2EVNCFdaWGv1JkgMjon) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [Kippen](https://open.spotify.com/album/0OgTLSzX75m4jENpfVTrnV) | 3:37 | 2024-11-07 | 2024-12-06 |
 | [Klar kann ich woanders traurig sein](https://open.spotify.com/track/1lB9Tb8ILD85CnxpwqrIbA) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm), [Taby Pilgrim](https://open.spotify.com/artist/6oS2OIN8AtdBOenF1bm2eI) | [Manic Pixie Dream Boy, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/5JSOwrVEdgJUJ38hTXznHL) | 2:27 | 2023-02-02 | 2023-06-16 |
-| [Klassenclown](https://open.spotify.com/track/7Fat8n13etCQ0Otdtuukiq) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Klassenclown](https://open.spotify.com/album/4r4pOnl70iEX4cLHaai067) | 1:56 | 2025-04-17 |  |
+| [Klassenclown](https://open.spotify.com/track/7Fat8n13etCQ0Otdtuukiq) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Klassenclown](https://open.spotify.com/album/4r4pOnl70iEX4cLHaai067) | 1:56 | 2025-04-17 | 2025-05-17 |
 | [Klebeband](https://open.spotify.com/track/3gEVtnKEfvj4mIbJE997qG) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS) | [Klebeband](https://open.spotify.com/album/0qCHezO2pxTOQNvKYONvhr) | 2:24 | 2024-11-07 | 2024-11-22 |
 | [kleine freche jungs](https://open.spotify.com/track/42mmXr8GuWAVx2jTxR7LTs) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kleine freche jungs](https://open.spotify.com/album/6WZM7zE4uKKCbxtosgrC9G) | 1:58 | 2025-01-30 | 2025-02-28 |
 | [Kleine Liebesgeschichte](https://open.spotify.com/track/5jsfiJZadojaLepCtYKoLv) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [Kleine Liebesgeschichte](https://open.spotify.com/album/41OI9xuXakuMlK04JT6vzu) | 2:28 | 2024-08-22 | 2024-09-06 |

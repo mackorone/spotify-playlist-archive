@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-617 songs - 1 day 18 hr 9 min
+619 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Abide](https://open.spotify.com/track/3sxGCOWEmIjANsv1xvynN7) | [minco eggersman](https://open.spotify.com/artist/2iWoQ1sXZrTGHb4FcMxz93), [Theodoor Borger](https://open.spotify.com/artist/3SAolv7NXrrWp6LHhdIwWm), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N), [UNIFONY](https://open.spotify.com/artist/7hy5ihiZ9aijrDdlF9Utc9) | [Abide](https://open.spotify.com/album/7d8l4p9vPp8rexEpqDfnYu) | 4:40 | 2021-01-16 | 2022-06-30 |
 | [Above \- composed as the score to a Matthias Koenigswieser photograph](https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm) | [Slow Shiver](https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl), [Valente Bertelli](https://open.spotify.com/artist/7kbDeufcUnqAmbShMeEnAC) | [Above \(composed as the score to a Matthias Koenigswieser photograph\)](https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7) | 2:07 | 2021-11-10 |  |
 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 | 2022-03-14 |  |
+| [Adrift](https://open.spotify.com/track/27tGyDDI8wCogLgQahP16g) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Adrift](https://open.spotify.com/album/5P7Ya8ZFwgDwvHjHyKmfZO) | 3:39 | 2025-05-16 |  |
 | [Ae Fond Kiss](https://open.spotify.com/track/38mXFnlp9LSFKx7wZcnsJF) | [Trad\. arr\. Mhairi Hall](https://open.spotify.com/artist/3kcnHRIJVuqGHete5dwvkL), [Mhairi Hall](https://open.spotify.com/artist/7rUCuF3Bcy29nwnnX1xAuf) | [Ae Fond Kiss](https://open.spotify.com/album/2jwLmcOympsOwp9ai4PuEx) | 3:39 | 2021-02-13 |  |
 | [Afterglow 1](https://open.spotify.com/track/0xyHUTjskuVNDfjBlFw8FS) | [Tom Adams](https://open.spotify.com/artist/16iuZANRzcO9KStBcMkeAC) | [Golden Waves](https://open.spotify.com/album/79J3trGmuxnwmkvgGC6LT6) | 2:32 | 2024-05-10 | 2024-12-13 |
 | [Agape](https://open.spotify.com/track/0EftQZBNBfwAqVRtMi3ZWs) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [Agape](https://open.spotify.com/album/2sAxo94o1LjFvb5FqGxgML) | 5:06 | 2021-12-10 |  |
@@ -269,6 +270,7 @@
 | [I Am at Home \- Edit](https://open.spotify.com/track/6b1rOz6b2jFd0FECz1JcLe) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [I Am at Home](https://open.spotify.com/album/7HvzyuwD2g5JdrfwNGXD7f) | 4:53 | 2024-04-12 | 2024-11-19 |
 | [I'll see you in 21 days](https://open.spotify.com/track/4UZC44nlpBIznBrAUKQGgl) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [I'll see you in 21 days](https://open.spotify.com/album/6JQWU4rb25aKO5HuKsWdXi) | 3:50 | 2021-01-17 |  |
 | [Icaro \- Remix](https://open.spotify.com/track/0XgTdKdvDqkfSIfGnBADNw) | [Bryan Senti](https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Icaro \(Remix\)](https://open.spotify.com/album/0vLsnNQI3KcX5xvdKeTAuU) | 5:48 | 2024-11-20 |  |
+| [Idea 22](https://open.spotify.com/track/18OvVTXtC3lx1Iym9E0RyT) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 22](https://open.spotify.com/album/2szFL2Ml8VtzkX0fhHrfin) | 2:32 | 2025-05-16 |  |
 | [Ikivirta](https://open.spotify.com/track/2id0bX3z3FkzWLDbb2NRLU) | [Sarah Palu](https://open.spotify.com/artist/2Jegfk3a6VCBFVSl325FLO) | [Ikivirta](https://open.spotify.com/album/0unvuC1MRxEBhXR5yQo9Ir) | 6:27 | 2020-10-20\* | 2022-04-17 |
 | [Illusion Of Time \- Teodor Wolgers Rework](https://open.spotify.com/track/6uZ7HlryD5c0IU65ANbaj2) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Illusion Of Time \(Teodor Wolgers Rework\)](https://open.spotify.com/album/0yF4JzJ0a96qaWLLhE9zcp) | 3:35 | 2021-02-19 | 2025-03-20 |
 | [Impression, Skyline](https://open.spotify.com/track/3F4unb6FxZuMV78D3t3Yb9) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Impression, Skyline](https://open.spotify.com/album/53AXZR0XL1gMBU08OoumdL) | 3:41 | 2024-11-20 |  |

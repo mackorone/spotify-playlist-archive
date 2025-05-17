@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,488 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,487 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -601,7 +601,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 591 | [Understand](https://open.spotify.com/track/1D78aJ7IVsuzfpchgsdxC9) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Dawn Chorus](https://open.spotify.com/album/6xmfdlHXYA8yZgmj1Fk1x4) | 2:50 |
 | 592 | [Waifu Riddim](https://open.spotify.com/track/7EbYWoZMjEtnfsMXg2ij3Q) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [S1N](https://open.spotify.com/album/0aKPXTtja8z9K2uExpGU6R) | 2:00 |
 | 593 | [Xe3](https://open.spotify.com/track/1hmwBh0zftM6KNB2XWlTCt) | [Mssingno](https://open.spotify.com/artist/7iNWihBrDST1H86nEeFY9W) | [MssingNo EP](https://open.spotify.com/album/04HuEqi5DjeHmOhFiBGZDS) | 3:02 |
-| 594 | [Perfume Persuasion](https://open.spotify.com/track/7pYAoEPz0F5uz9vQckMv1M) | [ERP](https://open.spotify.com/artist/2UGxYjapauF1Bru27j88n0) | [Vox Automaton](https://open.spotify.com/album/0udaRzPHuqAjMJ3XDxmSFL) | 6:33 |
+| 594 | [Perfume Persuasion](https://open.spotify.com/track/7pYAoEPz0F5uz9vQckMv1M) | [E.R.P.](https://open.spotify.com/artist/3vcvk3KEYLtJzXzFINzMDv) | [Vox Automaton](https://open.spotify.com/album/0udaRzPHuqAjMJ3XDxmSFL) | 6:33 |
 | 595 | [The Andor Voyage](https://open.spotify.com/track/0fptOCFVTyBk2iWGsOYFyD) | [Metro Dade](https://open.spotify.com/artist/5iiBeSwBmXoIuWJb1LtE3U) | [The Andor Voyage](https://open.spotify.com/album/0qpF0mr11XrNdiXpdZ0QcK) | 9:25 |
 | 596 | [Those Friday Evenings...](https://open.spotify.com/track/3ohkLYVYxmqoLMuv8BOPVF) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:21 |
 | 597 | [Chihiro](https://open.spotify.com/track/2JG2RT8gw7gsgSMI3J8SyZ) | [Tominori Hosoya](https://open.spotify.com/artist/1kfhdYvXxGklGV1EZLNkjV) | [Mélange](https://open.spotify.com/album/3pk1iKTolMp105SZP1UIZS) | 6:30 |

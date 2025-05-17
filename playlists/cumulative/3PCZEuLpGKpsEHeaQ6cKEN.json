@@ -3393,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "C C C",
+        "url": "https://open.spotify.com/album/4LxaKUWOsO7I15CMN0wVxC"
+      },
+      "artists": [
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "C C C",
+      "url": "https://open.spotify.com/track/2SXLCcrH227dQ1ffi7PbnH"
+    },
+    {
+      "album": {
         "name": "California Child",
         "url": "https://open.spotify.com/album/1sPO8E1aQCOc3rOl2KTgB9"
       },

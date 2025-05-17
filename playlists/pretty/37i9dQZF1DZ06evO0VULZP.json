@@ -1,12 +1,12 @@
 {
   "description": "This is Descendents. The essential tracks, all in one playlist.",
-  "num_followers": 20758,
+  "num_followers": 20763,
   "original_name": "This Is Descendents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCPdAAAAAABbEpgyn3FuO18SrE5zMxoL",
+  "snapshot_id": "aCUugAAAAAA5INZooq/P0T+FizCKQF5B",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Merican",
-        "url": "https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD"
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 223573,
-      "name": "Here with Me",
-      "url": "https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl"
+      "duration_ms": 237840,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
+        "name": "'Merican",
+        "url": "https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 237840,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
+      "duration_ms": 223573,
+      "name": "Here with Me",
+      "url": "https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
       "duration_ms": 56958,
       "name": "Like the Way I Know",
       "url": "https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live Plus One",
-        "url": "https://open.spotify.com/album/3lQTRPr9s1vLOeD8m3ERLK"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 36866,
-      "name": "My Dad Sucks",
-      "url": "https://open.spotify.com/track/4TTJfCuLAFgdKZpzNfnyff"
     },
     {
       "added_at": null,

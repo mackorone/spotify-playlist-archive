@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-208 songs - 10 hr 42 min
+209 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Niente Canzoni D'Amore \- Inedito](https://open.spotify.com/track/71Fyq3SgH24mrUAKrLECD4) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Status \(Vendetta Edition\)](https://open.spotify.com/album/4xzpCepiaf3oQaywSGqcGV) | 3:46 | 2022-07-28 | 2024-04-19 |
 | [Niente Canzoni D'Amore \- Inedito](https://open.spotify.com/track/7hU472c8I9LjnQ6Ixf9RFE) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Tik Tock Summer Hits](https://open.spotify.com/album/70mmj1dywKdD7yoJ75MwOf) | 3:46 | 2022-11-07 | 2022-11-13 |
 | [Niente Canzoni D'Amore \- Inedito](https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Status \(Inediti, Rarità & Live\)](https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq) | 3:46 | 2022-07-01 |  |
-| [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2022-06-02 |  |
+| [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2022-06-02 | 2025-05-17 |
 | [Non Abbiamo Età](https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:01 | 2022-05-03 |  |
 | [Non Fare Così](https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:12 | 2022-05-03 |  |
 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 | 2022-12-19 |  |
@@ -198,6 +198,7 @@
 | [Torna Da Me](https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:00 | 2022-05-03 |  |
 | [Tornerò Da Re](https://open.spotify.com/track/4zTDDr4gwZ3UP8lyLER3ft) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [RAP ITALIANO OLD SCHOOL HITS](https://open.spotify.com/album/6PP2pdxkdWtsEEXT17AZwe) | 4:06 | 2024-01-02 | 2024-01-04 |
 | [TRAP GIRL](https://open.spotify.com/track/4RmhMrApk1bFlPcwt4PwEr) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Vp Drive 1](https://open.spotify.com/album/6MdlRqZQIJoggNVcKON7kp) | 2:30 | 2024-05-30 | 2024-06-07 |
+| [TU](https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:49 | 2025-05-16 |  |
 | [Tu Non Sei Lei](https://open.spotify.com/track/4KePlRbM1bdY6LIKH8kURb) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 2:59 | 2024-01-12 | 2024-01-26 |
 | [TUTTO FUORI CONTROLLO ൵ \(con Franco 126, Kid Yugi, Izi\)](https://open.spotify.com/track/7EpeEp1AB5Qs4Y8LXvn5xG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:20 | 2024-04-04 | 2024-04-27 |
 | [Tutto o Nada](https://open.spotify.com/track/5QtcghmkREVhNwOFjyOGFJ) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 2:37 | 2024-09-05 |  |

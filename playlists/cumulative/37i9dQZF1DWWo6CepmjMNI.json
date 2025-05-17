@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SoundSleep",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Something Sweet",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 212000,
       "name": "IG",
       "url": "https://open.spotify.com/track/7Aepf1U1aEjhU4lhCmvqMz"
@@ -223,7 +223,7 @@
     },
     {
       "album": {
-        "name": "KON LA KON (\u0e04\u0e19\u0e25\u0e30\u0e04\u0e19)",
+        "name": "KON LA KON",
         "url": "https://open.spotify.com/album/16282P8OPLHzPKBC9eKMIh"
       },
       "artists": [
@@ -236,7 +236,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 308157,
-      "name": "KON LA KON (\u0e04\u0e19\u0e25\u0e30\u0e04\u0e19)",
+      "name": "KON LA KON",
       "url": "https://open.spotify.com/track/2dF92JkAbSoTwfgHMKJdqj"
     },
     {
@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Still Be Her (TH.Version)",
+        "url": "https://open.spotify.com/album/6PhK1QVT9UiuCHeVV4vkGh"
+      },
+      "artists": [
+        {
+          "name": "LAWIN",
+          "url": "https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325517,
+      "name": "Still Be Her (TH.Version)",
+      "url": "https://open.spotify.com/track/2lGYLGdo5GYhoUD5N0uiB2"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/6GcBIH0XEQn0cnmLEuf2Pz"
       },
@@ -704,6 +722,28 @@
       "duration_ms": 278068,
       "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
       "url": "https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e32\u0e25\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01",
+        "url": "https://open.spotify.com/album/2HX99x30suqyOgPhuPXmd0"
+      },
+      "artists": [
+        {
+          "name": "CHANDAGE",
+          "url": "https://open.spotify.com/artist/3NZdazEd4BFRKuqCRWiYAv"
+        },
+        {
+          "name": "Sarawit Doungngam",
+          "url": "https://open.spotify.com/artist/1hgGmFZ1SJkxLxNpbQPHtd"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "\u0e01\u0e32\u0e25\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01",
+      "url": "https://open.spotify.com/track/4IrJS4MilyjcmqCFZJr9uL"
     },
     {
       "album": {
@@ -2163,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e14\u0e35\u0e14\u0e35\u0e43\u0e01\u0e25\u0e49\u0e04\u0e38\u0e13",
+        "url": "https://open.spotify.com/album/4pTEYzVcL4FWirueQDiFQA"
+      },
+      "artists": [
+        {
+          "name": "Something Sweet",
+          "url": "https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251192,
+      "name": "\u0e23\u0e31\u0e01\u0e14\u0e35\u0e14\u0e35\u0e43\u0e01\u0e25\u0e49\u0e04\u0e38\u0e13",
+      "url": "https://open.spotify.com/track/11h7EE5Uh2Rbx9hdRaJL2A"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e39\u0e1b\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e17\u0e34\u0e49\u0e07",
         "url": "https://open.spotify.com/album/4JRWZJ9Aif3RXwGdwNGtxJ"
       },
@@ -3198,7 +3256,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 268000,
       "name": "\u0e41\u0e04\u0e48\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e1a\u0e31\u0e07\u0e40\u0e2d\u0e34\u0e0d",
       "url": "https://open.spotify.com/track/1yojnSiavtYx6byEbWOMsX"
@@ -3630,7 +3688,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 318352,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e40\u0e25\u0e37\u0e2d\u0e19\u0e2b\u0e32\u0e22 (Bygone days)",
       "url": "https://open.spotify.com/track/3qBz1hhoPZeow1fkyYf96Z"

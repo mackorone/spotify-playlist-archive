@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: C\u0153ur De Pirate",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Mario Pelchat, Isabelle Boulay",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Album bleu (Deluxe)",
+        "url": "https://open.spotify.com/album/7iwEMAFJfPV69HC3bo4KNc"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152829,
+      "name": "Brille autant - Deluxe",
+      "url": "https://open.spotify.com/track/4DrahTpOqqMUGFA9EaPoLB"
+    },
+    {
+      "album": {
         "name": "B\u00e9atrice",
         "url": "https://open.spotify.com/album/3idJJWSIWD8dLHD4JpoGPQ"
       },
@@ -206,7 +224,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 179833,
       "name": "B\u00e9atrice",
       "url": "https://open.spotify.com/track/5w4TBVGa5PM9dWV9Xm7l8W"
@@ -709,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Dr\u00f4le de temps",
+        "url": "https://open.spotify.com/album/0WsI0ksQOfwX73ZE4YpaJs"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "Dr\u00f4le de temps",
+      "url": "https://open.spotify.com/track/5jyVXKVgeXVhErGGIEFMyv"
+    },
+    {
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6UtBF8mZYbiL0lhmHvl13u"
       },
@@ -875,6 +911,28 @@
     },
     {
       "album": {
+        "name": "Hier et toujours",
+        "url": "https://open.spotify.com/album/5zERCPXRRxJpyxyqxZJ0iF"
+      },
+      "artists": [
+        {
+          "name": "Mario Pelchat",
+          "url": "https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz"
+        },
+        {
+          "name": "Isabelle Boulay",
+          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168916,
+      "name": "Hier et toujours",
+      "url": "https://open.spotify.com/track/2heMkdMg4rNFOpi0asAEGi"
+    },
+    {
+      "album": {
         "name": "Huby boy",
         "url": "https://open.spotify.com/album/2gn6F4Tkz6Z9an3zG7d1eN"
       },
@@ -958,7 +1016,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 198773,
       "name": "Imprudences",
       "url": "https://open.spotify.com/track/7y9gFcoaAmuO1hsFsakQKI"
@@ -1214,7 +1272,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 221851,
       "name": "L'autre h\u00e9misph\u00e8re",
       "url": "https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q"
@@ -1684,6 +1742,24 @@
       "duration_ms": 175200,
       "name": "Les ponts",
       "url": "https://open.spotify.com/track/1dpfsCsUFgSX6YcrEPx2Ty"
+    },
+    {
+      "album": {
+        "name": "Les valises",
+        "url": "https://open.spotify.com/album/4RfGGtOqzPy1obHPKEhDXD"
+      },
+      "artists": [
+        {
+          "name": "Daria Colonna",
+          "url": "https://open.spotify.com/artist/5WkJNe9cA9WyDcREUwAdF0"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Les valises",
+      "url": "https://open.spotify.com/track/5SAfsA65On4gKkcE0CQZPE"
     },
     {
       "album": {
@@ -2243,6 +2319,24 @@
     },
     {
       "album": {
+        "name": "Rouler en ao\u00fbt",
+        "url": "https://open.spotify.com/album/2nERBo365hzapvIzvDi7dU"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256092,
+      "name": "Rouler en ao\u00fbt",
+      "url": "https://open.spotify.com/track/7if4mulQZiyZ9ZK4grdW3j"
+    },
+    {
+      "album": {
         "name": "R\u00e9pondre aux oiseaux",
         "url": "https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq"
       },
@@ -2684,7 +2778,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 203935,
       "name": "Tshitatau",
       "url": "https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo"
@@ -2864,7 +2958,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 260733,
       "name": "\u00c9l\u00e9gante solitude",
       "url": "https://open.spotify.com/track/0loARlB8O9A4pzg11S9HcA"

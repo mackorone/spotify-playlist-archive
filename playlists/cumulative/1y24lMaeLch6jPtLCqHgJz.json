@@ -7867,6 +7867,28 @@
     },
     {
       "album": {
+        "name": "The Summer Is Magic",
+        "url": "https://open.spotify.com/album/6MjlZdywOHPQCUSGqGPA7h"
+      },
+      "artists": [
+        {
+          "name": "Luvstruck",
+          "url": "https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy"
+        },
+        {
+          "name": "Carlprit",
+          "url": "https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128132,
+      "name": "The Summer Is Magic",
+      "url": "https://open.spotify.com/track/7lC25gUPrasUpSuRFS01bR"
+    },
+    {
+      "album": {
         "name": "The Underground",
         "url": "https://open.spotify.com/album/6T9qtE0RP4nPe6eZsGMMu7"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Thelma & James",
+  "description": "The home of Canadian country music. Cover: Tenille Arts",
   "name": "North Country",
   "tracks": [
     {
@@ -377,6 +377,36 @@
     },
     {
       "album": {
+        "name": "Borrow My Boots",
+        "url": "https://open.spotify.com/album/2MDhb7bszkqpJYHI8rV1w1"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Grace Bowers",
+          "url": "https://open.spotify.com/artist/3SWXWMtSA0ZWxvhESbTkJe"
+        },
+        {
+          "name": "Shelly Fairchild",
+          "url": "https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160760,
+      "name": "Borrow My Boots",
+      "url": "https://open.spotify.com/track/3K5ejUtwpzA2pnlsyt7hdr"
+    },
+    {
+      "album": {
         "name": "Broken Heart Thing (feat. Dustin Lynch)",
         "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
       },
@@ -414,6 +444,24 @@
       "duration_ms": 225080,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/5JlE9BmDHmUq5Ghy2j6rBg"
+    },
+    {
+      "album": {
+        "name": "Burn the Boats",
+        "url": "https://open.spotify.com/album/0b2pYSIafKMLboovEJ6dzt"
+      },
+      "artists": [
+        {
+          "name": "The Martin Boys",
+          "url": "https://open.spotify.com/artist/0Jjl71AwTHhQlvhSeugY8k"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225764,
+      "name": "Burn the Boats",
+      "url": "https://open.spotify.com/track/2KrEkvgkkqQo0PapU8OCm9"
     },
     {
       "album": {
@@ -1219,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Gettin' By",
+        "url": "https://open.spotify.com/album/3GE8zt1rkVQXcpYudJq4TI"
+      },
+      "artists": [
+        {
+          "name": "Dan Young",
+          "url": "https://open.spotify.com/artist/4cEhqUT7opRvHQ87dHpqO9"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197907,
+      "name": "Gettin' By",
+      "url": "https://open.spotify.com/track/4RrNZfwHpJO5Stb1xAOnij"
+    },
+    {
+      "album": {
         "name": "Go Deep (Jays Edition)",
         "url": "https://open.spotify.com/album/2i2YYCoA2SGp3VLUT0HBN0"
       },
@@ -1374,7 +1440,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 194307,
       "name": "Gotta Be Country",
       "url": "https://open.spotify.com/track/556NgrV6yBcJ7jLkqUwj4P"
@@ -1588,7 +1654,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 161245,
       "name": "Here's Your Chance",
       "url": "https://open.spotify.com/track/48sINJHpSyiDRxhRVRse8L"
@@ -2846,7 +2912,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 187560,
       "name": "Northern Blood",
       "url": "https://open.spotify.com/track/5HoukISZBPykqAbKPT12kK"
@@ -3304,7 +3370,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 212131,
       "name": "Ride It Out",
       "url": "https://open.spotify.com/track/4AMxHYgTe8Bul2J0VyHhdR"
@@ -3578,7 +3644,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 216360,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/3JiyEkTKPmPqOZ3Blh8J55"
@@ -3618,7 +3684,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 195959,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
@@ -3842,6 +3908,24 @@
       "duration_ms": 195290,
       "name": "Takes Me Back",
       "url": "https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz"
+    },
+    {
+      "album": {
+        "name": "Tears That You'll Never Find",
+        "url": "https://open.spotify.com/album/207ZWbh7bQe4q7nr9RzYXI"
+      },
+      "artists": [
+        {
+          "name": "Zach McPhee",
+          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Tears That You'll Never Find",
+      "url": "https://open.spotify.com/track/4yWUtE6IG23QQozUMqkUa2"
     },
     {
       "album": {
@@ -4191,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Unbecoming",
+        "url": "https://open.spotify.com/album/3O17GWIWMvwHsAlXtJyWG0"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168194,
+      "name": "Unbecoming",
+      "url": "https://open.spotify.com/track/4i8qtmA24GECXY98t8reqM"
+    },
+    {
+      "album": {
         "name": "The Truth We Hold",
         "url": "https://open.spotify.com/album/4ZECwfb4wwu830xgPnTk52"
       },
@@ -4394,6 +4496,28 @@
       "duration_ms": 196000,
       "name": "What Got Me Here",
       "url": "https://open.spotify.com/track/7lqeJAu2vzi32nSCINfEJz"
+    },
+    {
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-474 songs - 1 day 2 hr 37 min
+475 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Pain](https://open.spotify.com/track/7zsjp5WelstlzIIOkLIJQh) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Jameson](https://open.spotify.com/artist/7K3Jyu1rhStqBkpFbkro8t) | [Pain](https://open.spotify.com/album/6oiIQeKfMvVDsAcP6bsTGc) | 2:15 | 2024-09-20 | 2024-11-23 |
 | [Paralyzed](https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl) | [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Paralyzed](https://open.spotify.com/album/2g1R9kNBhCFih34KqUN3J4) | 2:38 | 2021-09-04 | 2021-11-11 |
 | [Particles](https://open.spotify.com/track/1m88d4zQ1IUnqmQfaaUrN0) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Particles](https://open.spotify.com/album/7wRWEQGKnOdSRvqxRO9uDU) | 3:20 | 2022-09-02 | 2023-02-04 |
+| [Pines](https://open.spotify.com/track/4DPPA8Sdx1VjH8hWKxDyub) | [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Pines](https://open.spotify.com/album/3nEs96fYQgouQ2QzOk13zM) | 2:47 | 2025-05-16 |  |
 | [Pound Cake](https://open.spotify.com/track/5YamuejZEXkcPMGMy0OPTi) | [DEVI](https://open.spotify.com/artist/0MjRae1b4bhNsm6msUcgaL) | [Pound Cake](https://open.spotify.com/album/1kwFRVRvcOBKyi2NuGEwbp) | 4:14 | 2020-09-13\* | 2021-03-06 |
 | [Problems](https://open.spotify.com/track/74UR9DSYWKvgTj27NubXAH) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Problems](https://open.spotify.com/album/5BWWHRNKa8C8F04vwCygO7) | 2:46 | 2022-03-18 | 2023-04-01 |
 | [Problems](https://open.spotify.com/track/7wKzj1b8YKPuZELfVDz708) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:39 | 2020-11-14 | 2022-09-10 |
@@ -349,7 +350,7 @@
 | [Satisfied \- Edit](https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Silver Linings](https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh) | 3:43 | 2024-02-23 | 2025-02-08 |
 | [Saturate](https://open.spotify.com/track/6lZ8eGS8xEWmHJRY1igdfS) | [Kamil Ghaouti](https://open.spotify.com/artist/59D1PT94ywzBggaLufM7ki), [Big O](https://open.spotify.com/artist/4uBuaf1JOKbUdSXGw5eusl), [Alimish](https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR) | [Saturate](https://open.spotify.com/album/43NyREWutAyPacsKKA3ClO) | 3:08 | 2024-08-16 | 2025-04-16 |
 | [Saturday Night](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Saturday Night](https://open.spotify.com/album/6DcRUK41ymZ8yTNuzZJ8NV) | 2:40 | 2021-03-26 | 2023-01-21 |
-| [Say](https://open.spotify.com/track/4U7xEavwTr97j51WE1kKmZ) | [Touring](https://open.spotify.com/artist/1DKSHZmGXSlYlbUKFb6KXZ), [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Say](https://open.spotify.com/album/5s59SA485CRphWE8mebcfG) | 3:00 | 2024-02-16 |  |
+| [Say](https://open.spotify.com/track/4U7xEavwTr97j51WE1kKmZ) | [Touring](https://open.spotify.com/artist/1DKSHZmGXSlYlbUKFb6KXZ), [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Say](https://open.spotify.com/album/5s59SA485CRphWE8mebcfG) | 3:00 | 2024-02-16 | 2025-05-17 |
 | [Say It Right](https://open.spotify.com/track/19PZhgOfDrSlFkj5D036fe) | [Divolly & Markward](https://open.spotify.com/artist/6CEFAXiSvUDVs26MPyic13) | [Say It Right](https://open.spotify.com/album/3sW9x1R3SpftfVFfAvzBcX) | 2:37 | 2021-03-06 | 2021-08-21 |
 | [Say My Name](https://open.spotify.com/track/3zZwwTNa27TDKUSNj2uuMc) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Say My Name](https://open.spotify.com/album/5k5ldor4JutRvh39bGwIPZ) | 3:33 | 2020-09-13\* |  |
 | [Secret Promise](https://open.spotify.com/track/6Rye2HmiEAWYavSylWu7e0) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Secret Promise](https://open.spotify.com/album/7kn8TJcl3yyydv26Gh0OmJ) | 2:37 | 2020-09-13\* | 2021-03-06 |

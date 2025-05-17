@@ -2,7 +2,7 @@
 
 ### [I Love My '00s R&B](https://open.spotify.com/playlist/37i9dQZF1DWYmmr74INQlb)
 
-> Celebrating 20 years of  "The Emancipation of MiMi "\. Cover: Mariah Carey
+> The most essential R&B songs from the '00s\. Cover: Mariah Carey
 
 177 songs - 12 hr 13 min
 

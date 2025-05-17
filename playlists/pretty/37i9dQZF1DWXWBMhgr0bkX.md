@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Brand new from homegrown talent ft\. Alessi Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,272 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,294 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,30 +32,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 22 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 |
 | 23 | [More!](https://open.spotify.com/track/1tFeGs7Tbzbgpgv1rf8eg1) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [More!](https://open.spotify.com/album/6ZsrUt5WHKhI2SU4klueuo) | 2:27 |
 | 24 | [GONER](https://open.spotify.com/track/6oyKj9WUmQtPGJVZUonxBz) | [Tom Cooper](https://open.spotify.com/artist/2F33DzU28njVglipBm65gf) | [GONER](https://open.spotify.com/album/72PH3sspnvq1fmfVlHiMmw) | 2:17 |
-| 25 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 |
-| 26 | [It's Only Love](https://open.spotify.com/track/5Pye5gXfSX4PPlv7mfsDzx) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [It's Only Love](https://open.spotify.com/album/2AdLquEJQLmqfNxxXDojFS) | 3:31 |
-| 27 | [Let Me In](https://open.spotify.com/track/1RDFwUcWo6xNqadZs7LkVh) | [Charlie Baker](https://open.spotify.com/artist/4mywMzYbTPsM5gk6p28XJm) | [Let Me In](https://open.spotify.com/album/3W6KU0JXAeC0CyX7tjssQg) | 2:35 |
-| 28 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
-| 29 | [Anything/Anyone](https://open.spotify.com/track/0MViV5e5788MXVDb3YX1Dq) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [Anything/Anyone](https://open.spotify.com/album/3us2WdeqDv2Qv0cpAFBUGU) | 2:40 |
-| 30 | [Deep Dive](https://open.spotify.com/track/4jVB7vxRnxiHqlRG5cS5Pu) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Deep Dive](https://open.spotify.com/album/40EqzaUnp4NtfeuS0Ibh88) | 3:21 |
-| 31 | [Find Xanadu](https://open.spotify.com/track/0BI2JnruCf2fZt7Jp1vU3b) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Find Xanadu](https://open.spotify.com/album/10Bhnh3aMHZPWSfg4qC0LC) | 3:09 |
-| 32 | [I’ll Never Fall in Love Again](https://open.spotify.com/track/0TkUJTPA6NT968GmRXqCVm) | [amilost](https://open.spotify.com/artist/2yETvq5CaJeilJEzX5E0nO) | [Chapters of a Heartbreak](https://open.spotify.com/album/5TF2ExXPrP61anpZRI0s8g) | 2:43 |
-| 33 | [Me & The Mirror](https://open.spotify.com/track/3aE5TEpxMfUprcnDKPQEtY) | [MARiMARi](https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl) | [Me & The Mirror](https://open.spotify.com/album/0XeUuoNXWwxLEToYkf6r11) | 2:32 |
-| 34 | [Run](https://open.spotify.com/track/0a8vnp5Q2UUXzoKvXZ4poN) | [Libby](https://open.spotify.com/artist/1RILUcAHfRWLligq9zTdF0) | [Run](https://open.spotify.com/album/44M9lOyoZhot1Ij0TKVPAK) | 2:50 |
-| 35 | [The Kicks](https://open.spotify.com/track/2eGqXOC5ewnP7XGlojcQI5) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [The Kicks](https://open.spotify.com/album/74RXGok0luwOxqPZw4ZgLF) | 2:23 |
-| 36 | [You Used To Be So Sexy](https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I'm Not Your Punchbag](https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV) | 3:24 |
-| 37 | [Cravings](https://open.spotify.com/track/27vhnpXhlFUqmODkEgtvMl) | [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Sultry](https://open.spotify.com/album/1ksnX77h2y7yuOXfjyGarO) | 2:40 |
-| 38 | [Full Attention](https://open.spotify.com/track/6Yhzabh1wK19kniAJOz1G2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Full Attention](https://open.spotify.com/album/25Gn5IvV9ykJTPDGigx452) | 3:04 |
-| 39 | [High On The Internet](https://open.spotify.com/track/06FGo1WHf20zKD7eF7veM6) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [High On The Internet](https://open.spotify.com/album/3GARsxwPT6bbyik0yn6NGu) | 3:22 |
-| 40 | [Pacemaker](https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Pacemaker](https://open.spotify.com/album/620asHETGznhXwYUUFP3TB) | 3:09 |
-| 41 | [Hanging by a Thread](https://open.spotify.com/track/6tqJEmnftUdjrHnKqAmWKl) | [Dalia](https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p) | [Hanging by a Thread](https://open.spotify.com/album/0M5JMvMRDll4Xm9mjMmnJM) | 3:13 |
-| 42 | [I Wanna Ride](https://open.spotify.com/track/1WxKmEmdPuI6pJPOFea091) | [Big Softy](https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw) | [I Wanna Ride](https://open.spotify.com/album/6JGWdYCQkEDvVGQxTQIvAN) | 2:36 |
-| 43 | [Your Fantasy](https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Your Fantasy](https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB) | 2:19 |
-| 44 | [Underground](https://open.spotify.com/track/5D0zvrNrfFLibIXcm6uHC4) | [Sarah Nimmo](https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO) | [Underground](https://open.spotify.com/album/1Juz6l0ygKU6WuW83C1rym) | 3:55 |
-| 45 | [FISHING FOR TADPOLES](https://open.spotify.com/track/0hCJTsNdLyjTRrkoD5k3ai) | [Snow Star](https://open.spotify.com/artist/6q147op2b1QIovAeSGZWAu) | [FISHING FOR TADPOLES](https://open.spotify.com/album/0gzTpyngXJETom78HQxHZG) | 3:46 |
-| 46 | [New York](https://open.spotify.com/track/0hYdZ4x8b3bEbc9Bpn2pQh) | [Crybabyamy](https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e) | [New York](https://open.spotify.com/album/7bzdQyFdF4kjk6KgjD9R6W) | 2:46 |
-| 47 | [Passing By](https://open.spotify.com/track/2HXgKL0MZLoC8fzBKCS5dF) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Deeper Than You](https://open.spotify.com/album/6PicBIElmmrG3gycZAnUxH) | 3:31 |
-| 48 | [collarbone](https://open.spotify.com/track/4lLpORG43iVNYzgQRmYS2G) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [collarbone](https://open.spotify.com/album/3ILfK12zJwCkJCc1zls5qP) | 3:09 |
-| 49 | [I Told You So](https://open.spotify.com/track/5yOzCwzm2uXh2aEyhEKAK6) | [Lola Huckel](https://open.spotify.com/artist/0WoXnDr3lvdXVGs3VIICGo) | [I Told You So](https://open.spotify.com/album/4LBg07esnHUIy15rL31jEB) | 2:42 |
+| 25 | [moving on](https://open.spotify.com/track/4Fv5w4w5rIVMY29GECwlpP) | [Asher Finlon](https://open.spotify.com/artist/5eMaMRRedFIFXm2o3NtOQB) | [moving on](https://open.spotify.com/album/3Lr4ujf2aw4Z1ResHBPv5C) | 3:40 |
+| 26 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 |
+| 27 | [It's Only Love](https://open.spotify.com/track/5Pye5gXfSX4PPlv7mfsDzx) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [It's Only Love](https://open.spotify.com/album/2AdLquEJQLmqfNxxXDojFS) | 3:31 |
+| 28 | [Let Me In](https://open.spotify.com/track/1RDFwUcWo6xNqadZs7LkVh) | [Charlie Baker](https://open.spotify.com/artist/4mywMzYbTPsM5gk6p28XJm) | [Let Me In](https://open.spotify.com/album/3W6KU0JXAeC0CyX7tjssQg) | 2:35 |
+| 29 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
+| 30 | [Anything/Anyone](https://open.spotify.com/track/0MViV5e5788MXVDb3YX1Dq) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [Anything/Anyone](https://open.spotify.com/album/3us2WdeqDv2Qv0cpAFBUGU) | 2:40 |
+| 31 | [Deep Dive](https://open.spotify.com/track/4jVB7vxRnxiHqlRG5cS5Pu) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Deep Dive](https://open.spotify.com/album/40EqzaUnp4NtfeuS0Ibh88) | 3:21 |
+| 32 | [Find Xanadu](https://open.spotify.com/track/0BI2JnruCf2fZt7Jp1vU3b) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Find Xanadu](https://open.spotify.com/album/10Bhnh3aMHZPWSfg4qC0LC) | 3:09 |
+| 33 | [I’ll Never Fall in Love Again](https://open.spotify.com/track/0TkUJTPA6NT968GmRXqCVm) | [amilost](https://open.spotify.com/artist/2yETvq5CaJeilJEzX5E0nO) | [Chapters of a Heartbreak](https://open.spotify.com/album/5TF2ExXPrP61anpZRI0s8g) | 2:43 |
+| 34 | [Me & The Mirror](https://open.spotify.com/track/3aE5TEpxMfUprcnDKPQEtY) | [MARiMARi](https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl) | [Me & The Mirror](https://open.spotify.com/album/0XeUuoNXWwxLEToYkf6r11) | 2:32 |
+| 35 | [Run](https://open.spotify.com/track/0a8vnp5Q2UUXzoKvXZ4poN) | [Libby](https://open.spotify.com/artist/1RILUcAHfRWLligq9zTdF0) | [Run](https://open.spotify.com/album/44M9lOyoZhot1Ij0TKVPAK) | 2:50 |
+| 36 | [The Kicks](https://open.spotify.com/track/2eGqXOC5ewnP7XGlojcQI5) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [The Kicks](https://open.spotify.com/album/74RXGok0luwOxqPZw4ZgLF) | 2:23 |
+| 37 | [You Used To Be So Sexy](https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I'm Not Your Punchbag](https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV) | 3:24 |
+| 38 | [Cravings](https://open.spotify.com/track/27vhnpXhlFUqmODkEgtvMl) | [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Sultry](https://open.spotify.com/album/1ksnX77h2y7yuOXfjyGarO) | 2:40 |
+| 39 | [Full Attention](https://open.spotify.com/track/6Yhzabh1wK19kniAJOz1G2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Full Attention](https://open.spotify.com/album/25Gn5IvV9ykJTPDGigx452) | 3:04 |
+| 40 | [High On The Internet](https://open.spotify.com/track/06FGo1WHf20zKD7eF7veM6) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [High On The Internet](https://open.spotify.com/album/3GARsxwPT6bbyik0yn6NGu) | 3:22 |
+| 41 | [Pacemaker](https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Pacemaker](https://open.spotify.com/album/620asHETGznhXwYUUFP3TB) | 3:09 |
+| 42 | [Hanging by a Thread](https://open.spotify.com/track/6tqJEmnftUdjrHnKqAmWKl) | [Dalia](https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p) | [Hanging by a Thread](https://open.spotify.com/album/0M5JMvMRDll4Xm9mjMmnJM) | 3:13 |
+| 43 | [I Wanna Ride](https://open.spotify.com/track/1WxKmEmdPuI6pJPOFea091) | [Big Softy](https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw) | [I Wanna Ride](https://open.spotify.com/album/6JGWdYCQkEDvVGQxTQIvAN) | 2:36 |
+| 44 | [Your Fantasy](https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Your Fantasy](https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB) | 2:19 |
+| 45 | [Underground](https://open.spotify.com/track/5D0zvrNrfFLibIXcm6uHC4) | [Sarah Nimmo](https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO) | [Underground](https://open.spotify.com/album/1Juz6l0ygKU6WuW83C1rym) | 3:55 |
+| 46 | [FISHING FOR TADPOLES](https://open.spotify.com/track/0hCJTsNdLyjTRrkoD5k3ai) | [Snow Star](https://open.spotify.com/artist/6q147op2b1QIovAeSGZWAu) | [FISHING FOR TADPOLES](https://open.spotify.com/album/0gzTpyngXJETom78HQxHZG) | 3:46 |
+| 47 | [New York](https://open.spotify.com/track/0hYdZ4x8b3bEbc9Bpn2pQh) | [Crybabyamy](https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e) | [New York](https://open.spotify.com/album/7bzdQyFdF4kjk6KgjD9R6W) | 2:46 |
+| 48 | [Passing By](https://open.spotify.com/track/2HXgKL0MZLoC8fzBKCS5dF) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Deeper Than You](https://open.spotify.com/album/6PicBIElmmrG3gycZAnUxH) | 3:31 |
+| 49 | [collarbone](https://open.spotify.com/track/4lLpORG43iVNYzgQRmYS2G) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [collarbone](https://open.spotify.com/album/3ILfK12zJwCkJCc1zls5qP) | 3:09 |
+| 50 | [I Told You So](https://open.spotify.com/track/5yOzCwzm2uXh2aEyhEKAK6) | [Lola Huckel](https://open.spotify.com/artist/0WoXnDr3lvdXVGs3VIICGo) | [I Told You So](https://open.spotify.com/album/4LBg07esnHUIy15rL31jEB) | 2:42 |
 
 Snapshot ID: `aCZx+gAAAACiIA+36DwrefgS4czqVtpj`

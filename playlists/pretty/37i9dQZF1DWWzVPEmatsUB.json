@@ -1,13 +1,33 @@
 {
   "description": "Ease into the day",
-  "num_followers": 637151,
+  "num_followers": 637136,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC7gAAAADam6dDcqV3tSoyWYWg3KJb",
+  "snapshot_id": "aCa4SgAAAAAZQW5kAtDhdgkeKRKV1fAZ",
   "tracks": [
+    {
+      "added_at": "2025-05-16 04:00:10",
+      "album": {
+        "name": "All Your Days (feat. Fleurie)",
+        "url": "https://open.spotify.com/album/6QeXyAMUT2IDoUYPzvxh95"
+      },
+      "artists": [
+        {
+          "name": "Toulouse",
+          "url": "https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr"
+        },
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "duration_ms": 243775,
+      "name": "All Your Days (feat. Fleurie)",
+      "url": "https://open.spotify.com/track/2Ml5ZRth7mr8ymZdqtJWbI"
+    },
     {
       "added_at": "2025-02-28 05:00:30",
       "album": {
@@ -1643,26 +1663,6 @@
       "duration_ms": 202453,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/3VfelbVrLcwNu4b7ephZtd"
-    },
-    {
-      "added_at": "2024-09-20 14:04:29",
-      "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/0Co5DrMqChlTZiZ5oT3gjZ"
-      },
-      "artists": [
-        {
-          "name": "Anthony Lazaro",
-          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
-        },
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 205956,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/18hPvq4l7aiolR6NenxBz6"
     },
     {
       "added_at": "2024-09-20 14:04:29",

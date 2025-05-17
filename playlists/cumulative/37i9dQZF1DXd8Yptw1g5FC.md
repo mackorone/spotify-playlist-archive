@@ -4,7 +4,7 @@
 
 > Selin ve haftanın en iyi çıkışları!
 
-1,228 songs - 2 day 14 hr 30 min
+1,230 songs - 2 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Fotoğraflar](https://open.spotify.com/track/0EQ8PDPuTWpIJx5Dja3tFk) | [Can Toğrulca](https://open.spotify.com/artist/5Oublqcpyn3o6HaRJFJs3D) | [Fotoğraflar](https://open.spotify.com/album/24sB8ekaiS0QAqeN4ZL7c6) | 2:57 | 2025-02-27 | 2025-03-07 |
 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-03-27 | 2025-04-04 |
 | [French Girls](https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [French Girls](https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN) | 2:52 | 2025-05-01 | 2025-05-09 |
+| [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 | 2025-05-15 |  |
 | [Frodo](https://open.spotify.com/track/5OgTyMrplk1yqcNz1G566s) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [Frodo](https://open.spotify.com/album/2v1TgdFzATrkkXn031hb4O) | 2:27 | 2025-05-15 |  |
 | [FUCK IT](https://open.spotify.com/track/2PWln9ZjksTV66s6JGqwc5) | [Buse Ayla](https://open.spotify.com/artist/59FSDgp7VBJnjaGk4m6Ud4) | [FUCK IT](https://open.spotify.com/album/6fPvCjBUOjnNyKwZKknuiV) | 2:46 | 2025-02-27 | 2025-03-07 |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-02-27 | 2025-03-07 |
@@ -917,6 +918,7 @@
 | [SOKAKTA BONSERVİS YOK](https://open.spotify.com/track/478fhoVaf2FgVNpN4hE7YV) | [b8](https://open.spotify.com/artist/332Dfo4gdzHulJ49WmlW5O) | [SOKAKTA BONSERVİS YOK](https://open.spotify.com/album/0Kk0rgth3lOkmVfIch3kry) | 2:02 | 2025-05-15 |  |
 | [sol yanımda](https://open.spotify.com/track/03YrnvMxTQne1f5zUa2DGu) | [Eytan](https://open.spotify.com/artist/3rtgZpxBTGp6NWtLMDvvEO) | [sol yanımda](https://open.spotify.com/album/13erneAtaOwlVqJvhUxbCI) | 2:49 | 2025-03-13 | 2025-03-21 |
 | [Solfa](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 | 2025-02-27 | 2025-03-07 |
+| [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 | 2025-05-15 |  |
 | [Sometimes](https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sometimes](https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g) | 2:58 | 2025-03-06 | 2025-03-14 |
 | [Son Bir Defa](https://open.spotify.com/track/5kBqZzOz8Aw0bIZoE8Al0G) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Son Bir Defa](https://open.spotify.com/album/4ASoJKLXyV44PDG5l0J19R) | 3:46 | 2025-04-03 | 2025-04-11 |
 | [Son Bir Kere](https://open.spotify.com/track/7nSUXAI8dxIoAbU6SBLuyN) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Son Bir Kere](https://open.spotify.com/album/3SCkuDZ2vUn3EIv7z4QVmP) | 3:30 | 2025-03-20 | 2025-03-28 |

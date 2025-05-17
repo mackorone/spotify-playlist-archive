@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-287 songs - 18 hr 37 min
+288 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [There's a Lull in My Life](https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Lonely House](https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5) | 3:31 | 2023-08-18 |  |
 | [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 | 2021-12-21 |  |
 | [These Are the Memories](https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [These Are the Memories](https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb) | 4:33 | 2023-05-18 |  |
-| [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 | 2021-12-21 |  |
+| [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 | 2021-12-21 | 2025-05-17 |
 | [This Life](https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7) | [The Magic Lantern](https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V) | [A Reckoning Bell](https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO) | 4:21 | 2021-12-21 |  |
 | [Those Sweet Words](https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:22 | 2022-09-08 |  |
 | [Tis Autumn](https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK) | [Belle\-Skinner](https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA) | [Tis Autumn](https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS) | 2:10 | 2023-11-09 |  |
@@ -286,6 +286,7 @@
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2021-12-21 | 2023-08-19 |
 | [You Are My Sunshine](https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Yours](https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM) | 3:34 | 2021-12-21 |  |
 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 | 2023-08-22 |  |
+| [You Better Go Now](https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI) | [You Better Go Now](https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU) | 2:50 | 2025-05-16 |  |
 | [You Go To My Head](https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh) | [Adonis Rose](https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y), [Ryan Hanseler](https://open.spotify.com/artist/524YAzKMvMUURzW34Gtetk), [Lex Warshawsky](https://open.spotify.com/artist/4w8FWjfDaLaHz37ICgCcHV) | [For All We Know](https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP) | 7:24 | 2024-03-20 |  |
 | [You Make Me Feel so Young](https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 4:08 | 2021-12-21 |  |
 | [You Must Believe in Spring \(Chanson de Maxence\)](https://open.spotify.com/track/0TqzVz4sWBGKhSOPeiCAfp) | [Giovanni Ceccarelli](https://open.spotify.com/artist/2z9cZflQ6YSCzLx9E39HgG), [Ferruccio Spinetti](https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f), [Chiara Civello](https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk) | [You Must Believe in Spring \(Chanson de Maxence\) \[Extract from "Le grand Michel", a tribute to Michel Legrand\]](https://open.spotify.com/album/1f0Kl8r1rsAm8doLdJtfpv) | 4:25 | 2025-04-25 |  |

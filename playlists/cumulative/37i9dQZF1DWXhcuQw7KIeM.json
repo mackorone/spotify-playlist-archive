@@ -676,7 +676,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 315880,
       "name": "Hausbrj\u00f3tr - Skullcrusher",
       "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Noidan Nousu",
+        "url": "https://open.spotify.com/album/5mbI6EOtW4ft43ske1T8CG"
+      },
+      "artists": [
+        {
+          "name": "Kallom\u00e4ki",
+          "url": "https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231793,
+      "name": "Noidan Nousu",
+      "url": "https://open.spotify.com/track/680HRsVF8FqjgHH9rtefsE"
+    },
+    {
+      "album": {
         "name": "Norupo",
         "url": "https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc"
       },
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 160400,
       "name": "R\u00fan",
       "url": "https://open.spotify.com/track/4YmSk5JhkXdiG0LbQgjXma"
@@ -1700,6 +1718,32 @@
       "duration_ms": 279147,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2WBybEifpPpXx38HUUegV5"
+    },
+    {
+      "album": {
+        "name": "Shieldmaiden",
+        "url": "https://open.spotify.com/album/2pEGtKClaD7eYWnzQgyWo2"
+      },
+      "artists": [
+        {
+          "name": "Auri",
+          "url": "https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx"
+        },
+        {
+          "name": "Tuomas Holopainen",
+          "url": "https://open.spotify.com/artist/4rpsPzapLwm5LJPZmmWhFI"
+        },
+        {
+          "name": "Johanna Kurkela",
+          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195514,
+      "name": "Shieldmaiden",
+      "url": "https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP"
     },
     {
       "album": {

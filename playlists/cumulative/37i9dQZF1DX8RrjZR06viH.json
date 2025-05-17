@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6"
+      },
+      "artists": [
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "date_added": "2025-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn"
+    },
+    {
+      "album": {
         "name": "Aleine over fjell",
         "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
       },
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 230201,
       "name": "Om du tror p\u00e5 oss",
       "url": "https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL"

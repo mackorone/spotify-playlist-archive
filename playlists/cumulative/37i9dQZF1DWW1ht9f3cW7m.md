@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring Jessica Winter 🍑
 
-251 songs - 13 hr 39 min
+252 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2025-01-24 | 2025-05-16 |
 | [monsters](https://open.spotify.com/track/7BFIBULShxfEOaPEHUZP61) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [monsters](https://open.spotify.com/album/7sUVCCRwEkQHONmQ7A2aAU) | 2:26 | 2024-07-12 | 2024-08-22 |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-08 |  |
+| [moving on](https://open.spotify.com/track/4Fv5w4w5rIVMY29GECwlpP) | [Asher Finlon](https://open.spotify.com/artist/5eMaMRRedFIFXm2o3NtOQB) | [moving on](https://open.spotify.com/album/3Lr4ujf2aw4Z1ResHBPv5C) | 3:40 | 2025-05-15 |  |
 | [Moving Slow](https://open.spotify.com/track/28ePKpOvM6q9t2HLm1K4OG) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/2AoyVm8A8ZfkbRzij3qq7i) | 3:51 | 2024-06-14 | 2024-08-22 |
 | [Mr Useless](https://open.spotify.com/track/0B2jp7LW4HL9tfEBOwQ8Td) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Third Second Chance](https://open.spotify.com/album/2g8QiLGGO8oUhCeQuPgBFv) | 2:59 | 2024-06-14 | 2024-08-22 |
 | [My Brother's Guest Bed](https://open.spotify.com/track/609Nd2xhxPgFxdSFx2F3VN) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [My Brother's Guest Bed](https://open.spotify.com/album/430a74Rz9ehcYqIGQE5Pqr) | 2:36 | 2025-05-08 |  |

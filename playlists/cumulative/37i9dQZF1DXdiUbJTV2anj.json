@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "alive",
+        "url": "https://open.spotify.com/album/3FlzecT4g8ifzrDHbAL3Ov"
+      },
+      "artists": [
+        {
+          "name": "st.sinner",
+          "url": "https://open.spotify.com/artist/3OeX9lekdj5s9FByuNxW8G"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181082,
+      "name": "alive",
+      "url": "https://open.spotify.com/track/7cBQeXeyXxLkKper9J4yXS"
+    },
+    {
+      "album": {
         "name": "All Talk",
         "url": "https://open.spotify.com/album/75NUEwsH1kdH33kVeBoCeo"
       },

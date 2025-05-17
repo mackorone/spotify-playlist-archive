@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,060 songs - 2 day 17 hr 5 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,068 songs - 2 day 17 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1068,5 +1068,13 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1058 | [Your Long Black Hair \- Full Band](https://open.spotify.com/track/5fJ8CKkoUVgkB3D2Z04G6f) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:34 |
 | 1059 | [Neverland](https://open.spotify.com/track/0F4KRoicBk9v9lrcbHQt67) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Neverland](https://open.spotify.com/album/3HXiOLdmPqItX7vSLvCt0m) | 3:56 |
 | 1060 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/6P3vusStV43K0SOHyLeYjY) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:35 |
+| 1061 | [Goodbye, Old Friend](https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:44 |
+| 1062 | [All of the Girls](https://open.spotify.com/track/6ippX1G4fx5HV4xxN5hdPi) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:05 |
+| 1063 | [Venus](https://open.spotify.com/track/7sF85mgMWu3Rm7eR1cExAE) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 2:53 |
+| 1064 | [Let Me Out](https://open.spotify.com/track/1tV70Jik9oSqiEdCgTZKVp) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 2:30 |
+| 1065 | [Old Oregon](https://open.spotify.com/track/60fAaxT50QRUWIMUuWRyd3) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:11 |
+| 1066 | [Beneath the Lilypad](https://open.spotify.com/track/5a4TVULMHuxkkfSClpRpgk) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 1:20 |
+| 1067 | [The Harvest is Thoughtless](https://open.spotify.com/track/3IIcSXb4h75SaLEMypzgVu) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:07 |
+| 1068 | [You Make It Easier](https://open.spotify.com/track/2toz89nXx6wvBvfhQ6RLwi) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 4:51 |
 
-Snapshot ID: `AAAI8SU/peA7vJ1x/ulkx5MWwzlR6pna`
+Snapshot ID: `AAAI+c3Hu9axQLcVXuvSYhi4aW+ILb2G`

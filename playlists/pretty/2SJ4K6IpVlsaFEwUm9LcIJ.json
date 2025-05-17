@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2025 (previous playlists archived on my profile)",
-  "num_followers": 23013,
+  "num_followers": 23015,
   "original_name": "friends and strangers",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAMandFBrGAvv0V03v2cCbdilJ7liee",
+  "snapshot_id": "AAAMbYGjsUZeRq6XKciFSddDZaL9nRo3",
   "tracks": [
     {
       "added_at": "2025-05-08 16:19:05",
@@ -271,6 +271,38 @@
       "duration_ms": 169921,
       "name": "901",
       "url": "https://open.spotify.com/track/3oSjnnvc8y5DpNQfC81Zsk"
+    },
+    {
+      "added_at": "2025-05-16 20:10:39",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2025-05-16 20:10:36",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Two Thieves",
+      "url": "https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C"
     }
   ],
   "unique_name": "friends and strangers",

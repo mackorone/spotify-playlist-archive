@@ -1487,6 +1487,28 @@
     },
     {
       "album": {
+        "name": "you don't have to love me",
+        "url": "https://open.spotify.com/album/13hUqDTeIws6A35LDR8zRL"
+      },
+      "artists": [
+        {
+          "name": "Ana Ju\u00e9l",
+          "url": "https://open.spotify.com/artist/1iHkVAKq12mQH5fZHmKPaU"
+        },
+        {
+          "name": "Luna Ersahin",
+          "url": "https://open.spotify.com/artist/7pzX8VX54FkHWQg3omfAZK"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217374,
+      "name": "bleed (feat. Luna Ersahin)",
+      "url": "https://open.spotify.com/track/3iFUxYGhSWnzhfsFMlbf6e"
+    },
+    {
+      "album": {
         "name": "Bleed (feat. Omar Apollo)",
         "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
       },
@@ -3797,6 +3819,28 @@
     },
     {
       "album": {
+        "name": "Trappa till himlen // Feberdr\u00f6mmar",
+        "url": "https://open.spotify.com/album/44SPK7QVLYgoYVB7A3auuS"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        },
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203243,
+      "name": "Feberdr\u00f6mmar",
+      "url": "https://open.spotify.com/track/3sk4gzlXoaylQ3DR3NdnKK"
+    },
+    {
+      "album": {
         "name": "Feisty",
         "url": "https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd"
       },
@@ -4516,10 +4560,6 @@
         {
           "name": "mimi bay",
           "url": "https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf"
-        },
-        {
-          "name": "Mimi Bergman",
-          "url": "https://open.spotify.com/artist/4RX0WXXrmDI8XqzFOoC4Ei"
         }
       ],
       "date_added": "2025-05-15",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: PLUTO",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -582,7 +582,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 174000,
       "name": "Big Mama",
       "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 122933,
       "name": "BUTTERFLY KISSES",
       "url": "https://open.spotify.com/track/1KmKoRxR8R3vrTWLXeNnbY"
@@ -3966,6 +3966,24 @@
       "duration_ms": 127058,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
+    },
+    {
+      "album": {
+        "name": "Fairy",
+        "url": "https://open.spotify.com/album/1RmNOVzmUpRHczpGYiUd10"
+      },
+      "artists": [
+        {
+          "name": "Myaap",
+          "url": "https://open.spotify.com/artist/2QgCj5pd8aIys9jvr3A1GZ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142177,
+      "name": "Fairy",
+      "url": "https://open.spotify.com/track/735Ji1GzLR9nvteGdbqy8U"
     },
     {
       "album": {
@@ -5750,7 +5768,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 206321,
       "name": "I Look Like",
       "url": "https://open.spotify.com/track/59tJKl874T0lrWnV5wpSYf"
@@ -5927,6 +5945,24 @@
     },
     {
       "album": {
+        "name": "Im So ATL",
+        "url": "https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z"
+      },
+      "artists": [
+        {
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124823,
+      "name": "Im So ATL",
+      "url": "https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A"
+    },
+    {
+      "album": {
         "name": "In Ha Mood",
         "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
       },
@@ -6096,6 +6132,24 @@
       "duration_ms": 217246,
       "name": "Ion Need",
       "url": "https://open.spotify.com/track/03ZoOMBPSsRQZcu7077PcR"
+    },
+    {
+      "album": {
+        "name": "Ironic",
+        "url": "https://open.spotify.com/album/3JEizfDyZUx4Qb18AK4v1f"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128022,
+      "name": "Ironic",
+      "url": "https://open.spotify.com/track/36gwEZRF9Z2EeG3FYkbbmO"
     },
     {
       "album": {
@@ -8636,7 +8690,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 169066,
       "name": "OKLOSER",
       "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
@@ -9750,6 +9804,24 @@
       "duration_ms": 122181,
       "name": "PTPOM - Shemix",
       "url": "https://open.spotify.com/track/5q146DLWV5OJTK0Uch3p5C"
+    },
+    {
+      "album": {
+        "name": "Pull Yo Skirt Up",
+        "url": "https://open.spotify.com/album/0c3rY7M7jxoFaP2fVvTK9P"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109565,
+      "name": "Pull Yo Skirt Up",
+      "url": "https://open.spotify.com/track/3kfXKXtCTjeIcKE4ZKfcjt"
     },
     {
       "album": {
@@ -11014,6 +11086,24 @@
       "duration_ms": 158740,
       "name": "So What?",
       "url": "https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202426,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
     },
     {
       "album": {

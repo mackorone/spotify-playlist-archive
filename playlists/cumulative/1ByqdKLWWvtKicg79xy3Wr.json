@@ -6267,6 +6267,28 @@
     },
     {
       "album": {
+        "name": "Snogo",
+        "url": "https://open.spotify.com/album/4BEBZqaMSbETrV8s4ruVZD"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        },
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240654,
+      "name": "Snogo",
+      "url": "https://open.spotify.com/track/0IAFrSt2pRJ6Lb5sLx8au5"
+    },
+    {
+      "album": {
         "name": "Black Book ID's: Chapter 6",
         "url": "https://open.spotify.com/album/37wDmoWwbVfKMy4lEekOc7"
       },
@@ -6282,7 +6304,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 240654,
       "name": "Snogo",
       "url": "https://open.spotify.com/track/2x1TJAhW8LSjJVDa5N4nUv"

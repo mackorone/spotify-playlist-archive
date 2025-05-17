@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: 2metro
 
-477 songs - 1 day 0 hr 31 min
+478 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Primeiro e Último](https://open.spotify.com/track/4S5k9fUUASxhDeLOeheKK9) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg) | [Primeiro e Último](https://open.spotify.com/album/3U23okBepQJxPNqhe1fxL9) | 2:42 | 2022-03-22 | 2022-07-29 |
 | [Prioridade](https://open.spotify.com/track/1RmOFNrRwuYH0IhRCm3Xwp) | [Luna Garcez](https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Prioridade](https://open.spotify.com/album/3SSpd8yC1ueWdG5ojJlgId) | 3:24 | 2024-08-30 | 2024-10-08 |
 | [Problemão](https://open.spotify.com/track/5imfWcXwnRpbaWTZJJGgjG) | [WC12](https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe) | [Problemão](https://open.spotify.com/album/699L4DVaaNNso1lpspNbCg) | 3:16 | 2023-10-20 | 2023-12-09 |
+| [Procurado](https://open.spotify.com/track/1jzVlewAE5vmxe0bimYaWP) | [PARMA](https://open.spotify.com/artist/0EGqPGabGdJhyGFSRMvlAz), [dotghostit](https://open.spotify.com/artist/0i2fdHaEbGtoKejQ3FFr5t) | [Procurado](https://open.spotify.com/album/50pAoiOssYAgexHUdlBu1e) | 2:11 | 2025-05-16 |  |
 | [Profeta](https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Profeta](https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY) | 2:11 | 2025-02-28 |  |
 | [Prosseguir](https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Prosseguir](https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv) | 2:35 | 2023-10-20 |  |
 | [Proteção](https://open.spotify.com/track/4uZv0PC3yNTMaizCB7cewp) | [Cleiton santos oficial](https://open.spotify.com/artist/3LOINHULPooxh22mXKegOR), [Gui Oficial](https://open.spotify.com/artist/7lbntudv3nUsqXU6zWB3df), [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Proteção](https://open.spotify.com/album/5AHJBYDqA6V4xYbaPgALpy) | 4:04 | 2023-09-15 | 2023-10-07 |

@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Joe Stone
 
-1,732 songs - 3 day 10 hr 55 min
+1,733 songs - 3 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Another Season Alone](https://open.spotify.com/track/68KuCs163Mp4z6O3CD7TrY) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Another Season Alone](https://open.spotify.com/album/4h3gqt64QYaWexOPgsufP8) | 3:12 | 2024-10-10 | 2024-10-25 |
 | [Antidote \(Save Me\) \[feat\. Drew Ryn\]](https://open.spotify.com/track/68oSKXSXvjjhrilwhQsYD4) | [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [Maynamic](https://open.spotify.com/artist/59tEd7UdrbizecKsQGcSAL), [Drew Ryn](https://open.spotify.com/artist/0nkV2JtDJw8rLvwyunAx0R) | [Antidote \(Save Me\) \[feat\. Drew Ryn\]](https://open.spotify.com/album/39k7ZG4K8GBk1Fs4NiYf0J) | 2:42 | 2022-09-09 | 2022-10-01 |
 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 | 2024-01-05 | 2024-01-20 |
+| [Anything \(Ya Ya\)](https://open.spotify.com/track/0UPTkIZR45UaYchMgaVMAs) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C) | [Anything \(Ya Ya\)](https://open.spotify.com/album/0d8CNFTRePsFgEMMBlFOFQ) | 2:50 | 2025-05-16 |  |
 | [Anywhere's Home](https://open.spotify.com/track/5XZZE1pniUcNCFHgDIdFnZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Anywhere's Home](https://open.spotify.com/album/7s8g5nvFg2wa6a5wFWW0N3) | 2:57 | 2022-09-02 | 2022-09-17 |
 | [Anywhere's Home \- Chill Mix](https://open.spotify.com/track/4SRdEjyr9KFDlCpodtOHV2) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Anywhere's Home \(Chill Mix\)](https://open.spotify.com/album/3fCAB6BgbO0qF5OTXcP8k7) | 3:14 | 2022-09-30 | 2022-10-14 |
 | [Anywhere's Home \- Klingande Remix](https://open.spotify.com/track/6wz9kiiKnPjRkwo11LpZ1J) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Anywhere's Home \(Klingande Remix\)](https://open.spotify.com/album/2d3t5k4axWfjZvyVtceCNx) | 2:48 | 2022-12-15 | 2023-01-06 |

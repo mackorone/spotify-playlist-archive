@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40809,
+  "num_followers": 40808,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCPdAAAAAABQ/phLiC/WBOCYadHJJuXs",
+  "snapshot_id": "aCUugAAAAACDireOyJ3fzyWgKIQ0F/9z",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
-        "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08Acoustic Ver.\uff09 (from BEST AL\u201cALTER EGO\u201d)",
-      "url": "https://open.spotify.com/track/2fDFg2VE2lKCvwDwJLwYNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
         "url": "https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 102506,
       "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
       "url": "https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
+        "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08Acoustic Ver.\uff09 (from BEST AL\u201cALTER EGO\u201d)",
+      "url": "https://open.spotify.com/track/2fDFg2VE2lKCvwDwJLwYNJ"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
       "duration_ms": 350120,
       "name": "All Alone With You -Instrumental-",
       "url": "https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 270733,
+      "name": "Fallen -Instrumental-",
+      "url": "https://open.spotify.com/track/03byyh97Boqpvg7QF6Kwk2"
     }
   ],
   "unique_name": "This Is EGOIST",

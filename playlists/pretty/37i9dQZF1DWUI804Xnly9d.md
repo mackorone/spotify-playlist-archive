@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,440 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,460 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 5 | [Hawa Banke](https://open.spotify.com/track/3J2v56A4A8sYZk3qhTvB21) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Hawa Banke](https://open.spotify.com/album/3UVN7cepGedF54XmIUT1Ms) | 4:00 |
 | 6 | [Aa Gaye](https://open.spotify.com/track/2Y0dIYsDmjVUiLkBmxsu6Q) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Aa Gaye](https://open.spotify.com/album/4GJ93ilT4VvRNC0LNx9NYg) | 2:36 |
 | 7 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 |
-| 8 | [Thodi Si](https://open.spotify.com/track/3cOETkjOwfxWMwZG8mZFDD) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Aarifah](https://open.spotify.com/artist/6vzDLX1aBE4CGlYUcg90Lu) | [Adhoore Se Khwaab](https://open.spotify.com/album/6FvvZlxhlSmf0fR6raILy9) | 2:45 |
+| 8 | [Khwab](https://open.spotify.com/track/6nOUdHe1Z9tC9VmhgArHOJ) | [Manish Barve](https://open.spotify.com/artist/7DuQyhglkKFX6b6EU6IEm4) | [Khwab](https://open.spotify.com/album/1xqHDZbdItVrVjoiZLIQCD) | 2:32 |
 | 9 | [Sache Ishq Ki Kahani](https://open.spotify.com/track/2JkMToDSXSNSP13OouLGP5) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Sache Ishq Ki Kahani](https://open.spotify.com/album/1K0UkkDDAhwPZ4BQtt1isv) | 3:26 |
 | 10 | [Arziyaan](https://open.spotify.com/track/49zLvT6TozhbD6ZYue8DUO) | [himRAAG](https://open.spotify.com/artist/79mjISM2eHu96BNO8xZx6X) | [Arziyaan](https://open.spotify.com/album/6spzdYgHt3Q6CHn0puHuOi) | 4:28 |
 | 11 | [Zindagi Ke Safar Mein \- Revisited](https://open.spotify.com/track/72NIK1xqWXQN04EqDYPMxa) | [Suryaveer](https://open.spotify.com/artist/2omeaGkvwY2qLehxcyPqkK), [Qazi Waseem Ahmed](https://open.spotify.com/artist/0wmecPhCS4Mi3j4Wr1zqDE), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Zindagi Ke Safar Mein \- Revisited](https://open.spotify.com/album/7LThk2krcry44R0HuWRao1) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Zihaal e Miskin \- Acoustic Version](https://open.spotify.com/track/5pdlxHg7rN1Fwu7s5FBz5b) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin \(Acoustic Version\)](https://open.spotify.com/album/5ZPtE4inm85dD7lyUp68RM) | 4:06 |
 | 75 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 
-Snapshot ID: `aCXBhQAAAACXlWzyDbEZ9tMBZTQoCMHA`
+Snapshot ID: `aCbKwgAAAAD63TIIwiZts4FmCxc5Fi2T`

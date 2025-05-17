@@ -4489,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "MAGIK",
+        "url": "https://open.spotify.com/album/3Zj2GG4pPjg4ppByk5iCL5"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156952,
+      "name": "MAGIK",
+      "url": "https://open.spotify.com/track/6zWdODBjSnvZF3V1i2s8lq"
+    },
+    {
+      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/7BKVAdt0Hu9UqHceowEMBP"
       },
@@ -5142,7 +5160,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 232266,
       "name": "One That Got Away",
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"

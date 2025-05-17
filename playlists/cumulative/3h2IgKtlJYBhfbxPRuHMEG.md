@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Torcha
 
-170 songs - 9 hr 35 min
+171 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bloodhound](https://open.spotify.com/track/3w6XYpRbMJZ5Lcu65ujgoa) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Bloodhound](https://open.spotify.com/album/6VxXFL6MApAg3l46KxMeH1) | 3:00 | 2023-12-01 |  |
 | [Blue In The Face](https://open.spotify.com/track/5z8uM7nBjl7kHGiYHvm94Z) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Blue In The Face](https://open.spotify.com/album/6UqdnruIxTdntsqhL9bSfW) | 2:46 | 2023-12-01 |  |
 | [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 | 2023-12-01 | 2025-05-03 |
-| [Bone Breaker](https://open.spotify.com/track/6t7QJBcI7xDcjKjRO4mBDf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Bone Breaker](https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx) | 3:22 | 2023-12-01 |  |
+| [Bone Breaker](https://open.spotify.com/track/6t7QJBcI7xDcjKjRO4mBDf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Bone Breaker](https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx) | 3:22 | 2023-12-01 | 2025-05-17 |
 | [Boss Lair](https://open.spotify.com/track/4OEhPaZvhmCmo9Q3SVScLh) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ) | [Boss Lair](https://open.spotify.com/album/3sbzbKDxYwLEUKbyquIvu5) | 3:44 | 2023-12-01 | 2025-03-15 |
 | [Breathe](https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [Breathe](https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh) | 4:08 | 2023-12-01 | 2025-05-03 |
 | [Bright Lights](https://open.spotify.com/track/1U7c5G11xl4PMwhxHdc5oV) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Wolfy Lights](https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Speed Of Light](https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA) | 3:33 | 2023-12-01 | 2025-05-03 |
@@ -148,6 +148,7 @@
 | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/track/413ir53trC0Nfh4Mhdmgws) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/album/5tght1mFiO2ezt5lz9L2IS) | 1:33 | 2024-02-16 | 2024-11-09 |
 | [Superstars](https://open.spotify.com/track/7FbdXyyZOknEfjHxGmdQVp) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Superstars](https://open.spotify.com/album/6dvGmNFspBMuwkM09pJqkj) | 2:52 | 2023-12-01 | 2024-11-30 |
 | [Sweet Memories](https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Sweet Memories](https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO) | 3:55 | 2024-11-19 |  |
+| [Syndicate](https://open.spotify.com/track/5s6NMmKfznLCgjE10p5lrp) | [Torcha](https://open.spotify.com/artist/4T3lVWSpnJHDwHMubsVjAl), [skxllflower](https://open.spotify.com/artist/5LmixEls7YhrtkWQ61n9fj) | [Monolith EP](https://open.spotify.com/album/3Iem6HWPUCg0Fs87SZOrhJ) | 2:32 | 2025-05-16 |  |
 | [Take ft\. Kimbra](https://open.spotify.com/track/65GMJ7KrLhUi8ya8uO9jJe) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Take ft\. Kimbra](https://open.spotify.com/album/40vNmeAq90YxNen2h1COXQ) | 2:50 | 2023-12-01 | 2025-05-03 |
 | [Takedown](https://open.spotify.com/track/1w57rbbZmsbeMpeDiQoaHx) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Takedown](https://open.spotify.com/album/62Nx27SgklKgnjIDB1A99T) | 2:51 | 2024-03-22 | 2024-11-09 |
 | [Techno Prank](https://open.spotify.com/track/2JqbTRtUZmkTIHxPyBkurQ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Techno Prank](https://open.spotify.com/album/7GXvOmUgon63BfUk3AB5fS) | 3:23 | 2023-12-01 | 2025-05-03 |

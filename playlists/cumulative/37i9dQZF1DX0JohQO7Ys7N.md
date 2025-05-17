@@ -2,7 +2,7 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Clark Keen, Zawadi Mukami & Chris Barr
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Clark Keeng, Zawadi Mukami & Chris Barr
 
 270 songs - 15 hr 6 min
 

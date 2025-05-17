@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: SoundSleep
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Something Sweet
 
-200 songs - 14 hr 23 min
+203 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,9 @@
 | [Don’t You Go feat.Gong Thepvipat](https://open.spotify.com/track/0lNpn1MG96EgHjs5tDlFnR) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM), [Gong Thepvipat](https://open.spotify.com/artist/745jmibDjv02om1m5ln0oC) | [Don’t You Go](https://open.spotify.com/album/2vZwyxOHn75WzVPqux1mhB) | 3:23 | 2024-06-21 | 2024-09-07 |
 | [Drowning Leaf](https://open.spotify.com/track/76dipWHfhzdJ0EH8WYVImp) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [Drowning Leaf](https://open.spotify.com/album/6CYGKwZEdDX2o4j3VwJmMR) | 4:49 | 2024-06-28 | 2024-07-06 |
 | [How Are U?](https://open.spotify.com/track/31d7yUJB75GOVgMDDiqoIt) | [ELEVEN](https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN), [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [Don't Wanna Lose "U"](https://open.spotify.com/album/1avLfjuM8CQMIhGogDksw3) | 4:43 | 2024-06-21 | 2025-04-12 |
-| [IG](https://open.spotify.com/track/7Aepf1U1aEjhU4lhCmvqMz) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN), [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi) | [IG](https://open.spotify.com/album/3kt7j2BUwZ2FJRjCBZwdNH) | 3:32 | 2024-12-13 |  |
+| [IG](https://open.spotify.com/track/7Aepf1U1aEjhU4lhCmvqMz) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN), [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi) | [IG](https://open.spotify.com/album/3kt7j2BUwZ2FJRjCBZwdNH) | 3:32 | 2024-12-13 | 2025-05-17 |
 | [Jinna](https://open.spotify.com/track/4sTpyVCItKsKf9yduwZMIF) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [Jinna](https://open.spotify.com/album/1tjZtHV3wJuaeMgMouIkQ2) | 4:18 | 2024-06-28 | 2024-08-03 |
-| [KON LA KON \(คนละคน\)](https://open.spotify.com/track/2dF92JkAbSoTwfgHMKJdqj) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [KON LA KON \(คนละคน\)](https://open.spotify.com/album/16282P8OPLHzPKBC9eKMIh) | 5:08 | 2025-05-02 |  |
+| [KON LA KON](https://open.spotify.com/track/2dF92JkAbSoTwfgHMKJdqj) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [KON LA KON](https://open.spotify.com/album/16282P8OPLHzPKBC9eKMIh) | 5:08 | 2025-05-02 |  |
 | [Last Festival](https://open.spotify.com/track/6EVZd1EfvhbLVsNOs0fpKC) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [Last Festival](https://open.spotify.com/album/36ncWx5vMfncUSRXzTyyH2) | 5:04 | 2024-06-21 | 2024-10-05 |
 | [Lipstick](https://open.spotify.com/track/0EOqASHOC3TC6PR52Fq5jY) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [Lipstick](https://open.spotify.com/album/5n5wsBdCiNCaJYZNjEUjuz) | 3:30 | 2025-01-24 | 2025-04-26 |
 | [Lost.](https://open.spotify.com/track/0FDl3MhupeY2ZypBTGiOie) | [Intoverse](https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk) | [Lost.](https://open.spotify.com/album/36Li8OqMeFr2AVa5X6gyat) | 4:00 | 2025-01-09 |  |
@@ -34,6 +34,7 @@
 | [Skuna](https://open.spotify.com/track/12kAcs5wwsuylTkcATgMCY) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [Skuna](https://open.spotify.com/album/3Yo2BYDn62l0lkhKWczMjg) | 3:47 | 2024-11-08 | 2024-11-23 |
 | [Someone](https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl) | [Vrach](https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM) | [Someone](https://open.spotify.com/album/3XnCKRIj2QvaKSwfkLKdyM) | 3:07 | 2024-06-28 | 2024-07-20 |
 | [Songkran SOI COWBOY](https://open.spotify.com/track/3d4LpE2eJCsb1rvG4uq7dv) | [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi), [Younggu](https://open.spotify.com/artist/1FoYKCI4RZTARNndlahQeD), [Twopee Southside](https://open.spotify.com/artist/4ElNwSJyLhUjurznOPLmRn) | [Songkran SOI COWBOY](https://open.spotify.com/album/3thFyDxTBbC9bBVWhjGW9j) | 3:46 | 2025-04-11 | 2025-04-19 |
+| [Still Be Her \(TH.Version\)](https://open.spotify.com/track/2lGYLGdo5GYhoUD5N0uiB2) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Still Be Her \(TH.Version\)](https://open.spotify.com/album/6PhK1QVT9UiuCHeVV4vkGh) | 5:25 | 2025-05-16 |  |
 | [Summer](https://open.spotify.com/track/3xiQdmur1QcU1ZV52A0QTc) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [Summer](https://open.spotify.com/album/6GcBIH0XEQn0cnmLEuf2Pz) | 3:40 | 2025-02-12 | 2025-02-22 |
 | [To You](https://open.spotify.com/track/651NyhGG8kKZ44qfBpgN1s) | [Seal Pillow](https://open.spotify.com/artist/4Wojlk2KVCqYJ1D7ZskjDH) | [To You](https://open.spotify.com/album/3h1mKh0ynFpNUJWAnYSqKL) | 4:04 | 2025-03-21 | 2025-03-29 |
 | [Too Good](https://open.spotify.com/track/6oP4ZPYqkLjzSnKMT6ETaH) | [Secret Diskette](https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx) | [Too Good](https://open.spotify.com/album/4AEAjTwPfEhHaMgWbuMXMN) | 3:11 | 2024-07-19 | 2024-08-24 |
@@ -45,6 +46,7 @@
 | [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 | 2024-12-20 |  |
 | [การแอบรักใครสักคนนึง](https://open.spotify.com/track/0KhW3r1SRHHcW2IepwH5FJ) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [การแอบรักใครสักคนนึง](https://open.spotify.com/album/7mt8j5pGsfRH7mQUgnyTzS) | 3:41 | 2025-02-28 | 2025-03-22 |
 | [กาลครั้งหนึ่ง](https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj) | [Serotonin](https://open.spotify.com/artist/1jv5r0hKtAnEhmeCAkAIFy) | [กาลครั้งหนึ่ง](https://open.spotify.com/album/4xS2yzQCTlQb6dSitNnV0t) | 4:38 | 2024-06-21 | 2024-08-03 |
+| [กาลบันทึก](https://open.spotify.com/track/4IrJS4MilyjcmqCFZJr9uL) | [CHANDAGE](https://open.spotify.com/artist/3NZdazEd4BFRKuqCRWiYAv), [Sarawit Doungngam](https://open.spotify.com/artist/1hgGmFZ1SJkxLxNpbQPHtd) | [กาลบันทึก](https://open.spotify.com/album/2HX99x30suqyOgPhuPXmd0) | 4:52 | 2025-05-16 |  |
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 |  |
 | [ของเล่น](https://open.spotify.com/track/1vDqNZzCsD76TtVHgjYg3z) | [PENFINS](https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l) | [ของเล่น](https://open.spotify.com/album/3Gmy7xeuCwfTRjhiXHfcX4) | 4:56 | 2024-06-21 | 2024-08-31 |
 | [ขอบคุณ](https://open.spotify.com/track/5o6fmz0Ur2R0URdDjs4t0u) | [Chaoding](https://open.spotify.com/artist/46aXWUEonRAlGQF6eGNxdD) | [ขอบคุณ](https://open.spotify.com/album/7iQug1qY7HQ10iGAMB1vAa) | 5:58 | 2024-09-13 | 2025-02-08 |
@@ -125,6 +127,7 @@
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-06-28 | 2024-07-06 |
 | [ยิ้มเธอ\(Still\)](https://open.spotify.com/track/19C1zQ4ChUqYzA17q7kexu) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [ยิ้มเธอ\(Still\)](https://open.spotify.com/album/0CH79nEW5Cq2epIlOyrShj) | 3:49 | 2024-06-21 | 2024-08-31 |
 | [รถมันติด \(Romantic\)](https://open.spotify.com/track/1nifHQL0R1vZKYaoeqhJCM) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [รถมันติด \(Romantic\)](https://open.spotify.com/album/0NbbkbliUaaqnxYRNKDY44) | 4:14 | 2025-04-11 | 2025-05-03 |
+| [รักดีดีใกล้คุณ](https://open.spotify.com/track/11h7EE5Uh2Rbx9hdRaJL2A) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [รักดีดีใกล้คุณ](https://open.spotify.com/album/4pTEYzVcL4FWirueQDiFQA) | 4:11 | 2025-05-16 |  |
 | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/track/6NxfzvGM8l0yINzmQxGft4) | [Yacht](https://open.spotify.com/artist/41AuZ5SgqlI1HR78GPn2Zr) | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/album/4JRWZJ9Aif3RXwGdwNGtxJ) | 3:45 | 2024-09-20 | 2024-11-29 |
 | [รู้สึกตัว](https://open.spotify.com/track/5t5n6cZgHRmt6yrdMlIMcC) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [รู้สึกตัว](https://open.spotify.com/album/2svVFNBmOOgejzogp2Or6G) | 3:34 | 2024-08-30 | 2024-09-28 |
 | [รู้ได้ไงว่าไม่คิดถึง \(nostalgia\)](https://open.spotify.com/track/2acaYxjO80y9TfRTqytenB) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l), [Pumpkins At Alaska](https://open.spotify.com/artist/0t8SCeZxq3k0MrqlvBdyJv) | [from time to time](https://open.spotify.com/album/0QF3MC2PVQg0BeBKZS0Hzn) | 4:28 | 2024-06-21 | 2024-10-12 |
@@ -181,7 +184,7 @@
 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 | 2024-06-21 | 2025-05-03 |
 | [แค่ผ่านไปให้เหมือนเดิม](https://open.spotify.com/track/2IhoaEJzMnfMWJaGAVVKNN) | [SAPAPSUPAP](https://open.spotify.com/artist/4mcpLGrLEdwxau2ySVsbsx) | [แค่ผ่านไปให้เหมือนเดิม](https://open.spotify.com/album/5SNNm01q89heuXS5ZJJA7t) | 3:37 | 2024-10-11 | 2024-10-19 |
 | [แค่อยากเจอ \(About Fate\)](https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [แค่อยากเจอ \(About Fate\) \- Single](https://open.spotify.com/album/2kZY8JWpqJQ00zYE8faOmj) | 4:41 | 2024-09-20 |  |
-| [แค่เพียงบังเอิญ](https://open.spotify.com/track/1yojnSiavtYx6byEbWOMsX) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แค่เพียงบังเอิญ \(Nostalgia\)](https://open.spotify.com/album/54U3Bnqm294T63Lt6SZ3P8) | 4:28 | 2024-06-21 |  |
+| [แค่เพียงบังเอิญ](https://open.spotify.com/track/1yojnSiavtYx6byEbWOMsX) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แค่เพียงบังเอิญ \(Nostalgia\)](https://open.spotify.com/album/54U3Bnqm294T63Lt6SZ3P8) | 4:28 | 2024-06-21 | 2025-05-17 |
 | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/track/6xUpgdaBkxFot3bhoT1BiW) | [Snowman Listen](https://open.spotify.com/artist/31jtvjImeB55ztAELOvu0y) | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/album/1dy7TvVvfVdcVrzFY2e2Ad) | 4:09 | 2024-06-21 | 2025-01-10 |
 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-06-21 | 2024-09-14 |
 | [โลกนี้มีแต่คำลา \(Good\)Bye](https://open.spotify.com/track/2ZkgmOYai2l0x38Wti8nzr) | [Lost n' Found](https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt) | [โลกนี้มีแต่คำลา \(Good\)Bye](https://open.spotify.com/album/4K55gPyJQP9B8mSnDSD5su) | 4:52 | 2024-11-15 | 2025-03-08 |
@@ -205,7 +208,7 @@
 | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/track/40iWwQzs0TALQaTPu8L2lc) | [SoundSleep](https://open.spotify.com/artist/6s1SgkazTTQy1i0fs6ZIGw) | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/album/3yEhe0j7XHRHJEAuhoj7Rj) | 4:52 | 2025-05-09 |  |
 | [ไม่ว่าจะดาวดวงไหน \(Under any star\)](https://open.spotify.com/track/6BhCYlMoARieAdhSQVJj2M) | [Def Teerapat](https://open.spotify.com/artist/48vGpotLO3IyFQbzlfAWtI) | [ไม่ว่าจะดาวดวงไหน \(Under any star\)](https://open.spotify.com/album/66Mw3mVkQcob4hQ4xFId7q) | 4:55 | 2025-04-25 |  |
 | [ไม่อยากให้ใครรู้](https://open.spotify.com/track/2kldTgMUVzMVGctA5VjNle) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [ไม่อยากให้ใครรู้](https://open.spotify.com/album/1BC5GiuLLAZ1TkbfNiHWeC) | 3:02 | 2024-08-23 | 2024-09-07 |
-| [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/track/3qBz1hhoPZeow1fkyYf96Z) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/album/60K7zt5spofDT1JaJotwa0) | 5:18 | 2024-06-21 |  |
+| [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/track/3qBz1hhoPZeow1fkyYf96Z) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/album/60K7zt5spofDT1JaJotwa0) | 5:18 | 2024-06-21 | 2025-05-17 |
 | [ไม่เหมือนก่อน](https://open.spotify.com/track/3Abjyw5bTmfsi80k5ZO3T3) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [ไม่เหมือนก่อน](https://open.spotify.com/album/6bJ6JFCFWzwt1FGZEJSZQD) | 4:14 | 2024-08-23 | 2024-09-14 |
 | [ไว้เจอกันใหม่ \| Until Then](https://open.spotify.com/track/30N3J1PS11FD22EqfGCG7u) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [ไว้เจอกันใหม่ \| Until Then](https://open.spotify.com/album/1HXHxpuTDuxsRlw2tg9xyF) | 4:43 | 2025-05-02 |  |
 

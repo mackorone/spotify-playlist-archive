@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-471 songs - 1 day 2 hr 16 min
+472 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Berlin 1](https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Berlin 1](https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j) | 5:02 | 2022-07-29 | 2023-08-19 |
 | [Bet On Me](https://open.spotify.com/track/1rBtX2UbcSY9jizKtmnu6C) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Bet On Me](https://open.spotify.com/album/1HIGB8Hl480Du1r7nP3ISx) | 3:11 | 2021-09-21 | 2022-07-20 |
 | [Better Days \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Better Days \(feat\. Aloe Blacc\)](https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5) | 2:36 | 2022-09-23 | 2024-03-23 |
+| [Better Luck Next Time](https://open.spotify.com/track/7tSZxn5ptj0i8RCkxRRMId) | [Alohaii](https://open.spotify.com/artist/3kNWENaTd7pb0xFqNuq7Sc), [Shiki Miyoshino](https://open.spotify.com/artist/58M3LYj3m6sjKuIlrCpAGu) | [Better Luck Next Time](https://open.spotify.com/album/78zVxVbReCDgt1zbfo5Vrs) | 4:07 | 2025-05-16 |  |
 | [Better Man](https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Better Man](https://open.spotify.com/album/0DEeN73MO5qqBkPgwYW0Wl) | 3:16 | 2021-09-21 | 2022-12-25 |
 | [Better Man](https://open.spotify.com/track/7i0P4yzw6arbmE7LHDM3vY) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Better Man](https://open.spotify.com/album/2ukuwykWA5AatwuGHjZ7XT) | 3:16 | 2021-09-21 | 2023-02-18 |
 | [Better Now \[Remix\]](https://open.spotify.com/track/3cLA64aQAhxDRQvSp3IBiJ) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Reggie Got Beats](https://open.spotify.com/artist/23tus21ldeakyJwF2NMRhQ), [RickyAtoms](https://open.spotify.com/artist/2pXL1201Xrd659BNMtUG6J) | [Better Now \[Remix\]](https://open.spotify.com/album/730b82WMFGJzq0pZ0eSc3R) | 3:28 | 2021-09-21 | 2022-07-09 |
@@ -423,7 +424,7 @@
 | [Too Late](https://open.spotify.com/track/1bN0y9b42huS3Z5UjXXCYN) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Too Late](https://open.spotify.com/album/1FPWduEdg0n8iu5P43zIG3) | 3:28 | 2021-08-13 | 2022-07-28 |
 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-05-13 | 2024-03-02 |
 | [Tore Up Jeans](https://open.spotify.com/track/1LdSdstATug7sjAaAnZljw) | [Kabwasa](https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4), [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Featherweight Funk](https://open.spotify.com/album/3plIw0X5hzJUAFUFEyE76I) | 2:25 | 2024-03-01 |  |
-| [Trip](https://open.spotify.com/track/2DmiM4Uvr834eiPUXtwLle) | [Alfie Neale](https://open.spotify.com/artist/3kMEpQS5iaBwIvrudhKYmG) | [Trip](https://open.spotify.com/album/4KPre8otxtK3jMf1nVUvcz) | 3:26 | 2023-03-17 |  |
+| [Trip](https://open.spotify.com/track/2DmiM4Uvr834eiPUXtwLle) | [Alfie Neale](https://open.spotify.com/artist/3kMEpQS5iaBwIvrudhKYmG) | [Trip](https://open.spotify.com/album/4KPre8otxtK3jMf1nVUvcz) | 3:26 | 2023-03-17 | 2025-05-17 |
 | [trouble](https://open.spotify.com/track/5LUu6thRvPXR0td03OZzgD) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy) | [trouble](https://open.spotify.com/album/2vJVkhXPsDQNXlnrMXPNNj) | 2:51 | 2020-11-27 | 2022-03-23 |
 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-14 | 2023-01-12 |
 | [Turn Me Up](https://open.spotify.com/track/7KKB3IMxdBwiAvayp6m8DE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Turn Me Up](https://open.spotify.com/album/42PxlWO8vKHRzGRquHvhhy) | 3:53 | 2020-11-13 | 2022-01-05 |

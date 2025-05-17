@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>우슬라임 \(Wuuslime\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,978 likes - 103 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,955 likes - 103 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 2 | [ZOOTED \(Feat\. HAON\)](https://open.spotify.com/track/2PFKiEI0nstr1Jm05Ynjez) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 2:33 |
 | 3 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 |
 | 4 | [Show Must Go On](https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Show Must Go On](https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC) | 2:46 |
-| 5 | [.KR](https://open.spotify.com/track/40cPWUDvjyTSgcwTLAji09) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [.KR](https://open.spotify.com/album/3j6kVLZP66qsQ5DOH3FGpG) | 4:37 |
+| 5 | [.KR](https://open.spotify.com/track/40cPWUDvjyTSgcwTLAji09) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [.KR](https://open.spotify.com/album/3j6kVLZP66qsQ5DOH3FGpG) | 4:35 |
 | 6 | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/track/1NherpHznnJP7b9gTgSuaM) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [random summer night \(feat\. Jordan Ward\)](https://open.spotify.com/album/3nq9zLPsaY9KlOyCbqImuX) | 2:48 |
 | 7 | [KK](https://open.spotify.com/track/1jVbNXrlLVZZujWHKmRUNG) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [KK](https://open.spotify.com/album/5J6YNvgqim7ak40ndVo78v) | 2:08 |
 | 8 | [INDEPENDENCE DAY \(Feat\. Sik\-K\)](https://open.spotify.com/track/1QQymqrhheYVUYSrDyF8lt) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 3:00 |

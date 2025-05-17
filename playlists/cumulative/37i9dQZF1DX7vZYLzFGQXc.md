@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 미티 \(Mitty\)\) \(Meet the emerging talents of Korea!\)
 
-1,539 songs - 3 day 14 hr 35 min
+1,540 songs - 3 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,7 @@
 | [habit](https://open.spotify.com/track/7uFDVF0sZEHWEjeaD6sGd7) | [yoon sister](https://open.spotify.com/artist/0TFbDsUe05qEK5yotMtZfr) | [habit](https://open.spotify.com/album/0cT1KaPTUw2CW2r9YFMN6g) | 4:22 | 2022-04-20 | 2022-06-10 |
 | [Hair Style \(feat\. DON MALIK & Hannah\)](https://open.spotify.com/track/5Wwr9KJMb6QrF8CxeFp1RH) | [Iamdl](https://open.spotify.com/artist/4vPZ9bJ0Jgu44Nbtm7iJUL), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Hannah](https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9) | [CHAPTER 1](https://open.spotify.com/album/1fCeGGR50gRbs1k0saKDJU) | 3:23 | 2022-06-18 | 2022-07-05 |
 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 | 2024-05-02 | 2025-01-21 |
-| [Handkerchief](https://open.spotify.com/track/4h0Ihfvf0oa0gTVMcZFJVH) | [Gitae](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6) | [Handkerchief](https://open.spotify.com/album/3y3lIqzLOKLFid7d2mXZLy) | 3:37 | 2025-02-04 |  |
+| [Handkerchief](https://open.spotify.com/track/4h0Ihfvf0oa0gTVMcZFJVH) | [Gitae](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6) | [Handkerchief](https://open.spotify.com/album/3y3lIqzLOKLFid7d2mXZLy) | 3:37 | 2025-02-04 | 2025-05-17 |
 | [Hangman](https://open.spotify.com/track/4547YWizllfrQtsVPkqq8D) | [ChiVee](https://open.spotify.com/artist/3nR6kcQuqyXQAblPOAckih) | [Hangman](https://open.spotify.com/album/46WvBK1tP7Cjla2lgkBaC9) | 3:25 | 2024-05-02 | 2024-09-03 |
 | [Happy again](https://open.spotify.com/track/524UIZk5PQAMnJ44MvPE49) | [CITI](https://open.spotify.com/artist/18Ddi2iVxvOlH08AZrP0PE) | [Happy again](https://open.spotify.com/album/6ixXboNAVHNq7vty6cbeWK) | 3:07 | 2023-02-08 | 2023-05-02 |
 | [Happy birthday](https://open.spotify.com/track/0u5JXGiT6RnPig6MEbNIQc) | [DooBoo](https://open.spotify.com/artist/3A9n1umqOpwTvqyRMQ213a) | [Happy birthday](https://open.spotify.com/album/43GSyMnce8CwmDJ22qrQ0U) | 3:27 | 2022-01-24 | 2022-03-03 |
@@ -915,6 +915,7 @@
 | [Nonsense \(feat\. Jiyoungssi\)](https://open.spotify.com/track/2o7K5e6fdsmGzw6Dmjy8Pf) | [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM), [Jiyoungssi](https://open.spotify.com/artist/6VTNQV8TtMRkfPlNHEQ2ft) | [Nonsense \(feat\. Jiyoungssi\)](https://open.spotify.com/album/2ClstM12FmHaU42tEYWHCX) | 3:10 | 2024-07-03 | 2024-09-20 |
 | [Nostalgia](https://open.spotify.com/track/6B1rtnTMiYoQKtkSKMtXAK) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Nostalgia](https://open.spotify.com/album/4vMdxNFcddeFZSK3IqtzaD) | 4:39 | 2022-07-04 | 2022-08-19 |
 | [Not Anymore](https://open.spotify.com/track/2HJ5BHQ3pguvRIiCXqXuL7) | [VAITEI](https://open.spotify.com/artist/3ql4XNI00x7aUyzk26dDNO) | [Not Anymore](https://open.spotify.com/album/1qen2YeRQZv51XhBBcie3X) | 2:49 | 2022-06-09 | 2022-07-05 |
+| [Not But Disco](https://open.spotify.com/track/0zYh96PnOBI8zFCHedpSzc) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Not But Disco](https://open.spotify.com/album/0maHyVb700DeV5b76MdpeG) | 3:44 | 2025-05-16 |  |
 | [not ours](https://open.spotify.com/track/4Mg8g6yUQSCykJKgosr2U5) | [adore](https://open.spotify.com/artist/599aVifFb724ktGNGaYRRA) | [closed eyes, daytime dreams](https://open.spotify.com/album/25iVJ5J32T4whC2NrE4VSl) | 4:25 | 2023-05-01 | 2023-06-02 |
 | [Not Sleep](https://open.spotify.com/track/2Kr4FPeUyD4nzaRt2UL4RD) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [BREAKTIME](https://open.spotify.com/album/4q2F1D3FdhWkVDKLhLBbiA) | 3:22 | 2023-07-27 | 2024-01-05 |
 | [Not That Girl](https://open.spotify.com/track/47aAWHl14baNRkXTVb4klI) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Not That Girl](https://open.spotify.com/album/248xbwV8p63ODY1gwDkc50) | 3:38 | 2025-02-14 |  |

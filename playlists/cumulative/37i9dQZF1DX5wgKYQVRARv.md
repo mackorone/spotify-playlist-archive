@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-795 songs - 2 day 20 hr 14 min
+797 songs - 2 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Disciples of the Sun](https://open.spotify.com/track/76KGTHiM04kL0TCowKsGUU) | [Pyramaze](https://open.spotify.com/artist/23jSIm8VfKV2HaQJtfR3PK) | [Disciples of the Sun](https://open.spotify.com/album/5PKrNohOZEdJMSo1FxrTN3) | 3:54 | 2021-12-17 | 2022-01-27 |
 | [Disgrace](https://open.spotify.com/track/5rYSTcp3bc4cunk15qleUQ) | [Upside Crown](https://open.spotify.com/artist/176Ebqa5dZtMZFHldPC8Pe) | [On The Verge Of Oblivion](https://open.spotify.com/album/7wyMsiHIYjgzhrNdlW9G5f) | 3:48 | 2021-12-17 | 2022-01-26 |
 | [Disillusion](https://open.spotify.com/track/01rMNJUjSfJAGig3hXDiIz) | [Loch Vostok](https://open.spotify.com/artist/016GvkOAZuk3P4nMiJ2sX8) | [Disillusion](https://open.spotify.com/album/3dZG3iBI1wB2KlnZjbrvyT) | 4:42 | 2021-12-17 | 2022-07-27 |
+| [Dislocated](https://open.spotify.com/track/1Iw4yXNzBGnvxDfaNuMo3W) | [Midwinter](https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J) | [Dislocated](https://open.spotify.com/album/6Vr6pUhz1f9kKGSTvCAYVX) | 4:20 | 2025-05-16 |  |
 | [Dissonance](https://open.spotify.com/track/3VTipthZvRfTC2KQhJUi5q) | [Deceptic](https://open.spotify.com/artist/71waPeZf36tWy5Ha4PLupX) | [Dissonance](https://open.spotify.com/album/21JBvvner2uMhhsufWMQ8v) | 3:42 | 2022-07-13 | 2025-02-08 |
 | [Distraction I](https://open.spotify.com/track/6J1tBtCQNDBE6k8pFXiR6w) | [Wilderun](https://open.spotify.com/artist/0wQmcChWogcmsCThY2SKES) | [Distraction I](https://open.spotify.com/album/1rytYjsfqbR0kcMY1bYmTl) | 4:56 | 2021-12-17 | 2022-07-28 |
 | [Divine](https://open.spotify.com/track/6gS9achslm44dxhxsIq574) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3) | [Divine](https://open.spotify.com/album/2TlZ2NSBCKv6oQkFmpbu05) | 3:36 | 2022-07-08 | 2024-07-24 |
@@ -287,7 +288,7 @@
 | [Gordian Naught](https://open.spotify.com/track/6QD6PReeaIZ5iZXVEntcKE) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Gordian Naught](https://open.spotify.com/album/4NZVjgBQQw9iscGkydO5J2) | 4:48 | 2022-02-25 | 2022-11-05 |
 | [Gordian Naught](https://open.spotify.com/track/7uhwNvGV8LaWoHsrawt6jD) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Parrhesia](https://open.spotify.com/album/1mIiGxlTjTnNMTS9HYwsuB) | 4:48 | 2022-10-28 | 2024-04-19 |
 | [Grasping Time \- Single Version](https://open.spotify.com/track/27DIYmcXxMNNVztsjiCApl) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Grasping Time](https://open.spotify.com/album/5z4BnCZGs1JX8oIhUyedjW) | 4:20 | 2021-12-17 | 2022-06-26 |
-| [Gratitude](https://open.spotify.com/track/03IY1x0GbOXI6yVLQwfIJF) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Gratitude](https://open.spotify.com/album/4vRMVsCjRurtww8MpUrKpn) | 3:29 | 2024-11-22 |  |
+| [Gratitude](https://open.spotify.com/track/03IY1x0GbOXI6yVLQwfIJF) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Gratitude](https://open.spotify.com/album/4vRMVsCjRurtww8MpUrKpn) | 3:29 | 2024-11-22 | 2025-05-17 |
 | [Great Escape, Pt\. 1](https://open.spotify.com/track/5wpH4Co0ugsFB7D6DUdlyQ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Great Escape, Pt\. 1](https://open.spotify.com/album/3FhlQbfXg8ZpHjJ9M6Z30B) | 7:36 | 2021-12-17 | 2022-01-27 |
 | [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 | 2025-01-10 |  |
 | [Gula](https://open.spotify.com/track/6JJ22tCYd0nuCNNBT1VgNc) | [The Great Discord](https://open.spotify.com/artist/3KWOkq7nrD0UybEUMj4Ryt) | [Gula](https://open.spotify.com/album/2P6ERbEJH2eVTmnoGd9qZh) | 3:30 | 2021-12-17 | 2022-07-28 |
@@ -464,7 +465,7 @@
 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 |  |
 | [Nowhere](https://open.spotify.com/track/1Uy2ftDSKw3WmS5pEbKPtx) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/0zIO29lL9JxZCLhPszt6me) | 5:02 | 2022-10-28 | 2024-04-19 |
 | [Nowhere](https://open.spotify.com/track/3GSiy6QJ8LM2o1u6NimbZT) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/6fOy4uokE6m81dMyrwAKtv) | 5:02 | 2022-07-13 | 2022-11-20 |
-| [Nyetflix and Chill](https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3) | [Nuclear Power Trio](https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev) | [Nyetflix and Chill](https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe) | 3:23 | 2023-12-06 |  |
+| [Nyetflix and Chill](https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3) | [Nuclear Power Trio](https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev) | [Nyetflix and Chill](https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe) | 3:23 | 2023-12-06 | 2025-05-17 |
 | [Obsolete Beings](https://open.spotify.com/track/0FiVaht935tCYXQFMJF5uX) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Obsolete Beings](https://open.spotify.com/album/3mZkwo2gwJP5smBjH04Hp9) | 5:34 | 2021-12-17 | 2022-01-29 |
 | [Ocean Floor](https://open.spotify.com/track/46BZw3T2wk1Y38U04wUUTn) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [I Wonder](https://open.spotify.com/album/4c3hETZkctstH28srhPFZh) | 6:17 | 2021-12-17 | 2022-07-17 |
 | [Ocean in the Sky](https://open.spotify.com/track/0FyPJSY4kuQwwd6Bras3ek) | [NUTRONIC](https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/7o7ksjM61aXwu3x91xLS4V) | 6:06 | 2022-09-02 | 2023-01-21 |
@@ -711,6 +712,7 @@
 | [This Is It](https://open.spotify.com/track/4TEtqylSt1QhGBEfSi6tWA) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [The Fundamental Slimes and Humours](https://open.spotify.com/album/2UtymwEf1sKP4SgOYx1O8F) | 4:00 | 2022-12-16 | 2024-04-19 |
 | [Thousand\-Arms Fortress](https://open.spotify.com/track/36WfOjorByjWNJXJ96Op8u) | [Returning We Hear the Larks](https://open.spotify.com/artist/2g5SOob5tmBbErT2JNY4fh) | [Thousand\-Arms Fortress](https://open.spotify.com/album/6222MQeLrdKWbBYmCqrotk) | 5:49 | 2022-07-13 | 2023-12-07 |
 | [Three Bridges](https://open.spotify.com/track/7IwuxtmnfC5rjxmk49it95) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Three Bridges](https://open.spotify.com/album/3vb21L1QoverZCitHOoOhq) | 8:45 | 2021-12-17 | 2022-07-29 |
+| [Through Shadows](https://open.spotify.com/track/2g7Ja4H5S9Au8oy3JC9536) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [Through Shadows](https://open.spotify.com/album/4FIgabG9ADBAotwf5kudJl) | 5:09 | 2025-05-16 |  |
 | [Through the Depths \(Single Edit\)](https://open.spotify.com/track/5C0736WNhxPThhiAiXysUk) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Through the Depths](https://open.spotify.com/album/0Jdbzsh0TxdSzyJFkskOhl) | 4:55 | 2021-12-17 | 2022-07-29 |
 | [Through the Sands of Time](https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ) | [TEMIC](https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I) | [Terror Management Theory](https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI) | 7:01 | 2023-12-06 |  |
 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 | 2022-04-29 |  |

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:Fajar Noor
 
-4,626 songs - 11 day 19 hr 40 min
+4,628 songs - 11 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Arah](https://open.spotify.com/track/19N5L3mOnmlrsOSf5dAFdf) | [Andin Febrianti](https://open.spotify.com/artist/0AACMhfxKNYYlsGHkqnzY2) | [Arah](https://open.spotify.com/album/7hnIKkXqTarCLPTeVXRmLj) | 4:14 | 2022-05-05 | 2022-05-20 |
 | [Arah](https://open.spotify.com/track/0wiGzBgGGYeOLQA7zp5nDz) | [ERYA](https://open.spotify.com/artist/7rjDpky9mke0tI0Fb6j3WZ) | [Arah](https://open.spotify.com/album/5NHTCceYlwGSW9KTKwcgUd) | 4:51 | 2024-08-29 | 2024-09-27 |
 | [Arah Bersamamu](https://open.spotify.com/track/7LYHhyVh0lyOolKsOUDNMT) | [Nadzira Shafa](https://open.spotify.com/artist/3XzmTEQR3TMBJWJqE4Vtos) | [Arah Bersamamu](https://open.spotify.com/album/5eUomalYxWZJsOtMzl0Lhz) | 4:03 | 2023-09-28 | 2023-10-20 |
+| [Arah Pulang](https://open.spotify.com/track/0LBAYZckAFdxPaiukoxXcg) | [Orkes Bada Isya](https://open.spotify.com/artist/3r3Uir4USFn3eT6L76T0to) | [Arah Pulang](https://open.spotify.com/album/5d0oHtcABygUyzREnUafdw) | 4:38 | 2025-05-16 |  |
 | [Arah Rumah](https://open.spotify.com/track/3M3Dd5TzhhKOasuT3XyKPW) | [Aline Rose](https://open.spotify.com/artist/6UfH1HGCn133WLMSLGgN5p) | [Arah Rumah](https://open.spotify.com/album/0iVQIheNdb1Q7Ve3NHLgY5) | 3:36 | 2023-12-08 | 2024-01-12 |
 | [Are You Wearing Ruddy?](https://open.spotify.com/track/3eHJuagKoZOBPY8Psrb1Hy) | [Zerra](https://open.spotify.com/artist/0qfJuFOWgjteUxTVn2CTeE) | [Are You Wearing Ruddy?](https://open.spotify.com/album/3ed1ZXYdjWlsZTchzKU49R) | 3:34 | 2022-06-16 | 2022-07-08 |
 | [Aries Was So Smooth](https://open.spotify.com/track/4EV7JheqrFLwiFII5wgajb) | [Agenda Pesta Dansa](https://open.spotify.com/artist/5e6GByfzWmFpFYhRUZ888L) | [Aries Was So Smooth](https://open.spotify.com/album/1jXKUrSdkKi2zxGZ61AbJE) | 3:48 | 2022-01-06 | 2022-01-14 |
@@ -4179,6 +4180,7 @@
 | [The Girl Who Survives](https://open.spotify.com/track/2zj0kI8KMTUgcFK0S4Lgdv) | [Right Night](https://open.spotify.com/artist/0j9607xxMr05MG9GZpM3UT) | [The Girl Who Survives](https://open.spotify.com/album/43llnYm9ivJfYw5SV19fKz) | 4:59 | 2024-08-15 | 2024-09-20 |
 | [The Gold Step](https://open.spotify.com/track/2Xst5y2eqpeFEonJ4eJi1v) | [Peter End](https://open.spotify.com/artist/6TgF1AoCu9HvFkzg0FDyWY) | [Antivist](https://open.spotify.com/album/2dcm14U52J2LOKKilslS0S) | 3:14 | 2024-10-18 | 2024-11-08 |
 | [The Golden Penis](https://open.spotify.com/track/694NSwPkbVYCUb30xGtwai) | [Oyami](https://open.spotify.com/artist/2HHbaQyJSBiueJOPiHRfg4) | [The Golden Penis](https://open.spotify.com/album/6uozxKcInRU2XLkrKEdf3b) | 2:48 | 2022-10-13 | 2022-11-12 |
+| [The Hereafter](https://open.spotify.com/track/6hBCa7IKWO0vHdQTihFHGF) | [SMSR](https://open.spotify.com/artist/55LoW5e3Gjxqnli0UexvEj) | [The Hereafter](https://open.spotify.com/album/5XqAbDhrTIPdqAOSy8p4Eb) | 2:23 | 2025-05-16 |  |
 | [The Hills](https://open.spotify.com/track/5er1e52l6sbZxmvBA9dzFk) | [Hoodie Doodie](https://open.spotify.com/artist/5ei0xlKyWLF3SdtSDm7NQL) | [The Hills](https://open.spotify.com/album/7L5ta7ljmwha05sCxnjsgG) | 4:08 | 2023-12-28 | 2024-01-26 |
 | [The Hotel](https://open.spotify.com/track/2tyczMKlD0kU8irGQeQIQ6) | [Barcleys 491](https://open.spotify.com/artist/0WKB1tOjMWNlFDWJF1bYMp) | [The Hotel](https://open.spotify.com/album/6rF17iMGtPcJIsJfDo8oOp) | 2:27 | 2024-04-11 | 2024-05-14 |
 | [The House Of Fortune](https://open.spotify.com/track/2ljwkTmOcPWQsnjQFx6ozW) | [ERYA](https://open.spotify.com/artist/7rjDpky9mke0tI0Fb6j3WZ) | [The House Of Fortune](https://open.spotify.com/album/0ZbIvcTkA88DZ30iTJSrc2) | 4:56 | 2023-07-21 | 2023-08-04 |

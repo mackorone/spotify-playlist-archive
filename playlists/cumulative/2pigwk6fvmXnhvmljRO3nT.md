@@ -4,7 +4,7 @@
 
 > 
 
-7,129 songs - 18 day 13 hr 16 min
+7,131 songs - 18 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3558,6 +3558,7 @@
 | [Milk N' Honey](https://open.spotify.com/track/00skWJ8NVd2eEoMIbQBEps) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Venice](https://open.spotify.com/album/2Wl2eLBIbjAt6AZwd07IxG) | 4:18 | 2024-12-05 |  |
 | [Mind Blowing](https://open.spotify.com/track/6akKHUQ9cC4OY7dKQSCrr2) | [Frank Guardiola](https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl) | [Mind Blowing](https://open.spotify.com/album/0nGXPUr5zgqDjkk0hn5mfK) | 3:47 | 2025-01-05 |  |
 | [Mind Right](https://open.spotify.com/track/5jSedxnKJABYuWbm3iVUQC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 3:50 | 2025-01-15 |  |
+| [Mind Tourism](https://open.spotify.com/track/5VBwP5EjT1iRYzItB6JFMP) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [LIFE](https://open.spotify.com/album/24MCFKqSX18qfELYOPb38L) | 1:10 | 2025-05-16 |  |
 | [Mine](https://open.spotify.com/track/7uzmGiiJyRfuViKKK3lVmR) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:11 | 2024-12-10 |  |
 | [Mine](https://open.spotify.com/track/6WLHRYLevMOMJtW9PifywK) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 2:42 | 2025-01-15 |  |
 | [Minecraft](https://open.spotify.com/track/6xwhCiWXREsAIQVZqHswVw) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:14 | 2025-05-05 |  |
@@ -6476,6 +6477,7 @@
 | [バックシート\(Alternate Version\)](https://open.spotify.com/track/50pfw4O5lmL7oAltO6FaYp) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [Confidential](https://open.spotify.com/album/7APNVXBJuVVqeqkJG1CMMT) | 5:57 | 2025-01-04 |  |
 | [パスコード4854](https://open.spotify.com/track/1B1VKn89cEv6I9iKxJ7ToJ) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [Will](https://open.spotify.com/album/1w7GnPNuJNTlhQc4saNJ8k) | 3:41 | 2025-01-15 |  |
 | [パステルレイン](https://open.spotify.com/track/1kZ72GFieZQhQSxwyuESCp) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ガールズブルー・ハッピーサッド](https://open.spotify.com/album/2ubHtsAAGJ0fYRZOSVM7Rh) | 3:32 | 2025-01-15 |  |
+| [パパ活](https://open.spotify.com/track/1SLPwVMfhmG6ZNPzBWh953) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 1:26 | 2025-05-16 |  |
 | [パレット](https://open.spotify.com/track/7q5Y4VWWGKv7dqfG74vUU4) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [SODA POP FANCLUB 2](https://open.spotify.com/album/3AM7DpKXpRix93MY17OvxN) | 3:48 | 2025-05-13 |  |
 | [ヒカリ](https://open.spotify.com/track/4I0ybKio6Ur17HZ8Z2UKAq) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ヒカリ](https://open.spotify.com/album/1pbaYIddoUS9I9KWApWTcL) | 4:05 | 2025-01-03 |  |
 | [ヒカリアレ](https://open.spotify.com/track/5WLaJoYalaASb9JB7Yk5U6) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 | 2025-05-09 |  |

@@ -3003,6 +3003,24 @@
     },
     {
       "album": {
+        "name": "Goodbye My Love",
+        "url": "https://open.spotify.com/album/30GcMOqdVkrHDDsgyAacuj"
+      },
+      "artists": [
+        {
+          "name": "Irokz",
+          "url": "https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198791,
+      "name": "Goodbye My Love",
+      "url": "https://open.spotify.com/track/1PQtTEWRmKgjCR3W30J48X"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/6BBRX0hnu6rjmrR3brUPhi"
       },

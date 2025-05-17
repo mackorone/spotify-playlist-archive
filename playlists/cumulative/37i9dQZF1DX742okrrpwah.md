@@ -4,7 +4,7 @@
 
 > Damiano David, Rihanna et Aya Nakamura x Joé Dwèt Filé au top des nouveautés de la semaine !
 
-4,690 songs - 10 day 4 hr 6 min
+4,693 songs - 10 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1136,6 +1136,7 @@
 | [don't want u to die](https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [don't want u to die](https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB) | 3:08 | 2024-07-04 | 2024-07-12 |
 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-27 | 2024-07-05 |
 | [donne tout](https://open.spotify.com/track/7B1NgYR5wQd8qpUies3Qit) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [donne tout](https://open.spotify.com/album/548QpYIvopTwh1GAPk1mkr) | 3:17 | 2024-10-31 | 2024-11-08 |
+| [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-15 |  |
 | [Doodleverse](https://open.spotify.com/track/5QEySPpoBpiCFq8L1ZxeBh) | [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Doodleverse](https://open.spotify.com/album/1Kzhk9pMJOCFUGeTTO1GuW) | 2:49 | 2024-10-03 | 2024-10-11 |
 | [Doomed](https://open.spotify.com/track/5Jp4rUplh9DCIwiN6bUWCz) | [Praa](https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt) | [Doomed](https://open.spotify.com/album/7pscJHSwI4ekgS7nTgFNkU) | 2:40 | 2024-11-28 | 2024-12-06 |
 | [Door](https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Door](https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU) | 3:17 | 2025-05-15 |  |
@@ -1525,6 +1526,7 @@
 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 | 2024-10-03 | 2024-10-11 |
 | [Friday Prayer \(feat\. Headie One & Aitch\)](https://open.spotify.com/track/69I5rRxwBNBODyFbTZJBqX) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Friday Prayer \(feat\. Headie One & Aitch\)](https://open.spotify.com/album/0S4Q6d6NRA6RubFH05Nz0R) | 3:15 | 2025-04-10 | 2025-04-18 |
 | [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 | 2025-03-20 | 2025-03-28 |
+| [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 | 2025-05-15 |  |
 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 | 2024-07-04 | 2024-07-12 |
 | [Frog In Boiling Water](https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Frog In Boiling Water](https://open.spotify.com/album/27dLHGsqrDSWHCHvvS7m5p) | 3:57 | 2024-04-25 | 2024-05-03 |
 | [Frogs](https://open.spotify.com/track/39irRnySrRADgui9AVTqdx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Frogs](https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I) | 4:34 | 2024-05-30 | 2024-06-07 |
@@ -3423,6 +3425,7 @@
 | [Quitter la ville](https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Quitter la ville](https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms) | 4:05 | 2024-06-20 | 2024-06-28 |
 | [Quoi de neuf dans Babylone ?](https://open.spotify.com/track/55QuHhxTh93Y0xKMOL4RAJ) | [Guiz](https://open.spotify.com/artist/390mNADGKfhQS7pFbiGkz3), [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Quoi de neuf dans Babylone ?](https://open.spotify.com/album/6EeE9AtRlYZtvdXh02bb91) | 2:40 | 2025-03-20 | 2025-03-28 |
 | [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/7hNaD6OzZ8rYhTcigE5Poc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Quoi qu'il arrive ça va aller](https://open.spotify.com/album/1fOrrU8r2xfIVAdItjpKwr) | 3:17 | 2024-11-28 | 2024-12-06 |
+| [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Renaissance](https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL) | 3:18 | 2025-05-16 |  |
 | [QUOIPOURQUOI](https://open.spotify.com/track/4atTPtpjWJZy6mWz8zBfHr) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [QUOIPOURQUOI](https://open.spotify.com/album/565GN97JecIY4w9060SdNd) | 2:27 | 2024-09-05 | 2024-09-13 |
 | [QUÉ LO QUE](https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [QUÉ LO QUE](https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx) | 3:01 | 2024-06-20 | 2024-06-28 |
 | [Qué Miras Bobo](https://open.spotify.com/track/69V8EffxZePjssPL4h7x87) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Qué Miras Bobo](https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6) | 2:30 | 2025-02-07 | 2025-02-14 |

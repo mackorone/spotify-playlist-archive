@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Promessa in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,833 likes - 69 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,854 likes - 69 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 39 | [SINALOA](https://open.spotify.com/track/4Due7F4EdqTFwsFWaOvjhg) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [SINALOA](https://open.spotify.com/album/68VJSGdVIXGWkIrtH5LYA2) | 2:50 |
 | 40 | [Sarà Perchè Ti Amo](https://open.spotify.com/track/2KPth5vlBFoFETGwjGf7Fa) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Sarà Perchè Ti Amo](https://open.spotify.com/album/4jsTSoE4BenJ7A84gEC5sH) | 2:09 |
 | 41 | [Per i Roiz 3](https://open.spotify.com/track/03CDoSGmgQ8M0fSMfJsvwZ) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [V per Ventidue](https://open.spotify.com/album/61rxGfJSgCpHqKuSylu32b) | 2:11 |
-| 42 | [FORMICAIO](https://open.spotify.com/track/6pXKQok2V4dM8C6DBbne9L) | [RAPCALLING](https://open.spotify.com/artist/2DNNmsJBIb8FUrPPTWyIRI), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3), [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [FORMICAIO](https://open.spotify.com/album/4lG31p0zXbVii5b4d6QNOo) | 1:10 |
+| 42 | [FORMICAIO](https://open.spotify.com/track/6pXKQok2V4dM8C6DBbne9L) | [RAPCALLING](https://open.spotify.com/artist/2DNNmsJBIb8FUrPPTWyIRI), [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [FORMICAIO](https://open.spotify.com/album/4lG31p0zXbVii5b4d6QNOo) | 1:10 |
 | 43 | [Tête à Tête](https://open.spotify.com/track/7Ijd2b9eRQ2P37MfyP4ewP) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB) | [PSICOTERAPIA](https://open.spotify.com/album/4upsaa1zy867KcFRvcGrG4) | 2:40 |
 | 44 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 |
 | 45 | [DnD](https://open.spotify.com/track/3d3l3FSgxJoFf01BPKc5G9) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [All In](https://open.spotify.com/album/6689h4yNaRXNwjSqPlQiWV) | 1:41 |

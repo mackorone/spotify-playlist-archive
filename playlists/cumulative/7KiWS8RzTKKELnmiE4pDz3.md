@@ -4,7 +4,7 @@
 
 > 
 
-995 songs - 2 day 1 hr 23 min
+1,000 songs - 2 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Album Just For You](https://open.spotify.com/track/2ZY8kGlTB6EgRKuTC2yFsv) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:45 | 2023-01-27 | 2023-04-24 |
 | [All Alone](https://open.spotify.com/track/5aPxRnBDFJLTHPBMk2B76R) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 1:53 | 2024-11-23 |  |
 | [All Kap](https://open.spotify.com/track/22sCCapRrg0KvCajcGFinX) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [All Kap](https://open.spotify.com/album/3oOzhQKzdTlnfzYrMtry2P) | 2:15 | 2023-02-09 | 2023-04-12 |
+| [All of It](https://open.spotify.com/track/2Il6mimRM8nLAZlphiAQcC) | [dyingoutlay](https://open.spotify.com/artist/23iXJEufmtnarRpaAUL2pi) | [All of It](https://open.spotify.com/album/52e8vZgod5X2s0CUib8YtJ) | 2:41 | 2025-05-16 |  |
 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-24 |  |
 | [Alone](https://open.spotify.com/track/1BuN2kMDQrXhS73RrTNRyY) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Alone](https://open.spotify.com/album/15Yomku18T30aig4W9l7dY) | 3:44 | 2022-11-01 | 2023-03-01 |
 | [Alter Ego](https://open.spotify.com/track/5LDdlwdDIILBwIcoCrdMTo) | [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o), [GlockBoyz Teejaee](https://open.spotify.com/artist/53t9roZkWltf6zIcSHHFET) | [Alter Ego](https://open.spotify.com/album/7AoMYMDk8WjQ95TVEudUaD) | 2:21 | 2022-09-12 | 2023-12-14 |
@@ -268,6 +269,7 @@
 | [F\*cked A Fan](https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [F\*cked A Fan](https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV) | 3:10 | 2024-12-15 |  |
 | [F.F.](https://open.spotify.com/track/2th6kLQPb9HzsgTI5VxHNp) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/4aTdfh8F07U59ClqhljKHp) | 3:10 | 2022-09-10 | 2023-05-09 |
 | [Faceshot](https://open.spotify.com/track/5R2pz8i4k4bvRAqiIFXzKz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:55 | 2024-11-16 |  |
+| [FadaPhilippe](https://open.spotify.com/track/5UY1FDxfCPoM6sushUpSh9) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [FALLEN RAVEN](https://open.spotify.com/album/2KBhWSNNxOF2Ve94KvhlZy) | 2:46 | 2025-05-16 |  |
 | [Fake\_0pps](https://open.spotify.com/track/68QWCdMKUq5JxN1R4Hj9BP) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 3:15 | 2022-09-30 | 2023-08-28 |
 | [Familia](https://open.spotify.com/track/2OM0MeY7mPIRbs8SCzRdTH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:34 | 2024-02-21 | 2024-04-24 |
 | [Fashion Habits](https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 3:21 | 2022-10-31 | 2023-12-14 |
@@ -385,6 +387,7 @@
 | [Hipnotica \(feat\. Trippie Redd, Zelly Ocho\)](https://open.spotify.com/track/5nWnJjAIldZeHEREjwrFan) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Zelly Ocho](https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML) | [Sexually Active](https://open.spotify.com/album/2jNzC0Im9D4XyFxL8C6A7R) | 2:44 | 2023-03-11 | 2023-12-14 |
 | [Hit Bout It](https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Bout It](https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0) | 2:57 | 2022-10-18 | 2023-05-09 |
 | [Hobos](https://open.spotify.com/track/2tOUQ0d8EePqpJltokyhWo) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Hobos](https://open.spotify.com/album/4i0w8RJhXhNU5SdLQPj7w7) | 1:12 | 2023-01-06 | 2023-05-09 |
+| [Holler!](https://open.spotify.com/track/6KvF7iueP2GDA6AuQlt24w) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:42 | 2025-05-16 |  |
 | [Hollywood](https://open.spotify.com/track/3sp3wHVuQ3CRtsZykHDtKq) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 4:01 | 2022-07-23 | 2023-12-14 |
 | [Honey Bun](https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Honey Bun](https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7) | 2:14 | 2023-03-31 | 2023-12-14 |
 | [Honeyberry 2](https://open.spotify.com/track/7DST9azASHMawTfFksNnoT) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Honeyberry 2](https://open.spotify.com/album/60ijJ6s8jhv1cHtrUId9mq) | 2:50 | 2023-04-03 | 2023-05-09 |
@@ -553,6 +556,7 @@
 | [Money Twërk](https://open.spotify.com/track/29Z5qdYEYNFxly8n6Dt7kp) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:19 | 2022-08-26 | 2023-12-14 |
 | [Moneybags](https://open.spotify.com/track/75wojwz55E8iWfUHreFEg8) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [RichPoSlim](https://open.spotify.com/artist/2qY9jco1b25sKtNR3u8K8f) | [Dirty Dingy](https://open.spotify.com/album/2T9pnP03f4v6XMVb1VAJcT) | 3:36 | 2024-02-22 | 2024-11-06 |
 | [Montego Slay](https://open.spotify.com/track/6WBzCRqjK96aKBvKiIyiZO) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 3:58 | 2024-07-29 | 2024-11-06 |
+| [More Motions](https://open.spotify.com/track/0X8zrNBc4gHbONk7pwLRs6) | [Summrs Vault](https://open.spotify.com/artist/1U6kpZ2mr1ikdfTjRYpI0D) | [More Motions](https://open.spotify.com/album/5vFWVuAPayG2OJV6kt980Z) | 2:12 | 2025-05-16 |  |
 | [Movie](https://open.spotify.com/track/56nMxD5Hz0gI2E1lDmC0kk) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [3vil Reflection](https://open.spotify.com/album/17DbwNYaf8YjmLXSwiKG3M) | 2:16 | 2025-05-08 |  |
 | [Mr Gaulden](https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 3:11 | 2023-05-31 | 2023-12-14 |
 | [Mr.RipOff](https://open.spotify.com/track/1gsV6mdCveTaQ8c0POthMu) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 1:52 | 2022-09-27 | 2024-03-05 |
@@ -585,6 +589,7 @@
 | [New Drank](https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [New Drank](https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI) | 1:28 | 2022-09-01 | 2023-05-09 |
 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM) | 2:10 | 2024-02-26 | 2024-11-06 |
 | [New Semi](https://open.spotify.com/track/6ekOd6GLZJ3PZwyMmbZVGY) | [Slimesito](https://open.spotify.com/artist/1qIl64lvKUWBbNRuUOImVh) | [New Semi](https://open.spotify.com/album/3gEdxJx0fDwv40orvc784Y) | 2:19 | 2023-01-07 | 2023-05-09 |
+| [New X](https://open.spotify.com/track/0oQpl483Gv7eaHRGCrOpaD) | [dyingoutlay](https://open.spotify.com/artist/23iXJEufmtnarRpaAUL2pi) | [New X](https://open.spotify.com/album/4Uexof7Pt88YnxmXGibdi5) | 2:12 | 2025-05-16 |  |
 | [News or Something](https://open.spotify.com/track/3BzlZAqfnZDjv1F5CLlpHx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:33 | 2023-03-06 | 2023-12-14 |
 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 | 2025-04-14 |  |
 | [NIGHTCARE](https://open.spotify.com/track/6M3E2Zamd9yPqklfHqye8Y) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Hit Me When You Land](https://open.spotify.com/album/5AZFefxiP690Wn5RapyUQ3) | 2:22 | 2023-03-11 | 2023-12-14 |

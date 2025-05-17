@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 177744,
       "name": "After All These Years",
       "url": "https://open.spotify.com/track/78xuHTyqhxLww1A8UBw87K"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 235250,
       "name": "Another World",
       "url": "https://open.spotify.com/track/655ExDGMK49hh6CAkFt7Dk"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 238676,
       "name": "As the Sun Breaks",
       "url": "https://open.spotify.com/track/1KJZZ7GNTJ6AYPUtKYIeX3"
@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 168358,
       "name": "Being Alone",
       "url": "https://open.spotify.com/track/0LkhrxxLxmitdXcSr7wfMQ"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 245625,
       "name": "Belong To You",
       "url": "https://open.spotify.com/track/093YOS7A79Whhk8nVIans5"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 210857,
       "name": "Break the Line",
       "url": "https://open.spotify.com/track/5ze7yZ99744gLl83y2qDyx"
@@ -4068,7 +4068,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 234728,
       "name": "Closer (feat. Chenai)",
       "url": "https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF"
@@ -4242,7 +4242,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 176892,
       "name": "Coming On Strong - Trance Mix",
       "url": "https://open.spotify.com/track/4yozY8jbqO4L7Y8QRhH8sY"
@@ -4392,6 +4392,24 @@
       "duration_ms": 201833,
       "name": "Connected",
       "url": "https://open.spotify.com/track/5fxLr471q7IQa6naTJeRT8"
+    },
+    {
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/71yu0vqLEaAMeobEG98DH3"
+      },
+      "artists": [
+        {
+          "name": "Dan Stone",
+          "url": "https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/6G7lhNuenqgyNrJAPVD2sH"
     },
     {
       "album": {
@@ -4578,7 +4596,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 231497,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/273cv9sESQzXxMqEkhXdm4"
@@ -4894,10 +4912,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 211726,
       "name": "Deceiver",
       "url": "https://open.spotify.com/track/0i9bVXTlNguVWgseEFhCsB"
+    },
+    {
+      "album": {
+        "name": "Deep Shadow",
+        "url": "https://open.spotify.com/album/4mrABJ2rRng3sxHX52jqYb"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203928,
+      "name": "Deep Shadow",
+      "url": "https://open.spotify.com/track/2eNLBMdI2bfkRxB8Lb5l9f"
     },
     {
       "album": {
@@ -4960,7 +4996,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 226956,
       "name": "Defector",
       "url": "https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv"
@@ -5464,7 +5500,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 246688,
       "name": "Drifting Away - Alessandra Roncone Remix",
       "url": "https://open.spotify.com/track/7uSKWtYTHXp9U2iGFYREdY"
@@ -5733,6 +5769,24 @@
     },
     {
       "album": {
+        "name": "Echoscape",
+        "url": "https://open.spotify.com/album/3EPlp71dkJS4jxatZeBdTJ"
+      },
+      "artists": [
+        {
+          "name": "Stoneface & Terminal",
+          "url": "https://open.spotify.com/artist/3Mqc1pY8uwTjUiW0womxWk"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228990,
+      "name": "Echoscape",
+      "url": "https://open.spotify.com/track/3wZf8Lq01UPAMqaFlpBCHd"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/5RimnDa07WmMJcI0WESfrh"
       },
@@ -5898,7 +5952,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 226285,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0iF3VTHA1QSrUZRjsaGpX2"
@@ -5934,7 +5988,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 158507,
       "name": "Elysium [Transmission 2024 Theme]",
       "url": "https://open.spotify.com/track/3tgzSZb9sHfTTmQXEnMpYE"
@@ -6940,7 +6994,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 289090,
       "name": "Fallen Stars",
       "url": "https://open.spotify.com/track/678AzChcY2JJQT21ZYnCHf"
@@ -7112,7 +7166,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 225230,
       "name": "Fear Of Losing You",
       "url": "https://open.spotify.com/track/5ORIbtsiH4h6xNmZFT3kKm"
@@ -7240,7 +7294,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 203802,
       "name": "Feel Less",
       "url": "https://open.spotify.com/track/032Jf9cRh6cfjoCfHAYcTi"
@@ -7998,7 +8052,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 206143,
       "name": "Free",
       "url": "https://open.spotify.com/track/42XxS1fl9LZLCQ2uWouJON"
@@ -8474,7 +8528,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 218095,
       "name": "Give Me Anything",
       "url": "https://open.spotify.com/track/4H0klYMkrrII3U6wBX6UuX"
@@ -8562,7 +8616,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 191142,
       "name": "Global Consciousness",
       "url": "https://open.spotify.com/track/76vD1qLwRLakgAHrBAGcdT"
@@ -8764,7 +8818,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 188571,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0dxG3l2rku53SIQjTk8ms6"
@@ -9090,7 +9144,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 203000,
       "name": "Haven",
       "url": "https://open.spotify.com/track/4jcgfud6oIl9fSPR3HM7a3"
@@ -9276,7 +9330,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 199951,
       "name": "Her Melodie - Edit",
       "url": "https://open.spotify.com/track/0QtkgwXj1KZC3FZlsDgILh"
@@ -9592,7 +9646,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 231904,
       "name": "Home",
       "url": "https://open.spotify.com/track/0LbBiwDlzTjncvdkaz4UEh"
@@ -9871,6 +9925,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want You",
+        "url": "https://open.spotify.com/album/7rDv3GYKD6zs8tcQberZDv"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "I Don't Want You",
+      "url": "https://open.spotify.com/track/06CzIM4VeYApGimQBFsK1O"
+    },
+    {
+      "album": {
         "name": "I Matter to You",
         "url": "https://open.spotify.com/album/02CAyPkMh8g7hToVLUVROl"
       },
@@ -10004,6 +10076,32 @@
       "duration_ms": 224911,
       "name": "I Would Do Anything",
       "url": "https://open.spotify.com/track/6DkJdrcQiNpej6nOUNMfks"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Alive",
+        "url": "https://open.spotify.com/album/3QNDlVWHzOABuBmc41XyKk"
+      },
+      "artists": [
+        {
+          "name": "Somna",
+          "url": "https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K"
+        },
+        {
+          "name": "Andy Moor",
+          "url": "https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/4PeGD915fRUugtOsyVL3ag"
     },
     {
       "album": {
@@ -10488,7 +10586,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 240000,
       "name": "Into the Night",
       "url": "https://open.spotify.com/track/2ucRE68wy12o3kV3y1cCKF"
@@ -11010,6 +11108,24 @@
       "duration_ms": 228750,
       "name": "Kenmore (Meant To Be)",
       "url": "https://open.spotify.com/track/19mJwav2Z8Ar8NZZ2glMZy"
+    },
+    {
+      "album": {
+        "name": "Kick It",
+        "url": "https://open.spotify.com/album/68P5Ie37aH4kHSLssBESy5"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145306,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/5D0raSenwu2KadnM5fUzOS"
     },
     {
       "album": {
@@ -12426,7 +12542,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 281250,
       "name": "Love Like We're Dying",
       "url": "https://open.spotify.com/track/2BaS9Wc7gBIkicXxtIOUUH"
@@ -12616,6 +12732,24 @@
       "duration_ms": 219555,
       "name": "Made of Stone",
       "url": "https://open.spotify.com/track/0HkYWF3O2mW56RU67gEqyG"
+    },
+    {
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
     },
     {
       "album": {
@@ -15112,10 +15246,32 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 209196,
       "name": "Orbital",
       "url": "https://open.spotify.com/track/293aty9q7lfkX34uMS9m1J"
+    },
+    {
+      "album": {
+        "name": "Orbital",
+        "url": "https://open.spotify.com/album/1y8lbuql4l668IMedS8EkX"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Alessandra Roncone",
+          "url": "https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316800,
+      "name": "Orbital",
+      "url": "https://open.spotify.com/track/1YP0dnGSrwpvMF18ONgO4C"
     },
     {
       "album": {
@@ -15670,7 +15826,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 260678,
       "name": "Perseverance",
       "url": "https://open.spotify.com/track/7MwJ73TCcGTKDNvNDkcNeW"
@@ -15750,7 +15906,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 226363,
       "name": "Places I Belong",
       "url": "https://open.spotify.com/track/3d7RiAd7X9QEOyJiZJatbv"
@@ -16928,7 +17084,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 203478,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/27a7ojdqMexeIDYIOOJapD"
@@ -19400,7 +19556,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 215652,
       "name": "Street Rave",
       "url": "https://open.spotify.com/track/4xKMBTaOK1rjHYSCVYjvmV"
@@ -19466,7 +19622,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 211451,
       "name": "Sublimity",
       "url": "https://open.spotify.com/track/0uVxg9G8CwOt5n616PyNHr"
@@ -20154,7 +20310,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 206250,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/7pQekf05XFyuZfpMSjKEBW"
@@ -21292,7 +21448,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 217713,
       "name": "Through The Shadows",
       "url": "https://open.spotify.com/track/1G2G5rVFPHIbxzfQLpjgkR"
@@ -21560,7 +21716,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 368437,
       "name": "To Light a Fire",
       "url": "https://open.spotify.com/track/4PSajMg5llKKiP96GwU8Rz"
@@ -21994,7 +22150,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 214460,
       "name": "U",
       "url": "https://open.spotify.com/track/4Bfpl39pwLWVFXdiv16sPX"
@@ -22206,7 +22362,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 206422,
       "name": "United in Love",
       "url": "https://open.spotify.com/track/2OTlxfRnBZKPWqO16fQC2h"
@@ -22922,7 +23078,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 157410,
       "name": "Ways of the World",
       "url": "https://open.spotify.com/track/6uXtgqRcTVOryvA0sz38SN"

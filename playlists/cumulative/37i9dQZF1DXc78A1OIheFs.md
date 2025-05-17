@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-269 songs - 15 hr 30 min
+270 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [KAVAFIED](https://open.spotify.com/track/78Mrv1y0tVzrhNRpv9BcXj) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Revus](https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa) | [KAVAFIED](https://open.spotify.com/album/6XXFEoCUDmrONzj2qLNGgq) | 3:04 | 2025-04-03 | 2025-04-21 |
 | [Keep Calling](https://open.spotify.com/track/01xOq1y8KJhitTuoq59NNi) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Now Forever](https://open.spotify.com/album/0geaFx2oD4MQuy46l2akmu) | 2:58 | 2024-05-20 | 2024-11-08 |
 | [Kiss Me Like You're So In Love](https://open.spotify.com/track/0BcsYXyRxgfjtyxkDKTJKG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Kiss Me Like You're So In Love](https://open.spotify.com/album/24dH4zH1SsLXGO86wCD1Ce) | 3:27 | 2025-02-20 | 2025-04-28 |
-| [Kāhore He Manu E](https://open.spotify.com/track/41m7XS3swYTSZDR1rbfP8T) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Kāhore He Manu E](https://open.spotify.com/album/3faF34VLFPLjbJqfhknVDB) | 2:21 | 2025-02-27 |  |
+| [Kāhore He Manu E](https://open.spotify.com/track/41m7XS3swYTSZDR1rbfP8T) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Kāhore He Manu E](https://open.spotify.com/album/3faF34VLFPLjbJqfhknVDB) | 2:21 | 2025-02-27 | 2025-05-17 |
 | [Kātuarehe](https://open.spotify.com/track/0nE77HMICYZIYuari7ZrIA) | [Anna Coddington](https://open.spotify.com/artist/0N4Wl36KNZ1bG2YelyeSlG) | [Kātuarehe](https://open.spotify.com/album/2KqItPwvyMukaYUPvWsAfb) | 3:13 | 2024-05-20 | 2024-11-08 |
 | [Largo](https://open.spotify.com/track/7EG26r1w1cnsJdmPt27o2l) | [Thorington](https://open.spotify.com/artist/2ZfNUfuaM93ICPYjH0Zgq8) | [Largo](https://open.spotify.com/album/6yxOW2mT4AfdpFO4L8IV2I) | 3:10 | 2024-05-20 | 2024-11-08 |
 | [Leaving Soon](https://open.spotify.com/track/1qgd0Dz7j3j3beX57zfmuc) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [RNZŌ SZN](https://open.spotify.com/album/64dFcBe6P6kxwfhtsGfDqP) | 2:57 | 2025-01-30 | 2025-02-07 |
@@ -170,6 +170,7 @@
 | [Moneypenny](https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Moneypenny](https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6) | 4:18 | 2024-08-15 | 2025-02-07 |
 | [Moonglade](https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Moonglade](https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB) | 4:34 | 2025-04-24 |  |
 | [more than a minute](https://open.spotify.com/track/5Y1B8SV62MIqRb4AZdf4IY) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [how to say goodbye](https://open.spotify.com/album/4KcmPWoY1mQKNKcvgqYk4l) | 3:46 | 2024-11-07 | 2024-11-29 |
+| [Morning Ritual](https://open.spotify.com/track/4ICBc4sFEcF1XiIzQzrIbT) | [Casual Healing](https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi), [Dub Princess](https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ) | [AHI](https://open.spotify.com/album/7M7WId08s9FRcTO9Hu61VI) | 4:22 | 2025-04-10 |  |
 | [MUM](https://open.spotify.com/track/5clGAOFUhpXHFIadIpOnTS) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [MUM](https://open.spotify.com/album/1MNGDkn7tYw1Gk7gxMufQO) | 3:22 | 2024-05-20 | 2024-11-08 |
 | [Mumma and Me](https://open.spotify.com/track/0iurM3sY0Su2R7XG2WHYDn) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mumma and Me](https://open.spotify.com/album/23nYljb31SbYhVd2a3kUAl) | 3:32 | 2024-05-20 | 2024-12-02 |
 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 | 2024-05-20 |  |

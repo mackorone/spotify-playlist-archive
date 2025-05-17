@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 287913,
       "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
       "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
@@ -4218,7 +4218,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 177230,
       "name": "Calm Current",
       "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
@@ -4276,7 +4276,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 325479,
       "name": "Canton",
       "url": "https://open.spotify.com/track/4MLZUtTBE5eTu7Gv54pPZn"
@@ -5946,7 +5946,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 167125,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4oDNWNDEQIVvwyadCsf2oH"
@@ -6542,7 +6542,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 222000,
       "name": "Divagation",
       "url": "https://open.spotify.com/track/603uB0AnDCZOW8T5wiBIH2"
@@ -7046,7 +7046,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 168125,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6Q42F1YCfWVlJo2YnApJ7S"
@@ -8726,7 +8726,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 102000,
       "name": "Flaco 92'",
       "url": "https://open.spotify.com/track/42ZxKPCQg0oxBoZxj44p2m"
@@ -8798,7 +8798,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 173072,
       "name": "Floating Feather - Edit",
       "url": "https://open.spotify.com/track/2zhdvyhBdTjONrLGjG3XsC"
@@ -8936,6 +8936,24 @@
       "duration_ms": 101380,
       "name": "Flux",
       "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
+    },
+    {
+      "album": {
+        "name": "fly high",
+        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
+      },
+      "artists": [
+        {
+          "name": "ambit.",
+          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107056,
+      "name": "fly high",
+      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
     },
     {
       "album": {
@@ -9508,7 +9526,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 201423,
       "name": "Fur and Exhaust",
       "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
@@ -10984,6 +11002,46 @@
       "duration_ms": 367000,
       "name": "I Forget How To Remember My Dreams (ft. Lia Kohl)",
       "url": "https://open.spotify.com/track/49lOiTsn7q26sfAQpjxhia"
+    },
+    {
+      "album": {
+        "name": "nothing is real, part XXII",
+        "url": "https://open.spotify.com/album/3ezclS4szyChC2Qe3sUj48"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285866,
+      "name": "i just want to feel okay",
+      "url": "https://open.spotify.com/track/3vZgWbghFXZMWXPvVk175I"
+    },
+    {
+      "album": {
+        "name": "I Need More Time",
+        "url": "https://open.spotify.com/album/7IrhlysuZn0zX6jcXb8R3s"
+      },
+      "artists": [
+        {
+          "name": "Hior Chronik",
+          "url": "https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC"
+        },
+        {
+          "name": "Andy Aquarius",
+          "url": "https://open.spotify.com/artist/3nH50r7bwZJdvvW2mw0DpI"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "I Need More Time",
+      "url": "https://open.spotify.com/track/75Oa9mi7bauMdSPxw8c6Tm"
     },
     {
       "album": {
@@ -13955,6 +14013,24 @@
     },
     {
       "album": {
+        "name": "All Moments Must Pass",
+        "url": "https://open.spotify.com/album/4K7UhEhTVQrXVbZXqcSLay"
+      },
+      "artists": [
+        {
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140660,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4Vu6VZDkw7KjvC9MP7cO3s"
+    },
+    {
+      "album": {
         "name": "March 13 (Zoon Remix)",
         "url": "https://open.spotify.com/album/1vD359X2yHjI6aOb2w0cK6"
       },
@@ -13974,6 +14050,28 @@
       "duration_ms": 216666,
       "name": "March 13 - Zoon Remix",
       "url": "https://open.spotify.com/track/4aayAMzedeWHfKkQwPRixz"
+    },
+    {
+      "album": {
+        "name": "Arsa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2WOOIKhEi8YGcV8DdseIgz"
+      },
+      "artists": [
+        {
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+        },
+        {
+          "name": "G.U.P. Alcaro",
+          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Mare Notte",
+      "url": "https://open.spotify.com/track/6P0yw1ZZirdcmcULW3jfis"
     },
     {
       "album": {
@@ -14096,7 +14194,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 204043,
       "name": "Mat\u00e8l",
       "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
@@ -14958,7 +15056,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 238447,
       "name": "Multiplex",
       "url": "https://open.spotify.com/track/1Kno2Q1ERfRnQCpTJET81C"
@@ -15962,7 +16060,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 162986,
       "name": "Nuit Magn\u00e9tique",
       "url": "https://open.spotify.com/track/0jYnCVNQTvknx4kZSH8idt"
@@ -16959,6 +17057,24 @@
     },
     {
       "album": {
+        "name": "Berlin / Pankow",
+        "url": "https://open.spotify.com/album/38mqdAKJxcU0MLN0GZBOgF"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272861,
+      "name": "Pankow",
+      "url": "https://open.spotify.com/track/4uSworUBqZ0bvJtpd1B2Ra"
+    },
+    {
+      "album": {
         "name": "The Seed (Original Score)",
         "url": "https://open.spotify.com/album/22pNuld3QFrQ2dBfztOIU6"
       },
@@ -17907,6 +18023,28 @@
     },
     {
       "album": {
+        "name": "Power Down the Heart",
+        "url": "https://open.spotify.com/album/1tvoBGiMufBZK8Ky33Ljab"
+      },
+      "artists": [
+        {
+          "name": "Qasim Naqvi",
+          "url": "https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221128,
+      "name": "Power Down the Heart",
+      "url": "https://open.spotify.com/track/1zh6auj09toxNxeux8cwQP"
+    },
+    {
+      "album": {
         "name": "Cr\u00e9puscule I & II",
         "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
       },
@@ -17958,6 +18096,24 @@
       "duration_ms": 113933,
       "name": "Preface",
       "url": "https://open.spotify.com/track/3hu8vy5RPfIMdboW1vfcty"
+    },
+    {
+      "album": {
+        "name": "Under Certain Light and Atmospheric Conditions",
+        "url": "https://open.spotify.com/album/3UyxyRA9ttOK2hnnNlccBb"
+      },
+      "artists": [
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282026,
+      "name": "Prism Inversion, Pantanal/La Habana",
+      "url": "https://open.spotify.com/track/622N4M8xbptYJdNIOTuUZo"
     },
     {
       "album": {
@@ -18194,6 +18350,24 @@
       "duration_ms": 266000,
       "name": "Quatsino Sound - Heat Dome Mix",
       "url": "https://open.spotify.com/track/3TvXsuQlKMJp6kRfc3SSJA"
+    },
+    {
+      "album": {
+        "name": "quiet circle",
+        "url": "https://open.spotify.com/album/6OTAwpGlKqvGSLxw2HjlkN"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200436,
+      "name": "quiet circle",
+      "url": "https://open.spotify.com/track/7l1dORSHv28iWZ3bxoC6Zg"
     },
     {
       "album": {
@@ -19631,6 +19805,28 @@
     },
     {
       "album": {
+        "name": "SECAI",
+        "url": "https://open.spotify.com/album/1cIL5hxKUTT0qgjejNIPqc"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        },
+        {
+          "name": "Jatinder Singh Durhailay",
+          "url": "https://open.spotify.com/artist/61FiO41HGvzvRpwwYIoGPG"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139925,
+      "name": "SECAI",
+      "url": "https://open.spotify.com/track/5UQxbUqQX4AaZFHibVIit8"
+    },
+    {
+      "album": {
         "name": "KLAMAUK",
         "url": "https://open.spotify.com/album/3H6tjwSunpKqPMug5RSLcb"
       },
@@ -20087,6 +20283,24 @@
     },
     {
       "album": {
+        "name": "Shijima",
+        "url": "https://open.spotify.com/album/07HnOcg4Eq0cGcQn1RgqFD"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Shijima",
+      "url": "https://open.spotify.com/track/7mNNQ3ZoS8a4uGa05CbRwq"
+    },
+    {
+      "album": {
         "name": "Tempora",
         "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
       },
@@ -20474,7 +20688,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 135000,
       "name": "sleepy eyes",
       "url": "https://open.spotify.com/track/4HobFY4cTGqfbHhv09qX2H"
@@ -20641,6 +20855,24 @@
     },
     {
       "album": {
+        "name": "Soar",
+        "url": "https://open.spotify.com/album/03PtNUsF4MWaURk2EHtys2"
+      },
+      "artists": [
+        {
+          "name": "Holem",
+          "url": "https://open.spotify.com/artist/51qSuC2fSbksAZ19P1m45B"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259555,
+      "name": "Soar",
+      "url": "https://open.spotify.com/track/6n0MpEXr5Ola2ecySUIWou"
+    },
+    {
+      "album": {
         "name": "Speak EP",
         "url": "https://open.spotify.com/album/09Vp3CgVqvJlikx4lB7cBN"
       },
@@ -20742,7 +20974,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 163106,
       "name": "Solar Nights",
       "url": "https://open.spotify.com/track/4m0A9IhXFzCG04iJKoxA0o"
@@ -23842,7 +24074,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 133591,
       "name": "Too Much Love",
       "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
@@ -26630,6 +26862,24 @@
       "duration_ms": 207426,
       "name": "Your Heart Will Never Know",
       "url": "https://open.spotify.com/track/2sxjgzPHTzKJkXzrMZ2DH2"
+    },
+    {
+      "album": {
+        "name": "Where We Are (Unity Edition)",
+        "url": "https://open.spotify.com/album/4ritLJ4dx1ORPyARuasLjB"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225612,
+      "name": "You\u2019re My Everything",
+      "url": "https://open.spotify.com/track/5RuQkvYwAUoEeUeIGUslCi"
     },
     {
       "album": {

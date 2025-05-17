@@ -2,9 +2,9 @@
 
 ### [Palco POP](https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M)
 
-> Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Ananda, Elana Dara
+> Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Lou Garcia
 
-975 songs - 2 day 0 hr 39 min
+977 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [BAILE \(dnça p vc\)](https://open.spotify.com/track/0smLY1jIV1IuSVlWRqwRDu) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [BAILE \(dnça p vc\)](https://open.spotify.com/album/7EzrYEMoctQGQolFqUe32F) | 3:27 | 2023-03-24 | 2023-06-10 |
 | [Bailão](https://open.spotify.com/track/2hgfeYKzJIaUlrhk6oP3wc) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [Bailão](https://open.spotify.com/album/7sZwY31f8pBNa5KvlFfSYR) | 3:30 | 2020-10-20 | 2022-07-24 |
 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 | 2023-04-21 | 2023-06-17 |
-| [Balanço do Mar](https://open.spotify.com/track/5xK43opUTLT5eZeDvfYD51) | [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw) | [Balanço do Mar](https://open.spotify.com/album/2ogfJELPATIaEM4F4Z70rQ) | 2:15 | 2025-02-28 |  |
+| [Balanço do Mar](https://open.spotify.com/track/5xK43opUTLT5eZeDvfYD51) | [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw) | [Balanço do Mar](https://open.spotify.com/album/2ogfJELPATIaEM4F4Z70rQ) | 2:15 | 2025-02-28 | 2025-05-17 |
 | [ball w/o you](https://open.spotify.com/track/4UW4GsTVETXP2mzXfMT2iC) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:15 | 2020-10-20 | 2022-07-25 |
 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 | 2020-10-20 | 2023-02-15 |
 | [Balão](https://open.spotify.com/track/4QFzCjkQl2c7wrzVrOu2sz) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 4:13 | 2020-10-20 | 2023-02-10 |
@@ -526,6 +526,7 @@
 | [Meu endereço](https://open.spotify.com/track/57EKqPldxlr1H7DGw7xdAy) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Meu endereço](https://open.spotify.com/album/3c2Wo1WDCiSiRqHcYFcimB) | 2:55 | 2025-03-14 |  |
 | [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 | 2025-03-28 |  |
 | [Meu Mel](https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina) | [Bella Angel](https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk) | [Meu Mel](https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v) | 2:04 | 2024-03-22 | 2024-06-29 |
+| [Meu Talismã \- Ao Vivo](https://open.spotify.com/track/7vClBnWpfrYVie4vVgqTbR) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [IZA Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/7KnRcQe1BE6xhaSWnhi0J9) | 4:10 | 2025-05-16 |  |
 | [Miami](https://open.spotify.com/track/6arTWP7kPORoLcuUbhMwhe) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Miami](https://open.spotify.com/album/02OyGnFuU31TEBpfPFhGE2) | 2:12 | 2023-08-04 | 2023-08-26 |
 | [miamor](https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [miamor](https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz) | 2:39 | 2023-08-25 | 2023-09-16 |
 | [Midas](https://open.spotify.com/track/1Adaje7vCpt4qKaF5YfUb3) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Midas](https://open.spotify.com/album/3MHN5j12HKAm8ZKujTRaVL) | 3:34 | 2023-06-16 | 2023-08-26 |
@@ -792,7 +793,7 @@
 | [Segredo Clichê](https://open.spotify.com/track/6AR3sVRA9MNO07vZoNJur4) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Segredo Clichê](https://open.spotify.com/album/5dXJJ5ifdCB4mm0csO3qE5) | 3:22 | 2025-03-28 | 2025-04-25 |
 | [Segredos da Vida](https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Segredos da Vida](https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u) | 2:22 | 2023-12-01 | 2024-11-09 |
 | [Sei Lá](https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sei Lá](https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ) | 2:24 | 2023-04-21 | 2023-08-26 |
-| [Sem Ar](https://open.spotify.com/track/4JPaaXkRHEP065DPFBBnak) | [João Lucas](https://open.spotify.com/artist/6uSm5GsSe3BwK9P1Q8aZ2R) | [João Lucas](https://open.spotify.com/album/65mRe0DZyd45k71zqfVV55) | 2:24 | 2024-11-15 |  |
+| [Sem Ar](https://open.spotify.com/track/4JPaaXkRHEP065DPFBBnak) | [João Lucas](https://open.spotify.com/artist/6uSm5GsSe3BwK9P1Q8aZ2R) | [João Lucas](https://open.spotify.com/album/65mRe0DZyd45k71zqfVV55) | 2:24 | 2024-11-15 | 2025-05-17 |
 | [Sem Ar](https://open.spotify.com/track/6pPvyR6XrMkJysTugwPos7) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Rebordosa](https://open.spotify.com/album/6spETHfCgTYjnmuVLAD3md) | 2:42 | 2024-11-08 | 2025-02-01 |
 | [Sem Demandas](https://open.spotify.com/track/73PJMlUkA6WyeEZtEYweq7) | [Caio Prado](https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Caio em Ti](https://open.spotify.com/album/6CjknY8eSPQA7ByDbzzyag) | 3:23 | 2024-03-22 | 2024-04-20 |
 | [Sem Drama](https://open.spotify.com/track/7K18CcXhquMBcm125Gfl5z) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [Sem Drama](https://open.spotify.com/album/7u7PfUGWTzDdG8FuPj2BtI) | 3:12 | 2024-04-26 | 2024-06-22 |
@@ -813,6 +814,7 @@
 | [Sexo, poder e arte](https://open.spotify.com/track/7tgRx0uRO64z0Zppg9BsCy) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [Sexo, poder e arte](https://open.spotify.com/album/0YrSJbs6AO5Qj8vKCqsqrt) | 4:32 | 2023-12-22 | 2024-03-09 |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2020-10-20 | 2023-02-15 |
 | [Sikatrizes](https://open.spotify.com/track/637kGZJZhh7MQ37lXkgJgi) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sikatrizes](https://open.spotify.com/album/4Aul6VilD9IqNuM93mc8ZR) | 3:15 | 2020-10-20 | 2022-07-29 |
+| [Sinais](https://open.spotify.com/track/4NBeR8EKpWMaBNHFvN8BYA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sinais](https://open.spotify.com/album/35DzxwKI6e0mJBCmPxBUUE) | 3:47 | 2025-05-16 |  |
 | [sinto muito](https://open.spotify.com/track/1ZNk7XzTYha1MgKl4K3kJw) | [BENJAMÍN](https://open.spotify.com/artist/3QvQ9sZG5xZHu4foUWiK5P) | [sinto muito](https://open.spotify.com/album/5zTaa6tUbzf19VztvJerVq) | 2:53 | 2023-11-03 | 2023-12-09 |
 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 | 2023-08-25 |  |
 | [Sirene](https://open.spotify.com/track/4akLOVqqLGnGLjEGL4yJ3f) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Sirene](https://open.spotify.com/album/2om1MhzlJVfYyp7scgxfBX) | 2:29 | 2023-09-15 | 2023-10-28 |

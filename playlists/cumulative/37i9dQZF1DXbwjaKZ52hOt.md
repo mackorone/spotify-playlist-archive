@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-328 songs - 9 hr 56 min
+329 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [She'll Be Coming Round the Mountain](https://open.spotify.com/track/1FRXzmHFOsstktMhUKfrOO) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [100 Nursery Rhymes](https://open.spotify.com/album/24Q6AJIE4oPqnKch545T2f) | 2:01 | 2022-02-25 | 2024-04-19 |
 | [She'll Be Coming Round the Mountain](https://open.spotify.com/track/2TScmZPWSAOXRkXMJ6y8qR) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [100 Nursery Rhymes](https://open.spotify.com/album/0hJm6TTGeW1tqileJj39ZA) | 2:01 | 2022-02-25 |  |
 | [She’ll Be Coming Round the Mountain](https://open.spotify.com/track/4wdYY7uEyWFhyUGHEwNE3l) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 7: Kids Sing & Learn](https://open.spotify.com/album/3DrqTp4SDht5Guqh1O9WWI) | 2:41 | 2022-02-25 | 2024-01-05 |
-| [Shoo Fly](https://open.spotify.com/track/41fWg0m9Z3GVxbrmQR17yJ) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:19 | 2022-02-25 |  |
+| [Shoo Fly](https://open.spotify.com/track/41fWg0m9Z3GVxbrmQR17yJ) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:19 | 2022-02-25 | 2025-05-17 |
+| [Shoo Fly, Don't Bother Me](https://open.spotify.com/track/6fTNBTJGcIjGiq8tU7PxiE) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Shoo Fly, Don't Bother Me](https://open.spotify.com/album/7ylz9WYmjdaRaDUFSW5oTl) | 1:23 | 2025-05-16 |  |
 | [Short'nin' Bread](https://open.spotify.com/track/26nRFjiXqeH4jbqlqaSRNf) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [The Dog: 100 Super Silly Songs](https://open.spotify.com/album/2HOJ3KWK4JBlV0aDYWacW0) | 1:51 | 2023-04-26 | 2024-04-19 |
 | [Short'nin' Bread](https://open.spotify.com/track/2gremjoXqhkV60TNuygGZR) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 1:51 | 2022-02-25 |  |
 | [Short'nin' Bread](https://open.spotify.com/track/4LMuKlesZMky3iVQq2qOAP) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:46 | 2022-02-25 | 2024-01-05 |

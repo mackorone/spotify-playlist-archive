@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 34376,
+  "num_followers": 34385,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-04-22 12:14:26",
       "album": {
+        "name": "De Ger",
+        "url": "https://open.spotify.com/album/326B0vsovArwhIildjVOdc"
+      },
+      "artists": [
+        {
+          "name": "Mizik Mizik",
+          "url": "https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "L\u00e8 Nap F\u00e8 Lanmou",
+      "url": "https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2"
+    },
+    {
+      "added_at": "2025-04-22 12:14:26",
+      "album": {
         "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
         "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 324026,
       "name": "Yel\u00e9 (feat. Ms. Lauryn Hill)",
       "url": "https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK"
-    },
-    {
-      "added_at": "2025-04-22 12:14:26",
-      "album": {
-        "name": "De Ger",
-        "url": "https://open.spotify.com/album/326B0vsovArwhIildjVOdc"
-      },
-      "artists": [
-        {
-          "name": "Mizik Mizik",
-          "url": "https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "L\u00e8 Nap F\u00e8 Lanmou",
-      "url": "https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

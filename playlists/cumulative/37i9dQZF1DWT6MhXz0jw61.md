@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Wiz Khalifa
 
-1,214 songs - 2 day 16 hr 5 min
+1,215 songs - 2 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,7 @@
 | [Issues](https://open.spotify.com/track/2691Dfg2PDNQmVSguPUDP8) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Issues](https://open.spotify.com/album/2dwXtTmetx1aqBXOXawsZI) | 2:59 | 2024-02-16 | 2024-03-16 |
 | [IT BE LIKE THAT](https://open.spotify.com/track/6eEdxS61Sc4ZbBRq2UgPN2) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 4:19 | 2022-12-16 | 2023-02-11 |
 | [IT IS WHAT IT IS](https://open.spotify.com/track/6SmmBWGRRoRJVpBNum6aOt) | [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [IT IS WHAT IT IS](https://open.spotify.com/album/7s4OS2EKUmmEgwqG0KGjIJ) | 2:24 | 2023-06-02 | 2024-01-06 |
-| [It Was You The Whole Time](https://open.spotify.com/track/5sIvqDjt752e5P26xBSJoN) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Built Different](https://open.spotify.com/album/6LtV4LhvhiGwGzVVuXehaB) | 2:36 | 2025-03-14 |  |
+| [It Was You The Whole Time](https://open.spotify.com/track/5sIvqDjt752e5P26xBSJoN) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Built Different](https://open.spotify.com/album/6LtV4LhvhiGwGzVVuXehaB) | 2:36 | 2025-03-14 | 2025-05-17 |
 | [Jagger](https://open.spotify.com/track/2IOiwdXF9VipVZXC83I92W) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Jagger](https://open.spotify.com/album/4Rbx6tpqGbXRN5wmloamzk) | 4:16 | 2024-02-23 | 2024-03-09 |
 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 | 2022-04-29 | 2022-10-29 |
 | [Jammy Jam](https://open.spotify.com/track/7DiDkjRCCypxKwgxVYgnZS) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [I've Never Been Here Before](https://open.spotify.com/album/3KUAjH6gf9p68TkLLyi4dB) | 2:55 | 2024-02-23 | 2024-06-08 |
@@ -1087,6 +1087,7 @@
 | [THE HEART CHAKRA](https://open.spotify.com/track/5Kz37pkO9HF3mG768buwNl) | [Siimbiie Lakew](https://open.spotify.com/artist/196ebGsn5Q6i5ctZtDgCXK), [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9), [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj) | [THE HEART CHAKRA](https://open.spotify.com/album/3ePWUsEoIeNK1ghkFwFRqh) | 3:23 | 2023-08-25 | 2023-11-04 |
 | [The Hills](https://open.spotify.com/track/7zhfWs9c97sn0mEP4x8xFi) | [Mazen](https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [The Hills](https://open.spotify.com/album/0M9IK1ZESirlxB0zzzyFBe) | 3:38 | 2022-11-18 | 2023-07-01 |
 | [THE KILLER SHEWOLF.](https://open.spotify.com/track/1cSSLL7OmIWvVocmIZ4jwm) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [when angels cry](https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA) | 2:37 | 2024-06-14 | 2024-07-19 |
+| [The Lonely Ones](https://open.spotify.com/track/6FbwnD77bqDSVCEA7lVtK2) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [The Lonely Ones](https://open.spotify.com/album/42IYmrFQE347yjmqvKqUtk) | 3:28 | 2025-05-16 |  |
 | [THE NOTEBOOK](https://open.spotify.com/track/6rKeS2Q94VsbAcJBg0eSyj) | [millkzy](https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR) | [AN AUTHOR'S DEMISE](https://open.spotify.com/album/2CzdjzbdV3i8U8PUjIrspR) | 3:15 | 2025-01-31 |  |
 | [the ok song.](https://open.spotify.com/track/1OTSnzieL7hyOJyxBicNz2) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Buy One, Get One Free, vol 3.](https://open.spotify.com/album/6JBfnBEgcv15duEc5Dl1mL) | 2:13 | 2024-08-09 | 2024-11-09 |
 | [The One](https://open.spotify.com/track/0TGy4z6QYxKKMdi3QLW7Ef) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 2:27 | 2023-03-24 | 2023-04-01 |

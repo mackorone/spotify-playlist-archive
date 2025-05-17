@@ -2,9 +2,9 @@
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> boom bap renasce todo dia\. Foto: Torya
+> boom bap renasce todo dia\. Foto: Djonga
 
-645 songs - 1 day 9 hr 52 min
+646 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,7 @@
 | [Rap É Compromisso \- Sabotage 50](https://open.spotify.com/track/34M7EkL58Nv1b33HwWKL4G) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Sabotage 50](https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ) | 2:35 | 2024-04-07 | 2024-06-15 |
 | [Rapcrime](https://open.spotify.com/track/0uIbnQCdZtN3EKqwwwD5GV) | [LK O Marroquino](https://open.spotify.com/artist/13CPOWLAYa2sN7Y9k2TtLT) | [Rapcrime](https://open.spotify.com/album/1XxrI32EKUhPpuDk5z9fzA) | 3:55 | 2022-03-18 | 2022-04-02 |
 | [Ratos](https://open.spotify.com/track/10S906YyU6w0vNPd369S7N) | [NORTRAGAMUS](https://open.spotify.com/artist/33ug2i6014guMI4zR9iwmc), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Ratos](https://open.spotify.com/album/7LbjziF7UgwZKkmSwN3HsG) | 3:27 | 2022-10-28 | 2024-01-27 |
-| [Real Underground](https://open.spotify.com/track/40zHJef3CuJyYcc6ACcI6Z) | [Lado Sujo](https://open.spotify.com/artist/7GCPBbONfiLuUo6VCFYACs), [Kamikaze do Gueto](https://open.spotify.com/artist/6LrrNReBCYQyeo3LMq1JBo) | [Real Underground](https://open.spotify.com/album/0w8KCWycXmFr22XSTMmhwN) | 2:38 | 2023-08-18 |  |
+| [Real Underground](https://open.spotify.com/track/40zHJef3CuJyYcc6ACcI6Z) | [Lado Sujo](https://open.spotify.com/artist/7GCPBbONfiLuUo6VCFYACs), [Kamikaze do Gueto](https://open.spotify.com/artist/6LrrNReBCYQyeo3LMq1JBo) | [Real Underground](https://open.spotify.com/album/0w8KCWycXmFr22XSTMmhwN) | 2:38 | 2023-08-18 | 2025-05-17 |
 | [Reação em Cadeia](https://open.spotify.com/track/3RqlBubbOUhZ5RD8MfjlX6) | [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Reação em Cadeia](https://open.spotify.com/album/49N0BK3ytpFvP3d8F7GWkh) | 2:11 | 2022-04-01 | 2022-06-04 |
 | [Reduto das Ideias](https://open.spotify.com/track/1j4hrfXFmNhoBGssb2q4Fp) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof) | [Reduto Das Ideias](https://open.spotify.com/album/1xto1QLGb3T2cmqHxgRMec) | 3:18 | 2023-04-28 | 2023-06-24 |
 | [Reflexo \#10 \- Inestimável](https://open.spotify.com/track/4pKeqCqPF4JkqJi3Lq6nZZ) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [SARTØR](https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4) | [Reflexo \#10 \- Inestimável](https://open.spotify.com/album/0gGjGKzagGb1tn0E0UI7tR) | 2:12 | 2025-01-31 |  |
@@ -613,6 +613,7 @@
 | [Veja Como o Mundo Roda](https://open.spotify.com/track/3zvgMHDI226Xb6PzMqreJK) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Veja Como o Mundo Roda](https://open.spotify.com/album/6UHzMFQvOT316hYAhRStQ1) | 2:16 | 2024-09-27 | 2024-10-19 |
 | [Velozes na Contramão](https://open.spotify.com/track/6nhE4lscGt5GfteXW5OD9d) | [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [Mahal Reis](https://open.spotify.com/artist/5jG0MAA7TLDdeZq2O03s8U) | [Deuses & Planetas](https://open.spotify.com/album/0VzkWTZdKMJMUmh1FxRzGo) | 3:02 | 2022-09-09 | 2022-11-26 |
 | [Vem K](https://open.spotify.com/track/1nxJuKgBnR6IPV9MKimoM7) | [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [ZAG](https://open.spotify.com/artist/61H6f0WzgLeZVJDIWwmlQO), [Brad Savage](https://open.spotify.com/artist/4bukCSzHFmnP9XlzFeSQOe), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Vem K](https://open.spotify.com/album/5i04mIP0JhPI9RbKlcrHnQ) | 3:51 | 2022-05-27 | 2022-06-25 |
+| [Vem Leve](https://open.spotify.com/track/3xAxKoiZGoOygbepLmO0JV) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Vem Leve](https://open.spotify.com/album/0Vsi1zAQGyG6CUovjxzkeL) | 2:37 | 2025-05-16 |  |
 | [Vendaval](https://open.spotify.com/track/4RVtgNDHgQ3TIXOQLgOHZS) | [Dukes1Soldado](https://open.spotify.com/artist/2fOcfLmY2VQi6NEOMNKqdJ), [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW) | [Vendaval](https://open.spotify.com/album/1i1MQlF0Jm80D0tbNHWTzr) | 3:09 | 2022-09-09 | 2023-07-29 |
 | [VENENO2000](https://open.spotify.com/track/4RjazBL4eR8UtT9OW5Z9A7) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [VENENO2000](https://open.spotify.com/album/1OIsbKAMUNuR4BlF6liyaQ) | 2:00 | 2023-07-21 | 2023-10-07 |
 | [Verão Verão](https://open.spotify.com/track/0vsRt6M9AtBsF08Gz5Dpbz) | [COLASNI](https://open.spotify.com/artist/0guOyrCTXlSdhKScVTLEHl), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Verão Verão](https://open.spotify.com/album/5CZcc4GVQy3Dh7ijy43swG) | 3:17 | 2025-01-06 | 2025-02-01 |

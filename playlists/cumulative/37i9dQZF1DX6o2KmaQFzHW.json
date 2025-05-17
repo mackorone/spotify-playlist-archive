@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Esenciales",
+        "url": "https://open.spotify.com/album/3AuY2uwffU3sg2HVgOG7ka"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178432,
+      "name": "Aguita fresca",
+      "url": "https://open.spotify.com/track/5S1IuQVuJ1H3l3UkMk2znr"
+    },
+    {
+      "album": {
         "name": "Mujeres Argentinas",
         "url": "https://open.spotify.com/album/1rNe5jq2OZQ033Ngg0qVZw"
       },
@@ -1524,6 +1542,24 @@
       "duration_ms": 231813,
       "name": "El Alazan",
       "url": "https://open.spotify.com/track/28AbmVT1sueLjRRYV984WI"
+    },
+    {
+      "album": {
+        "name": "El Amor Es Un Viento Que Regresa",
+        "url": "https://open.spotify.com/album/4HdvmMUv8tc15EkxjqjoFl"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192717,
+      "name": "El Amor Es Un Viento Que Regresa",
+      "url": "https://open.spotify.com/track/10JPlLHxnSuldWp9NcS5wA"
     },
     {
       "album": {

@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "EDM 2015 Workout",
+        "url": "https://open.spotify.com/album/6qKuMSqequzQSolxUwAU6U"
+      },
+      "artists": [
+        {
+          "name": "DJ ReMix Workout",
+          "url": "https://open.spotify.com/artist/4gJtt2PtDWnlu7Eg0mp3wT"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272153,
+      "name": "Blame (Dance Mix)",
+      "url": "https://open.spotify.com/track/2DOxfaZZFMRjFeoCYYL8m3"
+    },
+    {
+      "album": {
         "name": "100 Ultimate Workout Hits! 2016",
         "url": "https://open.spotify.com/album/4RVETsLJtXPDPuqGWUqHCW"
       },
@@ -608,7 +626,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 263941,
       "name": "Blame (Workout Mix)",
       "url": "https://open.spotify.com/track/2bBqnSxwAW06xXnoY3cWfn"
@@ -2651,7 +2669,7 @@
         },
         {
           "name": "Greg Kurstin",
-          "url": "https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG"
+          "url": "https://open.spotify.com/artist/1DRxgeCPD8uIgKMtFb3Egz"
         }
       ],
       "date_added": "2023-12-30",

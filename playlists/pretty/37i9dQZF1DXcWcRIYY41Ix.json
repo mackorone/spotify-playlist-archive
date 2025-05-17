@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Karmento.",
-  "num_followers": 129420,
+  "num_followers": 129434,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Un poco m\u00e1s",
-        "url": "https://open.spotify.com/album/5e4oYrUK3XdyUHLi26md7X"
-      },
-      "artists": [
-        {
-          "name": "GREX",
-          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
-        }
-      ],
-      "duration_ms": 160576,
-      "name": "Un poco m\u00e1s",
-      "url": "https://open.spotify.com/track/7sr4IbjV6IxVUktNk86wf6"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 273663,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "Un poco m\u00e1s",
+        "url": "https://open.spotify.com/album/5e4oYrUK3XdyUHLi26md7X"
+      },
+      "artists": [
+        {
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+        }
+      ],
+      "duration_ms": 160576,
+      "name": "Un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/7sr4IbjV6IxVUktNk86wf6"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Airecillo (en directo)",
-        "url": "https://open.spotify.com/album/1Mj3njZyXu0opPQlo4C0Zr"
-      },
-      "artists": [
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        },
-        {
-          "name": "Nacho Mur",
-          "url": "https://open.spotify.com/artist/6cX4krqTwKWyrfU7QkzmDf"
-        }
-      ],
-      "duration_ms": 254550,
-      "name": "Airecillo (en directo)",
-      "url": "https://open.spotify.com/track/6A9nATNDvSi3P4THnGQyTH"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
         "name": "Tan solo una se\u00f1al",
         "url": "https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 218106,
       "name": "Tan solo una se\u00f1al",
       "url": "https://open.spotify.com/track/7vjeDyZ2oYSbOsIx7ogBbv"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "Airecillo (en directo)",
+        "url": "https://open.spotify.com/album/1Mj3njZyXu0opPQlo4C0Zr"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        },
+        {
+          "name": "Nacho Mur",
+          "url": "https://open.spotify.com/artist/6cX4krqTwKWyrfU7QkzmDf"
+        }
+      ],
+      "duration_ms": 254550,
+      "name": "Airecillo (en directo)",
+      "url": "https://open.spotify.com/track/6A9nATNDvSi3P4THnGQyTH"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Cenicientes del carb\u00f3n",
-        "url": "https://open.spotify.com/album/1r0zR0yXrMv8eEMBYSYV19"
-      },
-      "artists": [
-        {
-          "name": "Marisa Valle Roso",
-          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
-        }
-      ],
-      "duration_ms": 244742,
-      "name": "Cenicientes del carb\u00f3n",
-      "url": "https://open.spotify.com/track/4voIMcG6sJJFJ6XMENCJWy"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
         "name": "Casida de la Rosa",
         "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 331442,
       "name": "Casida de la Rosa",
       "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "Cenicientes del carb\u00f3n",
+        "url": "https://open.spotify.com/album/1r0zR0yXrMv8eEMBYSYV19"
+      },
+      "artists": [
+        {
+          "name": "Marisa Valle Roso",
+          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
+        }
+      ],
+      "duration_ms": 244742,
+      "name": "Cenicientes del carb\u00f3n",
+      "url": "https://open.spotify.com/track/4voIMcG6sJJFJ6XMENCJWy"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Mar de Ardora",
-        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 268334,
-      "name": "Luces encendidas",
-      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
         "name": "Tananan\u00e1",
         "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
       },
@@ -1659,22 +1643,18 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Una mica m\u00e9s",
-        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
+        "name": "Mar de Ardora",
+        "url": "https://open.spotify.com/album/6s8HWGhR4EncrCmV0EPiIq"
       },
       "artists": [
         {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        },
-        {
-          "name": "Suu",
-          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
         }
       ],
-      "duration_ms": 261775,
-      "name": "Una mica m\u00e9s",
-      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
+      "duration_ms": 268334,
+      "name": "Luces encendidas",
+      "url": "https://open.spotify.com/track/7BgBZ5Vh9N4ImWt22Aea0Y"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1695,18 +1675,22 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
-        "name": "Cerca cerca",
-        "url": "https://open.spotify.com/album/1TGAQzVDCs2Nye6JYVZPtf"
+        "name": "Una mica m\u00e9s",
+        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
       },
       "artists": [
         {
-          "name": "Habla de M\u00ed en Presente",
-          "url": "https://open.spotify.com/artist/6Ve7C0L8bH6NfejnYfKOJn"
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        },
+        {
+          "name": "Suu",
+          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
         }
       ],
-      "duration_ms": 189605,
-      "name": "Cerca cerca",
-      "url": "https://open.spotify.com/track/6YL7Z4OWDp8OxZyQn16Jgr"
+      "duration_ms": 261775,
+      "name": "Una mica m\u00e9s",
+      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1735,6 +1719,22 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
+        "name": "Cerca cerca",
+        "url": "https://open.spotify.com/album/1TGAQzVDCs2Nye6JYVZPtf"
+      },
+      "artists": [
+        {
+          "name": "Habla de M\u00ed en Presente",
+          "url": "https://open.spotify.com/artist/6Ve7C0L8bH6NfejnYfKOJn"
+        }
+      ],
+      "duration_ms": 189605,
+      "name": "Cerca cerca",
+      "url": "https://open.spotify.com/track/6YL7Z4OWDp8OxZyQn16Jgr"
     },
     {
       "added_at": "2025-05-01 22:00:20",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2025-05-01 22:00:20",
       "album": {
+        "name": "Siembro",
+        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "Raquel Riba Rossy",
+          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
+        }
+      ],
+      "duration_ms": 231373,
+      "name": "Siembro",
+      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
+    },
+    {
+      "added_at": "2025-05-01 22:00:20",
+      "album": {
         "name": "Palomita de Mar",
         "url": "https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR"
       },
@@ -1791,26 +1811,6 @@
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
-    },
-    {
-      "added_at": "2025-05-01 22:00:20",
-      "album": {
-        "name": "Siembro",
-        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "Raquel Riba Rossy",
-          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Siembro",
-      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
     },
     {
       "added_at": "2025-05-01 22:00:20",

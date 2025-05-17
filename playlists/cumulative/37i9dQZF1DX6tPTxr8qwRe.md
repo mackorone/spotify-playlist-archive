@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Lydia Night
+> Dark, hard hitting pop\. Cover: Neoni
 
-895 songs - 1 day 17 hr 17 min
+900 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Bittersweet](https://open.spotify.com/track/2MZfkqDwZdK3nD0YJtJ9Fp) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Bittersweet](https://open.spotify.com/album/5P3vj5MI6yS0FzFo9QomFb) | 2:58 | 2023-11-10 | 2024-02-17 |
 | [Black Balloons](https://open.spotify.com/track/3CrmsiGWaLpFVltY6BiXOq) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Black Balloons](https://open.spotify.com/album/2k3bXOQ542UprP5ZQcNS6b) | 2:26 | 2022-10-28 | 2022-12-03 |
 | [Black Hole Friend](https://open.spotify.com/track/78irBGVYCFS8UeuEjatKzR) | [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Black Hole Friend](https://open.spotify.com/album/1a6I3qRj7ojopif2jXoXEV) | 2:19 | 2022-02-18 | 2022-04-16 |
+| [BLAH](https://open.spotify.com/track/212qRRJMxvpN3FNkW6g3rH) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [BLAH](https://open.spotify.com/album/6PZzsTjoax4776aLr6U4jh) | 2:54 | 2025-05-16 |  |
 | [BLEACH](https://open.spotify.com/track/0Yb631ktGsxwsDFFlKZm6A) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [BLEACH](https://open.spotify.com/album/3uQYcHFnDBBo9K2BK5Ixj8) | 2:29 | 2023-12-08 | 2024-03-23 |
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-05 | 2022-11-19 |
 | [Bloodline](https://open.spotify.com/track/7k0CjQfqiS0vHpvxMECarP) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Bloodline](https://open.spotify.com/album/0ewvS55UVfLQPe9Ew7Xpre) | 2:34 | 2022-03-25 | 2022-07-23 |
@@ -385,6 +386,7 @@
 | [Hot Killer](https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hot Killer](https://open.spotify.com/album/0as00WK8RwmFBwlvg3gmPy) | 2:18 | 2022-06-24 | 2022-10-29 |
 | [hot yoga in hell](https://open.spotify.com/track/2piKFLVacDlwV0U0JZmWSp) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [hot yoga in hell](https://open.spotify.com/album/6Pj9FD1lLjDemuRdRrxkCD) | 2:43 | 2025-01-10 | 2025-04-19 |
 | [House Of Cards](https://open.spotify.com/track/5IHkkPgiIRaEnAIjWKdT9G) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [House Of Cards](https://open.spotify.com/album/1tuAaXyzHRHdwYBrzPub3t) | 2:57 | 2023-05-19 | 2023-08-19 |
+| [House Of Nightmares](https://open.spotify.com/track/1oTN3bznxhDVCkD6uqPflK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [The Death Of Daisies \(Deluxe\)](https://open.spotify.com/album/4laGu6PuFAP2GXzRChUoPD) | 2:46 | 2025-05-16 |  |
 | [how does your girlfriend feel about it](https://open.spotify.com/track/6Z1nBzbcsdCvoLF2G3Cl35) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [how does your girlfriend feel about it](https://open.spotify.com/album/5z3YYg8ZszvGO836MiYu1o) | 2:33 | 2022-04-01 | 2022-07-16 |
 | [How To Hide A Body](https://open.spotify.com/track/1IdJzfAHivOqqxrKJV7vPc) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [How To Hide A Body](https://open.spotify.com/album/2KtAUlsmDGvAJztdw25nAN) | 2:41 | 2024-10-18 | 2025-03-08 |
 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 | 2024-12-13 | 2025-05-03 |
@@ -478,6 +480,7 @@
 | [Light Switch](https://open.spotify.com/track/5Lh7DFcEwboYBefjnDVGz5) | [Rain Paris](https://open.spotify.com/artist/10TCOjSPs9ywBN1Q083BnB) | [Light Switch](https://open.spotify.com/album/2867dAr71CyRHt6MMco7yk) | 3:04 | 2022-07-15 | 2022-12-24 |
 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 | 2023-01-06 | 2023-10-21 |
 | [Like No One's Watching](https://open.spotify.com/track/1ijN5LBIyxoC2iIEaI618m) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Like No One's Watching](https://open.spotify.com/album/0GzzTN57dj5dJj2RTJ2Em3) | 3:16 | 2025-04-11 |  |
+| [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 | 2025-05-16 |  |
 | [Lilith](https://open.spotify.com/track/697u6iOThAZBF8mx2MhPSU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH) | 2:47 | 2022-02-04 | 2022-03-18 |
 | [Liquorice](https://open.spotify.com/track/3Ze8TIoX3bV1OZVAxguX6j) | [Elle Lexxa](https://open.spotify.com/artist/2cBDh8dCO4LQaSq07uvzve) | [Bubblegum](https://open.spotify.com/album/4dhOZl5rUI3oXRGLAFQfCc) | 2:22 | 2022-02-18 | 2022-05-14 |
 | [LIQUORLIPS](https://open.spotify.com/track/1F5EX18FztnE78ZHO4RwZV) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi), [Renon](https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY) | [LIQUORLIPS](https://open.spotify.com/album/03eheqbsnGtzQThzoCkMj1) | 1:58 | 2024-06-21 | 2024-12-14 |
@@ -582,6 +585,7 @@
 | [Oh My God](https://open.spotify.com/track/4ytfNcKDQfUu7x1HSGXdsb) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [Oh My God](https://open.spotify.com/album/0qfoZ99XRt8kbzK47jNjf0) | 2:40 | 2024-08-30 | 2025-01-25 |
 | [Oh!](https://open.spotify.com/track/4c9248nXVshR1AFp1i69v8) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Oh!](https://open.spotify.com/album/2SbvBAbGW8FR7w1XS6mXtt) | 3:00 | 2025-01-24 | 2025-04-05 |
 | [Okay Okay](https://open.spotify.com/track/2ryUKjHhbRn2T7DmkT3nl1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [PEP](https://open.spotify.com/album/2El7FWTNM5fE8BbMN3qFlB) | 3:20 | 2022-04-01 | 2022-04-09 |
+| [OLD SKOOL](https://open.spotify.com/track/2oSLFgyPzc5TgMAQoqCHsc) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [OLD SKOOL](https://open.spotify.com/album/1SBP1vpPmYwhEndwxHC9Dg) | 1:57 | 2025-05-16 |  |
 | [one bad day](https://open.spotify.com/track/1Qz3mHiMABwI3wBK3PQgsr) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [one bad day](https://open.spotify.com/album/13ekNhK41kYkbmbzOzu8G5) | 2:58 | 2022-06-17 | 2022-08-20 |
 | [Only Love Can Save Us Now](https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Only Love Can Save Us Now](https://open.spotify.com/album/14gFMh79sFu4n9SYxTPTlm) | 2:34 | 2023-05-19 | 2023-08-05 |
 | [OOPS](https://open.spotify.com/track/7eoOFgRL66Dw9PnWxyz7s1) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [OOPS](https://open.spotify.com/album/4nNz1bA7kjUNNjgwiKLDC6) | 2:03 | 2023-10-06 | 2024-01-20 |
@@ -862,6 +866,7 @@
 | [What If You're The Love of My Life?](https://open.spotify.com/track/2rNp14nmgJc4IK0FajIzGn) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [What If You're The Love of My Life?](https://open.spotify.com/album/3gHdoNyalsBcrZ4QSJAmuc) | 2:08 | 2024-05-31 | 2024-07-27 |
 | [WHAT IS MY LIFE?](https://open.spotify.com/track/1jIST0E07yOGirz773STTZ) | [Kat Leon](https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF) | [WHAT IS MY LIFE?](https://open.spotify.com/album/4st3CiDbPegVzLop0gXYlI) | 2:44 | 2024-02-02 | 2024-03-23 |
 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 | 2021-12-03 | 2022-04-02 |
+| [WHAT THE HELL?!](https://open.spotify.com/track/0tN4gLJOjeTawNuylOZwYI) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [WHAT THE HELL?!](https://open.spotify.com/album/3yvoDuV0dYkCRj4IMeH8QV) | 3:11 | 2025-05-16 |  |
 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 | 2022-05-13 | 2023-02-18 |
 | [What You Need](https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [What You Need](https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV) | 3:16 | 2023-01-06 | 2023-04-29 |
 | [What's My Name \(Red Version\) \- From "Descendants: The Rise of Red"/Soundtrack Version](https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [What's My Name \(Red Version\) \[From "Descendants: The Rise of Red"/Soundtrack Version\]](https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u) | 2:26 | 2024-04-26 | 2024-06-08 |

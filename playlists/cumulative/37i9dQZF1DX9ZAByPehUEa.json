@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 216253,
       "name": "After Five",
       "url": "https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0"
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 214634,
       "name": "Clap Your Hands (Rap-O-Clap-O)",
       "url": "https://open.spotify.com/track/4BhWxWUfQUh7NkHcytqZYq"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 192786,
       "name": "Dream Funky - Edit",
       "url": "https://open.spotify.com/track/0rNMeTphPmB9cZAEKXP7Tk"
@@ -4738,7 +4738,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 277617,
       "name": "House Music - Edit",
       "url": "https://open.spotify.com/track/1doxuytmXDBTUdYcIT0gCp"
@@ -7233,6 +7233,28 @@
     },
     {
       "album": {
+        "name": "Missin My Window",
+        "url": "https://open.spotify.com/album/2AWcS41yPCSeu5T5bnoeX6"
+      },
+      "artists": [
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169354,
+      "name": "Missin My Window",
+      "url": "https://open.spotify.com/track/6D6pdnTURMGzJ3xB6ASV90"
+    },
+    {
+      "album": {
         "name": "Modern Romance",
         "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
@@ -9339,6 +9361,24 @@
     },
     {
       "album": {
+        "name": "Sailing Away",
+        "url": "https://open.spotify.com/album/0l13ZlBmEjGIGRjzToTiSn"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bourachot",
+          "url": "https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281693,
+      "name": "Sailing Away",
+      "url": "https://open.spotify.com/track/6LkwvXgYfM5qoW198vlIn8"
+    },
+    {
+      "album": {
         "name": "Love And Dancing",
         "url": "https://open.spotify.com/album/7yCIoLAcNR8xcR8CeNyWcd"
       },
@@ -9706,6 +9746,28 @@
       "duration_ms": 202560,
       "name": "She's a Lady (Disco Mix)",
       "url": "https://open.spotify.com/track/4PkyBwZolHSrkPiBB7418h"
+    },
+    {
+      "album": {
+        "name": "She's Mine",
+        "url": "https://open.spotify.com/album/2v81LhpbmhMj1HOzqKC2G7"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215131,
+      "name": "She's Mine",
+      "url": "https://open.spotify.com/track/6TBOR2XStkWY6sjjp1QIYb"
     },
     {
       "album": {
@@ -10158,6 +10220,24 @@
       "duration_ms": 198039,
       "name": "Solid Gold (feat. bshp)",
       "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
+    },
+    {
+      "album": {
+        "name": "Sunset Breaker",
+        "url": "https://open.spotify.com/album/4mAacSAE2aZwAv4SFccjBo"
+      },
+      "artists": [
+        {
+          "name": "Mystic Jungle",
+          "url": "https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327913,
+      "name": "Some Lovin'",
+      "url": "https://open.spotify.com/track/5f8a5o83cFkWV5pzfAFUQp"
     },
     {
       "album": {

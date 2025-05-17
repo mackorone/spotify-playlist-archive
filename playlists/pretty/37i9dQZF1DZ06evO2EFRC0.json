@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 94709,
+  "num_followers": 94717,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCPdAAAAAACnpvaVxpuGa6OB+QwQDuSa",
+  "snapshot_id": "aCUugAAAAABuNVCGI5H3d6CgDzS0Sxtz",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Iglesia",
+        "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 355417,
+      "name": "\u00c9l Siempre Reina",
+      "url": "https://open.spotify.com/track/1iTKfYiWEj9MWVPeQMcW5l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coritos (En Vivo)",
         "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
       },
@@ -647,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Iglesia",
-        "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
+        "name": "Lo Mejor de Instrumentales",
+        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
         }
       ],
-      "duration_ms": 355417,
-      "name": "\u00c9l Siempre Reina",
-      "url": "https://open.spotify.com/track/1iTKfYiWEj9MWVPeQMcW5l"
+      "duration_ms": 222876,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
       "duration_ms": 218521,
       "name": "Un Mill\u00f3n - Kelly Spyker",
       "url": "https://open.spotify.com/track/6WWmIrz1sawQoJzZZKjrAJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivir\u00e9",
-        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 241656,
-      "name": "Es Posible",
-      "url": "https://open.spotify.com/track/0uybu0niD36vI134J5nqNz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/2eDiKQMiFOxIHZenmaNNzh"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 213229,
       "name": "Poderoso",
       "url": "https://open.spotify.com/track/0TppQPfqLVRZjdYFtRHtMp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 241656,
+      "name": "Es Posible",
+      "url": "https://open.spotify.com/track/0uybu0niD36vI134J5nqNz"
     },
     {
       "added_at": null,
@@ -827,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adoremos",
-        "url": "https://open.spotify.com/album/2YISvt6LsSIaOFujAQQVkh"
+        "name": "Tu Iglesia",
+        "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
         }
       ],
-      "duration_ms": 282044,
-      "name": "Tu Misericordia",
-      "url": "https://open.spotify.com/track/62JXNY39mekHoBTxO5gKWr"
+      "duration_ms": 297638,
+      "name": "Bendice Alma M\u00eda",
+      "url": "https://open.spotify.com/track/53pDk8D79rvlUn8PRoyLuP"
     },
     {
       "added_at": null,
@@ -859,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Iglesia",
-        "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
+        "name": "Adoremos",
+        "url": "https://open.spotify.com/album/2YISvt6LsSIaOFujAQQVkh"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
         }
       ],
-      "duration_ms": 297638,
-      "name": "Bendice Alma M\u00eda",
-      "url": "https://open.spotify.com/track/53pDk8D79rvlUn8PRoyLuP"
+      "duration_ms": 282044,
+      "name": "Tu Misericordia",
+      "url": "https://open.spotify.com/track/62JXNY39mekHoBTxO5gKWr"
     },
     {
       "added_at": null,

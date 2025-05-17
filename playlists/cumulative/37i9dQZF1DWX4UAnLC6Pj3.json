@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda El Recodo en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Sebastianes en portada.",
   "name": "Banda 2025",
   "tracks": [
     {
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Ahora por idea",
+        "url": "https://open.spotify.com/album/13qS7CmX7m7MVXJAGQAf1F"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/7yUfXtRIpBZK5bggQsQohI"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167784,
+      "name": "Ahora por idea",
+      "url": "https://open.spotify.com/track/6aVSTTTdVYhmsomn0PgAOW"
+    },
+    {
+      "album": {
         "name": "Ahora S\u00ed Te Conoc\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/6IpzcAJ3me4S3H9mOH2H8P"
       },
@@ -428,7 +446,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
@@ -1528,6 +1546,32 @@
       "duration_ms": 210720,
       "name": "COQUETO TAZO DORADO",
       "url": "https://open.spotify.com/track/3em90DscDPoispuwsdd2aT"
+    },
+    {
+      "album": {
+        "name": "Corazoncito Tirano / Maldito Vicio / Paloma Querida (En Vivo)",
+        "url": "https://open.spotify.com/album/5TghHUAegu3hDdGHYs3GR1"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        },
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        },
+        {
+          "name": "Jorge Cordero",
+          "url": "https://open.spotify.com/artist/2QSIGTQtAMKIlTwNUQgsmy"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286677,
+      "name": "Corazoncito Tirano / Maldito Vicio / Paloma Querida - En vivo",
+      "url": "https://open.spotify.com/track/5rmRBgDi9XAgDN6Nij2COk"
     },
     {
       "album": {
@@ -3793,6 +3837,28 @@
     },
     {
       "album": {
+        "name": "Voy A Levantarme",
+        "url": "https://open.spotify.com/album/0pswYE95SNbJ6vdwD34PH0"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170987,
+      "name": "Hoy Toca Llorar",
+      "url": "https://open.spotify.com/track/2EDt4kTcgoeVaHnvxtmOSD"
+    },
+    {
+      "album": {
         "name": "Hablando Claro",
         "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
       },
@@ -4138,7 +4204,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 163016,
       "name": "La Humilde Opinion",
       "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
@@ -5768,7 +5834,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 190981,
       "name": "Ojitos Caf\u00e9s",
       "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
@@ -5784,7 +5850,7 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         },
         {
-          "name": "Carin Leon",
+          "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
@@ -8680,7 +8746,7 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Carin Leon",
+          "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],

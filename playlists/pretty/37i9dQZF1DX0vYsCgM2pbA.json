@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 143394,
+  "num_followers": 143404,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -355,26 +355,6 @@
     {
       "added_at": "2025-05-07 00:00:11",
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 278379,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
-    },
-    {
-      "added_at": "2025-05-07 00:00:11",
-      "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 145741,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
+    },
+    {
+      "added_at": "2025-05-07 00:00:11",
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "duration_ms": 278379,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
     },
     {
       "added_at": "2025-05-07 00:00:11",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-05-07 00:00:11",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 259424,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG"
-    },
-    {
-      "added_at": "2025-05-07 00:00:11",
-      "album": {
         "name": "Blue Desert",
         "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 182869,
       "name": "Wrong Again",
       "url": "https://open.spotify.com/track/1EkLo6IFUeXk9C0bAlOty3"
+    },
+    {
+      "added_at": "2025-05-07 00:00:11",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "duration_ms": 259424,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG"
     },
     {
       "added_at": "2025-05-07 00:00:11",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-05-07 00:00:11",
       "album": {
-        "name": "Come To Me",
-        "url": "https://open.spotify.com/album/5MOpSlXFGJwXQ9ytEFE7wT"
-      },
-      "artists": [
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Come To Me",
-      "url": "https://open.spotify.com/track/0ZLIXXvBXfEMV4VFSqNSVu"
-    },
-    {
-      "added_at": "2025-05-07 00:00:11",
-      "album": {
         "name": "Medium",
         "url": "https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 238201,
       "name": "Medium",
       "url": "https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA"
+    },
+    {
+      "added_at": "2025-05-07 00:00:11",
+      "album": {
+        "name": "Come To Me",
+        "url": "https://open.spotify.com/album/5MOpSlXFGJwXQ9ytEFE7wT"
+      },
+      "artists": [
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/0ZLIXXvBXfEMV4VFSqNSVu"
     },
     {
       "added_at": "2025-05-07 00:00:11",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2025-05-07 00:00:11",
       "album": {
-        "name": "More of You",
-        "url": "https://open.spotify.com/album/2XtHv7Q0Woi1PI9N2jqE1g"
+        "name": "I Can't Forget You",
+        "url": "https://open.spotify.com/album/22isBBRfzRQ2QuHDn00D8k"
       },
       "artists": [
         {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
         }
       ],
-      "duration_ms": 253300,
-      "name": "More of You",
-      "url": "https://open.spotify.com/track/6wd4uWCNdQ7t9jEazGq4E1"
+      "duration_ms": 263363,
+      "name": "I Can't Forget You",
+      "url": "https://open.spotify.com/track/4fxjNTmcKzS83xYigEC8cp"
     }
   ],
   "unique_name": "Sunday Sessions",

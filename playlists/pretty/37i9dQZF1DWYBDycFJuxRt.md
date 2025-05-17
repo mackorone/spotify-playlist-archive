@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 星野 源\*👉 <a href="https://spice.eplus.jp/articles/337775">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,496 likes - 79 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,544 likes - 79 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 18 | [触れていたい](https://open.spotify.com/track/3T4RAXA2TYajUvNMrpsoKw) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [触れていたい](https://open.spotify.com/album/2SaOMaJ2Ew9ut1Yga3FXfc) | 3:55 |
 | 19 | [Memory](https://open.spotify.com/track/6nj0aocl0RdC39IYOW9O0f) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Memory](https://open.spotify.com/album/6pSlgVERzihkGOuiCfwbdz) | 4:04 |
 | 20 | [光の果実](https://open.spotify.com/track/0PMLzMjMlNTHQqrJ1cAJE1) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Reiya The P.A.V.E.](https://open.spotify.com/album/28Xjlj4ghnuLTI5Co2bStf) | 4:42 |
-| 21 | [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/track/3xAHEo2Sa0fezECilv4gKx) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8), [北村蕗](https://open.spotify.com/artist/0LsvrZNDpK85Tk5g67w01G) | [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/album/6Qj8x64pbfM9tVnpDYmsZV) | 2:44 |
+| 21 | [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/track/3xAHEo2Sa0fezECilv4gKx) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/album/6Qj8x64pbfM9tVnpDYmsZV) | 2:44 |
 | 22 | [YOU GOT THAT \(feat\. VivaOla\)](https://open.spotify.com/track/6Am704IYdAUl0xntnDOafr) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [YOU GOT THAT \(feat\. VivaOla\)](https://open.spotify.com/album/1g0qFHhvSZQidPMNULg2l9) | 2:50 |
 | 23 | [First Take \(feat\. JP THE WAVY\)](https://open.spotify.com/track/7ybMwa8C4TKC0iWx8JBnjf) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [First Take \(feat\. JP THE WAVY\)](https://open.spotify.com/album/1tjhkrLrNxEnRG1E8Wkw7v) | 3:12 |
 | 24 | [Haku](https://open.spotify.com/track/2LdYzK2rSbYbFY0ns69MYs) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Haku](https://open.spotify.com/album/7zQz8tOfsdNh3TnG2swhEN) | 2:12 |

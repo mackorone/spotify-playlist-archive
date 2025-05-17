@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4167,
+  "num_followers": 4168,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCPdAAAAAADF+A85iYH2YcUHPmCYQBWZ",
+  "snapshot_id": "aCUugAAAAAAur8jsogAdR53y9mnnaWW6",
   "tracks": [
     {
       "added_at": null,
@@ -692,7 +692,7 @@
       "added_at": null,
       "album": {
         "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Test Pattern",
-      "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
+      "duration_ms": 100613,
+      "name": "Let Go/Trashed Floors",
+      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Studio 4 Acoustic Session",
-        "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 184594,
-      "name": "Jimmy Piersall",
-      "url": "https://open.spotify.com/track/2n0RFqmOzmwmpG2z9EYg8z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belongs To The Dead",
         "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+        "name": "Studio 4 Acoustic Session",
+        "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
       },
       "artists": [
         {
@@ -764,9 +748,25 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 100613,
-      "name": "Let Go/Trashed Floors",
-      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
+      "duration_ms": 184594,
+      "name": "Jimmy Piersall",
+      "url": "https://open.spotify.com/track/2n0RFqmOzmwmpG2z9EYg8z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "Test Pattern",
+      "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
     },
     {
       "added_at": null,

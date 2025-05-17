@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Bad Choices",
+        "url": "https://open.spotify.com/album/5bRqvjPj9l3IVsRE8Okizy"
+      },
+      "artists": [
+        {
+          "name": "Rokets",
+          "url": "https://open.spotify.com/artist/7eSjy85dGwJONCL3BLctWf"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139864,
+      "name": "Louisa",
+      "url": "https://open.spotify.com/track/6LWcaRttcmHuYC0PvBPKqz"
+    },
+    {
+      "album": {
         "name": "DEATHMATCH",
         "url": "https://open.spotify.com/album/1KzhjA47EIY2rX2WjKpMBR"
       },
@@ -2840,7 +2858,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 220537,
       "name": "Popular Monster",
       "url": "https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij"

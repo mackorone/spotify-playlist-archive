@@ -711,6 +711,28 @@
     },
     {
       "album": {
+        "name": "Antene-se",
+        "url": "https://open.spotify.com/album/36oE9kWZIpvleT2B9Q22Mv"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Replay",
+          "url": "https://open.spotify.com/artist/2sU3iCEcMHp4l2vR02pUqI"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217397,
+      "name": "Antene-se",
+      "url": "https://open.spotify.com/track/7o7j9NRn2m3qBIuLkQ8vDz"
+    },
+    {
+      "album": {
         "name": "Meu Mundo",
         "url": "https://open.spotify.com/album/0Ugzm5827jE2wxuolDuDoq"
       },
@@ -7672,7 +7694,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 146000,
       "name": "Sem Entender Porque Eu Ainda Fa\u00e7o Rap",
       "url": "https://open.spotify.com/track/5oQSMmFOBLgqhVJ4V7jiF1"

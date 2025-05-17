@@ -935,6 +935,36 @@
     },
     {
       "album": {
+        "name": "Borrow My Boots",
+        "url": "https://open.spotify.com/album/2MDhb7bszkqpJYHI8rV1w1"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Grace Bowers",
+          "url": "https://open.spotify.com/artist/3SWXWMtSA0ZWxvhESbTkJe"
+        },
+        {
+          "name": "Shelly Fairchild",
+          "url": "https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160760,
+      "name": "Borrow My Boots",
+      "url": "https://open.spotify.com/track/3K5ejUtwpzA2pnlsyt7hdr"
+    },
+    {
+      "album": {
         "name": "Red Moon Rising (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5D0FK6IRRpx0qJXD2QnGC8"
       },
@@ -5456,7 +5486,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 173253,
       "name": "Suit in the Back",
       "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"

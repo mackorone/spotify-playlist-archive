@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Alemán en portada.
 
-366 songs - 17 hr 21 min
+368 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Ay Caray](https://open.spotify.com/track/5lXwSXw9umijoDgxM3d8BN) | [BVNDIDOS](https://open.spotify.com/artist/7yk94TE6GBnoUHFdzWIl4Z), [Killahh](https://open.spotify.com/artist/4g52RfIsAkkI7tPx6NPgY7) | [Ay Caray](https://open.spotify.com/album/559ur5r5dBDdfkAO5SUsjQ) | 3:54 | 2023-06-09 | 2023-07-01 |
 | [Baby Yo Me Pierdo](https://open.spotify.com/track/1NyR1ll0JIFbvafvdYz7BF) | [Yagooo](https://open.spotify.com/artist/7af38cgJCib5WLhnRSiCBo) | [Baby Yo Me Pierdo](https://open.spotify.com/album/0Pzm5qzf0NeiEhdZO22FRV) | 2:21 | 2023-06-09 | 2023-07-15 |
 | [Backwood](https://open.spotify.com/track/0XFVr6pMGZwTmMjJnISpFG) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Backwood](https://open.spotify.com/album/6MuoT68Wnd67n725ttR6dc) | 3:28 | 2023-06-09 | 2023-07-01 |
+| [BAD BITCHES](https://open.spotify.com/track/3EVo65c62B8vp0GMMnC6um) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [BAD BITCHES](https://open.spotify.com/album/16Ftq4nOMPGluQLBVfK419) | 3:07 | 2025-05-16 |  |
 | [Bad Bitches Cry Too](https://open.spotify.com/track/46OogDeC6YVI8zvqH8hAkc) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Bad Bitches Cry Too](https://open.spotify.com/album/40PEpgToYvH1VVCzDYbVJy) | 2:25 | 2023-06-09 | 2023-08-05 |
 | [Bajar De Aquí](https://open.spotify.com/track/1g3S0OCeh4zLE2ZtfRDBUA) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Bajar De Aquí](https://open.spotify.com/album/6N4Hkd2hxIwIsUGzlDWJjW) | 4:07 | 2024-08-23 | 2024-10-19 |
 | [Ballin' Freestyle](https://open.spotify.com/track/26ymWLkkfMzbyR25C6WEFf) | [Neqer](https://open.spotify.com/artist/3Esms7kp5iE7wWc4iyPh7A), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Ballin' Freestyle](https://open.spotify.com/album/4jbOIDm9TssiVGrEdSLuVF) | 2:12 | 2023-11-10 | 2024-05-18 |
@@ -304,6 +305,7 @@
 | [Respaldo y Apoyo](https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p) | [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Respaldo y Apoyo](https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS) | 1:58 | 2023-08-04 | 2024-02-10 |
 | [Rest In Drill](https://open.spotify.com/track/7mc3INGhMaXqDB66Ch75S4) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Aerre](https://open.spotify.com/artist/2jJydw0AtgGiQph6Dh53d7) | [Rest In Drill](https://open.spotify.com/album/6RmxixsL9uwxH7Exy6ui8c) | 3:06 | 2023-06-09 | 2023-07-01 |
 | [Rollin n' Rollin](https://open.spotify.com/track/3GYXO0ZL5qqBEVpBP3xsR6) | [k onda](https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE), [Alx Drip](https://open.spotify.com/artist/7DxHynDvaalsAGsHlqNhd6), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Rollin n' Rollin](https://open.spotify.com/album/7eHJT1BQfE45xwP6ue4fk7) | 2:12 | 2023-07-28 | 2024-05-04 |
+| [Romeo y Julieta](https://open.spotify.com/track/3CoSvuPCBq0XyjAUHrAonc) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Los Ángeles Más Brillantes](https://open.spotify.com/album/6W334E1HwPaVfbqNdSCyie) | 2:32 | 2025-05-16 |  |
 | [Rubem](https://open.spotify.com/track/5v9m8lESuXAUJsPcIw3U48) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Rubem](https://open.spotify.com/album/14KlbzI8ZRdV59eCiJmp3M) | 4:38 | 2023-06-09 | 2023-07-01 |
 | [Rumor](https://open.spotify.com/track/1LhQ9rwpOhoMBxbofBOFQr) | [Sick Morrison](https://open.spotify.com/artist/4oMSYrYeZPbi9uvI1ql9wm) | [Rumor](https://open.spotify.com/album/0IdcNCtYlU30GVYUD0aQOR) | 2:26 | 2023-06-16 | 2023-12-09 |
 | [Run run](https://open.spotify.com/track/5tf1ZVKCdEJxp6LmNDb9MX) | [Sack Baby](https://open.spotify.com/artist/0hXIvlbouda8hdgcczoB3s), [Jb mafia](https://open.spotify.com/artist/0Hpqqb9LGj9bkFVCHun4x2) | [Run run](https://open.spotify.com/album/107ErCZ7a5OTfZoJTwmNgS) | 2:32 | 2024-03-15 | 2024-04-06 |

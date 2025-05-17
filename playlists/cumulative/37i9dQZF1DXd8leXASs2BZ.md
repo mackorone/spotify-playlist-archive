@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Charlu
+> POP YOURS開催まであと7日! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: STACK THE PINK
 
-948 songs - 1 day 19 hr 50 min
+949 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [not strong](https://open.spotify.com/track/1UvJf3DDd64pnPiRCBQayR) | [Adem](https://open.spotify.com/artist/0piNpexdBU84sjLSvbFI9b) | [not strong](https://open.spotify.com/album/5aemYfiEZAfX22rvBLcABa) | 2:00 | 2025-02-04 | 2025-02-26 |
 | [Nothinn](https://open.spotify.com/track/04A61F4f7hNFgFsQ9F9sHf) | [AUDIO RADICAL](https://open.spotify.com/artist/7nBpQt0rbbHHTfQY9bd9d7), [chaochao](https://open.spotify.com/artist/4Urb32vb8QFDAJpoMdOVD5), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [CROSS OVA](https://open.spotify.com/album/6TYODp2J2aSbnHnEnvTcuN) | 3:22 | 2023-12-07 | 2024-02-28 |
 | [Nottin' Broken \(feat\. ACE COOL\)](https://open.spotify.com/track/1HBgwKxhJ3PMpHVFrjwjbs) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Nottin' Broken \(feat\. ACE COOL\)](https://open.spotify.com/album/4N8j8oRYbhI4t1hXYADkzv) | 2:10 | 2025-02-25 |  |
+| [Nottin' Broken \(feat\. ACE COOL\)](https://open.spotify.com/track/54SiCLqBqOmLJtsqrYWiqE) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Nottin' Broken \(feat\. ACE COOL\)](https://open.spotify.com/album/6W9aHn3wF4QsJab3Q1PSFK) | 2:10 | 2025-05-16 |  |
 | [nova](https://open.spotify.com/track/0RYnLHPWOZvhOTUtCPRzyQ) | [MK woop](https://open.spotify.com/artist/3AUCOiwJCLQmRotHBdCW7j) | [nova](https://open.spotify.com/album/1ZjYdNWYL3PSeK9spX5vhI) | 1:35 | 2024-07-30 | 2024-09-04 |
 | [Oh Oh Oh \(feat\. DJ PMX & eyden\)](https://open.spotify.com/track/0qOvLMSRYJ0reORGFPnJZt) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [DJ PMX](https://open.spotify.com/artist/1tnqKUyXlFMUY4TMj6r4Ed), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [For The Street](https://open.spotify.com/album/3RGFC8qxv4Rf5rnUu8hjCf) | 3:02 | 2024-09-17 | 2025-02-05 |
 | [OHAYO！](https://open.spotify.com/track/7ID2XLVhNrz1jxCqG9vcfO) | [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [OHAYO！](https://open.spotify.com/album/5lf9hU5ZVsZyqsaxD0RxjS) | 1:58 | 2024-11-22 | 2025-01-22 |

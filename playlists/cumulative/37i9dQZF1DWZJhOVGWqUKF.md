@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Loose Lips
 
-471 songs - 1 day 2 hr 54 min
+472 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Scar on My Guitar](https://open.spotify.com/track/3WXhf9KacGRycnFS4XmNYx) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Scar on My Guitar](https://open.spotify.com/album/7GefG4OL4QBUtnRHszGejq) | 3:56 | 2025-05-08 | 2025-05-16 |
 | [Searching for Tomorrow](https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Searching for Tomorrow](https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK) | 3:33 | 2024-11-21 | 2025-01-17 |
 | [Self Sabotage](https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Down And Out](https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH) | [Self Sabotage](https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K) | 2:47 | 2024-11-07 | 2024-11-15 |
+| [September 29](https://open.spotify.com/track/33lgnqvk0WNs7Uby92SIMq) | [Letters Sent Home](https://open.spotify.com/artist/6VS6UnMmEtkcyYumRHZUI1) | [September 29](https://open.spotify.com/album/6DPdyXmCQz46Hk8KXYeYhP) | 2:48 | 2025-05-15 |  |
 | [Shadowlight](https://open.spotify.com/track/1U292iuwphTOCGq1npE5Az) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [Shadowlight](https://open.spotify.com/album/638ZLO2U7xHjasPm6zroiT) | 3:26 | 2024-09-12 | 2024-09-20 |
 | [Sharp Shooter](https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:44 | 2024-07-18 | 2024-08-23 |
 | [Shivering](https://open.spotify.com/track/51cAhMu907C41i2IpL4pUy) | [Alexodus](https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8) | [Shivering](https://open.spotify.com/album/3GH5dRw5f3KBFIeNkzpFwk) | 2:58 | 2025-05-08 | 2025-05-16 |
@@ -464,7 +465,7 @@
 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2024-06-27 | 2024-12-20 |
 | [We Don't Wanna Be No Saints](https://open.spotify.com/track/3B8gzxlo7uZUFMl3tO5HOo) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Wake Up The Wicked \(Deluxe Version\)](https://open.spotify.com/album/41XrkRQLSBThNGddZTKxiN) | 3:15 | 2024-07-25 | 2025-03-07 |
 | [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-27 | 2024-10-04 |
-| [WE’RE ALL GONNA DIE](https://open.spotify.com/track/4O3NC8soE6ELWtgIWjSD2B) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE ALL GONNA DIE](https://open.spotify.com/album/0zJhmlEFYi2tFdhrlD5Rjq) | 3:04 | 2025-02-06 |  |
+| [WE’RE ALL GONNA DIE](https://open.spotify.com/track/4O3NC8soE6ELWtgIWjSD2B) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE ALL GONNA DIE](https://open.spotify.com/album/0zJhmlEFYi2tFdhrlD5Rjq) | 3:04 | 2025-02-06 | 2025-05-17 |
 | [What If...?](https://open.spotify.com/track/4NDXISXlmXBF1bQIjULijY) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [What If...?](https://open.spotify.com/album/2iE4nia3tEAoQKRex8rElL) | 3:35 | 2024-10-24 | 2024-11-01 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-06-27 | 2024-12-25 |
 | [When I'm Dead](https://open.spotify.com/track/2kKdUQ3awNwDxivN3zFsbd) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Something Witty](https://open.spotify.com/album/3MIRAg9YarXUiDZUgb4hZV) | 2:56 | 2024-10-24 | 2024-11-01 |

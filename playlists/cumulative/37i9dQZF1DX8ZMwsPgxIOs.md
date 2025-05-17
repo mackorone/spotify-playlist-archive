@@ -2,9 +2,9 @@
 
 ### [Techno State](https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs)
 
-> Techno is a state of mind\. Cover: Adam Beyer
+> Techno is a state of mind\. Cover: Nicole Moudaber
 
-533 songs - 1 day 15 hr 28 min
+537 songs - 1 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [For Tha Shot](https://open.spotify.com/track/4nkxVUmWW2sNVzSAmElsrp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [For Tha Shot](https://open.spotify.com/album/29xMerDSgERnGqXyU4VX0T) | 4:22 | 2022-07-14 | 2023-08-11 |
 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 | 2022-05-26 | 2023-03-15 |
 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 | 2025-02-14 |  |
+| [Forgiveness](https://open.spotify.com/track/37itFci9FvClfeIWw57HZm) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Forgiveness](https://open.spotify.com/album/4GVwUApbNBwTeGmXS5Erbn) | 4:02 | 2025-05-16 |  |
 | [Formulate](https://open.spotify.com/track/5hIikVMKkHbcqWf5RssqfC) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Formulate](https://open.spotify.com/album/1gG1t6YSrSolqK0F6Dy03I) | 3:04 | 2024-02-02 | 2024-09-07 |
 | [Freaks at Night](https://open.spotify.com/track/2hAIcWh147ofa7v2DXyHPn) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Freaks at Night](https://open.spotify.com/album/7kxCqxCTpTGTLj61xXksz7) | 3:34 | 2024-06-28 |  |
 | [Free Woman](https://open.spotify.com/track/5GvQguudhdHThYfrv74gVL) | [Carla Schmitt](https://open.spotify.com/artist/5D2zC4SgQwYoBcbFOrFiUe) | [Fragments](https://open.spotify.com/album/79yNnDzbaHcclG3a3ywVyW) | 5:08 | 2024-06-28 |  |
@@ -235,6 +236,7 @@
 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 | 2024-06-07 | 2025-05-09 |
 | [I Talk To Water \(with Perry Farrell\)](https://open.spotify.com/track/3DfzinNKzTSYInk2FKOx1h) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [I Talk To Water](https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi) | 4:57 | 2023-11-13 | 2024-05-17 |
 | [I Want You \- Weska Remix](https://open.spotify.com/track/6NCs3DjW9Ane6z0pZ374ca) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl), [B.O.B\. Ltd.](https://open.spotify.com/artist/2WvJPrNoklalxJ1kbqRfdn), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [I Want You \(Weska Remix\)](https://open.spotify.com/album/3DzrZWfZQXrAwvJt9PeHxx) | 3:29 | 2025-03-18 | 2025-03-28 |
+| [I've Been Waiting For You](https://open.spotify.com/track/0R7grt83il7J5cEYED7YGo) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [MNENE](https://open.spotify.com/artist/2jMPemvmelQw1uJsMoqJ4W) | [I've Been Waiting For You](https://open.spotify.com/album/77W3y34hUhomVbxhDBUVFy) | 3:17 | 2025-05-16 |  |
 | [Icaro](https://open.spotify.com/track/2TEPMRBEN4rQQ3pjbQhX2i) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Icaro](https://open.spotify.com/album/7i2VZpbn3G67So7TAgfDeJ) | 4:15 | 2022-04-15 | 2022-07-29 |
 | [Icaro](https://open.spotify.com/track/6JNNe1WA9uv8lj1Aee19tY) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Icaro](https://open.spotify.com/album/3GFtkFekTHoeJ0QuKE2RsQ) | 4:15 | 2022-07-14 | 2022-10-14 |
 | [If I Die](https://open.spotify.com/track/5xNPAzaDPe0yB4RIfvFqRJ) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60) | [Sky Scraping](https://open.spotify.com/album/6xsPCh9ptJbW0Qr0afy5L7) | 5:36 | 2022-04-15 | 2022-10-29 |
@@ -339,6 +341,7 @@
 | [Nothing Left To Say](https://open.spotify.com/track/0wciYagUZgO1F13ZddNdgA) | [Meg McHugh](https://open.spotify.com/artist/3IrrhCEglQLNuayeXNP6MV) | [Nothing Left To Say](https://open.spotify.com/album/7xCawKKMBUazkMpOoQXHKC) | 2:42 | 2025-04-17 |  |
 | [Now Is](https://open.spotify.com/track/0bMyeYH8xLWRRUO8iA6XSp) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/2aY0VjB49Ko4xfyCIZvpGT) | 6:31 | 2022-08-05 | 2022-10-16 |
 | [Now Is](https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 6:31 | 2022-10-13 | 2023-11-14 |
+| [Now Or Never](https://open.spotify.com/track/42dBUwO0gBAgMtsjdAPMl8) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig), [Teneya](https://open.spotify.com/artist/0XKhH7joDKB3tQ5GQVo7iV) | [Now Or Never](https://open.spotify.com/album/00B55o9ApEwIw7KUxgoltM) | 3:45 | 2025-05-16 |  |
 | [Now Or Never \(feat\. IVERSON\)](https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [IVERSON](https://open.spotify.com/artist/37Ta8OzT2wEZDyTaCYqzEo) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:59 | 2024-04-05 | 2025-02-21 |
 | [OBSESSION](https://open.spotify.com/track/53fHl9iLv7G9IFo6PrWKEK) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [OBSESSION](https://open.spotify.com/album/6B6OArozqDar19BjWoa0MZ) | 3:19 | 2025-05-08 |  |
 | [Oddity](https://open.spotify.com/track/1kzz0jJUMFEBYPgtvVrMSr) | [Powers & Paterson](https://open.spotify.com/artist/00Zc5l1YWDtZJFQxqpYYNy) | [Oddity](https://open.spotify.com/album/5kgvEI9RY1wVrCP1URSgwe) | 3:00 | 2024-01-19 | 2024-08-09 |
@@ -417,6 +420,7 @@
 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 | 2022-09-23 | 2023-11-05 |
 | [See the Sun Rising](https://open.spotify.com/track/3idWxkGAnciwFL0DL60683) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Electronic Generations](https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs) | 4:07 | 2023-10-27 | 2023-11-17 |
 | [Send Help](https://open.spotify.com/track/6jVlTi2ftKk02j3mCWsSKQ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Send Help](https://open.spotify.com/album/2BzFB5SNQazAUMzqi9VXv1) | 3:15 | 2022-04-15 | 2022-05-27 |
+| [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 | 2025-05-16 |  |
 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 | 2025-01-31 |  |
 | [Shelter](https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Belonging](https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh) | 4:14 | 2024-03-06 | 2024-09-12 |
 | [Shine](https://open.spotify.com/track/6GJYSPLEP0sjZzzpuiKIcx) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Shine](https://open.spotify.com/album/5rOgqcs2ZryO3cZg03B27l) | 4:04 | 2022-07-01 | 2023-09-22 |

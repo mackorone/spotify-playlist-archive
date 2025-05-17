@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-361 songs - 17 hr 32 min
+368 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,10 +142,12 @@
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2022-04-15 | 2022-06-03 |
 | [Get Over](https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Get Over](https://open.spotify.com/album/3ZyU5uKTIk3cJe4lnuZX1X) | 3:05 | 2022-04-15 | 2023-05-27 |
 | [Get Some](https://open.spotify.com/track/6XCmzgE6hueMNCeq7EEAgh) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Get Some](https://open.spotify.com/album/51oJ57HrL19pMlpZahQlSU) | 3:08 | 2022-10-07 |  |
+| [Glide](https://open.spotify.com/track/4jJFVzaQirzpLgVg0zGcFg) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Glide](https://open.spotify.com/album/1WyL5EXWkYvPb9qOak4PLN) | 2:06 | 2025-05-16 |  |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2022-04-15 | 2022-08-19 |
 | [Gloom](https://open.spotify.com/track/0L7xtSqLuDfilpr5CknjWE) | [Nataya](https://open.spotify.com/artist/1VMiSIx9pA9WcS7ktBjcqo) | [Gloom](https://open.spotify.com/album/5XoGzBPhMWN5CWLuUbVg12) | 2:38 | 2025-03-21 |  |
 | [Glow](https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:47 | 2022-04-15 | 2022-05-11 |
 | [goddess of the sun](https://open.spotify.com/track/5Do6Ajen5054JUQTGvL3KG) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [goddess of the sun](https://open.spotify.com/album/0Vd7tTpLqS6N6KKKzpU8yk) | 2:48 | 2024-06-11 | 2024-08-27 |
+| [Golden Stillness](https://open.spotify.com/track/0VP4BHpL7U0bcn0DOpa02X) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Golden Stillness](https://open.spotify.com/album/3qONV6urhwtF3B12RUBpAW) | 2:38 | 2025-05-16 |  |
 | [Good Intentions](https://open.spotify.com/track/6GwgPFKL5IO1Zhjb9ZMLRm) | [Carlo Azure](https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z) | [Good Intentions](https://open.spotify.com/album/1qwwsNNztNK7wm0ndxwAYM) | 1:37 | 2023-12-01 | 2024-02-27 |
 | [Gran Via](https://open.spotify.com/track/00Ed3O2Ru8G51Pli1tg0Ue) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Gran Via](https://open.spotify.com/album/6TaXddCz1SZtiKruCLPahF) | 2:10 | 2024-05-11 |  |
 | [Green Tea](https://open.spotify.com/track/3hsy5ROPWpTufxoushQGxh) | [RA DAR](https://open.spotify.com/artist/25UwRVjERSaIMnOYX0ZaM1) | [Green Tea](https://open.spotify.com/album/0IiicTP72DBizlRwt5kXEl) | 2:07 | 2024-06-11 |  |
@@ -196,7 +198,7 @@
 | [Lonely Sky](https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Lonely Sky](https://open.spotify.com/album/4yJ7x7yvZxizG13L1a2gAE) | 3:47 | 2024-12-20 |  |
 | [Look At The Stars](https://open.spotify.com/track/1cHC9pl8CiaW91dWRhNLeO) | [Carinth](https://open.spotify.com/artist/330FPb6pKzidkaSS968Ezm) | [Look At The Stars](https://open.spotify.com/album/5BfmlbstYNCmVdcD2m1kDs) | 2:21 | 2024-03-26 | 2025-02-08 |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2022-04-15 |  |
-| [lowfie](https://open.spotify.com/track/3u3osPhHe6pRdqwkxFktf1) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [lowfie](https://open.spotify.com/album/3HW3ITcip0DBM5Kr6Djc4i) | 2:19 | 2023-04-07 |  |
+| [lowfie](https://open.spotify.com/track/3u3osPhHe6pRdqwkxFktf1) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [lowfie](https://open.spotify.com/album/3HW3ITcip0DBM5Kr6Djc4i) | 2:19 | 2023-04-07 | 2025-05-17 |
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-15 | 2023-04-22 |
 | [Magic Island](https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Magic Island](https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2) | 2:17 | 2022-04-15 | 2024-11-23 |
 | [Man of her dreams](https://open.spotify.com/track/7IPsZDA51s76YiNXpb5dOr) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Man of her dreams](https://open.spotify.com/album/6RbpC3wuOP4U2gHVGYhP02) | 3:03 | 2024-11-07 |  |
@@ -211,6 +213,7 @@
 | [Morning Dew](https://open.spotify.com/track/6w4ODC8ygnMgV5hSy1VyoE) | [Undefined Space](https://open.spotify.com/artist/4tvalX4nEpCqTBOyUR3U19) | [Morning Dew](https://open.spotify.com/album/5oCXTTtkDxzNdlwRZfPiH8) | 2:41 | 2024-03-26 |  |
 | [Morning Light](https://open.spotify.com/track/5Bq2xMiThkvSyLAZBUwjHo) | [HillBlindz](https://open.spotify.com/artist/5Z6er4pHWvy5RhUzwrbHDb) | [Morning Light](https://open.spotify.com/album/1fRHjnagf0S01cjKmvnp8K) | 2:55 | 2023-05-26 |  |
 | [Morning Tram](https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Morning Tram](https://open.spotify.com/album/2W1mf9JWUqNKc1FjBJiWCd) | 3:15 | 2022-04-15 | 2023-06-20 |
+| [Motions of life](https://open.spotify.com/track/7BwXlBUItLdut2dLw3wxIa) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Motions of life](https://open.spotify.com/album/2P8YZaEmnAjyL6KgPey0sF) | 2:19 | 2025-05-16 |  |
 | [Mountain High](https://open.spotify.com/track/6KlwKBHBnWTm825JMgR6Ds) | [liily day](https://open.spotify.com/artist/6cEnad7Xq3IDYJ2yBnpUlN) | [Mountain High](https://open.spotify.com/album/6CQfHfGvHqlPjugeC5yVgE) | 2:39 | 2024-02-26 |  |
 | [move over](https://open.spotify.com/track/7rIBhcLO7nWvDuhxhkWXWj) | [sugar namnam](https://open.spotify.com/artist/0ik5AyIo0Nqj2u3LlEuvy3) | [move over](https://open.spotify.com/album/5n1V7Kc7BUM5WCFd7fTMdX) | 2:06 | 2024-03-26 |  |
 | [My Chances](https://open.spotify.com/track/5XIaAOU2zFVE61XEiue7Qy) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [My Chances](https://open.spotify.com/album/59PZlSRWeeTdtYlqK84Y5k) | 2:55 | 2025-05-02 |  |
@@ -252,6 +255,7 @@
 | [Poolside Bliss](https://open.spotify.com/track/7Jm2p8fVd12UxlH2RHStuL) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Poolside Bliss](https://open.spotify.com/album/3j7LhV4pQJj4vtaqhfkQCK) | 3:33 | 2024-12-20 |  |
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2022-04-15 | 2022-05-11 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2022-04-15 |  |
+| [preference](https://open.spotify.com/track/2oq3F0ds3MIqjTPOwMBhNy) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [preference](https://open.spotify.com/album/0SrUaCGYkTgDj5x284DrSR) | 2:53 | 2025-05-16 |  |
 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2022-05-10 |  |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2022-04-15 |  |
 | [Pulse in Progress](https://open.spotify.com/track/58N0k3jsU2djoxMpRwTAOg) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Pulse in Progress](https://open.spotify.com/album/2TmKwVuSfOpw2SeQbhH3Bq) | 2:32 | 2025-03-21 |  |
@@ -276,6 +280,7 @@
 | [Romance De Verao \- Edit](https://open.spotify.com/track/1936Zbphpffs5ItrZWwCaq) | [Alex Caipirinha](https://open.spotify.com/artist/1usKVVJQ2IcqqB8RjvpGKv) | [Romance De Verão \- Edit](https://open.spotify.com/album/2dcw5pPpt0aDvVObghlqKs) | 2:26 | 2025-01-24 |  |
 | [Rose \- Edit](https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa) | [Ljuvski](https://open.spotify.com/artist/2xE2iDErWgKFLmOOcF8hMa) | [Chill House x 3](https://open.spotify.com/album/34TKQyCcsvUv3ISgZsU60p) | 3:20 | 2022-04-15 | 2022-05-11 |
 | [running emotion](https://open.spotify.com/track/50qTed10S2KaDtGAYbD4dr) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [running emotion](https://open.spotify.com/album/0iHbisELLIEFVvRithDFAx) | 2:38 | 2022-07-29 | 2022-10-08 |
+| [Safe](https://open.spotify.com/track/0HzqYRoAZG7fSQtSsnNR6Z) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Safe](https://open.spotify.com/album/07KY2yTDRwzlxYYneC2eSx) | 2:34 | 2025-05-16 |  |
 | [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2022-04-15 | 2023-04-22 |
 | [Salty Sip](https://open.spotify.com/track/4H8pnRgT43YnCHZpfMgMRI) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [Salty Sip](https://open.spotify.com/album/2YzQUnhkZ0gHllxXU5saQL) | 3:36 | 2022-04-15 |  |
 | [San Blas](https://open.spotify.com/track/7hTxggsd00sOUlXhBMsonM) | [Basic Amaury](https://open.spotify.com/artist/1IJxQCtcWIJ05bXGJHBMwe) | [San Blas](https://open.spotify.com/album/0vV153pcazJCHud3jTvcTH) | 2:00 | 2022-04-15 | 2023-07-29 |
@@ -286,6 +291,7 @@
 | [Seeds](https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws) | [Dj Hindi Bacha](https://open.spotify.com/artist/4DKQvnJHtQWd7G7DgyjKKV) | [Seeds](https://open.spotify.com/album/5aeblHVH3Yo3Xh8xsv1gjD) | 3:13 | 2022-04-15 | 2024-08-27 |
 | [Sense of space](https://open.spotify.com/track/63Hmij2UQ8aYdrqfIFUE36) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Sense of space](https://open.spotify.com/album/6FSlJy1FFldk7uapUgi99q) | 3:32 | 2023-02-24 | 2024-11-08 |
 | [Serenity](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Serenity](https://open.spotify.com/album/1u4oOmnTTUjiVhs7FNubgy) | 2:47 | 2022-04-15 | 2023-05-27 |
+| [Serenity](https://open.spotify.com/track/5Fa0wakxlOE22drqTbzpjb) | [Nataya](https://open.spotify.com/artist/1VMiSIx9pA9WcS7ktBjcqo) | [Serenity](https://open.spotify.com/album/53e3Z0F7sMsYW8RhYbSWB4) | 2:36 | 2025-05-16 |  |
 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 | 2022-04-15 | 2023-07-29 |
 | [Ses Salines](https://open.spotify.com/track/3XSFQLLzrM1nDWh13A4eci) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Ses Salines](https://open.spotify.com/album/2oGLfb0Nv0cDcyO2FRwEk8) | 2:56 | 2022-06-17 |  |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-15 | 2023-06-03 |
@@ -332,6 +338,7 @@
 | [Tea Time](https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Tea Time](https://open.spotify.com/album/0XOeePwCgFrwZ2SwrIC08h) | 2:40 | 2023-06-19 | 2025-05-03 |
 | [Teenage](https://open.spotify.com/track/78bAFyYsTHT4idrO3lZESA) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Teenage](https://open.spotify.com/album/36awS9gqn1o5Z3qxpK7ADc) | 2:49 | 2022-11-25 |  |
 | [Telemagenta](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ) | [Mystic Maroon](https://open.spotify.com/artist/6OZYmsIeL1bCzCEgavYXXO) | [Telemagenta](https://open.spotify.com/album/1T42FTkfEl38GaONIK8qkh) | 3:02 | 2022-04-15 | 2023-04-22 |
+| [Tempel](https://open.spotify.com/track/5PRK2YEF3iSufclolLWqaQ) | [Morning life](https://open.spotify.com/artist/594JjvUBbtG5rOcSd75EYj) | [Tempel](https://open.spotify.com/album/4PCInCTH1XixEpsNS31Csm) | 2:26 | 2025-05-16 |  |
 | [Terrace](https://open.spotify.com/track/2fAfvKAkeBMNlO72CM4LN5) | [Peyote](https://open.spotify.com/artist/3GcLm6nLpo2oAbrfzYfRfr) | [Terrace](https://open.spotify.com/album/4ru0bf5aCnY7zXqbqRgAok) | 1:57 | 2023-12-01 | 2024-02-27 |
 | [Testarossa](https://open.spotify.com/track/38qCinc76lYEsPFvp8Ul9q) | [Slow Burn](https://open.spotify.com/artist/4f5yfz8f7eizrSDwzLUV2i) | [Testarossa](https://open.spotify.com/album/2CzcCDDOOVJhKBdxV8bxaL) | 2:44 | 2024-11-07 |  |
 | [Thought Prince](https://open.spotify.com/track/4UPBPbvVQrJvoH1zYrbEYk) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Leggings](https://open.spotify.com/album/2AMSgiLX3gc0upUkn8H93T) | 3:08 | 2022-11-25 | 2023-06-20 |

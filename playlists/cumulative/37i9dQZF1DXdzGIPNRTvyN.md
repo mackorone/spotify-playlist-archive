@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-324 songs - 15 hr 19 min
+326 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Nordic Nature](https://open.spotify.com/track/3sw3OyQfASazznWZz0w1EU) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Nordic Nature](https://open.spotify.com/album/01Pb8nwmMw9acSDIceI8yO) | 3:08 | 2024-01-30 | 2025-04-30 |
 | [Oasis](https://open.spotify.com/track/1pGHWehHrHz09Ehjwtl3DG) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Oasis](https://open.spotify.com/album/1dOa9Yi7Rt5QP1JHDrmjwJ) | 2:51 | 2024-01-18 | 2025-04-30 |
 | [Oasis](https://open.spotify.com/track/7C8Rz0cs00PxqLFNK8M7Ni) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Oasis](https://open.spotify.com/album/1MM6e5be6yMO3nFcobJFDQ) | 2:04 | 2023-08-18 |  |
+| [Of Dreams](https://open.spotify.com/track/5NNzFE3bBtnld4aCc6cg3s) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Of Dreams](https://open.spotify.com/album/1rLMWKKbiR0yf3jAeoBlp4) | 3:03 | 2025-05-16 |  |
 | [Only you](https://open.spotify.com/track/3CqQsTiEYjy3LQXvxmdBws) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [Only You](https://open.spotify.com/album/12UfG7di9fD2S65HGnlslw) | 3:00 | 2023-07-28 |  |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-01-24 | 2024-08-23 |
 | [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 |  |
@@ -332,5 +333,6 @@
 | [Whispering Stream](https://open.spotify.com/track/1pmvW9hcN5WngmDjEZIOb8) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Whispering Stream](https://open.spotify.com/album/7gTsoPZiP1jy2I3CWGKpkX) | 2:49 | 2024-12-12 |  |
 | [White Light](https://open.spotify.com/track/6oGtCltZ2qtAjguWpxEXRT) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [White Light](https://open.spotify.com/album/0H3vdaaoJS6l7E8TDn49jy) | 2:58 | 2024-01-30 |  |
 | [Willamette Falls](https://open.spotify.com/track/7ksLJPOQmbSdCsHOB7ND4y) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Willamette Falls](https://open.spotify.com/album/093ls5rr0CjLaUmW4unO8i) | 2:57 | 2023-10-26 |  |
+| [Worthy](https://open.spotify.com/track/4SF4bIKdN5ugfeOcwwT486) | [Peaceful Storm](https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm) | [Worthy](https://open.spotify.com/album/6NygaZ0pFTqrBj47zk63Qu) | 2:15 | 2025-05-16 |  |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

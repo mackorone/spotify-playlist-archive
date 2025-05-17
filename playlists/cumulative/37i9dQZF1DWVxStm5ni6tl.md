@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Seago, Artwork: Isu Kim.
 
-2,318 songs - 4 day 23 hr 59 min
+2,319 songs - 5 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Alter Reality](https://open.spotify.com/track/00f8PgE0PAT4CZeMkmeAHG) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Alter Reality](https://open.spotify.com/album/5dUAmewUY6LZPoItFxh5gL) | 3:54 | 2023-11-08 | 2023-11-23 |
 | [Always](https://open.spotify.com/track/6IuYJqGXSF86hIS5AluYP3) | [Shopé](https://open.spotify.com/artist/539ZsoCQY3Y24f38ZuIBgp) | [Always](https://open.spotify.com/album/2kwMhT8N5tXEsg4VUN0OZ6) | 2:32 | 2024-10-23 | 2024-11-07 |
 | [Always](https://open.spotify.com/track/7lLh6FnFalwe8bKeentfpE) | [Toddy](https://open.spotify.com/artist/6B8Q8Sd23cmTkQDN09oxzK) | [Always](https://open.spotify.com/album/6SkLtsou2vAeqNkW4MZLKM) | 3:07 | 2024-06-19 | 2024-07-18 |
+| [Amazing](https://open.spotify.com/track/5MzSH2kLAGMiGpjQEZKIRr) | [Lowkner](https://open.spotify.com/artist/4k71JEKxVDcTlbl89n3B6d) | [Amazing](https://open.spotify.com/album/4KcQWE0IroWI27yaUKznO3) | 2:31 | 2025-05-16 |  |
 | [Ami imaginaire](https://open.spotify.com/track/5fy9vWmI4x38nkNZIf67eR) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Ami imaginaire](https://open.spotify.com/album/3TcehQS7pt30xsNWbLFKKZ) | 4:18 | 2024-09-04 | 2024-09-19 |
 | [AMPHETAMINE MAN](https://open.spotify.com/track/2T029gG9XDjsoHtyRnY7dQ) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [I DREAMT I FOUND A RED RUBY](https://open.spotify.com/album/5AQYBPDC2E8RK4FC0tbdzJ) | 2:19 | 2024-12-04 | 2025-01-16 |
 | [AMPHETAMINE MAN](https://open.spotify.com/track/3yTzDMqC9X1vUDTJJAnHTS) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [AMPHETAMINE MAN](https://open.spotify.com/album/5RVeJSpI1w6LkrJTgjG6Q4) | 2:20 | 2024-03-06 | 2024-05-09 |
@@ -1622,7 +1623,7 @@
 | [Quatre coins](https://open.spotify.com/track/53PiYwB9audJTF9CHhhMiD) | [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Quatre coins](https://open.spotify.com/album/32sIqwwktuEVmCE1CJG2Cc) | 2:53 | 2025-03-12 | 2025-03-20 |
 | [QUE FUEGO \- Ibiza VIP Dub](https://open.spotify.com/track/6D693nh1bwVio4Pg6jpN7e) | [Yanik Coen](https://open.spotify.com/artist/0MnQ8m1U8JT36ixxg2ObzN) | [QUE FUEGO \(Ibiza VIP Dub\)](https://open.spotify.com/album/7uSa59bsiBDERSU9XTpn5s) | 2:57 | 2023-09-06 | 2023-09-28 |
 | [Que Rico](https://open.spotify.com/track/2LeJNbeHLUcCQD3mlTFSPm) | [Prophex](https://open.spotify.com/artist/4QeD9XFoPEHht1Mj8InACT) | [Que Rico](https://open.spotify.com/album/1FKY0S9huw21MS7QC8t99k) | 3:10 | 2024-09-26 | 2024-10-10 |
-| [Questions](https://open.spotify.com/track/1FtGSIacJuTkab911nWQNs) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:25 | 2025-04-30 |  |
+| [Questions](https://open.spotify.com/track/1FtGSIacJuTkab911nWQNs) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:25 | 2025-04-30 | 2025-05-17 |
 | [Questions](https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Questions](https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU) | 4:25 | 2025-04-23 | 2025-05-01 |
 | [QUI ?](https://open.spotify.com/track/0ZBxmRQLlctQUp6dTyXy8D) | [Aïda](https://open.spotify.com/artist/3DSgPJ7EH8ghNM38G6eUQi) | [QUI ?](https://open.spotify.com/album/0Kq1V3W3IQlWex2LgBKeCD) | 2:55 | 2025-03-07 | 2025-03-13 |
 | [quiet considerations](https://open.spotify.com/track/0OupB90ugzJbmMuLFufvCL) | [la lune](https://open.spotify.com/artist/5hAeBiMGwnoFDNf7jB0mdl) | [everything is an eternal circle and it repeats and repeats itself](https://open.spotify.com/album/3eX2hxkPJ2FBJqdYQiSxaH) | 2:43 | 2025-05-14 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 297020,
+  "num_followers": 297034,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -107,26 +107,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 174067,
-      "name": "Monsters (feat. blackbear)",
-      "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 174067,
+      "name": "Monsters (feat. blackbear)",
+      "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Hats Off to the Bull",
         "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 218560,
       "name": "Face to the Floor",
       "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Who Will Fix Me Now?",
-        "url": "https://open.spotify.com/album/5GaVZYbQccbOCN4L7a22TH"
-      },
-      "artists": [
-        {
-          "name": "Slow Degrade",
-          "url": "https://open.spotify.com/artist/5LWqvtfUtbjgzQKOWk24Lz"
-        }
-      ],
-      "duration_ms": 219352,
-      "name": "Who Will Fix Me Now?",
-      "url": "https://open.spotify.com/track/5w49lBNC26nILBbphwXyn0"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Cry Wolf",
         "url": "https://open.spotify.com/album/2mSsjlndP7hegCkRi8udPm"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 264403,
       "name": "Cry Wolf",
       "url": "https://open.spotify.com/track/2d1HZ8HtdvqI5oqt7gpnB8"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Who Will Fix Me Now?",
+        "url": "https://open.spotify.com/album/5GaVZYbQccbOCN4L7a22TH"
+      },
+      "artists": [
+        {
+          "name": "Slow Degrade",
+          "url": "https://open.spotify.com/artist/5LWqvtfUtbjgzQKOWk24Lz"
+        }
+      ],
+      "duration_ms": 219352,
+      "name": "Who Will Fix Me Now?",
+      "url": "https://open.spotify.com/track/5w49lBNC26nILBbphwXyn0"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG"
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
       },
       "artists": [
         {
-          "name": "CHIG",
-          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
         }
       ],
-      "duration_ms": 226898,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX"
+      "duration_ms": 178804,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG"
+      },
+      "artists": [
+        {
+          "name": "CHIG",
+          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
+        }
+      ],
+      "duration_ms": 226898,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "curious/furious",
         "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 184905,
       "name": "curious/furious",
       "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 178804,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
     },
     {
       "added_at": "2024-12-03 09:27:47",

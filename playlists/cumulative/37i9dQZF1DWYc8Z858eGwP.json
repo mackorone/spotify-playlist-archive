@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists from Africa. Cover:  <a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=U3O9-pfZQk6ftAECJfrtAw\">Shallipopi</a>",
+  "description": "Discover your new favourite artists from Africa. Cover:  <a href=\"https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=eowv51LkSieK2fBmdIXoeA\">Joshua Baraka</a>",
   "name": "RADAR Africa ",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 170080,
       "name": "100 mill",
       "url": "https://open.spotify.com/track/3xNZvhskS5f3NuVC8ldi0x"
@@ -4786,7 +4786,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 155403,
       "name": "Love practitioner",
       "url": "https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5"
@@ -5410,6 +5410,28 @@
       "duration_ms": 196596,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/3HNzLvkfe8hHvoNQab0AIT"
+    },
+    {
+      "album": {
+        "name": "The Godson",
+        "url": "https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203870,
+      "name": "Nairobi",
+      "url": "https://open.spotify.com/track/5XSuj4xrbakbDeSQom3oAr"
     },
     {
       "album": {
@@ -8276,6 +8298,24 @@
       "duration_ms": 204975,
       "name": "Worry About Nothing",
       "url": "https://open.spotify.com/track/4OaDf51Wh4XGGESPBFChYa"
+    },
+    {
+      "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
       "album": {

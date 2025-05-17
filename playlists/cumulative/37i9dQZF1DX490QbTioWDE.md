@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ian Lucas & Q´ Lokura.
 
-555 songs - 1 day 9 hr 51 min
+556 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Cuánto Me Quedé](https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [A Cuánto Me Quedé](https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g) | 3:16 | 2022-07-22 | 2023-05-23 |
 | [A Cuánto Me Quedé](https://open.spotify.com/track/6nSdCunUQiGAnSMbdvt5Mw) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [A Cuánto Me Quedé](https://open.spotify.com/album/62o1fvTFwdsdhONpu2SGYn) | 3:16 | 2022-01-10 | 2022-07-12 |
 | [A la mitad](https://open.spotify.com/track/65JceLr57WX9lbOg5DLc4x) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [A la mitad](https://open.spotify.com/album/1V0M7xCGLG8SEFZVf7OOTJ) | 1:58 | 2024-02-23 | 2024-06-08 |
+| [A Prueba de Balas \- En Vivo](https://open.spotify.com/track/56hRaRLE3SiB8RhMBFcvdv) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [A Prueba de Balas \(En Vivo\)](https://open.spotify.com/album/1G0Pl7xFprblQf4ikcOKda) | 3:10 | 2025-05-16 |  |
 | [A un Milimetro de Ti / Tan Natural](https://open.spotify.com/track/0b3ecgOYbtZpuxM45S7PVf) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Sergio Torres](https://open.spotify.com/artist/20RFfhUr4ywekB37FCjaqW) | [A un Milimetro de Ti / Tan Natural](https://open.spotify.com/album/5aa9yk905wXc6nyZ6mMMLh) | 5:03 | 2022-08-12 | 2022-09-10 |
 | [ACORDARME DE MI](https://open.spotify.com/track/7EWVLogjGVZpFZU9oquYbH) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [ACORDARME DE MI](https://open.spotify.com/album/4KJUbTKXgTX6ULq18Zv7YX) | 3:04 | 2024-03-08 | 2024-03-16 |
 | [Adicto A Ti](https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 4:06 | 2021-12-24 | 2023-05-07 |
@@ -150,7 +151,7 @@
 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 | 2021-12-24 | 2022-07-29 |
 | [El Más Popular \- Remix](https://open.spotify.com/track/0JI00bxqWrdV4FRrqWfe2c) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [El Más Popular \- Remix](https://open.spotify.com/album/3LP8U2XNMpWVk1ICV8BU3w) | 3:09 | 2024-08-09 | 2024-10-19 |
 | [El No Va a Venir](https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [El No Va a Venir](https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r) | 2:15 | 2024-04-26 | 2025-03-01 |
-| [El No Va A Venir \- En Vivo](https://open.spotify.com/track/36zk5AsATW6DinliG5f6qO) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [El No Va A Venir \(En Vivo\)](https://open.spotify.com/album/3YN2Q3RG3maFaoCkYwgl5U) | 2:29 | 2024-09-06 |  |
+| [El No Va A Venir \- En Vivo](https://open.spotify.com/track/36zk5AsATW6DinliG5f6qO) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [El No Va A Venir \(En Vivo\)](https://open.spotify.com/album/3YN2Q3RG3maFaoCkYwgl5U) | 2:29 | 2024-09-06 | 2025-05-17 |
 | [El Pañuelo](https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Pañuelo](https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO) | 2:54 | 2023-04-07 | 2024-06-17 |
 | [El Que Se Enamora Pierde](https://open.spotify.com/track/5xgvk3BWfp3cM2zSKR0NBY) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [El Que Se Enamora Pierde](https://open.spotify.com/album/2dy3LvOvWEFJYUvJKi3RHx) | 2:24 | 2025-04-18 |  |
 | [El tiempo pasa](https://open.spotify.com/track/64TQSAqul6b5y0ueOyMKzf) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [El tiempo pasa](https://open.spotify.com/album/65WGQQm6DvvJU3KM5RvZ9F) | 2:34 | 2025-04-25 |  |

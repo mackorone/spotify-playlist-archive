@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Kailane Frauches
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,196 likes - 49 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,864 likes - 49 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 35 | [Tua Presença](https://open.spotify.com/track/5S60Kq1JeWRuIit3tLQHdM) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Tua Presença](https://open.spotify.com/album/1imz0t2ampTGxZRKCLTmFc) | 4:01 |
 | 36 | [Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/2d3deAsE2eE2ND8Utg2QMj) | [Letícia Lins](https://open.spotify.com/artist/0bfzCdVkiIiExvm9BWPaaz), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/7p1ymBFxkJdAcxVffi4lmf) | 3:51 |
 | 37 | [Não Estou Só \(Ao Vivo\)](https://open.spotify.com/track/2bLPOZIXv1ch21oWvsBFkG) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Não Estou Só \(Ao Vivo\)](https://open.spotify.com/album/1PXOa9V4rPTqAXiSXhun74) | 5:48 |
-| 38 | [Até o Fim](https://open.spotify.com/track/7rY0IM4huHPfHX3dE3t4Po) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Milena](https://open.spotify.com/artist/3lvf3Rr3Enw2LuFWKWMgmy) | [Até o Fim](https://open.spotify.com/album/0Ua3wGMA0wBOUoHljpBpLx) | 6:27 |
+| 38 | [Até o Fim](https://open.spotify.com/track/7rY0IM4huHPfHX3dE3t4Po) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Milena](https://open.spotify.com/artist/3lvf3Rr3Enw2LuFWKWMgmy), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Até o Fim](https://open.spotify.com/album/0Ua3wGMA0wBOUoHljpBpLx) | 6:27 |
 | 39 | [Deus Tremendo](https://open.spotify.com/track/50Y8Espc0zDAciinRxNsSp) | [Luanna Dourado](https://open.spotify.com/artist/5TZcTF1bRTO4saqs5a84uz) | [Deus Tremendo](https://open.spotify.com/album/4GA3zpcVpjnLBlglvaPbfr) | 3:35 |
 | 40 | [Consagrado ao Senhor](https://open.spotify.com/track/51lGoJ3d9dSim2iaL3sBxy) | [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Consagrado ao Senhor](https://open.spotify.com/album/1J6mNJBoDz42IGEAjY3XHs) | 4:30 |
 | 41 | [Maior Motivo](https://open.spotify.com/track/53p7RzIO9MOV6KpxJpmJlh) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Maior Motivo](https://open.spotify.com/album/6TDQPQcMQ4OCSefT7xKnph) | 4:54 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 48 | [Imensurável \(Ao Vivo\)](https://open.spotify.com/track/6WlmQeDROaAkr88nDDYA6S) | [Jonata Cabral](https://open.spotify.com/artist/0RwWKoLV3ZRPZP5ZuDV1Rp) | [Imensurável \(Ao Vivo\)](https://open.spotify.com/album/5NKygTO8gGl8DedZoB4lZZ) | 4:22 |
 | 49 | [Te Louvo \- Ao Vivo](https://open.spotify.com/track/56ktAOQgZZYVeKz8F7CBGS) | [Hangar 7 Music](https://open.spotify.com/artist/6HyPS4465icEDvFZAC19Oy) | [Te Louvo \(Ao Vivo\)](https://open.spotify.com/album/2acCBu3dmglHQKLPImEygV) | 4:39 |
 
-Snapshot ID: `aCaqeAAAAACDO/sUK0InMN8TnQJqkGDl`
+Snapshot ID: `aCdBZwAAAADbULLgWq3snmk1BJmCehGC`

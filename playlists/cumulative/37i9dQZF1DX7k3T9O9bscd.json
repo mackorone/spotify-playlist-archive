@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Psyched-out bands from the four corners of the world. Mdou Moctar on cover.",
+  "description": "Psyched-out bands from the four corners of the world. Panda Bear on cover.",
   "name": "Neo-Psychedelic Rock",
   "tracks": [
     {
@@ -296,6 +296,24 @@
       "duration_ms": 261400,
       "name": "Antropoceno",
       "url": "https://open.spotify.com/track/7GHXUuG2qJQh4kjnq12Lix"
+    },
+    {
+      "album": {
+        "name": "Are You Tired? (Keep on Singing)",
+        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404562,
+      "name": "Are You Tired? (Keep on Singing)",
+      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
     },
     {
       "album": {
@@ -940,7 +958,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 392598,
       "name": "Cascabel",
       "url": "https://open.spotify.com/track/2KA6b0pSZQRD0TKbdQl5Mc"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 255000,
       "name": "Catatumbo Lightnings",
       "url": "https://open.spotify.com/track/4oxgLPTh8G6keUBjmMm6ey"
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 201422,
       "name": "Distant Restart",
       "url": "https://open.spotify.com/track/3z6UUdNXqe6RgdCBlB0bn1"
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 277443,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
@@ -1612,6 +1630,24 @@
       "duration_ms": 326694,
       "name": "End of the Night",
       "url": "https://open.spotify.com/track/7CWh8Z5lxzAji5F1CPr3mD"
+    },
+    {
+      "album": {
+        "name": "Ends Meet",
+        "url": "https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201762,
+      "name": "Ends Meet",
+      "url": "https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng"
     },
     {
       "album": {
@@ -3056,7 +3092,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 231381,
       "name": "Lava",
       "url": "https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J"
@@ -3684,7 +3720,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 274176,
       "name": "Norfolk Hotel",
       "url": "https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9"
@@ -4175,6 +4211,28 @@
     },
     {
       "album": {
+        "name": "Primos (with Hermanos Guti\u00e9rrez)",
+        "url": "https://open.spotify.com/album/3tr64TtgZxkBgIOs3xJUpE"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "Primos (with Hermanos Guti\u00e9rrez)",
+      "url": "https://open.spotify.com/track/23VheE9yyVeFx3v58R696E"
+    },
+    {
+      "album": {
         "name": "The Grodeck Whipperjenny",
         "url": "https://open.spotify.com/album/2wdDKLGzrJ0SR1Q3ydZ4P0"
       },
@@ -4370,6 +4428,60 @@
       "duration_ms": 250659,
       "name": "Resources",
       "url": "https://open.spotify.com/track/0RvEPyn3Io0jd7R8yY6vfb"
+    },
+    {
+      "album": {
+        "name": "Riders Of The Moon",
+        "url": "https://open.spotify.com/album/0IXJHSmObrtPbAWqzi8Wdk"
+      },
+      "artists": [
+        {
+          "name": "Arc De Soleil",
+          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199893,
+      "name": "Riders Of The Moon",
+      "url": "https://open.spotify.com/track/0deK1kN7aBhfhCy0BEoN1G"
+    },
+    {
+      "album": {
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207665,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
+    },
+    {
+      "album": {
+        "name": "Ring Tail",
+        "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118883,
+      "name": "Ring Tail",
+      "url": "https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN"
     },
     {
       "album": {
@@ -5622,7 +5734,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 345293,
       "name": "Velocirapture (The Serpent Flew)",
       "url": "https://open.spotify.com/track/3vcJQgv7OPKdEKDfsf5eON"
@@ -5846,6 +5958,24 @@
       "duration_ms": 177920,
       "name": "We Were We Still Are",
       "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
+    },
+    {
+      "album": {
+        "name": "Weird World Awoke",
+        "url": "https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200935,
+      "name": "Weird World Awoke",
+      "url": "https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F"
     },
     {
       "album": {

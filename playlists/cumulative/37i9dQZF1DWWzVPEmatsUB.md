@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-406 songs - 1 day 0 hr 31 min
+407 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 |  |
 | [All Of Me](https://open.spotify.com/track/0qK81UQieeWpsCPFLvHNWO) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Where To Find Me](https://open.spotify.com/album/1gDkVVQODZStmAx0kUl9Tn) | 2:25 | 2023-06-30 |  |
 | [All This Time](https://open.spotify.com/track/67Y1yh3VmubMkvYmO7X5h0) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:15 | 2024-03-08 |  |
+| [All Your Days \(feat\. Fleurie\)](https://open.spotify.com/track/2Ml5ZRth7mr8ymZdqtJWbI) | [Toulouse](https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [All Your Days \(feat\. Fleurie\)](https://open.spotify.com/album/6QeXyAMUT2IDoUYPzvxh95) | 4:03 | 2025-05-16 |  |
 | [Almost Grown](https://open.spotify.com/track/5lTPGDWxdEKVRc4gKpUPmg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Living Room](https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P) | 5:25 | 2020-10-17 | 2022-04-19 |
 | [Along The Way](https://open.spotify.com/track/3J66iW5HU4hbWsDAWejomi) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [eda](https://open.spotify.com/artist/6GV7n7CYZreVNKXNSF1mMI) | [Along The Way](https://open.spotify.com/album/51GIJNNbbCHmB2C9qWTEOK) | 2:43 | 2022-07-22 |  |
 | [Amazing \- Strings Version](https://open.spotify.com/track/4SMNGYvfWjebzsHXl5CyRE) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Amazing \(Strings Version\)](https://open.spotify.com/album/0eVwqZNTNaLpBvD95NiN2d) | 2:58 | 2022-02-11 | 2024-09-21 |
@@ -217,7 +218,7 @@
 | [Love & War in Your Twenties](https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB) | 4:10 | 2020-10-17 | 2023-02-04 |
 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 | 2024-02-02 |  |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-14 |  |
-| [Love Letter](https://open.spotify.com/track/18hPvq4l7aiolR6NenxBz6) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Something New](https://open.spotify.com/album/0Co5DrMqChlTZiZ5oT3gjZ) | 3:25 | 2022-03-25 |  |
+| [Love Letter](https://open.spotify.com/track/18hPvq4l7aiolR6NenxBz6) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Something New](https://open.spotify.com/album/0Co5DrMqChlTZiZ5oT3gjZ) | 3:25 | 2022-03-25 | 2025-05-17 |
 | [Love Like Before](https://open.spotify.com/track/2ZvLSpQhOTWIVxXQlNHnxq) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Putting on Airs](https://open.spotify.com/album/1LK9gWKqJTOSPE0sHYPVBJ) | 3:28 | 2020-10-17 | 2022-07-28 |
 | [Love More](https://open.spotify.com/track/1O3cAX8gOFljEpMaJmhdwL) | [Sundai](https://open.spotify.com/artist/3HdljaO2HIx0O7H44X17u1) | [Only Child](https://open.spotify.com/album/2qrrrbUXkL5mksIvvC1lV2) | 3:39 | 2020-10-17 | 2022-04-19 |
 | [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 | 2022-02-11 | 2023-06-09 |

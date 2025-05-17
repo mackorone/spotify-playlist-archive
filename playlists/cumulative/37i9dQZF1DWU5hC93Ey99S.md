@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-848 songs - 1 day 21 hr 8 min
+849 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,6 +728,7 @@
 | [then i run :/](https://open.spotify.com/track/5EYKxUeaetAdCefb5UV6JK) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [then i run :/](https://open.spotify.com/album/3iAokiWChaHbgOzMil9WUm) | 3:15 | 2023-08-03 | 2024-01-06 |
 | [THERE 4 U](https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [THERE 4 U](https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf) | 3:20 | 2023-11-23 | 2024-01-06 |
 | [there 4 u \- Radio Edit](https://open.spotify.com/track/7jGpjarEEOvmg0vECOxR6f) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [there 4 u](https://open.spotify.com/album/3icaAuFPNtCLDdAohACTV4) | 3:04 | 2025-02-27 |  |
+| [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 | 2025-05-16 |  |
 | [There's Another Life 4 U](https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:33 | 2023-04-13 |  |
 | [There4u](https://open.spotify.com/track/1rdZrsMxYN7tbDsHvXpbf9) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [There4u](https://open.spotify.com/album/3svFFEHHgnWtAria3P8VlK) | 1:43 | 2024-05-02 | 2024-06-01 |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-04-04 | 2024-07-06 |

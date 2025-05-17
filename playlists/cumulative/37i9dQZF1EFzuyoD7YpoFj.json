@@ -8301,6 +8301,24 @@
     },
     {
       "album": {
+        "name": "Best of the '50s Vol. 1",
+        "url": "https://open.spotify.com/album/1AwHvKO70YUJNN2n4ivQG7"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173093,
+      "name": "You Were Made For Me",
+      "url": "https://open.spotify.com/track/360QcQy4ewtNdLqxjHby53"
+    },
+    {
+      "album": {
         "name": "The Wonderful World Of Sam Cooke",
         "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
       },
@@ -8312,7 +8330,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 176040,
       "name": "You Were Made For Me - Mono",
       "url": "https://open.spotify.com/track/6RmBbSohNlnwGKf3eu7bq7"

@@ -427,6 +427,32 @@
     },
     {
       "album": {
+        "name": "Gabriel's Oboe (From \"The Mission\")",
+        "url": "https://open.spotify.com/album/1z7hGs6ieBibmL6bx98IBY"
+      },
+      "artists": [
+        {
+          "name": "Metamorphose String Orchestra",
+          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
+        },
+        {
+          "name": "Pavel Lyubomudrov",
+          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
+        },
+        {
+          "name": "Mikael Samsonov",
+          "url": "https://open.spotify.com/artist/5KXxg0B1k9cA7LPqFXA3Me"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Gabriel's Oboe - From \"The Mission\"",
+      "url": "https://open.spotify.com/track/1S7Y0vjpGy41LR8hjLvBSy"
+    },
+    {
+      "album": {
         "name": "John Williams: Reimagined",
         "url": "https://open.spotify.com/album/0i6O16w0CWrSFE8xurnoge"
       },

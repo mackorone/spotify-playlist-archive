@@ -2,7 +2,7 @@
 
 ### [Drop Pin](https://open.spotify.com/playlist/37i9dQZF1DXc8fj3Eq7guo)
 
-> Tag your location, we shall pass by as we go around Africa
+> 50 stops, one continent, grab your pass
 
 92 songs - 5 hr 59 min
 
@@ -29,7 +29,7 @@
 | [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 | 2023-09-08 | 2024-05-04 |
 | [Ghana](https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM) | [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ghana](https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh) | 4:11 | 2023-09-08 |  |
 | [Ghana](https://open.spotify.com/track/5SCbTbJ5Q8c6eLktMWFqqg) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Phola](https://open.spotify.com/album/30y3OcmLbW8kB6eO9QV3JP) | 5:24 | 2023-09-08 |  |
-| [Ghana](https://open.spotify.com/track/6Lqg26xjGQzxQLo851bWnW) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm) | [Ghana](https://open.spotify.com/album/28pQbxgVu4UVBQwpQ3xIq8) | 2:17 | 2023-10-20 |  |
+| [Ghana](https://open.spotify.com/track/6Lqg26xjGQzxQLo851bWnW) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm) | [Ghana](https://open.spotify.com/album/28pQbxgVu4UVBQwpQ3xIq8) | 2:17 | 2023-10-20 | 2025-05-17 |
 | [Ghana Bounce](https://open.spotify.com/track/1AVVencV5yF6KzISmmjUbg) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [What Happens in Lagos](https://open.spotify.com/album/3U8mj36DD0Rv3f3LlT1lrk) | 3:45 | 2023-09-08 | 2024-01-20 |
 | [Githurai](https://open.spotify.com/track/1bhXFMTeq9gvBXGpZI5LpG) | [Mr\. Lenny](https://open.spotify.com/artist/5tETuh1p6FPXwPHqHdf5WB), [Mr\. Googz](https://open.spotify.com/artist/5d4BOJk2FraY1wX67nnNp8), [Vinnie Banton](https://open.spotify.com/artist/5OA8lNrPkC0aLCNvEo4POE) | [Best of Kenyan Local Classics 3](https://open.spotify.com/album/5qmcjoEaVsK9KVNOdrVKI5) | 4:42 | 2023-09-08 | 2023-10-10 |
 | [Iweriwe Love](https://open.spotify.com/track/7dpMNEUoyyJVpI5w5BT53i) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Tears Of A Mad Man](https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F) | 2:36 | 2024-10-18 |  |

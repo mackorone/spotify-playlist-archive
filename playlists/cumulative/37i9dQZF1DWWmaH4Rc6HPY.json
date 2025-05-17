@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Enjambre en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Moenia en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -198,6 +198,24 @@
       "duration_ms": 212199,
       "name": "Afortunado",
       "url": "https://open.spotify.com/track/4h2vY6LwbH7iRwsUKcYwK2"
+    },
+    {
+      "album": {
+        "name": "H\u00e9lices",
+        "url": "https://open.spotify.com/album/7qSHm48KB0vws4sxXsi6Yl"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207338,
+      "name": "Ah\u00ed Estar\u00e9",
+      "url": "https://open.spotify.com/track/1UNm7LGaWiExDuFfyVch2e"
     },
     {
       "album": {
@@ -530,7 +548,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 246183,
       "name": "Brillante Sobre el Mic - EADDA9223",
       "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
@@ -672,7 +690,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 217091,
       "name": "carta (a m\u00ed)",
       "url": "https://open.spotify.com/track/148wN6BPI1KtmuqQqatet6"
@@ -894,7 +912,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 169556,
       "name": "Cliente Frecuente",
       "url": "https://open.spotify.com/track/21Rty7kWQngfzDLqRBDJzh"
@@ -934,6 +952,24 @@
       "duration_ms": 136974,
       "name": "Como Te Quiero A Ti",
       "url": "https://open.spotify.com/track/3qyNMrsaWVpU4RpSmr9sfr"
+    },
+    {
+      "album": {
+        "name": "Consecuencias",
+        "url": "https://open.spotify.com/album/35BQykQOrFaoEpCCN7w1MQ"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275380,
+      "name": "Consecuencias",
+      "url": "https://open.spotify.com/track/7FvOpzLt6hZhPuebK5TIS6"
     },
     {
       "album": {
@@ -1158,6 +1194,28 @@
       "duration_ms": 228051,
       "name": "Del mundo lo mejor",
       "url": "https://open.spotify.com/track/5AJfyS2sshBKvsJGWXRBLk"
+    },
+    {
+      "album": {
+        "name": "Desastres Fabulosos",
+        "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163546,
+      "name": "Desastres Fabulosos",
+      "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
     },
     {
       "album": {
@@ -1528,7 +1586,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 159655,
       "name": "Esto Se Jodi\u00f3",
       "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
@@ -3305,6 +3363,28 @@
     },
     {
       "album": {
+        "name": "Quiero saber si es amor",
+        "url": "https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        },
+        {
+          "name": "Joy",
+          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267238,
+      "name": "Quiero saber si es amor",
+      "url": "https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv"
+    },
+    {
+      "album": {
         "name": "Alta Fidelidad",
         "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
       },
@@ -3316,7 +3396,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 230097,
       "name": "Quisiera Ser Como T\u00fa",
       "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
@@ -3338,6 +3418,32 @@
       "duration_ms": 179527,
       "name": "Quito",
       "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Bien Se Te Ve",
+        "url": "https://open.spotify.com/album/1PrHdsonw7QUGrOLmekfsN"
+      },
+      "artists": [
+        {
+          "name": "MARASMO",
+          "url": "https://open.spotify.com/artist/5c7eng6pvZIUFqfgWMTHWX"
+        },
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151747,
+      "name": "Qu\u00e9 Bien Se Te Ve",
+      "url": "https://open.spotify.com/track/2Qu7k75pTkO1swHgMoHDus"
     },
     {
       "album": {

@@ -7557,6 +7557,24 @@
     },
     {
       "album": {
+        "name": "Ganze Torte Scham.",
+        "url": "https://open.spotify.com/album/0d1xzAzshldEtUYw73hR0p"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Ganze Torte Scham.",
+      "url": "https://open.spotify.com/track/2uisMGIBZpJL2C2pOSc8xS"
+    },
+    {
+      "album": {
         "name": "gasleuchte",
         "url": "https://open.spotify.com/album/1oHqWFUUY67rj9WvRhcFHP"
       },
@@ -7728,6 +7746,24 @@
       "duration_ms": 188786,
       "name": "Gelangweilt",
       "url": "https://open.spotify.com/track/2KEMkFSPFldGv8zBK2wTjt"
+    },
+    {
+      "album": {
+        "name": "Geld",
+        "url": "https://open.spotify.com/album/1mAReuQiTur46WBDG4e5s0"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182199,
+      "name": "Geld",
+      "url": "https://open.spotify.com/track/0IW1q8WdeZCxlL9SH0xrAz"
     },
     {
       "album": {
@@ -11146,7 +11182,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 116800,
       "name": "Klassenclown",
       "url": "https://open.spotify.com/track/7Fat8n13etCQ0Otdtuukiq"

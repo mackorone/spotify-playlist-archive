@@ -2,9 +2,9 @@
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Wolf Alice, Lola Young and more!
+> Brand new music from Wolf Alice, Lola Young, Rihanna and more!
 
-16,267 songs - 36 day 14 hr 53 min
+16,269 songs - 36 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5099,6 +5099,7 @@
 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 | 2024-01-12 | 2024-01-19 |
 | [Friend Of Mine](https://open.spotify.com/track/3YwW43o0ua8zb0gTIVScdH) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Friend Of Mine](https://open.spotify.com/album/1tYM7x8j0TCMwyBoo4eDfu) | 4:01 | 2024-05-02 | 2024-05-10 |
 | [Friend Of Mine](https://open.spotify.com/track/6amr2Sdv9yw7Y917GZToj9) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Friend Of Mine](https://open.spotify.com/album/26EjAdOrdU9jo56sG11uy9) | 3:14 | 2023-10-19 | 2023-10-27 |
+| [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 | 2025-05-16 |  |
 | [Friend or Foe](https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Friend or Foe](https://open.spotify.com/album/2yBWhovYNLKS7VnHdK8cEN) | 4:10 | 2024-04-04 | 2024-04-12 |
 | [Friendly Fire](https://open.spotify.com/track/52j7klB3N3Tq1xnqMBKh9p) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Friendly Fire](https://open.spotify.com/album/1nJWHkXnMUfBtvLLyPmk2h) | 3:33 | 2023-05-11 | 2023-05-19 |
 | [Friends](https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Friends](https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w) | 2:27 | 2023-03-30 | 2023-04-07 |
@@ -12343,6 +12344,7 @@
 | [Shella Verse](https://open.spotify.com/track/2aoWvGMW6W40WelevwsOUx) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Shella Verse](https://open.spotify.com/album/4BitmFpa4h4GaGNvtnsQw3) | 2:43 | 2023-06-29 | 2023-07-07 |
 | [Shellingham](https://open.spotify.com/track/2nPSd2jrNHMjf0OiwWWfRA) | [Mazza\_l20](https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA) | [Shellingham](https://open.spotify.com/album/72QyTqyOVK5R9hc1ATeltj) | 2:36 | 2025-03-28 | 2025-04-04 |
 | [Shells](https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Shells](https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL) | 3:51 | 2025-05-01 | 2025-05-09 |
+| [SHEN YENG](https://open.spotify.com/track/1ebSrtLyZEtKb7KcgVqPjW) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ), [36](https://open.spotify.com/artist/7DGmBOT6629EbsQOqINEqJ) | [SHEN YENG](https://open.spotify.com/album/0PTa4CPyEEIKI3MJjT9Ftd) | 3:01 | 2025-05-16 |  |
 | [Shenseea](https://open.spotify.com/track/2ZG1Qyoe2cpYFpUh0tp08v) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Shenseea](https://open.spotify.com/album/6b1oJCELcbB7aHQIDhqKss) | 2:37 | 2024-02-09 | 2024-02-16 |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-05-30 | 2024-06-07 |
 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 | 2023-12-15 | 2023-12-22 |

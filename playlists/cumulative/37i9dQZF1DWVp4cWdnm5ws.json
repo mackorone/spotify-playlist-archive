@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover new artists on the horizon this 2025. \n",
+  "description": "Discover new artists on the horizon this 2025. Cover: JERGE\n",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Ediwag",
+        "url": "https://open.spotify.com/album/1qUvXmwbKYMLtrDXJ1qmBf"
+      },
+      "artists": [
+        {
+          "name": "JERGE",
+          "url": "https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Ediwag",
+      "url": "https://open.spotify.com/track/2XinWhSXtDDgwPKR0cxjjE"
+    },
+    {
+      "album": {
         "name": "3rd Eye",
         "url": "https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg"
       },
@@ -1306,6 +1324,24 @@
       "duration_ms": 172408,
       "name": "Fly You to the Moon",
       "url": "https://open.spotify.com/track/0airDlKC7gQNcooMHyIydT"
+    },
+    {
+      "album": {
+        "name": "Flying Kiss",
+        "url": "https://open.spotify.com/album/36QzRszqEQuFj7USj7A6eA"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205212,
+      "name": "Flying Kiss",
+      "url": "https://open.spotify.com/track/7FM8EdwFO6n4v6vFoHpGDE"
     },
     {
       "album": {
@@ -2338,6 +2374,24 @@
       "duration_ms": 267394,
       "name": "Lisan",
       "url": "https://open.spotify.com/track/0EeDITljBgGZFUuQAH6Vdu"
+    },
+    {
+      "album": {
+        "name": "little sunny baby",
+        "url": "https://open.spotify.com/album/5j9LCrE1Pfu23acGv9nXR4"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "little sunny baby",
+      "url": "https://open.spotify.com/track/2DLIiAWaKquMARkg1k6RpG"
     },
     {
       "album": {
@@ -4196,6 +4250,28 @@
       "duration_ms": 218400,
       "name": "Telepono",
       "url": "https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71"
+    },
+    {
+      "album": {
+        "name": "Telepono EP",
+        "url": "https://open.spotify.com/album/4TV8FbUQ89itYDPRrSmhor"
+      },
+      "artists": [
+        {
+          "name": "ONE CLICK STRAIGHT",
+          "url": "https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ"
+        },
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221718,
+      "name": "Telepono (feat. Clara Benin)",
+      "url": "https://open.spotify.com/track/2fgvCvfyOjemSAwyzC8rjE"
     },
     {
       "album": {

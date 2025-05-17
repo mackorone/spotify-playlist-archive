@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,114 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,131 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 151 | [Composure](https://open.spotify.com/track/339ivDmvy4LAascGvxhgOx) | [Argonaut & Wasp](https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8) | [Composure](https://open.spotify.com/album/3u45SKEwwFtHd3Di9Yqmmn) | 3:04 |
 | 152 | [Playing Games](https://open.spotify.com/track/7bt0EnhjElN4bw3K1KwIkU) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 3:23 |
 | 153 | [Dancing on the Limit](https://open.spotify.com/track/5llJtNsexSKi34H5O8uMP2) | [PRIZES](https://open.spotify.com/artist/4dCYXERcuOuRE5ytituLJ7) | [Dancing on the Limit](https://open.spotify.com/album/6iKZFDqwscfyPTPPkSvB24) | 3:57 |
-| 154 | [Tease](https://open.spotify.com/track/2IlA9iGM6wVXj3Eq5CzKAX) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Oom Velt](https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1) | 4:22 |
+| 154 | [Tease](https://open.spotify.com/track/2IlA9iGM6wVXj3Eq5CzKAX) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [OOM VELT](https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1) | 4:22 |
 | 155 | [Redundant Buzz](https://open.spotify.com/track/41A7A0UV783l8sehaQG0KG) | [Furniteur](https://open.spotify.com/artist/76COzWHRpQqnu4RGL0XdNr) | [Redundant Buzz](https://open.spotify.com/album/4ZGEszpNolppTh0qPIbebi) | 3:30 |
 | 156 | [The Way I Move \(feat\. Adeline Michèle\)](https://open.spotify.com/track/2YjOHZDhWkOXdJZowaZbcm) | [Equal](https://open.spotify.com/artist/0GhHtFklzFecqyUl5mgQ8w), [LEFTI](https://open.spotify.com/artist/7o5gxy3lEGcP62TNIppa7w), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [The Way I Move](https://open.spotify.com/album/7iSq94tQP8ubiIUQRL65be) | 3:29 |
 | 157 | [I Sink I Sink](https://open.spotify.com/track/4kyTEhczP31md1OC09dZci) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Softer Faces](https://open.spotify.com/album/2Y1ehzWfktPssjaBXV3uw6) | 3:11 |

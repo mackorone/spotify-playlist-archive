@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Amygdala.",
-  "num_followers": 26733,
+  "num_followers": 26840,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
         "name": "Insurrecci\u00f3n",
         "url": "https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 124521,
       "name": "Insurrecci\u00f3n",
       "url": "https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
-        "name": "Ponzano",
-        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
+        "name": "Eres Un Regalo",
+        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
         }
       ],
-      "duration_ms": 144308,
-      "name": "Ponzano",
-      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
+      "duration_ms": 210428,
+      "name": "Eres Un Regalo",
+      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1291,34 +1291,18 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
-        "name": "Eres Un Regalo",
-        "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
+        "name": "Ponzano",
+        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
       },
       "artists": [
         {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
         }
       ],
-      "duration_ms": 210428,
-      "name": "Eres Un Regalo",
-      "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
-        "name": "Al Dente",
-        "url": "https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm"
-      },
-      "artists": [
-        {
-          "name": "Supercremalleras",
-          "url": "https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Al Dente",
-      "url": "https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh"
+      "duration_ms": 144308,
+      "name": "Ponzano",
+      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1335,6 +1319,22 @@
       "duration_ms": 163405,
       "name": "En tu portal",
       "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
+        "name": "Al Dente",
+        "url": "https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm"
+      },
+      "artists": [
+        {
+          "name": "Supercremalleras",
+          "url": "https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Al Dente",
+      "url": "https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1371,50 +1371,18 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
-        "name": "Cocido, Madrid",
-        "url": "https://open.spotify.com/album/2OwPCULIVI2XSRgi3RlYPY"
+        "name": "Voy a morir sola",
+        "url": "https://open.spotify.com/album/3mnBvJfovNnvl5m1Hk7Y6Z"
       },
       "artists": [
         {
-          "name": "piti y me voy",
-          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
+          "name": "Tus Novias Indie",
+          "url": "https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl"
         }
       ],
-      "duration_ms": 171351,
-      "name": "Cocido, Madrid",
-      "url": "https://open.spotify.com/track/31bAzaiSL9YidyP54R3QdT"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
-      },
-      "artists": [
-        {
-          "name": "Santa Engracia",
-          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
-        "name": "COMERTE",
-        "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
-      },
-      "artists": [
-        {
-          "name": "Barder",
-          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "COMERTE",
-      "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
+      "duration_ms": 199426,
+      "name": "Voy a morir sola",
+      "url": "https://open.spotify.com/track/6ownCsTpWLOoNPgdGACLC5"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1435,18 +1403,50 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
-        "name": "Voy a morir sola",
-        "url": "https://open.spotify.com/album/3mnBvJfovNnvl5m1Hk7Y6Z"
+        "name": "Cocido, Madrid",
+        "url": "https://open.spotify.com/album/2OwPCULIVI2XSRgi3RlYPY"
       },
       "artists": [
         {
-          "name": "Tus Novias Indie",
-          "url": "https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl"
+          "name": "piti y me voy",
+          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
         }
       ],
-      "duration_ms": 199426,
-      "name": "Voy a morir sola",
-      "url": "https://open.spotify.com/track/6ownCsTpWLOoNPgdGACLC5"
+      "duration_ms": 171351,
+      "name": "Cocido, Madrid",
+      "url": "https://open.spotify.com/track/31bAzaiSL9YidyP54R3QdT"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
+        "name": "COMERTE",
+        "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
+      },
+      "artists": [
+        {
+          "name": "Barder",
+          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "COMERTE",
+      "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1567,6 +1567,38 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
+        "name": "Dando gracias",
+        "url": "https://open.spotify.com/album/2AQDRjVXwwllusH5uF8kZ3"
+      },
+      "artists": [
+        {
+          "name": "Oh! Marlene",
+          "url": "https://open.spotify.com/artist/1hTkLSI3jqW4AWmNTrfuPM"
+        }
+      ],
+      "duration_ms": 215272,
+      "name": "Dando gracias",
+      "url": "https://open.spotify.com/track/0EFMaoZyXD11x3s5K7oDiX"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
+        "name": "Tu No Te Quieres Matar",
+        "url": "https://open.spotify.com/album/2HhH3TO0zHIUxw33rhfFXk"
+      },
+      "artists": [
+        {
+          "name": "Arena Polar",
+          "url": "https://open.spotify.com/artist/537HRWUPUPU5q4uUM3bZ3s"
+        }
+      ],
+      "duration_ms": 186114,
+      "name": "Tu No Te Quieres Matar",
+      "url": "https://open.spotify.com/track/6cFITamYQzo5D47zmXgw2O"
+    },
+    {
+      "added_at": "2025-05-15 22:00:24",
+      "album": {
         "name": "Huella de ti",
         "url": "https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH"
       },
@@ -1615,34 +1647,18 @@
     {
       "added_at": "2025-05-15 22:00:24",
       "album": {
-        "name": "Dando gracias",
-        "url": "https://open.spotify.com/album/2AQDRjVXwwllusH5uF8kZ3"
+        "name": "Cola del vicio",
+        "url": "https://open.spotify.com/album/524kESVwWDTg8O8ceaQTfg"
       },
       "artists": [
         {
-          "name": "Oh! Marlene",
-          "url": "https://open.spotify.com/artist/1hTkLSI3jqW4AWmNTrfuPM"
+          "name": "Syd dePalma",
+          "url": "https://open.spotify.com/artist/04vfo27dr0j76mPV6vtzuE"
         }
       ],
-      "duration_ms": 215272,
-      "name": "Dando gracias",
-      "url": "https://open.spotify.com/track/0EFMaoZyXD11x3s5K7oDiX"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
-        "name": "Tu No Te Quieres Matar",
-        "url": "https://open.spotify.com/album/2HhH3TO0zHIUxw33rhfFXk"
-      },
-      "artists": [
-        {
-          "name": "Arena Polar",
-          "url": "https://open.spotify.com/artist/537HRWUPUPU5q4uUM3bZ3s"
-        }
-      ],
-      "duration_ms": 186114,
-      "name": "Tu No Te Quieres Matar",
-      "url": "https://open.spotify.com/track/6cFITamYQzo5D47zmXgw2O"
+      "duration_ms": 279029,
+      "name": "Cola del vicio",
+      "url": "https://open.spotify.com/track/18vMC4pw4zvZxslDqxgvMQ"
     },
     {
       "added_at": "2025-05-15 22:00:24",
@@ -1663,22 +1679,6 @@
       "duration_ms": 150898,
       "name": "TURBO TRUCAO",
       "url": "https://open.spotify.com/track/4cTx7rnYuc0YAFZs5dd2lA"
-    },
-    {
-      "added_at": "2025-05-15 22:00:24",
-      "album": {
-        "name": "Cola del vicio",
-        "url": "https://open.spotify.com/album/524kESVwWDTg8O8ceaQTfg"
-      },
-      "artists": [
-        {
-          "name": "Syd dePalma",
-          "url": "https://open.spotify.com/artist/04vfo27dr0j76mPV6vtzuE"
-        }
-      ],
-      "duration_ms": 279029,
-      "name": "Cola del vicio",
-      "url": "https://open.spotify.com/track/18vMC4pw4zvZxslDqxgvMQ"
     }
   ],
   "unique_name": "Rock 2025",

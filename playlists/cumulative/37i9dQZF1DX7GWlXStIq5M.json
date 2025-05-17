@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Ananda, Elana Dara",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Lou Garcia",
   "name": "Palco POP",
   "tracks": [
     {
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 135849,
       "name": "Balan\u00e7o do Mar",
       "url": "https://open.spotify.com/track/5xK43opUTLT5eZeDvfYD51"
@@ -11145,6 +11145,28 @@
     },
     {
       "album": {
+        "name": "IZA Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KnRcQe1BE6xhaSWnhi0J9"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250742,
+      "name": "Meu Talism\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vClBnWpfrYVie4vVgqTbR"
+    },
+    {
+      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/02OyGnFuU31TEBpfPFhGE2"
       },
@@ -17036,7 +17058,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 144250,
       "name": "Sem Ar",
       "url": "https://open.spotify.com/track/4JPaaXkRHEP065DPFBBnak"
@@ -17468,6 +17490,24 @@
       "duration_ms": 195009,
       "name": "Sikatrizes",
       "url": "https://open.spotify.com/track/637kGZJZhh7MQ37lXkgJgi"
+    },
+    {
+      "album": {
+        "name": "Sinais",
+        "url": "https://open.spotify.com/album/35DzxwKI6e0mJBCmPxBUUE"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227769,
+      "name": "Sinais",
+      "url": "https://open.spotify.com/track/4NBeR8EKpWMaBNHFvN8BYA"
     },
     {
       "album": {

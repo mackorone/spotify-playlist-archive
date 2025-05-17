@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche de l’édition 2025 des Francos de Montréal.
 
-543 songs - 1 day 6 hr 44 min
+545 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Libre](https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Libre](https://open.spotify.com/album/4bMFs8RYpu4qRI4x4tpkZl) | 3:09 | 2024-06-16 | 2025-04-30 |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/3j16DCyqOQMF1Q6XXIRgTr) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:16 | 2024-04-03 | 2025-04-30 |
 | [Légendaire](https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [ÉlévaZIIION \(Société distincte\)](https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8) | 4:53 | 2024-04-23 | 2025-04-30 |
+| [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2025-05-16 |  |
 | [L’Étoile](https://open.spotify.com/track/6051Cr1ieO10nTt9rONI6c) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:09 | 2025-04-29 |  |
 | [Maintenant ou jamais](https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Objets perdus](https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9) | 3:24 | 2024-04-03 | 2025-04-30 |
 | [Make Love \(Que du Love, Pt\. 2\)](https://open.spotify.com/track/78M2p3tfDUcz7JF1lRaVHO) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Make Love \(Que du Love, Pt\. 2\)](https://open.spotify.com/album/7gApEBLc3z9GH5Ow8Im5MH) | 2:57 | 2025-04-29 |  |
@@ -346,6 +347,7 @@
 | [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 | 2022-05-25 | 2022-10-14 |
 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-05-25 | 2023-03-19 |
 | [Mini\-jupe et watusi](https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 1:57 | 2024-04-03 | 2024-04-24 |
+| [MINIMUM](https://open.spotify.com/track/7DY6ublUJSEzMZdyG7isvt) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [ON FRAP II](https://open.spotify.com/album/6ZbWyoybaFIyffQYnvxQNZ) | 3:10 | 2025-05-16 |  |
 | [Moi non plus](https://open.spotify.com/track/1XLvZv0wum0j7uO59pzZhB) | [Catherine Major](https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh) | [Carte mère](https://open.spotify.com/album/2ueD8WvRuRVwRTz18qbhzA) | 3:50 | 2022-05-25 | 2022-07-28 |
 | [Mon coeur pour te garder](https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn) | [Amélie Veille](https://open.spotify.com/artist/6l1fj74wjDW6adX1r3H29h) | [Mon coeur pour te garder \(version bonus\)](https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY) | 3:26 | 2022-05-25 | 2023-04-13 |
 | [Mon petit chemin](https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [La clairière](https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq) | 3:10 | 2023-05-25 | 2024-04-04 |

@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52490,
+  "num_followers": 52489,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Modern Classics",
-        "url": "https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD"
-      },
-      "artists": [
-        {
-          "name": "Rita May",
-          "url": "https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm"
-        }
-      ],
-      "duration_ms": 224543,
-      "name": "Beneath your Beutiful",
-      "url": "https://open.spotify.com/track/4vWbR3IiMfIbZ3xWh2zpYH"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Trust the Universe",
         "url": "https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 169000,
       "name": "Trust the Universe",
       "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Modern Classics",
+        "url": "https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD"
+      },
+      "artists": [
+        {
+          "name": "Rita May",
+          "url": "https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm"
+        }
+      ],
+      "duration_ms": 224543,
+      "name": "Beneath your Beutiful",
+      "url": "https://open.spotify.com/track/4vWbR3IiMfIbZ3xWh2zpYH"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w"
-      },
-      "artists": [
-        {
-          "name": "Sufi Sheman",
-          "url": "https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok"
-        }
-      ],
-      "duration_ms": 130541,
-      "name": "Sentiment",
-      "url": "https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 163684,
       "name": "Endless Sleep",
       "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w"
+      },
+      "artists": [
+        {
+          "name": "Sufi Sheman",
+          "url": "https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok"
+        }
+      ],
+      "duration_ms": 130541,
+      "name": "Sentiment",
+      "url": "https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "If you ever change your mind",
-        "url": "https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2"
-      },
-      "artists": [
-        {
-          "name": "Santo Trevisani",
-          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "If you ever change your mind",
-      "url": "https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "More than Close",
         "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 162478,
       "name": "More than Close",
       "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "If you ever change your mind",
+        "url": "https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2"
+      },
+      "artists": [
+        {
+          "name": "Santo Trevisani",
+          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "If you ever change your mind",
+      "url": "https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Floating, Always",
-        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 137172,
-      "name": "Astral Therapy",
-      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 130688,
       "name": "Symphony Of Heaven",
       "url": "https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Floating, Always",
+        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
+      },
+      "artists": [
+        {
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+        }
+      ],
+      "duration_ms": 137172,
+      "name": "Astral Therapy",
+      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Seasons Changing",
-        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 119080,
-      "name": "The Great Plains Hymn",
-      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 146624,
       "name": "Violin Lullaby",
       "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Seasons Changing",
+        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
+      },
+      "artists": [
+        {
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+        }
+      ],
+      "duration_ms": 119080,
+      "name": "The Great Plains Hymn",
+      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Anjali",
-        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
-      },
-      "artists": [
-        {
-          "name": "Michael Mandrell and Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Priya (Beloved)",
-      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Winter Garden",
         "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Anjali",
+        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
+      },
+      "artists": [
+        {
+          "name": "Michael Mandrell and Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Priya (Beloved)",
+      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Mantric Melody",
         "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
-      },
-      "artists": [
-        {
-          "name": "Alexander Molina",
-          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
-        }
-      ],
-      "duration_ms": 163012,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "The Ones Left Behind",
         "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 148987,
       "name": "The Ones Left Behind",
       "url": "https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Molina",
+          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
+        }
+      ],
+      "duration_ms": 163012,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
+      },
+      "artists": [
+        {
+          "name": "Borghild Wenn",
+          "url": "https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7"
+        }
+      ],
+      "duration_ms": 152581,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Broadchurch (Music From The Original TV Series)",
         "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 126049,
       "name": "In my quiet hour",
       "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
-      },
-      "artists": [
-        {
-          "name": "Borghild Wenn",
-          "url": "https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7"
-        }
-      ],
-      "duration_ms": 152581,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz"
+      },
+      "artists": [
+        {
+          "name": "Carl Clementine",
+          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
+        }
+      ],
+      "duration_ms": 160250,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "A Missing Piece",
         "url": "https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 219716,
       "name": "Bloom Bliss",
       "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz"
-      },
-      "artists": [
-        {
-          "name": "Carl Clementine",
-          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
-        }
-      ],
-      "duration_ms": 160250,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
-      },
-      "artists": [
-        {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
-        }
-      ],
-      "duration_ms": 222916,
-      "name": "Lorimar",
-      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 158465,
       "name": "An Empty Feeling",
       "url": "https://open.spotify.com/track/7FKH78Xarvn4T2LDPPPvoz"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
+      },
+      "artists": [
+        {
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
+        }
+      ],
+      "duration_ms": 222916,
+      "name": "Lorimar",
+      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
     },
     {
       "added_at": "2021-06-24 10:58:44",

@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Sleep Token.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Lorna Shore.
 
-987 songs - 2 day 13 hr 46 min
+993 songs - 2 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Brain Dead](https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Brain Dead](https://open.spotify.com/album/3JETPcu03Ccra5Md9guFlU) | 2:48 | 2025-02-28 |  |
 | [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 | 2025-03-28 |  |
 | [Broke](https://open.spotify.com/track/2UDdpVcrdY9qnXOHUT3XTK) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Broke](https://open.spotify.com/album/56kKSYrrjWuSywqZ2YkrBI) | 2:02 | 2024-02-02 | 2025-04-11 |
+| [Broken Rib](https://open.spotify.com/track/6TlRQW8iwz7MDTzy4jkscn) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [Broken Rib](https://open.spotify.com/album/3b4QmOl6mBMYMLSoVGb1e3) | 3:07 | 2025-05-16 |  |
 | [Burn](https://open.spotify.com/track/2Z4Q78I93ou0xKowl7UdlI) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Burn](https://open.spotify.com/album/0YXAM70P7FztEPSX1V4z5F) | 3:31 | 2024-08-30 | 2025-04-11 |
 | [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-21 | 2023-07-15 |
 | [Burn the System](https://open.spotify.com/track/0xT8lO6AN5wEgkPxw7aCSm) | [KRUELTY](https://open.spotify.com/artist/0R2MCc7Bg2RsZb7nOKpJdU) | [Burn the System](https://open.spotify.com/album/47CnioO06kBWZ9poXwiDPB) | 4:49 | 2023-01-13 | 2024-02-03 |
@@ -234,6 +235,7 @@
 | [Divine](https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Divine](https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA) | 3:39 | 2024-05-03 | 2025-04-11 |
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 | 2022-10-21 | 2023-07-15 |
 | [Dogs Of Chernobyl](https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:14 | 2022-09-02 | 2023-07-15 |
+| [Dolores](https://open.spotify.com/track/7GjXYHTD6nngTGfkf5DDKk) | [Incite](https://open.spotify.com/artist/2QMngsbAfyIglYdFpefrQA) | [Dolores](https://open.spotify.com/album/089wPA7Th8jqL3zGdJf3Cj) | 5:42 | 2025-05-16 |  |
 | [DOMINATRIX](https://open.spotify.com/track/2L9THMht3Ltq9brUz1Nw5Y) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [DOMINATRIX](https://open.spotify.com/album/6VLNIyu6Tlj0Bmf3IU49mR) | 3:13 | 2022-02-25 | 2023-07-15 |
 | [Doom Slayer](https://open.spotify.com/track/6kaTR6T2zLqoo7WFniFxUO) | [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Doom Slayer](https://open.spotify.com/album/0SxRQyxL5YHJK7Y8lg9Ztk) | 3:38 | 2023-08-11 | 2024-02-03 |
 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-10-14 | 2023-07-15 |
@@ -284,6 +286,7 @@
 | [Eye of Mars](https://open.spotify.com/track/7E7IYQLquvQjc8rqNM4xhe) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Eye of Mars](https://open.spotify.com/album/406L4BEWyB4zKZGBx2w3Go) | 5:07 | 2024-09-20 | 2025-04-11 |
 | [EYE TO EYE](https://open.spotify.com/track/532PgIpf93c12uY9SAWheS) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [EYE TO EYE](https://open.spotify.com/album/52Bi5Euib8FrdsJLA7LsT1) | 3:53 | 2022-04-15 | 2023-07-15 |
 | [Eyes Wide Open](https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Eyes Wide Open](https://open.spotify.com/album/6J8NO4P9dHdKmYzw24nmKp) | 3:53 | 2024-02-16 | 2025-04-11 |
+| [Face For Later](https://open.spotify.com/track/1ffsa6p7DUdrEe4ZQZKaMf) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Face For Later](https://open.spotify.com/album/6mW2W83SuoqUJNTyjBBGDi) | 3:06 | 2025-05-16 |  |
 | [face.](https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [face.](https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF) | 2:21 | 2025-04-04 |  |
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-05-26 | 2024-02-03 |
 | [FAIRY METAL](https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA) | 2:41 | 2022-03-04 | 2023-07-15 |
@@ -422,6 +425,7 @@
 | [In the Depths of Grief](https://open.spotify.com/track/3F0NsalkHMz49ZAyqpGvsO) | [Your Spirit Dies](https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt) | [In the Depths of Grief](https://open.spotify.com/album/6KanVoZHrwJxco58rr0ikH) | 2:26 | 2025-02-14 |  |
 | [In The Grey](https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz) | [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [In The Grey](https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0) | 3:38 | 2024-12-06 | 2025-04-11 |
 | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:32 | 2024-04-19 | 2025-04-11 |
+| [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 | 2025-05-16 |  |
 | [In the Void](https://open.spotify.com/track/5AsHysrBAAPMusL0WUHsCl) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Johannes Persson](https://open.spotify.com/artist/3xV1nzks756iynRSEAN2ux), [Final Light](https://open.spotify.com/artist/4Uiua0tWypGcttzUkddFMH) | [In the Void](https://open.spotify.com/album/5aiIy9BVEoDh7AdP3PoDbf) | 8:58 | 2022-04-29 | 2023-07-15 |
 | [In the Way](https://open.spotify.com/track/4EixKLBcPtkqDGk2Z3zUAv) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [In the Way](https://open.spotify.com/album/0OQPHI8H2ET6FkX69ioanM) | 3:22 | 2022-04-08 | 2023-07-15 |
 | [Inamorata](https://open.spotify.com/track/4q55PFuLhKPB1JT1ZqYhsL) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 11:10 | 2023-04-14 | 2024-02-03 |
@@ -572,6 +576,7 @@
 | [Nympheas](https://open.spotify.com/track/6dlvIEP0oxOCs4XtA3JPfc) | [Birds in Row](https://open.spotify.com/artist/2H5x6tCSjQ4N5Lh7pRrTNo) | [Nympheas](https://open.spotify.com/album/0uHCBkvSUkndSSVKxKqPWm) | 3:24 | 2022-07-15 | 2023-07-15 |
 | [Nü Burn](https://open.spotify.com/track/6SpXyStq0oiro815bJLey9) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Nü Burn](https://open.spotify.com/album/01i8t4KWDs5RSTO6mR69m0) | 4:01 | 2025-03-07 |  |
 | [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 | 2023-09-15 | 2024-02-03 |
+| [Oblivion](https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Oblivion](https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X) | 8:19 | 2025-05-16 |  |
 | [Ode To Jimbo](https://open.spotify.com/track/7q6vrn80hhtQNWww0XJ8GX) | [Couch Slut](https://open.spotify.com/artist/4fBGtHTw0pGQ9C0vbg7UBp) | [Ode To Jimbo](https://open.spotify.com/album/620sI4XfiLMTpiKcw6l2Zc) | 3:11 | 2024-02-23 | 2025-04-11 |
 | [Of Days Renewed](https://open.spotify.com/track/4miqxJDAzac7riX5p3RNAl) | [Magnitude](https://open.spotify.com/artist/2NwDYPbgMbSAXLbTL0VaUQ) | [Of Days Renewed](https://open.spotify.com/album/4zchFiJME9vUv36mLReDAH) | 3:21 | 2023-08-11 | 2024-02-03 |
 | [Off The Meter](https://open.spotify.com/track/48hV9HJP3fb8t3MG8m4hRH) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Off The Meter](https://open.spotify.com/album/7IstdpmV2yAv798ZL9MxzI) | 2:49 | 2024-06-28 | 2025-04-11 |
@@ -745,6 +750,7 @@
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 | 2023-07-15 |
 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-11 | 2025-04-11 |
 | [Spectral Forge](https://open.spotify.com/track/0nf5AK5juSdYHzeShAHKT5) | [Spinebreaker](https://open.spotify.com/artist/7riHR2ykMbIJW94DD69wAq) | [Spectral Forge](https://open.spotify.com/album/3KCmt7Caefq1d6KncnG4ex) | 4:44 | 2023-04-07 | 2024-02-03 |
+| [Spheres Of Virulence](https://open.spotify.com/track/1BtCMcJP1C27RmpWtjSVoh) | [Fugitive](https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL) | [Spheres Of Virulence](https://open.spotify.com/album/6MbyB0Exv3oLpsoyOFiPFq) | 4:07 | 2025-05-16 |  |
 | [Spider Lilly](https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [Spider Lilly](https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK) | 4:34 | 2024-12-20 | 2025-04-11 |
 | [Spineless](https://open.spotify.com/track/3DyZADMXRYg3fiJfNKEIVH) | [No/Más](https://open.spotify.com/artist/2MdtQasDIeUoPKbes49HCK) | [Spineless](https://open.spotify.com/album/6maK5nFaCDVU0mo0LyO0Wq) | 2:10 | 2023-11-03 | 2024-02-03 |
 | [Spineless](https://open.spotify.com/track/3humBBFUJMmniae4NmtNE6) | [Terminal Sleep](https://open.spotify.com/artist/4ahzetH2uUpYI8of4wDnaN) | [Spineless](https://open.spotify.com/album/1wc9aoueFnudq6b1HqvLvt) | 3:59 | 2024-05-31 | 2025-04-11 |

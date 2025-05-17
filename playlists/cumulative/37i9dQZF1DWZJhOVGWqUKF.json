@@ -6799,6 +6799,24 @@
     },
     {
       "album": {
+        "name": "September 29",
+        "url": "https://open.spotify.com/album/6DPdyXmCQz46Hk8KXYeYhP"
+      },
+      "artists": [
+        {
+          "name": "Letters Sent Home",
+          "url": "https://open.spotify.com/artist/6VS6UnMmEtkcyYumRHZUI1"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168096,
+      "name": "September 29",
+      "url": "https://open.spotify.com/track/33lgnqvk0WNs7Uby92SIMq"
+    },
+    {
+      "album": {
         "name": "Shadowlight",
         "url": "https://open.spotify.com/album/638ZLO2U7xHjasPm6zroiT"
       },
@@ -8656,7 +8674,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 184723,
       "name": "WE\u2019RE ALL GONNA DIE",
       "url": "https://open.spotify.com/track/4O3NC8soE6ELWtgIWjSD2B"

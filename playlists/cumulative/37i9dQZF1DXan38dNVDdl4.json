@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Bob the Builder",
+        "url": "https://open.spotify.com/album/0GjSEtiNfPCQHWqb2wynMV"
+      },
+      "artists": [
+        {
+          "name": "Lady Lava",
+          "url": "https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133407,
+      "name": "Bob the Builder",
+      "url": "https://open.spotify.com/track/1K35Ej6qQciVEXD18g3OaX"
+    },
+    {
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -2711,6 +2729,28 @@
     },
     {
       "album": {
+        "name": "Exam",
+        "url": "https://open.spotify.com/album/7hsjztvmT9RWGxodTB9cWO"
+      },
+      "artists": [
+        {
+          "name": "Cashh",
+          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
+        },
+        {
+          "name": "Pablo YG",
+          "url": "https://open.spotify.com/artist/0JFNiVq6LHCFEJk9ilmh9K"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161955,
+      "name": "Exam",
+      "url": "https://open.spotify.com/track/1vvOSbbwy2BEGgY2UTXe8t"
+    },
+    {
+      "album": {
         "name": "Expensive",
         "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
       },
@@ -2864,7 +2904,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 154506,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/4ug7xCyLvU0If1nFQwb2ES"
@@ -3660,6 +3700,28 @@
       "duration_ms": 229826,
       "name": "Goodas Mi Back Mi Back",
       "url": "https://open.spotify.com/track/0DV3a7dw3D789bCIxlJ5Mn"
+    },
+    {
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/3RfyH6dNvlEJGpByBj7uz9"
+      },
+      "artists": [
+        {
+          "name": "Popeye Caution",
+          "url": "https://open.spotify.com/artist/6c3XdLzp5XDjz3FVn4c3dZ"
+        },
+        {
+          "name": "Team DAMP",
+          "url": "https://open.spotify.com/artist/3SPO1zOMgh106pZzibM1sP"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134720,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/0QcTSw3i8w3KL3ls0QaQHy"
     },
     {
       "album": {
@@ -5050,7 +5112,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 161610,
       "name": "Live n' Learn",
       "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
@@ -6198,7 +6260,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 118768,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3Ibz41D18EEpiYv07FYea6"

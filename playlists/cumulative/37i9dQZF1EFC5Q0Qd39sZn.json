@@ -11725,6 +11725,24 @@
     },
     {
       "album": {
+        "name": "An Attempt at Romantic",
+        "url": "https://open.spotify.com/album/4jiNh3jO32yjdfiReQR1Uw"
+      },
+      "artists": [
+        {
+          "name": "Nicotine Dolls",
+          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203453,
+      "name": "You Won't Have Me",
+      "url": "https://open.spotify.com/track/4rEfopWAHBTR2zB4QmGMy0"
+    },
+    {
+      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
       },

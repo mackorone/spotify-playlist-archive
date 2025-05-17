@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
 
-177 songs - 10 hr 14 min
+178 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [chanh tuyết](https://open.spotify.com/track/0i3kkjdLLumFcDIPwIY8b4) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [chanh tuyết](https://open.spotify.com/album/0pJIWUfipTVXuJ4ivTe8xy) | 2:40 | 2024-12-04 |  |
 | [Chanh Tuyết \- Live At Home](https://open.spotify.com/track/3PzJrG7RJsoYDKc9t4r5KY) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [The Banisterz](https://open.spotify.com/artist/00qMj1gYwwMHPNqPDZRxQV) | [Chanh Tuyết \(Live At Home\)](https://open.spotify.com/album/7HWCx7oZgPhwuN943ZLIuj) | 3:22 | 2024-04-02 | 2025-03-28 |
 | [Checkmate: The Fame](https://open.spotify.com/track/7GoKGI2T3RjhWlIHOil4ui) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Anna Da Kiddo](https://open.spotify.com/artist/54bTSaYNNPxjF9LN9gu4E4) | [Checkmate: The Fame](https://open.spotify.com/album/2MR7O6gZm3gJLqA5ycclcd) | 2:59 | 2024-12-04 | 2025-03-28 |
-| [chiều thứ 7](https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [chiều thứ 7](https://open.spotify.com/album/4U8Krj8WzLaBEwlSYle5Rk) | 4:39 | 2024-12-04 |  |
+| [chiều thứ 7](https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [chiều thứ 7](https://open.spotify.com/album/4U8Krj8WzLaBEwlSYle5Rk) | 4:39 | 2024-12-04 | 2025-05-17 |
 | [Cho phép tôi mời anh một ly](https://open.spotify.com/track/4XP59vzJsW9CRptktJqEwA) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 2:58 | 2025-03-27 |  |
 | [Chú Lật Đật](https://open.spotify.com/track/39uULsf4hx4pVyLgmLuab7) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Chú Lật Đật](https://open.spotify.com/album/2ycmmF2YPuQ53trzA3JcLN) | 4:10 | 2024-12-04 | 2025-03-28 |
 | [chúc mừng em \(prod\. MINHPHAM\)](https://open.spotify.com/track/6UxDAqS5403KlBDk6rsHVh) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [MINH PHAM](https://open.spotify.com/artist/1SflDdL03vqz3MLTh65lPq) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 3:50 | 2024-12-04 | 2025-03-28 |
@@ -132,6 +132,7 @@
 | [Nụ cười trên tàu điện](https://open.spotify.com/track/6sDoRYqmzFWXLwsZzwmQFO) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [Nụ cười trên tàu điện](https://open.spotify.com/album/402kerJsUUs6iY1UuNn7yw) | 2:35 | 2024-12-04 | 2025-03-28 |
 | [Obsessed](https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Obsessed](https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav) | 2:28 | 2022-09-09 | 2023-06-23 |
 | [OLD BOY](https://open.spotify.com/track/1OxkQkpEzuFKELOHjx9V8W) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [OLD BOY](https://open.spotify.com/album/1gBo8BLABMGxe36LWZFy6C) | 4:00 | 2024-12-04 | 2025-03-28 |
+| [ON MY WAY](https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [M NAIVE](https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS) | [ON MY WAY](https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw) | 3:05 | 2025-05-15 |  |
 | [PHONG \(feat\. TGSN & Tyronee\)](https://open.spotify.com/track/0ibp5h8QATkvC6P5cO5TUV) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [PHONG \(feat\. TGSN & Tyronee\)](https://open.spotify.com/album/2miKCUKYhXGekJDx4ZsxiI) | 3:32 | 2022-09-09 | 2024-09-27 |
 | [Rót Tiếp](https://open.spotify.com/track/5U61WeETed0vWK3HUf8Xr6) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3), [Steji](https://open.spotify.com/artist/5AnW83Ip0xPJ3Pgn0YWDhd) | [Rót Tiếp](https://open.spotify.com/album/4c4l3zyMSwsDjajgrhJ5dq) | 3:10 | 2022-09-09 | 2024-09-27 |
 | [SapoChê](https://open.spotify.com/track/0JLgKwxlXWgXMw40M2Xe6v) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [SapoChê](https://open.spotify.com/album/27s6PKqAn7rCHXtoyzFe0m) | 3:30 | 2024-12-04 | 2025-03-31 |

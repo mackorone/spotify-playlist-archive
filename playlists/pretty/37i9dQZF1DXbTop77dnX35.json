@@ -1,6 +1,6 @@
 {
   "description": "New Music from Darkoo, Seyi Vibez, Latto and more ",
-  "num_followers": 120801,
+  "num_followers": 121104,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
       "duration_ms": 157866,
       "name": "Hei God",
       "url": "https://open.spotify.com/track/1u6HuhlBtbiUeN5Y4I4IVP"
+    },
+    {
+      "added_at": "2025-05-16 00:01:34",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 202426,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
     },
     {
       "added_at": "2025-05-16 00:01:34",
@@ -327,6 +343,26 @@
     {
       "added_at": "2025-05-16 00:01:34",
       "album": {
+        "name": "OXYTOCIN",
+        "url": "https://open.spotify.com/album/6APa9esRfWVy3kXaCxlL4L"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        },
+        {
+          "name": "Chopstix",
+          "url": "https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Terminata",
+      "url": "https://open.spotify.com/track/6Mb8IRWoRgpd4FT3zoOFO0"
+    },
+    {
+      "added_at": "2025-05-16 00:01:34",
+      "album": {
         "name": "Luxford",
         "url": "https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx"
       },
@@ -355,6 +391,26 @@
       "duration_ms": 131052,
       "name": "Feels So Good",
       "url": "https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf"
+    },
+    {
+      "added_at": "2025-05-16 00:01:34",
+      "album": {
+        "name": "SISTA WIVES (from the Short Film \"Red Clay\")",
+        "url": "https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 149960,
+      "name": "SISTA WIVES - from the Short Film \"Red Clay\"",
+      "url": "https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph"
     },
     {
       "added_at": "2025-05-16 00:01:34",
@@ -1247,6 +1303,26 @@
       "duration_ms": 116761,
       "name": "Deep Thought",
       "url": "https://open.spotify.com/track/0QAP0HTHqiQvwxj8Db7IPQ"
+    },
+    {
+      "added_at": "2025-05-16 00:01:34",
+      "album": {
+        "name": "OXYTOCIN",
+        "url": "https://open.spotify.com/album/6APa9esRfWVy3kXaCxlL4L"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        },
+        {
+          "name": "Chopstix",
+          "url": "https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt"
+        }
+      ],
+      "duration_ms": 148163,
+      "name": "Written",
+      "url": "https://open.spotify.com/track/1LwKB6df4OcfyWewPthgBx"
     }
   ],
   "unique_name": "New Music Friday Naija",

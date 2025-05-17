@@ -2405,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
+        "url": "https://open.spotify.com/album/4cMrjf4R45rTTsX8Tq7sNZ"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253426,
+      "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
+      "url": "https://open.spotify.com/track/77YoqCURhIcsoJRm0LefeM"
+    },
+    {
+      "album": {
         "name": "Chapter 4",
         "url": "https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp"
       },
@@ -3082,7 +3100,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 273813,
       "name": "\uc5ec\ub984 \uc548\uc5d0\uc11c",
       "url": "https://open.spotify.com/track/0zj8YC6M3Jgr6Cev1uxpGS"
@@ -3262,7 +3280,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 252604,
       "name": "\uc774\ube0c\uc758 \uacbd\uace0",
       "url": "https://open.spotify.com/track/2z4qWwqw3MkwfWPXSXbldt"
@@ -3468,7 +3486,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 233848,
       "name": "\ucef4\ubc31\ud648 Come Back Home",
       "url": "https://open.spotify.com/track/4a74IHB2h7ESieAevVCdkc"

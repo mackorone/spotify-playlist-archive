@@ -1,13 +1,37 @@
 {
   "description": "all the stutter, all the feels. ",
-  "num_followers": 170758,
+  "num_followers": 170876,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCZj+gAAAADt8tiDD0X6OfDQhc+8LJ6K",
+  "snapshot_id": "aCbjSQAAAAAt68RmvPsg1gFQ7YZIymjn",
   "tracks": [
+    {
+      "added_at": "2025-05-16 07:03:37",
+      "album": {
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "MOONLGHT",
+          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
+        },
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "duration_ms": 121874,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
+    },
     {
       "added_at": "2025-05-15 22:00:26",
       "album": {

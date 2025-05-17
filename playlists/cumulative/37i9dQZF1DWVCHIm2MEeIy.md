@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-534 songs - 1 day 20 hr 59 min
+535 songs - 1 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Go](https://open.spotify.com/track/1EFyjeVs4hetSVMc28Y9r6) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Go](https://open.spotify.com/album/4Zzp3MGr2M5rMF1oDxZ8mz) | 3:16 | 2024-11-11 |  |
 | [Go](https://open.spotify.com/track/5FsRbUIHwjAF7bghHIts5Y) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Go Re Nue EP](https://open.spotify.com/album/7fNGiYxJKAG3NEjUKIaY4c) | 8:00 | 2022-04-15 | 2022-07-29 |
 | [Go \- Anfisa Letyago Remix](https://open.spotify.com/track/6UFcxC1P9Dr5q9vYjGT5A7) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Go \(Anfisa Letyago Remix\)](https://open.spotify.com/album/3iHg6AnbZx5YM2Q2cXWno3) | 5:38 | 2022-04-15 | 2023-11-16 |
+| [Go Getta \(feat\. Nevve\)](https://open.spotify.com/track/2bHmHTRSkjJyjlCFcuQTrG) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Go Getta \(feat\. Nevve\)](https://open.spotify.com/album/71PJa4yS0rt03dc35dHBPy) | 2:35 | 2025-05-15 |  |
 | [Golden Child](https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Golden Child](https://open.spotify.com/album/4ZxJonyYAqmrqTBa2FFRUt) | 7:06 | 2024-02-08 | 2024-06-07 |
 | [Golden State](https://open.spotify.com/track/0WRZuBaMDMw7qmwBeqX1jI) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Golden State](https://open.spotify.com/album/5bPmTN4p8RGeQjQv2iTPv5) | 2:55 | 2022-04-15 | 2024-01-23 |
 | [Good Weather Girl \- Joyce Muniz Remix](https://open.spotify.com/track/2EKF2KuwVg4LYo4l8JJfaZ) | [Captain Mustache](https://open.spotify.com/artist/4Rzze0ulVeq1o9r6Gsb4TF), [Chicks On Speed](https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV), [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L) | [Good Weather Girl \(Joyce Muniz Remix\)](https://open.spotify.com/album/1rED3gLWpsDr9mhxRQqRji) | 6:43 | 2022-06-24 | 2022-06-29 |
@@ -360,7 +361,7 @@
 | [Paris](https://open.spotify.com/track/0k4A0wcdZLY0OSQ1ugfi3J) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Paris](https://open.spotify.com/album/2UJpW4aO9nXGEh7arP5uW8) | 3:21 | 2022-04-15 | 2022-04-21 |
 | [Pequeño Amor](https://open.spotify.com/track/6HkeeG8B0QHpjhLfkoT2Ys) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Back to You](https://open.spotify.com/album/6gEPIRjihArdcdmZ4i2zgo) | 6:06 | 2022-10-29 | 2022-11-15 |
 | [Pequeño Amor](https://open.spotify.com/track/7CV96EHpL4Xd1MXISAQr8O) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Back to You](https://open.spotify.com/album/6kRoEOzwNU22R0SmjSNd3I) | 6:06 | 2023-06-30 | 2023-11-16 |
-| [Perception](https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Perception](https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash) | 4:42 | 2024-03-07 |  |
+| [Perception](https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Perception](https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash) | 4:42 | 2024-03-07 | 2025-05-17 |
 | [Percolator \- Chris Lake Remix](https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Percolator \(Chris Lake & Bontan Remixes\)](https://open.spotify.com/album/1IYBF4Hu5rdCbAZgikWs1I) | 3:19 | 2024-11-11 | 2025-03-30 |
 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 | 2022-04-15 | 2024-01-23 |
 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 | 2024-09-02 |  |

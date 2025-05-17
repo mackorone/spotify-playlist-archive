@@ -1,13 +1,61 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 150614,
+  "num_followers": 150591,
   "original_name": "90s",
   "owner": {
     "name": "Digster Global",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAEmyj65lLMFNoDcrWsjg+7vy13LcM0",
+  "snapshot_id": "AAAEnjTyP9EvuMO9tS0Y1Ppzx0cz903p",
   "tracks": [
+    {
+      "added_at": "2025-04-22 23:10:10",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
+    },
+    {
+      "added_at": "2025-04-22 23:10:10",
+      "album": {
+        "name": "Tubthumper",
+        "url": "https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv"
+      },
+      "artists": [
+        {
+          "name": "Chumbawamba",
+          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
+        }
+      ],
+      "duration_ms": 278960,
+      "name": "Tubthumping",
+      "url": "https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A"
+    },
+    {
+      "added_at": "2025-04-22 23:10:10",
+      "album": {
+        "name": "Out Of Time",
+        "url": "https://open.spotify.com/album/22c9GGhLosljU2p3xPmOfe"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 268933,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/4d9RTWdrFLVAGhdzvqxkwn"
+    },
     {
       "added_at": "2025-04-22 23:10:10",
       "album": {
@@ -267,54 +315,6 @@
       "duration_ms": 235933,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7qoVUgY4fKUMPQ0dEOr27X"
-    },
-    {
-      "added_at": "2025-04-22 23:10:10",
-      "album": {
-        "name": "Out Of Time",
-        "url": "https://open.spotify.com/album/22c9GGhLosljU2p3xPmOfe"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 268933,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/4d9RTWdrFLVAGhdzvqxkwn"
-    },
-    {
-      "added_at": "2025-04-22 23:10:10",
-      "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2025-04-22 23:10:10",
-      "album": {
-        "name": "Tubthumper",
-        "url": "https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv"
-      },
-      "artists": [
-        {
-          "name": "Chumbawamba",
-          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
-        }
-      ],
-      "duration_ms": 278960,
-      "name": "Tubthumping",
-      "url": "https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A"
     },
     {
       "added_at": "2025-04-22 23:10:10",

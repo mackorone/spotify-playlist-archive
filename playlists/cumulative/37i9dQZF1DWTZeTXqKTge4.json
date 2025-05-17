@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: FouKi",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Aswell",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -4950,6 +4950,24 @@
       "duration_ms": 132923,
       "name": "Emballer",
       "url": "https://open.spotify.com/track/5Rp7AIHzkQP9nLty6EwHuK"
+    },
+    {
+      "album": {
+        "name": "On Reste Actif",
+        "url": "https://open.spotify.com/album/2S7jfIOKQccTaJxPEF7ifI"
+      },
+      "artists": [
+        {
+          "name": "Lostboy Carlos",
+          "url": "https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180383,
+      "name": "En Demande",
+      "url": "https://open.spotify.com/track/6yGdLOahF39Dvgf8Zvkrbz"
     },
     {
       "album": {
@@ -12917,6 +12935,24 @@
     },
     {
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126139,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj"
+    },
+    {
+      "album": {
         "name": "Ring 3x",
         "url": "https://open.spotify.com/album/16SrMJEC3LX9OJ3xZTbNCG"
       },
@@ -14894,7 +14930,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 126386,
       "name": "TRISTEMENT CELEBRE",
       "url": "https://open.spotify.com/track/6f0xePbra1IWDyl8L8Bet1"
@@ -15532,7 +15568,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 117000,
       "name": "Wanna Be",
       "url": "https://open.spotify.com/track/0H4uJtgFfsLeocd2Id9Jtd"

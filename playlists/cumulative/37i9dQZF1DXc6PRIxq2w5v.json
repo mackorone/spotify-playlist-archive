@@ -7627,6 +7627,28 @@
     },
     {
       "album": {
+        "name": "Procurado",
+        "url": "https://open.spotify.com/album/50pAoiOssYAgexHUdlBu1e"
+      },
+      "artists": [
+        {
+          "name": "PARMA",
+          "url": "https://open.spotify.com/artist/0EGqPGabGdJhyGFSRMvlAz"
+        },
+        {
+          "name": "dotghostit",
+          "url": "https://open.spotify.com/artist/0i2fdHaEbGtoKejQ3FFr5t"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131440,
+      "name": "Procurado",
+      "url": "https://open.spotify.com/track/1jzVlewAE5vmxe0bimYaWP"
+    },
+    {
+      "album": {
         "name": "Profeta",
         "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
       },

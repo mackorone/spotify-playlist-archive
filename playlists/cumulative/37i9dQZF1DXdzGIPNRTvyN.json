@@ -3595,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "Of Dreams",
+        "url": "https://open.spotify.com/album/1rLMWKKbiR0yf3jAeoBlp4"
+      },
+      "artists": [
+        {
+          "name": "Kal Koren",
+          "url": "https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Of Dreams",
+      "url": "https://open.spotify.com/track/5NNzFE3bBtnld4aCc6cg3s"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/12UfG7di9fD2S65HGnlslw"
       },
@@ -5846,6 +5864,24 @@
       "duration_ms": 177920,
       "name": "Willamette Falls",
       "url": "https://open.spotify.com/track/7ksLJPOQmbSdCsHOB7ND4y"
+    },
+    {
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/6NygaZ0pFTqrBj47zk63Qu"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Storm",
+          "url": "https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135234,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/4SF4bIKdN5ugfeOcwwT486"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdzGIPNRTvyN"

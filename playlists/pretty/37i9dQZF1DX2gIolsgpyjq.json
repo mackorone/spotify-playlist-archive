@@ -1,13 +1,109 @@
 {
-  "description": "The best new music by independent artists in the Nordics. Cover: theophilia",
-  "num_followers": 25558,
+  "description": "The best new music by independent artists in the Nordics. Cover: garbagepink",
+  "num_followers": 25586,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB0pMgAAAADmTbokNG1tPpKhSkb0B8Xp",
+  "snapshot_id": "aCbaywAAAAD4fsuMWfdhs1nxRi2xJltK",
   "tracks": [
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "idiot now",
+        "url": "https://open.spotify.com/album/08IiAx3EaLXF7HjA8pYZ74"
+      },
+      "artists": [
+        {
+          "name": "garbagepink",
+          "url": "https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z"
+        }
+      ],
+      "duration_ms": 183499,
+      "name": "idiot now",
+      "url": "https://open.spotify.com/track/7wSnWCccdLmbmk8NScY87s"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "want u",
+        "url": "https://open.spotify.com/album/7cnzLtkuuwwY6JZ5jJXtsS"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "duration_ms": 139445,
+      "name": "want u",
+      "url": "https://open.spotify.com/track/6J0BtIohxje0XgiJ5L5pRV"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "Bottles In The VIP",
+        "url": "https://open.spotify.com/album/3rAA1TtfkvujanGyqwdrIQ"
+      },
+      "artists": [
+        {
+          "name": "Prof. Stranger",
+          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Bottles In The VIP",
+      "url": "https://open.spotify.com/track/3AONABToF1FxJCo1tStGqS"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "PAPER",
+        "url": "https://open.spotify.com/album/6UFcBYr8ybmW6I3nUKTseh"
+      },
+      "artists": [
+        {
+          "name": "MAMI UMAMI",
+          "url": "https://open.spotify.com/artist/1gXudtIPsBxon00193AQb9"
+        }
+      ],
+      "duration_ms": 174130,
+      "name": "PAPER",
+      "url": "https://open.spotify.com/track/1MLwnmOvoamIfdDutlrLdl"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "Salford Softie",
+        "url": "https://open.spotify.com/album/3xCdNu9pTS3pmTHLnomoDY"
+      },
+      "artists": [
+        {
+          "name": "Grande Mahogany",
+          "url": "https://open.spotify.com/artist/5Ap6WM27z0Xie0W8Wfs68Q"
+        }
+      ],
+      "duration_ms": 226532,
+      "name": "Salford Softie",
+      "url": "https://open.spotify.com/track/4U7uRyDn435K6L6Apj4fQt"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/69h7hEozTL7YS4yor7Ioh4"
+      },
+      "artists": [
+        {
+          "name": "Van Dame",
+          "url": "https://open.spotify.com/artist/0jliO9N9vKNE5BhW5iK9BC"
+        }
+      ],
+      "duration_ms": 222126,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/5dboOSnV4XuC8NpKOwE0gg"
+    },
     {
       "added_at": "2025-05-08 21:59:14",
       "album": {
@@ -23,6 +119,58 @@
       "duration_ms": 185279,
       "name": "For Igor",
       "url": "https://open.spotify.com/track/0GDw3hXJZ8IB06NsWKUyrV"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "Green Mile",
+        "url": "https://open.spotify.com/album/31wXT7JXrTd29mvr6x189T"
+      },
+      "artists": [
+        {
+          "name": "Elliot",
+          "url": "https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "Green Mile",
+      "url": "https://open.spotify.com/track/2iHkgUIKXr9yBF4xFyLjOb"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4Dn0zQugLRqw9uzY7aZJfx"
+      },
+      "artists": [
+        {
+          "name": "Solow",
+          "url": "https://open.spotify.com/artist/01X9XiI7bYhN4jlzGuYZg0"
+        }
+      ],
+      "duration_ms": 231223,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/5uZoFkkcgbuMzoc75qYKdR"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6e9QBSna6MddQjcrREC5hu"
+      },
+      "artists": [
+        {
+          "name": "cortex",
+          "url": "https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i"
+        },
+        {
+          "name": "Gianni\u00b4s Humble",
+          "url": "https://open.spotify.com/artist/0IPxHQWLOiFdARIMSBtLZr"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/6l2s19EwWAsjXf0bFWqQbt"
     },
     {
       "added_at": "2025-05-08 21:59:14",
@@ -41,6 +189,86 @@
       "url": "https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg"
     },
     {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "Mercury in Retrograde",
+        "url": "https://open.spotify.com/album/4gNA0pgpZH49krlTy9QiH6"
+      },
+      "artists": [
+        {
+          "name": "Sofi O",
+          "url": "https://open.spotify.com/artist/5PqjmLk2Hc8cgRAT8SkZLp"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Mercury in Retrograde",
+      "url": "https://open.spotify.com/track/6kEM9gbaW1Y9TFqp9HJriT"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "HILLS N\u00b4 BACK",
+        "url": "https://open.spotify.com/album/2GWEFOCpcj45gbG9EVXaT5"
+      },
+      "artists": [
+        {
+          "name": "8lanco",
+          "url": "https://open.spotify.com/artist/63Qoo1vrRqWqEq4JC1dtZs"
+        }
+      ],
+      "duration_ms": 225919,
+      "name": "REHAB",
+      "url": "https://open.spotify.com/track/2SlfBqcg5QWv7daTIFprZy"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "Slamming The Door",
+        "url": "https://open.spotify.com/album/7drnHBrd4tLu6ZWePhfUsA"
+      },
+      "artists": [
+        {
+          "name": "Deliverie",
+          "url": "https://open.spotify.com/artist/1oGA7ikSikSgGvjtFE6rIU"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "Slamming The Door",
+      "url": "https://open.spotify.com/track/0lFikSvYUAzUsrEDdM55KW"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/3k5pgbKemrGJx3bQfirB8A"
+      },
+      "artists": [
+        {
+          "name": "Duppy Tales",
+          "url": "https://open.spotify.com/artist/5hUUq1vzCZapwGccYK9SIZ"
+        }
+      ],
+      "duration_ms": 393480,
+      "name": "Evolve",
+      "url": "https://open.spotify.com/track/7JxFJatyw36gLhBqOrYKbv"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "Leave me out to dry",
+        "url": "https://open.spotify.com/album/53mRQgyYfwQpWhH8pJvgtc"
+      },
+      "artists": [
+        {
+          "name": "Red Langur",
+          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+        }
+      ],
+      "duration_ms": 194145,
+      "name": "Leave me out to dry",
+      "url": "https://open.spotify.com/track/0Rmv7L0FdIgsOASN1iS2ge"
+    },
+    {
       "added_at": "2025-05-08 21:59:14",
       "album": {
         "name": "and is it really over",
@@ -55,6 +283,38 @@
       "duration_ms": 227121,
       "name": "and is it really over",
       "url": "https://open.spotify.com/track/5RAInZ6ZRVYhgf31HLECFZ"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/5PLtdAGcJIdKdWAaVwi4Ew"
+      },
+      "artists": [
+        {
+          "name": "HANN3R",
+          "url": "https://open.spotify.com/artist/3cplLQ8cd7oHYbczpbrKrc"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/1ANmeH8rwhldXh2GkEBJRm"
+    },
+    {
+      "added_at": "2025-05-16 06:27:23",
+      "album": {
+        "name": "100%WET",
+        "url": "https://open.spotify.com/album/4hsQ77zmik94euR1aDkTUc"
+      },
+      "artists": [
+        {
+          "name": "100%WET",
+          "url": "https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2"
+        }
+      ],
+      "duration_ms": 213487,
+      "name": "Looking In from the Outside",
+      "url": "https://open.spotify.com/track/5FH1xaoPF809A0kctXp3dj"
     },
     {
       "added_at": "2025-05-08 21:59:14",
@@ -971,46 +1231,6 @@
     {
       "added_at": "2025-05-08 21:59:14",
       "album": {
-        "name": "Orange Lemonade",
-        "url": "https://open.spotify.com/album/3T3loB8qptlgjUWH1RPXbD"
-      },
-      "artists": [
-        {
-          "name": "Charlie South",
-          "url": "https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e"
-        },
-        {
-          "name": "Manon Lamartine",
-          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
-        }
-      ],
-      "duration_ms": 174246,
-      "name": "Orange Lemonade",
-      "url": "https://open.spotify.com/track/6vIiQXppIWFcsgROMY8TGb"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "Could Be Forever (Prof. Stranger Remix)",
-        "url": "https://open.spotify.com/album/2wXlu6s4LbjaCjiu9zuWTG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
-        },
-        {
-          "name": "Prof. Stranger",
-          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
-        }
-      ],
-      "duration_ms": 202874,
-      "name": "Could Be Forever (Prof. Stranger Remix)",
-      "url": "https://open.spotify.com/track/77P9fzAA48OISwIbSpeR1Z"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
         "name": "Dolly Pardon",
         "url": "https://open.spotify.com/album/2mpcyHPwNTYgs3cqh7ny8j"
       },
@@ -1023,38 +1243,6 @@
       "duration_ms": 197571,
       "name": "Dolly Pardon",
       "url": "https://open.spotify.com/track/6cMYgNz1F9cA9jcdBIUPb3"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "Notice Me",
-        "url": "https://open.spotify.com/album/0JHyDSNDMrnw788x6R0uTk"
-      },
-      "artists": [
-        {
-          "name": "Mortensen",
-          "url": "https://open.spotify.com/artist/1IGUnBoSDVXkJ3EsCXsCPr"
-        }
-      ],
-      "duration_ms": 160393,
-      "name": "Notice Me",
-      "url": "https://open.spotify.com/track/04dpZ67GF1XoBoxdcCcsCk"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "be brave",
-        "url": "https://open.spotify.com/album/2F5LspboFaqbbrHDpQ97VI"
-      },
-      "artists": [
-        {
-          "name": "by your side",
-          "url": "https://open.spotify.com/artist/7EmjLkTFoHuukMT96bxgEd"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "one day i'll change",
-      "url": "https://open.spotify.com/track/4Kg14PoKfX0YX5yXCsTteL"
     },
     {
       "added_at": "2025-05-08 21:59:14",
@@ -1095,22 +1283,6 @@
       "duration_ms": 180000,
       "name": "Now",
       "url": "https://open.spotify.com/track/03qqozWyZyv8YG3f02ZKSd"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "Once I (Lose Control)",
-        "url": "https://open.spotify.com/album/2CA3buRlRGat3xJwQKUNaS"
-      },
-      "artists": [
-        {
-          "name": "Januar",
-          "url": "https://open.spotify.com/artist/0J2UQEazRjVuwWlEXufHsD"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Once I (Lose Control)",
-      "url": "https://open.spotify.com/track/2wtfPwtYi2LJVZVPrvjpkB"
     },
     {
       "added_at": "2025-05-08 21:59:14",
@@ -1179,22 +1351,6 @@
     {
       "added_at": "2025-05-08 21:59:14",
       "album": {
-        "name": "Romanticize Me",
-        "url": "https://open.spotify.com/album/4uBGRctNphP63XX4gZj4wy"
-      },
-      "artists": [
-        {
-          "name": "Nicoel",
-          "url": "https://open.spotify.com/artist/6r07cY3uTfDRAelK2bbTyA"
-        }
-      ],
-      "duration_ms": 175540,
-      "name": "Romanticize Me",
-      "url": "https://open.spotify.com/track/32JqzkFkwoByPPnu8R5mLo"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
         "name": "vanguard",
         "url": "https://open.spotify.com/album/32crCA8zEYV2P4o5s5iTpn"
       },
@@ -1207,38 +1363,6 @@
       "duration_ms": 133719,
       "name": "vanguard",
       "url": "https://open.spotify.com/track/7tFQWkLqXFFeWHaxTMemYF"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "Warming Up",
-        "url": "https://open.spotify.com/album/1B3sJ3osKYlG5cE895YUmf"
-      },
-      "artists": [
-        {
-          "name": "Hanna Mel",
-          "url": "https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8"
-        }
-      ],
-      "duration_ms": 156300,
-      "name": "Warming Up",
-      "url": "https://open.spotify.com/track/6zV7rIXx9HVXHd43luY5Uy"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/3aJ5kDrZmVKtcOnmdTYOtE"
-      },
-      "artists": [
-        {
-          "name": "dark0wa",
-          "url": "https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53"
-        }
-      ],
-      "duration_ms": 150697,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/5rSD2j94sMRi5jnzN0VKzW"
     },
     {
       "added_at": "2025-05-08 21:59:14",
@@ -1259,38 +1383,6 @@
     {
       "added_at": "2025-05-08 21:59:14",
       "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/1TFFXYhwLKAiRV3tSBEfLS"
-      },
-      "artists": [
-        {
-          "name": "Oklahoma",
-          "url": "https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow"
-        }
-      ],
-      "duration_ms": 194218,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/3lCDch1ZQ7LThCk73gHjBd"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "Stay Mad",
-        "url": "https://open.spotify.com/album/3kUghfN1RG8gmFAs8CvTVD"
-      },
-      "artists": [
-        {
-          "name": "Joselin",
-          "url": "https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Stay Mad",
-      "url": "https://open.spotify.com/track/2K9SQbtgqlmpPYgu5Luoet"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
         "name": "Hang the DJ",
         "url": "https://open.spotify.com/album/4lqM98HqVQpNaoCubZnQuf"
       },
@@ -1307,22 +1399,6 @@
     {
       "added_at": "2025-05-08 21:59:14",
       "album": {
-        "name": "Tell Me a Story",
-        "url": "https://open.spotify.com/album/1UgnMtWuDAdLQO4ej2Prz8"
-      },
-      "artists": [
-        {
-          "name": "Matr\u0113",
-          "url": "https://open.spotify.com/artist/0mUVjgWQLUlTuzafZdYeKK"
-        }
-      ],
-      "duration_ms": 168526,
-      "name": "Tell Me a Story",
-      "url": "https://open.spotify.com/track/7GpTHankktvKUikjxrnmvu"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
         "name": "Ded",
         "url": "https://open.spotify.com/album/3lcZLzxSJbUuQXHg2VABrh"
       },
@@ -1335,74 +1411,6 @@
       "duration_ms": 240000,
       "name": "Ded",
       "url": "https://open.spotify.com/track/2mXmEEL4e6q0LR4ptHLZPT"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "VETLE",
-        "url": "https://open.spotify.com/album/4PO1osEvU1W88qO1NlOmE3"
-      },
-      "artists": [
-        {
-          "name": "WTCHOUT",
-          "url": "https://open.spotify.com/artist/6DeWCj9W2OMshT5sdCJnqa"
-        }
-      ],
-      "duration_ms": 168358,
-      "name": "VETLE",
-      "url": "https://open.spotify.com/track/5vHlkTAnn5vu2sglWlhVhD"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "under your spell",
-        "url": "https://open.spotify.com/album/4sWgv3Wjp4DxmtnQAtqfJg"
-      },
-      "artists": [
-        {
-          "name": "mikey",
-          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
-        }
-      ],
-      "duration_ms": 227410,
-      "name": "under your spell",
-      "url": "https://open.spotify.com/track/7rC4bw9lF0zMF0BOJxPYsH"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "I don't know who you are",
-        "url": "https://open.spotify.com/album/2upHxHgviInSKBIJc6N6nd"
-      },
-      "artists": [
-        {
-          "name": "K\u00e1ri the Attempt",
-          "url": "https://open.spotify.com/artist/5ZrFHRagg88XKV43EVJnam"
-        },
-        {
-          "name": "RAKEL",
-          "url": "https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl"
-        }
-      ],
-      "duration_ms": 156187,
-      "name": "I don't know who you are",
-      "url": "https://open.spotify.com/track/2rDntewGlzBzqGwXcf8R1d"
-    },
-    {
-      "added_at": "2025-05-08 21:59:14",
-      "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/4GDOe4UEcugRpiRQ4SdYJ9"
-      },
-      "artists": [
-        {
-          "name": "helly",
-          "url": "https://open.spotify.com/artist/6jzDzmS7KpZgvlM3bi4nhX"
-        }
-      ],
-      "duration_ms": 113500,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/1DqOPto9UBk7Gyy3HciEcX"
     },
     {
       "added_at": "2025-05-08 21:59:14",

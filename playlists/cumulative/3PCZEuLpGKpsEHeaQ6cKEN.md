@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Deep Dish
 
-1,411 songs - 3 day 3 hr 17 min
+1,412 songs - 3 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [By Now](https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [By Now](https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX) | 2:33 | 2024-04-26 | 2024-10-19 |
 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/36Acx4c9pXuOssrPJxZVtH) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Oldschool Love](https://open.spotify.com/album/10c6iETu0ndVfdhSQjePUr) | 2:57 | 2025-03-13 |  |
 | [By Your Side \(In My Mind\) Part II](https://open.spotify.com/track/1PhO9uFC25eSjCrzA5KCvH) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [By Your Side \(In My Mind\) Part II](https://open.spotify.com/album/7MVDYYiy9GgdXMJkpL0Y7D) | 2:43 | 2025-01-31 | 2025-02-04 |
+| [C C C](https://open.spotify.com/track/2SXLCcrH227dQ1ffi7PbnH) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [C C C](https://open.spotify.com/album/4LxaKUWOsO7I15CMN0wVxC) | 3:06 | 2025-05-16 |  |
 | [California Child](https://open.spotify.com/track/7iMevAfaNM9t6WqRLMW6lV) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [The Palms](https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X), [Hi\-Def](https://open.spotify.com/artist/6DXQR420AWaTcwoQH8aODg) | [California Child](https://open.spotify.com/album/1sPO8E1aQCOc3rOl2KTgB9) | 3:19 | 2023-06-29 | 2023-12-14 |
 | [California Dreamin \- LNY TNZ Remix](https://open.spotify.com/track/3RzfYY11XJ4PrZq5j1Fk4k) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [California Dreamin \(LNY TNZ Remix\)](https://open.spotify.com/album/1Eqcbi0tlTDXZgPODT7WDx) | 2:36 | 2023-03-03 | 2023-03-09 |
 | [Can You Feel It \- Martin Ikin Remix](https://open.spotify.com/track/4Uotr9nrVbAYhorPfIbg8o) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Can You Feel It \(Martin Ikin Remix\)](https://open.spotify.com/album/4pvbaFQIkr28Le4HG7bH1t) | 3:10 | 2024-07-18 | 2025-04-04 |

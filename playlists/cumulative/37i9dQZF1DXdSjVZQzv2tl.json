@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Simone Mendes",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Matheus & Kauan",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -1056,6 +1056,46 @@
       "duration_ms": 161685,
       "name": "Cara da Derrota - Ao Vivo",
       "url": "https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ"
+    },
+    {
+      "album": {
+        "name": "Cara da Serenata (Live)",
+        "url": "https://open.spotify.com/album/1YqY9DLfFigKwnM8UCEoL9"
+      },
+      "artists": [
+        {
+          "name": "Luccas & Rodrigo",
+          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
+        },
+        {
+          "name": "Vitor e Luan",
+          "url": "https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134516,
+      "name": "Cara da Serenata - Live",
+      "url": "https://open.spotify.com/track/3vpmGewnBcIfbm252E3Xx8"
+    },
+    {
+      "album": {
+        "name": "Envolvente (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/1OkdRmcGgEGkotlkG1E9q2"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171828,
+      "name": "Carona - Ao Vivo",
+      "url": "https://open.spotify.com/track/61IoU1fMZBkTpilKp2zUbF"
     },
     {
       "album": {
@@ -4930,7 +4970,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 160634,
       "name": "Saudade Proibida - Ao Vivo",
       "url": "https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7"
@@ -5072,7 +5112,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 181909,
       "name": "Sexta Feira - Ao Vivo",
       "url": "https://open.spotify.com/track/0ikHh6vrN2RcCANXwRnMHx"

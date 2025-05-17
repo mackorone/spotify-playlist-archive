@@ -1,13 +1,489 @@
 {
-  "description": "The best new music every Friday. Cover: Royel Otis",
-  "num_followers": 1313541,
+  "description": "The best new music every Friday. Cover: Wolf Alice",
+  "num_followers": 1313866,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB19xQAAAADlLeXDmi3hAl8gXJLQ1pml",
+  "snapshot_id": "aCdpLAAAAAAsCnkT5yzoPgOtVHzwzhqt",
   "tracks": [
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Bloom Baby Bloom",
+        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Bloom Baby Bloom",
+      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/66jybmyf9i4NelFuzOkJYz"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 124422,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Dudu",
+        "url": "https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 186129,
+      "name": "Dudu",
+      "url": "https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/7oFy92JeQxGcDSDv26c5TF"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/3vSmp9ofxhYBS0CgHWMtg3"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Athlete",
+        "url": "https://open.spotify.com/album/1t0UNINwdgxwzTjIeyRt5m"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 165682,
+      "name": "Athlete",
+      "url": "https://open.spotify.com/track/6ahKvQI9D9lZ4780BP1D8H"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "mild days",
+        "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "mild days",
+      "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Cathode Ray",
+        "url": "https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 249609,
+      "name": "Cathode Ray",
+      "url": "https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Emo Regulation",
+        "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Emo Regulation",
+      "url": "https://open.spotify.com/track/4PjdsrYAb9CWjbtT9RUwi3"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Carry-On Bag",
+        "url": "https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "duration_ms": 218530,
+      "name": "Carry-On Bag",
+      "url": "https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Pie in the Sky",
+        "url": "https://open.spotify.com/album/06DqehjwWgo8PSf4k7dR28"
+      },
+      "artists": [
+        {
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+        }
+      ],
+      "duration_ms": 220865,
+      "name": "Pie in the Sky",
+      "url": "https://open.spotify.com/track/5aAQKNQROaiA2uVQo8Bp1t"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 197113,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Don't Run Away",
+        "url": "https://open.spotify.com/album/18KetdwEDcSivI01fO3djP"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "duration_ms": 192597,
+      "name": "Don\u2019t Run Away",
+      "url": "https://open.spotify.com/track/0gPUGQvXBlHeEEufynkFrE"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Handwriting Practice No. 1",
+        "url": "https://open.spotify.com/album/4D3EjnEEuZrJfBidHIC3c2"
+      },
+      "artists": [
+        {
+          "name": "Operelly",
+          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+        }
+      ],
+      "duration_ms": 217273,
+      "name": "If someone's gonna love you",
+      "url": "https://open.spotify.com/track/7bfIjbeRDDOvIC5q1ULIPs"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "american church",
+        "url": "https://open.spotify.com/album/6RhSNQAhNGzUU3vg8t0pPw"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "american church",
+      "url": "https://open.spotify.com/track/6NfgpPCj8AMjXUIWLZ9Ik5"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "As Two People Drift Apart",
+        "url": "https://open.spotify.com/album/39RaADaRlWnM4QrEchGzHy"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "duration_ms": 242480,
+      "name": "As Two People Drift Apart",
+      "url": "https://open.spotify.com/track/56BnRYMVVAKtvkIZIQbfCq"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Be Kind",
+        "url": "https://open.spotify.com/album/7j4yVvolt5GXB1HCHlSN75"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 307373,
+      "name": "Be Kind",
+      "url": "https://open.spotify.com/track/1xdcPg5hOtjG52oCXblIlE"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN"
+      },
+      "artists": [
+        {
+          "name": "Acopia",
+          "url": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Voices In My Head, Pt. 2 (feat. Betty)",
+        "url": "https://open.spotify.com/album/44v3tisLSDT2KIInzKMyBq"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        },
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/45Ndw1FM9epvaUXQXYGbST"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Voices In My Head, Pt. 2 (feat. Betty)",
+      "url": "https://open.spotify.com/track/5sFi2Lt0oGkMUakEbkxhQn"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/67DYnzxx4D2I1PbIjGR7Tz"
+      },
+      "artists": [
+        {
+          "name": "Jessica Winter",
+          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
+        }
+      ],
+      "duration_ms": 179313,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/5spRRlyU71WlxkwRX0q8fC"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "I'm Losing It",
+        "url": "https://open.spotify.com/album/1iO532J1AahkCofCiD4ImL"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "duration_ms": 186058,
+      "name": "I'm Losing It",
+      "url": "https://open.spotify.com/track/3OKvp0AJfu0BzRP9fIvKGf"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "luigi's mansione",
+        "url": "https://open.spotify.com/album/5rxpasLedlY4fzLggkVdwf"
+      },
+      "artists": [
+        {
+          "name": "Chanpan",
+          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
+        }
+      ],
+      "duration_ms": 133901,
+      "name": "luigi's mansione",
+      "url": "https://open.spotify.com/track/3a5xz3dr19fMKk9oFdR2Q3"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
+      },
+      "artists": [
+        {
+          "name": "George Alice",
+          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "i love you",
+        "url": "https://open.spotify.com/album/1LAFkDAS2ZVEAtXI2trEiN"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "duration_ms": 235555,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/75V1A6dRJHgAx4dugivNX9"
+    },
+    {
+      "added_at": "2025-05-16 16:34:52",
+      "album": {
+        "name": "Lived Here For A While (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yZUAhsXFxTXQvCR312pBI"
+      },
+      "artists": [
+        {
+          "name": "Good Looks",
+          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
+        }
+      ],
+      "duration_ms": 203746,
+      "name": "I Don't Want To Die",
+      "url": "https://open.spotify.com/track/3pIYkA9PmRsivvLS9QUlCi"
+    },
+    {
+      "added_at": "2025-05-16 16:34:52",
+      "album": {
+        "name": "Strobe",
+        "url": "https://open.spotify.com/album/3qkSUHnLlZsRPqqXAZ1tQF"
+      },
+      "artists": [
+        {
+          "name": "Armlock",
+          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+        }
+      ],
+      "duration_ms": 220422,
+      "name": "Strobe",
+      "url": "https://open.spotify.com/track/3Gbte7C9NyAmMCZDPWhooG"
+    },
+    {
+      "added_at": "2025-05-16 04:00:33",
+      "album": {
+        "name": "ring my bell",
+        "url": "https://open.spotify.com/album/1io4H0laNnkC6jEsTdQdh4"
+      },
+      "artists": [
+        {
+          "name": "country girl",
+          "url": "https://open.spotify.com/artist/3CexosgwAdYgWww7AAHnXl"
+        },
+        {
+          "name": "Melody English",
+          "url": "https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp"
+        }
+      ],
+      "duration_ms": 136779,
+      "name": "ring my bell",
+      "url": "https://open.spotify.com/track/5pX5ZWRsPdzJPL22dajuIP"
+    },
+    {
+      "added_at": "2025-05-16 16:34:52",
+      "album": {
+        "name": "That Ass!",
+        "url": "https://open.spotify.com/album/5OrJbuWr4tHiGx37U7gu0B"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gobbi",
+          "url": "https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv"
+        }
+      ],
+      "duration_ms": 137688,
+      "name": "That Ass!",
+      "url": "https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl"
+    },
     {
       "added_at": "2025-05-09 04:00:05",
       "album": {
@@ -1339,22 +1815,6 @@
       "duration_ms": 209409,
       "name": "I'm Kidding",
       "url": "https://open.spotify.com/track/5gASNtwuwErUyI3G20EL5Y"
-    },
-    {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
-        "name": "There's A Part I Can't Get Back",
-        "url": "https://open.spotify.com/album/5uUzR5yxA9A549EMuwv45i"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 242001,
-      "name": "There's A Part I Can't Get Back",
-      "url": "https://open.spotify.com/track/1dZcRgX7UjJWNFAdtr8vRv"
     },
     {
       "added_at": "2025-04-25 04:00:55",

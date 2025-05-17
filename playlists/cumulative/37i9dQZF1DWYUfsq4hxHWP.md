@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: MAYCE, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Tyler Nance, Artwork: Fanélie Muselier
 
-3,134 songs - 7 day 1 hr 35 min
+3,139 songs - 7 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Ashes](https://open.spotify.com/track/6Yge9rhARFSjoLqsWA2hQ8) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Ashes](https://open.spotify.com/album/1p9Apy7OJnJyf16kQ2QdIe) | 3:18 | 2023-05-31 | 2023-07-27 |
 | [Ashes](https://open.spotify.com/track/26xr7bf7T1iOAreNKug5KV) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Ashes](https://open.spotify.com/album/21iUMG3unJz9w7HzUkopYL) | 3:36 | 2022-01-19 | 2023-01-12 |
 | [Ashes to Ashes](https://open.spotify.com/track/4UOiEOXOWdrGMXOntzEQ1C) | [Kaylin Roberson](https://open.spotify.com/artist/0AywuUmKBjTTsU4ZrVf7JS) | [Ashes to Ashes](https://open.spotify.com/album/45FW4MVNQTCluFaI6fmekp) | 2:40 | 2024-08-21 | 2025-01-16 |
+| [Asking for a Friend](https://open.spotify.com/track/0lIvPn66NoM8GKvhlBOj5B) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Asking for a Friend](https://open.spotify.com/album/2rQI4GLHSjBOOj1lm7Fnjn) | 3:28 | 2025-05-16 |  |
 | [Asphalt](https://open.spotify.com/track/4kA1MuqiBUyQjl88WyfWRF) | [Presley Aaron](https://open.spotify.com/artist/0rF3t0JE3PGaQaMmG37j3i) | [Asphalt](https://open.spotify.com/album/12e7PnWWP0NUQU5FcIU2fw) | 3:04 | 2022-06-01 | 2022-07-07 |
 | [Astronaut](https://open.spotify.com/track/1xMTryybLDviCRWPUy9zw6) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Astronaut](https://open.spotify.com/album/07redYeQNsVylDt4OGRG3Q) | 3:45 | 2022-02-09 | 2022-03-24 |
 | [At the End of the Day](https://open.spotify.com/track/1kIZKA2GTLnJhHy8YOUGkh) | [Nolan Sotillo](https://open.spotify.com/artist/4NcwaEQYKWvOiZF8XhyxBQ) | [At the End of the Day](https://open.spotify.com/album/3FuKhg4LsN73eVfzc6yNOK) | 3:38 | 2021-12-01 | 2022-01-20 |
@@ -1767,6 +1768,7 @@
 | [Make It Last Forever](https://open.spotify.com/track/2DN7PiLx7x5lUhxRQSBM2E) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [Make It Last Forever](https://open.spotify.com/album/6w6NwTSxvxcG99IRtKSVEU) | 3:40 | 2022-09-21 | 2022-10-27 |
 | [Make Me Hate You](https://open.spotify.com/track/7k0i1uggX1ZkMmB32e7y3J) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Make Me Hate You](https://open.spotify.com/album/1IPPt2fjG0fFkgIsnMpKgV) | 2:57 | 2022-10-19 | 2022-12-01 |
 | [Make Me Wanna Smoke](https://open.spotify.com/track/3WjE987xQB8tIkKfFpXDfD) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Make Me Wanna Smoke](https://open.spotify.com/album/7el1Ian4NY4KjOaEVvlQ07) | 2:55 | 2023-05-24 | 2023-07-27 |
+| [Make Me Wonder](https://open.spotify.com/track/13Qkq1y340lfSEfmRMOOnz) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [Make Me Wonder](https://open.spotify.com/album/694J7HuwM1KLhaLVm2THZY) | 3:45 | 2025-05-16 |  |
 | [Make the Best Memories](https://open.spotify.com/track/6Z2vjMFWw0s4pPiyOd8qhw) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Make the Best Memories](https://open.spotify.com/album/4lSerjMWfVyOxuT4ATvSQH) | 3:09 | 2022-04-13 | 2022-05-26 |
 | [Make the Memory](https://open.spotify.com/track/4LHx5jUWQHaQQzOVzpUc2i) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Make the Memory](https://open.spotify.com/album/0MMqx2LKELdxMyNPD5lMnt) | 2:51 | 2024-08-14 | 2024-09-12 |
 | [Make You Mine](https://open.spotify.com/track/0CZwrYqSTnfzAjtynr6zBp) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Make You Mine](https://open.spotify.com/album/7vwX7Eavq0fZccBj56FkWA) | 2:40 | 2023-04-05 | 2023-05-11 |
@@ -2148,6 +2150,7 @@
 | [Real Man](https://open.spotify.com/track/0sEdnshFRFL1sEC9EC074a) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Real Man](https://open.spotify.com/album/1SXuOk9M9j4nDlPwS0fdyw) | 3:28 | 2023-08-09 | 2023-09-28 |
 | [Reason That You Stay](https://open.spotify.com/track/6FE99hoDjv3xKvce2iiqOz) | [James McNair](https://open.spotify.com/artist/516Q8XRrVn2696be1wGIsd) | [The Family Name](https://open.spotify.com/album/4XNecKRVOYhhOPg31f9OJ9) | 3:04 | 2023-10-04 | 2023-11-30 |
 | [Reason To Love](https://open.spotify.com/track/7zmPA1n8avOloSbeTkGrRq) | [Chad Brownlee](https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU) | [Reason To Love](https://open.spotify.com/album/5tg7NcUK6SS93Q1QNJl51f) | 2:41 | 2025-03-26 |  |
+| [Reckless](https://open.spotify.com/track/0doryYTT72oB8wKtHFfjNm) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Six Mile](https://open.spotify.com/album/19q7vSiSA1C3wnR7OvkR0B) | 3:35 | 2025-05-16 |  |
 | [Reckless](https://open.spotify.com/track/0LZRpSQ1KXFCJQlZ16LBIN) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Reckless](https://open.spotify.com/album/6vNx2KXI59ivBPUYA4tKAN) | 3:07 | 2024-12-04 | 2025-01-16 |
 | [Reckless](https://open.spotify.com/track/614ON0DuAKhgMn5qw55JPc) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Reckless](https://open.spotify.com/album/6Wowb2a0dWRgHDXty6h0Gx) | 3:07 | 2024-04-17 | 2024-06-20 |
 | [RECKLESS](https://open.spotify.com/track/08a51R97SLj4lbrKtG6NCS) | [Clayton Shay](https://open.spotify.com/artist/70paYnUiMhlriyqsG4D0CR) | [RECKLESS](https://open.spotify.com/album/6rDkSeIBYwg0q7k048f7vM) | 2:58 | 2022-01-12 | 2022-02-10 |
@@ -2645,6 +2648,7 @@
 | [The Boys](https://open.spotify.com/track/3Fw3MImvw70e6nYvIQ6Hff) | [Jillian Cardarelli](https://open.spotify.com/artist/5VZQk4UsyWsh4lq9tm7fKP) | [The Boys](https://open.spotify.com/album/3yW1rwponOFf31YSoUZFZ6) | 3:23 | 2025-04-09 |  |
 | [The Breakdown](https://open.spotify.com/track/3Aq9Xg5wddv0cJb7td6q7H) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [The Breakdown](https://open.spotify.com/album/31UFkFhhIewMt6iRZ1JMz7) | 4:17 | 2022-10-19 | 2022-12-01 |
 | [The Bridge](https://open.spotify.com/track/7B8Yfy0Tc9EeSQz2nGts05) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [The Bridge](https://open.spotify.com/album/36ygMk0Pcj7cHyey6FZTNK) | 3:11 | 2022-10-26 | 2022-12-01 |
+| [The Bullfighter](https://open.spotify.com/track/1HgKUjJRScAcZD5WPhlACo) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [The Bullfighter](https://open.spotify.com/album/5OfwLDZVVkjuBFQFBKid9p) | 3:18 | 2025-05-16 |  |
 | [The Chase](https://open.spotify.com/track/46amzSH3OoK5OIZJ2WIRmN) | [Skyler Day](https://open.spotify.com/artist/6F4y5h3lsRV29bO0Wg0MK8) | [The Chase](https://open.spotify.com/album/2QnIFhGfS4aPfciZuXycDL) | 3:21 | 2024-10-02 | 2024-12-05 |
 | [The Country Kind](https://open.spotify.com/track/3d7Qsk8D4HqrCBcolQX4HC) | [Chad Brownlee](https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU) | [The Country Kind](https://open.spotify.com/album/1cGodMcaurAGTUKmJwhNnu) | 3:17 | 2023-09-27 | 2023-11-30 |
 | [The Crash](https://open.spotify.com/track/4f1G1qCi6e0lZFuIQM0b45) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [The Crash](https://open.spotify.com/album/3OTgdAIT6rchJJ59kPLlvB) | 2:19 | 2024-10-23 | 2025-01-16 |
@@ -3058,6 +3062,7 @@
 | [Worse Than Gone](https://open.spotify.com/track/7a0PMim6XfCz44p9CXGMef) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Worse Than Gone](https://open.spotify.com/album/19On2Q8HRB5G727kA8FNh2) | 3:32 | 2023-03-22 | 2023-05-04 |
 | [Worse Than Me](https://open.spotify.com/track/0hz3RUf0ccVcE7R9K4avV7) | [Jess Thristan](https://open.spotify.com/artist/2rtfPkaYolh8brr0j5MVuM) | [Worse Than Me](https://open.spotify.com/album/1lMUy1PTZ6YgHo7TkAX30M) | 3:35 | 2022-08-17 | 2022-09-29 |
 | [Worth the Hurt](https://open.spotify.com/track/2aGGuuXLCCmSKGhUU1u5R0) | [Sarah Lake](https://open.spotify.com/artist/5CFrJThh3hNdK5iDk7iLZq) | [Worth the Hurt](https://open.spotify.com/album/3fRnM9fnSTj9X4QYCU6qNb) | 3:27 | 2024-01-31 | 2024-02-29 |
+| [Worth The Trouble](https://open.spotify.com/track/30QcVMe9zfgB9GlOriR2pw) | [Chandler Walters](https://open.spotify.com/artist/4VJ3gGXuWyC9TB0eTmg4oc) | [Worth The Trouble](https://open.spotify.com/album/1X8rqUtyZyRmfOjTiHPfmM) | 3:18 | 2025-05-16 |  |
 | [Worth The Trouble](https://open.spotify.com/track/5zcg33W6SgPymegTUVI8uo) | [Marisa McKaye](https://open.spotify.com/artist/0fHHqRhyzE4VquF6JrYGar) | [Worth The Trouble](https://open.spotify.com/album/52UEni2D8l9WcfSQsx09yo) | 2:38 | 2022-01-12 | 2022-02-03 |
 | [Worth The Whiskey](https://open.spotify.com/track/2OhqkT0ogNiTUxmNdrxeny) | [Jillian Cardarelli](https://open.spotify.com/artist/5VZQk4UsyWsh4lq9tm7fKP) | [Worth The Whiskey](https://open.spotify.com/album/5qGezEabo3dkfSd1yToHs8) | 2:59 | 2024-05-15 | 2024-07-04 |
 | [Would Have Loved Her](https://open.spotify.com/track/1LNMNr3woXIQ6lobNH7sgl) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Would Have Loved Her](https://open.spotify.com/album/70zK7EBkxmXrVg8bFIjBTl) | 3:16 | 2021-12-01 | 2022-01-13 |

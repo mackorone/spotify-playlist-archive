@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 221017,
+  "num_followers": 221160,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -11,8 +11,8 @@
     {
       "added_at": "2025-05-02 03:00:38",
       "album": {
-        "name": "Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!",
-        "url": "https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v"
+        "name": "EL MAGO Y LA NUEVA / Zapada EN VIVO en UN POCO DE RUIDO!",
+        "url": "https://open.spotify.com/album/2mtYxQB3NcPRScMewPQTAo"
       },
       "artists": [
         {
@@ -24,13 +24,13 @@
           "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
         },
         {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
         }
       ],
-      "duration_ms": 132804,
-      "name": "Yo Era",
-      "url": "https://open.spotify.com/track/3n6EihEumKlLky7mfeOj71"
+      "duration_ms": 110937,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/5g2Jqe1D2qnZc6LcvWL3e1"
     },
     {
       "added_at": "2025-05-02 03:00:38",
@@ -623,8 +623,8 @@
     {
       "added_at": "2025-05-02 03:00:38",
       "album": {
-        "name": "EL MAGO Y LA NUEVA / Zapada EN VIVO en UN POCO DE RUIDO!",
-        "url": "https://open.spotify.com/album/2mtYxQB3NcPRScMewPQTAo"
+        "name": "Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!",
+        "url": "https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v"
       },
       "artists": [
         {
@@ -636,13 +636,13 @@
           "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
         },
         {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
-      "duration_ms": 110937,
-      "name": "Te Vas a Arrepentir",
-      "url": "https://open.spotify.com/track/5g2Jqe1D2qnZc6LcvWL3e1"
+      "duration_ms": 132804,
+      "name": "Yo Era",
+      "url": "https://open.spotify.com/track/3n6EihEumKlLky7mfeOj71"
     },
     {
       "added_at": "2025-05-02 03:00:38",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-05-02 03:00:38",
       "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
+    },
+    {
+      "added_at": "2025-05-02 03:00:38",
+      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -1135,6 +1151,30 @@
       "duration_ms": 287320,
       "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
       "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
+    },
+    {
+      "added_at": "2025-05-02 03:00:38",
+      "album": {
+        "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
+        "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
+      },
+      "artists": [
+        {
+          "name": "Los Lamas",
+          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
+        },
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        },
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 362235,
+      "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
+      "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
     },
     {
       "added_at": "2025-05-02 03:00:38",
@@ -1163,46 +1203,6 @@
       "duration_ms": 291678,
       "name": "Atorrante (Luna Park) - En Vivo",
       "url": "https://open.spotify.com/track/4OMKZ5MG6GkzMAo1L9OeWL"
-    },
-    {
-      "added_at": "2025-05-02 03:00:38",
-      "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
-      },
-      "artists": [
-        {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
-        }
-      ],
-      "duration_ms": 239307,
-      "name": "Mujer C\u00f3smica - En Vivo",
-      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
-    },
-    {
-      "added_at": "2025-05-02 03:00:38",
-      "album": {
-        "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
-        "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
-      },
-      "artists": [
-        {
-          "name": "Los Lamas",
-          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
-        },
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        },
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 362235,
-      "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
-      "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
     }
   ],
   "unique_name": "Vivo de Cumbia",

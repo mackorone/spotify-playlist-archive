@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-99 songs - 4 hr 46 min
+100 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Fossils](https://open.spotify.com/track/2ZtQgrIztmjQwyewLyvDmm) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Ammonite \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BKrDhnU8yzYnNYbWoOHg0) | 5:40 | 2022-07-22 | 2024-04-19 |
 | [Fossils \(From the "Ammonite" Soundtrack\)](https://open.spotify.com/track/4zssgPwXowdwLZaJujelvV) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Fossils \(From the "Ammonite" Soundtrack\)](https://open.spotify.com/album/2wNkJ0bZI6Zv92SPLxAmtz) | 5:40 | 2021-11-19 |  |
 | [Frank Gehry](https://open.spotify.com/track/7BaosKNwKG6icbPSpNPg2y) | [Mark Isham](https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI) | [A Family Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1oMmTmUhk9eAgaU2ls8gjz) | 2:13 | 2021-11-19 |  |
+| [Gabriel's Oboe \- From "The Mission"](https://open.spotify.com/track/1S7Y0vjpGy41LR8hjLvBSy) | [Metamorphose String Orchestra](https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe), [Pavel Lyubomudrov](https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE), [Mikael Samsonov](https://open.spotify.com/artist/5KXxg0B1k9cA7LPqFXA3Me) | [Gabriel's Oboe \(From "The Mission"\)](https://open.spotify.com/album/1z7hGs6ieBibmL6bx98IBY) | 2:27 | 2025-05-16 |  |
 | [Han Solo and the Princess \(From "The Empire Strikes Back"\)](https://open.spotify.com/track/1fFZKP6YvpXU6Fg9i5Tte3) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Simone Pedroni](https://open.spotify.com/artist/0ikPH8Vl2teD0cHKXdCif3), [Sara Andon](https://open.spotify.com/artist/23rO8ggbeVwWDkyihkgP4Q), [Cécilia Tsan](https://open.spotify.com/artist/2ihxwWQ6su9af0O9e9Ye7f) | [John Williams: Reimagined](https://open.spotify.com/album/0i6O16w0CWrSFE8xurnoge) | 6:14 | 2024-10-04 |  |
 | [Harry and Ginny](https://open.spotify.com/track/25XuCuq4K715NKLOohw7ZM) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6s9twOs9wMKOEluU5dkBE0) | 1:43 | 2022-07-22 | 2024-04-19 |
 | [Harry and Ginny](https://open.spotify.com/track/2iX2KVy2X2QEhTqx4ebOeO) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5gI4aiUCMxTkrjEeXDbybG) | 1:43 | 2021-11-19 |  |

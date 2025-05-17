@@ -2877,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "moving on",
+        "url": "https://open.spotify.com/album/3Lr4ujf2aw4Z1ResHBPv5C"
+      },
+      "artists": [
+        {
+          "name": "Asher Finlon",
+          "url": "https://open.spotify.com/artist/5eMaMRRedFIFXm2o3NtOQB"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220820,
+      "name": "moving on",
+      "url": "https://open.spotify.com/track/4Fv5w4w5rIVMY29GECwlpP"
+    },
+    {
+      "album": {
         "name": "Show & Tell",
         "url": "https://open.spotify.com/album/2AoyVm8A8ZfkbRzij3qq7i"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Our editors' top picks for the best Jazz songs of the year\. Cover: Keyon Harrold
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,084 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,099 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 43 | [Closer To Me](https://open.spotify.com/track/3yITpbC4M82v7kltuzIqE0) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Run Your Race](https://open.spotify.com/album/13092Bs8jIFLW1bekwRpa2) | 4:12 |
 | 44 | [Eyes On Me](https://open.spotify.com/track/34JyrTbJjkkZ1thmw9aMkw) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral](https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO) | 4:41 |
 | 45 | [Tension](https://open.spotify.com/track/6elOKmr4055wAIH5Cr2L1m) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Hoodna Orchestra](https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk) | [Tension](https://open.spotify.com/album/5tvEnio4mqyFoCXcSypOAe) | 4:57 |
-| 46 | [Courage](https://open.spotify.com/track/3sMaTKZQft9ZFboRvbxiyZ) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK) | [Brightlight](https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk) | 3:28 |
+| 46 | [Courage](https://open.spotify.com/track/3sMaTKZQft9ZFboRvbxiyZ) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Brightlight](https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk) | 3:28 |
 | 47 | [The Cool \(Constantly Operating On Love\)](https://open.spotify.com/track/6ILjgccPqtpAizFpj4k8da) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [Composers Collective: Beyond The Jukebox](https://open.spotify.com/album/1CK1mfq11ZVb2ILzQ82tcl) | 3:39 |
 | 48 | [Edge of Time](https://open.spotify.com/track/5PFO46OFNYAQca2aknpWXQ) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H), [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK), [Chad Taylor](https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt), [Michael Wimberly](https://open.spotify.com/artist/6bYjLq7gxn1ppARKvClYbk), [Ken Filiano](https://open.spotify.com/artist/2OaNxBGsO4k7VvISKSm38d) | [Infinite Love Infinite Tears](https://open.spotify.com/album/5fYJtn7UA04pF2Jd76dF6p) | 5:25 |
 | 49 | [The Beauty of Everyday Life](https://open.spotify.com/track/7mKR8BgOy8xDDlKTsRlvlX) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Valencia](https://open.spotify.com/album/0lxIxueK2Lsq8nrFAYpK0k) | 6:19 |

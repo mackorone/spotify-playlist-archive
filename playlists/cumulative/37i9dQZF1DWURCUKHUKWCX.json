@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Canton",
+        "url": "https://open.spotify.com/album/5w9c6kAouFX6I1mrdVVpYf"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325479,
+      "name": "Canton",
+      "url": "https://open.spotify.com/track/4MLZUtTBE5eTu7Gv54pPZn"
+    },
+    {
+      "album": {
         "name": "Clarity (Single)",
         "url": "https://open.spotify.com/album/5tLsGeXebqlhZgFeODIgWo"
       },
@@ -800,6 +818,24 @@
       "duration_ms": 193157,
       "name": "cohesion",
       "url": "https://open.spotify.com/track/4IF2sXer3MvDQT7JHo546V"
+    },
+    {
+      "album": {
+        "name": "Counting Waves",
+        "url": "https://open.spotify.com/album/6jhorndS7avJy8hVTX5JEK"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "Counting Waves",
+      "url": "https://open.spotify.com/track/2mMSkPfVkJhCXkKsXlkiZ2"
     },
     {
       "album": {
@@ -916,6 +952,24 @@
       "duration_ms": 204933,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/2MhXwjK9gnKjfSAfdB9zrW"
+    },
+    {
+      "album": {
+        "name": "Dusk's Embrace",
+        "url": "https://open.spotify.com/album/3SxcPlJIjM1PnDVY6iRM8y"
+      },
+      "artists": [
+        {
+          "name": "Roger Swift",
+          "url": "https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174624,
+      "name": "Dusk's Embrace",
+      "url": "https://open.spotify.com/track/62bfMOuOf4z9IxlhVkzRZW"
     },
     {
       "album": {
@@ -1125,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Expanded View",
+        "url": "https://open.spotify.com/album/2LiyqT4tBewOT4RXL8uB8d"
+      },
+      "artists": [
+        {
+          "name": "Lisa Kriegler",
+          "url": "https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188569,
+      "name": "Expanded View",
+      "url": "https://open.spotify.com/track/20SsPVIMLxV68siltg1lr8"
+    },
+    {
+      "album": {
         "name": "Eyes Closed And Traveling",
         "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
       },
@@ -1216,7 +1288,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 215986,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4cKE0iJC8ObjDB5i8F5nNN"
@@ -1329,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/459NgmmRfSSJlCiEGe9q5R"
+      },
+      "artists": [
+        {
+          "name": "Jacob M\u00fchlrad",
+          "url": "https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/6UVZgqnzhEzEo3ErZ7p4gN"
+    },
+    {
+      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
       },
@@ -1398,6 +1488,24 @@
       "duration_ms": 307560,
       "name": "Halston",
       "url": "https://open.spotify.com/track/7AbVRoHrQB3JMHC8J1P3Hi"
+    },
+    {
+      "album": {
+        "name": "Eden (I) - Awakening",
+        "url": "https://open.spotify.com/album/2jfm2TfdHOIpW6gmLao595"
+      },
+      "artists": [
+        {
+          "name": "Dirk Maassen",
+          "url": "https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/0SxEWEmctBmCBy8ydATC9K"
     },
     {
       "album": {
@@ -1528,6 +1636,24 @@
       "duration_ms": 199467,
       "name": "ICARUS",
       "url": "https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx"
+    },
+    {
+      "album": {
+        "name": "Idea 10",
+        "url": "https://open.spotify.com/album/537DpzZYvcwyR7Fvl3QnXE"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Idea 10",
+      "url": "https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9"
     },
     {
       "album": {
@@ -1694,6 +1820,24 @@
       "duration_ms": 133199,
       "name": "La Recherche - Piano Solo Version",
       "url": "https://open.spotify.com/track/2SVVpg9cb44cBFRewo9Cn5"
+    },
+    {
+      "album": {
+        "name": "Landing",
+        "url": "https://open.spotify.com/album/7JenRp2q8kUBup5uvgDY6i"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145657,
+      "name": "Landing",
+      "url": "https://open.spotify.com/track/0oyePmjxEEiwBuoVUKBkuw"
     },
     {
       "album": {
@@ -2080,7 +2224,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 191901,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV"
@@ -2268,6 +2412,24 @@
       "duration_ms": 271387,
       "name": "Mirror Lake",
       "url": "https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9"
+    },
+    {
+      "album": {
+        "name": "Misty Breeze",
+        "url": "https://open.spotify.com/album/0ntvZHgJQKUFprWquOfkJ2"
+      },
+      "artists": [
+        {
+          "name": "Keane Wang",
+          "url": "https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Misty Breeze",
+      "url": "https://open.spotify.com/track/3tV0bWWJ0eEGXzQTYWqb3Q"
     },
     {
       "album": {
@@ -2688,7 +2850,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 279533,
       "name": "Oil on Wood",
       "url": "https://open.spotify.com/track/1Lh7HHShT4nchZts6JPyW2"
@@ -3179,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Prinsengracht",
+        "url": "https://open.spotify.com/album/46yAo5yaB2YU3VP2lCHiMK"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114093,
+      "name": "Prinsengracht",
+      "url": "https://open.spotify.com/track/5X87KWuJMMu4mDRZKjWQnu"
+    },
+    {
+      "album": {
         "name": "Debussy: Bruy\u00e8res (Home Session)",
         "url": "https://open.spotify.com/album/4BXFAXaREZ96i733A132um"
       },
@@ -3194,7 +3374,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 216061,
       "name": "Pr\u00e9ludes / Book 2, L. 123: 5. Bruy\u00e8res - Home Session",
       "url": "https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7"
@@ -3252,6 +3432,24 @@
       "duration_ms": 152746,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
+    },
+    {
+      "album": {
+        "name": "Renewal",
+        "url": "https://open.spotify.com/album/5KRuFrrpetvnsndUky4AKX"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193321,
+      "name": "Renewal",
+      "url": "https://open.spotify.com/track/4Rn2cOOeUP3tZnRV05OKOY"
     },
     {
       "album": {
@@ -3435,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/4yrMoHNJp03d7pe7xQsi0K"
+      },
+      "artists": [
+        {
+          "name": "George Hart",
+          "url": "https://open.spotify.com/artist/6OxbaDDKrLN3DgWrl4JHS6"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120412,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/0izNvQzx7PGkgDFRypvjjt"
+    },
+    {
+      "album": {
         "name": "Siciliana (from \"The Tree of Life\", Arr. for Piano from Antiche Danze, Suite No. 3 by Ottorino Respighi)",
         "url": "https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah"
       },
@@ -3472,6 +3688,24 @@
       "duration_ms": 143000,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/2hwV3gqCQ0hmS8sp8vXioj"
+    },
+    {
+      "album": {
+        "name": "Solas",
+        "url": "https://open.spotify.com/album/2XZXXXuThQ8JwPjoTcGIkF"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Solas",
+      "url": "https://open.spotify.com/track/0yfMign5fsLtw5I4pK73ge"
     },
     {
       "album": {
@@ -3520,6 +3754,24 @@
       "duration_ms": 254173,
       "name": "Some",
       "url": "https://open.spotify.com/track/28gRlopNz7IIWwiH32poAb"
+    },
+    {
+      "album": {
+        "name": "Somnolence",
+        "url": "https://open.spotify.com/album/31YAeYmOrhSi1IdIjVK2dI"
+      },
+      "artists": [
+        {
+          "name": "Tom Kristiaan",
+          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208328,
+      "name": "Somnolence",
+      "url": "https://open.spotify.com/track/2RoLuvXPsIOoOebGERAnzs"
     },
     {
       "album": {
@@ -4075,6 +4327,24 @@
     },
     {
       "album": {
+        "name": "Polar (Traveler\u2019s Log)",
+        "url": "https://open.spotify.com/album/1WoR3gL3aEAoIHgZmBQN6j"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143667,
+      "name": "T\u00fandra",
+      "url": "https://open.spotify.com/track/3D7BDoRe1f9ftfAUAq5guz"
+    },
+    {
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/6dsM7g1KZFLamGuezt9wvs"
       },
@@ -4296,10 +4566,28 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 208101,
       "name": "You Name It (Paris)",
       "url": "https://open.spotify.com/track/11UzclAxRYv3zNqEVd7ci1"
+    },
+    {
+      "album": {
+        "name": "Where We Are (Unity Edition)",
+        "url": "https://open.spotify.com/album/4ritLJ4dx1ORPyARuasLjB"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225612,
+      "name": "You\u2019re My Everything",
+      "url": "https://open.spotify.com/track/5RuQkvYwAUoEeUeIGUslCi"
     },
     {
       "album": {

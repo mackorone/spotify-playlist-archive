@@ -441,6 +441,28 @@
     },
     {
       "album": {
+        "name": "3XL",
+        "url": "https://open.spotify.com/album/0gpV00scuKXAA6m5GH6wvd"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/6wVEuSE1LpdkJjGOfcHDof"
+    },
+    {
+      "album": {
         "name": "CESSY 2PIECE",
         "url": "https://open.spotify.com/album/2V9eYBqCGlGCOuUHcc6lH7"
       },
@@ -1709,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "VIBEST4R EP",
+        "url": "https://open.spotify.com/album/7rCXMRr1MrMVijZaUDuYjd"
+      },
+      "artists": [
+        {
+          "name": "Naka",
+          "url": "https://open.spotify.com/artist/52DXXortL8zEG5MqscRQmn"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Pull up",
+      "url": "https://open.spotify.com/track/1JvqN0vUrSfB01bQoGexLn"
+    },
+    {
+      "album": {
         "name": "R-, Pt. 2 (Acoustic Version)",
         "url": "https://open.spotify.com/album/4pjezrOHcAXQkBoe0rw0Zz"
       },
@@ -1844,7 +1884,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 161291,
       "name": "Samory",
       "url": "https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM"
@@ -1986,6 +2026,28 @@
       "duration_ms": 265057,
       "name": "SOS (Sex on Sight) (feat. USHER)",
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
+    },
+    {
+      "album": {
+        "name": "Soul Ties (Demo)",
+        "url": "https://open.spotify.com/album/5xvImUpMk8qnHXmYllXiy1"
+      },
+      "artists": [
+        {
+          "name": "Riki Gathariki",
+          "url": "https://open.spotify.com/artist/5Ke08pmn00O34s78yQG5Ko"
+        },
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193663,
+      "name": "Soul Ties (Demo)",
+      "url": "https://open.spotify.com/track/7iDCTx1dbazhd1s7c0tbRK"
     },
     {
       "album": {
@@ -2396,7 +2458,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 205032,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m"
@@ -2738,7 +2800,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 228047,
       "name": "YES IT IS",
       "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"

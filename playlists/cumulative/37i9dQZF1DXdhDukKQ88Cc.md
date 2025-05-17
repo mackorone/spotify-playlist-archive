@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-329 songs - 14 hr 10 min
+331 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2 Sider](https://open.spotify.com/track/0H0YR67BTGnCM45tmqvt2Z) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [2 Sider](https://open.spotify.com/album/6ZDIPlUNce9ZHxIzT0b4ka) | 2:16 | 2024-10-24 | 2024-11-08 |
 | [2 Stepper Freestyle](https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [2 Stepper Freestyle](https://open.spotify.com/album/3R1WXSHdUszaP4eL8yQrQy) | 3:20 | 2024-12-26 |  |
 | [200](https://open.spotify.com/track/7IUN4edVylAxDiesAbQe5W) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [200](https://open.spotify.com/album/77BMdrzH3RDuKDM9ZkpPL2) | 2:19 | 2025-02-20 |  |
+| [21 Spørgsmål](https://open.spotify.com/track/4tX4xsJ0rJd2vDSayejKAT) | [Navie](https://open.spotify.com/artist/6t5hxMCKSF8lSzt1nscUDW) | [21 Spørgsmål](https://open.spotify.com/album/7n1VOaaV7aJy7CPlTKj8TF) | 3:02 | 2025-05-16 |  |
 | [33](https://open.spotify.com/track/5pRUX652p9FfIQVmJNtz9d) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS), [Vince Keys](https://open.spotify.com/artist/4udv1bgrUxxKrVg566urM6) | [33](https://open.spotify.com/album/5Ytdk3d0W8f27FngQnDFqC) | 2:30 | 2024-10-03 | 2025-02-28 |
 | [4 LIFE](https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [4 LIFE](https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL) | 2:46 | 2024-09-05 | 2024-11-08 |
 | [4 LIFE](https://open.spotify.com/track/3oR0iJiqjO5onYOs8ThQa1) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [4 LIFE](https://open.spotify.com/album/2ZSarbwHOnvmj19c4jiVey) | 2:28 | 2023-09-21 | 2024-05-14 |
@@ -149,6 +150,7 @@
 | [Gynger](https://open.spotify.com/track/7AhBe8AbklsfzpM1XM6UAn) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Gynger](https://open.spotify.com/album/3lM6gpWLQlZjT8WxjhMXzn) | 2:28 | 2025-04-17 | 2025-05-09 |
 | [Gøre Det Igen](https://open.spotify.com/track/1BOgF6FLheiCR5YLnkd36w) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Gøre Det Igen](https://open.spotify.com/album/6ycmMHSu86WJzuFIdslzTL) | 2:37 | 2025-04-10 |  |
 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 | 2024-09-12 |  |
+| [Handsome \(feat\. Benjamin Hav, JOSVA & Gilli\)](https://open.spotify.com/track/5nASqWcjcInzxUXi85drKk) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Handsome \(feat\. Benjamin Hav, JOSVA & Gilli\)](https://open.spotify.com/album/3VdtcZKWLij2eQGc75CElV) | 2:31 | 2025-05-16 |  |
 | [HANNIBAL & JERRY](https://open.spotify.com/track/7IKMflhC3oROTEwUFzH5PW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [HANNIBAL & JERRY](https://open.spotify.com/album/27UpFPOvaxNwCNjcRKGgbH) | 2:02 | 2024-02-22 | 2024-04-05 |
 | [Har Du Det Sådan Her? \(feat\. KESI\)](https://open.spotify.com/track/5UV3zCn6evCz5PQMBvyAwC) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Har Du Det Sådan Her? \(feat\. KESI\)](https://open.spotify.com/album/3JG8CJrfWElU5fS5UPqzx0) | 2:20 | 2023-11-10 | 2024-01-19 |
 | [Har Hørt Dig](https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Har Hørt Dig](https://open.spotify.com/album/3gbegKHxsPWWgVtej2tTQw) | 2:13 | 2024-10-10 |  |
@@ -201,7 +203,7 @@
 | [Livet Er Kort](https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:20 | 2024-02-22 | 2024-05-14 |
 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 | 2025-01-09 |  |
 | [LYS \(ILLUMINERET\)](https://open.spotify.com/track/74ev7qWjlvtyq1ymgECaZK) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [LYS \(ILLUMINERET\)](https://open.spotify.com/album/23DujRMUDtm5Q1DLrEA7X1) | 2:50 | 2025-03-27 | 2025-04-18 |
-| [Lønningsdag](https://open.spotify.com/track/04oUfyBc6pT1svmfkYnsZU) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Lønningsdag](https://open.spotify.com/album/6lKquTEVqANfNikVyLGSsu) | 2:39 | 2025-01-09 |  |
+| [Lønningsdag](https://open.spotify.com/track/04oUfyBc6pT1svmfkYnsZU) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Lønningsdag](https://open.spotify.com/album/6lKquTEVqANfNikVyLGSsu) | 2:39 | 2025-01-09 | 2025-05-17 |
 | [M.I.A](https://open.spotify.com/track/3OE1bHktXi3IYPCe45DE7c) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [M.I.A](https://open.spotify.com/album/05GqTpifJBrd0569culZSL) | 2:18 | 2025-03-27 | 2025-04-18 |
 | [M.I.A.](https://open.spotify.com/track/2DuNtzbWVQW07iQB4SM5G4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [M.I.A.](https://open.spotify.com/album/7x7gT4ktG3CfZelluqSQSx) | 2:36 | 2024-06-27 | 2024-09-13 |
 | [MADNESS \(feat\. Artigeardit\)](https://open.spotify.com/track/2WuXxMvcuRqrfXAMXtXM9s) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [BABA BUSINESS 3 \(DELUXE\)](https://open.spotify.com/album/4JITSDwkgMxh2VK5ScfMEl) | 2:18 | 2024-12-26 | 2025-04-18 |
@@ -287,7 +289,7 @@
 | [Stafet](https://open.spotify.com/track/0FEo0ybt3zFoFc9D9GKq7n) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Stafet](https://open.spotify.com/album/6ArGpxENQEFyUSgmlsp1EP) | 2:25 | 2025-04-25 |  |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 | 2024-04-05 |
 | [Stemmer](https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Stemmer](https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P) | 2:27 | 2024-02-08 | 2024-10-04 |
-| [Steve O](https://open.spotify.com/track/2x355lU17q5QEemPuj2eba) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Steve O](https://open.spotify.com/album/0F9k9AE4Mbm19VpveE8grZ) | 2:09 | 2025-04-10 |  |
+| [Steve O](https://open.spotify.com/track/2x355lU17q5QEemPuj2eba) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Steve O](https://open.spotify.com/album/0F9k9AE4Mbm19VpveE8grZ) | 2:09 | 2025-04-10 | 2025-05-17 |
 | [Stime \(feat\. KESI\)](https://open.spotify.com/track/5rBJLnaIpZ2NJQTWmjJNYO) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:29 | 2025-01-16 |  |
 | [Storebror](https://open.spotify.com/track/0GUOGpGfwEXga77OmPDfqx) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Storebror](https://open.spotify.com/album/79D7m9ctuf7uIlhSjS6Lgk) | 2:40 | 2025-04-17 |  |
 | [Svaneflex](https://open.spotify.com/track/5HPCoFIPcckTMWF0wc6ncG) | [Sondergaard](https://open.spotify.com/artist/059d96CtYS9700ezKQWsFz) | [Svaneflex](https://open.spotify.com/album/0dOVDYCMrGpRngvk16BPmU) | 2:02 | 2024-04-29 | 2024-06-22 |

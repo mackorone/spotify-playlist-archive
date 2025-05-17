@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 25260,
+  "num_followers": 25309,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "El Canario",
+          "url": "https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT"
+        }
+      ],
+      "duration_ms": 349493,
+      "name": "Disc\u00falpeme Se\u00f1ora - Live Version",
+      "url": "https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "40 Anniversary (Live Hits)",
         "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 286573,
       "name": "Lobo Domesticado \"En Vivo\"",
       "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "El Canario",
-          "url": "https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT"
-        }
-      ],
-      "duration_ms": 349493,
-      "name": "Disc\u00falpeme Se\u00f1ora - Live Version",
-      "url": "https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS"
     },
     {
       "added_at": "2024-09-24 20:35:55",

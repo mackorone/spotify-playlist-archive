@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: فريد
 
-1,468 songs - 3 day 10 hr 4 min
+1,469 songs - 3 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1146,6 +1146,7 @@
 | [حياتي ناقصة](https://open.spotify.com/track/7fKN49oFs9bw5i9xZLCMCo) | [Mohamed Youssef](https://open.spotify.com/artist/3qVa7avCXcTdFZrXRI5Upz) | [حياتي ناقصة](https://open.spotify.com/album/25tkkJfxvTlOrz7yj6gz03) | 5:14 | 2024-07-11 | 2024-08-29 |
 | [خبط خبط](https://open.spotify.com/track/4yECK82XOZ7UUi50TREPxC) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [خبط خبط](https://open.spotify.com/album/4C85aQZ62amt2opB2Ls8Ti) | 2:27 | 2024-04-11 | 2024-04-26 |
 | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/track/4VBJjLh7pIvW7cTWmmW3DX) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/album/0Lz5buevocRlWNTzBMyIjG) | 2:57 | 2024-06-11 | 2024-07-25 |
+| [خد وقتي كله](https://open.spotify.com/track/4ARfmB3WXlG25MguHryHG7) | [Ahmed Ehab](https://open.spotify.com/artist/3P9Etdmy2JoRlvlelYxZVl) | [خد وقتي كله](https://open.spotify.com/album/2oXIIJQKbJsF6Tf4qkwZ37) | 3:57 | 2025-05-15 |  |
 | [خد يمين](https://open.spotify.com/track/5DMnksJ5Fnl6sH1Df3NvPU) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [خد يمين](https://open.spotify.com/album/6rVush4kEXOUcvcFJU6Wbj) | 1:03 | 2023-08-30 | 2023-12-15 |
 | [خدت بالاسباب](https://open.spotify.com/track/762M3diVKh0EKm7AbCSBna) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [خدت بالاسباب](https://open.spotify.com/album/78uUlxEAp2KfExHFo3JGRe) | 3:18 | 2023-08-28 | 2023-12-19 |
 | [خدتك من حضن الليل](https://open.spotify.com/track/2WXSUuoW3cQJE0Sh6etcH0) | [ELZAYN](https://open.spotify.com/artist/4AkcLmKQ2xKsftpGCfz3HN) | [خدتك من حضن الليل](https://open.spotify.com/album/043Im951kgr3voHxzMGKIz) | 3:33 | 2024-12-13 | 2025-01-25 |

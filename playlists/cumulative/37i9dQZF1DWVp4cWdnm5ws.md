@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2025.
+> Discover new artists on the horizon this 2025\. Cover: JERGE
 
-261 songs - 15 hr 39 min
+265 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 | 2024-04-02 | 2025-03-28 |
 | [Dream](https://open.spotify.com/track/4nQvPAV3gGFsOMSfQPdOT8) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Dream](https://open.spotify.com/album/1JsToJpmZ9t5GTJcSladwB) | 2:38 | 2022-03-24 | 2023-04-14 |
 | [Dulo](https://open.spotify.com/track/25Q92xh5onboBVpiOyFL9X) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Dulo](https://open.spotify.com/album/21sbZvbtI5Fg2LjJ6AIxRB) | 4:43 | 2023-11-29 | 2024-01-12 |
+| [Ediwag](https://open.spotify.com/track/2XinWhSXtDDgwPKR0cxjjE) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Ediwag](https://open.spotify.com/album/1qUvXmwbKYMLtrDXJ1qmBf) | 4:08 | 2025-05-16 |  |
 | [Eleven: Eleven](https://open.spotify.com/track/6AIX4p3MIsNw1ESu5UtITG) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:22 | 2022-09-29 | 2023-04-14 |
 | [Eleven:Eleven](https://open.spotify.com/track/5DqYDCnrEsn1XwcvgFnzuY) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Eleven:Eleven](https://open.spotify.com/album/6zHBS4tfhaCbt3MtpIh88I) | 2:22 | 2022-03-24 | 2022-10-15 |
 | [ERE](https://open.spotify.com/track/1sX7doViqq2BqfPbk80bwl) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Aypi](https://open.spotify.com/artist/6M1HtgIYfE2rpDB8ZVhVWa) | [ERE](https://open.spotify.com/album/4znUJaAlO9iG8Lu09spdqg) | 3:18 | 2021-11-25 | 2022-03-25 |
@@ -76,6 +77,7 @@
 | [Fantasy](https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Fantasy](https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL) | 3:41 | 2022-03-24 | 2023-04-14 |
 | [Favorite Song](https://open.spotify.com/track/6pb9teTllbc7fiDrj4FqjM) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Favorite Song](https://open.spotify.com/album/7KZALqdD9hM0Fq5eeauP5r) | 3:17 | 2024-10-04 | 2025-03-28 |
 | [Fly You to the Moon](https://open.spotify.com/track/0airDlKC7gQNcooMHyIydT) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Fly You to the Moon](https://open.spotify.com/album/5GHJ6bygyiZAtYFjYgIUjd) | 2:52 | 2025-03-27 |  |
+| [Flying Kiss](https://open.spotify.com/track/7FM8EdwFO6n4v6vFoHpGDE) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Flying Kiss](https://open.spotify.com/album/36QzRszqEQuFj7USj7A6eA) | 3:25 | 2025-05-16 |  |
 | [Fools](https://open.spotify.com/track/6DrkG6Um9xknX1s1EEAiOt) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fools](https://open.spotify.com/album/72KInjGAd2d3lnnUfq4kSH) | 4:58 | 2021-11-25 | 2022-03-25 |
 | [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-03-27 |  |
 | [Gayuma](https://open.spotify.com/track/6afFPpTmuVBwZ8OpCSBSYe) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 4:12 | 2023-04-13 | 2024-04-03 |
@@ -132,6 +134,7 @@
 | [Light My Fire](https://open.spotify.com/track/45A3RfixQDDqT4QCA77Vk7) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [BGYO](https://open.spotify.com/album/6991pQ2aa8RWzSCobBxGf4) | 3:35 | 2025-03-27 |  |
 | [Like a Superstar](https://open.spotify.com/track/6TrjoufYJbf1I4CUMUUQs2) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [YSANYGO WORLDWIDE Vol\. 1](https://open.spotify.com/album/0wtl3Pe5chEoHUxkw1TVbj) | 2:22 | 2024-12-03 | 2025-03-28 |
 | [Lisan](https://open.spotify.com/track/0EeDITljBgGZFUuQAH6Vdu) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Lisan](https://open.spotify.com/album/0TkyxB93NG1E8Hhf34mwCY) | 4:27 | 2023-08-09 | 2024-04-03 |
+| [little sunny baby](https://open.spotify.com/track/2DLIiAWaKquMARkg1k6RpG) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [little sunny baby](https://open.spotify.com/album/5j9LCrE1Pfu23acGv9nXR4) | 2:11 | 2025-05-16 |  |
 | [LOKA](https://open.spotify.com/track/64WXbwaUOH3McbHrcxLe7l) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [LOKA](https://open.spotify.com/album/0xpuBL6ayhNOiewu8ftmXy) | 2:33 | 2023-11-17 | 2024-04-03 |
 | [Love](https://open.spotify.com/track/69Ym47oc2XjOy700ISvUNL) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Love](https://open.spotify.com/album/6tMTYfZYymR2sXW117w0nh) | 3:36 | 2025-03-27 |  |
 | [Made For All](https://open.spotify.com/track/6Qc9WXhHeRV5RlSdR72DNo) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Made For All](https://open.spotify.com/album/0SOSnP1ZoEnNwRg3ioo4C7) | 2:00 | 2022-09-08 | 2022-12-01 |
@@ -229,6 +232,7 @@
 | [TALKSHIT](https://open.spotify.com/track/6wWxz6Qg8OUnuntgSkeP4N) | [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [TALKSHIT](https://open.spotify.com/album/09mUig5tOtFDbYbHmPAk8H) | 2:06 | 2025-03-27 |  |
 | [Tayo Parin Talaga](https://open.spotify.com/track/5Vpb78jHDtObL7BSvcuiUn) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Tayo Parin Talaga](https://open.spotify.com/album/0l8XANffH6H749BxHExgDk) | 2:55 | 2022-09-16 | 2022-12-01 |
 | [Telepono](https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Telepono](https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo) | 3:38 | 2025-03-27 |  |
+| [Telepono \(feat\. Clara Benin\)](https://open.spotify.com/track/2fgvCvfyOjemSAwyzC8rjE) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ), [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Telepono EP](https://open.spotify.com/album/4TV8FbUQ89itYDPRrSmhor) | 3:41 | 2025-05-16 |  |
 | [THAT'S MY BABY](https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THAT'S MY BABY](https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe) | 3:55 | 2023-04-13 | 2024-04-03 |
 | [THAT'S MY BABY](https://open.spotify.com/track/4RNvgyQgvmZYPJxnNEHfS3) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [HAPPY ACCIDENTS VOL\. 1](https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE) | 3:55 | 2023-11-29 | 2024-01-12 |
 | [The Baddest](https://open.spotify.com/track/7q9NUxTI5vhWNBq94PYURo) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Baddest](https://open.spotify.com/album/686RAST484tdwr0GNYZRJA) | 3:16 | 2021-11-25 | 2022-03-25 |

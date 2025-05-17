@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Titi DJ, Cakra Khan
 
-470 songs - 1 day 7 hr 0 min
+472 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Lebur](https://open.spotify.com/track/4gbH6lV77i8Vmqf8INVoMz) | [Nina Tamam](https://open.spotify.com/artist/5QP4SlYmKAKNBUVlCGa2z5) | [Lebur](https://open.spotify.com/album/6qn7hYsqhSD31Wz17fl8TM) | 4:59 | 2024-06-27 | 2024-07-27 |
 | [Legawa](https://open.spotify.com/track/03AwH2SWxG5euxufW8vjlS) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Legawa](https://open.spotify.com/album/2e3TFjXcUvnjcYaaXkUU27) | 5:11 | 2024-08-15 | 2024-10-11 |
 | [Lewat Semesta \- OST\. TABAYYUN](https://open.spotify.com/track/4p30SyLpRQVG3NnydGSDnu) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Lewat Semesta \(OST\. TABAYYUN\)](https://open.spotify.com/album/2zGRJnutXLCACHo3LAt5ob) | 4:07 | 2025-02-06 |  |
+| [Liang Yang Sama](https://open.spotify.com/track/0m4X8CX1iGMA2SGoi9FL18) | [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC), [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [Liang Yang Sama](https://open.spotify.com/album/4f0IOqaK5A5HdURObwwdFL) | 4:07 | 2025-05-16 |  |
 | [Lihat Saja Nanti](https://open.spotify.com/track/15xxsm2qdanGPhzBCmVRXA) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Lihat Saja Nanti](https://open.spotify.com/album/0osKTPgd5Z9JGk6yja3nD0) | 3:19 | 2024-10-10 | 2024-11-29 |
 | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75) | 4:27 | 2024-12-05 |  |
 | [Luka Terindah](https://open.spotify.com/track/4D1h0LfksaEtrYxlScOP2T) | [Made Aurellia](https://open.spotify.com/artist/5X5Jcfm3nfIAlpVvQlFbS4) | [Luka Terindah](https://open.spotify.com/album/7oqFzu2rIKw8DkDwiRooQn) | 4:06 | 2025-02-27 | 2025-05-09 |
@@ -459,6 +460,7 @@
 | [Teroesir \(Menunggu Karma\)](https://open.spotify.com/track/4GQy9VyjJCbV3IAM2wOrUM) | [Atiek CB](https://open.spotify.com/artist/70aLfobQfRHIKpTDimluea) | [Teroesir \(Menunggu Karma\)](https://open.spotify.com/album/7yb2QANZR7ifu4wjKld7lm) | 4:44 | 2024-10-24 | 2025-01-10 |
 | [Terpatri](https://open.spotify.com/track/4gIKxP4p2sOcKymttcGMFe) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Terpatri](https://open.spotify.com/album/3iYN2XosoVdgbdGbZSv8JD) | 4:07 | 2025-02-13 | 2025-03-21 |
 | [Tersemogakan](https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tersemogakan](https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi) | 4:14 | 2024-07-04 | 2025-01-10 |
+| [Tertarik Atau Baik](https://open.spotify.com/track/3X63IDIeXYuJakVvB1Wywc) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Merangkai](https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z) | 4:15 | 2025-05-16 |  |
 | [Tilik Jogja](https://open.spotify.com/track/7iH9VvIoUIq0wnqv3cQG4B) | [Citra Scholastika](https://open.spotify.com/artist/1jWIP5sLhDZttQeR0mPffn) | [Tilik Jogja](https://open.spotify.com/album/2VafG6qN9zh4oDF02q9Egy) | 4:40 | 2025-03-27 | 2025-05-16 |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |

@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Alade Ade",
+        "url": "https://open.spotify.com/album/7nd9lBSL5F2pKV583BDh1r"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Alade Ade",
+      "url": "https://open.spotify.com/track/5bh0oljgOyl3rN8ErhqKvx"
+    },
+    {
+      "album": {
         "name": "Alaye Toh Se Gogo",
         "url": "https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a"
       },
@@ -2102,6 +2120,32 @@
       "duration_ms": 194688,
       "name": "Can You Hear Me? (feat. Daiela)",
       "url": "https://open.spotify.com/track/0DdevPBh3T5igMwgsq9Hm4"
+    },
+    {
+      "album": {
+        "name": "CANOPY (feat. Attifaya)",
+        "url": "https://open.spotify.com/album/1Y2wJ0rFDpzSwZRxualxG6"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "AttiFaya",
+          "url": "https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166992,
+      "name": "CANOPY (feat. Attifaya)",
+      "url": "https://open.spotify.com/track/4rgoRhYCCb5Hprx3en869s"
     },
     {
       "album": {
@@ -3854,7 +3898,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 220680,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/4B0tAnf7rBUdb2lvCKJpoU"
@@ -10351,6 +10395,28 @@
     },
     {
       "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN"
+      },
+      "artists": [
+        {
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN"
+    },
+    {
+      "album": {
         "name": "Speak In Tongues",
         "url": "https://open.spotify.com/album/3vTsGoGuFPrXctZmfKQ9HC"
       },
@@ -10954,7 +11020,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 153714,
       "name": "The Matter",
       "url": "https://open.spotify.com/track/5aa9lpv9FjrNBgbomqCH82"

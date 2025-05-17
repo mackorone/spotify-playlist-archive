@@ -4,7 +4,7 @@
 
 > pearl of the week ✨KURT\. & Bella Boo✨
 
-1,857 songs - 4 day 4 hr 9 min
+1,858 songs - 4 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,6 +1027,7 @@
 | [Make Me Feel](https://open.spotify.com/track/2SJGmwgwl2IR5fW3JDKy4g) | [Say So City](https://open.spotify.com/artist/5mUUQC9Jv8EOsqJSG7vWhM), [Joseph Fields](https://open.spotify.com/artist/5g0fBHYvBEEPVxEfIlYcBy) | [Make Me Feel](https://open.spotify.com/album/29CMAC6JA7jn8VbW7fFfle) | 2:30 | 2023-02-23 | 2023-05-12 |
 | [Make Me Whole](https://open.spotify.com/track/2hjkKFr4umuhj1Ru3tmcsO) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [For You](https://open.spotify.com/album/5J4McIA9reqqfM5nopbWHC) | 2:55 | 2025-03-27 |  |
 | [Make Ya Proud](https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Make Ya Proud](https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE) | 3:30 | 2024-03-28 | 2024-04-05 |
+| [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 | 2025-05-16 |  |
 | [Mama Wise Words](https://open.spotify.com/track/0JZwFNRzCSEairZICWIvWf) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Mama Wise Words](https://open.spotify.com/album/7mwUf5e5fD3KgKP1UgF2Ke) | 3:09 | 2023-06-29 | 2023-09-01 |
 | [Many Ways](https://open.spotify.com/track/1ZAwAqOijGU4GJMuttKTOp) | [CLARITY](https://open.spotify.com/artist/1R56qN4n5p0GtAOYH3oLB5), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:16 | 2024-11-28 | 2025-02-07 |
 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2022-10-28 | 2022-12-16 |

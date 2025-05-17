@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,114 likes - 157 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,121 likes - 157 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 | 13 | [It Might as Well Be Spring](https://open.spotify.com/track/6xzQ9phLCPuT5vpi6zMVrk) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [Featuring](https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg) | 4:52 |
 | 14 | [Old Folks](https://open.spotify.com/track/5iLiu2yxhOs97x9VILKzHF) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Vol\. 1](https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba) | 5:50 |
 | 15 | [Slice of Life](https://open.spotify.com/track/3185kLO1tTWITnTpb0cTF5) | [Larnell Lewis](https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U) | [Slice of Life](https://open.spotify.com/album/4Tk5zEdFgawVtTuSTtL2zu) | 5:14 |
-| 16 | [Hope](https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK) | [Brightlight](https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk) | 4:06 |
+| 16 | [Hope](https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Brightlight](https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk) | 4:06 |
 | 17 | [The Best Is Yet To Come](https://open.spotify.com/track/0bkUyGcRjzyPktuYITxWBB) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa) | [Ev’ry Time We Say Goodbye](https://open.spotify.com/album/3Z5sSL7iI1G0GvbxY3GWIp) | 4:31 |
 | 18 | [I Don't Write About Girls \(feat\. Ichika Nito\)](https://open.spotify.com/track/2X9463DqLX0tNFlcHk7lE0) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Dragon in Harmony](https://open.spotify.com/album/7BiKEf58x9WCD7ysIWCLYC) | 3:08 |
 | 19 | [Stretto From The Ghetto](https://open.spotify.com/track/6VWUPf84FI6e8MuhIGWEDp) | [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH) | [I Heard You Twice The First Time](https://open.spotify.com/album/4pllcxwviwv0UuKlCSLorB) | 7:14 |

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-369 songs - 1 day 0 hr 1 min
+370 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bomb Through The Breeze](https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund and the Steppin Stones](https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1) | 2:44 | 2020-10-16 | 2024-04-19 |
 | [Boom Boom Boom](https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Chasing Lights](https://open.spotify.com/album/2r4tgvfY6ypsADN4Ptu5Fw) | 3:10 | 2020-10-16 | 2022-07-28 |
 | [Borderline](https://open.spotify.com/track/5BdalGXcHyZj0dB7VYesFh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Borderline](https://open.spotify.com/album/1fbjn34QJvS7Mkss057bmi) | 3:20 | 2025-03-28 |  |
+| [Borrow My Boots](https://open.spotify.com/track/3K5ejUtwpzA2pnlsyt7hdr) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Grace Bowers](https://open.spotify.com/artist/3SWXWMtSA0ZWxvhESbTkJe), [Shelly Fairchild](https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm) | [Borrow My Boots](https://open.spotify.com/album/2MDhb7bszkqpJYHI8rV1w1) | 2:40 | 2025-05-16 |  |
 | [Boss Man](https://open.spotify.com/track/23MSrnSqqbOtTtuaaA7N1s) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Red Moon Rising \(Deluxe Edition\)](https://open.spotify.com/album/5D0FK6IRRpx0qJXD2QnGC8) | 3:52 | 2024-10-25 |  |
 | [Break Free](https://open.spotify.com/track/1VfXJzDrhqwHrORhdSRBOx) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Break Free](https://open.spotify.com/album/4nEu0JLNGGAq3Sf0Bwo0hg) | 3:32 | 2025-03-28 |  |
 | [Breakthrough](https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb) | 4:10 | 2025-04-25 |  |
@@ -302,7 +303,7 @@
 | [STREET'S QUEEN](https://open.spotify.com/track/71wyFs3xWEHVCw8HBOXndJ) | [The Dream Roll](https://open.spotify.com/artist/0i36lN49PG20OUnWhEwy2x) | [SAVE YOUR SOUL](https://open.spotify.com/album/7wZHrhHK4AIjv3vhB2p4of) | 3:18 | 2022-04-08 |  |
 | [Stronger](https://open.spotify.com/track/2gAxL2K1oGqFVZANHsfAkP) | [AK & The Red Kites](https://open.spotify.com/artist/2EXwo4zlnJz7u1o1wBhiHM) | [Proverbial Storm](https://open.spotify.com/album/6dZOYVVpuX85auwFnikAAB) | 2:27 | 2024-06-28 |  |
 | [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 | 2021-06-18 |  |
-| [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 | 2020-10-16 |  |
+| [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 | 2020-10-16 | 2025-05-17 |
 | [Suit in the Back](https://open.spotify.com/track/53vycZVVC4nbAgwQy3q5YU) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/3RqzS1i0EjYgPr25RLZcfB) | 2:53 | 2020-10-16 | 2024-04-19 |
 | [Sunshine Lady](https://open.spotify.com/track/2bsJZptUrnp4Rt786WKxc6) | [The Shelter People](https://open.spotify.com/artist/3m1rUUzCaulww0FUM2Gw1i) | [Sunshine Lady / Rock n Roll](https://open.spotify.com/album/0LZ5hsTglEgJovaQgDru6v) | 3:01 | 2022-06-03 |  |
 | [Superhuman](https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Superhuman](https://open.spotify.com/album/1B25jVWUCH41IhBo6iz5WK) | 4:05 | 2021-12-07 | 2023-08-05 |

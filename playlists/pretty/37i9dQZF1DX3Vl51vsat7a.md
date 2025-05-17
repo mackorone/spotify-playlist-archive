@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: DJ Gigola
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,805 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,806 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
-| 2 | [Wunder gibt es immer wieder \- Spotify Singles](https://open.spotify.com/track/7MXyYrTviFJafV01ieZsE3) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Wunder gibt es immer wieder \(Spotify Singles\)](https://open.spotify.com/album/6OAFWDVs1NM4GagxZ3TkcH) | 2:41 |
-| 3 | [Blinde Passagiere](https://open.spotify.com/track/7j4R30Ae96SBBkTAolLCcb) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Schiffe Versenken \(tape\)](https://open.spotify.com/album/1rrBIh1c1off8NJmY5Ltnx) | 3:06 |
-| 4 | [CHROME](https://open.spotify.com/track/5u1gPdH4oWqPUWggyMmGLu) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY) | [CHROME](https://open.spotify.com/album/1Oc7VWC0ubWxGhzbTwFIyg) | 2:37 |
-| 5 | [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 |
-| 6 | [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 |
-| 7 | [Hand in Hand](https://open.spotify.com/track/7kk8yOVDyUZBt3sr7dCIVz) | [SAMIRA](https://open.spotify.com/artist/1ja6rO5jiXnkuG5E8WmmZD) | [Hand in Hand](https://open.spotify.com/album/2y2BHR7LEwN7dAm2tm4yyV) | 2:35 |
-| 8 | [Ausbluten](https://open.spotify.com/track/6MJfPq4ty6Td0wZ2ILDvoA) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Ausbluten](https://open.spotify.com/album/2aITDUNoTwMzprmFY03qdg) | 3:05 |
+| 1 | [Geld](https://open.spotify.com/track/0IW1q8WdeZCxlL9SH0xrAz) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Geld](https://open.spotify.com/album/1mAReuQiTur46WBDG4e5s0) | 3:02 |
+| 2 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
+| 3 | [Wunder gibt es immer wieder \- Spotify Singles](https://open.spotify.com/track/7MXyYrTviFJafV01ieZsE3) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Wunder gibt es immer wieder \(Spotify Singles\)](https://open.spotify.com/album/6OAFWDVs1NM4GagxZ3TkcH) | 2:41 |
+| 4 | [Blinde Passagiere](https://open.spotify.com/track/7j4R30Ae96SBBkTAolLCcb) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Schiffe Versenken \(tape\)](https://open.spotify.com/album/1rrBIh1c1off8NJmY5Ltnx) | 3:06 |
+| 5 | [CHROME](https://open.spotify.com/track/5u1gPdH4oWqPUWggyMmGLu) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY) | [CHROME](https://open.spotify.com/album/1Oc7VWC0ubWxGhzbTwFIyg) | 2:37 |
+| 6 | [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 |
+| 7 | [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 |
+| 8 | [Hand in Hand](https://open.spotify.com/track/7kk8yOVDyUZBt3sr7dCIVz) | [SAMIRA](https://open.spotify.com/artist/1ja6rO5jiXnkuG5E8WmmZD) | [Hand in Hand](https://open.spotify.com/album/2y2BHR7LEwN7dAm2tm4yyV) | 2:35 |
 | 9 | [Not Important Right?](https://open.spotify.com/track/40ty56tBaYFNnQ8Ro9rl8N) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [From Under My Bed](https://open.spotify.com/album/11fLiF8LUer6zRMHQDAdgX) | 2:11 |
 | 10 | [schönhauser \(feat\. Gustav\)](https://open.spotify.com/track/0jsnXwAKMBZ455LiT5ovGj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [schönhauser EP](https://open.spotify.com/album/5WuZ1IE5sEBIRSlJUcXjdq) | 2:00 |
 | 11 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 79 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 |
 | 80 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 |
 
-Snapshot ID: `aAq0gwAAAACHIHcwgAy2Wf4MYZ+nVQ1u`
+Snapshot ID: `aCbkVgAAAAC5mgQsbTe5aZkXLIR5HhKm`

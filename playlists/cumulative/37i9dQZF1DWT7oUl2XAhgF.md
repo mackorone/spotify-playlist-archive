@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Jalen Ngonda
+> A new take on a classic sound\. Cover: Thee Sacred Souls
 
-506 songs - 1 day 6 hr 28 min
+509 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Doing The Thing](https://open.spotify.com/track/2bWioVam86EwJCz6vdqNpt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Doing The Thing](https://open.spotify.com/album/4PVSeMBGgX6t48ec7HFvYY) | 3:30 | 2024-05-10 | 2024-06-08 |
 | [Don't Be Afraid](https://open.spotify.com/track/6BT17vBMR1gXKziGubn3Vy) | [Mike Gronsky](https://open.spotify.com/artist/2f5oy3dEmuvQzfZ85FD0TM) | [Don't Be Afraid](https://open.spotify.com/album/7sB0s1sUqsvo2vwMtx7TRW) | 4:13 | 2022-09-23 | 2022-10-08 |
 | [Don't Knock Upon My Door](https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Don't Knock Upon My Door](https://open.spotify.com/album/3InwC9hMPRDF1MRvAKZGBy) | 3:06 | 2023-06-30 | 2023-07-22 |
-| [Don't Like You Anymore](https://open.spotify.com/track/5BzJfr2NjusEUbM9QYFsz0) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Don't Like You Anymore](https://open.spotify.com/album/0EMJkza4q3dnX8fBiBQtMt) | 3:05 | 2025-02-07 |  |
+| [Don't Like You Anymore](https://open.spotify.com/track/5BzJfr2NjusEUbM9QYFsz0) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Don't Like You Anymore](https://open.spotify.com/album/0EMJkza4q3dnX8fBiBQtMt) | 3:05 | 2025-02-07 | 2025-05-17 |
 | [Don't Stop](https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Gold](https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r) | 2:42 | 2021-07-09 | 2022-10-13 |
 | [Don't Take Me As A Fool](https://open.spotify.com/track/2NmG3EqUzGPI1n8W1lSbN8) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Don't Take Me As A Fool](https://open.spotify.com/album/1eEciSKr834k5dtjOBS1g2) | 3:52 | 2024-08-09 |  |
 | [Don't Wanna Lose You](https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Don't Wanna Lose You](https://open.spotify.com/album/46VBRKa8sDXKU8piCs3UHw) | 3:39 | 2024-03-29 |  |
@@ -113,7 +113,7 @@
 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 | 2022-06-17 | 2023-02-18 |
 | [Envy](https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Envy](https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax) | 4:07 | 2022-03-25 |  |
 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 | 2022-03-25 | 2024-04-19 |
-| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 |  |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 | 2025-05-17 |
 | [Explore](https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 4:46 | 2021-11-05 | 2022-08-30 |
 | [Explore](https://open.spotify.com/track/6sb1CGojNdNMiToRfSNwzY) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Explore](https://open.spotify.com/album/7DxTQ86fPK4BPoJ1RIeFos) | 4:46 | 2021-11-05 | 2022-07-29 |
 | [Feel My Soul](https://open.spotify.com/track/4DZ245N8mr2TWSfvn3mzpy) | [Danny Toeman](https://open.spotify.com/artist/7xp92niYNUvO0DIRmSQRuD) | [Feel My Soul](https://open.spotify.com/album/1Rpqs8oBSQbHZBxSLvgFFT) | 4:26 | 2022-09-23 | 2022-10-08 |
@@ -277,6 +277,7 @@
 | [Make a Wish](https://open.spotify.com/track/6rHLPqcyk7ggv0PvTjt5yd) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Make a Wish](https://open.spotify.com/album/7zdPOJg2rtxiRYeYaDVwrC) | 3:09 | 2022-05-13 | 2023-02-25 |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2021-07-09 | 2024-08-17 |
 | [Making Up Making Love](https://open.spotify.com/track/7wrmrF5iU0lGSlYkTsaNGW) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [The Nostalgiac](https://open.spotify.com/album/0HZQqwnq5WDugzJSh4l3fD) | 4:18 | 2023-06-23 | 2023-10-21 |
+| [Mama I Really Love You](https://open.spotify.com/track/7bWe4daPY3z357WjP6Xu7p) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [You Had Your Chance..\. Bad Attitude!](https://open.spotify.com/album/5xVj3HpB047Vppiwx92ncZ) | 3:15 | 2025-05-16 |  |
 | [MARY \- A COLORS SHOW](https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY \- A COLORS SHOW](https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C) | 3:24 | 2024-02-23 |  |
 | [Maybe It's You](https://open.spotify.com/track/7kFgKExxDFZJghA6Q4kCUR) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Maybe It's You](https://open.spotify.com/album/2K52HJlE1DOY5JgVMAr4Xz) | 3:54 | 2025-05-09 |  |
 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 | 2022-08-09 | 2022-09-17 |
@@ -343,6 +344,7 @@
 | [Ready](https://open.spotify.com/track/2FMeFICKFtO9j4qLaPKcst) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Ready](https://open.spotify.com/album/3gNnUZO69AyHhi8fYybcyf) | 3:48 | 2022-01-28 | 2023-09-09 |
 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 | 2022-02-18 | 2022-07-29 |
 | [Reason](https://open.spotify.com/track/5llqfBYCRsB72DQACu5dpC) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [Reason](https://open.spotify.com/album/0ys2pDOE0q1gxYHaiCRtJ7) | 2:51 | 2022-08-26 | 2023-05-27 |
+| [Reasons To Stay](https://open.spotify.com/track/1wcjZRnXu86UIWh0tPY5xd) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Reasons To Stay](https://open.spotify.com/album/66tOv5HJVitbCHEq52WTks) | 3:36 | 2025-05-16 |  |
 | [Recovery Time](https://open.spotify.com/track/17d1x0NWlRglnOxnAfqWMm) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Recovery Time](https://open.spotify.com/album/2zkwPbAe8duHRZP62hmg9s) | 3:43 | 2023-02-17 | 2023-06-03 |
 | [Red To Violet \- Feat\. Jamila Woods](https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Red To Violet \(Feat\. Jamila Woods\)](https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv) | 3:22 | 2022-08-26 | 2023-02-18 |
 | [Regenerate](https://open.spotify.com/track/6eFsavqVXRlyeSnlX75pc4) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Big Crown Vaults Vol\. 1 \- Lee Fields & The Expressions](https://open.spotify.com/album/2uKHclIQ4IphYCgJyKfSCe) | 3:32 | 2021-07-09 | 2022-08-09 |
@@ -478,6 +480,7 @@
 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 | 2024-08-30 | 2025-01-25 |
 | [Warpaint](https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Warpaint](https://open.spotify.com/album/2MkJIYLt4fz2SDSozVntDD) | 4:50 | 2022-03-21 | 2022-07-29 |
 | [Way You Shine](https://open.spotify.com/track/5RlgjfMCs8KW0AtkqRvyZM) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Way You Shine](https://open.spotify.com/album/0sfmf3mJc7rgaGg3CZXmRv) | 3:10 | 2024-07-26 | 2025-02-08 |
+| [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2025-05-16 |  |
 | [We Got This \- 7'' Version](https://open.spotify.com/track/4OQMZBaOgEvAcXI8NMWEz7) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [We Got This](https://open.spotify.com/album/79Utq6WQvxX0OkODgZEfDO) | 2:57 | 2025-01-03 |  |
 | [WELCOME TO THE PARTY](https://open.spotify.com/track/4OkWdZXL16atg1qaUbqaaz) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN COMMUNION](https://open.spotify.com/album/0HZ86tsiLEjdDxvlH2nqhz) | 2:41 | 2023-07-28 | 2024-01-27 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-02-18 |

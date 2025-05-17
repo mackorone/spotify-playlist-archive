@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Music from Drake, Lil Tecca and Playboi Carti.",
+  "description": "Music from Young Thug, Drake and Lil Tecca.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -5726,7 +5726,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 192000,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
@@ -11290,7 +11290,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 128409,
       "name": "Dope Boy Phone (with Takeoff)",
       "url": "https://open.spotify.com/track/3QuxakJMdpWDvu30D5I1hH"
@@ -15872,7 +15872,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 242666,
       "name": "Get Your Roll On",
       "url": "https://open.spotify.com/track/4HpCT9jeCzBfpCaF3aTVWX"
@@ -17114,7 +17114,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 172592,
       "name": "Gripper (feat. T-Pain)",
       "url": "https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs"
@@ -18699,6 +18699,28 @@
     },
     {
       "album": {
+        "name": "Hit (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/3rDdDQ040X9gZugXDuw6bw"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175378,
+      "name": "Hit (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/0tIaLYi74Aw4ayWMW97rhS"
+    },
+    {
+      "album": {
         "name": "Hit Bout It",
         "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
       },
@@ -19126,7 +19148,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 147450,
       "name": "Hoochie Coochie",
       "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
@@ -26032,6 +26054,28 @@
       "duration_ms": 187034,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
+    },
+    {
+      "album": {
+        "name": "Iz It a Crime?",
+        "url": "https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158270,
+      "name": "Me N OG Snoop",
+      "url": "https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4"
     },
     {
       "album": {
@@ -35551,6 +35595,24 @@
     },
     {
       "album": {
+        "name": "Forever My Moment",
+        "url": "https://open.spotify.com/album/6D2Olfcbdp07vl4RwPkPRg"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218041,
+      "name": "Robbery 9",
+      "url": "https://open.spotify.com/track/127dR7dxD1fGV6A528bP4n"
+    },
+    {
+      "album": {
         "name": "Robbery Part 4",
         "url": "https://open.spotify.com/album/6yd1SzofJJmS7mEGwkZRCM"
       },
@@ -38136,7 +38198,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 188160,
       "name": "Sinners",
       "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
@@ -38158,6 +38220,28 @@
       "duration_ms": 197530,
       "name": "Sinners Prayer",
       "url": "https://open.spotify.com/track/6KDQWm9BBxQZ7DMfO4ePgV"
+    },
+    {
+      "album": {
+        "name": "SISTA WIVES (from the Short Film \"Red Clay\")",
+        "url": "https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149960,
+      "name": "SISTA WIVES - from the Short Film \"Red Clay\"",
+      "url": "https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph"
     },
     {
       "album": {
@@ -39020,6 +39104,24 @@
       "duration_ms": 174333,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/735RSTb2xbtWbDtKD9XDYi"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202426,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Edith M\u00e1rquez en portada",
+  "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Camila Fern\u00e1ndez en portada",
   "name": "Reinas del Mariachi",
   "tracks": [
     {
@@ -636,6 +636,24 @@
       "duration_ms": 226173,
       "name": "Contigo En La Distancia",
       "url": "https://open.spotify.com/track/1keRDIpM0Kv4wHE5sjuBpy"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n De Piedra",
+        "url": "https://open.spotify.com/album/44aY7PghA7MIdWvwvgdfn6"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160867,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/10oBqwLXOzXYUWpqhODyN8"
     },
     {
       "album": {
@@ -2268,7 +2286,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 152299,
       "name": "Mi \u00danico Camino",
       "url": "https://open.spotify.com/track/0K9DEliKYCyljWztB8WyJY"
@@ -2517,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "No Puedo Dormir Sin Ti",
+        "url": "https://open.spotify.com/album/4UrvWrrtcjHRKkOO0wn2iN"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180373,
+      "name": "No Puedo Dormir Sin Ti",
+      "url": "https://open.spotify.com/track/773beyEPLYvmszoKYz9n2L"
+    },
+    {
+      "album": {
         "name": "No Te Apartes De M\u00ed",
         "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
       },
@@ -2586,7 +2622,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 155266,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ"
@@ -2882,7 +2918,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 185207,
       "name": "POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
@@ -4362,6 +4398,24 @@
       "duration_ms": 180773,
       "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Cre\u00edas?",
+        "url": "https://open.spotify.com/album/4j8oI2vABlw0aIhB5ax7WN"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217045,
+      "name": "\u00bfQu\u00e9 Cre\u00edas?",
+      "url": "https://open.spotify.com/track/4qaGrZ8LjKgNRBaOhltdJ8"
     },
     {
       "album": {

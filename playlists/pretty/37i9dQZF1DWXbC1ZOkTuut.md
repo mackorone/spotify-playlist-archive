@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Los Dareyes De La Sierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,453 likes - 119 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,476 likes - 119 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 99 | [Smoking](https://open.spotify.com/track/6OXxkXMduFmgRuvBpgjSyH) | [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [SMOKING](https://open.spotify.com/album/0qJe3Gd8xCEzeIJsZI9h9W) | 2:27 |
 | 100 | [Chicote](https://open.spotify.com/track/2922csjGvNYNyz4DZCmNVU) | [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [SMOKING](https://open.spotify.com/album/0qJe3Gd8xCEzeIJsZI9h9W) | 2:01 |
 | 101 | [Poker Star](https://open.spotify.com/track/6awRebQRiXyTqidHa9N4XL) | [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [SMOKING](https://open.spotify.com/album/0qJe3Gd8xCEzeIJsZI9h9W) | 3:33 |
-| 102 | [Un 2X3](https://open.spotify.com/track/7gPyZNuhbN4VWxgL6RsFyI) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Origen](https://open.spotify.com/album/0LYJfeFcoFq7sJKTF3djRI) | 2:54 |
+| 102 | [Un 2X3](https://open.spotify.com/track/7gPyZNuhbN4VWxgL6RsFyI) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Origen](https://open.spotify.com/album/0LYJfeFcoFq7sJKTF3djRI) | 2:54 |
 | 103 | [Mal Portados](https://open.spotify.com/track/4hZLo9hT4JbGxDKkAwbNUe) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Origen](https://open.spotify.com/album/0LYJfeFcoFq7sJKTF3djRI) | 3:06 |
 | 104 | [El Samo 2](https://open.spotify.com/track/1bY57XDbDpzpbxDtrdoBST) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Origen](https://open.spotify.com/album/0LYJfeFcoFq7sJKTF3djRI) | 3:03 |
 | 105 | [Atenea](https://open.spotify.com/track/3aRSCHA7rQKooRTxOGx8IH) | [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Ambiciones](https://open.spotify.com/album/7vGR7HsVhp03wQP3m3IjO7) | 3:08 |

@@ -4,7 +4,7 @@
 
 > House Music 🏠🎵 + everything else \| Updated Weekly\-ish
 
-378 songs - 22 hr 0 min
+379 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,8 @@
 | [Sky \(Shining Bright\)](https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Sky \(Shining Bright\)](https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7) | 2:50 | 2024-06-11 |  |
 | [sleepatsunrise](https://open.spotify.com/track/3siWSjEeEj4NH62Jm1cBJk) | [Krishna Canning](https://open.spotify.com/artist/7cVhebR7qQnFcIUAD5D5Wv), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [riseatsunset \(reworks\)](https://open.spotify.com/album/684UmlPbVItreGNmfh8Beg) | 2:56 | 2025-04-21 |  |
 | [Snakes](https://open.spotify.com/track/55UzdLZm87ES1oxIo7KIvj) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [In the Park / Snakes](https://open.spotify.com/album/2BEW4mDyxZP2BnyHbEx8xo) | 3:00 | 2024-06-14 |  |
-| [Snogo](https://open.spotify.com/track/2x1TJAhW8LSjJVDa5N4nUv) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Black Book ID's: Chapter 6](https://open.spotify.com/album/37wDmoWwbVfKMy4lEekOc7) | 4:00 | 2023-08-20 |  |
+| [Snogo](https://open.spotify.com/track/0IAFrSt2pRJ6Lb5sLx8au5) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Snogo](https://open.spotify.com/album/4BEBZqaMSbETrV8s4ruVZD) | 4:00 | 2025-05-16 |  |
+| [Snogo](https://open.spotify.com/track/2x1TJAhW8LSjJVDa5N4nUv) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Black Book ID's: Chapter 6](https://open.spotify.com/album/37wDmoWwbVfKMy4lEekOc7) | 4:00 | 2023-08-20 | 2025-05-17 |
 | [So Hypnotic \(Honey & Badger Remix\)](https://open.spotify.com/track/0iC0L04gQJsYQDLrbxPRqB) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [¥€$, Pt\. 2 \(The Remixes\)](https://open.spotify.com/album/3wQqUYBhCiWdkcvHRW2NY0) | 3:41 | 2023-07-01 |  |
 | [Something](https://open.spotify.com/track/0tfvoWzlZ044GiicJvNeLq) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI) | [Traktion / Something EP](https://open.spotify.com/album/1MIwS5haemckSGyjvZUwqP) | 3:19 | 2024-11-23 |  |
 | [Sorry Mum \- Higgo Remix](https://open.spotify.com/track/3xtnuC9sKKlWzmWl6kpLtb) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX), [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Sorry Mum \(Higgo Remix\)](https://open.spotify.com/album/7DlOjYyVuoMgeuZGQSRnPr) | 2:26 | 2024-11-23 |  |

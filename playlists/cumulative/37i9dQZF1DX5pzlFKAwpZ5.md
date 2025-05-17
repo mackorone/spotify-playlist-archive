@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-312 songs - 23 hr 16 min
+313 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [HAGOROMO](https://open.spotify.com/track/57R46IG6M5tQ5xgQ30ZSOf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 3:52 | 2024-03-07 | 2025-01-25 |
 | [Hana](https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Best of Fumio: Music for Sleep](https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V) | 6:56 | 2022-12-30 |  |
 | [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:56 | 2024-03-07 | 2024-09-06 |
-| [Hebisan](https://open.spotify.com/track/0Uj5EwGUbETVxa2c6RXMq7) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Hanazono](https://open.spotify.com/album/4zKmJT7y0HpIUZiW5E8UPy) | 2:10 | 2025-05-02 |  |
+| [Hebisan](https://open.spotify.com/track/0Uj5EwGUbETVxa2c6RXMq7) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Hanazono](https://open.spotify.com/album/4zKmJT7y0HpIUZiW5E8UPy) | 2:10 | 2025-05-02 | 2025-05-17 |
 | [Her After Bath](https://open.spotify.com/track/65MUBBKx73ZZkDVTPaThnN) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossloads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 3:10 | 2022-02-22 |  |
 | [HereAfter](https://open.spotify.com/track/76ZzbHJqu3jahM8IhaEHkW) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [HereAfter](https://open.spotify.com/album/3eOpeSAgeHVoLGzXfxvtGu) | 6:03 | 2024-08-08 | 2025-01-14 |
 | [Hicari](https://open.spotify.com/track/5LoCraezdIDtyxCRIQdNLi) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Hicari](https://open.spotify.com/album/5N5zlunO6d2GMuQuUsEYCR) | 1:54 | 2022-05-27 |  |
@@ -177,6 +177,7 @@
 | [Night](https://open.spotify.com/track/6JDfoJ0rsSDLioxEHMedDI) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Night](https://open.spotify.com/album/0DqfekqRy3GaOSgmgWhOR8) | 3:36 | 2024-03-07 | 2025-01-25 |
 | [NIMB \#8](https://open.spotify.com/track/1STYnt6S6kJf3NefRatVzM) | [Toshimaru Nakamura](https://open.spotify.com/artist/3PsFuBHTZsvyZwMbVIuVZT) | [NO\-INPUT MIXING BOARD](https://open.spotify.com/album/7HBbA8sdlmh5y96GtlsfiI) | 3:06 | 2022-01-07 | 2022-10-01 |
 | [nod](https://open.spotify.com/track/0N1p2sngaMZXCszfvs1qbv) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [dusk to dawn](https://open.spotify.com/album/5UHg2dMdXffuSepLuOcBdo) | 4:04 | 2022-01-07 |  |
+| [Nord](https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Sin](https://open.spotify.com/album/2Mkf5oJFTeKuQNfkiGdw5i) | 2:01 | 2025-05-16 |  |
 | [okarun's life](https://open.spotify.com/track/3H2YFr8ESaWSmNGMO8usXe) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 2:56 | 2024-12-14 |  |
 | [Old Dream Spell](https://open.spotify.com/track/6y57EpCattl9PxuMRR0Vc0) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 14:49 | 2022-12-30 | 2024-08-09 |
 | [On Your Side](https://open.spotify.com/track/0ZZScVnAKcDvoOsFbqmTvc) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4Sv4vIH0WR5PF1g35XiBeA) | 2:44 | 2023-04-28 | 2023-11-02 |

@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/2K4CWu6QQfBqK6W4tW4oCA"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230913,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/6UhaAf6u6qMEh7IOdzGk9y"
+    },
+    {
+      "album": {
         "name": "I Can Make Ya",
         "url": "https://open.spotify.com/album/5Jr1bpcJsXsXPJpKhl3Spr"
       },

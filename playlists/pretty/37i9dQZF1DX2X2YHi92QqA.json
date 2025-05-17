@@ -1,6 +1,6 @@
 {
   "description": "\u041c\u0443\u0437\u0438\u043a\u0430, \u0449\u043e\u0431 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u043d\u0430\u0441\u043e\u043b\u043e\u0434\u0438\u0442\u0438\u0441\u044f \u0432\u0435\u0441\u043d\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u043c \ud83c\udf38",
-  "num_followers": 35815,
+  "num_followers": 35809,
   "original_name": "\u0412\u0435\u0441\u043d\u044f\u043d\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,18 @@
     {
       "added_at": "2025-05-02 12:07:15",
       "album": {
-        "name": "Verrans Corner",
-        "url": "https://open.spotify.com/album/61B0gyR89D3jQd75TfQ5wj"
+        "name": "\u043f\u0456\u0434 \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u043c",
+        "url": "https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i"
       },
       "artists": [
         {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        },
-        {
-          "name": "Leith Sye Towers",
-          "url": "https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq"
+          "name": "KRYLATA",
+          "url": "https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG"
         }
       ],
-      "duration_ms": 202415,
-      "name": "Verrans Corner",
-      "url": "https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ"
+      "duration_ms": 139200,
+      "name": "\u043f\u0456\u0434 \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u043c",
+      "url": "https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD"
     },
     {
       "added_at": "2025-05-02 12:07:15",
@@ -891,18 +887,22 @@
     {
       "added_at": "2025-05-02 12:07:15",
       "album": {
-        "name": "\u043f\u0456\u0434 \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u043c",
-        "url": "https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i"
+        "name": "Verrans Corner",
+        "url": "https://open.spotify.com/album/61B0gyR89D3jQd75TfQ5wj"
       },
       "artists": [
         {
-          "name": "KRYLATA",
-          "url": "https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG"
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        },
+        {
+          "name": "Leith Sye Towers",
+          "url": "https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq"
         }
       ],
-      "duration_ms": 139200,
-      "name": "\u043f\u0456\u0434 \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u043c",
-      "url": "https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD"
+      "duration_ms": 202415,
+      "name": "Verrans Corner",
+      "url": "https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ"
     },
     {
       "added_at": "2025-05-02 12:07:15",

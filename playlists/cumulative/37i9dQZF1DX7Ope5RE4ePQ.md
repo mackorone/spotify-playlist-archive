@@ -4,7 +4,7 @@
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-108 songs - 7 hr 58 min
+109 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Gypsy Melodies, Op\. 55, B\. 104: IV\. Songs My Mother Taught Me \(Arr\. Soltani For Solo Cello and Cello Ensemble\)](https://open.spotify.com/track/1rAOWBj54LH8ooWg02NWTJ) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Kian Soltani](https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ), [Staatskapelle Berlin, Cellists](https://open.spotify.com/artist/31bmk98E31pzTfOPdv3lYy) | [Dvořák: Cello Concerto](https://open.spotify.com/album/2DkUvnxlZmEMBmPOmzC4lE) | 2:31 | 2022-04-01 |  |
 | [Haydn: String Quartet in D Major, Op\. 64 No\. 5, Hob\. III:63 "Lark": I\. Allegro moderato](https://open.spotify.com/track/04Qw51UMPLQ8k3ZAyehlJJ) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Medici String Quartet](https://open.spotify.com/artist/2B3vUTaZ1NYZ29sWjfotpN) | [Haydn: String Quartets Op.64](https://open.spotify.com/album/52BL34VOJ8bhFkphiSYvMI) | 5:33 | 2022-04-01 |  |
 | [Howl's Moving Castle \- Merry\-Go\-Round of Life](https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding, Vol\. 2: The Sequel](https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W) | 3:04 | 2022-04-01 |  |
+| [Idea 22](https://open.spotify.com/track/18OvVTXtC3lx1Iym9E0RyT) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 22](https://open.spotify.com/album/2szFL2Ml8VtzkX0fhHrfin) | 2:32 | 2025-05-16 |  |
 | [In Paradisum](https://open.spotify.com/track/0tIEXct4Pv3TikqvkYR4CM) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [In Paradisum](https://open.spotify.com/album/7aBPTOIQycGBJDZHGjAV7d) | 3:34 | 2024-12-24 |  |
 | [Jazz Suite No\. 2: VI\. Waltz 2](https://open.spotify.com/track/0pjCsB0XNSyqM9UazlTODC) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Russian State Symphony Orchestra](https://open.spotify.com/artist/0DJZPK3nRWESIS0yexi6Qi), [Dmitry Yablonsky](https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb) | [Shostakovich: Jazz Suites Nos\. 1 \- 2 / The Bolt / Tahiti Trot](https://open.spotify.com/album/7K4HfPLJ2JwvXBF02SAiXx) | 3:13 | 2022-04-01 |  |
 | [Kaiho](https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Kaiho](https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU) | 3:17 | 2024-03-01 |  |

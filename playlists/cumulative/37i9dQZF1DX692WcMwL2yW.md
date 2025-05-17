@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-412 songs - 19 hr 3 min
+415 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aftershock](https://open.spotify.com/track/6X2DG2wogUVDPyKWkK8jBC) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Quake](https://open.spotify.com/album/44V58chGzXo8ql3f0Ds9vX) | 2:42 | 2021-04-26\* | 2022-12-10 |
 | [Ain't Shit Free](https://open.spotify.com/track/4RXpJgl2Q4ZEHaExw9YnzJ) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Ain't Shit Free](https://open.spotify.com/album/5KJhwBaUGaPhWCXiyo1Rzv) | 3:17 | 2021-05-07 |  |
 | [Ain't Shit Free](https://open.spotify.com/track/5IfXAwIrFnymwN0RGaSIeT) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Ain't Shit Free](https://open.spotify.com/album/3TREMXQuq6rpRSnyzepFdH) | 3:17 | 2022-07-29 | 2024-04-19 |
+| [Air Harbor](https://open.spotify.com/track/1nvWVH2QmXJSuezM5MB93g) | [Neon Pixel Synth](https://open.spotify.com/artist/5ReHU61sRiUyIQ6tJCQP8z) | [Air Harbor](https://open.spotify.com/album/31904i8wNuHvcbxc3IGOvJ) | 2:26 | 2025-05-16 |  |
 | [All Of Them](https://open.spotify.com/track/2GmCYDUX9GR7XXBU76C0s9) | [M4YD4Y](https://open.spotify.com/artist/2kx8AVFwczHrxz0PLL25Qt) | [Imperfectionist](https://open.spotify.com/album/6Msn1kQREtbLla2wJTfDlZ) | 1:51 | 2021-04-26\* | 2022-09-17 |
 | [All the Frogs](https://open.spotify.com/track/5Zxcm8La3J8yCyPA4FpzAe) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 2:03 | 2021-04-26\* | 2022-05-27 |
 | [Alright!!!](https://open.spotify.com/track/7nf0SbQqrLkwNOjLH6J4PO) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Butterscotch](https://open.spotify.com/album/2VO7rHl5HkUVeSU67nDOLI) | 3:30 | 2021-10-14 |  |
@@ -304,6 +305,7 @@
 | [Roddy](https://open.spotify.com/track/0BfTbisZxX8U0sly9fA5CW) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Roddy](https://open.spotify.com/album/4h1XpHRfiBXd3pdnWI5tuZ) | 2:22 | 2021-05-07 |  |
 | [Rogam por Mim](https://open.spotify.com/track/0jXRaToO4DgRESna2AEFhB) | [Stay Lo.](https://open.spotify.com/artist/36Oa64ELbqH6fllVWvFnuy), [Carthi](https://open.spotify.com/artist/5JMKgmah66gXWj94PgCoj9) | [Rogam por Mim](https://open.spotify.com/album/5LzjVqOXtLijsZHhWtdqrD) | 2:26 | 2022-05-20 |  |
 | [running out of time](https://open.spotify.com/track/0e6UrhLAH2lnNe6zdlUTBN) | [NON](https://open.spotify.com/artist/2QFuIA3uFMQAidzZe9x3Bw) | [future](https://open.spotify.com/album/0sH4ZqrqNsEqUWBtc34EaS) | 2:48 | 2021-04-26\* | 2022-05-27 |
+| [Running Through Rain](https://open.spotify.com/track/6EA4LLhjLEtjCeLb8dOh7b) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Running Through Rain](https://open.spotify.com/album/4Ou4rQnZvaQ5Vil1W5d4pL) | 4:03 | 2025-05-16 |  |
 | [Sankhu](https://open.spotify.com/track/6woydkEMJP5u7nBDa4d12N) | [Uhrk\-Nagimi](https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX) | [Sankhu](https://open.spotify.com/album/5LFE54hCCIAj4usOH9ujqw) | 2:06 | 2024-04-09 |  |
 | [Saturn](https://open.spotify.com/track/36x1ZTVotGKal7CrouiqBl) | [Pink Oak](https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO) | [Origi](https://open.spotify.com/album/3z8uJOtd7lN9lQFH5R6TZ8) | 3:55 | 2022-02-18 | 2025-02-21 |
 | [Sauce Packets](https://open.spotify.com/track/6Dfual7Y3pGjqcD8RE1h5V) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Cyclos Era](https://open.spotify.com/album/23A8EOYmC9yiQbQFFMENNk) | 3:04 | 2023-01-20 |  |
@@ -335,6 +337,7 @@
 | [Sonic Bullet](https://open.spotify.com/track/1rWp6WpAxtCyCJ4Ky4GrHC) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Sonic Bullet](https://open.spotify.com/album/7JOyaA4REAnvjxoJ6wxX9q) | 3:28 | 2021-11-10 | 2022-10-14 |
 | [Sorrow](https://open.spotify.com/track/7GJQGSD9r681721nvXGAAx) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Sorrow](https://open.spotify.com/album/3u9L5MdB8Q16LWDyABClMO) | 2:34 | 2021-04-26\* | 2022-05-20 |
 | [Soundtrack the World!](https://open.spotify.com/track/2ORTnfqcHyGGzlZ14wpqrT) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [New Elevations](https://open.spotify.com/album/4q0Mu1FbIzqKqqgPBuAnWa) | 3:16 | 2021-08-26 | 2021-10-14 |
+| [Split Up](https://open.spotify.com/track/2TFG6CuNhaCqwTDhsLYfxO) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Split Up](https://open.spotify.com/album/4zlE8n1yk5p8pUMS9Z1a39) | 2:36 | 2025-05-16 |  |
 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 | 2021-04-26\* | 2022-05-14 |
 | [Stargazing](https://open.spotify.com/track/4cIsmISX8R4S6NDvmqXUDR) | [Bungus](https://open.spotify.com/artist/6G5hyAD5WnCvkW9CeUMsJA) | [Stargazing](https://open.spotify.com/album/3dLYFdh6latSJWKJK0FBDH) | 2:59 | 2022-04-08 | 2022-07-29 |
 | [Starter](https://open.spotify.com/track/5ibGmOVcugAFDiDGn3RL6u) | [Alex Froot](https://open.spotify.com/artist/34IlI3sD4HQouKqpy02h42) | [Starter](https://open.spotify.com/album/2PPoZCz0OM5XegZBpWanXQ) | 2:26 | 2021-08-26 | 2021-10-14 |

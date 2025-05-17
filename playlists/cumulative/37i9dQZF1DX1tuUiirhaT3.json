@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 196429,
       "name": "chammomile",
       "url": "https://open.spotify.com/track/5nDPKdOwEO5mEql3Nqze3G"
@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Feather",
+        "url": "https://open.spotify.com/album/3zZcMIi0OrREEVvK22os4K"
+      },
+      "artists": [
+        {
+          "name": "salotto",
+          "url": "https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2RzEZIvs2KzxBAzkHXgJZa"
+    },
+    {
+      "album": {
         "name": "Secret Water",
         "url": "https://open.spotify.com/album/3YgnlQBSQIqMXWjFNXSSke"
       },
@@ -2423,6 +2441,42 @@
     },
     {
       "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl"
+      },
+      "artists": [
+        {
+          "name": "D'Verti",
+          "url": "https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130854,
+      "name": "Handwritten",
+      "url": "https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/0MK95So3XbSLz7zMqg5HUd"
+      },
+      "artists": [
+        {
+          "name": "A Place Of Solace",
+          "url": "https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/4n5qSCxa7d3mx6t8Z3jeW4"
+    },
+    {
+      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/22nV8CCKwM2EfHQj1Djsie"
       },
@@ -2726,6 +2780,24 @@
       "duration_ms": 168000,
       "name": "Introspective Thoughts Gamma (88-176hz)",
       "url": "https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY"
+    },
+    {
+      "album": {
+        "name": "Island of Gods",
+        "url": "https://open.spotify.com/album/2bW1GAF3JZwIVJlG5rrmDR"
+      },
+      "artists": [
+        {
+          "name": "Infinite Sphere",
+          "url": "https://open.spotify.com/artist/2FVBeKa5tcAuDKo60SwyHV"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183966,
+      "name": "Island of Gods",
+      "url": "https://open.spotify.com/track/5y8I7klZFSvtjWA71ZawZG"
     },
     {
       "album": {
@@ -4339,6 +4411,24 @@
     },
     {
       "album": {
+        "name": "Photosynthesis",
+        "url": "https://open.spotify.com/album/2n2FsaAK3UHnPdgYNbcGhx"
+      },
+      "artists": [
+        {
+          "name": "Endless Voyager",
+          "url": "https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162566,
+      "name": "Photosynthesis",
+      "url": "https://open.spotify.com/track/33K1CabCTz04Ht8G67PTPD"
+    },
+    {
+      "album": {
         "name": "Placid Creek",
         "url": "https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7"
       },
@@ -5628,7 +5718,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 147957,
       "name": "Sub Nubibus",
       "url": "https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n"

@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 169330,
       "name": "Central Park",
       "url": "https://open.spotify.com/track/5CSCpV7F9ZJZqFTOYxGoAw"
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC"
@@ -3752,7 +3752,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 161023,
       "name": "Fancy Restaurants",
       "url": "https://open.spotify.com/track/39yYf4jJRzbLArtvLvCIcw"
@@ -4758,7 +4758,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 228442,
       "name": "Happiest Year",
       "url": "https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh"
@@ -7722,7 +7722,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 230426,
       "name": "Love Will Find Me",
       "url": "https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1"
@@ -13918,6 +13918,24 @@
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
+    },
+    {
+      "album": {
+        "name": "with ease",
+        "url": "https://open.spotify.com/album/5yNfXwafClO22prMhJff9g"
+      },
+      "artists": [
+        {
+          "name": "Joon",
+          "url": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
+        }
+      ],
+      "date_added": "2025-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "with ease",
+      "url": "https://open.spotify.com/track/2TFUY0H6adpoF91yYi9Z74"
     },
     {
       "album": {

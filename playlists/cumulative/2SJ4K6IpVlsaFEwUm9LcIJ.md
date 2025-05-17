@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-574 songs - 1 day 9 hr 8 min
+576 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [De Novo](https://open.spotify.com/track/0DmLfTFkLqIqiRqEMyxMXU) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Tech Duinn](https://open.spotify.com/album/71Y6SuqeTUnuDa3V0v25cv) | 2:50 | 2024-03-27 | 2024-05-16 |
 | [Deep Water](https://open.spotify.com/track/4HbMU0noKfNinw6ePEKXmQ) | [Ed Askew](https://open.spotify.com/artist/6dkNBFTQ8DdQpfYxmi3kIB) | [Imperfiction](https://open.spotify.com/album/0jduFLrhdG0KDrsHuzBirs) | 2:26 | 2024-05-16 | 2024-07-12 |
 | [Deeper](https://open.spotify.com/track/5RyZK49FbAj0DT1rFjBhUb) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:44 | 2024-04-06 | 2024-05-16 |
+| [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-16 |  |
 | [Devo](https://open.spotify.com/track/5gpvNp0THuMQEAkU1Kt0fB) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [It's a Myth](https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k) | 1:40 | 2024-04-25 | 2024-05-16 |
 | [Diamonds and Gems](https://open.spotify.com/track/3W9d5rNGDNC3plYtX76Qy8) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 3:07 | 2025-04-02 | 2025-05-09 |
 | [Do It Yourself](https://open.spotify.com/track/7mqzQCR7KIPxvPFU5IoFkn) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:56 | 2025-03-06 | 2025-05-09 |
@@ -542,6 +543,7 @@
 | [Twee](https://open.spotify.com/track/54JWqjwNUiAOI5lLzUX9IQ) | [Tullycraft](https://open.spotify.com/artist/3KtOvpYuKClAuYxJqdITm6) | [Beat Surf Fun](https://open.spotify.com/album/6AN7guo4oFxMb5OU3pAe3m) | 3:21 | 2024-08-05 | 2024-09-08 |
 | [Twenty Trees](https://open.spotify.com/track/0Gl6BDxRo6hr8zQ8l2ghu5) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Time Was Gigantic......\. When We Were Kids](https://open.spotify.com/album/1pA18sbHzaYqzGKCtdGiY1) | 7:50 | 2025-01-26 | 2025-03-02 |
 | [Twist With The Morningstars](https://open.spotify.com/track/71rFIZt1BuPzrGwcTBJEJK) | [S.E\. Rogie](https://open.spotify.com/artist/1W8vgcN29v8ChWmlpZQ3Ai) | [The Sounds of S.E\. Rogie](https://open.spotify.com/album/1Ovz1OhylAnhQ2kLf65obf) | 2:22 | 2024-06-28 | 2024-07-12 |
+| [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 | 2025-05-16 |  |
 | [Up Er Mei](https://open.spotify.com/track/1N7oGtGMR3GzIN1WpcS62z) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Hourglass](https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi) | 3:46 | 2024-03-25 | 2024-05-16 |
 | [Utopia and Visions](https://open.spotify.com/track/7tSGcD2FFsf2VaWWIaqcfN) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Tommy Koverhult](https://open.spotify.com/artist/6G3CmG2kj7vybt9ALhzyiQ), [Tommy Goldman](https://open.spotify.com/artist/68OM5HiKkUyArQ8MrzCRae), [Maffy Falay](https://open.spotify.com/artist/4muxcrIOP11n8diDu5aORG), [Tage Siven](https://open.spotify.com/artist/2x4pOElxVwwsFfUMqQbyx5), [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq) | [Organic Music Society](https://open.spotify.com/album/2ODX5qfcDBR0FaMJGhAZIs) | 6:33 | 2025-05-08 |  |
 | [Vampire in the Corner](https://open.spotify.com/track/6O6VDSgm7Cxrk7kIJhyIFo) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:22 | 2024-09-20 | 2024-11-14 |

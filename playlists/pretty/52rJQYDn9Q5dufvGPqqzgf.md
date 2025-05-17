@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/52rJQYDn9Q5dufvGPqqzgf.md) - [plain]
 |---|---|---|---|---|
 | 1 | [My Little Girl](https://open.spotify.com/track/4KZ9wj0K87t0Gdm7km9Yam) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [To The Sea](https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs) | 2:20 |
 | 2 | [Daughters](https://open.spotify.com/track/6J3PYJ5mpscGmSFF6ANYDQ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Daughters](https://open.spotify.com/album/1kf0hXvUKd4qkKGrWBws7q) | 3:57 |
-| 3 | [My Girl](https://open.spotify.com/track/0Vpswx5knuuXW8HmNK1LrT) | [The Temptations](https://open.spotify.com/artist/7oGExWUTlrYbomEphYl4PY) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:41 |
+| 3 | [My Girl](https://open.spotify.com/track/0Vpswx5knuuXW8HmNK1LrT) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:41 |
 | 4 | [Capri](https://open.spotify.com/track/3g9iQpTgLeh6dOUVBVBzqd) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:01 |
 | 5 | [In My Daughter's Eyes](https://open.spotify.com/track/7LkQBDAiS0GVSO5JQuYDzY) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 3:13 |
 | 6 | [Daughter](https://open.spotify.com/track/4meS3Oj3s7EgwdsUt5rFBg) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Daughter](https://open.spotify.com/album/2W8W1pBcrt8HGtV2TrF7go) | 3:33 |

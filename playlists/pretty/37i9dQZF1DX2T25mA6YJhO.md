@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Amygdala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,733 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,840 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 50 | [Pogo](https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Pogo](https://open.spotify.com/album/2yksVeZKwSi1PJ3CUFIupN) | 3:04 |
 | 51 | [Si Me Pierdo](https://open.spotify.com/track/6YK7pon3v5QHUH2ceGj3Lp) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Si Me Pierdo](https://open.spotify.com/album/3MJbzjwIt0YuozGKQcTagl) | 3:19 |
 | 52 | [Los Managers](https://open.spotify.com/track/1BU48UTJMQmfZtBHN91CH4) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Los Managers](https://open.spotify.com/album/25SRIxzCCrl5EeRuCdm0jT) | 3:43 |
-| 53 | [Loros](https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Loros](https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn) | 2:26 |
-| 54 | [Insurrección](https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Insurrección](https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f) | 2:04 |
+| 53 | [Insurrección](https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Insurrección](https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f) | 2:04 |
+| 54 | [Loros](https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Loros](https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn) | 2:26 |
 | 55 | [Joven Ciudad](https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Joven Ciudad](https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6) | 3:11 |
 | 56 | [Catafalco](https://open.spotify.com/track/3fJ0ARIzQ9hn2IbUs7tdls) | [Marban](https://open.spotify.com/artist/13rd4oAW4xak707186Vnun), [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN) | [Catafalco](https://open.spotify.com/album/7jnV68FUuHlh11SIonJmmh) | 2:44 |
 | 57 | [Huellas](https://open.spotify.com/track/1Y8Hc3Gi2ec43GrbQF0Jlj) | [Yacaré](https://open.spotify.com/artist/1xndsW2XVHu6H17qFWCRzt) | [Huellas](https://open.spotify.com/album/3YTTTrLrAo37JtKSkvMsTF) | 2:27 |
@@ -81,18 +81,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 71 | [La gran renuncia](https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [La gran renuncia](https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O) | 2:26 |
 | 72 | [Ganas de verte](https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y) | [Pagafantas](https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV), [Lucía Moreno](https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V) | [Ganas de verte](https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM) | 2:54 |
 | 73 | [MENTIRA](https://open.spotify.com/track/1XQ9DWOsy5yFh6pkVYJvdQ) | [Los Vinagres](https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS) | [MENTIRA](https://open.spotify.com/album/24mCgu4HUhxk6HmPLUe8PR) | 2:36 |
-| 74 | [Ponzano](https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Ponzano](https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu) | 2:24 |
+| 74 | [Eres Un Regalo](https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Eres Un Regalo](https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b) | 3:30 |
 | 75 | [No va a doler](https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [No va a doler](https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1) | 2:40 |
-| 76 | [Eres Un Regalo](https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Eres Un Regalo](https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b) | 3:30 |
-| 77 | [Al Dente](https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh) | [Supercremalleras](https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15) | [Al Dente](https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm) | 2:00 |
-| 78 | [En tu portal](https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [Ni un paso atrás](https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv) | 2:43 |
+| 76 | [Ponzano](https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Ponzano](https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu) | 2:24 |
+| 77 | [En tu portal](https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [Ni un paso atrás](https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv) | 2:43 |
+| 78 | [Al Dente](https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh) | [Supercremalleras](https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15) | [Al Dente](https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm) | 2:00 |
 | 79 | [ojalá](https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [Ojalá](https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo) | 3:13 |
 | 80 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 |
-| 81 | [Cocido, Madrid](https://open.spotify.com/track/31bAzaiSL9YidyP54R3QdT) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Cocido, Madrid](https://open.spotify.com/album/2OwPCULIVI2XSRgi3RlYPY) | 2:51 |
-| 82 | [La Bachata](https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [La Bachata](https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt) | 3:01 |
-| 83 | [COMERTE](https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO) | [Barder](https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY) | [COMERTE](https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz) | 2:38 |
-| 84 | [Tu desdén](https://open.spotify.com/track/15F604J9wmdF5nqgCrnkYs) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Tu desdén](https://open.spotify.com/album/7qLqRKGoHrsxGdIJ8MTfhG) | 3:48 |
-| 85 | [Voy a morir sola](https://open.spotify.com/track/6ownCsTpWLOoNPgdGACLC5) | [Tus Novias Indie](https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl) | [Voy a morir sola](https://open.spotify.com/album/3mnBvJfovNnvl5m1Hk7Y6Z) | 3:19 |
+| 81 | [Voy a morir sola](https://open.spotify.com/track/6ownCsTpWLOoNPgdGACLC5) | [Tus Novias Indie](https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl) | [Voy a morir sola](https://open.spotify.com/album/3mnBvJfovNnvl5m1Hk7Y6Z) | 3:19 |
+| 82 | [Tu desdén](https://open.spotify.com/track/15F604J9wmdF5nqgCrnkYs) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Tu desdén](https://open.spotify.com/album/7qLqRKGoHrsxGdIJ8MTfhG) | 3:48 |
+| 83 | [Cocido, Madrid](https://open.spotify.com/track/31bAzaiSL9YidyP54R3QdT) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Cocido, Madrid](https://open.spotify.com/album/2OwPCULIVI2XSRgi3RlYPY) | 2:51 |
+| 84 | [COMERTE](https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO) | [Barder](https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY) | [COMERTE](https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz) | 2:38 |
+| 85 | [La Bachata](https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [La Bachata](https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt) | 3:01 |
 | 86 | [Autocine](https://open.spotify.com/track/3sn8PJGtBOpb4ktUgQJYMQ) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Autocine](https://open.spotify.com/album/0I3rZBB5lbYlHEAGuPEokP) | 2:41 |
 | 87 | [Na'](https://open.spotify.com/track/5rYcUiQP1RVixCYzm0AEMw) | [Junio](https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8) | [Na'](https://open.spotify.com/album/2e66NyNpzWMVN5xgcqUQPA) | 2:52 |
 | 88 | [Himno de las flores](https://open.spotify.com/track/5gKX2PDvk4682feasZf58s) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN), [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Himno de las flores](https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T) | 3:48 |
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 90 | [Tripitir](https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Tripitir](https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz) | 2:40 |
 | 91 | [Rob Gordon](https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Rob Gordon](https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR) | 2:03 |
 | 92 | [Vivo En Las Nubes](https://open.spotify.com/track/6VO74FC18dbxuAYFUV6G4p) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Vivo En Las Nubes](https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5) | 3:12 |
-| 93 | [Huella de ti](https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Huella de ti](https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH) | 3:17 |
-| 94 | [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 |
-| 95 | [WTF](https://open.spotify.com/track/5RcL45YbinszYJU2Stixca) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [WTF](https://open.spotify.com/album/5ApCX1wSvwDMCEK7d0Njlx) | 3:07 |
-| 96 | [Dando gracias](https://open.spotify.com/track/0EFMaoZyXD11x3s5K7oDiX) | [Oh! Marlene](https://open.spotify.com/artist/1hTkLSI3jqW4AWmNTrfuPM) | [Dando gracias](https://open.spotify.com/album/2AQDRjVXwwllusH5uF8kZ3) | 3:35 |
-| 97 | [Tu No Te Quieres Matar](https://open.spotify.com/track/6cFITamYQzo5D47zmXgw2O) | [Arena Polar](https://open.spotify.com/artist/537HRWUPUPU5q4uUM3bZ3s) | [Tu No Te Quieres Matar](https://open.spotify.com/album/2HhH3TO0zHIUxw33rhfFXk) | 3:06 |
-| 98 | [TURBO TRUCAO](https://open.spotify.com/track/4cTx7rnYuc0YAFZs5dd2lA) | [Only](https://open.spotify.com/artist/0hTpzLejwiEa2ClxGbVvty), [Travv](https://open.spotify.com/artist/4ZtGg3jRJlcs9XyvNsgLRO) | [TURBO TRUCAO](https://open.spotify.com/album/29SZyGMLneDwEvmxWzvQJ5) | 2:30 |
-| 99 | [Cola del vicio](https://open.spotify.com/track/18vMC4pw4zvZxslDqxgvMQ) | [Syd dePalma](https://open.spotify.com/artist/04vfo27dr0j76mPV6vtzuE) | [Cola del vicio](https://open.spotify.com/album/524kESVwWDTg8O8ceaQTfg) | 4:39 |
+| 93 | [Dando gracias](https://open.spotify.com/track/0EFMaoZyXD11x3s5K7oDiX) | [Oh! Marlene](https://open.spotify.com/artist/1hTkLSI3jqW4AWmNTrfuPM) | [Dando gracias](https://open.spotify.com/album/2AQDRjVXwwllusH5uF8kZ3) | 3:35 |
+| 94 | [Tu No Te Quieres Matar](https://open.spotify.com/track/6cFITamYQzo5D47zmXgw2O) | [Arena Polar](https://open.spotify.com/artist/537HRWUPUPU5q4uUM3bZ3s) | [Tu No Te Quieres Matar](https://open.spotify.com/album/2HhH3TO0zHIUxw33rhfFXk) | 3:06 |
+| 95 | [Huella de ti](https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Huella de ti](https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH) | 3:17 |
+| 96 | [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 |
+| 97 | [WTF](https://open.spotify.com/track/5RcL45YbinszYJU2Stixca) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [WTF](https://open.spotify.com/album/5ApCX1wSvwDMCEK7d0Njlx) | 3:07 |
+| 98 | [Cola del vicio](https://open.spotify.com/track/18vMC4pw4zvZxslDqxgvMQ) | [Syd dePalma](https://open.spotify.com/artist/04vfo27dr0j76mPV6vtzuE) | [Cola del vicio](https://open.spotify.com/album/524kESVwWDTg8O8ceaQTfg) | 4:39 |
+| 99 | [TURBO TRUCAO](https://open.spotify.com/track/4cTx7rnYuc0YAFZs5dd2lA) | [Only](https://open.spotify.com/artist/0hTpzLejwiEa2ClxGbVvty), [Travv](https://open.spotify.com/artist/4ZtGg3jRJlcs9XyvNsgLRO) | [TURBO TRUCAO](https://open.spotify.com/album/29SZyGMLneDwEvmxWzvQJ5) | 2:30 |
 
 Snapshot ID: `aCZj+AAAAADv1gyplB993NFfeJxbFMT1`

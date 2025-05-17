@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-477 songs - 1 day 3 hr 56 min
+478 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Coconut Oil](https://open.spotify.com/track/22G3GGfNEx4LMv5BYLkXad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Coconut Oil](https://open.spotify.com/album/24otSlk8g6JzdO6vNpCUD5) | 2:01 | 2021-09-03 | 2022-07-29 |
 | [Coconut Oil](https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:01 | 2021-09-03 | 2022-10-08 |
 | [Colors \(Feat\. Nic Hanson\)](https://open.spotify.com/track/7pm3RAEh9rNYEbY4eEtqtw) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Colors \(Feat\. Nic Hanson\)](https://open.spotify.com/album/0URHI8fiZoROIX7qVgnvJH) | 3:38 | 2024-11-22 |  |
-| [Come and Get It \- A COLORS SHOW](https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb) | 2:25 | 2023-03-24 |  |
+| [Come and Get It \- A COLORS SHOW](https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb) | 2:25 | 2023-03-24 | 2025-05-17 |
 | [Come Back \- Radio Edit](https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Come Back](https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA) | 2:59 | 2022-02-18 | 2022-04-02 |
 | [Come Over](https://open.spotify.com/track/08lS7uqLMbXv7BDOb9guYJ) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Come Over](https://open.spotify.com/album/0oHUs3J4ctv827KteZGkI0) | 3:42 | 2020-11-20 | 2022-04-09 |
 | [Coming Around](https://open.spotify.com/track/7nEZs0rR5vKoZa1m1fRkeO) | [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Vermillion Sands](https://open.spotify.com/album/22DvsqJ1U6RUjR3oYeFhQx) | 3:59 | 2022-04-29 | 2023-04-29 |
@@ -202,6 +202,7 @@
 | [How You Feel](https://open.spotify.com/track/5IFAFA7xKr665r4KguLmkn) | [Clemont](https://open.spotify.com/artist/7cPTjkKAoxXlCj5YJT5Q1V), [Holy Mattress Money](https://open.spotify.com/artist/6QCd5jmXOjrOBVzxSiLGqc) | [How You Feel](https://open.spotify.com/album/4GZWHjtORDvk3u7hIGzbkq) | 4:09 | 2023-07-07 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-06-18 | 2022-01-29 |
 | [Humpty Dumpty](https://open.spotify.com/track/4hpVZXbR64gA01UCwFifdT) | [Tendavillage](https://open.spotify.com/artist/1nOm8sUi8M1dyIAJ8B5SRc) | [Humpty Dumpty](https://open.spotify.com/album/2tgHFkodm0ydkaJPgrd51k) | 2:50 | 2022-11-25 | 2023-06-10 |
+| [Hypnotized](https://open.spotify.com/track/6UhaAf6u6qMEh7IOdzGk9y) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Hypnotized](https://open.spotify.com/album/2K4CWu6QQfBqK6W4tW4oCA) | 3:50 | 2025-05-16 |  |
 | [I Ain't Perfect](https://open.spotify.com/track/5aFmPqvtEPF8qYOJQZJ1Er) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [FALL](https://open.spotify.com/album/7z0evm6hjFVuDzigZkB33b) | 3:18 | 2022-09-30 | 2022-11-26 |
 | [I Can’t Party](https://open.spotify.com/track/00oQQmRQTVONwfEnoSxG97) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/6bs8wgjvtiI34BbchC56uB) | 2:25 | 2023-04-28 | 2023-05-14 |
 | [I Can’t Party](https://open.spotify.com/track/2om87zUjvUhR1unHdqLo1Z) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/5j70jrJlMUJq2vDcJHf2zU) | 2:25 | 2023-04-28 | 2024-04-19 |

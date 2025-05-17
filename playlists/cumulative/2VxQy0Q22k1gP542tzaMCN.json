@@ -193,7 +193,7 @@
     },
     {
       "album": {
-        "name": "American Favorite Ballads, Vols. 1-5 (Box Set)",
+        "name": "American Favorite Ballads, Vols. 1-5",
         "url": "https://open.spotify.com/album/0WyzonIUHozsiu3Zmf5BJq"
       },
       "artists": [
@@ -485,25 +485,7 @@
     },
     {
       "album": {
-        "name": "Down in Washington Square: The Smithsonian Folkways Collection",
-        "url": "https://open.spotify.com/album/2vRfmkYnBcKc15lngDo7Sy"
-      },
-      "artists": [
-        {
-          "name": "Dave Van Ronk",
-          "url": "https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz"
-        }
-      ],
-      "date_added": "2014-09-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 226192,
-      "name": "Dink's Song",
-      "url": "https://open.spotify.com/track/6MrwS3tztW04zEg9kECOMr"
-    },
-    {
-      "album": {
-        "name": "American Favorite Ballads, Vols. 1-5 (Box Set)",
+        "name": "American Favorite Ballads, Vols. 1-5",
         "url": "https://open.spotify.com/album/0WyzonIUHozsiu3Zmf5BJq"
       },
       "artists": [
@@ -536,6 +518,24 @@
       "duration_ms": 674200,
       "name": "Dink's Song - Live at Sin-\u00e9, New York, NY - July/August 1993",
       "url": "https://open.spotify.com/track/7vUznoe3lk5CAx0AS0QBBR"
+    },
+    {
+      "album": {
+        "name": "Down in Washington Square: The Smithsonian Folkways Collection",
+        "url": "https://open.spotify.com/album/2vRfmkYnBcKc15lngDo7Sy"
+      },
+      "artists": [
+        {
+          "name": "Dave Van Ronk",
+          "url": "https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz"
+        }
+      ],
+      "date_added": "2014-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226192,
+      "name": "Dink\u2019s Song",
+      "url": "https://open.spotify.com/track/6MrwS3tztW04zEg9kECOMr"
     },
     {
       "album": {
@@ -789,7 +789,7 @@
     },
     {
       "album": {
-        "name": "American Favorite Ballads, Vols. 1-5 (Box Set)",
+        "name": "American Favorite Ballads, Vols. 1-5",
         "url": "https://open.spotify.com/album/0WyzonIUHozsiu3Zmf5BJq"
       },
       "artists": [

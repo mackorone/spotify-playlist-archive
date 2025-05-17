@@ -1481,6 +1481,32 @@
     },
     {
       "album": {
+        "name": "Dominguinho",
+        "url": "https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "Lembrei de N\u00f3s",
+      "url": "https://open.spotify.com/track/3MZasYL4eB4Tm2U2LZ58tj"
+    },
+    {
+      "album": {
         "name": "Decretos Reais",
         "url": "https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9"
       },
@@ -1626,7 +1652,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 180000,
       "name": "Mais Raro",
       "url": "https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU"
@@ -1854,7 +1880,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 188203,
       "name": "Meu Esquema",
       "url": "https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS"
@@ -3366,6 +3392,24 @@
       "duration_ms": 145371,
       "name": "Vis\u00edvel",
       "url": "https://open.spotify.com/track/107P9rvJfIKEVVHl1hlCM4"
+    },
+    {
+      "album": {
+        "name": "Viver de Carinho",
+        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148396,
+      "name": "Viver de Carinho",
+      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
     },
     {
       "album": {

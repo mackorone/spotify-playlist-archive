@@ -2,12 +2,13 @@
 
 ### [Rock Leve](https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl)
 
-> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bruno Caliman, Luan Santana
+> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: CATTO
 
-192 songs - 11 hr 27 min
+193 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1001 NOITES IS OVER](https://open.spotify.com/track/45Wthdf5BJg0ZFSWIuPrHD) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [CAMINHOS SELVAGENS](https://open.spotify.com/album/6XWoCk6aNwbco5mE2QrPy1) | 5:14 | 2025-05-16 |  |
 | [3 Eternidades](https://open.spotify.com/track/4nxhDCMbxA4IGZcg2fxJbA) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [3 Eternidades](https://open.spotify.com/album/49EWSDhQgSemVZtc8s4V1h) | 2:34 | 2024-06-28 | 2024-09-14 |
 | [4AM](https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [4AM](https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX) | 2:57 | 2024-04-05 |  |
 | [A Cidade Sumiu](https://open.spotify.com/track/1fZVuPBnXO7DeQyiyqB7nQ) | [Cadu Pereira](https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP) | [A Cidade Sumiu](https://open.spotify.com/album/3IJEblX2wYdTe9UWs29kAZ) | 2:57 | 2024-07-19 |  |
@@ -151,7 +152,7 @@
 | [Rio Dentro do Mar](https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Rosa](https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng) | 3:56 | 2024-06-28 |  |
 | [Rua do Gasômetro](https://open.spotify.com/track/2IYnSM1Qdc5AKRoIUbAMaz) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Rua do Gasômetro](https://open.spotify.com/album/1uINhoxHdGsJeMREnGk4Px) | 3:39 | 2023-12-15 | 2024-03-16 |
 | [Saudade Sem Paisagem \(Ela Jamais Virá\)](https://open.spotify.com/track/0s0xqCwSN9dpouDr06i1eg) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Saudade Sem Paisagem \(Ela Jamais Virá\)](https://open.spotify.com/album/0PuCQoxexvLuUa2Ku1wbTM) | 4:01 | 2024-04-05 | 2024-04-27 |
-| [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-06-28 |  |
+| [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-06-28 | 2025-05-17 |
 | [Se Você Quiser Voltar](https://open.spotify.com/track/0WCDkJYGEZfMKhVvEAsCeU) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ), [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Se Você Quiser Voltar](https://open.spotify.com/album/4Na3ea1iiGnAmWQTVDbnTg) | 3:24 | 2023-08-25 | 2023-09-30 |
 | [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 | 2023-08-18 | 2023-09-02 |
 | [SEDE](https://open.spotify.com/track/2dUsGbQRh5jSUaF4J8ct0E) | [Felipe Ramos](https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [SEDE](https://open.spotify.com/album/71ZI6Y8D4GNsYkmw3HGhBk) | 4:04 | 2024-02-23 | 2024-03-23 |

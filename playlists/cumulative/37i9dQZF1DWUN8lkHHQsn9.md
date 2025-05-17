@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:2nIhOTkDDboRX6RsNMg8wg">IKARVS</a>
 
-330 songs - 18 hr 23 min
+331 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [dziękuję nie piję](https://open.spotify.com/track/1cxU9NzGl8Fa5mobu7dQzg) | [ania cringe](https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn) | [dziękuję nie piję](https://open.spotify.com/album/30AhJNPsHBx3TXpJ1WfJWV) | 4:11 | 2024-02-12 | 2024-06-11 |
 | [Eskortka](https://open.spotify.com/track/0kRjJKYe6URpB5OrL4qKCj) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Eskortka](https://open.spotify.com/album/0kel8u51eZT8kkxtVxlkz2) | 2:02 | 2024-10-07 | 2024-11-12 |
 | [Ether](https://open.spotify.com/track/6JmRdTQ3OA1abhU4b5FDN3) | [MANOID](https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM), [Milkbaby](https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX) | [Ether](https://open.spotify.com/album/0G9ue7SWMZ0xq2Lt4go0Lm) | 2:29 | 2025-04-07 |  |
+| [Ev'ry Night](https://open.spotify.com/track/2VxjKjDNgVBElx8mSc4QZ4) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg), [Mandaryna](https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh) | [Ev'ry Night](https://open.spotify.com/album/5Hb8QsA9KoSHldzoMXUEhC) | 3:01 | 2025-05-16 |  |
 | [Evangelion](https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Magister](https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h) | 2:40 | 2023-03-17 | 2023-08-08 |
 | [everyday](https://open.spotify.com/track/4Rjtojy9gXFln2cJQMip9g) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [everyday](https://open.spotify.com/album/06j9bXFpvPTwc3vWDKUVeO) | 1:37 | 2024-02-12 | 2024-12-05 |
 | [Feed My Hunger \(No Shade\)](https://open.spotify.com/track/0hsjCTNkruMDApePUJZMKv) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Feed My Hunger \(No Shade\)](https://open.spotify.com/album/6IpuoQShDOYowPqkxzG8Ku) | 2:24 | 2023-01-24 | 2023-07-11 |
@@ -267,7 +268,7 @@
 | [Spytaj mnie](https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb) | 3:13 | 2023-05-31 | 2024-04-09 |
 | [Stalker](https://open.spotify.com/track/3BdtOK2oTUSLcwgHAQ6aIi) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Stalker](https://open.spotify.com/album/6EPLw3UyM9oCzbBatzdWkz) | 3:30 | 2021-06-22 | 2022-06-01 |
 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 | 2022-06-01 |  |
-| [Stamina](https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 4:22 | 2023-05-10 |  |
+| [Stamina](https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 4:22 | 2023-05-10 | 2025-05-17 |
 | [stara kociara](https://open.spotify.com/track/76jHUKFrFznUArEAUhvOrX) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc), [slotkakotka123](https://open.spotify.com/artist/07eHPQI6wg41TPL5l6XTsR) | [KURDE FAJA](https://open.spotify.com/album/0hT4RZElYWWDHriF0LsDip) | 3:31 | 2023-06-23 |  |
 | [Stop Bzdurom \(The Bad Gays\)](https://open.spotify.com/track/78xBVzCxu76P01HldHdaeE) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 4:33 | 2021-06-22 | 2022-06-01 |
 | [Straty](https://open.spotify.com/track/2zQ8tICZSaEpGe2twp2akq) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms) | 4:04 | 2022-06-10 | 2023-05-11 |

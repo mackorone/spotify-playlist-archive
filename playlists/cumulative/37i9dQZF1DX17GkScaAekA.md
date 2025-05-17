@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-133 songs - 8 hr 39 min
+134 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Requiem, K\. 626: III\. Sequentia: f\. Lacrimosa \(Compl\. Süssmayr, Orch\. Beyer\) \- Live](https://open.spotify.com/track/6izxDWP8kx2yErjuHOdhHV) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP), [Swedish Radio Choir](https://open.spotify.com/artist/1A9umzen6B9Shk2spCzR9y), [Kay Johannsen](https://open.spotify.com/artist/47YXE8kwtR1YCZ47SqsNXd) | [Mozart: Requiem](https://open.spotify.com/album/09ZGdaL9F1eSqKS8U9sKFt) | 2:53 | 2024-07-31 |  |
 | [Requiem, Op\. 48:IV\. Pie Jesu \(Arr\. for Piano\)](https://open.spotify.com/track/4PpPfjRNDzPD0A6A5xgu0z) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Emile Naoumoff](https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2) | [Fauré: Requiem op\. 48 \(in a new version for piano\)](https://open.spotify.com/album/1gRfCVWCeB8VOKYmZ5JMOM) | 3:09 | 2022-07-15 |  |
 | [Respiro 5](https://open.spotify.com/track/0j0HOYUKuufklmuzsyXdtA) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Respiro 5](https://open.spotify.com/album/34y2HYWG7ISiYQoa1hJU1W) | 2:21 | 2024-11-04 |  |
+| [Romance in E Minor, S.169/LW.A148](https://open.spotify.com/track/2O4mWHDsxd8Ca78NlvkPAt) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Romance in E Minor, S.169/LW.A148](https://open.spotify.com/album/7p6k5kDAD14eA32PFOOBsY) | 3:00 | 2025-05-16 |  |
 | [Rondeau: Paula](https://open.spotify.com/track/5GeLatpepLly0qTAqP5VHm) | [Jean Rondeau](https://open.spotify.com/artist/2KodXBuxZLmcqy3R1Oun4g), [Laurent Muller](https://open.spotify.com/artist/6ZAxbpBVkZB2ydRapWuThE), [Alice Bourlier](https://open.spotify.com/artist/1nTQ9Kn7NvnRHLyHg06EoQ), [Maria Mosconi](https://open.spotify.com/artist/54HcZQKC6S01pMUnUfo6v1), [Tanguy de Williencourt](https://open.spotify.com/artist/2j31b8VuqHDIsGnGMvThiD) | [Paula](https://open.spotify.com/album/1FCRdm2C1zrho2PfZ7tWPy) | 2:41 | 2021-11-09 |  |
 | [Satie: 6 Gnossiennes: No\. 3, Lent](https://open.spotify.com/track/6L4nMQYd5z0bOiKWCPz3b2) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Letter\(s\) to Erik Satie \- 6 Gnossiennes: No\. 3, Lent](https://open.spotify.com/album/254MKjiyK6jpxy4lTuZybf) | 2:45 | 2023-10-20 |  |
 | [Schubert: Sonata in A Minor, D\. 821 "Arpeggione": II\. Adagio](https://open.spotify.com/track/0mphqBldbD5cTcWfnODhmI) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I), [Dionysis Grammenos](https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc) | [Schumann & Schubert \- Transcriptions for Clarinet & Harp](https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk) | 3:40 | 2021-11-09 | 2024-04-06 |

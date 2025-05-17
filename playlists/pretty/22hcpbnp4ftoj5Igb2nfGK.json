@@ -6,7 +6,7 @@
     "name": "NtotheBEAN",
     "url": "https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p"
   },
-  "snapshot_id": "AAAF4eOR+rri03BSMbSpzjkMtEKU9Ofp",
+  "snapshot_id": "AAAF5BmEQY5s/hlMY7fjgBYEU5het99g",
   "tracks": [
     {
       "added_at": "2023-10-05 17:02:13",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/6dxm3Z8U4lOJTWo6cGVDCR"
     },
     {
-      "added_at": "2025-03-11 20:11:14",
-      "album": {
-        "name": "Year Of The Snitch",
-        "url": "https://open.spotify.com/album/46eayJPxf1cBWWUqNa2MJJ"
-      },
-      "artists": [
-        {
-          "name": "Death Grips",
-          "url": "https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH"
-        }
-      ],
-      "duration_ms": 211661,
-      "name": "Death Grips Is Online",
-      "url": "https://open.spotify.com/track/4EHv5m2D0zDYYAu4xZoYwm"
-    },
-    {
       "added_at": "2025-03-11 21:21:20",
       "album": {
         "name": "Streaky",
@@ -1643,6 +1627,42 @@
       "duration_ms": 283642,
       "name": "Count Me Out",
       "url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
+    },
+    {
+      "added_at": "2025-05-17 00:24:02",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "good kid",
+      "url": "https://open.spotify.com/track/5vuJuBqwzHJgCA1ysRfwxZ"
+    },
+    {
+      "added_at": "2025-05-17 00:40:18",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Anna Wise",
+          "url": "https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C"
+        }
+      ],
+      "duration_ms": 443413,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/5d8yMIlqJH78lwOUP7T3oF"
     }
   ],
   "unique_name": "Mystery brew \ud83e\uddd9\u200d\u2640\ufe0f",

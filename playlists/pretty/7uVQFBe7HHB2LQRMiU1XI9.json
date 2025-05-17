@@ -443,7 +443,7 @@
     {
       "added_at": "2023-04-08 00:15:11",
       "album": {
-        "name": "American Favorite Ballads, Vols. 1-5 (Box Set)",
+        "name": "American Favorite Ballads, Vols. 1-5",
         "url": "https://open.spotify.com/album/0WyzonIUHozsiu3Zmf5BJq"
       },
       "artists": [
@@ -898,6 +898,14 @@
         {
           "name": "Gnarls Barkley",
           "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
         }
       ],
       "duration_ms": 164480,

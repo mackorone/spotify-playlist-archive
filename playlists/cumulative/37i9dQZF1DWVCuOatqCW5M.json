@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Farhan Akhtar, Arijit Singh and more. ",
+  "description": "Latest music from Neeti Mohan, Guru Randhawa and more. ",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -3699,6 +3699,32 @@
     },
     {
       "album": {
+        "name": "DL91 FM",
+        "url": "https://open.spotify.com/album/2Jc0evKv7asNZMx32rQHrF"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Hurricane",
+          "url": "https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO"
+        },
+        {
+          "name": "DL91 Era",
+          "url": "https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Bechara",
+      "url": "https://open.spotify.com/track/5GTpmHZKqhHWccoJ3o86KJ"
+    },
+    {
+      "album": {
         "name": "Befikra",
         "url": "https://open.spotify.com/album/3sw5Zb6m4uSfUZLXMDx5my"
       },
@@ -4952,7 +4978,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 185869,
       "name": "Chaap Tilak",
       "url": "https://open.spotify.com/track/5SxizhhPXKLmFBhAF98Gxd"
@@ -24421,6 +24447,24 @@
     },
     {
       "album": {
+        "name": "Saansein",
+        "url": "https://open.spotify.com/album/3zXLfE2fB1O2H7QEMa0lHJ"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Saansein",
+      "url": "https://open.spotify.com/track/05rgefjJAMbbi4iIFswRMv"
+    },
+    {
+      "album": {
         "name": "Saansein Aakhri",
         "url": "https://open.spotify.com/album/7kBbR4mV5bmFFLpjJ4rD2w"
       },
@@ -24666,6 +24710,28 @@
       "duration_ms": 222186,
       "name": "Saawan Aa Gaya",
       "url": "https://open.spotify.com/track/3DfWvj4uyO49r6jT65q4zK"
+    },
+    {
+      "album": {
+        "name": "Saawariya",
+        "url": "https://open.spotify.com/album/5DQDVW42OfdTOMl6GfQiG8"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Raajeev V Bhalla",
+          "url": "https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215342,
+      "name": "Saawariya",
+      "url": "https://open.spotify.com/track/6oJcnd3IJBrJzGeJDCxfvA"
     },
     {
       "album": {
@@ -25290,7 +25356,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 224680,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/3uWQkslzoaKzbtOAjQxWNr"
@@ -25408,7 +25474,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 175269,
       "name": "Sajna Ve",
       "url": "https://open.spotify.com/track/5uVdnHJtxvpy3BSmoxV5Kn"
@@ -26542,7 +26608,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 219632,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO"
@@ -31430,6 +31496,32 @@
       "duration_ms": 207750,
       "name": "Veham",
       "url": "https://open.spotify.com/track/7mVBZzOmTSiHvo9odwQttr"
+    },
+    {
+      "album": {
+        "name": "Vibe (Feat. Shanaya Kapoor)",
+        "url": "https://open.spotify.com/album/4y3yPFQRmu9OodxGAdPpeU"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "JSL Singh",
+          "url": "https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168033,
+      "name": "Vibe (Feat. Shanaya Kapoor)",
+      "url": "https://open.spotify.com/track/6mno9UtEqirwKbieQY9NqC"
     },
     {
       "album": {

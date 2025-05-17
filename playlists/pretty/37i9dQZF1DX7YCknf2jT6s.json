@@ -6,8 +6,172 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aB19wwAAAABGgJhwKsbTBCapngVwV9/Q",
+  "snapshot_id": "aCa4WAAAAAC9wF1TiNwWn10ImUqATWVi",
   "tracks": [
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "BEATrio",
+        "url": "https://open.spotify.com/album/4qZ6AQOEGQVpyI3iyEhFQB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+        },
+        {
+          "name": "Antonio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
+        }
+      ],
+      "duration_ms": 335170,
+      "name": "Kaleidoscopes",
+      "url": "https://open.spotify.com/track/2V5TR2NkI29foggEFzgNvd"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/4qumGNh9nIs0jhR0jFoEMu"
+      },
+      "artists": [
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        },
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        }
+      ],
+      "duration_ms": 170467,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/3yG45WqilUjnG51kE35npx"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "Gen",
+        "url": "https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Mad Hope (feat. Louis Cole, Sam Gendel, Sam Wilkes)",
+      "url": "https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "crystal waterfalls",
+        "url": "https://open.spotify.com/album/4Z7tZ98TBYj9b9suXDKBsh"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "duration_ms": 312807,
+      "name": "crystal waterfalls",
+      "url": "https://open.spotify.com/track/0JL2cqzSBKwaHFwP66vqWo"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "The Fearless Flyers V",
+        "url": "https://open.spotify.com/album/5DDDL6liGPtIvSwLmW7K4s"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        }
+      ],
+      "duration_ms": 136085,
+      "name": "Coastal Postal",
+      "url": "https://open.spotify.com/track/3wGXkPmkJXJHPpkQKPc7lp"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "Glass Half Warm / Glass Half Cool",
+        "url": "https://open.spotify.com/album/4iMcE1esTI2ZosXkn4KqRp"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "duration_ms": 301387,
+      "name": "Glass Half Warm / Glass Half Cool",
+      "url": "https://open.spotify.com/track/6YVQKmXHeHUsGOJ8gn1FEX"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "Out Late",
+        "url": "https://open.spotify.com/album/1XGB8a1AizLa9i0Dg9l0Y4"
+      },
+      "artists": [
+        {
+          "name": "Eric Scott Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 390360,
+      "name": "The Weirdos",
+      "url": "https://open.spotify.com/track/72d2OHopugpvkGhYRJcrCw"
+    },
+    {
+      "added_at": "2025-05-16 04:00:24",
+      "album": {
+        "name": "For Roy 2.0",
+        "url": "https://open.spotify.com/album/6ornfnDFJgrGHDBh0G1JT2"
+      },
+      "artists": [
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "duration_ms": 275634,
+      "name": "For Roy 2.0",
+      "url": "https://open.spotify.com/track/14zlS6eVyZdV8kbcMv46xb"
+    },
     {
       "added_at": "2025-05-09 04:00:03",
       "album": {
@@ -23,22 +187,6 @@
       "duration_ms": 419478,
       "name": "So It Goes",
       "url": "https://open.spotify.com/track/6NlDnhn61geWuWSUHhOTN9"
-    },
-    {
-      "added_at": "2025-05-09 04:00:03",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/2DaMTB2MtDuRWIb2WeLedU"
-      },
-      "artists": [
-        {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
-        }
-      ],
-      "duration_ms": 148629,
-      "name": "Ventura",
-      "url": "https://open.spotify.com/track/6Te6TByygnONS4JyJC0ruN"
     },
     {
       "added_at": "2025-04-25 04:00:55",
@@ -351,38 +499,6 @@
     {
       "added_at": "2025-04-25 04:00:55",
       "album": {
-        "name": "They",
-        "url": "https://open.spotify.com/album/082CgbDuWksg2aRMaMkgB7"
-      },
-      "artists": [
-        {
-          "name": "Eric Scott Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 251986,
-      "name": "They",
-      "url": "https://open.spotify.com/track/1AqqCVcDaF2HfexU8khxaD"
-    },
-    {
-      "added_at": "2025-04-11 04:00:21",
-      "album": {
-        "name": "Ones & Twos",
-        "url": "https://open.spotify.com/album/4nRENY6OH6RHFGrf1RthCW"
-      },
-      "artists": [
-        {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
-        }
-      ],
-      "duration_ms": 155665,
-      "name": "For Peace",
-      "url": "https://open.spotify.com/track/6G1GqXDerrlSOmsmt35kCW"
-    },
-    {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
         "name": "Homage",
         "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
       },
@@ -481,26 +597,6 @@
       "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
     },
     {
-      "added_at": "2025-04-18 04:00:41",
-      "album": {
-        "name": "we still wanna dance",
-        "url": "https://open.spotify.com/album/0vBGL6ey5Qg1FY1eksUwc7"
-      },
-      "artists": [
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "D'LEAU",
-          "url": "https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk"
-        }
-      ],
-      "duration_ms": 457962,
-      "name": "we still wanna dance",
-      "url": "https://open.spotify.com/track/1NqKuaIJkJXB7yxYLNyKyR"
-    },
-    {
       "added_at": "2025-04-04 04:00:20",
       "album": {
         "name": "OUT THERE [Feat. Sonicwonder]",
@@ -583,30 +679,6 @@
       "duration_ms": 244049,
       "name": "Sweetie",
       "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
-    },
-    {
-      "added_at": "2025-04-18 04:00:41",
-      "album": {
-        "name": "Walnut and Western",
-        "url": "https://open.spotify.com/album/7geZKT1f8Pd8ACYOLKNDOa"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
-        },
-        {
-          "name": "Antonio S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
-        }
-      ],
-      "duration_ms": 296514,
-      "name": "Walnut and Western",
-      "url": "https://open.spotify.com/track/1oV68kQrrwm5tNFE9armWs"
     },
     {
       "added_at": "2025-04-18 04:00:41",
@@ -1385,22 +1457,6 @@
       "url": "https://open.spotify.com/track/0Xvder5yNsM1HXZGq6UvUK"
     },
     {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Echo Sax End",
-        "url": "https://open.spotify.com/album/0H23rXwBGa2V7tsD3HUJNh"
-      },
-      "artists": [
-        {
-          "name": "Caleb Arredondo",
-          "url": "https://open.spotify.com/artist/48X3AlBcfBle0OsLFRIOrl"
-        }
-      ],
-      "duration_ms": 77205,
-      "name": "Echo Sax End",
-      "url": "https://open.spotify.com/track/0wd3OKU2d2KW7QxAjCpkye"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "La Tijera",
@@ -1451,26 +1507,6 @@
       "duration_ms": 303000,
       "name": "Capitals",
       "url": "https://open.spotify.com/track/0NOH86zJJPRShN5ShondVZ"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "RASTA PASTA (ft. Masego)",
-        "url": "https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm"
-      },
-      "artists": [
-        {
-          "name": "IAMDDB",
-          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 250769,
-      "name": "RASTA PASTA (ft. Masego)",
-      "url": "https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -1555,22 +1591,6 @@
       "duration_ms": 267013,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "open this wall",
-        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 156688,
-      "name": "open this wall",
-      "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1659,22 +1679,6 @@
       "duration_ms": 466480,
       "name": "To The Moon (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/3ixFx7kbMdBVSeMqfYagJN"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Dare to Dream",
-        "url": "https://open.spotify.com/album/1JijzGgPvOfJU0HNA675JZ"
-      },
-      "artists": [
-        {
-          "name": "Ty's Music",
-          "url": "https://open.spotify.com/artist/4cz9uR9ZbiB9GjgFMVO5Ob"
-        }
-      ],
-      "duration_ms": 63832,
-      "name": "Dare to Dream",
-      "url": "https://open.spotify.com/track/1bh61fZoW3Hx58shn3W9dx"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1777,22 +1781,6 @@
       "url": "https://open.spotify.com/track/7sWpQAaGW2EaiXgZv6KXtw"
     },
     {
-      "added_at": "2024-06-21 04:17:13",
-      "album": {
-        "name": "Batho",
-        "url": "https://open.spotify.com/album/43YZOOcwYCHopAjAs97E85"
-      },
-      "artists": [
-        {
-          "name": "NALEDI",
-          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
-        }
-      ],
-      "duration_ms": 419626,
-      "name": "Batho Baka",
-      "url": "https://open.spotify.com/track/6ama3ArEVk8KgtV1paVdj1"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Office Party Music",
@@ -1823,22 +1811,6 @@
       "duration_ms": 219830,
       "name": "The Cool (Constantly Operating On Love)",
       "url": "https://open.spotify.com/track/6ILjgccPqtpAizFpj4k8da"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me"
-      },
-      "artists": [
-        {
-          "name": "Julius Rodriguez",
-          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
-        }
-      ],
-      "duration_ms": 313946,
-      "name": "Run To It (The CP Song)",
-      "url": "https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1969,26 +1941,6 @@
       "url": "https://open.spotify.com/track/64bHwwaOJkBIrfDrKTiwxV"
     },
     {
-      "added_at": "2024-06-21 04:17:13",
-      "album": {
-        "name": "Coyote, You're My Star",
-        "url": "https://open.spotify.com/album/536j1Qo7FeFLsSxh20AB4D"
-      },
-      "artists": [
-        {
-          "name": "Dana and Alden",
-          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
-        },
-        {
-          "name": "Melanie Charles",
-          "url": "https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe"
-        }
-      ],
-      "duration_ms": 250909,
-      "name": "Family Garden",
-      "url": "https://open.spotify.com/track/7asDxLXyR0F4qdhWgin1OK"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "5th Symphony In Congo Square",
@@ -2003,22 +1955,6 @@
       "duration_ms": 266500,
       "name": "5th Symphony In Congo Square",
       "url": "https://open.spotify.com/track/77SYnhEsNZuWMZgt07Tarn"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Twentyfour",
-        "url": "https://open.spotify.com/album/4rxCZqnPlfbBxm7GZXvcRq"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 439333,
-      "name": "Tears of Hope",
-      "url": "https://open.spotify.com/track/7y9hEUs9t2uE3HnGwyJrsw"
     },
     {
       "added_at": "2024-07-12 04:00:00",

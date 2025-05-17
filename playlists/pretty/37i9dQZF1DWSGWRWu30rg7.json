@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover:Fajar Noor",
-  "num_followers": 63909,
+  "num_followers": 63961,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCYi3wAAAADcX9SdTI0xny3lO1YeCfiX",
+  "snapshot_id": "aCcbNwAAAAD4K2RuKairQr27Qe6bGj/y",
   "tracks": [
     {
       "added_at": "2025-05-15 17:22:39",
@@ -283,6 +283,38 @@
       "duration_ms": 245142,
       "name": "Di Ujung Jalan",
       "url": "https://open.spotify.com/track/0b8LZHUO19M2a9QE0GFpeU"
+    },
+    {
+      "added_at": "2025-05-16 11:02:15",
+      "album": {
+        "name": "Arah Pulang",
+        "url": "https://open.spotify.com/album/5d0oHtcABygUyzREnUafdw"
+      },
+      "artists": [
+        {
+          "name": "Orkes Bada Isya",
+          "url": "https://open.spotify.com/artist/3r3Uir4USFn3eT6L76T0to"
+        }
+      ],
+      "duration_ms": 278482,
+      "name": "Arah Pulang",
+      "url": "https://open.spotify.com/track/0LBAYZckAFdxPaiukoxXcg"
+    },
+    {
+      "added_at": "2025-05-16 11:02:15",
+      "album": {
+        "name": "The Hereafter",
+        "url": "https://open.spotify.com/album/5XqAbDhrTIPdqAOSy8p4Eb"
+      },
+      "artists": [
+        {
+          "name": "SMSR",
+          "url": "https://open.spotify.com/artist/55LoW5e3Gjxqnli0UexvEj"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "The Hereafter",
+      "url": "https://open.spotify.com/track/6hBCa7IKWO0vHdQTihFHGF"
     },
     {
       "added_at": "2025-05-15 17:22:39",

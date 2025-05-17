@@ -1,13 +1,41 @@
 {
   "description": "The best of modern blues rock. Cover: Joe Bonamassa",
-  "num_followers": 236208,
+  "num_followers": 236261,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDUgAAAAC3dKfGGX1qs9abcJmr+B4K",
+  "snapshot_id": "aCa4SgAAAAB4JO8AnRH385zWfhzDWwOu",
   "tracks": [
+    {
+      "added_at": "2025-05-16 04:00:10",
+      "album": {
+        "name": "Borrow My Boots",
+        "url": "https://open.spotify.com/album/2MDhb7bszkqpJYHI8rV1w1"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Grace Bowers",
+          "url": "https://open.spotify.com/artist/3SWXWMtSA0ZWxvhESbTkJe"
+        },
+        {
+          "name": "Shelly Fairchild",
+          "url": "https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm"
+        }
+      ],
+      "duration_ms": 160760,
+      "name": "Borrow My Boots",
+      "url": "https://open.spotify.com/track/3K5ejUtwpzA2pnlsyt7hdr"
+    },
     {
       "added_at": "2025-04-25 04:00:41",
       "album": {
@@ -1851,22 +1879,6 @@
       "duration_ms": 189460,
       "name": "Just Takes Time",
       "url": "https://open.spotify.com/track/6L72riHp7EkFg2KauN3yqY"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "QCNH",
-        "url": "https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2"
-      },
-      "artists": [
-        {
-          "name": "Quaker City Night Hawks",
-          "url": "https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "Suit in the Back",
-      "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"
     },
     {
       "added_at": "2021-04-16 04:01:00",

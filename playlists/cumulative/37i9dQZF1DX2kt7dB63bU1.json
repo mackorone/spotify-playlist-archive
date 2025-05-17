@@ -5107,6 +5107,24 @@
     },
     {
       "album": {
+        "name": "Give Me The Simple Life",
+        "url": "https://open.spotify.com/album/1PewQFhopMX5lb0mDQmZox"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151854,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/4XCqphsGzjEDkGrlygO5cm"
+    },
+    {
+      "album": {
         "name": "Give Up!",
         "url": "https://open.spotify.com/album/50p1GjyKpIugW5qnUCQXcF"
       },
@@ -9472,7 +9490,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 239111,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/05tPsJoIzQzsFkTCXADOTA"
@@ -11372,7 +11390,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 285375,
       "name": "Philodendron",
       "url": "https://open.spotify.com/track/1lUNJmZi4S01kQsyAcXITZ"
@@ -13964,6 +13982,24 @@
       "duration_ms": 278773,
       "name": "Thank You for the Heartbreak",
       "url": "https://open.spotify.com/track/0FUm0D50IIAu8D7QLpKCzO"
+    },
+    {
+      "album": {
+        "name": "That Doesn't Matter",
+        "url": "https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "That Doesn't Matter",
+      "url": "https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b"
     },
     {
       "album": {

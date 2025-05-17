@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,031,874 likes - 144 songs - 7 hr 29 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,031,898 likes - 144 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 39 | [Light](https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Light](https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H) | 3:59 |
 | 40 | [I'm All In](https://open.spotify.com/track/0mOX7j9WeCohrAiHjwlVFR) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [I'm All In](https://open.spotify.com/album/1PZFdSAn2YYnzHMPFRown6) | 2:53 |
 | 41 | [The Machine \- Sped Up](https://open.spotify.com/track/44OuxVAGgMvw1J9jn4lFt3) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [The Machine \(Sped Up\)](https://open.spotify.com/album/4Qj1YaiObeQCrksCZ1b2dY) | 2:34 |
-| 42 | [Whine in Brazil](https://open.spotify.com/track/5yudLBaBLfvWu6YjqmTWuB) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [Whine in Brazil](https://open.spotify.com/album/7AMtOQ4omSoq5q74aZPxdS) | 1:40 |
+| 42 | [Whine in Brazil](https://open.spotify.com/track/5yudLBaBLfvWu6YjqmTWuB) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [Whine in Brazil](https://open.spotify.com/album/7AMtOQ4omSoq5q74aZPxdS) | 1:36 |
 | 43 | [miss you](https://open.spotify.com/track/565VLmlYEYD0kt4QTdmybR) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [miss you](https://open.spotify.com/album/11mHHrvQZmGgIAWPK43nKU) | 1:40 |
 | 44 | [After Dark](https://open.spotify.com/track/3PeeEUukuSrEBUkpsr0dSk) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [After Dark](https://open.spotify.com/album/7kAwn79OktPUYnKVZekIPD) | 3:55 |
 | 45 | [Moment](https://open.spotify.com/track/764CYWJzIeuBGGDaeu7b2n) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Moment](https://open.spotify.com/album/2wX9o4FhBhhRPXkLE1MvLe) | 2:45 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 49 | [the way i was \- enjoii remix](https://open.spotify.com/track/25uSI4fvxRU3Iujvw7flSh) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3), [enjoii](https://open.spotify.com/artist/5aUdEtXbJeOjAuNXLn9lkX), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [the way i was \(enjoii remix\)](https://open.spotify.com/album/4NzioCx6B71TPCLR5VhfPW) | 2:12 |
 | 50 | [My Name](https://open.spotify.com/track/33wXe2PIOqYZ4lI0eNRTdW) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [My Name](https://open.spotify.com/album/77ykc4hJTGuICmMOjovmXt) | 3:50 |
 | 51 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 |
-| 52 | [WHINE IN BRAZIL FUNK](https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [WHINE IN BRAZIL FUNK](https://open.spotify.com/album/6tuTOSJX2SjH8JBsh5uM30) | 1:44 |
+| 52 | [WHINE IN BRAZIL FUNK](https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [WHINE IN BRAZIL FUNK](https://open.spotify.com/album/6tuTOSJX2SjH8JBsh5uM30) | 1:35 |
 | 53 | [Annihilation](https://open.spotify.com/track/6mw6uMkFrjeVrx1wZVP03z) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n) | [Annihilation](https://open.spotify.com/album/07GNUhyyXfJFfDhhD2vcL5) | 3:08 |
 | 54 | [Poker Face](https://open.spotify.com/track/7tQPXgC9h5m7XyzSpRCYkD) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Poker Face](https://open.spotify.com/album/3S0E6XgBZZEHwtMK4Gq7vO) | 2:04 |
 | 55 | [Daydreaming](https://open.spotify.com/track/6xQpnKc8pxK1cfM6DAgySh) | [L I F E / L I N E](https://open.spotify.com/artist/5oGx8PvzXwgguezHDVRakQ), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Daydreaming](https://open.spotify.com/album/5WAkd6l1z5LiBWqXAxAM81) | 3:34 |

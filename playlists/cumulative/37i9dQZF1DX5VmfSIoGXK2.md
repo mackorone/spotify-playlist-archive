@@ -4,7 +4,7 @@
 
 > Jazz house is our love language  🌳  with  Chaos In The CBD
 
-109 songs - 7 hr 32 min
+110 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-02-21 |  |
 | [at first](https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [at first](https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0) | 2:31 | 2025-02-21 |  |
 | [AWA \- Atjazz Love Soul Mix](https://open.spotify.com/track/5Nwn75vYZCEtTf0bFNT6AT) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [AWA \(Atjazz Remixes\)](https://open.spotify.com/album/1zm4B9mSGH4yLyymTZtYin) | 6:32 | 2025-02-21 | 2025-05-10 |
+| [Azura](https://open.spotify.com/track/43XuQmyHVzWJkY1AJEnlrX) | [Edmondson](https://open.spotify.com/artist/0Z21z5mCbDZhKD8kOXfo28), [Mahyar Rahmantalab Vaghei](https://open.spotify.com/artist/40pPjLvgdPbPkuOdcgDOIp) | [Azura](https://open.spotify.com/album/6wsH192UPSVkxNC7wqbmLM) | 5:46 | 2025-05-16 |  |
 | [Barcode](https://open.spotify.com/track/4f88T1UG83f1pd3fvSssHw) | [Bård Berg](https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r) | [Barcode](https://open.spotify.com/album/6J8ZbmGKSEQdknktSqrzrC) | 4:48 | 2025-04-04 |  |
 | [Belle](https://open.spotify.com/track/19MuwU5fHAmlSjqXSfILhR) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Belle](https://open.spotify.com/album/6405dSaBJmxm2tMEDaeBbz) | 2:25 | 2025-02-21 | 2025-05-03 |
 | [Ben Days](https://open.spotify.com/track/67hs9rQxAVvq9mfyTOhPQj) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Ben Days](https://open.spotify.com/album/4JSUbHlKDPlHJlu5CxWq8J) | 3:20 | 2025-04-04 |  |
@@ -62,7 +63,7 @@
 | [Jazzy Cigarette](https://open.spotify.com/track/0DsbijUjURPgkffxhfkrfJ) | [Copenhagen untd.](https://open.spotify.com/artist/4kOHVYMZUnNasTU8eKJpme) | [Jazzy Cigarette](https://open.spotify.com/album/3zpdIwaPyjtBnIukIPddzZ) | 2:39 | 2025-02-21 |  |
 | [Jealous Girl](https://open.spotify.com/track/1Thix6BaqobCQATYE7LRln) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Jealous Girl](https://open.spotify.com/album/2FbWwQP2riAzTktIulJrSv) | 4:00 | 2025-03-07 |  |
 | [joycelyn's dance](https://open.spotify.com/track/3z0JwddAR5GASTxnKExIw1) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:18 | 2025-02-21 |  |
-| [Keep It Real](https://open.spotify.com/track/4YpCTAZRpNmW1EHLVrq4ur) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Westside Movements](https://open.spotify.com/album/07aLEJ68A2wz9em0AwnuS2) | 6:54 | 2025-02-21 |  |
+| [Keep It Real](https://open.spotify.com/track/4YpCTAZRpNmW1EHLVrq4ur) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Westside Movements](https://open.spotify.com/album/07aLEJ68A2wz9em0AwnuS2) | 6:54 | 2025-02-21 | 2025-05-17 |
 | [Leather Loafers](https://open.spotify.com/track/2A1j5MzOI9xQH1godISbki) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [The Moode Life](https://open.spotify.com/album/1Weqz1h1WtlT8TCplCNBkp) | 3:42 | 2025-04-04 |  |
 | [Little Me](https://open.spotify.com/track/5Zz7T3gOuOKwVcYqmsgQpR) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/22yrN8AV9X7bQrz8MDXr6E) | 3:39 | 2025-02-21 | 2025-04-05 |
 | [Love Language](https://open.spotify.com/track/2x9lYHqC6bIPVGofPEj54j) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 4:38 | 2025-05-09 |  |

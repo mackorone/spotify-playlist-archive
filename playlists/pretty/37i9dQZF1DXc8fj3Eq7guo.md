@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 ### [Drop Pin](https://open.spotify.com/playlist/37i9dQZF1DXc8fj3Eq7guo)
 
-> Tag your location, we shall pass by as we go around Africa
+> 50 stops, one continent, grab your pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,064 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,079 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 45 | [Tanzania](https://open.spotify.com/track/5Fc7n5o7UGFXEXZDaAbOyC) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Muziki Wa Samia](https://open.spotify.com/album/3JnsY2Il2yMASXxB21Kf5R) | 3:07 |
 | 46 | [Limpopo](https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Take Over](https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU) | 4:13 |
 | 47 | [Congo](https://open.spotify.com/track/4S1FXtwJkdsw4JxNOmFaod) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6JF0zNJ7n8aCE8K9Zmgmw7) | 3:44 |
-| 48 | [Ghana](https://open.spotify.com/track/6Lqg26xjGQzxQLo851bWnW) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm) | [Ghana](https://open.spotify.com/album/28pQbxgVu4UVBQwpQ3xIq8) | 2:17 |
-| 49 | [Namanga](https://open.spotify.com/track/6ty1FoWHfvkyLc4L5rQiFi) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Namanga](https://open.spotify.com/album/13rAjLXBk5Hq11WymEJRaE) | 3:30 |
-| 50 | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m) | 2:57 |
-| 51 | [Ghana](https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM) | [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ghana](https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh) | 4:11 |
+| 48 | [Namanga](https://open.spotify.com/track/6ty1FoWHfvkyLc4L5rQiFi) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Namanga](https://open.spotify.com/album/13rAjLXBk5Hq11WymEJRaE) | 3:30 |
+| 49 | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m) | 2:57 |
+| 50 | [Ghana](https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM) | [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ghana](https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh) | 4:11 |
 
-Snapshot ID: `aAGV5wAAAADUgilxIH7JPxMUNCNTJ9JJ`
+Snapshot ID: `aCcUNgAAAABnbFdLP/F2v87i/qhjm2X/`

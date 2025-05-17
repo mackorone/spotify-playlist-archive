@@ -792,7 +792,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 190106,
       "name": "An Ordinary Day (haru)",
       "url": "https://open.spotify.com/track/1SWOMV36fMbpect803gbWV"
@@ -9748,7 +9748,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 209773,
       "name": "Night at Noon",
       "url": "https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX"
@@ -13331,6 +13331,24 @@
     },
     {
       "album": {
+        "name": "Resident Playbook, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5iuDI9yIR5v8ayzQ4poPCu"
+      },
+      "artists": [
+        {
+          "name": "Mido and Falasol",
+          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288868,
+      "name": "Someday It\u2032s Time to Shine",
+      "url": "https://open.spotify.com/track/5HFrbl4QXzy8lgNj60YZqR"
+    },
+    {
+      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/0HIDsIWC43WiecL3qO7IUP"
       },
@@ -15988,7 +16006,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 201533,
       "name": "when the rain stops",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"

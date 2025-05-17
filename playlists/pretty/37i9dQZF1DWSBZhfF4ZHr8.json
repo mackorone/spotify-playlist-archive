@@ -1,13 +1,29 @@
 {
   "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Soprano",
-  "num_followers": 228952,
+  "num_followers": 229016,
   "original_name": "Fresh Vari\u00e9t\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCZj9gAAAABqfwgIHYgADLzYhWiuI9P+",
+  "snapshot_id": "aCbqEAAAAAAUr1UFBb4/bjm7AHftPiZQ",
   "tracks": [
+    {
+      "added_at": "2025-05-16 07:32:32",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Quoi qu'il arrive \u00e7a va aller",
+      "url": "https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc"
+    },
     {
       "added_at": "2025-05-15 22:00:22",
       "album": {

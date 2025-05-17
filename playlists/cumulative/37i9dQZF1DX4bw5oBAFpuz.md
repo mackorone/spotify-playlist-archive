@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-544 songs - 1 day 7 hr 9 min
+545 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2023-02-23 | 2023-04-26 |
 | [get older](https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [get older](https://open.spotify.com/album/0WBPBQuEfYJcRmIA3OdJmq) | 2:57 | 2023-02-23 |  |
 | [Get There When I Get There](https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Left on McKinney](https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9) | 2:56 | 2024-10-03 |  |
-| [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 | 2024-11-08 |  |
+| [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 | 2024-11-08 | 2025-05-17 |
 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 | 2024-04-11 |  |
 | [Give Me That Feeling](https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:14 | 2024-02-26 | 2024-04-19 |
 | [Glow](https://open.spotify.com/track/09NpMJO80vtOO5kH0uKPaw) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Glow](https://open.spotify.com/album/1R6ntu2OZzt8K8trkqtjPQ) | 3:08 | 2024-03-26 | 2024-05-25 |
@@ -395,6 +395,7 @@
 | [Shatterproof](https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv) | 2:29 | 2024-03-21 |  |
 | [Shatterproof \- Acoustic](https://open.spotify.com/track/513W9H23o8w42uqAHglMlM) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof \(Acoustic\)](https://open.spotify.com/album/21GW5aF4xNYmzMNLjREhZy) | 2:35 | 2023-09-07 | 2024-03-27 |
 | [She](https://open.spotify.com/track/5FMbo350dmyodXrct0XxyQ) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Lean into Me](https://open.spotify.com/album/1qMdxBw10qvEbt7Z7zufTt) | 2:49 | 2023-04-25 | 2024-03-06 |
+| [She](https://open.spotify.com/track/1RfMDYFUtp2YHusUMmzRAw) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Lean Into Me](https://open.spotify.com/album/4fz9O5CjyiRKwNgMFZMVLK) | 2:49 | 2025-05-13 |  |
 | [She Doesn't Know \- Radio Edit](https://open.spotify.com/track/0iwXrzdFwTEcf8GR2rm2QB) | [Valerius](https://open.spotify.com/artist/17cWhusbHm4VTSrR8ZK7xg) | [Valerius](https://open.spotify.com/album/2AZbBVLDiQ9Vm52MNe3UaG) | 3:12 | 2023-04-25 | 2024-02-27 |
 | [She Doesn't Know \- Radio Edit](https://open.spotify.com/track/1LrLa1vKq6iZp8SAL7IJ5Z) | [Valerius](https://open.spotify.com/artist/17cWhusbHm4VTSrR8ZK7xg) | [Valerius](https://open.spotify.com/album/07rWXaHNMHUgC4HpUihF5z) | 3:12 | 2024-04-11 |  |
 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 | 2023-02-23 | 2023-03-18 |

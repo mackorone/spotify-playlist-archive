@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+    },
+    {
+      "album": {
         "name": "Are You Feeling This? / Stay Focused",
         "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
       },
@@ -4736,7 +4754,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 200077,
       "name": "Danny Phantom",
       "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
@@ -5710,6 +5728,28 @@
       "duration_ms": 140000,
       "name": "Down Like That",
       "url": "https://open.spotify.com/track/37V9nZfjftC0vRgc16lbKs"
+    },
+    {
+      "album": {
+        "name": "Down Low",
+        "url": "https://open.spotify.com/album/4gXnl6gmGgrpzmtINln4rl"
+      },
+      "artists": [
+        {
+          "name": "Avi Sic",
+          "url": "https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Down Low",
+      "url": "https://open.spotify.com/track/1BRMsQ12jolE4BvN5sUCP2"
     },
     {
       "album": {
@@ -7829,6 +7869,24 @@
     },
     {
       "album": {
+        "name": "Get Serious",
+        "url": "https://open.spotify.com/album/0BRsc1SXOCprRgl3FkgoKp"
+      },
+      "artists": [
+        {
+          "name": "Niko The Kid",
+          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182290,
+      "name": "Get Serious",
+      "url": "https://open.spotify.com/track/7yYuobfuCJSatM3gLQ2sJ8"
+    },
+    {
+      "album": {
         "name": "Get Twisted",
         "url": "https://open.spotify.com/album/7Lqz9CLtfqIc4ZmubT1uMR"
       },
@@ -8458,6 +8516,24 @@
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
+    },
+    {
+      "album": {
+        "name": "Worth the Wait",
+        "url": "https://open.spotify.com/album/4ZFEINeqtOlUVVcly0ODdK"
+      },
+      "artists": [
+        {
+          "name": "Matsu",
+          "url": "https://open.spotify.com/artist/2bFIsZ2C80LKx8Pdk8KW5U"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214277,
+      "name": "Got This Love",
+      "url": "https://open.spotify.com/track/7bxFzjkbsdsEJWvjVELU5S"
     },
     {
       "album": {
@@ -9938,7 +10014,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 153756,
       "name": "International Party Girl",
       "url": "https://open.spotify.com/track/4MZSIPKJ5IKx1yisFygkIz"
@@ -10304,7 +10380,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 201699,
       "name": "Just Let Go",
       "url": "https://open.spotify.com/track/5hn6ItyNv3rEwGW7plCEN9"
@@ -11218,6 +11294,24 @@
       "duration_ms": 207476,
       "name": "Like the Way",
       "url": "https://open.spotify.com/track/3WaVYL4NrMDjDjcFVOi3uo"
+    },
+    {
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/1k4s0DDRx9nymD1HGwtyGs"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216562,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/6XLjxYyrr6r40l5RPZR9WO"
     },
     {
       "album": {
@@ -15012,10 +15106,36 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 176718,
       "name": "PRT",
       "url": "https://open.spotify.com/track/5BcXmWBoTuFhlZ3HVEOiSx"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/4JyaETaIsWXgsfTcRl2gCS"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "BIG WETT",
+          "url": "https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186576,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp"
     },
     {
       "album": {
@@ -17674,7 +17794,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 166874,
       "name": "Straight Out the NYC",
       "url": "https://open.spotify.com/track/6BE0BFnXXPWHGjmdb24N8g"
@@ -17964,6 +18084,24 @@
       "duration_ms": 140654,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
+    },
+    {
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
     },
     {
       "album": {
@@ -18288,7 +18426,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 136615,
       "name": "Taste",
       "url": "https://open.spotify.com/track/3dQ1gvudu6vdVCo5TZ7U7e"
@@ -20756,7 +20894,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 182343,
       "name": "What You Looking For",
       "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"

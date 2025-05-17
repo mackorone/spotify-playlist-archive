@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/15Om2Twy4OFk32Y3CKD5jH?si=47Ybr84ESCKVYf2w6d93CA">tait mills</a>
 
-1,166 songs - 2 day 18 hr 11 min
+1,167 songs - 2 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Apollo](https://open.spotify.com/track/1DJxgr5EBDty2LY1HP089Z) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Apollo](https://open.spotify.com/album/1nTunof0h6rRsRb7S0fxcZ) | 3:46 | 2025-01-24 | 2025-04-19 |
 | [Appaloosa Bones](https://open.spotify.com/track/03IAVdKpjqqIjNUxZRHywy) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/5IlwxjLUUcUFUTX5nGVM7J) | 3:59 | 2023-07-13 | 2023-09-02 |
 | [Apples and Pairs](https://open.spotify.com/track/1mhMAOaxIASCwkSCLBLC0V) | [Lily Hollows](https://open.spotify.com/artist/39K69becRQ7hdkwMrnGNlQ) | [Apples and Pairs](https://open.spotify.com/album/3fIQE6HbRgsygxmQPIG6mV) | 3:17 | 2023-04-06 | 2023-05-26 |
+| [Are You Happy Now](https://open.spotify.com/track/1QWZGW12Stj3JGZWIWVUx4) | [Joshua Morris](https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn) | [Are You Happy Now](https://open.spotify.com/album/3B5sz22BMCAnFhDNliedai) | 3:59 | 2025-05-16 |  |
 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 | 2024-05-03 | 2024-07-05 |
 | [Around the world in a day \(feat\. Moses Sumney\)](https://open.spotify.com/track/0AncHqGegHhP6teMUwLRWr) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 4:17 | 2024-05-31 | 2024-08-02 |
 | [As long as you drive](https://open.spotify.com/track/1ERoe7iqMDXaY3yLdNqg2a) | [Thara](https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU) | [As long as you drive](https://open.spotify.com/album/3a3gFEBYfxagf1OQORHD5e) | 3:41 | 2024-03-15 | 2024-03-23 |
@@ -500,7 +501,7 @@
 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 | 2023-03-02 | 2023-04-15 |
 | [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 | 2024-11-29 | 2025-02-28 |
 | [Imposter Syndrome](https://open.spotify.com/track/2gx29KY6La3XADxsxnnOfR) | [Alexis Silvestra](https://open.spotify.com/artist/6H199k00mZXpsUzJI6yKdu) | [Imposter Syndrome](https://open.spotify.com/album/5BDhBY7tzqolWWrerYEWyC) | 3:26 | 2023-05-18 | 2023-07-07 |
-| [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 | 2025-01-30 |  |
+| [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 | 2025-01-30 | 2025-05-17 |
 | [In My Dreams](https://open.spotify.com/track/0DXmLK3tPnsVbwLn35SJui) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [In My Dreams](https://open.spotify.com/album/2bE6cQW9HoGmHSX6MlxCDY) | 3:36 | 2023-04-06 | 2023-06-16 |
 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 | 2023-03-23 | 2023-06-16 |
 | [In Rome](https://open.spotify.com/track/0hEhSq1LChxU3J4zlfknt5) | [Carla Malrowe](https://open.spotify.com/artist/1sgIxyaQ77veaGLIu40zYv) | [The petals and sand](https://open.spotify.com/album/2ar7vAVgaBCZk2J0DMFNWs) | 3:10 | 2023-11-09 | 2023-12-22 |

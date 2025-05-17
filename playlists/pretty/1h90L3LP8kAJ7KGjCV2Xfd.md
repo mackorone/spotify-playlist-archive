@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 293,347 likes - 255 songs - 14 hr 23 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 293,340 likes - 255 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,7 +251,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 241 | [Every Time I Go](https://open.spotify.com/track/4FTpa1KemfwP8YMoJrZ7oB) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [Every Time I Go](https://open.spotify.com/album/3UW3xgjapRpeUnl4rjOQ1X) | 3:05 |
 | 242 | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/track/3NrIDXk1iWUzzNjyebPmNx) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/album/3Ntqgl4QwGZymJxrLDxXhJ) | 3:09 |
 | 243 | [Play With Fire \(feat\. Frances Forever\)](https://open.spotify.com/track/7LyGoh4umDLZgIlLYSzO1t) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Play With Fire \(feat\. Frances Forever\)](https://open.spotify.com/album/75mqQgjafxqZIwypeugZwK) | 3:56 |
-| 244 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 |
+| 244 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 |
 | 245 | [Thank You For That](https://open.spotify.com/track/151s9vQsR2wGPHqHPAGGHs) | [Maxx Nies](https://open.spotify.com/artist/14v815FOpQAJMRXZPPaQEQ) | [Thank You For That](https://open.spotify.com/album/6MBAUlUyLarFYHspKwtHUh) | 3:20 |
 | 246 | [BIG BRAIN](https://open.spotify.com/track/5UofhM7Re1xxUrJkehGtAb) | [JACK](https://open.spotify.com/artist/0U6Pk63IZg92LsvOELgXui) | [BIG BRAIN](https://open.spotify.com/album/4pbRfrSH55KhHjetqCmQXl) | 2:01 |
 | 247 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 |

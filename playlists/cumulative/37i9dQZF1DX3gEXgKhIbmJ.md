@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-264 songs - 10 hr 43 min
+265 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Jersey Nights](https://open.spotify.com/track/1L693Tdie86mm611bu0WOS) | [$iria](https://open.spotify.com/artist/4WpRxJN3JBWBoQ2mCGjDPY), [Astrokidda](https://open.spotify.com/artist/0Y5oqpX3189rirpALykCE0) | [Jersey Nights](https://open.spotify.com/album/0TJkzLceZgXyZzXi2tJpJJ) | 2:22 | 2023-12-22 | 2024-02-03 |
 | [Jóias Frias](https://open.spotify.com/track/20LWpQzEbHjZ7Jef2A3XDO) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Igunigga](https://open.spotify.com/artist/7feIJCP0yCn3yoT2IDWsh6), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Jóias Frias](https://open.spotify.com/album/2rLIzC4NcZt3g76ZjTh7Zj) | 2:44 | 2024-04-12 | 2024-11-30 |
 | [LATINA](https://open.spotify.com/track/0EFqjnHd4S8ZWOK6EI9ILp) | [The Pierre](https://open.spotify.com/artist/0BFLIdbhRlCYM1PLeVnq3x) | [LATINA / PIQUE ANOS 2000](https://open.spotify.com/album/1YaMoBNNH0yInOc1Z2NDPL) | 2:22 | 2023-09-22 | 2023-09-30 |
+| [LEALL On The Radar Freestyle](https://open.spotify.com/track/5DRm1n1Fe5pzIdjEmXDdoC) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [LEALL On The Radar Freestyle](https://open.spotify.com/album/2BBWkxsTEBQFTNYesaDQeG) | 2:58 | 2025-05-16 |  |
 | [Libertinagem](https://open.spotify.com/track/18LZ3UlS1sH7FPaHQ0G5bL) | [P2eli](https://open.spotify.com/artist/5tsySajIDzckBET0R9za2Y), [PeéLi Prod](https://open.spotify.com/artist/0WDk7D0gVwJ5pAop52YnXr) | [Libertinagem](https://open.spotify.com/album/1fB2ISLE2hScchPh5zz1Ax) | 2:39 | 2024-09-27 | 2024-11-30 |
 | [LIGA PRA NADA](https://open.spotify.com/track/0hkvPTKwELlKkjcRpLVuNU) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [P.A](https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV) | 2:17 | 2024-11-08 | 2024-11-30 |
 | [LINGERIE](https://open.spotify.com/track/7BAu2493qreRH66gxk5YLY) | [Aimar](https://open.spotify.com/artist/6A8rC2RnuqMKJom5roADWy), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [LINGERIE](https://open.spotify.com/album/0ulXoe2khr8mDnfnic8ARc) | 3:31 | 2024-05-03 |  |

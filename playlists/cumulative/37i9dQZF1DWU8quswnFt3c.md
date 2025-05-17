@@ -4,7 +4,7 @@
 
 > Listen to Creators at full volume\. Cover: Ana Bacalhau
 
-2,389 songs - 5 day 12 hr 10 min
+2,390 songs - 5 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1957,6 +1957,7 @@
 | [The Hardest Part](https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:56 | 2023-11-29 | 2024-01-11 |
 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 | 2024-04-17 | 2024-05-03 |
 | [The Light](https://open.spotify.com/track/4MXjIVrCiqWA2h8PTQPaeU) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [The Light](https://open.spotify.com/album/2g1NSuuk9unmJMKofGUM2f) | 4:12 | 2022-04-06 | 2022-05-05 |
+| [The Lovey Dovey Song](https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [The Lovey Dovey Song](https://open.spotify.com/album/30SZowhZ6LpoAl0UyTbWYX) | 2:50 | 2025-05-07 |  |
 | [The One \(I Haven't Met\)](https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [The One \(I Haven't Met\)](https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1) | 3:07 | 2023-02-01 | 2023-03-02 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-03 | 2022-09-09 |
 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 | 2023-10-04 | 2023-11-30 |
@@ -2244,7 +2245,7 @@
 | [Đừng Nói Tôi Điên](https://open.spotify.com/track/2SBUmN7mgGikl6oESlNWS7) | [Thu Minh](https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5), [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Đừng Nói Tôi Điên](https://open.spotify.com/album/6mxpoaAVFBasybCf2NHaPN) | 4:30 | 2023-09-06 | 2023-10-05 |
 | [Łza](https://open.spotify.com/track/4mCbpDFKxtGkCzWixh2rDE) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Łza](https://open.spotify.com/album/0D35KRRYG1KJGwTG9iGSAT) | 3:53 | 2025-02-05 | 2025-02-26 |
 | [БЕЗ КОХАННЯ](https://open.spotify.com/track/6yTSdpaqc747hvfokBv8bS) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [БЕЗ КОХАННЯ](https://open.spotify.com/album/1yVePWCyQCKLeAdKXNlYiV) | 3:00 | 2023-04-05 | 2024-01-11 |
-| [Біла стрічка](https://open.spotify.com/track/6WeJt26qtv3HejArxV5w1O) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Краля](https://open.spotify.com/album/0xt9rzSIuNqd0dbBdQkTdd) | 2:14 | 2025-04-02 |  |
+| [Біла стрічка](https://open.spotify.com/track/6WeJt26qtv3HejArxV5w1O) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Краля](https://open.spotify.com/album/0xt9rzSIuNqd0dbBdQkTdd) | 2:14 | 2025-04-02 | 2025-05-17 |
 | [вредина](https://open.spotify.com/track/7z5d2KNHm2prczVHmSdWBz) | [алёна швец.](https://open.spotify.com/artist/7m9RH1V73dYjGv8RgGP39c) | [ВРЕДИНА](https://open.spotify.com/album/7xLJ1srg7cLX0bB5BKMV5g) | 2:21 | 2021-12-11 | 2022-01-06 |
 | [Все невипадково](https://open.spotify.com/track/5hjBItGjGd9JIFv5sltLIQ) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Віддаю](https://open.spotify.com/album/0KZVsgKj9r6pwqdohzFWy8) | 3:04 | 2024-02-07 | 2024-03-07 |
 | [Всі дівчата хороші](https://open.spotify.com/track/6m5Jm3q8V2h8IFJg7X1QH9) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Всі дівчата хороші](https://open.spotify.com/album/5Htf24w6tzp0rx0gQ6i2Jv) | 2:39 | 2023-06-07 | 2023-07-06 |

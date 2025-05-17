@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française\. Photo : Soprano
 
-250 songs - 12 hr 21 min
+251 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 | 2024-09-12 | 2024-10-04 |
 | [Quitte](https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Il était une fois](https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l) | 3:18 | 2024-10-03 | 2024-11-29 |
 | [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/7hNaD6OzZ8rYhTcigE5Poc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Quoi qu'il arrive ça va aller](https://open.spotify.com/album/1fOrrU8r2xfIVAdItjpKwr) | 3:17 | 2024-11-28 | 2025-01-10 |
+| [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Renaissance](https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL) | 3:18 | 2025-05-16 |  |
 | [Recommence\-moi \(Version hymne de la promo 2024\)](https://open.spotify.com/track/2pmouGx109C0GKJ8hb39B4) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Recommence\-moi \(Version hymne de la promo 2024\)](https://open.spotify.com/album/35gjX59noxxDreblcjF2vG) | 3:07 | 2024-10-24 | 2025-01-24 |
 | [Reflet](https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Reflet](https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp) | 2:48 | 2025-01-30 | 2025-03-07 |
 | [Refuge](https://open.spotify.com/track/0I8x14WQm5qZIuePdd4JRX) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Refuge](https://open.spotify.com/album/7sdaJif7blg8yw12wtnKd6) | 3:32 | 2024-12-12 | 2025-02-07 |

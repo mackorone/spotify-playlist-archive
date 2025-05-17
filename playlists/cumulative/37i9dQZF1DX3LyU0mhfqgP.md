@@ -4,7 +4,7 @@
 
 > For Eurovision week, last year's winner Nemo takes over the playlist with their favorite contestants from the community.
 
-1,517 songs - 3 day 10 hr 3 min
+1,519 songs - 3 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-07-31 | 2022-10-26 |
 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-06-05 | 2025-05-07 |
 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 | 2023-03-07 | 2024-01-11 |
-| [Amar pelos Dois](https://open.spotify.com/track/202ObLBtd9FxpOgpSj9xiG) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO) | [Amar Pelos Dois](https://open.spotify.com/album/3SB9Nq1crGYRbawIoTNkuM) | 3:07 | 2025-05-13 |  |
+| [Amar pelos Dois](https://open.spotify.com/track/202ObLBtd9FxpOgpSj9xiG) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO) | [Amar Pelos Dois](https://open.spotify.com/album/3SB9Nq1crGYRbawIoTNkuM) | 3:07 | 2025-05-13 | 2025-05-17 |
 | [AMEIANOITE](https://open.spotify.com/track/3JeFqRhhI27DitFmQmdSzL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/5D5BwY5BCQSV296xzalpXk) | 2:45 | 2023-01-24 | 2023-02-16 |
 | [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 | 2023-01-24 | 2023-02-10 |
 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 | 2023-02-10 | 2024-01-11 |
@@ -388,7 +388,8 @@
 | [Esta Vida Loca](https://open.spotify.com/track/1ineIuphIroBEhGJi9MJeW) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Esta Vida Loca](https://open.spotify.com/album/7npZ7YNVeuLwAt6u0DrkUL) | 2:22 | 2023-10-10 | 2023-11-14 |
 | [estonovabien](https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [estonovabien](https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW) | 2:41 | 2024-07-09 | 2024-08-14 |
 | [Ether](https://open.spotify.com/track/6JmRdTQ3OA1abhU4b5FDN3) | [MANOID](https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM), [Milkbaby](https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX) | [Ether](https://open.spotify.com/album/0G9ue7SWMZ0xq2Lt4go0Lm) | 2:29 | 2025-04-08 | 2025-05-07 |
-| [Euphoria](https://open.spotify.com/track/6aJVSu9oPmRIgw8xPT66wV) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal \(2013 Edition\)](https://open.spotify.com/album/7FySrxbb8xtskFg9XbLPc4) | 3:32 | 2025-05-13 |  |
+| [Euphoria](https://open.spotify.com/track/6aJVSu9oPmRIgw8xPT66wV) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal \(2013 Edition\)](https://open.spotify.com/album/7FySrxbb8xtskFg9XbLPc4) | 3:32 | 2025-05-13 | 2025-05-17 |
+| [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 | 2025-05-16 |  |
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2024-10-08 | 2024-12-05 |
 | [Ever New](https://open.spotify.com/track/5APSnVrpZZaOfzv3oiJ7uX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 5:44 | 2024-11-27 | 2025-01-15 |
 | [Ever New \- Single Version](https://open.spotify.com/track/4phgo7gXRpdu66hrLKtyM3) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Transa: Selects](https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F) | 4:50 | 2024-11-12 | 2024-11-28 |
@@ -1387,6 +1388,7 @@
 | [Un día nos vamos a morir](https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Un día nos vamos a morir](https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy) | 4:02 | 2024-05-06 | 2025-01-15 |
 | [Under The Ladder](https://open.spotify.com/track/1qzpOtBShCEN7w1ZBFW4MY) | [MELOVIN](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL) | [OCTOPUS](https://open.spotify.com/album/76AnXSE0EbkUkc1bFM9UZE) | 3:00 | 2025-05-13 |  |
 | [Underdogs](https://open.spotify.com/track/4MALiTKHAOFmOqXe16bt8K) | [Cherryade](https://open.spotify.com/artist/2Z4zth26FtZ4lK2Yu9nBgV) | [Underdogs](https://open.spotify.com/album/10UUUzUXqMPXyoKeVPrALd) | 3:36 | 2022-04-29 | 2022-07-18 |
+| [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-16 |  |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-11-30 | 2024-01-11 |
 | [Universo](https://open.spotify.com/track/3jEB4jnVr3ExApgjlPI21c) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Universo](https://open.spotify.com/album/3cW83FmkNbfV2vUBF0teDH) | 3:15 | 2023-09-12 | 2023-10-11 |
 | [unruly](https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [unruly](https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT) | 2:24 | 2024-06-12 | 2024-06-27 |

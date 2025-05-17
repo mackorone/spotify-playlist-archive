@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,534 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,531 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 | 7 | [Cotton\-Eyed Joe](https://open.spotify.com/track/0GwRob4EvIlRimzZgKPhGI) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [The Essential Chieftains](https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G) | 2:41 |
 | 8 | [Dooley](https://open.spotify.com/track/3iwe7i8OU95KJyqSzeHWCD) | [The Dillards](https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS) | [Back Porch Bluegrass](https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea) | 2:04 |
 | 9 | [Go West \- Demo](https://open.spotify.com/track/1duh10KsHfdFo593uVZFb8) | [Austin Lucas](https://open.spotify.com/artist/2xXNqL807BAunM2FdmAixU) | [Collection](https://open.spotify.com/album/4PUzcGkU26tIvN1T9gizCI) | 3:46 |
-| 10 | [This Land is Your Land](https://open.spotify.com/track/7CNaYAdLyi86kofGafReiT) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [The Asch Recordings, Vol\. 1\-4](https://open.spotify.com/album/0QfX3caqG3gvfY1Kal2tlQ) | 2:19 |
+| 10 | [This Land is Your Land \- 3](https://open.spotify.com/track/7CNaYAdLyi86kofGafReiT) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [The Asch Recordings, Vols\. 1\-4](https://open.spotify.com/album/0QfX3caqG3gvfY1Kal2tlQ) | 2:19 |
 | 11 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
 | 12 | [Mary Don't You Weep](https://open.spotify.com/track/3QK7cIYLhfPUkidwymZzro) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [N\. Ravikiran](https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5), [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Mumtaz Mahal](https://open.spotify.com/album/29IetRomk9ANrRj02LTgpz) | 6:44 |
 | 13 | [Low Bridge, Everybody Down](https://open.spotify.com/track/6Bx3MO8HExnQe1xbRHHJGp) | [The Golden Eagle String Band](https://open.spotify.com/artist/0jYYsx4uInLVsmfBXl2JOK) | [Grand Canal Ballads: History of the Erie Canal](https://open.spotify.com/album/5gQpAwD6MRHL6luGTfz3SI) | 3:10 |

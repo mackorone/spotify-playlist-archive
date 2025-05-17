@@ -2329,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "I Can't Forget You",
+        "url": "https://open.spotify.com/album/22isBBRfzRQ2QuHDn00D8k"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263363,
+      "name": "I Can't Forget You",
+      "url": "https://open.spotify.com/track/4fxjNTmcKzS83xYigEC8cp"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 253300,
       "name": "More of You",
       "url": "https://open.spotify.com/track/6wd4uWCNdQ7t9jEazGq4E1"

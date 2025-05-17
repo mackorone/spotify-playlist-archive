@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Auroras Boreales",
+        "url": "https://open.spotify.com/album/2E054dVVF6vuoNYjmtBj4E"
+      },
+      "artists": [
+        {
+          "name": "EESCA",
+          "url": "https://open.spotify.com/artist/1z2zbEA6J6c8DDtf4eK5wu"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278792,
+      "name": "Auroras Boreales",
+      "url": "https://open.spotify.com/track/0eOLIMZOZw0DjgZKwttmlg"
+    },
+    {
+      "album": {
         "name": "Backwards Directions",
         "url": "https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf"
       },
@@ -539,6 +557,28 @@
     },
     {
       "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/0eCXgCOO8RZSQJqcnZe90I"
+      },
+      "artists": [
+        {
+          "name": "STOCKMANN",
+          "url": "https://open.spotify.com/artist/4qJ4NLG3pHFfFxOBhQmDzm"
+        },
+        {
+          "name": "Crystal F",
+          "url": "https://open.spotify.com/artist/6oZhc4ONSAMn6RYg6o6VWL"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141921,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/1Vu2JvugXGdmzHljHRNmkb"
+    },
+    {
+      "album": {
         "name": "Bichota (Post-Punk)",
         "url": "https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD"
       },
@@ -680,7 +720,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 306364,
       "name": "Cataracts",
       "url": "https://open.spotify.com/track/0TwvRIqAkUi5s87I863ITg"
@@ -788,7 +828,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 217698,
       "name": "Complainer",
       "url": "https://open.spotify.com/track/7EzsU6MrB1vTgs4Q8LCobR"
@@ -842,7 +882,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 165632,
       "name": "Consciousness",
       "url": "https://open.spotify.com/track/2Np4c8DYpNZMLu7b82r0Es"
@@ -1632,7 +1672,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 257892,
       "name": "Fate",
       "url": "https://open.spotify.com/track/53Zvj4xbSFKwSJeXjyocHK"
@@ -2324,7 +2364,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 239211,
       "name": "I Wish I Was You - Twin Tribes Remix",
       "url": "https://open.spotify.com/track/62ZO1zdoApFON2JrBNi0Js"
@@ -2620,7 +2660,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 306666,
       "name": "Kasvetli Kutlama",
       "url": "https://open.spotify.com/track/1JgTzrrrnh6neqTtvA3F5d"
@@ -3020,7 +3060,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 225833,
       "name": "Mirror Twin",
       "url": "https://open.spotify.com/track/45wU0gt5K1RGPGqfhP71Vx"
@@ -3236,7 +3276,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 134442,
       "name": "Nasha",
       "url": "https://open.spotify.com/track/4DRFP1Bz7cgYk1cTUIxfUt"
@@ -3290,7 +3330,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 182787,
       "name": "Night Alive",
       "url": "https://open.spotify.com/track/2nbO2FwBXVJtI1EECb70Sw"
@@ -3452,7 +3492,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 222273,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/0SZCVG64kopl8QwXiFHUPB"
@@ -4234,7 +4274,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 189677,
       "name": "Syndrome",
       "url": "https://open.spotify.com/track/0XGOz64pn3NWBHJie7HhpI"
@@ -4508,7 +4548,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 116590,
       "name": "Twin Peaks",
       "url": "https://open.spotify.com/track/2fPUV6XKaReQtC4hsJRBem"
@@ -4998,7 +5038,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 218181,
       "name": "\u041c\u0451\u0440\u0442\u0432 \u0432\u043d\u0443\u0442\u0440\u0438",
       "url": "https://open.spotify.com/track/50kqsBYacoTWaNUJ7fNEjK"
@@ -5038,6 +5078,24 @@
       "duration_ms": 248391,
       "name": "\u041d\u0435 \u0434\u043b\u044f \u043c\u0435\u043d\u044f",
       "url": "https://open.spotify.com/track/5kO7v7jNh2wLu7NmMvBfbA"
+    },
+    {
+      "album": {
+        "name": "\u043e\u0441\u0442\u0430\u0442\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/7nCENjO2RqryFF5oKZwb2Y"
+      },
+      "artists": [
+        {
+          "name": "plenka",
+          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207042,
+      "name": "\u043e\u0441\u0442\u0430\u0442\u044c\u0441\u044f",
+      "url": "https://open.spotify.com/track/3EYLF8HrKPDaksSmp5L9ll"
     },
     {
       "album": {

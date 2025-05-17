@@ -4,7 +4,7 @@
 
 > bands and tracks on the rise in heavy music\. Cover: Orthodox
 
-259 songs - 15 hr 0 min
+260 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abandon Meant](https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV) | [Abandon Meant](https://open.spotify.com/album/0HQT7vjsS71uiQ6tOMmtpo) | 4:52 | 2023-01-06 | 2024-07-16 |
 | [Abandon Meant](https://open.spotify.com/track/6yYRYER1dqMZsSyTmqfxrC) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV) | [Weight In The Water](https://open.spotify.com/album/6HvSSvuAPdwDhBdHUvTY3h) | 4:52 | 2023-06-20 | 2024-04-19 |
 | [ACOLYTE](https://open.spotify.com/track/4EVjNQpQzLWv2yAZDYwAvW) | [GASKET](https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0) | [BABYLON](https://open.spotify.com/album/39v3ZcKh9IflfrgEFpuhGF) | 1:16 | 2024-07-15 |  |
+| [alive](https://open.spotify.com/track/7cBQeXeyXxLkKper9J4yXS) | [st.sinner](https://open.spotify.com/artist/3OeX9lekdj5s9FByuNxW8G) | [alive](https://open.spotify.com/album/3FlzecT4g8ifzrDHbAL3Ov) | 3:01 | 2025-05-16 |  |
 | [All Talk](https://open.spotify.com/track/3q7M84onWH32v6oP4oOlP6) | [Dead Romantic](https://open.spotify.com/artist/4jv8lGnnLKnExlPh88e48A) | [All Talk](https://open.spotify.com/album/75NUEwsH1kdH33kVeBoCeo) | 2:55 | 2022-07-29 | 2022-09-10 |
 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 | 2022-07-29 | 2022-12-24 |
 | [Anathema](https://open.spotify.com/track/1oLHIkHzNipzkouaBClSdl) | [Evilgloom](https://open.spotify.com/artist/1cJ8mgIFVHt86l9J90pkBa) | [Addictions](https://open.spotify.com/album/4Cfplm19oERf2huyJwaKGJ) | 3:21 | 2023-03-02 | 2023-05-19 |

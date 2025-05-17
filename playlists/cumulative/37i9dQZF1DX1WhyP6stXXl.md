@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Lola Young
 
-1,055 songs - 2 day 5 hr 16 min
+1,059 songs - 2 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w) | [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 | 2024-12-05 | 2025-01-10 |
 | [Don't You Give Up On Me Yet](https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Black Dress](https://open.spotify.com/album/2A40Ol1cG4JjD6dzAfwztx) | 3:16 | 2024-11-21 | 2024-12-20 |
 | [DONE](https://open.spotify.com/track/0BADfmHMyTaLQ5HmhH44NB) | [Thoughty](https://open.spotify.com/artist/31UTwNIEyvdhv7PaaDNisW) | [DONE](https://open.spotify.com/album/37UTYBmSZVJZezE2EQQUma) | 2:24 | 2024-10-31 | 2024-11-29 |
+| [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-16 |  |
 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 | 2024-06-28 | 2024-07-12 |
 | [Down To My Bones](https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Down To My Bones](https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD) | 3:21 | 2024-10-31 | 2024-11-29 |
 | [Drawbridge & The Baroness](https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:41 | 2024-10-24 | 2024-11-08 |
@@ -329,6 +330,7 @@
 | [Fovame \- Spotify Singles](https://open.spotify.com/track/3zlmmuG8dsrtZoIvQoXCPX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [Fovame \- Spotify Singles](https://open.spotify.com/album/32GZtAOfYXZvu2NWRAt0Sf) | 2:48 | 2025-05-08 |  |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-25 | 2024-08-23 |
 | [French Girls](https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [French Girls](https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN) | 2:52 | 2025-05-01 |  |
+| [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 | 2025-05-16 |  |
 | [Friends](https://open.spotify.com/track/3MZSuu8bD15Ha7LtRWyMQg) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Friends](https://open.spotify.com/album/2simPoFMlXOgstLyQQYomC) | 2:34 | 2024-08-16 | 2024-09-13 |
 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 | 2025-03-13 | 2025-04-11 |
 | [Full Attention](https://open.spotify.com/track/6Yhzabh1wK19kniAJOz1G2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Full Attention](https://open.spotify.com/album/25Gn5IvV9ykJTPDGigx452) | 3:04 | 2025-05-08 |  |
@@ -536,6 +538,7 @@
 | [Keep It Together](https://open.spotify.com/track/3HQU6KApPS6oEkAleCIFeT) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Keep It Together](https://open.spotify.com/album/7sbZRDkCgBoVxLFrBYWQrV) | 2:58 | 2024-10-17 | 2024-11-15 |
 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 | 2024-12-12 | 2025-01-24 |
 | [King Of Spain](https://open.spotify.com/track/5ntu5AUNCFzLtZ6vH104t1) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [King Of Spain](https://open.spotify.com/album/6OOFAdHTPBKJXIue83eQPv) | 3:11 | 2025-01-09 | 2025-01-24 |
+| [Kiss Me Like You Mean It](https://open.spotify.com/track/0OTlqoPLsatL8a5GuQVyPs) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Kiss Me Like You Mean It](https://open.spotify.com/album/1k2dzFm2TeM74WgwS13AL2) | 2:48 | 2025-05-16 |  |
 | [Kiss Me Like You're Leaving](https://open.spotify.com/track/6rA5wCxRTEE5G2EWwrQY4e) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Kiss Me Like You're Leaving](https://open.spotify.com/album/4kStSM0UKjniVUclhDnieM) | 3:40 | 2025-05-01 |  |
 | [Kiss Me Slow](https://open.spotify.com/track/4RjPbpWbPapGuV9mYsqvl6) | [VANÈS](https://open.spotify.com/artist/1pTUJW4rouSRTVpWFHHHVt) | [Kiss Me Slow](https://open.spotify.com/album/2DIarKBTuYfojk2otXPuuX) | 2:25 | 2025-02-28 | 2025-03-28 |
 | [Kissing A Ghost](https://open.spotify.com/track/7sc6rmCT7xvI4we4U9dPPQ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Kissing A Ghost](https://open.spotify.com/album/5Nz8ntCVMWGhvdEPqX84Es) | 3:19 | 2024-11-21 | 2024-12-20 |
@@ -699,6 +702,7 @@
 | [Ordinary Moments](https://open.spotify.com/track/0sFeUL9YaJerPwoUMz1Ljl) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Ordinary Moments](https://open.spotify.com/album/0hz0lJIyMox8C5KgaGBBjz) | 2:43 | 2024-08-15 | 2024-09-13 |
 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-28 | 2024-07-27 |
 | [Out of My Mind](https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Wasting Away](https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD) | 2:48 | 2024-11-28 | 2025-01-03 |
+| [Out of Your League](https://open.spotify.com/track/1oU2liz5XrN3xpT23F6Q3O) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Out of Your League](https://open.spotify.com/album/4Tfc6JkbqehfTP7rF725kd) | 3:15 | 2025-05-16 |  |
 | [OUTTA MY HEAD](https://open.spotify.com/track/7mNHEBJYW03lCcZAejbBus) | [Thoughty](https://open.spotify.com/artist/31UTwNIEyvdhv7PaaDNisW) | [OUTTA MY HEAD](https://open.spotify.com/album/2F0kjgUj0iai7xs4OnIxHb) | 2:09 | 2024-08-22 | 2024-09-20 |
 | [over me](https://open.spotify.com/track/5A7wfp8brBFtkLaxPg7TtO) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [over me](https://open.spotify.com/album/4f2ZmRPZX7R6wQYFIqGyWw) | 2:15 | 2024-10-24 | 2024-11-22 |
 | [Over You \(feat\. Justin Jesso\)](https://open.spotify.com/track/69GEK9C8nKwiGLMv2NbpiG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Over You \(feat\. Justin Jesso\)](https://open.spotify.com/album/212lVtNgONE9gXOtq8V6g5) | 2:53 | 2024-11-07 | 2024-12-06 |

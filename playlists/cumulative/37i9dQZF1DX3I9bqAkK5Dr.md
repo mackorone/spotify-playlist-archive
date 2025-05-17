@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-365 songs - 21 hr 55 min
+366 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Janaki](https://open.spotify.com/track/3ZAQJr4l7GxjTZ1LxR5imO) | [Syel](https://open.spotify.com/artist/35HkhHMeEarempEwDAPQgT), [Maansi Gautam](https://open.spotify.com/artist/7rbzhIalhUWFHq9yLggbFP) | [Janaki](https://open.spotify.com/album/232yFf1RjYugU574aoGdp6) | 4:00 | 2024-09-12 | 2024-12-14 |
 | [Jeena Marna](https://open.spotify.com/track/1XqnI6gFr03nmNatopVCW6) | [Arun Kaundinya](https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4) | [Rhythm of Love](https://open.spotify.com/album/5swoNPRR3TAD32WC5STPof) | 4:33 | 2024-12-20 | 2025-04-24 |
 | [Jimpak Chipak](https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF) | [MC Mike](https://open.spotify.com/artist/3fJeUWROZ8RmlLHDWTtqYo), [MC Uneek](https://open.spotify.com/artist/5V59VPRPHoUasr8KOncBne), [Om Sripathi](https://open.spotify.com/artist/6cHpt2n70Z4fNJdkP7r13T) | [Jimpak Chipak](https://open.spotify.com/album/5Bl77fvZRxNfEkudOcjgaT) | 3:07 | 2022-07-18 | 2024-01-20 |
+| [KAALA BASHA](https://open.spotify.com/track/4hMORTbAYAI0khfjB4hieK) | [Dasagriva](https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn) | [KAALA BASHA](https://open.spotify.com/album/0dNnLja79nFUoZS3epocQL) | 2:13 | 2025-05-16 |  |
 | [Kaalaale](https://open.spotify.com/track/51u6ywNUr5EhTpBfllwrSN) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0), [Jyoti Kavi](https://open.spotify.com/artist/7HeMDT4UyuKc3NNQBvpZnN) | [Kaalaale](https://open.spotify.com/album/7zuoO7Uhrb8ALzLT9bRlp0) | 3:38 | 2024-04-08 | 2024-07-31 |
 | [Kaalam Karigee Vela](https://open.spotify.com/track/0ORgN49uMzjQXQzPDo02kg) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce) | 3:05 | 2023-05-26 | 2024-01-05 |
 | [Kaalam Karigee Vela](https://open.spotify.com/track/4H4xbEw7snbrhkyZx73xPN) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/62nW8JpmhiafjI7PveQ2dp) | 3:05 | 2023-05-26 | 2024-02-22 |

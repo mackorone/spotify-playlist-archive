@@ -3655,6 +3655,24 @@
     },
     {
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Quoi qu'il arrive \u00e7a va aller",
+      "url": "https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc"
+    },
+    {
+      "album": {
         "name": "Recommence-moi (Version hymne de la promo 2024)",
         "url": "https://open.spotify.com/album/35gjX59noxxDreblcjF2vG"
       },

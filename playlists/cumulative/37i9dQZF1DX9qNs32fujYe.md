@@ -2,7 +2,7 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Machine Head
+> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Arch Enemy
 
 1,057 songs - 3 day 5 hr 12 min
 

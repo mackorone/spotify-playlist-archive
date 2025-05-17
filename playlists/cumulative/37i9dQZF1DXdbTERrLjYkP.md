@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Audrey Hobert
+> Discover the next wave of talent writing their own songs\. Cover: Emma Foley
 
-858 songs - 1 day 21 hr 50 min
+861 songs - 1 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Charlie](https://open.spotify.com/track/0TiQIfhHfhePbPqftW2bOM) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Charlie](https://open.spotify.com/album/0J1HrqxfTWwk4LxLT5f1kc) | 3:51 | 2022-10-14 | 2022-11-12 |
 | [cheap therapy](https://open.spotify.com/track/6oYl91cnhWSumFg2aOfPbJ) | [sorrycarlee](https://open.spotify.com/artist/3cq3B0vdnvlYzMWFnGoSjv) | [cheap therapy](https://open.spotify.com/album/3uUZ1pDrwY84V12tWaoYaK) | 2:39 | 2024-10-25 | 2025-04-05 |
 | [cheater](https://open.spotify.com/track/6xpPSguO2bzapQNO2j23c3) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [cheater](https://open.spotify.com/album/4tTE6p1ed8F6OLGeRWRgMw) | 2:20 | 2023-08-04 | 2023-11-11 |
+| [Choke \(feat\. SleazyWorld Go\)](https://open.spotify.com/track/0khebDDIF7nC8mzV1MFpfo) | [Emma Foley](https://open.spotify.com/artist/2mT4dR2yqTdySXfsIkAp0x), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Choke](https://open.spotify.com/album/2FmnDEgozMUKVRZIH3JatP) | 3:46 | 2025-05-16 |  |
 | [Cigarette](https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:38 | 2024-01-26 | 2024-08-17 |
 | [Clean Cut](https://open.spotify.com/track/2M6MKfoKhOgIvkrg9NLbNT) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Clean Cut](https://open.spotify.com/album/0M2aQZBpqbnfi2M48AJpq1) | 3:11 | 2023-01-20 | 2023-02-25 |
 | [Cleveland](https://open.spotify.com/track/5JE0Fw3LPGOmZ1UCqhp9jw) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/3EOV98GZqdlAMYRCMSwMbG) | 3:10 | 2024-04-12 | 2024-06-09 |
@@ -355,7 +356,7 @@
 | [how to not love you](https://open.spotify.com/track/1S04uGKqIG10eTAnSXH9QG) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [how to not love you](https://open.spotify.com/album/5v8AwJwRZnwRZDsHwqP4Dz) | 3:08 | 2024-03-08 | 2024-08-17 |
 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 | 2023-10-06 | 2023-12-14 |
 | [Hurt Again](https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Hurt Again](https://open.spotify.com/album/5CAl06ROTsSgP4z0ysJOmQ) | 2:06 | 2022-01-14 | 2022-03-12 |
-| [Hurts Different](https://open.spotify.com/track/4JQAx07ymzsRegTgjlCNg6) | [Isabella Kearney](https://open.spotify.com/artist/3IiEUjaWFpelGMcTTRGBDL) | [Hurts Different](https://open.spotify.com/album/0tuEjKKxbF3gOLjN5wlRPc) | 2:21 | 2025-01-24 |  |
+| [Hurts Different](https://open.spotify.com/track/4JQAx07ymzsRegTgjlCNg6) | [Isabella Kearney](https://open.spotify.com/artist/3IiEUjaWFpelGMcTTRGBDL) | [Hurts Different](https://open.spotify.com/album/0tuEjKKxbF3gOLjN5wlRPc) | 2:21 | 2025-01-24 | 2025-05-17 |
 | [Hurts Like Hell](https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Hurts Like Hell](https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k) | 2:43 | 2023-07-28 | 2023-12-14 |
 | [Hypothetically](https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Hypothetically](https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO) | 2:41 | 2024-06-07 | 2024-12-07 |
 | [I am not a Human, I am just a Robot](https://open.spotify.com/track/4pQm7XFNN4vmRN0UHcJUst) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [I am not a Human, I am just a Robot](https://open.spotify.com/album/4IatioZIuD3MgZMwXXfwqp) | 2:30 | 2025-04-04 |  |
@@ -372,7 +373,7 @@
 | [I Don’t Know](https://open.spotify.com/track/4HyGTtgsNGCcHaqEWiu3lm) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 2](https://open.spotify.com/album/1709msvR4Y09McKNriJjfG) | 3:08 | 2023-11-10 | 2024-02-17 |
 | [I Don’t Need To](https://open.spotify.com/track/1C4nLRbgwtS1vUahjaldO0) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Situationships](https://open.spotify.com/album/7uBpnSHqqg4IEveWTBcbHL) | 3:04 | 2023-03-31 | 2023-08-19 |
 | [I Get What I Want](https://open.spotify.com/track/0pkmyS5YR3IkGwOCBfXsfi) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [I Get What I Want](https://open.spotify.com/album/6ykoHY56yECTvi6bxyzhdU) | 3:27 | 2023-02-24 | 2023-07-22 |
-| [I Grow Up All Over Again](https://open.spotify.com/track/5ZxrMAf7oAonFbiNwz9gu7) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [I Grow Up All Over Again](https://open.spotify.com/album/3l3AxQzDYrRoUXTAh9dqSJ) | 4:10 | 2025-01-03 |  |
+| [I Grow Up All Over Again](https://open.spotify.com/track/5ZxrMAf7oAonFbiNwz9gu7) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [I Grow Up All Over Again](https://open.spotify.com/album/3l3AxQzDYrRoUXTAh9dqSJ) | 4:10 | 2025-01-03 | 2025-05-17 |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-01-14 | 2022-09-10 |
 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-04 | 2022-07-23 |
 | [I Hate The Beatles](https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [I Hate The Beatles](https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ) | 3:05 | 2022-03-04 | 2022-03-12 |
@@ -406,7 +407,7 @@
 | [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-03-24 | 2023-08-12 |
 | [If It's Not You](https://open.spotify.com/track/45DsipA4OgPmKUvwz2ctEH) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [If It's Not You](https://open.spotify.com/album/5E8CU9zmc0U9Bw1QGm9oOk) | 3:11 | 2022-02-11 | 2022-04-29 |
 | [If Nobody Likes U](https://open.spotify.com/track/7aHpcQcGlehH1LNJaTHUkW) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [If Nobody Likes U](https://open.spotify.com/album/1BjzbpWTiPQQchpat72gCH) | 3:33 | 2022-10-28 | 2022-11-12 |
-| [if only i knew](https://open.spotify.com/track/08Kfu6wPy0HWceUM4XQL6G) | [Mark O'Donnell](https://open.spotify.com/artist/7ig6M7wpIZxUBQxEXmvkGn) | [if only i knew](https://open.spotify.com/album/0jbpjBdZOOtwic77ocqtui) | 3:20 | 2025-01-03 |  |
+| [if only i knew](https://open.spotify.com/track/08Kfu6wPy0HWceUM4XQL6G) | [Mark O'Donnell](https://open.spotify.com/artist/7ig6M7wpIZxUBQxEXmvkGn) | [if only i knew](https://open.spotify.com/album/0jbpjBdZOOtwic77ocqtui) | 3:20 | 2025-01-03 | 2025-05-17 |
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-10-28 | 2023-01-28 |
 | [if you hate me, say it](https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [if you hate me, say it](https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r) | 3:18 | 2022-01-14 | 2022-08-06 |
 | [if you still like me in the morning](https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f) | [Tessa Rae](https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k) | [if you still like me in the morning](https://open.spotify.com/album/7uEB2J1sLv4Wg48XXUH93l) | 3:48 | 2024-05-24 | 2024-12-07 |
@@ -487,6 +488,7 @@
 | [Loud](https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Loud](https://open.spotify.com/album/0LEW3Cj5UU2oC2bM6yAJhI) | 2:24 | 2022-09-16 | 2022-12-24 |
 | [LOVE](https://open.spotify.com/track/45smSZnjWu1Btd1VJTeWB6) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/0x93UKf60HK7bzVUlnTJP4) | 2:52 | 2022-11-04 | 2023-01-21 |
 | [LOVE](https://open.spotify.com/track/5bDO9izGDQj7bdaSgxEBGQ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/6JumRmPGOfqn16ilEmi9Ht) | 2:52 | 2022-11-25 | 2023-02-18 |
+| [Love A Good](https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Love A Good](https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip) | 3:34 | 2025-05-16 |  |
 | [Love Fools](https://open.spotify.com/track/7lDD5Ajj01UMmZ7ww8JGPT) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Love Fools](https://open.spotify.com/album/4G6BxhKzRTYG7ftX48BY9f) | 3:10 | 2023-02-24 | 2023-08-12 |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-08-05 | 2022-12-24 |
 | [Love Like That \(Words from Her\)](https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Love Like That \(Words from Her\)](https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy) | 2:54 | 2022-04-22 | 2022-10-29 |
@@ -836,6 +838,7 @@
 | [Why](https://open.spotify.com/track/6j2HmPazSCDegWfHiodg3a) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Why](https://open.spotify.com/album/4dwTJ4XFbs63wrqKBnoaJB) | 3:10 | 2024-04-12 | 2024-09-07 |
 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-04 | 2023-03-04 |
 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 | 2025-03-07 |  |
+| [Wicked Nature](https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [In My Bones \(Deluxe\)](https://open.spotify.com/album/3eRt3LACTqStCVgGaXWoBp) | 3:01 | 2025-05-16 |  |
 | [winter](https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [winter](https://open.spotify.com/album/2RWtkN2zZCPl9VuMVBye6x) | 2:06 | 2022-01-21 | 2022-02-19 |
 | [Wish I Was A Single Girl Again](https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y) | 2:33 | 2023-08-18 | 2023-11-11 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2022-01-14 | 2022-03-05 |

@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Battle Beast
 
-637 songs - 2 day 0 hr 42 min
+639 songs - 2 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Sidewinder](https://open.spotify.com/track/4Yvh6BVDGa48HbT0soGqmy) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Sidewinder](https://open.spotify.com/album/0oXXszGRrHIh2a86NNgMJ4) | 4:17 | 2021-05-21 | 2021-06-25 |
 | [Signals \- Instrumental](https://open.spotify.com/track/2DQeD4Y1LDOtKgE0jWqezB) | [Interlinked](https://open.spotify.com/artist/5dogEJKbOwyTKNa2WSc8j4) | [Signals \(Instrumental\)](https://open.spotify.com/album/4oKgbfG317J939zpkccwiS) | 3:52 | 2022-07-13 | 2022-07-17 |
 | [Silverseal](https://open.spotify.com/track/421kSDSrylQ3AtZAyLE9Of) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Silverseal](https://open.spotify.com/album/2byJce3B4vOCdlu6Nt88a6) | 3:39 | 2020-11-29\* | 2021-05-21 |
+| [Sing Like A Siren](https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Sing Like A Siren](https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD) | 3:12 | 2025-05-16 |  |
 | [Sinners of the Seven Seas](https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sinners of the Seven Seas](https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP) | 3:00 | 2024-06-24 |  |
 | [Skyline](https://open.spotify.com/track/2JoVvwjuUIMRI63FBrSWgI) | [Dawn Of Solace](https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7) | [Skyline](https://open.spotify.com/album/61QNkwuGbi3uvwfhLOjgPk) | 5:57 | 2021-09-25 | 2021-11-13 |
 | [Skylla \- Instrumental](https://open.spotify.com/track/2mKZ1F66nAC7KmzRbPGhO6) | [Confusing Paradise](https://open.spotify.com/artist/0oGmw2T01mqZSJbFQcigp0) | [Skylla \(Instrumental\)](https://open.spotify.com/album/5AmeP19x7uMWERjBjI4zWC) | 4:18 | 2022-07-13 | 2022-07-29 |
@@ -491,7 +492,7 @@
 | [Stardust \- I\. The Race](https://open.spotify.com/track/4Zidx33vRXbEpr7xJ3BmoU) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Under the Surface](https://open.spotify.com/album/5YvaSCyn3S5gSLqT1RI8WC) | 7:12 | 2021-07-04 | 2021-10-09 |
 | [Starlight](https://open.spotify.com/track/6vJjgVkfEvoH45vNVnJqNj) | [Imperia](https://open.spotify.com/artist/2xpyJhcZFhoo81Umj5NIzy) | [Starlight](https://open.spotify.com/album/3vKaXBrgdrQOwauhIMr5uy) | 5:26 | 2021-02-12 | 2022-01-22 |
 | [Starlight](https://open.spotify.com/track/3yhiVw0c508cIU7dcr58cs) | [Leverage](https://open.spotify.com/artist/2dq9tKlKAPKrdyGYW1ptO3) | [Starlight](https://open.spotify.com/album/3gJM0RarrJzMbwbVQH87WY) | 4:01 | 2021-09-17 | 2022-05-07 |
-| [Steel And Gold](https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Steel And Gold](https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv) | 4:07 | 2024-09-20 |  |
+| [Steel And Gold](https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Steel And Gold](https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv) | 4:07 | 2024-09-20 | 2025-05-17 |
 | [Stella](https://open.spotify.com/track/0DQGUWXp8KxxbONNsXPrHN) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Stella](https://open.spotify.com/album/6H7RPwA2D0XRSgQwjgK1Ai) | 5:27 | 2022-07-13 | 2022-07-29 |
 | [Stomp the Haunted Crown](https://open.spotify.com/track/4YUAcUPZzIZPO47NA3P5ZJ) | [Pomegranate Tiger](https://open.spotify.com/artist/30T39voTL4EiHKGNE0mQxO) | [Boundless](https://open.spotify.com/album/0PPEx5fIfCQesfyebojcvH) | 5:56 | 2022-07-13 | 2022-07-30 |
 | [Storm](https://open.spotify.com/track/7j5qDqtGGMZ8aFNsOX43A8) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Renaissance](https://open.spotify.com/album/1Ki56K82avE7nTkZEyVIE7) | 3:29 | 2022-07-13 | 2022-07-30 |
@@ -556,7 +557,7 @@
 | [The Skeleton Key \- Omega Alive](https://open.spotify.com/track/58TCqmFub3i48RrCqkjcKa) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Skeleton Key \- Omega Alive \-](https://open.spotify.com/album/7kCUk70yTH96LYWAwp0ahX) | 5:05 | 2021-10-09 | 2022-05-14 |
 | [The Stoic](https://open.spotify.com/track/1xl1IlOHK55PlGECBp1xPS) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [The Stoic](https://open.spotify.com/album/6WwFHndtjwONH2ZFCvwIRQ) | 4:04 | 2022-07-13 | 2022-07-26 |
 | [The Séance](https://open.spotify.com/track/49O37nbIIp7JsmI65OXDWD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Séance](https://open.spotify.com/album/5mSx3qsX7azaEwYaQ1RE5V) | 3:42 | 2021-02-19 | 2021-09-04 |
-| [The Unforgiven II](https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [The Unforgiven II](https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w) | 4:05 | 2024-04-15 |  |
+| [The Unforgiven II](https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [The Unforgiven II](https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w) | 4:05 | 2024-04-15 | 2025-05-17 |
 | [The Ungrounding](https://open.spotify.com/track/1jEZtz2b03ZxZcT1KBmI8Z) | [Earthside](https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg) | [A Dream in Static](https://open.spotify.com/album/6rTrPk4lcLGVvqUpLTSko0) | 5:34 | 2022-07-13 | 2022-07-26 |
 | [The Unkillable Soldier](https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Unkillable Soldier](https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte) | 4:11 | 2022-02-11 |  |
 | [The Void in Aimless Flight](https://open.spotify.com/track/3FwQ6Db9MTZjF0f6B2gWvW) | [Telepathy](https://open.spotify.com/artist/7tgHFZQScvUy74xbYvKp3q) | [The Void in Aimless Flight](https://open.spotify.com/album/1iRnt99Vhzq711xiW7ioSi) | 6:44 | 2022-07-13 | 2022-07-28 |
@@ -570,6 +571,7 @@
 | [To Hell and Back](https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:26 | 2022-08-19 | 2023-04-15 |
 | [To the Moon](https://open.spotify.com/track/4gmH73AYOhokTH7YmZAZvM) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [To the Moon](https://open.spotify.com/album/6GNLsuuFan7tHJxHPqW2V2) | 4:12 | 2022-07-13 | 2022-07-30 |
 | [Together We Rise](https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Together We Rise](https://open.spotify.com/album/2DAqWZXEeZkdWkfgOCek8V) | 5:02 | 2022-04-22 | 2022-06-24 |
+| [TOMB OF THE TORMENTOR](https://open.spotify.com/track/59PZ0aXCk6Chs3E3VSYtlL) | [Hate Within](https://open.spotify.com/artist/27sOHU1c3NaMHTtN5vEVMv) | [TOMB OF THE TORMENTOR](https://open.spotify.com/album/34APkPckxMDZnJOL5TO2Nx) | 3:34 | 2025-05-16 |  |
 | [Total T\-Rex Terror](https://open.spotify.com/track/0hwFRdWtN7clcasZmZeBfe) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Total T\-Rex Terror](https://open.spotify.com/album/5wTJVlHNImdqwfi4HhzDJG) | 4:42 | 2024-04-15 | 2025-05-15 |
 | [Touch and Go](https://open.spotify.com/track/3nDOvQvA8iPamdULGubIQE) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Way Forward](https://open.spotify.com/album/731aQEGKlJ8RveY3ncSekU) | 4:21 | 2022-07-13 | 2022-07-30 |
 | [Towards the Sun](https://open.spotify.com/track/6cwPmZYLQKQOmrZaU9D3Hq) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Towards the Sun](https://open.spotify.com/album/4iGe95FLBg0OatMZWJzsrE) | 5:39 | 2021-04-10 | 2021-12-17 |

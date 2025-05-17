@@ -2,9 +2,9 @@
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> Experience the lastest and the greatest Worship music right here, right now\. Cover:  SEU Worship
+> Experience the lastest and the greatest Worship music right here, right now\. Cover:  Sons Of Sunday
 
-800 songs - 3 day 3 hr 28 min
+802 songs - 3 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Awestruck](https://open.spotify.com/track/4LN9bGelrxuvmAkEegYq9P) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Awestruck](https://open.spotify.com/album/2ErJp07SbdzPYxZHxGnXAc) | 4:52 | 2022-05-27 | 2022-06-11 |
 | [Back to Jesus](https://open.spotify.com/track/4ZEkwE8wfIHg8r0GzmJP0c) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU), [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh), [Alisha Eich](https://open.spotify.com/artist/1JPHdpv6nDDHx9yq4ZWOz1) | [Back to Jesus](https://open.spotify.com/album/3sHoBUZYTjKy3cG9wFFHVR) | 5:36 | 2024-05-03 | 2024-10-26 |
 | [Back To Life \- Studio Version](https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Back To Life \(Studio Version\)](https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD) | 4:13 | 2023-06-23 | 2023-08-19 |
+| [Be Glad \- Live](https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Be Glad \(Live\)](https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy) | 8:53 | 2025-05-16 |  |
 | [Be Still, Be Still, My Soul \(Psalm 46\) \- Live](https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2 \(Live\)](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 3:57 | 2022-07-22 | 2023-04-01 |
 | [Beautiful \(Hidden Worlds\) \- Live](https://open.spotify.com/track/3bnvYVdaSgf2NBVPz1aqUE) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [ALL AGES ADMITTED](https://open.spotify.com/album/2MLykMg4A3Xurzk8kwjyNs) | 6:20 | 2022-10-21 | 2024-01-13 |
 | [Beautiful Scandalous Night](https://open.spotify.com/track/4xq48EowmMmN5QNJZBJM0d) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Beautiful Scandalous Night](https://open.spotify.com/album/6PUBCDO50871bMiebc5s6e) | 4:11 | 2024-02-23 | 2024-09-21 |
@@ -271,6 +272,7 @@
 | [Here I Am \(feat\. Ashley Hess\)](https://open.spotify.com/track/3fXb7uR4CDGALrfKMkdIy3) | [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N) | [Here I Am](https://open.spotify.com/album/0NclZ5R0omscBYFXn5QoyW) | 5:39 | 2024-09-06 |  |
 | [Here I Am To Worship \- Live](https://open.spotify.com/track/6SdVwKFpXreK1gfBvIoheg) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [Here I Am To Worship \(Live\)](https://open.spotify.com/album/7qCZMe5IJGHyxGqr1HVW2M) | 5:49 | 2024-11-08 |  |
 | [Here In Your Presence \- Reimagined](https://open.spotify.com/track/55kdVwHvienF5al8VOPaq9) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [Your Name \(Reimagined, Vol.2\)](https://open.spotify.com/album/4HPfO77LpWRjGMs2RsrGxf) | 4:55 | 2022-02-25 | 2022-04-09 |
+| [Higher Than I](https://open.spotify.com/track/5aFJW3p1SvYfvVRT7HBKp8) | [Sons Of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [Sons Of Sunday](https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w) | 4:18 | 2025-05-16 |  |
 | [Highest One \- Live](https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Highest One](https://open.spotify.com/album/5GayCFNegvwSjU3piW8MdV) | 7:21 | 2024-05-31 |  |
 | [Highest Praise](https://open.spotify.com/track/07KfkF3DR65fiZ8LJp38Cy) | [Celebration Music](https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp), [Lauren Tyler](https://open.spotify.com/artist/6ZjRHo4yTEMkH4xHer95CF) | [Highest Praise](https://open.spotify.com/album/0J2GvzeCLLt5awJGl7vnu4) | 5:50 | 2024-11-01 |  |
 | [His Glory and My Good \(Acoustic\) \- Live](https://open.spotify.com/track/3aLgQMVeLIUjl1O5YEbsZh) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [His Glory and My Good \(Acoustic\) \[Live\]](https://open.spotify.com/album/14Ole7fkfb4f6bJtBoT41C) | 5:12 | 2024-08-02 | 2024-09-14 |

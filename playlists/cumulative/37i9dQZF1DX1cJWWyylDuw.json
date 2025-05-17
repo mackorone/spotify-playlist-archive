@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of the best modern Deathcore tracks. Cover: Slaughter to Prevail",
+  "description": "A mix of the best modern Deathcore tracks. Cover: Shadow of Intent",
   "name": "Deathcore",
   "tracks": [
     {
@@ -3032,7 +3032,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 194656,
       "name": "Demigod",
       "url": "https://open.spotify.com/track/1YuFLFos4LMkns1xJFaeow"
@@ -4478,7 +4478,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 238222,
       "name": "Forest of Lust",
       "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
@@ -4572,7 +4572,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 288000,
       "name": "Forsaken Soul",
       "url": "https://open.spotify.com/track/3CukSTqDXEbkf6TNpyvPkO"
@@ -5654,6 +5654,24 @@
     {
       "album": {
         "name": "Hymns in Dissonance",
+        "url": "https://open.spotify.com/album/7lnkxd7w0YcE18CZ6COEJj"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312466,
+      "name": "Hymns in Dissonance",
+      "url": "https://open.spotify.com/track/4CuCHhr5zHzEwcflWD2jUT"
+    },
+    {
+      "album": {
+        "name": "Hymns in Dissonance",
         "url": "https://open.spotify.com/album/4vrdVbbpdzmw9WMzdr0lra"
       },
       "artists": [
@@ -5664,7 +5682,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 312466,
       "name": "Hymns in Dissonance",
       "url": "https://open.spotify.com/track/6KukQLPGIVCyPYHSG9aiIU"
@@ -6000,6 +6018,24 @@
       "duration_ms": 238053,
       "name": "Infested",
       "url": "https://open.spotify.com/track/1cEnkOGW4qXk7QIm2bAq8W"
+    },
+    {
+      "album": {
+        "name": "Infinity Of Horrors",
+        "url": "https://open.spotify.com/album/1EDNRl5Rzrs0W5telXtzQB"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254446,
+      "name": "Infinity Of Horrors",
+      "url": "https://open.spotify.com/track/51WGnSCqnjqsG6zJPdo3Hv"
     },
     {
       "album": {
@@ -6943,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "Malicious Needs",
+        "url": "https://open.spotify.com/album/20bGDowkvLLlZesQgxKm9K"
+      },
+      "artists": [
+        {
+          "name": "Cryptopsy",
+          "url": "https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351560,
+      "name": "Malicious Needs",
+      "url": "https://open.spotify.com/track/6rGBsIp0la7itaQ8bEbycy"
+    },
+    {
+      "album": {
         "name": "Mana God",
         "url": "https://open.spotify.com/album/1nNequaT9lAbQgiVFYgRRU"
       },
@@ -7728,6 +7782,24 @@
       "duration_ms": 239500,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3p8F6Pmomawi6PV0QrQsCn"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499874,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg"
     },
     {
       "album": {
@@ -10158,7 +10230,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 340373,
       "name": "The Anguished Throne",
       "url": "https://open.spotify.com/track/2pQmZWhfn6aeHzE8OaJCJl"
@@ -12114,6 +12186,24 @@
       "duration_ms": 217625,
       "name": "You Can't Kill Us",
       "url": "https://open.spotify.com/track/1GIorOlAwn81ZF5gRpThU1"
+    },
+    {
+      "album": {
+        "name": "YOU LIE",
+        "url": "https://open.spotify.com/album/5NhYVf3UFIXc0YQxIo5xG3"
+      },
+      "artists": [
+        {
+          "name": "GAI \u8344",
+          "url": "https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113040,
+      "name": "YOU LIE",
+      "url": "https://open.spotify.com/track/1uilIRPZmJakhcauDdH3XW"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Biquini Cavadão
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Mukeka di Rato
 
-534 songs - 1 day 5 hr 44 min
+536 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Eu Gosto de Rock And Roll](https://open.spotify.com/track/6oqWo4Ee1SjF1vxGhZfzMd) | [Violúdico](https://open.spotify.com/artist/5ma4JYFEJuYk7jp1XwJIF7) | [Eu Gosto de Rock And Roll](https://open.spotify.com/album/4Q0S08HoIFK30C3pGCB0jr) | 3:40 | 2022-04-15 | 2022-04-29 |
 | [Eu Nunca Fui Embora](https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora](https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h) | 3:05 | 2023-11-24 | 2025-03-25 |
 | [Eu Não Matei Joana D’Arc](https://open.spotify.com/track/3dmf5saG9vX9CnB9Ldbq9d) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N), [Os Eremitas da Montanha](https://open.spotify.com/artist/1CboKfy0paRZ5qnGHBS58u) | [Antologia Politicamente Incorreta dos Anos 80 pelo Rock](https://open.spotify.com/album/4wZppJaGUTOErkatEfLKYT) | 3:59 | 2022-05-13 | 2022-05-20 |
-| [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-16 |  |
+| [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-16 | 2025-05-17 |
 | [EU NÃO TÔ LEGAL](https://open.spotify.com/track/27iTXxl8tuMNdK7zolwemN) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [SUCESSO A QUALQUER CUSTO](https://open.spotify.com/album/6iVwmn3dr07JEPqNXtVwPr) | 2:27 | 2023-08-18 | 2024-01-27 |
 | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/track/6W0lFjQTyYyHkszNlUWtrd) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/album/3gIYxv8J959nvOH0MtCQeM) | 2:50 | 2023-11-03 | 2024-02-03 |
 | [Eu te amo você \- Live Sala de Estar](https://open.spotify.com/track/4fCuJF71M3gcecekJPODWO) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/album/6hrkcSV4mybnW4dbJd04hd) | 2:50 | 2023-09-15 | 2023-11-04 |
@@ -207,6 +207,7 @@
 | [Gangorra](https://open.spotify.com/track/2Ww0mvlmvWjSz3vhpBoQNw) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [Gangorra](https://open.spotify.com/album/71xr0LGACAo2Xsm3DihPaT) | 3:19 | 2023-04-28 | 2025-03-15 |
 | [Gari](https://open.spotify.com/track/4FlFD7EK0tBMEp5Ac1w9ZX) | [Diogo Defante](https://open.spotify.com/artist/7bvcRZF7XTQzPi0T8jMAyg) | [Gari](https://open.spotify.com/album/62xPwKWp3s1BFkSN8LP9RR) | 4:07 | 2024-06-28 | 2024-10-05 |
 | [Garotas Ambiciosas](https://open.spotify.com/track/336yuYWWCzS6x4xSzynNCx) | [Kelly Clube](https://open.spotify.com/artist/3jw11GBeoNQCmpD4rr831J), [Mister Lawa](https://open.spotify.com/artist/4Zdg9COu8Fori3B3DPIcCh), [Clube Dezenove](https://open.spotify.com/artist/719qMl6Gpbyr3h56RZ7RQT), [Jai Rec.](https://open.spotify.com/artist/3hUS1AFJKY1l95TtY4na1N) | [Garotas Ambiciosas](https://open.spotify.com/album/2iEt9aI4g0l1wUFaudsBV2) | 3:12 | 2024-01-12 | 2024-04-27 |
+| [Generais De Fralda](https://open.spotify.com/track/1Zyl4XBTV72Ip1d9Xocrk4) | [Mukeka di Rato](https://open.spotify.com/artist/2WEABapGGzYET6Dq5tmIDi) | [Generais de Fralda](https://open.spotify.com/album/7qykDoupr9TCpy0Yx46679) | 1:14 | 2025-05-16 |  |
 | [Gentrificação](https://open.spotify.com/track/3EJj7xV5GiO8O0ZXoxxttG) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [Gentrificação](https://open.spotify.com/album/6S6dBEwv7ovsCUBBCxbxUw) | 3:24 | 2023-07-07 | 2023-08-12 |
 | [Gigante](https://open.spotify.com/track/41T7H4623zni8AgZ37dIif) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/5lngOd9ckmPOL4xwcbkotM) | 3:57 | 2023-08-25 | 2024-04-19 |
 | [Gigante](https://open.spotify.com/track/50RIHpnMyCjRLrFXoVbvsM) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/6JiDLzuNVsMHO7qoePgoRZ) | 3:57 | 2023-07-21 |  |
@@ -247,7 +248,7 @@
 | [Livre \- Ao Vivo](https://open.spotify.com/track/572YfgMpcF2gIvMVswqZlB) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Livre \(Ao Vivo\)](https://open.spotify.com/album/6Gfl3q8I2HZcwn2fHFsRPC) | 3:12 | 2025-02-28 | 2025-05-10 |
 | [Loko Loko](https://open.spotify.com/track/0RfgvHqnKmK24eGTc94pWy) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Loko Loko](https://open.spotify.com/album/6EspF4BzCcTvYeSJvgJFjY) | 2:55 | 2022-01-14 | 2023-01-28 |
 | [Lokomotiva](https://open.spotify.com/track/05DhuwsPHee1zlLGW503px) | [Guardiano](https://open.spotify.com/artist/6WSMjme2NEP1NtPiq1Vbrq) | [Lokomotiva](https://open.spotify.com/album/6HGbCFNeH3fcX7Vrse9vXG) | 3:27 | 2022-01-14 | 2022-09-24 |
-| [Longe Daqui](https://open.spotify.com/track/6ORUiT6jhNRVPH3jUCGZnL) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Longe Daqui](https://open.spotify.com/album/5tBucvS2pdQTKKGEQikSkK) | 2:30 | 2024-08-30 |  |
+| [Longe Daqui](https://open.spotify.com/track/6ORUiT6jhNRVPH3jUCGZnL) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Longe Daqui](https://open.spotify.com/album/5tBucvS2pdQTKKGEQikSkK) | 2:30 | 2024-08-30 | 2025-05-17 |
 | [Loop Desenfreado](https://open.spotify.com/track/2grJWrsh54IvdPYGqWx2dR) | [wander wildner](https://open.spotify.com/artist/3kkd2ywd7eR5uPocPzTwFE) | [Coração Selvagem](https://open.spotify.com/album/5vCpfmm5KIBS88YaFDBYig) | 3:50 | 2022-01-14 | 2022-04-23 |
 | [Loser](https://open.spotify.com/track/4ummgQbLMei458Pqv3d3H2) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Loser](https://open.spotify.com/album/1jMipAeLotyZINktvtkvWq) | 2:39 | 2022-06-03 | 2022-08-06 |
 | [Loucomotiva](https://open.spotify.com/track/0yTGD2iMd3KUUmqg5QjUAo) | [Carranca](https://open.spotify.com/artist/5Bcf6iX36RZxTbud6uAY8Y), [Gerson King Combo](https://open.spotify.com/artist/3CSl34BLWfN5YQrmjtfQ9j) | [Sonho Escaldante de Magia Azul](https://open.spotify.com/album/1Wrxh1nyH4GXVQQvoITL8d) | 5:08 | 2022-01-14 | 2022-11-12 |
@@ -341,6 +342,7 @@
 | [O Amor e Seus Desvios](https://open.spotify.com/track/4fWTQvYX7P8BMzxSzoeflt) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Leoni](https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL) | [O Amor e Seus Desvios](https://open.spotify.com/album/5BOZQ5yA2m68q17URVlI65) | 3:54 | 2024-10-11 |  |
 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 | 2022-01-14 | 2023-04-01 |
 | [O Ano da Volta](https://open.spotify.com/track/4UsusnNmpxB6ZIkH41bx0L) | [Sound Bullet](https://open.spotify.com/artist/1kuKxQ9KYJkBXeA5uMxjiz) | [O Ano da Volta](https://open.spotify.com/album/1EtII3g0la4SW2fxXlC9De) | 4:43 | 2022-11-25 | 2023-02-04 |
+| [O Astronauta de Mármore \(Starman\)](https://open.spotify.com/track/6eGwHjELblDTAZYBjQYwKq) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Rock Nacional \(15+\)](https://open.spotify.com/album/4yxzJj8cZrcsEEFgKeF2sj) | 4:54 | 2025-05-16 |  |
 | [O Deserto](https://open.spotify.com/track/0jY5AGKcDDZrxMM0Qhc5Y9) | [Tom Stracke](https://open.spotify.com/artist/01amAKKi7P0TRAf0tC0Ert) | [O Deserto](https://open.spotify.com/album/6M6p08pN0zbXQO03GrIEXh) | 4:24 | 2022-01-14 | 2022-05-14 |
 | [O Dia](https://open.spotify.com/track/7dOshwpifuDUfbHDSFVKld) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [O Dia](https://open.spotify.com/album/3FNVfaYAcIaxYlcbrbzCxL) | 6:08 | 2023-09-29 | 2024-01-27 |
 | [O Faraó](https://open.spotify.com/track/7Avx0HsCnKCq2LTNaPiyQE) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [O Faraó](https://open.spotify.com/album/6w2b8VUmqYjWhxow4rKoYD) | 2:30 | 2022-02-18 | 2022-03-12 |

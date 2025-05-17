@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Maiyarap, DIAMOND MQT",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YOUNGOHM",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -20,6 +20,36 @@
       "duration_ms": 280825,
       "name": "02100",
       "url": "https://open.spotify.com/track/1EXw7rqJcFIvMtj4Q8fhKw"
+    },
+    {
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3AU3MWnXAVqB6rvTaVOGQT"
+      },
+      "artists": [
+        {
+          "name": "1st",
+          "url": "https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "The BESTS",
+          "url": "https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164071,
+      "name": "1 in my Heart",
+      "url": "https://open.spotify.com/track/5JIaheSSdr9cmIHJqdgceR"
     },
     {
       "album": {
@@ -1732,7 +1762,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 154761,
       "name": "Fresh Out",
       "url": "https://open.spotify.com/track/0PzrNMaz8t1zFfrPBjA1XI"
@@ -4764,7 +4794,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 179076,
       "name": "Rubber Bands",
       "url": "https://open.spotify.com/track/58xwqfrV2Dv15GKIH5xph7"
@@ -7067,6 +7097,32 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e19\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e07",
+        "url": "https://open.spotify.com/album/1G0Hq5bkOCgYcEekLHhrWQ"
+      },
+      "artists": [
+        {
+          "name": "TRIPLE P",
+          "url": "https://open.spotify.com/artist/1tohEMlQs52jo2vv2lOpqd"
+        },
+        {
+          "name": "SICKWARP",
+          "url": "https://open.spotify.com/artist/2Sur9QUwbSUpPyFrhlXra5"
+        },
+        {
+          "name": "LIL X",
+          "url": "https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279201,
+      "name": "\u0e04\u0e19\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e07",
+      "url": "https://open.spotify.com/track/1B8SFaWvTDI1RPyuG0a5fT"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e23\u0e31\u0e1a\u0e1e\u0e35\u0e48",
         "url": "https://open.spotify.com/album/7fZWZAT4TbQ79E9tEmZhAi"
       },
@@ -7086,6 +7142,24 @@
       "duration_ms": 165031,
       "name": "\u0e04\u0e23\u0e31\u0e1a\u0e1e\u0e35\u0e48",
       "url": "https://open.spotify.com/track/7eGjEuouVhaYMGflcYDgkN"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e04\u0e23\u0e32\u0e27 (Badman)",
+        "url": "https://open.spotify.com/album/1zpAYxBMtknMZC9EHcgPzd"
+      },
+      "artists": [
+        {
+          "name": "FIZZIE",
+          "url": "https://open.spotify.com/artist/207rz7Iu3TRyRRXjMC5kSp"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e04\u0e23\u0e32\u0e27 - Badman",
+      "url": "https://open.spotify.com/track/0ELVdeRK2UGYRQ5i6pgohl"
     },
     {
       "album": {
@@ -8438,7 +8512,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 148800,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e41\u0e04\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/4qFUF6g6Vbb3XREpJ3PxiP"
@@ -11357,6 +11431,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e08\u0e34\u0e14\u0e08\u0e23\u0e31\u0e2a",
+        "url": "https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261948,
+      "name": "\u0e40\u0e08\u0e34\u0e14\u0e08\u0e23\u0e31\u0e2a",
+      "url": "https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e08\u0e47\u0e1a\u0e1b\u0e27\u0e14\u0e17\u0e32\u0e07\u0e43\u0e08 (Psychogenic Pain)",
         "url": "https://open.spotify.com/album/2erqM4gw1K6ChWqlnczEhb"
       },
@@ -12588,7 +12680,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 152429,
       "name": "\u0e41\u0e17\u0e48\u0e14",
       "url": "https://open.spotify.com/track/4hhUWFgerCnDfuIQTgo8wC"
@@ -12742,7 +12834,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 208875,
       "name": "\u0e42\u0e04\u0e21\u0e44\u0e1f\u0e23\u0e30\u0e22\u0e49\u0e32",
       "url": "https://open.spotify.com/track/1wIHZS46ZS4Ibaj3Pu3tT5"
@@ -13566,6 +13658,36 @@
       "duration_ms": 163255,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e04\u0e34\u0e14 (Rizz)",
       "url": "https://open.spotify.com/track/3PsfQ7ev3x2cIdrkqRAhhr"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e04\u0e34\u0e14\u0e2d\u0e30\u0e44\u0e23",
+        "url": "https://open.spotify.com/album/2HX84Bk4A3tlL6enM2QfMJ"
+      },
+      "artists": [
+        {
+          "name": "Rifle",
+          "url": "https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252203,
+      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e04\u0e34\u0e14\u0e2d\u0e30\u0e44\u0e23",
+      "url": "https://open.spotify.com/track/67YYhuygzPcB54NFKji5lg"
     },
     {
       "album": {

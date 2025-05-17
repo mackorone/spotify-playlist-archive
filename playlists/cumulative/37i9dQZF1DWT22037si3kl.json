@@ -5995,6 +5995,32 @@
     },
     {
       "album": {
+        "name": "Mate Ou Morra",
+        "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "otrashy",
+          "url": "https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137823,
+      "name": "Mate Ou Morra",
+      "url": "https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy"
+    },
+    {
+      "album": {
         "name": "Maturidade",
         "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
       },
@@ -7874,7 +7900,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 306316,
       "name": "PARIS FASHION WEEK",
       "url": "https://open.spotify.com/track/2UvUig2X7KLsBNSgmWcpPH"
@@ -9117,6 +9143,24 @@
     },
     {
       "album": {
+        "name": "Ruas Frias",
+        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Ruas Frias",
+      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
+    },
+    {
+      "album": {
         "name": "Santa F\u00e9",
         "url": "https://open.spotify.com/album/2Jzpbx6aNhCZc7eFy6CmRa"
       },
@@ -10178,7 +10222,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-05-17",
       "duration_ms": 110600,
       "name": "T\u00e1 Duro Dorme",
       "url": "https://open.spotify.com/track/2Qdz8pH1pq3pwlzDKS4JNc"

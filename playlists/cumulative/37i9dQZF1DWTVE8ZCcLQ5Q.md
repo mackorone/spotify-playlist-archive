@@ -4,7 +4,7 @@
 
 > Mago de Tarso e novos talentos do Brasil\. Dê play no futuro.
 
-412 songs - 20 hr 23 min
+413 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Amores de Mentira \- Ao Vivo](https://open.spotify.com/track/2v5Lw1xbVaeMEJiVbhGEbs) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Amores de Mentira \(Ao Vivo\)](https://open.spotify.com/album/21WLpIUai74WwW4L3f25Ij) | 2:53 | 2021-11-19 | 2022-05-27 |
 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 | 2022-02-14 | 2023-04-25 |
 | [Anota Placa](https://open.spotify.com/track/3QUriWUE8WnWLpWxHA52k4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [DJ PurpleRain.REC](https://open.spotify.com/artist/2Do8w43Dk5YRoTcgStCltQ) | [Anota Placa](https://open.spotify.com/album/6gULuwQi7WcmsvWTgspz17) | 3:55 | 2021-11-19 | 2022-02-02 |
+| [Antene\-se](https://open.spotify.com/track/7o7j9NRn2m3qBIuLkQ8vDz) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Replay](https://open.spotify.com/artist/2sU3iCEcMHp4l2vR02pUqI) | [Antene\-se](https://open.spotify.com/album/36oE9kWZIpvleT2B9Q22Mv) | 3:37 | 2025-05-16 |  |
 | [Apaga A Luz](https://open.spotify.com/track/2YQk4aOEOd0ewVevHb3KhX) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [Pablo Martins](https://open.spotify.com/artist/1yDAF4rsplzWHhq3yFGZjM) | [Meu Mundo](https://open.spotify.com/album/0Ugzm5827jE2wxuolDuDoq) | 3:17 | 2021-11-19 | 2022-02-14 |
 | [Apaixonei De Vez](https://open.spotify.com/track/0PZ4wwTCsQB3E7U92zKSDh) | [Guga Nandes](https://open.spotify.com/artist/3vqgT6FvYBxEFbipoT9nYH) | [Apaixonei De Vez](https://open.spotify.com/album/35eOKW0m7WSOeNkbDY15GN) | 2:54 | 2021-11-19 | 2022-02-15 |
 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 | 2022-05-01 | 2024-05-03 |
@@ -346,7 +347,7 @@
 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 | 2022-06-15 | 2024-05-03 |
 | [Se Liga](https://open.spotify.com/track/5ETcXyXWTr9HlRIqpxKdxq) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Lágrimas do Tubarão "Contos e Fatos"](https://open.spotify.com/album/4s1ThdjkZTWKLX38Q41D5Z) | 5:10 | 2021-11-19 | 2022-02-15 |
 | [Sem Drama](https://open.spotify.com/track/7K18CcXhquMBcm125Gfl5z) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [Sem Drama](https://open.spotify.com/album/7u7PfUGWTzDdG8FuPj2BtI) | 3:12 | 2024-05-02 | 2025-04-16 |
-| [Sem Entender Porque Eu Ainda Faço Rap](https://open.spotify.com/track/5oQSMmFOBLgqhVJ4V7jiF1) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [Padrin](https://open.spotify.com/artist/7q7xHPTmoJoUDHSfyUQmHx) | [Sem Entender Porque Eu Ainda Faço Rap](https://open.spotify.com/album/4YaxYccp3totOjp2eNa1E5) | 2:26 | 2025-04-15 |  |
+| [Sem Entender Porque Eu Ainda Faço Rap](https://open.spotify.com/track/5oQSMmFOBLgqhVJ4V7jiF1) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [Padrin](https://open.spotify.com/artist/7q7xHPTmoJoUDHSfyUQmHx) | [Sem Entender Porque Eu Ainda Faço Rap](https://open.spotify.com/album/4YaxYccp3totOjp2eNa1E5) | 2:26 | 2025-04-15 | 2025-05-17 |
 | [SEM MÉNAGE](https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 2:29 | 2022-06-15 | 2024-05-03 |
 | [Sem Tempo](https://open.spotify.com/track/4OjU6vAV8f9pSCUScsgYek) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Sem Tempo](https://open.spotify.com/album/3YbO6IwKj63ABxzrqApH3g) | 2:30 | 2021-11-19 | 2022-08-22 |
 | [Serena](https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [Serena](https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1) | 2:45 | 2024-05-02 | 2025-04-16 |

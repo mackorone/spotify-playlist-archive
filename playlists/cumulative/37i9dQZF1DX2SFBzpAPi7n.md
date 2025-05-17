@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: JEONG SEWOON\(정세운\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-951 songs - 2 day 10 hr 4 min
+952 songs - 2 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [All Those Realistic Lies](https://open.spotify.com/track/78bZTk487tOffKKz09E60g) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [B\-SIDE PART\. 2](https://open.spotify.com/album/0P5NUrjduYP8PqkLfrBc49) | 4:15 | 2022-04-12 | 2022-04-21 |
 | [AMNESIA](https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [AMNESIA](https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs) | 3:19 | 2024-01-08 | 2025-04-12 |
 | [An Ordinary Day](https://open.spotify.com/track/7lTo6C0sGaPdQvS4qAvVzp) | [Weather Boat](https://open.spotify.com/artist/0c5kjsZX8dPw8M1Oepgv4d) | [An Ordinary Day](https://open.spotify.com/album/3T4GnTXcyIHB3syGdr5JIS) | 4:06 | 2022-07-04 | 2022-07-28 |
-| [An Ordinary Day \(haru\)](https://open.spotify.com/track/1SWOMV36fMbpect803gbWV) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower6.jpg](https://open.spotify.com/album/3gG1cvpghDYMbAClqFM6WU) | 3:10 | 2025-05-15 |  |
+| [An Ordinary Day \(haru\)](https://open.spotify.com/track/1SWOMV36fMbpect803gbWV) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower6.jpg](https://open.spotify.com/album/3gG1cvpghDYMbAClqFM6WU) | 3:10 | 2025-05-15 | 2025-05-17 |
 | [Analogue](https://open.spotify.com/track/0HtmQKd6mUKlUsUgSpM1RJ) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [The Lost Time](https://open.spotify.com/album/12nDUGuOGoo86f1OrBUMtM) | 3:34 | 2022-04-12 | 2022-07-16 |
 | [Another Day](https://open.spotify.com/track/6dKQ8gHWUIHOkKPhPYyEk1) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB), [노바소닉](https://open.spotify.com/artist/2zIq92ejtjxbwJ01a6VKkE) | [Another Day](https://open.spotify.com/album/1OGcVFDHhXEKwktaBaHofl) | 4:11 | 2022-04-22 | 2022-07-29 |
 | [Ant, Go Run](https://open.spotify.com/track/3tbzKxaika0fcyA61YOgH0) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Stock Struck \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/4ZhtmPkIeJdCFMYa6Kd8IU) | 3:00 | 2022-09-05 | 2022-10-01 |
@@ -532,7 +532,7 @@
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-08-01 | 2022-08-13 |
 | [New World](https://open.spotify.com/track/04fxCWCGiHuz4qgABacWlI) | [Cho seong min](https://open.spotify.com/artist/2IdF9YcOnVdN9pMxaIvyM6), [Kim bada](https://open.spotify.com/artist/3yWAjA0zH4BXTK3v0TjBWH) | [Friends Vol.9](https://open.spotify.com/album/4ZB72JIjAXgnYuld5CdZPn) | 3:16 | 2022-05-11 | 2022-05-25 |
 | [Next episode \(with Choi Jung Hoon of JANNABI\)](https://open.spotify.com/track/4h4Ibc1LSJmpLpVm0PBaPV) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:12 | 2022-05-03 | 2022-07-24 |
-| [Night at Noon](https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Le Alien Petit Prince : WE ARE THE NIGHT](https://open.spotify.com/album/1wbFdHCvkYjyVT5Z6Zyj3F) | 3:29 | 2025-04-28 |  |
+| [Night at Noon](https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Le Alien Petit Prince : WE ARE THE NIGHT](https://open.spotify.com/album/1wbFdHCvkYjyVT5Z6Zyj3F) | 3:29 | 2025-04-28 | 2025-05-17 |
 | [Night before the end](https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:25 | 2024-10-16 | 2024-12-14 |
 | [Night overtime](https://open.spotify.com/track/7qjcLLTsztqrHnArCqJeO1) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Night overtime](https://open.spotify.com/album/4RPdJpWelwy3Cup5IUZVCW) | 3:44 | 2023-06-13 | 2023-06-20 |
 | [Night Sea](https://open.spotify.com/track/4IlUi3tPj2iKYpHv9QD1G2) | [zemean](https://open.spotify.com/artist/56tvGLd03FEkw6tPiWM8ql) | [In Summer](https://open.spotify.com/album/3YPZ2UqculUNYPl07DZYh9) | 4:38 | 2022-06-09 | 2022-06-16 |
@@ -727,6 +727,7 @@
 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-21 | 2025-04-12 |
 | [SOBER](https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:57 | 2024-06-05 | 2024-11-07 |
 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 | 2024-05-09 | 2024-11-07 |
+| [Someday It′s Time to Shine](https://open.spotify.com/track/5HFrbl4QXzy8lgNj60YZqR) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [Resident Playbook, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/5iuDI9yIR5v8ayzQ4poPCu) | 4:48 | 2025-05-16 |  |
 | [sorry](https://open.spotify.com/track/54SuHqxVjZVNDyIUVpSgpJ) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/0HIDsIWC43WiecL3qO7IUP) | 3:35 | 2022-04-12 | 2022-07-22 |
 | [sorry](https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) | 3:35 | 2023-01-06 | 2024-10-18 |
 | [Sorry](https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn) | 3:35 | 2025-04-11 |  |
@@ -872,7 +873,7 @@
 | [What's Up](https://open.spotify.com/track/1IEpD04PV3DYiVzR84Qdr4) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:24 | 2024-07-15 | 2024-07-24 |
 | [When seasons go by](https://open.spotify.com/track/529TocrwavR2122OfhPdHL) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [Where the heart belongs](https://open.spotify.com/album/628HWRPTZj5R9lOWdJtYi1) | 4:16 | 2024-12-13 | 2025-02-11 |
 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 | 2022-05-11 | 2022-05-23 |
-| [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 | 2025-03-17 | 2025-04-12 |
+| [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 | 2025-03-17 |  |
 | [When you alone](https://open.spotify.com/track/3p6aAa50gOAzb6QAOuYNb2) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [When You Alone](https://open.spotify.com/album/5a5j76wF3KPnRnhcazQSfG) | 3:00 | 2024-04-09 | 2024-05-10 |
 | [When You Appeared](https://open.spotify.com/track/01TrFgDQ1YzBSS4LWrBar9) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [When the Stars Gossip OST Part.7](https://open.spotify.com/album/3BKpeluHXvRuVbSfM3Kyzt) | 3:53 | 2025-02-18 | 2025-04-01 |
 | [WHERE AM I](https://open.spotify.com/track/0Kwlndk1WSXrHQrI7J1DJ5) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 3:37 | 2024-06-05 | 2024-11-07 |
