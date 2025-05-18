@@ -1,4 +1,4 @@
-## Playlists \(7\)
+## Playlists \(8\)
 
 - [CBC mornings](/playlists/pretty/2uQP4oDQPGKMxoC6jxzpFf.md)
 - [Classical](/playlists/pretty/5v2TvKCgsOTfBoWP4SEa3U.md)
@@ -7,3 +7,4 @@
 - [dAnCe 🕺](/playlists/pretty/3K9Kpz7u5Pa3XEr9FNc8q1.md)
 - [import of College Radio Collage \(posted\)](/playlists/pretty/5UxXdIqu2mZa5HOPe3RJcO.md)
 - [import of My forgotten tracks](/playlists/pretty/4E2JIttVpFRWV0riyir9Dq.md)
+- [listentothis weekly list](/playlists/pretty/4TNdaavewbREGsOVlI6WNj.md)

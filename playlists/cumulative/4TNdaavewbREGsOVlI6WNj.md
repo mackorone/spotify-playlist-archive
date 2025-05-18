@@ -1,0 +1,41 @@
+[pretty](/playlists/pretty/4TNdaavewbREGsOVlI6WNj.md) - cumulative - [plain](/playlists/plain/4TNdaavewbREGsOVlI6WNj) - [githistory](https://github.githistory.xyz/laminthurein1411/spotify-playlist-archive/blob/main/playlists/plain/4TNdaavewbREGsOVlI6WNj)
+
+### [listentothis weekly list](https://open.spotify.com/playlist/4TNdaavewbREGsOVlI6WNj)
+
+> from reddit sub
+
+29 songs - 2 hr 2 min
+
+| Title | Artist(s) | Album | Length | Added | Removed |
+|---|---|---|---|---|---|
+| [Algema](https://open.spotify.com/track/6eSnJSoL3NAGy2rFgK7zpc) | [Allamedah](https://open.spotify.com/artist/4K15Vhzy5pthLIP1wH3T1l), [Valéria Carvalho](https://open.spotify.com/artist/0tVsng0nN26A9QUMMnqJUm), [João Luzio](https://open.spotify.com/artist/4d1xpTRXNS3olcasVQYEUI) | [Algema](https://open.spotify.com/album/59HMtkg2a4j4u5UVKNPE0C) | 5:32 | 2025-05-16 |  |
+| [As The Deer \- Instrumental](https://open.spotify.com/track/4GGCJAW9CvbXNB1qQuRPuB) | [Maranatha! Instrumental](https://open.spotify.com/artist/0bygw4YfrraeRWR6j9HydK) | [I Love You Lord/Classical Guitar Praise](https://open.spotify.com/album/3bJVcc87IrM0OxyfQxgiDa) | 2:58 | 2025-05-16 |  |
+| [Bssh](https://open.spotify.com/track/39QsqrZeb5wEOdOliqvteC) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [Lethe](https://open.spotify.com/album/4OWA8N2X63MUXuxFuY3aWx) | 3:38 | 2025-05-16 |  |
+| [Closer](https://open.spotify.com/track/7gxggGz6P9d5Ivw5jpDvo5) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Closer](https://open.spotify.com/album/3j2hxdlNIBKkRBfYEH73ls) | 3:20 | 2025-05-16 |  |
+| [Daydreamer](https://open.spotify.com/track/2xCqWw3wVxS9eOOs5Dx19E) | [LOOK MUM NO COMPUTER](https://open.spotify.com/artist/24KLOfQv2HrpsCerfN6bef) | [Daydreamer](https://open.spotify.com/album/16GjYTIiPu1mQeUfkbEp9j) | 3:49 | 2025-05-16 |  |
+| [Deleter](https://open.spotify.com/track/4qEsthFZrmYjC9cmtlEk1A) | [Death Cult Electric](https://open.spotify.com/artist/2anBpKU3WxpNoobcplpIG5) | [Deleter](https://open.spotify.com/album/4wv8ytjBCkRrCelEpKzoG5) | 3:22 | 2025-05-16 |  |
+| [Don't Wanna Be Your Lover](https://open.spotify.com/track/7r5BQgLkbfNVNQN2dZxwJg) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Don't Wanna Be Your Lover](https://open.spotify.com/album/259SPfjmdOFtGyUweyxw3n) | 3:41 | 2025-05-16 |  |
+| [Hadlock Padlock](https://open.spotify.com/track/6iTG4Fk4fsVjhnCfm1L30R) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [My Cute Fiend Sweet Princess](https://open.spotify.com/album/1I9BSJQJevSd54rIhL1JD5) | 4:17 | 2025-05-16 |  |
+| [Healing Song of the Eagle Spirit](https://open.spotify.com/track/2ooNRd21QkpwHnmNFDK8RA) | [Mrs\. Washington](https://open.spotify.com/artist/4p6bhZpKFHoiJJlsKBM3h8) | [Healing Songs of the American Indians](https://open.spotify.com/album/1XEJcB1bQ1PEVtnSxqKrul) | 1:52 | 2025-05-16 |  |
+| [Honey](https://open.spotify.com/track/6rXINXJfT77LmyICq4PYXw) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Almost Naked](https://open.spotify.com/album/2zRwEX2gZwbRTUPoYelGpY) | 4:11 | 2025-05-16 |  |
+| [Igbehin Lalayo Nta](https://open.spotify.com/track/6YI3Ji2RhOJCe0XGbgzTU4) | [Dynamic Africana](https://open.spotify.com/artist/1r8W4U4Vu3oUdUDqeqhiA5) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 6:49 | 2025-05-16 |  |
+| [Long Beach](https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp), [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [EVERYTHING](https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ) | 4:12 | 2025-05-16 |  |
+| [love me better](https://open.spotify.com/track/5S0RI8XFno5mzizwzVXmYu) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [love me better](https://open.spotify.com/album/4nmk73JIPP6um2TOV8xbi9) | 3:03 | 2025-05-16 |  |
+| [LSFeet](https://open.spotify.com/track/5CNWxFMRjrD7EeRlP4JJK7) | [Water Trash](https://open.spotify.com/artist/3sYrST8qkAIlGQQAIY8xaX) | [Jazz Feet](https://open.spotify.com/album/6AfpZFICr711Z7tXcwhimp) | 6:28 | 2025-05-16 |  |
+| [Murder Hornets](https://open.spotify.com/track/2w9zStP6J7HrI7Peo9RM7k) | [Seizure Machine](https://open.spotify.com/artist/1kcbzFaiOtpP7b6pxbMc6F) | [Murder Hornets](https://open.spotify.com/album/7zKyJUu14zxK8ek6EzLrvN) | 1:54 | 2025-05-16 |  |
+| [No Front](https://open.spotify.com/track/0krldpsW4c5ZHyvPmXAbyK) | [SWVN](https://open.spotify.com/artist/4uN4ORzI9nTFaQOSxz68IW), [Lude](https://open.spotify.com/artist/0vXB2qnjUgOsusrp8dloaq) | [Kiss The Sky](https://open.spotify.com/album/5ry2Qoa0RFOY2mPw3L0S53) | 5:04 | 2025-05-16 |  |
+| [Ride Your Horse 騎你的馬](https://open.spotify.com/track/7BSMFepuJfTIQmZVzuexHl) | [Gong Gong Gong 工工工](https://open.spotify.com/artist/0amkRUGmrpprSUUMlSuISB) | [Phantom Rhythm 幽靈節奏](https://open.spotify.com/album/3IXvDsU4rgwO2WV19NcRLQ) | 3:41 | 2025-05-16 |  |
+| [Run the Night](https://open.spotify.com/track/6nljZjYvwTbAZTx8FcCKyQ) | [Wicked Lady](https://open.spotify.com/artist/2zZvtsFxtWfTUhTnCC9X2H) | [The Axeman Cometh](https://open.spotify.com/album/4IuvFHlZQM7urIcMuGwJxF) | 5:13 | 2025-05-16 |  |
+| [SICKY/STICKY](https://open.spotify.com/track/73V1Yd9h0DkZcPIc3M3hBw) | [Janos](https://open.spotify.com/artist/4MkAdE0XKMEwSrAnmge5Dm) | [SICKY/STICKY](https://open.spotify.com/album/774oWKbACAeq0k7YHqnpyB) | 4:07 | 2025-05-16 |  |
+| [Sideways / Pinned](https://open.spotify.com/track/4jquixaoQnU7SHXynVQ6iE) | [Shiner](https://open.spotify.com/artist/07oHSnqyeLR2Upt5JDJjfy) | [Lula Divinia \(2016 Remaster\)](https://open.spotify.com/album/39A59Yx6CtG8yf68UC1qHw) | 7:25 | 2025-05-16 |  |
+| [Sisters! Brothers! Small Boats Of Fire Are Falling From The Sky!](https://open.spotify.com/track/6xGuZjSNlBFr5CFxMbCWhk) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [Born Into Trouble As The Sparks Fly Upward](https://open.spotify.com/album/0b3ao3h2gLC3oKjhirBBtJ) | 9:07 | 2025-05-16 |  |
+| [So Sorry](https://open.spotify.com/track/4L12i4yd8XgB1XhsqidXfh) | [Clarke and the Himselfs](https://open.spotify.com/artist/0VVN0XltYrAheKdZi7Kq7j) | [Video Record](https://open.spotify.com/album/3gKQXQ9gcH5vHwX2pvCzao) | 4:14 | 2025-05-16 |  |
+| [The Great Escape](https://open.spotify.com/track/5eea4rxrbKTgnUZwJKuhBk) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [The Lathums](https://open.spotify.com/album/0aPTOHQ2WVDD5NZrqBnBXV) | 3:52 | 2025-05-16 |  |
+| [This One's Ours](https://open.spotify.com/track/2GEEvfPCTFPm3MY29cJh07) | [Playdead](https://open.spotify.com/artist/4HMYP63OoGb8yk13jJhDW1) | [Black Light](https://open.spotify.com/album/76FBSusMXS5xY6UcbzRtEO) | 3:35 | 2025-05-16 |  |
+| [Time Flies](https://open.spotify.com/track/0sk1BDWIKzH9617kbSdJWd) | [Champagne Lane](https://open.spotify.com/artist/5Rr0FDXqkvTq11sjYaDlBM) | [Time Flies](https://open.spotify.com/album/4W54ByBeBMMgPYcvZp0UIv) | 4:59 | 2025-05-16 |  |
+| [Two Left Feet, Alright](https://open.spotify.com/track/3Og9LioI5ClkCXMx43AgqZ) | [Maybel](https://open.spotify.com/artist/4vyc9XRUivKWefuHRepSQh) | [Gathering](https://open.spotify.com/album/6GwSwCyfavfapVa7aYZPyi) | 2:30 | 2025-05-16 |  |
+| [Untitled](https://open.spotify.com/track/5Km8jWgLQA721CQtmvUQo4) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC), [Steve Shelley](https://open.spotify.com/artist/2iLhvdFgu082eth68Rwdq2) | [Dear Sir](https://open.spotify.com/album/1ZzviUcCxxTTH66SPcoFUm) | 1:03 | 2025-05-16 |  |
+| [Voice of Chunk](https://open.spotify.com/track/5VkHTogGhpdkLv0bOtlVjt) | [The Lounge Lizards](https://open.spotify.com/artist/4q1q53aTfhk0k63Ob9zdhH) | [Voice Of Chunk](https://open.spotify.com/album/6NjOkiaNpDXEjXvBoN4JOj) | 5:25 | 2025-05-16 |  |
+| [Zoom](https://open.spotify.com/track/4LPnAvWtWi0HFUNFtDEfPK) | [Dolo Tonight](https://open.spotify.com/artist/3ED1AG2E67Epo3MBFVOFj9) | [Zoom](https://open.spotify.com/album/5yjUFo8KkX1w92wWWQGy6h) | 2:56 | 2025-05-16 |  |
+
+\*This playlist was first scraped on 2025-05-18. Prior content cannot be recovered.
