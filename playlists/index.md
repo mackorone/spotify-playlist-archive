@@ -1,6 +1,7 @@
-## Playlists \(13\)
+## Playlists \(14\)
 
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
+- [Add The Shift](/playlists/pretty/12I7xAJ32oRm728QR5ENCy.md)
 - [CBC mornings](/playlists/pretty/2uQP4oDQPGKMxoC6jxzpFf.md)
 - [Choral and Chant](/playlists/pretty/7lApzmrxdI6q4lNbhvCFnI.md)
 - [Classical](/playlists/pretty/5v2TvKCgsOTfBoWP4SEa3U.md)
