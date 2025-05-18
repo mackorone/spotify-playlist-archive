@@ -1,4 +1,4 @@
-## Playlists \(15\)
+## Playlists \(16\)
 
 - [1Live weekly 100](/playlists/pretty/7cOzl5xYKSWH0kL5xleb8o.md)
 - [Add The Shift](/playlists/pretty/12I7xAJ32oRm728QR5ENCy.md)
@@ -10,6 +10,7 @@
 - [Japanese Songs](/playlists/pretty/3CsSi2LenkqZY1q0XuKeBL.md)
 - [KEXP New this week](/playlists/pretty/5svSQImgxM89zxWpYLZoI9.md)
 - [Sad Hours](/playlists/pretty/1bXE7Pyusw2lDjPiTdqwk2.md)
+- [Top ten metal moments in classical music](/playlists/pretty/2X6i2ckpFnXksw8E1OySwF.md)
 - [Western Songs](/playlists/pretty/3Tc3UlmKYcDbyewaWm7pFu.md)
 - [dAnCe 🕺](/playlists/pretty/3K9Kpz7u5Pa3XEr9FNc8q1.md)
 - [import of College Radio Collage \(posted\)](/playlists/pretty/5UxXdIqu2mZa5HOPe3RJcO.md)
